@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-16T19:07:12.094Z",
+  "lastUpdated": "2026-09-16T19:37:26.392Z",
   "finanza": {
     "italia": [
+      {
+        "title": "La Fed rialza i tassi di 25 punti base, Warsh 'scontenta' Trump",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/la-fed-rialza-i-tassi-di-25-punti-base-prima-volta-in-3-anni_244008fb-ab04-473d-ae63-e7dac0b32701.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 21:29:20 +0200",
+        "excerpt": "Al 3,75%-4%, altro intervento entro fine anno. 'Inflazione alta da troppo tempo'"
+      },
       {
         "title": "Altavilla, per Byd Italia piano B per il secondo stabilimento in Europa",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/altavilla-per-byd-italia-piano-b-per-il-secondo-stabilimento-in-europa_4c0d79ff-365b-4de6-96b3-ee5717fc3128.html",
@@ -15,13 +22,6 @@
         "source": "ANSA Economia",
         "pubDate": "Wed, 16 Sep 2026 20:43:28 +0200",
         "excerpt": "La scheda"
-      },
-      {
-        "title": "La Fed rialza i tassi di 25 punti base, prima volta in 3 anni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/la-fed-rialza-i-tassi-di-25-punti-base-prima-volta-in-3-anni_244008fb-ab04-473d-ae63-e7dac0b32701.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 20:14:46 +0200",
-        "excerpt": "Salgono nel terzo Fomc presieduto da Kevin Warsh dal 3,50%-3,75% al 3,75%-4%"
       },
       {
         "title": "Fed, Warsh resiste a Trump e alza i tassi di 25 punti. Primo aumento da tre anni",
@@ -173,11 +173,11 @@
     ],
     "europa": [
       {
-        "title": "La Fed alza i tassi di 25 punti base al 3,75%-4%, primo rialzo dal luglio 2023",
+        "title": "La Fed di Warsh sfida Trump: rialza i tassi e promette di farlo ancora",
         "link": "https://www.ilsole24ore.com/art/fed-alza-tassi-25-punti-base-375percento-4percento-primo-rialzo-luglio-2023-AJFaAJFB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 16 Sep 2026 18:01:00 GMT",
-        "excerpt": "Un rialzo dei tassi subito. Uno quasi annunciato entro la fine dell’anno. La riunione della Federal Reserve ha portato il range dei Fed Fund al 3,75%-4%, dal precedente 3,50%-3,75% con..."
+        "excerpt": "Un rialzo dei tassi subito. Un altro di fatto annunciato entro la fine dell’anno. La riunione di settembre della Federal Reserve ha portato il range dei Fed Fund al 3,75%-4%,..."
       },
       {
         "title": "Ibm: accordo da 1 miliardo $ con governo Usa su quantum computing",
@@ -231,6 +231,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Sheinbaum celebra l'Indipendenza del Messico, 'mai più colonia né protettorato'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/sheinbaum-celebra-lindipendenza-del-messico-mai-piu-colonia-ne-protettorato_f77d88b4-0446-4d21-b380-1bd9f185aba6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 21:19:21 +0200",
+        "excerpt": "La presidente rivendica la resistenza dei popoli indigeni e ricorda i 'fratelli migranti'"
+      },
       {
         "title": "La chiamata alle urne di Putin: “Votate per la Duma e vinceremo”",
         "link": "https://www.repubblica.it/esteri/2026/09/16/news/putin_discorso_russia_elezioni_parlamentari_partiti-425589459/?rss",
@@ -302,13 +309,6 @@
         "excerpt": "'Il Canto del Cigno - Diana, mia sorella' sarà pubblicato entro fine mese"
       },
       {
-        "title": "Al via campagna Ice nei Paesi Bassi per promuovere l'agroalimentare italiano",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/al-via-campagna-ice-nei-paesi-bassi-per-promuovere-lagroalimentare-italiano_bd5b5152-c131-4598-ae43-c02c76f3b3d0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 17:47:43 +0200",
-        "excerpt": "Obiettivo avvicinare consumatori olandesi alle eccellenze made in Italy"
-      },
-      {
         "title": "Thaci condannato a 25 anni per crimini di guerra. A Pristina lanci di pietre contro sede Ue",
         "link": "https://www.repubblica.it/esteri/2026/09/16/news/guerre_balcani_tensione_sentenza_ex_leader_dell_uck_thaci-425587897/?rss",
         "source": "Repubblica Esteri",
@@ -347,18 +347,25 @@
   },
   "attualita": [
     {
-      "title": "Europa League: Milan Benfica 0-0 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-benfica-0-0-diretta-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
+      "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
+      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 21:04:21 +0200",
+      "pubDate": "Wed, 16 Sep 2026 21:27:41 +0200",
+      "excerpt": "La premier: 'Tassa tra le più odiate'. Il costo di 2,3 miliardi coperto dai risparmi sul Pnrr"
+    },
+    {
+      "title": "Europa League: Milan Benfica 0-1 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-benfica-0-1-diretta-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 21:19:52 +0200",
       "excerpt": "A San Siro l'esordio dei rossoneri nella fase a girone unico della competizione"
     },
     {
-      "title": "La mossa di Meloni, addio al bollo per le auto piccole e medie",
-      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/la-mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 21:03:21 +0200",
-      "excerpt": "La premier: 'Tassa tra le più odiate'. Il costo di 2,3 miliardi coperto dai risparmi sul Pnrr"
+      "title": "La chiamata alle urne di Putin: “Votate per la Duma e vinceremo”",
+      "link": "https://www.repubblica.it/esteri/2026/09/16/news/putin_discorso_russia_elezioni_parlamentari_partiti-425589459/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 18:59:52 +0000",
+      "excerpt": "Al via le parlamentari, le prime dall’invasione dell’Ucraina: seggi anche nelle terre annesse. Il presidente: “Nessuno potrà dividerci, dimostrate che sosteniamo i nostri soldati al fronte”"
     },
     {
       "title": "Prati, si costituisce l’uomo che ha sparato a due donne in via della Giuliana",
@@ -366,6 +373,13 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 18:53:30 +0000",
       "excerpt": "I carabinieri stanno ascoltando il presunto colpevole: aveva acquistato una carabina ad aria compressa in un’armeria di zona"
+    },
+    {
+      "title": "Il dossier Fbi: “Killer al soldo dei servizi russi attivi in Europa e Usa”",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/dossier_fbi_killer_servizi_russi_attivi_europa_usa-425589346/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 18:50:00 +0000",
+      "excerpt": "Il documento depositato in tribunale cita tentati omicidi e pedinamenti di dissidenti in Repubblica Ceca, Lituania e America"
     },
     {
       "title": "Fed, Warsh resiste a Trump e alza i tassi di 25 punti. Primo aumento da tre anni",
@@ -445,20 +459,6 @@
       "excerpt": "Inviata una lettera Q da 100 pixel. Il successo avvicina l'internet quantistica"
     },
     {
-      "title": "Il governo abolisce il bollo 2027 per le auto piccole e medie. Stop anche per i motocicli",
-      "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 14:11:58 +0000",
-      "excerpt": "Meloni: “Sparisce una delle tasse più odiate dagli italiani. Sarà strutturale con Legge di Bilancio”. Giorgetti: “Scelta sofferta”"
-    },
-    {
-      "title": "Oscar, Moretti, Muccino, Milani e gli altri: 21 film si candidano a rappresentare l’Italia",
-      "link": "https://www.repubblica.it/spettacoli/cinema/2026/09/16/news/oscar_2027_moretti_muccino_21_film_si_candidano_rappresentare_italia-425588873/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 14:07:01 +0000",
-      "excerpt": "Pubblicata oggi la lista: il 23 settembre la scelta della commissione"
-    },
-    {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
       "link": "https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml",
       "source": "Corriere della Sera",
@@ -517,18 +517,25 @@
   ],
   "sport": [
     {
-      "title": "Europa League: Milan Benfica 0-0 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-benfica-0-0-diretta-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
+      "title": "Europa League: Milan Benfica 0-1 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-benfica-0-1-diretta-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
       "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 21:04:21 +0200",
+      "pubDate": "Wed, 16 Sep 2026 21:19:52 +0200",
       "excerpt": "A San Siro l'esordio dei rossoneri nella fase a girone unico della competizione"
     },
     {
-      "title": "Europa League: la Juventus sfida il Nec. Spalletti: 'Accettiamo le pressioni'",
+      "title": "Europa League: la Juventus sfida il NEC. Spalletti: 'Accettiamo le pressioni'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-la-juventus-sfida-il-nec.-spalletti-accettiamo-le-pressioni_3d7966bd-51b4-4adc-9d33-3a84ef4a9c90.html",
       "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 21:02:42 +0200",
+      "pubDate": "Wed, 16 Sep 2026 21:15:35 +0200",
       "excerpt": "Il tecnico bianconero: 'Gioca McKennie, non do altre indicazioni'"
+    },
+    {
+      "title": "Fiorentina: Gnonto 'se gioco in Italia lo devo a Mancini'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/fiorentina-gnonto-se-gioco-in-italia-lo-devo-a-mancini_0772ee81-cd36-4316-891c-a1a83d039069.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 21:12:14 +0200",
+      "excerpt": "Primo gol in viola, convocato dal ct azzurro nel 2022 senza alcuna presenza in Serie A"
     },
     {
       "title": "Tennis: Alcaraz ottiene il pass per le Finals Atp",
@@ -543,13 +550,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 20:06:20 +0200",
       "excerpt": "Tante novità di formazione per Amorim contro il Benfica"
-    },
-    {
-      "title": "Fiorentina: Gnonto 'se gioco in Italia lo devo a Mancini'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/fiorentina-gnonto-se-gioco-in-italia-lo-devo-a-mancini_0772ee81-cd36-4316-891c-a1a83d039069.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 19:51:47 +0200",
-      "excerpt": "Primo gol in viola, convocato dal ct azzurro nel 2022 senza alcuna presenza in Serie A"
     },
     {
       "title": "Roma-Inter: contusione alla caviglia per Hermoso, Gasperini pensa a Balerdi",
