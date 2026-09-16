@@ -1,0 +1,15 @@
+{
+  "name": "infoapp",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "fetch-cinema": "node scripts/fetch-cinema.mjs",
+    "update-all": "npm run fetch-news && npm run fetch-cinema"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "node-fetch": "^3.3.2",
+    "cheerio": "^1.0.0"
+  }
+}
