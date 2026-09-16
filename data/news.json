@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-16T17:07:29.116Z",
+  "lastUpdated": "2026-09-16T17:38:13.412Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Malori a catena dopo convegno nel barese: in corso gli accertamenti dell’Asl",
+        "link": "https://www.ilsole24ore.com/art/malori-catena-convegno-barese-corso-accertamenti-dell-asl-AJYBQHFB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 17:23:51 GMT",
+        "excerpt": "I congressisti erano oltre trecento, riuniti lo scorso 11 settembre in una struttura ricettiva di Turi per un evento organizzato da una multinazionale del settore energetico. I lavori sono andati..."
+      },
+      {
+        "title": "Bollo auto e moto: dalla Pandina alla Polo, tutte le macchine esenti",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_esenzione_pandina_polo_avenger_yaris-425589105/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 19:20:40 +0200",
+        "excerpt": "Il beneficio riguarda soprattutto citycar e utilitarie, non sono esclusi piccoli Suv come la Jeep Avenger nella versione con motore termico. Fuori i suv di media e alta gamma"
+      },
       {
         "title": "Il governo abolisce il bollo per le auto piccole e medie. Stop anche per i motocicli",
         "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/?rss",
@@ -43,13 +57,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Wed, 16 Sep 2026 18:08:05 +0200",
         "excerpt": "La semestrale del gruppo tv guidato da Pier Silvio Berlusconi: confermate le stime per il 2026"
-      },
-      {
-        "title": "Bollo auto e moto: dalla Pandina alla Polo, tutte le macchine esenti",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_esenzione_pandina_polo_avenger_yaris-425589105/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 18:00:03 +0200",
-        "excerpt": "Il beneficio riguarda soprattutto citycar e utilitarie, non sono esclusi piccoli Suv come la Jeep Avenger nella versione con motore termico. Fuori i suv di media e alta gamma"
       },
       {
         "title": "Borsa: Europa positiva in chiusura, Parigi +0,62%, Londra +0,28%",
@@ -112,7 +119,7 @@
         "link": "https://www.ilsole24ore.com/art/fonti-chigi-oggi-via-bollo-auto-piccole-e-medie-e-motocicli-AJZBH4EB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 14:13:00 GMT",
-        "excerpt": "Il conto della misura, che vale per il solo 2027, si potrà fare solo con i dettagli alla mano: ma l’ordine di grandezza è intorno ai 2,5 miliardi, che dovranno essere compensati alle Regioni, destinatarie del gettito"
+        "excerpt": "Il conto della misura si potrà fare solo con i dettagli alla mano: ma l’ordine di grandezza è intorno ai 2,5 miliardi, che dovranno essere compensati alle Regioni, destinatarie del gettito"
       },
       {
         "title": "Ex Ilva, la Cassazione anticipa l’udienza sul ricorso. Sospesi i licenziamenti. Salta il decreto",
@@ -162,13 +169,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 09:45:00 GMT",
         "excerpt": "Tre provvedimenti approvati alla Camera in un colpo solo. Dall’assemblea di Montecitorio è arrivato il via libera al testo che accorpa il decreto legge di fine luglio e i due..."
-      },
-      {
-        "title": "Lombardia, Guidesi lancia l’allarme sui costi dell’energia",
-        "link": "https://www.ilsole24ore.com/art/lombardia-guidesi-lancia-l-allarme-costi-dell-energia-AJeiFoEB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 09:35:00 GMT",
-        "excerpt": "«Con questi costi la Lombardia si ferma», ha detto l’assessore allo sviluppo economico"
       }
     ],
     "europa": [
@@ -232,6 +232,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Svezia al 99% dello scrutinio, risultato elettorale ancora incerto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/svezia-al-99-dello-scrutinio-risultato-elettorale-ancora-incerto_cd7ab793-5128-4f16-9ede-6b63db832e59.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 19:16:39 +0200",
+        "excerpt": "Le due coalizioni a pochissimi seggi di differenza"
+      },
+      {
+        "title": "Sale a 21 morti, fra cui 12 bambini, il bilancio dell'edificio crollato a Gaza",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/16/sale-a-21-morti-fra-cui-12-bambini-il-bilancio-delledificio-crollato-a-gaza_c3cf3dcd-0e49-41fc-9f2a-1d8ed4cbb173.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 19:12:20 +0200",
+        "excerpt": "I dati aggiornati dalla protezione civile locale"
+      },
+      {
         "title": "L'Argentina ricorda 'la notte delle matite' a 50 anni dal sequestro degli studenti",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/largentina-ricorda-la-notte-delle-matite-a-50-anni-dal-sequestro-degli-studenti_3ceebc77-424b-473a-9d36-879f3174c815.html",
         "source": "ANSA Mondo",
@@ -267,13 +281,6 @@
         "excerpt": "Obiettivo avvicinare consumatori olandesi alle eccellenze made in Italy"
       },
       {
-        "title": "Archiviate accuse contro capo della polizia del Sudafrica, in sospensione cautelare",
-        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/16/archiviate-accuse-contro-capo-della-polizia-del-sudafrica-in-sospensione-cautelare_68babb07-58a3-47b2-ae78-c6ae1a420a39.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 17:41:13 +0200",
-        "excerpt": "Sospeso dal presidente ad aprile, era stato incriminato in un'inchiesta di appalto"
-      },
-      {
         "title": "Ospedale Bambino Gesù e Iila rinnovano accordo di cooperazione sanitaria su America Latina",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/ospedale-bambino-gesu-e-iila-rinnovano-accordo-di-cooperazione-sanitaria-su-america-latina_4569a866-1263-4594-9982-6254d7d3ccea.html",
         "source": "ANSA Mondo",
@@ -286,13 +293,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Wed, 16 Sep 2026 17:38:20 +0200",
         "excerpt": "L’ex presidente e leader dell’Uck è stato riconosciuto colpevole dall’Aia insieme a tre suoi comandanti. Il rischio è che si alzi la tensione nell’intera regione"
-      },
-      {
-        "title": "Putin chiama i russi alle urne, 'nessuno riuscirà a dividerci'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/putin-chiama-i-russi-alle-urne-nessuno-riuscira-a-dividerci_2a2b1c89-5234-4b15-bc2a-60a3fa389aa0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 17:23:32 +0200",
-        "excerpt": "Le elezioni per la Duma si svolgeranno da venerdì a domenica"
       },
       {
         "title": "Gli Stati Uniti si preparano alle “Guerre stellari”: armi già nello spazio contro azioni ostili",
@@ -347,18 +347,25 @@
   },
   "attualita": [
     {
+      "title": "Hacker rivendicano la violazione di Revolut: 'Abbiamo dati della polizia italiana'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/hacker-rivendicano-la-violazione-di-revolut-abbiamo-dati-della-polizia-italiana_843a8437-4be5-4388-b303-702947fc3d53.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 19:30:25 +0200",
+      "excerpt": "Il Financial Times li ha contattati su Telegram, 'per mesi si sono finti agenti'"
+    },
+    {
+      "title": "Quando Berlusconi nel 2008 propose di abolire il bollo auto",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/16/quando-berlusconi-nel-2008-propose-di-abolire-il-bollo-auto_44bdbd86-8856-4cc0-9dab-d8838a4cde3f.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 19:25:53 +0200",
+      "excerpt": "La proposta rilanciata nel 2017. Un anno prima anche Renzi non lo aveva escluso"
+    },
+    {
       "title": "Il Cdm approva il decreto, via il bollo sulle auto piccole e medie e sui motocicli e taglio delle accise fino al 5 ottobre",
       "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/il-cdm-approva-il-decreto-via-il-bollo-sulle-auto-piccole-e-medie-e-sui_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 18:40:34 +0200",
+      "pubDate": "Wed, 16 Sep 2026 19:19:46 +0200",
       "excerpt": "La proroga dello sconto sul carburante con un meccanismo di decalage. Meloni: 'Cancelliamo una delle tasse più odiate dagli italiani'"
-    },
-    {
-      "title": "Rinvio sull'ex Ilva, aggiornato il tavolo con i sindacati",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/16/rinvio-sullex-ilva-aggiornato-il-tavolo-con-i-sindacati_38ad21a4-7a0c-4aba-8529-c7025078aecf.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 18:40:32 +0200",
-      "excerpt": "Udienza sul ricorso il 20 ottobre e licenziamenti sospesi. Slitta il decreto"
     },
     {
       "title": "Scamarcio: \"I figli della scimmia è un film pieno di amore\"",
@@ -403,13 +410,6 @@
       "excerpt": "Il gruppo hacker che ha colpito Revolut dichiara di avere compromesso, per sei mesi, i sistemi delle forze dell’ordine italiane e di possedere 147 GB di dati provenienti da diversi servizi di polizia italiani, tra cui ma"
     },
     {
-      "title": "Von der Leyen: 'Vogliono frantumare l'Ue, lottiamo per la nostra Europa'",
-      "link": "https://www.ansa.it/europa/notizie/rubriche/voceeurodeputati/2026/09/16/von-der-leyen-vogliono-frantumare-lue-lottiamo-per-la-nostra-europa_5ec22d77-a814-4987-ba62-4a7d31b30201.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 16:41:07 +0200",
-      "excerpt": "'Che si tratti di ultranazionalisti o euroscettici, loro obiettivo è lo stesso, vogliono frantumare la nostra unità'"
-    },
-    {
       "title": "Primo teletrasporto quantistico di un'immagine, su 100 canali simultaneamente",
       "link": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/09/16/primo-teletrasporto-quantistico-di-unimmagine-_b60f2f56-3e75-4c04-a15e-0b177c6c2690.html",
       "source": "ANSA",
@@ -431,6 +431,13 @@
       "excerpt": "Pubblicata oggi la lista: il 23 settembre la scelta della commissione"
     },
     {
+      "title": "Vitale direttore creativo di Emporio Armani e accessori, primo fuori da famiglia",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/16/vitale-direttore-creativo-di-emporio-armani-e-accessori-primo-fuori-da-famiglia_6c7f695d-4c40-4f94-9ab7-ba2e686b1081.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 15:55:30 +0200",
+      "excerpt": "'Nuovo capitolo nel rispetto della visione che contraddistingue il nome Giorgio Armani'"
+    },
+    {
       "title": "La Lega vuole Sardone candidata sindaco a Milano, l’annuncio a Pontida",
       "link": "https://www.repubblica.it/politica/2026/09/16/news/sardone_candidata_sindaco_milano_lega_annuncio_pontida-425588845/",
       "source": "Repubblica",
@@ -450,13 +457,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 12:45:27 +0000",
       "excerpt": "L’annuncio del presidente del Senato durante la conferenza dei capigruppo: “Scaduti i termini”. La minoranza: “Sbloccate il Freedom Act”"
-    },
-    {
-      "title": "Nasce il design olfattivo degli ambienti",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/design_giardino/2026/09/15/nasce-il-design-olfattivo-degli-ambienti_23cd14f6-058e-40f7-90e1-13e4467a0923.html",
-      "source": "ANSA",
-      "pubDate": "Tue, 15 Sep 2026 19:31:30 +0200",
-      "excerpt": "Catalogate centinaia di essenze per la progettazione di spazi migliori in cui vivere"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -517,10 +517,17 @@
   ],
   "sport": [
     {
+      "title": "Milan Benfica DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/milan-benfica-diretta-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 19:19:11 +0200",
+      "excerpt": "A San Siro l'esordio dei rossoneri nella fase a girone unico della competizione"
+    },
+    {
       "title": "Roma-Inter: contusione alla caviglia per Hermoso, Gasperini pensa a Balerdi",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/roma-inter-contusione-alla-caviglia-per-hermoso-gasperini-pensa-a-balerdi_19b33a6e-adf2-4886-a377-654d6ce72042.html",
       "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 17:56:13 +0200",
+      "pubDate": "Wed, 16 Sep 2026 19:09:13 +0200",
       "excerpt": "In attacco la solita coppia gol composta da Dybala e Malen"
     },
     {
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 14:27:04 +0200",
       "excerpt": "I riconoscimenti dedicati al marketing sportivo"
-    },
-    {
-      "title": "A Roma la 'Festa dello Sport' con Csi, per contrastare l'abbandono giovanile",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/16/a-roma-la-festa-dello-sport-con-csi-per-contrastare-labbandono-giovanile_5f3af3c7-3b39-41ae-8c80-09d57417c233.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 14:02:30 +0200",
-      "excerpt": "Nove tappe gratuite in Municipi della Capitale dal 19 settembre al 18 ottobre"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
