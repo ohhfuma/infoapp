@@ -45,11 +45,7 @@ function switchTab(tab) {
   document.querySelector(`[data-tab="${tab}"]`).classList.add('active');
 }
 
-async function init() {
-  document.querySelectorAll('.tab-btn').forEach(btn => {
-    btn.addEventListener('click', () => switchTab(btn.dataset.tab));
-  });
-
+async function loadAllData() {
   try {
     const news = await loadJSON('data/news.json');
     renderNewsList(news.finanza, 'finanza-list');
@@ -66,6 +62,26 @@ async function init() {
   } catch (e) {
     document.getElementById('cinema-list').innerHTML = '<p class="empty">Errore caricamento cinema</p>';
   }
+}
+
+async function handleRefresh() {
+  const btn = document.getElementById('refresh-btn');
+  btn.disabled = true;
+  btn.textContent = '⏳ Aggiornamento...';
+  await loadAllData();
+  btn.textContent = '✅ Fatto!';
+  setTimeout(() => {
+    btn.textContent = '🔄 Aggiorna';
+    btn.disabled = false;
+  }, 1500);
+}
+
+function init() {
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+  });
+  document.getElementById('refresh-btn').addEventListener('click', handleRefresh);
+  loadAllData();
 }
 
 init();

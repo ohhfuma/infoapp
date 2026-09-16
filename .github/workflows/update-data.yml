@@ -2,8 +2,8 @@ name: Aggiorna dati InfoApp
 
 on:
   schedule:
-    - cron: '0 */2 * * *'   # ogni 2 ore
-  workflow_dispatch: {}      # permette avvio manuale dal sito GitHub
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
 
 permissions:
   contents: write

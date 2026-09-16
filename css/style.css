@@ -13,6 +13,30 @@ header {
   text-align: center;
 }
 
+.header-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  position: relative;
+}
+
+.refresh-btn {
+  position: absolute;
+  right: 20px;
+  background: #333;
+  color: white;
+  border: 1px solid #555;
+  padding: 8px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: 0.2s;
+}
+
+.refresh-btn:hover { background: #444; }
+.refresh-btn:disabled { opacity: 0.5; cursor: wait; }
+
 #last-update {
   font-size: 0.85rem;
   color: #aaa;
@@ -83,13 +107,6 @@ header {
 
 .empty { text-align: center; color: #888; padding: 40px; }
 
-footer {
-  text-align: center;
-  padding: 20px;
-  font-size: 0.75rem;
-  color: #888;
-}
-
 .cinema-card {
   background: white;
   border-radius: 12px;
@@ -115,3 +132,18 @@ footer {
 }
 
 .cinema-btn:hover { background: #b71c1c; }
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.75rem;
+  color: #888;
+}
+
+@media (max-width: 600px) {
+  .refresh-btn {
+    position: static;
+    margin-top: 10px;
+  }
+  .header-top { flex-direction: column; }
+}
