@@ -1,190 +1,351 @@
 {
   "date": "2026-09-16",
   "label": "mer 16/09",
-  "finanza": [
-    {
-      "title": "Cisgiordania, Tajani: «Contro i coloni il quadro più efficace è nell’Ue, misure nazionali sono deboli»",
-      "link": "https://www.ilsole24ore.com/art/cisgiordania-tajani-contro-coloni-quadro-piu-efficace-e-nell-ue-misure-nazionali-sono-deboli-AJ7b6xEB",
-      "source": "Il Sole 24 Ore",
-      "pubDate": "Wed, 16 Sep 2026 13:37:59 GMT",
-      "excerpt": "Il ministro degli Esteri: «Misure nazionali poggiano su basi giuridiche deboli, con il rischio di produrre effetti limitati e di essere facilmente aggirate»"
-    },
-    {
-      "title": "Crociere, il 65% della flotta è pronto per l’elettricità da terra",
-      "link": "https://www.repubblica.it/economia/rapporti/energitalia/mobilita/2026/09/16/news/crociere_il_65_della_flotta_e_pronto_per_l_elettricita_da_terra-425588794/?rss",
-      "source": "Repubblica Economia",
-      "pubDate": "Wed, 16 Sep 2026 15:35:07 +0200",
-      "excerpt": "Secondo il rapporto Clia, solo il 3% degli scali mondiali ha banchine attrezzate. Crescono anche i motori multi-fuel, da una sola unità nel 2018 a 30 oggi. In Europa consumi ed emissioni medie di CO2 sono diminuiti rispe"
-    },
-    {
-      "title": "Confindustria: l'export resiste e cambia geografia. L'Asia traina, Europa ferma",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/confindustria-lexport-resiste-e-cambia-geografia.-lasia-traina-europa-ferma_3a7d84e2-e11c-4cdf-bd47-175437db4e7a.html",
-      "source": "ANSA Economia",
-      "pubDate": "Wed, 16 Sep 2026 15:07:49 +0200",
-      "excerpt": "Per il Made in Italy nuove rotte: è più concentrato, mostra capacità di tenuta"
-    },
-    {
-      "title": "Export, Confindustria: l’Europa arretra, l’Italia tiene. Dazi Usa ci costano il 9% delle vendite",
-      "link": "https://www.repubblica.it/economia/2026/09/16/news/export_confindustria_l_europa_arretra_l_italia_tiene_dazi_usa_ci_costano_il_9_delle_vendite-425588735/?rss",
-      "source": "Repubblica Economia",
-      "pubDate": "Wed, 16 Sep 2026 15:03:16 +0200",
-      "excerpt": "La vicepresidente Cimmino: “Sempre più urgente aprire nuove rotte commerciali”. Opportunità dagli accordi con Mercosur e India, e dai Paesi del Golfo"
-    },
-    {
-      "title": "Ex Ilva, la Cassazione anticipa l’udienza sul ricorso dei commissari. Niente decreto in cdm",
-      "link": "https://www.repubblica.it/economia/2026/09/16/news/ex_ilva_la_cassazione_anticipa_udienza_commissari_decreto_cdm-425588679/?rss",
-      "source": "Repubblica Economia",
-      "pubDate": "Wed, 16 Sep 2026 14:40:40 +0200",
-      "excerpt": "La Corte anticipa la discussione dell’istanza al 20 ottobre. Riaggiornato il tavolo a Palazzo Chigi"
-    },
-    {
-      "title": "Il gas si mantiene sopra gli 80 euro sulla piazza Ttf di Amsterdam",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/il-gas-si-mantiene-sopra-gli-80-euro-sulla-piazza-ttf-di-amsterdam_5514fdcc-924b-4ed1-9bfa-6a982f3cb748.html",
-      "source": "ANSA Economia",
-      "pubDate": "Wed, 16 Sep 2026 14:32:11 +0200",
-      "excerpt": "I contratti future sul mese di ottobre guadagnano lo 0,95% a 80,83 euro"
-    },
-    {
-      "title": "Cucinelli, in Umbria un nuovo data center 'umanistico'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/cucinelli-in-umbria-un-nuovo-data-center-umanistico_4ab82941-512c-4e32-ac12-67dc3733fe24.html",
-      "source": "ANSA Economia",
-      "pubDate": "Wed, 16 Sep 2026 14:31:35 +0200",
-      "excerpt": "'Dobbiamo considerare l'intelligenza artificiale un'ancella dell'uomo'"
-    },
-    {
-      "title": "Eridania investe 20 milioni per blindare leadership zucchero e sviluppo dolcificanti",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/eridania-investe-20-milioni-per-blindare-leadership-zucchero-e-sviluppo-dolcificanti_8068140f-eccf-4bcd-8144-289b654364d3.html",
-      "source": "ANSA Economia",
-      "pubDate": "Wed, 16 Sep 2026 14:26:41 +0200",
-      "excerpt": "Atteso incremento +20% a volume in tre anni. Russi nuovo e unico hub in Italia"
-    },
-    {
-      "title": "Borsa: l'Europa consolida i rialzi col calo del petrolio, Milano +0,8%",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-leuropa-consolida-i-rialzi-col-calo-del-petrolio-milano-08_aff98705-7a2d-4fe9-8133-dd8b85be13de.html",
-      "source": "ANSA Economia",
-      "pubDate": "Wed, 16 Sep 2026 14:09:00 +0200",
-      "excerpt": "Scendono i rendimenti dei bond in attesa della Fed. A Piazza Affari bene Prysmian e Stm"
-    },
-    {
-      "title": "Dadda (LegaCoop) rieletto nel board globale dell'Ica",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/dadda-legacoop-rieletto-nel-board-globale-dellica_4b607c7c-033e-4508-81eb-c075a9340295.html",
-      "source": "ANSA Economia",
-      "pubDate": "Wed, 16 Sep 2026 14:00:16 +0200",
-      "excerpt": "I punti fermi nel mandato: pace, sostenibilità, cultura cooperativa come forza universale"
-    },
-    {
-      "title": "Scocchia (illycaffè), Stati Uniti sarà il nostro secondo mercato 'domestico'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/scocchia-illycaffe-stati-uniti-sara-il-nostro-secondo-mercato-domestico_94bfde9c-7d62-485d-8a96-419e7685ed99.html",
-      "source": "ANSA Economia",
-      "pubDate": "Wed, 16 Sep 2026 13:51:16 +0200",
-      "excerpt": "Intervista a Bloomberg, oggi Usa costituiscono il 20% dei ricavi"
-    },
-    {
-      "title": "La tavola alimenta le conversazioni e favorisce le relazioni",
-      "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/stili-di-vita/2026/09/16/news/la_tavola_alimenta_le_conversazioni_e_favorisce_le_relazioni-425588561/?rss",
-      "source": "Repubblica Economia",
-      "pubDate": "Wed, 16 Sep 2026 13:31:44 +0200",
-      "excerpt": "Secondo l’Osservatorio sulla socialità contemporanea promosso da Heineken Italia, la convivialità è frutto della condivisione di gusti ed esperienze nuove"
-    },
-    {
-      "title": "La Rovere (Amazon), 'contiamo di raddoppiare veicoli elettrici in Italia entro 2030'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/la-rovere-amazon-contiamo-di-raddoppiare-veicoli-elettrici-in-italia-entro-2030_1c932548-008f-41fb-904e-8b0483ae63f7.html",
-      "source": "ANSA Economia",
-      "pubDate": "Wed, 16 Sep 2026 13:18:44 +0200",
-      "excerpt": "Il direttore internazionale robotica, 'elettrificazione delle flotte è una priorità'"
-    },
-    {
-      "title": "Transizione ecologica, la partita si gioca nelle città del mondo",
-      "link": "https://www.repubblica.it/economia/2026/09/16/news/transizione_ecologica_la_partita_si_gioca_nelle_citta_del_mondo-425588484/?rss",
-      "source": "Repubblica Economia",
-      "pubDate": "Wed, 16 Sep 2026 13:03:33 +0200",
-      "excerpt": "Le metropoli italiane \"generano oltre il 60% del Pil e concentrano la maggior parte dei consumi energetici e delle emissioni\""
-    },
-    {
-      "title": "Intesa Sanpaolo, via libera dall’Ivass alle partecipazioni assicurative dell’offerta su Mps",
-      "link": "https://www.repubblica.it/economia/2026/09/16/news/intesa_sanpaolo_ivass_opas_mps-425588414/?rss",
-      "source": "Repubblica Economia",
-      "pubDate": "Wed, 16 Sep 2026 12:27:11 +0200",
-      "excerpt": "L’autorizzazione preventiva riguarda il 13,3% in Generali e le due paritetiche nella bancassicurazione tra i senesi e la compagnia francese Axa, con accordo in scadenza"
-    },
-    {
-      "title": "Ex Ilva: nessun decreto nel cdm di oggi, aggiornato tavolo con i sindacati",
-      "link": "https://www.ilsole24ore.com/art/ex-ilva-impegno-governo-modello-cig-diverso-quella-cessazione-AJzy2oEB",
-      "source": "Il Sole 24 Ore",
-      "pubDate": "Wed, 16 Sep 2026 09:50:00 GMT",
-      "excerpt": "Impegno per un futuro green dell’acciaio prodotto a Taranto, basato su forni elettrici alimentati a Dri (già disponibili e se necessario da integrare), prosecuzione della gara per la vendita degli..."
-    },
-    {
-      "title": "Dl carburanti, via libera della Camera: il testo passa al Senato",
-      "link": "https://www.ilsole24ore.com/art/dl-carburanti-via-libera-camera-testo-passa-senato-AJ9SXxDB",
-      "source": "Il Sole 24 Ore",
-      "pubDate": "Wed, 16 Sep 2026 09:45:00 GMT",
-      "excerpt": "Tre provvedimenti approvati alla Camera in un colpo solo. Dall’assemblea di Montecitorio è arrivato il via libera al testo che accorpa il decreto legge di fine luglio e i due..."
-    },
-    {
-      "title": "Oktoberfest, l'inflazione della birra rallenta la corsa ma il boccale si avvicina ai 16 euro",
-      "link": "https://www.repubblica.it/economia/2026/09/16/news/oktoberfest_l_inflazione_della_birra_rallenta_la_corsa_ma_il_boccale_si_avvicina_ai_16_euro-425588137/?rss",
-      "source": "Repubblica Economia",
-      "pubDate": "Wed, 16 Sep 2026 11:38:10 +0200",
-      "excerpt": "Gli economisti di Unicredit, grazie anche al luppolo meno caro, calcolano un aumento dei prezzi medi del wass del 2,4% dal 2025: è il minore incremento annuo dal 2006. Dal 1985 il costo è quintuplicato"
-    },
-    {
-      "title": "Lombardia, Guidesi lancia l’allarme sui costi dell’energia",
-      "link": "https://www.ilsole24ore.com/art/lombardia-guidesi-lancia-l-allarme-costi-dell-energia-AJeiFoEB",
-      "source": "Il Sole 24 Ore",
-      "pubDate": "Wed, 16 Sep 2026 09:35:00 GMT",
-      "excerpt": "«Con questi costi la Lombardia si ferma», ha detto l’assessore allo sviluppo economico"
-    },
-    {
-      "title": "Gdf, medico italiano finto residente a Montecarlo: nascosti 1,3 milioni di euro al fisco",
-      "link": "https://www.ilsole24ore.com/art/gdf-medico-italiano-finto-residente-montecarlo-nascosti-13-milioni-euro-fisco-AJjhmjEB",
-      "source": "Il Sole 24 Ore",
-      "pubDate": "Wed, 16 Sep 2026 08:44:55 GMT",
-      "excerpt": "Risultava residente a Montecarlo ma riceveva i pazienti nei suoi studi di Genova, Imperia, Milano e Roma riscuotendo in contanti i compensi per le visite (in media 200 euro a..."
-    },
-    {
-      "title": "Istat, l’energia spinge l’inflazione di agosto al 3,3%. Frena il carrello della spesa",
-      "link": "https://www.repubblica.it/economia/2026/09/16/news/istat_inflazione_energia_agosto_conferma-425588156/?rss",
-      "source": "Repubblica Economia",
-      "pubDate": "Wed, 16 Sep 2026 10:43:38 +0200",
-      "excerpt": "Confermate le stime preliminari sullo scorso mese"
-    },
-    {
-      "title": "Istat: inflazione di agosto confermata in aumento al 3,3% su base annua ",
-      "link": "https://www.ilsole24ore.com/art/istat-inflazione-agosto-confermata-33percento-base-annua-AJ6CngEB",
-      "source": "Il Sole 24 Ore",
-      "pubDate": "Wed, 16 Sep 2026 08:03:00 GMT",
-      "excerpt": "Nel mese di agosto 2026 l’indice nazionale dei prezzi al consumo per l’intera collettività (NIC), al lordo dei tabacchi, registra una variazione del +0,5% su base mensile e del +3,3%..."
-    },
-    {
-      "title": "Difesa, drone in Lituania abbattuto da due Eurofighter F-2000 italiani. Le regole d’ingaggio della missione nel fianco Est",
-      "link": "https://www.ilsole24ore.com/art/difesa-drone-lituania-abbattuto-due-eurofighter-f-2000-italiani-regole-d-ingaggio-missione-fianco-est-AJc4KwDB",
-      "source": "Il Sole 24 Ore",
-      "pubDate": "Wed, 16 Sep 2026 07:45:00 GMT",
-      "excerpt": "La missione di Air Policing negli Stati baltici, denominata Baltic Air Policing, è scattata ad aprile 2004. Ad oggi 17 alleati vi hanno partecipato a salvaguardia dello spazio aereo delle Repubbliche Baltiche: Estonia, L"
-    },
-    {
-      "title": "Il paradosso dell’età: vecchi a 30 anni, giovani a 70",
-      "link": "https://www.ilsole24ore.com/art/il-paradosso-dell-eta-vecchi-30-anni-giovani-70-AJXR3iEB",
-      "source": "Il Sole 24 Ore",
-      "pubDate": "Wed, 16 Sep 2026 07:43:57 GMT",
-      "excerpt": "È il quadro che emerge dalla ricerca Human after all di Hearts United"
-    },
-    {
-      "title": "Fisco, Leo: lotta all’evasione con l’intelligenza artificiale senza automatismi. In arrivo il Codice tributario",
-      "link": "https://www.ilsole24ore.com/art/fisco-leo-lotta-all-evasione-l-intelligenza-artificiale-senza-automatismi-arrivo-codice-tributario-AJJUugEB",
-      "source": "Il Sole 24 Ore",
-      "pubDate": "Wed, 16 Sep 2026 07:19:00 GMT",
-      "excerpt": "Nel triennio 2023-2025 recuperi per 101 miliardi. Il viceministro: l’uso dell’AI non sostituirà mai l’uomo, avanti nel rispetto della privacy. Presto anche un software per facilitare applicazione nuovi testi unici in vig"
-    },
-    {
-      "title": "Zuckerberg sta con Nvidia e Trump, respinge l’appello di rallentare lo sviluppo",
-      "link": "https://www.repubblica.it/economia/2026/09/16/news/zuckerberg_con_l_ia_il_mantra_e_andare_avanti_no_all_idea_di_rallentare_lo_sviluppo-425587856/?rss",
-      "source": "Repubblica Economia",
-      "pubDate": "Wed, 16 Sep 2026 08:43:20 +0200",
-      "excerpt": "Secondo il fondatore di Facebook, costruire fiducia e creare sistemi affidabili stanno diventando rapidamente le \"capacità più importanti\" che distinguono i buoni prodotti da quelli scadenti. \"Qualsiasi laboratorio che n"
-    }
-  ],
+  "finanza": {
+    "italia": [
+      {
+        "title": "Ex Ilva, la Cassazione anticipa l’udienza sul ricorso. Sospesi i licenziamenti. Salta il decreto",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/ex_ilva_la_cassazione_anticipa_udienza_commissari_decreto_cdm-425588679/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 15:41:58 +0200",
+        "excerpt": "La Corte anticipa la discussione dell’istanza al 20 ottobre. Riaggiornato il tavolo a Palazzo Chigi"
+      },
+      {
+        "title": "Salta il decreto sull'ex Ilva in cdm, si attende la Cassazione",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/aggiornato-il-tavolo-con-sindacati-sullex-ilva-nessun-decreto-oggi-in-cdm_30ffaa8e-6384-4215-9212-8150c10340ed.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 15:40:28 +0200",
+        "excerpt": "Il 20 ottobre l'udienza sul ricorso per l'area a caldo. Aggiornato il tavolo con i sindacati"
+      },
+      {
+        "title": "Cisgiordania, Tajani: «Contro i coloni il quadro più efficace è nell’Ue, misure nazionali sono deboli»",
+        "link": "https://www.ilsole24ore.com/art/cisgiordania-tajani-contro-coloni-quadro-piu-efficace-e-nell-ue-misure-nazionali-sono-deboli-AJ7b6xEB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 13:37:59 GMT",
+        "excerpt": "Il ministro degli Esteri: «Misure nazionali poggiano su basi giuridiche deboli, con il rischio di produrre effetti limitati e di essere facilmente aggirate»"
+      },
+      {
+        "title": "Wall Street apre in rialzo in attesa della Fed, Dj +0,10%, Nasdaq +0,45%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/wall-street-apre-in-rialzo-in-attesa-della-fed-dj-010-nasdaq-045_e46b3ed3-4b93-421b-97d7-9c451002ccbf.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 15:37:11 +0200",
+        "excerpt": "S 500 sale dello 0,25%"
+      },
+      {
+        "title": "Crociere, il 65% della flotta è pronto per l’elettricità da terra",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/mobilita/2026/09/16/news/crociere_il_65_della_flotta_e_pronto_per_l_elettricita_da_terra-425588794/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 15:35:07 +0200",
+        "excerpt": "Secondo il rapporto Clia, solo il 3% degli scali mondiali ha banchine attrezzate. Crescono anche i motori multi-fuel, da una sola unità nel 2018 a 30 oggi. In Europa consumi ed emissioni medie di CO2 sono diminuiti rispe"
+      },
+      {
+        "title": "Confindustria: l'export resiste e cambia geografia. L'Asia traina, Europa ferma",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/confindustria-lexport-resiste-e-cambia-geografia.-lasia-traina-europa-ferma_3a7d84e2-e11c-4cdf-bd47-175437db4e7a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 15:07:49 +0200",
+        "excerpt": "Per il Made in Italy nuove rotte: è più concentrato, mostra capacità di tenuta"
+      },
+      {
+        "title": "Export, Confindustria: l’Europa arretra, l’Italia tiene. Dazi Usa ci costano il 9% delle vendite",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/export_confindustria_l_europa_arretra_l_italia_tiene_dazi_usa_ci_costano_il_9_delle_vendite-425588735/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 15:03:16 +0200",
+        "excerpt": "La vicepresidente Cimmino: “Sempre più urgente aprire nuove rotte commerciali”. Opportunità dagli accordi con Mercosur e India, e dai Paesi del Golfo"
+      },
+      {
+        "title": "Il gas si mantiene sopra gli 80 euro sulla piazza Ttf di Amsterdam",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/il-gas-si-mantiene-sopra-gli-80-euro-sulla-piazza-ttf-di-amsterdam_5514fdcc-924b-4ed1-9bfa-6a982f3cb748.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 14:32:11 +0200",
+        "excerpt": "I contratti future sul mese di ottobre guadagnano lo 0,95% a 80,83 euro"
+      },
+      {
+        "title": "Cucinelli, in Umbria un nuovo data center 'umanistico'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/cucinelli-in-umbria-un-nuovo-data-center-umanistico_4ab82941-512c-4e32-ac12-67dc3733fe24.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 14:31:35 +0200",
+        "excerpt": "'Dobbiamo considerare l'intelligenza artificiale un'ancella dell'uomo'"
+      },
+      {
+        "title": "Eridania investe 20 milioni per blindare leadership zucchero e sviluppo dolcificanti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/eridania-investe-20-milioni-per-blindare-leadership-zucchero-e-sviluppo-dolcificanti_8068140f-eccf-4bcd-8144-289b654364d3.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 14:26:41 +0200",
+        "excerpt": "Atteso incremento +20% a volume in tre anni. Russi nuovo e unico hub in Italia"
+      },
+      {
+        "title": "Borsa: l'Europa consolida i rialzi col calo del petrolio, Milano +0,8%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-leuropa-consolida-i-rialzi-col-calo-del-petrolio-milano-08_aff98705-7a2d-4fe9-8133-dd8b85be13de.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 14:09:00 +0200",
+        "excerpt": "Scendono i rendimenti dei bond in attesa della Fed. A Piazza Affari bene Prysmian e Stm"
+      },
+      {
+        "title": "Dadda (LegaCoop) rieletto nel board globale dell'Ica",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/dadda-legacoop-rieletto-nel-board-globale-dellica_4b607c7c-033e-4508-81eb-c075a9340295.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 14:00:16 +0200",
+        "excerpt": "I punti fermi nel mandato: pace, sostenibilità, cultura cooperativa come forza universale"
+      },
+      {
+        "title": "La tavola alimenta le conversazioni e favorisce le relazioni",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/stili-di-vita/2026/09/16/news/la_tavola_alimenta_le_conversazioni_e_favorisce_le_relazioni-425588561/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 13:31:44 +0200",
+        "excerpt": "Secondo l’Osservatorio sulla socialità contemporanea promosso da Heineken Italia, la convivialità è frutto della condivisione di gusti ed esperienze nuove"
+      },
+      {
+        "title": "Transizione ecologica, la partita si gioca nelle città del mondo",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/transizione_ecologica_la_partita_si_gioca_nelle_citta_del_mondo-425588484/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 13:03:33 +0200",
+        "excerpt": "Le metropoli italiane \"generano oltre il 60% del Pil e concentrano la maggior parte dei consumi energetici e delle emissioni\""
+      },
+      {
+        "title": "Intesa Sanpaolo, via libera dall’Ivass alle partecipazioni assicurative dell’offerta su Mps",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/intesa_sanpaolo_ivass_opas_mps-425588414/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 12:27:11 +0200",
+        "excerpt": "L’autorizzazione preventiva riguarda il 13,3% in Generali e le due paritetiche nella bancassicurazione tra i senesi e la compagnia francese Axa, con accordo in scadenza"
+      },
+      {
+        "title": "Ex Ilva: nessun decreto nel cdm di oggi, aggiornato tavolo con i sindacati",
+        "link": "https://www.ilsole24ore.com/art/ex-ilva-impegno-governo-modello-cig-diverso-quella-cessazione-AJzy2oEB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 09:50:00 GMT",
+        "excerpt": "Impegno per un futuro green dell’acciaio prodotto a Taranto, basato su forni elettrici alimentati a Dri (già disponibili e se necessario da integrare), prosecuzione della gara per la vendita degli..."
+      },
+      {
+        "title": "Dl carburanti, via libera della Camera: il testo passa al Senato",
+        "link": "https://www.ilsole24ore.com/art/dl-carburanti-via-libera-camera-testo-passa-senato-AJ9SXxDB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 09:45:00 GMT",
+        "excerpt": "Tre provvedimenti approvati alla Camera in un colpo solo. Dall’assemblea di Montecitorio è arrivato il via libera al testo che accorpa il decreto legge di fine luglio e i due..."
+      },
+      {
+        "title": "Oktoberfest, l'inflazione della birra rallenta la corsa ma il boccale si avvicina ai 16 euro",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/oktoberfest_l_inflazione_della_birra_rallenta_la_corsa_ma_il_boccale_si_avvicina_ai_16_euro-425588137/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 11:38:10 +0200",
+        "excerpt": "Gli economisti di Unicredit, grazie anche al luppolo meno caro, calcolano un aumento dei prezzi medi del wass del 2,4% dal 2025: è il minore incremento annuo dal 2006. Dal 1985 il costo è quintuplicato"
+      },
+      {
+        "title": "Lombardia, Guidesi lancia l’allarme sui costi dell’energia",
+        "link": "https://www.ilsole24ore.com/art/lombardia-guidesi-lancia-l-allarme-costi-dell-energia-AJeiFoEB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 09:35:00 GMT",
+        "excerpt": "«Con questi costi la Lombardia si ferma», ha detto l’assessore allo sviluppo economico"
+      },
+      {
+        "title": "Gdf, medico italiano finto residente a Montecarlo: nascosti 1,3 milioni di euro al fisco",
+        "link": "https://www.ilsole24ore.com/art/gdf-medico-italiano-finto-residente-montecarlo-nascosti-13-milioni-euro-fisco-AJjhmjEB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 08:44:55 GMT",
+        "excerpt": "Risultava residente a Montecarlo ma riceveva i pazienti nei suoi studi di Genova, Imperia, Milano e Roma riscuotendo in contanti i compensi per le visite (in media 200 euro a..."
+      },
+      {
+        "title": "Istat, l’energia spinge l’inflazione di agosto al 3,3%. Frena il carrello della spesa",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/istat_inflazione_energia_agosto_conferma-425588156/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 10:43:38 +0200",
+        "excerpt": "Confermate le stime preliminari sullo scorso mese"
+      },
+      {
+        "title": "Istat: inflazione di agosto confermata in aumento al 3,3% su base annua ",
+        "link": "https://www.ilsole24ore.com/art/istat-inflazione-agosto-confermata-33percento-base-annua-AJ6CngEB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 08:03:00 GMT",
+        "excerpt": "Nel mese di agosto 2026 l’indice nazionale dei prezzi al consumo per l’intera collettività (NIC), al lordo dei tabacchi, registra una variazione del +0,5% su base mensile e del +3,3%..."
+      },
+      {
+        "title": "Difesa, drone in Lituania abbattuto da due Eurofighter F-2000 italiani. Le regole d’ingaggio della missione nel fianco Est",
+        "link": "https://www.ilsole24ore.com/art/difesa-drone-lituania-abbattuto-due-eurofighter-f-2000-italiani-regole-d-ingaggio-missione-fianco-est-AJc4KwDB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 07:45:00 GMT",
+        "excerpt": "La missione di Air Policing negli Stati baltici, denominata Baltic Air Policing, è scattata ad aprile 2004. Ad oggi 17 alleati vi hanno partecipato a salvaguardia dello spazio aereo delle Repubbliche Baltiche: Estonia, L"
+      },
+      {
+        "title": "Il paradosso dell’età: vecchi a 30 anni, giovani a 70",
+        "link": "https://www.ilsole24ore.com/art/il-paradosso-dell-eta-vecchi-30-anni-giovani-70-AJXR3iEB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 07:43:57 GMT",
+        "excerpt": "È il quadro che emerge dalla ricerca Human after all di Hearts United"
+      }
+    ],
+    "europa": [
+      {
+        "title": "Ibm: accordo da 1 miliardo $ con governo Usa su quantum computing",
+        "link": "https://www.ilsole24ore.com/art/ibm-accordo-1-miliardo-$-governo-usa-quantum-computing-AJvXewEB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Wed, 16 Sep 2026 12:03:34 GMT",
+        "excerpt": "Anderon, una società del gruppo Ibm, ha annunciato di essersi aggiudicata un finanziamento da 1 miliardo di dollari da parte del dipartimento del Commercio statunitense; si tratta di un contributo..."
+      },
+      {
+        "title": "Crolla miniera d’oro in Sudan, almeno 67 morti",
+        "link": "https://www.ilsole24ore.com/art/crolla-miniera-d-oro-sudan-almeno-60-morti-AJa79nEB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Wed, 16 Sep 2026 09:46:00 GMT",
+        "excerpt": "Una miniera d’oro è crollata nel Sudan meridionale, causando la morte di almeno 67 minatori: lo hanno riferito all’Afp due sopravvissuti, mentre molte altre persone risultano disperse e si teme..."
+      },
+      {
+        "title": "Europa, von der Leyen: niente social per i minori di 13 anni. Canada primo membro associato Ue",
+        "link": "https://www.ilsole24ore.com/art/europa-von-der-leyen-niente-social-i-minori-13-anni-canada-primo-membro-associato-ue-AJRbukEB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Wed, 16 Sep 2026 08:56:00 GMT",
+        "excerpt": "Sull’AI: «Vogliamo che crei più valore in modo più responsabile, a un costo inferiore e con un minor consumo energetico. Ma, soprattutto, vogliamo un’intelligenza artificiale che lasci spazio all’azione umana»"
+      },
+      {
+        "title": "Fbi: Russia pianifica omicidi mirati in Usa ed Europa",
+        "link": "https://www.ilsole24ore.com/art/fbi-russia-pianifica-omicidi-mirati-usa-ed-europa-AJrmEdEB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Wed, 16 Sep 2026 05:36:00 GMT",
+        "excerpt": "Incriminate cinque persone che, per conto dell’Fsb, avrebbero messo nel mirino dissidenti russi e infrastrutture"
+      },
+      {
+        "title": "Guerra ultime notizie. Cina  pronta a “salvaguardare” i diritti dell’Iran. A Gaza 50 bambini sotto le macerie",
+        "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-camera-usa-approva-misura-che-impone-trump-fine-conflitto-AJtTbcEB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Wed, 16 Sep 2026 05:11:00 GMT",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump, è record di trading di titoli: battuti tutti i parlamentari assieme ",
+        "link": "https://www.ilsole24ore.com/art/trump-e-record-trading-titoli-battuti-tutti-parlamentari-assieme-AJEXtTEB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Wed, 16 Sep 2026 04:47:00 GMT",
+        "excerpt": "Donald Trump vanta un nuovo record: quello della compravendita di titoli azionari. Da quando è presidente, o meglio nei 17 mesi a giugno, lui e i suoi gestori hanno effettuato..."
+      },
+      {
+        "title": "Armi Usa nello spazio: dura la reazione di Pechino e Mosca",
+        "link": "https://www.ilsole24ore.com/art/armi-usa-spazio-dura-reazione-pechino-e-mosca-AJlBwHEB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Tue, 15 Sep 2026 17:31:19 GMT",
+        "excerpt": "La corsa alle armi rompe i confini terrestri per approdare nello spazio. La recente ammissione giunta per bocca del segretario dell’Air Force Troy Meink, durante l’annuale conferenza in Maryland, segna..."
+      },
+      {
+        "title": "Sudafrica, piano di tre anni per «stabilizzare» Johannesburg",
+        "link": "https://www.ilsole24ore.com/art/sudafrica-piano-tre-anni-stabilizzare-johannesburg-AJoqp1DB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Tue, 15 Sep 2026 16:09:00 GMT",
+        "excerpt": "La capitale finanziaria dell’Africa vacilla da tempo sull’orlo del default"
+      }
+    ],
+    "usa": [],
+    "mondo": [
+      {
+        "title": "Gaza, crolla un palazzo: almeno 20 i morti tra cui 8 bambini",
+        "link": "https://www.repubblica.it/esteri/2026/09/16/news/gaza_crolla_un_palazzo_bambini_tra_le_macerie_striscia-425588255/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 16 Sep 2026 14:27:35 +0200",
+        "excerpt": "L’edificio era stato danneggiato dai bombardamenti israeliani ma era rimasto intatto ed era diventato un rifugio per tanti sfollati: “Almeno cento persone tra le macerie, tra cui 50 bambini. Ma mancano ruspe ed escavator"
+      },
+      {
+        "title": "Venezuela, aule deserte a La Guaira per la ripresa delle lezioni",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/venezuela-aule-deserte-a-la-guaira-per-la-ripresa-delle-lezioni_ad0e3546-540c-4d05-941e-6880fd5c3ccf.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 14:02:58 +0200",
+        "excerpt": "Il terremoto ha distrutto varie scuole e diffuso la paura tra gli alunni"
+      },
+      {
+        "title": "A Pristina manifestanti tentano assalto a sede Ue dopo la condanna a Thaci, respinti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/a-pristina-manifestanti-tentano-assalto-a-sede-ue-dopo-la-condanna-a-thaci-respinti_689df659-848b-4800-a9aa-b9f8db87bc15.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 13:59:54 +0200",
+        "excerpt": "Il palazzo evacuato, la folla ha tentato di scavalcare per entrare nel cortile"
+      },
+      {
+        "title": "Zelensky, Mosca ha preso di mira il mio aereo anche al ritorno dalla Norvegia",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/zelensky-mosca-ha-preso-di-mira-il-mio-aereo-anche-al-ritorno-dalla-norvegia_ec6b83a2-9bbb-4e42-955a-04dacbbe85b9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 13:56:01 +0200",
+        "excerpt": "Droni in Moldavia sia alla partenza sia al rientro"
+      },
+      {
+        "title": "L’ipocrisia della sinistra verso le donne iraniane: la libertà è anche un nostro diritto, non un valore occidentale",
+        "link": "https://www.repubblica.it/esteri/2026/09/16/news/ipocrisia_sinistra_donne_iraniane_liberta_e_anche_nostro_diritto_non_valore_occidentale-425588536/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 16 Sep 2026 13:19:05 +0200",
+        "excerpt": "Di fronte a questioni come la possibilità di non indossare il velo, il problema è il paternalismo intellettuale: la pretesa di decidere di quali aspirazioni del popolo iraniano siano autentiche e quali un prodotto dell’O"
+      },
+      {
+        "title": "Nuove allarme sicurezza per i Sussex in Gb, svelato numero telefono Meghan",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/nuove-allarme-sicurezza-per-i-sussex-in-gb-svelato-numero-telefono-meghan_392932af-9a3f-4780-910e-bd03b7dd73bf.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 12:40:18 +0200",
+        "excerpt": "Vicenda fa seguito al cambio di scuola per i figli. Mentre Harry attende riesame su scorta"
+      },
+      {
+        "title": "Ong, omicidi di attivisti ambientali raddoppiati in Brasile nel 2025",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/ong-omicidi-di-attivisti-ambientali-raddoppiati-in-brasile-nel-2025_29bf7a91-8585-4346-86bf-35c319cc713a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 12:35:33 +0200",
+        "excerpt": "La Colombia si conferma il Paese più violento al mondo per gli ecologisti"
+      },
+      {
+        "title": "Thaci condannato a 25 anni per crimini di guerra: il verdetto rischia di infiammare Kosovo e Balcani",
+        "link": "https://www.repubblica.it/esteri/2026/09/16/news/guerre_balcani_tensione_sentenza_ex_leader_dell_uck_thaci-425587897/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 16 Sep 2026 12:05:12 +0200",
+        "excerpt": "L’ex presidente e leader dell’Uck è stato riconosciuto colpevole dall’Aia insieme a tre suoi comandanti. A Pristina migliaia di persone protestano contro la sentenza, mentre le comunità serbe chiedono protezione a Eulex "
+      },
+      {
+        "title": "Cremlino, 'non commentiamo accuse Usa senza prove minimamente convincenti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/cremlino-non-commentiamo-accuse-usa-senza-prove-minimamente-convincenti_1535257c-4da0-41d5-b4a8-5e888bad1435.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 12:04:25 +0200",
+        "excerpt": "Su omicidi pianificati negli Usa e in Europa"
+      },
+      {
+        "title": "Cremlino, 'non commentiamo accuse Usa senza prove minimamente convincenti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/cremlino-non-commentiamo-accuse-usa-senza-prove-minimamente-convincenti_e6312649-48fe-4d41-8c73-d8a9e91faf4e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 12:04:23 +0200",
+        "excerpt": "Su omicidi pianificati negli Usa e in Europa"
+      },
+      {
+        "title": "Thaci condannato all'Aja a 25 anni per crimini di guerra in Kosovo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/thaci-condannato-allaja-a-25-anni-per-crimini-di-guerra-in-kosovo_3739d0d5-9610-40c3-90a0-f5b04d05df40.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 11:42:18 +0200",
+        "excerpt": "'Era a conoscenza delle azioni commesse dai miliziani dell'Uck contro gli oppositori'"
+      },
+      {
+        "title": "Von der Leyen: “Il Canada primo membro associato dell’Ue”. Sicurezza, energia e difesa al centro della nuova Europa",
+        "link": "https://www.repubblica.it/esteri/2026/09/16/news/von_der_leyen_discorso_stato_unione_ue-425587961/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 16 Sep 2026 11:38:26 +0200",
+        "excerpt": "Nel discorso sullo stato dell’Unione, la presidente della Commissione europea annuncia un nuovo asse con Ottawa per rafforzare l’indipendenza e la sicurezza dell’Ue di fronte alle minacce russe e alle tensioni con gli St"
+      },
+      {
+        "title": "Elicottero della Nbc si schianta a Los Angeles: almeno tre morti",
+        "link": "https://www.repubblica.it/esteri/2026/09/16/news/nbc_elicottero_incidente_morti_los_angeles-425587777/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 16 Sep 2026 08:54:20 +0200",
+        "excerpt": "L’emittente stava riprendendo un incidente mortale che aveva coinvolto un autobus e un altro mezzo"
+      },
+      {
+        "title": "La Camera Usa respinge il tentativo di impeachment contro Trump",
+        "link": "https://www.repubblica.it/esteri/2026/09/16/news/la_camera_usa_respinge_il_tentativo_di_impeachment_di_trump-425587645/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 16 Sep 2026 03:26:16 +0200",
+        "excerpt": "Diciotto democratici hanno votato insieme ai repubblicani"
+      },
+      {
+        "title": "La Mecca nel mirino degli Houthi. E Riad non dà garanzie sulle forniture di petrolio all’Europa",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/houthi_mecca_arabia_saudita_petrolio_europa-425587588/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 16 Sep 2026 01:00:00 +0200",
+        "excerpt": "L’Arabia Saudita fa sapere alle raffinerie europee che i barili a settembre non sbarcheranno. Il greggio ormai sfiora i 110 dollari. Bin Salman vola al Cairo per chiedere aiuto ad Al Sisi"
+      },
+      {
+        "title": "Von der Leyen rilancia la difesa comune. L’Italia si defila sul centro anti fake news",
+        "link": "https://www.repubblica.it/esteri/2026/09/16/news/von_der_leyen_rilancia_difesa_comune_ue_canada_lotta_contro_russia-425587478/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 16 Sep 2026 01:00:00 +0200",
+        "excerpt": "FdI, M5S, Lega e Vannacci votano contro la struttura di lotta alle interferenze. Oggi il discorso sullo stato dell’Unione, ospite il premier canadese Carney"
+      }
+    ]
+  },
   "attualita": [
     {
       "title": "Von der Leyen: 'Vogliono frantumare l'Ue, lottiamo per la nostra Europa'",
