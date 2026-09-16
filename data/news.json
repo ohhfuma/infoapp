@@ -1,12 +1,26 @@
 {
-  "lastUpdated": "2026-09-16T17:38:13.412Z",
+  "lastUpdated": "2026-09-16T18:09:23.190Z",
   "finanza": {
     "italia": [
       {
-        "title": "Malori a catena dopo convegno nel barese: in corso gli accertamenti dell’Asl",
+        "title": "Fed, Warsh resiste a Trump e alza i tassi di 25 punti. Primo aumento da tre anni",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/fed_alza_tassi_25_punti_warsh_trump-425589285/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 20:07:20 +0200",
+        "excerpt": "Il costo del denaro sale tra il 3,75% e il 4%. Decisione all’unanimità"
+      },
+      {
+        "title": "Il governo abolisce il bollo 2027 per le auto piccole e medie. Stop anche per i motocicli",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 19:52:17 +0200",
+        "excerpt": "Meloni: “Sparisce una delle tasse più odiate dagli italiani. Sarà strutturale con Legge di Bilancio”. Giorgetti: “Scelta sofferta”"
+      },
+      {
+        "title": "Bari, intossicazione al meeting di Turi: scatta l’allarme sanitario, indaga la Asl",
         "link": "https://www.ilsole24ore.com/art/malori-catena-convegno-barese-corso-accertamenti-dell-asl-AJYBQHFB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 17:23:51 GMT",
+        "pubDate": "Wed, 16 Sep 2026 17:23:00 GMT",
         "excerpt": "I congressisti erano oltre trecento, riuniti lo scorso 11 settembre in una struttura ricettiva di Turi per un evento organizzato da una multinazionale del settore energetico. I lavori sono andati..."
       },
       {
@@ -15,13 +29,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Wed, 16 Sep 2026 19:20:40 +0200",
         "excerpt": "Il beneficio riguarda soprattutto citycar e utilitarie, non sono esclusi piccoli Suv come la Jeep Avenger nella versione con motore termico. Fuori i suv di media e alta gamma"
-      },
-      {
-        "title": "Il governo abolisce il bollo per le auto piccole e medie. Stop anche per i motocicli",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 19:01:49 +0200",
-        "excerpt": "La cancellazione nel 2027. Meloni: “Sparisce una delle tasse più odiate dagli italiani”. Giorgetti: “Scelta sofferta”"
       },
       {
         "title": "Il gas scende sotto i 78 euro sulla piazza Ttf di Amsterdam",
@@ -90,7 +97,7 @@
         "title": "Mini pacchi, tassa italiana rinviata fino al 30 novembre",
         "link": "https://www.ilsole24ore.com/art/mini-pacchi-tassa-italiana-rinviata-fino-30-novembre-AJL6AOEB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 15:18:08 GMT",
+        "pubDate": "Wed, 16 Sep 2026 15:18:00 GMT",
         "excerpt": "Mini tassa italiana di due euro sui pacchi extra Ue low cost (fino a 150 euro di valore) rinviata fino al 30 novembre. A prevederlo è la bozza del decreto..."
       },
       {
@@ -150,13 +157,6 @@
         "excerpt": "La vicepresidente Cimmino: “Sempre più urgente aprire nuove rotte commerciali”. Opportunità dagli accordi con Mercosur e India, e dai Paesi del Golfo"
       },
       {
-        "title": "La tavola alimenta le conversazioni e favorisce le relazioni",
-        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/stili-di-vita/2026/09/16/news/la_tavola_alimenta_le_conversazioni_e_favorisce_le_relazioni-425588561/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 13:31:44 +0200",
-        "excerpt": "Secondo l’Osservatorio sulla socialità contemporanea promosso da Heineken Italia, la convivialità è frutto della condivisione di gusti ed esperienze nuove"
-      },
-      {
         "title": "Ex Ilva: nessun decreto nel cdm di oggi, aggiornato tavolo con i sindacati",
         "link": "https://www.ilsole24ore.com/art/ex-ilva-impegno-governo-modello-cig-diverso-quella-cessazione-AJzy2oEB",
         "source": "Il Sole 24 Ore",
@@ -172,6 +172,13 @@
       }
     ],
     "europa": [
+      {
+        "title": "La Fed alza i tassi di 25 punti base al 3,75%-4%, primo rialzo dal luglio 2023",
+        "link": "https://www.ilsole24ore.com/art/fed-alza-tassi-25-punti-base-375percento-4percento-primo-rialzo-luglio-2023-AJFaAJFB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Wed, 16 Sep 2026 18:01:00 GMT",
+        "excerpt": "La Federal Reserve rialza i tassi di interesse nella terza riunione del board con Kevin Warsh presidente. Il costo del denaro, in linea con le attese, sale dalla forchetta tra..."
+      },
       {
         "title": "Ibm: accordo da 1 miliardo $ con governo Usa su quantum computing",
         "link": "https://www.ilsole24ore.com/art/ibm-accordo-1-miliardo-$-governo-usa-quantum-computing-AJvXewEB",
@@ -220,17 +227,17 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Tue, 15 Sep 2026 17:31:19 GMT",
         "excerpt": "La corsa alle armi rompe i confini terrestri per approdare nello spazio. La recente ammissione giunta per bocca del segretario dell’Air Force Troy Meink, durante l’annuale conferenza in Maryland, segna..."
-      },
-      {
-        "title": "Sudafrica, piano di tre anni per «stabilizzare» Johannesburg",
-        "link": "https://www.ilsole24ore.com/art/sudafrica-piano-tre-anni-stabilizzare-johannesburg-AJoqp1DB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Tue, 15 Sep 2026 16:09:00 GMT",
-        "excerpt": "La capitale finanziaria dell’Africa vacilla da tempo sull’orlo del default"
       }
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "È morta Sunny, il secondo cane degli Obama dopo Bo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/e-morta-sunny-il-secondo-cane-degli-obama-dopo-bo_c575a466-ffce-41de-8b0f-78762bade2c3.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 20:02:59 +0200",
+        "excerpt": "Era stata presa all'inizio del secondo mandato alla Casa Bianca"
+      },
       {
         "title": "Svezia al 99% dello scrutinio, risultato elettorale ancora incerto",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/svezia-al-99-dello-scrutinio-risultato-elettorale-ancora-incerto_cd7ab793-5128-4f16-9ede-6b63db832e59.html",
@@ -279,13 +286,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Wed, 16 Sep 2026 17:47:43 +0200",
         "excerpt": "Obiettivo avvicinare consumatori olandesi alle eccellenze made in Italy"
-      },
-      {
-        "title": "Ospedale Bambino Gesù e Iila rinnovano accordo di cooperazione sanitaria su America Latina",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/ospedale-bambino-gesu-e-iila-rinnovano-accordo-di-cooperazione-sanitaria-su-america-latina_4569a866-1263-4594-9982-6254d7d3ccea.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 17:40:40 +0200",
-        "excerpt": "Alta formazione pediatrica, trasferimento di competenze e nuovi programmi di prevenzione"
       },
       {
         "title": "Thaci condannato a 25 anni per crimini di guerra. A Pristina lanci di pietre contro sede Ue",
@@ -347,11 +347,11 @@
   },
   "attualita": [
     {
-      "title": "Hacker rivendicano la violazione di Revolut: 'Abbiamo dati della polizia italiana'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/hacker-rivendicano-la-violazione-di-revolut-abbiamo-dati-della-polizia-italiana_843a8437-4be5-4388-b303-702947fc3d53.html",
+      "title": "Gli hacker rivendicano la violazione di Revolut: 'Abbiamo i dati della polizia italiana'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/gli-hacker-rivendicano-la-violazione-di-revolut-abbiamo-i-dati-della-polizia-italiana_843a8437-4be5-4388-b303-702947fc3d53.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 19:30:25 +0200",
-      "excerpt": "Il Financial Times li ha contattati su Telegram, 'per mesi si sono finti agenti'"
+      "pubDate": "Wed, 16 Sep 2026 19:38:26 +0200",
+      "excerpt": "Si è attivata anche la Direzione nazionale antimafia ed antiterrorismo sul caso della truffa alla banca"
     },
     {
       "title": "Quando Berlusconi nel 2008 propose di abolire il bollo auto",
@@ -417,11 +417,11 @@
       "excerpt": "Inviata una lettera Q da 100 pixel. Il successo avvicina l'internet quantistica"
     },
     {
-      "title": "Il governo abolisce il bollo per le auto piccole e medie. Stop anche per i motocicli",
+      "title": "Il governo abolisce il bollo 2027 per le auto piccole e medie. Stop anche per i motocicli",
       "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/",
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 14:11:58 +0000",
-      "excerpt": "La cancellazione nel 2027. Meloni: “Sparisce una delle tasse più odiate dagli italiani”. Giorgetti: “Scelta sofferta”"
+      "excerpt": "Meloni: “Sparisce una delle tasse più odiate dagli italiani. Sarà strutturale con Legge di Bilancio”. Giorgetti: “Scelta sofferta”"
     },
     {
       "title": "Oscar, Moretti, Muccino, Milani e gli altri: 21 film si candidano a rappresentare l’Italia",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Fiorentina: Gnonto 'se gioco in Italia lo devo a Mancini'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/fiorentina-gnonto-se-gioco-in-italia-lo-devo-a-mancini_0772ee81-cd36-4316-891c-a1a83d039069.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 19:51:47 +0200",
+      "excerpt": "Primo gol in viola, convocato dal ct azzurro nel 2022 senza alcuna presenza in Serie A"
+    },
+    {
       "title": "Milan Benfica DIRETTA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/milan-benfica-diretta-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 14:34:51 +0200",
       "excerpt": "La rivista 'Maria con te' racconta il pellegrinaggio del portoghese dopo le nozze civili"
-    },
-    {
-      "title": "Roma, Como e Atalanta fra le società premiate Sport marketing awards di Arezzo",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/roma-como-e-atalanta-fra-le-societa-premiate-sport-marketing-awards-di-arezzo_224aa025-66c7-41d9-b172-88b47ac0d977.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 14:27:04 +0200",
-      "excerpt": "I riconoscimenti dedicati al marketing sportivo"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
