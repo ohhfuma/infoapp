@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Pininfarina, al via l'Opa volontaria per il delisting da Piazza Affari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/pininfarina-al-via-lopa-volontaria-per-il-delisting-da-piazza-affari_1e299700-d91d-4369-8353-53670780bea4.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 22:31:54 +0200",
+        "excerpt": "L'offerta riguarda il 21,17% del capitale sul mercato, corrispettivo 1 euro per azione"
+      },
+      {
+        "title": "Violenza sulle donne: 3 milioni di italiane vittime di soprusi prima dei 16 anni",
+        "link": "https://www.ilsole24ore.com/art/violenza-donne-3-milioni-italiane-vittime-soprusi-prima-16-anni-AJSb2HFB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 20:21:32 GMT",
+        "excerpt": "Mentre la vicenda di Giulia Cecchettin si prepara a diventare un film e mentre dalla politica italiana arriva la proposta di abolire il reato di femminicidio, l'Istat ha pubblicato oggi..."
+      },
+      {
         "title": "A Milano rabbino aggredito, «preso a calci e pugni a fermata del bus»",
         "link": "https://www.ilsole24ore.com/art/a-milano-rabbino-aggredito-preso-calci-e-pugni-fermata-bus-AJxq4XFB",
         "source": "Il Sole 24 Ore",
@@ -457,6 +471,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "La giustizia argentina interviene sui giacimenti delle Falkland-Malvinas",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/la-giustizia-argentina-interviene-sui-giacimenti-delle-falkland-malvinas_d159ffc0-6191-4e3d-8984-6665e8a8fd5c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 22:31:11 +0200",
+        "excerpt": "Una giudice intima ai due operatori la sospensione delle perforazioni di nuovi pozzi"
+      },
+      {
         "title": "Casa Bianca, dalla Fed una decisione 'infelice'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/casa-bianca-dalla-fed-una-decisione-infelice_e32d311b-8e8d-4665-b3c8-318f77597d47.html",
         "source": "ANSA Mondo",
@@ -753,6 +774,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "++ Violazione dati clienti Revolut, chiesti 3 milioni di dollari di riscatto ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/16/violazione-dati-clienti-revolut-chiesti-3-milioni-di-dollari-di-riscatto_ad637d6f-938c-4e4a-873b-cfb9282f1d81.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 22:23:59 +0200",
+      "excerpt": "Entro 24 ore, secondo messaggio svelato a Ft. Altrimenti hacker venderanno le informazioni"
+    },
     {
       "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
       "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
@@ -1133,6 +1161,20 @@
     }
   ],
   "sport": [
+    {
+      "title": "Calcio: Mondiali U20 donne, l'Italia va ai quarti",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/calcio-mondiali-u20-donne-litalia-va-ai-quarti_a9b77844-d583-4ef4-aa99-fed975bdba07.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 22:26:04 +0200",
+      "excerpt": "In Polonia le Azzurrine battono la Cina ai rigori. Ora c'è la Corea del Sud"
+    },
+    {
+      "title": "Europa League: Milan Benfica 0-2 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-benfica-0-2-diretta-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 22:24:15 +0200",
+      "excerpt": "A San Siro l'esordio dei rossoneri nella fase a girone unico della competizione"
+    },
     {
       "title": "Europa League: Milan Benfica 0-1 DIRETTA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-benfica-0-1-diretta-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
