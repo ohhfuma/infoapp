@@ -1,20 +1,62 @@
 {
-  "lastUpdated": "2026-09-16T15:08:36.213Z",
+  "lastUpdated": "2026-09-16T15:39:00.192Z",
   "finanza": {
     "italia": [
-      {
-        "title": "Gasolio, ridotto lo sconto: da venerdì taglio accise da 12,2 centesimi. Poi verrà dimezzato",
-        "link": "https://www.ilsole24ore.com/art/gasolio-ridotto-sconto-venerdi-taglio-accise-122-centesimi-poi-verra-dimezzato-AJS2w7EB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 15:06:45 GMT",
-        "excerpt": ""
-      },
       {
         "title": "Il governo abolisce il bollo per le auto piccole e medie. Stop anche per i motocicli",
         "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 16:54:13 +0200",
+        "pubDate": "Wed, 16 Sep 2026 17:34:19 +0200",
         "excerpt": "La cancellazione nel 2027. Meloni: “Sparisce una delle tasse più odiate dagli italiani”"
+      },
+      {
+        "title": "Fondazione Cra, allo studio nuovi modelli di prossimità bancaria",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/fondazione-cra-allo-studio-nuovi-modelli-di-prossimita-bancaria_26aa9625-490e-41bd-baff-fa1a46b5226b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 17:31:05 +0200",
+        "excerpt": "Tavolo con istituzioni e banche per definire un protocollo provinciale"
+      },
+      {
+        "title": "Borsa: Europa positiva nel finale, in arrivo i tassi Fed, Milano +1%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-europa-positiva-nel-finale-in-arrivo-i-tassi-fed-milano-1_b7887ccd-a120-4f78-9ada-2fe359b55fd5.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 17:28:29 +0200",
+        "excerpt": "Cala il greggio. Spread in ribasso a 86,1 punti, balzo di Soitec"
+      },
+      {
+        "title": "Bozza del decreto legge, il taglio delle accise scende a 12,2 centesimi fino al 25 settembre, poi si dimezza",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/bozza-del-decreto-legge-il-taglio-delle-accise-scende-a-122-centesimi_077a3461-10bd-4f58-ae5a-6024e97ac07e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 17:24:32 +0200",
+        "excerpt": "Dal 26 settembre al 5 ottobre cala a 6,1 centesimi"
+      },
+      {
+        "title": "Terna, da gennaio ad agosto installati 4,5 Gw di rinnovabili",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/terna-da-gennaio-ad-agosto-installati-45-gw-di-rinnovabili_4f817468-2b33-4662-a2f1-6d39071e6a20.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 17:21:29 +0200",
+        "excerpt": "Fotovoltaico 4,17 Gw ed eolico 0,4, arrivati a 88 Gw complessivi"
+      },
+      {
+        "title": "Mini pacchi, tassa italiana rinviata fino al 30 novembre",
+        "link": "https://www.ilsole24ore.com/art/mini-pacchi-tassa-italiana-rinviata-fino-30-novembre-AJL6AOEB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 15:18:08 GMT",
+        "excerpt": "Mini tassa italiana di due euro sui pacchi extra Ue low cost (fino a 150 euro di valore) rinviata fino al 30 novembre. A prevederlo è la bozza del decreto..."
+      },
+      {
+        "title": "Gli hacker del caso Revolut: “Abbiamo documenti interni della Polizia”",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/hacker_revolut_polizia_postale-425589022/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 17:11:33 +0200",
+        "excerpt": "Il gruppo hacker che ha colpito Revolut dichiara di avere compromesso, per sei mesi, i sistemi delle forze dell’ordine italiane e di possedere 147 GB di dati provenienti da diversi servizi di polizia italiani, tra cui ma"
+      },
+      {
+        "title": "Gasolio, ridotto lo sconto: da venerdì taglio accise da 12,2 centesimi. Poi verrà dimezzato",
+        "link": "https://www.ilsole24ore.com/art/gasolio-ridotto-sconto-venerdi-taglio-accise-122-centesimi-poi-verra-dimezzato-AJS2w7EB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 15:06:00 GMT",
+        "excerpt": "Due finestre temporali con due sconti diversi. Il Governo ha disegnato così i prossimi venti giorni di taglio sulle accise del gasolio in un quadro che è stato approvato a..."
       },
       {
         "title": "Borsa: Milano sale (+0,7%), balzo di Prysmian, scivola Stellantis",
@@ -38,7 +80,7 @@
         "excerpt": "Via libera a decreto del Ministero dell'Agricoltura per ristoro danni crisi Medio Oriente"
       },
       {
-        "title": "Meloni: via il bollo auto a 14,5 milioni di italiani",
+        "title": "Meloni: abolizione del bollo auto per 14,5 milioni di italiani",
         "link": "https://www.ilsole24ore.com/art/fonti-chigi-oggi-via-bollo-auto-piccole-e-medie-e-motocicli-AJZBH4EB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 14:13:00 GMT",
@@ -66,20 +108,6 @@
         "excerpt": "\"La competitione unfair distrugge la nostra industria. Puntare su un accordo'"
       },
       {
-        "title": "Imprese indotto, sospendiamo i licenziamenti ex Ilva",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/imprese-indotto-sospendiamo-i-licenziamenti-ex-ilva_8cd6a8c4-7902-4171-94a6-14c559cad26d.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 15:49:52 +0200",
-        "excerpt": "'Almeno fino alla sentenza della Cassazione'"
-      },
-      {
-        "title": "Salta il decreto sull'ex Ilva in cdm, si attende la Cassazione",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/aggiornato-il-tavolo-con-sindacati-sullex-ilva-nessun-decreto-oggi-in-cdm_30ffaa8e-6384-4215-9212-8150c10340ed.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 15:40:28 +0200",
-        "excerpt": "Il 20 ottobre l'udienza sul ricorso per l'area a caldo. Aggiornato il tavolo con i sindacati"
-      },
-      {
         "title": "Cisgiordania, Tajani: «Contro i coloni il quadro più efficace è nell’Ue, misure nazionali sono deboli»",
         "link": "https://www.ilsole24ore.com/art/cisgiordania-tajani-contro-coloni-quadro-piu-efficace-e-nell-ue-misure-nazionali-sono-deboli-AJ7b6xEB",
         "source": "Il Sole 24 Ore",
@@ -87,25 +115,11 @@
         "excerpt": "Il ministro degli Esteri: «Misure nazionali poggiano su basi giuridiche deboli, con il rischio di produrre effetti limitati e di essere facilmente aggirate»"
       },
       {
-        "title": "Wall Street apre in rialzo in attesa della Fed, Dj +0,10%, Nasdaq +0,45%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/wall-street-apre-in-rialzo-in-attesa-della-fed-dj-010-nasdaq-045_e46b3ed3-4b93-421b-97d7-9c451002ccbf.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 15:37:11 +0200",
-        "excerpt": "S 500 sale dello 0,25%"
-      },
-      {
         "title": "Crociere, il 65% della flotta è pronto per l’elettricità da terra",
         "link": "https://www.repubblica.it/economia/rapporti/energitalia/mobilita/2026/09/16/news/crociere_il_65_della_flotta_e_pronto_per_l_elettricita_da_terra-425588794/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Wed, 16 Sep 2026 15:35:07 +0200",
         "excerpt": "Secondo il rapporto Clia, solo il 3% degli scali mondiali ha banchine attrezzate. Crescono anche i motori multi-fuel, da una sola unità nel 2018 a 30 oggi. In Europa consumi ed emissioni medie di CO2 sono diminuiti rispe"
-      },
-      {
-        "title": "Confindustria: l'export resiste e cambia geografia. L'Asia traina, Europa ferma",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/confindustria-lexport-resiste-e-cambia-geografia.-lasia-traina-europa-ferma_3a7d84e2-e11c-4cdf-bd47-175437db4e7a.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 15:07:49 +0200",
-        "excerpt": "Per il Made in Italy nuove rotte: è più concentrato, mostra capacità di tenuta"
       },
       {
         "title": "Export, Confindustria: l’Europa arretra, l’Italia tiene. Dazi Usa ci costano il 9% delle vendite",
@@ -155,20 +169,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 09:35:00 GMT",
         "excerpt": "«Con questi costi la Lombardia si ferma», ha detto l’assessore allo sviluppo economico"
-      },
-      {
-        "title": "Gdf, medico italiano finto residente a Montecarlo: nascosti 1,3 milioni di euro al fisco",
-        "link": "https://www.ilsole24ore.com/art/gdf-medico-italiano-finto-residente-montecarlo-nascosti-13-milioni-euro-fisco-AJjhmjEB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 08:44:55 GMT",
-        "excerpt": "Risultava residente a Montecarlo ma riceveva i pazienti nei suoi studi di Genova, Imperia, Milano e Roma riscuotendo in contanti i compensi per le visite (in media 200 euro a..."
-      },
-      {
-        "title": "Istat, l’energia spinge l’inflazione di agosto al 3,3%. Frena il carrello della spesa",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/istat_inflazione_energia_agosto_conferma-425588156/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 10:43:38 +0200",
-        "excerpt": "Confermate le stime preliminari sullo scorso mese"
       }
     ],
     "europa": [
@@ -194,7 +194,7 @@
         "excerpt": "Sull’AI: «Vogliamo che crei più valore in modo più responsabile, a un costo inferiore e con un minor consumo energetico. Ma, soprattutto, vogliamo un’intelligenza artificiale che lasci spazio all’azione umana»"
       },
       {
-        "title": "Fbi: Russia pianifica omicidi mirati in Usa ed Europa",
+        "title": "Putin chiama i russi alle urne: «Nessuno riuscirà a dividerci»",
         "link": "https://www.ilsole24ore.com/art/fbi-russia-pianifica-omicidi-mirati-usa-ed-europa-AJrmEdEB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 16 Sep 2026 05:36:00 GMT",
@@ -237,6 +237,13 @@
         "source": "Repubblica Esteri",
         "pubDate": "Wed, 16 Sep 2026 17:04:12 +0200",
         "excerpt": "Per la prima volta il segretario dell’Air Force ha ammesso l’esistenza di una capacità di difesa orbitale, lanciando un avvertimento a Cina e Russa"
+      },
+      {
+        "title": "Nyt, 'Trump lancia blitz pubblicitario da 138 milioni per salvare voto midterm'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/nyt-trump-lancia-blitz-pubblicitario-da-138-milioni-per-salvare-voto_5c75f8f2-95a6-40d3-8a0e-1ddb5518610a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 16:59:18 +0200",
+        "excerpt": "'Tre super pac legati al presidente in campo per i candidati repubblicani'"
       },
       {
         "title": "Lavrov, 'se l'Europa ci attacca, il conflitto sarà breve'",
@@ -295,13 +302,6 @@
         "excerpt": "'Maggiore flessibilità nella regolamentazione al livello europeo'"
       },
       {
-        "title": "New York convoca un'udienza pubblica sui rischi dell'IA, invitate OpenAI e Anthropic",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/new-york-convoca-unudienza-pubblica-sui-rischi-dellia-invitate-openai_49b879a1-3cf5-492e-8ae8-495bb569a6a6.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 16:09:44 +0200",
-        "excerpt": "L'appuntamento il 5 ottobre"
-      },
-      {
         "title": "L’ipocrisia della sinistra verso le donne iraniane: la libertà è anche un nostro diritto, non un valore occidentale",
         "link": "https://www.repubblica.it/esteri/2026/09/16/news/ipocrisia_sinistra_donne_iraniane_liberta_e_anche_nostro_diritto_non_valore_occidentale-425588536/?rss",
         "source": "Repubblica Esteri",
@@ -347,11 +347,25 @@
   },
   "attualita": [
     {
-      "title": "Fonti di Palazzo Chigi, oggi via il bollo per auto piccole e medie e motocicli",
+      "title": "Il Cdm approva decreto, via il bollo sulle auto piccole e medie e sui motocicli e taglio delle accise fino al 5 ottobre",
       "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/fonti-palazzo-chigi-oggi-via-il-bollo-per-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 16:35:43 +0200",
-      "excerpt": "Meloni: 'Cancelliamo una delle tasse più odiate dagli italiani'"
+      "pubDate": "Wed, 16 Sep 2026 17:33:44 +0200",
+      "excerpt": "La proroga dello sconto sul carburante con un meccanismo di decalage. Meloni: 'Cancelliamo una delle tasse più odiate dagli italiani'"
+    },
+    {
+      "title": "Gli hacker del caso Revolut: “Abbiamo documenti interni della Polizia”",
+      "link": "https://www.repubblica.it/economia/2026/09/16/news/hacker_revolut_polizia_postale-425589022/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 15:11:33 +0000",
+      "excerpt": "Il gruppo hacker che ha colpito Revolut dichiara di avere compromesso, per sei mesi, i sistemi delle forze dell’ordine italiane e di possedere 147 GB di dati provenienti da diversi servizi di polizia italiani, tra cui ma"
+    },
+    {
+      "title": "Von der Leyen: 'Vogliono frantumare l'Ue, lottiamo per la nostra Europa'",
+      "link": "https://www.ansa.it/europa/notizie/rubriche/voceeurodeputati/2026/09/16/von-der-leyen-vogliono-frantumare-lue-lottiamo-per-la-nostra-europa_5ec22d77-a814-4987-ba62-4a7d31b30201.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 16:41:07 +0200",
+      "excerpt": "'Che si tratti di ultranazionalisti o euroscettici, loro obiettivo è lo stesso, vogliono frantumare la nostra unità'"
     },
     {
       "title": "Primo teletrasporto quantistico di un'immagine, su 100 canali simultaneamente",
@@ -359,13 +373,6 @@
       "source": "ANSA",
       "pubDate": "Wed, 16 Sep 2026 16:27:31 +0200",
       "excerpt": "Inviata una lettera Q da 100 pixel. Il successo avvicina l'internet quantistica"
-    },
-    {
-      "title": "Von der Leyen: 'Vogliono frantumare l'Ue, lottiamo per la nostra Europa'",
-      "link": "https://www.ansa.it/europa/notizie/rubriche/voceeurodeputati/2026/09/16/von-der-leyen-vogliono-frantumare-lue-lottiamo-per-la-nostra-europa_5ec22d77-a814-4987-ba62-4a7d31b30201.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 16:26:07 +0200",
-      "excerpt": "'Che si tratti di ultranazionalisti o euroscettici, loro obiettivo è lo stesso, vogliono frantumare la nostra unità'"
     },
     {
       "title": "Il governo abolisce il bollo per le auto piccole e medie. Stop anche per i motocicli",
@@ -417,18 +424,11 @@
       "excerpt": "La Corte anticipa la discussione dell’istanza al 20 ottobre. Riaggiornato il tavolo a Palazzo Chigi"
     },
     {
-      "title": "Ranucci, ricorso per il reintegro. La Rai avvia azione disciplinare",
-      "link": "https://www.repubblica.it/politica/2026/09/16/news/ranucci_ricorso_reintegro_rai_azione_disciplinare-425588548/",
+      "title": "Lady Diana, rubate le copie del libro di memorie del fratello",
+      "link": "https://www.repubblica.it/cultura/2026/09/16/news/lady_diana_rubate_le_copie_del_libro_di_memorie_del_fratello-425588641/",
       "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 11:25:59 +0000",
-      "excerpt": "I legali dell’ex conduttore del programma vanno al Tribunale del lavoro. Subito dopo l’azienda formalizza le contestazioni"
-    },
-    {
-      "title": "Lutto per Koeman, addio alla moglie Bartina: si era dimesso da ct dell’Olanda per stare con lei",
-      "link": "https://www.repubblica.it/sport/calcio/2026/09/16/news/koeman_morta_moglie_bartina-425588501/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 11:00:04 +0000",
-      "excerpt": "L’annuncio via social con un messaggio commovente. Prima dei Mondiali aveva spiegato: “Ha un cancro, spero possa raggiungermi per la finale”."
+      "pubDate": "Wed, 16 Sep 2026 12:10:21 +0000",
+      "excerpt": "Erano in un furgone in Olanda, destinate alla distribuzione per l’uscita mondiale. Charles Spencer, aveva annunciato nuovi particolari sulla morte della principessa"
     },
     {
       "title": "Nasce il design olfattivo degli ambienti",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Calcio: lutto per Koeman, addio alla moglie Bartina",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/calcio-lutto-per-koeman-addio-alla-moglie-bartina_49d5cc32-d0c4-4ce3-96f5-fe2c41064c8a.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 17:02:17 +0200",
+      "excerpt": "Il messaggio commosso dell'allenatore sui social"
+    },
+    {
       "title": "Calcio: Spalletti, 'accettare le pressioni è la miglior medicina per vivere'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/calcio-spalletti-accettare-le-pressioni-e-la-miglior-medicina-per-vivere_bb2c41f7-3796-4e4a-a5a9-9eacbe172d77.html",
       "source": "ANSA Sport",
@@ -529,13 +536,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 15:02:17 +0200",
       "excerpt": "Per Venezia-Lazio Sozza, Milan-Lecce diretta da La Penna"
-    },
-    {
-      "title": "Premier League: a 16 anni Dowman incanta l'Arsenal, 'talento incredibile'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/16/premier-league-a-16-anni-dowman-incanta-larsenal-talento-incredibile_cb385c87-7277-4e26-9607-cf77e8ae1130.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 14:57:06 +0200",
-      "excerpt": "Due gol in Carabao Cup, Arteta cauto: 'Dobbiamo farlo crescere'"
     },
     {
       "title": "Pugilato, Clemente Russo: 'Non torno sul ring per soldi ma per non avere la pancetta'",
