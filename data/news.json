@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-16T20:39:15.127Z",
+  "lastUpdated": "2026-09-16T21:08:25.339Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Fed, Warsh resiste a Trump e alza i tassi di 25 punti. La Casa Bianca: “Decisione infelice”",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/fed_alza_tassi_25_punti_warsh_trump-425589285/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 23:02:59 +0200",
+        "excerpt": "Il costo del denaro sale tra il 3,75% e il 4%. Ci sarà un nuovo intervento entro la fine dell’anno: l’inflazione è troppo alta"
+      },
+      {
+        "title": "Gli hacker chiedono il riscatto a Revolut. Minaccia all’Italia: “Abbiamo documenti della Polizia”.",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/hacker_revolut_polizia_postale-425589022/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 22:37:59 +0200",
+        "excerpt": "Il collettivo dichiara di avere compromesso, per sei mesi, i sistemi delle forze dell’ordine italiane e di possedere 147 GB di dati provenienti da diversi servizi di polizia italiani. In serata la richiesta di 3 milioni "
+      },
       {
         "title": "Pininfarina, al via l'Opa volontaria per il delisting da Piazza Affari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/pininfarina-al-via-lopa-volontaria-per-il-delisting-da-piazza-affari_1e299700-d91d-4369-8353-53670780bea4.html",
@@ -15,13 +29,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 20:21:32 GMT",
         "excerpt": "Mentre la vicenda di Giulia Cecchettin si prepara a diventare un film e mentre dalla politica italiana arriva la proposta di abolire il reato di femminicidio, l'Istat ha pubblicato oggi..."
-      },
-      {
-        "title": "Fed, Warsh resiste a Trump e alza i tassi di 25 punti. La Casa Bianca: “Decisione infelice”",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/fed_alza_tassi_25_punti_warsh_trump-425589285/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 22:17:17 +0200",
-        "excerpt": "Il costo del denaro sale tra il 3,75% e il 4%. Ci sarà un nuovo intervento entro la fine dell’anno: l’inflazione è troppo alta"
       },
       {
         "title": "A Milano rabbino aggredito, «preso a calci e pugni a fermata del bus»",
@@ -115,13 +122,6 @@
         "excerpt": "Mini tassa italiana di due euro sui pacchi extra Ue low cost (fino a 150 euro di valore) rinviata fino al 30 novembre. A prevederlo è la bozza del decreto..."
       },
       {
-        "title": "Gli hacker del caso Revolut: “Abbiamo documenti interni della Polizia”",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/hacker_revolut_polizia_postale-425589022/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 17:11:33 +0200",
-        "excerpt": "Il gruppo hacker che ha colpito Revolut dichiara di avere compromesso, per sei mesi, i sistemi delle forze dell’ordine italiane e di possedere 147 GB di dati provenienti da diversi servizi di polizia italiani, tra cui ma"
-      },
-      {
         "title": "Gasolio, ridotto lo sconto: da venerdì taglio accise da 12,2 centesimi. Poi verrà dimezzato",
         "link": "https://www.ilsole24ore.com/art/gasolio-ridotto-sconto-venerdi-taglio-accise-122-centesimi-poi-verra-dimezzato-AJS2w7EB",
         "source": "Il Sole 24 Ore",
@@ -177,7 +177,7 @@
         "link": "https://www.ilsole24ore.com/art/fed-alza-tassi-25-punti-base-375percento-4percento-primo-rialzo-luglio-2023-AJFaAJFB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 16 Sep 2026 18:01:00 GMT",
-        "excerpt": "Un rialzo dei tassi subito. Un altro di fatto annunciato entro la fine dell’anno. La riunione di settembre della Federal Reserve ha portato il range dei Fed Fund al 3,75%-4%,..."
+        "excerpt": "La Federal Reserve alza i tassi di 25 punti base al 3,75%-4%, primo rialzo dal luglio 2023"
       },
       {
         "title": "Ibm: accordo da 1 miliardo $ con governo Usa su quantum computing",
@@ -231,6 +231,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Trump alla Fed, 'i tassi calino e velocemente'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/trump-alla-fed-i-tassi-calino-e-velocemente_ec3d3f9f-1c72-41f8-9fbb-2de4b7727157.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 22:50:55 +0200",
+        "excerpt": "Il tycoon contro il rialzo deciso oggi dalla Banca centrale Usa"
+      },
       {
         "title": "La giustizia argentina interviene sui giacimenti delle Falkland-Malvinas",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/la-giustizia-argentina-interviene-sui-giacimenti-delle-falkland-malvinas_d159ffc0-6191-4e3d-8984-6665e8a8fd5c.html",
@@ -302,13 +309,6 @@
         "excerpt": "Conferita una laurea honoris causa ai 'desaparecidos', nessuna commemorazione del governo"
       },
       {
-        "title": "Un cavallo sepolto e la stele di un re rinvenuti vicino ad Alessandria d'Egitto",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/16/un-cavallo-sepolto-e-la-stele-di-un-re-rinvenuti-vicino-ad-alessandria-degitto_11076e96-d393-48f3-99f5-8645c86ab830.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 18:47:38 +0200",
-        "excerpt": "Reperti del Nuovo Regno scoperti nella fortezza di Tell el Abqa'in"
-      },
-      {
         "title": "Thaci condannato a 25 anni per crimini di guerra. A Pristina lanci di pietre contro sede Ue",
         "link": "https://www.repubblica.it/esteri/2026/09/16/news/guerre_balcani_tensione_sentenza_ex_leader_dell_uck_thaci-425587897/?rss",
         "source": "Repubblica Esteri",
@@ -347,11 +347,11 @@
   },
   "attualita": [
     {
-      "title": "++ Violazione dati clienti Revolut, chiesti 3 milioni di dollari di riscatto ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/16/violazione-dati-clienti-revolut-chiesti-3-milioni-di-dollari-di-riscatto_ad637d6f-938c-4e4a-873b-cfb9282f1d81.html",
+      "title": "Europa League: Milan sconfitto 2-0 dal Benfica a San Siro CRONACA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-sconfitto-2-0-dal-benfica-a-san-siro-cronaca-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 22:23:59 +0200",
-      "excerpt": "Entro 24 ore, secondo messaggio svelato a Ft. Altrimenti hacker venderanno le informazioni"
+      "pubDate": "Wed, 16 Sep 2026 22:57:41 +0200",
+      "excerpt": "I gol di Lukébakio al 16' e Kaminski al 53' per i portoghesi"
     },
     {
       "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
@@ -368,11 +368,11 @@
       "excerpt": "Al via le parlamentari, le prime dall’invasione dell’Ucraina: seggi anche nelle terre annesse. Il presidente: “Nessuno potrà dividerci, dimostrate che sosteniamo i nostri soldati al fronte”"
     },
     {
-      "title": "Prati, fermato l’uomo che ha sparato a due donne in via della Giuliana",
+      "title": "Fermato l’uomo che ha sparato a due donne in via della Giuliana. “L’ho fatto per divertimento”",
       "link": "https://roma.repubblica.it/cronaca/2026/09/16/news/cecchino_prati_costituito_carabinieri_via_della_giuliana_donne_ferite-425589431/",
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 18:53:30 +0000",
-      "excerpt": "I carabinieri stanno ascoltando il presunto colpevole: aveva acquistato una carabina ad aria compressa in un’armeria di zona"
+      "excerpt": "I carabinieri stanno ascoltando Edoardo Ciardiello, il presunto colpevole: aveva acquistato una carabina ad aria compressa in un’armeria di zona. “Ho colpito a caso” ha detto agli investigatori"
     },
     {
       "title": "Il dossier Fbi: “Killer al soldo dei servizi russi attivi in Europa e Usa”",
@@ -389,7 +389,7 @@
       "excerpt": "Il costo del denaro sale tra il 3,75% e il 4%. Ci sarà un nuovo intervento entro la fine dell’anno: l’inflazione è troppo alta"
     },
     {
-      "title": "Rabbino picchiato alla fermata dell’autobus a Milano filma gli aggressori: tre arresti",
+      "title": "Rabbino picchiato alla fermata del bus a Milano filma gli aggressori: tre giovani in questura",
       "link": "https://milano.repubblica.it/cronaca/2026/09/16/news/rabbino_picchiato_alla_fermata_dell_autobus_a_milano-425589278/",
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 18:03:34 +0000",
@@ -445,11 +445,11 @@
       "excerpt": "A Roma l'installazione di Isaac Julien, a Bagnacavallo c'è Chiara Calore"
     },
     {
-      "title": "Gli hacker del caso Revolut: “Abbiamo documenti interni della Polizia”",
+      "title": "Gli hacker chiedono il riscatto a Revolut. Minaccia l’Italia: “Abbiamo documenti della Polizia”.",
       "link": "https://www.repubblica.it/economia/2026/09/16/news/hacker_revolut_polizia_postale-425589022/",
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 15:11:33 +0000",
-      "excerpt": "Il gruppo hacker che ha colpito Revolut dichiara di avere compromesso, per sei mesi, i sistemi delle forze dell’ordine italiane e di possedere 147 GB di dati provenienti da diversi servizi di polizia italiani, tra cui ma"
+      "excerpt": "Il gruppo hacker che ha colpito Revolut dichiara di avere compromesso, per sei mesi, i sistemi delle forze dell’ordine italiane e di possedere 147 GB di dati provenienti da diversi servizi di polizia italiani. In serata "
     },
     {
       "title": "Primo teletrasporto quantistico di un'immagine, su 100 canali simultaneamente",
@@ -517,18 +517,18 @@
   ],
   "sport": [
     {
+      "title": "Europa League: Milan sconfitto 2-0 dal Benfica a San Siro CRONACA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-sconfitto-2-0-dal-benfica-a-san-siro-cronaca-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 22:57:41 +0200",
+      "excerpt": "I gol di Lukébakio al 16' e Kaminski al 53' per i portoghesi"
+    },
+    {
       "title": "Calcio: Mondiali U20 donne, l'Italia va ai quarti",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/calcio-mondiali-u20-donne-litalia-va-ai-quarti_a9b77844-d583-4ef4-aa99-fed975bdba07.html",
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 22:26:04 +0200",
       "excerpt": "In Polonia le Azzurrine battono la Cina ai rigori. Ora c'è la Corea del Sud"
-    },
-    {
-      "title": "Europa League: Milan Benfica 0-2 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-benfica-0-2-diretta-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 22:24:15 +0200",
-      "excerpt": "A San Siro l'esordio dei rossoneri nella fase a girone unico della competizione"
     },
     {
       "title": "Europa League: la Juventus sfida il NEC. Spalletti: 'Accettiamo le pressioni'",
