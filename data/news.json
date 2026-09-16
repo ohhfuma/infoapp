@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-09-16T22:38:09.028Z",
+  "lastUpdated": "2026-09-16T23:07:33.428Z",
   "finanza": {
     "italia": [
       {
         "title": "Fed, Warsh resiste a Trump e alza i tassi di 25 punti. La Casa Bianca: “Decisione infelice”",
         "link": "https://www.repubblica.it/economia/2026/09/16/news/fed_alza_tassi_25_punti_warsh_trump-425589285/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 23:02:59 +0200",
+        "pubDate": "Thu, 17 Sep 2026 00:48:53 +0200",
         "excerpt": "Il costo del denaro sale tra il 3,75% e il 4%. Ci sarà un nuovo intervento entro la fine dell’anno: l’inflazione è troppo alta"
+      },
+      {
+        "title": "Il bollo auto di Meloni: la vignetta di Ellekappa",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_meloni_vignetta_ellekappa-425589591/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 00:01:00 +0200",
+        "excerpt": ""
       },
       {
         "title": "Gli hacker chiedono il riscatto a Revolut. Minaccia all’Italia: “Abbiamo documenti della Polizia”.",
@@ -162,13 +169,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Wed, 16 Sep 2026 15:35:07 +0200",
         "excerpt": "Secondo il rapporto Clia, solo il 3% degli scali mondiali ha banchine attrezzate. Crescono anche i motori multi-fuel, da una sola unità nel 2018 a 30 oggi. In Europa consumi ed emissioni medie di CO2 sono diminuiti rispe"
-      },
-      {
-        "title": "Export, Confindustria: l’Europa arretra, l’Italia tiene. Dazi Usa ci costano il 9% delle vendite",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/export_confindustria_l_europa_arretra_l_italia_tiene_dazi_usa_ci_costano_il_9_delle_vendite-425588735/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 15:03:16 +0200",
-        "excerpt": "La vicepresidente Cimmino: “Sempre più urgente aprire nuove rotte commerciali”. Opportunità dagli accordi con Mercosur e India, e dai Paesi del Golfo"
       }
     ],
     "europa": [
@@ -232,6 +232,62 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump minaccia il taglio del commercio con l’Ue se il il Canada diventa membro associato",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/trump_minaccia_il_taglio_del_commercio_con_l_ue_se_il_il_canada_diventa_membro_associato-425589788/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 01:04:32 +0200",
+        "excerpt": "Le dichiarazioni del tycoon interpellato dai giornalisti"
+      },
+      {
+        "title": "Gaza City, crolla il palazzo bombardato due anni fa: 21 morti, altri 50 dispersi",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/gaza_city_crolla_palazzo_bombardato_due_anni_fa_morti_dispersi-425589657/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Il condominio “al Saada” era rimasto in piedi nonostante i danni, ed era diventato rifugio per sette famiglie di sfollati in cerca di riparo. Ora si scava a mani nude in cerca di superstiti"
+      },
+      {
+        "title": "Kubilius: “A guerra ibrida, risposta ibrida. Difficile in Europa tornare a sognare la pace”",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/kubilius_intervista_difesa_europea-425589611/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Il commissario Ue per la Difesa: “Non ci sarà mai un momento in cui saremo pronti a difenderci da soli: dovremo adattarci”"
+      },
+      {
+        "title": "Ue, nasce l’asse con il Canada: “Sarà membro associato”. Segnale a Usa e Mosca",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/ue_asse_canada_usa_mosca-425589607/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Siglata l’alleanza transoceanica davanti al premier Carney che resta però scettico sulla formula della “associazione”"
+      },
+      {
+        "title": "Naza, minacce a casa della regista. Netanyahu: “Via la cittadinanza”",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/naza_minacce_casa_regista_netanyahu_via_cittadinanza-425589543/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Proteste contro il film. Ma ora, per la prima volta, in Israele si parla dei massacri nella Striscia"
+      },
+      {
+        "title": "Il referendum di Putin sulla guerra in Ucraina con i dissidenti in cella",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/elezioni_duma_russia_putin_senza_opposizione-425589520/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Cresce il malcontento, ma a Vladimir non basta vincere in solitaria: gli serve una alta affluenza per legittimare le prossime mosse belliche"
+      },
+      {
+        "title": "“Separiamoci dall’Italia”. I secessionisti sudtirolesi e l’alleanza con l’Afd",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/separiamoci_italia_sodalizio_sudtirolesi_melanie_mair_congresso_ultradestra_tedesca_afd-425589437/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Melanie Mair, leader dei giovani del Süd-Tiroler Freiheit, al congresso dell’ultradestra tedesca: “Via da questo Stato”"
+      },
+      {
+        "title": "L’allarme di von der Leyen: “Russi e ultranazionalisti vogliono frantumare la Ue”",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/ursula_von_der_leyen_allarme_nazionalisti_russi_ue-425589410/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Il discorso della leader della Commissione: “Dal Cremlino strategia del terrore”. Conferma il sostegno a Kiev e insiste su energia, migranti, clima e difesa comune"
+      },
+      {
         "title": "Lula intima al presidente Corte suprema brasiliana di risolverne la crisi",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-intima-al-presidente-corte-suprema-brasiliana-di-risolverne-la-crisi_813c6b12-1430-4a55-9997-e5fa5475665d.html",
         "source": "ANSA Mondo",
@@ -286,62 +342,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Wed, 16 Sep 2026 22:00:04 +0200",
         "excerpt": "'Non sostenuta da motivazioni economiche particolarmente convincenti'"
-      },
-      {
-        "title": "La chiamata alle urne di Putin: “Votate per la Duma e vinceremo”",
-        "link": "https://www.repubblica.it/esteri/2026/09/16/news/putin_discorso_russia_elezioni_parlamentari_partiti-425589459/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 20:59:52 +0200",
-        "excerpt": "Al via le parlamentari, le prime dall’invasione dell’Ucraina: seggi anche nelle terre annesse. Il presidente: “Nessuno potrà dividerci, dimostrate che sosteniamo i nostri soldati al fronte”"
-      },
-      {
-        "title": "Il dossier Fbi: “Killer al soldo dei servizi russi attivi in Europa e Usa”",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/dossier_fbi_killer_servizi_russi_attivi_europa_usa-425589346/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 20:50:00 +0200",
-        "excerpt": "Il documento depositato in tribunale cita tentati omicidi e pedinamenti di dissidenti in Repubblica Ceca, Lituania e America"
-      },
-      {
-        "title": "Macron invita i leader Ue a Metz per il discorso del Papa sull’Europa: Meloni non ci sarà",
-        "link": "https://www.repubblica.it/esteri/2026/09/16/news/macron_invita_leader_ue_metz_discorso_papa_europa_meloni_non_ci_sara-425589283/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 20:07:07 +0200",
-        "excerpt": "Leone sarà in Francia dal 25 al 28 settembre. E il presidente francese punta a trasformare la visita pontificia in un appuntamento politico e simbolico per l’Unione europea"
-      },
-      {
-        "title": "Thaci condannato a 25 anni per crimini di guerra. A Pristina lanci di pietre contro sede Ue",
-        "link": "https://www.repubblica.it/esteri/2026/09/16/news/guerre_balcani_tensione_sentenza_ex_leader_dell_uck_thaci-425587897/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 17:38:20 +0200",
-        "excerpt": "L’ex presidente e leader dell’Uck è stato riconosciuto colpevole dall’Aia insieme a tre suoi comandanti. Il rischio è che si alzi la tensione nell’intera regione"
-      },
-      {
-        "title": "Gli Stati Uniti si preparano alle “Guerre stellari”: armi già nello spazio contro azioni ostili",
-        "link": "https://www.repubblica.it/esteri/2026/09/16/news/stati_uniti_preparano_guerre_stellari_armi_spazio_russia_cina-425588963/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 17:04:12 +0200",
-        "excerpt": "Per la prima volta il segretario dell’Air Force ha ammesso l’esistenza di una capacità di difesa orbitale, lanciando un avvertimento a Cina e Russa"
-      },
-      {
-        "title": "Gaza, crolla un palazzo: almeno 20 i morti tra cui 8 bambini",
-        "link": "https://www.repubblica.it/esteri/2026/09/16/news/gaza_crolla_un_palazzo_bambini_tra_le_macerie_striscia-425588255/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 16:29:44 +0200",
-        "excerpt": "L’edificio era stato danneggiato dai bombardamenti israeliani ma era rimasto intatto ed era diventato un rifugio per tanti sfollati: “Almeno cento persone tra le macerie, tra cui 50 bambini. Ma mancano ruspe ed escavator"
-      },
-      {
-        "title": "L’ipocrisia della sinistra verso le donne iraniane: la libertà è anche un nostro diritto, non un valore occidentale",
-        "link": "https://www.repubblica.it/esteri/2026/09/16/news/ipocrisia_sinistra_donne_iraniane_liberta_e_anche_nostro_diritto_non_valore_occidentale-425588536/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 13:19:05 +0200",
-        "excerpt": "Di fronte a questioni come la possibilità di non indossare il velo, il problema è il paternalismo intellettuale: la pretesa di decidere di quali aspirazioni del popolo iraniano siano autentiche e quali un prodotto dell’O"
-      },
-      {
-        "title": "Von der Leyen: “Il Canada primo membro associato dell’Ue”. Sicurezza, energia e difesa al centro della nuova Europa",
-        "link": "https://www.repubblica.it/esteri/2026/09/16/news/von_der_leyen_discorso_stato_unione_ue-425587961/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 11:38:26 +0200",
-        "excerpt": "Nel discorso sullo stato dell’Unione, la presidente della Commissione europea annuncia un nuovo asse con Ottawa per rafforzare l’indipendenza e la sicurezza dell’Ue di fronte alle minacce russe e alle tensioni con gli St"
       }
     ]
   },
