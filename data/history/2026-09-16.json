@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Via il bollo per il 70% delle auto, citycar, utilitarie, piccoli suv",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/via-il-bollo-per-il-70-delle-auto-citycar-utilitarie-piccoli-suv_fcdb5e9d-1983-4b67-8e8f-8593abd9f5d4.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 20:34:25 +0200",
+        "excerpt": "La scheda"
+      },
+      {
+        "title": "La Fed rialza i tassi di 25 punti base, prima volta in 3 anni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/la-fed-rialza-i-tassi-di-25-punti-base-prima-volta-in-3-anni_244008fb-ab04-473d-ae63-e7dac0b32701.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 20:14:46 +0200",
+        "excerpt": "Salgono nel terzo Fomc presieduto da Kevin Warsh dal 3,50%-3,75% al 3,75%-4%"
+      },
+      {
         "title": "Fed, Warsh resiste a Trump e alza i tassi di 25 punti. Primo aumento da tre anni",
         "link": "https://www.repubblica.it/economia/2026/09/16/news/fed_alza_tassi_25_punti_warsh_trump-425589285/?rss",
         "source": "Repubblica Economia",
@@ -422,6 +436,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Macron invita i leader Ue a Metz per il discorso del Papa sull’Europa: Meloni non ci sarà",
+        "link": "https://www.repubblica.it/esteri/2026/09/16/news/macron_invita_leader_ue_metz_discorso_papa_europa_meloni_non_ci_sara-425589283/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 16 Sep 2026 20:07:07 +0200",
+        "excerpt": "Leone sarà in Francia dal 25 al 28 settembre. E il presidente francese punta a trasformare la visita pontificia in un appuntamento politico e simbolico per l’Unione europea"
+      },
+      {
         "title": "È morta Sunny, il secondo cane degli Obama dopo Bo",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/e-morta-sunny-il-secondo-cane-degli-obama-dopo-bo_c575a466-ffce-41de-8b0f-78762bade2c3.html",
         "source": "ANSA Mondo",
@@ -683,6 +704,34 @@
     ]
   },
   "attualita": [
+    {
+      "title": "La Fed rialza i tassi di 25 punti base, prima volta in 3 anni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/la-fed-rialza-i-tassi-di-25-punti-base-prima-volta-in-3-anni_244008fb-ab04-473d-ae63-e7dac0b32701.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 20:14:46 +0200",
+      "excerpt": "Salgono nel terzo Fomc presieduto da Kevin Warsh dal 3,50%-3,75% al 3,75%-4%"
+    },
+    {
+      "title": "Fed, Warsh resiste a Trump e alza i tassi di 25 punti. Primo aumento da tre anni",
+      "link": "https://www.repubblica.it/economia/2026/09/16/news/fed_alza_tassi_25_punti_warsh_trump-425589285/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 18:07:20 +0000",
+      "excerpt": "Il costo del denaro sale tra il 3,75% e il 4%. Decisione all’unanimità"
+    },
+    {
+      "title": "Rabbino picchiato alla fermata dell’autobus a Milano: in questura tre sospettati, sono ragazzini",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/16/news/rabbino_picchiato_alla_fermata_dell_autobus_a_milano-425589278/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 18:03:34 +0000",
+      "excerpt": "L’aggressione in piazzale Bande Nere: insulti in arabo e italiano, poi calci e il furto del cappello"
+    },
+    {
+      "title": "Dario Vitale direttore creativo di Emporio Armani e accessori, il primo fuori dalla famiglia",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/16/dario-vitale-direttore-creativo-di-emporio-armani-e-accessori-il-primo-fuori-dalla_6c7f695d-4c40-4f94-9ab7-ba2e686b1081.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 20:00:42 +0200",
+      "excerpt": "'Nuovo capitolo nel rispetto della visione che contraddistingue il nome Giorgio Armani'"
+    },
     {
       "title": "Gli hacker rivendicano la violazione di Revolut: 'Abbiamo i dati della polizia italiana'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/gli-hacker-rivendicano-la-violazione-di-revolut-abbiamo-i-dati-della-polizia-italiana_843a8437-4be5-4388-b303-702947fc3d53.html",
@@ -986,6 +1035,20 @@
     }
   ],
   "sport": [
+    {
+      "title": "Tennis: Alcaraz ottiene il pass per le Finals Atp",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/16/tennis-alcaraz-ottiene-il-pass-per-le-finals-atp_808e72cf-d2ca-4a25-83c2-a4bccc842d81.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 20:29:43 +0200",
+      "excerpt": "Lo spagnolo sarà a Torino. Si unisce a Sinner e Zverev"
+    },
+    {
+      "title": "Europa League: Milan con Hutchinson e Cisse, Terracciano in difesa",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-con-hutchinson-e-cisse-terracciano-in-difesa_b5ad97ae-f5e6-4a67-b5c5-2d2a3695d5c0.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 20:06:20 +0200",
+      "excerpt": "Tante novità di formazione per Amorim contro il Benfica"
+    },
     {
       "title": "Fiorentina: Gnonto 'se gioco in Italia lo devo a Mancini'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/fiorentina-gnonto-se-gioco-in-italia-lo-devo-a-mancini_0772ee81-cd36-4316-891c-a1a83d039069.html",

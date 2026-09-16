@@ -1,12 +1,26 @@
 {
-  "lastUpdated": "2026-09-16T18:09:23.190Z",
+  "lastUpdated": "2026-09-16T18:42:02.039Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Via il bollo per il 70% delle auto, citycar, utilitarie, piccoli suv",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/via-il-bollo-per-il-70-delle-auto-citycar-utilitarie-piccoli-suv_fcdb5e9d-1983-4b67-8e8f-8593abd9f5d4.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 20:34:25 +0200",
+        "excerpt": "La scheda"
+      },
+      {
+        "title": "La Fed rialza i tassi di 25 punti base, prima volta in 3 anni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/la-fed-rialza-i-tassi-di-25-punti-base-prima-volta-in-3-anni_244008fb-ab04-473d-ae63-e7dac0b32701.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 20:14:46 +0200",
+        "excerpt": "Salgono nel terzo Fomc presieduto da Kevin Warsh dal 3,50%-3,75% al 3,75%-4%"
+      },
       {
         "title": "Fed, Warsh resiste a Trump e alza i tassi di 25 punti. Primo aumento da tre anni",
         "link": "https://www.repubblica.it/economia/2026/09/16/news/fed_alza_tassi_25_punti_warsh_trump-425589285/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 20:07:20 +0200",
+        "pubDate": "Wed, 16 Sep 2026 20:14:42 +0200",
         "excerpt": "Il costo del denaro sale tra il 3,75% e il 4%. Decisione all’unanimità"
       },
       {
@@ -78,20 +92,6 @@
         "source": "ANSA Economia",
         "pubDate": "Wed, 16 Sep 2026 17:40:35 +0200",
         "excerpt": "Taglio accise scende a 12,2 centesimi fino al 25 settembre, poi si dimezza"
-      },
-      {
-        "title": "Borsa: Milano chiude in rialzo, +0,8%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-milano-chiude-in-rialzo-08_697d6458-a0b2-43d0-a363-7283d060b234.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 17:38:33 +0200",
-        "excerpt": "Indice Ftse Mib a quota 51.969 punti"
-      },
-      {
-        "title": "Fondazione Cra, allo studio nuovi modelli di prossimità bancaria",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/fondazione-cra-allo-studio-nuovi-modelli-di-prossimita-bancaria_26aa9625-490e-41bd-baff-fa1a46b5226b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 17:31:05 +0200",
-        "excerpt": "Tavolo con istituzioni e banche per definire un protocollo provinciale"
       },
       {
         "title": "Mini pacchi, tassa italiana rinviata fino al 30 novembre",
@@ -177,7 +177,7 @@
         "link": "https://www.ilsole24ore.com/art/fed-alza-tassi-25-punti-base-375percento-4percento-primo-rialzo-luglio-2023-AJFaAJFB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 16 Sep 2026 18:01:00 GMT",
-        "excerpt": "La Federal Reserve rialza i tassi di interesse nella terza riunione del board con Kevin Warsh presidente. Il costo del denaro, in linea con le attese, sale dalla forchetta tra..."
+        "excerpt": "Un rialzo dei tassi subito. Uno quasi annunciato entro la fine dell’anno. La riunione della Federal Reserve ha portato il range dei Fed Fund al 3,75%-4%, dal precedente 3,50%-3,75% con..."
       },
       {
         "title": "Ibm: accordo da 1 miliardo $ con governo Usa su quantum computing",
@@ -208,7 +208,7 @@
         "excerpt": "Il presidente Vladimir Putin si è rivolto oggi ai russi in un discorso televisivo per invitarli ad andare a votare nelle elezioni per il rinnovo della Duma"
       },
       {
-        "title": "Guerra ultime notizie. Cina  pronta a “salvaguardare” i diritti dell’Iran. A Gaza 50 bambini sotto le macerie",
+        "title": "Guerra ultime notizie. Cina pronta a “salvaguardare” i diritti dell’Iran. A Gaza 50 bambini sotto le macerie",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-camera-usa-approva-misura-che-impone-trump-fine-conflitto-AJtTbcEB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 16 Sep 2026 05:11:00 GMT",
@@ -231,6 +231,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Macron invita i leader Ue a Metz per il discorso del Papa sull’Europa: Meloni non ci sarà",
+        "link": "https://www.repubblica.it/esteri/2026/09/16/news/macron_invita_leader_ue_metz_discorso_papa_europa_meloni_non_ci_sara-425589283/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 16 Sep 2026 20:07:07 +0200",
+        "excerpt": "Leone sarà in Francia dal 25 al 28 settembre. E il presidente francese punta a trasformare la visita pontificia in un appuntamento politico e simbolico per l’Unione europea"
+      },
       {
         "title": "È morta Sunny, il secondo cane degli Obama dopo Bo",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/e-morta-sunny-il-secondo-cane-degli-obama-dopo-bo_c575a466-ffce-41de-8b0f-78762bade2c3.html",
@@ -335,23 +342,44 @@
         "source": "Repubblica Esteri",
         "pubDate": "Wed, 16 Sep 2026 03:26:16 +0200",
         "excerpt": "Diciotto democratici hanno votato insieme ai repubblicani"
-      },
-      {
-        "title": "La Mecca nel mirino degli Houthi. E Riad non dà garanzie sulle forniture di petrolio all’Europa",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/houthi_mecca_arabia_saudita_petrolio_europa-425587588/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 01:00:00 +0200",
-        "excerpt": "L’Arabia Saudita fa sapere alle raffinerie europee che i barili a settembre non sbarcheranno. Il greggio ormai sfiora i 110 dollari. Bin Salman vola al Cairo per chiedere aiuto ad Al Sisi"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Gli hacker rivendicano la violazione di Revolut: 'Abbiamo i dati della polizia italiana'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/gli-hacker-rivendicano-la-violazione-di-revolut-abbiamo-i-dati-della-polizia-italiana_843a8437-4be5-4388-b303-702947fc3d53.html",
+      "title": "Il Cdm approva il decreto, via il bollo sulle auto piccole e medie e sui motocicli e taglio delle accise fino al 5 ottobre",
+      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/il-cdm-approva-il-decreto-via-il-bollo-sulle-auto-piccole-e-medie-e-sui_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 19:38:26 +0200",
-      "excerpt": "Si è attivata anche la Direzione nazionale antimafia ed antiterrorismo sul caso della truffa alla banca"
+      "pubDate": "Wed, 16 Sep 2026 20:35:13 +0200",
+      "excerpt": "La proroga dello sconto sul carburante con un meccanismo di decalage. Meloni: 'Cancelliamo una delle tasse più odiate dagli italiani'"
+    },
+    {
+      "title": "La Fed rialza i tassi di 25 punti base, prima volta in 3 anni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/la-fed-rialza-i-tassi-di-25-punti-base-prima-volta-in-3-anni_244008fb-ab04-473d-ae63-e7dac0b32701.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 20:14:46 +0200",
+      "excerpt": "Salgono nel terzo Fomc presieduto da Kevin Warsh dal 3,50%-3,75% al 3,75%-4%"
+    },
+    {
+      "title": "Fed, Warsh resiste a Trump e alza i tassi di 25 punti. Primo aumento da tre anni",
+      "link": "https://www.repubblica.it/economia/2026/09/16/news/fed_alza_tassi_25_punti_warsh_trump-425589285/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 18:07:20 +0000",
+      "excerpt": "Il costo del denaro sale tra il 3,75% e il 4%. Decisione all’unanimità"
+    },
+    {
+      "title": "Rabbino picchiato alla fermata dell’autobus a Milano: in questura tre sospettati, sono ragazzini",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/16/news/rabbino_picchiato_alla_fermata_dell_autobus_a_milano-425589278/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 18:03:34 +0000",
+      "excerpt": "L’aggressione in piazzale Bande Nere: insulti in arabo e italiano, poi calci e il furto del cappello"
+    },
+    {
+      "title": "Dario Vitale direttore creativo di Emporio Armani e accessori, il primo fuori dalla famiglia",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/16/dario-vitale-direttore-creativo-di-emporio-armani-e-accessori-il-primo-fuori-dalla_6c7f695d-4c40-4f94-9ab7-ba2e686b1081.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 20:00:42 +0200",
+      "excerpt": "'Nuovo capitolo nel rispetto della visione che contraddistingue il nome Giorgio Armani'"
     },
     {
       "title": "Quando Berlusconi nel 2008 propose di abolire il bollo auto",
@@ -359,13 +387,6 @@
       "source": "ANSA",
       "pubDate": "Wed, 16 Sep 2026 19:25:53 +0200",
       "excerpt": "La proposta rilanciata nel 2017. Un anno prima anche Renzi non lo aveva escluso"
-    },
-    {
-      "title": "Il Cdm approva il decreto, via il bollo sulle auto piccole e medie e sui motocicli e taglio delle accise fino al 5 ottobre",
-      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/il-cdm-approva-il-decreto-via-il-bollo-sulle-auto-piccole-e-medie-e-sui_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 19:19:46 +0200",
-      "excerpt": "La proroga dello sconto sul carburante con un meccanismo di decalage. Meloni: 'Cancelliamo una delle tasse più odiate dagli italiani'"
     },
     {
       "title": "Scamarcio: \"I figli della scimmia è un film pieno di amore\"",
@@ -431,32 +452,11 @@
       "excerpt": "Pubblicata oggi la lista: il 23 settembre la scelta della commissione"
     },
     {
-      "title": "Vitale direttore creativo di Emporio Armani e accessori, primo fuori da famiglia",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/16/vitale-direttore-creativo-di-emporio-armani-e-accessori-primo-fuori-da-famiglia_6c7f695d-4c40-4f94-9ab7-ba2e686b1081.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 15:55:30 +0200",
-      "excerpt": "'Nuovo capitolo nel rispetto della visione che contraddistingue il nome Giorgio Armani'"
-    },
-    {
       "title": "La Lega vuole Sardone candidata sindaco a Milano, l’annuncio a Pontida",
       "link": "https://www.repubblica.it/politica/2026/09/16/news/sardone_candidata_sindaco_milano_lega_annuncio_pontida-425588845/",
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 13:50:40 +0000",
       "excerpt": "L’eurodeputata, 43 anni, viene da una lunga militanza nel centrodestra cittadino"
-    },
-    {
-      "title": "Violenza sulle donne, i dati Istat: “Tre milioni le vittime prima dei 16 anni”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/16/news/violenza_donne_istat_vittime_under_16-425588695/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 12:47:43 +0000",
-      "excerpt": "Un bambino su dieci ha assistito durante l’infanzia a maltrattamenti tra i genitori"
-    },
-    {
-      "title": "Vigilanza Rai, La Russa: “Entro mercoledì i nomi o scelgo io”. Opposizione: “No a forzature”",
-      "link": "https://www.repubblica.it/politica/2026/09/16/news/vigilanza_rai_la_russa_nomina_componenti_opposizione-425588687/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 12:45:27 +0000",
-      "excerpt": "L’annuncio del presidente del Senato durante la conferenza dei capigruppo: “Scaduti i termini”. La minoranza: “Sbloccate il Freedom Act”"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -517,18 +517,32 @@
   ],
   "sport": [
     {
-      "title": "Fiorentina: Gnonto 'se gioco in Italia lo devo a Mancini'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/fiorentina-gnonto-se-gioco-in-italia-lo-devo-a-mancini_0772ee81-cd36-4316-891c-a1a83d039069.html",
+      "title": "Tennis: Alcaraz ottiene il pass per le Finals Atp",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/16/tennis-alcaraz-ottiene-il-pass-per-le-finals-atp_808e72cf-d2ca-4a25-83c2-a4bccc842d81.html",
       "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 19:51:47 +0200",
-      "excerpt": "Primo gol in viola, convocato dal ct azzurro nel 2022 senza alcuna presenza in Serie A"
+      "pubDate": "Wed, 16 Sep 2026 20:29:43 +0200",
+      "excerpt": "Lo spagnolo sarà a Torino. Si unisce a Sinner e Zverev"
     },
     {
       "title": "Milan Benfica DIRETTA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/milan-benfica-diretta-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
       "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 19:19:11 +0200",
+      "pubDate": "Wed, 16 Sep 2026 20:09:11 +0200",
       "excerpt": "A San Siro l'esordio dei rossoneri nella fase a girone unico della competizione"
+    },
+    {
+      "title": "Europa League: Milan con Hutchinson e Cisse, Terracciano in difesa",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-con-hutchinson-e-cisse-terracciano-in-difesa_b5ad97ae-f5e6-4a67-b5c5-2d2a3695d5c0.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 20:06:20 +0200",
+      "excerpt": "Tante novità di formazione per Amorim contro il Benfica"
+    },
+    {
+      "title": "Fiorentina: Gnonto 'se gioco in Italia lo devo a Mancini'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/fiorentina-gnonto-se-gioco-in-italia-lo-devo-a-mancini_0772ee81-cd36-4316-891c-a1a83d039069.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 19:51:47 +0200",
+      "excerpt": "Primo gol in viola, convocato dal ct azzurro nel 2022 senza alcuna presenza in Serie A"
     },
     {
       "title": "Roma-Inter: contusione alla caviglia per Hermoso, Gasperini pensa a Balerdi",
@@ -557,20 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 15:45:03 +0200",
       "excerpt": "Tecnico Juve: 'a 10 anni guadagnavo qualcosa per la famiglia...'"
-    },
-    {
-      "title": "Serie A: Massa arbitra Roma-Inter, a Doveri Fiorentina-Napoli",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/calcio-massa-arbitra-roma-inter-a-doveri-fiorentina-napoli_2a128925-0b74-403f-9622-91341720d618.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 15:02:17 +0200",
-      "excerpt": "Per Venezia-Lazio Sozza, Milan-Lecce diretta da La Penna"
-    },
-    {
-      "title": "Edizioni San Paolo rivela 'Ronaldo pregò a Fatima perché Messi perdesse i Mondiali'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/edizioni-san-paolo-rivela-ronaldo-prego-a-fatima-perche-messi-perdesse_f95f4fc4-e8f2-42be-af37-012518b5e153.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 14:34:51 +0200",
-      "excerpt": "La rivista 'Maria con te' racconta il pellegrinaggio del portoghese dopo le nozze civili"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
