@@ -4,12 +4,28 @@ import path from 'path';
 
 const parser = new Parser({ timeout: 10000 });
 
+// NOTA: alcuni URL ANSA per le sotto-aree geografiche sono dedotti dal pattern
+// noto delle loro URL. Verificheremo insieme i log di GitHub Actions dopo il
+// primo run, esattamente come abbiamo già fatto per altri feed in passato.
 const FEEDS = {
-  finanza: [
-    { name: "Il Sole 24 Ore", url: "https://www.ilsole24ore.com/rss/italia.xml" },
-    { name: "ANSA Economia", url: "https://www.ansa.it/sito/notizie/economia/economia_rss.xml" },
-    { name: "Repubblica Economia", url: "https://www.repubblica.it/rss/economia/rss2.0.xml" }
-  ],
+  finanza: {
+    italia: [
+      { name: "Il Sole 24 Ore", url: "https://www.ilsole24ore.com/rss/italia.xml" },
+      { name: "ANSA Economia", url: "https://www.ansa.it/sito/notizie/economia/economia_rss.xml" },
+      { name: "Repubblica Economia", url: "https://www.repubblica.it/rss/economia/rss2.0.xml" }
+    ],
+    europa: [
+      { name: "ANSA Europa", url: "https://www.ansa.it/sito/notizie/mondo/europa/europa_rss.xml" },
+      { name: "Il Sole 24 Ore Mondo", url: "https://www.ilsole24ore.com/rss/mondo.xml" }
+    ],
+    usa: [
+      { name: "ANSA Nordamerica", url: "https://www.ansa.it/sito/notizie/mondo/nordamerica/nordamerica_rss.xml" }
+    ],
+    mondo: [
+      { name: "ANSA Mondo", url: "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml" },
+      { name: "Repubblica Esteri", url: "https://www.repubblica.it/rss/esteri/rss2.0.xml" }
+    ]
+  },
   attualita: [
     { name: "Corriere della Sera", url: "https://xml2.corriereobjects.it/rss/homepage.xml" },
     { name: "Repubblica", url: "https://www.repubblica.it/rss/homepage/rss2.0.xml" },
@@ -53,13 +69,22 @@ async function fetchCategory(feeds) {
         excerpt: cleanExcerpt(item.contentSnippet || item.summary || '')
       }));
       items = items.concat(feedItems);
-      console.log(`✓ ${feed.name}: ${feedItems.length} notizie`);
+      console.log(`  ✓ ${feed.name}: ${feedItems.length} notizie`);
     } catch (err) {
-      console.error(`✗ Errore in ${feed.name} (${feed.url}): ${err.message}`);
+      console.error(`  ✗ Errore in ${feed.name} (${feed.url}): ${err.message}`);
     }
   }
   items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   return items;
+}
+
+async function fetchRegionGroup(regions) {
+  const result = {};
+  for (const [region, feeds] of Object.entries(regions)) {
+    console.log(`  Area: ${region}`);
+    result[region] = await fetchCategory(feeds);
+  }
+  return result;
 }
 
 function mergeUnique(existing, fresh, maxItems) {
@@ -73,6 +98,19 @@ function mergeUnique(existing, fresh, maxItems) {
   }
   merged.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   return merged.slice(0, maxItems);
+}
+
+// Gestisce sia categorie "semplici" (array di notizie) sia categorie
+// "annidate" per area geografica (oggetto con più array), in modo generico.
+function mergeCategoryData(existing, fresh, maxItems) {
+  if (Array.isArray(fresh)) {
+    return mergeUnique(existing || [], fresh, maxItems);
+  }
+  const merged = {};
+  for (const key of Object.keys(fresh)) {
+    merged[key] = mergeUnique((existing && existing[key]) || [], fresh[key], maxItems);
+  }
+  return merged;
 }
 
 function updateTodayHistory(categoriesData, todayKey) {
@@ -90,8 +128,7 @@ function updateTodayHistory(categoriesData, todayKey) {
 
   const merged = { date: todayKey, label: keyToLabel(todayKey) };
   for (const category of Object.keys(categoriesData)) {
-    const prevItems = existing[category] || [];
-    merged[category] = mergeUnique(prevItems, categoriesData[category], MAX_ITEMS_PER_DAY);
+    merged[category] = mergeCategoryData(existing[category], categoriesData[category], MAX_ITEMS_PER_DAY);
   }
 
   fs.writeFileSync(todayFile, JSON.stringify(merged, null, 2));
@@ -132,9 +169,14 @@ async function main() {
   const output = { lastUpdated: new Date().toISOString() };
   const categoriesData = {};
 
-  for (const [category, feeds] of Object.entries(FEEDS)) {
+  console.log('\n--- Categoria: finanza (per area) ---');
+  const finanzaData = await fetchRegionGroup(FEEDS.finanza);
+  output.finanza = finanzaData;
+  categoriesData.finanza = finanzaData;
+
+  for (const category of ['attualita', 'sport']) {
     console.log(`\n--- Categoria: ${category} ---`);
-    const items = await fetchCategory(feeds);
+    const items = await fetchCategory(FEEDS[category]);
     output[category] = items;
     categoriesData[category] = items;
   }
