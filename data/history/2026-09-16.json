@@ -4,6 +4,34 @@
   "finanza": {
     "italia": [
       {
+        "title": "Borsa: Milano chiude in rialzo (+0,8%), balza Prysmian, giù Stellantis",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-milano-chiude-in-rialzo-08-balza-prysmian-giu-stellantis_6b1b06c1-f0d4-4417-904a-809dd48e86a7.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 18:16:57 +0200",
+        "excerpt": "Acquisti su Lottomatica e Italgas, corre Tisg, deboli Nexi ed Eni"
+      },
+      {
+        "title": "Lo spread tra Btp e Bund tedeschi chiude in ribasso a 86 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-ribasso-a-86-punti_8b3731b5-d887-4701-930b-e21557b4d36b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 18:11:23 +0200",
+        "excerpt": "Il rendimento annuo italiano cede 5,5 punti al 4,36%"
+      },
+      {
+        "title": "I ricavi Mfe-Mediaset nei primi sei mesi scendono a 2,95 miliardi, bene l'utile",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/i-ricavi-mfe-mediaset-nei-primi-sei-mesi-scendono-a-295-miliardi_b3fe127b-f2d6-4cc5-a74a-0002a58e8f16.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 18:09:40 +0200",
+        "excerpt": "P.S. Berlusconi, 'risultato operativo molto sopra le stime'. Confermati target per il 2026"
+      },
+      {
+        "title": "Per Mfe più utili grazie alle sinergie, cala il fatturato",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/mfe_semestrale_2026_berlusconi-425589118/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 18:08:05 +0200",
+        "excerpt": "La semestrale del gruppo tv guidato da Pier Silvio Berlusconi: confermate le stime per il 2026"
+      },
+      {
         "title": "Bollo auto e moto: dalla Pandina alla Polo, tutte le macchine esenti",
         "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_esenzione_pandina_polo_avenger_yaris-425589105/?rss",
         "source": "Repubblica Economia",
@@ -366,6 +394,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Rubio accusa nuovamente Sudafrica di discriminazione contro gli afrikaner",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/16/rubio-accusa-nuovamente-sudafrica-di-discriminazione-contro-gli-afrikaner_2838b83b-6cb3-4ab4-841a-5cd30bbfbf46.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 18:32:13 +0200",
+        "excerpt": "Restrizione su visti per persone ritenute responsabili di politiche contestate dagli Usa"
+      },
+      {
+        "title": "Attesa per il libro del fratello di lady D che imbarazza reali, copie rubate in Olanda",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/attesa-per-il-libro-del-fratello-di-lady-d-che-imbarazza-reali-copie_fd65a3e8-cd69-452e-be0b-84be6682adba.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 18:05:47 +0200",
+        "excerpt": "'Il Canto del Cigno - Diana, mia sorella' sarà pubblicato entro fine mese"
+      },
+      {
         "title": "Al via campagna Ice nei Paesi Bassi per promuovere l'agroalimentare italiano",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/al-via-campagna-ice-nei-paesi-bassi-per-promuovere-lagroalimentare-italiano_bd5b5152-c131-4598-ae43-c02c76f3b3d0.html",
         "source": "ANSA Mondo",
@@ -578,6 +620,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Bollo auto e moto: dalla Pandina alla Polo, tutte le macchine esenti",
+      "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_esenzione_pandina_polo_avenger_yaris-425589105/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 16:00:03 +0000",
+      "excerpt": "Il beneficio riguarda soprattutto citycar e utilitarie, non sono esclusi piccoli Suv come la Jeep Avenger nella versione con motore termico. Fuori i suv di media e alta gamma"
+    },
     {
       "title": "Il Cdm approva il decreto, via il bollo sulle auto piccole e medie e sui motocicli e taglio delle accise fino al 5 ottobre",
       "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/il-cdm-approva-il-decreto-via-il-bollo-sulle-auto-piccole-e-medie-e-sui_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
@@ -811,6 +860,13 @@
     }
   ],
   "sport": [
+    {
+      "title": "Roma-Inter: contusione alla caviglia per Hermoso, Gasperini pensa a Balerdi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/roma-inter-contusione-alla-caviglia-per-hermoso-gasperini-pensa-a-balerdi_19b33a6e-adf2-4886-a377-654d6ce72042.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 17:56:13 +0200",
+      "excerpt": "In attacco la solita coppia gol composta da Dybala e Malen"
+    },
     {
       "title": "Tennis: Djokovic annuncia il rientro, 'felice di giocare a Pechino'",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/16/tennis-djokovic-annuncia-il-rientro-felice-di-giocare-a-pechino_f3f9de06-cb97-4348-95c1-d4f5b674c4f9.html",

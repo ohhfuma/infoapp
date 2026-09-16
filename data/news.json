@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-09-16T16:09:10.055Z",
+  "lastUpdated": "2026-09-16T16:38:54.868Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Milano chiude in rialzo (+0,8%), balza Prysmian, giù Stellantis",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-milano-chiude-in-rialzo-08-balza-prysmian-giu-stellantis_6b1b06c1-f0d4-4417-904a-809dd48e86a7.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 18:16:57 +0200",
+        "excerpt": "Acquisti su Lottomatica e Italgas, corre Tisg, deboli Nexi ed Eni"
+      },
+      {
+        "title": "Lo spread tra Btp e Bund tedeschi chiude in ribasso a 86 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-ribasso-a-86-punti_8b3731b5-d887-4701-930b-e21557b4d36b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 18:11:23 +0200",
+        "excerpt": "Il rendimento annuo italiano cede 5,5 punti al 4,36%"
+      },
+      {
+        "title": "I ricavi Mfe-Mediaset nei primi sei mesi scendono a 2,95 miliardi, bene l'utile",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/i-ricavi-mfe-mediaset-nei-primi-sei-mesi-scendono-a-295-miliardi_b3fe127b-f2d6-4cc5-a74a-0002a58e8f16.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 18:09:40 +0200",
+        "excerpt": "P.S. Berlusconi, 'risultato operativo molto sopra le stime'. Confermati target per il 2026"
+      },
+      {
+        "title": "Per Mfe più utili grazie alle sinergie, cala il fatturato",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/mfe_semestrale_2026_berlusconi-425589118/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 18:08:05 +0200",
+        "excerpt": "La semestrale del gruppo tv guidato da Pier Silvio Berlusconi: confermate le stime per il 2026"
+      },
       {
         "title": "Bollo auto e moto: dalla Pandina alla Polo, tutte le macchine esenti",
         "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_esenzione_pandina_polo_avenger_yaris-425589105/?rss",
@@ -52,20 +80,6 @@
         "excerpt": "Cala il greggio. Spread in ribasso a 86,1 punti, balzo di Soitec"
       },
       {
-        "title": "Bozza del decreto legge, il taglio delle accise scende a 12,2 centesimi fino al 25 settembre, poi si dimezza",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/bozza-del-decreto-legge-il-taglio-delle-accise-scende-a-122-centesimi_077a3461-10bd-4f58-ae5a-6024e97ac07e.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 17:24:32 +0200",
-        "excerpt": "Dal 26 settembre al 5 ottobre cala a 6,1 centesimi"
-      },
-      {
-        "title": "Terna, da gennaio ad agosto installati 4,5 Gw di rinnovabili",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/terna-da-gennaio-ad-agosto-installati-45-gw-di-rinnovabili_4f817468-2b33-4662-a2f1-6d39071e6a20.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 17:21:29 +0200",
-        "excerpt": "Fotovoltaico 4,17 Gw ed eolico 0,4, arrivati a 88 Gw complessivi"
-      },
-      {
         "title": "Mini pacchi, tassa italiana rinviata fino al 30 novembre",
         "link": "https://www.ilsole24ore.com/art/mini-pacchi-tassa-italiana-rinviata-fino-30-novembre-AJL6AOEB",
         "source": "Il Sole 24 Ore",
@@ -85,13 +99,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 15:06:00 GMT",
         "excerpt": "Due finestre temporali con due sconti diversi. Il Governo ha disegnato così i prossimi venti giorni di taglio sulle accise del gasolio in un quadro che è stato approvato a..."
-      },
-      {
-        "title": "Borsa: Milano sale (+0,7%), balzo di Prysmian, scivola Stellantis",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-milano-sale-07-balzo-di-prysmian-scivola-stellantis_7b46bdea-f68d-4264-acdf-dff1cecef6e0.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 16:50:00 +0200",
-        "excerpt": "Corrono Saipem, Inwit e Cucinelli, frena Fincantieri, fa il botto Tisg"
       },
       {
         "title": "Gioco d’azzardo, lievita la spesa nei piccoli Comuni italiani",
@@ -141,13 +148,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Wed, 16 Sep 2026 13:31:44 +0200",
         "excerpt": "Secondo l’Osservatorio sulla socialità contemporanea promosso da Heineken Italia, la convivialità è frutto della condivisione di gusti ed esperienze nuove"
-      },
-      {
-        "title": "Transizione ecologica, la partita si gioca nelle città del mondo",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/transizione_ecologica_la_partita_si_gioca_nelle_citta_del_mondo-425588484/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 13:03:33 +0200",
-        "excerpt": "Le metropoli italiane \"generano oltre il 60% del Pil e concentrano la maggior parte dei consumi energetici e delle emissioni\""
       },
       {
         "title": "Ex Ilva: nessun decreto nel cdm di oggi, aggiornato tavolo con i sindacati",
@@ -232,6 +232,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Rubio accusa nuovamente Sudafrica di discriminazione contro gli afrikaner",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/16/rubio-accusa-nuovamente-sudafrica-di-discriminazione-contro-gli-afrikaner_2838b83b-6cb3-4ab4-841a-5cd30bbfbf46.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 18:32:13 +0200",
+        "excerpt": "Restrizione su visti per persone ritenute responsabili di politiche contestate dagli Usa"
+      },
+      {
+        "title": "Attesa per il libro del fratello di lady D che imbarazza reali, copie rubate in Olanda",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/attesa-per-il-libro-del-fratello-di-lady-d-che-imbarazza-reali-copie_fd65a3e8-cd69-452e-be0b-84be6682adba.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 18:05:47 +0200",
+        "excerpt": "'Il Canto del Cigno - Diana, mia sorella' sarà pubblicato entro fine mese"
+      },
+      {
         "title": "Al via campagna Ice nei Paesi Bassi per promuovere l'agroalimentare italiano",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/al-via-campagna-ice-nei-paesi-bassi-per-promuovere-lagroalimentare-italiano_bd5b5152-c131-4598-ae43-c02c76f3b3d0.html",
         "source": "ANSA Mondo",
@@ -288,20 +302,6 @@
         "excerpt": "Il ministro degli Esteri russo cita Putin: 'Non abbiamo alcun interesse a questo'"
       },
       {
-        "title": "Carney, 'Canada e Ue partner naturali, focus su partenariato più stretto'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/carney-canada-e-ue-partner-naturali-focus-su-partenariato-piu-stretto_3a013912-7866-4ce1-b018-f8ec1d64dfbb.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 16:42:55 +0200",
-        "excerpt": "Premier canadese: 'Siamo uniti da valori condivisi'"
-      },
-      {
-        "title": "Carney, 'Canada e Ue partner naturali, focus su partenariato più stretto'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/carney-canada-e-ue-partner-naturali-focus-su-partenariato-piu-stretto_c8facc9d-200f-4dfe-b798-47f7db8992d6.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 16:42:40 +0200",
-        "excerpt": "Premier canadese: 'Siamo uniti da valori condivisi'"
-      },
-      {
         "title": "Gaza, crolla un palazzo: almeno 20 i morti tra cui 8 bambini",
         "link": "https://www.repubblica.it/esteri/2026/09/16/news/gaza_crolla_un_palazzo_bambini_tra_le_macerie_striscia-425588255/?rss",
         "source": "Repubblica Esteri",
@@ -350,8 +350,15 @@
       "title": "Il Cdm approva il decreto, via il bollo sulle auto piccole e medie e sui motocicli e taglio delle accise fino al 5 ottobre",
       "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/il-cdm-approva-il-decreto-via-il-bollo-sulle-auto-piccole-e-medie-e-sui_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 17:36:15 +0200",
+      "pubDate": "Wed, 16 Sep 2026 18:15:57 +0200",
       "excerpt": "La proroga dello sconto sul carburante con un meccanismo di decalage. Meloni: 'Cancelliamo una delle tasse più odiate dagli italiani'"
+    },
+    {
+      "title": "Bollo auto e moto: dalla Pandina alla Polo, tutte le macchine esenti",
+      "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_esenzione_pandina_polo_avenger_yaris-425589105/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 16:00:03 +0000",
+      "excerpt": "Il beneficio riguarda soprattutto citycar e utilitarie, non sono esclusi piccoli Suv come la Jeep Avenger nella versione con motore termico. Fuori i suv di media e alta gamma"
     },
     {
       "title": "Gli hacker del caso Revolut: “Abbiamo documenti interni della Polizia”",
@@ -415,13 +422,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 12:45:27 +0000",
       "excerpt": "L’annuncio del presidente del Senato durante la conferenza dei capigruppo: “Scaduti i termini”. La minoranza: “Sbloccate il Freedom Act”"
-    },
-    {
-      "title": "Ex Ilva, la Cassazione anticipa l’udienza sul ricorso. Sospesi i licenziamenti. Salta il decreto",
-      "link": "https://www.repubblica.it/economia/2026/09/16/news/ex_ilva_la_cassazione_anticipa_udienza_commissari_decreto_cdm-425588679/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 12:39:28 +0000",
-      "excerpt": "La Corte anticipa la discussione dell’istanza al 20 ottobre. Riaggiornato il tavolo a Palazzo Chigi"
     },
     {
       "title": "Lady Diana, rubate le copie del libro di memorie del fratello",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Roma-Inter: contusione alla caviglia per Hermoso, Gasperini pensa a Balerdi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/roma-inter-contusione-alla-caviglia-per-hermoso-gasperini-pensa-a-balerdi_19b33a6e-adf2-4886-a377-654d6ce72042.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 17:56:13 +0200",
+      "excerpt": "In attacco la solita coppia gol composta da Dybala e Malen"
+    },
+    {
       "title": "Tennis: Djokovic annuncia il rientro, 'felice di giocare a Pechino'",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/16/tennis-djokovic-annuncia-il-rientro-felice-di-giocare-a-pechino_f3f9de06-cb97-4348-95c1-d4f5b674c4f9.html",
       "source": "ANSA Sport",
@@ -543,13 +550,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 15:02:17 +0200",
       "excerpt": "Per Venezia-Lazio Sozza, Milan-Lecce diretta da La Penna"
-    },
-    {
-      "title": "Pugilato, Clemente Russo: 'Non torno sul ring per soldi ma per non avere la pancetta'",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/16/pugilato-clemente-russo-non-torno-sul-ring-per-soldi-ma-per_6d2a998d-3717-4dfc-a56f-68d6f5a63fcf.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 14:54:21 +0200",
-      "excerpt": "A 44 anni sfidera' campione italiano mediomassimi: 'Sarà un match vero, non un'esibizione'"
     },
     {
       "title": "Edizioni San Paolo rivela 'Ronaldo pregò a Fatima perché Messi perdesse i Mondiali'",
