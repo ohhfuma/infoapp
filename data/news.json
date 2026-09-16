@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-09-16T14:53:20.688Z",
+  "lastUpdated": "2026-09-16T15:08:36.213Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Gasolio, ridotto lo sconto: da venerdì taglio accise da 12,2 centesimi. Poi verrà dimezzato",
+        "link": "https://www.ilsole24ore.com/art/gasolio-ridotto-sconto-venerdi-taglio-accise-122-centesimi-poi-verra-dimezzato-AJS2w7EB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 16 Sep 2026 15:06:45 GMT",
+        "excerpt": ""
+      },
       {
         "title": "Il governo abolisce il bollo per le auto piccole e medie. Stop anche per i motocicli",
         "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 16:49:32 +0200",
+        "pubDate": "Wed, 16 Sep 2026 16:54:13 +0200",
         "excerpt": "La cancellazione nel 2027. Meloni: “Sparisce una delle tasse più odiate dagli italiani”"
+      },
+      {
+        "title": "Borsa: Milano sale (+0,7%), balzo di Prysmian, scivola Stellantis",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-milano-sale-07-balzo-di-prysmian-scivola-stellantis_7b46bdea-f68d-4264-acdf-dff1cecef6e0.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 16:50:00 +0200",
+        "excerpt": "Corrono Saipem, Inwit e Cucinelli, frena Fincantieri, fa il botto Tisg"
       },
       {
         "title": "Gioco d’azzardo, lievita la spesa nei piccoli Comuni italiani",
@@ -101,13 +115,6 @@
         "excerpt": "La vicepresidente Cimmino: “Sempre più urgente aprire nuove rotte commerciali”. Opportunità dagli accordi con Mercosur e India, e dai Paesi del Golfo"
       },
       {
-        "title": "Cucinelli, in Umbria un nuovo data center 'umanistico'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/cucinelli-in-umbria-un-nuovo-data-center-umanistico_4ab82941-512c-4e32-ac12-67dc3733fe24.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 14:31:35 +0200",
-        "excerpt": "'Dobbiamo considerare l'intelligenza artificiale un'ancella dell'uomo'"
-      },
-      {
         "title": "La tavola alimenta le conversazioni e favorisce le relazioni",
         "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/stili-di-vita/2026/09/16/news/la_tavola_alimenta_le_conversazioni_e_favorisce_le_relazioni-425588561/?rss",
         "source": "Repubblica Economia",
@@ -162,13 +169,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Wed, 16 Sep 2026 10:43:38 +0200",
         "excerpt": "Confermate le stime preliminari sullo scorso mese"
-      },
-      {
-        "title": "Istat: inflazione di agosto confermata in aumento al 3,3% su base annua ",
-        "link": "https://www.ilsole24ore.com/art/istat-inflazione-agosto-confermata-33percento-base-annua-AJ6CngEB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 08:03:00 GMT",
-        "excerpt": "Nel mese di agosto 2026 l’indice nazionale dei prezzi al consumo per l’intera collettività (NIC), al lordo dei tabacchi, registra una variazione del +0,5% su base mensile e del +3,3%..."
       }
     ],
     "europa": [
@@ -232,11 +232,18 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Gli Stati Uniti si preparano alle “Guerre stellari”: armi nello spazio contro azioni ostili",
+        "title": "Gli Stati Uniti si preparano alle “Guerre stellari”: armi già nello spazio contro azioni ostili",
         "link": "https://www.repubblica.it/esteri/2026/09/16/news/stati_uniti_preparano_guerre_stellari_armi_spazio_russia_cina-425588963/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 16:47:58 +0200",
+        "pubDate": "Wed, 16 Sep 2026 17:04:12 +0200",
         "excerpt": "Per la prima volta il segretario dell’Air Force ha ammesso l’esistenza di una capacità di difesa orbitale, lanciando un avvertimento a Cina e Russa"
+      },
+      {
+        "title": "Lavrov, 'se l'Europa ci attacca, il conflitto sarà breve'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/lavrov-se-leuropa-ci-attacca-il-conflitto-sara-breve_61e0314e-c5f3-4ca8-9915-716ca107ad91.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 16:55:46 +0200",
+        "excerpt": "Il ministro degli Esteri russo cita Putin: 'Non abbiamo alcun interesse a questo'"
       },
       {
         "title": "Carney, 'Canada e Ue partner naturali, focus su partenariato più stretto'",
@@ -293,13 +300,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Wed, 16 Sep 2026 16:09:44 +0200",
         "excerpt": "L'appuntamento il 5 ottobre"
-      },
-      {
-        "title": "Venezuela, aule deserte a La Guaira per la ripresa delle lezioni",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/venezuela-aule-deserte-a-la-guaira-per-la-ripresa-delle-lezioni_ad0e3546-540c-4d05-941e-6880fd5c3ccf.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 14:02:58 +0200",
-        "excerpt": "Il terremoto ha distrutto varie scuole e diffuso la paura tra gli alunni"
       },
       {
         "title": "L’ipocrisia della sinistra verso le donne iraniane: la libertà è anche un nostro diritto, non un valore occidentale",
@@ -372,7 +372,7 @@
       "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/",
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 14:11:58 +0000",
-      "excerpt": "Meloni: “Sparisce una delle tasse più odiate dagli italiani”"
+      "excerpt": "La cancellazione nel 2027. Meloni: “Sparisce una delle tasse più odiate dagli italiani”"
     },
     {
       "title": "Oscar, Moretti, Muccino, Milani e gli altri: 21 film si candidano a rappresentare l’Italia",
