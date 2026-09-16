@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-16T16:38:54.868Z",
+  "lastUpdated": "2026-09-16T17:07:29.116Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il governo abolisce il bollo per le auto piccole e medie. Stop anche per i motocicli",
+        "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 16 Sep 2026 19:01:49 +0200",
+        "excerpt": "La cancellazione nel 2027. Meloni: “Sparisce una delle tasse più odiate dagli italiani”. Giorgetti: “Scelta sofferta”"
+      },
+      {
+        "title": "Il gas scende sotto i 78 euro sulla piazza Ttf di Amsterdam",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/il-gas-scende-sotto-i-78-euro-sulla-piazza-ttf-di-amsterdam_1ad4b4e0-f96a-41ac-ab59-bbd2bf494dcf.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 18:39:44 +0200",
+        "excerpt": "I contratti future sul mese di ottobre cedono il 3,04% a 77,6 euro al MWh"
+      },
       {
         "title": "Borsa: Milano chiude in rialzo (+0,8%), balza Prysmian, giù Stellantis",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-milano-chiude-in-rialzo-08-balza-prysmian-giu-stellantis_6b1b06c1-f0d4-4417-904a-809dd48e86a7.html",
@@ -59,25 +73,11 @@
         "excerpt": "Indice Ftse Mib a quota 51.969 punti"
       },
       {
-        "title": "Il governo abolisce il bollo per le auto piccole e medie. Stop anche per i motocicli",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 17:34:19 +0200",
-        "excerpt": "La cancellazione nel 2027. Meloni: “Sparisce una delle tasse più odiate dagli italiani”"
-      },
-      {
         "title": "Fondazione Cra, allo studio nuovi modelli di prossimità bancaria",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/fondazione-cra-allo-studio-nuovi-modelli-di-prossimita-bancaria_26aa9625-490e-41bd-baff-fa1a46b5226b.html",
         "source": "ANSA Economia",
         "pubDate": "Wed, 16 Sep 2026 17:31:05 +0200",
         "excerpt": "Tavolo con istituzioni e banche per definire un protocollo provinciale"
-      },
-      {
-        "title": "Borsa: Europa positiva nel finale, in arrivo i tassi Fed, Milano +1%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-europa-positiva-nel-finale-in-arrivo-i-tassi-fed-milano-1_b7887ccd-a120-4f78-9ada-2fe359b55fd5.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 17:28:29 +0200",
-        "excerpt": "Cala il greggio. Spread in ribasso a 86,1 punti, balzo di Soitec"
       },
       {
         "title": "Mini pacchi, tassa italiana rinviata fino al 30 novembre",
@@ -232,6 +232,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "L'Argentina ricorda 'la notte delle matite' a 50 anni dal sequestro degli studenti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/largentina-ricorda-la-notte-delle-matite-a-50-anni-dal-sequestro-degli-studenti_3ceebc77-424b-473a-9d36-879f3174c815.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 18:49:37 +0200",
+        "excerpt": "Conferita una laurea honoris causa ai 'desaparecidos', nessuna commemorazione del governo"
+      },
+      {
+        "title": "Un cavallo sepolto e la stele di un re rinvenuti vicino ad Alessandria d'Egitto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/16/un-cavallo-sepolto-e-la-stele-di-un-re-rinvenuti-vicino-ad-alessandria-degitto_11076e96-d393-48f3-99f5-8645c86ab830.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 16 Sep 2026 18:47:38 +0200",
+        "excerpt": "Reperti del Nuovo Regno scoperti nella fortezza di Tell el Abqa'in"
+      },
+      {
         "title": "Rubio accusa nuovamente Sudafrica di discriminazione contro gli afrikaner",
         "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/16/rubio-accusa-nuovamente-sudafrica-di-discriminazione-contro-gli-afrikaner_2838b83b-6cb3-4ab4-841a-5cd30bbfbf46.html",
         "source": "ANSA Mondo",
@@ -288,20 +302,6 @@
         "excerpt": "Per la prima volta il segretario dell’Air Force ha ammesso l’esistenza di una capacità di difesa orbitale, lanciando un avvertimento a Cina e Russa"
       },
       {
-        "title": "Nyt, 'Trump lancia blitz pubblicitario da 138 milioni per salvare voto midterm'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/16/nyt-trump-lancia-blitz-pubblicitario-da-138-milioni-per-salvare-voto_5c75f8f2-95a6-40d3-8a0e-1ddb5518610a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 16:59:18 +0200",
-        "excerpt": "'Tre super pac legati al presidente in campo per i candidati repubblicani'"
-      },
-      {
-        "title": "Lavrov, 'se l'Europa ci attacca, il conflitto sarà breve'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/16/lavrov-se-leuropa-ci-attacca-il-conflitto-sara-breve_61e0314e-c5f3-4ca8-9915-716ca107ad91.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 16:55:46 +0200",
-        "excerpt": "Il ministro degli Esteri russo cita Putin: 'Non abbiamo alcun interesse a questo'"
-      },
-      {
         "title": "Gaza, crolla un palazzo: almeno 20 i morti tra cui 8 bambini",
         "link": "https://www.repubblica.it/esteri/2026/09/16/news/gaza_crolla_un_palazzo_bambini_tra_le_macerie_striscia-425588255/?rss",
         "source": "Repubblica Esteri",
@@ -350,8 +350,36 @@
       "title": "Il Cdm approva il decreto, via il bollo sulle auto piccole e medie e sui motocicli e taglio delle accise fino al 5 ottobre",
       "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/il-cdm-approva-il-decreto-via-il-bollo-sulle-auto-piccole-e-medie-e-sui_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 18:15:57 +0200",
+      "pubDate": "Wed, 16 Sep 2026 18:40:34 +0200",
       "excerpt": "La proroga dello sconto sul carburante con un meccanismo di decalage. Meloni: 'Cancelliamo una delle tasse più odiate dagli italiani'"
+    },
+    {
+      "title": "Rinvio sull'ex Ilva, aggiornato il tavolo con i sindacati",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/16/rinvio-sullex-ilva-aggiornato-il-tavolo-con-i-sindacati_38ad21a4-7a0c-4aba-8529-c7025078aecf.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 18:40:32 +0200",
+      "excerpt": "Udienza sul ricorso il 20 ottobre e licenziamenti sospesi. Slitta il decreto"
+    },
+    {
+      "title": "Scamarcio: \"I figli della scimmia è un film pieno di amore\"",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/09/16/scamarcio-i-figli-della-scimmia-e-un-film-pieno-di-amore_add70857-3d82-4fdc-9281-3fc43beec375.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 18:33:09 +0200",
+      "excerpt": "L'attore a Torino: \"Fotografia su una famiglia dove tutti ci possiamo riconoscere\""
+    },
+    {
+      "title": "Il Global Gender Gap Report 2026: 'La parità di genere fa progressi record nel mondo, l'Italia indietro'",
+      "link": "https://www.ansa.it/donne/notizie/2026/09/16/il-global-gender-gap-report-2026-la-parita-di-genere-fa-progressi-record-nel_94f9ce45-cfef-436d-a323-418f9e6a3eca.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 18:27:48 +0200",
+      "excerpt": "Per la parità ci vorranno 120 anni. I Paesi nord europei guidano la classifica"
+    },
+    {
+      "title": "Meloni: “Voglio arrivare a fine legislatura. Fiducia su legge elettorale è un fatto di chiarezza”",
+      "link": "https://www.repubblica.it/politica/2026/09/16/news/melon_voto_politiche_fiducia_legge_elettorale-425589144/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 16:26:46 +0000",
+      "excerpt": "Alleanza con Vannacci? “Per me è sempre molto più importante vincere per governare che vincere per non governare”"
     },
     {
       "title": "Bollo auto e moto: dalla Pandina alla Polo, tutte le macchine esenti",
@@ -359,6 +387,13 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 16:00:03 +0000",
       "excerpt": "Il beneficio riguarda soprattutto citycar e utilitarie, non sono esclusi piccoli Suv come la Jeep Avenger nella versione con motore termico. Fuori i suv di media e alta gamma"
+    },
+    {
+      "title": "Le mostre del weekend, da Kandinsky a Bertozzi",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/16/le-mostre-del-weekend-da-kandinsky-a-bertozzi_e5384eee-1532-4833-b98b-72f10cb735a9.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 17:51:31 +0200",
+      "excerpt": "A Roma l'installazione di Isaac Julien, a Bagnacavallo c'è Chiara Calore"
     },
     {
       "title": "Gli hacker del caso Revolut: “Abbiamo documenti interni della Polizia”",
@@ -386,7 +421,7 @@
       "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/",
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 14:11:58 +0000",
-      "excerpt": "La cancellazione nel 2027. Meloni: “Sparisce una delle tasse più odiate dagli italiani”"
+      "excerpt": "La cancellazione nel 2027. Meloni: “Sparisce una delle tasse più odiate dagli italiani”. Giorgetti: “Scelta sofferta”"
     },
     {
       "title": "Oscar, Moretti, Muccino, Milani e gli altri: 21 film si candidano a rappresentare l’Italia",
@@ -394,13 +429,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 14:07:01 +0000",
       "excerpt": "Pubblicata oggi la lista: il 23 settembre la scelta della commissione"
-    },
-    {
-      "title": "Ex Ilva, nessun decreto oggi in cdm, la Cassazione fissa l'udienza il 20 ottobre",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/16/ex-ilva-tavolo-con-sindacati-riaggiornato-nessun-decreto-oggi-in-cdm_38ad21a4-7a0c-4aba-8529-c7025078aecf.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 16:02:52 +0200",
-      "excerpt": "Imprese dell'indotto: 'Sospendiamo i licenziamenti almeno fino alla sentenza della Cassazione'"
     },
     {
       "title": "La Lega vuole Sardone candidata sindaco a Milano, l’annuncio a Pontida",
@@ -424,39 +452,11 @@
       "excerpt": "L’annuncio del presidente del Senato durante la conferenza dei capigruppo: “Scaduti i termini”. La minoranza: “Sbloccate il Freedom Act”"
     },
     {
-      "title": "Lady Diana, rubate le copie del libro di memorie del fratello",
-      "link": "https://www.repubblica.it/cultura/2026/09/16/news/lady_diana_rubate_le_copie_del_libro_di_memorie_del_fratello-425588641/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 12:10:21 +0000",
-      "excerpt": "Erano in un furgone in Olanda, destinate alla distribuzione per l’uscita mondiale. Charles Spencer, aveva annunciato nuovi particolari sulla morte della principessa"
-    },
-    {
       "title": "Nasce il design olfattivo degli ambienti",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/design_giardino/2026/09/15/nasce-il-design-olfattivo-degli-ambienti_23cd14f6-058e-40f7-90e1-13e4467a0923.html",
       "source": "ANSA",
       "pubDate": "Tue, 15 Sep 2026 19:31:30 +0200",
       "excerpt": "Catalogate centinaia di essenze per la progettazione di spazi migliori in cui vivere"
-    },
-    {
-      "title": "Le 'Vie dei Tesori' festeggia vent'anni, aperti tanti spazi culturali a Palermo",
-      "link": "https://www.ansa.it/canale_viaggi/regione/sicilia/2026/09/15/le-vie-dei-tesori-festeggia-ventanni-aperti-tanti-spazi-culturali-a-palermo_c751f940-f41d-4695-8ceb-3ce34e42f321.html",
-      "source": "ANSA",
-      "pubDate": "Tue, 15 Sep 2026 18:33:42 +0200",
-      "excerpt": "Diciannove programmi e nuovi luoghi anche in altre città; dal 19 settembre al 15 novembre"
-    },
-    {
-      "title": "'A pesca di abilità', il 20 settembre alla banchina del Mandracchio ad Ancona",
-      "link": "https://www.ansa.it/responsabilmente/notizie/territori_virtuosi/2026/09/15/a-pesca-di-abilita-il-20-settembre-alla-banchina-del-mandracchio-ad-ancona_d9b11e5c-b425-49b5-b410-9dbd444372e7.html",
-      "source": "ANSA",
-      "pubDate": "Tue, 15 Sep 2026 18:17:48 +0200",
-      "excerpt": "Imbarcazioni salperanno per abbattere le barriere della disabilità con la pesca sportiva"
-    },
-    {
-      "title": "In Sardegna la prima legge in Italia sulla tutela dei minori col diabete",
-      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/diabete/2026/09/15/in-sardegna-la-prima-legge-in-italia-sulla-tutela-dei-minori-col-diabete_5cb5f9af-10ae-4a58-87a1-92916a8a886f.html",
-      "source": "ANSA",
-      "pubDate": "Tue, 15 Sep 2026 15:02:12 +0200",
-      "excerpt": "Testo unificato dedicato a una platea di 15mila pazienti"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
