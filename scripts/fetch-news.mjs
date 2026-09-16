@@ -1,5 +1,6 @@
 import Parser from 'rss-parser';
 import fs from 'fs';
+import path from 'path';
 
 const parser = new Parser({ timeout: 10000 });
 
@@ -22,9 +23,21 @@ const FEEDS = {
 };
 
 const MAX_ITEMS_PER_SOURCE = 8;
+const MAX_ITEMS_PER_DAY = 60;
+const HISTORY_DAYS_TO_KEEP = 7;
+const HISTORY_DIR = 'data/history';
 
 function cleanExcerpt(text) {
   return (text || '').replace(/\s+/g, ' ').trim().slice(0, 220);
+}
+
+function getRomeDateKey(date = new Date()) {
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Rome' }).format(date);
+}
+
+function keyToLabel(dateKey) {
+  const d = new Date(dateKey + 'T12:00:00Z');
+  return d.toLocaleDateString('it-IT', { weekday: 'short', day: '2-digit', month: '2-digit' });
 }
 
 async function fetchCategory(feeds) {
@@ -49,15 +62,90 @@ async function fetchCategory(feeds) {
   return items;
 }
 
+function mergeUnique(existing, fresh, maxItems) {
+  const merged = [...existing];
+  const seenLinks = new Set(existing.map(i => i.link));
+  for (const item of fresh) {
+    if (!seenLinks.has(item.link)) {
+      merged.push(item);
+      seenLinks.add(item.link);
+    }
+  }
+  merged.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  return merged.slice(0, maxItems);
+}
+
+function updateTodayHistory(categoriesData, todayKey) {
+  fs.mkdirSync(HISTORY_DIR, { recursive: true });
+  const todayFile = path.join(HISTORY_DIR, `${todayKey}.json`);
+
+  let existing = {};
+  if (fs.existsSync(todayFile)) {
+    try {
+      existing = JSON.parse(fs.readFileSync(todayFile, 'utf-8'));
+    } catch (e) {
+      console.error('Attenzione: file storico odierno corrotto, verrà ricreato.');
+    }
+  }
+
+  const merged = { date: todayKey, label: keyToLabel(todayKey) };
+  for (const category of Object.keys(categoriesData)) {
+    const prevItems = existing[category] || [];
+    merged[category] = mergeUnique(prevItems, categoriesData[category], MAX_ITEMS_PER_DAY);
+  }
+
+  fs.writeFileSync(todayFile, JSON.stringify(merged, null, 2));
+  console.log(`📁 Storico aggiornato: ${todayFile}`);
+}
+
+function cleanupOldHistory() {
+  if (!fs.existsSync(HISTORY_DIR)) return;
+  const files = fs.readdirSync(HISTORY_DIR)
+    .filter(f => f.endsWith('.json') && f !== 'index.json')
+    .sort()
+    .reverse();
+
+  const toDelete = files.slice(HISTORY_DAYS_TO_KEEP);
+  for (const file of toDelete) {
+    fs.unlinkSync(path.join(HISTORY_DIR, file));
+    console.log(`🗑️ Rimosso storico vecchio: ${file}`);
+  }
+}
+
+function rebuildIndex() {
+  const files = fs.readdirSync(HISTORY_DIR)
+    .filter(f => f.endsWith('.json') && f !== 'index.json')
+    .sort()
+    .reverse();
+
+  const dates = files.map(f => {
+    const dateKey = f.replace('.json', '');
+    return { date: dateKey, label: keyToLabel(dateKey) };
+  });
+
+  fs.writeFileSync(path.join(HISTORY_DIR, 'index.json'), JSON.stringify({ dates }, null, 2));
+  console.log(`📇 Indice storico aggiornato: ${dates.length} giorni disponibili`);
+}
+
 async function main() {
+  const todayKey = getRomeDateKey();
   const output = { lastUpdated: new Date().toISOString() };
+  const categoriesData = {};
+
   for (const [category, feeds] of Object.entries(FEEDS)) {
     console.log(`\n--- Categoria: ${category} ---`);
-    output[category] = await fetchCategory(feeds);
+    const items = await fetchCategory(feeds);
+    output[category] = items;
+    categoriesData[category] = items;
   }
+
   fs.mkdirSync('data', { recursive: true });
   fs.writeFileSync('data/news.json', JSON.stringify(output, null, 2));
   console.log('\n✅ news.json aggiornato');
+
+  updateTodayHistory(categoriesData, todayKey);
+  cleanupOldHistory();
+  rebuildIndex();
 }
 
 main();
