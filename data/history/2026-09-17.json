@@ -4,6 +4,55 @@
   "finanza": {
     "italia": [
       {
+        "title": "Emporio Armani a Dario Vitale:prima firma esterna del gruppo",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/emporio_armani_vitale_direttore_creativo-425589739/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Salernitano, 43 anni, arriva da Versace. Dell’Orco: “Saprà interpretarne lo spirito”"
+      },
+      {
+        "title": "Intesa-Mps, primo via libera della vigilanza sulle quote in Generali e nelle società con Axa",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/intesa-mps_primo_via_libera_della_vigilanza_sulle_quote_in_generali_e_nelle_societa_con_axa-425589732/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "L’Ivass autorizza l’acquisizione indiretta delle partecipazioni assicurative del gruppo senese. Il giudizio può influire sul parere dell’Antitrust, atteso per fine novembre e che riguarderà la concorrenza nel credito e n"
+      },
+      {
+        "title": "Lonski: “L’aumento dei tassi era inevitabile, come nel passato i mercati capiranno”",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/lonski_fed_tassi_trump_warsh-425589725/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Per l’ex capo economista di Moody’s la Fed non aveva scelta vista la crescita dei prezzi"
+      },
+      {
+        "title": "Stellantis incalza la Ue:“Sull’auto decidere subito regole uguali per tutti”",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/stellantis_ue_regole_subito_modifiche_auto_cappellano_lancia_gamma-425589722/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Presentata la Lancia Gamma fatta a Melfi. Cappellano: “A Mirafiori produzione raddoppiata”"
+      },
+      {
+        "title": "Addio al bollo su auto e moto per i veicoli piccoli e medi. Si riduce il taglio delle accise",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_moto_taglio_accise_diesel-425589717/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "La cancellazione parziale solo per il 2027, ma Meloni promette: “Sarà strutturale”. Gli sconti sul diesel scendono a 12,2 centesimi dal 18 al 25 settembre e a 6,1 fino al 5 ottobre"
+      },
+      {
+        "title": "Bollo auto, la mossa a sorpresa di Meloni spiazza gli alleati e apre al voto anticipato",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_meloni_elezioni_vannacci-425589712/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "La premier: “Vorrei arrivare alla scadenza della legislatura”. Ma Palazzo Chigi prepara le elezioni in primavera"
+      },
+      {
+        "title": "Bollo auto, regole e limiti: cosa c’è da sapere sullo stop in vigore nel 2027",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/auto_bollo_cosa_c_e_da_sapere_stop-425589689/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Dal caso dei possessori di più vetture, ai veicoli entro il limite. Domande e risposte sulla nuova misura"
+      },
+      {
         "title": "Il bollo auto di Meloni: la vignetta di Ellekappa",
         "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_meloni_vignetta_ellekappa-425589591/?rss",
         "source": "Repubblica Economia",
@@ -240,6 +289,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "'Applicherei dazi molto pesanti sui prodotti provenienti dall'Europa'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/applicherei-dazi-molto-pesanti-sui-prodotti-provenienti-dalleuropa_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 01:29:18 +0200",
+        "excerpt": ""
+      },
+      {
+        "title": "Argentina, marines Usa si addestrano a Ushuaia tra tensioni sulle Falkland-Malvinas",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/argentina-marines-usa-si-addestrano-a-ushuaia-tra-tensioni-sulle-falkland-malvinas_fa2fccca-112d-439b-9500-1b8a9735d0f6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 01:17:51 +0200",
+        "excerpt": "Otto militari Usa impegnati fino al 22 settembre con la Marina argentina"
+      },
+      {
         "title": "Trump minaccia il taglio del commercio con l’Ue se il il Canada diventa membro associato",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/trump_minaccia_il_taglio_del_commercio_con_l_ue_se_il_il_canada_diventa_membro_associato-425589788/?rss",
         "source": "Repubblica Esteri",
@@ -417,6 +480,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Ue, nasce l’asse con il Canada: “Sarà membro associato”. Segnale a Usa e Mosca",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/ue_asse_canada_usa_mosca-425589607/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
+      "excerpt": "Siglata l’alleanza transoceanica davanti al premier Carney che resta però scettico sulla formula della “associazione”"
+    },
     {
       "title": "Il bollo auto di Meloni: la vignetta di Ellekappa",
       "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_meloni_vignetta_ellekappa-425589591/",
