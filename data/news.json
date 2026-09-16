@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-09-16T13:51:31.995Z",
+  "lastUpdated": "2026-09-16T14:08:46.300Z",
   "finanza": {
     "italia": [
       {
         "title": "Ex Ilva, la Cassazione anticipa l’udienza sul ricorso. Sospesi i licenziamenti. Salta il decreto",
         "link": "https://www.repubblica.it/economia/2026/09/16/news/ex_ilva_la_cassazione_anticipa_udienza_commissari_decreto_cdm-425588679/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 15:41:58 +0200",
+        "pubDate": "Wed, 16 Sep 2026 16:03:49 +0200",
         "excerpt": "La Corte anticipa la discussione dell’istanza al 20 ottobre. Riaggiornato il tavolo a Palazzo Chigi"
+      },
+      {
+        "title": "Borsa: l'Europa sale con Wall Street, attesa per la Fed, Milano +0,7%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-leuropa-sale-con-wall-street-attesa-per-la-fed-milano_3fee11ac-1a10-495c-a232-17d9fc5f377a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 15:57:07 +0200",
+        "excerpt": "Cede il greggio, sale il gas, lo spread si assesta sopra 87 punti"
+      },
+      {
+        "title": "Marcegaglia, 'il rapporto con la Cina va gestito. Gli strumenti ci sono, usiamoli'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/marcegaglia-il-rapporto-con-la-cina-va-gestito.-gli-strumenti-ci-sono-usiamoli_39cee49d-88b2-4eec-96af-85cad5c60b0a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 15:50:45 +0200",
+        "excerpt": "\"La competitione unfair distrugge la nostra industria. Puntare su un accordo'"
+      },
+      {
+        "title": "Imprese indotto, sospendiamo i licenziamenti ex Ilva",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/imprese-indotto-sospendiamo-i-licenziamenti-ex-ilva_8cd6a8c4-7902-4171-94a6-14c559cad26d.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 16 Sep 2026 15:49:52 +0200",
+        "excerpt": "'Almeno fino alla sentenza della Cassazione'"
       },
       {
         "title": "Salta il decreto sull'ex Ilva in cdm, si attende la Cassazione",
@@ -64,27 +85,6 @@
         "source": "ANSA Economia",
         "pubDate": "Wed, 16 Sep 2026 14:31:35 +0200",
         "excerpt": "'Dobbiamo considerare l'intelligenza artificiale un'ancella dell'uomo'"
-      },
-      {
-        "title": "Eridania investe 20 milioni per blindare leadership zucchero e sviluppo dolcificanti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/eridania-investe-20-milioni-per-blindare-leadership-zucchero-e-sviluppo-dolcificanti_8068140f-eccf-4bcd-8144-289b654364d3.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 14:26:41 +0200",
-        "excerpt": "Atteso incremento +20% a volume in tre anni. Russi nuovo e unico hub in Italia"
-      },
-      {
-        "title": "Borsa: l'Europa consolida i rialzi col calo del petrolio, Milano +0,8%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/borsa-leuropa-consolida-i-rialzi-col-calo-del-petrolio-milano-08_aff98705-7a2d-4fe9-8133-dd8b85be13de.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 14:09:00 +0200",
-        "excerpt": "Scendono i rendimenti dei bond in attesa della Fed. A Piazza Affari bene Prysmian e Stm"
-      },
-      {
-        "title": "Dadda (LegaCoop) rieletto nel board globale dell'Ica",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/dadda-legacoop-rieletto-nel-board-globale-dellica_4b607c7c-033e-4508-81eb-c075a9340295.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 14:00:16 +0200",
-        "excerpt": "I punti fermi nel mandato: pace, sostenibilità, cultura cooperativa come forza universale"
       },
       {
         "title": "La tavola alimenta le conversazioni e favorisce le relazioni",
@@ -347,18 +347,25 @@
   },
   "attualita": [
     {
+      "title": "Ex Ilva, nessun decreto oggi in cdm, la Cassazione fissa l'udienza il 20 ottobre",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/16/ex-ilva-tavolo-con-sindacati-riaggiornato-nessun-decreto-oggi-in-cdm_38ad21a4-7a0c-4aba-8529-c7025078aecf.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 16 Sep 2026 16:02:52 +0200",
+      "excerpt": "Imprese dell'indotto: 'Sospendiamo i licenziamenti almeno fino alla sentenza della Cassazione'"
+    },
+    {
       "title": "Von der Leyen: 'Vogliono frantumare l'Ue, lottiamo per la nostra Europa'",
       "link": "https://www.ansa.it/europa/notizie/rubriche/voceeurodeputati/2026/09/16/von-der-leyen-vogliono-frantumare-lue-lottiamo-per-la-nostra-europa_5ec22d77-a814-4987-ba62-4a7d31b30201.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 15:05:29 +0200",
+      "pubDate": "Wed, 16 Sep 2026 16:00:24 +0200",
       "excerpt": "'Che si tratti di ultranazionalisti o euroscettici, loro obiettivo è lo stesso, vogliono frantumare la nostra unità'"
     },
     {
-      "title": "Ex Ilva, tavolo con sindacati riaggiornato, nessun decreto oggi in cdm ",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/16/ex-ilva-tavolo-con-sindacati-riaggiornato-nessun-decreto-oggi-in-cdm_38ad21a4-7a0c-4aba-8529-c7025078aecf.html",
+      "title": "Primo teletrasporto quantistico di un'immagine ",
+      "link": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/09/16/primo-teletrasporto-quantistico-di-unimmagine-_b60f2f56-3e75-4c04-a15e-0b177c6c2690.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 14:50:11 +0200",
-      "excerpt": "La Cassazione fissa udienza il 20 ottobre. Venerdì tavolo tecnico al ministero del Lavoro"
+      "pubDate": "Wed, 16 Sep 2026 15:36:38 +0200",
+      "excerpt": "Inviata una lettera Q da 100 pixel. Il successo avvicina l'internet quantistica"
     },
     {
       "title": "Violenza sulle donne, i dati Istat: “Tre milioni le vittime prima dei 16 anni”",
@@ -375,7 +382,7 @@
       "excerpt": "L’annuncio del presidente del Senato durante la conferenza dei capigruppo: “Scaduti i termini”. La minoranza: “Sbloccate il Freedom Act”"
     },
     {
-      "title": "Ex Ilva, la Cassazione anticipa l’udienza sul ricorso dei commissari. Niente decreto in cdm",
+      "title": "Ex Ilva, la Cassazione anticipa l’udienza sul ricorso. Sospesi i licenziamenti. Salta il decreto",
       "link": "https://www.repubblica.it/economia/2026/09/16/news/ex_ilva_la_cassazione_anticipa_udienza_commissari_decreto_cdm-425588679/",
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 12:39:28 +0000",
@@ -422,13 +429,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 08:55:27 +0000",
       "excerpt": "Gli street fighters dei social in azione in varie città, da Roma a Venezia. Chi paga tutto questo? Chi li manda? E soprattutto: perché lo fanno? Le Digos li stanno monitorando"
-    },
-    {
-      "title": "Trovati i 'semi dell'apocalisse', possono resistere per decenni ",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/16/trovati-i-semi-dellapocalisse-possono-resistere-per-decenni-_bad5453a-4909-4792-af78-7a3ffec3b507.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 08:17:19 +0200",
-      "excerpt": "Individuati fra quelli conservati nelle banche dei semi. Sono quelli del fagiolo verde"
     },
     {
       "title": "Nasce il design olfattivo degli ambienti",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Calcio: Spalletti, 'accettare le pressioni è la miglior medicina per vivere'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/calcio-spalletti-accettare-le-pressioni-e-la-miglior-medicina-per-vivere_bb2c41f7-3796-4e4a-a5a9-9eacbe172d77.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 16 Sep 2026 15:45:03 +0200",
+      "excerpt": "Tecnico Juve: 'a 10 anni guadagnavo qualcosa per la famiglia...'"
+    },
+    {
       "title": "Serie A: Massa arbitra Roma-Inter, a Doveri Fiorentina-Napoli",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/calcio-massa-arbitra-roma-inter-a-doveri-fiorentina-napoli_2a128925-0b74-403f-9622-91341720d618.html",
       "source": "ANSA Sport",
@@ -529,13 +536,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 14:57:06 +0200",
       "excerpt": "Due gol in Carabao Cup, Arteta cauto: 'Dobbiamo farlo crescere'"
-    },
-    {
-      "title": "Premier League: Tottenham perde ancora, De Zerbi: 'Frustrato ma credo in questa squadra'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/calcio-tottenham-perde-ancora-de-zerbi-frustrato-ma-credo-in-questa-squadra_22cbca67-d4e0-4d2e-847a-48904d84e832.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 14:55:28 +0200",
-      "excerpt": "Spurs eliminati dalla Coppa di Lega, un solo gol segnato ma tecnico non rischia"
     },
     {
       "title": "Pugilato, Clemente Russo: 'Non torno sul ring per soldi ma per non avere la pancetta'",
