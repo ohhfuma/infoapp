@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Il caffè conquista nuovi spazi di relazione",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/osservabeverage/2026/09/17/news/il_caffe_conquista_nuovi_spazi_di_relazione-425591396/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 19:04:46 +0200",
+        "excerpt": "Secondo un’indagine di AstraRicerche, per il 38,6% degli italiani consumare un espresso al bar significa soprattutto incontrare altre persone"
+      },
+      {
+        "title": "Metalmeccanica, nel secondo trimestre rallentano produzione e occupazione",
+        "link": "https://www.ilsole24ore.com/art/metalmeccanica-secondo-trimestre-rallentano-produzione-e-occupazione-AJl7TRGB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Thu, 17 Sep 2026 17:00:56 GMT",
+        "excerpt": "Per la produzione metalmeccanica il debole segnale di luce del primo trimestre 2026 si è affievolito nel secondo trimestre, i volumi sono cresciuti in media dello 0,5% rispetto ai tre..."
+      },
+      {
         "title": "Lo spread Btp-Bund chiude stabile a quota 86, rendimenti in calo",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/lo-spread-btp-bund-chiude-stabile-a-quota-86-rendimenti-in-calo_49183e2f-029d-47be-b20e-c9f390ae50b3.html",
         "source": "ANSA Economia",
@@ -408,23 +422,16 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 17 Sep 2026 05:43:03 GMT",
         "excerpt": "Stop all’imposta su vetture fino a 80kw e due ruote. Dai risparmi Pnrr i 2,3 miliardi di coperture"
-      },
-      {
-        "title": "Tfr, le tasse non si alzano: le regole per il prelievo sul trattamento di fine rapporto",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/17/news/tfr_tassazione_regole_testo_unico-425589275/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 05:00:00 +0200",
-        "excerpt": "Il Nuovo testo unico delle imposte sui redditi non cambia le regole in vigore. Ecco come funziona oggi"
-      },
-      {
-        "title": "Rincari a raffica per Iphone e altri smartphone: ecco come risparmiare (evitando fregature)",
-        "link": "https://www.repubblica.it/economia/2026/09/17/news/iphone_rincari_come_risparmiare-425589239/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 05:00:00 +0200",
-        "excerpt": "Aumenti generalizzati sui prezzi dei cellulari anche “vecchi”: coinvolto quasi uno su due nel 2026. Il ruolo del boom IA. Dove trovare soluzioni a buon prezzo e cosa controllare per non rimanere delusi"
       }
     ],
     "europa": [
+      {
+        "title": "La famiglia reale britannica finisce nel mirino delle fake news",
+        "link": "https://www.ilsole24ore.com/art/la-famiglia-reale-britannica-finisce-mirino-fake-news-AJ0EeTGB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 17 Sep 2026 16:58:22 GMT",
+        "excerpt": "La famiglia reale inglese si ritrova a dover fare i conti con l’ennesima minaccia alla sua immagine. Questa volta l’attacco..."
+      },
       {
         "title": "Svezia, il centro-sinistra vince al fotofinish: Andersson avanti per tre seggi, Kristersson si dimette",
         "link": "https://www.ilsole24ore.com/art/svezia-centro-sinistra-vince-fotofinish-andersson-avanti-tre-seggi-kristersson-si-dimette-AJZk5DGB",
@@ -957,6 +964,13 @@
   },
   "attualita": [
     {
+      "title": "La pioggia si infiltra agli Uffizi e bagna la teca del Bacco di Caravaggio",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/la-pioggia-si-infiltra-agli-uffizi-e-bagna-la-teca-del-bacco-di-caravaggio_073cc186-e20b-422e-a5d7-ea3397fda99b.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 18:42:48 +0200",
+      "excerpt": "Nella stessa sala sono accolti sette dipinti del Seicento. Il museo: 'Nessuna è danneggiata'"
+    },
+    {
       "title": "++ Maltempo, pioggia si infiltra agli Uffizi e bagna teca di un Caravaggio ++",
       "link": "https://www.ansa.it/sito/notizie/flash/2026/09/17/maltempo-pioggia-si-infiltra-agli-uffizi-e-bagna-teca-di-un-caravaggio_b7c9fb53-e7f9-4ba7-aa82-4ab59b6d3836.html",
       "source": "ANSA",
@@ -1046,6 +1060,13 @@
       "source": "ANSA",
       "pubDate": "Thu, 17 Sep 2026 16:54:59 +0200",
       "excerpt": "Indiscrezioni su primi risultati analisi in corso a Berlino"
+    },
+    {
+      "title": "Il monito di Re Carlo ai giganti dell’IA: “Pericoli esistenziali. Resti al servizio dell’umanità”",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/re_carlo_allarme_intelligenza_artificiale_pericoli-425591093/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 14:48:06 +0000",
+      "excerpt": "L’allarme del monarca sui pericolo dell’intelligenza artificiale al forum promosso dalla sua King's Foundation a Dumfries House, in Scozia, con alti rappresentanti di colossi Usa come Nvidia, Google DeepMind, OpenAI o An"
     },
     {
       "title": "Solo a casa a 5 anni precipita dal balcone, gravissimo",
@@ -1361,23 +1382,16 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
       "excerpt": "Il rallentamento, iniziato già nel 2025, prosegue nella prima metà di quest’anno: l’energia pulita è aumentata di appena 3,4 Gigawatt"
-    },
-    {
-      "title": "L’Etruria divisa sui pannelli solari, Montalto si riconverte: “Ma ora tocca agli altri”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/17/news/rinnovabili_etruria_pannelli_montalto_si_riconverte_paesaggio_scempio-425589700/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "L’ex Comune nucleare è il primo per potenza verde, per molti, però, serve una programmazione: “Il paesaggio è rovinato”"
-    },
-    {
-      "title": "Cresce la minaccia dei droni. La premier: in Russia sono nervosi",
-      "link": "https://www.repubblica.it/politica/2026/09/17/news/russia_minaccia_droni_crosetto_meloni-425589665/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il tema oggi a Oslo nell’incontro di Meloni con il leader norvegese, intese su gas e difesa. Nega dissapori con Salvini dopo l’incontro con le aziende in affari con Mosca: nulla di strano"
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: contro il Parma il Genoa conferma davanti Colombo e Osmajic",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/serie-a-contro-il-parma-il-genoa-conferma-davanti-colombo-e-osmajic_3a07c775-a9df-4df6-9563-4b71416b9ae6.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 18:59:15 +0200",
+      "excerpt": "Buone notizie per De Rossi, verso il rientro Ostigard e Amorim"
+    },
     {
       "title": "Serie A: Sassuolo a Monza senza Idzes, Adzic verso la maglia da titolare",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/serie-a-sassuolo-a-monza-senza-idzes-adzic-verso-la-maglia-da-titolare_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",

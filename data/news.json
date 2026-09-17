@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-17T16:39:03.335Z",
+  "lastUpdated": "2026-09-17T17:07:01.339Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il caffè conquista nuovi spazi di relazione",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/osservabeverage/2026/09/17/news/il_caffe_conquista_nuovi_spazi_di_relazione-425591396/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 19:04:46 +0200",
+        "excerpt": "Secondo un’indagine di AstraRicerche, per il 38,6% degli italiani consumare un espresso al bar significa soprattutto incontrare altre persone"
+      },
+      {
+        "title": "Metalmeccanica, nel secondo trimestre rallentano produzione e occupazione",
+        "link": "https://www.ilsole24ore.com/art/metalmeccanica-secondo-trimestre-rallentano-produzione-e-occupazione-AJl7TRGB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Thu, 17 Sep 2026 17:00:56 GMT",
+        "excerpt": "Per la produzione metalmeccanica il debole segnale di luce del primo trimestre 2026 si è affievolito nel secondo trimestre, i volumi sono cresciuti in media dello 0,5% rispetto ai tre..."
+      },
       {
         "title": "Lo spread Btp-Bund chiude stabile a quota 86, rendimenti in calo",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/lo-spread-btp-bund-chiude-stabile-a-quota-86-rendimenti-in-calo_49183e2f-029d-47be-b20e-c9f390ae50b3.html",
@@ -150,28 +164,21 @@
         "excerpt": "Rapporto Esa: «Nel 2025, l’impatto a lungo termine delle nostre attività spaziali è peggiorato di un ordine di grandezza in un solo anno»"
       },
       {
-        "title": "Stop alle auto ibride dalla Cina. L'Ue chiede di limitare volontariamente le esportazioni",
-        "link": "https://www.repubblica.it/economia/2026/09/17/news/stop_auto_ibride_cina_limitare_esportazioni-425590314/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 10:38:29 +0200",
-        "excerpt": "Le importazioni sono cresciute di oltre 10 volte, passando da 3.800 veicoli nell'ottobre 2024 a 50.000 nel luglio 2026"
-      },
-      {
         "title": "Pavia, maxi-frode nel commercio del riso bio: sequestrati beni per oltre 10 milioni",
         "link": "https://www.ilsole24ore.com/art/pavia-maxi-frode-commercio-riso-bio-sequestrati-beni-oltre-10-milioni-AJtysnFB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 17 Sep 2026 06:50:00 GMT",
         "excerpt": "Il prodotto veniva commercializzato come biologico mentre veniva coltivato utilizzando fitofarmaci e fertilizzanti non ammessi"
-      },
-      {
-        "title": "Esenzione bollo auto: risparmi fino a 240 euro per 14,5 milioni di veicoli",
-        "link": "https://www.ilsole24ore.com/art/dall-addio-bollo-auto-risparmi-fino-240-euro-145-milioni-veicoli-AJpGIWFB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 17 Sep 2026 05:43:00 GMT",
-        "excerpt": "Stop all’imposta su vetture fino a 80kw e due ruote. Dai risparmi Pnrr i 2,3 miliardi di coperture"
       }
     ],
     "europa": [
+      {
+        "title": "La famiglia reale britannica finisce nel mirino delle fake news",
+        "link": "https://www.ilsole24ore.com/art/la-famiglia-reale-britannica-finisce-mirino-fake-news-AJ0EeTGB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 17 Sep 2026 16:58:22 GMT",
+        "excerpt": "La famiglia reale inglese si ritrova a dover fare i conti con l’ennesima minaccia alla sua immagine. Questa volta l’attacco..."
+      },
       {
         "title": "Svezia, il centro-sinistra vince al fotofinish: Andersson avanti per tre seggi, Kristersson si dimette",
         "link": "https://www.ilsole24ore.com/art/svezia-centro-sinistra-vince-fotofinish-andersson-avanti-tre-seggi-kristersson-si-dimette-AJZk5DGB",
@@ -220,13 +227,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 05:15:00 GMT",
         "excerpt": "In un comizio tenuto a Charlotte, nella Carolina del Nord, il presidente statunitense Donald Trump ha affermato che consentire al Canada di diventare membro associato dell’Unione Europea potrebbe costituire un..."
-      },
-      {
-        "title": "La Fed di Warsh sfida Trump: rialza i tassi e promette di farlo ancora",
-        "link": "https://www.ilsole24ore.com/art/fed-alza-tassi-25-punti-base-375percento-4percento-primo-rialzo-luglio-2023-AJFaAJFB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 16 Sep 2026 18:01:00 GMT",
-        "excerpt": "La Federal Reserve alza i tassi di 25 punti base al 3,75%-4%, primo rialzo dal luglio 2023"
       }
     ],
     "usa": [],
@@ -347,11 +347,18 @@
   },
   "attualita": [
     {
-      "title": "++ Maltempo, pioggia si infiltra agli Uffizi e bagna teca di un Caravaggio ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/17/maltempo-pioggia-si-infiltra-agli-uffizi-e-bagna-teca-di-un-caravaggio_b7c9fb53-e7f9-4ba7-aa82-4ab59b6d3836.html",
+      "title": "Smart working, sei consigli per non pesare sulla bolletta",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/design_giardino/2026/09/17/smart-working-sei-consigli-per-non-pesare-sulla-bolletta_0d7ee876-f001-4c97-b345-3e15c413a9a6.html",
       "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 18:30:34 +0200",
-      "excerpt": "Museo, è il Bacco ma nessuna opera è rimasta danneggiata"
+      "pubDate": "Thu, 17 Sep 2026 18:52:03 +0200",
+      "excerpt": "Accorgimenti per efficienza, confort e sostenubilità"
+    },
+    {
+      "title": "La pioggia si infiltra agli Uffizi e bagna la teca del Bacco di Caravaggio",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/la-pioggia-si-infiltra-agli-uffizi-e-bagna-la-teca-del-bacco-di-caravaggio_073cc186-e20b-422e-a5d7-ea3397fda99b.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 18:42:48 +0200",
+      "excerpt": "Nella stessa sala sono accolti sette dipinti del Seicento. Il museo: 'Nessuna è danneggiata'"
     },
     {
       "title": "Scherma, violenza su atleta minorenne: l’arbitro Bucca condannato a 2 anni e 4 mesi",
@@ -372,7 +379,7 @@
       "link": "https://www.repubblica.it/politica/2026/09/17/news/mattarella_violenza_donne_emergenza_primaria_grosseto-425591294/",
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 16:15:56 +0000",
-      "excerpt": "Il capo dello Stato ha visitato la \"Stanza Rosa\" del pronto soccorso dell'ospedale Misericordia di Grosseto"
+      "excerpt": "Il capo dello Stato ha visitato la Stanza Rosa del pronto soccorso dell'ospedale Misericordia di Grosseto"
     },
     {
       "title": "William e Kate in visita in Scozia giocano a shinty",
@@ -387,13 +394,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 15:50:15 +0000",
       "excerpt": "Jorlan Lope Da Silva, 33 anni, era accusato di 16 delitti ma, una volta, catturato ha ammesso di averne commessi molti di più, il primo a soli 13 anni. Si indaga su legami con una potente organizzazione criminale"
-    },
-    {
-      "title": "Smart working, sei consigli per non pesare sulla bolletta",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/design_giardino/2026/09/17/smart-working-sei-consigli-per-non-pesare-sulla-bolletta_0d7ee876-f001-4c97-b345-3e15c413a9a6.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 17:44:26 +0200",
-      "excerpt": "Accorgimenti per efficienza, confort e sostenubilità"
     },
     {
       "title": "Crosetto: “Diserzione non è termine positivo. I partigiani? Lotta di liberazione la fece l’esercito”",
@@ -424,6 +424,13 @@
       "excerpt": "È il murale Tuttomondo realizzato dall’artista americano a Pisa un anno prima di morire. Un film girato all’epoca, e ora ritrovato, ne racconta la storia"
     },
     {
+      "title": "Il monito di Re Carlo ai giganti dell’IA: “Pericoli esistenziali. Resti al servizio dell’umanità”",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/re_carlo_allarme_intelligenza_artificiale_pericoli-425591093/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 14:48:06 +0000",
+      "excerpt": "L’allarme del monarca sui pericolo dell’intelligenza artificiale al forum promosso dalla sua King's Foundation a Dumfries House, in Scozia, con alti rappresentanti di colossi Usa come Nvidia, Google DeepMind, OpenAI o An"
+    },
+    {
       "title": "La guerra ibrida scatena i servizi segreti europei",
       "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/09/17/news/la_guerra_ibrida_scatena_i_servizi_segreti_europei-425590995/",
       "source": "Repubblica",
@@ -443,13 +450,6 @@
       "source": "ANSA",
       "pubDate": "Thu, 17 Sep 2026 15:48:58 +0200",
       "excerpt": "Lo rivela l'analisi dei denti"
-    },
-    {
-      "title": "Svezia, vincono di misura i progressisti di Andersson: ma il nuovo governo è un rebus",
-      "link": "https://www.repubblica.it/esteri/2026/09/17/news/svezia_elezioni_andersson_ultra_destra-425590934/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 13:33:38 +0000",
-      "excerpt": "Il risultato dopo uno scrutinio durato 4 giorni: 176 seggi contro i 173 del centrodestra. Si dimette il premier conservatore Kristersson, scongiurata così l’alleanza con il partito neonazista. Ma l’exploit della sinistra"
     },
     {
       "title": " Influenza, a ottobre al via la campagna con 9 vaccini aggiornati",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Serie A: contro il Parma il Genoa conferma davanti Colombo e Osmajic",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/serie-a-contro-il-parma-il-genoa-conferma-davanti-colombo-e-osmajic_3a07c775-a9df-4df6-9563-4b71416b9ae6.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 18:59:15 +0200",
+      "excerpt": "Buone notizie per De Rossi, verso il rientro Ostigard e Amorim"
+    },
+    {
       "title": "Serie A: Sassuolo a Monza senza Idzes, Adzic verso la maglia da titolare",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/serie-a-sassuolo-a-monza-senza-idzes-adzic-verso-la-maglia-da-titolare_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 15:52:48 +0200",
       "excerpt": "Team milanese \"supported by Lamborghini\" lancia innovativo sistema di merito che nel 2027"
-    },
-    {
-      "title": "Klopp, \"non lasciamo l'orgoglio nazionale alle persone sbagliate\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/klopp-non-lasciamo-lorgoglio-nazionale-alle-persone-sbagliate_d25f1951-527c-41cf-8131-5116df1ae0c8.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 15:02:45 +0200",
-      "excerpt": "Il ct della Germania parla dell'avanzata dell'estrema destra in Sassonia-Anhalt"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
