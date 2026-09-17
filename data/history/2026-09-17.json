@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Decreto bollo auto in Gazzetta, 1,698 miliardi da economie su Pnrr",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/decreto-bollo-auto-in-gazzetta-1698-miliardi-da-economie-su-pnrr_d71d0d4a-174c-4ba1-838f-f2f301cb3e49.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 22:43:00 +0200",
+        "excerpt": "Valgono 200 milioni nel 2026, 1.460 milioni nel 2027, 38 milioni nel 2028"
+      },
+      {
         "title": "«Liberi di scegliere è un precedente a livello mondiale». Così bambini e donne fuoriescono dai contesti mafiosi",
         "link": "https://www.ilsole24ore.com/art/liberi-scegliere-e-precedente-livello-mondiale-cosi-bambini-e-donne-fuoriescono-contesti-mafiosi-AJaoicGB",
         "source": "Il Sole 24 Ore",
@@ -415,13 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 09:50:05 +0200",
         "excerpt": "Benzina a 2,236 euro al litro"
-      },
-      {
-        "title": "Auto, moto e motorini. Il caso di chi ha più veicoli: chi continuerà a pagare e chi no il bollo",
-        "link": "https://www.repubblica.it/economia/2026/09/17/news/abolizione_bollo_auto_moto_nuove_regole_calcolo-425590150/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 09:39:58 +0200",
-        "excerpt": "In caso di due vetture continuerà a pagare quella di potenza superiore. Tutte le combinazioni"
       }
     ],
     "europa": [
@@ -978,6 +978,13 @@
   },
   "attualita": [
     {
+      "title": "Europa League: riscatto Juve con goleada, Nec travolto 5-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-la-juventus-asfalta-5-0-il-nec_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 23:03:20 +0200",
+      "excerpt": "Woltemade e Kolo Muani si sbloccano tra gli svarioni degli olandesi"
+    },
+    {
       "title": "Siamo Serie: Etoile, Jovayork - La musica dell'anima, Xoftex",
       "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/09/17/siamo-serie-etoile-jovayork-la-musica-dellanima-xoftex_81e470c8-c421-4830-a798-8712faa46065.html",
       "source": "ANSA",
@@ -1389,16 +1396,30 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 00:36:35 +0000",
       "excerpt": "Le storie dietro la vanlife: da Nicola e Silvia che viaggiano con i due gatti, a Simon Emilio che sta camperizzando un bus da solo. Fino a Ottavia che si sente più sicura in un parcheggio vuoto che in città"
-    },
-    {
-      "title": "La lettera di Schlein a Meloni: “Cara premier, uniamo le forze su clima e energia”",
-      "link": "https://www.repubblica.it/politica/2026/09/17/news/schlein_lettera_meloni_clima_energia_strategie_condivise_pd-425589798/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:12:08 +0000",
-      "excerpt": "Ecco 5 proposte della segretaria del Pd per trasformare la flessibilità in benefici per famiglie, imprese e territori"
     }
   ],
   "sport": [
+    {
+      "title": "Europa League: riscatto Juve con goleada, Nec travolto 5-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-la-juventus-asfalta-5-0-il-nec_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 23:03:20 +0200",
+      "excerpt": "Woltemade e Kolo Muani si sbloccano tra gli svarioni degli olandesi"
+    },
+    {
+      "title": "Europa League: Juve travolgente all'esordio, 5-0 al Nec",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-juve-travolgente-allesordio-5-0-al-nec_dd3b618c-7359-4dbe-915c-14454423c628.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 22:59:07 +0200",
+      "excerpt": "In gol anche Woltemade su rigore e Kolo Muani"
+    },
+    {
+      "title": "Cinquina al Norwich, il City avanza in Coppa di Lega",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/cinquina-al-norwich-il-city-avanza-in-coppa-di-lega_9caa6d1b-7057-49a6-b84d-c16513a0fb06.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 22:36:59 +0200",
+      "excerpt": "Nessun problema per la squadra di Maresca, a differenza dei cugini dello United"
+    },
     {
       "title": "Milan flop in Europa ed è crisi, Amorim già sotto accusa",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/milan-flop-in-europa-ed-e-crisi-amorim-gia-sotto-accusa_d13df59d-df5e-4c6a-8b7b-1713de3321e5.html",
