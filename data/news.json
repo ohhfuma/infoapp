@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T18:41:45.861Z",
+  "lastUpdated": "2026-09-17T19:07:01.185Z",
   "finanza": {
     "italia": [
       {
@@ -7,7 +7,7 @@
         "link": "https://www.ilsole24ore.com/art/prodotti-difettosi-dicembre-tempi-piu-stretti-e-piu-tutele-i-consumatori-AJqBIOGB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 17 Sep 2026 18:27:42 GMT",
-        "excerpt": "Oggi, se il fabbricante di un prodotto difettoso è irrintracciabile, il danneggiato può chiedere chiarimenti al distributore su chi gliel’ha fornito: se il distributore non risponde entro tre mesi, ne..."
+        "excerpt": "La direttiva Ue, recepita con decreto legislativo del Governo, porterà delle novità che si applicheranno solo ai prodotti immessi sul mercato dopo il 9 dicembre 2026"
       },
       {
         "title": "Urso: «In arrivo il business wallet per le imprese». Ecco cosa è e come funziona",
@@ -177,7 +177,7 @@
         "link": "https://www.ilsole24ore.com/art/governo-takaichi-primo-rimpasto-continuita-economia-e-yen-AJirUDGB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 17:50:21 GMT",
-        "excerpt": "NEW DELHI - La premier giapponese Sanae Takaichi ha annunciato il suo primo rimpasto di governo, lanciando segnali di continuità in materia di politica economica e valutaria, e puntando a..."
+        "excerpt": "La defenestrazione del responsabile degli Interni Yoshimasa Hayashi lascia senza un incarico di governo uno dei maggiorenti che sfidarono Takaichi per la leadership dell’Ldp"
       },
       {
         "title": "La famiglia reale britannica finisce nel mirino delle fake news",
@@ -232,6 +232,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Gli Usa rilasciano i visti all'Iran per partecipare all'Assemblea dell'Onu",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/gli-usa-rilasciano-i-visti-alliran-per-partecipare-allassemblea-dellonu_51f4441c-7ac3-40a9-a75c-969c47a1a391.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 20:45:45 +0200",
+        "excerpt": "Lo riferisce un funzionario del Dipartimento di Stato"
+      },
+      {
         "title": "Trump vedrà i paesi del Golfo, 'devo decidere sull'Iran'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/trump-verso-un-momento-cruciale-in-iran-devo-prendere-unimportante-decisione_0dbd2166-0cb6-43cf-a0c6-cf489f522612.html",
         "source": "ANSA Mondo",
@@ -279,13 +286,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 19:10:34 +0200",
         "excerpt": "Axios, 'Annientarli o no? Con me tutto è possibile'"
-      },
-      {
-        "title": "Messico, l'uccisione della studentessa Erasmus parte di una scia di omicidi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/messico-luccisione-della-studentessa-erasmus-parte-di-una-scia-di-omicidi_2c64fb62-a7eb-475b-8e54-5d5950844311.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 19:00:21 +0200",
-        "excerpt": "Cinque ragazze dell'ateneo di Morelos assassinate nell'ultimo anno"
       },
       {
         "title": "Brasile, vestito da donna e un bimbo in braccio era quasi sfuggito alla polizia: arrestato serial killer. Ha confessato 80 omicidi",
@@ -347,18 +347,18 @@
   },
   "attualita": [
     {
+      "title": "La pioggia si infiltra agli Uffizi e bagna la teca del Bacco di Caravaggio",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/la-pioggia-si-infiltra-agli-uffizi-e-bagna-la-teca-del-bacco-di-caravaggio_073cc186-e20b-422e-a5d7-ea3397fda99b.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 20:32:02 +0200",
+      "excerpt": "Nella stessa sala sono accolti sette dipinti del Seicento. Il museo: 'Nessuna è danneggiata'"
+    },
+    {
       "title": "Crosetto: 'Navi militari italiane a Bab el Mandeb per ripristino dei traffici, valuteremo col Parlamento'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-navi-militari-italiane-a-bab-el-mandeb-per-ripristino-dei-traffici_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
       "source": "ANSA",
       "pubDate": "Thu, 17 Sep 2026 20:23:30 +0200",
       "excerpt": "Il ministro della Difesa: 'Non aspetteremo l'Ue, se agiremo lo faremo a protezione dei mercantili'"
-    },
-    {
-      "title": "La pioggia si infiltra agli Uffizi e bagna la teca del Bacco di Caravaggio",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/la-pioggia-si-infiltra-agli-uffizi-e-bagna-la-teca-del-bacco-di-caravaggio_073cc186-e20b-422e-a5d7-ea3397fda99b.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 20:20:04 +0200",
-      "excerpt": "Nella stessa sala sono accolti sette dipinti del Seicento. Il museo: 'Nessuna è danneggiata'"
     },
     {
       "title": "Termini, treni in tilt: ritardi fino a 100 minuti per un guasto in provincia di Livorno",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Europa League, in campo Juventus-Nec LIVE",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-in-campo-juventus-nec-live_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 21:00:39 +0200",
+      "excerpt": "Si gioca la prima giornata della fase campionato"
+    },
+    {
       "title": "Calcio: Massara, 'totale fiducia in Spalletti e in rapida crescita squadra'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/calcio-massara-totale-fiducia-in-spalletti-e-in-rapida-crescita-squadra_eae81a67-4dff-4221-b281-db7c396e360a.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 17:20:45 +0200",
       "excerpt": "Il leader del mondiale: 'Sinner e Bezzecchi i miei amici, legami molto belli'"
-    },
-    {
-      "title": "Frosinone alla prova Como, Raimondo 'anche noi abbiamo grande identità'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/frosinone-alla-prova-como-raimondo-anche-noi-abbiamo-grande-identita_c972ad4a-0645-4142-b16b-5a7044eac298.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 16:38:46 +0200",
-      "excerpt": "Domenica il pienone allo Stirpe, Alvini si affida a tutti i suoi big"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
