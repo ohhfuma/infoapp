@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T19:37:02.303Z",
+  "lastUpdated": "2026-09-17T20:08:32.692Z",
   "finanza": {
     "italia": [
       {
@@ -173,6 +173,13 @@
     ],
     "europa": [
       {
+        "title": "Vola il diesel negli Usa, prezzi al record di 6,39 dollari al gallone",
+        "link": "https://www.ilsole24ore.com/art/vola-diesel-usa-prezzi-record-639-dollari-gallone-AJQEsgGB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 17 Sep 2026 20:06:40 GMT",
+        "excerpt": "I carburanti salgono ancora negli Usa, con il diesel che tocca i suoi massimi storici. Secondo i dati giornalieri della American Automobile Association, la media nazionale per gallone di benzina..."
+      },
+      {
         "title": "Governo Takaichi, il primo rimpasto: continuità su economia e yen",
         "link": "https://www.ilsole24ore.com/art/governo-takaichi-primo-rimpasto-continuita-economia-e-yen-AJirUDGB",
         "source": "Il Sole 24 Ore Mondo",
@@ -220,17 +227,24 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 07:11:00 GMT",
         "excerpt": "I velivoli sono decollati nel tardo pomeriggio da Šiauliai, in Lituania, in modalità scramble, nell’ambito della missione Nato di difesa aerea sul fianco orientale dell’Alleanza"
-      },
-      {
-        "title": "Guerra ultime notizie. Crosetto: garantiremo sicurezza delle navi italiane nello stretto di Bab el-Mandeb",
-        "link": "https://www.ilsole24ore.com/art/iran-trump-terra-colloqui-i-leader-golfo-martedi-prossimo-AJHe2jFB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Thu, 17 Sep 2026 05:17:00 GMT",
-        "excerpt": ""
       }
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Argentina, Pil -0,6% nel secondo trimestre, frenano i consumi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/argentina-pil-06-nel-secondo-trimestre-frenano-i-consumi_2fc0e408-78aa-4600-9d4b-47b4fced6970.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 21:54:31 +0200",
+        "excerpt": "Su base annua cresce del +2%, ma gli investimenti crollano dell'11,1%"
+      },
+      {
+        "title": "Vola il diesel negli Usa, prezzi al record storico di 6,3956 dollari al gallone",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/vola-il-diesel-negli-usa-prezzi-al-record-storico-di-63956-dollari-al-gallone_62a9120a-449a-4698-b7e8-fc2155fe000d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 21:36:33 +0200",
+        "excerpt": "Un balzo di oltre il 71% dal primo giorno di presidenza Trump, benzina a quota 4,4386"
+      },
       {
         "title": "Jet militari russi violano lo spazio aereo lituano, caccia italiani in volo. Prime sanzioni Usa contro Mosca",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/jet_militari_russi_violano_spazio_aereo_lituania_caccia_italiani_sanzioni_usa_mosca_vigilia_voto-425591673/?rss",
@@ -244,13 +258,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 20:45:45 +0200",
         "excerpt": "Lo riferisce un funzionario del Dipartimento di Stato"
-      },
-      {
-        "title": "Trump vedrà i paesi del Golfo, 'devo decidere sull'Iran'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/trump-verso-un-momento-cruciale-in-iran-devo-prendere-unimportante-decisione_0dbd2166-0cb6-43cf-a0c6-cf489f522612.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 20:17:30 +0200",
-        "excerpt": "'Momento cruciale', e vende gli F-35 a Riad. Cina a Teheran: 'Fermi gli Houthi'"
       },
       {
         "title": "Von der Leyen, 'domani altri 3,3 miliardi per aiuti militari a Kiev'",
@@ -286,13 +293,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 19:37:19 +0200",
         "excerpt": "Lezioni all'aperto a Plaza de Mayo, ma prende corpo una nuova manifestazione nazionale"
-      },
-      {
-        "title": "Trump, 'verso un momento cruciale in Iran, devo prendere un'importante decisione'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-verso-un-momento-cruciale-in-iran-devo-prendere-unimportante-decisione_84ccac82-6fb4-45bf-81e3-70830bcbb919.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 19:10:34 +0200",
-        "excerpt": "Axios, 'Annientarli o no? Con me tutto è possibile'"
       },
       {
         "title": "Brasile, vestito da donna e un bimbo in braccio era quasi sfuggito alla polizia: arrestato serial killer. Ha confessato 80 omicidi",
@@ -347,18 +347,18 @@
   },
   "attualita": [
     {
+      "title": "Europa League, in campo Juventus-Nec LIVE",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-in-campo-juventus-nec-live_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 21:59:58 +0200",
+      "excerpt": "Si gioca la prima giornata della fase campionato"
+    },
+    {
       "title": "Il piano di Crosetto, 'navi italiane a Bab el-Mandeb senza aspettare l'Ue'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-navi-militari-italiane-a-bab-el-mandeb-per-ripristino-dei-traffici_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
       "source": "ANSA",
       "pubDate": "Thu, 17 Sep 2026 21:32:08 +0200",
       "excerpt": "Il ministro della Difesa: 'Ci attiveremo per farle passare. Ma decideremo altri invii con Governo e Parlamento'"
-    },
-    {
-      "title": "Europa League, in campo Juventus-Nec LIVE",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-in-campo-juventus-nec-live_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 21:27:41 +0200",
-      "excerpt": "Si gioca la prima giornata della fase campionato"
     },
     {
       "title": "Jet militari russi violano lo spazio aereo lituano, caccia italiani in volo. Prime sanzioni Usa contro Mosca",
@@ -520,7 +520,7 @@
       "title": "Europa League, in campo Juventus-Nec LIVE",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-in-campo-juventus-nec-live_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
       "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 21:27:41 +0200",
+      "pubDate": "Thu, 17 Sep 2026 21:59:58 +0200",
       "excerpt": "Si gioca la prima giornata della fase campionato"
     },
     {
