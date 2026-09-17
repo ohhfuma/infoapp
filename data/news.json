@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-17T07:10:18.156Z",
+  "lastUpdated": "2026-09-17T07:39:20.375Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: l'Europa apre in positivo dopo rialzo tassi da parte della Fed",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-apre-in-positivo-dopo-rialzo-tassi-da-parte-della-fed_f6532a9d-700d-4bc1-a82b-1a1ee00fe6b9.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 09:21:41 +0200",
+        "excerpt": "Francoforte +0,56%, Parigi +0,45%, Londra +0,39%"
+      },
+      {
+        "title": "Borsa: Milano apre a +0,43%, in luce la moda con Moncler e Cucinelli",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-milano-apre-a-043-in-luce-la-moda-con-moncler-e-cucinelli_469dd37e-45c7-4c5f-84a2-126d933486b5.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 09:12:19 +0200",
+        "excerpt": "Ftse Mib a 52.193 punti. Bene anche Stellantis, vendite su Eni"
+      },
       {
         "title": "Pavia, maxi-frode nel commercio del riso bio: sequestrati beni per oltre 10 milioni",
         "link": "https://www.ilsole24ore.com/art/pavia-maxi-frode-commercio-riso-bio-sequestrati-beni-oltre-10-milioni-AJtysnFB",
@@ -55,7 +69,7 @@
         "title": "Dall’addio al bollo auto risparmi fino a 240 euro per 14,5 milioni di veicoli",
         "link": "https://www.ilsole24ore.com/art/dall-addio-bollo-auto-risparmi-fino-240-euro-145-milioni-veicoli-AJpGIWFB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 17 Sep 2026 05:43:03 GMT",
+        "pubDate": "Thu, 17 Sep 2026 05:43:00 GMT",
         "excerpt": "Stop all’imposta su vetture fino a 80kw e due ruote. Dai risparmi Pnrr i 2,3 miliardi di coperture"
       },
       {
@@ -78,13 +92,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Thu, 17 Sep 2026 05:00:00 +0200",
         "excerpt": "Aumenti generalizzati sui prezzi dei cellulari anche “vecchi”: coinvolto quasi uno su due nel 2026. Il ruolo del boom IA. Dove trovare soluzioni a buon prezzo e cosa controllare per non rimanere delusi"
-      },
-      {
-        "title": "Borsa: Tokyo, apertura in rialzo (+0,98%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-tokyo-apertura-in-rialzo-098_f262ebdd-70d1-40c3-8510-60b8dd2dd745.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 02:24:25 +0200",
-        "excerpt": "Attesa riunione Boj, scendono quotazioni petrolio"
       },
       {
         "title": "Emporio Armani a Dario Vitale:prima firma esterna del gruppo",
@@ -120,13 +127,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
         "excerpt": "La cancellazione parziale solo per il 2027, ma Meloni promette: “Sarà strutturale”. Gli sconti sul diesel scendono a 12,2 centesimi dal 18 al 25 settembre e a 6,1 fino al 5 ottobre"
-      },
-      {
-        "title": "Pininfarina, al via l'Opa volontaria per il delisting da Piazza Affari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/pininfarina-al-via-lopa-volontaria-per-il-delisting-da-piazza-affari_1e299700-d91d-4369-8353-53670780bea4.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 22:31:54 +0200",
-        "excerpt": "L'offerta riguarda il 21,17% del capitale sul mercato, corrispettivo 1 euro per azione"
       },
       {
         "title": "Violenza sulle donne: 3 milioni di italiane vittime di soprusi prima dei 16 anni",
@@ -172,6 +172,13 @@
       }
     ],
     "europa": [
+      {
+        "title": "Ucraina, almeno 12 feriti in raid russo su Kiev. Colpita una raffineria in Russia",
+        "link": "https://www.ilsole24ore.com/art/ucraina-almeno-12-feriti-raid-russo-kiev-colpita-raffineria-russia-AJBqYmFB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 17 Sep 2026 07:11:00 GMT",
+        "excerpt": "In Ucraina non si fermano gli attacchi russi sulla capitale. Nella notte tra il 16 e il 17 settembre, a partire da poco dopo la mezzanotte, sono iniziate le prime..."
+      },
       {
         "title": "Guerra ultime notizie. Trump terrà colloqui  con i leader del Golfo martedì prossimo",
         "link": "https://www.ilsole24ore.com/art/iran-trump-terra-colloqui-i-leader-golfo-martedi-prossimo-AJHe2jFB",
@@ -220,17 +227,24 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 16 Sep 2026 05:36:00 GMT",
         "excerpt": "Il presidente Vladimir Putin si è rivolto oggi ai russi in un discorso televisivo per invitarli ad andare a votare nelle elezioni per il rinnovo della Duma"
-      },
-      {
-        "title": "Guerra ultime notizie. Cina pronta a “salvaguardare” i diritti dell’Iran. A Gaza 50 bambini sotto le macerie",
-        "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-camera-usa-approva-misura-che-impone-trump-fine-conflitto-AJtTbcEB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 16 Sep 2026 05:11:00 GMT",
-        "excerpt": ""
       }
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Agenti Ice e Fbi ai seggi per allontanare gli ispanici: midterm, mossa di Trump per arginare i dem",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/usa_agenti_ice_e_fbi_ai_seggi_ispanici_midterm_trump-425590138/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 09:34:18 +0200",
+        "excerpt": "Il direttore dell’agenzia federale, Kash Patel, giustifica il piano con “l’esigenza di garantire l’integrità delle elezioni”. Ma in realtà l’idea fa parte del progetto di Donald di tenere alla larga dal voto quella parte"
+      },
+      {
+        "title": "Trump: 'Dazi all'Ue se il Canada diventa membro associato'. Bruxelles: 'L'alleanza non è contro qualcuno'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-dazi-allue-se-il-canada-diventa-membro-associato.-bruxelles-lalleanza-non_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 09:33:47 +0200",
+        "excerpt": "Il tycoon: 'Operazione ridicola, pronto a interrompere i rapporti commerciali'. Una fonte della Commissione: 'Lo facciamo per la nostra forza'"
+      },
       {
         "title": "Colombia, revocato il divieto di bombardare i campi della guerriglia",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/colombia-revocato-il-divieto-di-bombardare-i-campi-della-guerriglia_a9995ea6-ef8a-45de-93a4-4b2171205811.html",
@@ -281,13 +295,6 @@
         "excerpt": "Chiusi enti e media, chiesta la liberazione dei detenuti"
       },
       {
-        "title": "Torna in Messico il Codice Azcatitlan, antico manoscritto azteco",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/torna-in-messico-il-codice-azcatitlan-antico-manoscritto-azteco_eef530ad-6cf2-41be-a68b-78f1ab33a2c1.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 03:30:18 +0200",
-        "excerpt": "In mostra al Museo di Antropologia per i 200 anni di relazioni con la Francia"
-      },
-      {
         "title": "Trump minaccia il taglio del commercio con l’Ue se il il Canada diventa membro associato",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/trump_minaccia_il_taglio_del_commercio_con_l_ue_se_il_il_canada_diventa_membro_associato-425589788/?rss",
         "source": "Repubblica Esteri",
@@ -335,23 +342,23 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
         "excerpt": "Melanie Mair, leader dei giovani del Süd-Tiroler Freiheit, al congresso dell’ultradestra tedesca: “Via da questo Stato”"
-      },
-      {
-        "title": "L’allarme di von der Leyen: “Russi e ultranazionalisti vogliono frantumare la Ue”",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/ursula_von_der_leyen_allarme_nazionalisti_russi_ue-425589410/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il discorso della leader della Commissione: “Dal Cremlino strategia del terrore”. Conferma il sostegno a Kiev e insiste su energia, migranti, clima e difesa comune"
       }
     ]
   },
   "attualita": [
     {
-      "title": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/openai-sei-nuovi-casi-di-comportamento-preoccupante-dei-modelli-ia_470f9247-10ae-4861-91d5-dd8f991a198c.html",
+      "title": "Trump: 'Dazi all'Ue se il Canada diventa membro associato'. Bruxelles: 'L'alleanza non è contro qualcuno'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-dazi-allue-se-il-canada-diventa-membro-associato.-bruxelles-lalleanza-non_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
       "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 08:34:58 +0200",
-      "excerpt": "Adotta nuovo sistema di segnalazione per eventuali anomalie future nei test"
+      "pubDate": "Thu, 17 Sep 2026 09:33:47 +0200",
+      "excerpt": "Il tycoon: 'Operazione ridicola, pronto a interrompere i rapporti commerciali'. Una fonte della Commissione: 'Lo facciamo per la nostra forza'"
+    },
+    {
+      "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
+      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 08:36:32 +0200",
+      "excerpt": "La premier: 'Tassa tra le più odiate'. Il costo di 2,3 miliardi coperto dai risparmi sul Pnrr"
     },
     {
       "title": "Caso Lazio, Stefano Andreotti: “Al complotto non ci credo e allo stadio non vado più”",
@@ -368,13 +375,6 @@
       "excerpt": "Se si hanno più auto non paga quella con meno Kw"
     },
     {
-      "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
-      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 07:17:35 +0200",
-      "excerpt": "La premier: 'Tassa tra le più odiate'. Il costo di 2,3 miliardi coperto dai risparmi sul Pnrr"
-    },
-    {
       "title": "OpenAI segnala nuove anomalie: “Sei casi di comportamento preoccupante dei modelli di Ia”",
       "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/",
       "source": "Repubblica",
@@ -387,13 +387,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 23:12:08 +0000",
       "excerpt": "Ecco 5 proposte della segretaria del Pd per trasformare la flessibilità in benefici per famiglie, imprese e territori"
-    },
-    {
-      "title": "Chat Ranucci-Lavitola, quattro mesi cancellati",
-      "link": "https://roma.repubblica.it/cronaca/2026/09/17/news/chat_ranucci_lavitola_quattro_mesi_cancellati-425589736/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:39 +0000",
-      "excerpt": "Il buco nei messaggi è considerato un’anomalia dagli investigatori. Procedura disciplinare, i legali: dalla Rai tempismo irrequieto"
     },
     {
       "title": "La Ue fa asse con il Canada. E Trump la minaccia: “Dazi molto pesanti”",
@@ -422,6 +415,13 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
       "excerpt": "La cancellazione parziale solo per il 2027, ma Meloni promette: “Sarà strutturale”. Gli sconti sul diesel scendono a 12,2 centesimi dal 18 al 25 settembre e a 6,1 fino al 5 ottobre"
+    },
+    {
+      "title": "Solare, eolico, idroelettrico, la frenata delle rinnovabili. “L’Italia fallirà gli obiettivi”",
+      "link": "https://www.repubblica.it/cronaca/2026/09/17/news/energia_rinnovabile_italia_obiettivi_falliti-425589702/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il rallentamento, iniziato già nel 2025, prosegue nella prima metà di quest’anno: l’energia pulita è aumentata di appena 3,4 Gigawatt"
     },
     {
       "title": "Dario Vitale direttore creativo di Emporio Armani e accessori, il primo fuori dalla famiglia",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Calcio: Messi segna la rete numero 100 con l'Inter Miami",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/calcio-messi-segna-la-rete-numero-100-con-linter-miami_927305c3-dd73-423c-9140-ab983a396232.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 09:16:21 +0200",
+      "excerpt": "In 115 presenze, la sua squadra vince la Campeones Cup"
+    },
+    {
       "title": "Europa League: Milan ko con il Benfica, fischi a San Siro CRONACA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-ko-con-il-benfica-fischi-a-san-siro-cronaca-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 20:06:20 +0200",
       "excerpt": "Tante novità di formazione per Amorim contro il Benfica"
-    },
-    {
-      "title": "Roma-Inter: contusione alla caviglia per Hermoso, Gasperini pensa a Balerdi",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/roma-inter-contusione-alla-caviglia-per-hermoso-gasperini-pensa-a-balerdi_19b33a6e-adf2-4886-a377-654d6ce72042.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 19:09:13 +0200",
-      "excerpt": "In attacco la solita coppia gol composta da Dybala e Malen"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
