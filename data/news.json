@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T22:08:03.606Z",
+  "lastUpdated": "2026-09-17T22:35:16.612Z",
   "finanza": {
     "italia": [
       {
@@ -232,6 +232,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Brasile, per Datafolha Lula al 39% e Flávio Bolsonaro 36% al primo turno",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/brasile-per-datafolha-lula-al-39-e-flavio-bolsonaro-36-al-primo-turno_727a3f92-3962-409b-8492-d918aef3acf4.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 00:30:26 +0200",
+        "excerpt": "Al ballottaggio il presidente progressista è al 46%, il senatore di destra al 44%"
+      },
+      {
         "title": "Nbc, 'Pentagono valuta di ritirare 25.000 soldati dall'Europa'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/nbc-pentagono-valuta-di-ritirare-25.000-soldati-dalleuropa_8b0ff27c-41bc-4f9b-b65e-08e4a2949d10.html",
         "source": "ANSA Mondo",
@@ -295,13 +302,6 @@
         "excerpt": "Lo riferisce un funzionario del Dipartimento di Stato"
       },
       {
-        "title": "Von der Leyen, 'domani altri 3,3 miliardi per aiuti militari a Kiev'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/von-der-leyen-domani-altri-33-miliardi-per-aiuti-militari-a-kiev_91ed4966-00f6-4972-9804-e4b4e5f905a0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 20:16:14 +0200",
-        "excerpt": "'I fondi rimanenti di Safe andranno ai programmi comuni Ue-Ucraina'"
-      },
-      {
         "title": "La guerra ibrida scatena i servizi segreti europei",
         "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/09/17/news/la_guerra_ibrida_scatena_i_servizi_segreti_europei-425590995/?rss",
         "source": "Repubblica Esteri",
@@ -346,6 +346,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Il pesce rosso di Meloni: la vignetta di Ellekappa",
+      "link": "https://www.repubblica.it/politica/2026/09/18/news/pesce_rosso_meloni_vignetta_ellekappa-425591800/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 22:01:00 +0000",
+      "excerpt": ""
+    },
     {
       "title": "Europei volley, l’Italia batte la Slovenia: domenica ottavi a Torino con la Danimarca",
       "link": "https://www.repubblica.it/sport/volley/2026/09/17/news/europei_volley_italia_slovenia_risultato-425591956/",
@@ -429,13 +436,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 16:24:03 +0000",
       "excerpt": "Il Tribunale di Rimini ha emesso la sentenza di 1° grado: i fatti risalgono al 2021"
-    },
-    {
-      "title": "Mattarella: “Violenza sulle donne emergenza di primaria importanza”",
-      "link": "https://www.repubblica.it/politica/2026/09/17/news/mattarella_violenza_donne_emergenza_primaria_grosseto-425591294/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 16:15:56 +0000",
-      "excerpt": "Il capo dello Stato ha visitato la Stanza Rosa del pronto soccorso dell'ospedale Misericordia di Grosseto"
     },
     {
       "title": "William e Kate in visita in Scozia giocano a shinty",
