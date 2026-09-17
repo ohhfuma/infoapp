@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-17T09:08:11.120Z",
+  "lastUpdated": "2026-09-17T09:39:51.489Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Federmeccanica: L'industria resta fragile, debolezza e discontinuità nel secondo trimestre",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/federmeccanica-lindustria-resta-fragile-debolezza-e-discontinuita-nel-secondo-trimestre_193c661f-3eba-4e20-a618-843ab1f0418b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 11:29:50 +0200",
+        "excerpt": "Leggera crescita. Le imprese si aspettano un calo di produzione e occupazione"
+      },
+      {
+        "title": "Ogni giorno tre detriti  spaziali rientrano in atmosfera. Perché dobbiamo preoccuparci",
+        "link": "https://www.ilsole24ore.com/art/detriti-spaziali-e-satelliti-fuori-orbita-rapporto-2026-pubblicato-all-esa-AJg9UwDB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Thu, 17 Sep 2026 09:15:00 GMT",
+        "excerpt": "In media, ogni giorno, più di tre satelliti intatti o corpi di razzi rientrano nell’atmosfera terrestre. E, allo stesso tempo, ogni giorno vengono lanciati dieci nuovi..."
+      },
+      {
+        "title": "Istat: prezzi delle case salgono +4% nel II trimestre, a Torino +8,5%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/istat-prezzi-case-salgono-4-nel-ii-trimestre-a-torino-85_6cb03b14-c5ce-4bf6-b4af-9acec05e8691.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 11:03:03 +0200",
+        "excerpt": "Rincari in rallentamento rispetto all'inizio dell'anno"
+      },
       {
         "title": "Borsa: l'Europa in cauto rialzo, lo spread Btp-Bund si allarga a 87 punti",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-in-cauto-rialzo-lo-spread-btp-bund-si-allarga-a-87-punti_913121f4-39c0-4b4a-b667-1940152f2c9a.html",
@@ -15,13 +36,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Thu, 17 Sep 2026 10:38:29 +0200",
         "excerpt": "Le importazioni sono cresciute di oltre 10 volte, passando da 3.800 veicoli nell'ottobre 2024 a 50.000 nel luglio 2026"
-      },
-      {
-        "title": "Istat, prezzi case salgono +4% nel II trimestre, a Torino +8,5%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/istat-prezzi-case-salgono-4-nel-ii-trimestre-a-torino-85_6cb03b14-c5ce-4bf6-b4af-9acec05e8691.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 10:34:23 +0200",
-        "excerpt": "Rincari in rallentamento rispetto all'inizio dell'anno"
       },
       {
         "title": "Il prezzo del gas inverte la rotta e sale a 78,5 euro al megawattora",
@@ -80,14 +94,7 @@
         "excerpt": "Lente sulla Banca d'Inghilterra, future Usa in rialzo"
       },
       {
-        "title": "Lo spread tra Btp e Bund in avvio è piatto a 86 punti base",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/lo-spread-tra-btp-e-bund-in-avvio-e-piatto-a-86-punti-base_ba14a85a-4a9b-4c6a-9f89-c6dc341e1ea7.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 08:41:12 +0200",
-        "excerpt": "Il rendimento del decennale italiano resta al 4,36%"
-      },
-      {
-        "title": "Dall’addio al bollo auto risparmi fino a 240 euro per 14,5 milioni di veicoli",
+        "title": "Esenzione bollo auto: risparmi fino a 240 euro per 14,5 milioni di veicoli",
         "link": "https://www.ilsole24ore.com/art/dall-addio-bollo-auto-risparmi-fino-240-euro-145-milioni-veicoli-AJpGIWFB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 17 Sep 2026 05:43:00 GMT",
@@ -162,13 +169,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 15:06:00 GMT",
         "excerpt": "Due finestre temporali con due sconti diversi. Il Governo ha disegnato così i prossimi venti giorni di taglio sulle accise del gasolio in un quadro che è stato approvato a..."
-      },
-      {
-        "title": "Gioco d’azzardo, lievita la spesa nei piccoli Comuni italiani",
-        "link": "https://www.ilsole24ore.com/art/gioco-d-azzardo-lievita-spesa-piccoli-comuni-italiani-AJzVD3EB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 14:46:15 GMT",
-        "excerpt": "«L'azzardo in Italia è cresciuto del 72% in dieci anni e la traiettoria attuale ci porta a superare, tra il 2028 e il 2029, la soglia dei 200 miliardi di..."
       }
     ],
     "europa": [
@@ -176,8 +176,8 @@
         "title": "L’Ue approva il Kids Act, «divieto dei social per gli under 13»",
         "link": "https://www.ilsole24ore.com/art/l-ue-approva-kids-act-divieto-social-gli-under-13-AJy0lsFB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Thu, 17 Sep 2026 08:29:55 GMT",
-        "excerpt": "La Commissione europea ha adottato l’Eu Kids Act per rafforzare la sicurezza dei minori online. La proposta vieta alle piattaforme social l’accesso agli under 13 e fissa a 15 anni..."
+        "pubDate": "Thu, 17 Sep 2026 08:29:00 GMT",
+        "excerpt": "La proposta vieta alle piattaforme social l’accesso agli under 13 e fissa a 15 anni l’età minima per aprire un account autonomo. Tra 13 e 15 anni sarà previsto il controllo dei genitori"
       },
       {
         "title": "Ucraina: drone russo colpisce nave civile nel Mar Nero, morto il capitano",
@@ -232,6 +232,62 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Identificato in Messico il killer della studentessa spagnola",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/identificato-in-messico-il-killer-della-studentessa-spagnola_4c614a93-2ada-4245-8e77-dca0d6f3e853.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 11:34:31 +0200",
+        "excerpt": "Emesso un ordine di cattura per il femminicidio di Claudia Tacoronte"
+      },
+      {
+        "title": "India, 'restiamo impegnati per sicurezza energetica nostra popolazione'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/17/india-restiamo-impegnati-per-sicurezza-energetica-nostra-popolazione_46c0e754-ab6f-4d90-877f-69c58a0590bd.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 11:18:08 +0200",
+        "excerpt": "Delhi su proposta pacchetto sanzioni Usa a Mosca e possibili dazi acquirenti greggio russo"
+      },
+      {
+        "title": "India, 'restiamo impegnati per sicurezza energetica nostra popolazione'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/india-restiamo-impegnati-per-sicurezza-energetica-nostra-popolazione_015783a1-c844-4446-a375-5369ef22663b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 11:18:01 +0200",
+        "excerpt": "Delhi su proposta pacchetto sanzioni Usa a Mosca e possibili dazi acquirenti greggio russo"
+      },
+      {
+        "title": "Ue a Trump, 'l'alleanza con il Canada non è contro qualcuno'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/ue-a-trump-lalleanza-con-il-canada-non-e-contro-qualcuno_d2cfbfc9-c69c-435f-832e-f08a6384255a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 11:15:24 +0200",
+        "excerpt": "'Lo ha chiarito von der Leyen, è per rafforzamento comune'"
+      },
+      {
+        "title": "Ue a Trump, 'l'alleanza con il Canada non è contro qualcuno'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/ue-a-trump-lalleanza-con-il-canada-non-e-contro-qualcuno_813b4b3e-d636-4e17-acc2-5f7b150c077a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 11:15:21 +0200",
+        "excerpt": "'Lo ha chiarito von der Leyen, è per rafforzamento comune'"
+      },
+      {
+        "title": "Kiev, 'drone russo colpisce nave civile nel Mar Nero, morto il capitano'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/kiev-drone-russo-colpisce-nave-civile-nel-mar-nero-morto_0279cbef-7372-4abc-839b-52ead2bd9556.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 11:13:15 +0200",
+        "excerpt": "L'imbarcazione batte bandiera tanzaniana, tre membri dell'equipaggio feriti"
+      },
+      {
+        "title": "Kiev, 'drone russo colpisce nave civile nel Mar Nero, morto il capitano'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/17/kiev-drone-russo-colpisce-nave-civile-nel-mar-nero-morto_9b306c31-10be-483b-87d9-c74dbe8fe7dc.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 11:13:09 +0200",
+        "excerpt": "L'imbarcazione batte bandiera tanzaniana, tre membri dell'equipaggio feriti"
+      },
+      {
+        "title": "Mojtaba Khamenei, il leader iraniano invisibile che ama Christopher Nolan e le serie tv americane",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/mojtaba_khamenei_iran_christopher_nolan_e_le_serie_tv_americane-425590436/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 11:11:37 +0200",
+        "excerpt": "Mentre la sua assenza pubblica alimenta sospetti e cospirazionismi, il cognato racconta che la Guida suprema è un fan del regista di Odissea. Intanto, gli iraniani intanto si interrogano su quali siano le sue reali condi"
+      },
+      {
         "title": "Crisi economica a Cuba, inflazione su base annua oltre il 25% ad agosto",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/crisi-economica-a-cuba-inflazione-su-base-annua-oltre-il-25-ad-agosto_90e99d5d-e2b5-4cd9-bf8d-045e2b13e3e4.html",
         "source": "ANSA Mondo",
@@ -239,60 +295,11 @@
         "excerpt": "Gli alimenti e le bevande tra i settori più colpiti dal rialzo dei prezzi"
       },
       {
-        "title": "Calcio: Lula, \"Ancelotti dia più chance agli atleti che giocano in Brasile\"",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/calcio-lula-ancelotti-dia-piu-chance-agli-atleti-che-giocano_fdf9f49f-2fce-4014-982f-93fe4a4b343a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 10:24:50 +0200",
-        "excerpt": "'Ho consigliato al ct di convocare i 22 migliori del nostro campionato'"
-      },
-      {
-        "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_fd1b384e-8a7d-4e6b-afc2-dc92b3020aa0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 10:17:24 +0200",
-        "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova"
-      },
-      {
         "title": "Agenti Ice e Fbi ai seggi per allontanare gli ispanici: midterm, mossa di Trump per arginare i dem",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/usa_agenti_ice_e_fbi_ai_seggi_ispanici_midterm_trump-425590138/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 09:34:18 +0200",
         "excerpt": "Il direttore dell’agenzia federale, Kash Patel, giustifica il piano con “l’esigenza di garantire l’integrità delle elezioni”. Ma in realtà l’idea fa parte del progetto di Donald di tenere alla larga dal voto quella parte"
-      },
-      {
-        "title": "Trump: 'Dazi all'Ue se il Canada diventa membro associato'. Bruxelles: 'L'alleanza non è contro qualcuno'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-dazi-allue-se-il-canada-diventa-membro-associato.-bruxelles-lalleanza-non_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 09:33:47 +0200",
-        "excerpt": "Il tycoon: 'Operazione ridicola, pronto a interrompere i rapporti commerciali'. Una fonte della Commissione: 'Lo facciamo per la nostra forza'"
-      },
-      {
-        "title": "Colombia, revocato il divieto di bombardare i campi della guerriglia",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/colombia-revocato-il-divieto-di-bombardare-i-campi-della-guerriglia_a9995ea6-ef8a-45de-93a4-4b2171205811.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 08:53:09 +0200",
-        "excerpt": "Una giudice ordina però 'più precauzioni' nel caso siano presenti minori"
-      },
-      {
-        "title": "Morto a 88 anni Peter Max, esponente dell'arte psichedelica",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/morto-a-88-anni-peter-max-esponente-dellarte-psichedelica_68cdefac-c0c7-45dc-80af-27497f2d394a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 06:53:02 +0200",
-        "excerpt": "Autore della copertina dell'album \"Yellow Submarine\" dei Beatles e del primo logo di Mtv"
-      },
-      {
-        "title": "Panama e Cina verso il rinnovo dell'accordo marittimo",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/panama-e-cina-verso-il-rinnovo-dellaccordo-marittimo_72e2db9b-83d5-407a-b4b8-e8e953bfadfc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 06:47:27 +0200",
-        "excerpt": "Calano i fermi delle navi, attesa per la firma finale di Pechino"
-      },
-      {
-        "title": "Lula andrà all'Onu per dire a Trump di \"non interferire\" nelle elezioni in Brasile",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/lula-andra-allonu-per-dire-a-trump-di-non-interferire-nelle-elezioni_0fe0f02a-6fb0-4de3-a697-9732557bb311.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 05:50:34 +0200",
-        "excerpt": "Ma al momento non è previsto un vertice tra i due capi di Stato"
       },
       {
         "title": "Trump minaccia il taglio del commercio con l’Ue se il il Canada diventa membro associato",
@@ -335,17 +342,31 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
         "excerpt": "Cresce il malcontento, ma a Vladimir non basta vincere in solitaria: gli serve una alta affluenza per legittimare le prossime mosse belliche"
-      },
-      {
-        "title": "“Separiamoci dall’Italia”. I secessionisti sudtirolesi e l’alleanza con l’Afd",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/separiamoci_italia_sodalizio_sudtirolesi_melanie_mair_congresso_ultradestra_tedesca_afd-425589437/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
-        "excerpt": "Melanie Mair, leader dei giovani del Süd-Tiroler Freiheit, al congresso dell’ultradestra tedesca: “Via da questo Stato”"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Mojtaba Khamenei, il leader iraniano invisibile che ama Christopher Nolan e le serie tv americane",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/mojtaba_khamenei_iran_christopher_nolan_e_le_serie_tv_americane-425590436/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 09:11:37 +0000",
+      "excerpt": "Mentre la sua assenza pubblica alimenta sospetti e cospirazionismi, il cognato racconta che la Guida suprema è un fan del regista di Odissea. Intanto, gli iraniani intanto si interrogano su quali siano le sue reali condi"
+    },
+    {
+      "title": "Bollo auto, scontro Renzi-Meloni. “Mi davi del venditore di pentole”. “Tu annunciavi, noi facciamo”",
+      "link": "https://www.repubblica.it/politica/2026/09/17/news/bollo_auto_renzi_meloni_scontro_social-425590422/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 09:08:00 +0000",
+      "excerpt": "Il botta e risposta sui social tra la premier e il leader Iv"
+    },
+    {
+      "title": "Macklemore dona un milione di dollari alla causa palestinese: “Le loro vite contano come le altre”",
+      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/17/news/macklemore_dona_un_milione_di_dollari_alla_causa_palestinese_le_loro_vite_contano_come_le_altre-425590418/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 09:07:08 +0000",
+      "excerpt": "Il rapper sfida il promoter Robert Kraft a pareggiare la sua donazione: “Quelle persone continuano a essere uccise”"
+    },
     {
       "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13' ",
       "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_70fecd53-e35e-4de9-a178-ab92d825a7f4.html",
@@ -375,7 +396,7 @@
       "excerpt": "\"Il governo lo ha già ampiamente garantito e ribadito\" . La premier: 'La tassa era tra le più odiate'"
     },
     {
-      "title": "Vannacci, il vademecum scritto da un parà per rispondere senza scivoloni ai giornalisti",
+      "title": "“Noi normali e i gay”. Omofobia e putinismo nel vademecum di Vannacci per rispondere ai giornalisti",
       "link": "https://www.repubblica.it/politica/2026/09/17/news/vannacci_vademecum_futuro_nazionale_stampa_para-425590181/",
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 07:51:28 +0000",
@@ -396,32 +417,11 @@
       "excerpt": "Il direttore dell’agenzia federale, Kash Patel, giustifica il piano con “l’esigenza di garantire l’integrità delle elezioni”. Ma in realtà l’idea fa parte del progetto di Donald di tenere alla larga dal voto quella parte"
     },
     {
-      "title": "OpenAI, nuove anomalie: “I modelli hanno nascosto errori e trasferito dati senza autorizzazione”",
-      "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 02:38:06 +0000",
-      "excerpt": "La startup californiana si è impegnata anche ad adottare sistemi di segnalazione per errori simili"
-    },
-    {
       "title": "La nuova vita del camper “Più libertà, meno spese e si può lavorare ovunque”",
       "link": "https://www.repubblica.it/cronaca/2026/09/17/news/vanlife_camper_straycats_ottavia_belli_milio_millemiglia-425589831/",
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 00:36:35 +0000",
       "excerpt": "Le storie dietro la vanlife: da Nicola e Silvia che viaggiano con i due gatti, a Simon Emilio che sta camperizzando un bus da solo. Fino a Ottavia che si sente più sicura in un parcheggio vuoto che in città"
-    },
-    {
-      "title": "La lettera di Schlein a Meloni: “Cara premier, uniamo le forze su clima e energia”",
-      "link": "https://www.repubblica.it/politica/2026/09/17/news/schlein_lettera_meloni_clima_energia_strategie_condivise_pd-425589798/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:12:08 +0000",
-      "excerpt": "Ecco 5 proposte della segretaria del Pd per trasformare la flessibilità in benefici per famiglie, imprese e territori"
-    },
-    {
-      "title": "La Ue fa asse con il Canada. E Trump la minaccia: “Dazi molto pesanti”",
-      "link": "https://www.repubblica.it/esteri/2026/09/17/news/ue_asse_canada_usa_mosca-425589607/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "Siglata l’alleanza transoceanica davanti al premier Carney che resta però scettico sulla formula della “associazione”"
     },
     {
       "title": "Da Thom Browne una lezione di entomologia chiude la NY Fashion Week / LA SFILATA",
@@ -517,6 +517,20 @@
   ],
   "sport": [
     {
+      "title": "Taekwondo: bronzo storico per l'Italia, 1/a medaglia iridata nel freestyle individuale",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/17/taekwondo-bronzo-storico-per-litalia-1a-medaglia-iridata-nel-freestyle-individuale_465bcad7-0d2c-41e0-ab79-c402f7787c91.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 11:25:25 +0200",
+      "excerpt": "Valentina Arlotti si guadagna il terzo posto in Corea, 'sono incredula'"
+    },
+    {
+      "title": "Tuchel e 'la ferita' dei Mondiali 'posso solo conviverci'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/tuchel-e-la-ferita-dei-mondiali-posso-solo-conviverci_deff5716-1992-439a-abc4-aba082a45ffb.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 11:25:19 +0200",
+      "excerpt": "Il ct dell'Inghilterra verso la Nations League, resta il rammarico del ko con l'Argentina"
+    },
+    {
       "title": "Verstappen supera 100 kartisti amatoriali in 14 giri",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/17/verstappen-supera-100-kartisti-amatoriali-in-14-giri_10f10ed1-8ff6-4cbb-9ce1-b599f4ced5d9.html",
       "source": "ANSA Sport",
@@ -557,20 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 23:07:06 +0200",
       "excerpt": "Il campione del Real sulla decisione di non indossare la maglia 'Todos somos caballas\""
-    },
-    {
-      "title": "Calcio: Mondiali U20 donne, l'Italia va ai quarti",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/calcio-mondiali-u20-donne-litalia-va-ai-quarti_a9b77844-d583-4ef4-aa99-fed975bdba07.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 22:26:04 +0200",
-      "excerpt": "In Polonia le Azzurrine battono la Cina ai rigori. Ora c'è la Corea del Sud"
-    },
-    {
-      "title": "Europa League: la Juventus sfida il NEC. Spalletti: 'Accettiamo le pressioni'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-la-juventus-sfida-il-nec.-spalletti-accettiamo-le-pressioni_3d7966bd-51b4-4adc-9d33-3a84ef4a9c90.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 21:15:35 +0200",
-      "excerpt": "Il tecnico bianconero: 'Gioca McKennie, non do altre indicazioni'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
