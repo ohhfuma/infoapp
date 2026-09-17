@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T20:08:32.692Z",
+  "lastUpdated": "2026-09-17T20:38:15.450Z",
   "finanza": {
     "italia": [
       {
@@ -38,11 +38,11 @@
         "excerpt": "Ma rimangono da chiarire alcuni punti per stilare una lista definitiva"
       },
       {
-        "title": "Stop bollo auto, Mattarella firma il decreto",
+        "title": "Decreto su accise e bollo auto pubblicato in Gazzetta, scatta venerdì",
         "link": "https://www.ilsole24ore.com/art/stop-bollo-auto-mattarella-firma-decreto-AJPF5VGB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 17 Sep 2026 17:39:00 GMT",
-        "excerpt": "Il capo dello Stato ha firmato il decreto che introduce lo stop al bollo delle auto piccole e medie e di tutte le moto. Il decreto varato il 16 settembre..."
+        "excerpt": "È stato pubblicato in Gazzetta Ufficiale ed entra in vigore da domani 18 settembre il decreto che contiene il nuovo sconto sulle accise del gasolio e lo stop per il..."
       },
       {
         "title": "Energia, difesa, materie prime critiche: Meloni stringe l’asse con la Norvegia guardando all’Artico",
@@ -183,8 +183,8 @@
         "title": "Governo Takaichi, il primo rimpasto: continuità su economia e yen",
         "link": "https://www.ilsole24ore.com/art/governo-takaichi-primo-rimpasto-continuita-economia-e-yen-AJirUDGB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Thu, 17 Sep 2026 17:50:21 GMT",
-        "excerpt": "La defenestrazione del responsabile degli Interni Yoshimasa Hayashi lascia senza un incarico di governo uno dei maggiorenti che sfidarono Takaichi per la leadership dell’Ldp"
+        "pubDate": "Thu, 17 Sep 2026 17:50:00 GMT",
+        "excerpt": "NEW DELHI - La premier giapponese Sanae Takaichi ha annunciato il suo primo rimpasto di governo, lanciando segnali di continuità in materia di politica economica e valutaria, e puntando a..."
       },
       {
         "title": "La famiglia reale britannica finisce nel mirino delle fake news",
@@ -347,18 +347,25 @@
   },
   "attualita": [
     {
+      "title": "Il piano di Crosetto, 'navi italiane a Bab el-Mandeb senza aspettare l'Ue'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-navi-militari-italiane-a-bab-el-mandeb-per-ripristino-dei-traffici_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 22:19:13 +0200",
+      "excerpt": "Il ministro della Difesa: 'Ci attiveremo per farle passare. Ma decideremo altri invii con Governo e Parlamento'"
+    },
+    {
+      "title": "Siamo Serie: Etoile, Jovayork - La musica dell'anima, Xoftex",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/09/17/siamo-serie-etoile-jovayork-la-musica-dellanima-xoftex_81e470c8-c421-4830-a798-8712faa46065.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 22:06:49 +0200",
+      "excerpt": "Puntata numero 301 della guida ai tesori nascosti dello streaming"
+    },
+    {
       "title": "Europa League, in campo Juventus-Nec LIVE",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-in-campo-juventus-nec-live_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
       "source": "ANSA",
       "pubDate": "Thu, 17 Sep 2026 21:59:58 +0200",
       "excerpt": "Si gioca la prima giornata della fase campionato"
-    },
-    {
-      "title": "Il piano di Crosetto, 'navi italiane a Bab el-Mandeb senza aspettare l'Ue'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-navi-militari-italiane-a-bab-el-mandeb-per-ripristino-dei-traffici_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 21:32:08 +0200",
-      "excerpt": "Il ministro della Difesa: 'Ci attiveremo per farle passare. Ma decideremo altri invii con Governo e Parlamento'"
     },
     {
       "title": "Jet militari russi violano lo spazio aereo lituano, caccia italiani in volo. Prime sanzioni Usa contro Mosca",
@@ -452,13 +459,6 @@
       "excerpt": "Lo rivela l'analisi dei denti"
     },
     {
-      "title": " Influenza, a ottobre al via la campagna con 9 vaccini aggiornati",
-      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/16/ansa-influenza-a-ottobre-al-via-campagna-con-9-vaccini-aggiornati_95983cbe-e794-40ce-b3e8-5243a9cfe384.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 19:14:07 +0200",
-      "excerpt": "Per molti immunizzazione è gratuita. Rezza, 'nonostante il caldo, non ritardare la vaccinazione'"
-    },
-    {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
       "link": "https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml",
       "source": "Corriere della Sera",
@@ -517,6 +517,20 @@
   ],
   "sport": [
     {
+      "title": "Milan flop in Europa ed è crisi, Amorim già sotto accusa",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/milan-flop-in-europa-ed-e-crisi-amorim-gia-sotto-accusa_d13df59d-df5e-4c6a-8b7b-1713de3321e5.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 22:16:32 +0200",
+      "excerpt": "Solo quattro tiri per Ramos, confronto tra Cardinale e il tecnico"
+    },
+    {
+      "title": "L'Inter cerca il colpo a Roma, Chivu perde Stones: dubbi in porta",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/linter-cerca-il-colpo-a-roma-chivu-perde-stones-dubbi-in-porta_4ac5c8fa-fb2a-4980-b22d-7e8a1598f870.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 22:11:07 +0200",
+      "excerpt": "Dopo gli errori di Martinez, idea Provedel titolare"
+    },
+    {
       "title": "Europa League, in campo Juventus-Nec LIVE",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-in-campo-juventus-nec-live_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
       "source": "ANSA Sport",
@@ -557,20 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 18:59:15 +0200",
       "excerpt": "Buone notizie per De Rossi, verso il rientro Ostigard e Amorim"
-    },
-    {
-      "title": "Serie A: Sassuolo a Monza senza Idzes, Adzic verso la maglia da titolare",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/serie-a-sassuolo-a-monza-senza-idzes-adzic-verso-la-maglia-da-titolare_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 18:12:08 +0200",
-      "excerpt": "La società allunga il contratto a Cinquegrano fino al 2032"
-    },
-    {
-      "title": "Cagliari, Maldini pronto a partire titolare anche con l'Udinese",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/cagliari-maldini-pronto-a-partire-titolare-anche-con-ludinese_91d093a5-e473-4386-92b4-8f841a27a759.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 17:47:07 +0200",
-      "excerpt": "Si va verso la quinta formazione uguale, Deiola in vantaggio su Mina"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
