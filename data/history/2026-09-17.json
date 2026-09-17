@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "La Pietra, pronti a misure ad hoc su liquidità e tracciabilità olio",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/la-pietra-pronti-a-misure-ad-hoc-su-liquidita-e-tracciabilita-olio_d6eb0b49-9b0d-4f77-9af8-2461df772860.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 15:02:27 +0200",
+        "excerpt": "Sottosegretario, \"incontro al Mimit conferma importanza dei frantoiani\""
+      },
+      {
         "title": "Non si arresta il calo del petrolio, il wti sotto i 100 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/non-si-arresta-il-calo-del-petrolio-il-wti-sotto-i-100-dollari_d1522a2e-3e02-4626-bb51-86a777ace9cc.html",
         "source": "ANSA Economia",
@@ -415,13 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "Wed, 16 Sep 2026 20:43:28 +0200",
         "excerpt": "La scheda"
-      },
-      {
-        "title": "Il governo abolisce il bollo 2027 per le auto piccole e medie. Stop anche per i motocicli",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_abolito_meloni-425588881/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 19:52:17 +0200",
-        "excerpt": "Meloni: “Sparisce una delle tasse più odiate dagli italiani. Sarà strutturale con Legge di Bilancio”. Giorgetti: “Scelta sofferta”"
       }
     ],
     "europa": [
@@ -519,6 +519,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Brasile, El Nino divide il Paese tra piogge record e forte siccità",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/brasile-el-nino-divide-il-paese-tra-piogge-record-e-forte-siccita_795828e9-70ea-40fa-9095-d3e6e86849ad.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 14:39:21 +0200",
+        "excerpt": "Al nord il Rio Branco ai minimi, a San Paolo mese più piovoso dal '43"
+      },
       {
         "title": "Yemen, con la ripresa delle ostilità si aggrava la crisi per 12 milioni di bambini",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/yemen-con-la-ripresa-delle-ostilita-si-aggrava-la-crisi-per-12-milioni-di-bambini_6806f9b1-3f41-451a-9cb6-303ffdaf7528.html",
@@ -931,17 +938,17 @@
         "source": "ANSA Mondo",
         "pubDate": "Wed, 16 Sep 2026 23:38:08 +0200",
         "excerpt": "Orsi: 'Mai ricevuta alcuna proposta, su queste cose non si scherza'"
-      },
-      {
-        "title": "Cuba, 'pronti degli esperti per aiutare l'Iran a riparare i danni di guerra'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/cuba-pronti-degli-esperti-per-aiutare-liran-a-riparare-i-danni-di-guerra_81e76bee-4d3e-47c2-8bc9-8bcfd33a2d79.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 23:24:52 +0200",
-        "excerpt": "L'Avana offre specialisti per strutture sanitarie colpite dai bombardamenti"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Rabbino aggredito, obbligo di firma per il ragazzo arrestato. Il fratello: “Non siamo razzisti”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/17/news/rabbino_aggredito_obbligo_firma_ragazzo_arrestato_fratello_non_siamo_razzisti-425590845/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 12:37:21 +0000",
+      "excerpt": "L’accusa: propaganda e istigazione a delinquere per motivi di discriminazione razziale. Uno dei giovani presenti: “Pronto a stringergli la mano, non c’entrava nulla che fosse ebreo”"
+    },
     {
       "title": "Meloni: 'Il bollo abolito non solo per il 2027, la misura è strutturale'. Le stime dei consumatori",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/meloni-il-bollo-abolito-non-solo-per-il-2027-la-misura-e-strutturale.-le-stime_01a925ca-c780-4377-be0c-cc6e8f2b45e0.html",
@@ -1354,16 +1361,16 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 08:00:32 +0200",
       "excerpt": "Sui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumentatiSui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumenta"
-    },
-    {
-      "title": "Toti a Spinelli: «Ti vengo a trovare prima delle elezioni. Ti chiedo un po’ di robe» Ecco le immagini degli incontri sullo yacht",
-      "link": "https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 07:57:43 +0200",
-      "excerpt": "Le parole del governatore ligure all'imprenditore: «Come al solito, di questi tempi» Spinelli a Signorini: «A 83 anni non mi possono fare niente»Le parole del governatore ligure all'imprenditore: «Come al solito, di ques"
     }
   ],
   "sport": [
+    {
+      "title": "Francia, il portiere del Como Butez tra i preselezionati da Zidane",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/francia-il-portiere-del-como-butez-tra-i-preselezionati-da-zidane_948486d5-7836-409a-bf87-f3270198a2dc.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 14:53:49 +0200",
+      "excerpt": "Domani pomeriggio l'annuncio ufficiale dei giocatori scelti"
+    },
     {
       "title": "Inghilterra rimpianto Malen, 'come ce lo siamo fatto scappare'",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/17/inghilterra-rimpianto-malen-come-ce-lo-siamo-fatto-scappare_f3c098d5-6776-41ae-aa09-7c89732bc777.html",

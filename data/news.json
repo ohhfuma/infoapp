@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T12:42:37.882Z",
+  "lastUpdated": "2026-09-17T13:09:33.499Z",
   "finanza": {
     "italia": [
+      {
+        "title": "La Pietra, pronti a misure ad hoc su liquidità e tracciabilità olio",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/la-pietra-pronti-a-misure-ad-hoc-su-liquidita-e-tracciabilita-olio_d6eb0b49-9b0d-4f77-9af8-2461df772860.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 15:02:27 +0200",
+        "excerpt": "Sottosegretario, \"incontro al Mimit conferma importanza dei frantoiani\""
+      },
       {
         "title": "Non si arresta il calo del petrolio, il wti sotto i 100 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/non-si-arresta-il-calo-del-petrolio-il-wti-sotto-i-100-dollari_d1522a2e-3e02-4626-bb51-86a777ace9cc.html",
@@ -64,13 +71,6 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 13:20:04 +0200",
         "excerpt": "Inaugurato nuovo Service Center Steel Nordic a Värnamo"
-      },
-      {
-        "title": "La Bank of England lascia i tassi invariati al 3,75%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/la-bank-of-england-lascia-i-tassi-invariati-al-375_166082e5-ffa5-4b1b-bd92-8803a968cff2.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 13:17:42 +0200",
-        "excerpt": "Nonostante l'accelerazione dell'inflazione legata al conflitto in Medio Oriente"
       },
       {
         "title": "Carburanti, proseguono i rialzi. Il diesel in autostrada a 2,34 euro",
@@ -232,6 +232,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue un faro per le altre democrazie”",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/carney_primo_ministro_canada_intervento_parlamento_europeo_alleanza_ue-425590614/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 14:57:23 +0200",
+        "excerpt": "Dall’Istruzione all’Ia, dal clima alle nuove tecnologie, il leader di Ottawa commenta la proposta al suo Paese di partnership avanzata da von der Leyen: “Siamo forti individualmente, ma lo siamo ancora di più insieme”. S"
+      },
+      {
+        "title": "Brasile, El Nino divide il Paese tra piogge record e forte siccità",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/brasile-el-nino-divide-il-paese-tra-piogge-record-e-forte-siccita_795828e9-70ea-40fa-9095-d3e6e86849ad.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 14:39:21 +0200",
+        "excerpt": "Al nord il Rio Branco ai minimi, a San Paolo mese più piovoso dal '43"
+      },
+      {
         "title": "Yemen, con la ripresa delle ostilità si aggrava la crisi per 12 milioni di bambini",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/yemen-con-la-ripresa-delle-ostilita-si-aggrava-la-crisi-per-12-milioni-di-bambini_6806f9b1-3f41-451a-9cb6-303ffdaf7528.html",
         "source": "ANSA Mondo",
@@ -274,13 +288,6 @@
         "excerpt": "Passa il testo senza accordo dei Socialisti e contro le regolarizzazioni spagnole"
       },
       {
-        "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue è un faro per le altre democrazie”",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/carney_primo_ministro_canada_intervento_parlamento_europeo_alleanza_ue-425590614/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 12:57:30 +0200",
-        "excerpt": "Il primo ministro canadese interviene nella sessione plenaria: “Siamo forti individualmente, ma lo siamo ancora di più insieme. Possiamo dare energia e materiali critici”"
-      },
-      {
         "title": "Carney a Trump, 'un Canada più forte è più efficace anche per gli Usa'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_7135a7fe-8f7f-458a-ba81-eea17011d31c.html",
         "source": "ANSA Mondo",
@@ -300,13 +307,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 12:42:57 +0200",
         "excerpt": "Mai così tanti decessi dal 2003. Il bilancio reso noto da Santé Publique France"
-      },
-      {
-        "title": "Almeno 3 morti nelle frane in Vietnam, isolati interi villaggi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/17/almeno-3-morti-nelle-frane-in-vietnam-isolati-interi-villaggi_a0dd5cba-2185-4329-97f3-21cc0fcfd3e9.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 12:32:42 +0200",
-        "excerpt": "Continua l'emergenza maltempo, migliaia di abitazioni allagate"
       },
       {
         "title": "Mojtaba Khamenei, il leader iraniano invisibile che ama Christopher Nolan e le serie tv americane",
@@ -347,10 +347,17 @@
   },
   "attualita": [
     {
+      "title": "Rabbino aggredito, obbligo di firma per il ragazzo arrestato. Il fratello: “Non siamo razzisti”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/17/news/rabbino_aggredito_obbligo_firma_ragazzo_arrestato_fratello_non_siamo_razzisti-425590845/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 12:37:21 +0000",
+      "excerpt": "L’accusa: propaganda e istigazione a delinquere per motivi di discriminazione razziale. Uno dei giovani presenti: “Pronto a stringergli la mano, non c’entrava nulla che fosse ebreo”"
+    },
+    {
       "title": "Meloni: 'Il bollo abolito non solo per il 2027, la misura è strutturale'. Le stime dei consumatori",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/meloni-il-bollo-abolito-non-solo-per-il-2027-la-misura-e-strutturale.-le-stime_01a925ca-c780-4377-be0c-cc6e8f2b45e0.html",
       "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 13:45:00 +0200",
+      "pubDate": "Thu, 17 Sep 2026 14:18:08 +0200",
       "excerpt": "Altroconsumo: risparmio tra i 113,52 e i 141,90 euro. Giani torna all'attacco: 'Ristori da fondi Pnrr incostituzionalità palese'"
     },
     {
@@ -382,11 +389,11 @@
       "excerpt": "La minaccia pende solo sui parlamentari alla prima legislatura, che sono meno della metà del totale. E i deputati ‘anziani’ che hanno già maturato l’assegno sono una netta maggioranza dentro Lega e Forza Italia"
     },
     {
-      "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue è un faro per le altre democrazie”",
+      "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue un faro per le altre democrazie”",
       "link": "https://www.repubblica.it/esteri/2026/09/17/news/carney_primo_ministro_canada_intervento_parlamento_europeo_alleanza_ue-425590614/",
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 10:24:29 +0000",
-      "excerpt": "Il primo ministro canadese interviene nella sessione plenaria: “Siamo forti individualmente, ma lo siamo ancora di più insieme. Possiamo dare energia e materiali critici”"
+      "excerpt": "Dall’Istruzione all’Ia, dal clima alle nuove tecnologie, il leader di Ottawa commenta la proposta al suo Paese di partnership avanzata da von der Leyen: “Siamo forti individualmente, ma lo siamo ancora di più insieme”. S"
     },
     {
       "title": "Certificati anti Cpr, la difesa dell’ex primario: “La cura è un diritto, non può mai essere reato”",
@@ -415,13 +422,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 09:44:14 +0000",
       "excerpt": "Davia Mizrai Shalom: “Sono abituato agli insulti quando passo per strada, l’antisemitismo sta crescendo. Prima di me avevano aggredito un altro rabbino”"
-    },
-    {
-      "title": "Mojtaba Khamenei, il leader iraniano invisibile che ama Christopher Nolan e le serie tv americane",
-      "link": "https://www.repubblica.it/esteri/2026/09/17/news/mojtaba_khamenei_iran_christopher_nolan_e_le_serie_tv_americane-425590436/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 09:11:37 +0000",
-      "excerpt": "Mentre la sua assenza pubblica alimenta sospetti e cospirazionismi, il cognato racconta che la Guida suprema è un fan del regista di Odissea. Intanto, gli iraniani intanto si interrogano su quali siano le sue reali condi"
     },
     {
       "title": "Da Thom Browne una lezione di entomologia chiude la NY Fashion Week / LA SFILATA",
@@ -517,6 +517,20 @@
   ],
   "sport": [
     {
+      "title": "Francia, il portiere del Como Butez tra i preselezionati da Zidane",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/francia-il-portiere-del-como-butez-tra-i-preselezionati-da-zidane_948486d5-7836-409a-bf87-f3270198a2dc.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 14:53:49 +0200",
+      "excerpt": "Domani pomeriggio l'annuncio ufficiale dei giocatori scelti"
+    },
+    {
+      "title": "Europa League, in campo alle 21 Juventus-Nec DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-juve-cambiaso-non-recupera-salta-anche-il-nec_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 14:52:49 +0200",
+      "excerpt": "Il laterale fuori dall'elenco convocati di Spalletti, torna McKennie"
+    },
+    {
       "title": "Serie A, Gasperini: 'Scudetto? Vediamo dopo 20 gare di che obiettivo parlare'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/gasperini-scudetto-vediamo-dopo-20-gare-di-che-obiettivo-parlare_807c598b-dcf4-477c-989d-5ee035b67c8c.html",
       "source": "ANSA Sport",
@@ -529,13 +543,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 14:38:25 +0200",
       "excerpt": "In panchina all'Aston Villa, stella della Roma: per la BBC tutto merito di Gasperini"
-    },
-    {
-      "title": "Europa League: Juve; Cambiaso non recupera, salta anche il Nec",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-juve-cambiaso-non-recupera-salta-anche-il-nec_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 14:03:19 +0200",
-      "excerpt": "Il laterale fuori dall'elenco convocati di Spalletti, torna McKennie"
     },
     {
       "title": "L'ex Toro Rincon lascia il calcio: \"Buona fortuna, General\"",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 12:26:48 +0200",
       "excerpt": "'Spero di non vedere più 2-3 titolari che non farei giocare in Eccellenza'"
-    },
-    {
-      "title": "Inter: Stones out con la Roma, risentimento muscolare alla coscia",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/inter-stones-out-con-la-roma-risentimento-muscolare-alla-coscia_67a15b0b-b056-4f1b-b231-20fe1c44b18a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 12:24:37 +0200",
-      "excerpt": "Nessuna lesione ma sarà rivalutato nei prossimi giorni"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
