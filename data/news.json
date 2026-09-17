@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-17T08:38:57.564Z",
+  "lastUpdated": "2026-09-17T09:08:11.120Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: l'Europa in cauto rialzo, lo spread Btp-Bund si allarga a 87 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-in-cauto-rialzo-lo-spread-btp-bund-si-allarga-a-87-punti_913121f4-39c0-4b4a-b667-1940152f2c9a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 10:48:13 +0200",
+        "excerpt": "Il petrolio è in calo mentre il prezzo del gas inverte rotta e punta 79 euro"
+      },
+      {
+        "title": "Stop alle auto ibride dalla Cina. L'Ue chiede di limitare volontariamente le esportazioni",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/stop_auto_ibride_cina_limitare_esportazioni-425590314/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 10:38:29 +0200",
+        "excerpt": "Le importazioni sono cresciute di oltre 10 volte, passando da 3.800 veicoli nell'ottobre 2024 a 50.000 nel luglio 2026"
+      },
       {
         "title": "Istat, prezzi case salgono +4% nel II trimestre, a Torino +8,5%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/istat-prezzi-case-salgono-4-nel-ii-trimestre-a-torino-85_6cb03b14-c5ce-4bf6-b4af-9acec05e8691.html",
@@ -55,7 +69,7 @@
         "title": "Pavia, maxi-frode nel commercio del riso bio: sequestrati beni per oltre 10 milioni",
         "link": "https://www.ilsole24ore.com/art/pavia-maxi-frode-commercio-riso-bio-sequestrati-beni-oltre-10-milioni-AJtysnFB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 17 Sep 2026 06:50:36 GMT",
+        "pubDate": "Thu, 17 Sep 2026 06:50:00 GMT",
         "excerpt": "Il prodotto veniva commercializzato come biologico mentre veniva coltivato utilizzando fitofarmaci e fertilizzanti non ammessi"
       },
       {
@@ -71,13 +85,6 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 08:41:12 +0200",
         "excerpt": "Il rendimento del decennale italiano resta al 4,36%"
-      },
-      {
-        "title": "Euro poco mosso, scambiato a 1,1467 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/euro-poco-mosso-scambiato-a-11467-dollari_7d2558a6-6993-44b4-9472-fda5826b9d54.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 08:07:35 +0200",
-        "excerpt": "Moneta unica passa di mano a 178,5900 yen"
       },
       {
         "title": "Dall’addio al bollo auto risparmi fino a 240 euro per 14,5 milioni di veicoli",
@@ -120,13 +127,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
         "excerpt": "Per l’ex capo economista di Moody’s la Fed non aveva scelta vista la crescita dei prezzi"
-      },
-      {
-        "title": "Stellantis incalza la Ue:“Sull’auto decidere subito regole uguali per tutti”",
-        "link": "https://www.repubblica.it/economia/2026/09/17/news/stellantis_ue_regole_subito_modifiche_auto_cappellano_lancia_gamma-425589722/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
-        "excerpt": "Presentata la Lancia Gamma fatta a Melfi. Cappellano: “A Mirafiori produzione raddoppiata”"
       },
       {
         "title": "Violenza sulle donne: 3 milioni di italiane vittime di soprusi prima dei 16 anni",
@@ -180,14 +180,14 @@
         "excerpt": "La Commissione europea ha adottato l’Eu Kids Act per rafforzare la sicurezza dei minori online. La proposta vieta alle piattaforme social l’accesso agli under 13 e fissa a 15 anni..."
       },
       {
-        "title": "Ucraina, almeno 12 feriti in raid russo su Kiev. Colpita una raffineria in Russia",
+        "title": "Ucraina: drone russo colpisce nave civile nel Mar Nero, morto il capitano",
         "link": "https://www.ilsole24ore.com/art/ucraina-almeno-12-feriti-raid-russo-kiev-colpita-raffineria-russia-AJBqYmFB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 07:11:00 GMT",
         "excerpt": "In Ucraina non si fermano gli attacchi russi sulla capitale. Nella notte tra il 16 e il 17 settembre, a partire da poco dopo la mezzanotte, sono iniziate le prime..."
       },
       {
-        "title": "Guerra ultime notizie. Trump terrà colloqui con i leader del Golfo martedì prossimo",
+        "title": "Guerra ultime notizie. Inchiesta Onu accusa gli Stati Uniti di crimini di guerra in Iran",
         "link": "https://www.ilsole24ore.com/art/iran-trump-terra-colloqui-i-leader-golfo-martedi-prossimo-AJHe2jFB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 05:17:00 GMT",
@@ -231,6 +231,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Crisi economica a Cuba, inflazione su base annua oltre il 25% ad agosto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/crisi-economica-a-cuba-inflazione-su-base-annua-oltre-il-25-ad-agosto_90e99d5d-e2b5-4cd9-bf8d-045e2b13e3e4.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 10:46:06 +0200",
+        "excerpt": "Gli alimenti e le bevande tra i settori più colpiti dal rialzo dei prezzi"
+      },
       {
         "title": "Calcio: Lula, \"Ancelotti dia più chance agli atleti che giocano in Brasile\"",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/calcio-lula-ancelotti-dia-piu-chance-agli-atleti-che-giocano_fdf9f49f-2fce-4014-982f-93fe4a4b343a.html",
@@ -279,13 +286,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 06:47:27 +0200",
         "excerpt": "Calano i fermi delle navi, attesa per la firma finale di Pechino"
-      },
-      {
-        "title": "Lula andrà all'Onu per dire a Trump di \"non interferire\" nelle elezioni in Brasile",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-andra-allonu-per-dire-a-trump-di-non-interferire-nelle-elezioni_98b15040-07d8-4cab-b145-eb5f2b6d3f5f.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 05:50:36 +0200",
-        "excerpt": "Ma al momento non è previsto un vertice tra i due capi di Stato"
       },
       {
         "title": "Lula andrà all'Onu per dire a Trump di \"non interferire\" nelle elezioni in Brasile",
@@ -350,8 +350,22 @@
       "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13' ",
       "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_70fecd53-e35e-4de9-a178-ab92d825a7f4.html",
       "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 10:32:53 +0200",
+      "pubDate": "Thu, 17 Sep 2026 10:54:31 +0200",
       "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova. Von der Leyen: 'Bambini esposti troppo presto al mondo online'"
+    },
+    {
+      "title": "Kiev: 'Un drone russo colpisce nave civile nel Mar Nero, morto il capitano'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/kiev-un-drone-russo-colpisce-nave-civile-nel-mar-nero-morto_db794caf-bb8a-4ee2-8e35-012df8bf0d43.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 10:48:32 +0200",
+      "excerpt": "Nella capitale ucraina 18 feriti per raid su palazzi e ferrovie. Raffineria in fiamme in Russia"
+    },
+    {
+      "title": "Kid’s Act, social vietati agli under 13. Von der Leyen: “In autunno tutele anche per gli adulti”",
+      "link": "https://www.repubblica.it/cronaca/2026/09/17/news/kid_s_act_social_vietati_minori_13_anni_legge_europea_cosa_prevede-425590331/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 08:44:30 +0000",
+      "excerpt": "La presidente della Commissione Ue: “Le piattaforme sono disegnate per monetizzare l’attenzione dei bambini, non sono state create pensando al loro benessere e sviluppo”. A breve norme per la tutela degli adulti dalle di"
     },
     {
       "title": "Meloni: 'Bollo abolito non solo per il 2027, la misura è strutturale'",
@@ -382,13 +396,6 @@
       "excerpt": "Il direttore dell’agenzia federale, Kash Patel, giustifica il piano con “l’esigenza di garantire l’integrità delle elezioni”. Ma in realtà l’idea fa parte del progetto di Donald di tenere alla larga dal voto quella parte"
     },
     {
-      "title": "Trump: 'Dazi all'Ue se il Canada diventa membro associato'. Bruxelles: 'L'alleanza non è contro qualcuno'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-dazi-allue-se-il-canada-diventa-membro-associato.-bruxelles-lalleanza-non_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 09:33:47 +0200",
-      "excerpt": "Il tycoon: 'Operazione ridicola, pronto a interrompere i rapporti commerciali'. Una fonte della Commissione: 'Lo facciamo per la nostra forza'"
-    },
-    {
       "title": "OpenAI, nuove anomalie: “I modelli hanno nascosto errori e trasferito dati senza autorizzazione”",
       "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/",
       "source": "Repubblica",
@@ -415,13 +422,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
       "excerpt": "Siglata l’alleanza transoceanica davanti al premier Carney che resta però scettico sulla formula della “associazione”"
-    },
-    {
-      "title": "Bollo auto, la mossa a sorpresa di Meloni spiazza gli alleati e apre al voto anticipato",
-      "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_meloni_elezioni_vannacci-425589712/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "La premier: “Vorrei arrivare alla scadenza della legislatura”. Ma Palazzo Chigi prepara le elezioni in primavera"
     },
     {
       "title": "Da Thom Browne una lezione di entomologia chiude la NY Fashion Week / LA SFILATA",
@@ -517,18 +517,25 @@
   ],
   "sport": [
     {
-      "title": "Lula, \"Ancelotti dia più chance agli atleti che giocano in Brasile\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/lula-ancelotti-dia-piu-chance-agli-atleti-che-giocano-in-brasile_5856722a-8b69-4ff9-a940-02f2b03338bf.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 10:24:44 +0200",
-      "excerpt": "'Ho consigliato al ct di convocare i 22 migliori del nostro campionato'"
-    },
-    {
       "title": "Verstappen supera 100 kartisti amatoriali in 14 giri",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/17/verstappen-supera-100-kartisti-amatoriali-in-14-giri_10f10ed1-8ff6-4cbb-9ce1-b599f4ced5d9.html",
       "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 10:23:05 +0200",
+      "pubDate": "Thu, 17 Sep 2026 10:55:48 +0200",
       "excerpt": "A Silverstone l'olandese aveva a disposizione 75 minuti, ne sono bastati 35"
+    },
+    {
+      "title": "Lula: 'Ancelotti dia più chance agli atleti che giocano in Brasile'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/lula-ancelotti-dia-piu-chance-agli-atleti-che-giocano-in-brasile_5856722a-8b69-4ff9-a940-02f2b03338bf.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 10:55:13 +0200",
+      "excerpt": "'Ho consigliato al ct di convocare i 22 migliori del nostro campionato'"
+    },
+    {
+      "title": "Messi segna la rete numero 100 con l'Inter Miami",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/calcio-messi-segna-la-rete-numero-100-con-linter-miami_927305c3-dd73-423c-9140-ab983a396232.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 10:54:24 +0200",
+      "excerpt": "In 115 presenze, la sua squadra vince la Campeones Cup"
     },
     {
       "title": "Boehly e Walter cedono le loro quote a Clearlake Capital",
@@ -536,13 +543,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 09:42:56 +0200",
       "excerpt": "Con la società di private equity avevano acquistato il club da Abramovich"
-    },
-    {
-      "title": "Calcio: Messi segna la rete numero 100 con l'Inter Miami",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/calcio-messi-segna-la-rete-numero-100-con-linter-miami_927305c3-dd73-423c-9140-ab983a396232.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 09:16:21 +0200",
-      "excerpt": "In 115 presenze, la sua squadra vince la Campeones Cup"
     },
     {
       "title": "Europa League: Milan ko con il Benfica, fischi a San Siro CRONACA e FOTO",
