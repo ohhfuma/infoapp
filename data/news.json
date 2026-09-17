@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T02:08:08.345Z",
+  "lastUpdated": "2026-09-17T02:39:12.751Z",
   "finanza": {
     "italia": [
+      {
+        "title": "OpenAi segnala nuove anomalie: “Sei casi di comportamento preoccupante dei modelli Ia’’",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 04:38:06 +0200",
+        "excerpt": "La startup californiana ha pubblicato sul suo blog i rapporti con i malfunzionamenti della sua tecnologia"
+      },
       {
         "title": "Borsa: Tokyo, apertura in rialzo (+0,98%)",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-tokyo-apertura-in-rialzo-098_f262ebdd-70d1-40c3-8510-60b8dd2dd745.html",
@@ -57,13 +64,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
         "excerpt": "Dal caso dei possessori di più vetture, ai veicoli entro il limite. Domande e risposte sulla nuova misura"
-      },
-      {
-        "title": "Il bollo auto di Meloni: la vignetta di Ellekappa",
-        "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_meloni_vignetta_ellekappa-425589591/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 00:01:00 +0200",
-        "excerpt": ""
       },
       {
         "title": "Pininfarina, al via l'Opa volontaria per il delisting da Piazza Affari",
@@ -347,6 +347,13 @@
   },
   "attualita": [
     {
+      "title": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/openai-sei-nuovi-casi-di-comportamento-preoccupante-dei-modelli-ia_470f9247-10ae-4861-91d5-dd8f991a198c.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 03:42:45 +0200",
+      "excerpt": "Adotta nuovo sistema di segnalazione per eventuali anomalie future nei test"
+    },
+    {
       "title": "La lettera di Schlein a Meloni: “Cara premier, uniamo le forze su clima e energia”",
       "link": "https://www.repubblica.it/politica/2026/09/17/news/schlein_lettera_meloni_clima_energia_strategie_condivise_pd-425589798/",
       "source": "Repubblica",
@@ -401,13 +408,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
       "excerpt": "L’ex Comune nucleare è il primo per potenza verde, per molti, però, serve una programmazione: “Il paesaggio è rovinato”"
-    },
-    {
-      "title": "Europa League: Milan sconfitto 2-0 dal Benfica a San Siro CRONACA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-sconfitto-2-0-dal-benfica-a-san-siro-cronaca-e-foto_512ed9f3-3195-40a2-86c4-3b4f23f60d44.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 22:57:41 +0200",
-      "excerpt": "I gol di Lukébakio al 16' e Kaminski al 53' per i portoghesi"
     },
     {
       "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
