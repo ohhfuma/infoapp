@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T16:08:56.898Z",
+  "lastUpdated": "2026-09-17T16:39:03.335Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Lo spread Btp-Bund chiude stabile a quota 86, rendimenti in calo",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/lo-spread-btp-bund-chiude-stabile-a-quota-86-rendimenti-in-calo_49183e2f-029d-47be-b20e-c9f390ae50b3.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 18:11:15 +0200",
+        "excerpt": "Il decennale italiano scende di due punti base al 4,338%"
+      },
       {
         "title": "Difesa, Portolano: «La pace va costruita ogni giorno con coraggio. L’AI non può sostituire l’essere umano»  ",
         "link": "https://www.ilsole24ore.com/art/difesa-portolano-la-pace-va-costruita-ogni-giorno-coraggio-l-ai-non-puo-sostituire-l-essere-umano-AJ7ZnEGB",
@@ -85,13 +92,6 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 16:07:45 +0200",
         "excerpt": "Jojob, '153,4 tonnellate CO2 evitate, 42mila euro di incentivi erogati'"
-      },
-      {
-        "title": "Unem, ad agosto vendita benzina ai massimi da 15 anni per il mese",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/unem-ad-agosto-vendita-benzina-ai-massimi-da-15-anni-per-il-mese_2f293399-9d21-4c6a-bcce-74c4cfbf00a4.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 15:48:43 +0200",
-        "excerpt": "+5,85 per il Jet fuel, eguaglia record storico di luglio"
       },
       {
         "title": "Vilnius: il drone abbattuto è di tipo “Gerbera”. Tutte le caratteristiche del velivolo sviluppato in Russia",
@@ -232,6 +232,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Rappresentante Onu visita Cuba, 'a fianco dell'isola in questo momento difficile'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/rappresentante-onu-visita-cuba-a-fianco-dellisola-in-questo-momento-difficile_c7ad4bbb-5197-41b1-b3a7-3260dcf3771d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 18:26:09 +0200",
+        "excerpt": "Díaz-Canel, 'è un segno di sostegno e di comprensione della situazione'"
+      },
+      {
         "title": "Kiev, 'ci prepariamo a incontro Trump-Zelensky a margine dell'Onu'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/kiev-ci-prepariamo-a-incontro-trump-zelensky-a-margine-dellonu_f9ce145a-ad37-4c8e-8b61-6e4e5f341648.html",
         "source": "ANSA Mondo",
@@ -303,13 +310,6 @@
       },
       {
         "title": "Trump riserverà a Xi una rara accoglienza in aeroporto",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/17/trump-riservera-a-xi-una-rara-accoglienza-in-aeroporto_9552849c-b6db-48b4-ac8b-9f09aabb697d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 15:50:26 +0200",
-        "excerpt": "Il presidente cinese atteso il 23 settembre a Washington"
-      },
-      {
-        "title": "Trump riserverà a Xi una rara accoglienza in aeroporto",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-riservera-a-xi-una-rara-accoglienza-in-aeroporto_82022f78-7643-4b57-9889-f702661d62f7.html",
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 15:50:22 +0200",
@@ -347,6 +347,34 @@
   },
   "attualita": [
     {
+      "title": "++ Maltempo, pioggia si infiltra agli Uffizi e bagna teca di un Caravaggio ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/17/maltempo-pioggia-si-infiltra-agli-uffizi-e-bagna-teca-di-un-caravaggio_b7c9fb53-e7f9-4ba7-aa82-4ab59b6d3836.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 18:30:34 +0200",
+      "excerpt": "Museo, è il Bacco ma nessuna opera è rimasta danneggiata"
+    },
+    {
+      "title": "Scherma, violenza su atleta minorenne: l’arbitro Bucca condannato a 2 anni e 4 mesi",
+      "link": "https://www.repubblica.it/sport/vari/2026/09/17/news/scherma_violenza_atleta_minorenne_arbitro_bucca_condannato_2_anni_4_mesi-425591307/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 16:24:03 +0000",
+      "excerpt": "Il Tribunale di Rimini ha emesso la sentenza di 1° grado: i fatti risalgono al 2021"
+    },
+    {
+      "title": "Crosetto: 'Navi militari italiane a Bab el Mandeb per ripristino dei traffici, valuteremo col Parlamento'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-navi-militari-italiane-a-bab-el-mandeb-per-ripristino-dei-traffici_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 18:23:38 +0200",
+      "excerpt": "Il ministro della Difesa: 'Non aspetteremo l'Ue, se agiremo lo faremo a protezione dei mercantili'"
+    },
+    {
+      "title": "Mattarella: “Violenza sulle donne emergenza di prima importanza”",
+      "link": "https://www.repubblica.it/politica/2026/09/17/news/mattarella_violenza_donne_emergenza_primaria_grosseto-425591294/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 16:15:56 +0000",
+      "excerpt": "Il capo dello Stato ha visitato la \"Stanza Rosa\" del pronto soccorso dell'ospedale Misericordia di Grosseto"
+    },
+    {
       "title": "William e Kate in visita in Scozia giocano a shinty",
       "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/09/17/william-e-kate-in-visita-in-scozia-giocano-a-shinty-un-antico-sport-celtico_23610811-64aa-4337-be1b-403e04fd898c.html",
       "source": "ANSA",
@@ -354,18 +382,25 @@
       "excerpt": "I reali al Bute Shinty Club a Rothesay, sull'isola scozzese di Bute"
     },
     {
+      "title": "Brasile, vestito da donna e un bimbo in braccio era quasi sfuggito alla polizia: arrestato serial killer. Ha confessato 80 omicidi",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/brasile_serial_killer_arresto_vestito_donna_confessa_80_omicidi-425591248/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 15:50:15 +0000",
+      "excerpt": "Jorlan Lope Da Silva, 33 anni, era accusato di 16 delitti ma, una volta, catturato ha ammesso di averne commessi molti di più, il primo a soli 13 anni. Si indaga su legami con una potente organizzazione criminale"
+    },
+    {
+      "title": "Smart working, sei consigli per non pesare sulla bolletta",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/design_giardino/2026/09/17/smart-working-sei-consigli-per-non-pesare-sulla-bolletta_0d7ee876-f001-4c97-b345-3e15c413a9a6.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 17:44:26 +0200",
+      "excerpt": "Accorgimenti per efficienza, confort e sostenubilità"
+    },
+    {
       "title": "Crosetto: “Diserzione non è termine positivo. I partigiani? Lotta di liberazione la fece l’esercito”",
       "link": "https://www.repubblica.it/politica/2026/09/17/news/crosetto_diserzione_giovani_dem_partigiani-425591179/",
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 15:23:07 +0000",
       "excerpt": "Il ministro della Difesa commenta le parole della segretaria dei giovani del Pd Virginia Libero: “È una parola che non avrei mai voluto sentir pronunciare da chi fa politica”"
-    },
-    {
-      "title": "Crosetto: 'Il passaggio delle navi italiane per Bab el-Mandeb senza attendere l'Ue'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-il-passaggio-delle-navi-italiane-per-bab-el-mandeb-senza-attendere_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 17:12:30 +0200",
-      "excerpt": "'Quando possiamo interveniamo per alleviare le crisi'"
     },
     {
       "title": "Morte avvelenate: 'Emersi elementi certi sul duplice omicidio'",
@@ -417,46 +452,11 @@
       "excerpt": "Il risultato dopo uno scrutinio durato 4 giorni: 176 seggi contro i 173 del centrodestra. Si dimette il premier conservatore Kristersson, scongiurata così l’alleanza con il partito neonazista. Ma l’exploit della sinistra"
     },
     {
-      "title": "Irlanda, formalizzato il boicottaggio di Eurovision 2027 per protesta contro la presenza di Israele",
-      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/17/news/irlanda_formalizzato_il_boicottaggio_di_eurovision_2027_per_protesta_contro_la_presenza_di_israele-425590860/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 12:45:51 +0000",
-      "excerpt": "Per il secondo anno di fila l’emittente di Stato conferma la sua assenza dalla manifestazione"
-    },
-    {
-      "title": "Tutti contro Ed Sheeran: i fan abbandonano i suoi social e una radio irlandese non lo trasmette più",
-      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/17/news/ed_sheeran_fan_abbandonano_i_suoi_social_e_una_radio_irlandese_non_lo_trasmette_piu-425590846/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 12:37:22 +0000",
-      "excerpt": "In un giorno l’artista inglese ha perso 150.000 follower a causa dell’esclusione di Macklemore dal suo tour. Per le proteste degli ascoltatori Classic Hits Radio lo ha escluso dalla programmazione"
-    },
-    {
-      "title": "Rabbino aggredito, obbligo di firma per il ragazzo arrestato. Il fratello: “Non siamo razzisti”",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/17/news/rabbino_aggredito_obbligo_firma_ragazzo_arrestato_fratello_non_siamo_razzisti-425590845/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 12:37:21 +0000",
-      "excerpt": "L’accusa: propaganda e istigazione a delinquere per motivi di discriminazione razziale. Uno dei giovani presenti: “Pronto a stringergli la mano, non c’entrava nulla che fosse ebreo”"
-    },
-    {
-      "title": "Femminicidi, la visita di Mattarella alla Stanza Rosa dell'Ospedale di Grosseto",
-      "link": "https://www.ansa.it/sito/notizie/dirette_live/2026/09/17/femminicidi-la-visita-di-mattarella-alla-stanza-rosa-dellospedale-di-grosseto_1b21c127-299f-47ea-a59f-0b5a4b5dc9a5.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 14:28:07 +0200",
-      "excerpt": ""
-    },
-    {
       "title": " Influenza, a ottobre al via la campagna con 9 vaccini aggiornati",
       "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/16/ansa-influenza-a-ottobre-al-via-campagna-con-9-vaccini-aggiornati_95983cbe-e794-40ce-b3e8-5243a9cfe384.html",
       "source": "ANSA",
       "pubDate": "Wed, 16 Sep 2026 19:14:07 +0200",
       "excerpt": "Per molti immunizzazione è gratuita. Rezza, 'nonostante il caldo, non ritardare la vaccinazione'"
-    },
-    {
-      "title": "Un cavallo sepolto e la stele di un re rinvenuti vicino ad Alessandria d'Egitto",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/16/un-cavallo-sepolto-e-la-stele-di-un-re-rinvenuti-vicino-ad-alessandria-degitto_c00d86e5-4ea2-485b-8c7c-ab124b843fce.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 18:49:02 +0200",
-      "excerpt": "Reperti del Nuovo Regno scoperti nella fortezza di Tell el Abqa'in"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Serie A: Sassuolo a Monza senza Idzes, Adzic verso la maglia da titolare",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/serie-a-sassuolo-a-monza-senza-idzes-adzic-verso-la-maglia-da-titolare_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 18:12:08 +0200",
+      "excerpt": "La società allunga il contratto a Cinquegrano fino al 2032"
+    },
+    {
       "title": "Cagliari, Maldini pronto a partire titolare anche con l'Udinese",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/cagliari-maldini-pronto-a-partire-titolare-anche-con-ludinese_91d093a5-e473-4386-92b4-8f841a27a759.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 15:02:45 +0200",
       "excerpt": "Il ct della Germania parla dell'avanzata dell'estrema destra in Sassonia-Anhalt"
-    },
-    {
-      "title": "Francia, il portiere del Como Butez tra i preselezionati da Zidane",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/francia-il-portiere-del-como-butez-tra-i-preselezionati-da-zidane_948486d5-7836-409a-bf87-f3270198a2dc.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 14:53:49 +0200",
-      "excerpt": "Domani pomeriggio l'annuncio ufficiale dei giocatori scelti"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
