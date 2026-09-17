@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Abs (Danieli) apre in Svezia l'hub degli acciai speciali del Nord Europa",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/abs-danieli-apre-in-svezia-lhub-degli-acciai-speciali-del-nord_73dbbf50-8bb6-4164-9217-5087585f3b28.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 13:20:04 +0200",
+        "excerpt": "Inaugurato nuovo Service Center Steel Nordic a Värnamo"
+      },
+      {
+        "title": "La Bank of England lascia i tassi invariati al 3,75%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/la-bank-of-england-lascia-i-tassi-invariati-al-375_166082e5-ffa5-4b1b-bd92-8803a968cff2.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 13:17:42 +0200",
+        "excerpt": "Nonostante l'accelerazione dell'inflazione legata al conflitto in Medio Oriente"
+      },
+      {
         "title": "Flotta navale commerciale italiana nel 2026 scende a quinto posto nell'Ue",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/flotta-navale-commerciale-italiana-nel-2026-scende-a-quinto-posto-nellue_73cfc705-e898-48cd-ad33-c00d5c0e153b.html",
         "source": "ANSA Economia",
@@ -408,20 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 15:06:00 GMT",
         "excerpt": "Due finestre temporali con due sconti diversi. Il Governo ha disegnato così i prossimi venti giorni di taglio sulle accise del gasolio in un quadro che è stato approvato a..."
-      },
-      {
-        "title": "Gioco d’azzardo, lievita la spesa nei piccoli Comuni italiani",
-        "link": "https://www.ilsole24ore.com/art/gioco-d-azzardo-lievita-spesa-piccoli-comuni-italiani-AJzVD3EB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 14:46:15 GMT",
-        "excerpt": "«L'azzardo in Italia è cresciuto del 72% in dieci anni e la traiettoria attuale ci porta a superare, tra il 2028 e il 2029, la soglia dei 200 miliardi di..."
-      },
-      {
-        "title": "Meloni: abolizione del bollo auto per 14,5 milioni di italiani",
-        "link": "https://www.ilsole24ore.com/art/fonti-chigi-oggi-via-bollo-auto-piccole-e-medie-e-motocicli-AJZBH4EB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 14:13:00 GMT",
-        "excerpt": "Il conto della misura si potrà fare solo con i dettagli alla mano: ma l’ordine di grandezza è intorno ai 2,5 miliardi, che dovranno essere compensati alle Regioni, destinatarie del gettito"
       }
     ],
     "europa": [
@@ -512,6 +512,34 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Così gli Usa proteggono il nuovo zar del petrolio venezuelano",
+        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/09/17/news/alejandro_betancourt_zar_petrolio_venezuela_protetto_da_trump-425590786/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 13:35:35 +0200",
+        "excerpt": "La giustizia spagnola attende da oltre nove mesi una risposta a una richiesta di cooperazione giudiziaria nelle inchieste che riguardano Alejandro Betancourt. Il giudice avverte: se entro dicembre Washington non risponde"
+      },
+      {
+        "title": "Giappone, soccorsi a pagamento sul Monte Fuji: la norma per scoraggiare gli scalatori fuori stagione",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/giappone_soccorsi_pagamento_monte_fuji_fuori_stagione-425590777/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 13:32:22 +0200",
+        "excerpt": "Il pacchetto di misure in vigore dal 2027 contro le scalate imprudenti durante il periodo di chiusura della montagna in cui gli escursionisti si trovano ad affrontare condizioni estreme, come raffiche di vento gelido e p"
+      },
+      {
+        "title": "Carney a Trump, 'un Canada più forte è più efficace anche per gli Usa'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_7135a7fe-8f7f-458a-ba81-eea17011d31c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 12:52:50 +0200",
+        "excerpt": "'E questo vale anche l'Ue. Un'alleanza è un processo positivo'"
+      },
+      {
+        "title": "Carney a Trump, 'un Canada più forte è più efficace anche per gli Usa'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_35d8b879-973f-4e59-a67f-67512ceb25f9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 12:52:50 +0200",
+        "excerpt": "'E questo vale anche l'Ue. Un'alleanza è un processo positivo'"
+      },
       {
         "title": "Oltre 8.000 morti legati all'ondata di caldo quest'estate in Francia",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/oltre-8.000-morti-legati-allondata-di-caldo-questestate-in-francia_bc837d40-0fae-4cdd-90c9-bd332fec3de1.html",
@@ -903,38 +931,17 @@
         "source": "ANSA Mondo",
         "pubDate": "Wed, 16 Sep 2026 22:00:04 +0200",
         "excerpt": "'Non sostenuta da motivazioni economiche particolarmente convincenti'"
-      },
-      {
-        "title": "Sheinbaum celebra l'Indipendenza del Messico, 'mai più colonia né protettorato'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/sheinbaum-celebra-lindipendenza-del-messico-mai-piu-colonia-ne-protettorato_f77d88b4-0446-4d21-b380-1bd9f185aba6.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 21:19:21 +0200",
-        "excerpt": "La presidente rivendica la resistenza dei popoli indigeni e ricorda i 'fratelli migranti'"
-      },
-      {
-        "title": "La chiamata alle urne di Putin: “Votate per la Duma e vinceremo”",
-        "link": "https://www.repubblica.it/esteri/2026/09/16/news/putin_discorso_russia_elezioni_parlamentari_partiti-425589459/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 20:59:52 +0200",
-        "excerpt": "Al via le parlamentari, le prime dall’invasione dell’Ucraina: seggi anche nelle terre annesse. Il presidente: “Nessuno potrà dividerci, dimostrate che sosteniamo i nostri soldati al fronte”"
-      },
-      {
-        "title": "Il dossier Fbi: “Killer al soldo dei servizi russi attivi in Europa e Usa”",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/dossier_fbi_killer_servizi_russi_attivi_europa_usa-425589346/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 20:50:00 +0200",
-        "excerpt": "Il documento depositato in tribunale cita tentati omicidi e pedinamenti di dissidenti in Repubblica Ceca, Lituania e America"
-      },
-      {
-        "title": "Macron invita i leader Ue a Metz per il discorso del Papa sull’Europa: Meloni non ci sarà",
-        "link": "https://www.repubblica.it/esteri/2026/09/16/news/macron_invita_leader_ue_metz_discorso_papa_europa_meloni_non_ci_sara-425589283/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 20:07:07 +0200",
-        "excerpt": "Leone sarà in Francia dal 25 al 28 settembre. E il presidente francese punta a trasformare la visita pontificia in un appuntamento politico e simbolico per l’Unione europea"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Garlasco, archiviazione per l’ex pm Venditti: non favorì l’archiviazione di Sempio. Altri indagati",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/17/news/garlasco_archiviazione_venditti_corruzione_archiviazione_sempio-425590763/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 11:28:58 +0000",
+      "excerpt": "Non ci fu corruzione per i giudici di Brescia chiamati a giudicare l’ex procuratore capo di Pavia"
+    },
     {
       "title": "Carney a Trump: 'Un Canada più forte è più efficace anche per gli Usa'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_fc66790e-61e5-468e-ae5c-96bb183b32e4.html",
@@ -1347,16 +1354,16 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 07:13:16 +0200",
       "excerpt": "Tra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità portuale Paolo SignoriniTra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità po"
-    },
-    {
-      "title": "Accumulare allegramente debito  senza pensare a chi pagherà",
-      "link": "https://www.corriere.it/lettere-al-direttore/12-05-2024/index.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 07:13:14 +0200",
-      "excerpt": ""
     }
   ],
   "sport": [
+    {
+      "title": "Gasperini \"Scudetto? Vediamo dopo 20 gare di che obiettivo parlare\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/gasperini-scudetto-vediamo-dopo-20-gare-di-che-obiettivo-parlare_807c598b-dcf4-477c-989d-5ee035b67c8c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 13:03:58 +0200",
+      "excerpt": "Tecnico della Roma: \"L'asticella si alza migliorando ogni giorno\""
+    },
     {
       "title": "Bentornato Klopp, ecco la sua Germania \"un po' folle e creativa\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/bentornato-klopp-ecco-la-sua-germania-un-po-folle-e-creativa_6f8dd0cb-b597-476d-8ba3-6d0b6929d7c4.html",

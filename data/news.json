@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-17T11:07:49.394Z",
+  "lastUpdated": "2026-09-17T11:38:43.663Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Abs (Danieli) apre in Svezia l'hub degli acciai speciali del Nord Europa",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/abs-danieli-apre-in-svezia-lhub-degli-acciai-speciali-del-nord_73dbbf50-8bb6-4164-9217-5087585f3b28.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 13:20:04 +0200",
+        "excerpt": "Inaugurato nuovo Service Center Steel Nordic a Värnamo"
+      },
+      {
+        "title": "La Bank of England lascia i tassi invariati al 3,75%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/la-bank-of-england-lascia-i-tassi-invariati-al-375_166082e5-ffa5-4b1b-bd92-8803a968cff2.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 13:17:42 +0200",
+        "excerpt": "Nonostante l'accelerazione dell'inflazione legata al conflitto in Medio Oriente"
+      },
       {
         "title": "Flotta navale commerciale italiana nel 2026 scende a quinto posto nell'Ue",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/flotta-navale-commerciale-italiana-nel-2026-scende-a-quinto-posto-nellue_73cfc705-e898-48cd-ad33-c00d5c0e153b.html",
@@ -38,25 +52,11 @@
         "excerpt": "Pininfarina in linea prezzo opa. Spread a 87 punti, rendimenti al 4,40%"
       },
       {
-        "title": "Altroconsumo, da stop bollo auto risparmio stimato tra 113,52 e 141,90 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/altroconsumo-da-stop-bollo-auto-risparmio-stimato-tra-11352-e-14190-euro_a6567556-9b70-4e8d-96b6-e77f2fa65f9d.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 12:18:05 +0200",
-        "excerpt": "'E' un'esenzione temporanea, noi da tempo proponiamo azzeramento Iva'"
-      },
-      {
         "title": "Iusful, la startup 'legal tech' raccoglie 2 milioni, obiettivo mille clienti",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/iusful-la-startup-legal-tech-raccoglie-2-milioni-obiettivo-mille-clienti_96b0f9a5-8f2b-4b92-b0b3-b2177eb33eb9.html",
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 12:15:09 +0200",
         "excerpt": "Tra gli investitori anche Moratti, Elkann e Berlusconi"
-      },
-      {
-        "title": "Aumentati del 65% gli over 55 al lavoro negli ultimi sei anni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/aumentati-del-65-gli-over-55-al-lavoro-negli-utlimi-sei-anni_de90ddfc-f775-4c18-8156-ddc6e3ba2266.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 11:58:45 +0200",
-        "excerpt": "Presidente Inps: 'Porre le donne al centro di qualsiasi strategia di sostenibilità'"
       },
       {
         "title": "Carburanti, proseguono i rialzi. Il diesel in autostrada a 2,34 euro",
@@ -232,11 +232,39 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Così gli Usa proteggono il nuovo zar del petrolio venezuelano",
+        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/09/17/news/alejandro_betancourt_zar_petrolio_venezuela_protetto_da_trump-425590786/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 13:35:35 +0200",
+        "excerpt": "La giustizia spagnola attende da oltre nove mesi una risposta a una richiesta di cooperazione giudiziaria nelle inchieste che riguardano Alejandro Betancourt. Il giudice avverte: se entro dicembre Washington non risponde"
+      },
+      {
+        "title": "Giappone, soccorsi a pagamento sul Monte Fuji: la norma per scoraggiare gli scalatori fuori stagione",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/giappone_soccorsi_pagamento_monte_fuji_fuori_stagione-425590777/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 13:32:22 +0200",
+        "excerpt": "Il pacchetto di misure in vigore dal 2027 contro le scalate imprudenti durante il periodo di chiusura della montagna in cui gli escursionisti si trovano ad affrontare condizioni estreme, come raffiche di vento gelido e p"
+      },
+      {
         "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue è un faro per le altre democrazie”",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/carney_primo_ministro_canada_intervento_parlamento_europeo_alleanza_ue-425590614/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 12:57:30 +0200",
         "excerpt": "Il primo ministro canadese interviene nella sessione plenaria: “Siamo forti individualmente, ma lo siamo ancora di più insieme. Possiamo dare energia e materiali critici”"
+      },
+      {
+        "title": "Carney a Trump, 'un Canada più forte è più efficace anche per gli Usa'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_7135a7fe-8f7f-458a-ba81-eea17011d31c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 12:52:50 +0200",
+        "excerpt": "'E questo vale anche l'Ue. Un'alleanza è un processo positivo'"
+      },
+      {
+        "title": "Carney a Trump, 'un Canada più forte è più efficace anche per gli Usa'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_35d8b879-973f-4e59-a67f-67512ceb25f9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 12:52:50 +0200",
+        "excerpt": "'E questo vale anche l'Ue. Un'alleanza è un processo positivo'"
       },
       {
         "title": "Oltre 8.000 morti legati all'ondata di caldo quest'estate in Francia",
@@ -281,20 +309,6 @@
         "excerpt": "Il premier canadese parlando alla Plenaria dell'Europarlamento"
       },
       {
-        "title": "Zelensky nomina un nuovo Procuratore generale ad interim",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/zelensky-nomina-un-nuovo-procuratore-generale-ad-interim_62543291-6602-4ee1-bd0c-78151a0ac2dc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 12:13:06 +0200",
-        "excerpt": "Anton Kovalsky sostituisce Kravchenko rimosso nell'ambito di un'inchiesta anti-corruzione"
-      },
-      {
-        "title": "Cremlino, 'le sanzioni Usa rendono più difficile la pace in Ucraina'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/cremlino-le-sanzioni-usa-rendono-piu-difficile-la-pace-in-ucraina_500dc4c8-8cc3-4b21-9709-9337846b5cc8.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 12:11:52 +0200",
-        "excerpt": "Da Congresso 'azione ostile'"
-      },
-      {
         "title": "Mojtaba Khamenei, il leader iraniano invisibile che ama Christopher Nolan e le serie tv americane",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/mojtaba_khamenei_iran_christopher_nolan_e_le_serie_tv_americane-425590436/?rss",
         "source": "Repubblica Esteri",
@@ -328,24 +342,17 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
         "excerpt": "Il commissario Ue per la Difesa: “Non ci sarà mai un momento in cui saremo pronti a difenderci da soli: dovremo adattarci”"
-      },
-      {
-        "title": "La Ue fa asse con il Canada. E Trump la minaccia: “Dazi molto pesanti”",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/ue_asse_canada_usa_mosca-425589607/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
-        "excerpt": "Siglata l’alleanza transoceanica davanti al premier Carney che resta però scettico sulla formula della “associazione”"
-      },
-      {
-        "title": "Naza, minacce a casa della regista. Netanyahu: “Via la cittadinanza”",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/naza_minacce_casa_regista_netanyahu_via_cittadinanza-425589543/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
-        "excerpt": "Proteste contro il film. Ma ora, per la prima volta, in Israele si parla dei massacri nella Striscia"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Garlasco, archiviazione per l’ex pm Venditti: non favorì l’archiviazione di Sempio. Altri indagati",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/17/news/garlasco_archiviazione_venditti_corruzione_archiviazione_sempio-425590763/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 11:28:58 +0000",
+      "excerpt": "Non ci fu corruzione per i giudici di Brescia chiamati a giudicare l’ex procuratore capo di Pavia"
+    },
     {
       "title": "Carney a Trump: 'Un Canada più forte è più efficace anche per gli Usa'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_fc66790e-61e5-468e-ae5c-96bb183b32e4.html",
@@ -415,13 +422,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 09:08:00 +0000",
       "excerpt": "Il botta e risposta sui social tra la premier e il leader Iv"
-    },
-    {
-      "title": "Macklemore dona un milione di dollari alla causa palestinese: “Le loro vite contano come le altre”",
-      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/17/news/macklemore_dona_un_milione_di_dollari_alla_causa_palestinese_le_loro_vite_contano_come_le_altre-425590418/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 09:07:08 +0000",
-      "excerpt": "Il rapper sfida il promoter Robert Kraft a pareggiare la sua donazione: “Quelle persone continuano a essere uccise”"
     },
     {
       "title": "Da Thom Browne una lezione di entomologia chiude la NY Fashion Week / LA SFILATA",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Gasperini \"Scudetto? Vediamo dopo 20 gare di che obiettivo parlare\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/gasperini-scudetto-vediamo-dopo-20-gare-di-che-obiettivo-parlare_807c598b-dcf4-477c-989d-5ee035b67c8c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 13:03:58 +0200",
+      "excerpt": "Tecnico della Roma: \"L'asticella si alza migliorando ogni giorno\""
+    },
+    {
       "title": "Bentornato Klopp, ecco la sua Germania \"un po' folle e creativa\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/bentornato-klopp-ecco-la-sua-germania-un-po-folle-e-creativa_6f8dd0cb-b597-476d-8ba3-6d0b6929d7c4.html",
       "source": "ANSA Sport",
@@ -550,13 +557,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 12:00:48 +0200",
       "excerpt": "Il giovane più promettente delle giovanili scalpita, pronto a rescindere il contratto"
-    },
-    {
-      "title": "Taekwondo: bronzo storico per l'Italia, 1/a medaglia iridata nel freestyle individuale",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/17/taekwondo-bronzo-storico-per-litalia-1a-medaglia-iridata-nel-freestyle-individuale_465bcad7-0d2c-41e0-ab79-c402f7787c91.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 11:49:26 +0200",
-      "excerpt": "Valentina Arlotti si guadagna il terzo posto in Corea, 'sono incredula'"
     },
     {
       "title": "Tuchel e 'la ferita' dei Mondiali: 'Posso solo conviverci'",
