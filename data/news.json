@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-17T14:09:18.392Z",
+  "lastUpdated": "2026-09-17T14:39:10.623Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Rallenta la corsa dei prezzi delle abitazioni, +4% nel secondo trimestre 2026",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/rallenta-la-corsa-dei-prezzi-delle-abitazioni-4-nel-secondo-trimestre-2026_6cb03b14-c5ce-4bf6-b4af-9acec05e8691.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 16:29:08 +0200",
+        "excerpt": "Torino e Roma guidano gli aumenti"
+      },
+      {
+        "title": "Carpooling aziende, 95mila tragitti fra Torino, Brescia e Firenze",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/carpooling-aziende-95mila-tragitti-fra-torino-brescia-e-firenze_d319a620-c02c-4e08-aa4d-fa7c19f9aa3e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 16:07:45 +0200",
+        "excerpt": "Jojob, '153,4 tonnellate CO2 evitate, 42mila euro di incentivi erogati'"
+      },
       {
         "title": "Unem, ad agosto vendita benzina ai massimi da 15 anni per il mese",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/unem-ad-agosto-vendita-benzina-ai-massimi-da-15-anni-per-il-mese_2f293399-9d21-4c6a-bcce-74c4cfbf00a4.html",
@@ -66,25 +80,11 @@
         "excerpt": "Stoccaggi sotto media frenano ottimismo Arabia su ripristino oleodotto danneggiato"
       },
       {
-        "title": "Per le donne metalmeccaniche c'è un gap retributivo del 12%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/per-le-donne-metalmeccaniche-ce-un-gap-retributivo-del-12_3578cf9d-1690-4fc7-a41f-ba3617c48ef4.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 13:58:05 +0200",
-        "excerpt": "Studio Fiom sul 2024-2025, contratti part time per 12,2% delle lavoratrici e 1,3% uomini"
-      },
-      {
         "title": "Arresti per pedopornografia online, scoperte 34mila immagini e 22mila video. Il procuratore: orrendo fenomeno criminale",
         "link": "https://www.ilsole24ore.com/art/arresti-pedopornografia-online-scoperte-34mila-immagini-e-22mila-video-procuratore-orrendo-fenomeno-criminale-AJYlb4FB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 17 Sep 2026 11:50:00 GMT",
         "excerpt": "Sei misure cautelari, un fermo di indiziato di delitto e 10 persone arrestate in flagranza di reato per la detenzione di un’ingente quantità di materiale"
-      },
-      {
-        "title": "Sogin, collaudata 'Scatola a Guanti' per cementare rifiuti liquidi contenenti plutonio",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/sogin-collaudata-scatola-a-guanti-per-cementare-rifiuti-liquidi-contenenti-plutonio_e74ccde2-2bd1-4082-9140-96cd889565dd.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 13:48:48 +0200",
-        "excerpt": "Impianto 'garantisce il più elevato livello di sicurezza per i lavoratori'"
       },
       {
         "title": "Servizi, assortimento, tecnologia: a Lissone lo store con le evoluzioni della rete fisica di Unieuro",
@@ -232,6 +232,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Svezia, vincono di misura i progressisti di Andersson: ma il nuovo governo è un rebus",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/svezia_elezioni_andersson_ultra_destra-425590934/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 16:12:52 +0200",
+        "excerpt": "Il risultato dopo uno scrutinio durato 4 giorni: 176 seggi contro i 173 del centrodestra. Si dimette il premier conservatore Kristersson, scongiurata così l’alleanza con il partito neonazista. Ma l’exploit della sinistra"
+      },
+      {
         "title": "La guerra ibrida scatena i servizi segreti europei",
         "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/09/17/news/la_guerra_ibrida_scatena_i_servizi_segreti_europei-425590995/?rss",
         "source": "Repubblica Esteri",
@@ -258,13 +265,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 15:46:18 +0200",
         "excerpt": "Nella provincia di Taiz"
-      },
-      {
-        "title": "Svezia, vincono di misura i progressisti di Andersson: ma il nuovo governo è un rebus",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/svezia_elezioni_andersson_ultra_destra-425590934/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 15:42:34 +0200",
-        "excerpt": "Il risultato dopo uno scrutinio durato 4 giorni: 176 seggi contro i 173 del centrodestra. Si dimette il premier conservatore Kristersson, scongiurata così l’alleanza con il partito neonazista. Ma l’exploit della sinistra"
       },
       {
         "title": "Re Carlo parla ai boss dell'IA: 'La tecnologia resti al servizio dell'umanità'",
@@ -347,18 +347,53 @@
   },
   "attualita": [
     {
-      "title": "Svezia, vincono di misura il progresissti di Andersson: ma il nuovo governo è un rebus",
-      "link": "https://www.repubblica.it/esteri/2026/09/17/news/svezia_elezioni_andersson_ultra_destra-425590934/",
+      "title": "Solo a casa a 5 anni precipita dal balcone, gravissimo",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/solo-a-casa-a-5-anni-precipita-dal-balcone-gravissimo_503f0fe2-ae1b-4b6a-bf4a-0b7337142d77.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 16:20:24 +0200",
+      "excerpt": "L'episodio vicino a Roma, denunciato il padre per abbandono di minori"
+    },
+    {
+      "title": "La guerra ibrida scatena i servizi segreti europei",
+      "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/09/17/news/la_guerra_ibrida_scatena_i_servizi_segreti_europei-425590995/",
       "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 13:33:38 +0000",
-      "excerpt": "Il risultato dopo uno scrutinio durato 4 giorni: 176 seggi contro i 173 del centrodestra. Si dimette il premier conservatore Kristersson, scongiurata così l’alleanza con il partito neonazista. Ma l’exploit della sinistra"
+      "pubDate": "Thu, 17 Sep 2026 14:07:00 +0000",
+      "excerpt": "Nelle democrazie occidentali ci sono sempre state remore nell’aumentare l’autonomia degli apparati di sicurezza. Ma i venti di guerra stanno cambiando gli equilibri istituzionali anche in Europa e spingono a dare più lib"
+    },
+    {
+      "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13' ",
+      "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_70fecd53-e35e-4de9-a178-ab92d825a7f4.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 15:44:48 +0200",
+      "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova. Von der Leyen: 'Bambini esposti troppo presto al mondo online'"
+    },
+    {
+      "title": "Carney a Trump: 'Un Canada più forte è più efficace anche per gli Usa'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_fc66790e-61e5-468e-ae5c-96bb183b32e4.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 15:44:02 +0200",
+      "excerpt": "Il premier canadese parla alla Plenaria dell'Europarlamento: 'Noi e l'Europa simili per affinità'"
+    },
+    {
+      "title": "Da Thom Browne una lezione di entomologia chiude la NY Fashion Week / LA SFILATA",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/16/da-thom-browne-una-lezione-di-entomologia-chiude-la-ny-fashion-week-la-sfilata_ae632cb2-569c-4f9a-8e33-8feb60a86891.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 15:35:15 +0200",
+      "excerpt": "Sagra della primavera allo Shed, vip come formiche in un giardino incantato"
     },
     {
       "title": "Madonna aprirà Mtv Video Music Awards, prima esibizione dal vivo ai premi in 23 anni",
       "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/17/madonna-aprira-mtv-video-music-awards-prima-esibizione-dal-vivo_c222cec8-becb-4ab7-8a70-2fd514901b45.html",
       "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 15:23:39 +0200",
+      "pubDate": "Thu, 17 Sep 2026 15:34:48 +0200",
       "excerpt": "Andranno in onda lunedì 28 settembre, ultimo album è Confessions II (Warner Records)"
+    },
+    {
+      "title": "Svezia, vincono di misura i progressisti di Andersson: ma il nuovo governo è un rebus",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/svezia_elezioni_andersson_ultra_destra-425590934/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 13:33:38 +0000",
+      "excerpt": "Il risultato dopo uno scrutinio durato 4 giorni: 176 seggi contro i 173 del centrodestra. Si dimette il premier conservatore Kristersson, scongiurata così l’alleanza con il partito neonazista. Ma l’exploit della sinistra"
     },
     {
       "title": "Irlanda, formalizzato il boicottaggio di Eurovision 2027 per protesta contro la presenza di Israele",
@@ -368,18 +403,18 @@
       "excerpt": "Per il secondo anno di fila l’emittente di Stato conferma la sua assenza dalla manifestazione"
     },
     {
+      "title": "Tutti contro Ed Sheeran: i fan abbandonano i suoi social e una radio irlandese non lo trasmette più",
+      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/17/news/ed_sheeran_fan_abbandonano_i_suoi_social_e_una_radio_irlandese_non_lo_trasmette_piu-425590846/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 12:37:22 +0000",
+      "excerpt": "In un giorno l’artista inglese ha perso 150.000 follower a causa dell’esclusione di Macklemore dal suo tour. Per le proteste degli ascoltatori Classic Hits Radio lo ha escluso dalla programmazione"
+    },
+    {
       "title": "Rabbino aggredito, obbligo di firma per il ragazzo arrestato. Il fratello: “Non siamo razzisti”",
       "link": "https://milano.repubblica.it/cronaca/2026/09/17/news/rabbino_aggredito_obbligo_firma_ragazzo_arrestato_fratello_non_siamo_razzisti-425590845/",
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 12:37:21 +0000",
       "excerpt": "L’accusa: propaganda e istigazione a delinquere per motivi di discriminazione razziale. Uno dei giovani presenti: “Pronto a stringergli la mano, non c’entrava nulla che fosse ebreo”"
-    },
-    {
-      "title": "Meloni: 'Il bollo abolito non solo per il 2027, la misura è strutturale'. Le stime dei consumatori",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/meloni-il-bollo-abolito-non-solo-per-il-2027-la-misura-e-strutturale.-le-stime_01a925ca-c780-4377-be0c-cc6e8f2b45e0.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 14:18:08 +0200",
-      "excerpt": "Altroconsumo: risparmio tra i 113,52 e i 141,90 euro. Giani torna all'attacco: 'Ristori da fondi Pnrr incostituzionalità palese'"
     },
     {
       "title": "Le due Germanie di Klopp: 44 convocati. Sull’Afd: “No all’orgoglio nazionale in mani sbagliate”",
@@ -396,11 +431,11 @@
       "excerpt": "Non ci fu corruzione per i giudici di Brescia chiamati a giudicare l’ex procuratore capo di Pavia"
     },
     {
-      "title": "Carney a Trump: 'Un Canada più forte è più efficace anche per gli Usa'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_fc66790e-61e5-468e-ae5c-96bb183b32e4.html",
+      "title": "12 spie dell'invecchiamento aprono la via a nuove terapie",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/17/individuate-12-spie-dellinvecchiamento-per-nuove-terapie_65b4f7ed-e779-4555-89a8-11259dca737e.html",
       "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 12:54:28 +0200",
-      "excerpt": "Il premier canadese parla alla Plenaria dell'Europarlamento: 'Noi e l'Europa simili per affinità'"
+      "pubDate": "Thu, 17 Sep 2026 12:35:45 +0200",
+      "excerpt": "Permetterebbero di capire molto più rapidamente se funzionano, viste nei topi"
     },
     {
       "title": "Melonellum e rischio voto anticipato: se la tagliola delle pensioni non spaventa tutti i deputati",
@@ -408,41 +443,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 10:30:24 +0000",
       "excerpt": "La minaccia pende solo sui parlamentari alla prima legislatura, che sono meno della metà del totale. E i deputati ‘anziani’ che hanno già maturato l’assegno sono una netta maggioranza dentro Lega e Forza Italia"
-    },
-    {
-      "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue un faro per le altre democrazie”",
-      "link": "https://www.repubblica.it/esteri/2026/09/17/news/carney_primo_ministro_canada_intervento_parlamento_europeo_alleanza_ue-425590614/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 10:24:29 +0000",
-      "excerpt": "Dall’Istruzione all’Ia, dal clima alle nuove tecnologie, il leader di Ottawa commenta la proposta al suo Paese di partnership avanzata da von der Leyen: “Siamo forti individualmente, ma lo siamo ancora di più insieme”. S"
-    },
-    {
-      "title": "Certificati anti Cpr, la difesa dell’ex primario: “La cura è un diritto, non può mai essere reato”",
-      "link": "https://bologna.repubblica.it/cronaca/2026/09/17/news/inchiesta_certificati_anti_cpr_giovanni_gordini_primario_intervista_medici-425590583/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 10:16:12 +0000",
-      "excerpt": "Giovanni Gordini, che ha diretto la rianimazione dell’ospedale Maggiore di Bologna e oggi è consigliere regionale, interviene sull’inchiesta di Ravenna: “C’è una questione di vulnerabilità che non si può valutare in diec"
-    },
-    {
-      "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13' ",
-      "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_70fecd53-e35e-4de9-a178-ab92d825a7f4.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 11:45:25 +0200",
-      "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova. Von der Leyen: 'Bambini esposti troppo presto al mondo online'"
-    },
-    {
-      "title": "Da Thom Browne una lezione di entomologia chiude la NY Fashion Week / LA SFILATA",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/16/da-thom-browne-una-lezione-di-entomologia-chiude-la-ny-fashion-week-la-sfilata_ae632cb2-569c-4f9a-8e33-8feb60a86891.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 22:57:26 +0200",
-      "excerpt": "Sagra della primavera allo Shed, vip come formiche in un giardino incantato"
-    },
-    {
-      "title": "Rushdie, la libertà di parola è sotto attacco, ma gli scrittori sono ostinati",
-      "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/09/16/rushdie-ce-molta-pressione-sulla-liberta-di-parola-ma-gli-scrittori-sono-ostinati_d4e06fb5-097f-49e3-b27f-b69dd89981ea.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 19:59:05 +0200",
-      "excerpt": "Il grande scrittore a Pordenonelegge 'Ambassador for freedom', oggi mi sento fortunato"
     },
     {
       "title": "Un cavallo sepolto e la stele di un re rinvenuti vicino ad Alessandria d'Egitto",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Nations League: ecco la Germania di Klopp, chiama 44 giocatori e dice no all'AfD",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/nations-league-ecco-la-germania-di-klopp-chiama-44-giocatori-e-dice-no-allafd_cfc16e4a-cf1e-49b5-9c5e-af30c3264b92.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 16:01:44 +0200",
+      "excerpt": "Sedici esordienti, poi esorta a 'non lasciare l'orgoglio nazionale alle persone sbagliate'"
+    },
+    {
       "title": "Auto: DL Racing, rivoluzione Driver Academy, nascono Young e Factory Program",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/17/auto-dl-racing-rivoluzione-driver-academy-nascono-young-e-factory-program_880a2549-66ab-407a-aa90-aa32e7fd93fa.html",
       "source": "ANSA Sport",
@@ -550,13 +557,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 14:38:49 +0200",
       "excerpt": "Tecnico della Roma: 'L'asticella si alza migliorando ogni giorno'"
-    },
-    {
-      "title": "Inghilterra rimpianto Malen, 'come ce lo siamo fatto scappare'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/17/inghilterra-rimpianto-malen-come-ce-lo-siamo-fatto-scappare_f3c098d5-6776-41ae-aa09-7c89732bc777.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 14:38:25 +0200",
-      "excerpt": "In panchina all'Aston Villa, stella della Roma: per la BBC tutto merito di Gasperini"
     },
     {
       "title": "L'ex Toro Rincon lascia il calcio: \"Buona fortuna, General\"",

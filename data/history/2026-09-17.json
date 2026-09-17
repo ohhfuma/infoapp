@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Rallenta la corsa dei prezzi delle abitazioni, +4% nel secondo trimestre 2026",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/rallenta-la-corsa-dei-prezzi-delle-abitazioni-4-nel-secondo-trimestre-2026_6cb03b14-c5ce-4bf6-b4af-9acec05e8691.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 16:29:08 +0200",
+        "excerpt": "Torino e Roma guidano gli aumenti"
+      },
+      {
+        "title": "Carpooling aziende, 95mila tragitti fra Torino, Brescia e Firenze",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/carpooling-aziende-95mila-tragitti-fra-torino-brescia-e-firenze_d319a620-c02c-4e08-aa4d-fa7c19f9aa3e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 16:07:45 +0200",
+        "excerpt": "Jojob, '153,4 tonnellate CO2 evitate, 42mila euro di incentivi erogati'"
+      },
+      {
         "title": "Unem, ad agosto vendita benzina ai massimi da 15 anni per il mese",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/unem-ad-agosto-vendita-benzina-ai-massimi-da-15-anni-per-il-mese_2f293399-9d21-4c6a-bcce-74c4cfbf00a4.html",
         "source": "ANSA Economia",
@@ -408,20 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Wed, 16 Sep 2026 23:02:59 +0200",
         "excerpt": "Il costo del denaro sale tra il 3,75% e il 4%. Ci sarà un nuovo intervento entro la fine dell’anno: l’inflazione è troppo alta"
-      },
-      {
-        "title": "Gli hacker chiedono il riscatto a Revolut. Minaccia all’Italia: “Abbiamo documenti della Polizia”.",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/hacker_revolut_polizia_postale-425589022/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 22:37:59 +0200",
-        "excerpt": "Il collettivo dichiara di avere compromesso, per sei mesi, i sistemi delle forze dell’ordine italiane e di possedere 147 GB di dati provenienti da diversi servizi di polizia italiani. In serata la richiesta di 3 milioni "
-      },
-      {
-        "title": "Pininfarina, al via l'Opa volontaria per il delisting da Piazza Affari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/pininfarina-al-via-lopa-volontaria-per-il-delisting-da-piazza-affari_1e299700-d91d-4369-8353-53670780bea4.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 22:31:54 +0200",
-        "excerpt": "L'offerta riguarda il 21,17% del capitale sul mercato, corrispettivo 1 euro per azione"
       }
     ],
     "europa": [
@@ -943,6 +943,20 @@
   },
   "attualita": [
     {
+      "title": "Solo a casa a 5 anni precipita dal balcone, gravissimo",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/solo-a-casa-a-5-anni-precipita-dal-balcone-gravissimo_503f0fe2-ae1b-4b6a-bf4a-0b7337142d77.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 16:20:24 +0200",
+      "excerpt": "L'episodio vicino a Roma, denunciato il padre per abbandono di minori"
+    },
+    {
+      "title": "La guerra ibrida scatena i servizi segreti europei",
+      "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/09/17/news/la_guerra_ibrida_scatena_i_servizi_segreti_europei-425590995/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 14:07:00 +0000",
+      "excerpt": "Nelle democrazie occidentali ci sono sempre state remore nell’aumentare l’autonomia degli apparati di sicurezza. Ma i venti di guerra stanno cambiando gli equilibri istituzionali anche in Europa e spingono a dare più lib"
+    },
+    {
       "title": "Svezia, vincono di misura il progresissti di Andersson: ma il nuovo governo è un rebus",
       "link": "https://www.repubblica.it/esteri/2026/09/17/news/svezia_elezioni_andersson_ultra_destra-425590934/",
       "source": "Repubblica",
@@ -962,6 +976,13 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 12:45:51 +0000",
       "excerpt": "Per il secondo anno di fila l’emittente di Stato conferma la sua assenza dalla manifestazione"
+    },
+    {
+      "title": "Tutti contro Ed Sheeran: i fan abbandonano i suoi social e una radio irlandese non lo trasmette più",
+      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/17/news/ed_sheeran_fan_abbandonano_i_suoi_social_e_una_radio_irlandese_non_lo_trasmette_piu-425590846/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 12:37:22 +0000",
+      "excerpt": "In un giorno l’artista inglese ha perso 150.000 follower a causa dell’esclusione di Macklemore dal suo tour. Per le proteste degli ascoltatori Classic Hits Radio lo ha escluso dalla programmazione"
     },
     {
       "title": "Rabbino aggredito, obbligo di firma per il ragazzo arrestato. Il fratello: “Non siamo razzisti”",
@@ -1004,6 +1025,13 @@
       "source": "ANSA",
       "pubDate": "Thu, 17 Sep 2026 12:54:28 +0200",
       "excerpt": "Il premier canadese parla alla Plenaria dell'Europarlamento: 'Noi e l'Europa simili per affinità'"
+    },
+    {
+      "title": "12 spie dell'invecchiamento aprono la via a nuove terapie",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/17/individuate-12-spie-dellinvecchiamento-per-nuove-terapie_65b4f7ed-e779-4555-89a8-11259dca737e.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 12:35:45 +0200",
+      "excerpt": "Permetterebbero di capire molto più rapidamente se funzionano, viste nei topi"
     },
     {
       "title": "Melonellum e rischio voto anticipato: se la tagliola delle pensioni non spaventa tutti i deputati",
@@ -1333,37 +1361,16 @@
       "source": "ANSA",
       "pubDate": "Wed, 16 Sep 2026 18:33:09 +0200",
       "excerpt": "L'attore a Torino: \"Fotografia su una famiglia dove tutti ci possiamo riconoscere\""
-    },
-    {
-      "title": "Il Global Gender Gap Report 2026: 'La parità di genere fa progressi record nel mondo, l'Italia indietro'",
-      "link": "https://www.ansa.it/donne/notizie/2026/09/16/il-global-gender-gap-report-2026-la-parita-di-genere-fa-progressi-record-nel_94f9ce45-cfef-436d-a323-418f9e6a3eca.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 18:27:48 +0200",
-      "excerpt": "Per la parità ci vorranno 120 anni. I Paesi nord europei guidano la classifica"
-    },
-    {
-      "title": "Meloni: “Voglio arrivare a fine legislatura. Fiducia su legge elettorale è un fatto di chiarezza”",
-      "link": "https://www.repubblica.it/politica/2026/09/16/news/melon_voto_politiche_fiducia_legge_elettorale-425589144/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 16:26:46 +0000",
-      "excerpt": "Alleanza con Vannacci? “Per me è sempre molto più importante vincere per governare che vincere per non governare”"
-    },
-    {
-      "title": "Bollo auto e moto: dalla Pandina alla Polo, tutte le macchine esenti",
-      "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_esenzione_pandina_polo_avenger_yaris-425589105/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 16:00:03 +0000",
-      "excerpt": "Il beneficio riguarda soprattutto citycar e utilitarie, non sono esclusi piccoli Suv come la Jeep Avenger nella versione con motore termico. Fuori i suv di media e alta gamma"
-    },
-    {
-      "title": "Le mostre del weekend, da Kandinsky a Bertozzi",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/16/le-mostre-del-weekend-da-kandinsky-a-bertozzi_e5384eee-1532-4833-b98b-72f10cb735a9.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 17:51:31 +0200",
-      "excerpt": "A Roma l'installazione di Isaac Julien, a Bagnacavallo c'è Chiara Calore"
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: ecco la Germania di Klopp, chiama 44 giocatori e dice no all'AfD",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/nations-league-ecco-la-germania-di-klopp-chiama-44-giocatori-e-dice-no-allafd_cfc16e4a-cf1e-49b5-9c5e-af30c3264b92.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 16:01:44 +0200",
+      "excerpt": "Sedici esordienti, poi esorta a 'non lasciare l'orgoglio nazionale alle persone sbagliate'"
+    },
     {
       "title": "Auto: DL Racing, rivoluzione Driver Academy, nascono Young e Factory Program",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/17/auto-dl-racing-rivoluzione-driver-academy-nascono-young-e-factory-program_880a2549-66ab-407a-aa90-aa32e7fd93fa.html",
