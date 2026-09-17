@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-17T07:39:20.375Z",
+  "lastUpdated": "2026-09-17T08:08:39.975Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Nuovi rialzi per il prezzo dei carburanti, gasolio self a 2,346 euro in autostrada",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/nuovi-rialzi-per-il-prezzo-dei-carburanti-gasolio-self-a-2346-euro_c396e1fc-d0fc-4f7c-b689-a1f66d761a8b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 09:50:05 +0200",
+        "excerpt": "Benzina a 2,236 euro al litro"
+      },
+      {
+        "title": "Auto, moto e motorini. Il caso di chi ha più veicoli: chi continuerà a pagare e chi no il bollo",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/abolizione_bollo_auto_moto_nuove_regole_calcolo-425590150/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 09:39:58 +0200",
+        "excerpt": "In caso di due vetture continuerà a pagare quella di potenza superiore. Tutte le combinazioni"
+      },
       {
         "title": "Borsa: l'Europa apre in positivo dopo rialzo tassi da parte della Fed",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-apre-in-positivo-dopo-rialzo-tassi-da-parte-della-fed_f6532a9d-700d-4bc1-a82b-1a1ee00fe6b9.html",
@@ -29,13 +43,6 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 08:48:34 +0200",
         "excerpt": "Lente sulla Banca d'Inghilterra, future Usa in rialzo"
-      },
-      {
-        "title": "Prezzo del petrolio in calo, Wti scambiato a 101,90 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/prezzo-del-petrolio-in-calo-wti-scambiato-a-10190-dollari_b9630069-7939-4466-819a-dc93dc419520.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 08:41:30 +0200",
-        "excerpt": "Brent passa di mano a 105,40 dollari"
       },
       {
         "title": "Prezzo oro in aumento, Spot scambiato a 4.297 dollari",
@@ -122,13 +129,6 @@
         "excerpt": "Presentata la Lancia Gamma fatta a Melfi. Cappellano: “A Mirafiori produzione raddoppiata”"
       },
       {
-        "title": "Addio al bollo su auto e moto per i veicoli piccoli e medi. Si riduce il taglio delle accise",
-        "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_moto_taglio_accise_diesel-425589717/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
-        "excerpt": "La cancellazione parziale solo per il 2027, ma Meloni promette: “Sarà strutturale”. Gli sconti sul diesel scendono a 12,2 centesimi dal 18 al 25 settembre e a 6,1 fino al 5 ottobre"
-      },
-      {
         "title": "Violenza sulle donne: 3 milioni di italiane vittime di soprusi prima dei 16 anni",
         "link": "https://www.ilsole24ore.com/art/violenza-donne-3-milioni-italiane-vittime-soprusi-prima-16-anni-AJSb2HFB",
         "source": "Il Sole 24 Ore",
@@ -180,7 +180,7 @@
         "excerpt": "In Ucraina non si fermano gli attacchi russi sulla capitale. Nella notte tra il 16 e il 17 settembre, a partire da poco dopo la mezzanotte, sono iniziate le prime..."
       },
       {
-        "title": "Guerra ultime notizie. Trump terrà colloqui  con i leader del Golfo martedì prossimo",
+        "title": "Guerra ultime notizie. Trump terrà colloqui con i leader del Golfo martedì prossimo",
         "link": "https://www.ilsole24ore.com/art/iran-trump-terra-colloqui-i-leader-golfo-martedi-prossimo-AJHe2jFB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 05:17:00 GMT",
@@ -347,6 +347,20 @@
   },
   "attualita": [
     {
+      "title": "Auto, moto e motorini. Il caso di chi ha più veicoli: chi continuerà a pagare e chi no il bollo",
+      "link": "https://www.repubblica.it/economia/2026/09/17/news/abolizione_bollo_auto_moto_nuove_regole_calcolo-425590150/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 07:39:58 +0000",
+      "excerpt": "In caso di due vetture continuerà a pagare quella di potenza superiore. Tutte le combinazioni"
+    },
+    {
+      "title": "Agenti Ice e Fbi ai seggi per allontanare gli ispanici: midterm, mossa di Trump per arginare i dem",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/usa_agenti_ice_e_fbi_ai_seggi_ispanici_midterm_trump-425590138/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 07:34:18 +0000",
+      "excerpt": "Il direttore dell’agenzia federale, Kash Patel, giustifica il piano con “l’esigenza di garantire l’integrità delle elezioni”. Ma in realtà l’idea fa parte del progetto di Donald di tenere alla larga dal voto quella parte"
+    },
+    {
       "title": "Trump: 'Dazi all'Ue se il Canada diventa membro associato'. Bruxelles: 'L'alleanza non è contro qualcuno'",
       "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-dazi-allue-se-il-canada-diventa-membro-associato.-bruxelles-lalleanza-non_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
       "source": "ANSA",
@@ -382,6 +396,13 @@
       "excerpt": "La startup californiana si è impegnata anche ad adottare sistemi di segnalazione per errori simili"
     },
     {
+      "title": "La nuova vita del camper “Più libertà, meno spese e si può lavorare ovunque”",
+      "link": "https://www.repubblica.it/cronaca/2026/09/17/news/vanlife_camper_straycats_ottavia_belli_milio_millemiglia-425589831/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 00:36:35 +0000",
+      "excerpt": "Le storie dietro la vanlife: da Nicola e Silvia che viaggiano con i due gatti, a Simon Emilio che sta camperizzando un bus da solo. Fino a Ottavia che si sente più sicura in un parcheggio vuoto che in città"
+    },
+    {
       "title": "La lettera di Schlein a Meloni: “Cara premier, uniamo le forze su clima e energia”",
       "link": "https://www.repubblica.it/politica/2026/09/17/news/schlein_lettera_meloni_clima_energia_strategie_condivise_pd-425589798/",
       "source": "Repubblica",
@@ -403,46 +424,25 @@
       "excerpt": "La premier: “Vorrei arrivare alla scadenza della legislatura”. Ma Palazzo Chigi prepara le elezioni in primavera"
     },
     {
-      "title": "Bollo auto, regole e limiti: cosa c’è da sapere sullo stop in vigore nel 2027",
-      "link": "https://www.repubblica.it/economia/2026/09/17/news/auto_bollo_cosa_c_e_da_sapere_stop-425589689/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "Dal caso dei possessori di più vetture, ai veicoli entro il limite. Domande e risposte sulla nuova misura"
-    },
-    {
-      "title": "Addio al bollo su auto e moto per i veicoli piccoli e medi. Si riduce il taglio delle accise",
-      "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_moto_taglio_accise_diesel-425589717/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "La cancellazione parziale solo per il 2027, ma Meloni promette: “Sarà strutturale”. Gli sconti sul diesel scendono a 12,2 centesimi dal 18 al 25 settembre e a 6,1 fino al 5 ottobre"
-    },
-    {
-      "title": "Solare, eolico, idroelettrico, la frenata delle rinnovabili. “L’Italia fallirà gli obiettivi”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/17/news/energia_rinnovabile_italia_obiettivi_falliti-425589702/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il rallentamento, iniziato già nel 2025, prosegue nella prima metà di quest’anno: l’energia pulita è aumentata di appena 3,4 Gigawatt"
-    },
-    {
-      "title": "Dario Vitale direttore creativo di Emporio Armani e accessori, il primo fuori dalla famiglia",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/16/dario-vitale-direttore-creativo-di-emporio-armani-e-accessori-il-primo-fuori-dalla_6c7f695d-4c40-4f94-9ab7-ba2e686b1081.html",
+      "title": "Da Thom Browne una lezione di entomologia chiude la NY Fashion Week / LA SFILATA",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/16/da-thom-browne-una-lezione-di-entomologia-chiude-la-ny-fashion-week-la-sfilata_ae632cb2-569c-4f9a-8e33-8feb60a86891.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 20:00:42 +0200",
-      "excerpt": "'Nuovo capitolo nel rispetto della visione che contraddistingue il nome Giorgio Armani'"
+      "pubDate": "Wed, 16 Sep 2026 22:57:26 +0200",
+      "excerpt": "Sagra della primavera allo Shed, vip come formiche in un giardino incantato"
     },
     {
-      "title": "Scamarcio: \"I figli della scimmia è un film pieno di amore\"",
-      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/09/16/scamarcio-i-figli-della-scimmia-e-un-film-pieno-di-amore_add70857-3d82-4fdc-9281-3fc43beec375.html",
+      "title": "Scamarcio, 'felice per i due premi, il cinema italiano meritava di più'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/16/scamarcio-felice-per-i-due-premi-il-cinema-italiano-meritava-di-piu_0038adc7-21fd-43ec-ac8e-9b45ebb6167f.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 18:33:09 +0200",
-      "excerpt": "L'attore a Torino: \"Fotografia su una famiglia dove tutti ci possiamo riconoscere\""
+      "pubDate": "Wed, 16 Sep 2026 20:30:40 +0200",
+      "excerpt": "L'attore a Torino per I figli della scimmia. 'Su Naza comportamento Israele inaccettabile'"
     },
     {
-      "title": "Il Global Gender Gap Report 2026: 'La parità di genere fa progressi record nel mondo, l'Italia indietro'",
-      "link": "https://www.ansa.it/donne/notizie/2026/09/16/il-global-gender-gap-report-2026-la-parita-di-genere-fa-progressi-record-nel_94f9ce45-cfef-436d-a323-418f9e6a3eca.html",
+      "title": "Rushdie, la libertà di parola è sotto attacco, ma gli scrittori sono ostinati",
+      "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/09/16/rushdie-ce-molta-pressione-sulla-liberta-di-parola-ma-gli-scrittori-sono-ostinati_d4e06fb5-097f-49e3-b27f-b69dd89981ea.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 18:27:48 +0200",
-      "excerpt": "Per la parità ci vorranno 120 anni. I Paesi nord europei guidano la classifica"
+      "pubDate": "Wed, 16 Sep 2026 19:59:05 +0200",
+      "excerpt": "Il grande scrittore a Pordenonelegge 'Ambassador for freedom', oggi mi sento fortunato"
     },
     {
       "title": "Le mostre del weekend, da Kandinsky a Bertozzi",
@@ -452,11 +452,11 @@
       "excerpt": "A Roma l'installazione di Isaac Julien, a Bagnacavallo c'è Chiara Calore"
     },
     {
-      "title": "Primo teletrasporto quantistico di un'immagine, su 100 canali simultaneamente",
-      "link": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/09/16/primo-teletrasporto-quantistico-di-unimmagine-_b60f2f56-3e75-4c04-a15e-0b177c6c2690.html",
+      "title": "Disattivare pregiudizi e progettare inclusione, due concorsi per le scuole",
+      "link": "https://www.ansa.it/responsabilmente/notizie/valori_condivisi/2026/09/15/disattivare-pregiudizi-e-progettare-inclusione-due-concorsi-per-le-scuole_cb6e7104-ef15-4a50-889f-b48866bfb953.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 16:27:31 +0200",
-      "excerpt": "Inviata una lettera Q da 100 pixel. Il successo avvicina l'internet quantistica"
+      "pubDate": "Wed, 16 Sep 2026 10:08:52 +0200",
+      "excerpt": "Promossi da Cpd, Consulta per Persone in Difficoltà per il DisFestival"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Boehly e Walter cedono le loro quote a Clearlake Capital",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/boehly-e-walter-cedono-le-loro-quote-a-clearlake-capital_188527fc-d193-4fee-a84d-1a21a05130ef.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 09:42:56 +0200",
+      "excerpt": "Con la società di private equity avevano acquistato il club da Abramovich"
+    },
+    {
       "title": "Calcio: Messi segna la rete numero 100 con l'Inter Miami",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/calcio-messi-segna-la-rete-numero-100-con-linter-miami_927305c3-dd73-423c-9140-ab983a396232.html",
       "source": "ANSA Sport",
@@ -550,13 +557,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 21:15:35 +0200",
       "excerpt": "Il tecnico bianconero: 'Gioca McKennie, non do altre indicazioni'"
-    },
-    {
-      "title": "Fiorentina: Gnonto 'se gioco in Italia lo devo a Mancini'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/fiorentina-gnonto-se-gioco-in-italia-lo-devo-a-mancini_0772ee81-cd36-4316-891c-a1a83d039069.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 21:12:14 +0200",
-      "excerpt": "Primo gol in viola, convocato dal ct azzurro nel 2022 senza alcuna presenza in Serie A"
     },
     {
       "title": "Tennis: Alcaraz ottiene il pass per le Finals Atp",
