@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T00:10:28.908Z",
+  "lastUpdated": "2026-09-17T00:42:51.555Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Tokyo, apertura in rialzo (+0,98%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-tokyo-apertura-in-rialzo-098_f262ebdd-70d1-40c3-8510-60b8dd2dd745.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 02:24:25 +0200",
+        "excerpt": "Attesa riunione Boj, scendono quotazioni petrolio"
+      },
       {
         "title": "Emporio Armani a Dario Vitale:prima firma esterna del gruppo",
         "link": "https://www.repubblica.it/economia/2026/09/17/news/emporio_armani_vitale_direttore_creativo-425589739/?rss",
@@ -129,13 +136,6 @@
         "excerpt": "Acquisti su Lottomatica e Italgas, corre Tisg, deboli Nexi ed Eni"
       },
       {
-        "title": "Lo spread tra Btp e Bund tedeschi chiude in ribasso a 86 punti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-ribasso-a-86-punti_8b3731b5-d887-4701-930b-e21557b4d36b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 18:11:23 +0200",
-        "excerpt": "Il rendimento annuo italiano cede 5,5 punti al 4,36%"
-      },
-      {
         "title": "Mini pacchi, tassa italiana rinviata fino al 30 novembre",
         "link": "https://www.ilsole24ore.com/art/mini-pacchi-tassa-italiana-rinviata-fino-30-novembre-AJL6AOEB",
         "source": "Il Sole 24 Ore",
@@ -232,6 +232,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump minaccia il taglio del commercio con l'Ue se Canada diventa membro associato",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/applicherei-dazi-molto-pesanti-sui-prodotti-provenienti-dalleuropa_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 02:11:45 +0200",
+        "excerpt": "'Applicherei dazi molto pesanti sui prodotti provenienti dall'Europa'"
+      },
+      {
         "title": "Congresso Usa approva il primo pacchetto di sanzioni sotto Trump contro la Russia",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/congresso-usa-approva-il-primo-pacchetto-di-sanzioni-sotto-trump-contro-la-russia_7d4f8f35-c018-4765-ad40-86872e534a85.html",
         "source": "ANSA Mondo",
@@ -251,13 +258,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 01:41:35 +0200",
         "excerpt": "Nella capitale ucraina diramato un allarme rosso per minaccia di attacchi missilistici"
-      },
-      {
-        "title": "'Applicherei dazi molto pesanti sui prodotti provenienti dall'Europa'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/applicherei-dazi-molto-pesanti-sui-prodotti-provenienti-dalleuropa_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 01:29:18 +0200",
-        "excerpt": ""
       },
       {
         "title": "Argentina, marines Usa si addestrano a Ushuaia tra tensioni sulle Falkland-Malvinas",
@@ -354,6 +354,13 @@
       "excerpt": "Ecco 5 proposte della segretaria del Pd per trasformare la flessibilità in benefici per famiglie, imprese e territori"
     },
     {
+      "title": "Chat Ranucci-Lavitola, quattro mesi cancellati",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/17/news/chat_ranucci_lavitola_quattro_mesi_cancellati-425589736/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 23:00:39 +0000",
+      "excerpt": "Il buco nei messaggi è considerato un’anomalia dagli investigatori. Procedura disciplinare, i legali: dalla Rai tempismo irrequieto"
+    },
+    {
       "title": "La Ue fa asse con il Canada. E Trump la minaccia: “Dazi molto pesanti”",
       "link": "https://www.repubblica.it/esteri/2026/09/17/news/ue_asse_canada_usa_mosca-425589607/",
       "source": "Repubblica",
@@ -394,13 +401,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
       "excerpt": "L’ex Comune nucleare è il primo per potenza verde, per molti, però, serve una programmazione: “Il paesaggio è rovinato”"
-    },
-    {
-      "title": "Cresce la minaccia dei droni. La premier: in Russia sono nervosi",
-      "link": "https://www.repubblica.it/politica/2026/09/17/news/russia_minaccia_droni_crosetto_meloni-425589665/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il tema oggi a Oslo nell’incontro di Meloni con il leader norvegese, intese su gas e difesa. Nega dissapori con Salvini dopo l’incontro con le aziende in affari con Mosca: nulla di strano"
     },
     {
       "title": "Europa League: Milan sconfitto 2-0 dal Benfica a San Siro CRONACA e FOTO",
