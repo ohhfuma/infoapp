@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-17T15:08:56.908Z",
+  "lastUpdated": "2026-09-17T15:38:49.506Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Gas, l’Europa verso l’inverno con gli stoccaggi ai minimi",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/09/17/news/gas_l_europa_verso_l_inverno_con_gli_stoccaggi_ai_minimi-425591193/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 17:29:05 +0200",
+        "excerpt": "L’allarme di Ieefa: le riserve sono al 68%, oltre 12 punti sotto il 2025. La crisi di Hormuz limita i flussi dal Qatar e l’Ue aumenta gli acquisti di Gnl sul mercato globale, dove deve competere con l’Asia. Wood Mackenzi"
+      },
+      {
+        "title": "Accademia aeronautica, intesa tra Italia e Francia per lo scambio di cadetti sulla scia del Trattato del Quirinale",
+        "link": "https://www.ilsole24ore.com/art/accademia-aeronautica-intesa-italia-e-francia-lo-scambio-cadetti-scia-trattato-quirinale-AJ9PF3EB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Thu, 17 Sep 2026 15:28:57 GMT",
+        "excerpt": "Per l’Italia, il cadetto selezionato frequenterà il semestre del corso di Laurea in Ingegneria presso l’Accademia francese a Salon-de-Provence e parallelamente il cadetto francese svolgerà il proprio semestre di studi pr"
+      },
       {
         "title": "Borsa: l'Europa avanza con Wall Street, in scia a petrolio e Fed",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-avanza-con-wall-street-in-scia-a-petrolio-e-fed_0eb08ef9-0512-4bca-8802-2be3cfd967c3.html",
@@ -143,13 +157,6 @@
         "excerpt": "Stop all’imposta su vetture fino a 80kw e due ruote. Dai risparmi Pnrr i 2,3 miliardi di coperture"
       },
       {
-        "title": "Tfr, le tasse non si alzano: le regole per il prelievo sul trattamento di fine rapporto",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/17/news/tfr_tassazione_regole_testo_unico-425589275/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 05:00:00 +0200",
-        "excerpt": "Il Nuovo testo unico delle imposte sui redditi non cambia le regole in vigore. Ecco come funziona oggi"
-      },
-      {
         "title": "Violenza sulle donne: 3 milioni di italiane vittime di soprusi prima dei 16 anni",
         "link": "https://www.ilsole24ore.com/art/violenza-donne-3-milioni-italiane-vittime-soprusi-prima-16-anni-AJSb2HFB",
         "source": "Il Sole 24 Ore",
@@ -162,13 +169,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 20:07:00 GMT",
         "excerpt": "Lo hanno prima insultato e preso a spintoni e poi lo hanno aggredito a calci e pugni, a sputi, e gli hanno calpestato il cappello. È quanto è successo a..."
-      },
-      {
-        "title": "Bari, intossicazione al meeting di Turi: scatta l’allarme sanitario, indaga la Asl",
-        "link": "https://www.ilsole24ore.com/art/malori-catena-convegno-barese-corso-accertamenti-dell-asl-AJYBQHFB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 17:23:00 GMT",
-        "excerpt": "I congressisti erano oltre trecento, riuniti lo scorso 11 settembre in una struttura ricettiva di Turi per un evento organizzato da una multinazionale del settore energetico. I lavori sono andati..."
       }
     ],
     "europa": [
@@ -232,11 +232,32 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Il monito di Re Carlo ai giganti dell’IA: “Resti al servizio dell’umanità”",
+        "title": "Milei insiste su dossier Falkland-Malvinas e presenta legge a difesa della sovranità",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/milei-insiste-su-dossier-falkland-malvinas-e-presenta-legge-a-difesa-della-sovranita_5778e522-8485-48a2-8404-9587d2a6a1c6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 17:21:28 +0200",
+        "excerpt": "'Massima priorità, non possiamo permettere che usurpino il nostro territorio'"
+      },
+      {
+        "title": "Il monito di Re Carlo ai giganti dell’IA: “Pericoli esistenziali. Resti al servizio dell’umanità”",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/re_carlo_allarme_intelligenza_artificiale_pericoli-425591093/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 17:00:49 +0200",
+        "pubDate": "Thu, 17 Sep 2026 17:20:54 +0200",
         "excerpt": "L’allarme del monarca sui pericolo dell’intelligenza artificiale al forum promosso dalla sua King's Foundation a Dumfries House, in Scozia, con alti rappresentanti di colossi Usa come Nvidia, Google DeepMind, OpenAI o An"
+      },
+      {
+        "title": "Times rivela campagna di fake news con IA contro la famiglia reale",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/times-rivela-campagna-di-fake-news-con-ia-contro-la-famiglia-reale_54cb0f07-bf46-4c51-9be6-3274f68d30e1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 17:15:34 +0200",
+        "excerpt": "Il quotidiano evoca il coinvolgimento di Mosca. Fra bufale re Carlo convertito a Islam"
+      },
+      {
+        "title": "Times rivela campagna di fake news con IA contro la famiglia reale",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/times-rivela-campagna-di-fake-news-con-ia-contro-la-famiglia-reale_36c2d21c-69b5-48bd-9f45-8b96aa4f279a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 17:15:18 +0200",
+        "excerpt": "Il quotidiano evoca il coinvolgimento di Mosca. Fra bufale re Carlo convertito a Islam"
       },
       {
         "title": "Svezia, vincono di misura i progressisti di Andersson: ma il nuovo governo è un rebus",
@@ -282,24 +303,10 @@
       },
       {
         "title": "Costa, 'Ue partner affidabile, costruiamo rapporto più stretto con il Canada'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/costa-ue-partner-affidabile-costruiamo-rapporto-piu-stretto-con-il-canada_3e1fb2e4-3404-4782-811b-a28466e1b1fc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 15:24:33 +0200",
-        "excerpt": "'Valori condivisi, noi vogliamo intensificare la collaborazione e viceversa'"
-      },
-      {
-        "title": "Costa, 'Ue partner affidabile, costruiamo rapporto più stretto con il Canada'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/costa-ue-partner-affidabile-costruiamo-rapporto-piu-stretto-con-il-canada_3a1ba957-b0b0-4f6e-afdb-f4c94520ef73.html",
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 15:24:17 +0200",
         "excerpt": "'Valori condivisi, noi vogliamo intensificare la collaborazione e viceversa'"
-      },
-      {
-        "title": "Netanyahu, continueremo a colpire i terroristi di Hamas a Gaza",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/netanyahu-continueremo-a-colpire-i-terroristi-di-hamas-a-gaza_4f16d7fc-0d40-4319-86ce-77aed81f1f93.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 15:23:53 +0200",
-        "excerpt": "'Ci occuperemo anche di Iran e Hezbollah'"
       },
       {
         "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue un faro per le altre democrazie”",
@@ -307,13 +314,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 14:57:23 +0200",
         "excerpt": "Dall’Istruzione all’Ia, dal clima alle nuove tecnologie, il leader di Ottawa commenta la proposta al suo Paese di partnership avanzata da von der Leyen: “Siamo forti individualmente, ma lo siamo ancora di più insieme”. S"
-      },
-      {
-        "title": "Riad, 'intercettato un drone, un morto e due feriti'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/riad-intercettato-un-drone-un-morto-e-due-feriti_b37ae8bc-f0e5-4afc-bc12-f252063ef5ab.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 14:54:30 +0200",
-        "excerpt": "Lo riferisce la difesa civile saudita"
       },
       {
         "title": "Giappone, soccorsi a pagamento sul Monte Fuji: la norma per scoraggiare gli scalatori fuori stagione",
@@ -347,18 +347,32 @@
   },
   "attualita": [
     {
-      "title": "++ Morte avvelenate: fonti, emersi elementi certi su omicidi ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/17/-morte-avvelenate-fonti-emersi-elementi-certi-su-omicidi-_c21757ff-bfc7-4b3d-bdfd-1c2d8b7f60dc.html",
+      "title": "Crosetto: 'Il passaggio delle navi italiane per Bab el-Mandeb senza attendere l'Ue'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-il-passaggio-delle-navi-italiane-per-bab-el-mandeb-senza-attendere_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
       "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 16:54:59 +0200",
-      "excerpt": "Indiscrezioni su primi risultati analisi in corso a Berlino"
+      "pubDate": "Thu, 17 Sep 2026 17:12:30 +0200",
+      "excerpt": "'Quando possiamo interveniamo per alleviare le crisi'"
     },
     {
-      "title": "Solo a casa a 5 anni precipita dal balcone, gravissimo",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/solo-a-casa-a-5-anni-precipita-dal-balcone-gravissimo_503f0fe2-ae1b-4b6a-bf4a-0b7337142d77.html",
+      "title": "Morte avvelenate: 'Emersi elementi certi sul duplice omicidio'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/morte-avvelenate-emersi-elementi-certi-sul-duplice-omicidio_8e2b2e97-6996-4eaa-9028-ea83addfe0f1.html",
       "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 16:20:24 +0200",
-      "excerpt": "L'episodio vicino a Roma, denunciato il padre per abbandono di minori"
+      "pubDate": "Thu, 17 Sep 2026 17:10:42 +0200",
+      "excerpt": "Indiscrezioni sui primi risultati delle analisi in corso a Berlino"
+    },
+    {
+      "title": "Cesare Cremonini: “Che liberazione ripartire da zero”",
+      "link": "https://www.repubblica.it/venerdi/2026/09/17/news/cesare_cremonini_album_amateur_concerti_intervista-425590772/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 15:00:00 +0000",
+      "excerpt": "Un album rock («no: è rock’n’roll»), una pausa dagli stadi, gli esperimenti con il sax: per Cesare Cremonini è un altro debutto. «Dicevo sempre sì, ora entro in una fase diversa, in cui voglio e devo poter scegliere». Si"
+    },
+    {
+      "title": "Keith Haring: un addio grande 180 metri quadrati",
+      "link": "https://www.repubblica.it/venerdi/2026/09/17/news/keith_haring_tuttomondo_murale_pisa_film-425590757/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 15:00:00 +0000",
+      "excerpt": "È il murale Tuttomondo realizzato dall’artista americano a Pisa un anno prima di morire. Un film girato all’epoca, e ora ritrovato, ne racconta la storia"
     },
     {
       "title": "La guerra ibrida scatena i servizi segreti europei",
@@ -366,13 +380,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 14:07:00 +0000",
       "excerpt": "Nelle democrazie occidentali ci sono sempre state remore nell’aumentare l’autonomia degli apparati di sicurezza. Ma i venti di guerra stanno cambiando gli equilibri istituzionali anche in Europa e spingono a dare più lib"
-    },
-    {
-      "title": "Carney a Trump: 'Un Canada più forte è più efficace anche per gli Usa'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_fc66790e-61e5-468e-ae5c-96bb183b32e4.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 15:44:02 +0200",
-      "excerpt": "Il premier canadese parla alla Plenaria dell'Europarlamento: 'Noi e l'Europa simili per affinità'"
     },
     {
       "title": "Da Thom Browne una lezione di entomologia chiude la NY Fashion Week / LA SFILATA",
@@ -417,6 +424,13 @@
       "excerpt": "L’accusa: propaganda e istigazione a delinquere per motivi di discriminazione razziale. Uno dei giovani presenti: “Pronto a stringergli la mano, non c’entrava nulla che fosse ebreo”"
     },
     {
+      "title": "Femminicidi, la visita di Mattarella alla Stanza Rosa dell'Ospedale di Grosseto",
+      "link": "https://www.ansa.it/sito/notizie/dirette_live/2026/09/17/femminicidi-la-visita-di-mattarella-alla-stanza-rosa-dellospedale-di-grosseto_1b21c127-299f-47ea-a59f-0b5a4b5dc9a5.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 14:28:07 +0200",
+      "excerpt": ""
+    },
+    {
       "title": "Le due Germanie di Klopp: 44 convocati. Sull’Afd: “No all’orgoglio nazionale in mani sbagliate”",
       "link": "https://www.repubblica.it/sport/calcio/2026/09/17/news/jurgen_klopp_ct_germania_44_convocati-425590813/",
       "source": "Repubblica",
@@ -429,20 +443,6 @@
       "source": "ANSA",
       "pubDate": "Thu, 17 Sep 2026 12:35:45 +0200",
       "excerpt": "Permetterebbero di capire molto più rapidamente se funzionano, viste nei topi"
-    },
-    {
-      "title": "Melonellum e rischio voto anticipato: se la tagliola delle pensioni non spaventa tutti i deputati",
-      "link": "https://www.repubblica.it/politica/rubriche/la-verita-vi-prego/2026/09/17/news/melonellum_rischio_voto_anticipato_tagliola_pensioni_deputati-425590636/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 10:30:24 +0000",
-      "excerpt": "La minaccia pende solo sui parlamentari alla prima legislatura, che sono meno della metà del totale. E i deputati ‘anziani’ che hanno già maturato l’assegno sono una netta maggioranza dentro Lega e Forza Italia"
-    },
-    {
-      "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue un faro per le altre democrazie”",
-      "link": "https://www.repubblica.it/esteri/2026/09/17/news/carney_primo_ministro_canada_intervento_parlamento_europeo_alleanza_ue-425590614/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 10:24:29 +0000",
-      "excerpt": "Dall’Istruzione all’Ia, dal clima alle nuove tecnologie, il leader di Ottawa commenta la proposta al suo Paese di partnership avanzata da von der Leyen: “Siamo forti individualmente, ma lo siamo ancora di più insieme”. S"
     },
     {
       "title": "Un cavallo sepolto e la stele di un re rinvenuti vicino ad Alessandria d'Egitto",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "F1: Antonelli: 'Futuro in Ferrari? Ora penso a vincere tanto in Mercedes'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/17/f1-antonelli-futuro-in-ferrari-ora-penso-a-vincere-tanto-in-mercedes_6969b26d-c4d3-4be7-b861-2f9bbc9d07e2.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 17:20:45 +0200",
+      "excerpt": "Il leader del mondiale: 'Sinner e Bezzecchi i miei amici, legami molto belli'"
+    },
+    {
       "title": "Frosinone alla prova Como, Raimondo 'anche noi abbiamo grande identità'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/frosinone-alla-prova-como-raimondo-anche-noi-abbiamo-grande-identita_c972ad4a-0645-4142-b16b-5a7044eac298.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 14:52:49 +0200",
       "excerpt": "Il laterale fuori dall'elenco convocati di Spalletti, torna McKennie"
-    },
-    {
-      "title": "L'ex Toro Rincon lascia il calcio: \"Buona fortuna, General\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/lex-toro-rincon-lascia-il-calcio-buona-fortuna-general_669d1c03-3c23-4cd5-970b-a76865c9b333.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 13:43:29 +0200",
-      "excerpt": "Messaggio del club granata per il venezuelano che si ritira a 38 anni"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
