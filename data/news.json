@@ -1,34 +1,41 @@
 {
-  "lastUpdated": "2026-09-17T06:10:29.807Z",
+  "lastUpdated": "2026-09-17T06:43:41.414Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Prezzo del petrolio in calo, Wti scambiato a 101,90 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/prezzo-del-petrolio-in-calo-wti-scambiato-a-10190-dollari_b9630069-7939-4466-819a-dc93dc419520.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 08:41:30 +0200",
+        "excerpt": "Brent passa di mano a 105,40 dollari"
+      },
+      {
+        "title": "Prezzo oro in aumento, Spot scambiato a 4.297 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/prezzo-oro-in-aumento-spot-scambiato-a-4.297-dollari_816c9f1c-8bbd-4301-a49e-ad428fd08503.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 08:41:25 +0200",
+        "excerpt": "Quotazione sale dello 0,97%"
+      },
+      {
+        "title": "Il prezzo del gas è in calo a 76,9 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-e-in-calo-a-769-euro-al-megawattora_fc947d4f-cd38-46fb-8d99-28387212ed3a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 08:41:21 +0200",
+        "excerpt": "Ad Amsterdam i contratti Ttf cedono l'1,5%"
+      },
+      {
+        "title": "Lo spread tra Btp e Bund in avvio è piatto a 86 punti base",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/lo-spread-tra-btp-e-bund-in-avvio-e-piatto-a-86-punti-base_ba14a85a-4a9b-4c6a-9f89-c6dc341e1ea7.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 08:41:12 +0200",
+        "excerpt": "Il rendimento del decennale italiano resta al 4,36%"
+      },
       {
         "title": "Euro poco mosso, scambiato a 1,1467 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/euro-poco-mosso-scambiato-a-11467-dollari_7d2558a6-6993-44b4-9472-fda5826b9d54.html",
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 08:07:35 +0200",
         "excerpt": "Moneta unica passa di mano a 178,5900 yen"
-      },
-      {
-        "title": "Il prezzo del gas è in calo a 76,9 euro al megawattora",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-e-in-calo-a-769-euro-al-megawattora_fc947d4f-cd38-46fb-8d99-28387212ed3a.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 08:06:33 +0200",
-        "excerpt": "Ad Amsterdam i contratti Ttf cedono l'1,5%"
-      },
-      {
-        "title": "Prezzo oro in aumento, Spot scambiato a 4.297 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/prezzo-oro-in-aumento-spot-scambiato-a-4.297-dollari_816c9f1c-8bbd-4301-a49e-ad428fd08503.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 08:03:30 +0200",
-        "excerpt": "Quotazione sale dello 0,97%"
-      },
-      {
-        "title": "Prezzo del petrolio in calo, Wti scambiato a 101,90 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/prezzo-del-petrolio-in-calo-wti-scambiato-a-10190-dollari_b9630069-7939-4466-819a-dc93dc419520.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 07:56:49 +0200",
-        "excerpt": "Brent passa di mano a 105,40 dollari"
       },
       {
         "title": "Dall’addio al bollo auto risparmi fino a 240 euro per 14,5 milioni di veicoli",
@@ -129,13 +136,6 @@
         "excerpt": "'Non sostenuta da motivazioni economiche particolarmente convincenti'"
       },
       {
-        "title": "Altavilla, per Byd Italia piano B per il secondo stabilimento in Europa",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/altavilla-per-byd-italia-piano-b-per-il-secondo-stabilimento-in-europa_4c0d79ff-365b-4de6-96b3-ee5717fc3128.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 20:47:01 +0200",
-        "excerpt": "'Nella short list Francia e Spagna. Puntiamo a essere tra primi tre player in Italia'"
-      },
-      {
         "title": "Bari, intossicazione al meeting di Turi: scatta l’allarme sanitario, indaga la Asl",
         "link": "https://www.ilsole24ore.com/art/malori-catena-convegno-barese-corso-accertamenti-dell-asl-AJYBQHFB",
         "source": "Il Sole 24 Ore",
@@ -180,11 +180,11 @@
         "excerpt": ""
       },
       {
-        "title": "Trump: «Se Canada membro associato Ue imporrò nuovi pesanti dazi»",
+        "title": "Trump: «Canada membro associato Ue? Imporrò nuovi pesanti dazi»",
         "link": "https://www.ilsole24ore.com/art/trump-se-canada-membro-associato-ue-imporro-nuovi-pesanti-dazi-AJfa1jFB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 05:15:00 GMT",
-        "excerpt": "Funzionari europei e canadesi stanno discutendo una nuova forma di rapporto con l’Ue che non comporterebbe la piena adesione, ma punterebbe a stabilire legami quanto più stretti possibile"
+        "excerpt": "In un comizio tenuto a Charlotte, nella Carolina del Nord, il presidente statunitense Donald Trump ha affermato che consentire al Canada di diventare membro associato dell’Unione Europea potrebbe costituire un..."
       },
       {
         "title": "La Fed di Warsh sfida Trump: rialza i tassi e promette di farlo ancora",
@@ -347,6 +347,13 @@
   },
   "attualita": [
     {
+      "title": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/openai-sei-nuovi-casi-di-comportamento-preoccupante-dei-modelli-ia_470f9247-10ae-4861-91d5-dd8f991a198c.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 08:34:58 +0200",
+      "excerpt": "Adotta nuovo sistema di segnalazione per eventuali anomalie future nei test"
+    },
+    {
       "title": "Via il bollo per il 70% delle auto, citycar, utilitarie, piccoli suv. La scheda",
       "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/via-il-bollo-per-il-70-delle-auto-citycar-utilitarie-piccoli-suv-quali_c2862558-389e-4424-8e41-2d8b4d0db227.html",
       "source": "ANSA",
@@ -359,13 +366,6 @@
       "source": "ANSA",
       "pubDate": "Thu, 17 Sep 2026 07:17:35 +0200",
       "excerpt": "La premier: 'Tassa tra le più odiate'. Il costo di 2,3 miliardi coperto dai risparmi sul Pnrr"
-    },
-    {
-      "title": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/openai-sei-nuovi-casi-di-comportamento-preoccupante-dei-modelli-ia_470f9247-10ae-4861-91d5-dd8f991a198c.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 07:13:15 +0200",
-      "excerpt": "Adotta nuovo sistema di segnalazione per eventuali anomalie future nei test"
     },
     {
       "title": "OpenAI segnala nuove anomalie: “Sei casi di comportamento preoccupante dei modelli di Ia”",
