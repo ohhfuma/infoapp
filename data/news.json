@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-17T12:10:12.708Z",
+  "lastUpdated": "2026-09-17T12:42:37.882Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Non si arresta il calo del petrolio, il wti sotto i 100 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/non-si-arresta-il-calo-del-petrolio-il-wti-sotto-i-100-dollari_d1522a2e-3e02-4626-bb51-86a777ace9cc.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 14:24:49 +0200",
+        "excerpt": "Il Brent perde il 3%, a 102,3 dollari al barile"
+      },
+      {
+        "title": "Il prezzo del gas in altalena sale a 78,5 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-in-altalena-sale-a-785-euro-al-megawattora_08c65d6e-cd8a-49d7-9c0f-d9ffed8e6c1a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 14:16:55 +0200",
+        "excerpt": "Stoccaggi sotto media frenano ottimismo Arabia su ripristino oleodotto danneggiato"
+      },
+      {
+        "title": "Per le donne metalmeccaniche c'è un gap retributivo del 12%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/per-le-donne-metalmeccaniche-ce-un-gap-retributivo-del-12_3578cf9d-1690-4fc7-a41f-ba3617c48ef4.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 13:58:05 +0200",
+        "excerpt": "Studio Fiom sul 2024-2025, contratti part time per 12,2% delle lavoratrici e 1,3% uomini"
+      },
       {
         "title": "Arresti per pedopornografia online, scoperte 34mila immagini e 22mila video. Il procuratore: orrendo fenomeno criminale",
         "link": "https://www.ilsole24ore.com/art/arresti-pedopornografia-online-scoperte-34mila-immagini-e-22mila-video-procuratore-orrendo-fenomeno-criminale-AJYlb4FB",
@@ -15,13 +36,6 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 13:48:48 +0200",
         "excerpt": "Impianto 'garantisce il più elevato livello di sicurezza per i lavoratori'"
-      },
-      {
-        "title": "Durigon: 'In pensione a 64 anni con contributivo riducendo la soglia minima'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/durigon-in-pensione-a-64-anni-con-contributivo-riducendo-soglia-minima_3e60081c-7493-4235-aa4f-f215ad11cd5e.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 13:47:17 +0200",
-        "excerpt": "La stima è di 80mila uscite il primo anno, circa 180mila nel triennio."
       },
       {
         "title": "Borsa: l'Europa si consolida con la Fed e la BoE, petrolio e gas in calo",
@@ -57,20 +71,6 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 13:17:42 +0200",
         "excerpt": "Nonostante l'accelerazione dell'inflazione legata al conflitto in Medio Oriente"
-      },
-      {
-        "title": "Flotta navale commerciale italiana nel 2026 scende a quinto posto nell'Ue",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/flotta-navale-commerciale-italiana-nel-2026-scende-a-quinto-posto-nellue_73cfc705-e898-48cd-ad33-c00d5c0e153b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 12:56:44 +0200",
-        "excerpt": "De Molli (Teha), 'a causa di complessità normative e processi onerosi'"
-      },
-      {
-        "title": "Mef, Consip e Upi rafforzano collaborazione per acquisti pubblici delle Province",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/mef-consip-e-upi-rafforzano-collaborazione-per-acquisti-pubblici-delle-province_42cc3166-d577-4b01-8f7c-7525a1e35512.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 12:40:28 +0200",
-        "excerpt": "Firmato l'accordo per l'efficienza e la razionalizzazione della spesa"
       },
       {
         "title": "Carburanti, proseguono i rialzi. Il diesel in autostrada a 2,34 euro",
@@ -176,7 +176,7 @@
         "title": "Carney a Trump: «Nessuno può dirci con chi dobbiamo allearci. Noi e la Ue simili per affinità»",
         "link": "https://www.ilsole24ore.com/art/carney-trump-nessuno-puo-dirci-chi-dobbiamo-allearci-noi-e-ue-simili-affinita-AJ0rr3FB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Thu, 17 Sep 2026 11:54:14 GMT",
+        "pubDate": "Thu, 17 Sep 2026 11:54:00 GMT",
         "excerpt": "Il premier alla Plenaria dell’Europarlamento: «Un Canada più forte, più resiliente, è un partner più efficace anche per gli Usa»"
       },
       {
@@ -231,6 +231,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Yemen, con la ripresa delle ostilità si aggrava la crisi per 12 milioni di bambini",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/yemen-con-la-ripresa-delle-ostilita-si-aggrava-la-crisi-per-12-milioni-di-bambini_6806f9b1-3f41-451a-9cb6-303ffdaf7528.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 14:12:07 +0200",
+        "excerpt": "Allarme Unicef: 'Sono oltre 100mila gli sfollati, tra cui 57mila bambini'"
+      },
       {
         "title": "Re Carlo parla ai boss dell'Ia, 'tecnologia resti al servizio dell'umanità'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/re-carlo-parla-ai-boss-dellia-tecnologia-resti-al-servizio-dellumanita_1afd1734-5354-49e8-b2f8-04d83b8e2c74.html",
@@ -302,13 +309,6 @@
         "excerpt": "Continua l'emergenza maltempo, migliaia di abitazioni allagate"
       },
       {
-        "title": "Carney, 'alleanza tra Canada e Ue faro per le altre democrazie'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/carney-alleanza-tra-canada-e-ue-faro-per-le-altre-democrazie_bd520b72-19de-4619-be55-825be4fb1c34.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 12:17:02 +0200",
-        "excerpt": "'Non cerchiamo il potere di dominare gli altri, ma un ordine giusto e prospero'"
-      },
-      {
         "title": "Mojtaba Khamenei, il leader iraniano invisibile che ama Christopher Nolan e le serie tv americane",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/mojtaba_khamenei_iran_christopher_nolan_e_le_serie_tv_americane-425590436/?rss",
         "source": "Repubblica Esteri",
@@ -368,13 +368,6 @@
       "excerpt": "Non ci fu corruzione per i giudici di Brescia chiamati a giudicare l’ex procuratore capo di Pavia"
     },
     {
-      "title": "Garlasco, cadono accuse per l’ex pm Venditti: non favorì l’archiviazione di Sempio. Altri indagati",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/17/news/garlasco_archiviazione_venditti_corruzione_archiviazione_sempio-425590763/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 11:28:58 +0000",
-      "excerpt": "Non ci fu corruzione per i giudici di Brescia chiamati a giudicare l’ex procuratore capo di Pavia"
-    },
-    {
       "title": "Carney a Trump: 'Un Canada più forte è più efficace anche per gli Usa'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_fc66790e-61e5-468e-ae5c-96bb183b32e4.html",
       "source": "ANSA",
@@ -422,6 +415,13 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 09:44:14 +0000",
       "excerpt": "Davia Mizrai Shalom: “Sono abituato agli insulti quando passo per strada, l’antisemitismo sta crescendo. Prima di me avevano aggredito un altro rabbino”"
+    },
+    {
+      "title": "Mojtaba Khamenei, il leader iraniano invisibile che ama Christopher Nolan e le serie tv americane",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/mojtaba_khamenei_iran_christopher_nolan_e_le_serie_tv_americane-425590436/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 09:11:37 +0000",
+      "excerpt": "Mentre la sua assenza pubblica alimenta sospetti e cospirazionismi, il cognato racconta che la Guida suprema è un fan del regista di Odissea. Intanto, gli iraniani intanto si interrogano su quali siano le sue reali condi"
     },
     {
       "title": "Da Thom Browne una lezione di entomologia chiude la NY Fashion Week / LA SFILATA",
@@ -517,6 +517,20 @@
   ],
   "sport": [
     {
+      "title": "Serie A, Gasperini: 'Scudetto? Vediamo dopo 20 gare di che obiettivo parlare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/gasperini-scudetto-vediamo-dopo-20-gare-di-che-obiettivo-parlare_807c598b-dcf4-477c-989d-5ee035b67c8c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 14:38:49 +0200",
+      "excerpt": "Tecnico della Roma: 'L'asticella si alza migliorando ogni giorno'"
+    },
+    {
+      "title": "Inghilterra rimpianto Malen, 'come ce lo siamo fatto scappare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/17/inghilterra-rimpianto-malen-come-ce-lo-siamo-fatto-scappare_f3c098d5-6776-41ae-aa09-7c89732bc777.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 14:38:25 +0200",
+      "excerpt": "In panchina all'Aston Villa, stella della Roma: per la BBC tutto merito di Gasperini"
+    },
+    {
       "title": "Europa League: Juve; Cambiaso non recupera, salta anche il Nec",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-juve-cambiaso-non-recupera-salta-anche-il-nec_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
       "source": "ANSA Sport",
@@ -538,13 +552,6 @@
       "excerpt": "Stroppa è già sotto esame, la quinta sconfitta potrebbe essergli fatale"
     },
     {
-      "title": "Gasperini \"Scudetto? Vediamo dopo 20 gare di che obiettivo parlare\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/gasperini-scudetto-vediamo-dopo-20-gare-di-che-obiettivo-parlare_807c598b-dcf4-477c-989d-5ee035b67c8c.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 13:03:58 +0200",
-      "excerpt": "Tecnico della Roma: \"L'asticella si alza migliorando ogni giorno\""
-    },
-    {
       "title": "Bentornato Klopp, ecco la sua Germania \"un po' folle e creativa\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/bentornato-klopp-ecco-la-sua-germania-un-po-folle-e-creativa_6f8dd0cb-b597-476d-8ba3-6d0b6929d7c4.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 12:24:37 +0200",
       "excerpt": "Nessuna lesione ma sarà rivalutato nei prossimi giorni"
-    },
-    {
-      "title": "Basket: Messina torna in NBA, sarà consulente degli Atlanta Hawks",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/17/basket-messina-torna-in-nba-sara-consulente-degli-atlanta-hawks_a2a65d9c-b5a6-49b2-bd2b-40f19c81c7fd.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 12:15:34 +0200",
-      "excerpt": "L'ex coach dell'Olimpia Milano approda nella franchigia della Georgia"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

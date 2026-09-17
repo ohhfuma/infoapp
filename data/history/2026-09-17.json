@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Non si arresta il calo del petrolio, il wti sotto i 100 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/non-si-arresta-il-calo-del-petrolio-il-wti-sotto-i-100-dollari_d1522a2e-3e02-4626-bb51-86a777ace9cc.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 14:24:49 +0200",
+        "excerpt": "Il Brent perde il 3%, a 102,3 dollari al barile"
+      },
+      {
+        "title": "Il prezzo del gas in altalena sale a 78,5 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-in-altalena-sale-a-785-euro-al-megawattora_08c65d6e-cd8a-49d7-9c0f-d9ffed8e6c1a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 14:16:55 +0200",
+        "excerpt": "Stoccaggi sotto media frenano ottimismo Arabia su ripristino oleodotto danneggiato"
+      },
+      {
+        "title": "Per le donne metalmeccaniche c'è un gap retributivo del 12%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/per-le-donne-metalmeccaniche-ce-un-gap-retributivo-del-12_3578cf9d-1690-4fc7-a41f-ba3617c48ef4.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 13:58:05 +0200",
+        "excerpt": "Studio Fiom sul 2024-2025, contratti part time per 12,2% delle lavoratrici e 1,3% uomini"
+      },
+      {
         "title": "Arresti per pedopornografia online, scoperte 34mila immagini e 22mila video. Il procuratore: orrendo fenomeno criminale",
         "link": "https://www.ilsole24ore.com/art/arresti-pedopornografia-online-scoperte-34mila-immagini-e-22mila-video-procuratore-orrendo-fenomeno-criminale-AJYlb4FB",
         "source": "Il Sole 24 Ore",
@@ -401,27 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Wed, 16 Sep 2026 19:52:17 +0200",
         "excerpt": "Meloni: “Sparisce una delle tasse più odiate dagli italiani. Sarà strutturale con Legge di Bilancio”. Giorgetti: “Scelta sofferta”"
-      },
-      {
-        "title": "Bari, intossicazione al meeting di Turi: scatta l’allarme sanitario, indaga la Asl",
-        "link": "https://www.ilsole24ore.com/art/malori-catena-convegno-barese-corso-accertamenti-dell-asl-AJYBQHFB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 17:23:00 GMT",
-        "excerpt": "I congressisti erano oltre trecento, riuniti lo scorso 11 settembre in una struttura ricettiva di Turi per un evento organizzato da una multinazionale del settore energetico. I lavori sono andati..."
-      },
-      {
-        "title": "Bollo auto e moto: dalla Pandina alla Polo, tutte le macchine esenti",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/bollo_auto_moto_esenzione_pandina_polo_avenger_yaris-425589105/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 19:20:40 +0200",
-        "excerpt": "Il beneficio riguarda soprattutto citycar e utilitarie, non sono esclusi piccoli Suv come la Jeep Avenger nella versione con motore termico. Fuori i suv di media e alta gamma"
-      },
-      {
-        "title": "Il gas scende sotto i 78 euro sulla piazza Ttf di Amsterdam",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/16/il-gas-scende-sotto-i-78-euro-sulla-piazza-ttf-di-amsterdam_1ad4b4e0-f96a-41ac-ab59-bbd2bf494dcf.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 16 Sep 2026 18:39:44 +0200",
-        "excerpt": "I contratti future sul mese di ottobre cedono il 3,04% a 77,6 euro al MWh"
       }
     ],
     "europa": [
@@ -519,6 +519,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Yemen, con la ripresa delle ostilità si aggrava la crisi per 12 milioni di bambini",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/yemen-con-la-ripresa-delle-ostilita-si-aggrava-la-crisi-per-12-milioni-di-bambini_6806f9b1-3f41-451a-9cb6-303ffdaf7528.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 14:12:07 +0200",
+        "excerpt": "Allarme Unicef: 'Sono oltre 100mila gli sfollati, tra cui 57mila bambini'"
+      },
       {
         "title": "Re Carlo parla ai boss dell'Ia, 'tecnologia resti al servizio dell'umanità'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/re-carlo-parla-ai-boss-dellia-tecnologia-resti-al-servizio-dellumanita_1afd1734-5354-49e8-b2f8-04d83b8e2c74.html",
@@ -931,13 +938,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Wed, 16 Sep 2026 23:24:52 +0200",
         "excerpt": "L'Avana offre specialisti per strutture sanitarie colpite dai bombardamenti"
-      },
-      {
-        "title": "Il governo della Bolivia valuta lo stato d'assedio dopo i blocchi e 4 omicidi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/16/il-governo-della-bolivia-valuta-lo-stato-dassedio-dopo-i-blocchi-e-4-omicidi_5883b7b6-efb5-48c7-b0de-2865759aaf40.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 16 Sep 2026 23:14:04 +0200",
-        "excerpt": "Rafforzata anche la sicurezza al confine con il Brasile, dispiegati militari e droni"
       }
     ]
   },
@@ -1364,6 +1364,13 @@
     }
   ],
   "sport": [
+    {
+      "title": "Inghilterra rimpianto Malen, 'come ce lo siamo fatto scappare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/17/inghilterra-rimpianto-malen-come-ce-lo-siamo-fatto-scappare_f3c098d5-6776-41ae-aa09-7c89732bc777.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 14:38:25 +0200",
+      "excerpt": "In panchina all'Aston Villa, stella della Roma: per la BBC tutto merito di Gasperini"
+    },
     {
       "title": "Europa League: Juve; Cambiaso non recupera, salta anche il Nec",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-juve-cambiaso-non-recupera-salta-anche-il-nec_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
