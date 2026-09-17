@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T13:09:33.499Z",
+  "lastUpdated": "2026-09-17T13:39:12.756Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Sale, navalmeccanica settore pilastro economico e occupazionale",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/sale-navalmeccanica-settore-pilastro-economico-e-occupazionale_0e345002-9c92-4fd1-8b91-442be624d71f.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 15:20:48 +0200",
+        "excerpt": "Manager, Fincantieri e filiera al centro dello sviluppo industriale"
+      },
       {
         "title": "La Pietra, pronti a misure ad hoc su liquidità e tracciabilità olio",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/la-pietra-pronti-a-misure-ad-hoc-su-liquidita-e-tracciabilita-olio_d6eb0b49-9b0d-4f77-9af8-2461df772860.html",
@@ -64,13 +71,6 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 13:28:08 +0200",
         "excerpt": "Ok a sportello per superamento sistema bandi per i finanziamenti a condizioni di mercato"
-      },
-      {
-        "title": "Abs (Danieli) apre in Svezia l'hub degli acciai speciali del Nord Europa",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/abs-danieli-apre-in-svezia-lhub-degli-acciai-speciali-del-nord_73dbbf50-8bb6-4164-9217-5087585f3b28.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 13:20:04 +0200",
-        "excerpt": "Inaugurato nuovo Service Center Steel Nordic a Värnamo"
       },
       {
         "title": "Carburanti, proseguono i rialzi. Il diesel in autostrada a 2,34 euro",
@@ -232,11 +232,46 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Re Carlo parla ai boss dell'IA: 'La tecnologia resti al servizio dell'umanità'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/re-carlo-parla-ai-boss-dellia-la-tecnologia-resti-al-servizio-dellumanita_1afd1734-5354-49e8-b2f8-04d83b8e2c74.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 15:29:17 +0200",
+        "excerpt": "'Futuro intrigante, ma anche allarmante. Manteniamo il controllo sul nostro destino'"
+      },
+      {
+        "title": "Costa, 'Ue partner affidabile, costruiamo rapporto più stretto con il Canada'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/costa-ue-partner-affidabile-costruiamo-rapporto-piu-stretto-con-il-canada_3e1fb2e4-3404-4782-811b-a28466e1b1fc.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 15:24:33 +0200",
+        "excerpt": "'Valori condivisi, noi vogliamo intensificare la collaborazione e viceversa'"
+      },
+      {
+        "title": "Costa, 'Ue partner affidabile, costruiamo rapporto più stretto con il Canada'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/costa-ue-partner-affidabile-costruiamo-rapporto-piu-stretto-con-il-canada_3a1ba957-b0b0-4f6e-afdb-f4c94520ef73.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 15:24:17 +0200",
+        "excerpt": "'Valori condivisi, noi vogliamo intensificare la collaborazione e viceversa'"
+      },
+      {
+        "title": "Netanyahu, continueremo a colpire i terroristi di Hamas a Gaza",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/netanyahu-continueremo-a-colpire-i-terroristi-di-hamas-a-gaza_4f16d7fc-0d40-4319-86ce-77aed81f1f93.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 15:23:53 +0200",
+        "excerpt": "'Ci occuperemo anche di Iran e Hezbollah'"
+      },
+      {
         "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue un faro per le altre democrazie”",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/carney_primo_ministro_canada_intervento_parlamento_europeo_alleanza_ue-425590614/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 14:57:23 +0200",
         "excerpt": "Dall’Istruzione all’Ia, dal clima alle nuove tecnologie, il leader di Ottawa commenta la proposta al suo Paese di partnership avanzata da von der Leyen: “Siamo forti individualmente, ma lo siamo ancora di più insieme”. S"
+      },
+      {
+        "title": "Riad, 'intercettato un drone, un morto e due feriti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/riad-intercettato-un-drone-un-morto-e-due-feriti_b37ae8bc-f0e5-4afc-bc12-f252063ef5ab.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 14:54:30 +0200",
+        "excerpt": "Lo riferisce la difesa civile saudita"
       },
       {
         "title": "Brasile, El Nino divide il Paese tra piogge record e forte siccità",
@@ -253,20 +288,6 @@
         "excerpt": "Allarme Unicef: 'Sono oltre 100mila gli sfollati, tra cui 57mila bambini'"
       },
       {
-        "title": "Re Carlo parla ai boss dell'Ia, 'tecnologia resti al servizio dell'umanità'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/re-carlo-parla-ai-boss-dellia-tecnologia-resti-al-servizio-dellumanita_1afd1734-5354-49e8-b2f8-04d83b8e2c74.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 13:53:43 +0200",
-        "excerpt": "'Futuro intrigante ma anche allarmante. Manteniamo il controllo sul nostro destino'"
-      },
-      {
-        "title": "Così gli Usa proteggono il nuovo zar del petrolio venezuelano",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/09/17/news/alejandro_betancourt_zar_petrolio_venezuela_protetto_da_trump-425590786/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 13:35:35 +0200",
-        "excerpt": "La giustizia spagnola attende da oltre nove mesi una risposta a una richiesta di cooperazione giudiziaria nelle inchieste che riguardano Alejandro Betancourt. Il giudice avverte: se entro dicembre Washington non risponde"
-      },
-      {
         "title": "Terminato lo scrutinio, il centro-sinistra vince di misura in Svezia",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/terminato-lo-scrutinio-il-centro-sinistra-vince-di-misura-in-svezia_abbcbbb4-8044-46f6-b384-70eff7a3ef20.html",
         "source": "ANSA Mondo",
@@ -279,34 +300,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 13:32:22 +0200",
         "excerpt": "Il pacchetto di misure in vigore dal 2027 contro le scalate imprudenti durante il periodo di chiusura della montagna in cui gli escursionisti si trovano ad affrontare condizioni estreme, come raffiche di vento gelido e p"
-      },
-      {
-        "title": "All'Eurocamera asse Ppe-destre su Ceuta, 'preoccupano politiche di Sanchez'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/alleurocamera-asse-ppe-destre-su-ceuta-preoccupano-politiche-di-sanchez_968d1185-795b-4d5e-bf4b-a03806c4d89d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 13:27:10 +0200",
-        "excerpt": "Passa il testo senza accordo dei Socialisti e contro le regolarizzazioni spagnole"
-      },
-      {
-        "title": "Carney a Trump, 'un Canada più forte è più efficace anche per gli Usa'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_7135a7fe-8f7f-458a-ba81-eea17011d31c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 12:52:50 +0200",
-        "excerpt": "'E questo vale anche l'Ue. Un'alleanza è un processo positivo'"
-      },
-      {
-        "title": "Carney a Trump, 'un Canada più forte è più efficace anche per gli Usa'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_35d8b879-973f-4e59-a67f-67512ceb25f9.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 12:52:50 +0200",
-        "excerpt": "'E questo vale anche l'Ue. Un'alleanza è un processo positivo'"
-      },
-      {
-        "title": "Oltre 8.000 morti legati all'ondata di caldo quest'estate in Francia",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/oltre-8.000-morti-legati-allondata-di-caldo-questestate-in-francia_bc837d40-0fae-4cdd-90c9-bd332fec3de1.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 12:42:57 +0200",
-        "excerpt": "Mai così tanti decessi dal 2003. Il bilancio reso noto da Santé Publique France"
       },
       {
         "title": "Mojtaba Khamenei, il leader iraniano invisibile che ama Christopher Nolan e le serie tv americane",
@@ -342,10 +335,31 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
         "excerpt": "Il commissario Ue per la Difesa: “Non ci sarà mai un momento in cui saremo pronti a difenderci da soli: dovremo adattarci”"
+      },
+      {
+        "title": "La Ue fa asse con il Canada. E Trump la minaccia: “Dazi molto pesanti”",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/ue_asse_canada_usa_mosca-425589607/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
+        "excerpt": "Siglata l’alleanza transoceanica davanti al premier Carney che resta però scettico sulla formula della “associazione”"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Madonna aprirà Mtv Video Music Awards, prima esibizione dal vivo ai premi in 23 anni",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/17/madonna-aprira-mtv-video-music-awards-prima-esibizione-dal-vivo_c222cec8-becb-4ab7-8a70-2fd514901b45.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 15:23:39 +0200",
+      "excerpt": "Andranno in onda lunedì 28 settembre, ultimo album è Confessions II (Warner Records)"
+    },
+    {
+      "title": "Irlanda, formalizzato il boicottaggio di Eurovision 2027 per protesta contro la presenza di Israele",
+      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/17/news/irlanda_formalizzato_il_boicottaggio_di_eurovision_2027_per_protesta_contro_la_presenza_di_israele-425590860/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 12:45:51 +0000",
+      "excerpt": "Per il secondo anno di fila l’emittente di Stato conferma la sua assenza dalla manifestazione"
+    },
     {
       "title": "Rabbino aggredito, obbligo di firma per il ragazzo arrestato. Il fratello: “Non siamo razzisti”",
       "link": "https://milano.repubblica.it/cronaca/2026/09/17/news/rabbino_aggredito_obbligo_firma_ragazzo_arrestato_fratello_non_siamo_razzisti-425590845/",
@@ -417,25 +431,11 @@
       "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova. Von der Leyen: 'Bambini esposti troppo presto al mondo online'"
     },
     {
-      "title": "Il rabbino aggredito a Milano: “Ho avuto paura, ma resto qui e con i miei abiti tradizionali”",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/17/news/rabbino_davia_mizrai_shalom_aggredito_a_milano_intervista-425590515/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 09:44:14 +0000",
-      "excerpt": "Davia Mizrai Shalom: “Sono abituato agli insulti quando passo per strada, l’antisemitismo sta crescendo. Prima di me avevano aggredito un altro rabbino”"
-    },
-    {
       "title": "Da Thom Browne una lezione di entomologia chiude la NY Fashion Week / LA SFILATA",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/16/da-thom-browne-una-lezione-di-entomologia-chiude-la-ny-fashion-week-la-sfilata_ae632cb2-569c-4f9a-8e33-8feb60a86891.html",
       "source": "ANSA",
       "pubDate": "Wed, 16 Sep 2026 22:57:26 +0200",
       "excerpt": "Sagra della primavera allo Shed, vip come formiche in un giardino incantato"
-    },
-    {
-      "title": "Scamarcio, 'felice per i due premi, il cinema italiano meritava di più'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/16/scamarcio-felice-per-i-due-premi-il-cinema-italiano-meritava-di-piu_0038adc7-21fd-43ec-ac8e-9b45ebb6167f.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 20:30:40 +0200",
-      "excerpt": "L'attore a Torino per I figli della scimmia. 'Su Naza comportamento Israele inaccettabile'"
     },
     {
       "title": "Rushdie, la libertà di parola è sotto attacco, ma gli scrittori sono ostinati",
@@ -445,11 +445,11 @@
       "excerpt": "Il grande scrittore a Pordenonelegge 'Ambassador for freedom', oggi mi sento fortunato"
     },
     {
-      "title": "Le mostre del weekend, da Kandinsky a Bertozzi",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/16/le-mostre-del-weekend-da-kandinsky-a-bertozzi_e5384eee-1532-4833-b98b-72f10cb735a9.html",
+      "title": "Un cavallo sepolto e la stele di un re rinvenuti vicino ad Alessandria d'Egitto",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/16/un-cavallo-sepolto-e-la-stele-di-un-re-rinvenuti-vicino-ad-alessandria-degitto_c00d86e5-4ea2-485b-8c7c-ab124b843fce.html",
       "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 17:51:31 +0200",
-      "excerpt": "A Roma l'installazione di Isaac Julien, a Bagnacavallo c'è Chiara Calore"
+      "pubDate": "Wed, 16 Sep 2026 18:49:02 +0200",
+      "excerpt": "Reperti del Nuovo Regno scoperti nella fortezza di Tell el Abqa'in"
     },
     {
       "title": "Disattivare pregiudizi e progettare inclusione, due concorsi per le scuole",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Klopp, \"non lasciamo l'orgoglio nazionale alle persone sbagliate\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/klopp-non-lasciamo-lorgoglio-nazionale-alle-persone-sbagliate_d25f1951-527c-41cf-8131-5116df1ae0c8.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 15:02:45 +0200",
+      "excerpt": "Il ct della Germania parla dell'avanzata dell'estrema destra in Sassonia-Anhalt"
+    },
+    {
       "title": "Francia, il portiere del Como Butez tra i preselezionati da Zidane",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/francia-il-portiere-del-como-butez-tra-i-preselezionati-da-zidane_948486d5-7836-409a-bf87-f3270198a2dc.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 12:31:53 +0200",
       "excerpt": "La rivoluzione del nuovo ct verso la Nations League: \"Abbiamo trovato molti talenti\""
-    },
-    {
-      "title": "Salvini 'non ho visto il Milan mi hanno detto una schifezza, cade la poesia'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/salvini-non-ho-visto-il-milan-mi-hanno-detto-una-schifezza-cade-la-poesia_e3bfbc1b-670c-4b8b-ba7f-8d29f21e62c6.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 12:26:48 +0200",
-      "excerpt": "'Spero di non vedere più 2-3 titolari che non farei giocare in Eccellenza'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
