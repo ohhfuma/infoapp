@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T14:39:10.623Z",
+  "lastUpdated": "2026-09-17T15:08:56.908Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: l'Europa avanza con Wall Street, in scia a petrolio e Fed",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-avanza-con-wall-street-in-scia-a-petrolio-e-fed_0eb08ef9-0512-4bca-8802-2be3cfd967c3.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 16:40:15 +0200",
+        "excerpt": "L'ottimismo sulla lotta all'inflazione spinge i bond. Milano +0,8% con Poste e Stellantis"
+      },
       {
         "title": "Rallenta la corsa dei prezzi delle abitazioni, +4% nel secondo trimestre 2026",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/rallenta-la-corsa-dei-prezzi-delle-abitazioni-4-nel-secondo-trimestre-2026_6cb03b14-c5ce-4bf6-b4af-9acec05e8691.html",
@@ -71,13 +78,6 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 14:24:49 +0200",
         "excerpt": "Il Brent perde il 3%, a 102,3 dollari al barile"
-      },
-      {
-        "title": "Il prezzo del gas in altalena sale a 78,5 euro al megawattora",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-in-altalena-sale-a-785-euro-al-megawattora_08c65d6e-cd8a-49d7-9c0f-d9ffed8e6c1a.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 14:16:55 +0200",
-        "excerpt": "Stoccaggi sotto media frenano ottimismo Arabia su ripristino oleodotto danneggiato"
       },
       {
         "title": "Arresti per pedopornografia online, scoperte 34mila immagini e 22mila video. Il procuratore: orrendo fenomeno criminale",
@@ -173,6 +173,20 @@
     ],
     "europa": [
       {
+        "title": "Svezia, il centro-sinistra vince al fotofinish: Andersson avanti per tre seggi, Kristersson si dimette",
+        "link": "https://www.ilsole24ore.com/art/svezia-centro-sinistra-vince-fotofinish-andersson-avanti-tre-seggi-kristersson-si-dimette-AJZk5DGB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 17 Sep 2026 15:00:18 GMT",
+        "excerpt": "Quattro giorni dopo la chiusura delle urne in Svezia il conteggio dei voti ha dato un vincitore: la coalizione di centro-sinistra guidata da Magdalena Andersson. Il blocco composto dai Socialdemocratici,..."
+      },
+      {
+        "title": "AI: re Carlo III avverte i giganti tech dei «pericoli esistenziali»",
+        "link": "https://www.ilsole24ore.com/art/ai-re-carlo-iii-avverte-giganti-tech-pericoli-esistenziali-AJIHqGGB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 17 Sep 2026 14:54:20 GMT",
+        "excerpt": "LONDRA - Un impegno a tutelare l’umanità e a «non perdere il controllo del nostro destino o delle nostre anime»: questa la richiesta di Re Carlo III alle società tecnologiche..."
+      },
+      {
         "title": "Carney a Trump: «Nessuno può dirci con chi dobbiamo allearci. Noi e la Ue simili per affinità»",
         "link": "https://www.ilsole24ore.com/art/carney-trump-nessuno-puo-dirci-chi-dobbiamo-allearci-noi-e-ue-simili-affinita-AJ0rr3FB",
         "source": "Il Sole 24 Ore Mondo",
@@ -213,24 +227,17 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 16 Sep 2026 18:01:00 GMT",
         "excerpt": "La Federal Reserve alza i tassi di 25 punti base al 3,75%-4%, primo rialzo dal luglio 2023"
-      },
-      {
-        "title": "Ibm: accordo da 1 miliardo $ con governo Usa su quantum computing",
-        "link": "https://www.ilsole24ore.com/art/ibm-accordo-1-miliardo-$-governo-usa-quantum-computing-AJvXewEB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 16 Sep 2026 12:03:34 GMT",
-        "excerpt": "Anderon, una società del gruppo Ibm, ha annunciato di essersi aggiudicata un finanziamento da 1 miliardo di dollari da parte del dipartimento del Commercio statunitense; si tratta di un contributo..."
-      },
-      {
-        "title": "Crolla miniera d’oro in Sudan, almeno 67 morti",
-        "link": "https://www.ilsole24ore.com/art/crolla-miniera-d-oro-sudan-almeno-60-morti-AJa79nEB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 16 Sep 2026 09:46:00 GMT",
-        "excerpt": "Una miniera d’oro è crollata nel Sudan meridionale, causando la morte di almeno 67 minatori: lo hanno riferito all’Afp due sopravvissuti, mentre molte altre persone risultano disperse e si teme..."
       }
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Il monito di Re Carlo ai giganti dell’IA: “Resti al servizio dell’umanità”",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/re_carlo_allarme_intelligenza_artificiale_pericoli-425591093/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 17:00:49 +0200",
+        "excerpt": "L’allarme del monarca sui pericolo dell’intelligenza artificiale al forum promosso dalla sua King's Foundation a Dumfries House, in Scozia, con alti rappresentanti di colossi Usa come Nvidia, Google DeepMind, OpenAI o An"
+      },
       {
         "title": "Svezia, vincono di misura i progressisti di Andersson: ma il nuovo governo è un rebus",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/svezia_elezioni_andersson_ultra_destra-425590934/?rss",
@@ -335,17 +342,17 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 01:12:07 +0200",
         "excerpt": "Le dichiarazioni del tycoon interpellato dai giornalisti"
-      },
-      {
-        "title": "Gaza City, crolla il palazzo bombardato due anni fa: 21 morti, altri 50 dispersi",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/gaza_city_crolla_palazzo_bombardato_due_anni_fa_morti_dispersi-425589657/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il condominio “al Saada” era rimasto in piedi nonostante i danni, ed era diventato rifugio per sette famiglie di sfollati in cerca di riparo. Ora si scava a mani nude in cerca di superstiti"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "++ Morte avvelenate: fonti, emersi elementi certi su omicidi ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/17/-morte-avvelenate-fonti-emersi-elementi-certi-su-omicidi-_c21757ff-bfc7-4b3d-bdfd-1c2d8b7f60dc.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 16:54:59 +0200",
+      "excerpt": "Indiscrezioni su primi risultati analisi in corso a Berlino"
+    },
     {
       "title": "Solo a casa a 5 anni precipita dal balcone, gravissimo",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/solo-a-casa-a-5-anni-precipita-dal-balcone-gravissimo_503f0fe2-ae1b-4b6a-bf4a-0b7337142d77.html",
@@ -359,13 +366,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 14:07:00 +0000",
       "excerpt": "Nelle democrazie occidentali ci sono sempre state remore nell’aumentare l’autonomia degli apparati di sicurezza. Ma i venti di guerra stanno cambiando gli equilibri istituzionali anche in Europa e spingono a dare più lib"
-    },
-    {
-      "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13' ",
-      "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_70fecd53-e35e-4de9-a178-ab92d825a7f4.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 15:44:48 +0200",
-      "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova. Von der Leyen: 'Bambini esposti troppo presto al mondo online'"
     },
     {
       "title": "Carney a Trump: 'Un Canada più forte è più efficace anche per gli Usa'",
@@ -424,13 +424,6 @@
       "excerpt": "Il nuovo ct tedesco utilizzerà squadre totalmente diverse per le gare contro Olanda, Serbia e Grecia (andata e ritorno). Non c’è Tresoldi: “Ma questo non significa che non giocherà per noi”"
     },
     {
-      "title": "Garlasco, cadono accuse per l’ex pm Venditti: non favorì l’archiviazione di Sempio. Altri indagati",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/17/news/garlasco_archiviazione_venditti_corruzione_archiviazione_sempio-425590763/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 11:28:58 +0000",
-      "excerpt": "Non ci fu corruzione per i giudici di Brescia chiamati a giudicare l’ex procuratore capo di Pavia"
-    },
-    {
       "title": "12 spie dell'invecchiamento aprono la via a nuove terapie",
       "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/17/individuate-12-spie-dellinvecchiamento-per-nuove-terapie_65b4f7ed-e779-4555-89a8-11259dca737e.html",
       "source": "ANSA",
@@ -443,6 +436,13 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 10:30:24 +0000",
       "excerpt": "La minaccia pende solo sui parlamentari alla prima legislatura, che sono meno della metà del totale. E i deputati ‘anziani’ che hanno già maturato l’assegno sono una netta maggioranza dentro Lega e Forza Italia"
+    },
+    {
+      "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue un faro per le altre democrazie”",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/carney_primo_ministro_canada_intervento_parlamento_europeo_alleanza_ue-425590614/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 10:24:29 +0000",
+      "excerpt": "Dall’Istruzione all’Ia, dal clima alle nuove tecnologie, il leader di Ottawa commenta la proposta al suo Paese di partnership avanzata da von der Leyen: “Siamo forti individualmente, ma lo siamo ancora di più insieme”. S"
     },
     {
       "title": "Un cavallo sepolto e la stele di un re rinvenuti vicino ad Alessandria d'Egitto",
@@ -517,6 +517,20 @@
   ],
   "sport": [
     {
+      "title": "Frosinone alla prova Como, Raimondo 'anche noi abbiamo grande identità'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/frosinone-alla-prova-como-raimondo-anche-noi-abbiamo-grande-identita_c972ad4a-0645-4142-b16b-5a7044eac298.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 16:38:46 +0200",
+      "excerpt": "Domenica il pienone allo Stirpe, Alvini si affida a tutti i suoi big"
+    },
+    {
+      "title": "Taekwondo: bronzo storico per l'Italia, 1/a medaglia iridata nel freestyle individuale",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/17/taekwondo-bronzo-storico-per-litalia-1a-medaglia-iridata-nel-freestyle-individuale_a6a7b46e-6023-4136-9ee5-396ba4a8f6cc.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 16:28:19 +0200",
+      "excerpt": "Valentina Arlotti si guadagna il terzo posto in Corea, 'sono incredula'"
+    },
+    {
       "title": "Nations League: ecco la Germania di Klopp, chiama 44 giocatori e dice no all'AfD",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/nations-league-ecco-la-germania-di-klopp-chiama-44-giocatori-e-dice-no-allafd_cfc16e4a-cf1e-49b5-9c5e-af30c3264b92.html",
       "source": "ANSA Sport",
@@ -552,25 +566,11 @@
       "excerpt": "Il laterale fuori dall'elenco convocati di Spalletti, torna McKennie"
     },
     {
-      "title": "Serie A, Gasperini: 'Scudetto? Vediamo dopo 20 gare di che obiettivo parlare'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/gasperini-scudetto-vediamo-dopo-20-gare-di-che-obiettivo-parlare_807c598b-dcf4-477c-989d-5ee035b67c8c.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 14:38:49 +0200",
-      "excerpt": "Tecnico della Roma: 'L'asticella si alza migliorando ogni giorno'"
-    },
-    {
       "title": "L'ex Toro Rincon lascia il calcio: \"Buona fortuna, General\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/lex-toro-rincon-lascia-il-calcio-buona-fortuna-general_669d1c03-3c23-4cd5-970b-a76865c9b333.html",
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 13:43:29 +0200",
       "excerpt": "Messaggio del club granata per il venezuelano che si ritira a 38 anni"
-    },
-    {
-      "title": "Il Venezia ancora in emergenza per la sfida con la Lazio",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/il-venezia-ancora-in-emergenza-per-la-sfida-con-la-lazio_92943a0a-7556-4859-83db-bae6c33fe0f7.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 13:29:26 +0200",
-      "excerpt": "Stroppa è già sotto esame, la quinta sconfitta potrebbe essergli fatale"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
