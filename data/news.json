@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-09-17T13:39:12.756Z",
+  "lastUpdated": "2026-09-17T14:09:18.392Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Unem, ad agosto vendita benzina ai massimi da 15 anni per il mese",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/unem-ad-agosto-vendita-benzina-ai-massimi-da-15-anni-per-il-mese_2f293399-9d21-4c6a-bcce-74c4cfbf00a4.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 15:48:43 +0200",
+        "excerpt": "+5,85 per il Jet fuel, eguaglia record storico di luglio"
+      },
+      {
+        "title": "A2a presenta Teti, il robot che pulisce gli invasi senza svuotarli",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/a2a-presenta-teti-il-robot-che-pulisce-gli-invasi-senza-svuotarli_4a378486-516d-4b11-a155-7973f890bbdb.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 15:45:51 +0200",
+        "excerpt": "Mazzoncini, consente di evitare uno spreco d'acqua pari a 30mila Kw annui"
+      },
+      {
+        "title": "Vilnius: il drone abbattuto è di tipo “Gerbera”. Tutte le caratteristiche del velivolo sviluppato in Russia",
+        "link": "https://www.ilsole24ore.com/art/vilnius-drone-abbattuto-e-tipo-gerbera-tutte-caratteristiche-velivolo-sviluppato-russia-AJUuDGFB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Thu, 17 Sep 2026 13:44:00 GMT",
+        "excerpt": "Il presidente lituano Gitanas Nauseda: velivoli di questo tipo sono spesso usati come esche, ma possono anche trasportare esplosivi"
+      },
+      {
+        "title": "Aumentano le cause sul lavoro. Il ruolo di fondi, norme e IA",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/aumentano_le_cause_sul_lavoro_il_ruolo_di_fondi_norme_e_ia-425590946/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 15:39:55 +0200",
+        "excerpt": "La crescente presenza di fondi nelle Pmi e la tentazione di usare l’algoritmo per ottenere ragione saturano i tribunali"
+      },
+      {
+        "title": "Fiom, differenze salariali al 12% tra uomini e donne. De Palma: “La contrattazione è un antidoto”",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/fiom_differenze_salariali_al_12_tra_uomini_e_donne_de_palma_la_contrattazione_e_un_antidoto-425590937/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 15:34:23 +0200",
+        "excerpt": "Il sindacato chiede un nuovo intervento sulla direttiva sulla trasparenza salariale, che non è stata recepita in modo efficace"
+      },
       {
         "title": "Sale, navalmeccanica settore pilastro economico e occupazionale",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/sale-navalmeccanica-settore-pilastro-economico-e-occupazionale_0e345002-9c92-4fd1-8b91-442be624d71f.html",
@@ -52,25 +87,11 @@
         "excerpt": "Impianto 'garantisce il più elevato livello di sicurezza per i lavoratori'"
       },
       {
-        "title": "Borsa: l'Europa si consolida con la Fed e la BoE, petrolio e gas in calo",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-si-consolida-con-la-fed-e-la-boe-petrolio-e-gas-in-calo_9983b99c-0591-41e6-8f27-e7b73e278e71.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 13:43:50 +0200",
-        "excerpt": "Scendono i titoli di Stato. Lo spread tra Btp e Bund a 86,8 punti base"
-      },
-      {
         "title": "Servizi, assortimento, tecnologia: a Lissone lo store con le evoluzioni della rete fisica di Unieuro",
         "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/le-storie/2026/09/17/news/servizi_assortimento_tecnologia_a_lissone_lo_store_con_le_evoluzioni_della_rete_fisica_di_unieuro-425590788/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Thu, 17 Sep 2026 13:35:48 +0200",
         "excerpt": "Presentato il progetto strategico che vuole rispondere alle nuove abitudini dei consumatori e integrarsi meglio tra canali fisici e digitali"
-      },
-      {
-        "title": "Ismea Investe, più flessibilità di accesso a strumenti finanziari per l'agroalimentare",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/ismea-investe-piu-flessibilita-di-accesso-a-strumenti-finanziari-per-lagroalimentare_8932fc9a-9b67-41a5-ad3c-cea9d4b843af.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 13:28:08 +0200",
-        "excerpt": "Ok a sportello per superamento sistema bandi per i finanziamenti a condizioni di mercato"
       },
       {
         "title": "Carburanti, proseguono i rialzi. Il diesel in autostrada a 2,34 euro",
@@ -101,13 +122,6 @@
         "excerpt": "Le importazioni sono cresciute di oltre 10 volte, passando da 3.800 veicoli nell'ottobre 2024 a 50.000 nel luglio 2026"
       },
       {
-        "title": "OpenAI, nuove anomalie: “I modelli hanno nascosto errori e trasferito dati senza autorizzazione”",
-        "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 10:09:05 +0200",
-        "excerpt": "La startup californiana si è impegnata anche ad adottare sistemi di segnalazione per episodi simili"
-      },
-      {
         "title": "Auto, moto e motorini. Il caso di chi ha più veicoli: chi continuerà a pagare e chi no il bollo",
         "link": "https://www.repubblica.it/economia/2026/09/17/news/abolizione_bollo_auto_moto_nuove_regole_calcolo-425590150/?rss",
         "source": "Repubblica Economia",
@@ -136,13 +150,6 @@
         "excerpt": "Il Nuovo testo unico delle imposte sui redditi non cambia le regole in vigore. Ecco come funziona oggi"
       },
       {
-        "title": "Rincari a raffica per Iphone e altri smartphone: ecco come risparmiare (evitando fregature)",
-        "link": "https://www.repubblica.it/economia/2026/09/17/news/iphone_rincari_come_risparmiare-425589239/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 05:00:00 +0200",
-        "excerpt": "Aumenti generalizzati sui prezzi dei cellulari anche “vecchi”: coinvolto quasi uno su due nel 2026. Il ruolo del boom IA. Dove trovare soluzioni a buon prezzo e cosa controllare per non rimanere delusi"
-      },
-      {
         "title": "Violenza sulle donne: 3 milioni di italiane vittime di soprusi prima dei 16 anni",
         "link": "https://www.ilsole24ore.com/art/violenza-donne-3-milioni-italiane-vittime-soprusi-prima-16-anni-AJSb2HFB",
         "source": "Il Sole 24 Ore",
@@ -162,13 +169,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 17:23:00 GMT",
         "excerpt": "I congressisti erano oltre trecento, riuniti lo scorso 11 settembre in una struttura ricettiva di Turi per un evento organizzato da una multinazionale del settore energetico. I lavori sono andati..."
-      },
-      {
-        "title": "Mini pacchi, tassa italiana rinviata fino al 30 novembre",
-        "link": "https://www.ilsole24ore.com/art/mini-pacchi-tassa-italiana-rinviata-fino-30-novembre-AJL6AOEB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 15:18:00 GMT",
-        "excerpt": "Mini tassa italiana di due euro sui pacchi extra Ue low cost (fino a 150 euro di valore) rinviata fino al 30 novembre. A prevederlo è la bozza del decreto..."
       }
     ],
     "europa": [
@@ -191,10 +191,10 @@
         "link": "https://www.ilsole24ore.com/art/ucraina-almeno-12-feriti-raid-russo-kiev-colpita-raffineria-russia-AJBqYmFB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 07:11:00 GMT",
-        "excerpt": "I droni ucraini hanno colpito un impianto per la raffinazione di petrolio nella regione di Yaroslavl. Gli Usa approvano un pacchetto di sanzioni contro funzionari russi"
+        "excerpt": "In Ucraina non si fermano gli attacchi russi sulla capitale. Nella notte tra il 16 e il 17 settembre, a partire da poco dopo la mezzanotte, sono iniziate le prime..."
       },
       {
-        "title": "Guerra ultime notizie. Inchiesta Onu accusa gli Stati Uniti di crimini di guerra in Iran",
+        "title": "Guerra ultime notizie. Crosetto: passaggio navi italiane per Bab el-Mandeb senza attendere Ue",
         "link": "https://www.ilsole24ore.com/art/iran-trump-terra-colloqui-i-leader-golfo-martedi-prossimo-AJHe2jFB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 05:17:00 GMT",
@@ -231,6 +231,41 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "La guerra ibrida scatena i servizi segreti europei",
+        "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/09/17/news/la_guerra_ibrida_scatena_i_servizi_segreti_europei-425590995/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 16:07:00 +0200",
+        "excerpt": "Nelle democrazie occidentali ci sono sempre state remore nell’aumentare l’autonomia degli apparati di sicurezza. Ma i venti di guerra stanno cambiando gli equilibri istituzionali anche in Europa e spingono a dare più lib"
+      },
+      {
+        "title": "Trump riserverà a Xi una rara accoglienza in aeroporto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/17/trump-riservera-a-xi-una-rara-accoglienza-in-aeroporto_9552849c-b6db-48b4-ac8b-9f09aabb697d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 15:50:26 +0200",
+        "excerpt": "Il presidente cinese atteso il 23 settembre a Washington"
+      },
+      {
+        "title": "Trump riserverà a Xi una rara accoglienza in aeroporto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-riservera-a-xi-una-rara-accoglienza-in-aeroporto_82022f78-7643-4b57-9889-f702661d62f7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 15:50:22 +0200",
+        "excerpt": "Il presidente cinese atteso il 23 settembre a Washington"
+      },
+      {
+        "title": "Houthi, tre bimbi uccisi dai raid delle forze governative",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/houthi-tre-bimbi-uccisi-dai-raid-delle-forze-governative_6579764b-cc2b-4054-a031-65e0a18c7884.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 15:46:18 +0200",
+        "excerpt": "Nella provincia di Taiz"
+      },
+      {
+        "title": "Svezia, vincono di misura i progressisti di Andersson: ma il nuovo governo è un rebus",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/svezia_elezioni_andersson_ultra_destra-425590934/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 15:42:34 +0200",
+        "excerpt": "Il risultato dopo uno scrutinio durato 4 giorni: 176 seggi contro i 173 del centrodestra. Si dimette il premier conservatore Kristersson, scongiurata così l’alleanza con il partito neonazista. Ma l’exploit della sinistra"
+      },
       {
         "title": "Re Carlo parla ai boss dell'IA: 'La tecnologia resti al servizio dell'umanità'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/re-carlo-parla-ai-boss-dellia-la-tecnologia-resti-al-servizio-dellumanita_1afd1734-5354-49e8-b2f8-04d83b8e2c74.html",
@@ -274,27 +309,6 @@
         "excerpt": "Lo riferisce la difesa civile saudita"
       },
       {
-        "title": "Brasile, El Nino divide il Paese tra piogge record e forte siccità",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/brasile-el-nino-divide-il-paese-tra-piogge-record-e-forte-siccita_795828e9-70ea-40fa-9095-d3e6e86849ad.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 14:39:21 +0200",
-        "excerpt": "Al nord il Rio Branco ai minimi, a San Paolo mese più piovoso dal '43"
-      },
-      {
-        "title": "Yemen, con la ripresa delle ostilità si aggrava la crisi per 12 milioni di bambini",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/yemen-con-la-ripresa-delle-ostilita-si-aggrava-la-crisi-per-12-milioni-di-bambini_6806f9b1-3f41-451a-9cb6-303ffdaf7528.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 14:12:07 +0200",
-        "excerpt": "Allarme Unicef: 'Sono oltre 100mila gli sfollati, tra cui 57mila bambini'"
-      },
-      {
-        "title": "Terminato lo scrutinio, il centro-sinistra vince di misura in Svezia",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/terminato-lo-scrutinio-il-centro-sinistra-vince-di-misura-in-svezia_abbcbbb4-8044-46f6-b384-70eff7a3ef20.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 13:34:38 +0200",
-        "excerpt": "La socialdemocratica Andersson avrà l'incarico di formare il governo"
-      },
-      {
         "title": "Giappone, soccorsi a pagamento sul Monte Fuji: la norma per scoraggiare gli scalatori fuori stagione",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/giappone_soccorsi_pagamento_monte_fuji_fuori_stagione-425590777/?rss",
         "source": "Repubblica Esteri",
@@ -328,24 +342,17 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
         "excerpt": "Il condominio “al Saada” era rimasto in piedi nonostante i danni, ed era diventato rifugio per sette famiglie di sfollati in cerca di riparo. Ora si scava a mani nude in cerca di superstiti"
-      },
-      {
-        "title": "Kubilius: “A guerra ibrida, risposta ibrida. Difficile in Europa tornare a sognare la pace”",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/kubilius_intervista_difesa_europea-425589611/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il commissario Ue per la Difesa: “Non ci sarà mai un momento in cui saremo pronti a difenderci da soli: dovremo adattarci”"
-      },
-      {
-        "title": "La Ue fa asse con il Canada. E Trump la minaccia: “Dazi molto pesanti”",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/ue_asse_canada_usa_mosca-425589607/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 01:00:00 +0200",
-        "excerpt": "Siglata l’alleanza transoceanica davanti al premier Carney che resta però scettico sulla formula della “associazione”"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Svezia, vincono di misura il progresissti di Andersson: ma il nuovo governo è un rebus",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/svezia_elezioni_andersson_ultra_destra-425590934/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 13:33:38 +0000",
+      "excerpt": "Il risultato dopo uno scrutinio durato 4 giorni: 176 seggi contro i 173 del centrodestra. Si dimette il premier conservatore Kristersson, scongiurata così l’alleanza con il partito neonazista. Ma l’exploit della sinistra"
+    },
     {
       "title": "Madonna aprirà Mtv Video Music Awards, prima esibizione dal vivo ai premi in 23 anni",
       "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/17/madonna-aprira-mtv-video-music-awards-prima-esibizione-dal-vivo_c222cec8-becb-4ab7-8a70-2fd514901b45.html",
@@ -375,11 +382,11 @@
       "excerpt": "Altroconsumo: risparmio tra i 113,52 e i 141,90 euro. Giani torna all'attacco: 'Ristori da fondi Pnrr incostituzionalità palese'"
     },
     {
-      "title": "Giappone, soccorsi a pagamento sul Monte Fuji: la norma per scoraggiare gli scalatori fuori stagione",
-      "link": "https://www.repubblica.it/esteri/2026/09/17/news/giappone_soccorsi_pagamento_monte_fuji_fuori_stagione-425590777/",
+      "title": "Le due Germanie di Klopp: 44 convocati. Sull’Afd: “No all’orgoglio nazionale in mani sbagliate”",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/17/news/jurgen_klopp_ct_germania_44_convocati-425590813/",
       "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 11:32:22 +0000",
-      "excerpt": "Il pacchetto di misure in vigore dal 2027 contro le scalate imprudenti durante il periodo di chiusura della montagna in cui gli escursionisti si trovano ad affrontare condizioni estreme, come raffiche di vento gelido e p"
+      "pubDate": "Thu, 17 Sep 2026 12:02:10 +0000",
+      "excerpt": "Il nuovo ct tedesco utilizzerà squadre totalmente diverse per le gare contro Olanda, Serbia e Grecia (andata e ritorno). Non c’è Tresoldi: “Ma questo non significa che non giocherà per noi”"
     },
     {
       "title": "Garlasco, cadono accuse per l’ex pm Venditti: non favorì l’archiviazione di Sempio. Altri indagati",
@@ -415,13 +422,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 10:16:12 +0000",
       "excerpt": "Giovanni Gordini, che ha diretto la rianimazione dell’ospedale Maggiore di Bologna e oggi è consigliere regionale, interviene sull’inchiesta di Ravenna: “C’è una questione di vulnerabilità che non si può valutare in diec"
-    },
-    {
-      "title": "Ue-Canada: tecnologie, Artico, difesa, energia, materie prime e IA al centro della nuova alleanza",
-      "link": "https://www.repubblica.it/economia/2026/09/17/news/ue-canada_tecnologie_artico_difesa_energia_materie_prime_e_ia_al_centro_della_nuova_alleanza-425590523/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 09:47:52 +0000",
-      "excerpt": "La base di partenza è il Ceta, l’accordo di libero scambio entrato in vigore nel 2017, grazie al quale nel 2025 il valore degli scambi ha superato i 130 miliardi. Ma l’ambizione è di portare le relazioni tra Ottawa e Bru"
     },
     {
       "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13' ",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Auto: DL Racing, rivoluzione Driver Academy, nascono Young e Factory Program",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/17/auto-dl-racing-rivoluzione-driver-academy-nascono-young-e-factory-program_880a2549-66ab-407a-aa90-aa32e7fd93fa.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 15:52:48 +0200",
+      "excerpt": "Team milanese \"supported by Lamborghini\" lancia innovativo sistema di merito che nel 2027"
+    },
+    {
       "title": "Klopp, \"non lasciamo l'orgoglio nazionale alle persone sbagliate\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/klopp-non-lasciamo-lorgoglio-nazionale-alle-persone-sbagliate_d25f1951-527c-41cf-8131-5116df1ae0c8.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 13:29:26 +0200",
       "excerpt": "Stroppa è già sotto esame, la quinta sconfitta potrebbe essergli fatale"
-    },
-    {
-      "title": "Bentornato Klopp, ecco la sua Germania \"un po' folle e creativa\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/bentornato-klopp-ecco-la-sua-germania-un-po-folle-e-creativa_6f8dd0cb-b597-476d-8ba3-6d0b6929d7c4.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 12:31:53 +0200",
-      "excerpt": "La rivoluzione del nuovo ct verso la Nations League: \"Abbiamo trovato molti talenti\""
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
