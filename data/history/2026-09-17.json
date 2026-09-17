@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Istat, prezzi case salgono +4% nel II trimestre, a Torino +8,5%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/istat-prezzi-case-salgono-4-nel-ii-trimestre-a-torino-85_6cb03b14-c5ce-4bf6-b4af-9acec05e8691.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 10:34:23 +0200",
+        "excerpt": "Rincari in rallentamento rispetto all'inizio dell'anno"
+      },
+      {
+        "title": "Il prezzo del gas inverte la rotta e sale a 78,5 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-inverte-la-rotta-e-sale-a-785-euro-al-megawattora_63494afb-32bf-438f-a22e-3f79e5d1ad69.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 10:14:37 +0200",
+        "excerpt": "Ad Amsterdam i contratti Ttf segnano un +0,6%"
+      },
+      {
         "title": "Nuovi rialzi per il prezzo dei carburanti, gasolio self a 2,346 euro in autostrada",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/nuovi-rialzi-per-il-prezzo-dei-carburanti-gasolio-self-a-2346-euro_c396e1fc-d0fc-4f7c-b689-a1f66d761a8b.html",
         "source": "ANSA Economia",
@@ -342,6 +356,13 @@
     ],
     "europa": [
       {
+        "title": "L’Ue approva il Kids Act, «divieto dei social per gli under 13»",
+        "link": "https://www.ilsole24ore.com/art/l-ue-approva-kids-act-divieto-social-gli-under-13-AJy0lsFB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 17 Sep 2026 08:29:55 GMT",
+        "excerpt": "La Commissione europea ha adottato l’Eu Kids Act per rafforzare la sicurezza dei minori online. La proposta vieta alle piattaforme social l’accesso agli under 13 e fissa a 15 anni..."
+      },
+      {
         "title": "Ucraina, almeno 12 feriti in raid russo su Kiev. Colpita una raffineria in Russia",
         "link": "https://www.ilsole24ore.com/art/ucraina-almeno-12-feriti-raid-russo-kiev-colpita-raffineria-russia-AJBqYmFB",
         "source": "Il Sole 24 Ore Mondo",
@@ -421,6 +442,20 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Calcio: Lula, \"Ancelotti dia più chance agli atleti che giocano in Brasile\"",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/calcio-lula-ancelotti-dia-piu-chance-agli-atleti-che-giocano_fdf9f49f-2fce-4014-982f-93fe4a4b343a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 10:24:50 +0200",
+        "excerpt": "'Ho consigliato al ct di convocare i 22 migliori del nostro campionato'"
+      },
+      {
+        "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_fd1b384e-8a7d-4e6b-afc2-dc92b3020aa0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 10:17:24 +0200",
+        "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova"
+      },
       {
         "title": "Agenti Ice e Fbi ai seggi per allontanare gli ispanici: midterm, mossa di Trump per arginare i dem",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/usa_agenti_ice_e_fbi_ai_seggi_ispanici_midterm_trump-425590138/?rss",
@@ -732,6 +767,20 @@
     ]
   },
   "attualita": [
+    {
+      "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13' ",
+      "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_70fecd53-e35e-4de9-a178-ab92d825a7f4.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 10:32:53 +0200",
+      "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova. Von der Leyen: 'Bambini esposti troppo presto al mondo online'"
+    },
+    {
+      "title": "Vannacci, il vademecum scritto da un parà per rispondere senza scivoloni ai giornalisti",
+      "link": "https://www.repubblica.it/politica/2026/09/17/news/vannacci_vademecum_futuro_nazionale_stampa_para-425590181/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 07:51:28 +0000",
+      "excerpt": "Il documento di Futuro nazionale con tredici domande e altrettante risposte inviato agli iscritti"
+    },
     {
       "title": "Auto, moto e motorini. Il caso di chi ha più veicoli: chi continuerà a pagare e chi no il bollo",
       "link": "https://www.repubblica.it/economia/2026/09/17/news/abolizione_bollo_auto_moto_nuove_regole_calcolo-425590150/",
@@ -1056,6 +1105,20 @@
     }
   ],
   "sport": [
+    {
+      "title": "Lula, \"Ancelotti dia più chance agli atleti che giocano in Brasile\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/lula-ancelotti-dia-piu-chance-agli-atleti-che-giocano-in-brasile_5856722a-8b69-4ff9-a940-02f2b03338bf.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 10:24:44 +0200",
+      "excerpt": "'Ho consigliato al ct di convocare i 22 migliori del nostro campionato'"
+    },
+    {
+      "title": "Verstappen supera 100 kartisti amatoriali in 14 giri",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/17/verstappen-supera-100-kartisti-amatoriali-in-14-giri_10f10ed1-8ff6-4cbb-9ce1-b599f4ced5d9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 10:23:05 +0200",
+      "excerpt": "A Silverstone l'olandese aveva a disposizione 75 minuti, ne sono bastati 35"
+    },
     {
       "title": "Boehly e Walter cedono le loro quote a Clearlake Capital",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/boehly-e-walter-cedono-le-loro-quote-a-clearlake-capital_188527fc-d193-4fee-a84d-1a21a05130ef.html",

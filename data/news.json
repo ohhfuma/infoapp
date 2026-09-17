@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-17T08:08:39.975Z",
+  "lastUpdated": "2026-09-17T08:38:57.564Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Istat, prezzi case salgono +4% nel II trimestre, a Torino +8,5%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/istat-prezzi-case-salgono-4-nel-ii-trimestre-a-torino-85_6cb03b14-c5ce-4bf6-b4af-9acec05e8691.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 10:34:23 +0200",
+        "excerpt": "Rincari in rallentamento rispetto all'inizio dell'anno"
+      },
+      {
+        "title": "Il prezzo del gas inverte la rotta e sale a 78,5 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-inverte-la-rotta-e-sale-a-785-euro-al-megawattora_63494afb-32bf-438f-a22e-3f79e5d1ad69.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 10:14:37 +0200",
+        "excerpt": "Ad Amsterdam i contratti Ttf segnano un +0,6%"
+      },
+      {
+        "title": "OpenAI, nuove anomalie: “I modelli hanno nascosto errori e trasferito dati senza autorizzazione”",
+        "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 17 Sep 2026 10:09:05 +0200",
+        "excerpt": "La startup californiana si è impegnata anche ad adottare sistemi di segnalazione per episodi simili"
+      },
       {
         "title": "Nuovi rialzi per il prezzo dei carburanti, gasolio self a 2,346 euro in autostrada",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/nuovi-rialzi-per-il-prezzo-dei-carburanti-gasolio-self-a-2346-euro_c396e1fc-d0fc-4f7c-b689-a1f66d761a8b.html",
@@ -45,20 +66,6 @@
         "excerpt": "Lente sulla Banca d'Inghilterra, future Usa in rialzo"
       },
       {
-        "title": "Prezzo oro in aumento, Spot scambiato a 4.297 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/prezzo-oro-in-aumento-spot-scambiato-a-4.297-dollari_816c9f1c-8bbd-4301-a49e-ad428fd08503.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 08:41:25 +0200",
-        "excerpt": "Quotazione sale dello 0,97%"
-      },
-      {
-        "title": "Il prezzo del gas è in calo a 76,9 euro al megawattora",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/il-prezzo-del-gas-e-in-calo-a-769-euro-al-megawattora_fc947d4f-cd38-46fb-8d99-28387212ed3a.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 08:41:21 +0200",
-        "excerpt": "Ad Amsterdam i contratti Ttf cedono l'1,5%"
-      },
-      {
         "title": "Lo spread tra Btp e Bund in avvio è piatto a 86 punti base",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/lo-spread-tra-btp-e-bund-in-avvio-e-piatto-a-86-punti-base_ba14a85a-4a9b-4c6a-9f89-c6dc341e1ea7.html",
         "source": "ANSA Economia",
@@ -78,13 +85,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 17 Sep 2026 05:43:00 GMT",
         "excerpt": "Stop all’imposta su vetture fino a 80kw e due ruote. Dai risparmi Pnrr i 2,3 miliardi di coperture"
-      },
-      {
-        "title": "OpenAI segnala nuove anomalie: “Sei casi di comportamento preoccupante dei modelli di Ia”",
-        "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 06:10:35 +0200",
-        "excerpt": "La startup californiana si è impegnata anche ad adottare sistemi di segnalazione per errori simili"
       },
       {
         "title": "Tfr, le tasse non si alzano: le regole per il prelievo sul trattamento di fine rapporto",
@@ -173,6 +173,13 @@
     ],
     "europa": [
       {
+        "title": "L’Ue approva il Kids Act, «divieto dei social per gli under 13»",
+        "link": "https://www.ilsole24ore.com/art/l-ue-approva-kids-act-divieto-social-gli-under-13-AJy0lsFB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 17 Sep 2026 08:29:55 GMT",
+        "excerpt": "La Commissione europea ha adottato l’Eu Kids Act per rafforzare la sicurezza dei minori online. La proposta vieta alle piattaforme social l’accesso agli under 13 e fissa a 15 anni..."
+      },
+      {
         "title": "Ucraina, almeno 12 feriti in raid russo su Kiev. Colpita una raffineria in Russia",
         "link": "https://www.ilsole24ore.com/art/ucraina-almeno-12-feriti-raid-russo-kiev-colpita-raffineria-russia-AJBqYmFB",
         "source": "Il Sole 24 Ore Mondo",
@@ -220,17 +227,24 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 16 Sep 2026 08:56:00 GMT",
         "excerpt": "Sull’AI: «Vogliamo che crei più valore in modo più responsabile, a un costo inferiore e con un minor consumo energetico. Ma, soprattutto, vogliamo un’intelligenza artificiale che lasci spazio all’azione umana»"
-      },
-      {
-        "title": "Putin chiama i russi alle urne: «Nessuno riuscirà a dividerci»",
-        "link": "https://www.ilsole24ore.com/art/fbi-russia-pianifica-omicidi-mirati-usa-ed-europa-AJrmEdEB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 16 Sep 2026 05:36:00 GMT",
-        "excerpt": "Il presidente Vladimir Putin si è rivolto oggi ai russi in un discorso televisivo per invitarli ad andare a votare nelle elezioni per il rinnovo della Duma"
       }
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Calcio: Lula, \"Ancelotti dia più chance agli atleti che giocano in Brasile\"",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/calcio-lula-ancelotti-dia-piu-chance-agli-atleti-che-giocano_fdf9f49f-2fce-4014-982f-93fe4a4b343a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 10:24:50 +0200",
+        "excerpt": "'Ho consigliato al ct di convocare i 22 migliori del nostro campionato'"
+      },
+      {
+        "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_fd1b384e-8a7d-4e6b-afc2-dc92b3020aa0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 10:17:24 +0200",
+        "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova"
+      },
       {
         "title": "Agenti Ice e Fbi ai seggi per allontanare gli ispanici: midterm, mossa di Trump per arginare i dem",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/usa_agenti_ice_e_fbi_ai_seggi_ispanici_midterm_trump-425590138/?rss",
@@ -279,20 +293,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 05:50:34 +0200",
         "excerpt": "Ma al momento non è previsto un vertice tra i due capi di Stato"
-      },
-      {
-        "title": "Cuba lancia un programma radio per dialogare sui problemi dell'isola",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/cuba-lancia-un-programma-radio-per-dialogare-sui-problemi-dellisola_aab04615-b645-49a4-ac28-b2f6be46bf67.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 04:51:16 +0200",
-        "excerpt": "Lo ha annunciato il presidente Miguel Díaz-Canel"
-      },
-      {
-        "title": "L'Onu denuncia l'abuso di potere in Nicaragua",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lonu-denuncia-labuso-di-potere-in-nicaragua_86368de4-f063-460e-b3c6-38a374c5e911.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 03:43:12 +0200",
-        "excerpt": "Chiusi enti e media, chiesta la liberazione dei detenuti"
       },
       {
         "title": "Trump minaccia il taglio del commercio con l’Ue se il il Canada diventa membro associato",
@@ -347,6 +347,27 @@
   },
   "attualita": [
     {
+      "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13' ",
+      "link": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_70fecd53-e35e-4de9-a178-ab92d825a7f4.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 10:32:53 +0200",
+      "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova. Von der Leyen: 'Bambini esposti troppo presto al mondo online'"
+    },
+    {
+      "title": "Meloni: 'Bollo abolito non solo per il 2027, la misura è strutturale'",
+      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 10:05:11 +0200",
+      "excerpt": "\"Il governo lo ha già ampiamente garantito e ribadito\" . La premier: 'La tassa era tra le più odiate'"
+    },
+    {
+      "title": "Vannacci, il vademecum scritto da un parà per rispondere senza scivoloni ai giornalisti",
+      "link": "https://www.repubblica.it/politica/2026/09/17/news/vannacci_vademecum_futuro_nazionale_stampa_para-425590181/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 07:51:28 +0000",
+      "excerpt": "Il documento di Futuro nazionale con tredici domande e altrettante risposte inviato agli iscritti"
+    },
+    {
       "title": "Auto, moto e motorini. Il caso di chi ha più veicoli: chi continuerà a pagare e chi no il bollo",
       "link": "https://www.repubblica.it/economia/2026/09/17/news/abolizione_bollo_auto_moto_nuove_regole_calcolo-425590150/",
       "source": "Repubblica",
@@ -368,28 +389,7 @@
       "excerpt": "Il tycoon: 'Operazione ridicola, pronto a interrompere i rapporti commerciali'. Una fonte della Commissione: 'Lo facciamo per la nostra forza'"
     },
     {
-      "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
-      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 08:36:32 +0200",
-      "excerpt": "La premier: 'Tassa tra le più odiate'. Il costo di 2,3 miliardi coperto dai risparmi sul Pnrr"
-    },
-    {
-      "title": "Caso Lazio, Stefano Andreotti: “Al complotto non ci credo e allo stadio non vado più”",
-      "link": "https://roma.repubblica.it/cronaca/2026/09/17/news/caso_lazio_lotito_intervista_stefano_andreotti-425589957/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 05:36:22 +0000",
-      "excerpt": "“Mio padre Giulio era romanista: guardavamo le partite insieme. La proprietà dovrebbe considerare un cambiamento netto”"
-    },
-    {
-      "title": "Via il bollo per il 70% delle auto, citycar, utilitarie, piccoli suv. La scheda",
-      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/via-il-bollo-per-il-70-delle-auto-citycar-utilitarie-piccoli-suv-quali_c2862558-389e-4424-8e41-2d8b4d0db227.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 07:33:04 +0200",
-      "excerpt": "Se si hanno più auto non paga quella con meno Kw"
-    },
-    {
-      "title": "OpenAI segnala nuove anomalie: “Sei casi di comportamento preoccupante dei modelli di Ia”",
+      "title": "OpenAI, nuove anomalie: “I modelli hanno nascosto errori e trasferito dati senza autorizzazione”",
       "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/",
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 02:38:06 +0000",
@@ -517,6 +517,20 @@
   ],
   "sport": [
     {
+      "title": "Lula, \"Ancelotti dia più chance agli atleti che giocano in Brasile\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/lula-ancelotti-dia-piu-chance-agli-atleti-che-giocano-in-brasile_5856722a-8b69-4ff9-a940-02f2b03338bf.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 10:24:44 +0200",
+      "excerpt": "'Ho consigliato al ct di convocare i 22 migliori del nostro campionato'"
+    },
+    {
+      "title": "Verstappen supera 100 kartisti amatoriali in 14 giri",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/17/verstappen-supera-100-kartisti-amatoriali-in-14-giri_10f10ed1-8ff6-4cbb-9ce1-b599f4ced5d9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 10:23:05 +0200",
+      "excerpt": "A Silverstone l'olandese aveva a disposizione 75 minuti, ne sono bastati 35"
+    },
+    {
       "title": "Boehly e Walter cedono le loro quote a Clearlake Capital",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/boehly-e-walter-cedono-le-loro-quote-a-clearlake-capital_188527fc-d193-4fee-a84d-1a21a05130ef.html",
       "source": "ANSA Sport",
@@ -557,20 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 16 Sep 2026 21:15:35 +0200",
       "excerpt": "Il tecnico bianconero: 'Gioca McKennie, non do altre indicazioni'"
-    },
-    {
-      "title": "Tennis: Alcaraz ottiene il pass per le Finals Atp",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/16/tennis-alcaraz-ottiene-il-pass-per-le-finals-atp_808e72cf-d2ca-4a25-83c2-a4bccc842d81.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 20:51:29 +0200",
-      "excerpt": "Lo spagnolo sarà a Torino. Si unisce a Sinner e Zverev"
-    },
-    {
-      "title": "Europa League: Milan con Hutchinson e Cisse, Terracciano in difesa",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/16/europa-league-milan-con-hutchinson-e-cisse-terracciano-in-difesa_b5ad97ae-f5e6-4a67-b5c5-2d2a3695d5c0.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 16 Sep 2026 20:06:20 +0200",
-      "excerpt": "Tante novità di formazione per Amorim contro il Benfica"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
