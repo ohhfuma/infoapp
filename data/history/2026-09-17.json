@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Flotta navale commerciale italiana nel 2026 scende a quinto posto nell'Ue",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/flotta-navale-commerciale-italiana-nel-2026-scende-a-quinto-posto-nellue_73cfc705-e898-48cd-ad33-c00d5c0e153b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 12:56:44 +0200",
+        "excerpt": "De Molli (Teha), 'a causa di complessità normative e processi onerosi'"
+      },
+      {
+        "title": "Mef, Consip e Upi rafforzano collaborazione per acquisti pubblici delle Province",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/mef-consip-e-upi-rafforzano-collaborazione-per-acquisti-pubblici-delle-province_42cc3166-d577-4b01-8f7c-7525a1e35512.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 17 Sep 2026 12:40:28 +0200",
+        "excerpt": "Firmato l'accordo per l'efficienza e la razionalizzazione della spesa"
+      },
+      {
         "title": "Durigon, in pensione a 64 anni con contributivo riducendo soglia minima",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/durigon-in-pensione-a-64-anni-con-contributivo-riducendo-soglia-minima_3e60081c-7493-4235-aa4f-f215ad11cd5e.html",
         "source": "ANSA Economia",
@@ -408,20 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 16 Sep 2026 14:13:00 GMT",
         "excerpt": "Il conto della misura si potrà fare solo con i dettagli alla mano: ma l’ordine di grandezza è intorno ai 2,5 miliardi, che dovranno essere compensati alle Regioni, destinatarie del gettito"
-      },
-      {
-        "title": "Ex Ilva, la Cassazione anticipa l’udienza sul ricorso. Sospesi i licenziamenti. Salta il decreto",
-        "link": "https://www.repubblica.it/economia/2026/09/16/news/ex_ilva_la_cassazione_anticipa_udienza_commissari_decreto_cdm-425588679/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 16 Sep 2026 16:03:49 +0200",
-        "excerpt": "La Corte anticipa la discussione dell’istanza al 20 ottobre. Riaggiornato il tavolo a Palazzo Chigi"
-      },
-      {
-        "title": "Cisgiordania, Tajani: «Contro i coloni il quadro più efficace è nell’Ue, misure nazionali sono deboli»",
-        "link": "https://www.ilsole24ore.com/art/cisgiordania-tajani-contro-coloni-quadro-piu-efficace-e-nell-ue-misure-nazionali-sono-deboli-AJ7b6xEB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 16 Sep 2026 13:37:59 GMT",
-        "excerpt": "Il ministro degli Esteri: «Misure nazionali poggiano su basi giuridiche deboli, con il rischio di produrre effetti limitati e di essere facilmente aggirate»"
       }
     ],
     "europa": [
@@ -512,6 +512,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Oltre 8.000 morti legati all'ondata di caldo quest'estate in Francia",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/oltre-8.000-morti-legati-allondata-di-caldo-questestate-in-francia_bc837d40-0fae-4cdd-90c9-bd332fec3de1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 12:42:57 +0200",
+        "excerpt": "Mai così tanti decessi dal 2003. Il bilancio reso noto da Santé Publique France"
+      },
       {
         "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue è un faro per le altre democrazie”",
         "link": "https://www.repubblica.it/esteri/2026/09/17/news/carney_primo_ministro_canada_intervento_parlamento_europeo_alleanza_ue-425590614/?rss",
@@ -924,17 +931,24 @@
         "source": "Repubblica Esteri",
         "pubDate": "Wed, 16 Sep 2026 20:07:07 +0200",
         "excerpt": "Leone sarà in Francia dal 25 al 28 settembre. E il presidente francese punta a trasformare la visita pontificia in un appuntamento politico e simbolico per l’Unione europea"
-      },
-      {
-        "title": "Thaci condannato a 25 anni per crimini di guerra. A Pristina lanci di pietre contro sede Ue",
-        "link": "https://www.repubblica.it/esteri/2026/09/16/news/guerre_balcani_tensione_sentenza_ex_leader_dell_uck_thaci-425587897/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 16 Sep 2026 17:38:20 +0200",
-        "excerpt": "L’ex presidente e leader dell’Uck è stato riconosciuto colpevole dall’Aia insieme a tre suoi comandanti. Il rischio è che si alzi la tensione nell’intera regione"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Carney a Trump: 'Un Canada più forte è più efficace anche per gli Usa'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/carney-a-trump-un-canada-piu-forte-e-piu-efficace-anche-per-gli_fc66790e-61e5-468e-ae5c-96bb183b32e4.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 12:54:28 +0200",
+      "excerpt": "Il premier canadese parla alla Plenaria dell'Europarlamento: 'Noi e l'Europa simili per affinità'"
+    },
+    {
+      "title": "Melonellum e rischio voto anticipato: se la tagliola delle pensioni non spaventa tutti i deputati",
+      "link": "https://www.repubblica.it/politica/rubriche/la-verita-vi-prego/2026/09/17/news/melonellum_rischio_voto_anticipato_tagliola_pensioni_deputati-425590636/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 10:30:24 +0000",
+      "excerpt": "La minaccia pende solo sui parlamentari alla prima legislatura, che sono meno della metà del totale. E i deputati ‘anziani’ che hanno già maturato l’assegno sono una netta maggioranza dentro Lega e Forza Italia"
+    },
     {
       "title": "Carney al Parlamento europeo: “L’alleanza tra Canada e Ue è un faro per le altre democrazie”",
       "link": "https://www.repubblica.it/esteri/2026/09/17/news/carney_primo_ministro_canada_intervento_parlamento_europeo_alleanza_ue-425590614/",
@@ -1339,13 +1353,6 @@
       "link": "https://www.corriere.it/lettere-al-direttore/12-05-2024/index.shtml",
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 07:13:14 +0200",
-      "excerpt": ""
-    },
-    {
-      "title": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-      "link": "https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 06:05:06 +0200",
       "excerpt": ""
     }
   ],
