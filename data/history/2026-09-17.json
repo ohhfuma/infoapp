@@ -289,6 +289,27 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Congresso Usa approva il primo pacchetto di sanzioni sotto Trump contro la Russia",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/congresso-usa-approva-il-primo-pacchetto-di-sanzioni-sotto-trump-contro-la-russia_7d4f8f35-c018-4765-ad40-86872e534a85.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 02:07:28 +0200",
+        "excerpt": "Il via libera è arrivato dalla Camera, dopo quello dato a luglio dal Senato"
+      },
+      {
+        "title": "Honduras, riserve d'acqua della capitale sotto il 26%",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/honduras-riserve-dacqua-della-capitale-sotto-il-26_2c4bbcea-837e-4a6a-bf80-ab5692afabda.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 01:49:10 +0200",
+        "excerpt": "I due principali bacini di Tegucigalpa entrano in una fase di rischio idrico critico"
+      },
+      {
+        "title": "Ucraina: udite a Kiev una decina di forti esplosioni",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/ucraina-udite-a-kiev-una-decina-di-forti-esplosioni_74fadb2c-8351-4f18-9a15-4788d0aa0468.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 01:41:35 +0200",
+        "excerpt": "Nella capitale ucraina diramato un allarme rosso per minaccia di attacchi missilistici"
+      },
+      {
         "title": "'Applicherei dazi molto pesanti sui prodotti provenienti dall'Europa'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/applicherei-dazi-molto-pesanti-sui-prodotti-provenienti-dalleuropa_2de6a844-36a9-4852-9f77-b4f4f845d513.html",
         "source": "ANSA Mondo",
@@ -481,11 +502,60 @@
   },
   "attualita": [
     {
+      "title": "La lettera di Schlein a Meloni: “Cara premier, uniamo le forze su clima e energia”",
+      "link": "https://www.repubblica.it/politica/2026/09/17/news/schlein_lettera_meloni_clima_energia_strategie_condivise_pd-425589798/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 23:12:08 +0000",
+      "excerpt": "Ecco 5 proposte della segretaria del Pd per trasformare la flessibilità in benefici per famiglie, imprese e territori"
+    },
+    {
       "title": "Ue, nasce l’asse con il Canada: “Sarà membro associato”. Segnale a Usa e Mosca",
       "link": "https://www.repubblica.it/esteri/2026/09/17/news/ue_asse_canada_usa_mosca-425589607/",
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
       "excerpt": "Siglata l’alleanza transoceanica davanti al premier Carney che resta però scettico sulla formula della “associazione”"
+    },
+    {
+      "title": "Bollo auto, la mossa a sorpresa di Meloni spiazza gli alleati e apre al voto anticipato",
+      "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_meloni_elezioni_vannacci-425589712/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
+      "excerpt": "La premier: “Vorrei arrivare alla scadenza della legislatura”. Ma Palazzo Chigi prepara le elezioni in primavera"
+    },
+    {
+      "title": "Bollo auto, regole e limiti: cosa c’è da sapere sullo stop in vigore nel 2027",
+      "link": "https://www.repubblica.it/economia/2026/09/17/news/auto_bollo_cosa_c_e_da_sapere_stop-425589689/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
+      "excerpt": "Dal caso dei possessori di più vetture, ai veicoli entro il limite. Domande e risposte sulla nuova misura"
+    },
+    {
+      "title": "Addio al bollo su auto e moto per i veicoli piccoli e medi. Si riduce il taglio delle accise",
+      "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_moto_taglio_accise_diesel-425589717/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
+      "excerpt": "La cancellazione parziale solo per il 2027, ma Meloni promette: “Sarà strutturale”. Gli sconti sul diesel scendono a 12,2 centesimi dal 18 al 25 settembre e a 6,1 fino al 5 ottobre"
+    },
+    {
+      "title": "Solare, eolico, idroelettrico, la frenata delle rinnovabili. “L’Italia fallirà gli obiettivi”",
+      "link": "https://www.repubblica.it/cronaca/2026/09/17/news/energia_rinnovabile_italia_obiettivi_falliti-425589702/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il rallentamento, iniziato già nel 2025, prosegue nella prima metà di quest’anno: l’energia pulita è aumentata di appena 3,4 Gigawatt"
+    },
+    {
+      "title": "L’Etruria divisa sui pannelli solari, Montalto si riconverte: “Ma ora tocca agli altri”",
+      "link": "https://www.repubblica.it/cronaca/2026/09/17/news/rinnovabili_etruria_pannelli_montalto_si_riconverte_paesaggio_scempio-425589700/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
+      "excerpt": "L’ex Comune nucleare è il primo per potenza verde, per molti, però, serve una programmazione: “Il paesaggio è rovinato”"
+    },
+    {
+      "title": "Cresce la minaccia dei droni. La premier: in Russia sono nervosi",
+      "link": "https://www.repubblica.it/politica/2026/09/17/news/russia_minaccia_droni_crosetto_meloni-425589665/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il tema oggi a Oslo nell’incontro di Meloni con il leader norvegese, intese su gas e difesa. Nega dissapori con Salvini dopo l’incontro con le aziende in affari con Mosca: nulla di strano"
     },
     {
       "title": "Il bollo auto di Meloni: la vignetta di Ellekappa",
