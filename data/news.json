@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T18:09:53.884Z",
+  "lastUpdated": "2026-09-17T18:41:45.861Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Prodotti difettosi: da dicembre tempi più stretti e più tutele per i consumatori",
+        "link": "https://www.ilsole24ore.com/art/prodotti-difettosi-dicembre-tempi-piu-stretti-e-piu-tutele-i-consumatori-AJqBIOGB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Thu, 17 Sep 2026 18:27:42 GMT",
+        "excerpt": "Oggi, se il fabbricante di un prodotto difettoso è irrintracciabile, il danneggiato può chiedere chiarimenti al distributore su chi gliel’ha fornito: se il distributore non risponde entro tre mesi, ne..."
+      },
       {
         "title": "Urso: «In arrivo il business wallet per le imprese». Ecco cosa è e come funziona",
         "link": "https://www.ilsole24ore.com/art/urso-in-arrivo-business-wallet-le-imprese-ecco-cosa-e-e-come-funziona-AJLs7QGB",
@@ -20,8 +27,8 @@
         "title": "Stop bollo auto, Mattarella firma il decreto",
         "link": "https://www.ilsole24ore.com/art/stop-bollo-auto-mattarella-firma-decreto-AJPF5VGB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 17 Sep 2026 17:39:11 GMT",
-        "excerpt": ""
+        "pubDate": "Thu, 17 Sep 2026 17:39:00 GMT",
+        "excerpt": "Il capo dello Stato ha firmato il decreto che introduce lo stop al bollo delle auto piccole e medie e di tutte le moto. Il decreto varato il 16 settembre..."
       },
       {
         "title": "Energia, difesa, materie prime critiche: Meloni stringe l’asse con la Norvegia guardando all’Artico",
@@ -122,13 +129,6 @@
         "excerpt": "L’allarme di Ieefa: le riserve sono al 68%, oltre 12 punti sotto il 2025. La crisi di Hormuz limita i flussi dal Qatar e l’Ue aumenta gli acquisti di Gnl sul mercato globale, dove deve competere con l’Asia. Wood Mackenzi"
       },
       {
-        "title": "Accademia aeronautica, intesa tra Italia e Francia per lo scambio di cadetti sulla scia del Trattato del Quirinale",
-        "link": "https://www.ilsole24ore.com/art/accademia-aeronautica-intesa-italia-e-francia-lo-scambio-cadetti-scia-trattato-quirinale-AJ9PF3EB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 17 Sep 2026 15:28:57 GMT",
-        "excerpt": "Per l’Italia, il cadetto selezionato frequenterà il semestre del corso di Laurea in Ingegneria presso l’Accademia francese a Salon-de-Provence e parallelamente il cadetto francese svolgerà il proprio semestre di studi pr"
-      },
-      {
         "title": "Borsa: l'Europa avanza con Wall Street, in scia a petrolio e Fed",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-avanza-con-wall-street-in-scia-a-petrolio-e-fed_0eb08ef9-0512-4bca-8802-2be3cfd967c3.html",
         "source": "ANSA Economia",
@@ -215,11 +215,11 @@
         "excerpt": "STRASBURGO – La Commissione europea ha ufficializzato oggi, giovedì 17 settembre, la proposta di introdurre limiti all’uso delle reti sociali da parte dei più giovani. Come anticipato mercoledì dalla presidente..."
       },
       {
-        "title": "Ucraina: drone russo colpisce nave civile nel Mar Nero, morto il capitano",
+        "title": "Jet militari russi violano spazio aereo Lituania, caccia italiani in volo",
         "link": "https://www.ilsole24ore.com/art/ucraina-almeno-12-feriti-raid-russo-kiev-colpita-raffineria-russia-AJBqYmFB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 07:11:00 GMT",
-        "excerpt": "In Ucraina non si fermano gli attacchi russi sulla capitale. Nella notte tra il 16 e il 17 settembre, a partire da poco dopo la mezzanotte, sono iniziate le prime..."
+        "excerpt": "Due caccia Eurofighter F-2000 della Task Force Air ’Baltic Thunder III’ dell’Aeronautica Militare italiana sono decollati nel tardo pomeriggio da Šiauliai, in Lituania, in modalità scramble nell’ambito della missione Nat"
       },
       {
         "title": "Guerra ultime notizie. Crosetto: garantiremo sicurezza delle navi italiane nello stretto di Bab el-Mandeb",
@@ -232,18 +232,32 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump vedrà i paesi del Golfo, 'devo decidere sull'Iran'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/trump-verso-un-momento-cruciale-in-iran-devo-prendere-unimportante-decisione_0dbd2166-0cb6-43cf-a0c6-cf489f522612.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 20:17:30 +0200",
+        "excerpt": "'Momento cruciale', e vende gli F-35 a Riad. Cina a Teheran: 'Fermi gli Houthi'"
+      },
+      {
+        "title": "Von der Leyen, 'domani altri 3,3 miliardi per aiuti militari a Kiev'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/von-der-leyen-domani-altri-33-miliardi-per-aiuti-militari-a-kiev_91ed4966-00f6-4972-9804-e4b4e5f905a0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 20:16:14 +0200",
+        "excerpt": "'I fondi rimanenti di Safe andranno ai programmi comuni Ue-Ucraina'"
+      },
+      {
+        "title": "Usa approvano la vendita di F-35 all'Arabia Saudita per 24,3 miliardi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/usa-approvano-la-vendita-di-f-35-allarabia-saudita-per-243-miliardi_5ed2656d-acc3-4a0a-92c0-fe08f47fbc93.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 20:06:29 +0200",
+        "excerpt": "'Fino a 48 caccia, alleato chiave per la stabilità del Golfo'"
+      },
+      {
         "title": "Nuove accuse dal fratello di Diana, 'Carlo euforico alla notizia della sua morte'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/nuove-accuse-dal-fratello-di-diana-carlo-euforico-alla-notizia-della_fb200dc0-6f80-4fc1-9aca-d72eb7658934.html",
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 19:50:54 +0200",
         "excerpt": "Continuano le anticipazioni dalla biografia del conte Spencer, già smentite dalla corte"
-      },
-      {
-        "title": "Trump: 'Verso un momento cruciale in Iran, devo prendere un'importante decisione'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/17/trump-verso-un-momento-cruciale-in-iran-devo-prendere-unimportante-decisione_0dbd2166-0cb6-43cf-a0c6-cf489f522612.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 19:40:42 +0200",
-        "excerpt": "Axios: 'Il presidente Usa terrà martedì colloqui su Teheran con i leader del Golfo'"
       },
       {
         "title": "Niente visto, da Usa nuovo stop per Abu Mazen all'Onu",
@@ -260,13 +274,6 @@
         "excerpt": "Lezioni all'aperto a Plaza de Mayo, ma prende corpo una nuova manifestazione nazionale"
       },
       {
-        "title": "L'ombra di Diana torna a far tremare Carlo e i Windsor",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/lombra-di-diana-torna-a-far-tremare-carlo-e-i-windsor_9e687962-6b0e-47b8-ac17-cd8a07c42332.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 19:19:25 +0200",
-        "excerpt": "Buckingham Palace contesta le rivelazioni shock del fratello, ma la bufera oscura il forum del re sull'Ia"
-      },
-      {
         "title": "Trump, 'verso un momento cruciale in Iran, devo prendere un'importante decisione'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/trump-verso-un-momento-cruciale-in-iran-devo-prendere-unimportante-decisione_84ccac82-6fb4-45bf-81e3-70830bcbb919.html",
         "source": "ANSA Mondo",
@@ -279,13 +286,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 19:00:21 +0200",
         "excerpt": "Cinque ragazze dell'ateneo di Morelos assassinate nell'ultimo anno"
-      },
-      {
-        "title": "Il centrosinistra vince in Svezia, ma è rebus governo",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/il-centrosinistra-vince-in-svezia-ma-e-rebus-governo_4a7d2094-9a80-452e-af20-b4838ee9abba.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 19:00:17 +0200",
-        "excerpt": "Scrutino-maratona all'ultimo voto, Andersson spunta la maggioranza per un solo seggio"
       },
       {
         "title": "Brasile, vestito da donna e un bimbo in braccio era quasi sfuggito alla polizia: arrestato serial killer. Ha confessato 80 omicidi",
@@ -347,6 +347,20 @@
   },
   "attualita": [
     {
+      "title": "Crosetto: 'Navi militari italiane a Bab el Mandeb per ripristino dei traffici, valuteremo col Parlamento'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-navi-militari-italiane-a-bab-el-mandeb-per-ripristino-dei-traffici_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 20:23:30 +0200",
+      "excerpt": "Il ministro della Difesa: 'Non aspetteremo l'Ue, se agiremo lo faremo a protezione dei mercantili'"
+    },
+    {
+      "title": "La pioggia si infiltra agli Uffizi e bagna la teca del Bacco di Caravaggio",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/la-pioggia-si-infiltra-agli-uffizi-e-bagna-la-teca-del-bacco-di-caravaggio_073cc186-e20b-422e-a5d7-ea3397fda99b.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 20:20:04 +0200",
+      "excerpt": "Nella stessa sala sono accolti sette dipinti del Seicento. Il museo: 'Nessuna è danneggiata'"
+    },
+    {
       "title": "Termini, treni in tilt: ritardi fino a 100 minuti per un guasto in provincia di Livorno",
       "link": "https://roma.repubblica.it/cronaca/2026/09/17/news/ritardi_treni_roma_termini_oggi_17_settembre_2026-425591481/",
       "source": "Repubblica",
@@ -354,11 +368,11 @@
       "excerpt": "Il problema principale è stato segnalato tra Vada e Cecina, dove un inconveniente tecnico a un treno ha provocato rallentamenti sulla linea"
     },
     {
-      "title": "Crosetto: 'Navi militari italiane a Bab el Mandeb per ripristino dei traffici, valuteremo col Parlamento'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-navi-militari-italiane-a-bab-el-mandeb-per-ripristino-dei-traffici_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
+      "title": "Jet militari russi violano spazio aereo Lituania, caccia italiani in volo",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/jet-militari-russi-violano-spazio-aereo-lituania-caccia-italiani-in-volo_db794caf-bb8a-4ee2-8e35-012df8bf0d43.html",
       "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 19:41:18 +0200",
-      "excerpt": "Il ministro della Difesa: 'Non aspetteremo l'Ue, se agiremo lo faremo a protezione dei mercantili'"
+      "pubDate": "Thu, 17 Sep 2026 19:54:12 +0200",
+      "excerpt": "Kiev: 'Verso incontro Trump-Zelensky all'Onu'. Meloni: 'Putin provoca, non reagire'"
     },
     {
       "title": "Meloni risponde alla lettera di Schlein: \"Io non ho pregiudizi, loro vogliono far pagare il bollo\"",
@@ -366,13 +380,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 17:24:59 +0000",
       "excerpt": "La premier è intervenuta dopo l'incontro con il primo ministro norvegese Jonas Gahr Store a Oslo"
-    },
-    {
-      "title": "La pioggia si infiltra agli Uffizi e bagna la teca del Bacco di Caravaggio",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/la-pioggia-si-infiltra-agli-uffizi-e-bagna-la-teca-del-bacco-di-caravaggio_073cc186-e20b-422e-a5d7-ea3397fda99b.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 19:12:38 +0200",
-      "excerpt": "Nella stessa sala sono accolti sette dipinti del Seicento. Il museo: 'Nessuna è danneggiata'"
     },
     {
       "title": "Smart working, sei consigli per non pesare sulla bolletta",
@@ -415,13 +422,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 15:23:07 +0000",
       "excerpt": "Il ministro della Difesa commenta le parole della segretaria dei giovani del Pd Virginia Libero: “È una parola che non avrei mai voluto sentir pronunciare da chi fa politica”"
-    },
-    {
-      "title": "Morte avvelenate: 'Emersi elementi certi sul duplice omicidio'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/17/morte-avvelenate-emersi-elementi-certi-sul-duplice-omicidio_8e2b2e97-6996-4eaa-9028-ea83addfe0f1.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 17:10:42 +0200",
-      "excerpt": "Indiscrezioni sui primi risultati delle analisi in corso a Berlino"
     },
     {
       "title": "Cesare Cremonini: “Che liberazione ripartire da zero”",
@@ -517,6 +517,20 @@
   ],
   "sport": [
     {
+      "title": "Calcio: Massara, 'totale fiducia in Spalletti e in rapida crescita squadra'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/calcio-massara-totale-fiducia-in-spalletti-e-in-rapida-crescita-squadra_eae81a67-4dff-4221-b281-db7c396e360a.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 20:28:22 +0200",
+      "excerpt": "Ds Juventus: 'non mininizziamo nulla ma facciamo analisi serena'"
+    },
+    {
+      "title": "Al Parioli sorpresa Cobolli durante la partita dell'ambasciatore britannico in Italia",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/17/al-parioli-sorpresa-cobolli-durante-la-partita-dellambasciatore-britannico-in-italia_49b5fdfa-340a-4bda-91c0-e59d7b8dbb91.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 20:07:18 +0200",
+      "excerpt": "E questa sera la festa per i 120 anni del circolo romano"
+    },
+    {
       "title": "Mondiali ciclismo 2026: Evenepoel'sarebbe fantastico poter scrivere storia a Montréal'",
       "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/17/mondiali-ciclismo-2026-evenepoelsarebbe-fantastico-poter-scrivere-storia-a-montreal_3cd1239a-a3c1-41e6-ac5a-ce1f22c4a5d1.html",
       "source": "ANSA Sport",
@@ -557,20 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 16:38:46 +0200",
       "excerpt": "Domenica il pienone allo Stirpe, Alvini si affida a tutti i suoi big"
-    },
-    {
-      "title": "Taekwondo: bronzo storico per l'Italia, 1/a medaglia iridata nel freestyle individuale",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/17/taekwondo-bronzo-storico-per-litalia-1a-medaglia-iridata-nel-freestyle-individuale_a6a7b46e-6023-4136-9ee5-396ba4a8f6cc.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 16:28:19 +0200",
-      "excerpt": "Valentina Arlotti si guadagna il terzo posto in Corea, 'sono incredula'"
-    },
-    {
-      "title": "Nations League: ecco la Germania di Klopp, chiama 44 giocatori e dice no all'AfD",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/nations-league-ecco-la-germania-di-klopp-chiama-44-giocatori-e-dice-no-allafd_cfc16e4a-cf1e-49b5-9c5e-af30c3264b92.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 16:01:44 +0200",
-      "excerpt": "Sedici esordienti, poi esorta a 'non lasciare l'orgoglio nazionale alle persone sbagliate'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
