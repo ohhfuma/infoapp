@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "«Liberi di scegliere è un precedente a livello mondiale». Così bambini e donne fuoriescono dai contesti mafiosi",
+        "link": "https://www.ilsole24ore.com/art/liberi-scegliere-e-precedente-livello-mondiale-cosi-bambini-e-donne-fuoriescono-contesti-mafiosi-AJaoicGB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Thu, 17 Sep 2026 19:26:45 GMT",
+        "excerpt": "Il giudice minorile Roberto di Bella, che creò il primo protocollo per allontanare figli e mogli dalle famiglie di mafia, segue l’evoluzione normativa del suo progetto. Indispensabile una formazione multidisciplinare per"
+      },
+      {
+        "title": "Forti piogge, acqua negli Uffizi sulla teca di un Caravaggio",
+        "link": "https://www.ilsole24ore.com/art/forti-piogge-acqua-uffizi-teca-un-caravaggio-AJsFVfGB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Thu, 17 Sep 2026 19:21:18 GMT",
+        "excerpt": "Un violento temporale che ha colpito Firenze e in un’ora ha superato i 45 millimetri di pioggia, ha creato momenti di apprensione per le opere custodite nella Galleria degli Uffizi...."
+      },
+      {
         "title": "Prodotti difettosi: da dicembre tempi più stretti e più tutele per i consumatori",
         "link": "https://www.ilsole24ore.com/art/prodotti-difettosi-dicembre-tempi-piu-stretti-e-piu-tutele-i-consumatori-AJqBIOGB",
         "source": "Il Sole 24 Ore",
@@ -408,20 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Thu, 17 Sep 2026 09:39:58 +0200",
         "excerpt": "In caso di due vetture continuerà a pagare quella di potenza superiore. Tutte le combinazioni"
-      },
-      {
-        "title": "Borsa: l'Europa apre in positivo dopo rialzo tassi da parte della Fed",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-leuropa-apre-in-positivo-dopo-rialzo-tassi-da-parte-della-fed_f6532a9d-700d-4bc1-a82b-1a1ee00fe6b9.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 09:21:41 +0200",
-        "excerpt": "Francoforte +0,56%, Parigi +0,45%, Londra +0,39%"
-      },
-      {
-        "title": "Borsa: Milano apre a +0,43%, in luce la moda con Moncler e Cucinelli",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-milano-apre-a-043-in-luce-la-moda-con-moncler-e-cucinelli_469dd37e-45c7-4c5f-84a2-126d933486b5.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 09:12:19 +0200",
-        "excerpt": "Ftse Mib a 52.193 punti. Bene anche Stellantis, vendite su Eni"
       }
     ],
     "europa": [
@@ -547,6 +547,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Jet militari russi violano lo spazio aereo lituano, caccia italiani in volo. Prime sanzioni Usa contro Mosca",
+        "link": "https://www.repubblica.it/esteri/2026/09/17/news/jet_militari_russi_violano_spazio_aereo_lituania_caccia_italiani_sanzioni_usa_mosca_vigilia_voto-425591673/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 17 Sep 2026 21:07:31 +0200",
+        "excerpt": "La decisione della Camera Usa alla vigilia del voto in Russia è un duro colpo a Putin. Trump incontrerà Zelensky la prossima settimana al margine dell’Assemblea generale delle Nazioni Unite"
+      },
       {
         "title": "Gli Usa rilasciano i visti all'Iran per partecipare all'Assemblea dell'Onu",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/gli-usa-rilasciano-i-visti-alliran-per-partecipare-allassemblea-dellonu_51f4441c-7ac3-40a9-a75c-969c47a1a391.html",
@@ -959,17 +966,24 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 10:24:50 +0200",
         "excerpt": "'Ho consigliato al ct di convocare i 22 migliori del nostro campionato'"
-      },
-      {
-        "title": "L'Ue approva il Kids Act, 'divieto dei social per gli under 13'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/lue-approva-il-kids-act-divieto-dei-social-per-gli-under_fd1b384e-8a7d-4e6b-afc2-dc92b3020aa0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 10:17:24 +0200",
-        "excerpt": "A 15 anni l'età minima per un account autonomo, per big tech scatta onere della prova"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Europa League, in campo Juventus-Nec LIVE",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-in-campo-juventus-nec-live_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 21:27:41 +0200",
+      "excerpt": "Si gioca la prima giornata della fase campionato"
+    },
+    {
+      "title": "Jet militari russi violano lo spazio aereo lituano, caccia italiani in volo. Prime sanzioni Usa contro Mosca",
+      "link": "https://www.repubblica.it/esteri/2026/09/17/news/jet_militari_russi_violano_spazio_aereo_lituania_caccia_italiani_sanzioni_usa_mosca_vigilia_voto-425591673/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 19:07:31 +0000",
+      "excerpt": "La decisione della Camera Usa alla vigilia del voto in Russia è un duro colpo a Putin. Trump incontrerà Zelensky la prossima settimana al margine dell’Assemblea generale delle Nazioni Unite"
+    },
     {
       "title": "Termini, treni in tilt: ritardi fino a 100 minuti per un guasto in provincia di Livorno",
       "link": "https://roma.repubblica.it/cronaca/2026/09/17/news/ritardi_treni_roma_termini_oggi_17_settembre_2026-425591481/",
@@ -1375,23 +1389,16 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 23:00:39 +0000",
       "excerpt": "Il buco nei messaggi è considerato un’anomalia dagli investigatori. Procedura disciplinare, i legali: dalla Rai tempismo irrequieto"
-    },
-    {
-      "title": "Ue, nasce l’asse con il Canada: “Sarà membro associato”. Segnale a Usa e Mosca",
-      "link": "https://www.repubblica.it/esteri/2026/09/17/news/ue_asse_canada_usa_mosca-425589607/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "Siglata l’alleanza transoceanica davanti al premier Carney che resta però scettico sulla formula della “associazione”"
-    },
-    {
-      "title": "Bollo auto, la mossa a sorpresa di Meloni spiazza gli alleati e apre al voto anticipato",
-      "link": "https://www.repubblica.it/economia/2026/09/17/news/bollo_auto_meloni_elezioni_vannacci-425589712/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "La premier: “Vorrei arrivare alla scadenza della legislatura”. Ma Palazzo Chigi prepara le elezioni in primavera"
     }
   ],
   "sport": [
+    {
+      "title": "Da Gualtieri a Cobolli, al Parioli la festa per i 120 anni del circolo",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/17/da-gualtieri-a-cobolli-al-parioli-la-festa-per-i-120-anni-del-circolo_b0055971-7f50-4a66-9598-2dbdb944fddd.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 17 Sep 2026 21:19:02 +0200",
+      "excerpt": "Sui campi del Tc romano sono cresciuti campioni come Pietrangeli e Panatta"
+    },
     {
       "title": "Europa League, in campo Juventus-Nec LIVE",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/17/europa-league-in-campo-juventus-nec-live_6e175d87-1b2f-479a-89bb-cc9982cc094c.html",
