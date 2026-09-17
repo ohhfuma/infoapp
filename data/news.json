@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T05:07:53.894Z",
+  "lastUpdated": "2026-09-17T05:39:18.200Z",
   "finanza": {
     "italia": [
       {
@@ -173,6 +173,20 @@
     ],
     "europa": [
       {
+        "title": "Guerra ultime notizie. Trump terrà colloqui  con i leader del Golfo martedì prossimo",
+        "link": "https://www.ilsole24ore.com/art/iran-trump-terra-colloqui-i-leader-golfo-martedi-prossimo-AJHe2jFB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 17 Sep 2026 05:17:00 GMT",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump: «Se Canada membro associato Ue imporrò nuovi pesanti dazi»",
+        "link": "https://www.ilsole24ore.com/art/trump-se-canada-membro-associato-ue-imporro-nuovi-pesanti-dazi-AJfa1jFB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 17 Sep 2026 05:15:00 GMT",
+        "excerpt": "In un comizio tenuto a Charlotte, nella Carolina del Nord, il presidente statunitense Donald Trump ha affermato che consentire al Canada di diventare membro associato dell’Unione Europea potrebbe costituire un..."
+      },
+      {
         "title": "La Fed di Warsh sfida Trump: rialza i tassi e promette di farlo ancora",
         "link": "https://www.ilsole24ore.com/art/fed-alza-tassi-25-punti-base-375percento-4percento-primo-rialzo-luglio-2023-AJFaAJFB",
         "source": "Il Sole 24 Ore Mondo",
@@ -213,20 +227,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 16 Sep 2026 05:11:00 GMT",
         "excerpt": ""
-      },
-      {
-        "title": "Trump, è record di trading di titoli: battuti tutti i parlamentari assieme ",
-        "link": "https://www.ilsole24ore.com/art/trump-e-record-trading-titoli-battuti-tutti-parlamentari-assieme-AJEXtTEB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 16 Sep 2026 04:47:00 GMT",
-        "excerpt": "Donald Trump vanta un nuovo record: quello della compravendita di titoli azionari. Da quando è presidente, o meglio nei 17 mesi a giugno, lui e i suoi gestori hanno effettuato..."
-      },
-      {
-        "title": "Armi Usa nello spazio: dura la reazione di Pechino e Mosca",
-        "link": "https://www.ilsole24ore.com/art/armi-usa-spazio-dura-reazione-pechino-e-mosca-AJlBwHEB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Tue, 15 Sep 2026 17:31:19 GMT",
-        "excerpt": "La corsa alle armi rompe i confini terrestri per approdare nello spazio. La recente ammissione giunta per bocca del segretario dell’Air Force Troy Meink, durante l’annuale conferenza in Maryland, segna..."
       }
     ],
     "usa": [],
@@ -347,18 +347,32 @@
   },
   "attualita": [
     {
-      "title": "OpenAI segnala nuove anomalie: “Sei casi di comportamento preoccupante dei modelli di Ia”",
-      "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 02:38:06 +0000",
-      "excerpt": "La startup californiana si è impegnata anche ad adottare sistemi di segnalazione per errori simili"
+      "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
+      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 07:17:35 +0200",
+      "excerpt": "La premier: 'Tassa tra le più odiate'. Il costo di 2,3 miliardi coperto dai risparmi sul Pnrr"
+    },
+    {
+      "title": "Via il bollo per il 70% delle auto, citycar, utilitarie, piccoli suv. La scheda",
+      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/via-il-bollo-per-il-70-delle-auto-citycar-utilitarie-piccoli-suv-quali_c2862558-389e-4424-8e41-2d8b4d0db227.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 17 Sep 2026 07:14:44 +0200",
+      "excerpt": "Se si hanno più auto non paga quella con meno Kw"
     },
     {
       "title": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/openai-sei-nuovi-casi-di-comportamento-preoccupante-dei-modelli-ia_470f9247-10ae-4861-91d5-dd8f991a198c.html",
       "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 03:42:45 +0200",
+      "pubDate": "Thu, 17 Sep 2026 07:13:15 +0200",
       "excerpt": "Adotta nuovo sistema di segnalazione per eventuali anomalie future nei test"
+    },
+    {
+      "title": "OpenAI segnala nuove anomalie: “Sei casi di comportamento preoccupante dei modelli di Ia”",
+      "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 02:38:06 +0000",
+      "excerpt": "La startup californiana si è impegnata anche ad adottare sistemi di segnalazione per errori simili"
     },
     {
       "title": "La lettera di Schlein a Meloni: “Cara premier, uniamo le forze su clima e energia”",
@@ -410,25 +424,11 @@
       "excerpt": "Il rallentamento, iniziato già nel 2025, prosegue nella prima metà di quest’anno: l’energia pulita è aumentata di appena 3,4 Gigawatt"
     },
     {
-      "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
-      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 21:48:49 +0200",
-      "excerpt": "La premier: 'Tassa tra le più odiate'. Il costo di 2,3 miliardi coperto dai risparmi sul Pnrr"
-    },
-    {
       "title": "Dario Vitale direttore creativo di Emporio Armani e accessori, il primo fuori dalla famiglia",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/16/dario-vitale-direttore-creativo-di-emporio-armani-e-accessori-il-primo-fuori-dalla_6c7f695d-4c40-4f94-9ab7-ba2e686b1081.html",
       "source": "ANSA",
       "pubDate": "Wed, 16 Sep 2026 20:00:42 +0200",
       "excerpt": "'Nuovo capitolo nel rispetto della visione che contraddistingue il nome Giorgio Armani'"
-    },
-    {
-      "title": "Quando Berlusconi nel 2008 propose di abolire il bollo auto",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/16/quando-berlusconi-nel-2008-propose-di-abolire-il-bollo-auto_44bdbd86-8856-4cc0-9dab-d8838a4cde3f.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 16 Sep 2026 19:25:53 +0200",
-      "excerpt": "La proposta rilanciata nel 2017. Un anno prima anche Renzi non lo aveva escluso"
     },
     {
       "title": "Scamarcio: \"I figli della scimmia è un film pieno di amore\"",
