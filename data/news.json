@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-09-17T03:39:59.720Z",
+  "lastUpdated": "2026-09-17T04:08:09.144Z",
   "finanza": {
     "italia": [
       {
-        "title": "OpenAi segnala nuove anomalie: “Sei casi di comportamento preoccupante dei modelli Ia’’",
+        "title": "OpenAI segnala nuove anomalie: “Sei casi di comportamento preoccupante dei modelli”",
         "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Thu, 17 Sep 2026 05:36:59 +0200",
-        "excerpt": "La startup californiana si è impegnata ad adottare nuovi sistemi di segnalazione per errori simili"
+        "pubDate": "Thu, 17 Sep 2026 06:03:15 +0200",
+        "excerpt": "La startup californiana si è impegnata anche ad adottare sistemi di segnalazione per errori simili"
       },
       {
         "title": "Tfr, le tasse non si alzano: le regole per il prelievo sul trattamento di fine rapporto",
@@ -232,6 +232,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Lula andrà all'Onu per dire a Trump di \"non interferire\" nelle elezioni in Brasile",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-andra-allonu-per-dire-a-trump-di-non-interferire-nelle-elezioni_98b15040-07d8-4cab-b145-eb5f2b6d3f5f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 05:50:36 +0200",
+        "excerpt": "Ma al momento non è previsto un vertice tra i due capi di Stato"
+      },
+      {
+        "title": "Lula andrà all'Onu per dire a Trump di \"non interferire\" nelle elezioni in Brasile",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/lula-andra-allonu-per-dire-a-trump-di-non-interferire-nelle-elezioni_0fe0f02a-6fb0-4de3-a697-9732557bb311.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 17 Sep 2026 05:50:34 +0200",
+        "excerpt": "Ma al momento non è previsto un vertice tra i due capi di Stato"
+      },
+      {
         "title": "Cuba lancia un programma radio per dialogare sui problemi dell'isola",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/cuba-lancia-un-programma-radio-per-dialogare-sui-problemi-dellisola_aab04615-b645-49a4-ac28-b2f6be46bf67.html",
         "source": "ANSA Mondo",
@@ -272,20 +286,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 03:02:42 +0200",
         "excerpt": "Il tycoon ha posto come condizione l'aggiunta del suo nome per poter intervenire"
-      },
-      {
-        "title": "Ecuador, arrestato a Miami Xavier Jordan per il caso Villavicencio",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/ecuador-arrestato-a-miami-xavier-jordan-per-il-caso-villavicencio_9fb4888d-fe47-4050-85ed-92b4079392a2.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 02:59:41 +0200",
-        "excerpt": "L'imprenditore è indagato per l'omicidio del candidato alla presidenza nel 2023"
-      },
-      {
-        "title": "Congresso Usa approva il primo pacchetto di sanzioni sotto Trump contro la Russia",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/17/congresso-usa-approva-il-primo-pacchetto-di-sanzioni-sotto-trump-contro-la-russia_7d4f8f35-c018-4765-ad40-86872e534a85.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 02:07:28 +0200",
-        "excerpt": "Il via libera è arrivato dalla Camera, dopo quello dato a luglio dal Senato"
       },
       {
         "title": "Trump minaccia il taglio del commercio con l’Ue se il il Canada diventa membro associato",
@@ -347,6 +347,13 @@
   },
   "attualita": [
     {
+      "title": "OpenAI segnala nuove anomalie: “Sei casi di comportamento preoccupante dei modelli Ia’’",
+      "link": "https://www.repubblica.it/economia/2026/09/17/news/openai_segnala_nuove_anomalie_sei_casi_di_comportamento_preoccupante_dei_modelli_ia_-425589853/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 17 Sep 2026 02:38:06 +0000",
+      "excerpt": "La startup californiana si è impegnata ad adottare nuovi sistemi di segnalazione per errori simili"
+    },
+    {
       "title": "OpenAI: 'Sei nuovi casi di comportamento preoccupante dei modelli IA'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/openai-sei-nuovi-casi-di-comportamento-preoccupante-dei-modelli-ia_470f9247-10ae-4861-91d5-dd8f991a198c.html",
       "source": "ANSA",
@@ -401,13 +408,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
       "excerpt": "Il rallentamento, iniziato già nel 2025, prosegue nella prima metà di quest’anno: l’energia pulita è aumentata di appena 3,4 Gigawatt"
-    },
-    {
-      "title": "L’Etruria divisa sui pannelli solari, Montalto si riconverte: “Ma ora tocca agli altri”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/17/news/rinnovabili_etruria_pannelli_montalto_si_riconverte_paesaggio_scempio-425589700/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 16 Sep 2026 23:00:00 +0000",
-      "excerpt": "L’ex Comune nucleare è il primo per potenza verde, per molti, però, serve una programmazione: “Il paesaggio è rovinato”"
     },
     {
       "title": "Mossa di Meloni, addio al bollo per le auto piccole e medie",
