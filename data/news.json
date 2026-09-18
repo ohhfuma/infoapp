@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-18T06:42:08.630Z",
+  "lastUpdated": "2026-09-18T07:08:20.544Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Gas: future risalgono a 77,3 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/gas-future-risalgono-a-773-euro_d44006ab-ebe1-4696-968d-7881e520b5ef.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 08:57:07 +0200",
+        "excerpt": "Ttf in rialzo dell'1,2%"
+      },
+      {
+        "title": "Lo spread Btp-Bund a 86,6 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/lo-spread-btp-bund-a-866-punti_9c67a59a-2518-4e54-9792-b4eee7b0079b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 08:48:32 +0200",
+        "excerpt": "Il rendimento italiano al 4,34% e quello tedesco al 3,47%"
+      },
+      {
+        "title": "Borsa: Asia in rialzo con lo yen che si indebolisce",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-asia-in-rialzo-con-lo-yen-che-si-indebolisce_0d05dccc-1e90-409d-b829-6e6f75e8be2d.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 08:40:58 +0200",
+        "excerpt": "Future sull'Europa in calo, occhi alle 'tre streghe'"
+      },
       {
         "title": "Revolut, i primi accertamenti non confermano il furto di 147 gigabyte di dati al Viminale",
         "link": "https://www.ilsole24ore.com/art/revolut-primi-accertamenti-non-confermano-furto-147-gigabyte-dati-viminale-AJcNmXGB",
@@ -115,13 +136,6 @@
         "excerpt": "I numeri del Mit sono diversi da quelli di Palazzo Chigi: mercoledì si parlava di 14,5 milioni di vetture interessate"
       },
       {
-        "title": "Decreto bollo auto in Gazzetta, 1,698 miliardi da economie su Pnrr",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/decreto-bollo-auto-in-gazzetta-1698-miliardi-da-economie-su-pnrr_d71d0d4a-174c-4ba1-838f-f2f301cb3e49.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 22:43:00 +0200",
-        "excerpt": "Valgono 200 milioni nel 2026, 1.460 milioni nel 2027, 38 milioni nel 2028"
-      },
-      {
         "title": "«Liberi di scegliere è un precedente a livello mondiale». Così bambini e donne fuoriescono dai contesti mafiosi",
         "link": "https://www.ilsole24ore.com/art/liberi-scegliere-e-precedente-livello-mondiale-cosi-bambini-e-donne-fuoriescono-contesti-mafiosi-AJaoicGB",
         "source": "Il Sole 24 Ore",
@@ -150,30 +164,16 @@
         "excerpt": "«Nelle prossime settimane» il governo presenterà il testo unico sulle start up e sulle imprese innovative, insieme a quello che il ministro delle Imprese e del Made in Italy, Adolfo..."
       },
       {
-        "title": "Stop al bollo auto, ecco i modelli esenti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/stop-al-bollo-auto-ecco-i-modelli-esenti_b08edbee-80f7-4e57-abc3-496e0466dda6.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 19:40:40 +0200",
-        "excerpt": "Ma rimangono da chiarire alcuni punti per stilare una lista definitiva"
-      },
-      {
         "title": "Decreto su accise e bollo auto pubblicato in Gazzetta, scatta venerdì",
         "link": "https://www.ilsole24ore.com/art/stop-bollo-auto-mattarella-firma-decreto-AJPF5VGB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 17 Sep 2026 17:39:00 GMT",
         "excerpt": "È stato pubblicato in Gazzetta Ufficiale ed entra in vigore da domani 18 settembre il decreto che contiene il nuovo sconto sulle accise del gasolio e lo stop per il..."
-      },
-      {
-        "title": "Camilli (Confindustria), sbloccare il risparmio in investimenti con misure in manovra",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/camilli-confindustria-sbloccare-il-risparmio-in-investimenti-con-misure-in-manovra_d16a15fd-c8ed-4048-969c-c08a66018dd5.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 19:05:17 +0200",
-        "excerpt": "25 miliardi da 1% risparmi famiglie e 2,5% risorse degli enti di previdenza"
       }
     ],
     "europa": [
       {
-        "title": "«Pentagono valuta di ritirare 25.000 soldati dall’Europa»",
+        "title": "«Pentagono considera di ritirare 25.000 soldati dall’Europa»",
         "link": "https://www.ilsole24ore.com/art/pentagono-valuta-ritirare-25000-soldati-dall-europa-AJFDSwGB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 18 Sep 2026 05:34:00 GMT",
@@ -232,6 +232,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Tunisia, società civile in piazza per liberazione attivisti della Flotilla Soumoud",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/tunisia-societa-civile-in-piazza-per-liberazione-attivisti-della-flotilla-soumoud_117275cb-35b3-4a2b-ad01-16cbd6a52c38.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 08:56:23 +0200",
+        "excerpt": "Domani il corteo a Tunisi, i quattro detenuti sono in sciopero della fame"
+      },
+      {
         "title": "Nyt, Trump valuta accordi commerciali con Putin prima della fine della guerra",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_3e9673b9-5c3f-46d0-b7d4-c661d2abdb97.html",
         "source": "ANSA Mondo",
@@ -286,13 +293,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 18 Sep 2026 03:15:43 +0200",
         "excerpt": "La presidente respinge le critiche e ribadisce 'Washington fermi il traffico di armi'"
-      },
-      {
-        "title": "Il Congresso boliviano estende lo stato di eccezione",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/il-congresso-boliviano-estende-lo-stato-di-eccezione_7349ef21-5c89-4cb7-baf2-ed80d69bad74.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 02:55:35 +0200",
-        "excerpt": "Approvata la proroga di 90 giorni per evitare nuove proteste"
       },
       {
         "title": "Re Carlo avverte i vertici big tech: “Non perdete il controllo dell’IA”",
