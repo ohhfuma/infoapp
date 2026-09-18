@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-18T15:07:42.271Z",
+  "lastUpdated": "2026-09-18T15:38:32.455Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Inps: controlli su assegno unico, rischio revisione importi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/inps-controlli-su-assegno-unico-rischio-revisione-importi_35010935-d1c4-4c0d-b996-1a0858191cb3.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 17:12:09 +0200",
+        "excerpt": "L'Istituto informa gli utenti sulle verifiche sulle DSU che presentano incongruenze"
+      },
+      {
+        "title": "Sanità, un euro in più sul ticket delle visite specialistiche. E aumenta il costo di 450 prestazioni",
+        "link": "https://www.repubblica.it/economia/2026/09/18/news/sanita_ticket_visite_specialistiche_aumenta_costo_450_prestazioni_regioni-425593565/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 17:10:22 +0200",
+        "excerpt": "La novità riguarda soprattutto le Regioni, che pagheranno di più le prestazioni dei privati convenzionati. Ecco cosa cambia"
+      },
       {
         "title": "Ultimi posti per visitare gli impianti Sogin e Nucleco nel Centro Casaccia",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/ultimi-posti-per-visitare-gli-impianti-sogin-e-nucleco-nel-centro_a14f3d74-ac5c-46d3-ae1d-cf55b423de02.html",
@@ -57,13 +71,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 18 Sep 2026 15:59:45 +0200",
         "excerpt": "L'annuncio alla presenza del ministro Urso e del presidente Cirio"
-      },
-      {
-        "title": "Inps: controlli su assegno unico, rischio revisione importi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/inps-controlli-su-assegno-unico-rischio-revisione-importi_35010935-d1c4-4c0d-b996-1a0858191cb3.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 15:59:23 +0200",
-        "excerpt": "L'Istituto informa gli utenti sulle verifiche sulle DSU che presentano incongruenze"
       },
       {
         "title": "Apple, sciopero degli store italiani nel giorno del lancio dell’iPhone 18",
@@ -141,13 +148,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 12:20:48 +0200",
         "excerpt": "Secondo McKinsey, scorte, oleodotti alternativi e calo della domanda hanno finora assorbito gran parte dello shock. Ma più la crisi si prolunga, più servono interventi strutturali per ridurre la vulnerabilità delle forni"
-      },
-      {
-        "title": "Nella battaglia del mais l’Italia cede alle superpotenze",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/nella_battaglia_del_mais_l_italia_cede_alle_superpotenze-425592811/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 12:17:20 +0200",
-        "excerpt": "La produzione arretra in tutta Europa. Con l’Ucraina bloccata, Usa e Brasile la fanno da padroni. Il peso di tecnologie e fertilizzanti"
       },
       {
         "title": "Violenza a scuola, a Roma 13enne accoltella insegnante. Valditara chiama la preside",
@@ -232,6 +232,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "La fregata Bergamini scorta un mercantile italiano a Bab el-Mandeb",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 17:13:15 +0200",
+        "excerpt": "La Marina: 'Nell'ambito dell'operazione Aspides, segnale concreto, arrivato con ottimo tempismo'"
+      },
+      {
         "title": "Addio a Margarita Papandreou, pioniera dei diritti delle donne in Grecia",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/addio-a-margarita-papandreou-pioniera-dei-diritti-delle-donne-in-grecia_2d1ec2e9-b4a3-428c-99d3-2ca1c3e91154.html",
         "source": "ANSA Mondo",
@@ -251,13 +258,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 18 Sep 2026 16:29:55 +0200",
         "excerpt": "Erede al trono Gb presenta finalisti Earthshot Prize e rilancia sua battaglia per ambiente"
-      },
-      {
-        "title": "La fregata Bergamini scorta un mercantile italiano a Bab el-Mandeb",
-        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 16:14:50 +0200",
-        "excerpt": "La Marina: 'Nell'ambito dell'operazione Aspides, segnale concreto, arrivato con ottimo tempismo'"
       },
       {
         "title": "Australia, stretta sui visti: per i backpacker c’è la lotteria. Timori per la carenza di manodopera",
@@ -347,6 +347,34 @@
   },
   "attualita": [
     {
+      "title": "Macron avverte: 'Gli attacchi ibridi russi non resteranno senza risposta'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/macron-serve-piano-per-proteggere-infrastrutture-critiche-da-attacchi-ibridi-russi_ed3e6373-9e89-4972-8f17-40a2bc553c98.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 17:13:54 +0200",
+      "excerpt": "'Sarebbe un errore se Mosca continuasse ad agire in questo modo con gli europei'"
+    },
+    {
+      "title": "La fregata Bergamini scorta un mercantile italiano a Bab el-Mandeb",
+      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 17:13:15 +0200",
+      "excerpt": "La Marina: 'Nell'ambito dell'operazione Aspides, segnale concreto, arrivato con ottimo tempismo'"
+    },
+    {
+      "title": "La professoressa accoltellata: “Vorrei incontrare il ragazzo che mi ha aggredito e abbracciarlo”",
+      "link": "https://www.repubblica.it/cronaca/2026/09/18/news/intervista_professoressa_accoltellata_incontrarlo_abbracciarlo-425593558/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 15:05:45 +0000",
+      "excerpt": "Intervista a Isabella Marsilio: “Mi ha salvato uno studente del Congo, ma le mie idee sulla remigrazione non cambiano. Il mio aggressore era un alunno inquieto. A scatenarlo un test per recuperare un debito. Ora mi dispi"
+    },
+    {
+      "title": "Mar Rosso, lettera di Crosetto a Kallas: servono sei navi Ue per lo Stretto, paghi l’Europa",
+      "link": "https://www.repubblica.it/politica/2026/09/18/news/crosetto_lettera_kallas_navi_ue_mar_rosso-425593529/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 14:51:25 +0000",
+      "excerpt": "Governo in pressing. Il ministro della Difesa scrive all’Alto rappresentante: rafforzare la missione continentale Aspides, altrimenti l’Italia fornirà più imbarcazioni ma i costi siano divisi"
+    },
+    {
       "title": "Sciopero negli Apple Store italiani nel giorno dei nuovi iPhone",
       "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/09/15/apple-sciopero-nazionale-personale-negozi-il-18-settembre-contro-precariato_fa662a39-3d76-4f03-af25-366958d87955.html",
       "source": "ANSA",
@@ -359,20 +387,6 @@
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 16:33:05 +0200",
       "excerpt": "Il ragazzo tentava di filmare l'aggressione, a fermarlo un compagno di scuola. La docente di lettere è all'ultimo anno di lavoro prima della pensione"
-    },
-    {
-      "title": "Macron avverte: 'Gli attacchi ibridi russi non resteranno senza risposta'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/macron-serve-piano-per-proteggere-infrastrutture-critiche-da-attacchi-ibridi-russi_ed3e6373-9e89-4972-8f17-40a2bc553c98.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 16:19:43 +0200",
-      "excerpt": "'Sarebbe un errore se Mosca continuasse ad agire in questo modo con gli europei'"
-    },
-    {
-      "title": "La fregata Bergamini scorta un mercantile italiano a Bab el-Mandeb",
-      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 16:14:50 +0200",
-      "excerpt": "La Marina: 'Nell'ambito dell'operazione Aspides, segnale concreto, arrivato con ottimo tempismo'"
     },
     {
       "title": "Australia, stretta sui visti: per i backpacker c’è la lotteria. Timori per la carenza di manodopera",
@@ -436,20 +450,6 @@
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 11:19:26 +0000",
       "excerpt": "Con un decreto del Cremlino le attività dei due colossi e di altri due gruppi francesi passano sotto la gestione di una controllata del governo"
-    },
-    {
-      "title": "Energia, Fratoianni a Schlein: “Con Meloni c’è poco da collaborare”. L’apertura di Tajani",
-      "link": "https://www.repubblica.it/politica/2026/09/18/news/reazioni_schlein_fratoianni_meloni_tajani_patto_energia_gas-425592917/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 10:47:08 +0000",
-      "excerpt": "Le reazioni alla lettera della segretaria del Pd. Calenda: “Ha fatto bene”"
-    },
-    {
-      "title": "Ecologisti e nazionalisti, rivoluzionari e conservatori. Contro Vucic gli studenti candidano tutti",
-      "link": "https://www.repubblica.it/esteri/2026/09/18/news/elezioni_serbia_vucic_movimento_studenti_candidati_lista-425592824/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 10:20:16 +0000",
-      "excerpt": "Estremamente eterogeneo, il movimento che da due anni è spina nel fianco del presidente serbo presenta la sua lista. Ma fra i 250 candidati ci sono personaggi agli antipodi. E così rischiano di deragliare"
     },
     {
       "title": "In Giappone i centenari sono più di 100mila, il numero più alto al mondo",
@@ -517,6 +517,27 @@
   ],
   "sport": [
     {
+      "title": "Serie A: Monza-Sassuolo in campo alle 20.45 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-monza-sassuolo-in-campo-alle-20.45-diretta_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 17:27:10 +0200",
+      "excerpt": "La società allunga il contratto a Cinquegrano fino al 2032"
+    },
+    {
+      "title": "Serie A: Roma-Inter in campo alle 18 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-roma-inter-in-campo-alle-18-diretta_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 17:14:42 +0200",
+      "excerpt": "E il tecnico giallorosso punta ancora sui titolari con Dybala e Malen"
+    },
+    {
+      "title": "Calcio: la Russia giocherà il Mondiale U15, c'è l'ok della Fifa",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/calcio-la-russia-giochera-il-mondiale-u15-ce-lok-della-fifa_31d46b97-b0ed-4449-b7b0-83b8cb53cb76.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 16:59:48 +0200",
+      "excerpt": "Ad ottobre il primo torneo dopo lo stop per l'invasione dell'Ucraina"
+    },
+    {
       "title": "Frosinone; Monterisi, 'Como forte ma sappiamo cosa dobbiamo fare'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/frosinone-monterisi-como-forte-ma-sappiamo-cosa-dobbiamo-fare_a16575d6-66fe-4050-b634-b38b963e6302.html",
       "source": "ANSA Sport",
@@ -538,13 +559,6 @@
       "excerpt": "Il tecnico del Como non pensa al primo posto: \"A Frosinone sarà molto dura\""
     },
     {
-      "title": "Calcio: la Russia giocherà il Mondiale U15, c'è l'ok della Fifa",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/calcio-la-russia-giochera-il-mondiale-u15-ce-lok-della-fifa_31d46b97-b0ed-4449-b7b0-83b8cb53cb76.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 15:54:01 +0200",
-      "excerpt": "Ad ottobre primo torneo dopo lo stop per l'invasione dell'Ucraina"
-    },
-    {
       "title": "Nations League: Cristiano Ronaldo ci sarà ancora, convocato dal Portogallo",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/nations-league-cristiano-ronaldo-ci-sara-ancora-convocato-dal-portogallo_9e4cb066-1e24-4d6e-8787-179090c687fe.html",
       "source": "ANSA Sport",
@@ -557,20 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Fri, 18 Sep 2026 15:15:57 +0200",
       "excerpt": "Il brand globale affiancherà il percorso di sviluppo del club"
-    },
-    {
-      "title": "'Gol e momenti indimenticabili', l'Inter celebra i 50 anni di Ronaldo",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/gol-e-momenti-indimenticabili-linter-celebra-i-50-anni-di-ronaldo_128817bd-7a07-4485-984a-bcadda781fbb.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 14:45:12 +0200",
-      "excerpt": "Compleanno tondo per il 'Fenomeno': in nerazzurro 59 reti in 99 partite"
-    },
-    {
-      "title": "Mondiali donne U20: c'è la Corea del Sud, azzurrine a caccia della semifinale",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/mondiali-donne-u20-ce-la-corea-del-sud-azzurrine-a-caccia-della-semifinale_b4f7295f-30b4-4d51-aaf4-c5c499613faa.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 14:37:17 +0200",
-      "excerpt": "Domani il match dei quarti per l'Italia allenata da Matteucci"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Sanità, un euro in più sul ticket delle visite specialistiche. E aumenta il costo di 450 prestazioni",
+        "link": "https://www.repubblica.it/economia/2026/09/18/news/sanita_ticket_visite_specialistiche_aumenta_costo_450_prestazioni_regioni-425593565/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 17:10:22 +0200",
+        "excerpt": "La novità riguarda soprattutto le Regioni, che pagheranno di più le prestazioni dei privati convenzionati. Ecco cosa cambia"
+      },
+      {
         "title": "Ultimi posti per visitare gli impianti Sogin e Nucleco nel Centro Casaccia",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/ultimi-posti-per-visitare-gli-impianti-sogin-e-nucleco-nel-centro_a14f3d74-ac5c-46d3-ae1d-cf55b423de02.html",
         "source": "ANSA Economia",
@@ -415,13 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 18 Sep 2026 09:12:58 +0200",
         "excerpt": "Tra i peggiori Eni e Inwit. Deboli le banche, Mps -0,4%, Generali -0,7%"
-      },
-      {
-        "title": "Gas: future risalgono a 77,3 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/gas-future-risalgono-a-773-euro_d44006ab-ebe1-4696-968d-7881e520b5ef.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 08:57:07 +0200",
-        "excerpt": "Ttf in rialzo dell'1,2%"
       }
     ],
     "europa": [
@@ -929,6 +929,20 @@
   },
   "attualita": [
     {
+      "title": "La professoressa accoltellata: “Vorrei incontrare il ragazzo che mi ha aggredito e abbracciarlo”",
+      "link": "https://www.repubblica.it/cronaca/2026/09/18/news/intervista_professoressa_accoltellata_incontrarlo_abbracciarlo-425593558/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 15:05:45 +0000",
+      "excerpt": "Intervista a Isabella Marsilio: “Mi ha salvato uno studente del Congo, ma le mie idee sulla remigrazione non cambiano. Il mio aggressore era un alunno inquieto. A scatenarlo un test per recuperare un debito. Ora mi dispi"
+    },
+    {
+      "title": "Mar Rosso, lettera di Crosetto a Kallas: servono sei navi Ue per lo Stretto, paghi l’Europa",
+      "link": "https://www.repubblica.it/politica/2026/09/18/news/crosetto_lettera_kallas_navi_ue_mar_rosso-425593529/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 14:51:25 +0000",
+      "excerpt": "Governo in pressing. Il ministro della Difesa scrive all’Alto rappresentante: rafforzare la missione continentale Aspides, altrimenti l’Italia fornirà più imbarcazioni ma i costi siano divisi"
+    },
+    {
       "title": "Sciopero negli Apple Store italiani nel giorno dei nuovi iPhone",
       "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/09/15/apple-sciopero-nazionale-personale-negozi-il-18-settembre-contro-precariato_fa662a39-3d76-4f03-af25-366958d87955.html",
       "source": "ANSA",
@@ -1333,23 +1347,23 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
       "excerpt": "Ad agosto vendite ai massimi da 15 anni, nuovo balzo anche per il gasolio. Da oggi sconti ridotti a 12,2 centesimi"
-    },
-    {
-      "title": "Fertitta: “Trump e Meloni torneranno a parlarsi, l’Italia è un Paese amico”",
-      "link": "https://www.repubblica.it/esteri/2026/09/18/news/intervista_ambasciatore_usa_fertitta_trump_meloni_torneranno_a_parlarsi_italia_paese_amico-425591872/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
-      "excerpt": "L’ambasciatore degli Stati Uniti in Italia: “Non ho mai conosciuto Vannacci, lavoro con l’attuale governo. Gli Usa potrebbero spostare parte delle truppe in altre nazioni”"
-    },
-    {
-      "title": "Il pesce rosso di Meloni: la vignetta di Ellekappa",
-      "link": "https://www.repubblica.it/politica/2026/09/18/news/pesce_rosso_meloni_vignetta_ellekappa-425591800/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 22:01:00 +0000",
-      "excerpt": ""
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: Monza-Sassuolo in campo alle 20.45 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-monza-sassuolo-in-campo-alle-20.45-diretta_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 17:27:10 +0200",
+      "excerpt": "La società allunga il contratto a Cinquegrano fino al 2032"
+    },
+    {
+      "title": "Serie A: Roma-Inter in campo alle 18 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-roma-inter-in-campo-alle-18-diretta_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 17:14:42 +0200",
+      "excerpt": "E il tecnico giallorosso punta ancora sui titolari con Dybala e Malen"
+    },
     {
       "title": "Frosinone; Monterisi, 'Como forte ma sappiamo cosa dobbiamo fare'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/frosinone-monterisi-como-forte-ma-sappiamo-cosa-dobbiamo-fare_a16575d6-66fe-4050-b634-b38b963e6302.html",
