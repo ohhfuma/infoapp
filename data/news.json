@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-18T03:08:00.695Z",
+  "lastUpdated": "2026-09-18T03:38:54.529Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Bank of Japan alza i tassi all'1,25%, ai massimi dal 1995",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/bank-of-japan-alza-i-tassi-all125-ai-massimi-dal-1995_773cd2e6-1864-41e8-ba4d-d1785af6c607.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 05:06:21 +0200",
+        "excerpt": "L'istituto centrale risponde a inflazione, yen debole e pressioni Usa"
+      },
       {
         "title": "Manager di Microsoft: “L’addestramento dell'Ia è il più grande furto di lavoro della storia”",
         "link": "https://www.repubblica.it/economia/2026/09/18/news/microsoft_openai_new_york_times_copyright_causa_addestramento_ia-425592023/?rss",
@@ -162,16 +169,16 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 17:51:58 +0200",
         "excerpt": "Londra sale dell'1,2%, Francoforte dello 0,7% e Parigi dello 0,6%"
-      },
-      {
-        "title": "Borsa: Milano chiude in rialzo (+0,8%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/borsa-milano-chiude-in-rialzo-08_a0bcd5be-5108-49a2-a0c7-d64666f299fc.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 17:42:23 +0200",
-        "excerpt": "L'indice Ftse Mib termina le contrattazioni a 52.385 punti"
       }
     ],
     "europa": [
+      {
+        "title": "La Bank of Japan alza i tassi all’1,25%, il livello più alto da 31 anni",
+        "link": "https://www.ilsole24ore.com/art/la-bank-of-japan-alza-tassi-all-125percento-livello-piu-alto-31-anni-AJXFzkGB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Fri, 18 Sep 2026 03:21:00 GMT",
+        "excerpt": "Il rialzo, ampiamente atteso, di 25 punti base è stato deciso a maggioranza con due dei nove membri del board in dissenso"
+      },
       {
         "title": "Vola il diesel negli Usa, prezzi al record di 6,39 dollari al gallone",
         "link": "https://www.ilsole24ore.com/art/vola-diesel-usa-prezzi-record-639-dollari-gallone-AJQEsgGB",
@@ -220,17 +227,17 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 17 Sep 2026 08:29:00 GMT",
         "excerpt": "STRASBURGO – La Commissione europea ha ufficializzato oggi, giovedì 17 settembre, la proposta di introdurre limiti all’uso delle reti sociali da parte dei più giovani. Come anticipato mercoledì dalla presidente..."
-      },
-      {
-        "title": "Jet militari russi violano spazio aereo Lituania, intervengono i caccia italiani",
-        "link": "https://www.ilsole24ore.com/art/ucraina-almeno-12-feriti-raid-russo-kiev-colpita-raffineria-russia-AJBqYmFB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Thu, 17 Sep 2026 07:11:00 GMT",
-        "excerpt": "I velivoli sono decollati nel tardo pomeriggio da Šiauliai, in Lituania, in modalità scramble, nell’ambito della missione Nato di difesa aerea sul fianco orientale dell’Alleanza"
       }
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Bank of Japan alza i tassi all'1,25%, ai massimi dal 1995",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/18/bank-of-japan-alza-i-tassi-all125-ai-massimi-dal-1995_5bb9fc03-5c37-4f91-86b5-9da7a55cd7b5.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 05:06:37 +0200",
+        "excerpt": "L'istituto centrale risponde a inflazione, yen debole e pressioni Usa"
+      },
       {
         "title": "Presidente Lee, Trump vuole 'chiaramente' un dialogo con la Corea del Nord",
         "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/18/presidente-lee-trump-vuole-chiaramente-un-dialogo-con-la-corea-del-nord_ff965778-3b16-43d9-9f61-d0dc416c4b5c.html",
@@ -279,13 +286,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 18 Sep 2026 01:46:55 +0200",
         "excerpt": "Ricardo Iglesias contesta le perizie, 'nessuna patologia rilevabile'"
-      },
-      {
-        "title": "Venezuela, Machado denuncia l'arresto di ex sindaco Oropeza appena rientrato da esilio",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/venezuela-machado-denuncia-larresto-di-ex-sindaco-oropeza-appena-rientrato-da-esilio_e17c82d2-848a-476a-9b85-5c767f90702a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 01:22:24 +0200",
-        "excerpt": "La Nobel per la Pace e leader d'opposizione, 'il regime l'ha sequestrato arbitrariamente'"
       },
       {
         "title": "Re Carlo avverte i vertici big tech: “Non perdete il controllo dell’IA”",
@@ -347,6 +347,13 @@
   },
   "attualita": [
     {
+      "title": "Smart working addio? Quando l'azienda è obbligata a dire sì",
+      "link": "https://www.repubblica.it/economia/diritti-e-consumi/lavoro/2026/09/18/news/smart_working_addio_azienda_obbligata-425591636/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 03:00:00 +0000",
+      "excerpt": "Dal caso di Beatrice Baratto, che si è dimessa dopo essersi vista negare lavoro agile e part-time, alla stretta crescente delle aziende. Ecco tutte le risposte su un tema che genera molta confusione, soprattutto dopo la "
+    },
+    {
       "title": "Lo stupore di Schlein per il fuoco amico: “Nessuna trattativa”",
       "link": "https://www.repubblica.it/politica/2026/09/18/news/schlein_stupore_fuoco_amico_nessuna_trattativa_meloni-425591940/",
       "source": "Repubblica",
@@ -394,13 +401,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
       "excerpt": "Ad agosto vendite ai massimi da 15 anni, nuovo balzo anche per il gasolio. Da oggi sconti ridotti a 12,2 centesimi"
-    },
-    {
-      "title": "Fertitta: “Trump e Meloni torneranno a parlarsi, l’Italia è un Paese amico”",
-      "link": "https://www.repubblica.it/esteri/2026/09/18/news/intervista_ambasciatore_usa_fertitta_trump_meloni_torneranno_a_parlarsi_italia_paese_amico-425591872/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
-      "excerpt": "L’ambasciatore degli Stati Uniti in Italia: “Non ho mai conosciuto Vannacci, lavoro con l’attuale governo. Gli Usa potrebbero spostare parte delle truppe in altre nazioni”"
     },
     {
       "title": "Europa League: riscatto Juve con goleada, Nec travolto 5-0",
