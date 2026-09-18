@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "La cortina contro l’inflazione si alza anche in Giappone: tassi ai massimi da 31 anni dopo Fed e Bce",
+        "link": "https://www.repubblica.it/economia/2026/09/18/news/inflazione_cortina_tassi_giappone_fed_bce-425592575/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 10:50:48 +0200",
+        "excerpt": "Dagli Stati Uniti a Sol Levante, le banche centrali corrono ai ripari per contenere la corsa dei prezzi alimentata dalle tensioni in Medio Oriente"
+      },
+      {
         "title": "Attacchi a base aerea in Arabia, Crosetto: colpito Eurofighter italiano",
         "link": "https://www.ilsole24ore.com/art/attacchi-base-aerea-arabia-crosetto-colpito-eurofighter-italiano-AJPaJ5GB",
         "source": "Il Sole 24 Ore",
@@ -492,6 +499,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Rivelazioni del fratello di Diana non risparmiano Elisabetta, reali in imbarazzo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/rivelazioni-fratello-di-diana-non-risparmiano-elisabetta-reali-in-imbarazzo_2856effa-cb9d-4d67-9bb5-404f4e99439e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 11:04:29 +0200",
+        "excerpt": "'Libro-bomba' del conte Spencer continua a dominare i tabloid. Re Carlo sotto tiro"
+      },
+      {
+        "title": "Tensione tra polizia e migranti durante il trasferimento al porto di Ceuta",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/tensione-tra-polizia-e-migranti-durante-il-trasferimento-al-porto-di-ceuta_b22ebf72-fee5-4967-8fd2-68a00ee187fb.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 10:48:24 +0200",
+        "excerpt": "Gli agenti sparano in aria e intervengono con i manganelli"
+      },
+      {
         "title": "L’allarme dell’Fbi: online falsi profili di donne conservatrici per adescare gli agenti dell’Ice",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/usa_allarme_fbi_online_falsi_profili_donne_conservatrici_adescare_agenti_ice-425592492/?rss",
         "source": "Repubblica Esteri",
@@ -788,6 +809,20 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Tensioni a presidio anti-Vannacci, uova contro forze dell'ordine",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/vannacci-a-torino-presidio-degli-antifascisti-davanti-ad-albergo-del-centro_ddd4008a-0a98-4fdc-9ee8-deee4675909e.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 10:53:53 +0200",
+      "excerpt": "Con manifestanti dei centri sociali che sono poi partiti in corteo"
+    },
+    {
+      "title": "Roma, studente di 13 anni accoltella la professoressa in classe e spruzza lo spray urticante",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/18/news/roma_studente_di_13_anni_accoltella_la_professoressa_in_classe_e_spruzza_lo_spray_urticante-425592557/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 08:47:49 +0000",
+      "excerpt": "È successo in nella scuola media Verga in zona Collatina"
+    },
     {
       "title": "Attacchi a una base aerea in Arabia, colpito Eurofighter italiano",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/attacchi-a-una-base-aerea-in-arabia-colpito-eurofighter-italiano_93788f9c-1612-4c9a-9f86-127f9d9c55d6.html",
@@ -1193,16 +1228,16 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 07:13:14 +0200",
       "excerpt": ""
-    },
-    {
-      "title": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-      "link": "https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 06:05:06 +0200",
-      "excerpt": ""
     }
   ],
   "sport": [
+    {
+      "title": "Calcio: Torino, Abate 'A Bologna cercheremo la vittoria'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/calcio-torino-abate-a-bologna-cercheremo-la-vittoria_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 10:45:25 +0200",
+      "excerpt": "Tecnico granata, \"Contro Perri ho letto cose che non mi sono piaciute\""
+    },
     {
       "title": "Eurovolley: Giannelli, 'bene aver sofferto, tutti hanno dato il loro apporto'",
       "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/18/eurovolley-giannelli-bene-aver-sofferto-tutti-hanno-dato-il-loro-apporto_12f3c7b9-35c7-468c-ab74-4dccb5facc2a.html",

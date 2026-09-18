@@ -1,19 +1,26 @@
 {
-  "lastUpdated": "2026-09-18T08:39:45.982Z",
+  "lastUpdated": "2026-09-18T09:07:49.408Z",
   "finanza": {
     "italia": [
+      {
+        "title": "La cortina contro l’inflazione si alza anche in Giappone: tassi ai massimi da 31 anni dopo Fed e Bce",
+        "link": "https://www.repubblica.it/economia/2026/09/18/news/inflazione_cortina_tassi_giappone_fed_bce-425592575/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 10:50:48 +0200",
+        "excerpt": "Dagli Stati Uniti a Sol Levante, le banche centrali corrono ai ripari per contenere la corsa dei prezzi alimentata dalle tensioni in Medio Oriente"
+      },
       {
         "title": "Attacchi a base aerea in Arabia, Crosetto: colpito Eurofighter italiano",
         "link": "https://www.ilsole24ore.com/art/attacchi-base-aerea-arabia-crosetto-colpito-eurofighter-italiano-AJPaJ5GB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 18 Sep 2026 08:37:50 GMT",
+        "pubDate": "Fri, 18 Sep 2026 08:37:00 GMT",
         "excerpt": "Il ministro della Difesa: «Non ci sono altri danni a mezzi o infrastrutture utilizzati dal nostro personale»"
       },
       {
-        "title": "Affitti brevi, da New York a Barcellona: ecco l’effetto dei divieti nelle città",
+        "title": "Affitti brevi, da New York a Barcellona: ecco l’effetto dei divieti nelle città ",
         "link": "https://www.ilsole24ore.com/art/affitti-brevi-new-york-barcellona-ecco-l-effetto-divieti-citta-AJru97EB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 18 Sep 2026 08:29:58 GMT",
+        "pubDate": "Fri, 18 Sep 2026 08:29:00 GMT",
         "excerpt": "Introdurre limitazioni agli affitti brevi o arrivare a vietarli può risolvere la crisi abitativa che affligge molte città con canoni alti e pochi appartamenti disponibili? È la domanda rilanciata dalla..."
       },
       {
@@ -157,13 +164,6 @@
         "excerpt": "Fdi vuole estenderlo a favore delle famiglie numerose, la Lega invece al superbollo. Gli enti locali temono di dover pagare parte della misura. La trattativa con il Tesoro"
       },
       {
-        "title": "De Pascale: “Gli italiani non si fanno comprare. Il bollo auto è solo propaganda”",
-        "link": "https://bologna.repubblica.it/cronaca/2026/09/18/news/bollo_auto_de_pascale_intervista-425591936/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il presidente dell’Emilia-Romagna: “La norma è finanziata a debito. C’è il rischio che alla fine i cittadini finiscano per pagare più della riduzione della tassa”"
-      },
-      {
         "title": "«Liberi di scegliere è un precedente a livello mondiale». Così bambini e donne fuoriescono dai contesti mafiosi",
         "link": "https://www.ilsole24ore.com/art/liberi-scegliere-e-precedente-livello-mondiale-cosi-bambini-e-donne-fuoriescono-contesti-mafiosi-AJaoicGB",
         "source": "Il Sole 24 Ore",
@@ -173,7 +173,7 @@
     ],
     "europa": [
       {
-        "title": "Guerra ultime notizie. Attacchi a base aerea in Arabia, colpito Eurofighter italiano",
+        "title": "Guerra ultime notizie. Gran Bretagna, centrata petroliera nello Stretto di Hormuz",
         "link": "https://www.ilsole24ore.com/art/pentagono-valuta-ritirare-25000-soldati-dall-europa-AJFDSwGB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 18 Sep 2026 05:34:00 GMT",
@@ -232,6 +232,27 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Rivelazioni del fratello di Diana non risparmiano Elisabetta, reali in imbarazzo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/rivelazioni-fratello-di-diana-non-risparmiano-elisabetta-reali-in-imbarazzo_2856effa-cb9d-4d67-9bb5-404f4e99439e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 11:04:29 +0200",
+        "excerpt": "'Libro-bomba' del conte Spencer continua a dominare i tabloid. Re Carlo sotto tiro"
+      },
+      {
+        "title": "Tensione tra polizia e migranti durante il trasferimento al porto di Ceuta",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/tensione-tra-polizia-e-migranti-durante-il-trasferimento-al-porto-di-ceuta_b22ebf72-fee5-4967-8fd2-68a00ee187fb.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 10:48:24 +0200",
+        "excerpt": "Gli agenti sparano in aria e intervengono con i manganelli"
+      },
+      {
+        "title": "Le nuove accuse nel libro del fratello di Lady Diana: “Carlo era euforico dopo la sua morte”",
+        "link": "https://www.repubblica.it/esteri/2026/09/18/news/regno_unito_accuse_libro_fratello_diana_carlo_euforico_dopo_morte-425592381/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Fri, 18 Sep 2026 10:48:01 +0200",
+        "excerpt": "Continuano le rivelazioni delle memorie del conte Spencer: “L’allora principe era felice come se avesse vinto alla lotteria e le disse di non amarla poco prima del matrimonio. Mia sorella voleva suicidarsi da una scoglie"
+      },
+      {
         "title": "L’allarme dell’Fbi: online falsi profili di donne conservatrici per adescare gli agenti dell’Ice",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/usa_allarme_fbi_online_falsi_profili_donne_conservatrici_adescare_agenti_ice-425592492/?rss",
         "source": "Repubblica Esteri",
@@ -251,13 +272,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 18 Sep 2026 10:19:32 +0200",
         "excerpt": "Tycoon attore marginale e raramente menzionato in campagna radio e tv dei repubblicani"
-      },
-      {
-        "title": "Regno Unito, nuove accuse nel libro del fratello di Diana: “Carlo era euforico dopo la sua morte”",
-        "link": "https://www.repubblica.it/esteri/2026/09/18/news/regno_unito_accuse_libro_fratello_diana_carlo_euforico_dopo_morte-425592381/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 18 Sep 2026 09:20:41 +0200",
-        "excerpt": "Le rivelazione nelle memorie del conte Spencer. Smentita di Buckingam Palace: “Sua Maestà è consapevole del fatto che il dolore possa offuscare la ragione e alterare i ricordi in modi che gli altri non riescono a compren"
       },
       {
         "title": "Tunisia, società civile in piazza per liberazione attivisti della Flotilla Soumoud",
@@ -293,20 +307,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 18 Sep 2026 05:06:37 +0200",
         "excerpt": "L'istituto centrale risponde a inflazione, yen debole e pressioni Usa"
-      },
-      {
-        "title": "Presidente Lee, Trump vuole 'chiaramente' un dialogo con la Corea del Nord",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/18/presidente-lee-trump-vuole-chiaramente-un-dialogo-con-la-corea-del-nord_ff965778-3b16-43d9-9f61-d0dc416c4b5c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 04:57:26 +0200",
-        "excerpt": "Corea del Sud al lavoro per favorire il dialogo, 'dobbiamo compiere ogni sforzo'"
-      },
-      {
-        "title": "Presidente Lee, Trump vuole 'chiaramente' un dialogo con la Corea del Nord",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/presidente-lee-trump-vuole-chiaramente-un-dialogo-con-la-corea-del-nord_9c14c97e-1795-4d87-89d2-a2a14c54598c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 04:57:10 +0200",
-        "excerpt": "Corea del Sud al lavoro per favorire il dialogo, 'dobbiamo compiere ogni sforzo'"
       },
       {
         "title": "Re Carlo avverte i vertici big tech: “Non perdete il controllo dell’IA”",
@@ -347,6 +347,20 @@
   },
   "attualita": [
     {
+      "title": "Tensioni a presidio anti-Vannacci, uova contro forze dell'ordine",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/vannacci-a-torino-presidio-degli-antifascisti-davanti-ad-albergo-del-centro_ddd4008a-0a98-4fdc-9ee8-deee4675909e.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 10:53:53 +0200",
+      "excerpt": "Con manifestanti dei centri sociali che sono poi partiti in corteo"
+    },
+    {
+      "title": "Roma, studente di 13 anni accoltella la professoressa in classe e spruzza lo spray urticante",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/18/news/roma_studente_di_13_anni_accoltella_la_professoressa_in_classe_e_spruzza_lo_spray_urticante-425592557/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 08:47:49 +0000",
+      "excerpt": "È successo in nella scuola media Verga in zona Collatina"
+    },
+    {
       "title": "Attacchi a una base aerea in Arabia, colpito Eurofighter italiano",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/attacchi-a-una-base-aerea-in-arabia-colpito-eurofighter-italiano_93788f9c-1612-4c9a-9f86-127f9d9c55d6.html",
       "source": "ANSA",
@@ -373,13 +387,6 @@
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 10:15:05 +0200",
       "excerpt": "Alimentazione sana e stile di vita attivo la ricetta della longevità giapponese"
-    },
-    {
-      "title": "Il Nyt: 'Trump valuta accordi commerciali con Putin prima della fine della guerra'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_8d407127-2c4e-4b8f-8dd8-0eac83dd896b.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 10:07:04 +0200",
-      "excerpt": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina"
     },
     {
       "title": "Gazebo, spille e bandiere: i soldi del merchandising di Fn alla fondazione della moglie di Vannacci",
@@ -410,6 +417,13 @@
       "excerpt": "Il sindaco di Napoli e presidente dell’Anci spiega perché i conti della differenziata non tornano più: “Costa meno importare dall’Asia. I Comuni perdono 350-400 milioni all’anno, al Ministero dell’Ambiente chiediamo ince"
     },
     {
+      "title": "Di Battista: “Sto molto meglio, finalmente sono a casa”",
+      "link": "https://www.repubblica.it/politica/2026/09/18/news/di_battista_esce_ospedale_post_instagram_sto_meglio-425592373/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 07:19:15 +0000",
+      "excerpt": "L’ex M5s pubblica una sua foto e ringrazia i medici del Gemelli e i suoi sostenitori per l'affetto"
+    },
+    {
       "title": "I 50 anni di Ronaldo, Fenomeno per sempre",
       "link": "https://www.repubblica.it/sport/calcio/2026/09/18/news/ronaldo_fenomeno_compleanno_50_anni-425592334/",
       "source": "Repubblica",
@@ -429,20 +443,6 @@
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 04:54:14 +0000",
       "excerpt": "I segreti dell’alimentazione: ogni giocatore ha la propria ricetta. Ma nessuna, da sola, fa diventare un campione"
-    },
-    {
-      "title": "Anthropic: “Il nostro chatbot Claude guida il 26% della nostra ricerca e sviluppo sull’Ia”",
-      "link": "https://www.repubblica.it/economia/2026/09/18/news/anthropic_il_nostro_chatbot_claude_guida_il_26_della_nostra_ricerca_e_sviluppo_sull_ia-425592124/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 03:40:41 +0000",
-      "excerpt": "L’azienda ha spiegato anche come lo stesso assistente virtuale stia anche lavorando alla sua versione futura"
-    },
-    {
-      "title": "Manager di Microsoft: “L’addestramento dell'Ia è il più grande furto di lavoro della storia”",
-      "link": "https://www.repubblica.it/economia/2026/09/18/news/microsoft_openai_new_york_times_copyright_causa_addestramento_ia-425592023/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 02:28:15 +0000",
-      "excerpt": "Le dichiarazioni sono contenute in alcuni documenti appena desecretati che riguardano la causa legale intentata dal New York Times per violazione del copyright"
     },
     {
       "title": "Siamo Serie: Etoile, Jovayork - La musica dell'anima, Xoftex",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Calcio: Torino, Abate 'A Bologna cercheremo la vittoria'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/calcio-torino-abate-a-bologna-cercheremo-la-vittoria_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 10:45:25 +0200",
+      "excerpt": "Tecnico granata, \"Contro Perri ho letto cose che non mi sono piaciute\""
+    },
+    {
       "title": "Eurovolley: Giannelli, 'bene aver sofferto, tutti hanno dato il loro apporto'",
       "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/18/eurovolley-giannelli-bene-aver-sofferto-tutti-hanno-dato-il-loro-apporto_12f3c7b9-35c7-468c-ab74-4dccb5facc2a.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 17 Sep 2026 22:36:59 +0200",
       "excerpt": "Nessun problema per la squadra di Maresca, a differenza dei cugini dello United"
-    },
-    {
-      "title": "Da Gualtieri a Cobolli, al Parioli la festa per i 120 anni del circolo",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/17/da-gualtieri-a-cobolli-al-parioli-la-festa-per-i-120-anni-del-circolo_b0055971-7f50-4a66-9598-2dbdb944fddd.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 17 Sep 2026 21:19:02 +0200",
-      "excerpt": "Sui campi del Tc romano sono cresciuti campioni come Pietrangeli e Panatta"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
