@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T04:08:09.959Z",
+  "lastUpdated": "2026-09-18T04:39:18.647Z",
   "finanza": {
     "italia": [
       {
@@ -177,7 +177,7 @@
         "link": "https://www.ilsole24ore.com/art/la-bank-of-japan-alza-tassi-all-125percento-livello-piu-alto-31-anni-AJXFzkGB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 18 Sep 2026 03:21:00 GMT",
-        "excerpt": "Il rialzo, ampiamente atteso, di 25 punti base è stato deciso a maggioranza con due dei nove membri del board in dissenso"
+        "excerpt": "Il rialzo di 25 punti base era atteso, ma il dissenso di due dei nove membri del board ha ulteriormente indebolito lo yen"
       },
       {
         "title": "Vola il diesel negli Usa, prezzi al record di 6,39 dollari al gallone",
@@ -231,6 +231,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Trump e la demolizione del Kennedy Center: le foto dal finestrino dell’Air force one",
+        "link": "https://www.repubblica.it/esteri/2026/09/18/news/trump_e_la_demolizione_del_kennedy_center_le_foto_dal_finestrino_dell_air_force_one-425592132/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Fri, 18 Sep 2026 06:32:51 +0200",
+        "excerpt": "Le immagini alimentano i timori sulla possibile demolizione del centro"
+      },
       {
         "title": "Bank of Japan alza i tassi all'1,25%, ai massimi dal 1995",
         "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/18/bank-of-japan-alza-i-tassi-all125-ai-massimi-dal-1995_5bb9fc03-5c37-4f91-86b5-9da7a55cd7b5.html",
@@ -335,13 +342,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
         "excerpt": "L’ex leader del partito liberale canadese: “La nostra società, il modello politico e le istituzioni si basano sugli stessi valori democratici”"
-      },
-      {
-        "title": "Sulle tv israeliane solo il 7 ottobre così Israele non si accorge di Gaza",
-        "link": "https://www.repubblica.it/esteri/2026/09/18/news/in_tv_solo_immagini_7_ottobre_perche_israele_non_vede_gaza-425591464/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
-        "excerpt": "Dopo l’attacco di Hamas le reti e molti quotidiani hanno sposato la narrativa del governo. E i civili palestinesi sono spariti dalla coscienza collettiva"
       }
     ]
   },
