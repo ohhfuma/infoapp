@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-18T20:07:52.414Z",
+  "lastUpdated": "2026-09-18T20:37:25.388Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Salvini alla prova di Pontida rilancia su pensioni e sicurezza",
+        "link": "https://www.ilsole24ore.com/art/salvini-prova-pontida-rilancia-pensioni-e-sicurezza-AJBoI8GB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 18 Sep 2026 20:30:52 GMT",
+        "excerpt": "Matteo Salvini punta ad arrivare domenica all’appuntamento di Pontida senza contestazioni e con i colori della Lega ben visibili dentro il governo. «Non passa lo straniero» è lo slogan scelto..."
+      },
       {
         "title": "Alzheimer, 600mila gli italiani colpiti: costa in totale 23 miliardi l’anno",
         "link": "https://www.ilsole24ore.com/art/alzheimer-600mila-italiani-colpiti-costa-totale-23-miliardi-l-anno-AJVmqmHB",
@@ -162,13 +169,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 18 Sep 2026 13:28:32 GMT",
         "excerpt": "Uno spicchio di Varchiglia – pasta frolla, frutta secca e cioccolato - preparata secondo un’antica ricetta delle monache Carmelitane Scalze. Una fetta di Torta Telesio – farina di lupini, mandorle..."
-      },
-      {
-        "title": "Tajani vede il ministro del Commercio turco Bolat: Italia secondo partner europeo, dietro alla Germania",
-        "link": "https://www.ilsole24ore.com/art/tajani-vede-ministro-commercio-turco-bolat-italia-secondo-partner-europeo-dietro-germania-AJOdXKHB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 18 Sep 2026 13:17:05 GMT",
-        "excerpt": "Al termine del colloquio, i due ministri hanno incontrato una selezione di imprese italiane con importanti interessi nel mercato turco, attive nei settori delle infrastrutture e trasporti, difesa e aerospazio, energia, t"
       }
     ],
     "europa": [
@@ -232,11 +232,11 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Trump bandisce dalla Casa Bianca Cnn, Msnow e Politico “per aver riportato notizie false”",
+        "title": "L’editto del presidente Usa: “Cnn, MsNow e Politico via dalla Casa Bianca”",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/trump_bandisce_dalla_casa_bianca_cnn_msnow_e_politico_notizie_false-425594112/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Fri, 18 Sep 2026 22:04:01 +0200",
-        "excerpt": "L’annuncio del presidente degli Stati Uniti: stop agli accrediti per i giornalisti dei tre media"
+        "pubDate": "Fri, 18 Sep 2026 22:24:21 +0200",
+        "excerpt": "Vietato l’accesso alle tre testate “per aver riportato con costanza fake news”. E l’editore del Nyt lo attacca"
       },
       {
         "title": "Trump bandisce dalla Casa Bianca Cnn, Politico e Msnow",
@@ -347,25 +347,25 @@
   },
   "attualita": [
     {
-      "title": "Ribaltata la sentenza shock di assoluzione, in appello il prof di Catania è condannato a 4 anni",
+      "title": "Trump dichiara guerra alla Cnn, 'bandita dalla Casa Bianca'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/trump-dichiara-guerra-alla-cnn-bandita-dalla-casa-bianca_9f252cbe-a284-4450-a74e-740d1cb212bd.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 22:25:17 +0200",
+      "excerpt": "'Sono fake news'. Escluse anche MsNow e Politico: L'editore del New York TImes 'È il presidente Usa più ostile alla stampa'"
+    },
+    {
+      "title": "Violenza su studentesse, ribaltata sentenza shock assoluzione: prof di Catania condannato a 4 anni",
       "link": "https://www.repubblica.it/cronaca/2026/09/18/news/ribaltata_sentenza_shock_assoluzione_catania-425594166/",
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 19:36:12 +0000",
-      "excerpt": "“Appoggiare le mani sul seno delle studentesse non è reato”, avevano scritto i giudici di primo grado. L’inchiesta di “Repubblica” sul Policlinico e le testimonianze decisive di sette studentesse"
+      "excerpt": "“Appoggiare le mani sul seno delle studentesse non è reato”, avevano scritto i giudici di primo grado. L’inchiesta di “Repubblica” sul Policlinico e le testimonianze decisive di sette allieve"
     },
     {
-      "title": "Trump bandisce dalla Casa Bianca Cnn, Politico e Msnow",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/trump-bandisce-dalla-casa-bianca-cnn-politico-e-msnow_9f252cbe-a284-4450-a74e-740d1cb212bd.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 21:34:17 +0200",
-      "excerpt": "L'editore del New York Times attacca: 'È il presidente Usa più ostile alla stampa'"
-    },
-    {
-      "title": "Trump bandisce dalla Casa Bianca Cnn, Msnow e Politico “per aver riportato notizie false”",
+      "title": "L’editto del presidente Usa: “Cnn, MsNow e Politico via dalla Casa Bianca”",
       "link": "https://www.repubblica.it/esteri/2026/09/18/news/trump_bandisce_dalla_casa_bianca_cnn_msnow_e_politico_notizie_false-425594112/",
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 19:18:30 +0000",
-      "excerpt": "L’annuncio del presidente degli Stati Uniti: stop agli accrediti per i giornalisti dei tre media"
+      "excerpt": "Vietato l’accesso alle tre testate “per aver riportato con costanza fake news”. E l’editore del Nyt lo attacca"
     },
     {
       "title": "Scoppia il caso Aspides, Roma chiede all'Ue più navi e fondi",
@@ -373,13 +373,6 @@
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 21:05:36 +0200",
       "excerpt": "Crosetto a Kallas: 'Va potenziata'. L'Italia scorta un mercantile nel Mar Rosso"
-    },
-    {
-      "title": "Prof Mocchi, accoltellata da uno studente a Trescore: “Spieghiamo ai ragazzi che siamo loro alleati”",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/18/news/prof_chiara_mocchi_accoltellata_studente_trescore_bergamo_spieghiamo_ragazzi_siamo_alleati-425594026/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 18:54:02 +0000",
-      "excerpt": "L’insegnante, che fu colpita al collo nei corridoi di una scuola nella Bergamasca, esprime la sua vicinanza alla collega ferita a Roma"
     },
     {
       "title": "Accoltella la prof e tenta di filmare tutto. L'insegnante: 'Gli voglio bene, vorrei abbracciarlo'",
@@ -443,6 +436,13 @@
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 16:33:28 +0200",
       "excerpt": "Filcams Cgil Bergamo, protesta per l'intero turno di lavoro"
+    },
+    {
+      "title": "Ostuni, Marco Galantino muore colpito da un fulmine sugli scogli. Illeso l’amico che era con lui",
+      "link": "https://bari.repubblica.it/cronaca/2026/09/18/news/ostuni_muore_colpito_fulmine_brindisi-425593453/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 14:29:00 +0000",
+      "excerpt": "L’uomo di 70 anni, barese ma residente in zona, è deceduto sul colpo: la costa brindisina colpita da un’intensa scarica di fulmini"
     },
     {
       "title": "Il cervello non è uno solo, in realtà sono due organi distinti",
@@ -517,18 +517,18 @@
   ],
   "sport": [
     {
+      "title": "Serie A: Monza-Sassuolo 2-1 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-monza-sassuolo-2-1-diretta-e-foto_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 22:34:30 +0200",
+      "excerpt": "La sfida in Brianza apre la quinta giornata di campionato"
+    },
+    {
       "title": "Kane segna la 100/a rete in 98 partite, nuovo record in Bundesliga",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/kane-segna-la-100a-rete-in-98-partite-nuovo-record-in-bundesliga_b011d003-fa54-4217-a001-7320455d29ff.html",
       "source": "ANSA Sport",
       "pubDate": "Fri, 18 Sep 2026 21:46:29 +0200",
       "excerpt": "Cade il primato di Dieter Müller che aveva impiegato 129 match"
-    },
-    {
-      "title": "Serie A: Monza-Sassuolo 0-0 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-monza-sassuolo-0-0-diretta-e-foto_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 21:35:34 +0200",
-      "excerpt": "La sfida in Brianza apre la quinta giornata di campionato"
     },
     {
       "title": "Serie A: Milan-Lecce in campo domenica alle 20.45 DIRETTA",
