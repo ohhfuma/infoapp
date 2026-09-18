@@ -1,13 +1,76 @@
 {
-  "lastUpdated": "2026-09-18T16:38:08.791Z",
+  "lastUpdated": "2026-09-18T17:07:27.340Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Vetro, il caro gas mette a rischio la produzione",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/09/18/news/vetro_il_caro_gas_mette_a_rischio_la_produzione-425593792/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:58:42 +0200",
+        "excerpt": "Il prezzo torna sopra gli 80 euro per MWh. Assovetro chiede interventi urgenti per un settore da 9 miliardi di euro e 16 mila addetti. Torno (presidente di Assovetro): “Con questi prezzi l’equilibrio industriale non regg"
+      },
+      {
+        "title": "Climate change, cambio di strategia per le imprese: priorità alla resilienza",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/sostenibilita/2026/09/18/news/climate_change_cambio_di_strategia_per_le_imprese_priorita_alla_resilienza-425593774/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:53:20 +0200",
+        "excerpt": "Nove organizzazioni italiane su dieci hanno subito interruzioni delle supply chain legate al clima. Ma mentre cresce la spesa per l’adattamento, aumentano le difficoltà sulla decarbonizzazione a livello mondiale: in un a"
+      },
+      {
+        "title": "Extra bonus di 60 euro per passare dalla vecchia linea al fisso-wireless",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/domande-e-risposte/2026/09/18/news/extra_bonus_di_60_euro_per_passare_dalla_vecchia_linea_al_fisso-wireless-425593764/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:48:46 +0200",
+        "excerpt": "Tim mi ha comunicato la possibilità di lasciare la vecchia linea fissa passando a Fwa Light, conservando il numero e ricevendo 60 euro di bonus extra. Di che si tratta?"
+      },
+      {
+        "title": "Bonus casa nel 2024 e vendita della nuda proprietà nel 2025, chi detrae le rate rimaste?",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/domande-e-risposte/2026/09/18/news/bonus_casa_nel_2024_e_vendita_della_nuda_proprieta_nel_2025_chi_detrae_le_rate_rimaste-425593757/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:44:41 +0200",
+        "excerpt": "Appartamento di proprietà con mia moglie fiscalmente a carico. Anno 2024 sostituzione infissi e godimento beneficio fiscale dichiarazione dei redditi 2025/2024. Inserimento nel bonifico parlante del solo mio codice fisca"
+      },
+      {
+        "title": "Immobile in costruzione, chi deve pagare le spese di allaccio dell’ascensore?",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/casa/domande-e-risposte/2026/09/18/news/immobile_in_costruzione_chi_deve_pagare_le_spese_di_allaccio_dell_ascensore-425593754/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:44:21 +0200",
+        "excerpt": "Ho acquistato dall'impresa costruttrice un appartamento al quarto piano di un immobile in costruzione. L'ascensore, previsto dal progetto e dal disciplinare tecnico, è stato installato dall'impresa ma ancora non funziona"
+      },
+      {
+        "title": "Invalidità e tasse universitarie, quando si può chiedere il rimborso?",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/domande-e-risposte/2026/09/18/news/invalidita_e_tasse_universitarie_quando_si_puo_chiedere_il_rimborso-425593752/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:43:59 +0200",
+        "excerpt": "A mio figlio è stata riconosciuta l' invalidità al 69%, secondo la legge 104 art.1 comma 3, dal luglio 2025. Ha chiesto il rimborso delle tasse universitarie pagate dal 2025 in poi però l' università Vanvitelli della Cam"
+      },
+      {
+        "title": "Altre spese sanitarie, come regolarsi per la dichiarazione precompilata?",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/domande-e-risposte/2026/09/18/news/altre_spese_sanitarie_come_regolarsi_per_la_dichiarazione_precompilata-425593750/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:43:37 +0200",
+        "excerpt": "Nel prospetto delle spese detraibili ci sono alcune voci sotto la dicitura 'altre spese' che ovviamente non sono detraibili dal 730. La relativa tabella porta alla fine l'importo totale delle voci descritte nel prospetto"
+      },
+      {
+        "title": "Autonoleggio e cancellazioni, occhio agli intermediari",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/domande-e-risposte/2026/09/18/news/autonoleggio_e_cancellazioni_occhio_agli_intermediari-425593742/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:40:30 +0200",
+        "excerpt": "Buongiorno,in data 15/8/2026, a seguito della cancellazione improvvisa del mio volo per Catania a causa dell’attività eruttiva del vulcano Etna, mi sono attivato per noleggiare un’auto per poter raggiungere la Sicilia (m"
+      },
       {
         "title": "Borsa: Milano chiude in calo con l'Europa, scivola Stellantis",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-milano-chiude-in-calo-con-leuropa-scivola-stellantis_08ba3ad6-c3fe-4a42-a81e-bedac65f7189.html",
         "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 18:14:13 +0200",
+        "pubDate": "Fri, 18 Sep 2026 18:32:25 +0200",
         "excerpt": "Giù anche le banche, in luce Stm. Lo spread tra Btp e Bund sale a 91 punti"
+      },
+      {
+        "title": "Il prezzo del gas sale a 79 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/il-prezzo-del-gas-sale-a-79-euro-al-megawattora_18d09f2e-78b0-4891-a026-dc217bf3ee0f.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:31:53 +0200",
+        "excerpt": "Ad Amsterdam le quotazioni sono in aumento del 3,47%"
       },
       {
         "title": "Lo spread tra Btp e Bund chiude in rialzo a 91 punti",
@@ -31,20 +94,6 @@
         "excerpt": "Francoforte (-1,6%), Parigi (-1,49%) e Francoforte (-1,45%)"
       },
       {
-        "title": "Giorgetti all’Ue: “Taglio del bollo coperto con soldi nazionali”. E mette in guardia sulle bollette",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/giorgetti_guerre_energia_bollette_eurogruppo_tassi_bce-425593064/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 17:58:46 +0200",
-        "excerpt": "Il ministro dell’Economia interviene dall’Eurogruppo ai Portofino talks e avverte: “Lo shock dell’energia peserà su famiglie e imprese”. Il governo è pronto a intervenire sugli extraprofitti anche da solo. E Schlein inca"
-      },
-      {
-        "title": "Ex Ilva, Gozzi contro i magistrati: “Sono contro l’industria, così non è un Paese di diritto”",
-        "link": "https://genova.repubblica.it/cronaca/2026/09/18/news/ex_ilva_gozzi_contro_i_magistrati_di_magistrati_sono_contro_l_industria-425593651/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 17:52:18 +0200",
-        "excerpt": "Il presidente di Federacciai a capo della cordata italiana contesta lo stop dei giudici di Milano: “Se un'impresa rispetta i limiti stabiliti dall'autorizzazione integrata ambientale e un giudice dice che non è sufficien"
-      },
-      {
         "title": "Fisco tutor e comunicazione semplificata, Entrate e Inps incontrano le imprese a Firenze",
         "link": "https://www.ilsole24ore.com/art/fisco-tutor-e-comunicazione-semplificata-entrate-e-inps-incontrano-imprese-firenze-AJPmE0FB",
         "source": "Il Sole 24 Ore",
@@ -66,32 +115,11 @@
         "excerpt": "L'ultimo indice Ftse Mib a 51.545 punti"
       },
       {
-        "title": "Sanità, un euro in più sul ticket delle visite specialistiche. E aumenta il costo di 450 prestazioni",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/sanita_ticket_visite_specialistiche_aumenta_costo_450_prestazioni_regioni-425593565/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 17:10:22 +0200",
-        "excerpt": "La novità riguarda soprattutto le Regioni, che pagheranno di più le prestazioni dei privati convenzionati. Ecco cosa cambia"
-      },
-      {
         "title": "Ultimi posti per visitare gli impianti Sogin e Nucleco nel Centro Casaccia",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/ultimi-posti-per-visitare-gli-impianti-sogin-e-nucleco-nel-centro_a14f3d74-ac5c-46d3-ae1d-cf55b423de02.html",
         "source": "ANSA Economia",
         "pubDate": "Fri, 18 Sep 2026 16:51:40 +0200",
         "excerpt": "Iscrizioni fino al 21 settembre, due percorsi anche per bambini dai 5 anni in su"
-      },
-      {
-        "title": "Fisascat, sciopero dei negozi Apple, aderisce il 70% dei lavoratori",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/fisascat-sciopero-dei-negozi-apple-aderisce-il-70-dei-lavoratori_b883ee98-233e-40f7-834c-9d1fef3fbab1.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 16:44:25 +0200",
-        "excerpt": "'Non può celebrare i profitti e ignorare chi li rende possibil'"
-      },
-      {
-        "title": "Assegno unico, al via controlli Inps: rideterminazione degli importi già da settembre",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/assegno_unico_controlli_inps_rideterminazione_importi_settembre-425593459/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 16:31:45 +0200",
-        "excerpt": "Le verifiche si basano sulle informazioni fornite nella Dichiarazione sostitutiva unica che permettono di individuare il proprio livello Isee: “Possibili omissioni o incongruenze, necessari approfondimenti”"
       },
       {
         "title": "Apple, sciopero degli store italiani nel giorno del lancio dell’iPhone 18",
@@ -115,13 +143,6 @@
         "excerpt": "Al termine del colloquio, i due ministri hanno incontrato una selezione di imprese italiane con importanti interessi nel mercato turco, attive nei settori delle infrastrutture e trasporti, difesa e aerospazio, energia, t"
       },
       {
-        "title": "Withers – Tra successioni e investimenti: gli hotel italiani nel radar dei family office",
-        "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/09/18/news/withers__tra_successioni_e_investimenti_gli_hotel_italiani_nel_radar_dei_family_office-425593171/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 14:08:03 +0200",
-        "excerpt": "Nel settore alberghiero la successione è più complessa che altrove, perché un hotel non è solo un immobile: è insieme un’attività operativa, un marchio, un’organizzazione di persone e un’eredità familiare"
-      },
-      {
         "title": "Casa ed edifici, come proteggerli. Guida per famiglie e imprese",
         "link": "https://www.ilsole24ore.com/art/casa-ed-edifici-come-proteggerli-guida-famiglie-e-imprese-AJIP0R7",
         "source": "Il Sole 24 Ore",
@@ -129,32 +150,11 @@
         "excerpt": "In edicola giovedì 24 settembre con Il Sole 24 Ore, al prezzo complessivo di 3 euro"
       },
       {
-        "title": "Gdo nuovamente con il segno più: arretrano solo le regioni del Nord-Ovest",
-        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/rilevazione-settimanale/2026/09/18/news/gdo_nuovamento_con_il_segno_piu_arretrano_solo_le_regioni_del_nord-ovest-425593141/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 14:00:52 +0200",
-        "excerpt": "I dati di NielsenIQ fotografano una situazione piuttosto omogenea lungo la Penisola: passo indietro solo per Lombardia, Piemonte, Valle d’Aosta e Liguria"
-      },
-      {
         "title": "Giorgetti: «Spero per l’Italia deficit sotto il 3%. Extraprofitti, il consenso si allargherà»",
         "link": "https://www.ilsole24ore.com/art/giorgetti-spero-l-italia-deficit-sotto-3percento-extraprofitti-consenso-si-allarghera-AJ0SJGHB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 18 Sep 2026 11:53:47 GMT",
         "excerpt": "«Non sono fiducioso, sono speranzoso per l’Italia e per la Repubblica italiana». Da Dublino, a margine dell’Eurogruppo, il ministro dell’Economia Giancarlo Giorgetti riflette sulla possibile uscita dell’Italia dalla proc"
-      },
-      {
-        "title": "Putin mette le mani sulle filiali russe di Nestlé e Auchan: “Rappresentano Paesi ostili”",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/russia_nestle_auchan_amministrazione_attivita_putin_cremlino-425593051/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 13:19:26 +0200",
-        "excerpt": "Con un decreto del Cremlino le attività dei due colossi e di altri due gruppi francesi passano sotto la gestione di una controllata del governo"
-      },
-      {
-        "title": "Ets, più quote gratuite all’industria. La ceramica italiana: \"Serve un correttivo\"",
-        "link": "https://www.repubblica.it/economia/rapporti/energitalia/storie/2026/09/18/news/ets_piu_quote_gratuite_all_industria_la_ceramica_italiana_serve_un_correttivo-425592865/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 12:36:10 +0200",
-        "excerpt": "Il Consiglio Ue apre all’aumento delle assegnazioni per i settori ad alta intensità energetica, più esposti al carbon leakage. L’Italia si astiene e chiede una misura specifica. Ciarrocchi: “In gioco fino a 40 milioni di"
       },
       {
         "title": "Violenza a scuola, a Roma 13enne accoltella insegnante. Valditara chiama la preside",
@@ -180,7 +180,7 @@
         "excerpt": "È già febbre da titolo a New York, ma assistere alla cerimonia con cui i Knicks celebreranno la conquista del loro primo campionato della National Basketball Association (Nba) dal 1973..."
       },
       {
-        "title": "Guerra ultime notizie. Riparte Aspides: la Fregata Bergamini scorta mercantile italiano a Bab el-Mandeb",
+        "title": "Guerra ultime notizie. Iran, Trump: «Stiamo parlando con gli Houthi»",
         "link": "https://www.ilsole24ore.com/art/pentagono-valuta-ritirare-25000-soldati-dall-europa-AJFDSwGB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 18 Sep 2026 05:34:00 GMT",
@@ -232,6 +232,27 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump, 'stiamo parlando con gli Houthi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/18/trump-stiamo-parlando-con-gli-houthi_7552c2b4-9f57-441f-9ed9-62a534c85854.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 18:56:26 +0200",
+        "excerpt": "L'intervista a NewsNation"
+      },
+      {
+        "title": "Trump, 'stiamo parlando con gli Houthi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-stiamo-parlando-con-gli-houthi_bfd41ed1-a620-46d1-96e1-6f387fc5ecaf.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 18:56:10 +0200",
+        "excerpt": "L'intervista a NewsNation"
+      },
+      {
+        "title": "Aiea, 'drone colpisce torre di raffreddamento di una centrale nucleare russa'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/aiea-drone-colpisce-torre-di-raffreddamento-di-una-centrale-nucleare-russa_551fb30c-c929-4dd3-81e0-e3316be86af2.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 18:54:49 +0200",
+        "excerpt": "Nessun incendio. Grossi: 'Tutti gli attacchi sono inaccettabili'"
+      },
+      {
         "title": "Lula, 'cinque giudici della Corte suprema coinvolti nel caso Master'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/lula-cinque-giudici-della-corte-suprema-coinvolti-nel-caso-master_5b2d52b3-b7df-472d-b4ff-63ebc0dc78fe.html",
         "source": "ANSA Mondo",
@@ -281,27 +302,6 @@
         "excerpt": "Il governo Albanese riduce i posti per il secondo e terzo anno del “Working Holiday Visa” e introduce un sistema a sorteggio. Agricoltura, turismo e ristorazione temono di perdere una fonte essenziale di lavoratori stagi"
       },
       {
-        "title": "Kallas, 'attacchi degli Houthi inaccettabili, Aspides innalza l'allerta'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/18/kallas-attacchi-degli-houthi-inaccettabili-aspides-innalza-lallerta_cd7095fa-dcd4-4665-b496-ccd8e00315c1.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 15:29:21 +0200",
-        "excerpt": "'Si aggrava la situazione della sicurezza'"
-      },
-      {
-        "title": "Kallas, 'attacchi degli Houthi inaccettabili, Aspides innalza l'allerta'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/kallas-attacchi-degli-houthi-inaccettabili-aspides-innalza-lallerta_f528d5b6-6249-4938-8ccf-d18bc4b93437.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 15:29:18 +0200",
-        "excerpt": "'Si aggrava la situazione della sicurezza'"
-      },
-      {
-        "title": "Putin ha votato online per le elezioni parlamentari",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/putin-ha-votato-online-per-le-elezioni-parlamentari_61e4f26c-d7db-423f-ac18-2673f8f11ab8.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 15:21:47 +0200",
-        "excerpt": "Lo ha reso noto la televisione di Stato mostrando le immagini del momento"
-      },
-      {
         "title": "Ecologisti e nazionalisti, rivoluzionari e conservatori. Contro Vucic gli studenti candidano tutti",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/elezioni_serbia_vucic_movimento_studenti_candidati_lista-425592824/?rss",
         "source": "Repubblica Esteri",
@@ -347,18 +347,46 @@
   },
   "attualita": [
     {
+      "title": "Nazionale: 34 azzurri convocati da Mancini, c'e' anche Daniel Maldini ",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/18/nazionale-34-azzurri-convocati-da-mancini-ce-anche-daniel-maldini-_79b29bf1-61c3-4556-905b-0ef7c7fa8095.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 18:59:08 +0200",
+      "excerpt": "Le novita' annunciate sono nove, da Romano a Doumbia e Zoma"
+    },
+    {
+      "title": "Mancini convoca 34 giocatori: c’è Daniel Maldini, torna Zaniolo",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/18/news/mancini_convocazioni_daniel_maldini_zaniolo_fagioli_nazionale-425593779/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 16:55:39 +0000",
+      "excerpt": "Le prime scelte del ct per la finestra di Nations League"
+    },
+    {
+      "title": "Accoltella la prof e tenta di filmare tutto. L'insegnante: 'Gli voglio bene, vorrei abbracciarlo'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/accoltella-la-prof-e-tenta-di-filmare-tutto.-linsegnante-gli-voglio-bene-vorrei_b2503db3-f84e-4e54-a32e-ea20c1f9cea7.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 18:42:10 +0200",
+      "excerpt": "Il 13enne 'aveva due debiti, uno lo doveva riparare oggi'. A fermarlo un altro alunno"
+    },
+    {
+      "title": "Il Gruppo Barilla presenta il nuovo piano industriale per il mezzogiorno",
+      "link": "https://www.ansa.it/native/ansacom/2026/09/18/il-gruppo-barilla-presenta-il-nuovo-piano-industriale-per-il-mezzogiorno_f4934ab3-1f91-410e-870b-204806bbdd6c.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 18:36:18 +0200",
+      "excerpt": ""
+    },
+    {
       "title": "La fregata Bergamini scorta un mercantile italiano a Bab el-Mandeb",
       "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
       "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 18:06:29 +0200",
+      "pubDate": "Fri, 18 Sep 2026 18:13:18 +0200",
       "excerpt": "La Marina: 'Nell'ambito dell'operazione Aspides, segnale concreto, arrivato con ottimo tempismo'"
     },
     {
-      "title": "Studente spruzza dello spray urticante e accoltella l'insegnante a Roma",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/studente-spruzza-spray-urticante-e-accoltella-insegnante-a-roma_b2503db3-f84e-4e54-a32e-ea20c1f9cea7.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 17:46:31 +0200",
-      "excerpt": "Il ragazzo tentava di filmare l'aggressione, a fermarlo un compagno di scuola. Il racconto dei compagni: 'Aveva ricevuto un debito e la odiava'"
+      "title": "\"Intascavano i fondi pubblici delle scuole professionali\": Nembrini e la moglie ai domiciliari",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/18/news/nembrini_arrestato_fondazione_scuole_professionali_bergamo_truffa_fondi_pubblici-425593637/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 15:45:14 +0000",
+      "excerpt": "Il promotore della Fondazione San Michele Arcangelo accusato di peculato e truffa ai danni dello Stato: per i pm sottratti 4 milioni di euro. Aveva intestato tutto alla moglie per risultare nullatenente"
     },
     {
       "title": "Damiano David e Dove Cameron sposi a Montalcino",
@@ -366,13 +394,6 @@
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 17:25:44 +0200",
       "excerpt": "La settimana prossima il sì in Comune poi cerimonia"
-    },
-    {
-      "title": "Macron avverte: 'Gli attacchi ibridi russi non resteranno senza risposta'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/macron-serve-piano-per-proteggere-infrastrutture-critiche-da-attacchi-ibridi-russi_ed3e6373-9e89-4972-8f17-40a2bc553c98.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 17:13:54 +0200",
-      "excerpt": "'Sarebbe un errore se Mosca continuasse ad agire in questo modo con gli europei'"
     },
     {
       "title": "La professoressa accoltellata: “Vorrei incontrare il ragazzo che mi ha aggredito e abbracciarlo”",
@@ -396,11 +417,11 @@
       "excerpt": "Filcams Cgil Bergamo, protesta per l'intero turno di lavoro"
     },
     {
-      "title": "Australia, stretta sui visti: per i backpacker c’è la lotteria. Timori per la carenza di manodopera",
-      "link": "https://www.repubblica.it/esteri/2026/09/18/news/australia_stretta_su_visti_per_backpacker_lotteria_timori_carenza_manodopera-425593332/",
+      "title": "Ostuni, muore colpito da un fulmine mentre pesca sugli scogli. Illeso l’amico che era con lui",
+      "link": "https://bari.repubblica.it/cronaca/2026/09/18/news/ostuni_muore_colpito_fulmine_brindisi-425593453/",
       "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 13:34:10 +0000",
-      "excerpt": "Il governo Albanese riduce i posti per il secondo e terzo anno del “Working Holiday Visa” e introduce un sistema a sorteggio. Agricoltura, turismo e ristorazione temono di perdere una fonte essenziale di lavoratori stagi"
+      "pubDate": "Fri, 18 Sep 2026 14:29:00 +0000",
+      "excerpt": "Un uomo di circa 70 anni deceduto sul colpo: la costa brindisina colpita da un’intensa scarica di fulmini"
     },
     {
       "title": "Prof accoltellata, su TikTok il conto alla rovescia dell’aggressore: “Meno 5 ore”",
@@ -431,32 +452,11 @@
       "excerpt": "Il racconto agli investigatori della docente, ferita in classe dal tredicenne. Il marito: “Lei mi ha detto che quel ragazzo aveva un coltello lungo 30 centimetri. Devono arrestarlo”"
     },
     {
-      "title": "Harry fa la sua prima apparizione pubblica dal ritorno nel Regno Unito",
-      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/18/harry-fa-la-sua-prima-apparizione-pubblica-dal-ritorno-nel-regno-unito_a8252f78-51a9-455b-89e1-3680499db965.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 13:39:23 +0200",
-      "excerpt": "Ieri a Londra ad una raccolta fondi per gli Invictus Games. Assente Meghan"
-    },
-    {
       "title": "America's Cup: Bennato canterà 'L'isola che non c'è' ai ragazzi del carcere di Nisida",
       "link": "https://www.ansa.it/sito/notizie/sport/speciali/coppa-america-2027/2026/09/18/americas-cup-bennato-cantera-lisola-che-non-ce-ai-ragazzi-dellipm-di-nisida_5d8c2fdc-5420-4c05-b720-6d0523c39661.html",
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 13:31:44 +0200",
       "excerpt": "Il 22 settembre in occasione dell'evento di apertura della regata preliminare"
-    },
-    {
-      "title": "Giorgetti all’Ue: “Taglio del bollo coperto con soldi nazionali”. E mette in guardia sulle bollette",
-      "link": "https://www.repubblica.it/economia/2026/09/18/news/giorgetti_guerre_energia_bollette_eurogruppo_tassi_bce-425593064/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 11:27:29 +0000",
-      "excerpt": "Il ministro dell’Economia interviene dall’Eurogruppo ai Portofino talks e avverte: “Lo shock dell’energia peserà su famiglie e imprese”. Il governo è pronto a intervenire sugli extraprofitti anche da solo. E Schlein inca"
-    },
-    {
-      "title": "Putin mette le mani sulle filiali russe di Nestlé e Auchan: “Rappresentano Paesi ostili”",
-      "link": "https://www.repubblica.it/economia/2026/09/18/news/russia_nestle_auchan_amministrazione_attivita_putin_cremlino-425593051/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 11:19:26 +0000",
-      "excerpt": "Con un decreto del Cremlino le attività dei due colossi e di altri due gruppi francesi passano sotto la gestione di una controllata del governo"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -517,18 +517,53 @@
   ],
   "sport": [
     {
-      "title": "Uefa e Concacaf a Infantino 'riserve Fifa miliardarie, distribuirle a federazioni'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/uefa-e-concacaf-a-infantino-riserve-fifa-miliardarie-distribuirle-a-federazioni_55a5eaa5-b65a-4aec-b4e6-f788cea572b5.html",
+      "title": "Nazionale: 34 azzurri convocati da Mancini, c'e' anche Daniel Maldini ",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/18/nazionale-34-azzurri-convocati-da-mancini-ce-anche-daniel-maldini-_79b29bf1-61c3-4556-905b-0ef7c7fa8095.html",
       "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 18:09:41 +0200",
-      "excerpt": "In una lettera si chiede di portare la proposta finanziaria in Consiglio Fifa"
+      "pubDate": "Fri, 18 Sep 2026 19:02:02 +0200",
+      "excerpt": "Le novita' annunciate sono nove, da Romano a Doumbia e Zoma"
+    },
+    {
+      "title": "Ufficiale, Bianchedi ha firmato e sarà capodelegazione azzurra ",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/18/ufficiale-bianchedi-ha-firmato-e-sara-capodelegazione-azzurra-_81c59d54-8287-4d5f-a8d9-95504f5a9f22.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 19:01:10 +0200",
+      "excerpt": "Vicepresidente vicaria del Coni sara' con Italia di Mancini da lunedi'"
+    },
+    {
+      "title": "Calcio: 34 azzurri convocati da Mancini, c'e' anche Daniel Maldini",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/calcio-34-azzurri-convocati-da-mancini-ce-anche-daniel-maldini_65a7237b-7e2a-4f3d-aced-bfacb176f1cf.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 19:00:15 +0200",
+      "excerpt": "Nove i nomi nuovi annunciati, da Doumbia a Romano"
+    },
+    {
+      "title": "Serie A: Bologna-Torino in campo sabato alle 15 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-bologna-torino-in-campo-sabato-alle-15-diretta_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 18:44:24 +0200",
+      "excerpt": "Tecnico granata: 'Contro Perri ho letto cose che non mi sono piaciute'"
+    },
+    {
+      "title": "Serie A: Udinese-Cagliari in campo sabato alle 15 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-udinese-cagliari-in-campo-sabato-alle-15-diretta_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 18:37:46 +0200",
+      "excerpt": "Runjaic: 'Contro i sardi gara molto importante'. E valuta Zaniolo dal primo minuto"
     },
     {
       "title": "U21 a caccia del pass europeo, quattro novità nei 25 azzurrini di Baldini",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/u21-a-caccia-del-pass-europeo-quattro-novita-nei-25-azzurrini-di-baldini_3bbeb982-7661-495c-85ef-bab97d4a1880.html",
       "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 18:06:11 +0200",
+      "pubDate": "Fri, 18 Sep 2026 18:28:50 +0200",
       "excerpt": "Prima chiamata per Cichella, Liberali, Lulli e Reggiani"
+    },
+    {
+      "title": "Uefa e Concacaf a Infantino: 'Riserve Fifa miliardarie, distribuirle a federazioni'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/uefa-e-concacaf-a-infantino-riserve-fifa-miliardarie-distribuirle-a-federazioni_55a5eaa5-b65a-4aec-b4e6-f788cea572b5.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 18:27:44 +0200",
+      "excerpt": "In una lettera si chiede di portare la proposta finanziaria in Consiglio Fifa"
     },
     {
       "title": "Serie A: Roma-Inter sfida del gol, il Como sogna l'aggancio",
@@ -536,41 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Fri, 18 Sep 2026 17:58:40 +0200",
       "excerpt": "Ostacoli insidiosi per Juve e Napoli; servono 3 punti al Milan in affanno"
-    },
-    {
-      "title": "Serie A: Venezia-Lazio in campo sabato alle 20.45 DIRETTA ",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-venezia-lazio-in-campo-sabato-alle-20.45-diretta-_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 17:42:22 +0200",
-      "excerpt": "Tecnico spegne rumori dall'inchiesta sulla presunta manovra anti-Lotito e pensa a Venezia"
-    },
-    {
-      "title": "Serie A: Monza-Sassuolo in campo alle 20.45 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-monza-sassuolo-in-campo-alle-20.45-diretta_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 17:27:10 +0200",
-      "excerpt": "La società allunga il contratto a Cinquegrano fino al 2032"
-    },
-    {
-      "title": "Serie A: Roma-Inter in campo alle 18 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-roma-inter-in-campo-alle-18-diretta_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 17:14:42 +0200",
-      "excerpt": "E il tecnico giallorosso punta ancora sui titolari con Dybala e Malen"
-    },
-    {
-      "title": "Frosinone; Monterisi, 'Como forte ma sappiamo cosa dobbiamo fare'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/frosinone-monterisi-como-forte-ma-sappiamo-cosa-dobbiamo-fare_a16575d6-66fe-4050-b634-b38b963e6302.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 16:21:35 +0200",
-      "excerpt": "Capitano: 'c'e' un'atmosfera positiva e la squadra e' unita'"
-    },
-    {
-      "title": "Canoa: sulle acque della Dora Baltea a Ivrea gli europei di kayak",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/18/canoa-sulle-acque-della-dora-baltea-a-ivrea-gli-europei-di-kayak_4ec00b61-963a-4e96-9459-ddc506f3103e.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 16:07:24 +0200",
-      "excerpt": "Da giovedì 24 a sabato 26 settembre i 'Paddle Europe Slalom Championships'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
