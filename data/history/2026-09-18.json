@@ -4,6 +4,34 @@
   "finanza": {
     "italia": [
       {
+        "title": "Borsa: Milano chiude in calo con l'Europa, scivola Stellantis",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-milano-chiude-in-calo-con-leuropa-scivola-stellantis_08ba3ad6-c3fe-4a42-a81e-bedac65f7189.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:14:13 +0200",
+        "excerpt": "Giù anche le banche, in luce Stm. Lo spread tra Btp e Bund sale a 91 punti"
+      },
+      {
+        "title": "Lo spread tra Btp e Bund chiude in rialzo a 91 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-91-punti_2111c505-63d1-458f-92ee-0bfd7079dc06.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:11:37 +0200",
+        "excerpt": "Il rendimento del decennale italiano sale al 4,43%"
+      },
+      {
+        "title": "Warren Buffett lascia la presidenza di Berkshire, il figlio al suo posto",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/warren-buffett-lascia-la-presidenza-di-berkshire-il-figlio-al-suo-posto_e503e2dc-bf9f-4ed4-978c-0e24c9d4bf95.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 18:04:08 +0200",
+        "excerpt": "Il guru della finanza, 'il tempo ha sempre la meglio. Howard preserverà i valori'"
+      },
+      {
+        "title": "Borsa: l'Europa chiude in netto calo, tensione sui titoli di Stato",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-leuropa-chiude-in-netto-calo-tensione-sui-titoli-di-stato_3fd6e0e4-6c8e-4b36-847f-2c4bb62f7085.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 17:59:54 +0200",
+        "excerpt": "Francoforte (-1,6%), Parigi (-1,49%) e Francoforte (-1,45%)"
+      },
+      {
         "title": "Ex Ilva, Gozzi contro i magistrati: “Sono contro l’industria, così non è un Paese di diritto”",
         "link": "https://genova.repubblica.it/cronaca/2026/09/18/news/ex_ilva_gozzi_contro_i_magistrati_di_magistrati_sono_contro_l_industria-425593651/?rss",
         "source": "Repubblica Economia",
@@ -394,34 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 09:49:23 +0200",
         "excerpt": "Il vicepremier e leader della Lega annuncia una nuova proroga all’entrata in vigore dello stop alla circolazione per le auto più inquinanti nella Pianura padana. Piemonte, Emilia-Romagna e Veneto si erano già mosse auton"
-      },
-      {
-        "title": "Maltempo, allerta gialla per temporali su 12 regioni",
-        "link": "https://www.ilsole24ore.com/art/maltempo-allerta-gialla-temporali-12-regioni-AJHeu0GB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 18 Sep 2026 07:39:17 GMT",
-        "excerpt": "Un’altra giornata da allerta gialla causa pioggia e temporali, oggi, per 12 regioni. Lo fa sapere la Protezione Civile. L’allerta riguarda Abruzzo, Basilicata, Campania, Lazio, Lombardia, Marche, Molise, Puglia, Sardegna"
-      },
-      {
-        "title": "Salvini, in prossimo cdm decreto per altro rinvio a stop diesel Euro 5",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/salvini-in-prossimo-cdm-decreto-per-altro-rinvio-a-stop-diesel-euro_c49dbc6e-0172-4eee-9014-e064e04eeb7d.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 09:36:14 +0200",
-        "excerpt": "'Per dare ossigeno a centinaia di migliaia di persone per tutto il 2027'"
-      },
-      {
-        "title": "Urso, 'mettere anche la Chimica nell'Industrial Accelerator Act'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/urso-mettere-anche-la-chimica-nellindustrial-accelerator-act_990a1fba-0535-4674-81e6-b2eb25bb5982.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 09:35:44 +0200",
-        "excerpt": "'Il settore in Europa è in crisi e richiede interventi immediati e strategia'"
-      },
-      {
-        "title": "Di Battista: «Sto molto meglio, finalmente sono a casa»",
-        "link": "https://www.ilsole24ore.com/art/di-battista-sto-molto-meglio-finalmente-sono-casa-AJyKl1GB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 18 Sep 2026 07:23:00 GMT",
-        "excerpt": "Alessandro Di Battista è uscito dal policlinico Gemelli. Lo ha annunciato lui stesso su Instagram"
       }
     ],
     "europa": [
@@ -505,6 +505,20 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Lula, 'cinque giudici della Corte suprema coinvolti nel caso Master'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/lula-cinque-giudici-della-corte-suprema-coinvolti-nel-caso-master_5b2d52b3-b7df-472d-b4ff-63ebc0dc78fe.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 18:19:45 +0200",
+        "excerpt": "Il presidente: 'Vorcaro ha corrotto politici e magistrati con soldi, feste e orge'"
+      },
+      {
+        "title": "Notre Dame, gli abusi, il vertice Ue con Macron: papa Leone va in Francia. Attesa per il discorso all’Eliseo",
+        "link": "https://www.repubblica.it/esteri/2026/09/18/news/notre_dame_abusi_vertice_ue_con_macron_papa_leone_va_in_francia_attesa_per_discorso_eliseo-425593678/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Fri, 18 Sep 2026 18:08:24 +0200",
+        "excerpt": "Francesco è stato tre volte nel Paese ma mai a Parigi. Ora per la messa a Place de la Concorde sono attese 600mila persone, poi Prevost visiterà il santuario di Lourdes e Metz"
+      },
       {
         "title": "Crosetto scrive lettera a Kallas, 'serve potenziamento missione europea Aspides'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/crosetto-scrive-lettera-a-kallas-serve-potenziamento-missione-europea-aspides_4948e490-b01d-4d0f-8841-ca958baa2a9a.html",
@@ -910,20 +924,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 20:45:45 +0200",
         "excerpt": "Lo riferisce un funzionario del Dipartimento di Stato"
-      },
-      {
-        "title": "Von der Leyen, 'domani altri 3,3 miliardi per aiuti militari a Kiev'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/17/von-der-leyen-domani-altri-33-miliardi-per-aiuti-militari-a-kiev_91ed4966-00f6-4972-9804-e4b4e5f905a0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 20:16:14 +0200",
-        "excerpt": "'I fondi rimanenti di Safe andranno ai programmi comuni Ue-Ucraina'"
-      },
-      {
-        "title": "La guerra ibrida scatena i servizi segreti europei",
-        "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/09/17/news/la_guerra_ibrida_scatena_i_servizi_segreti_europei-425590995/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 17:48:11 +0200",
-        "excerpt": "Nelle democrazie occidentali ci sono sempre state remore nell’aumentare l’autonomia degli apparati di sicurezza. Ma i venti di guerra stanno cambiando gli equilibri istituzionali anche in Europa e spingono a dare più lib"
       }
     ]
   },
@@ -1350,6 +1350,20 @@
     }
   ],
   "sport": [
+    {
+      "title": "Uefa e Concacaf a Infantino 'riserve Fifa miliardarie, distribuirle a federazioni'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/uefa-e-concacaf-a-infantino-riserve-fifa-miliardarie-distribuirle-a-federazioni_55a5eaa5-b65a-4aec-b4e6-f788cea572b5.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 18:09:41 +0200",
+      "excerpt": "In una lettera si chiede di portare la proposta finanziaria in Consiglio Fifa"
+    },
+    {
+      "title": "U21 a caccia del pass europeo, quattro novità nei 25 azzurrini di Baldini",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/u21-a-caccia-del-pass-europeo-quattro-novita-nei-25-azzurrini-di-baldini_3bbeb982-7661-495c-85ef-bab97d4a1880.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 18:06:11 +0200",
+      "excerpt": "Prima chiamata per Cichella, Liberali, Lulli e Reggiani"
+    },
     {
       "title": "Serie A: Roma-Inter sfida del gol, il Como sogna l'aggancio",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/18/serie-a-roma-inter-sfida-del-gol-il-como-sogna-laggancio_050e4341-ab26-435d-a5d0-f85c920a93f1.html",
