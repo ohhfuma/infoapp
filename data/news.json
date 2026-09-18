@@ -1,20 +1,55 @@
 {
-  "lastUpdated": "2026-09-18T07:08:20.544Z",
+  "lastUpdated": "2026-09-18T07:38:23.999Z",
   "finanza": {
     "italia": [
       {
-        "title": "Gas: future risalgono a 77,3 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/gas-future-risalgono-a-773-euro_d44006ab-ebe1-4696-968d-7881e520b5ef.html",
+        "title": "Di Battista: «Sto molto meglio, finalmente sono a casa»",
+        "link": "https://www.ilsole24ore.com/art/di-battista-sto-molto-meglio-finalmente-sono-casa-AJyKl1GB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 18 Sep 2026 07:23:00 GMT",
+        "excerpt": "Alessandro Di Battista è uscito dal policlinico Gemelli. Lo ha annunciato lui stesso su Instagram"
+      },
+      {
+        "title": "Non si fermano i rialzi per i carburanti, gasolio self in autostrada a 2,375 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/non-si-fermano-i-rialzi-per-i-carburanti-gasolio-self-in-autostrada-a-2375-euro_2521c6d8-f36f-46f2-bb2e-a08b80fac409.html",
         "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 08:57:07 +0200",
-        "excerpt": "Ttf in rialzo dell'1,2%"
+        "pubDate": "Fri, 18 Sep 2026 09:18:05 +0200",
+        "excerpt": "La benzina sale a 2,241 euro al litro"
+      },
+      {
+        "title": "Presidenza Ue, 'chiederò a Commissione di tornare su extraprofitti a Ecofin ottobre'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/presidenza-ue-chiedero-a-commissione-di-tornare-su-extraprofitti-a-ecofin-ottobre_1b8e2efa-d989-4cec-8ca7-4e6016239ebb.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 09:15:08 +0200",
+        "excerpt": "\"Primo confronto oggi a Dublino. Profitti straordinari imprese solo per chiusura Hormuz\""
+      },
+      {
+        "title": "Borsa: Europa apre in calo, Francoforte -0,47%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-europa-apre-in-calo-francoforte-047_d69e650a-2330-4f5e-b9ce-1f8a0497f48c.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 09:13:01 +0200",
+        "excerpt": "Parigi -0,4%, Londra -0,24%"
+      },
+      {
+        "title": "Borsa: Milano apre in calo, Ftse Mib -0,08%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-milano-apre-in-calo-ftse-mib-008_fcf05216-5172-4ce3-a8cb-0046c4bd9458.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 09:12:58 +0200",
+        "excerpt": "Tra i peggiori Eni e Inwit. Deboli le banche, Mps -0,4%, Generali -0,7%"
       },
       {
         "title": "Lo spread Btp-Bund a 86,6 punti",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/lo-spread-btp-bund-a-866-punti_9c67a59a-2518-4e54-9792-b4eee7b0079b.html",
         "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 08:48:32 +0200",
+        "pubDate": "Fri, 18 Sep 2026 09:12:52 +0200",
         "excerpt": "Il rendimento italiano al 4,34% e quello tedesco al 3,47%"
+      },
+      {
+        "title": "Gas: future risalgono a 77,3 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/gas-future-risalgono-a-773-euro_d44006ab-ebe1-4696-968d-7881e520b5ef.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 09:12:45 +0200",
+        "excerpt": "Ttf in rialzo dell'1,2%"
       },
       {
         "title": "Borsa: Asia in rialzo con lo yen che si indebolisce",
@@ -38,32 +73,11 @@
         "excerpt": "In crescita sullo yen a 180,5200"
       },
       {
-        "title": "Prezzo dell'oro in rialzo, Spot scambiato a 4.372 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/prezzo-delloro-in-rialzo-spot-scambiato-a-4.372-dollari_13cfd42d-fd20-4b42-a0dc-0631cda3c736.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 08:07:45 +0200",
-        "excerpt": "Quotazione sale dello 0,72%"
-      },
-      {
-        "title": "Prezzo del petrolio in ribasso, Wti scambiato a 100,85 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/prezzo-del-petrolio-in-ribasso-wti-scambiato-a-10085-dollari_af8a3abf-3326-49b4-a93c-459af86bcfeb.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 07:59:05 +0200",
-        "excerpt": "Brent passa di mano a 103,29 dollari"
-      },
-      {
         "title": "Accise, parte il nuovo sconto alleggerito: ecco di quanto aumenterà il prezzo del gasolio",
         "link": "https://www.ilsole24ore.com/art/accise-parte-nuovo-sconto-alleggerito-ecco-quanto-aumentera-prezzo-gasolio-AJg7hWGB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 18 Sep 2026 05:52:26 GMT",
         "excerpt": "La strategia messa in campo dal Governo per uscire dal tunnel lungo e dispendioso dei tagli accise prevede sconti in diverse tappe"
-      },
-      {
-        "title": "Al via l'Opa di Webuild su Trevi Finanziaria, si parte il 28 settembre",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/al-via-lopa-di-webuild-su-trevi-finanziaria-si-parte-il-28-settembre_6cfe0064-0ca6-4fe5-b33f-cb0e8b593eda.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 07:42:37 +0200",
-        "excerpt": "Pubblicato il documento d'offerta approvato dalla Consob"
       },
       {
         "title": "Enoturismo: l’Umbria scommette sulle nuove rotte del turismo internazionale",
@@ -78,13 +92,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 05:45:29 +0200",
         "excerpt": "L’azienda ha spiegato anche come lo stesso assistente virtuale stia anche lavorando alla sua versione futura"
-      },
-      {
-        "title": "Bank of Japan alza i tassi all'1,25%, ai massimi dal 1995",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/bank-of-japan-alza-i-tassi-all125-ai-massimi-dal-1995_773cd2e6-1864-41e8-ba4d-d1785af6c607.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 05:06:21 +0200",
-        "excerpt": "L'istituto centrale risponde a inflazione, yen debole e pressioni Usa"
       },
       {
         "title": "Smart working addio? Quando l'azienda è obbligata a dire sì",
@@ -162,18 +169,11 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 17 Sep 2026 17:41:00 GMT",
         "excerpt": "«Nelle prossime settimane» il governo presenterà il testo unico sulle start up e sulle imprese innovative, insieme a quello che il ministro delle Imprese e del Made in Italy, Adolfo..."
-      },
-      {
-        "title": "Decreto su accise e bollo auto pubblicato in Gazzetta, scatta venerdì",
-        "link": "https://www.ilsole24ore.com/art/stop-bollo-auto-mattarella-firma-decreto-AJPF5VGB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 17 Sep 2026 17:39:00 GMT",
-        "excerpt": "È stato pubblicato in Gazzetta Ufficiale ed entra in vigore da domani 18 settembre il decreto che contiene il nuovo sconto sulle accise del gasolio e lo stop per il..."
       }
     ],
     "europa": [
       {
-        "title": "«Pentagono considera di ritirare 25.000 soldati dall’Europa»",
+        "title": "Pentagono considera di ritirare 25.000 soldati dall’Europa",
         "link": "https://www.ilsole24ore.com/art/pentagono-valuta-ritirare-25000-soldati-dall-europa-AJFDSwGB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 18 Sep 2026 05:34:00 GMT",
@@ -231,6 +231,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Regno Unito, nuove accuse nel libro del fratello di Diana: “Carlo era euforico dopo la sua morte”",
+        "link": "https://www.repubblica.it/esteri/2026/09/18/news/regno_unito_accuse_libro_fratello_diana_carlo_euforico_dopo_morte-425592381/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Fri, 18 Sep 2026 09:20:41 +0200",
+        "excerpt": "Le rivelazione nelle memorie del conte Spencer. Smentita di Buckingam Palace: “Sua Maestà è consapevole del fatto che il dolore possa offuscare la ragione e alterare i ricordi in modi che gli altri non riescono a compren"
+      },
       {
         "title": "Tunisia, società civile in piazza per liberazione attivisti della Flotilla Soumoud",
         "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/tunisia-societa-civile-in-piazza-per-liberazione-attivisti-della-flotilla-soumoud_117275cb-35b3-4a2b-ad01-16cbd6a52c38.html",
@@ -335,30 +342,44 @@
         "source": "Repubblica Esteri",
         "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
         "excerpt": "L’Alto commissario delle Nazioni Unite invoca un vertice per discutere di una governance mondiale dell’intelligenza artificiale"
-      },
-      {
-        "title": "Ignatieff: “Dalla sanità alla libertà di parola abbiamo valori comuni”",
-        "link": "https://www.repubblica.it/esteri/2026/09/18/news/ignatieff_intervista_canada_ue_armi_sanita_liberta_parola_gia_molto_allineati_a_europa-425591595/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
-        "excerpt": "L’ex leader del partito liberale canadese: “La nostra società, il modello politico e le istituzioni si basano sugli stessi valori democratici”"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Alessandro Di Battista: 'Sto molto meglio, finalmente sono a casa'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/18/di-battista-sto-molto-meglio-finalmente-sono-a-casa_6b4d3f7a-d32b-4e7e-b559-7fac35a65ab0.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 09:32:07 +0200",
+      "excerpt": "Posta una foto e ringrazia i medici del Gemelli: 'Nelle prossime settimane vi racconterò il percorso che dovrò affrontare'"
+    },
+    {
+      "title": "++ Salvini, in prossimo cdm decreto per altro rinvio a stop diesel Euro 5 ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/18/salvini-in-prossimo-cdm-decreto-per-altro-rinvio-a-stop-diesel-euro_d378db89-8091-4242-86d9-e786ccdbfefb.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 09:22:01 +0200",
+      "excerpt": "'Per dare ossigeno a centinaia di migliaia di persone per tutto il 2027'"
+    },
+    {
+      "title": "Di Battista: “Sto molto meglio, finalmente sono a casa”",
+      "link": "https://www.repubblica.it/politica/2026/09/18/news/di_battista_esce_ospedale_post_instagram_sto_meglio-425592373/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 07:19:15 +0000",
+      "excerpt": "L’ex M5s pubblica una sua foto e ringrazia i medici del Gemelli e i suoi sostenitori per l'affetto"
+    },
+    {
+      "title": "I 50 anni di Ronaldo, Fenomeno per sempre",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/18/news/ronaldo_fenomeno_compleanno_50_anni-425592334/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 07:12:20 +0000",
+      "excerpt": "L’ex attaccante brasiliano dell’Inter taglia il traguardo del mezzo secolo. Le sue giocate sono entrate nella storia, oggi porta in giro per il mondo una leggenda che non tramonta"
+    },
     {
       "title": "Nyt, Trump valuta accordi commerciali con Putin prima della fine della guerra",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_8d407127-2c4e-4b8f-8dd8-0eac83dd896b.html",
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 08:09:18 +0200",
       "excerpt": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina"
-    },
-    {
-      "title": "I russi votano per la Duma, un test scontato per Putin e la guerra",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/i-russi-votano-per-la-duma-un-test-scontato-per-putin-e-la-guerra_edecbad9-f0da-4d4a-87bd-baef174b1ae2.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 07:46:59 +0200",
-      "excerpt": "'Risposta a chi ci vuole indebolire'. Esclusi dalle schede i pacifisti"
     },
     {
       "title": "La pozione magica dei calciatori",
@@ -373,13 +394,6 @@
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 03:40:41 +0000",
       "excerpt": "L’azienda ha spiegato anche come lo stesso assistente virtuale stia anche lavorando alla sua versione futura"
-    },
-    {
-      "title": "Smart working addio? Quando l'azienda è obbligata a dire sì",
-      "link": "https://www.repubblica.it/economia/diritti-e-consumi/lavoro/2026/09/18/news/smart_working_addio_azienda_obbligata-425591636/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 03:00:00 +0000",
-      "excerpt": "Dal caso di Beatrice Baratto, che si è dimessa dopo essersi vista negare lavoro agile e part-time, alla stretta crescente delle aziende. Ecco tutte le risposte su un tema che genera molta confusione, soprattutto dopo la "
     },
     {
       "title": "Manager di Microsoft: “L’addestramento dell'Ia è il più grande furto di lavoro della storia”",
@@ -408,20 +422,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
       "excerpt": "Il referente nazionale della Confapi: “Manca l’ascolto delle famiglie e delle imprese”"
-    },
-    {
-      "title": "Bollo auto, conto medio di 163 euro a veicolo. Per Salvini 24 milioni di beneficiari",
-      "link": "https://www.repubblica.it/economia/2026/09/18/news/bollo_auto_conto_medio_di_163_euro_a_veicolo_per_salvini_24_milioni_di_beneficiari-425591899/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
-      "excerpt": "I numeri del Mit sono diversi da quelli di Palazzo Chigi: mercoledì si parlava di 14,5 milioni di vetture interessate"
-    },
-    {
-      "title": "Il piano di Crosetto, 'navi italiane a Bab el-Mandeb senza aspettare l'Ue'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/17/crosetto-navi-militari-italiane-a-bab-el-mandeb-per-ripristino-dei-traffici_5b0db8d7-6df3-4d2b-838c-9d5eca2fce0e.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 17 Sep 2026 22:19:13 +0200",
-      "excerpt": "Il ministro della Difesa: 'Ci attiveremo per farle passare. Ma decideremo altri invii con Governo e Parlamento'"
     },
     {
       "title": "Siamo Serie: Etoile, Jovayork - La musica dell'anima, Xoftex",
