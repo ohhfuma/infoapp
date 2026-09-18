@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T22:37:12.838Z",
+  "lastUpdated": "2026-09-18T23:07:34.525Z",
   "finanza": {
     "italia": [
       {
@@ -232,6 +232,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Inchiesta su collusione tra gang e politica a San Paolo, in manette politico di spicco",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/inchiesta-su-collusione-tra-gang-e-politica-a-san-paolo-in-manette-politico-di-spicco_e73b43b2-6964-4f37-a451-4e6a32f8d9b6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 00:42:55 +0200",
+        "excerpt": "L'ex presidente del consiglio municipale, Milton Leite, avrebbe fatto da prestanome al Pcc"
+      },
+      {
+        "title": "Trump annuncia l'accordo sulla Groenlandia: “Controlleremo la sua sicurezza”",
+        "link": "https://www.repubblica.it/esteri/2026/09/19/news/la_sfida_usa_all_europa_un_piano_per_ritirare_oltre_25mila_militari_dalle_basi_nel_vecchio_continente-425594273/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 19 Sep 2026 00:41:00 +0200",
+        "excerpt": "L’intesa impedisce a Cina, Russia e ad altri Paesi che non fanno parte della Nato di creare basi militari o avere soldati in Groenlandia"
+      },
+      {
         "title": "Trump firma la legge che impone nuove sanzioni contro la Russia",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/trump-firma-la-legge-che-impone-nuove-sanzioni-contro-la-russia_4d778a62-a94a-4664-b121-8631c9e2e78c.html",
         "source": "ANSA Mondo",
@@ -288,13 +302,6 @@
         "excerpt": ""
       },
       {
-        "title": "Putin, 'elettori in Europa hanno chiarito che non vogliono guerra con la Russia'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/putin-elettori-in-europa-hanno-chiarito-che-non-vogliono-guerra-con_87fbb488-ff75-4081-a20f-569e1b7b6179.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 21:43:32 +0200",
-        "excerpt": ""
-      },
-      {
         "title": "Arabia Saudita, gli Houthi attaccano una base aerea: colpito Eurofighter italiano. Crosetto: “Nessun ferito”",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/arabia_saudita_houthi_attaccano_base_aerea_taif_colpito_eurofighter_italiano_crosetto-425592674/?rss",
         "source": "Repubblica Esteri",
@@ -330,13 +337,6 @@
         "excerpt": "Estremamente eterogeneo, il movimento che da due anni è spina nel fianco del presidente serbo presenta la sua lista. Ma fra i 250 candidati ci sono personaggi agli antipodi. E così rischiano di deragliare"
       },
       {
-        "title": "Le nuove accuse nel libro del fratello di Lady Diana: “Carlo era euforico dopo la sua morte”",
-        "link": "https://www.repubblica.it/esteri/2026/09/18/news/regno_unito_accuse_libro_fratello_diana_carlo_euforico_dopo_morte-425592381/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 18 Sep 2026 10:48:01 +0200",
-        "excerpt": "Continuano le rivelazioni delle memorie del conte Spencer: “L’allora principe era felice come se avesse vinto alla lotteria e le disse di non amarla poco prima del matrimonio. Mia sorella voleva suicidarsi da una scoglie"
-      },
-      {
         "title": "L’allarme dell’Fbi: online falsi profili di donne conservatrici per adescare gli agenti dell’Ice",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/usa_allarme_fbi_online_falsi_profili_donne_conservatrici_adescare_agenti_ice-425592492/?rss",
         "source": "Repubblica Esteri",
@@ -346,6 +346,20 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Trump annuncia l'accordo sulla Groenlandia: \"Controlleremo la sua sicurezza”",
+      "link": "https://www.repubblica.it/esteri/2026/09/19/news/la_sfida_usa_all_europa_un_piano_per_ritirare_oltre_25mila_militari_dalle_basi_nel_vecchio_continente-425594273/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 23:00:00 +0000",
+      "excerpt": "L’intesa impedisce a Cina, Russia e ad altri Paesi che non fanno parte della Nato di creare basi militari o avere soldati in Groenlandia"
+    },
+    {
+      "title": "Sandro Mazzola è morto, icona dell’Inter e della Nazionale: aveva 83 anni",
+      "link": "https://www.repubblica.it/sport/2026/09/19/news/sandro_mazzola_morto_campione_inter_nazionale-425594385/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 22:45:32 +0000",
+      "excerpt": "Figlio di Valentino, fu campione d’Europa nel 1968 e la staffetta con Rivera ai Mondiali del 1970"
+    },
     {
       "title": "Trump: 'Accordo con Danimarca e Groenlandia per il controllo Usa della sicurezza dell'isola'",
       "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-il-controllo-usa-della-sicurezza_1cca247f-3819-4ca1-8017-ce344cbcec44.html",
@@ -417,25 +431,11 @@
       "excerpt": "La settimana prossima il sì in Comune poi cerimonia"
     },
     {
-      "title": "Mancini cambia l’Italia: nove esordienti e c’è anche Maldini",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/18/news/mancini_convocazioni_daniel_maldini_zaniolo_fagioli_nazionale-425593779/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 16:55:39 +0000",
-      "excerpt": "Il ct convoca 34 giocatori per le quattro partite di Nations League. Le novità, da Pessina a Kouadio. Fuori Politano e Retegui"
-    },
-    {
       "title": "Il Gruppo Barilla presenta il nuovo piano industriale per il mezzogiorno",
       "link": "https://www.ansa.it/native/ansacom/2026/09/18/il-gruppo-barilla-presenta-il-nuovo-piano-industriale-per-il-mezzogiorno_f4934ab3-1f91-410e-870b-204806bbdd6c.html",
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 18:36:18 +0200",
       "excerpt": ""
-    },
-    {
-      "title": "\"Intascavano i fondi pubblici delle scuole professionali\": Nembrini e la moglie ai domiciliari",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/18/news/nembrini_arrestato_fondazione_scuole_professionali_bergamo_truffa_fondi_pubblici-425593637/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 15:45:14 +0000",
-      "excerpt": "Il promotore della Fondazione San Michele Arcangelo accusato di peculato e truffa ai danni dello Stato: per i pm sottratti 4 milioni di euro. Aveva intestato tutto alla moglie per risultare nullatenente"
     },
     {
       "title": "Sciopero negli Apple Store italiani nel giorno dei nuovi iPhone",
