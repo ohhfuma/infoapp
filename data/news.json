@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-18T06:10:09.702Z",
+  "lastUpdated": "2026-09-18T06:42:08.630Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Revolut, i primi accertamenti non confermano il furto di 147 gigabyte di dati al Viminale",
+        "link": "https://www.ilsole24ore.com/art/revolut-primi-accertamenti-non-confermano-furto-147-gigabyte-dati-viminale-AJcNmXGB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 18 Sep 2026 06:37:10 GMT",
+        "excerpt": "I primi riscontri della Polizia Postale tendono a escludere l’esfiltrazione di informazioni dai sistemi del ministero dell’Interno"
+      },
+      {
+        "title": "Euro poco mosso, scambiato a 1,1480 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/euro-poco-mosso-scambiato-a-11480-dollari_91743980-7827-4268-b5d0-5c6264ca2ec1.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 08:11:17 +0200",
+        "excerpt": "In crescita sullo yen a 180,5200"
+      },
       {
         "title": "Prezzo dell'oro in rialzo, Spot scambiato a 4.372 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/prezzo-delloro-in-rialzo-spot-scambiato-a-4.372-dollari_13cfd42d-fd20-4b42-a0dc-0631cda3c736.html",
@@ -150,25 +164,11 @@
         "excerpt": "È stato pubblicato in Gazzetta Ufficiale ed entra in vigore da domani 18 settembre il decreto che contiene il nuovo sconto sulle accise del gasolio e lo stop per il..."
       },
       {
-        "title": "Energia, difesa, materie prime critiche: Meloni stringe l’asse con la Norvegia guardando all’Artico",
-        "link": "https://www.ilsole24ore.com/art/energia-difesa-materie-prime-critiche-meloni-stringe-l-asse-la-norvegia-guardando-all-artico-AJ5v0OGB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 17 Sep 2026 17:34:00 GMT",
-        "excerpt": "«Per noi la Norvegia è un partner di primo piano in Europa. Lo è certamente per il ruolo che tutti conoscono nella diversificazione degli approvvigionamenti energetici italiani: è il nostro..."
-      },
-      {
         "title": "Camilli (Confindustria), sbloccare il risparmio in investimenti con misure in manovra",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/camilli-confindustria-sbloccare-il-risparmio-in-investimenti-con-misure-in-manovra_d16a15fd-c8ed-4048-969c-c08a66018dd5.html",
         "source": "ANSA Economia",
         "pubDate": "Thu, 17 Sep 2026 19:05:17 +0200",
         "excerpt": "25 miliardi da 1% risparmi famiglie e 2,5% risorse degli enti di previdenza"
-      },
-      {
-        "title": "Lo spread Btp-Bund chiude stabile a quota 86, rendimenti in calo",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/17/lo-spread-btp-bund-chiude-stabile-a-quota-86-rendimenti-in-calo_49183e2f-029d-47be-b20e-c9f390ae50b3.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 17 Sep 2026 18:11:15 +0200",
-        "excerpt": "Il decennale italiano scende di due punti base al 4,338%"
       }
     ],
     "europa": [
@@ -323,11 +323,11 @@
         "excerpt": "Ottawa e Bruxelles vanno oltre il trattato di libero scambio alta tecnologia, difesa e minerali sono la nuova frontiera"
       },
       {
-        "title": "Il dissidente: “La protesta cresce e ora Putin teme i voti contro la guerra”",
+        "title": "Il dissidente Kara-Murza: “La protesta cresce e ora Putin teme i voti contro la guerra”",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/intervista_kara_murza_dissidente_russo_protesta_cresce_ora_putin_teme_voti_contro_guerra-425591789/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
-        "excerpt": "L’oppositore russo Kara-Murza invita a trasformare le elezioni della Duma in una protesta: “Tutti alle urne alle 12 per annullare la scheda”"
+        "excerpt": "L’oppositore russo ex prigioniero politico invita a trasformare le elezioni della Duma in una protesta nazionale: “Tutti alle urne alle 12 per annullare la scheda”. E aggiunge: “L’esclusione di Yabloko e le urne aperte n"
       },
       {
         "title": "Turk: “Diritti umani a rischio, serve una Yalta per governare l’evoluzione della tecnologia”",
@@ -347,18 +347,18 @@
   },
   "attualita": [
     {
+      "title": "Nyt, Trump valuta accordi commerciali con Putin prima della fine della guerra",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_8d407127-2c4e-4b8f-8dd8-0eac83dd896b.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 08:09:18 +0200",
+      "excerpt": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina"
+    },
+    {
       "title": "I russi votano per la Duma, un test scontato per Putin e la guerra",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/i-russi-votano-per-la-duma-un-test-scontato-per-putin-e-la-guerra_edecbad9-f0da-4d4a-87bd-baef174b1ae2.html",
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 07:46:59 +0200",
       "excerpt": "'Risposta a chi ci vuole indebolire'. Esclusi dalle schede i pacifisti"
-    },
-    {
-      "title": "Nyt, Trump valuta accordi commerciali con Putin prima della fine della guerra",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_8d407127-2c4e-4b8f-8dd8-0eac83dd896b.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 07:44:49 +0200",
-      "excerpt": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina"
     },
     {
       "title": "La pozione magica dei calciatori",
@@ -393,7 +393,7 @@
       "link": "https://www.repubblica.it/politica/2026/09/18/news/schlein_stupore_fuoco_amico_nessuna_trattativa_meloni-425591940/",
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
-      "excerpt": "La mancata condivisione alla base dell’irritazione del capo del Movimento. Avs sta lavorando a una proposta di legge unitaria"
+      "excerpt": "La lettera della segretaria del Pd a Meloni. La mancata condivisione alla base dell’irritazione del capo del Movimento. Avs sta lavorando a una proposta di legge unitaria"
     },
     {
       "title": "Meloni chiama Schlein sul patto per l’energia ma è lite nel campo largo",
