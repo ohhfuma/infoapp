@@ -4,6 +4,34 @@
   "finanza": {
     "italia": [
       {
+        "title": "Prezzo dell'oro in rialzo, Spot scambiato a 4.372 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/prezzo-delloro-in-rialzo-spot-scambiato-a-4.372-dollari_13cfd42d-fd20-4b42-a0dc-0631cda3c736.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 08:07:45 +0200",
+        "excerpt": "Quotazione sale dello 0,72%"
+      },
+      {
+        "title": "Prezzo del petrolio in ribasso, Wti scambiato a 100,85 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/prezzo-del-petrolio-in-ribasso-wti-scambiato-a-10085-dollari_af8a3abf-3326-49b4-a93c-459af86bcfeb.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 07:59:05 +0200",
+        "excerpt": "Brent passa di mano a 103,29 dollari"
+      },
+      {
+        "title": "Accise, parte il nuovo sconto alleggerito: ecco di quanto aumenterà il prezzo del gasolio",
+        "link": "https://www.ilsole24ore.com/art/accise-parte-nuovo-sconto-alleggerito-ecco-quanto-aumentera-prezzo-gasolio-AJg7hWGB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 18 Sep 2026 05:52:26 GMT",
+        "excerpt": "La strategia messa in campo dal Governo per uscire dal tunnel lungo e dispendioso dei tagli accise prevede sconti in diverse tappe"
+      },
+      {
+        "title": "Al via l'Opa di Webuild su Trevi Finanziaria, si parte il 28 settembre",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/al-via-lopa-di-webuild-su-trevi-finanziaria-si-parte-il-28-settembre_6cfe0064-0ca6-4fe5-b33f-cb0e8b593eda.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 07:42:37 +0200",
+        "excerpt": "Pubblicato il documento d'offerta approvato dalla Consob"
+      },
+      {
         "title": "Enoturismo: l’Umbria scommette sulle nuove rotte del turismo internazionale",
         "link": "https://www.ilsole24ore.com/art/enoturismo-l-umbria-scommette-nuove-rotte-turismo-internazionale-AJ6LIUGB",
         "source": "Il Sole 24 Ore",
@@ -338,6 +366,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Nyt, Trump valuta accordi commerciali con Putin prima della fine della guerra",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_3e9673b9-5c3f-46d0-b7d4-c661d2abdb97.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 07:39:43 +0200",
+        "excerpt": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina"
+      },
+      {
+        "title": "Nyt, Trump valuta accordi commerciali con Putin prima della fine della guerra",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_2733b922-9f9f-478a-ae5d-85287aeca750.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 07:39:43 +0200",
+        "excerpt": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina"
+      },
+      {
         "title": "Trump e la demolizione del Kennedy Center: le foto dal finestrino dell’Air force one",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/trump_e_la_demolizione_del_kennedy_center_le_foto_dal_finestrino_dell_air_force_one-425592132/?rss",
         "source": "Repubblica Esteri",
@@ -585,6 +627,20 @@
     ]
   },
   "attualita": [
+    {
+      "title": "I russi votano per la Duma, un test scontato per Putin e la guerra",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/17/i-russi-votano-per-la-duma-un-test-scontato-per-putin-e-la-guerra_edecbad9-f0da-4d4a-87bd-baef174b1ae2.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 07:46:59 +0200",
+      "excerpt": "'Risposta a chi ci vuole indebolire'. Esclusi dalle schede i pacifisti"
+    },
+    {
+      "title": "Nyt, Trump valuta accordi commerciali con Putin prima della fine della guerra",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_8d407127-2c4e-4b8f-8dd8-0eac83dd896b.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 07:44:49 +0200",
+      "excerpt": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina"
+    },
     {
       "title": "La pozione magica dei calciatori",
       "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/09/18/news/la_pozione_magica_dei_calciatori-425592134/",
