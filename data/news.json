@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-18T14:07:50.841Z",
+  "lastUpdated": "2026-09-18T14:38:49.420Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Assegno unico, al via controlli Inps: rideterminazione degli importi già da settembre",
+        "link": "https://www.repubblica.it/economia/2026/09/18/news/assegno_unico_controlli_inps_rideterminazione_importi_settembre-425593459/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 16:31:45 +0200",
+        "excerpt": "Le verifiche si basano sulle informazioni fornite nella Dichiarazione sostitutiva unica che permettono di individuare il proprio livello Isee: “Possibili omissioni o incongruenze, necessari approfondimenti”"
+      },
+      {
+        "title": "Assolatte, prima volta a metà anno export formaggi sopra 3 miliardi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/assolatte-prima-volta-a-meta-anno-export-formaggi-sopra-3-miliardi_fb7a73bf-850b-47c6-851e-082a94f8d28e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 16:10:37 +0200",
+        "excerpt": "Trainano Mozzarella (+3%), Provolone (+5,6%), Grana Padano e Parmigiano Reggiano (+3,5%)"
+      },
+      {
+        "title": "Tensione sui titoli di Stato, lo spread Btp-Bund a 90 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/tensione-sui-titoli-di-stato-lo-spread-btp-bund-a-90-punti_dcb08fce-632c-411d-9319-957fc46e0b5b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 16:07:04 +0200",
+        "excerpt": "Il rendimento del decennale italiano sale di 9 punti base al 4,43%"
+      },
       {
         "title": "Borsa: l'Europa in calo dopo Wall Street, Milano -1,6%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-leuropa-in-calo-dopo-wall-street-milano-16_9e963201-3da2-4bd0-ac2b-447bb2c81475.html",
@@ -59,20 +80,6 @@
         "excerpt": "Al termine del colloquio, i due ministri hanno incontrato una selezione di imprese italiane con importanti interessi nel mercato turco, attive nei settori delle infrastrutture e trasporti, difesa e aerospazio, energia, t"
       },
       {
-        "title": "Un reattore nucleare in Italia entro il 2035, il piano di Edf: “Energia a 100 euro al megawattora”",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/reattore_nucleare_italia_2035_piano_edf_edison_energia-425592747/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 15:07:19 +0200",
-        "excerpt": "L’impianto di Nuward, controllata del gruppo francese, arriverà nel nostro Paese con il supporto di Edison e fa parte di un pacchetto di 10 reattori previsti per tutta l’Europa. Ecco come funzionerà"
-      },
-      {
-        "title": "Buffett lascia la presidenza di Berkshire Hathaway, al suo posto il figlio",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/buffett-lascia-la-presidenza-di-berkshire-hathaway-al-suo-posto-il-figlio_e503e2dc-bf9f-4ed4-978c-0e24c9d4bf95.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 14:38:07 +0200",
-        "excerpt": "Ha guidato il gruppo per 60 anni"
-      },
-      {
         "title": "Withers – Tra successioni e investimenti: gli hotel italiani nel radar dei family office",
         "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/09/18/news/withers__tra_successioni_e_investimenti_gli_hotel_italiani_nel_radar_dei_family_office-425593171/?rss",
         "source": "Repubblica Economia",
@@ -113,13 +120,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 18 Sep 2026 13:43:26 +0200",
         "excerpt": "'Ha fatto più clamore stop che 40-50 miliardi di taglio delle tasse'"
-      },
-      {
-        "title": "Giorgetti, 'sono speranzoso sull'uscita dalla procedura Ue per disavanzo'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/giorgetti-sono-speranzoso-sulluscita-dalla-procedura-ue-per-disavanzo_c32454d3-466c-4c5b-9b1c-dec9fce458a5.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 13:36:34 +0200",
-        "excerpt": "'E' una decisione che prende l'Istat, che agisce con indipendenza'"
       },
       {
         "title": "Putin mette le mani sulle filiali russe di Nestlé e Auchan: “Rappresentano Paesi ostili”",
@@ -180,7 +180,7 @@
         "excerpt": "È già febbre da titolo a New York, ma assistere alla cerimonia con cui i Knicks celebreranno la conquista del loro primo campionato della National Basketball Association (Nba) dal 1973..."
       },
       {
-        "title": "Guerra ultime notizie. Fregata Bergamini scorta mercantile italiano a Bab el-Mandeb",
+        "title": "Guerra ultime notizie. Riparte Aspides: la Fregata Bergamini scorta mercantile italiano a Bab el-Mandeb",
         "link": "https://www.ilsole24ore.com/art/pentagono-valuta-ritirare-25000-soldati-dall-europa-AJFDSwGB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 18 Sep 2026 05:34:00 GMT",
@@ -231,6 +231,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "La fregata Bergamini scorta un mercantile italiano a Bab el-Mandeb",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 16:14:50 +0200",
+        "excerpt": "La Marina: 'Nell'ambito dell'operazione Aspides, segnale concreto, arrivato con ottimo tempismo'"
+      },
       {
         "title": "Australia, stretta sui visti: per i backpacker c’è la lotteria. Timori per la carenza di manodopera",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/australia_stretta_su_visti_per_backpacker_lotteria_timori_carenza_manodopera-425593332/?rss",
@@ -288,13 +295,6 @@
         "excerpt": "Nuova riunione del Coreper per lunedì, la scadenza è martedì a mezzanotte"
       },
       {
-        "title": "Media, 'Riad propone una tregua di due settimane, ma Houthi scettici'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/18/media-riad-propone-una-tregua-di-due-settimane-ma-houthi-scettici_47372400-530a-4ee8-a2df-b04b2b656c50.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 13:04:46 +0200",
-        "excerpt": "Quotidiano libanese vicino a Hezbollah, 'I ribelli yemeniti auspicano soluzione completa'"
-      },
-      {
         "title": "Ecologisti e nazionalisti, rivoluzionari e conservatori. Contro Vucic gli studenti candidano tutti",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/elezioni_serbia_vucic_movimento_studenti_candidati_lista-425592824/?rss",
         "source": "Repubblica Esteri",
@@ -347,11 +347,18 @@
   },
   "attualita": [
     {
-      "title": "++ Fregata Bergamini scorta mercantile italiano a Bab el-Mandeb ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/18/-fregata-bergamini-scorta-mercantile-italiano-a-bab-el-mandeb-_b4872607-dfe5-4798-893c-82212e25ae9e.html",
+      "title": "Macron avverte: 'Gli attacchi ibridi russi non resteranno senza risposta'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/macron-serve-piano-per-proteggere-infrastrutture-critiche-da-attacchi-ibridi-russi_ed3e6373-9e89-4972-8f17-40a2bc553c98.html",
       "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 15:53:35 +0200",
-      "excerpt": "Marina: 'Nell'ambito operazione Aspides, segnale concreto, arrivato con ottimo tempismo'"
+      "pubDate": "Fri, 18 Sep 2026 16:19:43 +0200",
+      "excerpt": "'Sarebbe un errore se Mosca continuasse ad agire in questo modo con gli europei'"
+    },
+    {
+      "title": "La fregata Bergamini scorta un mercantile italiano a Bab el-Mandeb",
+      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 16:14:50 +0200",
+      "excerpt": "La Marina: 'Nell'ambito dell'operazione Aspides, segnale concreto, arrivato con ottimo tempismo'"
     },
     {
       "title": "Australia, stretta sui visti: per i backpacker c’è la lotteria. Timori per la carenza di manodopera",
@@ -380,13 +387,6 @@
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 14:52:59 +0200",
       "excerpt": "Il ragazzo tentava di filmare l'aggressione, a fermarlo un compagno di scuola. La docente di lettere è all'ultimo anno di lavoro prima della pensione"
-    },
-    {
-      "title": "Macron avverte: 'Gli attacchi ibridi russi non resteranno senza risposta'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/macron-serve-piano-per-proteggere-infrastrutture-critiche-da-attacchi-ibridi-russi_ed3e6373-9e89-4972-8f17-40a2bc553c98.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 14:51:29 +0200",
-      "excerpt": "'Sarebbe un errore se Mosca continuasse ad agire in questo modo con gli europei'"
     },
     {
       "title": "M5S, ecco le proposte: stop alle armi a Kiev e al piano di riarmo Ue. Schlein: “Troveremo accordo”",
@@ -517,6 +517,20 @@
   ],
   "sport": [
     {
+      "title": "Frosinone; Monterisi, 'Como forte ma sappiamo cosa dobbiamo fare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/frosinone-monterisi-como-forte-ma-sappiamo-cosa-dobbiamo-fare_a16575d6-66fe-4050-b634-b38b963e6302.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 16:21:35 +0200",
+      "excerpt": "Capitano: 'c'e' un'atmosfera positiva e la squadra e' unita'"
+    },
+    {
+      "title": "Canoa: sulle acque della Dora Baltea a Ivrea gli europei di kayak",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/18/canoa-sulle-acque-della-dora-baltea-a-ivrea-gli-europei-di-kayak_4ec00b61-963a-4e96-9459-ddc506f3103e.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 16:07:24 +0200",
+      "excerpt": "Da giovedì 24 a sabato 26 settembre i 'Paddle Europe Slalom Championships'"
+    },
+    {
       "title": "Fabregas \"Roma-Inter grande partita, non una sfida tra nostre rivali\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/fabregas-roma-inter-grande-partita-non-una-sfida-tra-nostre_6de48a12-772c-4f3d-b194-370c319e27d8.html",
       "source": "ANSA Sport",
@@ -557,20 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Fri, 18 Sep 2026 14:37:17 +0200",
       "excerpt": "Domani il match dei quarti per l'Italia allenata da Matteucci"
-    },
-    {
-      "title": "Stroppa, 'la Lazio una delle più in forma del campionato'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/stroppa-la-lazio-una-delle-piu-in-forma-del-campionato_89453d7f-7930-45c0-9d82-68066b1dbad3.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 14:36:31 +0200",
-      "excerpt": "'Il sostegno della piazza può fare la differenza nelle partite in casa'"
-    },
-    {
-      "title": "Basket: Pippo Ricci incontra gli studenti della Lumsa a Roma",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/18/basket-pippo-ricci-incontra-gli-studenti-della-lumsa-a-roma_fb7c39f3-2ad5-405a-8e80-986846fd1823.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 14:01:47 +0200",
-      "excerpt": "Laureato in matematica e ala dell'Italia racconta la sua storia"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

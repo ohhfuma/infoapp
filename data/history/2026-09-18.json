@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Assegno unico, al via controlli Inps: rideterminazione degli importi già da settembre",
+        "link": "https://www.repubblica.it/economia/2026/09/18/news/assegno_unico_controlli_inps_rideterminazione_importi_settembre-425593459/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 16:31:45 +0200",
+        "excerpt": "Le verifiche si basano sulle informazioni fornite nella Dichiarazione sostitutiva unica che permettono di individuare il proprio livello Isee: “Possibili omissioni o incongruenze, necessari approfondimenti”"
+      },
+      {
+        "title": "Assolatte, prima volta a metà anno export formaggi sopra 3 miliardi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/assolatte-prima-volta-a-meta-anno-export-formaggi-sopra-3-miliardi_fb7a73bf-850b-47c6-851e-082a94f8d28e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 16:10:37 +0200",
+        "excerpt": "Trainano Mozzarella (+3%), Provolone (+5,6%), Grana Padano e Parmigiano Reggiano (+3,5%)"
+      },
+      {
+        "title": "Tensione sui titoli di Stato, lo spread Btp-Bund a 90 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/tensione-sui-titoli-di-stato-lo-spread-btp-bund-a-90-punti_dcb08fce-632c-411d-9319-957fc46e0b5b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 16:07:04 +0200",
+        "excerpt": "Il rendimento del decennale italiano sale di 9 punti base al 4,43%"
+      },
+      {
         "title": "Borsa: l'Europa in calo dopo Wall Street, Milano -1,6%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-leuropa-in-calo-dopo-wall-street-milano-16_9e963201-3da2-4bd0-ac2b-447bb2c81475.html",
         "source": "ANSA Economia",
@@ -401,27 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 18 Sep 2026 06:37:10 GMT",
         "excerpt": "I primi riscontri della Polizia Postale tendono a escludere l’esfiltrazione di informazioni dai sistemi del ministero dell’Interno"
-      },
-      {
-        "title": "Euro poco mosso, scambiato a 1,1480 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/euro-poco-mosso-scambiato-a-11480-dollari_91743980-7827-4268-b5d0-5c6264ca2ec1.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 08:11:17 +0200",
-        "excerpt": "In crescita sullo yen a 180,5200"
-      },
-      {
-        "title": "Prezzo dell'oro in rialzo, Spot scambiato a 4.372 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/prezzo-delloro-in-rialzo-spot-scambiato-a-4.372-dollari_13cfd42d-fd20-4b42-a0dc-0631cda3c736.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 08:07:45 +0200",
-        "excerpt": "Quotazione sale dello 0,72%"
-      },
-      {
-        "title": "Prezzo del petrolio in ribasso, Wti scambiato a 100,85 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/prezzo-del-petrolio-in-ribasso-wti-scambiato-a-10085-dollari_af8a3abf-3326-49b4-a93c-459af86bcfeb.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 07:59:05 +0200",
-        "excerpt": "Brent passa di mano a 103,29 dollari"
       }
     ],
     "europa": [
@@ -505,6 +505,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "La fregata Bergamini scorta un mercantile italiano a Bab el-Mandeb",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 16:14:50 +0200",
+        "excerpt": "La Marina: 'Nell'ambito dell'operazione Aspides, segnale concreto, arrivato con ottimo tempismo'"
+      },
       {
         "title": "Australia, stretta sui visti: per i backpacker c’è la lotteria. Timori per la carenza di manodopera",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/australia_stretta_su_visti_per_backpacker_lotteria_timori_carenza_manodopera-425593332/?rss",
@@ -917,17 +924,17 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 13:32:22 +0200",
         "excerpt": "Il pacchetto di misure in vigore dal 2027 contro le scalate imprudenti durante il periodo di chiusura della montagna in cui gli escursionisti si trovano ad affrontare condizioni estreme, come raffiche di vento gelido e p"
-      },
-      {
-        "title": "Mojtaba Khamenei, il leader iraniano invisibile che ama Christopher Nolan e le serie tv americane",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/mojtaba_khamenei_iran_christopher_nolan_e_le_serie_tv_americane-425590436/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 11:11:37 +0200",
-        "excerpt": "Mentre la sua assenza pubblica alimenta sospetti e cospirazionismi, il cognato racconta che la Guida suprema è un fan del regista di Odissea. Intanto, gli iraniani intanto si interrogano su quali siano le sue reali condi"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "La fregata Bergamini scorta un mercantile italiano a Bab el-Mandeb",
+      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 16:14:50 +0200",
+      "excerpt": "La Marina: 'Nell'ambito dell'operazione Aspides, segnale concreto, arrivato con ottimo tempismo'"
+    },
     {
       "title": "++ Fregata Bergamini scorta mercantile italiano a Bab el-Mandeb ++",
       "link": "https://www.ansa.it/sito/notizie/flash/2026/09/18/-fregata-bergamini-scorta-mercantile-italiano-a-bab-el-mandeb-_b4872607-dfe5-4798-893c-82212e25ae9e.html",
@@ -1340,16 +1347,23 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 21:42:30 +0000",
       "excerpt": "A Modena battuta la Slovenia 3-2 (25-19 25-22 27-29 19-25 e 15-9). Gli azzurri conquistano subito i due set necessari per finire primi nel girone, poi le riserve cedono terzo e quarto set prima di reagire e vincere al ti"
-    },
-    {
-      "title": "Juve a valanga in Europa, 5-0 al Nec. Primi gol per Alajbegovic e Woltemade, si sblocca Kolo Muani",
-      "link": "https://www.repubblica.it/sport/calcio/coppe/2026/09/17/news/juventus_nec_europa_league_gol_woltemade_kolo_muani-425591913/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 21:08:57 +0000",
-      "excerpt": "Tutto facile per i bianconeri nella prima di Europa League contro gli olandesi. A segno anche Nico Gonzalez e Celik"
     }
   ],
   "sport": [
+    {
+      "title": "Frosinone; Monterisi, 'Como forte ma sappiamo cosa dobbiamo fare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/frosinone-monterisi-como-forte-ma-sappiamo-cosa-dobbiamo-fare_a16575d6-66fe-4050-b634-b38b963e6302.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 16:21:35 +0200",
+      "excerpt": "Capitano: 'c'e' un'atmosfera positiva e la squadra e' unita'"
+    },
+    {
+      "title": "Canoa: sulle acque della Dora Baltea a Ivrea gli europei di kayak",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/18/canoa-sulle-acque-della-dora-baltea-a-ivrea-gli-europei-di-kayak_4ec00b61-963a-4e96-9459-ddc506f3103e.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 16:07:24 +0200",
+      "excerpt": "Da giovedì 24 a sabato 26 settembre i 'Paddle Europe Slalom Championships'"
+    },
     {
       "title": "Fabregas \"Roma-Inter grande partita, non una sfida tra nostre rivali\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/fabregas-roma-inter-grande-partita-non-una-sfida-tra-nostre_6de48a12-772c-4f3d-b194-370c319e27d8.html",
