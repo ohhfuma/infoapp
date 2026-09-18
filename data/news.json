@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-09-18T12:10:05.531Z",
+  "lastUpdated": "2026-09-18T12:41:49.912Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Withers – Tra successioni e investimenti: gli hotel italiani nel radar dei family office",
+        "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/09/18/news/withers__tra_successioni_e_investimenti_gli_hotel_italiani_nel_radar_dei_family_office-425593171/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 14:08:03 +0200",
+        "excerpt": "Nel settore alberghiero la successione è più complessa che altrove, perché un hotel non è solo un immobile: è insieme un’attività operativa, un marchio, un’organizzazione di persone e un’eredità familiare"
+      },
       {
         "title": "Giorgetti all’Ue: “Taglio del bollo coperto con soldi nazionali”. E mette in guardia sulle bollette",
         "link": "https://www.repubblica.it/economia/2026/09/18/news/giorgetti_guerre_energia_bollette_eurogruppo_tassi_bce-425593064/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 14:06:16 +0200",
         "excerpt": "Il ministro dell’Economia interviene dall’Eurogruppo ai Portofino talks e avverte: “Lo shock dell’energia peserà su famiglie e imprese”"
+      },
+      {
+        "title": "Assopetroli, taglio bollo anche per auto a metano e biometano",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/assopetroli-taglio-bollo-anche-per-auto-a-metano-e-biometano_e221cc79-539d-4d8b-abfc-524b9ba38f11.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 14:03:37 +0200",
+        "excerpt": "Dal 28 febbraio al 18 settembre carburante per autotrazione è aumentato del 33%"
       },
       {
         "title": "Casa ed edifici, come proteggerli. Guida per famiglie e imprese",
@@ -80,13 +94,6 @@
         "excerpt": "Ministro, \"una risposta concreta alle esigenze del comparto dando respiro alle Pmi\""
       },
       {
-        "title": "Lo spread della Francia sul Bund supera soglia 100 punti, ai massimi dal 2012",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/lo-spread-della-francia-sul-bund-supera-soglia-100-punti-ai-massimi_ed017a08-7bbf-4d90-9b5f-255a24ee3559.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 13:24:55 +0200",
-        "excerpt": "Allarme mercati per tenuta finanziaria del paese"
-      },
-      {
         "title": "Putin mette le mani sulle filiali russe di Nestlé e Auchan: “Rappresentano Paesi ostili”",
         "link": "https://www.repubblica.it/economia/2026/09/18/news/russia_nestle_auchan_amministrazione_attivita_putin_cremlino-425593051/?rss",
         "source": "Repubblica Economia",
@@ -134,13 +141,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 18 Sep 2026 09:35:00 GMT",
         "excerpt": "Partito tra le polemiche per il “bollino” come seminario formativo poi ritirato dal Viminale, è stato accompagnato da tensioni e scontri il convegno “Insicurezza urbana: il ruolo delle..."
-      },
-      {
-        "title": "La cortina contro l’inflazione si alza anche in Giappone: tassi ai massimi da 31 anni dopo Fed e Bce",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/inflazione_cortina_tassi_giappone_fed_bce-425592575/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 10:50:48 +0200",
-        "excerpt": "Dagli Stati Uniti a Sol Levante, le banche centrali corrono ai ripari per contenere la corsa dei prezzi alimentata dalle tensioni in Medio Oriente"
       },
       {
         "title": "Attacchi a base aerea in Arabia, Crosetto: colpito Eurofighter italiano",
@@ -232,18 +232,25 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Macron, la Francia convocherà un vertice G7 sull'energia",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/macron-la-francia-convochera-un-vertice-g7-sullenergia_53a8eda5-a87b-4cf1-a4b2-025510622b05.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 14:23:01 +0200",
+        "excerpt": "Lo ha detto nell'incontro all'Eliseo con i leader dei partiti sulla situazione geopolitica"
+      },
+      {
+        "title": "Macron, serve piano per proteggere infrastrutture critiche da attacchi ibridi russi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/macron-serve-piano-per-proteggere-infrastrutture-critiche-da-attacchi-ibridi-russi_6491f638-f096-4985-9887-8fe81a246493.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 14:19:56 +0200",
+        "excerpt": "'La natura dell'aggressività russa e delle minacce in Europa sta cambiando'"
+      },
+      {
         "title": "Ancora nessun accordo tra i 27 Ue sul rinnovo delle sanzioni a Mosca",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/ancora-nessun-accordo-tra-i-27-ue-sul-rinnovo-delle-sanzioni-a-mosca_9e3dd001-d9cc-4421-b5f5-95dfe3ec1e7a.html",
         "source": "ANSA Mondo",
         "pubDate": "Fri, 18 Sep 2026 13:45:12 +0200",
         "excerpt": "Nuova riunione del Coreper per lunedì, la scadenza è martedì a mezzanotte"
-      },
-      {
-        "title": "Le rivelazioni del fratello di Diana non risparmiano Elisabetta, reali in imbarazzo",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/le-rivelazioni-del-fratello-di-diana-non-risparmiano-elisabetta-reali-in-imbarazzo_2856effa-cb9d-4d67-9bb5-404f4e99439e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 13:34:36 +0200",
-        "excerpt": "'Libro-bomba' del conte Spencer continua a dominare i tabloid. Re Carlo sotto tiro"
       },
       {
         "title": "Media, 'Riad propone una tregua di due settimane, ma Houthi scettici'",
@@ -295,13 +302,6 @@
         "excerpt": "Sono necessari finanziamenti urgenti per garantire una risposta"
       },
       {
-        "title": "Tensione tra polizia e migranti durante il trasferimento al porto di Ceuta",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/tensione-tra-polizia-e-migranti-durante-il-trasferimento-al-porto-di-ceuta_b22ebf72-fee5-4967-8fd2-68a00ee187fb.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 10:48:24 +0200",
-        "excerpt": "Gli agenti sparano in aria e intervengono con i manganelli"
-      },
-      {
         "title": "Le nuove accuse nel libro del fratello di Lady Diana: “Carlo era euforico dopo la sua morte”",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/regno_unito_accuse_libro_fratello_diana_carlo_euforico_dopo_morte-425592381/?rss",
         "source": "Repubblica Esteri",
@@ -347,6 +347,20 @@
   },
   "attualita": [
     {
+      "title": "Il cervello non è uno solo, in realtà sono due organi distinti",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/18/il-cervello-non-e-uno-solo-in-realta-sono-due-organi-distinti_6583af22-554a-455b-b488-13b167a6806c.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 14:18:26 +0200",
+      "excerpt": "La scoperta apre nuove prospettive per lo studio di malattie neurologiche e dell'obesità"
+    },
+    {
+      "title": "Studente spruzza dello spray urticante e accoltella l'insegnante a Roma. Il racconto dei compagni: 'Aveva ricevuto un debito e la odiava'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/studente-spruzza-spray-urticante-e-accoltella-insegnante-a-roma_b2503db3-f84e-4e54-a32e-ea20c1f9cea7.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 14:09:34 +0200",
+      "excerpt": "Il ragazzo tentava di filmare l'aggressione, a fermarlo un compagno di scuola. La docente di lettere è all'ultimo anno di lavoro prima della pensione"
+    },
+    {
       "title": "Attacchi a una base aerea in Arabia, colpito Eurofighter italiano",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/attacchi-a-una-base-aerea-in-arabia-colpito-eurofighter-italiano_93788f9c-1612-4c9a-9f86-127f9d9c55d6.html",
       "source": "ANSA",
@@ -361,18 +375,18 @@
       "excerpt": "Il racconto agli investigatori della docente, ferita in classe dal tredicenne. Il marito: “Lei mi ha detto che quel ragazzo aveva un coltello lungo 30 centimetri. Devono arrestarlo”"
     },
     {
+      "title": "Morassut (Pd) chiede scioglimento di Fn per apologia fascismo. Il governo: è ancora libero pensiero",
+      "link": "https://www.repubblica.it/politica/2026/09/18/news/morassut_pd_scioglimento_futuro_nazionale_apologia_fascismo_sottosegretaria_ferro-425593090/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 11:41:47 +0000",
+      "excerpt": "Il deputato dem ha presentato un’interpellanza urgente alla Camera sul partito di Vannacci"
+    },
+    {
       "title": "Harry fa la sua prima apparizione pubblica dal ritorno nel Regno Unito",
       "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/18/harry-fa-la-sua-prima-apparizione-pubblica-dal-ritorno-nel-regno-unito_a8252f78-51a9-455b-89e1-3680499db965.html",
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 13:39:23 +0200",
       "excerpt": "Ieri a Londra ad una raccolta fondi per gli Invictus Games. Assente Meghan"
-    },
-    {
-      "title": "Studente spruzza dello spray urticante e accoltella l'insegnante a Roma. Il racconto dei compagni: 'Aveva ricevuto un debito e la odiava'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/studente-spruzza-spray-urticante-e-accoltella-insegnante-a-roma_b2503db3-f84e-4e54-a32e-ea20c1f9cea7.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 13:37:57 +0200",
-      "excerpt": "Il ragazzo tentava di filmare l'aggressione, a fermarlo un compagno di scuola. La docente di lettere è all'ultimo anno di lavoro prima della pensione"
     },
     {
       "title": "Tensioni a presidio anti-Vannacci, uova contro le forze dell'ordine",
@@ -410,6 +424,13 @@
       "excerpt": "Le reazioni alla lettera della segretaria del Pd. Calenda: “Ha fatto bene”"
     },
     {
+      "title": "Ecologisti e nazionalisti, rivoluzionari e conservatori. Contro Vucic gli studenti candidano tutti",
+      "link": "https://www.repubblica.it/esteri/2026/09/18/news/elezioni_serbia_vucic_movimento_studenti_candidati_lista-425592824/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 10:20:16 +0000",
+      "excerpt": "Estremamente eterogeneo, il movimento che da due anni è spina nel fianco del presidente serbo presenta la sua lista. Ma fra i 250 candidati ci sono personaggi agli antipodi. E così rischiano di deragliare"
+    },
+    {
       "title": "Un reattore nucleare in Italia entro il 2035, il piano di Edf: “Energia a 100 euro al megawattora”",
       "link": "https://www.repubblica.it/economia/2026/09/18/news/reattore_nucleare_italia_2035_piano_edf_edison_energia-425592747/",
       "source": "Repubblica",
@@ -422,27 +443,6 @@
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 09:42:22 +0000",
       "excerpt": "Un corridoio e possibili camere nascoste oltre le pareti del sepolcro del re egiziano: grazie a nuove indagini geofisiche, gli archeologi e i tecnici che stanno lavorando nella Valle dei Re ora pensano che si possano sve"
-    },
-    {
-      "title": "Arabia Saudita, gli Houthi attaccano una base aerea: colpito Eurofighter italiano. Crosetto: “Nessun ferito”",
-      "link": "https://www.repubblica.it/esteri/2026/09/18/news/arabia_saudita_houthi_attaccano_base_aerea_taif_colpito_eurofighter_italiano_crosetto-425592674/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 09:35:08 +0000",
-      "excerpt": "La guerra tra sauditi e milizie arriva a lambire i militari italiani impegnati nella missione Inherent Resolve a difesa dei cieli sauditi. Il ministro della Difesa: “Non ci sono altri danni a mezzi o infrastrutture utili"
-    },
-    {
-      "title": "Task Force Arabia, che cosa è lo scudo italiano nella base saudita di Taif sotto attacco",
-      "link": "https://www.repubblica.it/breakingnews/esteri/2026/09/18/news/task_force_arabia_che_cosa_e_missione_italiana_base_saudita_taif_eurofighter_colpito-425592617/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 09:07:39 +0000",
-      "excerpt": "Colpito un eurofighter che si trovava all'interno. Non ci sono altri danni a mezzi o infrastrutture utilizzati dal nostro personale. Dai mezzi ai soldati: cosa c’è da sapere sulla missione italiana nel cuore della guerra"
-    },
-    {
-      "title": "Dalla pioniera Australia allo stop Francia, la mappa dei divieti social per i minori",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/09/17/dalla-pioniera-australia-allo-stop-francia-i-divieti-social-nel-mondo_ab38733d-e888-48de-8d3a-471e019d5f35.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 10:19:11 +0200",
-      "excerpt": "In Italia il dibattito politico è aperto, ma non c'è una legge definitiva"
     },
     {
       "title": "Malika Ayane torna con Cicale, canzoni per imparare a cambiare",
@@ -517,6 +517,20 @@
   ],
   "sport": [
     {
+      "title": "Basket: Pippo Ricci incontra gli studenti della Lumsa a Roma",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/18/basket-pippo-ricci-incontra-gli-studenti-della-lumsa-a-roma_fb7c39f3-2ad5-405a-8e80-986846fd1823.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 14:01:47 +0200",
+      "excerpt": "Laureato in matematica e ala dell'Italia racconta la sua storia"
+    },
+    {
+      "title": "Pm Monza: 'Archiviare l'inchiesta sugli arbitri per le 'bussate' in sala Var'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/pm-monza-archiviare-linchiesta-sugli-arbitri-per-le-bussate-in-sala-var_7712ddf5-b524-43b1-a945-ef6ccf734cf7.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 14:01:09 +0200",
+      "excerpt": "Chiesta archiviazione Rocchi, Gervasoni e altri. 'Nessun dolo in alterazione risultati'"
+    },
+    {
       "title": "Calcio: Gasperini 'oggi l'Inter più forte, ma vogliamo rimanere in alto'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/calcio-gasperini-oggi-linter-piu-forte-ma-vogliamo-rimanere-in-alto_53796046-a7a3-44db-9262-f0f2d907dc87.html",
       "source": "ANSA Sport",
@@ -557,20 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Fri, 18 Sep 2026 11:24:12 +0200",
       "excerpt": "Azzurri da sogno. In Canada dopo gli Usa battono anche Uk. Ora c'è l'Australia"
-    },
-    {
-      "title": "Calcio: Torino, Abate 'A Bologna cercheremo la vittoria'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/calcio-torino-abate-a-bologna-cercheremo-la-vittoria_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 10:45:25 +0200",
-      "excerpt": "Tecnico granata, \"Contro Perri ho letto cose che non mi sono piaciute\""
-    },
-    {
-      "title": "Eurovolley: Giannelli, 'bene aver sofferto, tutti hanno dato il loro apporto'",
-      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/18/eurovolley-giannelli-bene-aver-sofferto-tutti-hanno-dato-il-loro-apporto_12f3c7b9-35c7-468c-ab74-4dccb5facc2a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 00:02:34 +0200",
-      "excerpt": "Il capitano azzurro: \"Secondo set molto importante, ora portare il buono a Torino\""
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

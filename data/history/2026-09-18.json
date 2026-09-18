@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Withers – Tra successioni e investimenti: gli hotel italiani nel radar dei family office",
+        "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/09/18/news/withers__tra_successioni_e_investimenti_gli_hotel_italiani_nel_radar_dei_family_office-425593171/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 14:08:03 +0200",
+        "excerpt": "Nel settore alberghiero la successione è più complessa che altrove, perché un hotel non è solo un immobile: è insieme un’attività operativa, un marchio, un’organizzazione di persone e un’eredità familiare"
+      },
+      {
+        "title": "Assopetroli, taglio bollo anche per auto a metano e biometano",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/assopetroli-taglio-bollo-anche-per-auto-a-metano-e-biometano_e221cc79-539d-4d8b-abfc-524b9ba38f11.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 14:03:37 +0200",
+        "excerpt": "Dal 28 febbraio al 18 settembre carburante per autotrazione è aumentato del 33%"
+      },
+      {
         "title": "Casa ed edifici, come proteggerli. Guida per famiglie e imprese",
         "link": "https://www.ilsole24ore.com/art/casa-ed-edifici-come-proteggerli-guida-famiglie-e-imprese-AJIP0R7",
         "source": "Il Sole 24 Ore",
@@ -408,20 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 05:00:00 +0200",
         "excerpt": "Come si modificano l'accesso e l'uso di social, giochi online, chatbot IA? A seconda della fascia d'età e del servizio la risposta cambia, in base al nuovo regolamento Ue. La guida pratica alle novità, alcune delle quali"
-      },
-      {
-        "title": "Manager di Microsoft: “L’addestramento dell'Ia è il più grande furto di lavoro della storia”",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/microsoft_openai_new_york_times_copyright_causa_addestramento_ia-425592023/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 04:29:11 +0200",
-        "excerpt": "Le dichiarazioni sono contenute in alcuni documenti appena desecretati che riguardano la causa legale intentata dal New York Times per violazione del copyright"
-      },
-      {
-        "title": "La maledizione del diesel: perché da carburante povero è diventato una chiave geopolitica",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/diesel_carburante_chiave_geopolitica_raffinerie_petrolio-425591926/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
-        "excerpt": "Per aiutare ad aumentare l’offerta globale Trump ha chiesto a Kiev di non attaccare gli impianti russi. Intanto i costi di raffinazione elevati sterilizzano i ribassi del greggio: in Europa si spendono ormai oltre 100 do"
       }
     ],
     "europa": [
@@ -505,6 +505,20 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Macron, la Francia convocherà un vertice G7 sull'energia",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/macron-la-francia-convochera-un-vertice-g7-sullenergia_53a8eda5-a87b-4cf1-a4b2-025510622b05.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 14:23:01 +0200",
+        "excerpt": "Lo ha detto nell'incontro all'Eliseo con i leader dei partiti sulla situazione geopolitica"
+      },
+      {
+        "title": "Macron, serve piano per proteggere infrastrutture critiche da attacchi ibridi russi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/macron-serve-piano-per-proteggere-infrastrutture-critiche-da-attacchi-ibridi-russi_6491f638-f096-4985-9887-8fe81a246493.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 14:19:56 +0200",
+        "excerpt": "'La natura dell'aggressività russa e delle minacce in Europa sta cambiando'"
+      },
       {
         "title": "Ancora nessun accordo tra i 27 Ue sul rinnovo delle sanzioni a Mosca",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/ancora-nessun-accordo-tra-i-27-ue-sul-rinnovo-delle-sanzioni-a-mosca_9e3dd001-d9cc-4421-b5f5-95dfe3ec1e7a.html",
@@ -880,11 +894,25 @@
   },
   "attualita": [
     {
+      "title": "Il cervello non è uno solo, in realtà sono due organi distinti",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/18/il-cervello-non-e-uno-solo-in-realta-sono-due-organi-distinti_6583af22-554a-455b-b488-13b167a6806c.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 14:18:26 +0200",
+      "excerpt": "La scoperta apre nuove prospettive per lo studio di malattie neurologiche e dell'obesità"
+    },
+    {
       "title": "La prof accoltellata: \"Oggi doveva recuperare il debito di geografia. Mi ha colpita più volte”",
       "link": "https://roma.repubblica.it/cronaca/2026/09/18/news/la_prof_accoltellata_oggi_doveva_recuperare_il_debito_di_geografia_mi_ha_colpita_piu_volte-425593097/",
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 11:48:04 +0000",
       "excerpt": "Il racconto agli investigatori della docente, ferita in classe dal tredicenne. Il marito: “Lei mi ha detto che quel ragazzo aveva un coltello lungo 30 centimetri. Devono arrestarlo”"
+    },
+    {
+      "title": "Morassut (Pd) chiede scioglimento di Fn per apologia fascismo. Il governo: è ancora libero pensiero",
+      "link": "https://www.repubblica.it/politica/2026/09/18/news/morassut_pd_scioglimento_futuro_nazionale_apologia_fascismo_sottosegretaria_ferro-425593090/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 11:41:47 +0000",
+      "excerpt": "Il deputato dem ha presentato un’interpellanza urgente alla Camera sul partito di Vannacci"
     },
     {
       "title": "Harry fa la sua prima apparizione pubblica dal ritorno nel Regno Unito",
@@ -1284,23 +1312,23 @@
       "source": "ANSA",
       "pubDate": "Thu, 17 Sep 2026 21:07:05 +0200",
       "excerpt": "Mosca viola lo spazio aereo della Lituania. La premier a Oslo: 'Per Kiev serve un inviato, l'Europa parli a una voce sola'"
-    },
-    {
-      "title": "Termini, treni con ritardi fino a 100 minuti per un guasto in provincia di Livorno",
-      "link": "https://roma.repubblica.it/cronaca/2026/09/17/news/ritardi_treni_roma_termini_oggi_17_settembre_2026-425591481/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 17:55:07 +0000",
-      "excerpt": "Il problema principale è stato segnalato tra Vada e Cecina, dove un inconveniente tecnico a un treno ha provocato rallentamenti sulla linea"
-    },
-    {
-      "title": "Meloni dopo la lettera di Schlein: \"Non ho pregiudizi, approfondirò\". Conte e Bonelli: “Non ci sono le condizioni per collaborare”",
-      "link": "https://www.repubblica.it/politica/2026/09/17/news/meloni_risponde_lettera_schlein_non_ho_pregiudizi-425591428/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 17:24:59 +0000",
-      "excerpt": "La presidente del Consiglio è intervenuta dopo l'incontro con il primo ministro norvegese Jonas Gahr Store a Oslo. Conte e Bonelli: “Non ci sono le condizioni per lavorare con la premier”"
     }
   ],
   "sport": [
+    {
+      "title": "Basket: Pippo Ricci incontra gli studenti della Lumsa a Roma",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/18/basket-pippo-ricci-incontra-gli-studenti-della-lumsa-a-roma_fb7c39f3-2ad5-405a-8e80-986846fd1823.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 14:01:47 +0200",
+      "excerpt": "Laureato in matematica e ala dell'Italia racconta la sua storia"
+    },
+    {
+      "title": "Pm Monza: 'Archiviare l'inchiesta sugli arbitri per le 'bussate' in sala Var'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/pm-monza-archiviare-linchiesta-sugli-arbitri-per-le-bussate-in-sala-var_7712ddf5-b524-43b1-a945-ef6ccf734cf7.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 14:01:09 +0200",
+      "excerpt": "Chiesta archiviazione Rocchi, Gervasoni e altri. 'Nessun dolo in alterazione risultati'"
+    },
     {
       "title": "Calcio: Gasperini 'oggi l'Inter più forte, ma vogliamo rimanere in alto'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/calcio-gasperini-oggi-linter-piu-forte-ma-vogliamo-rimanere-in-alto_53796046-a7a3-44db-9262-f0f2d907dc87.html",
