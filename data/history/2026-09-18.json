@@ -4,6 +4,34 @@
   "finanza": {
     "italia": [
       {
+        "title": "Ex Ilva, Gozzi contro i magistrati: “Sono contro l’industria, così non è un Paese di diritto”",
+        "link": "https://genova.repubblica.it/cronaca/2026/09/18/news/ex_ilva_gozzi_contro_i_magistrati_di_magistrati_sono_contro_l_industria-425593651/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 17:52:18 +0200",
+        "excerpt": "Il presidente di Federacciai a capo della cordata italiana contesta lo stop dei giudici di Milano: “Se un'impresa rispetta i limiti stabiliti dall'autorizzazione integrata ambientale e un giudice dice che non è sufficien"
+      },
+      {
+        "title": "Fisco tutor e comunicazione semplificata, Entrate e Inps incontrano le imprese a Firenze",
+        "link": "https://www.ilsole24ore.com/art/fisco-tutor-e-comunicazione-semplificata-entrate-e-inps-incontrano-imprese-firenze-AJPmE0FB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 18 Sep 2026 15:46:29 GMT",
+        "excerpt": "La cooperative compliance, l’iperammortamento e l’impatto del nuovo principio contabile Ifrs 20 per quanto riguarda gli approfondimenti dell’agenzia delle Entrate. La comunicazione semplificata con le aziende, la storia "
+      },
+      {
+        "title": "Barilla investe cento milioni al Sud, nuovo polo della pasta a Foggia",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/barilla-investe-cento-milioni-al-sud-nuovo-polo-della-pasta-a-foggia_fa15e90c-a120-4090-b891-7c8a810eeda9.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 17:43:20 +0200",
+        "excerpt": "Nuovo piano industriale conferma l'impegno dell'azienda per il Mezzogiorno"
+      },
+      {
+        "title": "Borsa: Milano chiude in calo dell'1,60%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-milano-chiude-in-calo-dell160_7d01f188-34cd-4af0-bb86-d7158b3b00f9.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 17:38:59 +0200",
+        "excerpt": "L'ultimo indice Ftse Mib a 51.545 punti"
+      },
+      {
         "title": "Sanità, un euro in più sul ticket delle visite specialistiche. E aumenta il costo di 450 prestazioni",
         "link": "https://www.repubblica.it/economia/2026/09/18/news/sanita_ticket_visite_specialistiche_aumenta_costo_450_prestazioni_regioni-425593565/?rss",
         "source": "Repubblica Economia",
@@ -394,34 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 18 Sep 2026 07:23:00 GMT",
         "excerpt": "Alessandro Di Battista è uscito dal policlinico Gemelli. Lo ha annunciato lui stesso su Instagram"
-      },
-      {
-        "title": "Non si fermano i rialzi per i carburanti, gasolio self in autostrada a 2,375 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/non-si-fermano-i-rialzi-per-i-carburanti-gasolio-self-in-autostrada-a-2375-euro_2521c6d8-f36f-46f2-bb2e-a08b80fac409.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 09:18:05 +0200",
-        "excerpt": "La benzina sale a 2,241 euro al litro"
-      },
-      {
-        "title": "Presidenza Ue, 'chiederò a Commissione di tornare su extraprofitti a Ecofin ottobre'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/presidenza-ue-chiedero-a-commissione-di-tornare-su-extraprofitti-a-ecofin-ottobre_1b8e2efa-d989-4cec-8ca7-4e6016239ebb.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 09:15:08 +0200",
-        "excerpt": "\"Primo confronto oggi a Dublino. Profitti straordinari imprese solo per chiusura Hormuz\""
-      },
-      {
-        "title": "Borsa: Europa apre in calo, Francoforte -0,47%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-europa-apre-in-calo-francoforte-047_d69e650a-2330-4f5e-b9ce-1f8a0497f48c.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 09:13:01 +0200",
-        "excerpt": "Parigi -0,4%, Londra -0,24%"
-      },
-      {
-        "title": "Borsa: Milano apre in calo, Ftse Mib -0,08%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-milano-apre-in-calo-ftse-mib-008_fcf05216-5172-4ce3-a8cb-0046c4bd9458.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 09:12:58 +0200",
-        "excerpt": "Tra i peggiori Eni e Inwit. Deboli le banche, Mps -0,4%, Generali -0,7%"
       }
     ],
     "europa": [
@@ -505,6 +505,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Crosetto scrive lettera a Kallas, 'serve potenziamento missione europea Aspides'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/crosetto-scrive-lettera-a-kallas-serve-potenziamento-missione-europea-aspides_4948e490-b01d-4d0f-8841-ca958baa2a9a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 17:59:13 +0200",
+        "excerpt": "L'Italia sarebbe pronta ad inviare anche una seconda fregata se richiesto"
+      },
       {
         "title": "Addio a Margarita Papandreou, pioniera dei diritti delle donne in Grecia",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/addio-a-margarita-papandreou-pioniera-dei-diritti-delle-donne-in-grecia_2d1ec2e9-b4a3-428c-99d3-2ca1c3e91154.html",
@@ -917,17 +924,17 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 17 Sep 2026 17:48:11 +0200",
         "excerpt": "Nelle democrazie occidentali ci sono sempre state remore nell’aumentare l’autonomia degli apparati di sicurezza. Ma i venti di guerra stanno cambiando gli equilibri istituzionali anche in Europa e spingono a dare più lib"
-      },
-      {
-        "title": "Il monito di Re Carlo ai giganti dell’IA: “Pericoli esistenziali. Resti al servizio dell’umanità”",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/re_carlo_allarme_intelligenza_artificiale_pericoli-425591093/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 17:20:54 +0200",
-        "excerpt": "L’allarme del monarca sui pericolo dell’intelligenza artificiale al forum promosso dalla sua King's Foundation a Dumfries House, in Scozia, con alti rappresentanti di colossi Usa come Nvidia, Google DeepMind, OpenAI o An"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Damiano David e Dove Cameron sposi a Montalcino",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/09/18/damiano-david-e-dove-cameron-sposi-a-montalcino_572f1f59-49b6-4166-beb0-3e44e54de06e.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 17:25:44 +0200",
+      "excerpt": "La settimana prossima il sì in Comune poi cerimonia"
+    },
     {
       "title": "La professoressa accoltellata: “Vorrei incontrare il ragazzo che mi ha aggredito e abbracciarlo”",
       "link": "https://www.repubblica.it/cronaca/2026/09/18/news/intervista_professoressa_accoltellata_incontrarlo_abbracciarlo-425593558/",
@@ -1340,16 +1347,23 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
       "excerpt": "Per aiutare ad aumentare l’offerta globale Trump ha chiesto a Kiev di non attaccare gli impianti russi. Intanto i costi di raffinazione elevati sterilizzano i ribassi del greggio: in Europa si spendono ormai oltre 100 do"
-    },
-    {
-      "title": "Benzina, i rincari non frenano i consumi. I petrolieri: “Le vendite sono praticamente uguali”",
-      "link": "https://www.repubblica.it/economia/2026/09/18/news/benzina_rincari_gasolio_record_agosto_consumi_petrolieri_vendite-425591879/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
-      "excerpt": "Ad agosto vendite ai massimi da 15 anni, nuovo balzo anche per il gasolio. Da oggi sconti ridotti a 12,2 centesimi"
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: Roma-Inter sfida del gol, il Como sogna l'aggancio",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/18/serie-a-roma-inter-sfida-del-gol-il-como-sogna-laggancio_050e4341-ab26-435d-a5d0-f85c920a93f1.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 17:58:40 +0200",
+      "excerpt": "Ostacoli insidiosi per Juve e Napoli; servono 3 punti al Milan in affanno"
+    },
+    {
+      "title": "Serie A: Venezia-Lazio in campo sabato alle 20.45 DIRETTA ",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-venezia-lazio-in-campo-sabato-alle-20.45-diretta-_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 17:42:22 +0200",
+      "excerpt": "Tecnico spegne rumori dall'inchiesta sulla presunta manovra anti-Lotito e pensa a Venezia"
+    },
     {
       "title": "Serie A: Monza-Sassuolo in campo alle 20.45 DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-monza-sassuolo-in-campo-alle-20.45-diretta_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
