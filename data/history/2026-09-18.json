@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Caccia italiano colpito, il generale Camporini: «Il rischio c’è sempre, anche in una base»",
+        "link": "https://www.ilsole24ore.com/art/caccia-italiano-colpito-generale-camporini-il-rischio-c-e-sempre-anche-una-base-AJdaANHB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 18 Sep 2026 18:29:00 GMT",
+        "excerpt": "L’ex Capo di Stato Maggiore della Difesa: nelle basi ci sono delle protezioni che però non hanno mai una garanzia assoluta. La mossa del ministro Crosetto su Bab-el-Mandeb? «Serve più solidarietà da parte dei Paesi del N"
+      },
+      {
+        "title": "Golden Power, a Madonna di Campiglio il forum sulle regole per gli investimenti esteri",
+        "link": "https://www.ilsole24ore.com/art/golden-power-madonna-campiglio-forum-regole-gli-investimenti-esteri-AJwNcjHB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 18 Sep 2026 18:27:41 GMT",
+        "excerpt": "Un incentivo agli investimenti esteri passa, sempre più spesso, dalla capacità di uno Stato di dimostrare che sa anche filtrarli. È questo il tema al centro della terza edizione di..."
+      },
+      {
         "title": "Le immagini come chiave di lettura dell’attualità: al via nuovo programma di Radio24  ",
         "link": "https://www.ilsole24ore.com/art/le-immagini-come-chiave-lettura-dell-attualita-via-nuovo-programma-radio24-AJvswhHB",
         "source": "Il Sole 24 Ore",
@@ -408,20 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 12:17:20 +0200",
         "excerpt": "La produzione arretra in tutta Europa. Con l’Ucraina bloccata, Usa e Brasile la fanno da padroni. Il peso di tecnologie e fertilizzanti"
-      },
-      {
-        "title": "Roma Capitale, Ama e McDonald's annunciano protocollo per l'economia circolare",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/roma-capitale-ama-e-mcdonalds-annunciano-protocollo-per-leconomia-circolare_5ad084f0-325f-4b6f-96fc-611e9bf04853.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 12:05:24 +0200",
-        "excerpt": "Incontro a Roma durante 'Insieme a te per l'ambiente', progetto di volontariato McDonald's"
-      },
-      {
-        "title": "Assovetro, con il gas oltre 80 euro/Mwh rischio tenuta per industria del settore",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/assovetro-con-il-gas-oltre-80-euromwh-rischio-tenuta-per-industria-del_30edbd84-ae37-4680-b55a-355d38adeb36.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 11:57:55 +0200",
-        "excerpt": "Torno, 'Senza visibilità sui sostegni si teme per investimenti e capacità produttiva'"
       }
     ],
     "europa": [
@@ -505,6 +505,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "L’attrice Laleh Marzban minacciata da Teheran dopo il discorso al Festival di Venezia per le donne iraniane",
+        "link": "https://www.repubblica.it/esteri/2026/09/18/news/attrice_laleh_marzban_minacciata_da_teheran_dopo_discorso_festival_venezia_per_donne_iraniane-425593970/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Fri, 18 Sep 2026 20:21:05 +0200",
+        "excerpt": "L’artista, che ha vinto un premio come migliore attrice esordiente per la sua interpretazione di una donna tenuta in ostaggio da suo padre in “Falling House”, ha ricevuto condanne dalle autorità dopo aver dedicato la vit"
+      },
       {
         "title": "Trump, 'stiamo parlando con gli Houthi'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/18/trump-stiamo-parlando-con-gli-houthi_7552c2b4-9f57-441f-9ed9-62a534c85854.html",
@@ -917,17 +924,17 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 23:13:01 +0200",
         "excerpt": "Il presidente del Brasile: 'Il Paese non si piegherà all'arroganza di nessuno'"
-      },
-      {
-        "title": "Argentina, Pil -0,6% nel secondo trimestre, frenano i consumi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/argentina-pil-06-nel-secondo-trimestre-frenano-i-consumi_2fc0e408-78aa-4600-9d4b-47b4fced6970.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 21:54:31 +0200",
-        "excerpt": "Su base annua cresce del +2%, ma gli investimenti crollano dell'11,1%"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "L’attrice Laleh Marzban minacciata da Teheran dopo il discorso al Festival di Venezia per le donne iraniane",
+      "link": "https://www.repubblica.it/esteri/2026/09/18/news/attrice_laleh_marzban_minacciata_da_teheran_dopo_discorso_festival_venezia_per_donne_iraniane-425593970/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 18:21:05 +0000",
+      "excerpt": "L’artista, che ha vinto un premio come migliore attrice esordiente per la sua interpretazione di una donna tenuta in ostaggio da suo padre in “Falling House”, ha ricevuto condanne dalle autorità dopo aver dedicato la vit"
+    },
     {
       "title": "Nazionale: 34 azzurri convocati da Mancini, c'e' anche Daniel Maldini ",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/18/nazionale-34-azzurri-convocati-da-mancini-ce-anche-daniel-maldini-_79b29bf1-61c3-4556-905b-0ef7c7fa8095.html",
@@ -1340,13 +1347,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
       "excerpt": "Dai tempi di Aristotele ci interroghiamo sul male di cui siamo capaci. Le tragedie del XX secolo e quelle di oggi offrono una risposta"
-    },
-    {
-      "title": "Moratti: “Volevo Totti, ma Sensi disse no. Chivu è coraggioso”",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/18/news/moratti_intervista_roma_inter-425591727/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 17 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il presidente dell’Inter del triplete tra nostalgia e speranze per la stagione in attesa della sfida scudetto con la Roma all’Olimpico"
     }
   ],
   "sport": [
