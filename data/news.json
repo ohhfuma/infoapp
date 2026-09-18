@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-09-18T12:41:49.912Z",
+  "lastUpdated": "2026-09-18T13:07:06.082Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Giorgetti all’Ue: “Taglio del bollo coperto con soldi nazionali”. E mette in guardia sulle bollette",
+        "link": "https://www.repubblica.it/economia/2026/09/18/news/giorgetti_guerre_energia_bollette_eurogruppo_tassi_bce-425593064/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 15:00:50 +0200",
+        "excerpt": "Il ministro dell’Economia interviene dall’Eurogruppo ai Portofino talks e avverte: “Lo shock dell’energia peserà su famiglie e imprese”"
+      },
+      {
+        "title": "Buffett lascia la presidenza di Berkshire Hathaway, al suo posto il figlio",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/buffett-lascia-la-presidenza-di-berkshire-hathaway-al-suo-posto-il-figlio_e503e2dc-bf9f-4ed4-978c-0e24c9d4bf95.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 14:38:07 +0200",
+        "excerpt": "Ha guidato il gruppo per 60 anni"
+      },
       {
         "title": "Withers – Tra successioni e investimenti: gli hotel italiani nel radar dei family office",
         "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/09/18/news/withers__tra_successioni_e_investimenti_gli_hotel_italiani_nel_radar_dei_family_office-425593171/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 14:08:03 +0200",
         "excerpt": "Nel settore alberghiero la successione è più complessa che altrove, perché un hotel non è solo un immobile: è insieme un’attività operativa, un marchio, un’organizzazione di persone e un’eredità familiare"
-      },
-      {
-        "title": "Giorgetti all’Ue: “Taglio del bollo coperto con soldi nazionali”. E mette in guardia sulle bollette",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/giorgetti_guerre_energia_bollette_eurogruppo_tassi_bce-425593064/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 14:06:16 +0200",
-        "excerpt": "Il ministro dell’Economia interviene dall’Eurogruppo ai Portofino talks e avverte: “Lo shock dell’energia peserà su famiglie e imprese”"
       },
       {
         "title": "Assopetroli, taglio bollo anche per auto a metano e biometano",
@@ -57,13 +64,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 18 Sep 2026 13:43:07 +0200",
         "excerpt": "Lo spread tra il decennale italiano e quello tedesco a 89 punti"
-      },
-      {
-        "title": "Buffett lascia la presidenza di Berkshire Hathaway, al suo posto il figlio",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/buffett-lascia-la-presidenza-di-berkshire-hathaway-al-suo-posto-il-figlio_e503e2dc-bf9f-4ed4-978c-0e24c9d4bf95.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 13:42:31 +0200",
-        "excerpt": "Ha guidato il gruppo per 60 anni"
       },
       {
         "title": "Lagarde, 'lunedì lanciamo Pontes, per transazioni digitali tra le banche'",
@@ -232,6 +232,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Macron avverte, 'attacchi ibridi russi non resteranno senza risposta'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/macron-avverte-attacchi-ibridi-russi-non-resteranno-senza-risposta_ea4e0714-0ad5-4438-a3f1-e6f3975cee83.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 14:45:34 +0200",
+        "excerpt": "'Sarebbe un errore se Mosca continuasse ad agire in questo modo con gli europei'"
+      },
+      {
         "title": "Macron, la Francia convocherà un vertice G7 sull'energia",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/macron-la-francia-convochera-un-vertice-g7-sullenergia_53a8eda5-a87b-4cf1-a4b2-025510622b05.html",
         "source": "ANSA Mondo",
@@ -295,13 +302,6 @@
         "excerpt": "La guerra tra sauditi e milizie arriva a lambire i militari italiani impegnati nella missione Inherent Resolve a difesa dei cieli sauditi. Il ministro della Difesa: “Non ci sono altri danni a mezzi o infrastrutture utili"
       },
       {
-        "title": "Appello Unicef per aiutare 540.000 bambini a Gaza e in Cisgiordania per l'inverno",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/18/appello-unicef-per-aiutare-540.000-bambini-a-gaza-e-in-cisgiordania-per-linverno_7fbd2b49-5d5b-48b3-a977-ee739e0d7951.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 11:13:54 +0200",
-        "excerpt": "Sono necessari finanziamenti urgenti per garantire una risposta"
-      },
-      {
         "title": "Le nuove accuse nel libro del fratello di Lady Diana: “Carlo era euforico dopo la sua morte”",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/regno_unito_accuse_libro_fratello_diana_carlo_euforico_dopo_morte-425592381/?rss",
         "source": "Repubblica Esteri",
@@ -347,18 +347,39 @@
   },
   "attualita": [
     {
-      "title": "Il cervello non è uno solo, in realtà sono due organi distinti",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/18/il-cervello-non-e-uno-solo-in-realta-sono-due-organi-distinti_6583af22-554a-455b-b488-13b167a6806c.html",
+      "title": "Lady Gaga, la figlia è nata con la maternità surrogata",
+      "link": "https://www.ansa.it/donne/notizie/2026/09/18/lady-gaga-la-figlia-e-nata-con-la-maternita-surrogata_99fd74f0-04a8-4267-bf02-ce4aa95c1046.html",
       "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 14:18:26 +0200",
-      "excerpt": "La scoperta apre nuove prospettive per lo studio di malattie neurologiche e dell'obesità"
+      "pubDate": "Fri, 18 Sep 2026 14:56:17 +0200",
+      "excerpt": "Tmz conferma le supposizioni, si chiama Rose Bean Polansky, il cognome del padre"
     },
     {
       "title": "Studente spruzza dello spray urticante e accoltella l'insegnante a Roma. Il racconto dei compagni: 'Aveva ricevuto un debito e la odiava'",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/studente-spruzza-spray-urticante-e-accoltella-insegnante-a-roma_b2503db3-f84e-4e54-a32e-ea20c1f9cea7.html",
       "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 14:09:34 +0200",
+      "pubDate": "Fri, 18 Sep 2026 14:52:59 +0200",
       "excerpt": "Il ragazzo tentava di filmare l'aggressione, a fermarlo un compagno di scuola. La docente di lettere è all'ultimo anno di lavoro prima della pensione"
+    },
+    {
+      "title": "Macron avverte: 'Gli attacchi ibridi russi non resteranno senza risposta'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/18/macron-serve-piano-per-proteggere-infrastrutture-critiche-da-attacchi-ibridi-russi_ed3e6373-9e89-4972-8f17-40a2bc553c98.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 14:51:29 +0200",
+      "excerpt": "'Sarebbe un errore se Mosca continuasse ad agire in questo modo con gli europei'"
+    },
+    {
+      "title": "M5S, le proposte programmatiche: torna il reddito, zero patrimoniale. E su Kiev: “Stop alle armi”",
+      "link": "https://www.repubblica.it/politica/2026/09/18/news/m5s_proposte_programmatiche_nova_reddito_armi_ucraina-425593244/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 12:42:36 +0000",
+      "excerpt": "Le conclusioni di Nova sono diventate venti punti raccolti sotto il titolo “Un’alleanza per la Costituzione”. E spunta una norma “anti-Renzi”"
+    },
+    {
+      "title": "Il cervello non è uno solo, in realtà sono due organi distinti",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/18/il-cervello-non-e-uno-solo-in-realta-sono-due-organi-distinti_6583af22-554a-455b-b488-13b167a6806c.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 14:18:26 +0200",
+      "excerpt": "La scoperta apre nuove prospettive per lo studio di malattie neurologiche e dell'obesità"
     },
     {
       "title": "Attacchi a una base aerea in Arabia, colpito Eurofighter italiano",
@@ -387,13 +408,6 @@
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 13:39:23 +0200",
       "excerpt": "Ieri a Londra ad una raccolta fondi per gli Invictus Games. Assente Meghan"
-    },
-    {
-      "title": "Tensioni a presidio anti-Vannacci, uova contro le forze dell'ordine",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/vannacci-a-torino-presidio-degli-antifascisti-davanti-ad-albergo-del-centro_ddd4008a-0a98-4fdc-9ee8-deee4675909e.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 13:33:23 +0200",
-      "excerpt": "Con manifestanti dei centri sociali che sono poi partiti in corteo"
     },
     {
       "title": "America's Cup: Bennato canterà 'L'isola che non c'è' ai ragazzi del carcere di Nisida",
@@ -436,20 +450,6 @@
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 09:56:21 +0000",
       "excerpt": "L’impianto di Nuward, controllata del gruppo francese, arriverà nel nostro Paese con il supporto di Edison e fa parte di un pacchetto di 10 reattori previsti per tutta l’Europa. Ecco come funzionerà"
-    },
-    {
-      "title": "Nuova scoperta nella tomba di Tutankhamon. Gli esperti: “Forse collegamento con quella di Nefertiti”",
-      "link": "https://www.repubblica.it/cultura/2026/09/18/news/nuova_scoperta_nella_tomba_di_tutankhamon_gli_esperti_forse_collegamento_con_quella_di_nefertiti-425592715/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 09:42:22 +0000",
-      "excerpt": "Un corridoio e possibili camere nascoste oltre le pareti del sepolcro del re egiziano: grazie a nuove indagini geofisiche, gli archeologi e i tecnici che stanno lavorando nella Valle dei Re ora pensano che si possano sve"
-    },
-    {
-      "title": "Malika Ayane torna con Cicale, canzoni per imparare a cambiare",
-      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/18/malika-ayane-torna-con-cicale-canzoni-per-imparare-a-cambiare_e1ded4ec-2e58-41b0-877d-a5c15e3f5cdf.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 10:15:47 +0200",
-      "excerpt": "A cinque anni dall'ultimo album, dieci brani tra amore, consapevolezza e ironia"
     },
     {
       "title": "In Giappone i centenari sono più di 100mila, il numero più alto al mondo",
@@ -517,6 +517,27 @@
   ],
   "sport": [
     {
+      "title": "'Gol e momenti indimenticabili', l'Inter celebra i 50 anni di Ronaldo",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/gol-e-momenti-indimenticabili-linter-celebra-i-50-anni-di-ronaldo_128817bd-7a07-4485-984a-bcadda781fbb.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 14:45:12 +0200",
+      "excerpt": "Compleanno tondo per il 'Fenomeno': in nerazzurro 59 reti in 99 partite"
+    },
+    {
+      "title": "Mondiali donne U20: c'è la Corea del Sud, azzurrine a caccia della semifinale",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/mondiali-donne-u20-ce-la-corea-del-sud-azzurrine-a-caccia-della-semifinale_b4f7295f-30b4-4d51-aaf4-c5c499613faa.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 14:37:17 +0200",
+      "excerpt": "Domani il match dei quarti per l'Italia allenata da Matteucci"
+    },
+    {
+      "title": "Stroppa, 'la Lazio una delle più in forma del campionato'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/stroppa-la-lazio-una-delle-piu-in-forma-del-campionato_89453d7f-7930-45c0-9d82-68066b1dbad3.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 14:36:31 +0200",
+      "excerpt": "'Il sostegno della piazza può fare la differenza nelle partite in casa'"
+    },
+    {
       "title": "Basket: Pippo Ricci incontra gli studenti della Lumsa a Roma",
       "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/18/basket-pippo-ricci-incontra-gli-studenti-della-lumsa-a-roma_fb7c39f3-2ad5-405a-8e80-986846fd1823.html",
       "source": "ANSA Sport",
@@ -550,27 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Fri, 18 Sep 2026 12:42:01 +0200",
       "excerpt": "Due rientri e due sorprese tra i campioni del Mondo in carica"
-    },
-    {
-      "title": "Calcio: Lazio; Gattuso 'nessun contraccolpo da vicende esterne'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/calcio-lazio-gattuso-nessun-contraccolpo-da-vicende-esterne_a4a35421-99f1-4dda-ada0-1697671cc000.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 12:40:10 +0200",
-      "excerpt": "Tecnico Lazio alla vigilia della tasferta a Venezia: 'Non pecchiamo di presunzione'"
-    },
-    {
-      "title": "Europa League: Besiktas vince, lo stadio canta Toto Cutugno per l''Italiano' Vincenzo",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/europa-league-besiktas-vince-lo-stadio-canta-toto-cutugno-per-litaliano_9b43fc86-b228-4a0c-a559-ef887724507c.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 12:11:32 +0200",
-      "excerpt": "L'allenatore in una intervista aveva intonato in turco il coro dei tifosi"
-    },
-    {
-      "title": "Mondiale di basket in carrozzina, l' Italia in finale per la prima volta",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/18/mondiale-di-basket-in-carrozzina-l-italia-in-finale-per-la-prima-volta_3437e364-6a92-4cb3-b116-d5ace4d37885.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 18 Sep 2026 11:24:12 +0200",
-      "excerpt": "Azzurri da sogno. In Canada dopo gli Usa battono anche Uk. Ora c'è l'Australia"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
