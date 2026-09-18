@@ -1,12 +1,47 @@
 {
-  "lastUpdated": "2026-09-18T09:38:29.490Z",
+  "lastUpdated": "2026-09-18T10:08:25.732Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Assovetro, con il gas oltre 80 euro/Mwh rischio tenuta per industria del settore",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/assovetro-con-il-gas-oltre-80-euromwh-rischio-tenuta-per-industria-del_30edbd84-ae37-4680-b55a-355d38adeb36.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 11:57:55 +0200",
+        "excerpt": "Torno, 'Senza visibilità sui sostegni si teme per investimenti e capacità produttiva'"
+      },
+      {
+        "title": "Un reattore nucleare in Italia entro il 2035, il piano di Edf: “Energia a 100 euro al megawattora”",
+        "link": "https://www.repubblica.it/economia/2026/09/18/news/reattore_nucleare_italia_2035_piano_edf_edison_energia-425592747/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 18 Sep 2026 11:56:21 +0200",
+        "excerpt": "L’impianto di Nuward, controllata del gruppo francese, arriverà nel nostro Paese con il supporto di Edison e fa parte di un pacchetto di 10 reattori previsti per tutta l’Europa. Ecco come funzionerà"
+      },
+      {
+        "title": "Violenza a scuola, a Roma studente 13enne accoltella insegnante",
+        "link": "https://www.ilsole24ore.com/art/violenza-scuola-roma-studente-13enne-accoltella-insegnante-AJIwU9GB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 18 Sep 2026 09:55:00 GMT",
+        "excerpt": "Un studente 13enne di una scuola media di Roma ha spruzzato spray urticante al volto di una insegnante per poi ferirla con una coltellata. Il fatto è avvenuto questa mattina..."
+      },
+      {
+        "title": "Itaù Unibanco consolida attività europee di wholesale banking",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/itau-unibanco-consolida-attivita-europee-di-wholesale-banking_8b58f8a4-dad5-4ace-aad5-130a1b8688db.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 11:45:33 +0200",
+        "excerpt": "Riuniti Corporate e Global markets in unica piattaforma"
+      },
+      {
+        "title": "Lega Navale Italiana, 'natanti -35,7% in dieci anni e costi fino a 9.500 euro annui'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/lega-navale-italiana-natanti-357-in-dieci-anni-e-costi-fino-a-9.500_19598424-3b8b-47ab-8432-af079c90be66.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 11:39:27 +0200",
+        "excerpt": "Predieri a Risorsa Mare: 'Impegnati per una nautica accessibile e un diporto sicuro'"
+      },
       {
         "title": "Vannacci a Torino tra le tensioni. Il Viminale: nessuna misura per sciogliere Futuro nazionale",
         "link": "https://www.ilsole24ore.com/art/vannacci-torino-le-tensioni-viminale-nessuna-misura-sciogliere-futuro-nazionale-AJuLe6GB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 18 Sep 2026 09:35:09 GMT",
+        "pubDate": "Fri, 18 Sep 2026 09:35:00 GMT",
         "excerpt": "Partito tra le polemiche per il “bollino” come seminario formativo poi ritirato dal Viminale, è stato accompagnato da tensioni e scontri il convegno “Insicurezza urbana: il ruolo delle..."
       },
       {
@@ -87,27 +122,6 @@
         "excerpt": "Lo storico esponente di M5S è uscito dal policlinico Gemelli. Lo ha annunciato lui stesso su Instagram"
       },
       {
-        "title": "Non si fermano i rialzi per i carburanti, gasolio self in autostrada a 2,375 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/non-si-fermano-i-rialzi-per-i-carburanti-gasolio-self-in-autostrada-a-2375-euro_2521c6d8-f36f-46f2-bb2e-a08b80fac409.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 09:18:05 +0200",
-        "excerpt": "La benzina sale a 2,241 euro al litro"
-      },
-      {
-        "title": "Borsa: Europa apre in calo, Francoforte -0,47%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-europa-apre-in-calo-francoforte-047_d69e650a-2330-4f5e-b9ce-1f8a0497f48c.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 09:13:01 +0200",
-        "excerpt": "Parigi -0,4%, Londra -0,24%"
-      },
-      {
-        "title": "Borsa: Milano apre in calo, Ftse Mib -0,08%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/borsa-milano-apre-in-calo-ftse-mib-008_fcf05216-5172-4ce3-a8cb-0046c4bd9458.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 09:12:58 +0200",
-        "excerpt": "Tra i peggiori Eni e Inwit. Deboli le banche, Mps -0,4%, Generali -0,7%"
-      },
-      {
         "title": "Revolut, i primi accertamenti non confermano il furto di 147 gigabyte di dati al Viminale",
         "link": "https://www.ilsole24ore.com/art/revolut-primi-accertamenti-non-confermano-furto-147-gigabyte-dati-viminale-AJcNmXGB",
         "source": "Il Sole 24 Ore",
@@ -120,13 +134,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 18 Sep 2026 05:52:00 GMT",
         "excerpt": "La strategia messa in campo dal Governo per uscire dal tunnel lungo e dispendioso dei tagli accise prevede sconti in diverse tappe"
-      },
-      {
-        "title": "Enoturismo: l’Umbria scommette sulle nuove rotte del turismo internazionale",
-        "link": "https://www.ilsole24ore.com/art/enoturismo-l-umbria-scommette-nuove-rotte-turismo-internazionale-AJ6LIUGB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 18 Sep 2026 04:00:00 GMT",
-        "excerpt": "Il vino volàno di turismo o il turismo leva per rilanciare il vino? È l’interrogativo sul quale nei giorni scorsi a Montefalco (Perugia) si sono confrontati imprenditori, amministratori locali, ricercatori..."
       },
       {
         "title": "Anthropic: “Il nostro chatbot Claude guida il 26% della nostra ricerca e sviluppo sull’Ia”",
@@ -162,13 +169,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
         "excerpt": "Per aiutare ad aumentare l’offerta globale Trump ha chiesto a Kiev di non attaccare gli impianti russi. Intanto i costi di raffinazione elevati sterilizzano i ribassi del greggio: in Europa si spendono ormai oltre 100 do"
-      },
-      {
-        "title": "Bollo auto, la destra già si divide sull’allargamento del decreto.Alle Regioni i conti non tornano",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/bollo_auto_destra_si_divide_decreto_carburanti-425591952/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
-        "excerpt": "Fdi vuole estenderlo a favore delle famiglie numerose, la Lega invece al superbollo. Gli enti locali temono di dover pagare parte della misura. La trattativa con il Tesoro"
       }
     ],
     "europa": [
@@ -231,6 +231,20 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Arrivato a Cuba un carico di aiuti Usa per le famiglie vulnerabili",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/arrivato-a-cuba-un-carico-di-aiuti-usa-per-le-famiglie-vulnerabili_14c9ebab-2644-41ad-bd7e-7f821dc16fea.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 11:59:59 +0200",
+        "excerpt": "Sarà distribuito dalla Caritas nella provincia di Cienfuegos"
+      },
+      {
+        "title": "Arabia Saudita, gli Houthi attaccano una base aerea: colpito Eurofighter italiano. Crosetto: “Nessun ferito”",
+        "link": "https://www.repubblica.it/esteri/2026/09/18/news/arabia_saudita_houthi_attaccano_base_aerea_taif_colpito_eurofighter_italiano_crosetto-425592674/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Fri, 18 Sep 2026 11:51:17 +0200",
+        "excerpt": "La guerra tra sauditi e milizie arriva a lambire i militari italiani impegnati nella missione Inherent Resolve a difesa dei cieli sauditi. Il ministro della Difesa: “Non ci sono altri danni a mezzi o infrastrutture utili"
+      },
       {
         "title": "Le rivelazioni del fratello di Diana non risparmiano Elisabetta, reali in imbarazzo",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/le-rivelazioni-del-fratello-di-diana-non-risparmiano-elisabetta-reali-in-imbarazzo_2856effa-cb9d-4d67-9bb5-404f4e99439e.html",
@@ -295,13 +309,6 @@
         "excerpt": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina"
       },
       {
-        "title": "Nyt, Trump valuta accordi commerciali con Putin prima della fine della guerra",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/nyt-trump-valuta-accordi-commerciali-con-putin-prima-della-fine_2733b922-9f9f-478a-ae5d-85287aeca750.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 18 Sep 2026 07:39:43 +0200",
-        "excerpt": "La Casa Bianca ritiene che la cooperazione possa far progredire i negoziati con l'Ucraina"
-      },
-      {
         "title": "Trump e la demolizione del Kennedy Center: le foto dal finestrino dell’Air force one",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/trump_e_la_demolizione_del_kennedy_center_le_foto_dal_finestrino_dell_air_force_one-425592132/?rss",
         "source": "Repubblica Esteri",
@@ -335,13 +342,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
         "excerpt": "Ottawa e Bruxelles vanno oltre il trattato di libero scambio alta tecnologia, difesa e minerali sono la nuova frontiera"
-      },
-      {
-        "title": "Il dissidente Kara-Murza: “La protesta cresce e ora Putin teme i voti contro la guerra”",
-        "link": "https://www.repubblica.it/esteri/2026/09/18/news/intervista_kara_murza_dissidente_russo_protesta_cresce_ora_putin_teme_voti_contro_guerra-425591789/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 18 Sep 2026 01:00:00 +0200",
-        "excerpt": "L’oppositore russo ex prigioniero politico invita a trasformare le elezioni della Duma in una protesta nazionale: “Tutti alle urne alle 12 per annullare la scheda”. E aggiunge: “L’esclusione di Yabloko e le urne aperte n"
       }
     ]
   },
@@ -350,8 +350,29 @@
       "title": "Studente spruzza dello spray urticante e accoltella un'insegnante a Roma",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/studente-spruzza-spray-urticante-e-accoltella-insegnante-a-roma_b2503db3-f84e-4e54-a32e-ea20c1f9cea7.html",
       "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 11:13:15 +0200",
-      "excerpt": "La prof non è in pericolo di vita. Sul posto i carabinieri"
+      "pubDate": "Fri, 18 Sep 2026 11:59:29 +0200",
+      "excerpt": "Il ragazzo tentava di filmare l'aggressione, a fermarlo un compagno di scuola"
+    },
+    {
+      "title": "Nuova scoperta nella tomba di Tutankhamon. Gli esperti: “Forse collegamento con quella di Nefertiti”",
+      "link": "https://www.repubblica.it/cultura/2026/09/18/news/nuova_scoperta_nella_tomba_di_tutankhamon_gli_esperti_forse_collegamento_con_quella_di_nefertiti-425592715/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 09:42:22 +0000",
+      "excerpt": "Un corridoio e possibili camere nascoste oltre le pareti del sepolcro del re egiziano: grazie a nuove indagini geofisiche, gli archeologi e i tecnici che stanno lavorando nella Valle dei Re ora pensano che si possano sve"
+    },
+    {
+      "title": "Tensioni a presidio anti-Vannacci, uova contro le forze dell'ordine",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/vannacci-a-torino-presidio-degli-antifascisti-davanti-ad-albergo-del-centro_ddd4008a-0a98-4fdc-9ee8-deee4675909e.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 18 Sep 2026 11:36:28 +0200",
+      "excerpt": "Con manifestanti dei centri sociali che sono poi partiti in corteo"
+    },
+    {
+      "title": "Arabia Saudita, gli Houthi attaccano una base aerea: colpito Eurofighter italiano. Crosetto: “Nessun ferito”",
+      "link": "https://www.repubblica.it/esteri/2026/09/18/news/arabia_saudita_houthi_attaccano_base_aerea_taif_colpito_eurofighter_italiano_crosetto-425592674/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 18 Sep 2026 09:35:08 +0000",
+      "excerpt": "La guerra tra sauditi e milizie arriva a lambire i militari italiani impegnati nella missione Inherent Resolve a difesa dei cieli sauditi. Il ministro della Difesa: “Non ci sono altri danni a mezzi o infrastrutture utili"
     },
     {
       "title": "Task Force Arabia, che cosa è lo scudo italiano nella base saudita di Taif sotto attacco",
@@ -372,7 +393,7 @@
       "link": "https://roma.repubblica.it/cronaca/2026/09/18/news/roma_studente_di_13_anni_accoltella_la_professoressa_in_classe_e_spruzza_lo_spray_urticante-425592557/",
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 08:47:49 +0000",
-      "excerpt": "È successo in una scuola media in zona Collatina"
+      "excerpt": "È successo nella scuola media Verga in zona Collatina. Il ragazzo stava filmando con il cellulare l’aggressione. Le condizioni della docente non sono gravi"
     },
     {
       "title": "Attacchi a una base aerea in Arabia, colpito Eurofighter italiano",
@@ -403,25 +424,11 @@
       "excerpt": "Alimentazione sana e stile di vita attivo la ricetta della longevità giapponese"
     },
     {
-      "title": "Gazebo, spille e bandiere: i soldi del merchandising di Fn alla fondazione della moglie di Vannacci",
-      "link": "https://www.repubblica.it/politica/2026/09/18/news/merchandising_vannacci_soldi_fondazione_moglie-425592431/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 07:51:10 +0000",
-      "excerpt": "L’ultima frontiera della macchina costruita attorno all’ex generale si chiama “Generazione Decima”, che si presenta come “unico store ufficiale” del partito"
-    },
-    {
       "title": "Salvini rilancia: un decreto salva Euro5 per le Regioni del Nord. “Bruxelles non rompa le scatole”",
       "link": "https://www.repubblica.it/economia/2026/09/18/news/salvini_decreto_salva_auto_euro5_bruxelles-425592428/",
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 07:49:23 +0000",
       "excerpt": "Il vicepremier e leader della Lega annuncia una nuova proroga all’entrata in vigore dello stop alla circolazione per le auto più inquinanti nella Pianura padana. Piemonte, Emilia-Romagna e Veneto si erano già mosse auton"
-    },
-    {
-      "title": "Alessandro Di Battista: 'Sto molto meglio, finalmente sono a casa'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/18/di-battista-sto-molto-meglio-finalmente-sono-a-casa_6b4d3f7a-d32b-4e7e-b559-7fac35a65ab0.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 09:36:50 +0200",
-      "excerpt": "Posta una foto e ringrazia i medici del Gemelli: 'Nelle prossime settimane vi racconterò il percorso che dovrò affrontare'"
     },
     {
       "title": "Manfredi: “Il riciclo della plastica è in crisi. Così le tasse sui rifiuti rischiano di aumentare”",
@@ -436,13 +443,6 @@
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 07:19:15 +0000",
       "excerpt": "L’ex M5s pubblica una sua foto e ringrazia i medici del Gemelli e i suoi sostenitori per l'affetto"
-    },
-    {
-      "title": "I 50 anni di Ronaldo, Fenomeno per sempre",
-      "link": "https://www.repubblica.it/sport/calcio/2026/09/18/news/ronaldo_fenomeno_compleanno_50_anni-425592334/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 07:12:20 +0000",
-      "excerpt": "L’ex attaccante brasiliano dell’Inter taglia il traguardo del mezzo secolo. Le sue giocate sono entrate nella storia, oggi porta in giro per il mondo una leggenda che non tramonta"
     },
     {
       "title": "Siamo Serie: Etoile, Jovayork - La musica dell'anima, Xoftex",
