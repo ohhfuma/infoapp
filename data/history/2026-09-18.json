@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Alzheimer, 600mila gli italiani colpiti: costa in totale 23 miliardi l’anno",
+        "link": "https://www.ilsole24ore.com/art/alzheimer-600mila-italiani-colpiti-costa-totale-23-miliardi-l-anno-AJVmqmHB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 18 Sep 2026 18:55:00 GMT",
+        "excerpt": "Il 63% dell’onore economico è a carico delle famiglie. Circa la metà dei casi, però, sarebbe evitabile o ritardabile cambiando le abitudini"
+      },
+      {
+        "title": "Il petrolio chiude in calo a New York a 100,30 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/il-petrolio-chiude-in-calo-a-new-york-a-10030-dollari_0d9192ca-6fa1-4f01-9221-d378691ad062.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 18 Sep 2026 20:46:20 +0200",
+        "excerpt": "Quotazioni perdono l'1,58%"
+      },
+      {
         "title": "Caccia italiano colpito, il generale Camporini: «Il rischio c’è sempre, anche in una base»",
         "link": "https://www.ilsole24ore.com/art/caccia-italiano-colpito-generale-camporini-il-rischio-c-e-sempre-anche-una-base-AJdaANHB",
         "source": "Il Sole 24 Ore",
@@ -408,20 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 18 Sep 2026 12:26:47 +0200",
         "excerpt": "A causa del maggior ricorso al termoelettrico nel mese di agosto"
-      },
-      {
-        "title": "Hormuz, il sistema energetico regge ma si riducono i margini di sicurezza",
-        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/09/18/news/hormuz_il_sistema_energetico_regge_ma_si_riducono_i_margini_di_sicurezza-425592830/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 12:20:48 +0200",
-        "excerpt": "Secondo McKinsey, scorte, oleodotti alternativi e calo della domanda hanno finora assorbito gran parte dello shock. Ma più la crisi si prolunga, più servono interventi strutturali per ridurre la vulnerabilità delle forni"
-      },
-      {
-        "title": "Nella battaglia del mais l’Italia cede alle superpotenze",
-        "link": "https://www.repubblica.it/economia/2026/09/18/news/nella_battaglia_del_mais_l_italia_cede_alle_superpotenze-425592811/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 12:17:20 +0200",
-        "excerpt": "La produzione arretra in tutta Europa. Con l’Ucraina bloccata, Usa e Brasile la fanno da padroni. Il peso di tecnologie e fertilizzanti"
       }
     ],
     "europa": [
@@ -505,6 +505,20 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Putin, Europa nasconde perdita di prestigio parlando di preparare guerra alla Russia",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/18/putin-europa-nasconde-perdita-di-prestigio-parlando-di-preparare-guerra-alla-russia_a6ff4841-a102-4878-b26b-314810218643.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 21:02:28 +0200",
+        "excerpt": "Per lo zar l'Ovest usa gli ucraini come \"carne da cannone\""
+      },
+      {
+        "title": "Nuovo blackout totale a Cuba, è il settimo dell'anno",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/18/nuovo-blackout-totale-a-cuba-e-il-settimo-dellanno_59914b15-521b-4f40-9a63-6c7bb56ae624.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 18 Sep 2026 20:54:07 +0200",
+        "excerpt": "'Sono in corso accertamenti immediati sulle cause, attivati i protocolli di ripristino'"
+      },
       {
         "title": "L’attrice Laleh Marzban minacciata da Teheran dopo il discorso al Festival di Venezia per le donne iraniane",
         "link": "https://www.repubblica.it/esteri/2026/09/18/news/attrice_laleh_marzban_minacciata_da_teheran_dopo_discorso_festival_venezia_per_donne_iraniane-425593970/?rss",
@@ -910,20 +924,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 17 Sep 2026 23:17:26 +0200",
         "excerpt": "Il presidente brasiliano attacca Flávio Bolsonaro e lo accusa sul caso Banco Master"
-      },
-      {
-        "title": "Brasile, vestito da donna e un bimbo in braccio era quasi sfuggito alla polizia: arrestato serial killer. Ha confessato 80 omicidi",
-        "link": "https://www.repubblica.it/esteri/2026/09/17/news/brasile_serial_killer_arresto_vestito_donna_confessa_80_omicidi-425591248/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 17 Sep 2026 23:13:09 +0200",
-        "excerpt": "Jorlan Lope Da Silva, 33 anni, era accusato di 16 delitti ma, una volta catturato, ha ammesso di averne commessi molti di più, il primo a soli 13 anni. Si indaga su legami con una potente organizzazione criminale"
-      },
-      {
-        "title": "Lula, 'pronto a parlare con Trump, ma senza rinunciare alla sovranità'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/17/lula-pronto-a-parlare-con-trump-ma-senza-rinunciare-alla-sovranita_b2e4c76d-453c-4773-bcbb-3fa67c665ce6.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 17 Sep 2026 23:13:01 +0200",
-        "excerpt": "Il presidente del Brasile: 'Il Paese non si piegherà all'arroganza di nessuno'"
       }
     ]
   },
@@ -1350,6 +1350,27 @@
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: Frosinone-Como in campo domenica alle 15 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-frosinone-como-in-campo-domenica-alle-15-diretta_a16575d6-66fe-4050-b634-b38b963e6302.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 20:56:42 +0200",
+      "excerpt": "Monterisi: 'Como forte, ma il Frosinone sa cosa deve fare'"
+    },
+    {
+      "title": "Serie A: Fiorentina-Napoli in campo domenica alle 12.30 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-fiorentina-napoli-in-campo-domenica-alle-12.30-diretta_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 20:56:30 +0200",
+      "excerpt": "Il tecnico viola: Alla mia squadra ho chiesto di fare un altro step di crescita"
+    },
+    {
+      "title": "Serie A: Monza-Sassuolo 0-0 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/serie-a-monza-sassuolo-0-0-diretta-e-foto_c2badf2a-c1ad-4529-bb87-01950ffdc1f8.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 18 Sep 2026 20:47:26 +0200",
+      "excerpt": "La sfida in Brianza apre la quinta giornata di campionato"
+    },
     {
       "title": "La prima Francia di Zidane senza Marcus Thuram e con 5 novità",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/18/la-prima-francia-di-zidane-senza-marcus-thuram-e-con-5-novita_e5ae2a78-715a-401c-a9f9-3e13a6124da3.html",
