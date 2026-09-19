@@ -4,26 +4,27 @@ import path from 'path';
 
 const parser = new Parser({ timeout: 10000 });
 
-// NOTA: alcuni URL ANSA per le sotto-aree geografiche sono dedotti dal pattern
-// noto delle loro URL. Verificheremo insieme i log di GitHub Actions dopo il
-// primo run, esattamente come abbiamo già fatto per altri feed in passato.
 const FEEDS = {
   finanza: {
     italia: [
       { name: "Il Sole 24 Ore", url: "https://www.ilsole24ore.com/rss/italia.xml" },
       { name: "ANSA Economia", url: "https://www.ansa.it/sito/notizie/economia/economia_rss.xml" },
-      { name: "Repubblica Economia", url: "https://www.repubblica.it/rss/economia/rss2.0.xml" }
+      { name: "Repubblica Economia", url: "https://www.repubblica.it/rss/economia/rss2.0.xml" },
+      { name: "Investing.com Italia", url: "https://it.investing.com/rss/news_25.rss" }
     ],
     europa: [
       { name: "ANSA Europa", url: "https://www.ansa.it/sito/notizie/mondo/europa/europa_rss.xml" },
-      { name: "Il Sole 24 Ore Mondo", url: "https://www.ilsole24ore.com/rss/mondo.xml" }
+      { name: "Il Sole 24 Ore Mondo", url: "https://www.ilsole24ore.com/rss/mondo.xml" },
+      { name: "Investing.com Eurozona", url: "https://www.investing.com/rss/news_1064.rss" }
     ],
     usa: [
-      { name: "ANSA Nordamerica", url: "https://www.ansa.it/sito/notizie/mondo/nordamerica/nordamerica_rss.xml" }
+      { name: "ANSA Nordamerica", url: "https://www.ansa.it/sito/notizie/mondo/nordamerica/nordamerica_rss.xml" },
+      { name: "Investing.com USA", url: "https://www.investing.com/rss/news_285.rss" }
     ],
     mondo: [
       { name: "ANSA Mondo", url: "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml" },
-      { name: "Repubblica Esteri", url: "https://www.repubblica.it/rss/esteri/rss2.0.xml" }
+      { name: "Repubblica Esteri", url: "https://www.repubblica.it/rss/esteri/rss2.0.xml" },
+      { name: "Investing.com Commodities", url: "https://www.investing.com/rss/news_11.rss" }
     ]
   },
   attualita: [
@@ -100,8 +101,6 @@ function mergeUnique(existing, fresh, maxItems) {
   return merged.slice(0, maxItems);
 }
 
-// Gestisce sia categorie "semplici" (array di notizie) sia categorie
-// "annidate" per area geografica (oggetto con più array), in modo generico.
 function mergeCategoryData(existing, fresh, maxItems) {
   if (Array.isArray(fresh)) {
     return mergeUnique(existing || [], fresh, maxItems);

@@ -141,8 +141,8 @@ main { flex: 1; min-width: 0; }
 
 .sub-tab-btn.active { background: #1a1a1a; color: white; border-color: #1a1a1a; }
 
-.region-panel { display: none; }
-.region-panel.active { display: grid; }
+.region-panel { display: none !important; }
+.region-panel.active { display: grid !important; }
 
 .news-grid {
   display: grid;
