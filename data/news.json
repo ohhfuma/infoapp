@@ -1,12 +1,19 @@
 {
-  "lastUpdated": "2026-09-19T16:37:27.982Z",
+  "lastUpdated": "2026-09-19T17:07:07.208Z",
   "finanza": {
     "italia": [
+      {
+        "title": " Irpef, bonus casa e stop a regime al bollo auto:  i 10 punti del Fisco nell’agenda della manovra",
+        "link": "https://www.ilsole24ore.com/art/fisco-taglio-irpef-stop-regime-bollo-auto-ecco-10-punti-nell-agenda-manovra-AJWTP9FB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 19 Sep 2026 16:48:00 GMT",
+        "excerpt": "Meno tasse per il ceto medio, incentivi ai giovani, nuova spinta all’efficienza energetica delle abitazioni e agevolazioni per proprietari immobiliari e partite Iva. Ma anche rinnovi di misure già sperimentate..."
+      },
       {
         "title": "M5S, Conte: no ad armi e riarmo. E rilancia la svolta negoziale sull’Ucraina: «Gli europei ci appoggeranno»",
         "link": "https://www.ilsole24ore.com/art/m5s-conte-no-ad-armi-e-riarmo-e-rilancia-svolta-negoziale-sull-ucraina-gli-europei-ci-appoggeranno-AJhpQXIB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 19 Sep 2026 16:28:26 GMT",
+        "pubDate": "Sat, 19 Sep 2026 16:28:00 GMT",
         "excerpt": "«Mi sembra che emerga un mandato chiaro e ben preciso, dobbiamo costruire percorsi di pace, con la guerra non andiamo da nessuna parte. Le armi allontanano la pace». Ad affermarlo..."
       },
       {
@@ -99,13 +106,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 19 Sep 2026 11:53:00 GMT",
         "excerpt": "«Dal 2022 a giugno di quest’anno sono già state sgomberate 6mila abitazioni, 6mila case occupate abusivamente. Tante altre ne restano, però è un segnale concreto». Il bilancio è tracciato dal..."
-      },
-      {
-        "title": "Assegno unico, l’Inps riscontra errori: partono le lettere per gli accertamenti",
-        "link": "https://www.ilsole24ore.com/art/assegno-unico-l-inps-riscontra-errori-partono-lettere-gli-accertamenti-AJ5IXTHB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 19 Sep 2026 11:43:44 GMT",
-        "excerpt": "Al via una campagna di controllo sull’assegno unico, prestazione basata sull’Isee. Durante apposite verifiche sul bonus e i relativi redditi Isee sarebbero emerse circa 4.000 Dsu (dichiarazioni sostitutive uniche) sospet"
       },
       {
         "title": "Spaziani (Confedilizia),in manovra chiediamo cedolare secca sui negozi",
@@ -243,11 +243,11 @@
         "excerpt": "L’Unicef esorta i partner a fornire finanziamenti flessibili e tempestivi a copertura dei 97,5 milioni di dollari Usa necessari per proteggere 540.000 bambini e le loro famiglie nella Striscia di..."
       },
       {
-        "title": "Ucraina, nella notte attacchi russi su Odessa e Kiev: «Lanciati due missili ipersonici»",
+        "title": "Gli Usa approvano la vendita all’Ucraina di sistemi di difesa aerea per 2,6 miliardi",
         "link": "https://www.ilsole24ore.com/art/ucraina-notte-attacchi-russi-odessa-e-kiev-lanciati-due-missili-ipersonici-AJYGLMIB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sat, 19 Sep 2026 12:08:00 GMT",
-        "excerpt": "La scorsa notte le forze russe hanno attaccato l’Ucraina usando anche “due missili Zircon” fatti partire dalla regione di Kursk, 174 droni. Le principali direttrici dell’attacco sono state le regioni..."
+        "excerpt": "Il dipartimento di Stato americano ha approvato la vendita all’Ucraina di sistemi di difesa aerea per un valore di 2,68 miliardi di dollari. In una notifica al Congresso, Foggy Bottom..."
       },
       {
         "title": "Dai gatti parlanti alla spy-app di Putin: così Max sorveglia la Russia",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
+        "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-19 16:18:25",
+        "excerpt": ""
+      },
+      {
         "title": "L'Honduras prepara il bombardamento delle nuvole contro la siccità",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/lhonduras-prepara-il-bombardamento-delle-nuvole-contro-la-siccita_bc8d8b49-16d2-40bd-94f4-ed1bb295bf63.html",
         "source": "ANSA Mondo",
@@ -455,13 +462,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sat, 19 Sep 2026 17:55:18 +0200",
         "excerpt": "Fonti alla Afp: uccisi 17 soldati e 31 ribelli"
-      },
-      {
-        "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
-        "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-19 12:36:23",
-        "excerpt": ""
       },
       {
         "title": "La confessione della Pussy Riot: “Costretta dai servizi segreti russi a spiare i miei amici”",
@@ -572,18 +572,25 @@
   },
   "attualita": [
     {
+      "title": "Serie A: Roma-Inter 2-0 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-2-0-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 18:57:46 +0200",
+      "excerpt": "I nerazzurri con il lutto al braccio, per onorare Sandro Mazzola"
+    },
+    {
+      "title": "Oktoberfest al via, torna la festa della birra",
+      "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/09/19/oktoberfest-al-via-torna-la-festa-della-birra_6c2ca671-8cb8-468b-b582-ed2c73df4392.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 18:51:06 +0200",
+      "excerpt": "Oktoberfest al via, torna la festa della birra"
+    },
+    {
       "title": "Conte: 'Assolverò il mandato di Nova, no al vivacchiare della politica'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/conte-assolvero-il-mandato-di-nova-no-al-vivacchiare-della-politica_9e587ba7-024f-4f2b-89fc-5d26d37786bf.html",
       "source": "ANSA",
       "pubDate": "Sat, 19 Sep 2026 18:19:12 +0200",
       "excerpt": "'Non sono disposto a diluirlo perché diventi un galleggiare'"
-    },
-    {
-      "title": "Serie A: Roma-Inter 1-0 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-1-0-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 18:15:08 +0200",
-      "excerpt": "I nerazzurri con il lutto al braccio, per onorare Sandro Mazzola"
     },
     {
       "title": "A Pontida un ulivo per Bossi e le critiche dei nordisti a Salvini: “Irriconoscente”",
@@ -677,13 +684,6 @@
       "excerpt": ""
     },
     {
-      "title": "Oltre 100 esperti IA, 'Anthropic e OpenAI hanno bisogno di valutatori indipendenti'",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/09/18/oltre-100-esperti-ia-anthropic-e-openai-hanno-bisogno-di-valutatori-indipendenti_e990f551-ce2e-446e-8802-6efe9f6375f6.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 15:59:15 +0200",
-      "excerpt": "Lettera aperta: \"Strumento efficace per la gestione dei rischi su larga scala\""
-    },
-    {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
       "link": "https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml",
       "source": "Corriere della Sera",
@@ -742,11 +742,25 @@
   ],
   "sport": [
     {
-      "title": "Serie A: Roma-Inter 1-0 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-1-0-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "title": "Un minuto di raccoglimento prima di tutte le gare sportive per Sandro Mazzola",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/19/un-minuto-di-raccoglimento-prima-di-tutte-le-gare-sportive-per-sandro-mazzola_83591308-b6e0-4a37-87c3-9609c2cdfcfb.html",
       "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 18:30:54 +0200",
+      "pubDate": "Sat, 19 Sep 2026 19:00:51 +0200",
+      "excerpt": "Bandiere a mezz'asta nella sede Figc di Roma e a Coverciano. Inter con il lutto al braccio contro la Roma"
+    },
+    {
+      "title": "Serie A: Roma-Inter 2-0 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-2-0-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 18:57:46 +0200",
       "excerpt": "I nerazzurri con il lutto al braccio, per onorare Sandro Mazzola"
+    },
+    {
+      "title": "Juve: tegola Grabara, lesione al legamento crociato",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/juve-tegola-grabara-lesione-al-legamento-crociato_c672b342-82ac-4cda-be5d-dc12e5e48797.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 18:38:07 +0200",
+      "excerpt": "Altro grave infortunio per i bianconeri, Spalletti perde il secondo portiere"
     },
     {
       "title": "Serie A: Zaniolo, 'felice di essere tornato, la Nazionale era il mio sogno'",
@@ -777,25 +791,11 @@
       "excerpt": "Conversazione inedita sul sito del club: 'avevo il tifoso nel cuore'"
     },
     {
-      "title": "Serie A: Maldini scaccia le nubi, gol vittoria a Udine e il Cagliari vola in testa alla classifica",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-maldini-scaccia-le-nubi-gol-vittoria-a-udine-e-il-cagliari-vola-in-testa_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 17:30:19 +0200",
-      "excerpt": "L'Udinese senza gol non riesce più a vincere in casa"
-    },
-    {
       "title": "Serie A: Pari tra Bologna e Torino, i rossoblù fischiati al Dall'Ara",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-pari-tra-bologna-e-torino-i-rossoblu-fischiati-al-dallara_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 17:27:45 +0200",
       "excerpt": "Dopo Bernardeschi i granata si aggrappano a Kulenovic per evitare la sconfitta"
-    },
-    {
-      "title": "Calcio: Allegri, 'a Firenze una della 4-5 partite più importanti della stagione'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-allegri-a-firenze-una-della-4-5-partite-piu-importanti-della-stagione_130fbb9f-e44f-4c66-b642-a15ad3cf24fa.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 17:11:40 +0200",
-      "excerpt": "Tecnico Napoli: 'Vogliamo arrivare alla prossima sosta nella condizione migliore'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

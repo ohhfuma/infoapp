@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": " Irpef, bonus casa e stop a regime al bollo auto:  i 10 punti del Fisco nell’agenda della manovra",
+        "link": "https://www.ilsole24ore.com/art/fisco-taglio-irpef-stop-regime-bollo-auto-ecco-10-punti-nell-agenda-manovra-AJWTP9FB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 19 Sep 2026 16:48:00 GMT",
+        "excerpt": "Meno tasse per il ceto medio, incentivi ai giovani, nuova spinta all’efficienza energetica delle abitazioni e agevolazioni per proprietari immobiliari e partite Iva. Ma anche rinnovi di misure già sperimentate..."
+      },
+      {
         "title": "M5S, Conte: no ad armi e riarmo. E rilancia la svolta negoziale sull’Ucraina: «Gli europei ci appoggeranno»",
         "link": "https://www.ilsole24ore.com/art/m5s-conte-no-ad-armi-e-riarmo-e-rilancia-svolta-negoziale-sull-ucraina-gli-europei-ci-appoggeranno-AJhpQXIB",
         "source": "Il Sole 24 Ore",
@@ -415,13 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 18 Sep 2026 17:23:50 GMT",
         "excerpt": "Parte sabato 19 settembre alle 8.30 su Radio 24 “Immagini, uno sguardo sull’attualità”, il nuovo appuntamento condotto da Valentina Furlanetto con Riccardo Barlaam, che propone una chiave di lettura originale..."
-      },
-      {
-        "title": "Cva, attribuite deleghe ad amministratore delegato Gianfilippo Mancini",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/cva-attribuite-deleghe-ad-amministratore-delegato-gianfilippo-mancini_2aa8aaca-d3ac-4b25-99b1-2445aae965a2.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 19:21:00 +0200",
-        "excerpt": "Costituiti tre comitati consultivi"
       }
     ],
     "europa": [
@@ -1126,6 +1126,20 @@
   },
   "attualita": [
     {
+      "title": "Serie A: Roma-Inter 2-0 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-2-0-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 18:57:46 +0200",
+      "excerpt": "I nerazzurri con il lutto al braccio, per onorare Sandro Mazzola"
+    },
+    {
+      "title": "Oktoberfest al via, torna la festa della birra",
+      "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/09/19/oktoberfest-al-via-torna-la-festa-della-birra_6c2ca671-8cb8-468b-b582-ed2c73df4392.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 18:51:06 +0200",
+      "excerpt": "Oktoberfest al via, torna la festa della birra"
+    },
+    {
       "title": "Conte: 'Assolverò il mandato di Nova, no al vivacchiare della politica'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/conte-assolvero-il-mandato-di-nova-no-al-vivacchiare-della-politica_9e587ba7-024f-4f2b-89fc-5d26d37786bf.html",
       "source": "ANSA",
@@ -1530,23 +1544,30 @@
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 23:45:21 +0200",
       "excerpt": "Il presidente: 'Avvieremo subito il processo per stabilire la nostra presenza militare. Nessun avversario potrà mettere basi o investire qui senza l'ok degli Stati Uniti'"
-    },
-    {
-      "title": "Il Monza trova il primo successo: doppietta di Varela, Sassuolo battuto 2-1",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/18/news/monza_sassuolo_gol-425594332/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 21:06:59 +0000",
-      "excerpt": "I neroverdi trovano la rete solo nel finale con Adzic dopo aver sbagliato tanto nel primo tempo"
-    },
-    {
-      "title": "Prof accoltellata, insulti social contro Isabella Marsilio dopo le parole sulla remigrazione",
-      "link": "https://roma.repubblica.it/cronaca/2026/09/18/news/professoressa_accoltellata_roma_isabella_marsilio_insulti_social_remigrazione-425594260/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 20:13:28 +0000",
-      "excerpt": "La docente del Verga di Centocelle aveva raccontato l'aggressione e ribadito le sue idee sugli stranieri. Su Facebook piovono critiche e attacchi personali"
     }
   ],
   "sport": [
+    {
+      "title": "Un minuto di raccoglimento prima di tutte le gare sportive per Sandro Mazzola",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/19/un-minuto-di-raccoglimento-prima-di-tutte-le-gare-sportive-per-sandro-mazzola_83591308-b6e0-4a37-87c3-9609c2cdfcfb.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 19:00:51 +0200",
+      "excerpt": "Bandiere a mezz'asta nella sede Figc di Roma e a Coverciano. Inter con il lutto al braccio contro la Roma"
+    },
+    {
+      "title": "Serie A: Roma-Inter 2-0 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-2-0-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 18:57:46 +0200",
+      "excerpt": "I nerazzurri con il lutto al braccio, per onorare Sandro Mazzola"
+    },
+    {
+      "title": "Juve: tegola Grabara, lesione al legamento crociato",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/juve-tegola-grabara-lesione-al-legamento-crociato_c672b342-82ac-4cda-be5d-dc12e5e48797.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 18:38:07 +0200",
+      "excerpt": "Altro grave infortunio per i bianconeri, Spalletti perde il secondo portiere"
+    },
     {
       "title": "Serie A: Roma-Inter 1-0 DIRETTA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-1-0-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
@@ -1945,20 +1966,6 @@
       "source": "Gazzetta dello Sport",
       "pubDate": "Thu, 7 Dec 2023 20:51:19 +0100",
       "excerpt": "L’obiettivo in casa nerazzurra è quello di svuotare l’infermeria entro fine anno per restituire a Inzaghi l’organico al completo. L’azzurro sarà il primo a tornare disponibile, con probabile partenza dalla panchina contr"
-    },
-    {
-      "title": "Massimo Pericolo: \"Così il pugilato mi ha aiutato a stare bene. Io sul ring? Sfiderei Emis Killa\"  ",
-      "link": "https://video.gazzetta.it/video-massimo-pericolo-cosi-il-pugilato-mi-ha-aiutato-io-sul-ring-sfiderei-emis-killa/1cc56a92-684e-45d2-a6e1-daec75ba4xlk",
-      "source": "Gazzetta dello Sport",
-      "pubDate": "Thu, 7 Dec 2023 15:30:58 +0100",
-      "excerpt": "Alessandro Vanetti, in arte Massimo Pericolo, si racconta alla Gazzetta: dagli inizi con il rap alla produzione del suo nuovo album “Le cose cambiano”. Un viaggio tra musica, autodeterminazione e una dura lotta contro la"
-    },
-    {
-      "title": "Maltempo e allagamenti in Toscana: segui la diretta  ",
-      "link": "https://video.gazzetta.it/video-maltempo-toscana-allagamenti-danni-segui-diretta/1a11e3ec-7a1c-11ee-9790-0f29f8a2d723",
-      "source": "Gazzetta dello Sport",
-      "pubDate": "Fri, 3 Nov 2023 08:57:25 +0100",
-      "excerpt": "Maltempo Toscana, allagamenti e danni: segui la diretta La tempesta Ciaran è arrivata in Italia. È emergenza in Toscana, dove ci sono stati sei morti. Alcuni dispersi in diverse regioni per il maltempo, mentre anche oggi"
     }
   ]
 }
