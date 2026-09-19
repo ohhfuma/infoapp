@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Mutui, salgono i tassi ad agosto. Prestiti, corrono di più per le imprese",
+        "link": "https://www.ilsole24ore.com/art/mutui-salgono-tassi-ad-agosto-prestiti-corrono-piu-le-imprese-AJXYBCIB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 19 Sep 2026 08:35:00 GMT",
+        "excerpt": "Il tasso sul finanziamento per la casa al 3,56%. Per le attività produttive cala al 3,66 per cento."
+      },
+      {
+        "title": "Cna, \"la bolletta dell'energia aumenta ancora per tre pmi su quattro\"",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/cna-la-bolletta-dellenergia-aumenta-ancora-per-tre-pmi-su-quattro_e37f5aa0-7517-467d-88c6-52e7eec9d952.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 19 Sep 2026 10:24:47 +0200",
+        "excerpt": "Costantini, superare una politica energetica affidata a interventi di emergenza episodici"
+      },
+      {
         "title": "Asili nido: quanti nuovi posti sono stati davvero creati con il Pnrr?",
         "link": "https://www.repubblica.it/economia/2026/09/19/news/asili_nido_quanti_nuovi_posti_sono_stati_davvero_creati-425594652/?rss",
         "source": "Repubblica Economia",
@@ -649,11 +663,25 @@
   },
   "attualita": [
     {
+      "title": "Marines americani, che figuraccia: alle esercitazioni Nato con gli scarponi rotti",
+      "link": "https://www.repubblica.it/esteri/2026/09/19/news/marines_americani_con_scarponi_rotti_alle_esercitazioni_nato-425594714/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 07:56:11 +0000",
+      "excerpt": "In Norvegia le forze militari statunitensi hanno dovuto cambiare le calzature, troppo poco resistenti all’ambiente artico"
+    },
+    {
       "title": "'Gemini viola tre aziende, è la prima volta per l'Ia di Google'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/media-gemini-viola-tre-aziende-e-la-prima-volta-per-lia-di-google_3cc242f1-ac49-4aa6-a77d-e5c9b5294a38.html",
       "source": "ANSA",
       "pubDate": "Sat, 19 Sep 2026 09:47:34 +0200",
       "excerpt": "Lo riportano i media statunitensi. Dopo i casi OpenAi e Anthropic. L'incidente a maggio, 'ma la sicurezza ha funzionato'"
+    },
+    {
+      "title": "Confcommercio, il caro-energia porterà l’inflazione al 3,7%. Famiglie costrette a tagliare i consumi",
+      "link": "https://www.repubblica.it/economia/2026/09/19/news/confcommercio_caro_energia_inflazione-425594688/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 07:38:21 +0000",
+      "excerpt": "Non ci sono più margini nei bilanci degli italiani: spesa in calo di mezzo punto, con una perdita di 6,5 miliardi di euro. Per le spese obbligate prezzi su del 5,9%"
     },
     {
       "title": "Le mostre del weekend, da Kandinsky a Bertozzi",
@@ -731,6 +759,13 @@
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 03:00:00 +0000",
       "excerpt": "La flessibilità di bilancio assicurata dalla Ue consente di mettere sul piatto nuove risorse. Ecco a quali incentivi sta lavorando il governo. Sul tavolo anche il Conto Termico rafforzato"
+    },
+    {
+      "title": "Comunali, maxi-cena della destra per trovare la soluzione: i possibili candidati allo stesso tavolo",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/19/news/comunali_maxi_cena_destra_palazzo_lombardia_candidati_tavolo_colletta_la_russa-425594283/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 03:00:00 +0000",
+      "excerpt": "L’evento con quasi mille commensali davanti a Palazzo Lombardia, organizza La Russa con una colletta tra gli eletti di FdI"
     },
     {
       "title": "Lussemburgo: allarme droni, breve sospensione traffico aereo",
@@ -1035,6 +1070,13 @@
     }
   ],
   "sport": [
+    {
+      "title": "Mazzola: l'Aic, fu tra i firmatari dell'atto costitutivo dell'associazione",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/mazzola-laic-fu-tra-i-firmatari-dellatto-costitutivo-dellassociazione_e63e584e-f6b6-4b6b-82d4-666bf7c210ec.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 10:12:25 +0200",
+      "excerpt": "\"Alla grandezza del campione, ha unito la consapevolezza del ruolo sociale del calciatore\""
+    },
     {
       "title": "Serie A: Roma-Inter in campo alle 18 DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-in-campo-alle-18-diretta_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
