@@ -13,12 +13,10 @@ const FEEDS = {
       { name: "Investing.com Italia", url: "https://it.investing.com/rss/news_25.rss" }
     ],
     europa: [
-      { name: "ANSA Europa", url: "https://www.ansa.it/sito/notizie/mondo/europa/europa_rss.xml" },
       { name: "Il Sole 24 Ore Mondo", url: "https://www.ilsole24ore.com/rss/mondo.xml" },
       { name: "Investing.com Eurozona", url: "https://www.investing.com/rss/news_1064.rss" }
     ],
     usa: [
-      { name: "ANSA Nordamerica", url: "https://www.ansa.it/sito/notizie/mondo/nordamerica/nordamerica_rss.xml" },
       { name: "Investing.com USA", url: "https://www.investing.com/rss/news_285.rss" }
     ],
     mondo: [
@@ -34,7 +32,6 @@ const FEEDS = {
   ],
   sport: [
     { name: "Gazzetta dello Sport", url: "https://www.gazzetta.it/rss/home.xml" },
-    { name: "Repubblica Sport", url: "https://www.repubblica.it/rss/sport/rss2.0.xml" },
     { name: "ANSA Sport", url: "https://www.ansa.it/sito/notizie/sport/sport_rss.xml" }
   ]
 };
