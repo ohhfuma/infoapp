@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Le preoccupazioni sull’AI Doom metteranno fine all’AI Boom?",
+        "link": "https://it.investing.com/news/stock-market-news/le-preoccupazioni-sullai-doom-metteranno-fine-allai-boom-3555369",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-19 20:16:51",
+        "excerpt": ""
+      },
+      {
+        "title": "Un analista spiega perché evitare le azioni Nike nonostante il forte calo",
+        "link": "https://it.investing.com/news/stock-market-news/un-analista-spiega-perche-evitare-le-azioni-nike-nonostante-il-forte-calo-3555367",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-19 20:10:04",
+        "excerpt": ""
+      },
+      {
         "title": "Trump: presto una task force sugli algoritmi. E OpenAI brucia 280 miliardi di cassa",
         "link": "https://www.repubblica.it/economia/2026/09/20/news/trump_presto_una_task_force_sugli_algoritmi_e_openai_brucia_280_miliardi_di_cassa-425595764/?rss",
         "source": "Repubblica Economia",
@@ -408,20 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-18 21:51:22",
         "excerpt": ""
-      },
-      {
-        "title": "Salvini alla prova di Pontida rilancia su pensioni e sicurezza",
-        "link": "https://www.ilsole24ore.com/art/salvini-prova-pontida-rilancia-pensioni-e-sicurezza-AJBoI8GB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 18 Sep 2026 20:30:52 GMT",
-        "excerpt": "Matteo Salvini punta ad arrivare domenica all’appuntamento di Pontida senza contestazioni e con i colori della Lega ben visibili dentro il governo. «Non passa lo straniero» è lo slogan scelto..."
-      },
-      {
-        "title": "Alzheimer, 600mila gli italiani colpiti: costa in totale 23 miliardi l’anno",
-        "link": "https://www.ilsole24ore.com/art/alzheimer-600mila-italiani-colpiti-costa-totale-23-miliardi-l-anno-AJVmqmHB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 18 Sep 2026 18:55:00 GMT",
-        "excerpt": "Il 63% dell’onore economico è a carico delle famiglie. Circa la metà dei casi, però, sarebbe evitabile o ritardabile cambiando le abitudini"
       }
     ],
     "europa": [
@@ -1562,6 +1562,20 @@
   ],
   "sport": [
     {
+      "title": "A Venezia la Lazio vince 2-0 con i gol di Zaccagn  e Noslin CRONACA FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/a-venezia-la-lazio-vince-2-0-con-i-gol-di-zaccagn-e-noslin-cronaca-foto_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 22:44:52 +0200",
+      "excerpt": "Il match valido per la quinta giornata di campionato"
+    },
+    {
+      "title": "Serie A: Zaccagni e Noslin stendono il Venezia, la Lazio torna in testa",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-zaccagni-e-noslin-stendono-il-venezia-la-lazio-torna-in-testa_74829b70-9699-40c8-83c9-f7ad3ca6a7c6.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 22:37:11 +0200",
+      "excerpt": "I lagunari sbagliano dal dischetto e sprofondano, i biancocelesti no"
+    },
+    {
       "title": "Serie A: Venezia-Lazio 0-2 CRONACA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-venezia-lazio-0-2-cronaca-e-foto_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
       "source": "ANSA Sport",
@@ -1966,20 +1980,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 09:37:55 +0200",
       "excerpt": "Il presidente Figc: \"Ha trasformato un cognome immenso in una storia altrettanto grande\""
-    },
-    {
-      "title": "Mazzola: l'omaggio dell'Inter \"sei diventato la nostra storia\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/mazzola-lomaggio-dellinter-sei-diventato-la-nostra-storia_3269ddbc-385a-42fe-a967-64bcde899512.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 09:06:54 +0200",
-      "excerpt": "\"Ha attraversato generazioni e trasmesso il suo amore per questi colori\""
-    },
-    {
-      "title": ">>>ANSA/Calcio: è morto Mazzola, idolo della Grande Inter di Herrera",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/ansacalcio-e-morto-mazzola-idolo-della-grande-inter-di-herrera_f4fd692d-96a4-41c4-927e-002cf191881a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 01:40:41 +0200",
-      "excerpt": "Figlio di Valentino, aveva 83 anni, indossò solo la maglia nerazzurra"
     }
   ]
 }
