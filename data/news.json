@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-19T08:38:21.499Z",
+  "lastUpdated": "2026-09-19T09:07:43.672Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Abi: 'Ad agosto accelerano prestiti a famiglie e imprese, tassi al 4,19%'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/abiad-agosto-accelerano-prestiti-a-famiglie-e-imprese-tassi-al-419_d25625fe-d033-4045-9935-c56be86c0a5e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 19 Sep 2026 10:39:39 +0200",
+        "excerpt": "In rialzo per le abitazioni, scendono per le imprese"
+      },
       {
         "title": "Mutui, salgono i tassi ad agosto. Prestiti, corrono di più per le imprese",
         "link": "https://www.ilsole24ore.com/art/mutui-salgono-tassi-ad-agosto-prestiti-corrono-piu-le-imprese-AJXYBCIB",
@@ -162,13 +169,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 18 Sep 2026 18:31:53 +0200",
         "excerpt": "Ad Amsterdam le quotazioni sono in aumento del 3,47%"
-      },
-      {
-        "title": "Lo spread tra Btp e Bund chiude in rialzo a 91 punti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/18/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-91-punti_2111c505-63d1-458f-92ee-0bfd7079dc06.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 18 Sep 2026 18:11:37 +0200",
-        "excerpt": "Il rendimento del decennale italiano sale al 4,43%"
       }
     ],
     "europa": [
@@ -231,6 +231,13 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Royal Family, perché il fratello di Diana accusa re Carlo. La coincidenza con ol ritorno di Harry",
+        "link": "https://www.repubblica.it/esteri/2026/09/19/news/diana_fratello_charles_spencer_accusa_re_carlo_i_motivi_perche_harry-425594781/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 19 Sep 2026 10:53:06 +0200",
+        "excerpt": "Il conte Charles Spencer insiste, nonostante la furia di Buckingham Palace, e rilancia alla Bbc: “Dovevo dire la verità. Il sovrano mi ha detto davvero quelle frasi sconvolgenti”. Ma intanto si scatenano le speculazioni "
+      },
       {
         "title": "Trump annuncia l'accordo sulla Groenlandia: 'Controlleremo la sua sicurezza'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-il-controllo-usa-della-sicurezza_1cca247f-3819-4ca1-8017-ce344cbcec44.html",
@@ -309,13 +316,6 @@
         "excerpt": "Ha chiesto invano agli Usa e all’Egitto di aiutarlo contro i filoiraniani. La Cina resta in disparte e anche l’Europa tergiversa"
       },
       {
-        "title": "Le mani di Putin sulle multinazionali che “appartengono a Paesi ostili”",
-        "link": "https://www.repubblica.it/esteri/2026/09/19/news/mani_putin_sulle_multinazionali_auchan_nestle_leroy_merlin_perche_appartengono_a_paesi_ostili-425594157/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 19 Sep 2026 01:00:00 +0200",
-        "excerpt": "Trasferite a un gruppo russo le succursali moscovite di Nestlé, Auchan e Leroy Merlin"
-      },
-      {
         "title": "Inchiesta su collusione tra gang e politica a San Paolo, in manette politico di spicco",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/inchiesta-su-collusione-tra-gang-e-politica-a-san-paolo-in-manette-politico-di-spicco_e73b43b2-6964-4f37-a451-4e6a32f8d9b6.html",
         "source": "ANSA Mondo",
@@ -346,6 +346,20 @@
     ]
   },
   "attualita": [
+    {
+      "title": "La Milano di Mazzola: dai primi calci in oratorio a San Siro. Lunedì i funerali in Sant’Ambrogio",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/19/news/milano_sandro_mazzola_citta_primi_calci_oratorio_san_siro_funerali-425594785/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 08:50:57 +0000",
+      "excerpt": "Dopo la morte del padre Valentino, era tornato a Cassano d’Adda con la mamma e il fratello. Poi, l’arrivo a Milano e, a 12 anni, il provino per l’Inter al centro Ravizza"
+    },
+    {
+      "title": "Sandro Mazzola, il ricordo di Bergomi: “Debuttai grazie a lui. La foto con Facchetti e Alberto Sordi: quanta bellezza”",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/09/19/news/sandro_mazzola_morto_ricordo_bergomi-425594755/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 08:29:48 +0000",
+      "excerpt": "Da bandiera a bandiera: il ricordo dell’ex capitano interista"
+    },
     {
       "title": "Trump annuncia l'accordo sulla Groenlandia: 'Controlleremo la sua sicurezza'",
       "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-il-controllo-usa-della-sicurezza_1cca247f-3819-4ca1-8017-ce344cbcec44.html",
@@ -422,20 +436,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 04:22:00 +0000",
       "excerpt": "L’addio al fuoriclasse della squadra nerazzurra e della Nazionale, aveva 83 anni. Messaggi di cordoglio dal mondo dello sport e dalle istituzioni"
-    },
-    {
-      "title": "Pannelli solari, infissi, pompe di calore: verso il ritorno dell’Ecobonus al 65%",
-      "link": "https://www.repubblica.it/economia/diritti-e-consumi/casa/2026/09/19/news/ecobonus_65_pannelli_solari_infissi_pompe_calore_incentivi-425593935/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 03:00:00 +0000",
-      "excerpt": "La flessibilità di bilancio assicurata dalla Ue consente di mettere sul piatto nuove risorse. Ecco a quali incentivi sta lavorando il governo. Sul tavolo anche il Conto Termico rafforzato"
-    },
-    {
-      "title": "Comunali, maxi-cena della destra per trovare la soluzione: i possibili candidati allo stesso tavolo",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/19/news/comunali_maxi_cena_destra_palazzo_lombardia_candidati_tavolo_colletta_la_russa-425594283/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 03:00:00 +0000",
-      "excerpt": "L’evento con quasi mille commensali davanti a Palazzo Lombardia, organizza La Russa con una colletta tra gli eletti di FdI"
     },
     {
       "title": "8 giovani su 10 si impegnano nella vita pubblica ma le istituzioni non li ascoltano",
@@ -517,6 +517,13 @@
   ],
   "sport": [
     {
+      "title": "Mazzola: Marotta \"era l'Inter, ne custodiremo il ricordo\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/mazzola-marotta-era-linter-ne-custodiremo-il-ricordo_dda44ca6-80e7-417f-a8b0-b2b13a62f4ed.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 10:42:26 +0200",
+      "excerpt": "\"Una sola maglia, diciassette stagioni, una vita intera\""
+    },
+    {
       "title": "Mazzola: l'Aic, fu tra i firmatari dell'atto costitutivo dell'associazione",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/mazzola-laic-fu-tra-i-firmatari-dellatto-costitutivo-dellassociazione_e63e584e-f6b6-4b6b-82d4-666bf7c210ec.html",
       "source": "ANSA Sport",
@@ -564,13 +571,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 09:06:54 +0200",
       "excerpt": "\"Ha attraversato generazioni e trasmesso il suo amore per questi colori\""
-    },
-    {
-      "title": ">>>ANSA/Calcio: è morto Mazzola, idolo della Grande Inter di Herrera",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/ansacalcio-e-morto-mazzola-idolo-della-grande-inter-di-herrera_f4fd692d-96a4-41c4-927e-002cf191881a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 01:40:41 +0200",
-      "excerpt": "Figlio di Valentino, aveva 83 anni, indossò solo la maglia nerazzurra"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
