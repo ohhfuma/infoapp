@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Cgia, il credito al consumo sfiora i 178 miliardi, in 9 anni +62%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/cgia-il-credito-al-consumo-sfiora-i-178-miliardi-in-9-anni-62_05abb6b6-e380-4b59-a078-c891014e6eed.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 19 Sep 2026 11:30:02 +0200",
+        "excerpt": "L'esposizione media è di 6.657 euro a famiglia, +4,9% in un anno"
+      },
+      {
+        "title": "Ex Ilva, avvocati: ripristinare gli impianti dopo la fermata costerebbe 830 milioni",
+        "link": "https://www.ilsole24ore.com/art/ex-ilva-avvocati-ripristinare-impianti-la-fermata-costerebbe-830-milioni-AJ3USFIB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 19 Sep 2026 09:13:47 GMT",
+        "excerpt": "Costerebbe 830 milioni ripristinare gli impianti dell’area a caldo dell’ex Ilva di Taranto dopo il loro spegnimento. Lo scrivono gli avvocati di Ilva in amministrazione straordinaria, la società proprietaria degli..."
+      },
+      {
         "title": "Abi: 'Ad agosto accelerano prestiti a famiglie e imprese, tassi al 4,19%'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/abiad-agosto-accelerano-prestiti-a-famiglie-e-imprese-tassi-al-419_d25625fe-d033-4045-9935-c56be86c0a5e.html",
         "source": "ANSA Economia",
@@ -677,6 +691,13 @@
   },
   "attualita": [
     {
+      "title": "++ MotoGP: Austria, Martin in pole position ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/19/-motogp-austria-martin-in-pole-position-_c183475f-8ed5-4267-b526-aeaa58b90c1a.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 11:34:05 +0200",
+      "excerpt": "In prima fila anche Marc Marquez e Acosta, Bezzecchi quarto"
+    },
+    {
       "title": "La Milano di Mazzola: dai primi calci in oratorio a San Siro. Lunedì i funerali in Sant’Ambrogio",
       "link": "https://milano.repubblica.it/cronaca/2026/09/19/news/milano_sandro_mazzola_citta_primi_calci_oratorio_san_siro_funerali-425594785/",
       "source": "Repubblica",
@@ -752,6 +773,13 @@
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 06:26:52 +0000",
       "excerpt": "In un esperimento degli agenti AI sono rimasti a conversare tra loro. Presto le loro espressioni sono diventate incomprensibili per i ricercatori, tagliati fuori dai dialoghi"
+    },
+    {
+      "title": "Niente metal detector nelle scuole. Ecco perché la circolare che li prevede non è mai stata attuata",
+      "link": "https://www.repubblica.it/cronaca/2026/09/19/news/metal_detector_scuole_circolare_non_attuata_perche-425594588/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 06:00:00 +0000",
+      "excerpt": "Pochissimi i casi in cui i dirigenti scolastici hanno chiesto alle prefetture di disporre i controlli da parte dalle forze dell’ordine. Ma occorre che ci sia una situazione di rischio concreto"
     },
     {
       "title": "Addio a Sandro Mazzola, il ricordo dell’Inter: “Ha scritto la storia in maniera indelebile”",
@@ -1081,20 +1109,6 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 07:13:16 +0200",
       "excerpt": "Tra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità portuale Paolo SignoriniTra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità po"
-    },
-    {
-      "title": "Accumulare allegramente debito  senza pensare a chi pagherà",
-      "link": "https://www.corriere.it/lettere-al-direttore/12-05-2024/index.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 07:13:14 +0200",
-      "excerpt": ""
-    },
-    {
-      "title": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-      "link": "https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 06:05:06 +0200",
-      "excerpt": ""
     }
   ],
   "sport": [
