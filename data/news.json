@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-19T03:38:09.916Z",
+  "lastUpdated": "2026-09-19T04:08:07.156Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Google, Gemini sfugge all’ambiente di test e hackera i sistemi di 3 aziende",
+        "link": "https://www.repubblica.it/economia/2026/09/19/news/google_gemini_sfugge_all_ambiente_di_test_e_hackera_i_sistemi_di_3_aziende-425594498/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 19 Sep 2026 05:59:18 +0200",
+        "excerpt": "L’Ia di Google si è fermata autonomamente dopo aver capito di aver violato sistemi di società realmente esistenti"
+      },
+      {
+        "title": "Polizze sanitarie, il confronto: quanto costano e le clausole a cui fare attenzione",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/09/19/news/polizze_sanitarie_private_confronto_costi_franchigie_clausole_simulazione-425593961/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 19 Sep 2026 05:00:00 +0200",
+        "excerpt": "Il Centro tutela consumatori e utenti ha svolto un’indagine su questo tipo di assicurazioni. Premi annui da 400 euro e fino a 1800 per una donna di 49 anni. Tra garanzia da disdetta, franchigie e convenzioni, gli aspetti"
+      },
+      {
+        "title": "Pannelli solari, infissi, pompe di calore: verso il ritorno dell’Ecobonus al 65%",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/casa/2026/09/19/news/ecobonus_65_pannelli_solari_infissi_pompe_calore_incentivi-425593935/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 19 Sep 2026 05:00:00 +0200",
+        "excerpt": "La flessibilità di bilancio assicurata dalla Ue consente di mettere sul piatto nuove risorse. Ecco a quali incentivi sta lavorando il governo. Sul tavolo anche il Conto Termico rafforzato"
+      },
       {
         "title": "Wall Street perde l’oracolo: Buffett lascia l’ultima carica, Berkshire affidata al figli",
         "link": "https://www.repubblica.it/economia/2026/09/19/news/buffett_lascia_presidente_berkshire_hathaway_figlio_howard-425594146/?rss",
@@ -36,20 +57,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sat, 19 Sep 2026 01:00:00 +0200",
         "excerpt": "Pressing di FdI per allargare la platea dei beneficiari con la manovra. La commissione valuterà le coperture. Giorgetti: i soldi sono nostri"
-      },
-      {
-        "title": "Allarme bollette di Giorgetti: “Lo shock energetico è il problema numero uno”",
-        "link": "https://www.repubblica.it/economia/2026/09/19/news/giorgetti_allarme_bollette_shock_energetico_problema_numero_uno-425594291/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 19 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il ministro: “I prezzi di petrolio e gas colpiranno tutti, l’Europa intervenga”. Fiducia sui miliardi per la flessibilità e critiche alla Bce per l’aumento dei tassi"
-      },
-      {
-        "title": "Cinquemila tagli dopo la fusione, ecco il piano di Mps per le nozze con Banco Bpm",
-        "link": "https://www.repubblica.it/economia/2026/09/19/news/cinquemila_tagli_dopo_la_fusione_ecco_il_piano_di_mps_per_le_nozze_con_banco_bpm-425594182/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 19 Sep 2026 01:00:00 +0200",
-        "excerpt": "Siena risponde a Consob e spiega i risparmi: “Saranno prepensionamenti, poi assumeremo 2.500 giovani”. E comprerà tutto il 13,3% di Generali ora in Mediobanca. Stimati tra 57 e 115 gli sportelli da cedere per rispettare "
       },
       {
         "title": "Salvini alla prova di Pontida rilancia su pensioni e sicurezza",
@@ -99,13 +106,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 18 Sep 2026 19:21:00 +0200",
         "excerpt": "Costituiti tre comitati consultivi"
-      },
-      {
-        "title": "La mobilità in Italia è sempre più cashless",
-        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/09/18/news/la_mobilita_in_italia_e_sempre_piu_cashless-425593817/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 19:05:00 +0200",
-        "excerpt": "In base a uno studio promosso da SumUp, all’aumento dei costi di trasporto di autobus e taxi corrisponde la diminuzione dei pagamenti in contante"
       },
       {
         "title": "Borsa: Milano chiude in calo con l'Europa, scivola Stellantis",
@@ -232,6 +232,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump: 'Accordo con Danimarca e Groenlandia per il controllo Usa della sicurezza sull'isola'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-il-controllo-usa-della-sicurezza_1cca247f-3819-4ca1-8017-ce344cbcec44.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 06:05:13 +0200",
+        "excerpt": "Il presidente: 'Avvieremo subito il processo per stabilire la nostra presenza militare. Nessun avversario potrà mettere basi o investire qui senza l'ok degli Stati Uniti'"
+      },
+      {
         "title": "Royal Family, perché il fratello di Diana accusa re Carlo e la coincidenza del ritorno di Harry",
         "link": "https://www.repubblica.it/esteri/2026/09/19/news/royal_family_perche_il_fratello_di_diana_accusa_re_carlo_e_la_coincidenza_del_ritorno_di_harry-425594492/?rss",
         "source": "Repubblica Esteri",
@@ -330,13 +337,6 @@
         "excerpt": "A margine dell'assemblea Onu"
       },
       {
-        "title": "Trump: 'Accordo con Danimarca e Groenlandia per il controllo Usa della sicurezza dell'isola'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-il-controllo-usa-della-sicurezza_1cca247f-3819-4ca1-8017-ce344cbcec44.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 00:02:56 +0200",
-        "excerpt": "Il presidente: 'Avvieremo subito il processo per stabilire la nostra presenza militare. Nessun avversario potrà mettere basi o investire qui senza l'ok degli Stati Uniti'"
-      },
-      {
         "title": "Trump, nessun avversario potrà mettere basi o investire in Groenlandia senza ok Usa",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-nessun-avversario-potra-mettere-basi-o-investire-in-groenlandia-senza-ok-usa_17717de8-12cc-4764-9130-498e069e5972.html",
         "source": "ANSA Mondo",
@@ -346,6 +346,20 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Trump: 'Accordo con Danimarca e Groenlandia per il controllo Usa della sicurezza sull'isola'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-il-controllo-usa-della-sicurezza_1cca247f-3819-4ca1-8017-ce344cbcec44.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 06:05:13 +0200",
+      "excerpt": "Il presidente: 'Avvieremo subito il processo per stabilire la nostra presenza militare. Nessun avversario potrà mettere basi o investire qui senza l'ok degli Stati Uniti'"
+    },
+    {
+      "title": "Trump firma la legge che impone nuove sanzioni contro la Russia",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/trump-firma-la-legge-che-impone-nuove-sanzioni-contro-la-russia_2075c441-d9d7-49f4-b72d-9135c6db0d29.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 06:03:14 +0200",
+      "excerpt": "La normativa colpisce i settori dell'energia e della difesa"
+    },
     {
       "title": "Traffico aereo interrotto e poi ripreso all'aeroporto del Lussemburgo per la presenza di droni",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/traffico-aereo-interrotto-e-poi-ripreso-allaeroporto-del-lussemburgo-per-la-presenza_c8ee173d-2ba9-473d-94e1-db6c3b96aa5f.html",
@@ -408,20 +422,6 @@
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 23:00:00 +0000",
       "excerpt": "La leader dei Dem dopo la lettera a Repubblica. Fratoianni: “Impossibile collaborare con l’esecutivo”"
-    },
-    {
-      "title": "Trump: 'Accordo con Danimarca e Groenlandia per il controllo Usa della sicurezza dell'isola'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-il-controllo-usa-della-sicurezza_1cca247f-3819-4ca1-8017-ce344cbcec44.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 00:02:56 +0200",
-      "excerpt": "Il presidente: 'Avvieremo subito il processo per stabilire la nostra presenza militare. Nessun avversario potrà mettere basi o investire qui senza l'ok degli Stati Uniti'"
-    },
-    {
-      "title": "Scoppia il caso Aspides, Roma chiede all'Ue più navi e fondi",
-      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 21:05:36 +0200",
-      "excerpt": "Crosetto a Kallas: 'Va potenziata'. L'Italia scorta un mercantile nel Mar Rosso"
     },
     {
       "title": "Damiano David e Dove Cameron sposi a Montalcino",
