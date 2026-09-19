@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-19T13:07:46.797Z",
+  "lastUpdated": "2026-09-19T13:36:48.208Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Confcommercio, con caro-energia rischio inflazione fino 3,7% e crollo pil a 0,6%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/sangalli-contro-caro-energia-agire-subito-a-rischio-consumi-e-crescita_7c51b047-9cac-4203-a3d8-e39560137d11.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 19 Sep 2026 15:20:07 +0200",
+        "excerpt": "Il presidente di Confcommercio: 'Intervenire su vari fronti da incentivi fiscali a rinnovabili'"
+      },
+      {
+        "title": "Abi: 'Ad agosto accelerano prestiti a famiglie e imprese, tassi al 4,19%'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/abiad-agosto-accelerano-prestiti-a-famiglie-e-imprese-tassi-al-419_d25625fe-d033-4045-9935-c56be86c0a5e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 19 Sep 2026 15:19:24 +0200",
+        "excerpt": "Torriero: '3 su 4 mutui casa a tasso fisso, famiglie ora più immunizzate contro rialzi'"
+      },
+      {
+        "title": "Bollo auto, il commissario Ue Dombrovskis: c’è un margine per gestire liquidità da progetti Pnrr",
+        "link": "https://www.ilsole24ore.com/art/bollo-auto-commissario-ue-dombrovskis-c-e-margine-gestire-liquidita-progetti-pnrr-AJyLtNIB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 19 Sep 2026 13:14:51 GMT",
+        "excerpt": "Il fondo di ripresa che ha finanziato i Pnrr «è uno strumento che si fonda sul risultato e non sui costi per cui i Paesi hanno concordato i piani per..."
+      },
       {
         "title": "Bollo auto, Dombrovskis: “Su Pnrr c’è margine per gestire la liquidità”",
         "link": "https://www.repubblica.it/economia/2026/09/19/news/bollo_auto_dombrovskis_pnrr_margine-425595132/?rss",
@@ -52,13 +73,6 @@
         "excerpt": "Apuania è un comune creato durante il fascismo; riuniva Massa, Carrara e Montignoso ed è esistito dal 1938 al 1946. Questa nomenclatura è ricomparsa durante il rinnovo della carta d’identità..."
       },
       {
-        "title": "Confcommercio, con caro-energia rischio inflazione fino 3,7% e crollo pil a 0,6%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/sangalli-contro-caro-energia-agire-subito-a-rischio-consumi-e-crescita_7c51b047-9cac-4203-a3d8-e39560137d11.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 19 Sep 2026 12:55:14 +0200",
-        "excerpt": "Il presidente di Confcommercio: 'Intervenire su vari fronti da incentivi fiscali a rinnovabili'"
-      },
-      {
         "title": "Navi impiegate, militari e responsabilità: i numeri dell’impegno italiano nella missione Ue Aspides",
         "link": "https://www.ilsole24ore.com/art/navi-impiegate-militari-e-responsabilita-numeri-dell-impegno-italiano-missione-ue-aspides-AJQMfEIB",
         "source": "Il Sole 24 Ore",
@@ -85,13 +99,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sat, 19 Sep 2026 12:00:00 +0200",
         "excerpt": "Limiti all’espatrio di chi si occupa di Intelligenza artificiale, semiconduttori e biotecnologie. Effetto della sfida con gli Usa sull’innovazione"
-      },
-      {
-        "title": "Abi: 'Ad agosto accelerano prestiti a famiglie e imprese, tassi al 4,19%'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/abiad-agosto-accelerano-prestiti-a-famiglie-e-imprese-tassi-al-419_d25625fe-d033-4045-9935-c56be86c0a5e.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 19 Sep 2026 11:59:13 +0200",
-        "excerpt": "In rialzo per le abitazioni, scendono per le imprese"
       },
       {
         "title": "Allarme Codacons, gasolio sfiora 2,9 in autostrada; fino a 3,1 euro per il servito",
@@ -148,13 +155,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sat, 19 Sep 2026 10:00:00 +0200",
         "excerpt": "Valditara ha dichiarato che la copertura è arrivata al 37%. Rispetto al 2021, l’incremento effettivo è di 63.500 unità, un buon risultato, ma lontano da quanto inizialmente previsto (264.480 posti). A spingere il rapport"
-      },
-      {
-        "title": "Unical prima fra le università italiane nel Ranking di Shanghai per Computer Science &amp; Engineering",
-        "link": "https://www.ilsole24ore.com/art/unical-prima-le-universita-italiane-ranking-shanghai-computer-science-engineering-AJtsIDIB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 19 Sep 2026 07:48:39 GMT",
-        "excerpt": "AI al centro della ricerca scientifica, nuovi bandi per il diritto allo studio: così l’ateneo lavora per trattenere giovani e competenze sul territorio. Il rettore Greco: «Apriamo orizzonti per chi resta in Calabria»"
       },
       {
         "title": "Confcommercio, il caro-energia porterà l’inflazione al 3,7%. Famiglie costrette a tagliare i consumi",
@@ -575,8 +575,15 @@
       "title": "Gli Houthi: 'Non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/gli-houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono_83a5e95b-d523-4913-a557-a06ae487425b.html",
       "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 14:51:24 +0200",
+      "pubDate": "Sat, 19 Sep 2026 15:30:31 +0200",
       "excerpt": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'. 'Fumo e fiamme vicino all'aeroporto di Riad'. Lo riferiscono i residenti alla France Presse. Flightradar: 'Voli cancellati e in r"
+    },
+    {
+      "title": "Il giorno delle nozze di Diana la gente vide una fiaba. Ma lei già sapeva che non era così",
+      "link": "https://www.repubblica.it/cultura/2026/09/19/news/diana_charles_spencer_memoir_anticipazione_royal_family-425595151/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "excerpt": "Anticipiamo un estratto dal memoir di Charles Spencer, fratello di Lady D, in libreria da martedì 22 settembre. Qui racconta il legame giovanile forte con la sorella maggiore. E il boom mediatico, e le ombre, nel giorno "
     },
     {
       "title": "Bollo auto, Dombrovskis: “Su Pnrr c’è margine per gestire la liquidità”",
@@ -591,6 +598,13 @@
       "source": "ANSA",
       "pubDate": "Sat, 19 Sep 2026 14:25:43 +0200",
       "excerpt": "Sviluppati dall'azienda Unitree, eseguono coreografie sincronizzate e mosse di kung fu"
+    },
+    {
+      "title": "La confessione della Pussy Riot: “Costretta dai servizi segreti russi a spiare i miei amici”",
+      "link": "https://www.repubblica.it/esteri/2026/09/19/news/pussy_riot_confessa_spia_per_i_servizi_segreti_russi-425595084/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 12:22:58 +0000",
+      "excerpt": "Rita Flores racconta in una intervista al “Guardian” come l’Fsb di Putin l’abbia spinta a tradire i suoi colleghi della dissidenza: “Due agenti minacciavano me e la mia famiglia, ho avuto paura”"
     },
     {
       "title": "Prof accoltellata: “Sono addolorata, neanche una telefonata di scuse dai genitori del ragazzo”",
@@ -640,20 +654,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 08:50:57 +0000",
       "excerpt": "Dopo la morte del padre Valentino, era tornato a Cassano d’Adda con la mamma e il fratello. Poi, l’arrivo a Milano e, a 12 anni, il provino per l’Inter al centro Ravizza. Il sindaco Sala: “Simbolo di talento e fedeltà”"
-    },
-    {
-      "title": "Sandro Mazzola, il ricordo di Bergomi: “Debuttai grazie a lui. La foto con Facchetti e Alberto Sordi: quanta bellezza”",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/09/19/news/sandro_mazzola_morto_ricordo_bergomi-425594755/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 08:29:48 +0000",
-      "excerpt": "Da bandiera a bandiera: il ricordo dell’ex capitano interista"
-    },
-    {
-      "title": "Marines americani, che figuraccia: alle esercitazioni Nato con gli scarponi rotti",
-      "link": "https://www.repubblica.it/esteri/2026/09/19/news/marines_americani_con_scarponi_rotti_alle_esercitazioni_nato-425594714/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 07:56:11 +0000",
-      "excerpt": "In Norvegia le forze militari statunitensi hanno dovuto cambiare le calzature, troppo poco resistenti all’ambiente artico"
     },
     {
       "title": "Gerwig, perché Meryl Streep darà la voce al leone Aslan di Narnia",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Serie A: Bologna-Torino in campo 1-0 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-bologna-torino-in-campo-1-0-diretta_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 15:18:05 +0200",
+      "excerpt": "Gol di Bernardeschi"
+    },
+    {
       "title": "Amorim \"col Benfica serviva rotazione, ko non colpa di singoli\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/amorim-col-benfica-serviva-rotazione-ko-non-colpa-di-singoli_38951eff-a896-4b47-aee6-0296247a70b7.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 14:10:32 +0200",
       "excerpt": "Le immagini delle sue gesta sono in tanti album della raccolta"
-    },
-    {
-      "title": "Mazzola: Gianfelice Facchetti, \"se n'é andato il giorno in cui S.Siro compie 100 anni\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/mazzola-gianfelice-facchetti-se-ne-andato-il-giorno-in-cui-s.siro-compie-100-anni_6d450f5c-77f9-4af6-a324-1a547f6e8e39.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 13:31:30 +0200",
-      "excerpt": "Figlio di Giacinto: \"Staffetta con Rivera? Dividersi tra 2 campioni é un vizio italiano\""
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
