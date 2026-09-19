@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-19T14:07:46.815Z",
+  "lastUpdated": "2026-09-19T14:36:52.562Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Bollo auto, Dombrovskis: “Su Pnrr c’è margine per gestire la liquidità”",
+        "link": "https://www.repubblica.it/economia/2026/09/19/news/bollo_auto_dombrovskis_pnrr_margine-425595132/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 19 Sep 2026 16:16:46 +0200",
+        "excerpt": "Il commissario all’Economia: “Dovrei chiarire dichiarazioni di Giorgetti”"
+      },
+      {
+        "title": "Google, Gemini sfugge all’ambiente di test e hackera i sistemi di 3 aziende",
+        "link": "https://www.repubblica.it/economia/2026/09/19/news/google_gemini_sfugge_all_ambiente_di_test_e_hackera_i_sistemi_di_3_aziende-425594498/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 19 Sep 2026 16:16:43 +0200",
+        "excerpt": "Il modello si è fermato autonomamente dopo aver capito di aver violato sistemi di società realmente esistenti"
+      },
+      {
+        "title": "Energia, Prodi a Radio 24: la proposta di Schlein a Meloni è di buon senso",
+        "link": "https://www.ilsole24ore.com/art/energia-prodi-radio-24-proposta-schlein-meloni-e-buon-senso-AJW9dPIB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 19 Sep 2026 14:08:07 GMT",
+        "excerpt": "La proposta della segretaria Pd Elly Schlein rivolta alla premier Giorgia Meloni per unire le forze su energia e clima è di buon senso. Unione europea a rischio se l’Afd..."
+      },
       {
         "title": "Dombrovskis: 'Pagamenti del Pnrr possono non essere allineati ai costi'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/dombrovskis-pagamenti-del-pnrr-possono-non-essere-allineati-ai-costi_60f8c90f-671c-4530-8048-de1e819f00e3.html",
@@ -29,13 +50,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 19 Sep 2026 13:14:51 GMT",
         "excerpt": "Il fondo di ripresa che ha finanziato i Pnrr «è uno strumento che si fonda sul risultato e non sui costi per cui i Paesi hanno concordato i piani per..."
-      },
-      {
-        "title": "Bollo auto, Dombrovskis: “Su Pnrr c’è margine per gestire la liquidità”",
-        "link": "https://www.repubblica.it/economia/2026/09/19/news/bollo_auto_dombrovskis_pnrr_margine-425595132/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 19 Sep 2026 14:47:55 +0200",
-        "excerpt": "Il commissario all’Economia: “Dovrei chiarire dichiarazioni di Giorgetti”"
       },
       {
         "title": "Mar Rosso, Crosetto: «L’Italia non è in guerra». Gli Houthi: «I vostri aerei sono in Arabia Saudita»",
@@ -129,25 +143,11 @@
         "excerpt": "Costerebbe 830 milioni ripristinare gli impianti dell’area a caldo dell’ex Ilva di Taranto dopo il loro spegnimento. Lo scrivono gli avvocati di Ilva in amministrazione straordinaria, la società proprietaria degli..."
       },
       {
-        "title": "Mutui, salgono i tassi ad agosto. Prestiti, corrono di più per le imprese",
-        "link": "https://www.ilsole24ore.com/art/mutui-salgono-tassi-ad-agosto-prestiti-corrono-piu-le-imprese-AJXYBCIB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 19 Sep 2026 08:35:00 GMT",
-        "excerpt": "Il tasso sul finanziamento per la casa al 3,56%. Per le attività produttive cala al 3,66 per cento."
-      },
-      {
         "title": "Cna, \"la bolletta dell'energia aumenta ancora per tre pmi su quattro\"",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/cna-la-bolletta-dellenergia-aumenta-ancora-per-tre-pmi-su-quattro_e37f5aa0-7517-467d-88c6-52e7eec9d952.html",
         "source": "ANSA Economia",
         "pubDate": "Sat, 19 Sep 2026 10:24:47 +0200",
         "excerpt": "Costantini, superare una politica energetica affidata a interventi di emergenza episodici"
-      },
-      {
-        "title": "Google, Gemini sfugge all’ambiente di test e hackera i sistemi di 3 aziende",
-        "link": "https://www.repubblica.it/economia/2026/09/19/news/google_gemini_sfugge_all_ambiente_di_test_e_hackera_i_sistemi_di_3_aziende-425594498/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 19 Sep 2026 10:00:34 +0200",
-        "excerpt": "Il modello si è fermato autonomamente dopo aver capito di aver violato sistemi di società realmente esistenti"
       },
       {
         "title": "Asili nido: quanti nuovi posti sono stati davvero creati con il Pnrr?",
@@ -247,7 +247,7 @@
         "link": "https://www.ilsole24ore.com/art/l-ai-espone-rischio-60percento-posti-lavoro-europa-italia-meta-classifica-AJpSbJIB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sat, 19 Sep 2026 11:21:00 GMT",
-        "excerpt": "DUBLINO – È un rapporto guardingo sui rischi connessi all’intelligenza artificiale quello presentato oggi, sabato 19 settembre, dal Fondo monetario internazionale ai ministri delle Finanze dell’Unione europea, riuniti..."
+        "excerpt": "DUBLINO – È un rapporto ricco di cautela sui rischi connessi all’intelligenza artificiale quello presentato ieri dal Fondo monetario internazionale ai ministri delle Finanze dell’Unione europea, riuniti qui..."
       },
       {
         "title": "La guerra contro l’Iran è costata agli Usa 45,1 miliardi di dollari, oltre stime Pentagono",
@@ -572,18 +572,39 @@
   },
   "attualita": [
     {
+      "title": "Gli Houthi: 'Non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/gli-houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono_83a5e95b-d523-4913-a557-a06ae487425b.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 16:13:46 +0200",
+      "excerpt": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'. 'Fumo e fiamme vicino all'aeroporto di Riad'. Lo riferiscono i residenti alla France Presse. Flightradar: 'Voli cancellati e in r"
+    },
+    {
+      "title": "Prof accoltellata, si indaga sulla rete del 13enne:”Arruolato dai gruppi suprematisti”",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/19/news/studente_accoltella_professoressa_centocelle_isabella_marsilio_cosa_rischia-425595269/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 14:08:52 +0000",
+      "excerpt": "Il ragazzino ha ripreso in videochiamata l’attacco sferrato contro la docente Isabella Marsilio. Intanto anche il tribunale dei Minori ha avviato un’istruttoria: valuterà misure rieducative"
+    },
+    {
+      "title": "Professoressa accoltellata a Roma: verifiche sul cellulare del 13enne, si cercano eventuali istigatori",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/prof-accoltellata-verifiche-sul-cellulare-del-13enne-si-cercano-eventuali-istigatori_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 15:57:55 +0200",
+      "excerpt": "Attività anche sul telefono della madre, carta di credito usata per l'acquisto dei coltelli"
+    },
+    {
+      "title": "Prodi: “Bene la lettera di Schlein. Virginia Libero e i disertori? Non mi pare la linea del Pd”",
+      "link": "https://www.repubblica.it/politica/2026/09/19/news/prodi_critiche_virginia_libero_approva_lettera_schlein-425595245/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 13:54:47 +0000",
+      "excerpt": "L'ex presidente del Consiglio critica la segretaria dei Giovani democratici: “Quando l’ho sentitata, ho pensato ‘speriamo che cresca’”"
+    },
+    {
       "title": "Addio a Sandro Mazzola, la bandiera dell'Inter aveva 83 anni",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni_4e64feca-d64f-4fb1-92e1-065b2d74325f.html",
       "source": "ANSA",
       "pubDate": "Sat, 19 Sep 2026 15:45:05 +0200",
       "excerpt": "Lo ha annunciato il club nerazzurro in una nota: 'Uno dei più grandi calciatori della storia'"
-    },
-    {
-      "title": "Gli Houthi: 'Non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/gli-houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono_83a5e95b-d523-4913-a557-a06ae487425b.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 15:34:24 +0200",
-      "excerpt": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'. 'Fumo e fiamme vicino all'aeroporto di Riad'. Lo riferiscono i residenti alla France Presse. Flightradar: 'Voli cancellati e in r"
     },
     {
       "title": "Il giorno delle nozze di Diana la gente vide una fiaba. Ma lei già sapeva che non era così",
@@ -621,13 +642,6 @@
       "excerpt": "Il tredicenne già lo scorso anno si era reso protagonista di episodi che avevano fatto scattare un campanello di allarme. Isabella Marsilio: “I segnali di un disagio c’erano tutti”"
     },
     {
-      "title": "Professoressa accoltellata a Roma: verifiche sul cellulare del 13enne, si cercano eventuali istigatori",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/prof-accoltellata-verifiche-sul-cellulare-del-13enne-si-cercano-eventuali-istigatori_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 12:25:22 +0200",
-      "excerpt": "Attività anche sul telefono della madre, carta di credito usata per l'acquisto dei coltelli"
-    },
-    {
       "title": "Vedano al Lambro piange Mazzola, nipoti Alice e Paolo: “Era un nonno speciale, con un grande cuore”",
       "link": "https://milano.repubblica.it/cronaca/2026/09/19/news/vedano_lambro_monza_paese_sandro_mazzola_ricordo_nipoti_nonno_speciale-425594863/",
       "source": "Repubblica",
@@ -640,20 +654,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 09:44:07 +0000",
       "excerpt": "Secondo la Supermedia settimanale di YouTrend i partiti che sostengono il governo continuano a perdere quota. Cresce ancora Vannacci. Il M5S guadagna un 0,4%"
-    },
-    {
-      "title": "Mazzola, Paolo Rossi: “Giocai un derby in squadra con lui, è il mio sogno realizzato da interista”",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/19/news/paolo_rossi_ricordo_mazzola_giocai_derby_amichevole_con_lui_sogno_realizzato_interista_intervista-425594814/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 09:34:05 +0000",
-      "excerpt": "L’attore ricorda la bandiera: “Una personalità straordinaria, fuori scala”. Sull’amichevole: “Sandro continuava a lanciarmi. Io correvo e la palla però era sempre un metro avanti. Alla fine mi consolò. ‘Scusa, ero abitua"
-    },
-    {
-      "title": "La Milano di Mazzola: dai primi calci in oratorio a San Siro. Lunedì i funerali in Sant’Ambrogio",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/19/news/milano_sandro_mazzola_citta_primi_calci_oratorio_san_siro_funerali-425594785/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 08:50:57 +0000",
-      "excerpt": "Dopo la morte del padre Valentino, era tornato a Cassano d’Adda con la mamma e il fratello. Poi, l’arrivo a Milano e, a 12 anni, il provino per l’Inter al centro Ravizza. Il sindaco Sala: “Simbolo di talento e fedeltà”"
     },
     {
       "title": "Gerwig, perché Meryl Streep darà la voce al leone Aslan di Narnia",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Serie A: Udinese-Cagliari in campo 0-1 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-udinese-cagliari-in-campo-0-0-diretta_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 16:18:23 +0200",
+      "excerpt": "Gol di Maldini"
+    },
+    {
       "title": "Serie A: Bologna-Torino in campo 1-0 DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-bologna-torino-in-campo-1-0-diretta_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
       "source": "ANSA Sport",
@@ -754,13 +761,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 15:45:05 +0200",
       "excerpt": "Lo ha annunciato il club nerazzurro in una nota: 'Uno dei più grandi calciatori della storia'"
-    },
-    {
-      "title": "Serie A: Udinese-Cagliari in campo 0-0 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-udinese-cagliari-in-campo-0-0-diretta_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 15:37:20 +0200",
-      "excerpt": "Le foto"
     },
     {
       "title": "Atalanta; Sarri, con la Juve non è partita tra Spalletti e me",
