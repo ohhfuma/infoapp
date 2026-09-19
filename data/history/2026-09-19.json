@@ -426,6 +426,13 @@
     ],
     "europa": [
       {
+        "title": "Gaza, l’Unicef lancia un allarme per salvare 540mila bambini dalle insidie dell’inverno",
+        "link": "https://www.ilsole24ore.com/art/gaza-l-unicef-lancia-allarme-salvare-540mila-bambini-insidie-dell-inverno-AJW3pWIB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Sat, 19 Sep 2026 15:51:35 GMT",
+        "excerpt": "L’Unicef esorta i partner a fornire finanziamenti flessibili e tempestivi a copertura dei 97,5 milioni di dollari Usa necessari per proteggere 540.000 bambini e le loro famiglie nella Striscia di..."
+      },
+      {
         "title": "Ucraina, nella notte attacchi russi su Odessa e Kiev: «Lanciati due missili ipersonici»",
         "link": "https://www.ilsole24ore.com/art/ucraina-notte-attacchi-russi-odessa-e-kiev-lanciati-due-missili-ipersonici-AJYGLMIB",
         "source": "Il Sole 24 Ore Mondo",
@@ -688,6 +695,55 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Abusi e maltrattamenti sulle migranti nei centri di Ceuta, aperta un'indagine",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/abusi-e-maltrattamenti-sulle-migranti-nei-centri-di-ceuta-aperta-unindagine_652164a8-f697-485c-b6c7-8b837b32a6ce.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:58:07 +0200",
+        "excerpt": "Diverse ragazze sono fuggite dalle strutture denunciando il personale"
+      },
+      {
+        "title": "Media, 'Netanyahu accorcia la visita negli Usa, non vedrà Elon Musk'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/media-netanyahu-accorcia-la-visita-negli-usa-non-vedra-elon-musk_6df0b58a-596c-4233-9672-47510a87e1f1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:57:14 +0200",
+        "excerpt": "Il suo team è già arrivato negli Stati Uniti"
+      },
+      {
+        "title": "Media, 'Netanyahu accorcia la visita negli Usa, non vedrà Elon Musk'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/media-netanyahu-accorcia-la-visita-negli-usa-non-vedra-elon-musk_42e774fa-8034-42b6-b4f5-13845dd119ef.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:56:56 +0200",
+        "excerpt": "Il suo team è già arrivato negli Stati Uniti"
+      },
+      {
+        "title": "Yemen, in 24 ore 48 morti negli scontri tra Houthi e forze governative",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/yemen-in-24-ore-48-morti-negli-scontri-tra-houthi-e-forze-governative_c615921d-6d9e-4a20-9e91-fe92d830fd23.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:55:18 +0200",
+        "excerpt": "Fonti alla Afp: uccisi 17 soldati e 31 ribelli"
+      },
+      {
+        "title": "Il costo della guerra in Iran supera le stime del Pentagono, oltre 45 miliardi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/il-costo-della-guerra-in-iran-supera-le-stime-del-pentagono-oltre-45-miliardi_a3ccb388-d4d1-4178-98b0-9491c52f8a4b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:53:41 +0200",
+        "excerpt": "Ma nel conteggio mancano le spese di riparazione e quelle indirette"
+      },
+      {
+        "title": "Kiev, 'colpite postazioni russe nel Donetsk e a Zaporizhzhia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/kiev-colpite-postazioni-russe-nel-donetsk-e-a-zaporizhzhia_f43f5e4b-57e9-4983-9111-e5a2397eda5a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:47:27 +0200",
+        "excerpt": "Centrato anche un campo di addestramento e due depositi di materiali e munizioni"
+      },
+      {
+        "title": "Trump propone un nuovo nome per l'IA, 'chiamiamola superiore o estrema'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/trump-propone-un-nuovo-nome-per-lia-chiamiamola-superiore-o-estrema_83a0de4d-6708-47c6-bd96-9f57dd96c097.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:42:02 +0200",
+        "excerpt": "Il tycoon mette un sondaggio su Truth. 'Devono votare tutti'"
+      },
       {
         "title": "Veglie e proteste dopo una serie di femminicidi vicino a Johannesburg",
         "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/19/veglie-e-proteste-dopo-una-serie-di-femminicidi-vicino-a-johannesburg_aade193b-bead-43ef-8a3a-05f304ebbf61.html",
@@ -1058,31 +1114,31 @@
         "source": "Repubblica Esteri",
         "pubDate": "Fri, 18 Sep 2026 15:34:10 +0200",
         "excerpt": "Il governo Albanese riduce i posti per il secondo e terzo anno del “Working Holiday Visa” e introduce un sistema a sorteggio. Agricoltura, turismo e ristorazione temono di perdere una fonte essenziale di lavoratori stagi"
-      },
-      {
-        "title": "Ecologisti e nazionalisti, rivoluzionari e conservatori. Contro Vucic gli studenti candidano tutti",
-        "link": "https://www.repubblica.it/esteri/2026/09/18/news/elezioni_serbia_vucic_movimento_studenti_candidati_lista-425592824/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 18 Sep 2026 12:20:16 +0200",
-        "excerpt": "Estremamente eterogeneo, il movimento che da due anni è spina nel fianco del presidente serbo presenta la sua lista. Ma fra i 250 candidati ci sono personaggi agli antipodi. E così rischiano di deragliare"
-      },
-      {
-        "title": "Le nuove accuse nel libro del fratello di Lady Diana: “Carlo era euforico dopo la sua morte”",
-        "link": "https://www.repubblica.it/esteri/2026/09/18/news/regno_unito_accuse_libro_fratello_diana_carlo_euforico_dopo_morte-425592381/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 18 Sep 2026 10:48:01 +0200",
-        "excerpt": "Continuano le rivelazioni delle memorie del conte Spencer: “L’allora principe era felice come se avesse vinto alla lotteria e le disse di non amarla poco prima del matrimonio. Mia sorella voleva suicidarsi da una scoglie"
-      },
-      {
-        "title": "L’allarme dell’Fbi: online falsi profili di donne conservatrici per adescare gli agenti dell’Ice",
-        "link": "https://www.repubblica.it/esteri/2026/09/18/news/usa_allarme_fbi_online_falsi_profili_donne_conservatrici_adescare_agenti_ice-425592492/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 18 Sep 2026 10:27:11 +0200",
-        "excerpt": "Il documento mette in guarda dalle app di incontri online, usati da false “TradWife” (mogli tradizionali di per estorcere e poi diffondere i dati personali dei poliziotti anti-migranti"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "++ Conte, da Nova emerge mandato chiaro, no ad armi e riarmo ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/19/conte-da-nova-emerge-mandato-chiaro-no-ad-armi-e-riarmo_7fbe0d7b-4280-4f6c-8e3a-2cdab2c0a76f.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 17:52:00 +0200",
+      "excerpt": "'Le armi allontanano la pace'"
+    },
+    {
+      "title": "Serie A: Roma-Inter in campo alle 18 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-in-campo-alle-18-diretta_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 17:51:30 +0200",
+      "excerpt": "Gasperini: 'Loro più forti ma vogliamo restare in alto'. Il tecnico giallorosso punta ancora sui titolari con Dybala e Malen"
+    },
+    {
+      "title": "A Pontida un ulivo per Bossi e le critiche dei nordisti a Salvini: “Irriconoscente”",
+      "link": "https://www.repubblica.it/politica/2026/09/19/news/bossi_pontida_ulivo_salvini-425595396/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 15:27:42 +0000",
+      "excerpt": "Piantato l’albero per il Senatur (oggi è l’anniversario della nascita) da Calderoli e dal co-fondatore Leoni, che commenta: “Con quale coraggio domani il segretario omaggerà il Senatur? I veri leghisti non dimenticano”"
+    },
     {
       "title": "Prof accoltellata, si indaga sulla rete del 13enne:”Arruolato dai gruppi suprematisti”",
       "link": "https://roma.repubblica.it/cronaca/2026/09/19/news/studente_accoltella_professoressa_centocelle_isabella_marsilio_cosa_rischia-425595269/",
@@ -1481,30 +1537,16 @@
       "source": "Repubblica",
       "pubDate": "Fri, 18 Sep 2026 19:18:30 +0000",
       "excerpt": "Vietato l’accesso alle tre testate “per aver riportato con costanza fake news”. E l’editore del Nyt lo attacca"
-    },
-    {
-      "title": "Scoppia il caso Aspides, Roma chiede all'Ue più navi e fondi",
-      "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 21:05:36 +0200",
-      "excerpt": "Crosetto a Kallas: 'Va potenziata'. L'Italia scorta un mercantile nel Mar Rosso"
-    },
-    {
-      "title": "La vignetta di Ellekappa",
-      "link": "https://www.repubblica.it/politica/2026/09/18/news/conte_schlein_pd_vignetta_ellekappa-425594040/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 19:04:49 +0000",
-      "excerpt": ""
-    },
-    {
-      "title": "Accoltella la prof e tenta di filmare tutto. L'insegnante: 'Gli voglio bene, vorrei abbracciarlo'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/accoltella-la-prof-e-tenta-di-filmare-tutto.-linsegnante-gli-voglio-bene-vorrei_b2503db3-f84e-4e54-a32e-ea20c1f9cea7.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 20:43:04 +0200",
-      "excerpt": "Il 13enne 'aveva due debiti, uno lo doveva riparare oggi'. A fermarlo un altro alunno"
     }
   ],
   "sport": [
+    {
+      "title": "L'ultima intervista di Mazzola, 'l'Inter per me una mamma'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/19/lultima-intervista-di-mazzola-linter-per-me-una-mamma_c474e8f5-4847-4746-9f68-e76a47946ca8.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 17:56:45 +0200",
+      "excerpt": "Conversazione inedita sul sito del club: 'avevo il tifoso nel cuore'"
+    },
     {
       "title": "Serie A: Maldini scaccia le nubi, gol vittoria a Udine e il Cagliari vola in testa alla classifica",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-maldini-scaccia-le-nubi-gol-vittoria-a-udine-e-il-cagliari-vola-in-testa_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",

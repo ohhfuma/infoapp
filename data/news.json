@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-19T15:36:49.731Z",
+  "lastUpdated": "2026-09-19T16:07:39.149Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Abi: 'Ad agosto accelerano prestiti a famiglie e imprese, tassi al 4,19%'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/abiad-agosto-accelerano-prestiti-a-famiglie-e-imprese-tassi-al-419_d25625fe-d033-4045-9935-c56be86c0a5e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 19 Sep 2026 17:35:53 +0200",
+        "excerpt": "Torriero: '3 su 4 mutui casa a tasso fisso, famiglie ora più immunizzate contro rialzi'"
+      },
       {
         "title": "Ue, non si perda il treno della Ia. Esposto a rischio il 60% dei posti di lavoro europei",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/ue-non-si-perda-il-treno-della-ia.-esposto-a-rischio-il-60-dei-posti-di-lavoro_d3f92af5-dc71-4015-b785-846704e22b8a.html",
@@ -57,13 +64,6 @@
         "source": "ANSA Economia",
         "pubDate": "Sat, 19 Sep 2026 15:35:07 +0200",
         "excerpt": "\"Strumento basato sui risultati, ci può essere disallineamento\""
-      },
-      {
-        "title": "Abi: 'Ad agosto accelerano prestiti a famiglie e imprese, tassi al 4,19%'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/abiad-agosto-accelerano-prestiti-a-famiglie-e-imprese-tassi-al-419_d25625fe-d033-4045-9935-c56be86c0a5e.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 19 Sep 2026 15:19:24 +0200",
-        "excerpt": "Torriero: '3 su 4 mutui casa a tasso fisso, famiglie ora più immunizzate contro rialzi'"
       },
       {
         "title": "Bollo auto, il commissario Ue Dombrovskis: c’è un margine per gestire liquidità da progetti Pnrr",
@@ -229,6 +229,13 @@
     ],
     "europa": [
       {
+        "title": "Gaza, l’Unicef lancia un allarme per salvare 540mila bambini dalle insidie dell’inverno",
+        "link": "https://www.ilsole24ore.com/art/gaza-l-unicef-lancia-allarme-salvare-540mila-bambini-insidie-dell-inverno-AJW3pWIB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Sat, 19 Sep 2026 15:51:35 GMT",
+        "excerpt": "L’Unicef esorta i partner a fornire finanziamenti flessibili e tempestivi a copertura dei 97,5 milioni di dollari Usa necessari per proteggere 540.000 bambini e le loro famiglie nella Striscia di..."
+      },
+      {
         "title": "Ucraina, nella notte attacchi russi su Odessa e Kiev: «Lanciati due missili ipersonici»",
         "link": "https://www.ilsole24ore.com/art/ucraina-notte-attacchi-russi-odessa-e-kiev-lanciati-due-missili-ipersonici-AJYGLMIB",
         "source": "Il Sole 24 Ore Mondo",
@@ -332,13 +339,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 18 Sep 2026 19:52:00 GMT",
         "excerpt": "Nuovo attacco di Donald Trump contro i media e il primo emendamento della Costituzione americana che garantisce la libertà di stampa. Dopo quasi due anni di invettive, denunce e insulti..."
-      },
-      {
-        "title": "Knicks, biglietti record per l’opening night: oltre 2.500 dollari. La società: errore nei prezzi",
-        "link": "https://www.ilsole24ore.com/art/knicks-biglietti-record-l-opening-night-oltre-2500-dollari-societa-errore-prezzi-AJ1oN6GB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Fri, 18 Sep 2026 09:11:54 GMT",
-        "excerpt": "È già febbre da titolo a New York, ma assistere alla cerimonia con cui i Knicks celebreranno la conquista del loro primo campionato della National Basketball Association (Nba) dal 1973..."
       }
     ],
     "usa": [
@@ -401,39 +401,60 @@
     ],
     "mondo": [
       {
+        "title": "Abusi e maltrattamenti sulle migranti nei centri di Ceuta, aperta un'indagine",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/abusi-e-maltrattamenti-sulle-migranti-nei-centri-di-ceuta-aperta-unindagine_652164a8-f697-485c-b6c7-8b837b32a6ce.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:58:07 +0200",
+        "excerpt": "Diverse ragazze sono fuggite dalle strutture denunciando il personale"
+      },
+      {
+        "title": "Media, 'Netanyahu accorcia la visita negli Usa, non vedrà Elon Musk'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/media-netanyahu-accorcia-la-visita-negli-usa-non-vedra-elon-musk_6df0b58a-596c-4233-9672-47510a87e1f1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:57:14 +0200",
+        "excerpt": "Il suo team è già arrivato negli Stati Uniti"
+      },
+      {
+        "title": "Media, 'Netanyahu accorcia la visita negli Usa, non vedrà Elon Musk'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/media-netanyahu-accorcia-la-visita-negli-usa-non-vedra-elon-musk_42e774fa-8034-42b6-b4f5-13845dd119ef.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:56:56 +0200",
+        "excerpt": "Il suo team è già arrivato negli Stati Uniti"
+      },
+      {
+        "title": "Yemen, in 24 ore 48 morti negli scontri tra Houthi e forze governative",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/yemen-in-24-ore-48-morti-negli-scontri-tra-houthi-e-forze-governative_c615921d-6d9e-4a20-9e91-fe92d830fd23.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:55:18 +0200",
+        "excerpt": "Fonti alla Afp: uccisi 17 soldati e 31 ribelli"
+      },
+      {
+        "title": "Il costo della guerra in Iran supera le stime del Pentagono, oltre 45 miliardi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/il-costo-della-guerra-in-iran-supera-le-stime-del-pentagono-oltre-45-miliardi_a3ccb388-d4d1-4178-98b0-9491c52f8a4b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:53:41 +0200",
+        "excerpt": "Ma nel conteggio mancano le spese di riparazione e quelle indirette"
+      },
+      {
+        "title": "Kiev, 'colpite postazioni russe nel Donetsk e a Zaporizhzhia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/kiev-colpite-postazioni-russe-nel-donetsk-e-a-zaporizhzhia_f43f5e4b-57e9-4983-9111-e5a2397eda5a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:47:27 +0200",
+        "excerpt": "Centrato anche un campo di addestramento e due depositi di materiali e munizioni"
+      },
+      {
+        "title": "Trump propone un nuovo nome per l'IA, 'chiamiamola superiore o estrema'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/trump-propone-un-nuovo-nome-per-lia-chiamiamola-superiore-o-estrema_83a0de4d-6708-47c6-bd96-9f57dd96c097.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 17:42:02 +0200",
+        "excerpt": "Il tycoon mette un sondaggio su Truth. 'Devono votare tutti'"
+      },
+      {
         "title": "Veglie e proteste dopo una serie di femminicidi vicino a Johannesburg",
         "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/19/veglie-e-proteste-dopo-una-serie-di-femminicidi-vicino-a-johannesburg_aade193b-bead-43ef-8a3a-05f304ebbf61.html",
         "source": "ANSA Mondo",
         "pubDate": "Sat, 19 Sep 2026 16:41:21 +0200",
         "excerpt": "Le uccisioni hanno riacceso la rabbia per la violenza contro le donne in Sudafrica"
-      },
-      {
-        "title": "Petrobras guida i margini di profitto globali",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/petrobras-guida-i-margini-di-profitto-globali_5d5b2ca8-96e3-4b4f-8c01-79746847c173.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 15:30:29 +0200",
-        "excerpt": "L'azienda brasiliana batte la concorrenza nel primo semestre"
-      },
-      {
-        "title": "Dombrovskis, 'sugli asset russi aperti a diverse opzioni'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/dombrovskis-sugli-asset-russi-aperti-a-diverse-opzioni_9385a0fe-3ed4-43f8-af37-a43f9e7e04fd.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 14:53:05 +0200",
-        "excerpt": "Uso di un veicolo? 'Pronti a sostenere discussioni anche valutando diverse modalità'"
-      },
-      {
-        "title": "Media, 'fumo e fiamme vicino all'aeroporto di Riad'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/media-fumo-e-fiamme-vicino-allaeroporto-di-riad_7fde1739-face-4559-813b-386313361fb9.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 14:52:00 +0200",
-        "excerpt": ""
-      },
-      {
-        "title": "Houthi, 'non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono-in-arabia_5dbbcc40-a593-44ac-9f14-eb43bbadd2a5.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 14:39:04 +0200",
-        "excerpt": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'"
       },
       {
         "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
@@ -450,13 +471,6 @@
         "excerpt": "Rita Flores racconta in una intervista al “Guardian” come l’Fsb di Putin l’abbia spinta a tradire i suoi colleghi della dissidenza: “Due agenti minacciavano me e la mia famiglia, ho avuto paura”"
       },
       {
-        "title": "Messico taglia le accise per evitare i rincari dei carburanti",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/messico-taglia-le-accise-per-evitare-i-rincari-dei-carburanti_d9bf4bfa-c70f-4211-81d2-177c5d137320.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 14:07:33 +0200",
-        "excerpt": "Il governo rinuncia alle entrate fiscali, intanto cala il greggio"
-      },
-      {
         "title": "Royal Family, perché il fratello di Diana accusa re Carlo e la coincidenza del ritorno di Harry",
         "link": "https://www.repubblica.it/esteri/2026/09/19/news/royal_family_perche_il_fratello_di_diana_accusa_re_carlo_e_la_coincidenza_del_ritorno_di_harry-425594492/?rss",
         "source": "Repubblica Esteri",
@@ -469,20 +483,6 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-19 11:30:28",
         "excerpt": ""
-      },
-      {
-        "title": "Strappo diplomatico totale tra Costa Rica e Cuba",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/strappo-diplomatico-totale-tra-costa-rica-e-cuba_9e71ee30-188d-45bb-8d2b-ab96f8c7bcd8.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 13:04:04 +0200",
-        "excerpt": "L'esecutivo dell'Avana condanna la mossa e denuncia ingerenze Usa"
-      },
-      {
-        "title": "Media, Mosca denuncia un grave attacco informatico sul voto online",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/media-mosca-denuncia-un-grave-attacco-informatico-sul-voto-online_1c949bd1-45bf-4a33-b543-1de797994121.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 11:52:17 +0200",
-        "excerpt": "Commissione elettorale: 'In corso ma respinti con successo, situazione sotto controllo'"
       },
       {
         "title": "Marines americani, che figuraccia: alle esercitazioni Nato con gli scarponi rotti",
@@ -572,6 +572,27 @@
   },
   "attualita": [
     {
+      "title": "++ Conte, da Nova emerge mandato chiaro, no ad armi e riarmo ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/19/conte-da-nova-emerge-mandato-chiaro-no-ad-armi-e-riarmo_7fbe0d7b-4280-4f6c-8e3a-2cdab2c0a76f.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 17:52:00 +0200",
+      "excerpt": "'Le armi allontanano la pace'"
+    },
+    {
+      "title": "Serie A: Roma-Inter in campo alle 18 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-in-campo-alle-18-diretta_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 17:51:30 +0200",
+      "excerpt": "Gasperini: 'Loro più forti ma vogliamo restare in alto'. Il tecnico giallorosso punta ancora sui titolari con Dybala e Malen"
+    },
+    {
+      "title": "A Pontida un ulivo per Bossi e le critiche dei nordisti a Salvini: “Irriconoscente”",
+      "link": "https://www.repubblica.it/politica/2026/09/19/news/bossi_pontida_ulivo_salvini-425595396/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 15:27:42 +0000",
+      "excerpt": "Piantato l’albero per il Senatur (oggi è l’anniversario della nascita) da Calderoli e dal co-fondatore Leoni, che commenta: “Con quale coraggio domani il segretario omaggerà il Senatur? I veri leghisti non dimenticano”"
+    },
+    {
       "title": "Gli Houthi: 'Non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/gli-houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono_83a5e95b-d523-4913-a557-a06ae487425b.html",
       "source": "ANSA",
@@ -579,32 +600,11 @@
       "excerpt": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'. 'Fumo e fiamme vicino all'aeroporto di Riad'. Lo riferiscono i residenti alla France Presse. Flightradar: 'Voli cancellati e in r"
     },
     {
-      "title": "Addio a Sandro Mazzola, la bandiera dell'Inter aveva 83 anni",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni_4e64feca-d64f-4fb1-92e1-065b2d74325f.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 16:39:19 +0200",
-      "excerpt": "Lo ha annunciato il club nerazzurro in una nota: 'Uno dei più grandi calciatori della storia'"
-    },
-    {
       "title": "Prof accoltellata, si indaga sulla rete del 13enne:”Arruolato dai gruppi suprematisti”",
       "link": "https://roma.repubblica.it/cronaca/2026/09/19/news/studente_accoltella_professoressa_centocelle_isabella_marsilio_cosa_rischia-425595269/",
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 14:08:52 +0000",
       "excerpt": "Il ragazzino ha ripreso in videochiamata l’attacco sferrato contro la docente Isabella Marsilio. Intanto anche il tribunale dei Minori ha avviato un’istruttoria: valuterà misure rieducative"
-    },
-    {
-      "title": "MotoGp, la Sprint in Austria: Acosta si butta via, vince Martin davanti a Marquez. Bezzecchi è terzo",
-      "link": "https://www.repubblica.it/sport/moto-gp/2026/09/19/news/sprint_austria_acosta_fuori_vince_martin_davanti_a_marquez_bezzecchi_terzo-425595266/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 14:08:30 +0000",
-      "excerpt": "Lo spagnolo va fuori quando era in testa"
-    },
-    {
-      "title": "Professoressa accoltellata a Roma: verifiche sul cellulare del 13enne, si cercano eventuali istigatori",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/prof-accoltellata-verifiche-sul-cellulare-del-13enne-si-cercano-eventuali-istigatori_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 15:57:55 +0200",
-      "excerpt": "Attività anche sul telefono della madre, carta di credito usata per l'acquisto dei coltelli"
     },
     {
       "title": "Prodi: “Bene la lettera di Schlein. Virginia Libero e i disertori? Non mi pare la linea del Pd”",
@@ -742,6 +742,20 @@
   ],
   "sport": [
     {
+      "title": "Addio a Sandro Mazzola, la bandiera dell'Inter aveva 83 anni",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni_4e64feca-d64f-4fb1-92e1-065b2d74325f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 17:58:32 +0200",
+      "excerpt": "Lo ha annunciato il club nerazzurro in una nota: 'Uno dei più grandi calciatori della storia'"
+    },
+    {
+      "title": "L'ultima intervista di Mazzola, 'l'Inter per me una mamma'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/19/lultima-intervista-di-mazzola-linter-per-me-una-mamma_c474e8f5-4847-4746-9f68-e76a47946ca8.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 17:56:45 +0200",
+      "excerpt": "Conversazione inedita sul sito del club: 'avevo il tifoso nel cuore'"
+    },
+    {
       "title": "F1, Antonelli: 'Sogno di diventare uno dei più grandi di sempre'",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/19/f1-antonelli-sogno-di-diventare-uno-dei-piu-grandi-di-sempre_3587e0d6-7771-483d-8074-7a79289e37e2.html",
       "source": "ANSA Sport",
@@ -777,25 +791,11 @@
       "excerpt": "Sardi a quota 12 in classifica. Kulenovic risponde a Bernardeschi, ancora male Skorupski"
     },
     {
-      "title": "Addio a Sandro Mazzola, la bandiera dell'Inter aveva 83 anni",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni_4e64feca-d64f-4fb1-92e1-065b2d74325f.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 16:39:19 +0200",
-      "excerpt": "Lo ha annunciato il club nerazzurro in una nota: 'Uno dei più grandi calciatori della storia'"
-    },
-    {
       "title": "Atalanta; Sarri, con la Juve non è partita tra Spalletti e me",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/atalanta-sarri-con-la-juve-non-e-partita-tra-spalletti-e-me_5ac28d22-15bc-4783-accb-7d65e4d7b81c.html",
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 15:37:08 +0200",
       "excerpt": "'Noi allenatori non abbiamo il jostick, non controlliamo tutto. Gioca Kristensen'"
-    },
-    {
-      "title": "Mazzola: il sindaco Sala, \"simbolo di talento e fedeltà a una sola maglia\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/mazzola-il-sindaco-sala-simbolo-di-talento-e-fedelta-a-una-sola-maglia_2bf1d70f-4a53-412c-889b-e50f2bcfb746.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 15:35:55 +0200",
-      "excerpt": "Il primo cittadino di Milano: \"La nostra città lo ricorda con gratitudine\""
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
