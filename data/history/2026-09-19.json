@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Stangata bollette: 1 miliardo in più per negozi, ristoranti e hotel",
+        "link": "https://www.ilsole24ore.com/art/stangata-bollette-1-miliardo-piu-negozi-ristoranti-e-hotel-AJY6SUIB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 19 Sep 2026 15:07:25 GMT",
+        "excerpt": "Nel secondo semestre del 2026 le imprese del commercio, del turismo e della ristorazione pagheranno oltre un miliardo di euro in più di bolletta elettrica. È il conto che <a..."
+      },
+      {
+        "title": "M5s, dalla cannabis all’orario di lavoro: tutte le proposte al voto fino a domenica",
+        "link": "https://www.ilsole24ore.com/art/m5s-cannabis-all-orario-lavoro-tutte-proposte-voto-fino-domenica-AJvfvfHB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 19 Sep 2026 14:41:06 GMT",
+        "excerpt": "Si va dalla reintroduzione dell’abuso d’ufficio alla depenalizzazione della coltivazione domestica della cannabis per uso personale, dall’ok alle adozioni omogenitoriali alla riduzione dell’orario di lavoro a parità di s"
+      },
+      {
         "title": "Energia, Prodi a Radio 24: la proposta di Schlein a Meloni è di buon senso",
         "link": "https://www.ilsole24ore.com/art/energia-prodi-radio-24-proposta-schlein-meloni-e-buon-senso-AJW9dPIB",
         "source": "Il Sole 24 Ore",
@@ -408,20 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 18:58:42 +0200",
         "excerpt": "Il prezzo torna sopra gli 80 euro per MWh. Assovetro chiede interventi urgenti per un settore da 9 miliardi di euro e 16 mila addetti. Torno (presidente di Assovetro): “Con questi prezzi l’equilibrio industriale non regg"
-      },
-      {
-        "title": "Climate change, cambio di strategia per le imprese: priorità alla resilienza",
-        "link": "https://www.repubblica.it/economia/rapporti/energitalia/sostenibilita/2026/09/18/news/climate_change_cambio_di_strategia_per_le_imprese_priorita_alla_resilienza-425593774/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 18:53:20 +0200",
-        "excerpt": "Nove organizzazioni italiane su dieci hanno subito interruzioni delle supply chain legate al clima. Ma mentre cresce la spesa per l’adattamento, aumentano le difficoltà sulla decarbonizzazione a livello mondiale: in un a"
-      },
-      {
-        "title": "Extra bonus di 60 euro per passare dalla vecchia linea al fisso-wireless",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/domande-e-risposte/2026/09/18/news/extra_bonus_di_60_euro_per_passare_dalla_vecchia_linea_al_fisso-wireless-425593764/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 18:48:46 +0200",
-        "excerpt": "Tim mi ha comunicato la possibilità di lasciare la vecchia linea fissa passando a Fwa Light, conservando il numero e ricevendo 60 euro di bonus extra. Di che si tratta?"
       }
     ],
     "europa": [
@@ -688,6 +688,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Veglie e proteste dopo una serie di femminicidi vicino a Johannesburg",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/19/veglie-e-proteste-dopo-una-serie-di-femminicidi-vicino-a-johannesburg_aade193b-bead-43ef-8a3a-05f304ebbf61.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 16:41:21 +0200",
+        "excerpt": "Le uccisioni hanno riacceso la rabbia per la violenza contro le donne in Sudafrica"
+      },
       {
         "title": "Petrobras guida i margini di profitto globali",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/petrobras-guida-i-margini-di-profitto-globali_5d5b2ca8-96e3-4b4f-8c01-79746847c173.html",
@@ -1084,11 +1091,25 @@
       "excerpt": "Il ragazzino ha ripreso in videochiamata l’attacco sferrato contro la docente Isabella Marsilio. Intanto anche il tribunale dei Minori ha avviato un’istruttoria: valuterà misure rieducative"
     },
     {
+      "title": "MotoGp, la Sprint in Austria: Acosta si butta via, vince Martin davanti a Marquez. Bezzecchi è terzo",
+      "link": "https://www.repubblica.it/sport/moto-gp/2026/09/19/news/sprint_austria_acosta_fuori_vince_martin_davanti_a_marquez_bezzecchi_terzo-425595266/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 14:08:30 +0000",
+      "excerpt": "Lo spagnolo va fuori quando era in testa"
+    },
+    {
       "title": "Prodi: “Bene la lettera di Schlein. Virginia Libero e i disertori? Non mi pare la linea del Pd”",
       "link": "https://www.repubblica.it/politica/2026/09/19/news/prodi_critiche_virginia_libero_approva_lettera_schlein-425595245/",
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 13:54:47 +0000",
       "excerpt": "L'ex presidente del Consiglio critica la segretaria dei Giovani democratici: “Quando l’ho sentitata, ho pensato ‘speriamo che cresca’”"
+    },
+    {
+      "title": "Mazzola, De Sisti: “La staffetta con Rivera per colpa mia. Ma quando arrivava si mettevano tutti sull’attenti”",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/09/19/news/mazzola_morto_de_sisti_staffetta_rivera-425595239/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 13:41:46 +0000",
+      "excerpt": "Intervista all’ex azzurro protagonista – insieme alla leggenda dell’Inter morto oggi – dell’Italia campione d’Europa del ‘68 e del ‘70"
     },
     {
       "title": "Il giorno delle nozze di Diana la gente vide una fiaba. Ma lei già sapeva che non era così",
@@ -1138,6 +1159,13 @@
       "source": "ANSA",
       "pubDate": "Sat, 19 Sep 2026 13:59:13 +0200",
       "excerpt": "Lo riferiscono i residenti alla France Presse. Flightradar: 'Gravi problemi all'aeroporto della città, voli cancellati e in ritardo'"
+    },
+    {
+      "title": "Malagò e il commissariamento: “Sono una vittima, è una questione politica”. E chiama in causa Meloni",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/19/news/malago_commissariamento_questione_politica_abodi_buonfiglio_meloni-425595000/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 11:19:48 +0000",
+      "excerpt": "Il presidente della Federcalcio passa all’attacco"
     },
     {
       "title": "Prof accoltellata: “Sono addolorata, neanche una telefonata di scuse dai genitori del ragazzo”",
@@ -1474,30 +1502,30 @@
       "source": "ANSA",
       "pubDate": "Fri, 18 Sep 2026 20:43:04 +0200",
       "excerpt": "Il 13enne 'aveva due debiti, uno lo doveva riparare oggi'. A fermarlo un altro alunno"
-    },
-    {
-      "title": "L’attrice Laleh Marzban minacciata da Teheran dopo il discorso al Festival di Venezia per le donne iraniane",
-      "link": "https://www.repubblica.it/esteri/2026/09/18/news/attrice_laleh_marzban_minacciata_da_teheran_dopo_discorso_festival_venezia_per_donne_iraniane-425593970/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 18 Sep 2026 18:21:05 +0000",
-      "excerpt": "L’artista, che ha vinto un premio come migliore attrice esordiente per la sua interpretazione di una donna tenuta in ostaggio da suo padre in “Falling House”, ha ricevuto condanne dalle autorità dopo aver dedicato la vit"
-    },
-    {
-      "title": "8 giovani su 10 si impegnano nella vita pubblica ma le istituzioni non li ascoltano",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/09/17/8-giovani-su-10-si-impegnano-nella-vita-pubblica-ma-le-istituzioni-non-li-ascoltano_8fe1c5d0-94e5-45e6-bfce-882bfe9c939f.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 19:27:49 +0200",
-      "excerpt": "Chiedono rigenerazione di spazi urbani e consiglio dei giovani sul modello Parma"
-    },
-    {
-      "title": "Damiano David e Dove Cameron sposi a Montalcino",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/09/18/damiano-david-e-dove-cameron-sposi-a-montalcino_572f1f59-49b6-4166-beb0-3e44e54de06e.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 19:03:34 +0200",
-      "excerpt": "La settimana prossima il sì in Comune poi cerimonia"
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: il Cagliari passa a Udine grazie a Maldini, il Torino ferma il Bologna 1-1",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-il-cagliari-passa-a-udine-grazie-a-maldini-il-torino-ferma-il-bologna-1-1_ca97cbbb-3671-41d6-bdbc-20acbdd625df.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 16:57:57 +0200",
+      "excerpt": "Sardi a quota 12 in classifica. Kulenovic risponde a Bernardeschi, ancora male Skorupski"
+    },
+    {
+      "title": "Serie A: Udinese-Cagliari in campo 0-1 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-udinese-cagliari-in-campo-0-1-diretta_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 16:44:59 +0200",
+      "excerpt": "Gol di Maldini"
+    },
+    {
+      "title": "F1: Antonelli, 'sogno di diventare uno dei più grandi di sempre'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/19/f1-antonelli-sogno-di-diventare-uno-dei-piu-grandi-di-sempre_3587e0d6-7771-483d-8074-7a79289e37e2.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 16:36:16 +0200",
+      "excerpt": "Il pilota a San Marino: \"Mi piace la pressione, mi fa strano quando non c'è\""
+    },
     {
       "title": "Serie A: Udinese-Cagliari in campo 0-0 DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-udinese-cagliari-in-campo-0-0-diretta_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
