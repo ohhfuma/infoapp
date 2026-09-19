@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Dombrovskis, 'pagamenti del Pnrr possono non essere allineati ai costi'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/dombrovskis-pagamenti-del-pnrr-possono-non-essere-allineati-ai-costi_79b1e971-66f4-48bd-bc2c-3d10f4a56370.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 19 Sep 2026 15:35:07 +0200",
+        "excerpt": "\"Strumento basato sui risultati, ci può essere disallineamento\""
+      },
+      {
         "title": "Bollo auto, il commissario Ue Dombrovskis: c’è un margine per gestire liquidità da progetti Pnrr",
         "link": "https://www.ilsole24ore.com/art/bollo-auto-commissario-ue-dombrovskis-c-e-margine-gestire-liquidita-progetti-pnrr-AJyLtNIB",
         "source": "Il Sole 24 Ore",
@@ -415,13 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 18:44:41 +0200",
         "excerpt": "Appartamento di proprietà con mia moglie fiscalmente a carico. Anno 2024 sostituzione infissi e godimento beneficio fiscale dichiarazione dei redditi 2025/2024. Inserimento nel bonifico parlante del solo mio codice fisca"
-      },
-      {
-        "title": "Immobile in costruzione, chi deve pagare le spese di allaccio dell’ascensore?",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/casa/domande-e-risposte/2026/09/18/news/immobile_in_costruzione_chi_deve_pagare_le_spese_di_allaccio_dell_ascensore-425593754/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 18:44:21 +0200",
-        "excerpt": "Ho acquistato dall'impresa costruttrice un appartamento al quarto piano di un immobile in costruzione. L'ascensore, previsto dal progetto e dal disciplinare tecnico, è stato installato dall'impresa ma ancora non funziona"
       }
     ],
     "europa": [
@@ -688,6 +688,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Petrobras guida i margini di profitto globali",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/petrobras-guida-i-margini-di-profitto-globali_5d5b2ca8-96e3-4b4f-8c01-79746847c173.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 15:30:29 +0200",
+        "excerpt": "L'azienda brasiliana batte la concorrenza nel primo semestre"
+      },
       {
         "title": "Dombrovskis, 'sugli asset russi aperti a diverse opzioni'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/dombrovskis-sugli-asset-russi-aperti-a-diverse-opzioni_9385a0fe-3ed4-43f8-af37-a43f9e7e04fd.html",
@@ -1491,6 +1498,48 @@
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: Udinese-Cagliari in campo 0-0 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-udinese-cagliari-in-campo-0-0-diretta_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 15:37:20 +0200",
+      "excerpt": "Le foto"
+    },
+    {
+      "title": "Atalanta; Sarri, con la Juve non è partita tra Spalletti e me",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/atalanta-sarri-con-la-juve-non-e-partita-tra-spalletti-e-me_5ac28d22-15bc-4783-accb-7d65e4d7b81c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 15:37:08 +0200",
+      "excerpt": "'Noi allenatori non abbiamo il jostick, non controlliamo tutto. Gioca Kristensen'"
+    },
+    {
+      "title": "Mazzola: il sindaco Sala, \"simbolo di talento e fedeltà a una sola maglia\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/mazzola-il-sindaco-sala-simbolo-di-talento-e-fedelta-a-una-sola-maglia_2bf1d70f-4a53-412c-889b-e50f2bcfb746.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 15:35:55 +0200",
+      "excerpt": "Il primo cittadino di Milano: \"La nostra città lo ricorda con gratitudine\""
+    },
+    {
+      "title": "Atalanta, Kossounou salta la Juventus per un risentimento muscolare",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/atalanta-kossounou-salta-la-juventus-per-un-risentimento-muscolare_c94a042d-1afa-44cb-b70d-da492e5a4394.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 15:35:07 +0200",
+      "excerpt": "Infortunio nell'allenamento mattutino a Zingonia per il difensore"
+    },
+    {
+      "title": "Figc: Abodi sul caso Malagò \"decida lo sport, spero di non intervenire\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/figc-abodi-sul-caso-malago-decida-lo-sport-spero-di-non-intervenire_c206d3a8-7cb5-43b9-aa9d-aed29a852ea3.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 15:33:49 +0200",
+      "excerpt": "Il ministro: \"Non voglio che la questione si politicizzi\""
+    },
+    {
+      "title": "Figc: Malagò \"oggi sono sotto attacco, di questa vicenda io vittima\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/figc-malago-oggi-sono-sotto-attacco-di-questa-vicenda-io-vittima_a07388f3-b3ca-43bc-b36a-37d2b5999973.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 15:33:30 +0200",
+      "excerpt": "N.1 Federcalcio: \"E' giusto che chi eletto con quasi 70% abbia questi problemi?\""
+    },
     {
       "title": "Serie A: Bologna-Torino in campo 1-0 DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-bologna-torino-in-campo-1-0-diretta_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
