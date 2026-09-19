@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Crowdfunding immobiliare tra luci e ombre: oltre il miliardo, i rendimenti deludono le promesse",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/casa/2026/09/19/news/crowdfunding_immobiliare_rendimenti-425594847/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 19 Sep 2026 12:03:58 +0200",
+        "excerpt": "La raccolta annua scende ma le campagne finanziate raddoppiano, da 230 a 452, segno di ticket medi più contenuti e di una platea di investitori più ampia"
+      },
+      {
+        "title": "Pechino stringe i confini tech",
+        "link": "https://www.repubblica.it/economia/2026/09/19/news/pechino_stringe_i_confini_tech-425593079/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 19 Sep 2026 12:00:00 +0200",
+        "excerpt": "Limiti all’espatrio di chi si occupa di Intelligenza artificiale, semiconduttori e biotecnologie. Effetto della sfida con gli Usa sull’innovazione"
+      },
+      {
         "title": "Allarme Codacons, gasolio sfiora 2,9 in autostrada; fino a 3,1 euro per il servito",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/allarme-codacons-gasolio-sfiora-29-in-autostrada-fino-a-31-euro-per-il-servito_845a1f48-499e-4a82-be96-ea0e56c03a0f.html",
         "source": "ANSA Economia",
@@ -408,13 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 18 Sep 2026 13:42:00 GMT",
         "excerpt": "Avrebbe avuto una adesione media del 70% la giornata di sciopero nazionale delle lavoratrici e dei lavoratori di Apple Retail Italia, che si svolge in concomitanza con l’arrivo dei nuovi..."
-      },
-      {
-        "title": "Sulla scia del Grand Tour, la mappa dei caffè letterari in un progetto dell’università di Oxford",
-        "link": "https://www.ilsole24ore.com/art/sulla-scia-grand-tour-mappa-caffe-letterari-un-progetto-dell-universita-oxford-AJljjAHB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 18 Sep 2026 13:28:32 GMT",
-        "excerpt": "Uno spicchio di Varchiglia – pasta frolla, frutta secca e cioccolato - preparata secondo un’antica ricetta delle monache Carmelitane Scalze. Una fetta di Torta Telesio – farina di lupini, mandorle..."
       }
     ],
     "europa": [
@@ -660,6 +667,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Media, Mosca denuncia un grave attacco informatico sul voto online",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/media-mosca-denuncia-un-grave-attacco-informatico-sul-voto-online_1c949bd1-45bf-4a33-b543-1de797994121.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 11:52:17 +0200",
+        "excerpt": "Commissione elettorale: 'In corso ma respinti con successo, situazione sotto controllo'"
+      },
       {
         "title": "Royal Family, perché il fratello di Diana accusa re Carlo. La coincidenza con ol ritorno di Harry",
         "link": "https://www.repubblica.it/esteri/2026/09/19/news/diana_fratello_charles_spencer_accusa_re_carlo_i_motivi_perche_harry-425594781/?rss",
@@ -979,11 +993,25 @@
   },
   "attualita": [
     {
+      "title": "Sondaggi politici, centrodestra sotto il 41%. Con il Melonellum vincerebbe il campo largo al 43,8%",
+      "link": "https://www.repubblica.it/politica/2026/09/19/news/sondaggi_centrodestra_legge_elettorale_melonellum_vittoria_centrosinistra-425594830/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 09:44:07 +0000",
+      "excerpt": "Secondo la Supermedia settimanale di YouTrend i partiti che sostengono il governo continuano a perdere quota. Cresce ancora Vannacci. Il M5S guadagna un 0,4%"
+    },
+    {
       "title": "++ MotoGP: Austria, Martin in pole position ++",
       "link": "https://www.ansa.it/sito/notizie/flash/2026/09/19/-motogp-austria-martin-in-pole-position-_c183475f-8ed5-4267-b526-aeaa58b90c1a.html",
       "source": "ANSA",
       "pubDate": "Sat, 19 Sep 2026 11:34:05 +0200",
       "excerpt": "In prima fila anche Marc Marquez e Acosta, Bezzecchi quarto"
+    },
+    {
+      "title": "Mazzola, Paolo Rossi: “Giocai un derby in squadra con lui, è il mio sogno realizzato da interista”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/19/news/paolo_rossi_ricordo_mazzola_giocai_derby_amichevole_con_lui_sogno_realizzato_interista_intervista-425594814/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 09:34:05 +0000",
+      "excerpt": "L’attore ricorda la bandiera: “Una personalità straordinaria, fuori scala”. Sull’amichevole: “Sandro continuava a lanciarmi. Io correvo e la palla però era sempre un metro avanti. Alla fine mi consolò. ‘Scusa, ero abitua"
     },
     {
       "title": "La Milano di Mazzola: dai primi calci in oratorio a San Siro. Lunedì i funerali in Sant’Ambrogio",
@@ -1383,20 +1411,6 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 07:57:43 +0200",
       "excerpt": "Le parole del governatore ligure all'imprenditore: «Come al solito, di questi tempi» Spinelli a Signorini: «A 83 anni non mi possono fare niente»Le parole del governatore ligure all'imprenditore: «Come al solito, di ques"
-    },
-    {
-      "title": "Camila Giorgi inseguita dal fisco: sotto la lente 6 milioni di euro di compensi (esclusi gli sponsor)",
-      "link": "https://roma.corriere.it/notizie/cronaca/24_maggio_13/camila-giorgi-sei-milioni-euro-762e96c0-95f4-449c-9dd7-a07ce9629xlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 07:21:14 +0200",
-      "excerpt": "Le sole certezze sono contenute nella cartella esattoriale che hanno portato il dipendente delegato dell’agenzia delle Entrate riscossione di Firenze, Paolo Bracciali, a notificarle un primo pignoramento il 26 giugno sco"
-    },
-    {
-      "title": "LE FOTO SULLO YACHT Le immagini degli incontri e i telefonini lasciati all’esterno per blindare i colloqui riservati",
-      "link": "https://www.corriere.it/cronache/24_maggio_12/toti-arrestato-gli-incontri-sullo-yacht-di-spinelli-e-i-telefonini-lasciati-all-esterno-per-blindare-i-colloqui-riservati-e99c3dad-0cea-46a5-9b3a-8e728c4c3xlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 07:13:16 +0200",
-      "excerpt": "Tra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità portuale Paolo SignoriniTra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità po"
     }
   ],
   "sport": [
