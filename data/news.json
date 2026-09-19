@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T22:07:42.500Z",
+  "lastUpdated": "2026-09-19T22:36:14.646Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+        "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-19 22:06:28",
+        "excerpt": ""
+      },
+      {
         "title": "Macron, 'accordo su Groenlandia placa gli animi e riafferma la sovranità danese'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/macron-accordo-su-groenlandia-placa-gli-animi-e-riafferma-la-sovranita-danese_d9c1cef6-fe45-4472-910b-70eb96194b4a.html",
         "source": "ANSA Mondo",
@@ -413,13 +420,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sat, 19 Sep 2026 23:07:22 +0200",
         "excerpt": "'Tenere conto di possibili cancellazioni di voli, chiusure dello spazio aereo e disagi'"
-      },
-      {
-        "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-        "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-19 20:30:26",
-        "excerpt": ""
       },
       {
         "title": "Bachelet ritira la candidatura per la segreteria generale Onu",
@@ -742,6 +742,20 @@
   ],
   "sport": [
     {
+      "title": "Milano batte la Virtus Bologna, in finale di Supercoppa c'è Venezia",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/milano-batte-la-virtus-bologna-in-finale-di-supercoppa-ce-venezia_f9642ccc-e765-4966-a502-9b0b57c1df96.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 00:22:11 +0200",
+      "excerpt": "L'Olimpia vince 80-71 e raggiunge la Reyer, impostasi sui padroni di casa di Tortona"
+    },
+    {
+      "title": "Basket in carrozzina, storico argento ai Mondiali per l'Italia",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/20/basket-in-carrozzina-storico-argento-ai-mondiali-per-litalia_032b8023-1eae-486c-b458-2701bf1cccfa.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 00:20:05 +0200",
+      "excerpt": "In finale vince l'Australia, per gli azzurri è il miglior risultato di sempre"
+    },
+    {
       "title": "Calcio: Stroppa, 'la classifica non rispecchia quanto ha fatto la squadra'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-stroppa-la-classifica-non-rispecchia-quanto-ha-fatto-la-squadra_ca8e6763-acee-43ef-8f60-d02859916470.html",
       "source": "ANSA Sport",
@@ -763,13 +777,6 @@
       "excerpt": "Il tecnico della Lazio: \"Molto bene però la ripresa. I tifosi ci lasciano lavorare\""
     },
     {
-      "title": "Il Barcellona non si frema più, l'Arsenal crolla 3-0 a Brighton",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/larsenal-crolla-3-0-a-brighton-arteta-ci-sia-di-lezione_dc27172d-3ea7-4f33-9c20-a271cdb882d6.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 23:34:54 +0200",
-      "excerpt": "Nella Liga Simeone contro Mourinho nel derby di Madrid"
-    },
-    {
       "title": "Liga: tripletta di Raphinha, il Barcellona ribalta il Siviglia e consolida la vetta",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/liga-tripletta-di-raphinha-il-barcellona-ribalta-il-siviglia-e-consolida-la-vetta_20b73fe6-f24b-41af-8149-016feeedd8a6.html",
       "source": "ANSA Sport",
@@ -782,13 +789,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 22:37:11 +0200",
       "excerpt": "I lagunari sbagliano dal dischetto e sprofondano, i biancocelesti no"
-    },
-    {
-      "title": "Milano batte la Virtus Bologna, in finale di Supercoppa c'è Venezia",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/milano-batte-la-virtus-bologna-in-finale-di-supercoppa-ce-venezia_f9642ccc-e765-4966-a502-9b0b57c1df96.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 21:59:08 +0200",
-      "excerpt": "L'Olimpia vince 80-71 e raggiunge la Reyer, impostasi sui padroni di casa di Tortona"
     },
     {
       "title": "Il Real Madrid vince la nuova SuperCup di Eurolega, Olympiakos ko",
