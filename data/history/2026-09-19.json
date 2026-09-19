@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Ue, non si perda il treno della Ia. Esposto a rischio il 60% dei posti di lavoro europei",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/ue-non-si-perda-il-treno-della-ia.-esposto-a-rischio-il-60-dei-posti-di-lavoro_d3f92af5-dc71-4015-b785-846704e22b8a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 19 Sep 2026 17:11:51 +0200",
+        "excerpt": "Dombrovskis: \"Non ripetere l'errore del digitale\". Fmi, con IA produttività +1% in 5 anni"
+      },
+      {
         "title": "Stangata bollette: 1 miliardo in più per negozi, ristoranti e hotel",
         "link": "https://www.ilsole24ore.com/art/stangata-bollette-1-miliardo-piu-negozi-ristoranti-e-hotel-AJY6SUIB",
         "source": "Il Sole 24 Ore",
@@ -415,13 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 18 Sep 2026 19:05:00 +0200",
         "excerpt": "In base a uno studio promosso da SumUp, all’aumento dei costi di trasporto di autobus e taxi corrisponde la diminuzione dei pagamenti in contante"
-      },
-      {
-        "title": "Vetro, il caro gas mette a rischio la produzione",
-        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/09/18/news/vetro_il_caro_gas_mette_a_rischio_la_produzione-425593792/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 18 Sep 2026 18:58:42 +0200",
-        "excerpt": "Il prezzo torna sopra gli 80 euro per MWh. Assovetro chiede interventi urgenti per un settore da 9 miliardi di euro e 16 mila addetti. Torno (presidente di Assovetro): “Con questi prezzi l’equilibrio industriale non regg"
       }
     ],
     "europa": [
@@ -1505,6 +1505,27 @@
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: Maldini scaccia le nubi, gol vittoria a Udine e il Cagliari vola in testa alla classifica",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-maldini-scaccia-le-nubi-gol-vittoria-a-udine-e-il-cagliari-vola-in-testa_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 17:30:19 +0200",
+      "excerpt": "L'Udinese senza gol non riesce più a vincere in casa"
+    },
+    {
+      "title": "Serie A: Pari tra Bologna e Torino, i rossoblù fischiati al Dall'Ara",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-pari-tra-bologna-e-torino-i-rossoblu-fischiati-al-dallara_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 17:27:45 +0200",
+      "excerpt": "Dopo Bernardeschi i granata si aggrappano a Kulenovic per evitare la sconfitta"
+    },
+    {
+      "title": "Calcio: Allegri, 'a Firenze una della 4-5 partite più importanti della stagione'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-allegri-a-firenze-una-della-4-5-partite-piu-importanti-della-stagione_130fbb9f-e44f-4c66-b642-a15ad3cf24fa.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 17:11:40 +0200",
+      "excerpt": "Tecnico Napoli: 'Vogliamo arrivare alla prossima sosta nella condizione migliore'"
+    },
     {
       "title": "Serie A: il Cagliari passa a Udine grazie a Maldini, il Torino ferma il Bologna 1-1",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-il-cagliari-passa-a-udine-grazie-a-maldini-il-torino-ferma-il-bologna-1-1_ca97cbbb-3671-41d6-bdbc-20acbdd625df.html",

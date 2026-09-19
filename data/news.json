@@ -1,12 +1,19 @@
 {
-  "lastUpdated": "2026-09-19T15:07:43.716Z",
+  "lastUpdated": "2026-09-19T15:36:49.731Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Ue, non si perda il treno della Ia. Esposto a rischio il 60% dei posti di lavoro europei",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/ue-non-si-perda-il-treno-della-ia.-esposto-a-rischio-il-60-dei-posti-di-lavoro_d3f92af5-dc71-4015-b785-846704e22b8a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 19 Sep 2026 17:11:51 +0200",
+        "excerpt": "Dombrovskis: \"Non ripetere l'errore del digitale\". Fmi, con IA produttività +1% in 5 anni"
+      },
       {
         "title": "Stangata bollette: 1 miliardo in più per negozi, ristoranti e hotel",
         "link": "https://www.ilsole24ore.com/art/stangata-bollette-1-miliardo-piu-negozi-ristoranti-e-hotel-AJY6SUIB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 19 Sep 2026 15:07:25 GMT",
+        "pubDate": "Sat, 19 Sep 2026 15:07:00 GMT",
         "excerpt": "Nel secondo semestre del 2026 le imprese del commercio, del turismo e della ristorazione pagheranno oltre un miliardo di euro in più di bolletta elettrica. È il conto che <a..."
       },
       {
@@ -127,13 +134,6 @@
         "source": "ANSA Economia",
         "pubDate": "Sat, 19 Sep 2026 11:45:44 +0200",
         "excerpt": "'Mimit faccia chiarezza'. Antitrust non rileva irregolarità"
-      },
-      {
-        "title": "Prezzi, da guerra in Iran impatto fino a 24,6 miliardi sulle famiglie italiane",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/prezzi-da-guerra-in-iran-impatto-fino-a-246-miliardi-sulle-famiglie-italiane_949b5b5c-0183-4ffd-8b0b-7f8175ea96fe.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 19 Sep 2026 11:34:24 +0200",
-        "excerpt": "C.r.c-Assoutenti, volano prodotti informatica, traghetti e aerei, frutta e verdura"
       },
       {
         "title": "Cgia, il credito al consumo sfiora i 178 miliardi, in 9 anni +62%",
@@ -575,7 +575,7 @@
       "title": "Gli Houthi: 'Non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/gli-houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono_83a5e95b-d523-4913-a557-a06ae487425b.html",
       "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 16:55:42 +0200",
+      "pubDate": "Sat, 19 Sep 2026 17:16:48 +0200",
       "excerpt": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'. 'Fumo e fiamme vicino all'aeroporto di Riad'. Lo riferiscono i residenti alla France Presse. Flightradar: 'Voli cancellati e in r"
     },
     {
@@ -742,6 +742,34 @@
   ],
   "sport": [
     {
+      "title": "F1, Antonelli: 'Sogno di diventare uno dei più grandi di sempre'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/19/f1-antonelli-sogno-di-diventare-uno-dei-piu-grandi-di-sempre_3587e0d6-7771-483d-8074-7a79289e37e2.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 17:32:51 +0200",
+      "excerpt": "Il pilota a San Marino: \"Mi piace la pressione, mi fa strano quando non c'è\""
+    },
+    {
+      "title": "Serie A: Maldini scaccia le nubi, gol vittoria a Udine e il Cagliari vola in testa alla classifica",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-maldini-scaccia-le-nubi-gol-vittoria-a-udine-e-il-cagliari-vola-in-testa_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 17:30:19 +0200",
+      "excerpt": "L'Udinese senza gol non riesce più a vincere in casa"
+    },
+    {
+      "title": "Serie A: Pari tra Bologna e Torino, i rossoblù fischiati al Dall'Ara",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-pari-tra-bologna-e-torino-i-rossoblu-fischiati-al-dallara_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 17:27:45 +0200",
+      "excerpt": "Dopo Bernardeschi i granata si aggrappano a Kulenovic per evitare la sconfitta"
+    },
+    {
+      "title": "Calcio: Allegri, 'a Firenze una della 4-5 partite più importanti della stagione'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-allegri-a-firenze-una-della-4-5-partite-piu-importanti-della-stagione_130fbb9f-e44f-4c66-b642-a15ad3cf24fa.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 17:11:40 +0200",
+      "excerpt": "Tecnico Napoli: 'Vogliamo arrivare alla prossima sosta nella condizione migliore'"
+    },
+    {
       "title": "Serie A: il Cagliari passa a Udine grazie a Maldini, il Torino ferma il Bologna 1-1",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-il-cagliari-passa-a-udine-grazie-a-maldini-il-torino-ferma-il-bologna-1-1_ca97cbbb-3671-41d6-bdbc-20acbdd625df.html",
       "source": "ANSA Sport",
@@ -749,32 +777,11 @@
       "excerpt": "Sardi a quota 12 in classifica. Kulenovic risponde a Bernardeschi, ancora male Skorupski"
     },
     {
-      "title": "Serie A: Bologna-Torino finisce 1-1",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-bologna-torino-in-campo-1-0-diretta_954b8c86-5aa6-4155-a2a1-d15f5a629045.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 16:57:08 +0200",
-      "excerpt": "Gol di Bernardeschi, pareggia Kulenovic"
-    },
-    {
-      "title": "Serie A: Udinese-Cagliari in campo 0-1 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-udinese-cagliari-in-campo-0-1-diretta_1d4ea6ad-ec88-4f97-9bbd-14e9fd4846ba.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 16:44:59 +0200",
-      "excerpt": "Gol di Maldini"
-    },
-    {
       "title": "Addio a Sandro Mazzola, la bandiera dell'Inter aveva 83 anni",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/addio-a-sandro-mazzola-la-bandiera-dellinter-aveva-83-anni_4e64feca-d64f-4fb1-92e1-065b2d74325f.html",
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 16:39:19 +0200",
       "excerpt": "Lo ha annunciato il club nerazzurro in una nota: 'Uno dei più grandi calciatori della storia'"
-    },
-    {
-      "title": "F1: Antonelli, 'sogno di diventare uno dei più grandi di sempre'",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/19/f1-antonelli-sogno-di-diventare-uno-dei-piu-grandi-di-sempre_3587e0d6-7771-483d-8074-7a79289e37e2.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 16:36:16 +0200",
-      "excerpt": "Il pilota a San Marino: \"Mi piace la pressione, mi fa strano quando non c'è\""
     },
     {
       "title": "Atalanta; Sarri, con la Juve non è partita tra Spalletti e me",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 15:35:55 +0200",
       "excerpt": "Il primo cittadino di Milano: \"La nostra città lo ricorda con gratitudine\""
-    },
-    {
-      "title": "Figc: Abodi sul caso Malagò \"decida lo sport, spero di non intervenire\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/figc-abodi-sul-caso-malago-decida-lo-sport-spero-di-non-intervenire_c206d3a8-7cb5-43b9-aa9d-aed29a852ea3.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 15:33:49 +0200",
-      "excerpt": "Il ministro: \"Non voglio che la questione si politicizzi\""
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
