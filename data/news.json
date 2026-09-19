@@ -1,12 +1,26 @@
 {
-  "lastUpdated": "2026-09-19T11:36:16.714Z",
+  "lastUpdated": "2026-09-19T12:09:26.200Z",
   "finanza": {
     "italia": [
       {
-        "title": "Errori sulla carta d’identità e luogo di nascita: il caso Apuania e come correggerli",
+        "title": "Casa, Salvini: sgomberate 6mila abitazioni occupate abusivamente. Obiettivo stop Imu nelle aree interne",
+        "link": "https://www.ilsole24ore.com/art/casa-salvini-sgomberate-6mila-abitazioni-occupate-abusivamente-obiettivo-stop-imu-aree-interne-AJnshKIB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 19 Sep 2026 11:53:02 GMT",
+        "excerpt": "«Dal 2022 a giugno di quest’anno sono già state sgomberate 6mila abitazioni, 6mila case occupate abusivamente. Tante altre ne restano, però è un segnale concreto». Il bilancio è tracciato dal..."
+      },
+      {
+        "title": "Assegno unico, l’Inps riscontra errori: partono le lettere per gli accertamenti",
+        "link": "https://www.ilsole24ore.com/art/assegno-unico-l-inps-riscontra-errori-partono-lettere-gli-accertamenti-AJ5IXTHB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 19 Sep 2026 11:43:44 GMT",
+        "excerpt": "Al via una campagna di controllo sull’assegno unico, prestazione basata sull’Isee. Durante apposite verifiche sul bonus e i relativi redditi Isee sarebbero emerse circa 4.000 Dsu (dichiarazioni sostitutive uniche) sospet"
+      },
+      {
+        "title": "Nata a Carrara, ma per lo Stato è “Apuania”: cosa fare in caso di errori anagrafici",
         "link": "https://www.ilsole24ore.com/art/errori-carta-d-identita-e-luogo-nascita-caso-apuania-e-come-correggerli-AJwXxhHB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 19 Sep 2026 11:04:21 GMT",
+        "pubDate": "Sat, 19 Sep 2026 11:04:00 GMT",
         "excerpt": "Apuania è un comune creato durante il fascismo; riuniva Massa, Carrara e Montignoso ed è esistito dal 1938 al 1946. Questa nomenclatura è ricomparsa durante il rinnovo della carta d’identità..."
       },
       {
@@ -129,20 +143,6 @@
         "excerpt": "Non ci sono più margini nei bilanci degli italiani: spesa in calo di mezzo punto, con una perdita di 6,5 miliardi di euro. Per le spese obbligate prezzi su del 5,9%"
       },
       {
-        "title": "Caccia colpito in Arabia, dal Mar Rosso al Golfo il fronte che coinvolge l’Italia",
-        "link": "https://www.ilsole24ore.com/art/arabia-colpito-caccia-italiano-aspides-crosetto-scrive-ue-AJECQCIB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 19 Sep 2026 07:32:00 GMT",
-        "excerpt": "Il ministro: «Nessun nostro militare coinvolto, in campo tutte le misure di sicurezza»"
-      },
-      {
-        "title": "Pensioni 2027, le proposte in campo: dote ai neonati, uscita a 64 anni e minime più alte",
-        "link": "https://www.ilsole24ore.com/art/pensioni-2027-proposte-campo-dote-previdenziale-neonati-uscita-64-anni-e-aumento-minime-AJs1ZVHB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 19 Sep 2026 07:21:00 GMT",
-        "excerpt": "Una dote previdenziale destinata ai neonati, per accompagnarli all’ingresso nel mondo del lavoro, con un meccanismo a capitalizzazione alimentato da risorse dello Stato e dei familiari: la proposta dall’Inps, non..."
-      },
-      {
         "title": "Deutsche Bank: posizionamento cauto nonostante la resilienza dei mercati",
         "link": "https://it.investing.com/news/stock-market-news/deutsche-bank-posizionamento-cauto-nonostante-la-resilienza-dei-mercati-93CH-3555331",
         "source": "Investing.com Italia",
@@ -228,6 +228,13 @@
       }
     ],
     "europa": [
+      {
+        "title": "Ucraina, nella notte attacchi russi su Odessa e Kiev: «Lanciati due missili ipersonici»",
+        "link": "https://www.ilsole24ore.com/art/ucraina-notte-attacchi-russi-odessa-e-kiev-lanciati-due-missili-ipersonici-AJYGLMIB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Sat, 19 Sep 2026 12:08:16 GMT",
+        "excerpt": "La scorsa notte le forze russe hanno attaccato l’Ucraina usando anche “due missili Zircon” fatti partire dalla regione di Kursk, 174 droni. Le principali direttrici dell’attacco sono state le regioni..."
+      },
       {
         "title": "Dai gatti parlanti alla spy-app di Putin: così Max sorveglia la Russia",
         "link": "https://www.ilsole24ore.com/art/dai-gatti-parlanti-spy-app-putin-cosi-max-sorveglia-russia-AJG1OdHB",
@@ -332,13 +339,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 18 Sep 2026 09:11:54 GMT",
         "excerpt": "È già febbre da titolo a New York, ma assistere alla cerimonia con cui i Knicks celebreranno la conquista del loro primo campionato della National Basketball Association (Nba) dal 1973..."
-      },
-      {
-        "title": "Guerra ultime notizie. Iran, Trump: «Stiamo parlando con gli Houthi»",
-        "link": "https://www.ilsole24ore.com/art/pentagono-valuta-ritirare-25000-soldati-dall-europa-AJFDSwGB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Fri, 18 Sep 2026 05:34:00 GMT",
-        "excerpt": ""
       }
     ],
     "usa": [
@@ -401,6 +401,27 @@
     ],
     "mondo": [
       {
+        "title": "Royal Family, perché il fratello di Diana accusa re Carlo e la coincidenza del ritorno di Harry",
+        "link": "https://www.repubblica.it/esteri/2026/09/19/news/royal_family_perche_il_fratello_di_diana_accusa_re_carlo_e_la_coincidenza_del_ritorno_di_harry-425594492/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 19 Sep 2026 14:03:08 +0200",
+        "excerpt": "Il conte Charles Spencer insiste, nonostante la furia di Buckingham Palace, e rilancia alla Bbc: “Dovevo dire la verità. Il sovrano mi ha detto davvero quelle frasi sconvolgenti”. Ma intanto si scatenano le speculazioni "
+      },
+      {
+        "title": "Smoke visible near Riyadh airport after Saudi Arabia issues all-clear",
+        "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-19 11:54:26",
+        "excerpt": ""
+      },
+      {
+        "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
+        "link": "https://www.investing.com/news/commodities-news/canada-optimistic-about-concluding-trade-talks-with-india-by-yearend-minister-says-4908078",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-19 11:30:28",
+        "excerpt": ""
+      },
+      {
         "title": "Strappo diplomatico totale tra Costa Rica e Cuba",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/strappo-diplomatico-totale-tra-costa-rica-e-cuba_9e71ee30-188d-45bb-8d2b-ab96f8c7bcd8.html",
         "source": "ANSA Mondo",
@@ -413,13 +434,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sat, 19 Sep 2026 11:52:17 +0200",
         "excerpt": "Commissione elettorale: 'In corso ma respinti con successo, situazione sotto controllo'"
-      },
-      {
-        "title": "Royal Family, perché il fratello di Diana accusa re Carlo. La coincidenza con ol ritorno di Harry",
-        "link": "https://www.repubblica.it/esteri/2026/09/19/news/diana_fratello_charles_spencer_accusa_re_carlo_i_motivi_perche_harry-425594781/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 19 Sep 2026 10:53:06 +0200",
-        "excerpt": "Il conte Charles Spencer insiste, nonostante la furia di Buckingham Palace, e rilancia alla Bbc: “Dovevo dire la verità. Il sovrano mi ha detto davvero quelle frasi sconvolgenti”. Ma intanto si scatenano le speculazioni "
       },
       {
         "title": "Marines americani, che figuraccia: alle esercitazioni Nato con gli scarponi rotti",
@@ -553,24 +567,17 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-18 19:18:46",
         "excerpt": ""
-      },
-      {
-        "title": "Natural Gas consolidates near $2.90 above 200MA: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-tests-2899-resistance-cluster-hourly-levels-93CH-4898874",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-18 19:18:42",
-        "excerpt": ""
-      },
-      {
-        "title": "London Gas Oil stuck in $1,475-$1,515 range: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-surges-near-1524-resistance-live-levels-93CH-4898872",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-18 19:18:40",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Media, 'fumo e fiamme vicino all'aeroporto di Riad'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/forte-esplosione-avvertita-a-riad-scatta-lallerta-per-la-popolazione_83a5e95b-d523-4913-a557-a06ae487425b.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 13:59:13 +0200",
+      "excerpt": "Lo riferiscono i residenti alla France Presse. Flightradar: 'Gravi problemi all'aeroporto della città, voli cancellati e in ritardo'"
+    },
     {
       "title": "Prof accoltellata: “Sono addolorata, neanche una telefonata di scuse dai genitori del ragazzo”",
       "link": "https://www.repubblica.it/cronaca/2026/09/19/news/prof_accoltellata_niente_scuse_dai_genitori-425594967/",
@@ -591,13 +598,6 @@
       "source": "ANSA",
       "pubDate": "Sat, 19 Sep 2026 12:59:59 +0200",
       "excerpt": "Lo riportano i media statunitensi. Dopo i casi OpenAi e Anthropic. L'incidente a maggio, 'ma la sicurezza ha funzionato'"
-    },
-    {
-      "title": "Trump annuncia l'accordo sulla Groenlandia: 'Controlleremo la sua sicurezza'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/18/trump-accordo-con-danimarca-e-groenlandia-per-il-controllo-usa-della-sicurezza_1cca247f-3819-4ca1-8017-ce344cbcec44.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 12:57:38 +0200",
-      "excerpt": "'Subito militari, nessun avversario potrà mettere basi'. La firma a New York la prossima settimana"
     },
     {
       "title": "Vedano al Lambro piange Mazzola, nipoti Alice e Paolo: “Era un nonno speciale, con un grande cuore”",
@@ -625,7 +625,7 @@
       "link": "https://milano.repubblica.it/cronaca/2026/09/19/news/milano_sandro_mazzola_citta_primi_calci_oratorio_san_siro_funerali-425594785/",
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 08:50:57 +0000",
-      "excerpt": "Dopo la morte del padre Valentino, era tornato a Cassano d’Adda con la mamma e il fratello. Poi, l’arrivo a Milano e, a 12 anni, il provino per l’Inter al centro Ravizza"
+      "excerpt": "Dopo la morte del padre Valentino, era tornato a Cassano d’Adda con la mamma e il fratello. Poi, l’arrivo a Milano e, a 12 anni, il provino per l’Inter al centro Ravizza. Il sindaco Sala: “Simbolo di talento e fedeltà”"
     },
     {
       "title": "Sandro Mazzola, il ricordo di Bergomi: “Debuttai grazie a lui. La foto con Facchetti e Alberto Sordi: quanta bellezza”",
