@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-19T19:34:38.755Z",
+  "lastUpdated": "2026-09-19T20:07:45.604Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Trump: presto una task force sugli algoritmi. E OpenAI brucia 280 miliardi di cassa",
+        "link": "https://www.repubblica.it/economia/2026/09/20/news/trump_presto_una_task_force_sugli_algoritmi_e_openai_brucia_280_miliardi_di_cassa-425595764/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 19 Sep 2026 21:40:00 +0200",
+        "excerpt": "Il presidente americano: “Sto creando la ‘AI Force’ e a breve annuncerò il nome del responsabile”"
+      },
       {
         "title": "Italia Viva all’attacco di Tajani: idea della donna ottocentesca. Il Pd: concentrato dei peggiori stereotipi",
         "link": "https://www.ilsole24ore.com/art/italia-viva-all-attacco-tajani-idea-donna-ottocentesca-pd-concentrato-peggiori-stereotipi-AJekLgIB",
@@ -71,13 +78,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sat, 19 Sep 2026 16:16:46 +0200",
         "excerpt": "Il commissario all’Economia: “Dovrei chiarire dichiarazioni di Giorgetti”"
-      },
-      {
-        "title": "Google, Gemini sfugge all’ambiente di test e hackera i sistemi di 3 aziende",
-        "link": "https://www.repubblica.it/economia/2026/09/19/news/google_gemini_sfugge_all_ambiente_di_test_e_hackera_i_sistemi_di_3_aziende-425594498/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 19 Sep 2026 16:16:43 +0200",
-        "excerpt": "Il modello si è fermato autonomamente dopo aver capito di aver violato sistemi di società realmente esistenti"
       },
       {
         "title": "Energia, Prodi a Radio 24: la proposta di Schlein a Meloni è di buon senso",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Bachelet ritira la candidatura per la segreteria generale Onu",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/bachelet-ritira-la-candidatura-per-la-segreteria-generale-onu_b428de69-71cb-4859-85ac-8648fb7bc0b4.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 21:36:49 +0200",
+        "excerpt": "Pesa il voto informale, l'ex leader cilena ringrazia Brasile e Messico"
+      },
+      {
         "title": "Corteo a Tunisi per la liberazione dei quattro attivisti della Flotilla Soumoud",
         "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/19/corteo-a-tunisi-per-la-liberazione-dei-quattro-attivisti-della-flotilla-soumoud_26a9f457-d0b8-44b3-8f22-7e3b7cec701a.html",
         "source": "ANSA Mondo",
@@ -476,13 +483,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sat, 19 Sep 2026 17:58:07 +0200",
         "excerpt": "Diverse ragazze sono fuggite dalle strutture denunciando il personale"
-      },
-      {
-        "title": "Media, 'Netanyahu accorcia la visita negli Usa, non vedrà Elon Musk'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/media-netanyahu-accorcia-la-visita-negli-usa-non-vedra-elon-musk_42e774fa-8034-42b6-b4f5-13845dd119ef.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 17:56:56 +0200",
-        "excerpt": "Il suo team è già arrivato negli Stati Uniti"
       },
       {
         "title": "La confessione della Pussy Riot: “Costretta dai servizi segreti russi a spiare i miei amici”",
@@ -572,25 +572,46 @@
   },
   "attualita": [
     {
+      "title": "Oktoberfest al via, torna la festa della birra",
+      "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/09/19/oktoberfest-al-via-torna-la-festa-della-birra_6c2ca671-8cb8-468b-b582-ed2c73df4392.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 21:59:26 +0200",
+      "excerpt": "Oktoberfest al via, torna la festa della birra"
+    },
+    {
+      "title": "Riad sott'attacco. Houthi: 'Non siamo in guerra con l'Italia'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/riad-sottattacco.-gli-houthi-non-siamo-in-guerra-con-litalia_83a5e95b-d523-4913-a557-a06ae487425b.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 21:56:57 +0200",
+      "excerpt": "Fumo e esplosioni nello scalo della città. Sanaa: 'Aerei di Roma non dovrebbero essere lì'"
+    },
+    {
+      "title": "Trump: presto una task force sugli algoritmi. E OpenAI brucia 280 miliardi di cassa",
+      "link": "https://www.repubblica.it/economia/2026/09/20/news/trump_presto_una_task_force_sugli_algoritmi_e_openai_brucia_280_miliardi_di_cassa-425595764/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 19:40:00 +0000",
+      "excerpt": "Il presidente americano: “Sto creando la ‘AI Force’ e a breve annuncerò il nome del responsabile”"
+    },
+    {
+      "title": "Cos’è l’accelerazionismo, la galassia estremista che ha ispirato il 13enne accoltellatore della prof",
+      "link": "https://www.repubblica.it/cronaca/2026/09/19/news/che_cosa_e_l_ccelerazionismo_tredicenne_studente_accoltella_la_prof_centocelle-425595794/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 19:29:14 +0000",
+      "excerpt": "Dietro allo studente della scuola di Centocelle, i carabinieri indagano su una rete di Telegram legata a questa formazione suprematista. Niente capi né gerarchie: solo “santi” da imitare e manuali per accelerare il caos"
+    },
+    {
+      "title": "Le chat del 13enne, forse arruolato da gruppi estremisti",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/il-video-del-13enne-con-laggressione-alla-prof-ragazzi-guardate-il-tg-dopo_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 21:11:18 +0200",
+      "excerpt": "Il messaggio postato prima di accoltellare la prof: 'Guardate i tg'. Poi filma l'aggressione"
+    },
+    {
       "title": "Le pagelle di Roma-Inter: Malen questa volta non incide, Thuram è ovunque",
       "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/19/news/roma_inter_pagelle_malen_thuram-425595712/",
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 18:57:54 +0000",
       "excerpt": "Promossi e bocciati della gara dell’Olimpico"
-    },
-    {
-      "title": "Il video del 13enne con l'aggressione alla prof: 'Ragazzi guardate il Tg dopo'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/il-video-del-13enne-con-laggressione-alla-prof-ragazzi-guardate-il-tg-dopo_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 20:56:26 +0200",
-      "excerpt": "Il Messaggero mostra le immagini girate dal ragazzo"
-    },
-    {
-      "title": "Riad sott'attacco, fumo e esplosioni nello scalo della città. Gli Houthi: 'Non siamo in guerra con l'Italia'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/riad-sottattacco.-gli-houthi-non-siamo-in-guerra-con-litalia_83a5e95b-d523-4913-a557-a06ae487425b.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 20:43:48 +0200",
-      "excerpt": "Fumo e esplosioni nello scalo della città. Sanaa: 'Aerei di Roma non dovrebbero essere lì'"
     },
     {
       "title": "8 giovani su 10 si impegnano nella vita pubblica ma le istituzioni non li ascoltano",
@@ -628,13 +649,6 @@
       "excerpt": "L'omaggio da Meloni a Infantino. Un minuto di silenzio in Serie A, funerali lunedì a Sant'Ambrogio"
     },
     {
-      "title": "Oktoberfest al via, torna la festa della birra",
-      "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/09/19/oktoberfest-al-via-torna-la-festa-della-birra_6c2ca671-8cb8-468b-b582-ed2c73df4392.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 18:51:06 +0200",
-      "excerpt": "Oktoberfest al via, torna la festa della birra"
-    },
-    {
       "title": "A Pontida un ulivo per Bossi e le critiche dei nordisti a Salvini: “Irriconoscente”",
       "link": "https://www.repubblica.it/politica/2026/09/19/news/bossi_pontida_ulivo_salvini-425595396/",
       "source": "Repubblica",
@@ -654,20 +668,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 13:54:47 +0000",
       "excerpt": "L'ex presidente del Consiglio critica la segretaria dei Giovani democratici: “Quando l’ho sentitata, ho pensato ‘speriamo che cresca’”"
-    },
-    {
-      "title": "Mazzola, De Sisti: “La staffetta con Rivera per colpa mia. Ma quando arrivava si mettevano tutti sull’attenti”",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/09/19/news/mazzola_morto_de_sisti_staffetta_rivera-425595239/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 13:41:46 +0000",
-      "excerpt": "Intervista all’ex azzurro protagonista – insieme alla leggenda dell’Inter morto oggi – dell’Italia campione d’Europa del ‘68 e del ‘70"
-    },
-    {
-      "title": "Il giorno delle nozze di Diana la gente vide una fiaba. Ma lei già sapeva che non era così",
-      "link": "https://www.repubblica.it/cultura/2026/09/19/news/diana_charles_spencer_memoir_anticipazione_royal_family-425595151/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "excerpt": "Anticipiamo un estratto dal memoir di Charles Spencer, fratello di Lady D, in libreria da martedì 22 settembre. Qui racconta il legame giovanile forte con la sorella maggiore. E il boom mediatico, e le ombre, nel giorno "
     },
     {
       "title": "America's Got Talent, in finale un ballerino con un gruppo di robot umanoidi",
@@ -742,11 +742,25 @@
   ],
   "sport": [
     {
-      "title": "Serie A: Venezia-Lazio 0-0 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-venezia-lazio-0-0-diretta-e-foto_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
+      "title": "Serie A: Venezia-Lazio 0-2 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-venezia-lazio-0-2-diretta-e-foto_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
       "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 21:24:36 +0200",
+      "pubDate": "Sat, 19 Sep 2026 22:04:57 +0200",
       "excerpt": "Il match valido per la quinta giornata di campionato"
+    },
+    {
+      "title": "Milano batte la Virtus Bologna, in finale di Supercoppa c'è Venezia",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/milano-batte-la-virtus-bologna-in-finale-di-supercoppa-ce-venezia_f9642ccc-e765-4966-a502-9b0b57c1df96.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 21:59:08 +0200",
+      "excerpt": "L'Olimpia vince 80-71 e raggiunge la Reyer, impostasi sui padroni di casa di Tortona"
+    },
+    {
+      "title": "Il Real Madrid vince la nuova SuperCup di Eurolega, Olympiakos ko",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/il-real-madrid-vince-la-nuova-supercup-di-eurolega-olympiakos-ko_2b45d748-207e-47ba-9a8f-924c560903aa.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 21:42:24 +0200",
+      "excerpt": "Gli spagnoli si impongono 93-89 in finale, terzo il Fenerbahce"
     },
     {
       "title": "All'Olimpico un 2-2 da spettacolo, la Roma avanti e l'Inter la riprende",
@@ -782,20 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 19:59:27 +0200",
       "excerpt": "L'argentino risponde al francese, per Lazio e Como chance di primato"
-    },
-    {
-      "title": "Calcio: l'Arsenal crolla 3-0 a Brighton, Arteta 'che ci sia di lezione'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-larsenal-crolla-3-0-a-brighton-arteta-che-ci-sia-di-lezione_2768d25d-b2a7-4920-a806-27524014ebef.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 19:28:01 +0200",
-      "excerpt": "Stop per i Gunners, finora a punteggio pieno. Domani chance per il City"
-    },
-    {
-      "title": "L'Italia piange Sandro Mazzola: 'Eri il figlio del calcio'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/litalia-piange-sandro-mazzola-eri-il-figlio-del-calcio_4e64feca-d64f-4fb1-92e1-065b2d74325f.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 19:11:22 +0200",
-      "excerpt": "L'omaggio da Meloni a Infantino. Un minuto di silenzio in Serie A, funerali lunedì a Sant'Ambrogio"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
