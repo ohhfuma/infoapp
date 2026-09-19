@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T18:08:43.554Z",
+  "lastUpdated": "2026-09-19T18:39:01.294Z",
   "finanza": {
     "italia": [
       {
@@ -229,6 +229,13 @@
     ],
     "europa": [
       {
+        "title": "Cnn, Politico e Ms Now sfidano Trump: «Difenderemo la libertà di stampa»",
+        "link": "https://www.ilsole24ore.com/art/cnn-politico-e-ms-now-sfidano-trump-difenderemo-liberta-stampa-AJWCGeIB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Sat, 19 Sep 2026 18:20:37 GMT",
+        "excerpt": "«Un attacco illegale» ai diritti costituzionali della stampa. Cnn reagisce così alla decisione del presidente Donald Trump di vietare l’accesso alla Casa Bianca ai giornalisti dell’emittente, di Ms..."
+      },
+      {
         "title": "Germania, vigilia da incubo per Merz e la Cdu: sotto a Berlino e in bilico in Meclemburgo",
         "link": "https://www.ilsole24ore.com/art/elezioni-germania-l-incubo-merz-e-crisi-cdu-AJh2HZHB",
         "source": "Il Sole 24 Ore Mondo",
@@ -276,13 +283,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sat, 19 Sep 2026 07:42:00 GMT",
         "excerpt": ""
-      },
-      {
-        "title": "Groenlandia, accordo Trump-Danimarca: agli Usa il controllo permanente della sicurezza",
-        "link": "https://www.ilsole24ore.com/art/trump-annuncia-accordo-sicurezza-groenlandia-AJuYuAIB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Sat, 19 Sep 2026 06:40:00 GMT",
-        "excerpt": "La Cina e la Russia non potranno installare basi mentre gli Stati Uniti potranno stabilire una «significativa presenza militare» sull’isola"
       },
       {
         "title": "HWH International to change name to EnerSyn Global, ticker to ESYN on Nasdaq",
@@ -401,6 +401,27 @@
     ],
     "mondo": [
       {
+        "title": "Corteo a Tunisi per la liberazione dei quattro attivisti della Flotilla Soumoud",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/19/corteo-a-tunisi-per-la-liberazione-dei-quattro-attivisti-della-flotilla-soumoud_26a9f457-d0b8-44b3-8f22-7e3b7cec701a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 20:30:17 +0200",
+        "excerpt": "In piazza società civile e associazioni, slogan per la Palestina e la libertà"
+      },
+      {
+        "title": "Brazil’s Petrobras board approves joining diesel subsidy program",
+        "link": "https://www.investing.com/news/commodities-news/brazils-petrobras-board-approves-joining-diesel-subsidy-program-4908111",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-19 18:18:31",
+        "excerpt": ""
+      },
+      {
+        "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+        "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-19 18:12:26",
+        "excerpt": ""
+      },
+      {
         "title": "Attacco Houthi su Riad, poi avvertono Roma: “Non in guerra con voi, ma con i jet sostenete i sauditi”",
         "link": "https://www.repubblica.it/esteri/2026/09/19/news/attacco_houthi_riad_avvertono_italia_aerei_base_sostenete_guerra_sauditi-425595553/?rss",
         "source": "Repubblica Esteri",
@@ -419,13 +440,6 @@
         "link": "https://www.investing.com/news/commodities-news/canada-optimistic-about-concluding-trade-talks-with-india-by-yearend-minister-says-4908078",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-19 17:24:43",
-        "excerpt": ""
-      },
-      {
-        "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
-        "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-19 16:18:25",
         "excerpt": ""
       },
       {
@@ -462,13 +476,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sat, 19 Sep 2026 17:58:07 +0200",
         "excerpt": "Diverse ragazze sono fuggite dalle strutture denunciando il personale"
-      },
-      {
-        "title": "Media, 'Netanyahu accorcia la visita negli Usa, non vedrà Elon Musk'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/media-netanyahu-accorcia-la-visita-negli-usa-non-vedra-elon-musk_6df0b58a-596c-4233-9672-47510a87e1f1.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 17:57:14 +0200",
-        "excerpt": "Il suo team è già arrivato negli Stati Uniti"
       },
       {
         "title": "Media, 'Netanyahu accorcia la visita negli Usa, non vedrà Elon Musk'",
@@ -560,17 +567,31 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-18 20:00:29",
         "excerpt": ""
-      },
-      {
-        "title": "Crude Oil WTI clings to $99.50 support amid breakdown risk: Live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-stalls-near-10446-highs-on-fading-momentum-live-93CH-4898875",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-18 19:18:46",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "All'Olimpico un 2-2 da spettacolo, la Roma avanti e l'Inter la riprende",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-termina-2-2-cronaca-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 20:32:23 +0200",
+      "excerpt": "Primo tempo giallorosso e doppietta di Kone, ripresa nerazzurra con due gol di Lautaro"
+    },
+    {
+      "title": "Riad sott'attacco. Gli Houthi: 'Non siamo in guerra con l'Italia'&nbsp;",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/riad-sottattacco.-gli-houthi-non-siamo-in-guerra-con-litalia_83a5e95b-d523-4913-a557-a06ae487425b.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 20:24:35 +0200",
+      "excerpt": "Fumo e esplosioni nello scalo della città. Sanaa: 'Aerei di Roma non dovrebbero essere lì'"
+    },
+    {
+      "title": "Il video del 13enne con l'aggressione alla prof: 'Ragazzi guardate il Tg dopo'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/il-video-del-13enne-con-laggressione-alla-prof-ragazzi-guardate-il-tg-dopo_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 20:13:39 +0200",
+      "excerpt": "Il Messaggero mostra le immagini girate dal ragazzo"
+    },
     {
       "title": "8 giovani su 10 si impegnano nella vita pubblica ma le istituzioni non li ascoltano",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/09/17/8-giovani-su-10-si-impegnano-nella-vita-pubblica-ma-le-istituzioni-non-li-ascoltano_8fe1c5d0-94e5-45e6-bfce-882bfe9c939f.html",
@@ -584,20 +605,6 @@
       "source": "ANSA",
       "pubDate": "Sat, 19 Sep 2026 19:51:19 +0200",
       "excerpt": "Bowie l'ispirazione, sfondo Gb anni '50, esce in febbraio l'opera rock"
-    },
-    {
-      "title": "Serie A: Roma-Inter 2-2 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-2-2-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 19:47:27 +0200",
-      "excerpt": "I nerazzurri con il lutto al braccio, per onorare Sandro Mazzola"
-    },
-    {
-      "title": "Gli Houthi: 'Non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/gli-houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono_83a5e95b-d523-4913-a557-a06ae487425b.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 19:45:08 +0200",
-      "excerpt": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'. 'Fumo e fiamme vicino all'aeroporto di Riad'. Lo riferiscono i residenti alla France Presse. Flightradar: 'Voli cancellati e in r"
     },
     {
       "title": "Attacco Houthi su Riad, avvertono Roma: “Non in guerra con voi, ma con i jet sostenete i sauditi”",
@@ -640,13 +647,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 14:08:52 +0000",
       "excerpt": "Il ragazzino ha ripreso in videochiamata l’attacco sferrato contro la docente Isabella Marsilio. Intanto anche il tribunale dei Minori ha avviato un’istruttoria: valuterà misure rieducative"
-    },
-    {
-      "title": "Professoressa accoltellata a Roma: verifiche sul cellulare del 13enne, si cercano eventuali istigatori",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/prof-accoltellata-verifiche-sul-cellulare-del-13enne-si-cercano-eventuali-istigatori_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 15:57:55 +0200",
-      "excerpt": "Attività anche sul telefono della madre, carta di credito usata per l'acquisto dei coltelli"
     },
     {
       "title": "Prodi: “Bene la lettera di Schlein. Virginia Libero e i disertori? Non mi pare la linea del Pd”",
@@ -742,11 +742,18 @@
   ],
   "sport": [
     {
-      "title": "Serie A: Roma-Inter termina 2-2 CRONACA e FOTO",
+      "title": "All'Olimpico un 2-2 da spettacolo, la Roma avanti e l'Inter la riprende",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-termina-2-2-cronaca-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
       "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 19:59:34 +0200",
-      "excerpt": "I nerazzurri con il lutto al braccio, per onorare Sandro Mazzola"
+      "pubDate": "Sat, 19 Sep 2026 20:32:23 +0200",
+      "excerpt": "Primo tempo giallorosso e doppietta di Kone, ripresa nerazzurra con due gol di Lautaro"
+    },
+    {
+      "title": "Serie A: Venezia-Lazio DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-venezia-lazio-diretta-e-foto_6df52126-fcd2-4cdd-9cc1-bfea86b586e4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 20:09:08 +0200",
+      "excerpt": "Il match valido per la quinta giornata di campionato"
     },
     {
       "title": "Serie A: doppiette di Koné e Lautaro, 2-2 tra Roma e Inter nella sfida al vertice",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 19:00:51 +0200",
       "excerpt": "Bandiere a mezz'asta nella sede Figc di Roma e a Coverciano. Inter con il lutto al braccio contro la Roma"
-    },
-    {
-      "title": "Juve: tegola Grabara, lesione al legamento crociato",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/juve-tegola-grabara-lesione-al-legamento-crociato_c672b342-82ac-4cda-be5d-dc12e5e48797.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 18:38:07 +0200",
-      "excerpt": "Altro grave infortunio per i bianconeri, Spalletti perde il secondo portiere"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
