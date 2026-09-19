@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T17:34:39.696Z",
+  "lastUpdated": "2026-09-19T18:08:43.554Z",
   "finanza": {
     "italia": [
       {
@@ -229,7 +229,7 @@
     ],
     "europa": [
       {
-        "title": "Vigilia da incubo per Merz e la Cdu, sotto a Berlino e in bilico in Meclemburgo",
+        "title": "Germania, vigilia da incubo per Merz e la Cdu: sotto a Berlino e in bilico in Meclemburgo",
         "link": "https://www.ilsole24ore.com/art/elezioni-germania-l-incubo-merz-e-crisi-cdu-AJh2HZHB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sat, 19 Sep 2026 17:24:00 GMT",
@@ -271,7 +271,7 @@
         "excerpt": "DUBLINO – È un rapporto ricco di cautela sui rischi connessi all’intelligenza artificiale quello presentato ieri dal Fondo monetario internazionale ai ministri delle Finanze dell’Unione europea, riuniti qui..."
       },
       {
-        "title": "La guerra contro l’Iran è costata agli Usa 45,1 miliardi di dollari, oltre stime Pentagono",
+        "title": "Houthi rivendicano: «Colpiti obiettivi sensibili a Riad e impianti Aramco a Yanbu»",
         "link": "https://www.ilsole24ore.com/art/iran-forte-esplosione-avvertita-ryad-AJSe6CIB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sat, 19 Sep 2026 07:42:00 GMT",
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Attacco Houthi su Riad, poi avvertono Roma: “Non in guerra con voi, ma con i jet sostenete i sauditi”",
+        "link": "https://www.repubblica.it/esteri/2026/09/19/news/attacco_houthi_riad_avvertono_italia_aerei_base_sostenete_guerra_sauditi-425595553/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 19 Sep 2026 19:45:39 +0200",
+        "excerpt": "Il portavoce dei ribelli yemeniti: “Non siamo in conflitto con Roma, ma ci chiediamo perché i loro aerei sono in Arabia”. Sul campo è escalation: missile sullo scalo della capitale"
+      },
+      {
+        "title": "Houthi rivendicano, 'colpiti obiettivi sensibili a Riad e impianti Aramco a Yanbu'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/houthi-rivendicano-colpiti-obiettivi-sensibili-a-riad-e-impianti-aramco-a-yanbu_04c4d8af-2179-49dd-b480-9a5d53a08e81.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 19 Sep 2026 19:36:59 +0200",
+        "excerpt": "'In risposta ai tentativi criminali del nemico saudita di attaccare la capitale'"
+      },
+      {
         "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
         "link": "https://www.investing.com/news/commodities-news/canada-optimistic-about-concluding-trade-talks-with-india-by-yearend-minister-says-4908078",
         "source": "Investing.com Commodities",
@@ -462,13 +476,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sat, 19 Sep 2026 17:56:56 +0200",
         "excerpt": "Il suo team è già arrivato negli Stati Uniti"
-      },
-      {
-        "title": "Yemen, in 24 ore 48 morti negli scontri tra Houthi e forze governative",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/yemen-in-24-ore-48-morti-negli-scontri-tra-houthi-e-forze-governative_c615921d-6d9e-4a20-9e91-fe92d830fd23.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 17:55:18 +0200",
-        "excerpt": "Fonti alla Afp: uccisi 17 soldati e 31 ribelli"
       },
       {
         "title": "La confessione della Pussy Riot: “Costretta dai servizi segreti russi a spiare i miei amici”",
@@ -534,13 +541,6 @@
         "excerpt": "Prime elezioni per la Duma dall’inizio del conflitto, messe al bando le formazioni dissidenti. Lo zar verso una vittoria scontata. I raid nella regione di Mosca rallentano le attività ai seggi"
       },
       {
-        "title": "Bin Salman e la minaccia yemenita, la solitudine del principe sotto assedio",
-        "link": "https://www.repubblica.it/esteri/2026/09/19/news/bin_salman_minaccia_yemenita-425594186/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 19 Sep 2026 01:00:00 +0200",
-        "excerpt": "Ha chiesto invano agli Usa e all’Egitto di aiutarlo contro i filoiraniani. La Cina resta in disparte e anche l’Europa tergiversa"
-      },
-      {
         "title": "Oil prices snap two-week winning streak on easing Middle East supply fears",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-for-3rd-day-as-supply-concerns-ease-diplomacy-in-focus-4906634",
         "source": "Investing.com Commodities",
@@ -572,11 +572,39 @@
   },
   "attualita": [
     {
-      "title": "Serie A: Roma-Inter 2-1 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-2-0-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "title": "8 giovani su 10 si impegnano nella vita pubblica ma le istituzioni non li ascoltano",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/09/17/8-giovani-su-10-si-impegnano-nella-vita-pubblica-ma-le-istituzioni-non-li-ascoltano_8fe1c5d0-94e5-45e6-bfce-882bfe9c939f.html",
       "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 19:27:45 +0200",
+      "pubDate": "Sat, 19 Sep 2026 19:54:20 +0200",
+      "excerpt": "Chiedono rigenerazione di spazi urbani e consiglio dei giovani sul modello Parma"
+    },
+    {
+      "title": "Gerwig, perché Meryl Streep darà la voce al leone Aslan di Narnia",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/18/gerwig-perche-meryl-streep-dara-la-voce-al-leone-aslan-di-narnia_f565c2c0-8449-454a-a76a-94fe653d4dad.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 19:51:19 +0200",
+      "excerpt": "Bowie l'ispirazione, sfondo Gb anni '50, esce in febbraio l'opera rock"
+    },
+    {
+      "title": "Serie A: Roma-Inter 2-2 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-2-2-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 19:47:27 +0200",
       "excerpt": "I nerazzurri con il lutto al braccio, per onorare Sandro Mazzola"
+    },
+    {
+      "title": "Gli Houthi: 'Non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/gli-houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono_83a5e95b-d523-4913-a557-a06ae487425b.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 19:45:08 +0200",
+      "excerpt": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'. 'Fumo e fiamme vicino all'aeroporto di Riad'. Lo riferiscono i residenti alla France Presse. Flightradar: 'Voli cancellati e in r"
+    },
+    {
+      "title": "Attacco Houthi su Riad, avvertono Roma: “Non in guerra con voi, ma con i jet sostenete i sauditi”",
+      "link": "https://www.repubblica.it/esteri/2026/09/19/news/attacco_houthi_riad_avvertono_italia_aerei_base_sostenete_guerra_sauditi-425595553/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 17:37:37 +0000",
+      "excerpt": "Il portavoce dei ribelli yemeniti: “Non siamo in conflitto con Roma, ma ci chiediamo perché i loro aerei sono in Arabia”. Sul campo è escalation: missile sullo scalo della capitale"
     },
     {
       "title": "Conte: “Programma di Nova mi onora, non disponibile a diluirlo”. E saluta Di Battista: torna con noi",
@@ -584,13 +612,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 17:18:51 +0000",
       "excerpt": "Il leader del M5S al World Join Center di Milanoparla del mandato che gli viene dato con progetto in venti punti che dovrà portare al tavolo della coalizione di centrosinistra: “Non credo al vivacchiare della politica”"
-    },
-    {
-      "title": "Conte: 'Assolverò il mandato di Nova, no al vivacchiare della politica'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/19/conte-assolvero-il-mandato-di-nova-no-al-vivacchiare-della-politica_9e587ba7-024f-4f2b-89fc-5d26d37786bf.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 19:05:06 +0200",
-      "excerpt": "'Non sono disposto a diluirlo perché diventi un galleggiare'"
     },
     {
       "title": "Roma-Inter, il secondo gol di Koné prima annullato e poi convalidato: ecco cosa è successo",
@@ -614,18 +635,18 @@
       "excerpt": "Piantato l’albero per il Senatur (oggi è l’anniversario della nascita) da Calderoli e dal co-fondatore Leoni, che commenta: “Con quale coraggio domani il segretario omaggerà il Senatur? I veri leghisti non dimenticano”"
     },
     {
-      "title": "Gli Houthi: 'Non siamo in guerra con l'Italia ma i vostri aerei sono in Arabia Saudita'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/19/gli-houthi-non-siamo-in-guerra-con-litalia-ma-i-vostri-aerei-sono_83a5e95b-d523-4913-a557-a06ae487425b.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 17:16:48 +0200",
-      "excerpt": "Il governo di Sanaa all'ANSA: 'Non vogliamo coinvolgervi, ci difendiamo dall'aggressione'. 'Fumo e fiamme vicino all'aeroporto di Riad'. Lo riferiscono i residenti alla France Presse. Flightradar: 'Voli cancellati e in r"
-    },
-    {
       "title": "Prof accoltellata, si indaga sulla rete del 13enne:”Arruolato dai gruppi suprematisti”",
       "link": "https://roma.repubblica.it/cronaca/2026/09/19/news/studente_accoltella_professoressa_centocelle_isabella_marsilio_cosa_rischia-425595269/",
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 14:08:52 +0000",
       "excerpt": "Il ragazzino ha ripreso in videochiamata l’attacco sferrato contro la docente Isabella Marsilio. Intanto anche il tribunale dei Minori ha avviato un’istruttoria: valuterà misure rieducative"
+    },
+    {
+      "title": "Professoressa accoltellata a Roma: verifiche sul cellulare del 13enne, si cercano eventuali istigatori",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/prof-accoltellata-verifiche-sul-cellulare-del-13enne-si-cercano-eventuali-istigatori_97003dfc-8c9b-4825-bd86-586bae7ac908.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 15:57:55 +0200",
+      "excerpt": "Attività anche sul telefono della madre, carta di credito usata per l'acquisto dei coltelli"
     },
     {
       "title": "Prodi: “Bene la lettera di Schlein. Virginia Libero e i disertori? Non mi pare la linea del Pd”",
@@ -649,32 +670,11 @@
       "excerpt": "Anticipiamo un estratto dal memoir di Charles Spencer, fratello di Lady D, in libreria da martedì 22 settembre. Qui racconta il legame giovanile forte con la sorella maggiore. E il boom mediatico, e le ombre, nel giorno "
     },
     {
-      "title": "Bollo auto, Dombrovskis: “Su Pnrr c’è margine per gestire la liquidità”",
-      "link": "https://www.repubblica.it/economia/2026/09/19/news/bollo_auto_dombrovskis_pnrr_margine-425595132/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 12:47:55 +0000",
-      "excerpt": "Il commissario all’Economia: “Dovrei chiarire dichiarazioni di Giorgetti”"
-    },
-    {
       "title": "America's Got Talent, in finale un ballerino con un gruppo di robot umanoidi",
       "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/19/americas-got-talent-in-finale-un-ballerino-cinese-con-un-gruppo-di-robot-umanoidi_f65a7a12-ba22-42d4-8219-56e7ac5c748b.html",
       "source": "ANSA",
       "pubDate": "Sat, 19 Sep 2026 14:25:43 +0200",
       "excerpt": "Sviluppati dall'azienda Unitree, eseguono coreografie sincronizzate e mosse di kung fu"
-    },
-    {
-      "title": "Gerwig, perché Meryl Streep darà la voce al leone Aslan di Narnia",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/18/gerwig-perche-meryl-streep-dara-la-voce-al-leone-aslan-di-narnia_f565c2c0-8449-454a-a76a-94fe653d4dad.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 09:32:42 +0200",
-      "excerpt": "Bowie l'ispirazione, sfondo Gb anni '50, esce in febbraio l'opera rock"
-    },
-    {
-      "title": "8 giovani su 10 si impegnano nella vita pubblica ma le istituzioni non li ascoltano",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/09/17/8-giovani-su-10-si-impegnano-nella-vita-pubblica-ma-le-istituzioni-non-li-ascoltano_8fe1c5d0-94e5-45e6-bfce-882bfe9c939f.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 18 Sep 2026 19:27:49 +0200",
-      "excerpt": "Chiedono rigenerazione di spazi urbani e consiglio dei giovani sul modello Parma"
     },
     {
       "title": "Il Gruppo Barilla presenta il nuovo piano industriale per il mezzogiorno",
@@ -742,18 +742,25 @@
   ],
   "sport": [
     {
+      "title": "Serie A: Roma-Inter termina 2-2 CRONACA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-termina-2-2-cronaca-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 19:59:34 +0200",
+      "excerpt": "I nerazzurri con il lutto al braccio, per onorare Sandro Mazzola"
+    },
+    {
+      "title": "Serie A: doppiette di Koné e Lautaro, 2-2 tra Roma e Inter nella sfida al vertice",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-doppiette-di-kone-e-lautaro-2-2-tra-roma-e-inter-nella-sfida-al-vertice_1586b30f-7d7d-4ba9-8f93-cdbe2c73ece9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 19 Sep 2026 19:59:27 +0200",
+      "excerpt": "L'argentino risponde al francese, per Lazio e Como chance di primato"
+    },
+    {
       "title": "Calcio: l'Arsenal crolla 3-0 a Brighton, Arteta 'che ci sia di lezione'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-larsenal-crolla-3-0-a-brighton-arteta-che-ci-sia-di-lezione_2768d25d-b2a7-4920-a806-27524014ebef.html",
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 19:28:01 +0200",
       "excerpt": "Stop per i Gunners, finora a punteggio pieno. Domani chance per il City"
-    },
-    {
-      "title": "Serie A: Roma-Inter 2-1 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-roma-inter-2-0-diretta-e-foto_9dee726b-13e0-4040-b6f8-fa5250cb001f.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 19:27:45 +0200",
-      "excerpt": "I nerazzurri con il lutto al braccio, per onorare Sandro Mazzola"
     },
     {
       "title": "L'Italia piange Sandro Mazzola: 'Eri il figlio del calcio'",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 18:38:07 +0200",
       "excerpt": "Altro grave infortunio per i bianconeri, Spalletti perde il secondo portiere"
-    },
-    {
-      "title": "Serie A: Zaniolo, 'felice di essere tornato, la Nazionale era il mio sogno'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-zaniolo-felice-di-essere-tornato-la-nazionale-era-il-mio-sogno_8a346637-4eda-497e-b27a-c66ecd25481f.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 18:30:25 +0200",
-      "excerpt": "'Contro il Cagliari volevamo vincere, ora bisogna rimediare'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
