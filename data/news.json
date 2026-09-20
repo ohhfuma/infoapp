@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T07:37:02.848Z",
+  "lastUpdated": "2026-09-20T08:08:13.232Z",
   "finanza": {
     "italia": [
       {
@@ -229,6 +229,13 @@
     ],
     "europa": [
       {
+        "title": "Trump lancia la “AI Force”: «Non soffocheremo la crescita dell’intelligenza artificiale»",
+        "link": "https://www.ilsole24ore.com/art/trump-lancia-ai-force-non-soffocheremo-crescita-dell-intelligenza-artificiale-AJgbaxIB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Sun, 20 Sep 2026 07:51:35 GMT",
+        "excerpt": "Il presidente Usa Donald Trump ha annunciato la creazione di una “AI Force” per sostenere lo sviluppo dell’intelligenza artificiale negli Stati uniti e ha promesso che la sua amministrazione non..."
+      },
+      {
         "title": "Droni ucraini colpiscono una raffineria nella regione di Mosca, due morti",
         "link": "https://www.ilsole24ore.com/art/droni-ucraini-colpiscono-raffineria-regione-mosca-due-morti-AJm4ywIB",
         "source": "Il Sole 24 Ore Mondo",
@@ -276,13 +283,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sat, 19 Sep 2026 11:32:33 GMT",
         "excerpt": "Correva l’anno 2014. Le applicazioni per giocare da smartphone e tablet stavano vivendo il loro periodo d’oro. Tra le più popolari, in Italia, c’erano «My talking Tom» e l’amica «My..."
-      },
-      {
-        "title": "L’AI espone al rischio il 60% dei posti di lavoro in Europa: Italia a metà classifica",
-        "link": "https://www.ilsole24ore.com/art/l-ai-espone-rischio-60percento-posti-lavoro-europa-italia-meta-classifica-AJpSbJIB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Sat, 19 Sep 2026 11:21:00 GMT",
-        "excerpt": "DUBLINO – È un rapporto ricco di cautela sui rischi connessi all’intelligenza artificiale quello presentato ieri dal Fondo monetario internazionale ai ministri delle Finanze dell’Unione europea, riuniti qui..."
       },
       {
         "title": "HWH International to change name to EnerSyn Global, ticker to ESYN on Nasdaq",
@@ -400,6 +400,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Ghalibaf, 'se non saranno soddisfatte le nostre condizioni Hormuz resterà chiuso'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/ghalibaf-se-non-saranno-soddisfatte-le-nostre-condizioni-hormuz-restera-chiuso_29156ac9-a55d-43b7-8551-ad9b906ef468.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 09:35:20 +0200",
+        "excerpt": "'Bisogna sia combattere che negoziare'"
+      },
       {
         "title": "Seul, 'la Corea del Nord ha lanciato un proiettile verso il mar del Giappone'",
         "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/20/seul-la-corea-del-nord-ha-lanciato-un-proiettile-verso-il-mar-del-giappone_c2c4a65f-bcca-4341-b26c-c82e81167e57.html",
@@ -520,13 +527,6 @@
         "excerpt": ""
       },
       {
-        "title": "Houthi rivendicano, 'colpiti obiettivi sensibili a Riad e impianti Aramco a Yanbu'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/houthi-rivendicano-colpiti-obiettivi-sensibili-a-riad-e-impianti-aramco-a-yanbu_04c4d8af-2179-49dd-b480-9a5d53a08e81.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 19:36:59 +0200",
-        "excerpt": "'In risposta ai tentativi criminali del nemico saudita di attaccare la capitale'"
-      },
-      {
         "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
         "link": "https://www.investing.com/news/commodities-news/canada-optimistic-about-concluding-trade-talks-with-india-by-yearend-minister-says-4908078",
         "source": "Investing.com Commodities",
@@ -572,18 +572,39 @@
   },
   "attualita": [
     {
+      "title": "Mosca: '1.110 droni lanciati dagli ucraini sulla Russia la scorsa notte'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/allarme-per-droni-in-volo-su-kiev-raid-su-mosca_a2b0173b-8bb7-44a0-947e-7cca5ba92364.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 10:05:14 +0200",
+      "excerpt": "Il ministero della Difesa russo: 'A Kiev bombardati una fabbrica di componenti elettronici e un centro dati, a Odessa una nave e un centro logistico'"
+    },
+    {
       "title": "Trump anticipa il rientro da Camp David e torna alla Casa Bianca",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/trump-anticipa-il-rientro-da-camp-david-e-torna-alla-casa-bianca_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 09:15:24 +0200",
+      "pubDate": "Sun, 20 Sep 2026 09:55:17 +0200",
       "excerpt": "Il presidente è arrivato attorno alle 2 di mattina ora italiana"
     },
     {
-      "title": "Raid di droni ucraini su Mosca, almeno due morti",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/allarme-per-droni-in-volo-su-kiev-raid-su-mosca_a2b0173b-8bb7-44a0-947e-7cca5ba92364.html",
+      "title": "A Pontida le magliette pro e contro Salvini, 'sempre con lui', 'si dimetta subito'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-pontida-le-magliette-pro-e-contro-salvini-sempre-con-lui-si-dimetta-subito_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 09:12:46 +0200",
-      "excerpt": "Colpita una raffineria nei dintorni della capitale russa e un monastero a Kherson"
+      "pubDate": "Sun, 20 Sep 2026 09:52:09 +0200",
+      "excerpt": "Derby dei militanti prima del raduno del partito. Romeo sul palco alle 10.30"
+    },
+    {
+      "title": "De Cataldo: 'Romanzo Criminale in lirica è un sogno che si avvera'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/19/de-cataldo-romanzo-criminale-in-lirica-e-un-sogno-che-si-avvera_8308a0da-d7fb-4fef-a5b7-7ee624913fbc.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 09:30:09 +0200",
+      "excerpt": "L'ex magistrato premiato a Capalbio, racconta anche il nuovo progetto su Matteotti"
+    },
+    {
+      "title": "Shakira a Madrid, concerto per oltre 50mila fan",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/19/shakira-ipnotizza-50mila-fan-a-madrid-io-lupa-torno-al-mio-branco_7d9066c8-0254-47e7-84f2-9dac9addb68c.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 09:29:31 +0200",
+      "excerpt": "Inaugurata la residency che prevede 12 concerti e spettacoli e appuntamenti in città"
     },
     {
       "title": "Juve, c’è Sarri per spazzare via la crisi. Spalletti perde anche Grabara, stagione finita",
@@ -591,13 +612,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 07:07:15 +0000",
       "excerpt": "Alle 18 la sfida contro l’Atalanta del tecnico toscano, mai entrato nel cuore dei tifosi bianconeri. Servono i tre punti per dimenticare il ko di Sassuolo. Il portiere polacco si rompe il crociato"
-    },
-    {
-      "title": "Leader Hezbollah: 'La resistenza è l'unica via per liberare la nostra terra'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/leader-hezbollah-la-resistenza-e-lunica-via-per-liberare-la-nostra-terra_57eef5a5-0e47-49d7-8187-ade7360bb11b.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 08:24:45 +0200",
-      "excerpt": "'L'Iran ha vinto, la causa palestinese rimane una questione centrale'"
     },
     {
       "title": "Maxi-concorso Mic, pasticcio infinito: 200mila candidati per 1.800 posti ancora in attesa",
@@ -649,32 +663,18 @@
       "excerpt": "L’analista: “Solo la Cina potrebbe fermare il conflitto: se ci riuscisse farebbe un grande colpo aumentando ulteriormente la sua influenza regionale”"
     },
     {
-      "title": "Oktoberfest al via, torna la festa della birra",
-      "link": "https://www.ansa.it/sito/photogallery/curiosita/2026/09/19/oktoberfest-al-via-torna-la-festa-della-birra_6c2ca671-8cb8-468b-b582-ed2c73df4392.html",
+      "title": "Scrivania al centro, back to work tra stress in ufficio e spazio di lavoro",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/design_giardino/2026/09/19/scrivania-al-centro-back-to-work-tra-stress-in-ufficio-e-spazio-di-lavoro_0afa5a96-62b1-4326-ab75-e53aca55570c.html",
       "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 21:59:26 +0200",
-      "excerpt": "Oktoberfest al via, torna la festa della birra"
+      "pubDate": "Sat, 19 Sep 2026 19:47:45 +0200",
+      "excerpt": "Illuminazione, ordine, spazi per migliorare dove lavoriamo"
     },
     {
-      "title": "8 giovani su 10 si impegnano nella vita pubblica ma le istituzioni non li ascoltano",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/09/17/8-giovani-su-10-si-impegnano-nella-vita-pubblica-ma-le-istituzioni-non-li-ascoltano_8fe1c5d0-94e5-45e6-bfce-882bfe9c939f.html",
+      "title": "Jean Dubuffet e i vitalissimi ultimi anni",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/19/jean-dubuffet-e-i-vitalissimi-ultimi-anni_3b036e69-967c-4114-a7e9-4cf431026e41.html",
       "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 19:54:20 +0200",
-      "excerpt": "Chiedono rigenerazione di spazi urbani e consiglio dei giovani sul modello Parma"
-    },
-    {
-      "title": "Gerwig, perché Meryl Streep darà la voce al leone Aslan di Narnia",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/18/gerwig-perche-meryl-streep-dara-la-voce-al-leone-aslan-di-narnia_f565c2c0-8449-454a-a76a-94fe653d4dad.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 19:51:19 +0200",
-      "excerpt": "Bowie l'ispirazione, sfondo Gb anni '50, esce in febbraio l'opera rock"
-    },
-    {
-      "title": "America's Got Talent, in finale un ballerino con un gruppo di robot umanoidi",
-      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/19/americas-got-talent-in-finale-un-ballerino-cinese-con-un-gruppo-di-robot-umanoidi_f65a7a12-ba22-42d4-8219-56e7ac5c748b.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 14:25:43 +0200",
-      "excerpt": "Sviluppati dall'azienda Unitree, eseguono coreografie sincronizzate e mosse di kung fu"
+      "pubDate": "Sat, 19 Sep 2026 18:17:02 +0200",
+      "excerpt": "Alla Fondation che porta il suo nome fino al 20 ottobre ''Pulsioni''"
     },
     {
       "title": "Il Gruppo Barilla presenta il nuovo piano industriale per il mezzogiorno",
