@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T19:06:35.964Z",
+  "lastUpdated": "2026-09-20T19:34:44.159Z",
   "finanza": {
     "italia": [
       {
@@ -219,14 +219,14 @@
         "link": "https://www.ilsole24ore.com/art/wsj-trump-si-prepara-imporre-sanzioni-corte-penale-internazionale-AJP0nNJB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sun, 20 Sep 2026 18:53:00 GMT",
-        "excerpt": "L’amministrazione Trump si prepara a imporre sanzioni di ampia portata contro la Corte Penale Internazionale. Lo riporta il Wall Street Journal citando alcune fonti, secondo le quali le sanzioni vieterebbero..."
+        "excerpt": "L’amministrazione Trump si prepara a imporre sanzioni su larga scala contro la Corte penale internazionale, in una nuova escalation dello scontro con il tribunale dell’Aia dopo i mandati d’arresto emessi..."
       },
       {
-        "title": "Tv, il partito Russia Unita di Putin vince le elezioni con il 49,4% ",
+        "title": "Russia, partito pro-Putin riconferma vittoria schiacciante alla Duma",
         "link": "https://www.ilsole24ore.com/art/tv-partito-russia-unita-putin-vince-elezioni-il-494percento-AJITKLJB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sun, 20 Sep 2026 18:18:00 GMT",
-        "excerpt": "Il partito Russia Unita di Vladimir Putin ha vinto le elezioni per il rinnovo della Duma (la camera bassa del Parlamento) con il 49,4% dei voti, secondo un exit poll..."
+        "excerpt": "Tutto come previsto. Secondo un primo exit poll diffuso dalla televisione di Stato russa, il partito Russia Unita di Vladimir Putin ha vinto le elezioni per il rinnovo della Duma..."
       },
       {
         "title": "Usa: verso 1.000 miliardi di dollari di nuovo debito nel 2027",
@@ -243,7 +243,7 @@
         "excerpt": "(Il Sole 24 Ore Radiocor) - Milano, 20 set - Arrivano i primi exit poll dall’ultima tornata elettorale in Germania. AfD al 37% in Meclemburgo-Pomerania, davanti alla Spd al 35,5%,..."
       },
       {
-        "title": "Proiezioni: la Linke primo partito a Berlino. Afd sopra al 37% in Meclemburgo. Merz: avanti con le riforme",
+        "title": "La Linke primo partito a Berlino. Afd sopra al 37% in Meclemburgo. Merz: avanti con le riforme",
         "link": "https://www.ilsole24ore.com/art/exit-poll-linke-primo-partito-berlino-cdu-salva-un-soffio-meclemburgo-AJSiBxIB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sun, 20 Sep 2026 16:13:00 GMT",
@@ -561,7 +561,7 @@
       "title": "Germania, proiezioni: l'AfD prima in Pomerania, la Linke vince a Berlino. Merz: 'Un disastro'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/germania-proiezioni-lafd-prima-in-pomerania-la-linke-vince-a-berlino.-merz-un-disastro_e858bc98-bac2-4f2f-a7ce-abd390ca6baf.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 21:01:50 +0200",
+      "pubDate": "Sun, 20 Sep 2026 21:30:44 +0200",
       "excerpt": "Elif Eralp, la candidata della sinistra della Linke: 'Care berlinesi e cari berlinesi, oggi abbiamo scritto la storia'. Il cancelliere non lascia: 'Avanti con le riforme'. Alice Weidel: 'Merz tragga le conseguenze, noi i"
     },
     {
@@ -728,10 +728,17 @@
   ],
   "sport": [
     {
+      "title": "Mondiali di ciclismo: Evenepoel vince ancora la sfida a crono, argento per Ganna",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/20/mondiali-di-ciclismo-evenepoel-vince-ancora-la-sfida-a-crono-argento-per-ganna_405461e8-3504-4ec3-a65c-b75ac56f805a.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 21:17:58 +0200",
+      "excerpt": "Quarto trionfo di fila per il belga, in 3 di questi l'azzurro secondo. Seixas bronzo"
+    },
+    {
       "title": "Serie A: Conceicao più Bremer, la Juve batte l'Atalanta ed è a -3 dalla vetta",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-juventus-atalanta-2-0_64b2f6be-3aa2-476e-9403-48b2a88a021b.html",
       "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 20:39:11 +0200",
+      "pubDate": "Sun, 20 Sep 2026 21:17:05 +0200",
       "excerpt": "Un gol per tempo per superare la Dea, Sarri al terzo stop di fila"
     },
     {
@@ -775,13 +782,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 19:29:51 +0200",
       "excerpt": "La carica del presidente Figc Malagò: \"Avanti così, ragazze\""
-    },
-    {
-      "title": "Fabregas 'abbiamo perso dopo 5 mesi, dal Frosinone grande prestazione'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/fabregas-abbiamo-perso-dopo-5-mesi-dal-frosinone-grande-prestazione_5fec8382-58d2-47fe-ac77-c488e2f045fa.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 19:14:26 +0200",
-      "excerpt": "'Non è stata la nostra giornata migliore, sofferto i loro contropiedi'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
