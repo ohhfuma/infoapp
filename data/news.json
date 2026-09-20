@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-20T13:06:57.739Z",
+  "lastUpdated": "2026-09-20T13:36:51.328Z",
   "finanza": {
     "italia": [
+      {
+        "title": "La Sportiva, dal Trentino l’azienda che dice “no” agli scarponi militari",
+        "link": "https://www.repubblica.it/economia/2026/09/20/news/la_sportiva_azienda_trentino_no_scarponi_militari-425596550/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 20 Sep 2026 15:19:06 +0200",
+        "excerpt": "L’amministratore delegato Delladio racconta di un bilancio leggermente positivo mentre il settore outdoor è in affanno: “La qualità prima dei fatturati”"
+      },
       {
         "title": "Volvo Cars nomina Klaus Zellmer come prossimo CEO",
         "link": "https://it.investing.com/news/stock-market-news/volvo-cars-nomina-klaus-zellmer-come-prossimo-ceo-93CH-3555415",
@@ -59,11 +66,11 @@
         "excerpt": "Gli analisti vendono opportunità di crescita con investimenti e intelligenza artificiale"
       },
       {
-        "title": "Pontida, la mossa di Salvini: congresso straordinario a ottobre per stanare il fronte nordista",
+        "title": "Pontida, la mossa di Salvini: congresso straordinario a ottobre per non farsi logorare e sfidare il fronte nordista",
         "link": "https://www.ilsole24ore.com/art/al-via-pontida-oggi-e-giorno-big-attesa-salvini-AJpmzyIB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 20 Sep 2026 08:22:00 GMT",
-        "excerpt": "Dal nostro inviato a PONTIDA (BERGAMO) - «Non voglio divisioni, voglio unità, serenità, determinazione. Domani convocherò il Consiglio federale della Lega a Milano e proporrò di convocare nel mese di..."
+        "excerpt": "PONTIDA (BERGAMO) - Prima la richiesta di un mandato al popolo di Pontida per la prossima legge di bilancio, per portare sul tavolo degli alleati impegni certi per superare la..."
       },
       {
         "title": "Fisco, in arrivo l’autunno caldo delle dichiarazioni dal 730 al concordato",
@@ -113,13 +120,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sun, 20 Sep 2026 01:00:00 +0200",
         "excerpt": "Alessandro semplifica la governance della holding di famiglia verso il nuovo piano al 2030. Il gruppo mantiene affidabilità creditizia anche dopo l’uscita da 3,5 miliardi di Giuliana"
-      },
-      {
-        "title": "Gopinath: “L’IA è un rischio. Usa e Cina si accordino per garantire la sicurezza”",
-        "link": "https://www.repubblica.it/economia/2026/09/20/news/gopinath_serve_un_intesa_tra_stati_uniti_e_cina_sull_ia_e_un_rischio_e_va_governata-425595732/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 20 Sep 2026 01:00:00 +0200",
-        "excerpt": "L’economista americana ex vicedirettrice dell’Fmi enuncia: “Ci stiamo affidando alla sorte. La politica è indietro”. L’intelligenza artificiale “può diffondere prosperità oppure concentrarla nelle mani di pochi”"
       },
       {
         "title": "Gli sforzi per la sicurezza dell’IA richiederanno più potenza di calcolo",
@@ -243,11 +243,11 @@
         "excerpt": "Il presidente Usa Donald Trump ha annunciato la creazione di una “AI Force” per sostenere lo sviluppo dell’intelligenza artificiale negli Stati uniti e ha promesso che la sua amministrazione non..."
       },
       {
-        "title": "Droni ucraini colpiscono una raffineria nella regione di Mosca, due morti",
+        "title": "L’Ucraina colpisce Mosca con il più grande attacco di droni di sempre. Zelensky: colpita «una delle principali aziende petrolifere»",
         "link": "https://www.ilsole24ore.com/art/droni-ucraini-colpiscono-raffineria-regione-mosca-due-morti-AJm4ywIB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sun, 20 Sep 2026 06:45:00 GMT",
-        "excerpt": "Le autorità russe hanno riferito che Mosca e la regione circostante sono state prese di mira da centinaia di droni nelle prime ore del giorno, causando almeno due morti e..."
+        "excerpt": "L’Ucraina ha colpito Mosca con quello che le autorità locali hanno definito il più grande attacco con droni mai sferrato contro la capitale, incendiando un’importante raffineria di petrolio e uccidendo..."
       },
       {
         "title": "Cnn, Politico e Ms Now sfidano Trump: «Difenderemo la libertà di stampa»",
@@ -400,6 +400,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Iran warns against new escalation by US and allies",
+        "link": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-20 13:24:32",
+        "excerpt": ""
+      },
       {
         "title": "Media, 'a Ceuta circa 1.000 minori senza un posto in cui dormire'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/media-a-ceuta-circa-1.000-minori-senza-un-posto-in-cui-dormire_4adb5bbb-f36f-4920-8f76-adeb060b735d.html",
@@ -560,23 +567,23 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-18 20:41:57",
         "excerpt": ""
-      },
-      {
-        "title": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-1-on-hopes-of-limited-supply-disruptions-4906600",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-18 20:00:29",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
     {
-      "title": "++ Sorelline ritrovate, portate in comunità insieme ai 4 fratelli ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/20/-sorelline-ritrovate-portate-in-comunita-insieme-ai-4-fratelli-_cebbbe3c-5d62-4511-bafa-dcdf0a269134.html",
+      "title": "Meloni: 'In classe numero massimo di stranieri e divieto di burqa, norma in arrivo'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 14:50:40 +0200",
-      "excerpt": "I sei minori vivevano con il padre"
+      "pubDate": "Sun, 20 Sep 2026 15:07:47 +0200",
+      "excerpt": "La premier alla festa dei giovani di Fdi: 'Immensamente fiera di voi'"
+    },
+    {
+      "title": "Serie A, in campo Frosinone-Como DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-frosinone-como-in-campo-diretta_a16575d6-66fe-4050-b634-b38b963e6302.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 15:00:24 +0200",
+      "excerpt": "Si gioca la quinta giornata di campionato"
     },
     {
       "title": "Il fratello di Lady D.: “Harry e Meghan sono stati maltrattati dai media come la principessa Diana”",
@@ -584,13 +591,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 12:20:30 +0000",
       "excerpt": "Charles Spencer in un’intervista alla Bbc: “Peccato che la lezione di quello che è successo a lei non sia stata appresa”"
-    },
-    {
-      "title": "Meloni: 'In classe numero massimo di stranieri e divieto di burqa, norma in arrivo'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 14:14:38 +0200",
-      "excerpt": "La premier alla festa dei giovani di Fdi: 'Immensamente fiera di voi'"
     },
     {
       "title": "Sorprende i ladri nel cortile di casa, spara e ne uccide uno",
@@ -742,17 +742,24 @@
   ],
   "sport": [
     {
+      "title": "Serie A: Allegri, 'usciamo arrabbiati dal campo, dovevamo vincere'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-allegri-usciamo-arrabbiati-dal-campo-dovevamo-vincere_6cc54cfa-76cd-45ec-9a1e-57c2d04aee48.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 15:27:33 +0200",
+      "excerpt": "Il tecnico del Napoli: \"Vanno risolti i problemi in attacco\""
+    },
+    {
+      "title": "Milano si prepara a dire addio a Sandro Mazzola, lutto cittadino e bandiere a mezz'asta ",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/20/domani-a-milano-i-funerali-di-sandro-mazzola_0cfc7294-fd9d-404c-9f1c-0b3aa02d13e5.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 15:03:04 +0200",
+      "excerpt": "Lunedì per volontà della famiglia niente tv e fotografi in Basilica"
+    },
+    {
       "title": "Serie A, in campo Parma-Genoa DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-parma-genoa-in-campo-diretta_8852d9e7-1382-4d2b-91aa-eb29aab14c47.html",
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 15:01:56 +0200",
-      "excerpt": "Si gioca la quinta giornata di campionato"
-    },
-    {
-      "title": "Serie A, in campo Frosinone-Como DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-frosinone-como-in-campo-diretta_a16575d6-66fe-4050-b634-b38b963e6302.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 15:00:24 +0200",
       "excerpt": "Si gioca la quinta giornata di campionato"
     },
     {
@@ -768,13 +775,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 14:31:32 +0200",
       "excerpt": "Si gioca la quinta giornata di campionato"
-    },
-    {
-      "title": "Domani a Milano i funerali di Sandro Mazzola",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/20/domani-a-milano-i-funerali-di-sandro-mazzola_0cfc7294-fd9d-404c-9f1c-0b3aa02d13e5.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 14:12:33 +0200",
-      "excerpt": "Per volontà della famiglia niente tv e fotografi in Basilica, bandiere a mezz'asta"
     },
     {
       "title": "Domani i funerali di Sandro Mazzola, niente tv e fotografi in Basilica",
