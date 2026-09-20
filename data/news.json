@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T15:07:38.227Z",
+  "lastUpdated": "2026-09-20T15:37:09.454Z",
   "finanza": {
     "italia": [
       {
@@ -380,6 +380,13 @@
     ],
     "mondo": [
       {
+        "title": "Iran warns against new escalation by US and allies",
+        "link": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-20 15:06:39",
+        "excerpt": ""
+      },
+      {
         "title": "Trump: 'Deciderò se e quando far esplodere l'Iran, si comportino bene'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/trump-decidero-se-e-quando-far-esplodere-liran-si-comportino-bene_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
         "source": "ANSA Mondo",
@@ -406,13 +413,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 20 Sep 2026 15:45:52 +0200",
         "excerpt": "Riprendono i rapporti tra i due Paesi, prosegue il dialogo interno con l'opposizione"
-      },
-      {
-        "title": "Iran warns against new escalation by US and allies",
-        "link": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-20 13:24:32",
-        "excerpt": ""
       },
       {
         "title": "Media, 'a Ceuta circa 1.000 minori senza un posto in cui dormire'",
@@ -551,6 +551,13 @@
   },
   "attualita": [
     {
+      "title": "Serie A, Frosinone-Como 2-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-frosinone-como-2-0_a16575d6-66fe-4050-b634-b38b963e6302.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 17:09:43 +0200",
+      "excerpt": "Si è giocata la quinta giornata di campionato"
+    },
+    {
       "title": "Meloni: 'In classe numero massimo di stranieri e divieto di burqa, norma in arrivo'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
       "source": "ANSA",
@@ -562,7 +569,7 @@
       "link": "https://www.repubblica.it/politica/2026/09/20/news/vannacci_enea_ulisse_patriarcato_mediterraneo_orvieto-425596675/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 14:45:47 +0000",
-      "excerpt": "Il generale alla convention di Futuro nazionale a Orvieto: “L’eroe omerico non cede alla bellezza di Circe, non cede alle lusinghe, ma torna dalla moglie, e quando arriva stermina i proci e difende la propria famiglia”"
+      "excerpt": "L’ex generale alla convention di Futuro nazionale a Orvieto: “L’eroe omerico non cede alla bellezza di Circe, non cede alle lusinghe, ma torna dalla moglie, e quando arriva stermina i proci e difende la propria famiglia”"
     },
     {
       "title": "La mossa del congresso tenuta segreta. Salvini spiazza i frondisti: “Non ce l’aspettavamo”",
@@ -579,18 +586,11 @@
       "excerpt": "Il presidente Usa anticipa il rientro da Camp David e torna alla Casa Bianca"
     },
     {
-      "title": "Tetto agli stranieri in classe, il capo dei presidi: “Condivisibile ma difficile da attuare”",
+      "title": "Tetto agli stranieri in classe, il capo dei presidi: “Difficile da attuare, alunni vanno accolti”",
       "link": "https://www.repubblica.it/cronaca/2026/09/20/news/scuola_tetto_stranieri_presidi_antonello_giannelli-425596634/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 14:23:56 +0000",
       "excerpt": "Giannelli risponde con una domanda alla premier Meloni: “Se nel quartiere prevalgono gli stranieri, che facciamo non li accettiamo a scuola?”"
-    },
-    {
-      "title": "Serie A, in campo Frosinone-Como DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-frosinone-como-in-campo-diretta_a16575d6-66fe-4050-b634-b38b963e6302.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 16:06:28 +0200",
-      "excerpt": "Si gioca la quinta giornata di campionato"
     },
     {
       "title": "Troia, dagli scavi emerge un’agorà: potrebbe riscrivere la storia della città dopo la guerra omerica",
@@ -614,18 +614,18 @@
       "excerpt": "Lo spagnolo della Ktm trionfa sul Red Bull Ring precedendo le due Aprilia e Ogura"
     },
     {
+      "title": "La tuta di Keely: con lei l’atletica diventa glamour",
+      "link": "https://www.repubblica.it/sport/vari/2026/09/20/news/la_tuta_di_keely_con_lei_l_atletica_diventa_glamour-425596530/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 12:55:11 +0000",
+      "excerpt": "L’abbigliamento da gara studiato da Hodgkinson con lo sponsor non aiuta soltanto a correre più veloce: un foro nel cappuccio per far passare la coda, “Perché quando corro voglio avere un bell’aspetto”"
+    },
+    {
       "title": "Il fratello di Lady D.: “Harry e Meghan sono stati maltrattati dai media come la principessa Diana”",
       "link": "https://www.repubblica.it/esteri/2026/09/20/news/charles_spencer_libro_harry_meghan_maltrattati_media_come_principessa_diana-425596502/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 12:20:30 +0000",
       "excerpt": "Charles Spencer in un’intervista alla Bbc: “Peccato che la lezione di quello che è successo a lei non sia stata appresa”"
-    },
-    {
-      "title": "Il matrimonio di Trump Jr. pagato dall’oligarca russo, il tycoon lo difende: “Ma restituirà i soldi”",
-      "link": "https://www.repubblica.it/esteri/2026/09/20/news/matrimonio_trump_jr_pagato_oligarca_russo_tycoon_difende_ma_restituira_soldi-425596447/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 10:50:08 +0000",
-      "excerpt": "Il presidente americano, pur definendo “perfettamente lecito” il finanziamento di Umar Kremlev per la festa alle Bahamas, ha assicurato che suo figlio ridarà la cifra usata per il ricevimento post nozze"
     },
     {
       "title": "De Cataldo: 'Romanzo Criminale in lirica è un sogno che si avvera'",
@@ -721,60 +721,60 @@
   ],
   "sport": [
     {
+      "title": "Mondiali di ciclismo: Reusser oro nella crono, quarta Longo Borghini",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/20/mondiali-di-ciclismo-reusser-oro-nella-crono-quarta-longo-borghini_398c1ee4-34c8-4fe3-8e35-773914524084.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 17:30:28 +0200",
+      "excerpt": "La svizzera fa 35 anni e festeggia con il bis. Argento Backstedt, bronzo Koch"
+    },
+    {
+      "title": "Mondiali ciclismo: Reusser oro nella crono, quarta Longo Borghini",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/20/mondiali-ciclismo-reusser-oro-nella-crono-quarta-longo-borghini_c5f661f8-f933-4a75-bd72-bb3a3703b920.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 17:28:13 +0200",
+      "excerpt": "La svizzera fa 35 anni e festeggia con il bis. Argento Backstedt, bronzo Koch"
+    },
+    {
+      "title": "Serie A: prima vittoria del Parma, Genoa ko e De Rossi ora rischia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-parma-genoa-2-1_8852d9e7-1382-4d2b-91aa-eb29aab14c47.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 17:20:33 +0200",
+      "excerpt": "Cuesta sorride, Romero e Alqmvist regalano i tre punti"
+    },
+    {
+      "title": "Serie A: Juventus-Atalanta in campo alle 18 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-juventus-atalanta-in-campo-alle-18-diretta_64b2f6be-3aa2-476e-9403-48b2a88a021b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 17:12:54 +0200",
+      "excerpt": "Il tecnico trova la Juventus: 'Anno di costruzione, obiettivi nel medio periodo'"
+    },
+    {
+      "title": "Premier: il City fa 5-3 ed è solo in vetta, vittoria da ex per Iraola",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/premier-il-city-fa-5-3-ed-e-solo-in-vetta-vittoria-da-ex-per-iraola_8b2c6cc9-1add-4c5f-ad12-fff62c7df089.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 17:12:09 +0200",
+      "excerpt": "La squadra di Maresca batte il Sunderland, il Liverpool espugna Bournemouth"
+    },
+    {
+      "title": "Serie A: il Frosinone di Alvini sorprende il Como, il Parma batte il Genoa 2-1",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-il-frosinone-di-alvini-sorprende-il-como-il-parma-batte-il-genoa-2-1_25f030de-e6b1-4ccb-a924-6b386180ea9d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 17:11:31 +0200",
+      "excerpt": "Allo Stirpe finisce 2-0 con i gol di Calò e Kvernadze. De Rossi rischia"
+    },
+    {
+      "title": "Serie A, Frosinone-Como 2-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-frosinone-como-2-0_a16575d6-66fe-4050-b634-b38b963e6302.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 17:09:43 +0200",
+      "excerpt": "Si è giocata la quinta giornata di campionato"
+    },
+    {
       "title": "Rugby: Italia ancora allo Stadium 'ci sarà un'atmosfera bellissima'",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/20/rugby-italia-ancora-allo-stadium-ci-sara-unatmosfera-bellissima_db4698be-f40d-48cf-b248-56e64aa1cb56.html",
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 17:01:55 +0200",
       "excerpt": "Contro il Sudafrica il 7 novembre. Carretta, 'pronti per il Sei Nazioni'"
-    },
-    {
-      "title": "Serie A, Parma-Genoa 2-1",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-parma-genoa-2-1_8852d9e7-1382-4d2b-91aa-eb29aab14c47.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 17:00:59 +0200",
-      "excerpt": "Si è giocata la quinta giornata di campionato"
-    },
-    {
-      "title": "Impresa Van der Poel, vince dopo un assolo di 175 km al Giro del Lussemburgo",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/20/impresa-van-der-poel-vince-dopo-un-assolo-di-175-km-al-giro-del_1247a989-4cc9-4126-9ffe-53ad3eb8e14b.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 16:39:26 +0200",
-      "excerpt": "L'olandese imprendibile nell'ultima tappa, Piganzoli fa sua la generale"
-    },
-    {
-      "title": "Fiorentina: Vanoli, 'con il Napoli bella reazione da squadra vera\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/fiorentina-vanoli-con-il-napoli-bella-reazione-da-squadra-vera_dd66fa15-5e01-474d-bb08-ae4c62504a68.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 16:28:43 +0200",
-      "excerpt": "\"Non dobbiamo guardare alla classifica ma a quello che stiamo facendo\""
-    },
-    {
-      "title": "Serie A: il Napoli non decolla, segna Gilmour ma la Fiorentina lo riprende",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-1-1_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 15:45:00 +0200",
-      "excerpt": "Jimenez regala un punto ai viola, per la squadra di Allegri la vetta resta lontana"
-    },
-    {
-      "title": "Calcio: 'situazione eccezionale', Spagna-Messico U20 non si gioca a Ceuta",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-situazione-eccezionale-spagna-messico-u20-non-si-gioca-a-ceuta_6c59ffa4-073e-4b52-a33a-fb34964a3295.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 15:40:13 +0200",
-      "excerpt": "La Polizia sconsigliava il match nell'exclave, la federazione lo sposta a Madrid"
-    },
-    {
-      "title": "Serie A: Allegri, 'usciamo arrabbiati dal campo, dovevamo vincere'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-allegri-usciamo-arrabbiati-dal-campo-dovevamo-vincere_6cc54cfa-76cd-45ec-9a1e-57c2d04aee48.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 15:27:33 +0200",
-      "excerpt": "Il tecnico del Napoli: \"Vanno risolti i problemi in attacco\""
-    },
-    {
-      "title": "Jimenez risponde a Gilmour, Fiorentina-Napoli 1-1",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/jimenez-risponde-a-gilmour-fiorentina-napoli-1-1_95544fe4-3dd6-4791-aa9b-db6645ff5ce9.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 14:38:48 +0200",
-      "excerpt": "La squadra di Allegri passa in vantaggio e si fa rimontare"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
