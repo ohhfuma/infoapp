@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-20T09:37:10.674Z",
+  "lastUpdated": "2026-09-20T10:07:48.559Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Google mette ancora l’IA tra le notizie e i lettori: il nuovo test su Discover allarma gli editori",
+        "link": "https://www.repubblica.it/economia/2026/09/20/news/google_discover_ia_dive_deeper_notizie_editori-425596346/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 20 Sep 2026 11:47:04 +0200",
+        "excerpt": "Il gigante del digitale sperimenta il pulsante “Dive deeper” che apre una sintesi generata automaticamente prima dell’accesso alle fonti originali. Il timore è che una parte dei navigatori si fermi lì riducendo il traffi"
+      },
+      {
+        "title": "Borsa saudita e del Golfo in calo dopo attacchi Houthi a Riyadh",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-saudita-e-del-golfo-in-calo-dopo-attacchi-houthi-a-riyadh-3555404",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-20 09:37:27",
+        "excerpt": ""
+      },
       {
         "title": "Mimit, ancora aumenti gasolio self in autostrada a 2,413 euro al litro",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/mimit-ancora-aumenti-gasolio-self-in-autostrada-a-2413-euro-al-litro_fe4b135e-b537-45a8-8982-5f7fd95efa0e.html",
@@ -99,13 +113,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-19 20:10:04",
         "excerpt": ""
-      },
-      {
-        "title": "Trump: presto una task force sugli algoritmi. E OpenAI brucia 280 miliardi di cassa",
-        "link": "https://www.repubblica.it/economia/2026/09/20/news/trump_presto_una_task_force_sugli_algoritmi_e_openai_brucia_280_miliardi_di_cassa-425595764/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 19 Sep 2026 21:40:00 +0200",
-        "excerpt": "Il presidente americano: “Sto creando la ‘AI Force’ e a breve annuncerò il nome del responsabile”"
       },
       {
         "title": "Italia Viva all’attacco di Tajani: idea della donna ottocentesca. Il Pd: concentrato dei peggiori stereotipi",
@@ -217,13 +224,6 @@
         "link": "https://it.investing.com/news/stock-market-news/loro-torna-a-salire-questi-6-titoli-minerari-usa-potrebbero-volare-3551160",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-18 22:54:41",
-        "excerpt": ""
-      },
-      {
-        "title": "Biotech europee nel caos: 8 titoli che piacciono agli analisti, potenziale +377%",
-        "link": "https://it.investing.com/news/stock-market-news/biotech-europee-nel-caos-8-titoli-che-piacciono-agli-analisti-potenziale-377-3549382",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-18 22:53:12",
         "excerpt": ""
       }
     ],
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Riad, la vetrina della rivoluzione di Mbs ora sfiorata dalla guerra",
+        "link": "https://www.repubblica.it/esteri/2026/09/20/news/riad_vetrina_rivoluzione_mbs_sfiorata_guerra_houthi-425596367/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 20 Sep 2026 11:48:51 +0200",
+        "excerpt": "In pochi anni la capitale saudita è diventata il simbolo della trasformazione voluta dal principe ereditario. Il fatto che ieri sia stata sfiorata per la prima volta dal conflitto con gli Houthi, è simbolico"
+      },
+      {
         "title": "In Germania seggi aperti a Berlino e nel Meclemburgo Pomerania",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/in-germania-seggi-aperti-a-berlino-e-nel-meclemburgo-pomerania_5f70045b-e446-4543-87ac-262756ed734e.html",
         "source": "ANSA Mondo",
@@ -499,13 +506,6 @@
         "excerpt": "L’analista: “Solo la Cina potrebbe fermare il conflitto: se ci riuscisse farebbe un grande colpo aumentando ulteriormente la sua influenza regionale”"
       },
       {
-        "title": "Il governo italiano pronto a spostare soldati e aerei negli Emirati. Kallas: “Più navi ad Aspides”",
-        "link": "https://www.repubblica.it/esteri/2026/09/20/news/houthi_colpiscono_base_riad_italia_piano_trasferire_soldati_aerei_emirati_tre_navi_mar_rosso-425595780/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 20 Sep 2026 01:00:00 +0200",
-        "excerpt": "L’Alta rappresentante risponde a Crosetto: “Nel Mar Ross azione Ue”. Dopo il raid sulla base: trasferirla o rinforzare le difese con altri radar"
-      },
-      {
         "title": "Macron, 'accordo su Groenlandia placa gli animi e riafferma la sovranità danese'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/19/macron-accordo-su-groenlandia-placa-gli-animi-e-riafferma-la-sovranita-danese_d9c1cef6-fe45-4472-910b-70eb96194b4a.html",
         "source": "ANSA Mondo",
@@ -572,11 +572,18 @@
   },
   "attualita": [
     {
-      "title": "A Pontida il raduno della Lega si apre con video tributo a Bossi e il Va' pensiero",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-pontida-le-magliette-pro-e-contro-salvini-sempre-con-lui-si-dimetta-subito_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
+      "title": "Sorprende i ladri nel cortile di casa, spara e ne uccide uno ",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorprende-i-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_016cdb4e-c1c9-49c5-80df-5241d7dc17e2.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 11:23:18 +0200",
-      "excerpt": "Applausi dei militanti al fondatore del partito. Magliette pro e contro Salvini, 'sempre con lui', 'si dimetta subito'"
+      "pubDate": "Sun, 20 Sep 2026 11:53:51 +0200",
+      "excerpt": "E' accaduto a Baldissero d'Alba nella notte"
+    },
+    {
+      "title": "Mosca: 'Oltre 1.100 droni sulla Russia'. Zelensky: 'Usati anche missili da crociera e balistici'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/allarme-per-droni-in-volo-su-kiev-raid-su-mosca_a2b0173b-8bb7-44a0-947e-7cca5ba92364.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 11:46:50 +0200",
+      "excerpt": "Il ministero della Difesa russo: 'A Kiev bombardati una fabbrica di componenti elettronici e un centro dati, a Odessa una nave e un centro logistico'"
     },
     {
       "title": "Baldissero d’Alba, scopre i ladri in cortile e spara: un morto",
@@ -586,11 +593,11 @@
       "excerpt": "L’uomo ha impugnato la pistola ed esploso dei colpi nel buio, poi ha chiamato i carabinieri. Ora è indagato per omicidio."
     },
     {
-      "title": "Mosca: '1.110 droni lanciati dagli ucraini sulla Russia la scorsa notte'. Raid nella regione di Kiev, 4 morti",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/allarme-per-droni-in-volo-su-kiev-raid-su-mosca_a2b0173b-8bb7-44a0-947e-7cca5ba92364.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 10:53:26 +0200",
-      "excerpt": "Il ministero della Difesa russo: 'A Kiev bombardati una fabbrica di componenti elettronici e un centro dati, a Odessa una nave e un centro logistico'"
+      "title": "Centocelle, coltellate alla prof e deriva social: “Gli piacevano i video di omicidi”",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/20/news/prof_ferita_isabella_marsilio_tredicenne_video_omicidi-425596239/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 08:32:57 +0000",
+      "excerpt": "Stesso dubbio tra carabinieri e amici del minore: manovrato da una rete suprematista estera. Un compagno del tredicenne: “Si era incupito, gli hanno fatto il lavaggio del cervello”"
     },
     {
       "title": "Berlino, candidata Afd: “Ci votano perché vogliono un vero cambiamento. Tra questi molti italiani”",
@@ -600,11 +607,18 @@
       "excerpt": "L’intervista a Kristin Brinker: “La gente vuole più sicurezza, più ordine e, soprattutto, che la nostra economia torni ad essere forte. Al momento non lo è. Nei manifesti elettorali accanto al sindaco socialdemocratico W"
     },
     {
+      "title": "Prof ferita, a Centocelle l’arsenale nella cameretta: la mania di coltelli e pistole soft air",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/20/news/prof_ferita_isabella_marsilio_cameretta_tredicenne_coltelli_pistole_soft_air-425596223/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 08:28:14 +0000",
+      "excerpt": "Dopo l’aggressione alla scuola media Verga emerge una costante: altri episodi di ragazzini legati da comunità virtuali violente"
+    },
+    {
       "title": "Pontida 2026, Salvini svela targa per Bossi. Scontro di cori, Romeo: “Squadra è la parola d’ordine”",
       "link": "https://www.repubblica.it/politica/2026/09/20/diretta/salvini_pontida_lega_oggi-425596199/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 08:13:38 +0000",
-      "excerpt": "Si conclude oggi il tradizionale raduno del partito, il primo senza Bossi. Il pratone spaccato tra sostenitori del segretario e contestatori. E poi c’è il fronte dei governatori. Il capogruppo al SEnato: “Vogliamo una Le"
+      "excerpt": "Si conclude oggi il tradizionale raduno del partito, il primo senza il Senatur. Il pratone spaccato tra sostenitori del segretario e contestatori. E poi c’è il fronte dei governatori. Il capogruppo al Senato: “Vogliamo u"
     },
     {
       "title": "Germania, voto a Berlino e Meclemburgo Pomerania: la Cdu rischia il tracollo, Merz in bilico",
@@ -635,13 +649,6 @@
       "excerpt": "Inaugurata la residency che prevede 12 concerti e spettacoli e appuntamenti in città"
     },
     {
-      "title": "Juve, c’è Sarri per spazzare via la crisi. Spalletti perde anche Grabara, stagione finita",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/20/news/juventus_infortunio_grabara_cosa_e_successo-425596107/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 07:07:15 +0000",
-      "excerpt": "Alle 18 la sfida contro l’Atalanta del tecnico toscano, mai entrato nel cuore dei tifosi bianconeri. Servono i tre punti per dimenticare il ko di Sassuolo. Il portiere polacco si rompe il crociato"
-    },
-    {
       "title": "Maxi-concorso Mic, pasticcio infinito: 200mila candidati per 1.800 posti ancora in attesa",
       "link": "https://www.repubblica.it/economia/2026/09/20/news/mic_maxi_concorso_candidati_attesa_data_novembre-425595616/",
       "source": "Repubblica",
@@ -654,13 +661,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 03:00:00 +0000",
       "excerpt": "Il comico toscano, 35 anni, trasforma la sua disabilità in materia per monologhi taglienti: “Tanti si infuriano per la mia comicità. I più pericolosi sono i tifosi di calcio”"
-    },
-    {
-      "title": "La Pontida della resa dei conti tra governatori e rischio fischi. Salvini “oscura” la scaletta",
-      "link": "https://www.repubblica.it/politica/2026/09/20/news/la_pontida_salvini_governatori_lega_scaletta-425595940/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "excerpt": "Stamattina la tradizionale adunata leghista sul pratone del Bergamasco, il vicepremier tenta la carta del ricordo di Bossi per evitare le contestazioni"
     },
     {
       "title": "Scrivania al centro, back to work tra stress in ufficio e spazio di lavoro",
