@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-20T09:07:46.663Z",
+  "lastUpdated": "2026-09-20T09:37:10.674Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Mimit, ancora aumenti gasolio self in autostrada a 2,413 euro al litro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/mimit-ancora-aumenti-gasolio-self-in-autostrada-a-2413-euro-al-litro_fe4b135e-b537-45a8-8982-5f7fd95efa0e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 20 Sep 2026 11:12:48 +0200",
+        "excerpt": "Su rete nazionale a 2,334"
+      },
       {
         "title": "Guerra e incertezza pesano sui conti del settore del lusso",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/20/guerra-e-incertezza-pesano-sui-conti-del-settore-del-lusso_4437028e-cb8f-4417-a183-01195bc8f7af.html",
@@ -10,11 +17,11 @@
         "excerpt": "Gli analisti vendono opportunità di crescita con investimenti e intelligenza artificiale"
       },
       {
-        "title": "Al via Pontida, oggi è il giorno dei big. Attesa per Salvini",
+        "title": "La Lega a Pontida, Zaia: il riferimento resti il Nord. Il capogruppo Romeo contestato",
         "link": "https://www.ilsole24ore.com/art/al-via-pontida-oggi-e-giorno-big-attesa-salvini-AJpmzyIB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Sun, 20 Sep 2026 08:22:31 GMT",
-        "excerpt": "PONTIDA (BERGAMO) - Si inizia con il ricordo del Senatùr Umberto Bossi e con il Va’ Pensiero. A Pontida dopo l’appuntamento con i giovani, è il giorno dei ‘big’. Unità..."
+        "pubDate": "Sun, 20 Sep 2026 08:22:00 GMT",
+        "excerpt": "PONTIDA (BERGAMO) - Si inizia con il ricordo di Umberto Bossi (un video con le frasi più celebri del fondatore del partito) e con il Va’ Pensiero. Sono lontani i..."
       },
       {
         "title": "Fisco, in arrivo l’autunno caldo delle dichiarazioni dal 730 al concordato",
@@ -394,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "In Germania seggi aperti a Berlino e nel Meclemburgo Pomerania",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/in-germania-seggi-aperti-a-berlino-e-nel-meclemburgo-pomerania_5f70045b-e446-4543-87ac-262756ed734e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 11:08:51 +0200",
+        "excerpt": ""
+      },
+      {
         "title": "Zelensky, 'nell'attacco su Mosca usati anche missili da crociera e balistici'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/zelensky-nellattacco-su-mosca-usati-anche-missili-da-crociera-e-balistici_39c1cca6-0722-4bff-88c7-2df4a2e4ef70.html",
         "source": "ANSA Mondo",
@@ -506,13 +520,6 @@
         "excerpt": "'Tenere conto di possibili cancellazioni di voli, chiusure dello spazio aereo e disagi'"
       },
       {
-        "title": "Bachelet ritira la candidatura per la segreteria generale Onu",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/bachelet-ritira-la-candidatura-per-la-segreteria-generale-onu_b428de69-71cb-4859-85ac-8648fb7bc0b4.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 21:36:49 +0200",
-        "excerpt": "Pesa il voto informale, l'ex leader cilena ringrazia Brasile e Messico"
-      },
-      {
         "title": "Brazil’s Petrobras board approves joining diesel subsidy program",
         "link": "https://www.investing.com/news/commodities-news/brazils-petrobras-board-approves-joining-diesel-subsidy-program-4908111",
         "source": "Investing.com Commodities",
@@ -565,11 +572,18 @@
   },
   "attualita": [
     {
+      "title": "A Pontida il raduno della Lega si apre con video tributo a Bossi e il Va' pensiero",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-pontida-le-magliette-pro-e-contro-salvini-sempre-con-lui-si-dimetta-subito_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 11:23:18 +0200",
+      "excerpt": "Applausi dei militanti al fondatore del partito. Magliette pro e contro Salvini, 'sempre con lui', 'si dimetta subito'"
+    },
+    {
       "title": "Baldissero d’Alba, scopre i ladri in cortile e spara: un morto",
       "link": "https://torino.repubblica.it/cronaca/2026/09/20/news/baldissero_d_alba_ladro_ucciso_cortile-425596275/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 08:54:18 +0000",
-      "excerpt": "L’uomo ha impugnato la pistola ed esploso dei colpi nel buio, poi ha chiamato i carabinieri"
+      "excerpt": "L’uomo ha impugnato la pistola ed esploso dei colpi nel buio, poi ha chiamato i carabinieri. Ora è indagato per omicidio."
     },
     {
       "title": "Mosca: '1.110 droni lanciati dagli ucraini sulla Russia la scorsa notte'. Raid nella regione di Kiev, 4 morti",
@@ -579,18 +593,25 @@
       "excerpt": "Il ministero della Difesa russo: 'A Kiev bombardati una fabbrica di componenti elettronici e un centro dati, a Odessa una nave e un centro logistico'"
     },
     {
-      "title": "A Pontida il raduno della Lega si apre con video tributo a Bossi e il Va' pensiero",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-pontida-le-magliette-pro-e-contro-salvini-sempre-con-lui-si-dimetta-subito_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 10:50:33 +0200",
-      "excerpt": "Applausi dei militanti al fondatore del partito. Magliette pro e contro Salvini, 'sempre con lui', 'si dimetta subito'"
+      "title": "Berlino, candidata Afd: “Ci votano perché vogliono un vero cambiamento. Tra questi molti italiani”",
+      "link": "https://www.repubblica.it/esteri/2026/09/20/news/berlino_candidata_afd_kristin_brinker_intervista_voto_italiani-425596233/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 08:31:38 +0000",
+      "excerpt": "L’intervista a Kristin Brinker: “La gente vuole più sicurezza, più ordine e, soprattutto, che la nostra economia torni ad essere forte. Al momento non lo è. Nei manifesti elettorali accanto al sindaco socialdemocratico W"
     },
     {
-      "title": "Pontida 2026, Salvini oggi sul palco. Slogan pro e contro il leader, il video tributo a Bossi",
+      "title": "Pontida 2026, Salvini svela targa per Bossi. Scontro di cori, Romeo: “Squadra è la parola d’ordine”",
       "link": "https://www.repubblica.it/politica/2026/09/20/diretta/salvini_pontida_lega_oggi-425596199/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 08:13:38 +0000",
-      "excerpt": "Si conclude oggi il tradizionale raduno del partito, il primo senza Bossi. Il pratone spaccato tra sostenitori del segretario e contestatori. E poi c’è il fronte dei governatori"
+      "excerpt": "Si conclude oggi il tradizionale raduno del partito, il primo senza Bossi. Il pratone spaccato tra sostenitori del segretario e contestatori. E poi c’è il fronte dei governatori. Il capogruppo al SEnato: “Vogliamo una Le"
+    },
+    {
+      "title": "Germania, voto a Berlino e Meclemburgo Pomerania: la Cdu rischia il tracollo, Merz in bilico",
+      "link": "https://www.repubblica.it/esteri/2026/09/20/news/germania_voto_berlino_meclemburgo_pomerania_cdu_rischia_tracollo_merz_bilico-425596188/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 08:11:48 +0000",
+      "excerpt": "Il partito del cancelliere tedesco rischia di perdere terreno e di finire fuori dal Parlamento regionale. Dopo il flop in Sassonia-Anhalt, cresce la pressione sul cancelliere: tra ipotesi di governo di minoranza e cambio"
     },
     {
       "title": "Trump anticipa il rientro da Camp David e torna alla Casa Bianca",
@@ -635,25 +656,11 @@
       "excerpt": "Il comico toscano, 35 anni, trasforma la sua disabilità in materia per monologhi taglienti: “Tanti si infuriano per la mia comicità. I più pericolosi sono i tifosi di calcio”"
     },
     {
-      "title": "Mosca: cyber attacchi contro il voto. Svolta americana: ok alla vendita di missili a Kiev",
-      "link": "https://www.repubblica.it/esteri/2026/09/20/news/mosca_cyber_attacchi_contro_voto_duma_usa_vende_missili_kiev-425595771/",
+      "title": "La Pontida della resa dei conti tra governatori e rischio fischi. Salvini “oscura” la scaletta",
+      "link": "https://www.repubblica.it/politica/2026/09/20/news/la_pontida_salvini_governatori_lega_scaletta-425595940/",
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "excerpt": "Oggi si chiude il voto alla Duma. La Casa Bianca firma le nuove sanzioni al Cremlino, Zelensky ringrazia"
-    },
-    {
-      "title": "Russia, il mistero di Yulya Kuznetsova: candidata scomparsa che lotta per la pace",
-      "link": "https://www.repubblica.it/esteri/2026/09/20/news/russia_mistero_yulya_kuznetsova_candidata_verdi_elezioni_duma_scomparsa-425595828/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "excerpt": "Sparita prima delle elezioni con il marito, è apparsa in un video in cui si dice “sofferente”. Gli attivisti denunciano: “È sotto minaccia”"
-    },
-    {
-      "title": "La missione “sotto traccia”, nel Golfo 700 militari e il nostro super-radar",
-      "link": "https://www.repubblica.it/politica/2026/09/20/news/arabia_missione_golfo_700_militari_radar-425595877/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "excerpt": "Nella base sotto attacco il meglio della tecnologia militare italiana, la Difesa pronta a trasferire nei paesi limitrofi alcuni mezzi e uomini"
+      "excerpt": "Stamattina la tradizionale adunata leghista sul pratone del Bergamasco, il vicepremier tenta la carta del ricordo di Bossi per evitare le contestazioni"
     },
     {
       "title": "Scrivania al centro, back to work tra stress in ufficio e spazio di lavoro",
