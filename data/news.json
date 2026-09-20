@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T16:38:00.979Z",
+  "lastUpdated": "2026-09-20T17:06:50.404Z",
   "finanza": {
     "italia": [
       {
@@ -222,11 +222,11 @@
         "excerpt": "(Il Sole 24 Ore Radiocor) - Milano, 20 set - Arrivano i primi exit poll dall’ultima tornata elettorale in Germania. AfD al 37% in Meclemburgo-Pomerania, davanti alla Spd al 35,5%,..."
       },
       {
-        "title": "Exit poll: la Linke primo partito a Berlino. Afd vince in Meclemburgo. Merz: avanti con le riforme",
+        "title": "Exit poll: la Linke primo partito a Berlino. Afd sopra al 37% in Meclemburgo. Merz: avanti con le riforme",
         "link": "https://www.ilsole24ore.com/art/exit-poll-linke-primo-partito-berlino-cdu-salva-un-soffio-meclemburgo-AJSiBxIB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sun, 20 Sep 2026 16:13:00 GMT",
-        "excerpt": "La Linke corre verso la conquista di Berlino, la Cdu si salva per un soffio in Meclemburgo-Pomerania Anteriore. Le urne si sono chiuse nei due Länder e gli exit poll..."
+        "excerpt": "La Linke corre verso la conquista di Berlino, la Cdu si salva per un soffio in Meclemburgo-Pomerania Anteriore. Le urne si sono chiuse nei due Länder e le prime proiezioni..."
       },
       {
         "title": "Sondaggio Nbc: il 55% degli americani ritiene che Trump abbia danneggiato l’economia",
@@ -329,69 +329,90 @@
     ],
     "usa": [
       {
-        "title": "Deutsche Bank forecasts S&P 500 to hit 7000 by end of 2025",
-        "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-forecasts-sp-500-to-hit-7000-by-end-of-2025-3741586",
+        "title": "Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
         "source": "Investing.com USA",
-        "pubDate": "2024-11-26 10:47:35",
+        "pubDate": "2026-09-20 16:08:07",
         "excerpt": ""
       },
       {
-        "title": "Trump's tariffs, Fed minutes, Rumble's Bitcoin buy - what's moving markets",
-        "link": "https://www.investing.com/news/economy/trumps-tariffs-fed-minutes-rumbles-bitcoin-buy--whats-moving-markets-3741453",
+        "title": "Iran warns against new escalation by US and allies",
+        "link": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
         "source": "Investing.com USA",
-        "pubDate": "2024-11-26 08:55:17",
+        "pubDate": "2026-09-20 15:06:39",
         "excerpt": ""
       },
       {
-        "title": "2025 macro outlook for the US is 'murky at best' says Deutsche Bank",
-        "link": "https://www.investing.com/news/economy/2025-macro-outlook-for-the-us-is-murky-at-best-says-deutsche-bank-3741435",
+        "title": "What to expect from upcoming summit between Presidents Trump and Xi",
+        "link": "https://www.investing.com/news/economy-news/what-to-expect-from-upcoming-summit-between-presidents-trump-and-xi-4908152",
         "source": "Investing.com USA",
-        "pubDate": "2024-11-26 08:26:03",
+        "pubDate": "2026-09-20 08:57:20",
         "excerpt": ""
       },
       {
-        "title": "Bitcoin price today: slips to $94k as risk appetite sours on Trump tariff threat",
-        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-to-94k-as-risk-appetite-sours-on-trump-tariff-threat-3741330",
+        "title": "What does the EU have that the U.S. does not?",
+        "link": "https://www.investing.com/news/economy-news/what-does-the-eu-have-that-the-us-does-not-4908133",
         "source": "Investing.com USA",
-        "pubDate": "2024-11-26 06:22:06",
+        "pubDate": "2026-09-20 02:00:44",
         "excerpt": ""
       },
       {
-        "title": "Asia stocks fall after Trump threatens tariffs, Japan's Nikkei leads losses",
-        "link": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-after-trump-threatens-tariffs-japans-nikkei-leads-losses-3741249",
+        "title": "AI risk debate: Existential threat or dangerous tool?",
+        "link": "https://www.investing.com/news/economy-news/ai-risk-debate-existential-threat-or-dangerous-tool-4908123",
         "source": "Investing.com USA",
-        "pubDate": "2024-11-26 03:31:51",
+        "pubDate": "2026-09-19 23:00:38",
         "excerpt": ""
       },
       {
-        "title": "S&P 500 positioning levels at record highs, pullback risks rise, Citi warns",
-        "link": "https://www.investing.com/news/stock-market-news/sp-500-positioning-levels-at-record-highs-pullback-risks-rise-citi-warns-3741245",
+        "title": "Will worries about AI Doom end the AI Boom? BCA answers",
+        "link": "https://www.investing.com/news/stock-market-news/will-worries-about-ai-doom-end-the-ai-boom-bca-answers-4908120",
         "source": "Investing.com USA",
-        "pubDate": "2024-11-26 03:26:47",
+        "pubDate": "2026-09-19 20:16:51",
         "excerpt": ""
       },
       {
-        "title": "Trump says he will impose additional 10% tariffs on China over drug inflow",
-        "link": "https://www.investing.com/news/politics/trump-says-he-will-impose-additional-10-tariffs-on-china-over-drug-inflow-3741069",
+        "title": "Citi expects hawkish Fed to slow non-AI economy",
+        "link": "https://www.investing.com/news/economy-news/citi-expects-hawkish-fed-to-slow-nonai-economy-4908117",
         "source": "Investing.com USA",
-        "pubDate": "2024-11-26 00:01:07",
+        "pubDate": "2026-09-19 19:46:14",
         "excerpt": ""
       },
       {
-        "title": "Analyst calls Bitcoin 'global bubble', could soar to infinity",
-        "link": "https://www.investing.com/news/cryptocurrency-news/analyst-calls-bitcoin-global-bubble-could-soar-to-infinity-3740406",
+        "title": "How AI concerns moved to the center of the midterm debate",
+        "link": "https://www.investing.com/news/economy-news/how-ai-concerns-moved-to-the-center-of-the-midterm-debate-4908066",
         "source": "Investing.com USA",
-        "pubDate": "2024-11-25 18:20:45",
+        "pubDate": "2026-09-19 08:26:42",
         "excerpt": ""
       }
     ],
     "mondo": [
       {
-        "title": "Germania, exit poll: Afd vince in Meclemburgo-Pomerania, la Linke a Berlino. Merz: “Un disastro”",
+        "title": "Germania, exit poll: Afd avanti in Meclemburgo-Pomerania, la Linke a Berlino. Merz: “Un disastro”",
         "link": "https://www.repubblica.it/esteri/2026/09/20/news/germania_elezioni_meclemburgo_pomerania_berlino_afd_linke_cdu-425596789/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sun, 20 Sep 2026 18:33:50 +0200",
-        "excerpt": "Nello Stato dell’Est l’ultradestra al 37% davanti alla Spd al 35%, crolla la Cdu di Merz al 5%. Nella capitale la sinistra radicale precede Cdu e Afd"
+        "pubDate": "Sun, 20 Sep 2026 18:54:55 +0200",
+        "excerpt": "Nello Stato dell’Est l’ultradestra al 37% davanti alla Spd al 35%, crolla la Cdu di Merz al 5%. Nella capitale la sinistra radicale precede Cdu e Afd. Il cancelliere: “Mi assumo la responsabilità, ora avanti con le rifor"
+      },
+      {
+        "title": "Weidel, Merz tragga le conseguenze, noi il partito più forte del Paese",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/weidel-merz-tragga-le-conseguenze-noi-il-partito-piu-forte-del-paese_7adc80f7-f077-48bf-beeb-3ec03c66c356.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 18:53:29 +0200",
+        "excerpt": "La leader dell'AfD: 'Deve farlo per il suo partito e per la Germania'"
+      },
+      {
+        "title": "Candidata Linke a Berlino, 'fatta la storia, da oggi cambiamo la nostra città'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/candidata-linke-a-berlino-fatta-la-storia-da-oggi-cambiamo-la-nostra-citta_5dc70486-0ae6-4eb4-a12d-bc90a7320300.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 18:38:42 +0200",
+        "excerpt": "Elif Eralp: \"Il segnale dell'amore e della giustizia vince contro l'odio\""
+      },
+      {
+        "title": "Lettera di Kallas ai 27: 'Rafforzare Aspides con più navi e mezzi aerei'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/lettera-di-kallas-ai-27-rafforzare-aspides-con-piu-navi-e-mezzi-aerei_10dc84e7-f0fa-4279-9237-3e50882bd55e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 18:37:43 +0200",
+        "excerpt": "\"Aumentare sostanzialmente la presenza per garantire il mandato\""
       },
       {
         "title": "Exit poll Berlino, Linke prima al 26%, Cdu segue al 20%, Afd al 13,5%",
@@ -415,13 +436,6 @@
         "excerpt": "La Cdu è al 5% sulla soglia di sbarramento"
       },
       {
-        "title": "Lettera di Kallas ai 27, 'rafforzare Aspides con più navi e mezzi aerei'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/lettera-di-kallas-ai-27-rafforzare-aspides-con-piu-navi-e-mezzi-aerei_10dc84e7-f0fa-4279-9237-3e50882bd55e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 18:03:07 +0200",
-        "excerpt": "\"Aumentare sostanzialmente la presenza per garantire il mandato\""
-      },
-      {
         "title": "Iran warns against new escalation by US and allies",
         "link": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
         "source": "Investing.com Commodities",
@@ -441,20 +455,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 20 Sep 2026 16:19:31 +0200",
         "excerpt": "Attivisti al seggio a Roma: 'L'Ue ci aiuti'. Ma c'è chi difende lo zar: 'Siamo patrioti'"
-      },
-      {
-        "title": "Venezuela, Delcy Rodríguez vede il presidente del Paraguay e vola all'Onu da Trump",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/20/venezuela-delcy-rodriguez-vede-il-presidente-del-paraguay-e-vola-allonu-da-trump_1a933e16-ea03-4a48-ae0b-ec8266515fb6.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 15:45:52 +0200",
-        "excerpt": "Riprendono i rapporti tra i due Paesi, prosegue il dialogo interno con l'opposizione"
-      },
-      {
-        "title": "Media, 'a Ceuta circa 1.000 minori senza un posto in cui dormire'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/media-a-ceuta-circa-1.000-minori-senza-un-posto-in-cui-dormire_4adb5bbb-f36f-4920-8f76-adeb060b735d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 14:23:15 +0200",
-        "excerpt": "El País, per strada gruppi di ragazzini nel limbo. Scontro politico sulla loro accoglienza"
       },
       {
         "title": "Il fratello di Lady D.: “Harry e Meghan sono stati maltrattati dai media come la principessa Diana”",
@@ -561,22 +561,29 @@
       "title": "Germania, exit poll in Pomerania: l'AfD prima. Merz: 'Un disastro'. A Berlino in testa la Linke",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/germania-exit-poll-in-pomerania-lafd-prima.-merz-un-disastro.-a-berlino-in-testa_e858bc98-bac2-4f2f-a7ce-abd390ca6baf.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 18:31:34 +0200",
+      "pubDate": "Sun, 20 Sep 2026 19:00:10 +0200",
       "excerpt": "Elezioni regionali oggi a Berlino e nel Land del Meclemburgo Pomerania Anteriore. Il voto è un test fondamentale per il cancelliere Merz dopo il successo di Afd nella Sassonia-Anhalt, quindici giorni fa"
     },
     {
-      "title": "Meloni: 'In classe numero massimo di stranieri e divieto di burqa, norma in arrivo'",
+      "title": "La stretta di Meloni: 'In classe tetto agli stranieri e divieto di burqa'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 18:27:04 +0200",
-      "excerpt": "La premier alla festa dei giovani di Fdi: 'Immensamente fiera di voi'"
+      "pubDate": "Sun, 20 Sep 2026 18:43:21 +0200",
+      "excerpt": "'Gli italiani non possono sentirsi minoranza'. Lo scontro con Schlein"
     },
     {
-      "title": "Germania, exit poll: Afd prima in Meclemburgo-Pomerania, la Linke vince a Berlino",
+      "title": "La curva della Juve non rispetta il minuto di silenzio per Mazzola: gli ultrà si voltano di spalle",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/juventus/2026/09/20/news/curva_juventus_cori_di_spalle_durante_minuto_silenzio_mazzola-425596817/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 16:27:08 +0000",
+      "excerpt": "I sostenitori del primo anello centrale della curva sud hanno scandito durante il raccoglimento i nomi di Scirea, Fortunato e Agnelli"
+    },
+    {
+      "title": "Germania, exit poll: Afd avanti in Meclemburgo-Pomerania, la Linke a Berlino. Merz: “Un disastro”",
       "link": "https://www.repubblica.it/esteri/2026/09/20/news/germania_elezioni_meclemburgo_pomerania_berlino_afd_linke_cdu-425596789/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 16:10:25 +0000",
-      "excerpt": "Nello Stato dell’Est l’ultradestra al 37% davanti alla Spd al 35%, crolla la Cdu di Merz al 5%. Nella capitale la sinistra radicale precede Cdu e Afd"
+      "excerpt": "Nello Stato dell’Est l’ultradestra al 37% davanti alla Spd al 35%, crolla la Cdu di Merz al 5%. Nella capitale la sinistra radicale precede Cdu e Afd. Il cancelliere: “Mi assumo la responsabilità, ora avanti con le rifor"
     },
     {
       "title": "Prof accoltellata a Roma, i genitori dello studente chiedono scusa con una mail",
@@ -621,18 +628,11 @@
       "excerpt": "L’ex generale alla convention di Futuro nazionale a Orvieto: “L’eroe omerico non cede alla bellezza di Circe, non cede alle lusinghe, ma torna dalla moglie, e quando arriva stermina i proci e difende la propria famiglia”"
     },
     {
-      "title": "La mossa del congresso tenuta segreta. Salvini spiazza i frondisti: “Non ce l’aspettavamo”",
+      "title": "Salvini a Pontida, la mossa segreta del congresso. I frondisti spiazzati: “Non ce l’aspettavamo”",
       "link": "https://www.repubblica.it/politica/2026/09/20/news/pontida_congresso_lega_frondisti_sorpresa_salvini-425596640/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 14:30:43 +0000",
       "excerpt": "Il governatore lombardo Fontana: “Bene, sarà l’occasione giusta per confrontare le varie sensibilità”"
-    },
-    {
-      "title": "Tetto agli stranieri in classe, il capo dei presidi: “Difficile da attuare, alunni vanno accolti”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/20/news/scuola_tetto_stranieri_presidi_antonello_giannelli-425596634/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 14:23:56 +0000",
-      "excerpt": "Giannelli risponde con una domanda alla premier Meloni: “Se nel quartiere prevalgono gli stranieri, che facciamo non li accettiamo a scuola?”"
     },
     {
       "title": "De Cataldo: 'Romanzo Criminale in lirica è un sogno che si avvera'",
@@ -728,6 +728,13 @@
   ],
   "sport": [
     {
+      "title": "Serie A, in campo Juventus-Atalanta DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-juventus-atalanta-in-campo-alle-18-diretta_64b2f6be-3aa2-476e-9403-48b2a88a021b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 18:34:11 +0200",
+      "excerpt": "Si gioca la quinta giornata di campionato"
+    },
+    {
       "title": "Liga: il Real resta in 10, l'Atletico ne approfitta e vince il derby di Madrid",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/liga-il-real-resta-in-10-latletico-ne-approfitta-e-vince-il-derby-di-madrid_2ee3476c-2a18-49be-af3a-dc5d3a2400a7.html",
       "source": "ANSA Sport",
@@ -740,13 +747,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 18:29:41 +0200",
       "excerpt": "Al posto del romanista convocato il centrocampista del Como Ricci"
-    },
-    {
-      "title": "Serie A, in campo Juventus-Atalanta DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-juventus-atalanta-in-campo-alle-18-diretta_64b2f6be-3aa2-476e-9403-48b2a88a021b.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 18:19:47 +0200",
-      "excerpt": "Si gioca la quinta giornata di campionato"
     },
     {
       "title": "Mazzola: parte della curva Juve non rispetta il minuto di silenzio",
