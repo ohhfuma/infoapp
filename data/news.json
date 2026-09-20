@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-20T12:40:55.345Z",
+  "lastUpdated": "2026-09-20T13:06:57.739Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Volvo Cars nomina Klaus Zellmer come prossimo CEO",
+        "link": "https://it.investing.com/news/stock-market-news/volvo-cars-nomina-klaus-zellmer-come-prossimo-ceo-93CH-3555415",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-20 12:24:32",
+        "excerpt": ""
+      },
       {
         "title": "Questi 3 fattori \"restano rischi significativi\" per le valutazioni azionarie",
         "link": "https://it.investing.com/news/stock-market-news/questi-3-fattori-restano-rischi-significativi-per-le-valutazioni-azionarie-3555412",
@@ -217,13 +224,6 @@
         "link": "https://it.investing.com/news/stock-market-news/deutsche-bank-posizionamento-cauto-nonostante-la-resilienza-dei-mercati-93CH-3555331",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-19 07:20:20",
-        "excerpt": ""
-      },
-      {
-        "title": "UBS prevede che la spesa per l’AI raggiungerà quasi 1.000 miliardi nel 2026",
-        "link": "https://it.investing.com/news/stock-market-news/ubs-prevede-che-la-spesa-per-lai-raggiungera-quasi-1000-miliardi-nel-2026-3555320",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-19 04:15:49",
         "excerpt": ""
       }
     ],
@@ -572,11 +572,18 @@
   },
   "attualita": [
     {
-      "title": "Salvini a Pontida: 'Si vince uniti, Congresso straordinario a ottobre'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-pontida-le-magliette-pro-e-contro-salvini-sempre-con-lui-si-dimetta-subito_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
+      "title": "++ Sorelline ritrovate, portate in comunità insieme ai 4 fratelli ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/20/-sorelline-ritrovate-portate-in-comunita-insieme-ai-4-fratelli-_cebbbe3c-5d62-4511-bafa-dcdf0a269134.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 14:33:12 +0200",
-      "excerpt": "'Non ha padroni e non è in vendita. È una emozione vedere le bandiere di tutte le Regioni'"
+      "pubDate": "Sun, 20 Sep 2026 14:50:40 +0200",
+      "excerpt": "I sei minori vivevano con il padre"
+    },
+    {
+      "title": "Il fratello di Lady D.: “Harry e Meghan sono stati maltrattati dai media come la principessa Diana”",
+      "link": "https://www.repubblica.it/esteri/2026/09/20/news/charles_spencer_libro_harry_meghan_maltrattati_media_come_principessa_diana-425596502/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 12:20:30 +0000",
+      "excerpt": "Charles Spencer in un’intervista alla Bbc: “Peccato che la lezione di quello che è successo a lei non sia stata appresa”"
     },
     {
       "title": "Meloni: 'In classe numero massimo di stranieri e divieto di burqa, norma in arrivo'",
@@ -600,11 +607,18 @@
       "excerpt": "Il presidente americano, pur definendo “perfettamente lecito” il finanziamento di Umar Kremlev per la festa alle Bahamas, ha assicurato che suo figlio ridarà la cifra usata per il ricevimento post nozze"
     },
     {
-      "title": "Meloni dai giovani FdI: “In Cdm numero massimo di studenti stranieri per classe. Stop burqa”",
+      "title": "Meloni: “Numero massimo di stranieri per classe”. E attacca Schlein. La replica: dica quando si vota",
       "link": "https://www.repubblica.it/politica/2026/09/20/news/meloni_stranieri_studenti_classe_giovani_fdi-425596441/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 10:44:20 +0000",
-      "excerpt": "L’annuncio della premier dal palco di Fenix, la festa di Gioventù nazionale. Il provvedimenti in arrivo. “I bambini italiani non possono sentirsi minoranza e a scuola si va con il viso scoperto”. Accusato poi Schlein di "
+      "excerpt": "La rincorsa a Vannacci della premier dal palco di Fenix: “I bambini italiani non possono sentirsi minoranza e a scuola si va con il viso scoperto”. Accusa poi Schlein di \"non trovare argomenti veri\" per attaccarla. “Taja"
+    },
+    {
+      "title": "Caso Orlandi, la madre di Garramon: “Accetti venne a casa da finto prete prima di uccidere Josè”",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/20/news/emanuela_orlandi_marco_accetti_morte_jose_garramon-425596336/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 09:27:29 +0000",
+      "excerpt": "Altri misteri e accuse sul fotografo al centro della sparizione di Emanuela. Secondo la mamma del ragazzino - travolto dal furgone con l’uomo alla guida nel 1983 - tra le due storia c’è un legame. “Non fu un incidente st"
     },
     {
       "title": "Baldissero d’Alba, scopre i ladri in cortile e spara: un morto",
@@ -633,20 +647,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 08:28:14 +0000",
       "excerpt": "Dopo l’aggressione alla scuola media Verga emerge una costante: altri episodi di ragazzini legati da comunità virtuali violente"
-    },
-    {
-      "title": "Pontida 2026, Salvini a sorpresa: “Domani proporrò congresso straordinario a ottobre, no divisioni”",
-      "link": "https://www.repubblica.it/politica/2026/09/20/diretta/salvini_pontida_lega_oggi-425596199/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 08:13:38 +0000",
-      "excerpt": "Si conclude oggi il tradizionale raduno del partito, il primo senza il Senatur. Il pratone spaccato tra sostenitori del segretario e contestatori. E poi c’è il fronte dei governatori. Romeo: “Vogliamo una Lega più colleg"
-    },
-    {
-      "title": "Germania, voto a Berlino e Meclemburgo Pomerania: la Cdu rischia il tracollo, Merz in bilico",
-      "link": "https://www.repubblica.it/esteri/2026/09/20/news/germania_voto_berlino_meclemburgo_pomerania_cdu_rischia_tracollo_merz_bilico-425596188/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 08:11:48 +0000",
-      "excerpt": "Il partito del cancelliere tedesco rischia di perdere terreno e di finire fuori dal Parlamento regionale. Dopo il flop in Sassonia-Anhalt, cresce la pressione sul cancelliere: tra ipotesi di governo di minoranza e cambio"
     },
     {
       "title": "De Cataldo: 'Romanzo Criminale in lirica è un sogno che si avvera'",
@@ -742,6 +742,27 @@
   ],
   "sport": [
     {
+      "title": "Serie A, in campo Parma-Genoa DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-parma-genoa-in-campo-diretta_8852d9e7-1382-4d2b-91aa-eb29aab14c47.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 15:01:56 +0200",
+      "excerpt": "Si gioca la quinta giornata di campionato"
+    },
+    {
+      "title": "Serie A, in campo Frosinone-Como DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-frosinone-como-in-campo-diretta_a16575d6-66fe-4050-b634-b38b963e6302.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 15:00:24 +0200",
+      "excerpt": "Si gioca la quinta giornata di campionato"
+    },
+    {
+      "title": "Jimenez risponde a Gilmour, Fiorentina-Napoli 1-1",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/jimenez-risponde-a-gilmour-fiorentina-napoli-1-1_95544fe4-3dd6-4791-aa9b-db6645ff5ce9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 14:38:48 +0200",
+      "excerpt": "La squadra di Allegri passa in vantaggio e si fa rimontare"
+    },
+    {
       "title": "Serie A, Fiorentina-Napoli 1-1",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-1-1_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
       "source": "ANSA Sport",
@@ -775,27 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 13:51:49 +0200",
       "excerpt": "L'azzurro settimo nella mezza maratona, pioggia di record a Copenaghen"
-    },
-    {
-      "title": "Serie A: Parma-Genoa in campo DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-parma-genoa-in-campo-diretta_8852d9e7-1382-4d2b-91aa-eb29aab14c47.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 13:29:12 +0200",
-      "excerpt": "'Parma? Sfida difficile ma ci sono premesse per l'ottima prestazione'"
-    },
-    {
-      "title": "Serie A: Frosinone-Como in campo DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-frosinone-como-in-campo-diretta_a16575d6-66fe-4050-b634-b38b963e6302.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 13:28:00 +0200",
-      "excerpt": "Monterisi: 'Como forte, ma il Frosinone sa cosa deve fare'"
-    },
-    {
-      "title": "Calcio: Francia, il presidente del Psg indagato per conflitto di interessi",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-francia-il-presidente-del-psg-indagato-per-conflitto-di-interessi_1da6ab5f-77af-4729-9f48-ec02f3c96d2a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 12:47:19 +0200",
-      "excerpt": "Nasser al-Khelaifi coinvolto in un'inchiesta sui diritti tv"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
