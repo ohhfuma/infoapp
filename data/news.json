@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-09-20T10:07:48.559Z",
+  "lastUpdated": "2026-09-20T10:37:18.156Z",
   "finanza": {
     "italia": [
       {
         "title": "Google mette ancora l’IA tra le notizie e i lettori: il nuovo test su Discover allarma gli editori",
         "link": "https://www.repubblica.it/economia/2026/09/20/news/google_discover_ia_dive_deeper_notizie_editori-425596346/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Sun, 20 Sep 2026 11:47:04 +0200",
+        "pubDate": "Sun, 20 Sep 2026 12:26:18 +0200",
         "excerpt": "Il gigante del digitale sperimenta il pulsante “Dive deeper” che apre una sintesi generata automaticamente prima dell’accesso alle fonti originali. Il timore è che una parte dei navigatori si fermi lì riducendo il traffi"
+      },
+      {
+        "title": "Vannacci a La Russa: alleanze a ridosso delle elezioni. L’abraccio con l’Afd: programmi simili",
+        "link": "https://www.ilsole24ore.com/art/vannacci-la-russa-alleanze-ridosso-elezioni-l-abraccio-l-afd-programmi-simili-AJM8t0IB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sun, 20 Sep 2026 10:10:43 GMT",
+        "excerpt": "«Se La Russa osservasse le cose da un’altra prospettiva, si accorgerebbe che Vannacci non ha tradito i principi, i valori e gli ideali ai quali faceva riferimento e non ha..."
       },
       {
         "title": "Borsa saudita e del Golfo in calo dopo attacchi Houthi a Riyadh",
@@ -31,11 +38,11 @@
         "excerpt": "Gli analisti vendono opportunità di crescita con investimenti e intelligenza artificiale"
       },
       {
-        "title": "La Lega a Pontida, Zaia: il riferimento resti il Nord. Il capogruppo Romeo contestato",
+        "title": "La Lega a Pontida, Zaia: il riferimento resti il Nord. Giorgetti: i nemici sono fuori dalla Lega ",
         "link": "https://www.ilsole24ore.com/art/al-via-pontida-oggi-e-giorno-big-attesa-salvini-AJpmzyIB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 20 Sep 2026 08:22:00 GMT",
-        "excerpt": "PONTIDA (BERGAMO) - Si inizia con il ricordo di Umberto Bossi (un video con le frasi più celebri del fondatore del partito) e con il Va’ Pensiero. Sono lontani i..."
+        "excerpt": "a"
       },
       {
         "title": "Fisco, in arrivo l’autunno caldo delle dichiarazioni dal 730 al concordato",
@@ -169,13 +176,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 19 Sep 2026 14:41:06 GMT",
         "excerpt": "Si va dalla reintroduzione dell’abuso d’ufficio alla depenalizzazione della coltivazione domestica della cannabis per uso personale, dall’ok alle adozioni omogenitoriali alla riduzione dell’orario di lavoro a parità di s"
-      },
-      {
-        "title": "Energia, Prodi a Radio 24: la proposta di Schlein a Meloni è di buon senso",
-        "link": "https://www.ilsole24ore.com/art/energia-prodi-radio-24-proposta-schlein-meloni-e-buon-senso-AJW9dPIB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 19 Sep 2026 14:08:07 GMT",
-        "excerpt": "La proposta della segretaria Pd Elly Schlein rivolta alla premier Giorgia Meloni per unire le forze su energia e clima è di buon senso. Unione europea a rischio se l’Afd..."
       },
       {
         "title": "Dombrovskis, 'pagamenti del Pnrr possono non essere allineati ai costi'",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Perù, stato di emergenza contro la criminalità nei distretti di Pisco e San Andrés",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/20/peru-stato-di-emergenza-contro-la-criminalita-nei-distretti-di-pisco-e-san-andres_702c42f0-a56c-4f11-b2f5-71193aab086e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 12:31:56 +0200",
+        "excerpt": "Diritti costituzionali sospesi per 60 giorni, militari a supporto della polizia"
+      },
+      {
         "title": "Riad, la vetrina della rivoluzione di Mbs ora sfiorata dalla guerra",
         "link": "https://www.repubblica.it/esteri/2026/09/20/news/riad_vetrina_rivoluzione_mbs_sfiorata_guerra_houthi-425596367/?rss",
         "source": "Repubblica Esteri",
@@ -513,13 +520,6 @@
         "excerpt": "'Il diritto internazionale viene rispettato e questo è ciò che chiedevamo'"
       },
       {
-        "title": "Ambasciata Usa In Israele, 'americani alzino livello vigilanza dopo i raid Houthi'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/19/ambasciata-usa-in-israele-americani-alzino-livello-vigilanza-dopo-i-raid-houthi_6fdee733-ca6b-4412-8cf1-9db9a1fc6e34.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 23:07:22 +0200",
-        "excerpt": "'Tenere conto di possibili cancellazioni di voli, chiusure dello spazio aereo e disagi'"
-      },
-      {
         "title": "Brazil’s Petrobras board approves joining diesel subsidy program",
         "link": "https://www.investing.com/news/commodities-news/brazils-petrobras-board-approves-joining-diesel-subsidy-program-4908111",
         "source": "Investing.com Commodities",
@@ -572,10 +572,17 @@
   },
   "attualita": [
     {
+      "title": "Pontida, Zaia, nella Lega un segretario c'è già, il riferimento resti il Nord ",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-pontida-le-magliette-pro-e-contro-salvini-sempre-con-lui-si-dimetta-subito_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 12:32:16 +0200",
+      "excerpt": "Romeo: 'Vogliamo una Lega più collegiale, squadra è parola d'ordine'"
+    },
+    {
       "title": "Sorprende i ladri nel cortile di casa, spara e ne uccide uno ",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorprende-i-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_016cdb4e-c1c9-49c5-80df-5241d7dc17e2.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 11:53:51 +0200",
+      "pubDate": "Sun, 20 Sep 2026 12:31:20 +0200",
       "excerpt": "E' accaduto a Baldissero d'Alba nella notte"
     },
     {
@@ -590,7 +597,7 @@
       "link": "https://torino.repubblica.it/cronaca/2026/09/20/news/baldissero_d_alba_ladro_ucciso_cortile-425596275/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 08:54:18 +0000",
-      "excerpt": "L’uomo ha impugnato la pistola ed esploso dei colpi nel buio, poi ha chiamato i carabinieri. Ora è indagato per omicidio."
+      "excerpt": "La tragedia a venti chilometri da Grinzane Cavour, il paese del gioielliere Mario Roggero. L’uomo ha impugnato la pistola ed esploso dei colpi nel buio, poi ha chiamato i carabinieri: ora è indagato per omicidio"
     },
     {
       "title": "Centocelle, coltellate alla prof e deriva social: “Gli piacevano i video di omicidi”",
@@ -614,7 +621,7 @@
       "excerpt": "Dopo l’aggressione alla scuola media Verga emerge una costante: altri episodi di ragazzini legati da comunità virtuali violente"
     },
     {
-      "title": "Pontida 2026, Salvini svela targa per Bossi. Scontro di cori, Romeo: “Squadra è la parola d’ordine”",
+      "title": "Pontida 2026, pratone dedicato a Bossi. Giorgetti: nemici sono fuori dalla Lega. Romeo: fare squadra",
       "link": "https://www.repubblica.it/politica/2026/09/20/diretta/salvini_pontida_lega_oggi-425596199/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 08:13:38 +0000",
@@ -626,13 +633,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 08:11:48 +0000",
       "excerpt": "Il partito del cancelliere tedesco rischia di perdere terreno e di finire fuori dal Parlamento regionale. Dopo il flop in Sassonia-Anhalt, cresce la pressione sul cancelliere: tra ipotesi di governo di minoranza e cambio"
-    },
-    {
-      "title": "Trump anticipa il rientro da Camp David e torna alla Casa Bianca",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/trump-anticipa-il-rientro-da-camp-david-e-torna-alla-casa-bianca_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 09:55:17 +0200",
-      "excerpt": "Il presidente è arrivato attorno alle 2 di mattina ora italiana"
     },
     {
       "title": "De Cataldo: 'Romanzo Criminale in lirica è un sogno che si avvera'",
@@ -649,18 +649,18 @@
       "excerpt": "Inaugurata la residency che prevede 12 concerti e spettacoli e appuntamenti in città"
     },
     {
+      "title": "Juve, c’è Sarri per spazzare via la crisi. Spalletti perde anche Grabara, stagione finita",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/20/news/juventus_infortunio_grabara_cosa_e_successo-425596107/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 07:07:15 +0000",
+      "excerpt": "Alle 18 la sfida contro l’Atalanta del tecnico toscano, mai entrato nel cuore dei tifosi bianconeri. Servono i tre punti per dimenticare il ko di Sassuolo. Il portiere polacco si rompe il crociato"
+    },
+    {
       "title": "Maxi-concorso Mic, pasticcio infinito: 200mila candidati per 1.800 posti ancora in attesa",
       "link": "https://www.repubblica.it/economia/2026/09/20/news/mic_maxi_concorso_candidati_attesa_data_novembre-425595616/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 03:00:00 +0000",
       "excerpt": "Dopo mesi di stallo sono finalmente stati sbloccati i fondi per procedere con l’organizzazione della prova. Ma dopo le continue scintille tra ministero della Cultura e Formez, e la rabbia di sindacati e aspiranti dipende"
-    },
-    {
-      "title": "Francesco Fanucchi: “Rido di tutto ma non sopporto la pietà”",
-      "link": "https://www.repubblica.it/spettacoli/teatro-danza/2026/09/20/news/francesco_fanucchi_comico_disabilita_intervista-425595434/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 03:00:00 +0000",
-      "excerpt": "Il comico toscano, 35 anni, trasforma la sua disabilità in materia per monologhi taglienti: “Tanti si infuriano per la mia comicità. I più pericolosi sono i tifosi di calcio”"
     },
     {
       "title": "Scrivania al centro, back to work tra stress in ufficio e spazio di lavoro",
@@ -742,18 +742,18 @@
   ],
   "sport": [
     {
-      "title": "Serie A: Fiorentina-Napoli in campo alle 12.30 DIRETTA",
+      "title": "Serie A: Fiorentina-Napoli in campo DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-in-campo-alle-12.30-diretta_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
       "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 09:08:02 +0200",
+      "pubDate": "Sun, 20 Sep 2026 12:25:10 +0200",
       "excerpt": "Il tecnico viola: Alla mia squadra ho chiesto di fare un altro step di crescita"
     },
     {
-      "title": "Milano batte la Virtus Bologna, in finale di Supercoppa c'è Venezia",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/milano-batte-la-virtus-bologna-in-finale-di-supercoppa-ce-venezia_f9642ccc-e765-4966-a502-9b0b57c1df96.html",
+      "title": "Calcio: Torino, Mandragora 'vogliamo e pretendiamo di più da noi'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-torino-mandragora-vogliamo-e-pretendiamo-di-piu-da-noi_aef39862-b565-4950-ba65-c6b27e50b5e4.html",
       "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 00:22:11 +0200",
-      "excerpt": "L'Olimpia vince 80-71 e raggiunge la Reyer, impostasi sui padroni di casa di Tortona"
+      "pubDate": "Sun, 20 Sep 2026 12:25:06 +0200",
+      "excerpt": "Il granata su social dopo l'1-1 a Bologna, 'ci toglieremo soddisfazioni'"
     },
     {
       "title": "Basket in carrozzina, storico argento ai Mondiali per l'Italia",
