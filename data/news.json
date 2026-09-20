@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-20T07:07:02.160Z",
+  "lastUpdated": "2026-09-20T07:37:02.848Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Maxi-concorso Mic, pasticcio infinito: 200mila candidati per 1.800 posti ancora in attesa",
+        "link": "https://www.repubblica.it/economia/2026/09/20/news/mic_maxi_concorso_candidati_attesa_data_novembre-425595616/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 20 Sep 2026 05:00:00 +0200",
+        "excerpt": "Dopo mesi di stallo sono finalmente stati sbloccati i fondi per procedere con l’organizzazione della prova. Ma dopo le continue scintille tra ministero della Cultura e Formez, e la rabbia di sindacati e aspiranti dipende"
+      },
+      {
+        "title": "Con i tassi in salita, è l’ora di rivedere i portafogli",
+        "link": "https://www.repubblica.it/economia/2026/09/20/news/rialzo_tassi_interesse_rendimenti_obbligazioni_dove_investire-425595606/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 20 Sep 2026 05:00:00 +0200",
+        "excerpt": "Le obbligazioni tornano a offrire rendimenti interessanti, mentre il rialzo del costo del denaro fa scendere il prezzo dei titoli già in circolazione. Dalle nuove scadenze ai bond già in portafoglio, come orientarsi nell"
+      },
       {
         "title": "Bollo auto, l’Ue apre: “Ci sono margini per usare i fondi Pnrr”",
         "link": "https://www.repubblica.it/economia/2026/09/20/news/bollo_auto_ue_apre_margini_utilizzo_fondi_pnrr-425595857/?rss",
@@ -157,25 +171,11 @@
         "excerpt": "Il responsabile della Difesa ricorda di avere riferito più volte in Parlamento, così come il capo di Stato maggiore, il comandante del Covi, il ministro degli Esteri e i sottosegretari alla Difesa"
       },
       {
-        "title": "Il flirt tra Europa e Canada conviene ma non fa i conti con le destre che avanzano",
-        "link": "https://www.repubblica.it/economia/rubriche/eurobarometro/2026/09/19/news/il_flirt_tra_europa_e_canada_conviene_ma_non_fa_i_conti_con_le_destre_che_avanzano-425593104/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 19 Sep 2026 14:00:00 +0200",
-        "excerpt": "Von der Leyen e Carney scaldano gli euro-ottimisti e segnano una via che ha anche un razionale economico. La domanda è quale sarà l’Unione tra un anno, senza Macron e Sanchez e con una Germania preda di Afd"
-      },
-      {
         "title": "Spaziani (Confedilizia),in manovra chiediamo cedolare secca sui negozi",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/spaziani-confediliziain-manovra-chiediamo-cedolare-secca-sui-negozi_64e1d380-bc0a-4b77-a22e-1fb34671b6d8.html",
         "source": "ANSA Economia",
         "pubDate": "Sat, 19 Sep 2026 12:36:26 +0200",
         "excerpt": "Sugli incentivi dibattito viziato dal superbonus, torniamo a ragionarci"
-      },
-      {
-        "title": "Crowdfunding immobiliare tra luci e ombre: oltre il miliardo, i rendimenti deludono le promesse",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/casa/2026/09/19/news/crowdfunding_immobiliare_rendimenti-425594847/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 19 Sep 2026 12:03:58 +0200",
-        "excerpt": "La raccolta annua scende ma le campagne finanziate raddoppiano, da 230 a 452, segno di ticket medi più contenuti e di una platea di investitori più ampia"
       },
       {
         "title": "Allarme Codacons, gasolio sfiora 2,9 in autostrada; fino a 3,1 euro per il servito",
@@ -401,6 +401,27 @@
     ],
     "mondo": [
       {
+        "title": "Seul, 'la Corea del Nord ha lanciato un proiettile verso il mar del Giappone'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/20/seul-la-corea-del-nord-ha-lanciato-un-proiettile-verso-il-mar-del-giappone_c2c4a65f-bcca-4341-b26c-c82e81167e57.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 09:29:44 +0200",
+        "excerpt": ""
+      },
+      {
+        "title": "Leader Hezbollah, 'la resistenza è l'unica via per liberare la nostra terra'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/leader-hezbollah-la-resistenza-e-lunica-via-per-liberare-la-nostra-terra_d7d3acd6-9fa5-4236-874b-5bc70cb628fd.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 09:25:40 +0200",
+        "excerpt": "'L'Iran ha vinto, la causa palestinese rimane una questione centrale'"
+      },
+      {
+        "title": "Tanzania, 'dieci leoni morti avvelenati nella riserva patrimonio Unesco'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/20/tanzania-dieci-leoni-morti-avvelenati-nella-riserva-patrimonio-unesco_11a14817-4eeb-4793-a083-74c744c78cb8.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 09:22:49 +0200",
+        "excerpt": "Indagine nell'area di Ngorongoro per determinare le cause e individuare i responsabili"
+      },
+      {
         "title": "Perché la monogamia può voler dire libertà. E che c’entra Kierkegaard",
         "link": "https://www.repubblica.it/esteri/dossier/lena/2026/09/20/news/perche_la_monogamia_puo_voler_dire_liberta_e_che_c_entra_kierkegaard-425591422/?rss",
         "source": "Repubblica Esteri",
@@ -513,27 +534,6 @@
         "excerpt": ""
       },
       {
-        "title": "L'Honduras prepara il bombardamento delle nuvole contro la siccità",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/19/lhonduras-prepara-il-bombardamento-delle-nuvole-contro-la-siccita_bc8d8b49-16d2-40bd-94f4-ed1bb295bf63.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 18:12:19 +0200",
-        "excerpt": "Il piano mira a stimolare la pioggia nella vulnerabile regione del Corredor Seco"
-      },
-      {
-        "title": "Berlinesi al voto fra l'emergenza casa e la rabbia per il degrado",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/berlinesi-al-voto-fra-lemergenza-casa-e-la-rabbia-per-il-degrado_2fe64173-3402-44a1-97c1-eb5976688ef8.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 18:06:39 +0200",
-        "excerpt": "La star della Linke Eralp in pole, Afd terza. Merz sulla graticola anche in Pomerania"
-      },
-      {
-        "title": "Ex Pussy Riot, 'io reclutata da Mosca e costretta a spiare per loro'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/19/ex-pussy-riot-io-reclutata-da-mosca-e-costretta-a-spiare-per-loro_79b6d236-4d05-4a94-b1d9-88b419de7c9d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 19 Sep 2026 18:02:46 +0200",
-        "excerpt": "La 29enne intervistata dal Guardian dopo essere fuggita dalla Russia ad agosto"
-      },
-      {
         "title": "US Treasury’s Bessent to discuss AI, rare earths with China’s He, source says",
         "link": "https://www.investing.com/news/commodities-news/us-treasurys-bessent-plans-to-discuss-ai-and-rare-earths-with-chinas-he-source-says-4907786",
         "source": "Investing.com Commodities",
@@ -572,18 +572,32 @@
   },
   "attualita": [
     {
-      "title": "Raid di droni ucraini su Mosca, almeno due morti",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/allarme-per-droni-in-volo-su-kiev-raid-su-mosca_a2b0173b-8bb7-44a0-947e-7cca5ba92364.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 08:04:57 +0200",
-      "excerpt": "Colpita una raffineria nei dintorni della capitale russa e un monastero a Kherson"
-    },
-    {
       "title": "Trump anticipa il rientro da Camp David e torna alla Casa Bianca",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/trump-anticipa-il-rientro-da-camp-david-e-torna-alla-casa-bianca_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 06:43:12 +0200",
+      "pubDate": "Sun, 20 Sep 2026 09:15:24 +0200",
       "excerpt": "Il presidente è arrivato attorno alle 2 di mattina ora italiana"
+    },
+    {
+      "title": "Raid di droni ucraini su Mosca, almeno due morti",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/allarme-per-droni-in-volo-su-kiev-raid-su-mosca_a2b0173b-8bb7-44a0-947e-7cca5ba92364.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 09:12:46 +0200",
+      "excerpt": "Colpita una raffineria nei dintorni della capitale russa e un monastero a Kherson"
+    },
+    {
+      "title": "Juve, c’è Sarri per spazzare via la crisi. Spalletti perde anche Grabara, stagione finita",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/20/news/juventus_infortunio_grabara_cosa_e_successo-425596107/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 07:07:15 +0000",
+      "excerpt": "Alle 18 la sfida contro l’Atalanta del tecnico toscano, mai entrato nel cuore dei tifosi bianconeri. Servono i tre punti per dimenticare il ko di Sassuolo. Il portiere polacco si rompe il crociato"
+    },
+    {
+      "title": "Leader Hezbollah: 'La resistenza è l'unica via per liberare la nostra terra'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/leader-hezbollah-la-resistenza-e-lunica-via-per-liberare-la-nostra-terra_57eef5a5-0e47-49d7-8187-ade7360bb11b.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 08:24:45 +0200",
+      "excerpt": "'L'Iran ha vinto, la causa palestinese rimane una questione centrale'"
     },
     {
       "title": "Maxi-concorso Mic, pasticcio infinito: 200mila candidati per 1.800 posti ancora in attesa",
@@ -598,13 +612,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 03:00:00 +0000",
       "excerpt": "Il comico toscano, 35 anni, trasforma la sua disabilità in materia per monologhi taglienti: “Tanti si infuriano per la mia comicità. I più pericolosi sono i tifosi di calcio”"
-    },
-    {
-      "title": "Ed Sheeran torna sul palco dopo la bufera e parla di Gaza: 'Situazione ingiustificabile'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/2026/09/20/ed-sheeran-torna-sul-palco-dopo-la-bufera-e-parla-di-gaza-situazione-ingiustificabile_c8e9f0d5-5296-49f3-9efe-2626f702bb82.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 03:22:50 +0200",
-      "excerpt": "Il prezzo del biglietto è crollato da 123 a 67dollari per lo show della popstar britannica"
     },
     {
       "title": "Mosca: cyber attacchi contro il voto. Svolta americana: ok alla vendita di missili a Kiev",
@@ -640,13 +647,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
       "excerpt": "L’analista: “Solo la Cina potrebbe fermare il conflitto: se ci riuscisse farebbe un grande colpo aumentando ulteriormente la sua influenza regionale”"
-    },
-    {
-      "title": "Il rilancio di Schlein: “Prima il programma dopo la leadership”",
-      "link": "https://www.repubblica.it/politica/2026/09/20/news/il_rilancio_di_schlein_prima_il_programma_dopo_la_leadership-425595891/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "excerpt": "La segretaria dem predica cautela: “La guida del campo largo? Bisogna chiarire cosa vogliamo fare quando batteremo le destre e arriveremo al governo”"
     },
     {
       "title": "Oktoberfest al via, torna la festa della birra",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Serie A: Fiorentina-Napoli in campo alle 12.30 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-in-campo-alle-12.30-diretta_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 09:08:02 +0200",
+      "excerpt": "Il tecnico viola: Alla mia squadra ho chiesto di fare un altro step di crescita"
+    },
+    {
       "title": "Milano batte la Virtus Bologna, in finale di Supercoppa c'è Venezia",
       "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/milano-batte-la-virtus-bologna-in-finale-di-supercoppa-ce-venezia_f9642ccc-e765-4966-a502-9b0b57c1df96.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 19 Sep 2026 22:37:11 +0200",
       "excerpt": "I lagunari sbagliano dal dischetto e sprofondano, i biancocelesti no"
-    },
-    {
-      "title": "Il Real Madrid vince la nuova SuperCup di Eurolega, Olympiakos ko",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/19/il-real-madrid-vince-la-nuova-supercup-di-eurolega-olympiakos-ko_2b45d748-207e-47ba-9a8f-924c560903aa.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 21:42:24 +0200",
-      "excerpt": "Gli spagnoli si impongono 93-89 in finale, terzo il Fenerbahce"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
