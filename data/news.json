@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-20T22:07:18.668Z",
+  "lastUpdated": "2026-09-20T22:37:11.600Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Jefferies rimane rialzista sull’S&P 500, obiettivo 9.000 entro fine 2027",
+        "link": "https://it.investing.com/news/stock-market-news/jefferies-rimane-rialzista-sullsp-500-obiettivo-9000-entro-fine-2027-3555431",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-20 22:03:44",
+        "excerpt": ""
+      },
       {
         "title": "Elezioni di metà mandato: cosa fanno i mercati e cosa è già prezzato?",
         "link": "https://it.investing.com/news/stock-market-news/elezioni-di-meta-mandato-cosa-fanno-i-mercati-e-cosa-e-gia-prezzato-3555429",
@@ -199,13 +206,6 @@
         "excerpt": ""
       },
       {
-        "title": "Il peso di SpaceX nel Nasdaq 100 salirà al 2,82% nel ribilanciamento trimestrale",
-        "link": "https://it.investing.com/news/stock-market-news/il-peso-di-spacex-nel-nasdaq-100-salira-al-282-nel-ribilanciamento-trimestrale-3555362",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-19 18:56:58",
-        "excerpt": ""
-      },
-      {
         "title": "Bruxelles chiarisce su fondi Pnrr per il taglio del bollo, 'ci sono margini'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/bruxelles-chiarisce-su-fondi-pnrr-per-il-taglio-del-bollo-ci-sono-margini_60f8c90f-671c-4530-8048-de1e819f00e3.html",
         "source": "ANSA Economia",
@@ -247,7 +247,7 @@
         "link": "https://www.ilsole24ore.com/art/exit-poll-linke-primo-partito-berlino-cdu-salva-un-soffio-meclemburgo-AJSiBxIB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sun, 20 Sep 2026 16:13:00 GMT",
-        "excerpt": "La Linke vede un traguardo storico con la conquista di Berlino, la Cdu è fuori dal Parlamento in Meclemburgo-Pomerania Anteriore. Le urne si sono chiuse domenica sera nei due Länder..."
+        "excerpt": "La Linke vede un traguardo storico, con la conquista di Berlino. Per la Cdu la prospettiva è l’esclusione in Meclemburgo-Pomerania Anteriore. Le urne si sono chiuse domenica sera nei due..."
       },
       {
         "title": "Sondaggio Nbc: il 55% degli americani ritiene che Trump abbia danneggiato l’economia",
@@ -387,6 +387,20 @@
     ],
     "mondo": [
       {
+        "title": "Risultati preliminari, la Cdu è fuori dal parlamentino in Pomerania, prima volta",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/risultati-preliminari-la-cdu-e-fuori-dal-parlamentino-in-pomerania-prima-volta_95ee8ff7-e42d-4e20-8574-09fbfee28c80.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 00:20:04 +0200",
+        "excerpt": "Ha preso il 4,9%, sfiorando la soglia di ingresso del 5"
+      },
+      {
+        "title": "Oil rises after Houthi attack on Saudi capital",
+        "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-20 22:18:25",
+        "excerpt": ""
+      },
+      {
         "title": "Russia Unita mantiene il vantaggio nelle elezioni col 41,04% delle schede scrutinate",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/russia-unita-mantiene-il-vantaggio-nelle-elezioni-col-4104-delle-schede_6cebeb61-8cc1-4dc7-9936-f6ea74ec4576.html",
         "source": "ANSA Mondo",
@@ -448,13 +462,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 20 Sep 2026 19:07:02 +0200",
         "excerpt": "'In 24 ore abbattuti 1.951 droni e 8 missili da crociera'"
-      },
-      {
-        "title": "Weidel, Merz tragga le conseguenze, noi il partito più forte del Paese",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/weidel-merz-tragga-le-conseguenze-noi-il-partito-piu-forte-del-paese_7adc80f7-f077-48bf-beeb-3ec03c66c356.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 18:53:29 +0200",
-        "excerpt": "La leader dell'AfD: 'Deve farlo per il suo partito e per la Germania'"
       },
       {
         "title": "Il fratello di Lady D.: “Harry e Meghan sono stati maltrattati dai media come la principessa Diana”",
@@ -546,13 +553,6 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-18 21:13:14",
         "excerpt": ""
-      },
-      {
-        "title": "Gold heads for slight weekly gain as decline in oil prices offset Fed rate hike",
-        "link": "https://www.investing.com/news/commodities-news/gold-rises-as-lower-oil-treasury-yields-ease-inflation-pressure-4906609",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-18 20:41:57",
-        "excerpt": ""
       }
     ]
   },
@@ -593,6 +593,13 @@
       "excerpt": "Dopo il 5-0 in coppa, le reti di Conceiçao e Bremer consentono a Spalletti di rilanciarsi"
     },
     {
+      "title": "Mourinho mostra le foto degli errori arbitrali dopo la sconfitta del Real con l’Atletico",
+      "link": "https://www.repubblica.it/sport/calcio/esteri/2026/09/20/news/mourinho_foto_errori_arbitrali_real_atletico-425596986/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 18:14:10 +0000",
+      "excerpt": "Il tecnico battuto 2-1 nel derby: “Due rossi evidenti, succedono cose strane, così a cosa serve dire di non arrenderci? Al Barcellona danno dei rigori da ridere”"
+    },
+    {
       "title": "La stretta di Meloni: 'In classe tetto agli stranieri e divieto di burqa'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
       "source": "ANSA",
@@ -626,13 +633,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 16:07:25 +0000",
       "excerpt": "Il tredicenne che venerdì ha aggredito la sua insegnante di storia alla scuola media Verga è ancora ricoverato in Psichiatria pediatrica al Policlinico"
-    },
-    {
-      "title": "La dirigente della scuola multietnica: “Non è un problema di numeri, ma culturale e urbanistico”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/20/news/tetto_stranieri_scuola_intervista_rosanna_labalestra_roma-425596774/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 15:56:57 +0000",
-      "excerpt": "Rosanna Labalestra guida l’Istituto Comprensivo Simonetta Salacone di Roma: “Dobbiamo essere messi nella condizione di poter attuare le misure, oggi è tutto affidato alla buona volontà dei plessi”"
     },
     {
       "title": "L'Amorino torna restaurato alla Gypsoteca canoviana",
