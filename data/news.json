@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T23:34:39.218Z",
+  "lastUpdated": "2026-09-20T00:11:16.976Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+        "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-19 23:36:26",
+        "excerpt": ""
+      },
+      {
         "title": "Russia, il mistero di Yulya Kuznetsova: candidata scomparsa che lotta per la pace",
         "link": "https://www.repubblica.it/esteri/2026/09/20/news/russia_mistero_yulya_kuznetsova_candidata_verdi_elezioni_duma_scomparsa-425595828/?rss",
         "source": "Repubblica Esteri",
@@ -441,13 +448,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Sun, 20 Sep 2026 01:00:00 +0200",
         "excerpt": "“Garantiremo la sicurezza, ci saranno solo basi Usa”. Sulla sovranità però vince Frederiksen: “Riconosciuta l’integrità territoriale”"
-      },
-      {
-        "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-        "link": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-19 22:06:28",
-        "excerpt": ""
       },
       {
         "title": "Macron, 'accordo su Groenlandia placa gli animi e riafferma la sovranità danese'",
@@ -572,39 +572,60 @@
   },
   "attualita": [
     {
+      "title": "Mazzola e Rivera, il mito della Staffetta che divideva un Paese",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/20/news/mazzola_rivera_staffetta_divideva_un_paese-425595628/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
+      "excerpt": "“Mazzandro” e l’”Abatino” furono rivali in campionato e legati dalla storica alternanza al Mondiale in Messico"
+    },
+    {
+      "title": "Il figlio di Sandro Mazzola: “Papà alle mie partite si nascondeva tra i tifosi”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/20/news/figlio_sandro_mazzola_papa_nascondeva_tifosi_partite-425595811/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
+      "excerpt": "“li piaceva stare in mezzo alla gente. Si fermava volentieri a parlare con chi veniva a salutarlo”"
+    },
+    {
+      "title": "Pichetto: “Su luce e gas pronti a intervenire senza l’ok dell’Europa”",
+      "link": "https://www.repubblica.it/economia/2026/09/20/news/pichetto_fratin_prezzi_energia_gas_rinnovabili-425595872/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il ministro sulle misure inattuate per ridurre i costi: “Basta eterni negoziati con Bruxelles, siamo disposti a rischiare una procedura di infrazione. Rinnovabili in linea con gli obiettivi, ora si vedrà l’accelerazione,"
+    },
+    {
+      "title": "Gopinath: “L’IA è un rischio. Usa e Cina si accordino per garantire la sicurezza”",
+      "link": "https://www.repubblica.it/economia/2026/09/20/news/gopinath_serve_un_intesa_tra_stati_uniti_e_cina_sull_ia_e_un_rischio_e_va_governata-425595732/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
+      "excerpt": "L’economista americana ex vicedirettrice dell’Fmi enuncia: “Ci stiamo affidando alla sorte. La politica è indietro”. L’intelligenza artificiale “può diffondere prosperità oppure concentrarla nelle mani di pochi”"
+    },
+    {
+      "title": "La Pontida della resa dei conti tra governatori e rischio fischi. Salvini “oscura” la scaletta",
+      "link": "https://www.repubblica.it/politica/2026/09/20/news/la_pontida_salvini_governatori_lega_scaletta-425595940/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
+      "excerpt": "Stamattina la tradizionale adunata leghista sul pratone del Bergamasco, il vicepremier tenta la carta del ricordo di Bossi per evitare le contestazioni"
+    },
+    {
+      "title": "Spazi ristretti e nostalgia, il mesto comizio di Salvini che sa già di commiato",
+      "link": "https://www.repubblica.it/politica/2026/09/20/news/salvini_pontida_comizio_lega-425595944/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
+      "excerpt": "I ragazzi del partito arrivati da tutta Italia sono la metà dello scorso anno. Durigon ha fatto partire seicento militanti dal Lazio"
+    },
+    {
+      "title": "Alemanno: “Vannacci sarà presto premier, Meloni sta sbagliando”",
+      "link": "https://www.repubblica.it/politica/2026/09/20/news/alemanno_vannacci_premier_meloni_intervista-425595948/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
+      "excerpt": "L’ex sindaco di Roma oggi aderirà a Fn: “La leader di FdI e il generale devono sentirsi anche se io resto rigido”"
+    },
+    {
       "title": "Il salvagente di Lautaro dopo la tempesta Koné: è uno scudetto per due",
       "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/20/news/roma_inter_protagonisti_kone_lautaro-425595863/",
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
       "excerpt": "Corteggiati da Barcellona e Chelsea in coda al mercato, protagonisti all’Olimpico. L’omaggio dell’argentino a Mazzola"
-    },
-    {
-      "title": "Spesso il male di vivere ho allenato",
-      "link": "https://www.repubblica.it/sport/calcio/2026/09/20/news/allenatori_male_di_vivere_spalletti_sarri_grosso_amorim-425595593/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "excerpt": "La rubrica È sempre domenica"
-    },
-    {
-      "title": "Certificati Cpr, la rabbia di Cucchi: “Le mie chat acquisite illegalmente”",
-      "link": "https://bologna.repubblica.it/cronaca/2026/09/20/news/manifestazione_bologna_corteo_cucchi_ravenna-425595886/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "excerpt": "“Sono state ignorate quelle di altri parlamentari. Enon credo che Cocco parlasse di calcio. Trovate le differenze con il caso Delmastro”"
-    },
-    {
-      "title": "Salvini attacca il giornalista di Repubblica: “Prezzolato”, il comunicato del cdr e direzione",
-      "link": "https://www.repubblica.it/politica/2026/09/19/news/salvini_attacco_repubblica_berizzi_comunicato_cdr_direzione-425595925/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 21:12:28 +0000",
-      "excerpt": "Il vicepremier leghista contro il nostro cronista Paolo Berizzi per un articolo su Pontida. La solidarietà del giornale al collega"
-    },
-    {
-      "title": "La Lazio vince 2-0 a Venezia e aggancia Inter e Roma in vetta",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/19/news/venezia_lazio_gol-425595907/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 21:00:31 +0000",
-      "excerpt": "Mandas para un rigore a Yeboah, Zaccagni invece non fallisce dal dischetto. Quindi Noslin completa l’opera. Un terzetto guida il campionato"
     },
     {
       "title": "Riad sott'attacco. Gli Houthi: 'Non siamo in guerra con l'Italia'",
@@ -628,20 +649,6 @@
       "excerpt": "Oktoberfest al via, torna la festa della birra"
     },
     {
-      "title": "Trump: presto una task force sugli algoritmi. E OpenAI brucia 280 miliardi di cassa",
-      "link": "https://www.repubblica.it/economia/2026/09/20/news/trump_presto_una_task_force_sugli_algoritmi_e_openai_brucia_280_miliardi_di_cassa-425595764/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 19:40:00 +0000",
-      "excerpt": "Il presidente americano: “Sto creando la ‘AI Force’ e a breve annuncerò il nome del responsabile”"
-    },
-    {
-      "title": "Cos’è l’accelerazionismo, la galassia estremista che ha ispirato il 13enne accoltellatore della prof",
-      "link": "https://www.repubblica.it/cronaca/2026/09/19/news/che_cosa_e_l_ccelerazionismo_tredicenne_studente_accoltella_la_prof_centocelle-425595794/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 19:29:14 +0000",
-      "excerpt": "Dietro allo studente della scuola di Centocelle, i carabinieri indagano su una rete di Telegram legata a questa formazione suprematista. Niente capi né gerarchie: solo “santi” da imitare e manuali per accelerare il caos"
-    },
-    {
       "title": "8 giovani su 10 si impegnano nella vita pubblica ma le istituzioni non li ascoltano",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/09/17/8-giovani-su-10-si-impegnano-nella-vita-pubblica-ma-le-istituzioni-non-li-ascoltano_8fe1c5d0-94e5-45e6-bfce-882bfe9c939f.html",
       "source": "ANSA",
@@ -654,13 +661,6 @@
       "source": "ANSA",
       "pubDate": "Sat, 19 Sep 2026 19:51:19 +0200",
       "excerpt": "Bowie l'ispirazione, sfondo Gb anni '50, esce in febbraio l'opera rock"
-    },
-    {
-      "title": "Attacco Houthi su Riad, avvertono Roma: “Non in guerra con voi, ma con i jet sostenete i sauditi”",
-      "link": "https://www.repubblica.it/esteri/2026/09/19/news/attacco_houthi_riad_avvertono_italia_aerei_base_sostenete_guerra_sauditi-425595553/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 17:37:37 +0000",
-      "excerpt": "Il portavoce dei ribelli yemeniti: “Non siamo in conflitto con Roma, ma ci chiediamo perché i loro aerei sono in Arabia”. Sul campo è escalation: missile sullo scalo della capitale"
     },
     {
       "title": "L'Italia piange Sandro Mazzola: 'Eri il figlio del calcio'",
