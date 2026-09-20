@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-20T13:36:51.328Z",
+  "lastUpdated": "2026-09-20T14:07:41.282Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Scuola, opposizione alla carica: limite stranieri era già in circolare Gelmini. Schlein: Meloni ci dica quando voteremo",
+        "link": "https://www.ilsole24ore.com/art/scuola-opposizione-carica-limite-stranieri-era-gia-circolare-gelmini-schlein-meloni-ci-dica-quando-voteremo-AJA8f7IB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sun, 20 Sep 2026 13:48:00 GMT",
+        "excerpt": "Le repliche del centro sinistra alle affermazioni della premier Giorgia Meloni durante l’evento Fenix di Gioventù nazionale n0n si sono fatte attendere. Il tema di scontro diventa soprattutto..."
+      },
       {
         "title": "La Sportiva, dal Trentino l’azienda che dice “no” agli scarponi militari",
         "link": "https://www.repubblica.it/economia/2026/09/20/news/la_sportiva_azienda_trentino_no_scarponi_militari-425596550/?rss",
@@ -28,7 +35,7 @@
         "link": "https://www.ilsole24ore.com/art/meloni-arrivo-numero-massimo-stranieri-classe-e-niente-burqa-scuola-AJTfI2IB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 20 Sep 2026 10:39:00 GMT",
-        "excerpt": "«Sta per arrivare in Cdm un provvedimento che introduce per legge il numero massimo di studenti stranieri per classe, e introduce l’obbligo per i genitori di studenti stranieri con problemi..."
+        "excerpt": "La premier: «Licenzieremo presto la norma che introduce la denominazione di liceo anche per gli istituti tecnico-professionali». I presidi: tetto stranieri condivisibile ma difficile da applicare"
       },
       {
         "title": "Google mette ancora l’IA tra le notizie e i lettori: il nuovo test su Discover allarma gli editori",
@@ -171,11 +178,11 @@
         "excerpt": "Meno tasse per il ceto medio, incentivi ai giovani, nuova spinta all’efficienza energetica delle abitazioni e agevolazioni per proprietari immobiliari e partite Iva. Ma anche rinnovi di misure già sperimentate..."
       },
       {
-        "title": "M5S, Conte: no ad armi e riarmo. E rilancia la svolta negoziale sull’Ucraina: «Gli europei ci appoggeranno»",
+        "title": "M5S: il 91,7% chiede a Conte di dire no alle armi in Ucraina",
         "link": "https://www.ilsole24ore.com/art/m5s-conte-no-ad-armi-e-riarmo-e-rilancia-svolta-negoziale-sull-ucraina-gli-europei-ci-appoggeranno-AJhpQXIB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 19 Sep 2026 16:28:00 GMT",
-        "excerpt": "«Mi sembra che emerga un mandato chiaro e ben preciso, dobbiamo costruire percorsi di pace, con la guerra non andiamo da nessuna parte. Le armi allontanano la pace». Ad affermarlo..."
+        "excerpt": "Il leader del Movimento Giuseppe Conte dal palco di Nova fissa le priorità per il centrosinistra in caso di vittoria alle elezioni: «Nel primo Consiglio dei ministri abolire le misure che reprimono il dissenso politico»"
       },
       {
         "title": "Ue, non si perda il treno della Ia. Esposto a rischio il 60% dei posti di lavoro europei",
@@ -183,13 +190,6 @@
         "source": "ANSA Economia",
         "pubDate": "Sat, 19 Sep 2026 17:11:51 +0200",
         "excerpt": "Dombrovskis: \"Non ripetere l'errore del digitale\". Fmi, con IA produttività +1% in 5 anni"
-      },
-      {
-        "title": "Stangata bollette: 1 miliardo in più per negozi, ristoranti e hotel",
-        "link": "https://www.ilsole24ore.com/art/stangata-bollette-1-miliardo-piu-negozi-ristoranti-e-hotel-AJY6SUIB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 19 Sep 2026 15:07:00 GMT",
-        "excerpt": "Nel secondo semestre del 2026 le imprese del commercio, del turismo e della ristorazione pagheranno oltre un miliardo di euro in più di bolletta elettrica. È il conto che <a..."
       },
       {
         "title": "Dombrovskis, 'pagamenti del Pnrr possono non essere allineati ai costi'",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Venezuela, Delcy Rodríguez vede il presidente del Paraguay e vola all'Onu da Trump",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/20/venezuela-delcy-rodriguez-vede-il-presidente-del-paraguay-e-vola-allonu-da-trump_1a933e16-ea03-4a48-ae0b-ec8266515fb6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 15:45:52 +0200",
+        "excerpt": "Riprendono i rapporti tra i due Paesi, prosegue il dialogo interno con l'opposizione"
+      },
+      {
         "title": "Iran warns against new escalation by US and allies",
         "link": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
         "source": "Investing.com Commodities",
@@ -492,13 +499,6 @@
         "excerpt": "Il partito del cancelliere tedesco rischia di perdere terreno e di finire fuori dal Parlamento regionale. Dopo il flop in Sassonia-Anhalt, cresce la pressione sul cancelliere: tra ipotesi di governo di minoranza e cambio"
       },
       {
-        "title": "Ghalibaf, 'se non saranno soddisfatte le nostre condizioni Hormuz resterà chiuso'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/ghalibaf-se-non-saranno-soddisfatte-le-nostre-condizioni-hormuz-restera-chiuso_29156ac9-a55d-43b7-8551-ad9b906ef468.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 09:35:20 +0200",
-        "excerpt": "'Bisogna sia combattere che negoziare'"
-      },
-      {
         "title": "Perché la monogamia può voler dire libertà. E che c’entra Kierkegaard",
         "link": "https://www.repubblica.it/esteri/dossier/lena/2026/09/20/news/perche_la_monogamia_puo_voler_dire_liberta_e_che_c_entra_kierkegaard-425591422/?rss",
         "source": "Repubblica Esteri",
@@ -575,15 +575,22 @@
       "title": "Meloni: 'In classe numero massimo di stranieri e divieto di burqa, norma in arrivo'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 15:07:47 +0200",
+      "pubDate": "Sun, 20 Sep 2026 15:56:29 +0200",
       "excerpt": "La premier alla festa dei giovani di Fdi: 'Immensamente fiera di voi'"
     },
     {
       "title": "Serie A, in campo Frosinone-Como DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-frosinone-como-in-campo-diretta_a16575d6-66fe-4050-b634-b38b963e6302.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 15:00:24 +0200",
+      "pubDate": "Sun, 20 Sep 2026 15:55:17 +0200",
       "excerpt": "Si gioca la quinta giornata di campionato"
+    },
+    {
+      "title": "Sorprende i ladri nel cortile di casa, spara e ne uccide uno",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorprende-i-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_016cdb4e-c1c9-49c5-80df-5241d7dc17e2.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 15:31:58 +0200",
+      "excerpt": "E' accaduto a Baldissero d'Alba nella notte. Un uomo di 35 anni indagato per omicidio"
     },
     {
       "title": "Il fratello di Lady D.: “Harry e Meghan sono stati maltrattati dai media come la principessa Diana”",
@@ -591,13 +598,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 12:20:30 +0000",
       "excerpt": "Charles Spencer in un’intervista alla Bbc: “Peccato che la lezione di quello che è successo a lei non sia stata appresa”"
-    },
-    {
-      "title": "Sorprende i ladri nel cortile di casa, spara e ne uccide uno",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorprende-i-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_016cdb4e-c1c9-49c5-80df-5241d7dc17e2.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 14:13:42 +0200",
-      "excerpt": "E' accaduto a Baldissero d'Alba nella notte. Un uomo di 35 anni indagato per omicidio"
     },
     {
       "title": "Il matrimonio di Trump Jr. pagato dall’oligarca russo, il tycoon lo difende: “Ma restituirà i soldi”",
@@ -618,7 +618,7 @@
       "link": "https://roma.repubblica.it/cronaca/2026/09/20/news/emanuela_orlandi_marco_accetti_morte_jose_garramon-425596336/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 09:27:29 +0000",
-      "excerpt": "Altri misteri e accuse sul fotografo al centro della sparizione di Emanuela. Secondo la mamma del ragazzino - travolto dal furgone con l’uomo alla guida nel 1983 - tra le due storia c’è un legame. “Non fu un incidente st"
+      "excerpt": "Altri misteri e accuse sul fotografo al centro della sparizione di Emanuela. Secondo la mamma del ragazzino, trovato morto a Ostia il 20 nel 1983, tra le due storia c’è un legame. “Non fu un incidente stradale”. E rivela"
     },
     {
       "title": "Baldissero d’Alba, scopre i ladri in cortile e spara: un morto",
@@ -742,6 +742,20 @@
   ],
   "sport": [
     {
+      "title": "Serie A: il Napoli non decolla, segna Gilmour ma la Fiorentina lo riprende",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-1-1_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 15:45:00 +0200",
+      "excerpt": "Jimenez regala un punto ai viola, per la squadra di Allegri la vetta resta lontana"
+    },
+    {
+      "title": "Calcio: 'situazione eccezionale', Spagna-Messico U20 non si gioca a Ceuta",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-situazione-eccezionale-spagna-messico-u20-non-si-gioca-a-ceuta_6c59ffa4-073e-4b52-a33a-fb34964a3295.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 15:40:13 +0200",
+      "excerpt": "La Polizia sconsigliava il match nell'exclave, la federazione lo sposta a Madrid"
+    },
+    {
       "title": "Serie A: Allegri, 'usciamo arrabbiati dal campo, dovevamo vincere'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-allegri-usciamo-arrabbiati-dal-campo-dovevamo-vincere_6cc54cfa-76cd-45ec-9a1e-57c2d04aee48.html",
       "source": "ANSA Sport",
@@ -756,25 +770,11 @@
       "excerpt": "Lunedì per volontà della famiglia niente tv e fotografi in Basilica"
     },
     {
-      "title": "Serie A, in campo Parma-Genoa DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-parma-genoa-in-campo-diretta_8852d9e7-1382-4d2b-91aa-eb29aab14c47.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 15:01:56 +0200",
-      "excerpt": "Si gioca la quinta giornata di campionato"
-    },
-    {
       "title": "Jimenez risponde a Gilmour, Fiorentina-Napoli 1-1",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/jimenez-risponde-a-gilmour-fiorentina-napoli-1-1_95544fe4-3dd6-4791-aa9b-db6645ff5ce9.html",
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 14:38:48 +0200",
       "excerpt": "La squadra di Allegri passa in vantaggio e si fa rimontare"
-    },
-    {
-      "title": "Serie A, Fiorentina-Napoli 1-1",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-1-1_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 14:31:32 +0200",
-      "excerpt": "Si gioca la quinta giornata di campionato"
     },
     {
       "title": "Domani i funerali di Sandro Mazzola, niente tv e fotografi in Basilica",
