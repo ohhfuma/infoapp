@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T11:07:08.051Z",
+  "lastUpdated": "2026-09-20T11:37:48.222Z",
   "finanza": {
     "italia": [
       {
@@ -45,7 +45,7 @@
         "excerpt": "Gli analisti vendono opportunità di crescita con investimenti e intelligenza artificiale"
       },
       {
-        "title": "Salvini a Pontida: «La Lega più unita che mai». Zaia: «Il riferimento resti il Nord»",
+        "title": "Pontida, Salvini a sorpresa: «Proporrò Congresso straordinario a ottobre»",
         "link": "https://www.ilsole24ore.com/art/al-via-pontida-oggi-e-giorno-big-attesa-salvini-AJpmzyIB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 20 Sep 2026 08:22:00 GMT",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "'Trump consapevole che le difficoltà del partito alle midterm sono in parte colpa sua'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/20/trump-consapevole-che-le-difficolta-del-partito-alle-midterm-sono-in-parte_0362f2ec-9763-4699-97ba-2178ed70526f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 13:33:47 +0200",
+        "excerpt": "Wp, questo lo ha spinto a impegnarsi di più e a mettere a disposizone più fondi"
+      },
+      {
         "title": "Parlamentari Gb chiedono lo stop ai cappelli d'orso delle guardie reali",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/parlamentari-gb-chiedono-lo-stop-ai-cappelli-dorso-delle-guardie-reali_57b313f6-319e-4ef1-95b4-62052fa641be.html",
         "source": "ANSA Mondo",
@@ -476,13 +483,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 20 Sep 2026 09:25:40 +0200",
         "excerpt": "'L'Iran ha vinto, la causa palestinese rimane una questione centrale'"
-      },
-      {
-        "title": "Tanzania, 'dieci leoni morti avvelenati nella riserva patrimonio Unesco'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/20/tanzania-dieci-leoni-morti-avvelenati-nella-riserva-patrimonio-unesco_11a14817-4eeb-4793-a083-74c744c78cb8.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 09:22:49 +0200",
-        "excerpt": "Indagine nell'area di Ngorongoro per determinare le cause e individuare i responsabili"
       },
       {
         "title": "Perché la monogamia può voler dire libertà. E che c’entra Kierkegaard",
@@ -572,25 +572,32 @@
   },
   "attualita": [
     {
-      "title": "Serie A: Fiorentina-Napoli in campo DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-in-campo-alle-12.30-diretta_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 12:54:11 +0200",
-      "excerpt": "Il tecnico viola: Alla mia squadra ho chiesto di fare un altro step di crescita"
-    },
-    {
-      "title": "Salvini a Pontida: 'Si vince uniti e la Lega è e sarà più unita che mai'",
+      "title": "Salvini a Pontida: 'Si vince uniti, Congresso straordinario a ottobre'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-pontida-le-magliette-pro-e-contro-salvini-sempre-con-lui-si-dimetta-subito_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 12:53:11 +0200",
+      "pubDate": "Sun, 20 Sep 2026 13:21:53 +0200",
       "excerpt": "'Non ha padroni e non è in vendita. È una emozione vedere le bandiere di tutte le Regioni'"
+    },
+    {
+      "title": "Meloni: 'In classe numero massimo di stranieri e divieto di burqa, norma in arrivo'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 13:20:42 +0200",
+      "excerpt": "La premier alla festa dei giovani di Fdi: 'Immensamente fiera di voi'"
+    },
+    {
+      "title": "Serie A: Fiorentina-Napoli in campo 0-1 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-in-campo-alle-12.30-diretta_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 13:18:38 +0200",
+      "excerpt": "Il tecnico viola: Alla mia squadra ho chiesto di fare un altro step di crescita"
     },
     {
       "title": "Sorprende i ladri nel cortile di casa, spara e ne uccide uno",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorprende-i-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_016cdb4e-c1c9-49c5-80df-5241d7dc17e2.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 12:50:18 +0200",
-      "excerpt": "E' accaduto a Baldissero d'Alba nella notte. Un uomo di 35 anni 35 anni indagato per omicidio"
+      "pubDate": "Sun, 20 Sep 2026 12:57:37 +0200",
+      "excerpt": "E' accaduto a Baldissero d'Alba nella notte. Un uomo di 35 anni indagato per omicidio"
     },
     {
       "title": "Il matrimonio di Trump Jr. pagato dall’oligarca russo, il tycoon lo difende: “Ma restituirà i soldi”",
@@ -600,18 +607,11 @@
       "excerpt": "Il presidente americano, pur definendo “perfettamente lecito” il finanziamento di Umar Kremlev per la festa alle Bahamas, ha assicurato che suo figlio ridarà la cifra usata per il ricevimento post nozze"
     },
     {
-      "title": "Meloni dai giovani FdI: “In Cdm numero massimo di studenti stranieri per classe. Stop burqua”",
+      "title": "Meloni dai giovani FdI: “In Cdm numero massimo di studenti stranieri per classe. Stop burqa”",
       "link": "https://www.repubblica.it/politica/2026/09/20/news/meloni_stranieri_studenti_classe_giovani_fdi-425596441/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 10:44:20 +0000",
       "excerpt": "L’annuncio della premier dal palco di Fenix, la festa di Gioventù nazionale. Il provvedimenti in arrivo. “I bambini italiani non possono sentirsi minoranza e a scuola si va con il viso scoperto”. Accusato poi Schlein di "
-    },
-    {
-      "title": "Meloni: 'In classe numero massimo di stranieri e divieto di burqa, norma in arrivo'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 12:44:12 +0200",
-      "excerpt": "La premier alla festa dei giovani di Fdi: 'Immensamente fiera di voi'"
     },
     {
       "title": "Baldissero d’Alba, scopre i ladri in cortile e spara: un morto",
@@ -642,11 +642,11 @@
       "excerpt": "Dopo l’aggressione alla scuola media Verga emerge una costante: altri episodi di ragazzini legati da comunità virtuali violente"
     },
     {
-      "title": "Pontida 2026, pratone dedicato a Bossi. Giorgetti: nemici sono fuori dalla Lega. Romeo: fare squadra",
+      "title": "Pontida 2026, Salvini: “Domani proporrò congresso straordinario a ottobre, non voglio divisioni”",
       "link": "https://www.repubblica.it/politica/2026/09/20/diretta/salvini_pontida_lega_oggi-425596199/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 08:13:38 +0000",
-      "excerpt": "Si conclude oggi il tradizionale raduno del partito, il primo senza il Senatur. Il pratone spaccato tra sostenitori del segretario e contestatori. E poi c’è il fronte dei governatori. Il capogruppo al Senato: “Vogliamo u"
+      "excerpt": "Si conclude oggi il tradizionale raduno del partito, il primo senza il Senatur. Il pratone spaccato tra sostenitori del segretario e contestatori. E poi c’è il fronte dei governatori. Romeo: “Vogliamo una Lega più colleg"
     },
     {
       "title": "Germania, voto a Berlino e Meclemburgo Pomerania: la Cdu rischia il tracollo, Merz in bilico",
@@ -742,10 +742,24 @@
   ],
   "sport": [
     {
-      "title": "Serie A: Fiorentina-Napoli in campo DIRETTA",
+      "title": "Serie A: Parma-Genoa in campo DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-parma-genoa-in-campo-diretta_8852d9e7-1382-4d2b-91aa-eb29aab14c47.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 13:29:12 +0200",
+      "excerpt": "'Parma? Sfida difficile ma ci sono premesse per l'ottima prestazione'"
+    },
+    {
+      "title": "Serie A: Frosinone-Como in campo DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-frosinone-como-in-campo-diretta_a16575d6-66fe-4050-b634-b38b963e6302.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 13:28:00 +0200",
+      "excerpt": "Monterisi: 'Como forte, ma il Frosinone sa cosa deve fare'"
+    },
+    {
+      "title": "Serie A: Fiorentina-Napoli in campo 0-1 DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-in-campo-alle-12.30-diretta_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
       "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 12:54:11 +0200",
+      "pubDate": "Sun, 20 Sep 2026 13:18:38 +0200",
       "excerpt": "Il tecnico viola: Alla mia squadra ho chiesto di fare un altro step di crescita"
     },
     {
@@ -782,20 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 00:20:05 +0200",
       "excerpt": "In finale vince l'Australia, per gli azzurri è il miglior risultato di sempre"
-    },
-    {
-      "title": "Calcio: Stroppa, 'la classifica non rispecchia quanto ha fatto la squadra'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/calcio-stroppa-la-classifica-non-rispecchia-quanto-ha-fatto-la-squadra_ca8e6763-acee-43ef-8f60-d02859916470.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 23:52:01 +0200",
-      "excerpt": "\"C'è grande delusione, il rigore sbagliato poteva cambiare l'inerzia del match\""
-    },
-    {
-      "title": "Serie A: Gattuso frena l'entusiasmo, 'abbiamo fatto di tutto per farli segnare'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/19/serie-a-gattuso-frena-lentusiasmo-abbiamo-fatto-di-tutto-per-farli-segnare_d9bcb3a2-9462-46f5-a7e5-7c19f8bfec50.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 19 Sep 2026 23:39:25 +0200",
-      "excerpt": "Il tecnico della Lazio: \"Molto bene però la ripresa. I tifosi ci lasciano lavorare\""
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
