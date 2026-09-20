@@ -426,6 +426,13 @@
     ],
     "europa": [
       {
+        "title": "Tv, il partito Russia Unita di Putin vince le elezioni con il 49,4% - Ucraina, grande attacco di droni contro Mosca",
+        "link": "https://www.ilsole24ore.com/art/tv-partito-russia-unita-putin-vince-elezioni-il-494percento-AJITKLJB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Sun, 20 Sep 2026 18:18:00 GMT",
+        "excerpt": "Il partito Russia Unita di Vladimir Putin ha vinto le elezioni per il rinnovo della Duma (la camera bassa del Parlamento) con il 49,4% dei voti, secondo un exit poll..."
+      },
+      {
         "title": "Usa: verso 1.000 miliardi di dollari di nuovo debito nel 2027",
         "link": "https://www.ilsole24ore.com/art/usa-1000-mld-dollari-nuovo-debito-2027-AJsfIIJB",
         "source": "Il Sole 24 Ore Mondo",
@@ -709,6 +716,20 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Nuova escalation, Trump torna prima da Camp David: 'Devo decidere sull'Iran' ",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/nuova-escalation-trump-torna-prima-da-camp-david-devo-decidere-sulliran_d85ac995-09c8-4380-8a2c-330e9dd7d8ba.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 20:27:41 +0200",
+        "excerpt": "Gli Usa alzano allerta per gli americani. All'Onu vede Paesi del Golfo,apre anche a Pezeshkian"
+      },
+      {
+        "title": "Tv, il partito Russia Unita di Putin vince le elezioni con il 49,4%",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/tv-il-partito-russia-unita-di-putin-vince-le-elezioni-con-il-494_c432c1d6-de08-474a-b861-4f27f4ad33a2.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 20:10:30 +0200",
+        "excerpt": "Lo rivela un exit poll dell'emittente statale"
+      },
       {
         "title": "Kallas scrive ai 27 per rafforzare Aspides, strada in salita ",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/kallas-scrive-ai-27-per-rafforzare-aspides-strada-in-salita-_10dc84e7-f0fa-4279-9237-3e50882bd55e.html",
@@ -1114,24 +1135,31 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-19 00:18:31",
         "excerpt": ""
-      },
-      {
-        "title": "Il leader di Yabloko: “Noi, esclusi dalle urne, siamo il solo partito che si batte per la pace”",
-        "link": "https://www.repubblica.it/esteri/2026/09/19/news/intervista_leader_yabloko_esclusi_dalle_urne_in_russia_siamo_unico_partito_che_si_batte_per_pace-425594299/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 19 Sep 2026 01:00:00 +0200",
-        "excerpt": "Parla Nikolaj Rybakov che guida della formazione contro la guerra in Ucraina: “Putin ha paura, quest’estate i sondaggi ci davano tra il 18 e il 24%, ci hanno fermato con una sentenza barzelletta”"
-      },
-      {
-        "title": "Russia al voto sotto i droni ucraini. Scomparsa la candidata dei Verdi",
-        "link": "https://www.repubblica.it/esteri/2026/09/19/news/russia_voto_duma_sotto_droni_ucraini_putin_verso_vittoria_scontata-425594220/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 19 Sep 2026 01:00:00 +0200",
-        "excerpt": "Prime elezioni per la Duma dall’inizio del conflitto, messe al bando le formazioni dissidenti. Lo zar verso una vittoria scontata. I raid nella regione di Mosca rallentano le attività ai seggi"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Mattarella: “Emerge a livello globale una tentazione illiberale\"",
+      "link": "https://www.repubblica.it/politica/2026/09/20/news/mattarella_liberta_tentazione_illiberale_pensiero_unico_pordenone-425597016/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 18:25:24 +0000",
+      "excerpt": "Il capo dello Stato a Pordenonelegge: “È stata la scheda elettorale l'arma disarmata del confronto legittimo, dopo la dittatura e la sua guerra, a far progredire il Paese”"
+    },
+    {
+      "title": "Germania, proiezioni: l'AfD prima in Pomerania, la Linke vince a Berlino. Merz: 'Un disastro'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/germania-proiezioni-lafd-prima-in-pomerania-la-linke-vince-a-berlino.-merz-un-disastro_e858bc98-bac2-4f2f-a7ce-abd390ca6baf.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 20:23:05 +0200",
+      "excerpt": "Elif Eralp, la candidata della sinistra della Linke: 'Care berlinesi e cari berlinesi, oggi abbiamo scritto la storia'. Il cancelliere non lascia: 'Avanti con le riforme'. Alice Weidel: 'Merz tragga le conseguenze, noi i"
+    },
+    {
+      "title": "Tv, il partito Russia Unita di Putin vince le elezioni con il 49,4%",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/tv-il-partito-russia-unita-di-putin-vince-le-elezioni-con-il-494_e4dff2be-9db4-41e8-ae3d-ed08b4618e8e.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 20:16:33 +0200",
+      "excerpt": "Lo rivela un exit poll dell'emittente statale"
+    },
     {
       "title": "Schlein e quella stretta di mano con Calabresi. La leader Pd: “Persone valide, ma prima i programmi”",
       "link": "https://milano.repubblica.it/cronaca/2026/09/20/news/schlein_stretta_mano_calabresi_pd_prima_programmi_sindaco-425596880/",
@@ -1530,27 +1558,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
       "excerpt": "L’Alta rappresentante risponde a Crosetto: “Nel Mar Ross azione Ue”. Dopo il raid sulla base: trasferirla o rinforzare le difese con altri radar"
-    },
-    {
-      "title": "Il rilancio di Schlein: “Prima il programma dopo la leadership”",
-      "link": "https://www.repubblica.it/politica/2026/09/20/news/il_rilancio_di_schlein_prima_il_programma_dopo_la_leadership-425595891/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "excerpt": "La segretaria dem predica cautela: “La guida del campo largo? Bisogna chiarire cosa vogliamo fare quando batteremo le destre e arriveremo al governo”"
-    },
-    {
-      "title": "Ricciardi (M5S): “I nostri ci chiedono la svolta, la pace va aiutata”",
-      "link": "https://www.repubblica.it/politica/2026/09/20/news/ricciardi_m5s_ucraina_armi_pace_governo_meloni_intervista-425595869/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il capogruppo dei 5 stelle alla Camera: “Se non ci sarà una nuova legge elettorale, Meloni andrà a dimettersi al Colle e si andrà al voto”"
-    },
-    {
-      "title": "Bremmer: “Escalation in Arabia Saudita studiata insieme all’Iran per ricattare la regione”",
-      "link": "https://www.repubblica.it/esteri/2026/09/20/news/ian_bremmer_intervista_escalation_arabia_saudita_houthi_iran_ricattare_regione-425595805/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "excerpt": "L’analista: “Solo la Cina potrebbe fermare il conflitto: se ci riuscisse farebbe un grande colpo aumentando ulteriormente la sua influenza regionale”"
     }
   ],
   "sport": [
