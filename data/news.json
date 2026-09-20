@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T17:36:21.745Z",
+  "lastUpdated": "2026-09-20T18:09:02.555Z",
   "finanza": {
     "italia": [
       {
@@ -45,7 +45,7 @@
         "excerpt": "Sono i dati dell’ultimo rapporto Ismu, Iniziative e Studi sulla Mobilità Umana"
       },
       {
-        "title": "Si chiude Pordenonelegge: oltre 160mila presenze. Partecipa Mattarella ",
+        "title": "Si chiude Pordenonelegge. Mattarella: scheda elettorale arma disarmata del confronto legittimo dopo dittatura",
         "link": "https://www.ilsole24ore.com/art/si-chiude-pordenonelegge-oltre-160mila-presenze-partecipa-mattarella-AJlh6CJB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 20 Sep 2026 15:44:00 GMT",
@@ -229,11 +229,11 @@
         "excerpt": "(Il Sole 24 Ore Radiocor) - Milano, 20 set - Arrivano i primi exit poll dall’ultima tornata elettorale in Germania. AfD al 37% in Meclemburgo-Pomerania, davanti alla Spd al 35,5%,..."
       },
       {
-        "title": "Exit poll: la Linke primo partito a Berlino. Afd sopra al 37% in Meclemburgo. Merz: avanti con le riforme",
+        "title": "Proiezioni: la Linke primo partito a Berlino. Afd sopra al 37% in Meclemburgo. Merz: avanti con le riforme",
         "link": "https://www.ilsole24ore.com/art/exit-poll-linke-primo-partito-berlino-cdu-salva-un-soffio-meclemburgo-AJSiBxIB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sun, 20 Sep 2026 16:13:00 GMT",
-        "excerpt": "La Linke corre verso la conquista di Berlino, la Cdu si salva per un soffio in Meclemburgo-Pomerania Anteriore. Le urne si sono chiuse nei due Länder e le prime proiezioni..."
+        "excerpt": "La Linke vede il traguardo storico della conquista di Berlino, la Cdu si salva per un soffio in Meclemburgo-Pomerania Anteriore. Le urne si sono chiuse domenica sera nei due Länder..."
       },
       {
         "title": "Sondaggio Nbc: il 55% degli americani ritiene che Trump abbia danneggiato l’economia",
@@ -387,6 +387,20 @@
     ],
     "mondo": [
       {
+        "title": "Kallas scrive ai 27 per rafforzare Aspides, strada in salita ",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/kallas-scrive-ai-27-per-rafforzare-aspides-strada-in-salita-_10dc84e7-f0fa-4279-9237-3e50882bd55e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 19:51:04 +0200",
+        "excerpt": "Il dossier verso il Consiglio Difesa. Italia disposta a altre navi, ma resta il nodo spese"
+      },
+      {
+        "title": "Iran and US trade threats after Houthi attacks escalate regional conflict",
+        "link": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-20 17:30:30",
+        "excerpt": ""
+      },
+      {
         "title": "Mosca, 'intensificheremo gli attacchi sull'Ucraina in risposta ai raid odierni'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/mosca-intensificheremo-gli-attacchi-sullucraina-in-risposta-ai-raid-odierni_bc08ce5a-5ff6-42d6-a710-ae0ff970ecf0.html",
         "source": "ANSA Mondo",
@@ -415,13 +429,6 @@
         "excerpt": "Elif Eralp: \"Il segnale dell'amore e della giustizia vince contro l'odio\""
       },
       {
-        "title": "Lettera di Kallas ai 27: 'Rafforzare Aspides con più navi e mezzi aerei'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/lettera-di-kallas-ai-27-rafforzare-aspides-con-piu-navi-e-mezzi-aerei_10dc84e7-f0fa-4279-9237-3e50882bd55e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 18:37:43 +0200",
-        "excerpt": "\"Aumentare sostanzialmente la presenza per garantire il mandato\""
-      },
-      {
         "title": "Exit poll Berlino, Linke prima al 26%, Cdu segue al 20%, Afd al 13,5%",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/exit-poll-berlino-linke-prima-al-26-cdu-segue-al-20-afd-al-135_76e8bacb-59c9-4c1b-b962-d4e4ffb04682.html",
         "source": "ANSA Mondo",
@@ -441,13 +448,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 20 Sep 2026 18:06:10 +0200",
         "excerpt": "La Cdu è al 5% sulla soglia di sbarramento"
-      },
-      {
-        "title": "Iran warns against new escalation by US and allies",
-        "link": "https://www.investing.com/news/commodities-news/iran-warns-against-new-escalation-by-us-and-allies-4908175",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-20 15:06:39",
-        "excerpt": ""
       },
       {
         "title": "Trump, 'deciderò se e quando far esplodere l'Iran, si comportino bene'",
@@ -558,18 +558,25 @@
   },
   "attualita": [
     {
-      "title": "Germania, prime proiezioni: l'AfD prima in Pomerania, la Linke vince a Berlino. Merz: 'Un disastro'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/germania-prime-proiezioni-lafd-prima-in-pomerania-la-linke-vince-a-berlino.-merz_e858bc98-bac2-4f2f-a7ce-abd390ca6baf.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 19:22:33 +0200",
-      "excerpt": "Elif Eralp, la candidata della sinistra della Linke a Berlino: 'Fatta la storia, da oggi cambiamo la nostra città'. Il cancelliere tedesco non lascia: 'Avanti con le riforme'. Forte crescita del partito di estrema destra"
-    },
-    {
       "title": "La stretta di Meloni: 'In classe tetto agli stranieri e divieto di burqa'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 19:10:37 +0200",
+      "pubDate": "Sun, 20 Sep 2026 19:59:27 +0200",
       "excerpt": "'Gli italiani non possono sentirsi minoranza'. Lo scontro con Schlein"
+    },
+    {
+      "title": "Germania, prime proiezioni: l'AfD prima in Pomerania, la Linke vince a Berlino. Merz: 'Un disastro'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/germania-prime-proiezioni-lafd-prima-in-pomerania-la-linke-vince-a-berlino.-merz_e858bc98-bac2-4f2f-a7ce-abd390ca6baf.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 19:53:59 +0200",
+      "excerpt": "Elif Eralp, la candidata della sinistra della Linke: 'Care berlinesi e cari berlinesi, oggi abbiamo scritto la storia'. Il cancelliere non lascia: 'Avanti con le riforme'. Alice Weidel: 'Merz tragga le conseguenze, noi i"
+    },
+    {
+      "title": "Schlein e quella stretta di mano con Calabresi. La leader Pd: “Persone valide, ma prima i programmi”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/20/news/schlein_stretta_mano_calabresi_pd_prima_programmi_sindaco-425596880/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 17:23:43 +0000",
+      "excerpt": "La segretaria del Pd all’evento di Open a Parma: “Io sto appoggiando il Pd milanese che ogni giorno prova, proprio sul programma, a costruire l’alleanza che governerà dopo l’amministrazione Sala”"
     },
     {
       "title": "La curva della Juve non rispetta il minuto di silenzio per Mazzola: gli ultrà si voltano di spalle",
@@ -628,11 +635,11 @@
       "excerpt": "L’ex generale alla convention di Futuro nazionale a Orvieto: “L’eroe omerico non cede alla bellezza di Circe, non cede alle lusinghe, ma torna dalla moglie, e quando arriva stermina i proci e difende la propria famiglia”"
     },
     {
-      "title": "Salvini a Pontida, la mossa segreta del congresso. I frondisti spiazzati: “Non ce l’aspettavamo”",
-      "link": "https://www.repubblica.it/politica/2026/09/20/news/pontida_congresso_lega_frondisti_sorpresa_salvini-425596640/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 14:30:43 +0000",
-      "excerpt": "Il governatore lombardo Fontana: “Bene, sarà l’occasione giusta per confrontare le varie sensibilità”"
+      "title": "L'Amorino torna restaurato alla Gypsoteca canoviana",
+      "link": "https://www.ansa.it/canale_viaggi/regione/veneto/2026/09/19/lamorino-torna-restaurato-alla-gypsoteca-canoviana_d3432db7-30a4-4333-a29e-a5866806bc50.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 09:35:47 +0200",
+      "excerpt": "Concluso dopo 10 anni l'iter conservativo dell'opera"
     },
     {
       "title": "De Cataldo: 'Romanzo Criminale in lirica è un sogno che si avvera'",
@@ -647,13 +654,6 @@
       "source": "ANSA",
       "pubDate": "Sun, 20 Sep 2026 09:29:31 +0200",
       "excerpt": "Inaugurata la residency che prevede 12 concerti e spettacoli e appuntamenti in città"
-    },
-    {
-      "title": "Tobia Tillerman, un romanzo bilingue sullo sfondo del fashion system ",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/19/tobia-tillerman-un-romanzo-bilingue-sullo-sfondo-del-fashion-system-_7e8ac7ed-4e9a-441a-89c2-adaa779f99dc.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 19 Sep 2026 19:50:26 +0200",
-      "excerpt": "In libreria per Rizzoli l'esordio di Claudio Calò, un passato da Giorgio Armani"
     },
     {
       "title": "Scrivania al centro, back to work tra stress in ufficio e spazio di lavoro",
@@ -728,6 +728,34 @@
   ],
   "sport": [
     {
+      "title": "Serie A: un gol per tempo, la Juve batte l'Atalanta con Conceiçao e Bremer",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-un-gol-per-tempo-la-juve-batte-latalanta-con-conceicao-e-bremer_7ee8c120-824f-4084-882e-3884406cea04.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 19:57:30 +0200",
+      "excerpt": "I bianconeri salgono a quota 10 con il Como, terzo ko di fila per Sarri"
+    },
+    {
+      "title": "Serie A, Juventus-Atalanta 2-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-juventus-atalanta-2-0_64b2f6be-3aa2-476e-9403-48b2a88a021b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 19:55:07 +0200",
+      "excerpt": "Si gioca la quinta giornata di campionato"
+    },
+    {
+      "title": "La Russa 'Mazzola leggenda di tutti, la grandezza non si misura da queste meschinità'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/la-russa-mazzola-leggenda-di-tutti-la-grandezza-non-si-misura-da-queste-meschinita_fcc89ec5-8183-4dce-a621-379b14a45dbf.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 19:43:49 +0200",
+      "excerpt": "Il presidente del Senato sui tifosi Juve che non hanno rispettato il minuto di silenzio"
+    },
+    {
+      "title": "Orgoglio Alvini 'il Frosinone sta dando un abella immagine in Italia'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/orgoglio-alvini-il-frosinone-sta-dando-un-abella-immagine-in-italia_fba25eb3-16f1-41db-8111-abcaafd9345d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 19:42:49 +0200",
+      "excerpt": "'Niente voli pindarici ora, percorso lungo e pieno di ostacoli'"
+    },
+    {
       "title": "L'Olimpia Milano vince la Supercoppa, Venezia ko in finale",
       "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/20/lolimpia-milano-vince-la-supercoppa-venezia-ko-in-finale_615997c5-6612-4e95-b064-003365d5feb4.html",
       "source": "ANSA Sport",
@@ -754,34 +782,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 19:07:42 +0200",
       "excerpt": "Per Amorim è già un crocevia denso di insidie"
-    },
-    {
-      "title": "Coppa Davis: la Germania di Zverev ai quarti, avanza anche la Spagna",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/20/coppa-davis-la-germania-di-zverev-ai-quarti-avanza-anche-la-spagna_d34bc134-74ba-46ae-b90d-8049b68f7a86.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 19:06:33 +0200",
-      "excerpt": "Biglietto per Bologna anche per Cechia, Gran Bretagna, Canada, Austria e Corea"
-    },
-    {
-      "title": "Liga: il Real resta in 10, l'Atletico ne approfitta e vince il derby di Madrid",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/liga-il-real-resta-in-10-latletico-ne-approfitta-e-vince-il-derby-di-madrid_2ee3476c-2a18-49be-af3a-dc5d3a2400a7.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 18:30:44 +0200",
-      "excerpt": "Huijsen espulso, gol di Grimaldo e David, il 2-1 solo nel finale: il Cholo batte Mou"
-    },
-    {
-      "title": "Calcio: la Nazionale si raduna a Coverciano, out Cristante",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-la-nazionale-si-raduna-a-coverciano-out-cristante_19bce823-70b0-44ca-9195-550e1d301767.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 18:29:41 +0200",
-      "excerpt": "Al posto del romanista convocato il centrocampista del Como Ricci"
-    },
-    {
-      "title": "Mazzola: parte della curva Juve non rispetta il minuto di silenzio",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/mazzola-parte-della-curva-juve-non-rispetta-il-minuto-di-silenzio_b067a26e-f37b-419b-a706-11af146b6a87.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 18:18:35 +0200",
-      "excerpt": "Diversi tifosi hanno cantato e voltato le spalle al campo durante ricordo"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
