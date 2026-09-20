@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-20T11:37:48.222Z",
+  "lastUpdated": "2026-09-20T12:09:41.080Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Questi 3 fattori \"restano rischi significativi\" per le valutazioni azionarie",
+        "link": "https://it.investing.com/news/stock-market-news/questi-3-fattori-restano-rischi-significativi-per-le-valutazioni-azionarie-3555412",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-20 11:19:02",
+        "excerpt": ""
+      },
       {
         "title": "Meloni: in arrivo numero massimo di stranieri per classe e niente burqa a scuola",
         "link": "https://www.ilsole24ore.com/art/meloni-arrivo-numero-massimo-stranieri-classe-e-niente-burqa-scuola-AJTfI2IB",
@@ -17,11 +24,11 @@
         "excerpt": "Il gigante del digitale sperimenta il pulsante “Dive deeper” che apre una sintesi generata automaticamente prima dell’accesso alle fonti originali. Il timore è che una parte dei navigatori si fermi lì riducendo il traffi"
       },
       {
-        "title": "Vannacci a La Russa: alleanze a ridosso delle elezioni. L’abraccio con l’Afd: programmi simili",
+        "title": "Vannacci: niente risiko con il centrodestra, unico voto utile a noi. L’abbraccio con l’Afd: programmi simili",
         "link": "https://www.ilsole24ore.com/art/vannacci-la-russa-alleanze-ridosso-elezioni-l-abraccio-l-afd-programmi-simili-AJM8t0IB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Sun, 20 Sep 2026 10:10:43 GMT",
-        "excerpt": "«Se La Russa osservasse le cose da un’altra prospettiva, si accorgerebbe che Vannacci non ha tradito i principi, i valori e gli ideali ai quali faceva riferimento e non ha..."
+        "pubDate": "Sun, 20 Sep 2026 10:10:00 GMT",
+        "excerpt": "Prima dell’inizio del Forum per l’Indipendenza a Orvieto, Roberto Vannacci replica al presidente del Senato: «Se La Russa osservasse le cose da un’altra prospettiva, si accorgerebbe che Vannacci non ha..."
       },
       {
         "title": "Borsa saudita e del Golfo in calo dopo attacchi Houthi a Riyadh",
@@ -49,7 +56,7 @@
         "link": "https://www.ilsole24ore.com/art/al-via-pontida-oggi-e-giorno-big-attesa-salvini-AJpmzyIB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 20 Sep 2026 08:22:00 GMT",
-        "excerpt": "a"
+        "excerpt": "PONTIDA (BERGAMO) - «Si vince uniti e la Lega è e sarà più unità che mai». Matteo Salvini inizia a parlare alle 12.40 dopo cinque minuti di applausi. Cori “Matteo,..."
       },
       {
         "title": "Fisco, in arrivo l’autunno caldo delle dichiarazioni dal 730 al concordato",
@@ -217,13 +224,6 @@
         "link": "https://it.investing.com/news/stock-market-news/ubs-prevede-che-la-spesa-per-lai-raggiungera-quasi-1000-miliardi-nel-2026-3555320",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-19 04:15:49",
-        "excerpt": ""
-      },
-      {
-        "title": "L’oro torna a salire: questi 6 titoli minerari USA potrebbero volare",
-        "link": "https://it.investing.com/news/stock-market-news/loro-torna-a-salire-questi-6-titoli-minerari-usa-potrebbero-volare-3551160",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-18 22:54:41",
         "excerpt": ""
       }
     ],
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Sybiha, da tanti colleghi stranieri complimenti per il 'burning day' di Mosca",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/sybiha-da-tanti-colleghi-stranieri-complimenti-per-il-burning-day-di-mosca_1524d81e-f1b7-4023-bd37-b8264adc5d04.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 13:38:21 +0200",
+        "excerpt": "Ministro Esteri ucraino, 'scene che Putin non si aspettava quando ha iniziato la guerra'"
+      },
+      {
         "title": "'Trump consapevole che le difficoltà del partito alle midterm sono in parte colpa sua'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/20/trump-consapevole-che-le-difficolta-del-partito-alle-midterm-sono-in-parte_0362f2ec-9763-4699-97ba-2178ed70526f.html",
         "source": "ANSA Mondo",
@@ -476,13 +483,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 20 Sep 2026 09:29:44 +0200",
         "excerpt": ""
-      },
-      {
-        "title": "Leader Hezbollah, 'la resistenza è l'unica via per liberare la nostra terra'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/20/leader-hezbollah-la-resistenza-e-lunica-via-per-liberare-la-nostra-terra_d7d3acd6-9fa5-4236-874b-5bc70cb628fd.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 09:25:40 +0200",
-        "excerpt": "'L'Iran ha vinto, la causa palestinese rimane una questione centrale'"
       },
       {
         "title": "Perché la monogamia può voler dire libertà. E che c’entra Kierkegaard",
@@ -572,31 +572,24 @@
   },
   "attualita": [
     {
-      "title": "Salvini a Pontida: 'Si vince uniti, Congresso straordinario a ottobre'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-pontida-le-magliette-pro-e-contro-salvini-sempre-con-lui-si-dimetta-subito_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 13:21:53 +0200",
-      "excerpt": "'Non ha padroni e non è in vendita. È una emozione vedere le bandiere di tutte le Regioni'"
-    },
-    {
       "title": "Meloni: 'In classe numero massimo di stranieri e divieto di burqa, norma in arrivo'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/meloni-in-classe-numero-massimo-di-stranieri-e-divieto-di-burqa-norma-in-arrivo_eee88fcc-7ab4-4a71-864f-6699535148f3.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 13:20:42 +0200",
+      "pubDate": "Sun, 20 Sep 2026 13:56:47 +0200",
       "excerpt": "La premier alla festa dei giovani di Fdi: 'Immensamente fiera di voi'"
     },
     {
-      "title": "Serie A: Fiorentina-Napoli in campo 0-1 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-in-campo-alle-12.30-diretta_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
+      "title": "Salvini a Pontida: 'Si vince uniti, Congresso straordinario a ottobre'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-pontida-le-magliette-pro-e-contro-salvini-sempre-con-lui-si-dimetta-subito_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 13:18:38 +0200",
-      "excerpt": "Il tecnico viola: Alla mia squadra ho chiesto di fare un altro step di crescita"
+      "pubDate": "Sun, 20 Sep 2026 13:56:22 +0200",
+      "excerpt": "'Non ha padroni e non è in vendita. È una emozione vedere le bandiere di tutte le Regioni'"
     },
     {
       "title": "Sorprende i ladri nel cortile di casa, spara e ne uccide uno",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorprende-i-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_016cdb4e-c1c9-49c5-80df-5241d7dc17e2.html",
       "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 12:57:37 +0200",
+      "pubDate": "Sun, 20 Sep 2026 13:54:59 +0200",
       "excerpt": "E' accaduto a Baldissero d'Alba nella notte. Un uomo di 35 anni indagato per omicidio"
     },
     {
@@ -642,7 +635,7 @@
       "excerpt": "Dopo l’aggressione alla scuola media Verga emerge una costante: altri episodi di ragazzini legati da comunità virtuali violente"
     },
     {
-      "title": "Pontida 2026, Salvini: “Domani proporrò congresso straordinario a ottobre, non voglio divisioni”",
+      "title": "Pontida 2026, Salvini a sorpresa: “Domani proporrò congresso straordinario a ottobre, no divisioni”",
       "link": "https://www.repubblica.it/politica/2026/09/20/diretta/salvini_pontida_lega_oggi-425596199/",
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 08:13:38 +0000",
@@ -668,6 +661,13 @@
       "source": "ANSA",
       "pubDate": "Sun, 20 Sep 2026 09:29:31 +0200",
       "excerpt": "Inaugurata la residency che prevede 12 concerti e spettacoli e appuntamenti in città"
+    },
+    {
+      "title": "Tobia Tillerman, un romanzo bilingue sullo sfondo del fashion system ",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/19/tobia-tillerman-un-romanzo-bilingue-sullo-sfondo-del-fashion-system-_7e8ac7ed-4e9a-441a-89c2-adaa779f99dc.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 19:50:26 +0200",
+      "excerpt": "In libreria per Rizzoli l'esordio di Claudio Calò, un passato da Giorgio Armani"
     },
     {
       "title": "Scrivania al centro, back to work tra stress in ufficio e spazio di lavoro",
@@ -742,6 +742,27 @@
   ],
   "sport": [
     {
+      "title": "Domani i funerali di Sandro Mazzola, niente tv e fotografi in Basilica",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/domani-i-funerali-di-sandro-mazzola-niente-tv-e-fotografi-in-basilica_68b12d00-0e05-42aa-aebd-f41404978063.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 13:57:34 +0200",
+      "excerpt": "Per volontà della famiglia. Lutto cittadino e bandiere a mezz'asta"
+    },
+    {
+      "title": "Davis: il Canada si qualifica per le Finals di Bologna",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/20/davis-il-canada-si-qualifica-per-le-finals-di-bologna_00efbe1e-b2d3-48e9-a167-9a0a50e129e1.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 13:53:28 +0200",
+      "excerpt": "Battuta la Francia. Sugli scudi uno strepitoso Auger-Aliassime"
+    },
+    {
+      "title": "Mondiali su strada, con Crippa chiude la super stagione dell'atletica",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/20/mondiali-su-strada-con-crippa-chiude-la-super-stagione-dellatletica_5eb77a0d-0ab0-4f61-88ee-4f01c76e647d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 13:51:49 +0200",
+      "excerpt": "L'azzurro settimo nella mezza maratona, pioggia di record a Copenaghen"
+    },
+    {
       "title": "Serie A: Parma-Genoa in campo DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-parma-genoa-in-campo-diretta_8852d9e7-1382-4d2b-91aa-eb29aab14c47.html",
       "source": "ANSA Sport",
@@ -754,13 +775,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 13:28:00 +0200",
       "excerpt": "Monterisi: 'Como forte, ma il Frosinone sa cosa deve fare'"
-    },
-    {
-      "title": "Serie A: Fiorentina-Napoli in campo 0-1 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-fiorentina-napoli-in-campo-alle-12.30-diretta_58e62a85-e3ca-4f29-b244-4913260b8f2a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 13:18:38 +0200",
-      "excerpt": "Il tecnico viola: Alla mia squadra ho chiesto di fare un altro step di crescita"
     },
     {
       "title": "Calcio: Francia, il presidente del Psg indagato per conflitto di interessi",
@@ -782,20 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 20 Sep 2026 12:34:43 +0200",
       "excerpt": "Nuotatrice più precoce di sempre. Nel 2025, a 12 anni, la sua prima medaglia iridata"
-    },
-    {
-      "title": "Calcio: Torino, Mandragora 'vogliamo e pretendiamo di più da noi'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/calcio-torino-mandragora-vogliamo-e-pretendiamo-di-piu-da-noi_aef39862-b565-4950-ba65-c6b27e50b5e4.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 12:25:06 +0200",
-      "excerpt": "Il granata su social dopo l'1-1 a Bologna, 'ci toglieremo soddisfazioni'"
-    },
-    {
-      "title": "Basket in carrozzina, storico argento ai Mondiali per l'Italia",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/20/basket-in-carrozzina-storico-argento-ai-mondiali-per-litalia_032b8023-1eae-486c-b458-2701bf1cccfa.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 20 Sep 2026 00:20:05 +0200",
-      "excerpt": "In finale vince l'Australia, per gli azzurri è il miglior risultato di sempre"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

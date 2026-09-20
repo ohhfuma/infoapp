@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Questi 3 fattori \"restano rischi significativi\" per le valutazioni azionarie",
+        "link": "https://it.investing.com/news/stock-market-news/questi-3-fattori-restano-rischi-significativi-per-le-valutazioni-azionarie-3555412",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-20 11:19:02",
+        "excerpt": ""
+      },
+      {
         "title": "Meloni: in arrivo numero massimo di stranieri per classe e niente burqa a scuola",
         "link": "https://www.ilsole24ore.com/art/meloni-arrivo-numero-massimo-stranieri-classe-e-niente-burqa-scuola-AJTfI2IB",
         "source": "Il Sole 24 Ore",
@@ -527,6 +534,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Sybiha, da tanti colleghi stranieri complimenti per il 'burning day' di Mosca",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/sybiha-da-tanti-colleghi-stranieri-complimenti-per-il-burning-day-di-mosca_1524d81e-f1b7-4023-bd37-b8264adc5d04.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 20 Sep 2026 13:38:21 +0200",
+        "excerpt": "Ministro Esteri ucraino, 'scene che Putin non si aspettava quando ha iniziato la guerra'"
+      },
       {
         "title": "'Trump consapevole che le difficoltà del partito alle midterm sono in parte colpa sua'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/20/trump-consapevole-che-le-difficolta-del-partito-alle-midterm-sono-in-parte_0362f2ec-9763-4699-97ba-2178ed70526f.html",
@@ -1203,6 +1217,13 @@
       "excerpt": "Bowie l'ispirazione, sfondo Gb anni '50, esce in febbraio l'opera rock"
     },
     {
+      "title": "Tobia Tillerman, un romanzo bilingue sullo sfondo del fashion system ",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/19/tobia-tillerman-un-romanzo-bilingue-sullo-sfondo-del-fashion-system-_7e8ac7ed-4e9a-441a-89c2-adaa779f99dc.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 19 Sep 2026 19:50:26 +0200",
+      "excerpt": "In libreria per Rizzoli l'esordio di Claudio Calò, un passato da Giorgio Armani"
+    },
+    {
       "title": "Scrivania al centro, back to work tra stress in ufficio e spazio di lavoro",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/design_giardino/2026/09/19/scrivania-al-centro-back-to-work-tra-stress-in-ufficio-e-spazio-di-lavoro_0afa5a96-62b1-4326-ab75-e53aca55570c.html",
       "source": "ANSA",
@@ -1271,16 +1292,30 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 08:07:51 +0200",
       "excerpt": "Il sindaco di Genova: «Le mie parole sui maiali intercettate? Per ogni area nel porto si scatena la rissa. I soldi del ponte Morandi per un favore a Spinelli? È una falsità, quei soldi non c’entrano nulla»Il sindaco di G"
-    },
-    {
-      "title": "Fedez denunciato per il caso Iovino, identificato dalle telecamere: «Ma quale massacro, io non c’ero»",
-      "link": "https://milano.corriere.it/notizie/cronaca/24_maggio_13/fedez-denunciato-iovino-3eeb49c3-fa4c-448d-bac5-d7bb9f09fxlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 08:01:38 +0200",
-      "excerpt": "Il rapper identificato con le telecamere. «Di cosa parliamo? Lui tre giorni dopo era a ballare». Presente quella sera nel locale anche Ludovica Di GresyLe telecamere che hanno ripreso il pestaggio inquadrerebbero il rapp"
     }
   ],
   "sport": [
+    {
+      "title": "Domani i funerali di Sandro Mazzola, niente tv e fotografi in Basilica",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/domani-i-funerali-di-sandro-mazzola-niente-tv-e-fotografi-in-basilica_68b12d00-0e05-42aa-aebd-f41404978063.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 13:57:34 +0200",
+      "excerpt": "Per volontà della famiglia. Lutto cittadino e bandiere a mezz'asta"
+    },
+    {
+      "title": "Davis: il Canada si qualifica per le Finals di Bologna",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/20/davis-il-canada-si-qualifica-per-le-finals-di-bologna_00efbe1e-b2d3-48e9-a167-9a0a50e129e1.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 13:53:28 +0200",
+      "excerpt": "Battuta la Francia. Sugli scudi uno strepitoso Auger-Aliassime"
+    },
+    {
+      "title": "Mondiali su strada, con Crippa chiude la super stagione dell'atletica",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/20/mondiali-su-strada-con-crippa-chiude-la-super-stagione-dellatletica_5eb77a0d-0ab0-4f61-88ee-4f01c76e647d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 20 Sep 2026 13:51:49 +0200",
+      "excerpt": "L'azzurro settimo nella mezza maratona, pioggia di record a Copenaghen"
+    },
     {
       "title": "Serie A: Parma-Genoa in campo DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-parma-genoa-in-campo-diretta_8852d9e7-1382-4d2b-91aa-eb29aab14c47.html",
