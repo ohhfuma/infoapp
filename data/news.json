@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-09-21T18:09:18.799Z",
+  "lastUpdated": "2026-09-21T18:42:35.456Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Simest si rafforza negli Usa: nuovo ufficio a New York",
+        "link": "https://www.repubblica.it/economia/2026/09/21/news/simest_si_rafforza_negli_usa_nuovo_ufficio_a_new_york-425598965/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 20:26:14 +0200",
+        "excerpt": "La nuova sede inaugurata alla presenza del vicepremier Tajani"
+      },
+      {
+        "title": "Paramount raggiunge un accordo con gli stati sull’acquisizione di Warner Bros Discovery",
+        "link": "https://it.investing.com/news/stock-market-news/paramount-raggiunge-un-accordo-con-gli-stati-sullacquisizione-di-warner-bros-discovery-3556770",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 18:05:29",
+        "excerpt": ""
+      },
       {
         "title": "Mattarella: «La scuola è aperta a tutti, aiuti a non creare ghetti o alzare barriere»",
         "link": "https://www.ilsole24ore.com/art/mattarella-la-scuola-e-aperta-tutti-aiuti-non-creare-ghetti-o-alzare-barriere-AJkjLOKB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Mon, 21 Sep 2026 17:51:00 GMT",
-        "excerpt": "“La scuola è la più efficace leva di integrazione per chi viene da altri Paesi e per i giovani nati in Italia che sono figli di emigrati”. E poi “La..."
+        "excerpt": "Il discorso del capo dello Stato all’inaugurazione dell’anno scolastico ad Amatrice, presso l’Istituto Omnicomprensivo intitolato a Sergio Marchionne"
       },
       {
         "title": "Perché il titolo di Empire Company è in rialzo oggi?",
@@ -87,13 +101,6 @@
         "excerpt": "Battuta d’arresto per la procura di Milano nella vicenda giudiziaria di Glovo, finita sotto commissariamento per caporalato digitale: per il gip di Milano al momento non c’è obbligo da parte..."
       },
       {
-        "title": "La FAA blocca i voli verso gli aeroporti di Philadelphia e Newark",
-        "link": "https://it.investing.com/news/stock-market-news/la-faa-blocca-i-voli-verso-gli-aeroporti-di-philadelphia-e-newark-93CH-3556746",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 17:02:40",
-        "excerpt": ""
-      },
-      {
         "title": "Polimi, progetto della business school di volontariato professionale diventa europeo",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/polimi-progetto-della-business-school-di-volontariato-professionale-diventa-europeo_ac3b161f-8865-4c8d-8c9c-91d7603c553d.html",
         "source": "ANSA Economia",
@@ -148,13 +155,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Mon, 21 Sep 2026 15:42:52 GMT",
         "excerpt": "Vent’anni dopo la prima puntata, La Zanzara è pronta a uscire ancora una volta dagli studi radiofonici per incontrare il suo pubblico e questa volta lo fa in grande: per..."
-      },
-      {
-        "title": "Bessent prepara il terreno al vertice Xi-Trump negli Usa: “Dialogo su IA”",
-        "link": "https://www.repubblica.it/economia/2026/09/21/news/bessent_cina_dialogo_intelligenza_artificiale-425598145/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 17:42:44 +0200",
-        "excerpt": "L’incontro a New York con He Lifeng. Dagli Usa proposto un “meccanismo di notifica” per incidenti legati all’IA"
       },
       {
         "title": "Milano dice addio a Sandro Mazzola",
@@ -401,11 +401,32 @@
     ],
     "mondo": [
       {
+        "title": "L'ira di Milei sulla stampa argentina, 'giornalisti m... umane'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/lira-di-milei-sulla-stampa-argentina-giornalisti-m...-umane_e3b0292b-f298-4627-81c5-f7cdb090ec20.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 20:26:07 +0200",
+        "excerpt": "I media nel mirino dopo le indiscrezioni sui licenziamenti nella residenza presidenziale"
+      },
+      {
         "title": "Spagna, la moglie di Sánchez andrà a processo davanti a una giuria popolare",
         "link": "https://www.repubblica.it/esteri/2026/09/21/news/begona_gomez_processo_giuria_popolare_moglie_pedro_sanchez-425598865/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Mon, 21 Sep 2026 19:58:38 +0200",
+        "pubDate": "Mon, 21 Sep 2026 20:22:58 +0200",
         "excerpt": "A una settimana dalla pensione, il giudice Peinado firma l’atto finale della battaglia legale contro Begoña Gómez rinviandola a giudizio per i presunti reati di traffico di influenze e malversazione. La Moncloa: “Persecu"
+      },
+      {
+        "title": "Rubio, 'l'Italia un grande partner degli Stati Uniti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/21/rubio-litalia-un-grande-partner-degli-stati-uniti_d1679ba7-1e9b-4cba-a9c8-8c0cdff6ff91.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 20:15:36 +0200",
+        "excerpt": "Tajani, 'Abbiamo compiuto un passo importante'"
+      },
+      {
+        "title": "Oil price dips below $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports",
+        "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-21 18:06:47",
+        "excerpt": ""
       },
       {
         "title": "Venezuelan delegation led by Rodriguez to discuss debt, energy in US, sources say",
@@ -434,20 +455,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 21 Sep 2026 19:05:24 +0200",
         "excerpt": "'C'è grande attenzione alle Nazioni Unite da parte del governo'"
-      },
-      {
-        "title": "Trump cala ancora nei sondaggi, il consenso degli americani al 29%",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/21/trump-cala-ancora-nei-sondaggi-il-consenso-degli-americani-al-29_3b2e57be-39f2-4fbc-860c-92f715301b40.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 18:24:18 +0200",
-        "excerpt": "Sull'economia il 26%"
-      },
-      {
-        "title": "Macron, 'proverò a orientare Trump verso buone decisioni sull'Ucraina'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/macron-provero-a-orientare-trump-verso-buone-decisioni-sullucraina_ace19900-574e-4dbc-8ca9-3dc737ca1dc0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 18:24:03 +0200",
-        "excerpt": "Il presidente francese vuole parlargli 'in tutta franchezza'"
       },
       {
         "title": "Dell'Utri in Brasile, 'gli italiani nel mondo una risorsa strategica per l'Italia'",
@@ -504,13 +511,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Mon, 21 Sep 2026 17:48:28 +0200",
         "excerpt": "Il cancelliere per ora afferma di voler continuare sulla strada delle riforme con l’alleato Spd. Ma nel suo partito non tutti approvano"
-      },
-      {
-        "title": "Oil price dips briefly below $100 on Saudi exports, hopes of US-Iran diplomacy",
-        "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 15:43:26",
-        "excerpt": ""
       },
       {
         "title": "Dalla crisi alla vittoria a Berlino: la rinascita della Linke grazie a Gaza, migranti e piano casa",
@@ -572,18 +572,39 @@
   },
   "attualita": [
     {
-      "title": "La preside di Amatrice: 'Siamo orgogliosi di questa visita'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/21/la-preside-di-amatrice-siamo-orgogliosi-di-questa-visita_a03c09d3-3ce8-4d2c-a786-a1fecfd4fd60.html",
+      "title": "Tajani: 'Mi scuso con le donne, non le ho mai volute offendere'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/21/tajani-mi-scuso-con-le-donne-non-le-ho-mai-volute-offendere_8ff45906-1a05-4edf-b2b5-64ed8bb232e4.html",
       "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 19:29:48 +0200",
-      "excerpt": "La dirigente della 'Marchionne', realizzata con 6,5 milioni dell'asta di una 'LaFerrari'"
+      "pubDate": "Mon, 21 Sep 2026 20:39:53 +0200",
+      "excerpt": "Il vicepremier replica dopo le polemiche sulle frasi sulla 'ragazza da sposare'"
     },
     {
-      "title": "Mattarella: 'La scuola è aperta a tutti, come dispone la Costituzione'",
+      "title": "Mattarella: 'La scuola è aperta a tutti. E' integrazione, aiuti a non creare ghetti'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/21/mattarella-agli-studenti-la-cultura-rende-liberi_af7c5db3-feda-43c4-abe6-d226da53196b.html",
       "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 19:21:17 +0200",
-      "excerpt": "Il capo dello Stato agli studenti: 'La cultura rende liberi. la nostra libertà è autentica se la libertà esiste per tutti. L'Ia non potrà mai sostituire il docente. Violenza sui docenti, a volte i genitori tradiscono il "
+      "pubDate": "Mon, 21 Sep 2026 20:36:11 +0200",
+      "excerpt": "Il capo dello Stato agli studenti: 'La cultura rende liberi. La nostra libertà è autentica se esiste per tutti. L'Ia non potrà mai sostituire il docente. Violenza sui docenti, a volte i genitori tradiscono il compito edu"
+    },
+    {
+      "title": "Cellule zombie nell'organismo che invecchia",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/21/nellorganismo-che-invecchia-le-cellule-diventano-zombie-_ab64a4f6-bd96-413c-bee0-a34d466b4372.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 21 Sep 2026 20:17:25 +0200",
+      "excerpt": "Viste nei topi, aiutano a diagnosticare malattie legate all'età"
+    },
+    {
+      "title": "Morte di Denise Cosco, verifiche su eventuali contatti con il padre",
+      "link": "https://www.repubblica.it/cronaca/2026/09/21/news/morte_denise_cosco_verifiche_contatti_padre-425598916/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 21 Sep 2026 17:59:33 +0000",
+      "excerpt": "Pm attendono risposte dall'analisi del cellulare della ragazza. L'uomo è detenuto"
+    },
+    {
+      "title": "Semilibertà per Chico Forti, potrà continuare ad uscire dal carcere",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/21/semiliberta-per-chico-forti-potra-continuare-ad-uscire-dal-carcere_131a6004-f01b-43da-93ef-203062b495e3.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 21 Sep 2026 19:46:06 +0200",
+      "excerpt": "Condannato all'ergastolo, ha trascorso 25 anni in carcere negli Usa"
     },
     {
       "title": "Spagna, la moglie di Sánchez andrà a processo davanti a una giuria popolare",
@@ -614,13 +635,6 @@
       "excerpt": "L’uomo, detenuto nel carcere di Montorio a Verona, è stato condannato all'ergastolo negli Usa per la morte di Dale Pike, avvenuta nel febbraio 1998 a Miami"
     },
     {
-      "title": "Il Tribunale concede la semilibertà a Chico Forti",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/21/il-tribunale-concede-la-semiliberta-a-chico-forti_131a6004-f01b-43da-93ef-203062b495e3.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 18:26:59 +0200",
-      "excerpt": "Condannato all'ergastolo, ha trascorso 25 anni in carcere negli Usa"
-    },
-    {
       "title": "Prof accoltellata, il ritorno in aula degli alunni. Il ragazzo congolese accolto come un eroe",
       "link": "https://www.repubblica.it/cronaca/2026/09/21/news/prof_accoltellata_ritorno_in_aula_ragazzo_congolese_eroe-425598746/",
       "source": "Repubblica",
@@ -642,25 +656,11 @@
       "excerpt": "Fine vita, dopo la legge regionale veneta la Chiesa è “preoccupata”, c’è un “ritardo” su cure palliative, sostegno alle famiglie e ai caregiver, serve “un confronto parlamentare ampio”"
     },
     {
-      "title": "Sono più al Nord e nelle periferie delle grandi città, ecco la mappa degli studenti stranieri",
-      "link": "https://www.repubblica.it/scuola/2026/09/21/news/scuola_studenti_stranieri_mappa_italia-425598589/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 21 Sep 2026 14:08:32 +0000",
-      "excerpt": "Più numerosi in Lombardia, poi in Emilia Romagna, Veneto e Lazio: arrivano da 200 paesi diversi"
-    },
-    {
       "title": "K-food alla milanese, quando il risotto e i mondeghili incontrano il Kimchi coreano",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/09/19/k-food-alla-milanese-quando-il-risotto-e-i-mondeghili-incontrano-il-kimchi-coreano_f5031149-7d82-49d4-930f-f5f7d5c9f890.html",
       "source": "ANSA",
       "pubDate": "Mon, 21 Sep 2026 16:03:25 +0200",
       "excerpt": "Pop up a Milano mette in dialogo due culture gastronomiche. Ecco le ricette"
-    },
-    {
-      "title": "Cellule zombie nell'organismo che invecchia",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/21/nellorganismo-che-invecchia-le-cellule-diventano-zombie-_ab64a4f6-bd96-413c-bee0-a34d466b4372.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 15:46:57 +0200",
-      "excerpt": "Viste nei topi, aiutano a diagnosticare malattie legate all'età"
     },
     {
       "title": "\"Quando quell'onda enorme sta per travolgerti\", così raccontava Presley Gerber",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Eurovolley, l'Italia mette nel mirino la final four di Milano",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/21/eurovolley-litalia-mette-nel-mirino-la-final-four-di-milano_40fef02e-481b-4b4c-ba99-379fd95595a4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 21 Sep 2026 20:31:25 +0200",
+      "excerpt": "Mercoledì i quarti a Torino contro la Finlandia, la squadra di De Giorgi è in fiducia"
+    },
+    {
       "title": "Incontro Orsato-club, 'autocritica sugli errori arbitrali, ma linea Var resta quella'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/incontro-orsato-club-autocritica-sugli-errori-arbitrali-ma-linea-var-resta_4c7c5258-27d3-425c-b34d-2ce541d2c69e.html",
       "source": "ANSA Sport",
@@ -775,13 +782,6 @@
       "source": "ANSA Sport",
       "pubDate": "Mon, 21 Sep 2026 18:36:12 +0200",
       "excerpt": "Per il francese frattura a dito della mano, torna a disposizione Spalletti"
-    },
-    {
-      "title": "Basket: tutti a caccia dell'Armani cannibale, con un occhio a Nba Europe",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/21/basket-tutti-a-caccia-dellarmani-cannibale-con-un-occhio-a-nba-europe_40b742a8-f5f6-443b-8a60-11a1267c30a9.html",
-      "source": "ANSA Sport",
-      "pubDate": "Mon, 21 Sep 2026 18:14:37 +0200",
-      "excerpt": "Sabato inizia la Lba. Petrucci: 'Sarà il campionato più interessante di tutti'"
     },
     {
       "title": "Maxima Roma annuncia l'ala Hunter Tyson, ex Denver Nuggets",

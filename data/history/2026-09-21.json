@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Simest si rafforza negli Usa: nuovo ufficio a New York",
+        "link": "https://www.repubblica.it/economia/2026/09/21/news/simest_si_rafforza_negli_usa_nuovo_ufficio_a_new_york-425598965/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 20:26:14 +0200",
+        "excerpt": "La nuova sede inaugurata alla presenza del vicepremier Tajani"
+      },
+      {
+        "title": "Paramount raggiunge un accordo con gli stati sull’acquisizione di Warner Bros Discovery",
+        "link": "https://it.investing.com/news/stock-market-news/paramount-raggiunge-un-accordo-con-gli-stati-sullacquisizione-di-warner-bros-discovery-3556770",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 18:05:29",
+        "excerpt": ""
+      },
+      {
         "title": "Mattarella: «La scuola è aperta a tutti, aiuti a non creare ghetti o alzare barriere»",
         "link": "https://www.ilsole24ore.com/art/mattarella-la-scuola-e-aperta-tutti-aiuti-non-creare-ghetti-o-alzare-barriere-AJkjLOKB",
         "source": "Il Sole 24 Ore",
@@ -408,20 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-21 14:15:58",
         "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo di Super Micro Computer è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-super-micro-computer-e-in-rialzo-oggi-93CH-3556626",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 14:13:41",
-        "excerpt": ""
-      },
-      {
-        "title": "Sanatoria lavoratori 2020, in cinque anni 130mila nuovi regolari ed entrate per 140 mln",
-        "link": "https://www.ilsole24ore.com/art/sanatoria-lavoratori-2020-cinque-anni-130mila-nuovi-regolari-ed-entrate-140-mln-AJRTc2JB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Mon, 21 Sep 2026 14:10:51 GMT",
-        "excerpt": "Tra le misure del Dl “Rilancio” 130/2020 - adottato in piena pandemia per far fronte all’emergenza sanitaria e con risorse adeguate a fronteggiare una mole notevole di domande – <a..."
       }
     ],
     "europa": [
@@ -681,6 +681,20 @@
       }
     ],
     "mondo": [
+      {
+        "title": "L'ira di Milei sulla stampa argentina, 'giornalisti m... umane'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/lira-di-milei-sulla-stampa-argentina-giornalisti-m...-umane_e3b0292b-f298-4627-81c5-f7cdb090ec20.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 20:26:07 +0200",
+        "excerpt": "I media nel mirino dopo le indiscrezioni sui licenziamenti nella residenza presidenziale"
+      },
+      {
+        "title": "Rubio, 'l'Italia un grande partner degli Stati Uniti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/21/rubio-litalia-un-grande-partner-degli-stati-uniti_d1679ba7-1e9b-4cba-a9c8-8c0cdff6ff91.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 20:15:36 +0200",
+        "excerpt": "Tajani, 'Abbiamo compiuto un passo importante'"
+      },
       {
         "title": "Spagna, la moglie di Sánchez andrà a processo davanti a una giuria popolare",
         "link": "https://www.repubblica.it/esteri/2026/09/21/news/begona_gomez_processo_giuria_popolare_moglie_pedro_sanchez-425598865/?rss",
@@ -1086,24 +1100,31 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-21 07:12:22",
         "excerpt": ""
-      },
-      {
-        "title": "Natural Gas squeezed near $2.878 ahead of breakout: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 07:11:59",
-        "excerpt": ""
-      },
-      {
-        "title": "Crude Oil WTI tests $94 support after double top: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-94-support-after-double-top-live-levels-93CH-4908350",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 07:11:45",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Tajani: 'Mi scuso con le donne, non le ho mai volute offendere'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/21/tajani-mi-scuso-con-le-donne-non-le-ho-mai-volute-offendere_8ff45906-1a05-4edf-b2b5-64ed8bb232e4.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 21 Sep 2026 20:39:53 +0200",
+      "excerpt": "Il vicepremier replica dopo le polemiche sulle frasi sulla 'ragazza da sposare'"
+    },
+    {
+      "title": "Morte di Denise Cosco, verifiche su eventuali contatti con il padre",
+      "link": "https://www.repubblica.it/cronaca/2026/09/21/news/morte_denise_cosco_verifiche_contatti_padre-425598916/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 21 Sep 2026 17:59:33 +0000",
+      "excerpt": "Pm attendono risposte dall'analisi del cellulare della ragazza. L'uomo è detenuto"
+    },
+    {
+      "title": "Semilibertà per Chico Forti, potrà continuare ad uscire dal carcere",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/21/semiliberta-per-chico-forti-potra-continuare-ad-uscire-dal-carcere_131a6004-f01b-43da-93ef-203062b495e3.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 21 Sep 2026 19:46:06 +0200",
+      "excerpt": "Condannato all'ergastolo, ha trascorso 25 anni in carcere negli Usa"
+    },
     {
       "title": "La preside di Amatrice: 'Siamo orgogliosi di questa visita'",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/21/la-preside-di-amatrice-siamo-orgogliosi-di-questa-visita_a03c09d3-3ce8-4d2c-a786-a1fecfd4fd60.html",
@@ -1502,30 +1523,16 @@
       "source": "ANSA",
       "pubDate": "Mon, 21 Sep 2026 07:42:32 +0200",
       "excerpt": "Il modello Presley Gerber è deceduto in una struttura di riabilitazione"
-    },
-    {
-      "title": "Camorra, blitz tra Caivano e Casoria: 34 arrestati legati al clan Angelino",
-      "link": "https://napoli.repubblica.it/cronaca/2026/09/21/news/camorra_caivano_casoria_arresti_clan_angelino-425597468/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 21 Sep 2026 04:40:30 +0000",
-      "excerpt": "L’operazione dei carabinieri ha permesso di fermare criminali ritenuti a vario titolo gravemente indiziati di associazione armata di tipo camorristico, traffico e detenzione di sostanze stupefacenti e estorsione, con l'a"
-    },
-    {
-      "title": "Presley Gerber è morto: il figlio di Cindy Crawford aveva 27 anni",
-      "link": "https://www.repubblica.it/spettacoli/cinema/2026/09/21/news/presley_gerber_morto_figlio_cindy_crawford-425597466/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 21 Sep 2026 04:31:42 +0000",
-      "excerpt": "Modello fin dall’adolescenza, è deceduto in una struttura di riabilitazione. La famiglia: “Privacy in questo momento di dolore”"
-    },
-    {
-      "title": "L’Ice spara, grave un uomo a Austin. “È un migrante del Venezuela senza documenti”",
-      "link": "https://www.repubblica.it/esteri/2026/09/21/news/ice_spara_austin_texas_uomo_venezuela-425597366/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 21 Sep 2026 01:35:55 +0000",
-      "excerpt": "Colpito al torace dopo un breve inseguimento a piedi. Insorge la città texana, il sindaco: “Arrabbiato e deluso, episodio avvenuto dopo un significativo aumento di operazioni da parte della polizia federale”"
     }
   ],
   "sport": [
+    {
+      "title": "Eurovolley, l'Italia mette nel mirino la final four di Milano",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/21/eurovolley-litalia-mette-nel-mirino-la-final-four-di-milano_40fef02e-481b-4b4c-ba99-379fd95595a4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 21 Sep 2026 20:31:25 +0200",
+      "excerpt": "Mercoledì i quarti a Torino contro la Finlandia, la squadra di De Giorgi è in fiducia"
+    },
     {
       "title": "Incontro Orsato-club, 'autocritica sugli errori arbitrali, ma linea Var resta quella'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/incontro-orsato-club-autocritica-sugli-errori-arbitrali-ma-linea-var-resta_4c7c5258-27d3-425c-b34d-2ce541d2c69e.html",
