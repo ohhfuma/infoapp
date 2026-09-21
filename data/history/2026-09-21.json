@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Mimit, prezzi carburanti ancora in rialzo, benzina self a 2,155 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/mimit-prezzi-carburanti-ancora-in-rialzo-benzina-self-a-2155-euro_44acb123-bba4-4fd0-b13c-3e15d7ea9c08.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 21 Sep 2026 09:02:20 +0200",
+        "excerpt": "Gasolio venduto in media a 2,335 euro"
+      },
+      {
         "title": "Borsa: l'Asia chiude in positiva, si guarda a dialogo Usa-Cina",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/borsa-lasia-chiude-in-positiva-si-guarda-a-dialogo-usa-cina_78e06e67-dd7e-49b5-b27f-375c05a8a240.html",
         "source": "ANSA Economia",
@@ -18,11 +25,25 @@
         "excerpt": "Il rendimento del decennale italiano scende al 4,36%"
       },
       {
+        "title": "Le vendite di robot umanoidi raggiungono 7.000 unità nel 2025",
+        "link": "https://it.investing.com/news/stock-market-news/le-vendite-di-robot-umanoidi-raggiungono-7000-unita-nel-2025-93CH-3555525",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 06:34:17",
+        "excerpt": ""
+      },
+      {
         "title": "Euro in lieve calo, scambiato a 1,1473 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/euro-in-lieve-calo-scambiato-a-11473-dollari_c10ead7d-69f9-46b0-8176-41b953a4f62c.html",
         "source": "ANSA Economia",
         "pubDate": "Mon, 21 Sep 2026 08:32:36 +0200",
         "excerpt": "Moneta unica poco mossa sullo yen a 180,2100"
+      },
+      {
+        "title": "Sazerac lancia un’offerta pubblica su Berentzen a €5,55 per azione",
+        "link": "https://it.investing.com/news/stock-market-news/sazerac-lancia-unofferta-pubblica-su-berentzen-a-555-per-azione-93CH-3555517",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 06:23:23",
+        "excerpt": ""
       },
       {
         "title": "Perché il titolo CXMT sta salendo oggi?",
@@ -401,27 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sun, 20 Sep 2026 15:19:06 +0200",
         "excerpt": "L’amministratore delegato Delladio racconta di un bilancio leggermente positivo mentre il settore outdoor è in affanno: “La qualità prima dei fatturati”"
-      },
-      {
-        "title": "Volvo Cars nomina Klaus Zellmer come prossimo CEO",
-        "link": "https://it.investing.com/news/stock-market-news/volvo-cars-nomina-klaus-zellmer-come-prossimo-ceo-93CH-3555415",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-20 12:24:32",
-        "excerpt": ""
-      },
-      {
-        "title": "Questi 3 fattori \"restano rischi significativi\" per le valutazioni azionarie",
-        "link": "https://it.investing.com/news/stock-market-news/questi-3-fattori-restano-rischi-significativi-per-le-valutazioni-azionarie-3555412",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-20 11:19:02",
-        "excerpt": ""
-      },
-      {
-        "title": "Stretta di Meloni a scuola: arriva il tetto agli stranieri e il divieto di burqa",
-        "link": "https://www.ilsole24ore.com/art/meloni-arrivo-numero-massimo-stranieri-classe-e-niente-burqa-scuola-AJTfI2IB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Sun, 20 Sep 2026 10:39:00 GMT",
-        "excerpt": "La premier: «Licenzieremo presto la norma che introduce la denominazione di liceo anche per gli istituti tecnico-professionali». I presidi: tetto stranieri condivisibile ma difficile da applicare"
       }
     ],
     "europa": [
@@ -611,6 +611,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Media, Erdogan all'Onu chiederà misure internazionali contro Israele",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/media-erdogan-allonu-chiedera-misure-internazionali-contro-israele_ad56138c-2089-4f3e-8aae-48403f3beae3.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 08:49:02 +0200",
+        "excerpt": "Anadolu, il leader turco parlerà di Gaza e del riconoscimento dello Stato palestinese"
+      },
       {
         "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
         "link": "https://www.investing.com/news/commodities-news/canada-optimistic-about-concluding-trade-talks-with-india-by-yearend-minister-says-4908231",
@@ -901,6 +908,20 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Mario Adinolfi portato in carcere: “Comunicava sui social dagli arresti domiciliari”",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/21/news/mario_adinolfi_portato_in_carcere_comunicava_sui_social_dagli_arresti_domiciliari-425597583/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 21 Sep 2026 06:42:14 +0000",
+      "excerpt": "Il giornalista, ed ex parlamentare era ai domiciliari dall’8 luglio, accusato di aver truffato degli scommettitori"
+    },
+    {
+      "title": "Prezzo del petrolio in calo, Wti scende sotto i 100 dollari",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/prezzo-petrolio-in-calo-wti-scende-sotto-i-100-dollari_fb6ee837-c209-484e-b845-5bdd1e90b248.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 21 Sep 2026 08:37:34 +0200",
+      "excerpt": "A 98,45 dollari al barile, -1,84%. Brent scambiato a 102,09 dollari"
+    },
     {
       "title": "Morto a 27 anni il modello Presley Gerber, figlio di Cindy Crawford",
       "link": "https://www.ansa.it/sito/notizie/cultura/2026/09/21/morto-a-27-anni-il-modello-presley-gerber-figlio-di-cindy-crawford_28d0af48-4aab-4129-aebf-46c0975f1c66.html",
