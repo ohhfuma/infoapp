@@ -1,26 +1,131 @@
 {
-  "lastUpdated": "2026-09-21T13:07:01.893Z",
+  "lastUpdated": "2026-09-21T13:38:50.317Z",
   "finanza": {
     "italia": [
       {
-        "title": "Growens: +13,78% in una seduta. Ma il vero test non è arrivato",
-        "link": "https://it.investing.com/news/stock-market-news/growens-1378-in-una-seduta-ma-il-vero-test-non-e-arrivato-3556436",
+        "title": "Dall'assemblea di Unicredit via libera alla lista della cda",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/dallassemblea-di-unicredit-via-libera-alla-lista-della-cda_c3b93f53-aa41-469f-81e9-884e872b4e34.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 21 Sep 2026 15:30:43 +0200",
+        "excerpt": "Da soci ok anche ad emissioni in dollari e facoltà aumentare capitale"
+      },
+      {
+        "title": "Mef, mandato alle banche per un Btp Green sindacato a 12 anni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/mef-mandato-alle-banche-per-un-btp-green-sindacato-a-12-anni_6802cbc8-6ead-4c18-81eb-4637aca52c4b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 21 Sep 2026 15:29:50 +0200",
+        "excerpt": "Scadenza Ottobre 2038, emissione 'nel prossimo futuro'"
+      },
+      {
+        "title": "A Bologna inaugurata la 43/a edizione di Cersaie, quasi 600 espositori",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/a-bologna-inaugurata-la-43a-edizione-di-cersaie-quasi-600-espositori_767ea8ba-840a-496f-b0f4-df5446ff9897.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 21 Sep 2026 15:29:31 +0200",
+        "excerpt": "In Fiera fino al 25 settembre, al centro i temi energetici e la tenuta del settore"
+      },
+      {
+        "title": "Lavoro, welfare, transizioni tecnologica e ambientale: la Cisl presenta il Libro Verde",
+        "link": "https://www.repubblica.it/economia/2026/09/21/news/lavoro_welfare_transizioni_tecnologica_e_ambientale_la_cisl_presenta_il_libro_verde-425598459/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 15:24:26 +0200",
+        "excerpt": "Undici proposte per “superare la logica dell’emergenza”. La segretaria Fumarola: “Serve un patto sociale”"
+      },
+      {
+        "title": "Detrazione affitto, quali regole per la precompilata?",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/casa/domande-e-risposte/2026/09/21/news/detrazione_affitto_quali_regole_per_la_precompilata-425598452/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 15:20:22 +0200",
+        "excerpt": "Riduzione di imposte per l'affitto di casa, come ottenerla. Potete comunicarmelo? Grazie"
+      },
+      {
+        "title": "Le azioni Nordnet salgono del 6% dopo il lancio di un buyback da 250 mln SEK",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-nordnet-salgono-del-6-dopo-il-lancio-di-un-buyback-da-250-mln-sek-93CH-3556485",
         "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 12:50:27",
+        "pubDate": "2026-09-21 13:16:42",
         "excerpt": ""
       },
       {
-        "title": "Artemis Gold acquisisce Vista Gold in un’operazione da 427 milioni di dollari",
-        "link": "https://it.investing.com/news/stock-market-news/artemis-gold-acquisisce-vista-gold-in-unoperazione-da-427-milioni-di-dollari-93CH-3556433",
+        "title": "Si allunga l'orario degli uffici dell'Agenzia delle Entrate",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/si-allunga-lorario-degli-uffici-dellagenzia-delle-entrate_54c9e154-f0ef-4abb-aab5-7ccdae8386c6.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 21 Sep 2026 15:15:10 +0200",
+        "excerpt": "Potenziata l'assistenza allo sportello per cittadini e professionisti"
+      },
+      {
+        "title": "Il petrolio in calo a New York a 97,84 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/il-petrolio-in-calo-a-new-york-a-9784-dollari_5f011f78-3aa4-4d15-8667-31f10b7ebab9.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 21 Sep 2026 15:14:38 +0200",
+        "excerpt": "Quotazioni perdono il 2,45%"
+      },
+      {
+        "title": "Consegne più veloci da parte dell’industria e droni, le priorità per la Difesa secondo la Nato",
+        "link": "https://www.ilsole24ore.com/art/consegne-piu-veloci-parte-dell-industria-e-droni-priorita-la-difesa-secondo-nato-AJfpl5IB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Mon, 21 Sep 2026 13:13:52 GMT",
+        "excerpt": "Il presidente del Comitato militare dell’Alleanza Atlantica Cavo Dragone: «I fondi ci saranno e ora dobbiamo accelerare la capacità di consegna dell’industria»"
+      },
+      {
+        "title": "L’Indonesia punta a utilizzare per altri 15 anni la nave Garibaldi ottenuta gratis dall’Italia",
+        "link": "https://www.ilsole24ore.com/art/l-indonesia-punta-utilizzare-altri-15-anni-nave-garibaldi-ottenuta-gratis-dall-italia-AJuIX7IB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Mon, 21 Sep 2026 13:12:33 GMT",
+        "excerpt": "È stata la nave ammiraglia della Marina militare fino al 2011. E ora inizia una nuova avventura."
+      },
+      {
+        "title": "S&P Global rivede al ribasso le prospettive di Telus per l’aumento della leva",
+        "link": "https://it.investing.com/news/stock-market-news/sp-global-rivede-al-ribasso-le-prospettive-di-telus-per-laumento-della-leva-93CH-3556475",
         "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 12:48:50",
+        "pubDate": "2026-09-21 13:12:23",
         "excerpt": ""
       },
       {
-        "title": "Perché il titolo Insmed è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-insmed-e-in-rialzo-oggi-93CH-3556432",
+        "title": "Le azioni delle compagnie aeree e delle crociere USA salgono con il calo del petrolio",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-delle-compagnie-aeree-e-delle-crociere-usa-salgono-con-il-calo-del-petrolio-93CH-3556471",
         "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 12:48:15",
+        "pubDate": "2026-09-21 13:11:42",
+        "excerpt": ""
+      },
+      {
+        "title": "2 azioni da comprare mentre Citi prevede un forte aumento della domanda eSSD nel 2027",
+        "link": "https://it.investing.com/news/stock-market-news/2-azioni-da-comprare-mentre-citi-prevede-un-forte-aumento-della-domanda-essd-nel-2027-3556472",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 13:10:52",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Ipsen crolla oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-ipsen-crolla-oggi-93CH-3556469",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 13:09:21",
+        "excerpt": ""
+      },
+      {
+        "title": "Germania, lavoratori industria auto in protesta dopo scossa profit warning Volkswagen",
+        "link": "https://it.investing.com/news/stock-market-news/germania-lavoratori-industria-auto-in-protesta-dopo-scossa-profit-warning-volkswagen-3556468",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 13:08:28",
+        "excerpt": ""
+      },
+      {
+        "title": "Orsini: «Faremo di tutto per tutelare i  lavoratori di Ducati»",
+        "link": "https://www.ilsole24ore.com/art/orsini-faremo-tutto-tutelare-lavoratori-ducati-AJ6HT0JB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Mon, 21 Sep 2026 13:07:00 GMT",
+        "excerpt": "“Abbiamo voluto dire che come sistema Paese ci siamo: insieme al presidente della Regione e al ministro Urso faremo tutto ciò che serve per poter dare una mano a mantenere..."
+      },
+      {
+        "title": "Le azioni crypto salgono mentre il bitcoin tocca i massimi da sette mesi",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-crypto-salgono-mentre-il-bitcoin-tocca-i-massimi-da-sette-mesi-93CH-3556464",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 13:05:47",
+        "excerpt": ""
+      },
+      {
+        "title": "I produttori europei di acciaio sotto pressione per i costi energetici, secondo BofA",
+        "link": "https://it.investing.com/news/stock-market-news/i-produttori-europei-di-acciaio-sotto-pressione-per-i-costi-energetici-secondo-bofa-93CH-3556455",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 13:04:57",
         "excerpt": ""
       },
       {
@@ -29,41 +134,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Mon, 21 Sep 2026 14:44:30 +0200",
         "excerpt": "Il caldo spinge il fabbisogno a 28,9 TWh, il livello più alto mai registrato nel mese. Le rinnovabili coprono il 41,4% della domanda, mentre il fotovoltaico cresce del 20,4%"
-      },
-      {
-        "title": "Il titolo di DataMeds AI balza dopo il lancio del nuovo sito web",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-datameds-ai-balza-dopo-il-lancio-del-nuovo-sito-web-93CH-3556369",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 12:39:14",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Insmed sale dopo la revisione prioritaria FDA per Arikayce",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-insmed-sale-dopo-la-revisione-prioritaria-fda-per-arikayce-93CH-3556366",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 12:38:30",
-        "excerpt": ""
-      },
-      {
-        "title": "Corrono i future di Wall Street, petrolio ancora in calo",
-        "link": "https://it.investing.com/news/stock-market-news/corrono-i-future-di-wall-street-petrolio-ancora-in-calo-3556347",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 12:35:07",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Anterix è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-anterix-e-in-rialzo-oggi-93CH-3556342",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 12:33:58",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Stablecoinx è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-stablecoinx-e-in-forte-rialzo-oggi-93CH-3556338",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 12:32:59",
-        "excerpt": ""
       },
       {
         "title": "Bessent prepara il terreno al vertice Xi-Trump negli Usa: “Dialogo su IA”",
@@ -87,13 +157,6 @@
         "excerpt": "Stime di Confcommercio, in calo rispetto all'anno scorso ma più visitatori stranieri"
       },
       {
-        "title": "Al via nuova edizione della 'Carta Dedicata a Te': 1.000 euro a oltre 1,1 milioni di famiglie",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/al-via-nuova-edizione-carta-dedicata-a-te-1.000-euro-a-oltre-11-milioni-famiglie_e2f985f9-42ee-4451-9fab-8a9295dd69a0.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 13:38:30 +0200",
-        "excerpt": "La misura a sostegno dei nuclei più fragili vale oltre 1 miliardo di euro. Gli accrediti dal 4 novembre"
-      },
-      {
         "title": "Patuelli, 'big tech hanno un grande potere, va arginato'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/patuelli-big-tech-hanno-un-grande-potere-va-arginato_2b0c12d6-9461-47b9-9476-9444bbf03166.html",
         "source": "ANSA Economia",
@@ -115,20 +178,6 @@
         "excerpt": "In calo i titoli di Stato. A Piazza Affari balzo di Banco Bpm"
       },
       {
-        "title": "Conou, ridotto di 7 cents al chilo da ottobre il Contributo ambientale",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/conou-ridotto-di-7-cents-al-chilo-da-ottobre-il-contributo-ambientale_2cddead3-d09d-4f64-a2fa-3dfcc7b11000.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 13:07:05 +0200",
-        "excerpt": "Sugli oli minerali usati, da 19 a 12 cents euro/kg"
-      },
-      {
-        "title": "Calderone, card \"Dedicata a te\" è un messaggio di inclusione e attenzione a fragilità",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/calderone-card-dedicata-a-te-e-un-messaggio-di-inclusione-e-attenzione-a-fragilita_f3228f37-4c82-4708-9846-19a19889a6c2.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 13:05:16 +0200",
-        "excerpt": "Ministra, \"dimostriamo che lo Stato non dimentica le persone\""
-      },
-      {
         "title": "Animali da compagnia, per 8 proprietari su 10 la relazione con il proprio pet passa dal digitale",
         "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/09/21/news/animali_da_compagnia_per_8_proprietari_su_10_la_relazione_con_il_proprio_pet_passa_dal_digitale-425598110/?rss",
         "source": "Repubblica Economia",
@@ -136,25 +185,11 @@
         "excerpt": "Uno su 3 usa l’intelligenza artificiale per capire comportamenti, ma il 49% dei pet owner ritiene difficile capire quali informazioni online siano affidabili"
       },
       {
-        "title": "Terna, il caldo spinge i consumi elettrici di agosto a +16,5% sul 2025",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/terna-il-caldo-spinge-i-consumi-elettrici-di-agosto-a-165-sul-2025_537751f3-6057-42b5-b08a-c02c1099a04c.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 12:35:22 +0200",
-        "excerpt": "Dato mensile più alto di sempre, +1,1 per le imprese"
-      },
-      {
         "title": "Google, maxi multa in Irlanda: 403 milioni per violazione dei dati sulla geolocalizzazione",
         "link": "https://www.repubblica.it/economia/2026/09/21/news/google_multa_in_irlanda_403_milioni_dati_violazione-425598091/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Mon, 21 Sep 2026 12:32:04 +0200",
         "excerpt": "Il colosso tech: “caso che riguarda regole passate, ora aggiornate”"
-      },
-      {
-        "title": "Il Fondo di garanzia apre agli enti del Terzo settore e agli enti religiosi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/il-fondo-di-garanzia-apre-agli-enti-del-terzo-settore-e-agli-enti_0320838b-22ae-4c25-8e7e-005fbce1710c.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 12:31:14 +0200",
-        "excerpt": "Dotazione da 10 milioni potrà attivare investimenti fino a 160 milioni"
       },
       {
         "title": "Al via la «Carta Dedicata a Te»  da 500 euro per il 2026: partenza il 4 novembre. Ecco cosa sapere",
@@ -178,20 +213,6 @@
         "excerpt": "«Sono pericolosi, alimentano l’estremismo tra i giovani e spesso generano violenza. Bisognerebbe bloccare chi si comporta in questo modo». È ciò che il 40,9% degli italiani pensa degli influencer che..."
       },
       {
-        "title": "Medici, trattativa sul rinnovo: aumenti, scatto d’anzianità dopo 3 anni e ferie solidali",
-        "link": "https://www.repubblica.it/economia/2026/09/21/news/medici_veterinari_rinnovo_contratto_aumenti_anzianita_ferie_solidali-425597968/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 11:37:14 +0200",
-        "excerpt": "Il 22 alle 11 nuovo tavolo all’Aran per il rinnovo 2025-2027. Incrementi medi da 380 euro"
-      },
-      {
-        "title": "Cdp Venture punta sul welfare. Tundr raccoglie 12 milioni",
-        "link": "https://www.repubblica.it/economia/finanza/2026/09/21/news/cdp_venture_punta_sul_welfare_tundr_raccoglie_12_milioni-425597910/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 11:19:07 +0200",
-        "excerpt": "Tra gli investitori nel round di Serie A 360 Capital e Azimut con altri founder"
-      },
-      {
         "title": "Giorgetti: «La sfida è trasformare i conti in ordine in cure per le persone»",
         "link": "https://www.ilsole24ore.com/art/giorgetti-quando-paese-perde-controllo-debito-non-sceglie-piu-ma-subisce-AJUDvmJB",
         "source": "Il Sole 24 Ore",
@@ -204,30 +225,16 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Mon, 21 Sep 2026 07:50:00 GMT",
         "excerpt": "Era ai domiciliari da luglio per l’accusa di truffa aggravata e continuata"
-      },
-      {
-        "title": "Panetta: «L’Ai può aumentare la produttività in Italia di oltre un punto all’anno»",
-        "link": "https://www.ilsole24ore.com/art/panetta-l-ai-puo-aumentare-produttivita-italia-oltre-punto-all-anno-AJorfhJB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Mon, 21 Sep 2026 07:28:20 GMT",
-        "excerpt": "L’intelligenza artificiale generativa ha raggiunto la metà delle famiglie americane in circa tre anni: a internet ne erano serviti più di dieci, ai telefoni cellulari circa sette. Il dato è..."
-      },
-      {
-        "title": "Legge elettorale, da oggi al via alla Camera l’ultimo step della riforma",
-        "link": "https://www.ilsole24ore.com/art/legge-elettorale-oggi-via-camera-l-ultimo-step-riforma-AJx2i8IB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Mon, 21 Sep 2026 06:07:54 GMT",
-        "excerpt": "Torna alla Camera con un testo blindato, su cui la stessa premier Giorgia Meloni, ha preannunciato - per questioni “di chiarezza” - la fiducia"
-      },
-      {
-        "title": "Mini pacchi, ora c’è solo il dazio da 3 euro ma scatterà anche la nuova tassa Ue",
-        "link": "https://www.ilsole24ore.com/art/mini-pacchi-ora-c-e-solo-dazio-3-euro-ma-scattera-anche-nuova-tassa-ue-AJV2y0IB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Mon, 21 Sep 2026 05:26:29 GMT",
-        "excerpt": "In arrivo anche l’handling fee europea entro il 1° novembre, per la quale dovrà essere stabilito l’importo. La mini tassa italiana rinviata fino al 30 novembre"
       }
     ],
     "europa": [
+      {
+        "title": "Ultima chiamata per votare sulle nuove banconote in euro: l’appello di Lagarde",
+        "link": "https://www.ilsole24ore.com/art/ultima-chiamata-votare-nuove-banconote-euro-l-appello-lagarde-AJpi20JB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Mon, 21 Sep 2026 13:18:00 GMT",
+        "excerpt": "Oggi lunedì 21 settembre 2026 si chiuderà il sondaggio organizzato dalla Banca centrale europea presso i cittadini per esprimere il loro parere sulla scemta della serie delle future..."
+      },
       {
         "title": "Merz: «Il mio Governo resta per garantire il futuro democratico della Germania. Nessun dibattito su di me»",
         "link": "https://www.ilsole24ore.com/art/merz-il-mio-governo-resta-garantire-futuro-democratico-germania-nessun-dibattito-di-me-AJgkMrJB",
@@ -276,13 +283,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Mon, 21 Sep 2026 06:02:09 GMT",
         "excerpt": "La carriera di Presley aveva seguito le orme della sorella Kaia nel mondo della moda. Il debutto a soli 16 anni per Moschino"
-      },
-      {
-        "title": "Guerra ultime notizie. Gran Bretagna, «colpita petroliera in transito a Hormuz, due feriti lievi» ",
-        "link": "https://www.ilsole24ore.com/art/trump-ha-fermato-all-ultimo-momento-raid-contro-houthi-AJJiRdJB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Mon, 21 Sep 2026 05:49:00 GMT",
-        "excerpt": ""
       },
       {
         "title": "HWH International to change name to EnerSyn Global, ticker to ESYN on Nasdaq",
@@ -400,6 +400,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Soybeans and corn rise ahead of Trump-Xi meeting this week",
+        "link": "https://www.investing.com/news/commodities-news/soybeans-and-corn-rise-ahead-of-trumpxi-meeting-this-week-93CH-4909137",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-21 13:01:28",
+        "excerpt": ""
+      },
       {
         "title": "Si apre a New York l’Assemblea generale dell’Onu: dall’Iran a Gaza, gli obiettivi di Trump",
         "link": "https://www.repubblica.it/esteri/2026/09/21/news/assemblea_generale_onu_trump_iran_gaza-425598357/?rss",
@@ -527,13 +534,6 @@
         "excerpt": ""
       },
       {
-        "title": "Morning Bid: Summiteering",
-        "link": "https://www.investing.com/news/commodities-news/morning-bid-summiteering-4908666",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 10:42:52",
-        "excerpt": ""
-      },
-      {
         "title": "L’Ice spara, grave un uomo a Austin. “È un migrante del Venezuela senza documenti”",
         "link": "https://www.repubblica.it/esteri/2026/09/21/news/ice_spara_austin_texas_uomo_venezuela-425597366/?rss",
         "source": "Repubblica Esteri",
@@ -572,6 +572,13 @@
   },
   "attualita": [
     {
+      "title": "Si apre a New York l’Assemblea generale dell’Onu: dall’Iran a Gaza, gli obiettivi di Trump",
+      "link": "https://www.repubblica.it/esteri/2026/09/21/news/assemblea_generale_onu_trump_iran_gaza-425598357/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 21 Sep 2026 12:44:09 +0000",
+      "excerpt": "Il presidente arriva stasera e parla domani. Rivendicherà i tagli all’Onu e incontrerà i leader di Venezuela, Regno Unito, Giappone e Francia"
+    },
+    {
       "title": "Elezioni in Germania, Merz: 'Il governo resterà per assicurare il futuro democratico del Paese",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/21/elezioni-in-germania-merz-il-governo-restera-per-assicurare-il-futuro-democratico-del_64293371-4512-4ab8-ab37-0abbaebb497e.html",
       "source": "ANSA",
@@ -600,7 +607,7 @@
       "excerpt": "L'intervento a Pulp Podcast: 'Posso dare gli input a delle idee'"
     },
     {
-      "title": "I funerali di Sandro Mazzola a Milano: l’ultimo saluto alla bandiera del calcio in Sant’Ambrogio",
+      "title": "I funerali di Sandro Mazzola a Milano: i tifosi dell’Inter applaudono i dirigenti della Juve",
       "link": "https://milano.repubblica.it/cronaca/2026/09/21/diretta/funerali_sandro_mazzola_milano_oggi-425598263/",
       "source": "Repubblica",
       "pubDate": "Mon, 21 Sep 2026 12:03:51 +0000",
@@ -626,13 +633,6 @@
       "source": "ANSA",
       "pubDate": "Mon, 21 Sep 2026 13:44:34 +0200",
       "excerpt": "Circa 300 lotti, il ricavato andrà alla sua fondazione benefica per gli animali"
-    },
-    {
-      "title": "Cnn, MsNow e Politico fanno causa a Trump per il divieto di accesso alla Casa Bianca",
-      "link": "https://www.repubblica.it/esteri/2026/09/21/news/cnn_msnow_e_politico_fanno_causa_a_trump_casa_bianca-425598167/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 21 Sep 2026 11:02:59 +0000",
-      "excerpt": "Contestazione basata sul primo emendamento, le udienze sono previste già in settimana. La replica del presidente: “”Non attacco la stampa libera ma le fake news, sono una minaccia”"
     },
     {
       "title": "Vicenza, muore in bici a 15 anni travolto da un’auto: “Era una promessa del calcio”",
@@ -742,10 +742,24 @@
   ],
   "sport": [
     {
+      "title": "Mazzola: Malagò \"no a pene collettive per i fatti di Torino, siano puniti i singoli\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/mazzola-malago-no-a-pene-collettive-per-i-fatti-di-torino-siano-puniti-i-singoli_7641836f-56ad-4f78-8bf6-40ee65fc5736.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 21 Sep 2026 15:18:22 +0200",
+      "excerpt": "N.1 Figc \"Juve è vittima. Spiace vedere mancanza di rispetto per un grande giocatore\""
+    },
+    {
+      "title": "Calcio: Mancini, 'Malagò è molto tranquillo, noi pensiamo a battere il Belgio'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/calcio-mancini-malago-e-molto-tranquillo-noi-pensiamo-a-battere-il-belgio_0da3b245-c29c-4fb9-a696-be4be324f48c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 21 Sep 2026 15:14:51 +0200",
+      "excerpt": "Il ct accoglie la capodelegazione Diana Bianchedi: \"Ci darà una grossa mano\""
+    },
+    {
       "title": "L'addio a Mazzola: striscione ultras ai funerali, 'il tuo nome nella storia dell'Inter'",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/21/mazzola-striscione-ultras-ai-funerali-il-tuo-nome-nella-storia-dellinter_7a153788-b747-4753-a2e0-f6fef5275d11.html",
       "source": "ANSA Sport",
-      "pubDate": "Mon, 21 Sep 2026 15:03:22 +0200",
+      "pubDate": "Mon, 21 Sep 2026 15:05:25 +0200",
       "excerpt": "Presenti tanti ex campioni da Guarneri a Cordoba, da Cambiasso a Toldo"
     },
     {
@@ -775,20 +789,6 @@
       "source": "ANSA Sport",
       "pubDate": "Mon, 21 Sep 2026 14:13:43 +0200",
       "excerpt": "Oggi stop alle iscrizioni. La presentazione di mercoledì 23 settembre"
-    },
-    {
-      "title": "LaLiga: è tornato il Mourinho furente, e' polemica in Spagna",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/21/laliga-e-tornato-il-mourinho-furente-e-polemica-in-spagna_c1b721e6-9e47-441b-b710-46fc2fd6f2fb.html",
-      "source": "ANSA Sport",
-      "pubDate": "Mon, 21 Sep 2026 13:56:55 +0200",
-      "excerpt": "Tecnico portoghese mostra immagini contestate in sala stampa e cita il caso Negreira"
-    },
-    {
-      "title": "Juventus: per Kolo Muani frattura a un dito, ma a Cagliari ci sarà",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/juve-per-kolo-muani-frattura-a-un-dito-ma-a-cagliari-ci-sara_2ab8adf5-490b-4a03-8f49-4ffda5a87c49.html",
-      "source": "ANSA Sport",
-      "pubDate": "Mon, 21 Sep 2026 13:53:58 +0200",
-      "excerpt": "Il francese verrà sottoposto a intervento chirurgico nelle prossime ore"
     },
     {
       "title": "Tifo organizzato Lazio prosegue protesta 'non per risultati, ma mancanza di rispetto'",
