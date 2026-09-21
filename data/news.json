@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-21T00:10:48.742Z",
+  "lastUpdated": "2026-09-21T00:42:49.989Z",
   "finanza": {
     "italia": [
+      {
+        "title": "I futures azionari USA salgono in vista del vertice Trump-Xi e della crisi Iran",
+        "link": "https://it.investing.com/news/stock-market-news/i-futures-azionari-usa-salgono-in-vista-del-vertice-trumpxi-e-della-crisi-iran-3555437",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 00:12:42",
+        "excerpt": ""
+      },
       {
         "title": "Telix Australia acquisisce la tedesca ITM Isotope per 1,65 miliardi di dollari",
         "link": "https://it.investing.com/news/stock-market-news/telix-australia-acquisisce-la-tedesca-itm-isotope-per-165-miliardi-di-dollari-3555434",
@@ -199,13 +206,6 @@
         "excerpt": ""
       },
       {
-        "title": "Le preoccupazioni sull’AI Doom metteranno fine all’AI Boom?",
-        "link": "https://it.investing.com/news/stock-market-news/le-preoccupazioni-sullai-doom-metteranno-fine-allai-boom-3555369",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-19 20:16:51",
-        "excerpt": ""
-      },
-      {
         "title": "Bruxelles chiarisce su fondi Pnrr per il taglio del bollo, 'ci sono margini'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/bruxelles-chiarisce-su-fondi-pnrr-per-il-taglio-del-bollo-ci-sono-margini_60f8c90f-671c-4530-8048-de1e819f00e3.html",
         "source": "ANSA Economia",
@@ -387,6 +387,13 @@
     ],
     "mondo": [
       {
+        "title": "Europe faces Q4 jet fuel supply deficit even as South Korea becomes latest big supplier",
+        "link": "https://www.investing.com/news/commodities-news/europe-faces-q4-jet-fuel-supply-deficit-even-as-south-korea-becomes-latest-big-supplier-4908204",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-21 00:06:24",
+        "excerpt": ""
+      },
+      {
         "title": "Oil rises after Houthi attack on Saudi capital",
         "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
         "source": "Investing.com Commodities",
@@ -545,13 +552,6 @@
         "link": "https://www.investing.com/news/commodities-news/analysisrussia-sanctions-bill-gives-trump-sweeping-new-tariff-powers-4907872",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-19 00:18:31",
-        "excerpt": ""
-      },
-      {
-        "title": "Oil prices snap two-week winning streak on easing Middle East supply fears",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-for-3rd-day-as-supply-concerns-ease-diplomacy-in-focus-4906634",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-18 21:13:14",
         "excerpt": ""
       }
     ]
