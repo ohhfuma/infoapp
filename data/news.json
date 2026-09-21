@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-20T23:35:07.470Z",
+  "lastUpdated": "2026-09-21T00:10:48.742Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Telix Australia acquisisce la tedesca ITM Isotope per 1,65 miliardi di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/telix-australia-acquisisce-la-tedesca-itm-isotope-per-165-miliardi-di-dollari-3555434",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-20 23:48:10",
+        "excerpt": ""
+      },
       {
         "title": "Jefferies rimane rialzista sull’S&P 500, obiettivo 9.000 entro fine 2027",
         "link": "https://it.investing.com/news/stock-market-news/jefferies-rimane-rialzista-sullsp-500-obiettivo-9000-entro-fine-2027-3555431",
@@ -199,13 +206,6 @@
         "excerpt": ""
       },
       {
-        "title": "Un analista spiega perché evitare le azioni Nike nonostante il forte calo",
-        "link": "https://it.investing.com/news/stock-market-news/un-analista-spiega-perche-evitare-le-azioni-nike-nonostante-il-forte-calo-3555367",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-19 20:10:04",
-        "excerpt": ""
-      },
-      {
         "title": "Bruxelles chiarisce su fondi Pnrr per il taglio del bollo, 'ci sono margini'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/19/bruxelles-chiarisce-su-fondi-pnrr-per-il-taglio-del-bollo-ci-sono-margini_60f8c90f-671c-4530-8048-de1e819f00e3.html",
         "source": "ANSA Economia",
@@ -387,6 +387,13 @@
     ],
     "mondo": [
       {
+        "title": "Oil rises after Houthi attack on Saudi capital",
+        "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-20 23:24:25",
+        "excerpt": ""
+      },
+      {
         "title": "In Messico Sheinbaum blinda lo stato di Sinaloa, 'l'esercito non si ritira'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/in-messico-sheinbaum-blinda-lo-stato-di-sinaloa-lesercito-non-si-ritira_58bde7f4-bfa8-4ab4-95e3-50700df0c026.html",
         "source": "ANSA Mondo",
@@ -448,13 +455,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 21 Sep 2026 00:20:04 +0200",
         "excerpt": "Ha preso il 4,9%, sfiorando la soglia di ingresso del 5"
-      },
-      {
-        "title": "Oil rises after Houthi attack on Saudi capital",
-        "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-20 22:18:25",
-        "excerpt": ""
       },
       {
         "title": "Russia Unita mantiene il vantaggio nelle elezioni col 41,04% delle schede scrutinate",
@@ -558,6 +558,20 @@
   },
   "attualita": [
     {
+      "title": "“I tedeschi stanchi dei vecchi partiti, per dare risposte servono nuovi leader”",
+      "link": "https://www.repubblica.it/esteri/2026/09/21/news/germania_analisi_voto_merz_afd_linke-425597253/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 23:00:42 +0000",
+      "excerpt": "Per il politologo Wolfgang Schroeder le elezioni confermano la polarizzazione della Germania, spaccata tra le aree rurali e quelle delle città"
+    },
+    {
+      "title": "In Germania parte l’assalto a Merz, cancelliere dimezzato: “Un disastro, ma resto”",
+      "link": "https://www.repubblica.it/esteri/2026/09/21/news/germania_merz_crisi_dopo_elezioni-425597055/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 23:00:21 +0000",
+      "excerpt": "L’ipotesi di cambio in corsa o di governo di minoranza. Lui convoca i media per frenare sulle dimissioni: resta però in bilico"
+    },
+    {
       "title": "Scuola, il limite al 30% obbligatorio solo per chi non sa l’italiano: ecco cosa prevede il decreto",
       "link": "https://www.repubblica.it/scuola/2026/09/21/news/decreto_valditara_tetto_stranieri_classe_scuola_circolare-425597303/",
       "source": "Repubblica",
@@ -586,6 +600,20 @@
       "excerpt": "Fioralba Duma della rete “Italiani senza cittadinanza”: “Meloni definisce stranieri ragazzi di terza generazione nati e cresciuti in Italia ma ancora senza passaporto. Questa è l’unica differenza dai loro coetanei. A cos"
     },
     {
+      "title": "Schlein: “Confronto con i 5Stelle e sull’Ucraina troveremo l’intesa”",
+      "link": "https://www.repubblica.it/politica/2026/09/21/news/schlein_m5s_calabresi-425597266/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 23:00:00 +0000",
+      "excerpt": "La segretaria Pd al festival di Open, stretta di mano con Mario Calabresi ma non si sbilancia su una sua candidatura a Milano"
+    },
+    {
+      "title": "Gualtieri: “Difendere Kiev dall’aggressione russa deve restare una priorità”",
+      "link": "https://www.repubblica.it/politica/2026/09/21/news/intervista_roberto_gualteri_mamdani_visita_new_york-425597257/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 20 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il primo cittadino della Capitale: “Mi interessa il destino del centrosinistra ma non farò il federatore. Mi ricandiderò il prossimo anno per il bis al Campidoglio”"
+    },
+    {
       "title": "L'AfD vince anche in Meclemburgo-Pomerania, Berlino alla Linke ma Merz non molla",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/21/lafd-vince-anche-in-meclemburgo-pomerania-berlino-alla-linke-ma-merz-non_e858bc98-bac2-4f2f-a7ce-abd390ca6baf.html",
       "source": "ANSA",
@@ -600,39 +628,11 @@
       "excerpt": "'Gli italiani non possono sentirsi minoranza'. Lo scontro con Schlein"
     },
     {
-      "title": "Il Milan si rialza, Lecce inconsistente: 3-0 a San Siro",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/20/news/milan_lecce_gol-425597312/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 21:34:33 +0000",
-      "excerpt": "Gara senza storia che, dopo la sconfitta con il Benfica, i rossoneri hanno dominato. Reti di Pulisic, Rabiot e Moreira"
-    },
-    {
       "title": "Germania, il trionfo di Elif Eralp nella capitale: 'Abbiamo fatto la storia'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/20/candidata-linke-a-berlino-fatta-la-storia-da-oggi-cambiamo-la-nostra-citta_886896f5-37c2-41be-bdea-13ad39bce623.html",
       "source": "ANSA",
       "pubDate": "Sun, 20 Sep 2026 21:00:22 +0200",
       "excerpt": "Verso la poltrona di sindaca la nuova star della sinistra: 'L'amore ha vinto sull'odio'"
-    },
-    {
-      "title": "Mattarella elogia il dissenso: “È un presidio di libertà",
-      "link": "https://www.repubblica.it/politica/2026/09/20/news/mattarella_liberta_tentazione_illiberale_pensiero_unico_pordenone-425597016/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 18:25:24 +0000",
-      "excerpt": "Il presidente della Repubblica è intervenuto a chiusura di Pordenonelegge. “Pensiero unico strumento di oppressione, battaglia dei diritti non conclusa"
-    },
-    {
-      "title": "La Juventus torna a vincere anche in campionato: 2-0 all’Atalanta",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/20/news/juventus_atalanta_gol-425597009/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 18:21:58 +0000",
-      "excerpt": "Dopo il 5-0 in coppa, le reti di Conceiçao e Bremer consentono a Spalletti di rilanciarsi"
-    },
-    {
-      "title": "Mourinho mostra le foto degli errori arbitrali dopo la sconfitta del Real con l’Atletico",
-      "link": "https://www.repubblica.it/sport/calcio/esteri/2026/09/20/news/mourinho_foto_errori_arbitrali_real_atletico-425596986/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 18:14:10 +0000",
-      "excerpt": "Il tecnico battuto 2-1 nel derby: “Due rossi evidenti, succedono cose strane, così a cosa serve dire di non arrenderci? Al Barcellona danno dei rigori da ridere”"
     },
     {
       "title": "L'Amorino torna restaurato alla Gypsoteca canoviana",
