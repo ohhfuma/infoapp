@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-21T22:07:36.083Z",
+  "lastUpdated": "2026-09-21T22:38:19.599Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Iambic Therapeutics presenta domanda di IPO per finanziare farmaci oncologici",
+        "link": "https://it.investing.com/news/stock-market-news/iambic-therapeutics-presenta-domanda-di-ipo-per-finanziare-farmaci-oncologici-93CH-3556929",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 22:00:36",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Quest Diagnostics sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-quest-diagnostics-sta-scendendo-oggi-93CH-3556926",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 21:53:06",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Labcorp sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-labcorp-sta-scendendo-oggi-93CH-3556924",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 21:52:51",
+        "excerpt": ""
+      },
       {
         "title": "Rating di Latam Airlines alzato da S&P per le solide performance",
         "link": "https://it.investing.com/news/stock-market-news/rating-di-latam-airlines-alzato-da-sp-per-le-solide-performance-93CH-3556919",
@@ -35,27 +56,6 @@
         "link": "https://it.investing.com/news/stock-market-news/le-azioni-gamestop-salgono-dopo-che-il-ceo-cohen-acquista-264m-in-titoli-93CH-3556902",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-21 21:21:34",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Vicor sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-vicor-sta-salendo-oggi-93CH-3556893",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 21:15:00",
-        "excerpt": ""
-      },
-      {
-        "title": "Endava crolla del 10% dopo congedo del CFO e indagine contabile",
-        "link": "https://it.investing.com/news/stock-market-news/endava-crolla-del-10-dopo-congedo-del-cfo-e-indagine-contabile-93CH-3556890",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 21:12:42",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Tomi Environmental sale dopo la cancellazione della fusione",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-tomi-environmental-sale-dopo-la-cancellazione-della-fusione-93CH-3556886",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 21:05:23",
         "excerpt": ""
       },
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Sondaggio, i venezuelani bocciano l'incontro Trump-Rodríguez",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/sondaggio-i-venezuelani-bocciano-lincontro-trump-rodriguez_a34ad13d-a209-4c5e-907a-8fd4fe7b9464.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 00:06:54 +0200",
+        "excerpt": "Meganálisis, 91% contrario al vertice mentre l'80% non approva l'accordo sul petrolio"
+      },
+      {
         "title": "Cuba, due anziani morti nel crollo di un'abitazione all'Avana",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/cuba-due-anziani-morti-nel-crollo-di-unabitazione-allavana_bfc3e89a-acaf-4a72-93a5-a95b901625d0.html",
         "source": "ANSA Mondo",
@@ -520,13 +527,6 @@
         "excerpt": ""
       },
       {
-        "title": "L'ira di Milei sulla stampa argentina, 'giornalisti m... umane'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/lira-di-milei-sulla-stampa-argentina-giornalisti-m...-umane_e3b0292b-f298-4627-81c5-f7cdb090ec20.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 20:26:07 +0200",
-        "excerpt": "I media nel mirino dopo le indiscrezioni sui licenziamenti nella residenza presidenziale"
-      },
-      {
         "title": "Spagna, la moglie di Sánchez andrà a processo davanti a una giuria popolare",
         "link": "https://www.repubblica.it/esteri/2026/09/21/news/begona_gomez_processo_giuria_popolare_moglie_pedro_sanchez-425598865/?rss",
         "source": "Repubblica Esteri",
@@ -571,6 +571,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "La scuola di Meloni nella vignetta di Ellekappa",
+      "link": "https://www.repubblica.it/politica/2026/09/22/news/scuola_di_meloni_integrazione_con_vannacci_vignetta_ellekappa-425599254/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 21 Sep 2026 22:01:00 +0000",
+      "excerpt": ""
+    },
     {
       "title": "Mattarella: 'La scuola è aperta a tutti. E' integrazione, aiuti a non creare ghetti'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/21/mattarella-agli-studenti-la-cultura-rende-liberi_af7c5db3-feda-43c4-abe6-d226da53196b.html",
@@ -661,13 +668,6 @@
       "source": "Repubblica",
       "pubDate": "Mon, 21 Sep 2026 16:04:58 +0000",
       "excerpt": "Fatemeh Khoshyom aveva 30 anni e una figlia di dieci anni. Accanto al suo corpo è stato trovato un foulard"
-    },
-    {
-      "title": "Zuppi: “Le scuole devono essere luoghi in cui nessuno si senta escluso”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/21/news/zuppi_scuola_nessuno_escluso-425598602/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 21 Sep 2026 14:17:46 +0000",
-      "excerpt": "Fine vita, dopo la legge regionale veneta la Chiesa è “preoccupata”, c’è un “ritardo” su cure palliative, sostegno alle famiglie e ai caregiver, serve “un confronto parlamentare ampio”"
     },
     {
       "title": "\"Quando quell'onda enorme sta per travolgerti\", così raccontava Presley Gerber",
