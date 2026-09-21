@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-09-21T08:08:36.819Z",
+  "lastUpdated": "2026-09-21T08:39:38.148Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Banche, la centralità della geopolitica",
+        "link": "https://www.repubblica.it/economia/dossier/sicurezza/2026/09/21/news/banche_la_centralita_della_geopolitica-425597777/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 10:33:35 +0200",
+        "excerpt": "Il nuovo centro promosso da Abi punta a trasformare l’analisi degli scenari in capacità decisionale"
+      },
+      {
+        "title": "La guida pratica di Abi e consumatori",
+        "link": "https://www.repubblica.it/economia/dossier/sicurezza/2026/09/21/news/la_guida_pratica_di_abi_e_consumatori-425597766/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 10:26:44 +0200",
+        "excerpt": "Al Salone spazio a strumenti e incontri informativi per riconoscere i rischi del web e sciogliere i dubbi"
+      },
+      {
+        "title": "Ora una difesa dinamica contro i rischi",
+        "link": "https://www.repubblica.it/economia/dossier/sicurezza/2026/09/21/news/ora_una_difesa_dinamica_contro_i_rischi-425597757/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 10:22:12 +0200",
+        "excerpt": "Tra l’aumento delle minacce cyber e la spinta dell’IA, le analisi Deloitte per WeSec tracciano la rotta per proteggere dati e mercati"
+      },
+      {
+        "title": "Paramount e Warner Bros. salgono dopo notizie di progressi nell’accordo sulla fusione",
+        "link": "https://it.investing.com/news/stock-market-news/paramount-e-warner-bros-salgono-dopo-notizie-di-progressi-nellaccordo-sulla-fusione-3555659",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 08:22:02",
+        "excerpt": ""
+      },
+      {
+        "title": "Il business dei viaggi studio: un mercato da 2,5 miliardi. La storia di Giocamondo",
+        "link": "https://www.repubblica.it/economia/2026/09/21/news/giocamondo_viaggi_studio_gara_consip_mete_investimenti-425597746/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 10:18:03 +0200",
+        "excerpt": "L’azienda ha partecipato alla gara Consip. “Dubai congelata a causa della guerra, ma le prospettive restano buone”"
+      },
+      {
+        "title": "Cybersecurity e frodi, conta il fattore umano",
+        "link": "https://www.repubblica.it/economia/dossier/sicurezza/2026/09/21/news/cybersecurity_e_frodi_conta_il_fattore_umano-425597742/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 10:17:28 +0200",
+        "excerpt": "Il comparto finanziario ha speso in sicurezza fisica e digitale 5 miliardi di euro tra il 2020 e il 2025"
+      },
+      {
+        "title": "Milano Hub pronto a lanciare la quarta “call for proposals”",
+        "link": "https://www.repubblica.it/economia/dossier/sicurezza/2026/09/21/news/milano_hub_pronto_a_lanciare_la_quarta_call_for_proposals-425597720/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 10:13:02 +0200",
+        "excerpt": "A WeSec, il centro di innovazione creato dalla Banca d’Italia invita il mercato a presentare progetti di frontiera"
+      },
+      {
+        "title": "La sicurezza è una leva per la crescita",
+        "link": "https://www.repubblica.it/economia/dossier/sicurezza/2026/09/21/news/la_sicurezza_e_una_leva_per_la_crescita-425597700/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 21 Sep 2026 10:08:14 +0200",
+        "excerpt": "Il 22 settembre debutta a Milano il nuovo Salone promosso da Abi"
+      },
+      {
+        "title": "L’integrazione tra SpaceX e Tesla si approfondisce: cosa vede Morgan Stanley",
+        "link": "https://it.investing.com/news/stock-market-news/lintegrazione-tra-spacex-e-tesla-si-approfondisce-cosa-vede-morgan-stanley-3555652",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 08:07:42",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Newag è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-newag-e-in-forte-rialzo-oggi-93CH-3555645",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 08:06:47",
+        "excerpt": ""
+      },
+      {
+        "title": "Rendimenti del +201%: perché i titoli tech scelti dall’IA continuano a salire",
+        "link": "https://it.investing.com/news/stock-market-news/201-di-rendimento-perche-i-titoli-tech-scelti-dallia-continuano-a-salire-3555647",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 08:04:55",
+        "excerpt": ""
+      },
       {
         "title": "Banche, l'algoritmo non sostituisce l'uomo",
         "link": "https://www.repubblica.it/economia/dossier/sicurezza/2026/09/21/news/banche_l_algoritmo_non_sostituisce_l_uomo-425597691/?rss",
@@ -10,11 +87,32 @@
         "excerpt": "Patuelli (Abi): “Di fronte ai timori che l’intelligenza artificiale possa arrivare a compiere scelte non decise o controllate dalle persone, bisogna sempre far prevalere l’etica e la responsabilità umane”"
       },
       {
-        "title": "Quando a fare shopping è l’intelligenza artificiale",
-        "link": "https://www.repubblica.it/economia/native/2026/09/21/news/quando_a_fare_shopping_e_l_intelligenza_artificiale-425577168/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 10:00:00 +0200",
-        "excerpt": "Dai consigli alla possibilità di concludere direttamente un acquisto: cresce l’interesse dei consumatori, ma la nuova frontiera passa da sicurezza, trasparenza e controllo"
+        "title": "Perché il titolo Craneware crolla oggi in borsa?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-craneware-crolla-oggi-in-borsa-93CH-3555644",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 08:01:01",
+        "excerpt": ""
+      },
+      {
+        "title": "Borsa Milano positiva in avvio, in luce Banco Bpm, scende il settore oil",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-positiva-in-avvio-in-luce-banco-bpm-scende-il-settore-oil-3555635",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 07:57:22",
+        "excerpt": ""
+      },
+      {
+        "title": "Porsche, CEO rassicura personale che non sono previsti ulteriori licenziamenti",
+        "link": "https://it.investing.com/news/stock-market-news/porsche-ceorassicura-personale-che-non-sono-previsti-ulteriori-licenziamenti-3555634",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 07:57:04",
+        "excerpt": ""
+      },
+      {
+        "title": "JD Sports entra in Messico con la partnership con Grupo Axo",
+        "link": "https://it.investing.com/news/stock-market-news/jd-sports-entra-in-messico-con-la-partnership-con-grupo-axo-93CH-3555633",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 07:56:47",
+        "excerpt": ""
       },
       {
         "title": "Usava i social dai domiciliari, Mario Adinolfi va in carcere",
@@ -24,13 +122,6 @@
         "excerpt": "Era ai domiciliari da luglio per l’accusa di truffa aggravata e continuata"
       },
       {
-        "title": "Perché il titolo Elixirr International crolla oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-elixirr-international-crolla-oggi-93CH-3555618",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 07:48:58",
-        "excerpt": ""
-      },
-      {
         "title": "Borsa: Milano positiva con le banche, in luce Banco Bpm",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/borsa-milano-positiva-con-le-banche-in-luce-banco-bpm_9e04fe20-d16b-4d29-9143-48342128cbe5.html",
         "source": "ANSA Economia",
@@ -38,53 +129,11 @@
         "excerpt": "In fondo Eni. Lo spread tra Btp e Bund a 88 punti"
       },
       {
-        "title": "Perché il titolo Berentzen è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-berentzen-e-in-forte-rialzo-oggi-93CH-3555607",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 07:37:06",
-        "excerpt": ""
-      },
-      {
-        "title": "Opas Poste Italiane su Tim, riaperti i termini per l’adesione",
-        "link": "https://it.investing.com/news/stock-market-news/opas-poste-italiane-su-tim-riaperti-i-termini-per-ladesione-3555606",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 07:35:07",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Kuehne & Nagel è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-kuehne--nagel-e-in-rialzo-oggi-93CH-3555603",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 07:33:23",
-        "excerpt": ""
-      },
-      {
         "title": "Confartigianato, pmi italiane pagano energia 3,7 miliardi più di media Ue",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/confartigianato-pmi-italiane-pagano-energia-37-miliardi-piu-di-media-ue_bcaadca3-95ea-43e3-be4b-e7aac71d63d9.html",
         "source": "ANSA Economia",
         "pubDate": "Mon, 21 Sep 2026 09:32:19 +0200",
         "excerpt": "Il fisco in bolletta pesa il 47,4% più che in Europa. Lombardia la più colpita"
-      },
-      {
-        "title": "Perpetual rifiuta la revisione dell’offerta di acquisizione di EQT",
-        "link": "https://it.investing.com/news/stock-market-news/perpetual-rifiuta-la-revisione-dellofferta-di-acquisizione-di-eqt-93CH-3555601",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 07:31:43",
-        "excerpt": ""
-      },
-      {
-        "title": "La moda torna in passerella con le collezioni del rilancio. Faro degli investitori sull’estate 2027",
-        "link": "https://www.repubblica.it/economia/2026/09/21/news/moda_stagione_sfilate_collezioni_rilancio-425597640/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 09:30:56 +0200",
-        "excerpt": "Apre la Fashion Week Prada, che il prossimo anno rilancerà la Versace di Pieter Mulier e chiude il calendario Armani che ha appena assunto Dario Vitale per accessori e Emporio"
-      },
-      {
-        "title": "Azioni Banco BPM in rialzo su ipotesi di offerta congiunta UniCredit-Agricole",
-        "link": "https://it.investing.com/news/stock-market-news/azioni-banco-bpm-in-rialzo-su-ipotesi-mossa-congiunta-unicreditagricole-3555605",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 07:30:10",
-        "excerpt": ""
       },
       {
         "title": "Panetta: «L’Ai può aumentare la produttività in Italia di oltre un punto all’anno»",
@@ -122,20 +171,6 @@
         "excerpt": "Il primo indice Ftse Mib a 51.814 punti"
       },
       {
-        "title": "Bessent propone notifiche su sicurezza IA tra Usa, Cina in colloqui con vice premier cinese",
-        "link": "https://it.investing.com/news/stock-market-news/bessent-propone-notifiche-su-sicurezzaia-tra-usa-cina-in-colloqui-con-vice-premier-cinese-3555595",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 07:16:28",
-        "excerpt": ""
-      },
-      {
-        "title": "FTSE 100 oggi: Titoli in rialzo mentre il petrolio scende per speranze diplomatiche con l’Iran",
-        "link": "https://it.investing.com/news/stock-market-news/ftse-100-oggi-titoli-in-rialzo-mentre-il-petrolio-scende-per-speranze-diplomatiche-con-liran-3555597",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 07:14:35",
-        "excerpt": ""
-      },
-      {
         "title": "Mimit, prezzi carburanti ancora in rialzo, benzina self a 2,155 euro",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/mimit-prezzi-carburanti-ancora-in-rialzo-benzina-self-a-2155-euro_44acb123-bba4-4fd0-b13c-3e15d7ea9c08.html",
         "source": "ANSA Economia",
@@ -155,41 +190,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Mon, 21 Sep 2026 06:07:54 GMT",
         "excerpt": "Torna alla Camera con un testo blindato, su cui la stessa premier Giorgia Meloni, ha preannunciato - per questioni “di chiarezza” - la fiducia"
-      },
-      {
-        "title": "Latte e derivati & Soia",
-        "link": "https://www.repubblica.it/economia/rubriche/la-borsa-della-spesa/2026/09/21/news/latte_e_derivati__soia-425593694/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 08:00:00 +0200",
-        "excerpt": ""
-      },
-      {
-        "title": "Una rielezione nel board globale dell’Ica e una general manager a capo di Roche Italia",
-        "link": "https://www.repubblica.it/economia/rubriche/poltrone/2026/09/21/news/una_rielezione_nel_board_globale_dell_ica_e_una_general_manager_a_capo_di_roche_italia-425591022/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 08:00:00 +0200",
-        "excerpt": ""
-      },
-      {
-        "title": "La mancata età dell’oro per colpa delle soluzioni facili",
-        "link": "https://www.repubblica.it/economia/rubriche/la-ricerca-della-felicita/2026/09/21/news/la_mancata_eta_dell_oro_per_colpa_delle_soluzioni_facili-425590384/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 08:00:00 +0200",
-        "excerpt": ""
-      },
-      {
-        "title": "Le sanzioni di Trump contro Guillou e la falla gigante nel diritto europeo",
-        "link": "https://www.repubblica.it/economia/rubriche/il-libro/2026/09/21/news/le_sanzioni_di_trump_contro_guillou_e_la_falla_gigante_nel_diritto_europeo-425590863/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 08:00:00 +0200",
-        "excerpt": ""
-      },
-      {
-        "title": "Energia e sicurezza. Il decalogo Von der Leyen per il rilancio",
-        "link": "https://www.repubblica.it/economia/2026/09/21/news/energia_e_sicurezza_il_decalogo_von_der_leyen_per_il_rilancio-425593505/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 08:00:00 +0200",
-        "excerpt": "La presidente europea ha lanciato un nuovo programma economico in dieci punti, con le misure per affrontare la nuova crisi in Medio Oriente e le sfide di Usa e Cina"
       },
       {
         "title": "Mini pacchi, ora c’è solo il dazio da 3 euro ma scatterà anche la nuova tassa Ue",
@@ -401,6 +401,41 @@
     ],
     "mondo": [
       {
+        "title": "Lula a New York, vedrà il sindaco Mamdani e il presidente dell'Uruguay",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/lula-a-new-york-vedra-il-sindaco-mamdani-e-il-presidente-delluruguay_d48c8cc3-b5d6-48f0-8a76-7f3ff3ff23f6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 10:26:00 +0200",
+        "excerpt": "Previsto anche un incontro con il senatore Bernie Sanders"
+      },
+      {
+        "title": "Media, 25mila persone espulse dagli Usa in Paesi terzi in base ad accordi segreti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/21/media-25mila-persone-espulse-dagli-usa-in-paesi-terzi-in-base-ad-accordi_d100888b-de76-495d-9126-9578b56381aa.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 10:17:47 +0200",
+        "excerpt": "Inchiesta del Guardian,'Washington ha stanziato 410 milioni per agevolare i trasferimenti'"
+      },
+      {
+        "title": "Kallas, 'elezioni russe farsa, il Cremlino ha soffocato il dissenso'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/kallas-elezioni-russe-farsa-il-cremlino-ha-soffocato-il-dissenso_223f464e-caf5-4253-a115-7d9c5ddfb966.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 10:15:34 +0200",
+        "excerpt": "\"Sanzioni contro chi le ha facilitate nei territori ucraini occupati\""
+      },
+      {
+        "title": "In Francia c'è chi risparmia allungando la benzina con l'etanolo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/in-francia-ce-chi-risparmia-allungando-la-benzina-con-letanolo_1429aa98-80fb-4344-a05b-66c17f72f062.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 10:14:19 +0200",
+        "excerpt": "Prezzi alle stelle, fra 10 e 15% di stazioni di servizio senza rifornimenti"
+      },
+      {
+        "title": "South Korean opposition lawmaker warns on risks in US investment package",
+        "link": "https://www.investing.com/news/commodities-news/south-korean-opposition-lawmaker-warns-on-risks-in-us-investment-package-4908400",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-21 08:12:45",
+        "excerpt": ""
+      },
+      {
         "title": "Una Mamdani a Berlino: la musulmana Elif Eralp nuova sindaca grazie al piano casa",
         "link": "https://www.repubblica.it/esteri/2026/09/21/news/elif_eralp_sindaca_berlino_linke-425597649/?rss",
         "source": "Repubblica Esteri",
@@ -459,13 +494,6 @@
       {
         "title": "Gold wedged in $4,300-$4,450 range: Live breakout levels",
         "link": "https://www.investing.com/news/commodities-news/gold-wedged-in-43004450-range-live-breakout-levels-93CH-4908346",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 07:11:25",
-        "excerpt": ""
-      },
-      {
-        "title": "Copper hits multi-month high near $6.80 resistance: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/copper-hits-multimonth-high-near-680-resistance-live-levels-93CH-4908347",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-21 07:11:25",
         "excerpt": ""
@@ -539,44 +567,30 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 21 Sep 2026 00:47:09 +0200",
         "excerpt": "Si conferma il dato delle proiezioni"
-      },
-      {
-        "title": "Risultati preliminari, la Cdu è fuori dal parlamentino in Pomerania, prima volta",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/risultati-preliminari-la-cdu-e-fuori-dal-parlamentino-in-pomerania-prima-volta_95ee8ff7-e42d-4e20-8574-09fbfee28c80.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 00:20:04 +0200",
-        "excerpt": "Ha preso il 4,9%, sfiorando la soglia di ingresso del 5"
-      },
-      {
-        "title": "Russia Unita mantiene il vantaggio nelle elezioni col 41,04% delle schede scrutinate",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/russia-unita-mantiene-il-vantaggio-nelle-elezioni-col-4104-delle-schede_6cebeb61-8cc1-4dc7-9936-f6ea74ec4576.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 23:48:17 +0200",
-        "excerpt": "Commissione elettorale: 'È in testa col 57,26%'"
-      },
-      {
-        "title": "Wsj, 'Trump si prepara a imporre sanzioni alla Cpi'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/20/wsj-trump-si-prepara-a-imporre-sanzioni-alla-cpi_46862b20-aa63-4c76-94aa-e84a7e63332d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 20:44:41 +0200",
-        "excerpt": "Le impedirebbe operazioni in dollari escludendola da parte del sistema finanziario globale"
-      },
-      {
-        "title": "Zelensky, 'ho appena parlato con Trump, ci vedremo a New York'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/20/zelensky-ho-appena-parlato-con-trump-ci-vedremo-a-new-york_b9528dcd-5290-4a52-aec7-2c1aa1b7c5c3.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 20 Sep 2026 20:43:54 +0200",
-        "excerpt": "'Poi ringrazia il tycoon per la visita di Witkoff e Kushner a Kiev'"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Scrivania al centro, back to work tra stress in ufficio e spazio di lavoro",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/design_giardino/2026/09/19/scrivania-al-centro-back-to-work-tra-stress-in-ufficio-e-spazio-di-lavoro_0afa5a96-62b1-4326-ab75-e53aca55570c.html",
+      "title": "Presley Gerber e la lotta contro le malattie mentali: “Ne parlo sui social per aiutare gli altri”",
+      "link": "https://www.repubblica.it/spettacoli/people/2026/09/21/news/morto_presley_gerber_figlio_cindy_crawford-425597698/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 21 Sep 2026 08:06:23 +0000",
+      "excerpt": "Il figlio di Cindy Crawford è scomparo oggi all’età di 27 anni. Negli ultimi mesi aveva utilizzato Instagram per raccontare il suo disagio"
+    },
+    {
+      "title": "50 anni sul palco, Gianna Nannini travolge Berlino e omaggia la nonna",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/20/50-anni-sul-palco-gianna-nannini-travolge-berlino-e-omaggia-la-nonna_4329eb1d-b7dc-4957-bcb1-0f81f4d136b1.html",
       "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 10:01:01 +0200",
-      "excerpt": "Illuminazione, ordine, spazi per migliorare dove lavoriamo"
+      "pubDate": "Mon, 21 Sep 2026 10:04:15 +0200",
+      "excerpt": "\"Giannagold\" scatenata e toccante. La Waldbuehne gremita e in ovazione"
+    },
+    {
+      "title": "De Zerbi, rischio fallimento: contestazione e ipotesi esonero dopo un mercato da star",
+      "link": "https://www.repubblica.it/sport/calcio/esteri/2026/09/21/news/de_zerbi_esonero_fallimento_contestazione-425597675/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 21 Sep 2026 07:51:18 +0000",
+      "excerpt": "Il tecnico italiano del Tottenham non ha ancora vinto una partita in Premier League"
     },
     {
       "title": "L'AfD vince anche in Meclemburgo-Pomerania, Berlino alla Linke ma Merz non molla",
@@ -614,7 +628,7 @@
       "excerpt": "La candidata della Linke ha vinto puntando sul caro affitti e le tasse ai ricchi"
     },
     {
-      "title": "Mario Adinolfi portato in carcere, posta su Fb: “Mi stanno arrestando perché scrivo sui social”",
+      "title": "Mario Adinolfi portato in carcere, su Fb posta: “Mi stanno arrestando perché scrivo sui social”",
       "link": "https://roma.repubblica.it/cronaca/2026/09/21/news/mario_adinolfi_portato_in_carcere_comunicava_sui_social_dagli_arresti_domiciliari-425597583/",
       "source": "Repubblica",
       "pubDate": "Mon, 21 Sep 2026 06:42:14 +0000",
@@ -642,32 +656,18 @@
       "excerpt": "Per il politologo Wolfgang Schroeder le elezioni confermano la polarizzazione della Germania, spaccata tra le aree rurali e quelle delle città"
     },
     {
-      "title": "In Germania parte l’assalto a Merz, cancelliere dimezzato: “Un disastro, ma resto”",
-      "link": "https://www.repubblica.it/esteri/2026/09/21/news/germania_merz_crisi_dopo_elezioni-425597055/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 23:00:21 +0000",
-      "excerpt": "L’ipotesi di cambio in corsa o di governo di minoranza. Lui convoca i media per frenare sulle dimissioni: resta però in bilico"
-    },
-    {
-      "title": "L’Italia ritira i jet e il radar volante dalla base in Arabia Saudita. E valuta i rischi dei soldati",
-      "link": "https://www.repubblica.it/esteri/2026/09/21/news/italia_sposta_caccia_e_radar_dalla_base_in_arabia_saudita-425597046/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 23:00:19 +0000",
-      "excerpt": "Dopo i missili degli Houthi sull’avamposto di Ta’if trasferiti alcuni Eurofighter e il Gulfstream Caew da mezzo miliardo di euro"
-    },
-    {
-      "title": "50 anni sul palco, Gianna Nannini travolge Berlino e omaggia la nonna",
-      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/20/50-anni-sul-palco-gianna-nannini-travolge-berlino-e-omaggia-la-nonna_4329eb1d-b7dc-4957-bcb1-0f81f4d136b1.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 20 Sep 2026 19:42:13 +0200",
-      "excerpt": "\"Giannagold\" scatenata e toccante. La Waldbuehne gremita e in ovazione"
-    },
-    {
       "title": "Malgioglio, \"A Tale e Quale sarò cattivissimo, ora sogno di lavorare con Almodovar\"",
       "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/09/20/malgioglio-a-tale-e-quale-saro-cattivissimo-ora-sogno-di-lavorare-con-almodovar_1432a57b-3977-422c-8047-ffdbe1ebffc6.html",
       "source": "ANSA",
       "pubDate": "Sun, 20 Sep 2026 19:39:48 +0200",
       "excerpt": "\"Con Carlo Conti intesa speciale\". E su Vannacci: \"Le sue sono provocazioni\""
+    },
+    {
+      "title": "K-food alla milanese, quando il risotto e i mondeghili incontrano il Kimchi coreano",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/09/19/k-food-alla-milanese-quando-il-risotto-e-i-mondeghili-incontrano-il-kimchi-coreano_f5031149-7d82-49d4-930f-f5f7d5c9f890.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 20 Sep 2026 18:40:51 +0200",
+      "excerpt": "Pop up a Milano mette in dialogo due culture gastronomiche. Ecco le ricette"
     },
     {
       "title": "Con Kandinsky a Roma anche l'opera di Gabriele Münter",
