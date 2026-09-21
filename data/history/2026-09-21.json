@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Polimi, progetto della business school di volontariato professionale diventa europeo",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/polimi-progetto-della-business-school-di-volontariato-professionale-diventa-europeo_ac3b161f-8865-4c8d-8c9c-91d7603c553d.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 21 Sep 2026 18:53:34 +0200",
+        "excerpt": "Sesta edizione di Leave Your Mark, partecipa anche Upf Barcelona School of Management"
+      },
+      {
+        "title": "Scuola, il cardinale Zuppi: sia un luogo in cui nessuno si sente escluso",
+        "link": "https://www.ilsole24ore.com/art/scuola-cardinale-zuppi-sia-luogo-cui-nessuno-si-sente-escluso-AJeHPIKB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Mon, 21 Sep 2026 16:43:00 GMT",
+        "excerpt": "«Una scuola autenticamente inclusiva è uno dei più potenti strumenti di giustizia e di pace». A dirlo è presidente della Cei, il card. Matteo Zuppi. Parole che arrivano a poche..."
+      },
+      {
+        "title": "Ferrero, ai dipendenti oltre 2.500 euro lordi di premio legato agli obiettivi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/ferrero-ai-dipendenti-oltre-2.500-euro-lordi-di-premio-legato-agli-obiettivi_7a676e3a-131b-4417-9e8c-03963c7fad1e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 21 Sep 2026 18:35:25 +0200",
+        "excerpt": "Sarà erogato a ottobre. L'importo può essere convertito in parte in welfare"
+      },
+      {
         "title": "Il gas prosegue in forte calo (-7,4%) sul mercato di Amsterdam",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/il-gas-prosegue-in-forte-calo-74-sul-mercato-di-amsterdam_cd608e08-bbab-48b9-93bb-f5bd95375184.html",
         "source": "ANSA Economia",
@@ -401,27 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "Mon, 21 Sep 2026 15:34:42 +0200",
         "excerpt": "Prosegue la crescita sul mercato americano, il closing entro fine anno"
-      },
-      {
-        "title": "Borsa: l'Europa corre col petrolio e il dialogo Cina-Usa",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/borsa-leuropa-corre-col-petrolio-e-il-dialogo-cina-usa_7d952b78-1bbf-488a-a8f0-0cc3963a5d0f.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 15:33:03 +0200",
-        "excerpt": "Milano svetta (+1,3%) con Bpm e Stm. Corrono i bond, -11 punti il rendimento del Btp"
-      },
-      {
-        "title": "Perché il titolo Marvell Technology è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-marvell-technology-e-in-rialzo-oggi-93CH-3556508",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 13:31:31",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Alm. Brand guadagna oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-alm-brand-guadagna-oggi-93CH-3556507",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 13:31:23",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -682,6 +682,20 @@
     ],
     "mondo": [
       {
+        "title": "Dell'Utri in Brasile, 'gli italiani nel mondo una risorsa strategica per l'Italia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/dellutri-in-brasile-gli-italiani-nel-mondo-una-risorsa-strategica-per_6cf5300e-f445-4084-8be8-40592c93afc6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 18:23:26 +0200",
+        "excerpt": "'L'obiettivo è rafforzare il rapporto tra l'Italia e le proprie comunità all'estero'"
+      },
+      {
+        "title": "Tajani, 'mi scuso con le donne, non le ho mai volute offendere'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/tajani-mi-scuso-con-le-donne-non-le-ho-mai-volute-offendere_07d64aa0-ca47-4242-b639-b68ad0b1600b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 18:23:25 +0200",
+        "excerpt": ""
+      },
+      {
         "title": "Dalla favela di Rio al Congresso Usa, premiato il progetto di Maré",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/dalla-favela-di-rio-al-congresso-usa-premiato-il-progetto-di-mare_1aab945b-c07d-434c-a7a2-c4dc6cc1898a.html",
         "source": "ANSA Mondo",
@@ -735,6 +749,13 @@
         "link": "https://www.investing.com/news/commodities-news/trump-in-call-with-yemen-president-did-not-pledge-military-support-against-houthis-say-sources-4909267",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-21 14:00:56",
+        "excerpt": ""
+      },
+      {
+        "title": "Oil falls amid Mideast diplomacy hopes, Saudi export reports",
+        "link": "https://www.investing.com/news/commodities-news/oil-extends-decline-amid-usiran-diplomacy-hopes-4908212",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-21 13:55:38",
         "excerpt": ""
       },
       {
@@ -1079,31 +1100,17 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-21 01:41:53",
         "excerpt": ""
-      },
-      {
-        "title": "L’Ice spara, grave un uomo a Austin. “È un migrante del Venezuela senza documenti”",
-        "link": "https://www.repubblica.it/esteri/2026/09/21/news/ice_spara_austin_texas_uomo_venezuela-425597366/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Mon, 21 Sep 2026 03:35:55 +0200",
-        "excerpt": "Colpito al torace dopo un breve inseguimento a piedi. Insorge la città texana, il sindaco: “Arrabbiato e deluso, episodio avvenuto dopo un significativo aumento di operazioni da parte della polizia federale”"
-      },
-      {
-        "title": "Brazil’s Petrobras board approves joining diesel subsidy program",
-        "link": "https://www.investing.com/news/commodities-news/brazils-petrobras-board-approves-joining-diesel-subsidy-program-4908218",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 01:25:00",
-        "excerpt": ""
-      },
-      {
-        "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-        "link": "https://www.investing.com/news/commodities-news/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital-4908217",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 01:24:30",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Tajani: “Mi scuso con le donne, non le ho mai volute offendere”",
+      "link": "https://www.repubblica.it/politica/2026/09/21/news/tajani_scuse_non_ho_mai_voluto_offendere_donne-425598808/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 21 Sep 2026 16:45:50 +0000",
+      "excerpt": "Il vicepremier, dopo le polemiche dei giorni scorsi, torna sulle sue parole a margine dell’assemblea dell’Onu a New York"
+    },
     {
       "title": "Il Tribunale concede la semilibertà a Chico Forti",
       "link": "https://www.repubblica.it/cronaca/2026/09/21/news/chico_forti_tribunale_concede_semiliberta-425598778/",
@@ -1152,6 +1159,13 @@
       "source": "ANSA",
       "pubDate": "Mon, 21 Sep 2026 16:43:17 +0200",
       "excerpt": ""
+    },
+    {
+      "title": "Mancini: “Tanti giovani, ma bisogna fare in fretta. In 4 anni sicuro che porteremo a casa qualcosa”",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/21/news/mancini_nations_league_conferenza-425598609/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 21 Sep 2026 14:22:25 +0000",
+      "excerpt": "Il ct parte subito con un girone di Champions non facile: “Malagò mi ha tranquillizzato, io devo pensare soltanto a battere il Belgio”"
     },
     {
       "title": "Zuppi: “Le scuole devono essere luoghi in cui nessuno si senta escluso”",
@@ -1509,23 +1523,30 @@
       "source": "Repubblica",
       "pubDate": "Sun, 20 Sep 2026 23:00:21 +0000",
       "excerpt": "L’ipotesi di cambio in corsa o di governo di minoranza. Lui convoca i media per frenare sulle dimissioni: resta però in bilico"
-    },
-    {
-      "title": "Elezioni in Russia, Putin incassa la vittoria: il suo partito è al 57%. Pioggia di droni sul voto",
-      "link": "https://www.repubblica.it/esteri/2026/09/21/news/elezioni_in_russia_vittoria_putin-425597144/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 23:00:21 +0000",
-      "excerpt": "Con la maggioranza assoluta Russia Unita avrà mani libere alla Duma. La protesta delle opposizioni non riesce. Massiccio attacco di Kiev"
-    },
-    {
-      "title": "L’Italia ritira i jet e il radar volante dalla base in Arabia Saudita. E valuta i rischi dei soldati",
-      "link": "https://www.repubblica.it/esteri/2026/09/21/news/italia_sposta_caccia_e_radar_dalla_base_in_arabia_saudita-425597046/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 20 Sep 2026 23:00:19 +0000",
-      "excerpt": "Dopo i missili degli Houthi sull’avamposto di Ta’if trasferiti alcuni Eurofighter e il Gulfstream Caew da mezzo miliardo di euro"
     }
   ],
   "sport": [
+    {
+      "title": "Mazzola: l'ex Juve Marchisio, 'fatico ad accettare episodio allo Stadium'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/mazzola-lex-juve-marchisio-fatico-ad-accettare-episodio-allo-stadium_7d38c460-0287-4f87-8112-dc61ae7b2099.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 21 Sep 2026 18:52:31 +0200",
+      "excerpt": "Ex calciatore sui social, 'gesti come quello non devono accadere'"
+    },
+    {
+      "title": "Calcio: Mbappé, 'Zidane provò a portarmi al Real a 13 anni, ora è il mio ct'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/calcio-mbappe-zidane-provo-a-portarmi-al-real-a-13-anni-ora-e-il-mio-ct_7fcab8d5-9729-426b-838d-62251d0eb36d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 21 Sep 2026 18:38:26 +0200",
+      "excerpt": "La stella francese: \"È come un film. Nuova fase, sarà una novità per tutti\""
+    },
+    {
+      "title": "Calcio: Juve; Kolo Muani operato al J Medical, intervento riuscito",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/calcio-juve-kolo-muani-operato-al-j-medical-intervento-riuscito_7fba01f5-07f1-47c3-891c-dee52acddfbc.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 21 Sep 2026 18:36:12 +0200",
+      "excerpt": "Per il francese frattura a dito della mano, torna a disposizione Spalletti"
+    },
     {
       "title": "Basket: tutti a caccia dell'Armani cannibale, con un occhio a Nba Europe",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/21/basket-tutti-a-caccia-dellarmani-cannibale-con-un-occhio-a-nba-europe_40b742a8-f5f6-443b-8a60-11a1267c30a9.html",
