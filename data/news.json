@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-09-21T19:38:00.085Z",
+  "lastUpdated": "2026-09-21T20:08:02.545Z",
   "finanza": {
     "italia": [
       {
-        "title": "Aerei, mancano 510 mila barili al giorno. Ue: vertice d’urgenza. Si cerca carburante in Corea",
+        "title": "Aerei, mancano 510 mila barili al giorno. Ue: vertice d’urgenza. Ora si cerca carburante in Corea",
         "link": "https://www.repubblica.it/economia/2026/09/21/news/aerei_carburante_mancanza_trasporti-425598496/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Mon, 21 Sep 2026 21:28:07 +0200",
+        "pubDate": "Mon, 21 Sep 2026 21:58:54 +0200",
         "excerpt": "Secondo Energy Aspects, nei prossimi mesi l’Europa mancherà ogni giorno di 510 mila barili di carburante. Il commissario ai Trasporti: “Riunione straordinaria”. Per colmare il vuoto, il mercato cerca nuove forniture in A"
+      },
+      {
+        "title": "Symplr Software riceve un’iniezione di capitale da 175 milioni di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/symplr-software-riceve-uniniezione-di-capitale-da-175-milioni-di-dollari-93CH-3556799",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 19:29:34",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Grail è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-grail-e-in-forte-rialzo-oggi-93CH-3556798",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 19:22:58",
+        "excerpt": ""
       },
       {
         "title": "Ex dipendente di xAI cerca $50M per la startup anti-deepfake Moir",
@@ -71,20 +85,6 @@
         "source": "ANSA Economia",
         "pubDate": "Mon, 21 Sep 2026 20:50:04 +0200",
         "excerpt": "Il Brent scende del 3,47% a 100,27 dollari"
-      },
-      {
-        "title": "Aziende di data center rimandano le IPO per crescente opposizione",
-        "link": "https://it.investing.com/news/stock-market-news/aziende-di-data-center-rimandano-le-ipo-per-crescente-opposizione-93CH-3556787",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 18:47:39",
-        "excerpt": ""
-      },
-      {
-        "title": "SoftBank: SB Energy rinvia la sua IPO",
-        "link": "https://it.investing.com/news/stock-market-news/softbank-sb-energy-rinvia-la-sua-ipo-432SI-3556786",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 18:43:02",
-        "excerpt": ""
       },
       {
         "title": "Simest si rafforza negli Usa: nuovo ufficio a New York",
@@ -401,6 +401,48 @@
     ],
     "mondo": [
       {
+        "title": "'I jet erano pronti contro gli houthi, poi lo stop di Trump'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/21/i-jet-erano-pronti-contro-gli-houthi-poi-lo-stop-di-trump_5a5117b7-6646-4851-9244-5caef3a44aca.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 22:05:15 +0200",
+        "excerpt": "Il presidente Usa all'Onu incontra il Golfo e forse Pezeshkian. 'Dal 23 bloccati i voli dell'Iran'"
+      },
+      {
+        "title": "Ue, slitta ancora l'ok al rinnovo delle sanzioni, domani nuova riunione",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/ue-slitta-ancora-lok-al-rinnovo-delle-sanzioni-domani-nuova-riunione_ddff3938-d7be-468d-9c9a-e7b63f6101ae.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 22:03:47 +0200",
+        "excerpt": "Le misure contro la Russia. Convocato alle 8 di mattina il Coreper II"
+      },
+      {
+        "title": "California governor signs broad data center oversight bill package",
+        "link": "https://www.investing.com/news/commodities-news/california-governor-signs-broad-data-center-oversight-bill-package-4909524",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-21 19:54:28",
+        "excerpt": ""
+      },
+      {
+        "title": "Merz incassa la sconfitta ma resta. Il Cremlino: “In calo perché non comprate più gas russo”",
+        "link": "https://www.repubblica.it/esteri/2026/09/21/news/germania_merz_riconosce_sconfitta_ma_non_molla_cremlino_calo_perche_non_comprate_piu_gas_russo-425598587/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 21 Sep 2026 21:48:12 +0200",
+        "excerpt": "Cdu fuori dal parlamento in Meclemburgo, il cancelliere: “Drammatico, senza precedenti”. Il monito di Merkel: “Per Adenauer bisognava costruire ponti”. E Mosca gongola"
+      },
+      {
+        "title": "Oil price dips to $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports",
+        "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-21 19:42:57",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump says US is working on deal to purchase potash from Belarus",
+        "link": "https://www.investing.com/news/commodities-news/trump-says-us-is-working-on-deal-to-purchase-potash-from-belarus-4909550",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-21 19:26:18",
+        "excerpt": ""
+      },
+      {
         "title": "Natural Gas tests key support at $2.83: Live levels",
         "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
         "source": "Investing.com Commodities",
@@ -436,32 +478,11 @@
         "excerpt": ""
       },
       {
-        "title": "Silver stuck in $65.50-$67.50 chop zone: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/silver-consolidates-at-6640-in-breakout-coil-live-levels-93CH-4908353",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 19:18:44",
-        "excerpt": ""
-      },
-      {
-        "title": "Copper near ATH with double top warning: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/copper-hits-multimonth-high-near-680-resistance-live-levels-93CH-4908347",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 19:18:43",
-        "excerpt": ""
-      },
-      {
         "title": "Maxi operazione contro la criminalità transnazionale in America Latina ed Europa",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/maxi-operazione-contro-la-criminalita-transnazionale-in-america-latina-ed-europa_87ad33ab-f070-4922-958e-d6ea253a085d.html",
         "source": "ANSA Mondo",
         "pubDate": "Mon, 21 Sep 2026 21:18:33 +0200",
         "excerpt": "Nel quadro di 'El Paccto'. 490 arresti, sequestrate tonnellate di cocaina e cannabis"
-      },
-      {
-        "title": "California governor signs broad data center oversight bill package",
-        "link": "https://www.investing.com/news/commodities-news/california-governor-signs-broad-data-center-oversight-bill-package-4909524",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 18:55:07",
-        "excerpt": ""
       },
       {
         "title": "Merkel, la Cdu continui a costruire ponti nel segno di Adenauer",
@@ -513,32 +534,11 @@
         "excerpt": "'C'è grande attenzione alle Nazioni Unite da parte del governo'"
       },
       {
-        "title": "Dell'Utri in Brasile, 'gli italiani nel mondo una risorsa strategica per l'Italia'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/dellutri-in-brasile-gli-italiani-nel-mondo-una-risorsa-strategica-per_6cf5300e-f445-4084-8be8-40592c93afc6.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 18:23:26 +0200",
-        "excerpt": "'L'obiettivo è rafforzare il rapporto tra l'Italia e le proprie comunità all'estero'"
-      },
-      {
-        "title": "Tajani, 'mi scuso con le donne, non le ho mai volute offendere'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/tajani-mi-scuso-con-le-donne-non-le-ho-mai-volute-offendere_07d64aa0-ca47-4242-b639-b68ad0b1600b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 18:23:25 +0200",
-        "excerpt": ""
-      },
-      {
         "title": "Manuela Schwesig, la “Donna contro il Blu” che ha fermato l’onda nera e ora può scalare la Spd",
         "link": "https://www.repubblica.it/esteri/2026/09/21/news/manuela_schwesig_spd_meclemburgo_pomerania-425598118/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Mon, 21 Sep 2026 18:22:43 +0200",
         "excerpt": "A lungo sottovalutata dai rivali, la governatrice uscente del Meclemburgo-Pomerania va verso la conferma. Vicina alla gente, si batte contro il caro-benzina e per le campagne. Uniche ombre: i suoi rapporti con la Russia "
-      },
-      {
-        "title": "Merz riconosce la sconfitta ma non molla. Il Cremlino: “Calo perché non comprate più gas russo”",
-        "link": "https://www.repubblica.it/esteri/2026/09/21/news/germania_merz_riconosce_sconfitta_ma_non_molla_cremlino_calo_perche_non_comprate_piu_gas_russo-425598587/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Mon, 21 Sep 2026 17:48:28 +0200",
-        "excerpt": "Il cancelliere per ora afferma di voler continuare sulla strada delle riforme con l’alleato Spd. Ma nel suo partito non tutti approvano"
       },
       {
         "title": "Dalla crisi alla vittoria a Berlino: la rinascita della Linke grazie a Gaza, migranti e piano casa",
@@ -575,8 +575,8 @@
       "title": "Dalle ballerine ai diamanti, all'asta gli oggetti personali di Brigitte Bardot",
       "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/21/dalle-ballerine-ai-diamanti-allasta-gli-oggetti-personali-di-brigitte-bardot_b28af765-ba10-4946-b968-6e1786c0dc09.html",
       "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 21:23:08 +0200",
-      "excerpt": "Circa 300 lotti, il ricavato andrà alla sua fondazione benefica per gli animali"
+      "pubDate": "Mon, 21 Sep 2026 21:35:57 +0200",
+      "excerpt": "All'asta a Parigi i beni di Brigitte Bardot, 43.000 euro per un bracciale di nozze"
     },
     {
       "title": "Tajani: 'Mi scuso con le donne, non le ho mai volute offendere'",
@@ -612,6 +612,13 @@
       "source": "ANSA",
       "pubDate": "Mon, 21 Sep 2026 19:46:06 +0200",
       "excerpt": "Condannato all'ergastolo, ha trascorso 25 anni in carcere negli Usa"
+    },
+    {
+      "title": "De Martino, a Sanremo sì a voto online e giuria straniera, no all'IA",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/21/de-martino-a-sanremo-si-a-voto-online-e-giuria-straniera-no-allia_22fb2941-1d79-45fc-bd7e-6d0200ff1624.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 21 Sep 2026 19:43:14 +0200",
+      "excerpt": "24 artisti in gara \"senza aggiunte\". \"Maneskin? Vedremo. Venerdì la serata Performance\""
     },
     {
       "title": "Spagna, la moglie di Sánchez andrà a processo davanti a una giuria popolare",
@@ -661,13 +668,6 @@
       "source": "Repubblica",
       "pubDate": "Mon, 21 Sep 2026 14:17:46 +0000",
       "excerpt": "Fine vita, dopo la legge regionale veneta la Chiesa è “preoccupata”, c’è un “ritardo” su cure palliative, sostegno alle famiglie e ai caregiver, serve “un confronto parlamentare ampio”"
-    },
-    {
-      "title": "K-food alla milanese, quando il risotto e i mondeghili incontrano il Kimchi coreano",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/09/19/k-food-alla-milanese-quando-il-risotto-e-i-mondeghili-incontrano-il-kimchi-coreano_f5031149-7d82-49d4-930f-f5f7d5c9f890.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 16:03:25 +0200",
-      "excerpt": "Pop up a Milano mette in dialogo due culture gastronomiche. Ecco le ricette"
     },
     {
       "title": "\"Quando quell'onda enorme sta per travolgerti\", così raccontava Presley Gerber",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Infantino scrive alle Federazioni, 'riformiamo la governance della Fifa'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/infantino-scrive-alle-federazioni-riformiamo-la-governance-della-fifa_51fefcec-2fda-4023-9e3c-eadc11888070.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 21 Sep 2026 21:58:54 +0200",
+      "excerpt": "Il n.1 del calcio mondiale: \"Obiettivo rafforzare i processi decisionali\""
+    },
+    {
       "title": "Eurovolley, l'Italia mette nel mirino la final four di Milano",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/21/eurovolley-litalia-mette-nel-mirino-la-final-four-di-milano_40fef02e-481b-4b4c-ba99-379fd95595a4.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Mon, 21 Sep 2026 18:36:12 +0200",
       "excerpt": "Per il francese frattura a dito della mano, torna a disposizione Spalletti"
-    },
-    {
-      "title": "Maxima Roma annuncia l'ala Hunter Tyson, ex Denver Nuggets",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/21/maxima-roma-annuncia-lala-hunter-tyson-ex-denver-nuggets_87f97317-6d56-4999-88a2-9a079331f42d.html",
-      "source": "ANSA Sport",
-      "pubDate": "Mon, 21 Sep 2026 18:08:47 +0200",
-      "excerpt": "La nuova formazione capitolina esordirà domenica in Serie A"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

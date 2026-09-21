@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Symplr Software riceve un’iniezione di capitale da 175 milioni di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/symplr-software-riceve-uniniezione-di-capitale-da-175-milioni-di-dollari-93CH-3556799",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 19:29:34",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Grail è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-grail-e-in-forte-rialzo-oggi-93CH-3556798",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 19:22:58",
+        "excerpt": ""
+      },
+      {
         "title": "Ex dipendente di xAI cerca $50M per la startup anti-deepfake Moir",
         "link": "https://it.investing.com/news/stock-market-news/ex-dipendente-di-xai-cerca-50m-per-la-startup-antideepfake-moir-93CH-3556796",
         "source": "Investing.com Italia",
@@ -408,20 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-21 15:00:21",
         "excerpt": ""
-      },
-      {
-        "title": "Le rinnovabili avanzano ma occorre accelerare verso l'obiettivo del 2030",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/le-rinnovabili-avanzano-ma-occorre-accelerare-verso-lobiettivo-del-2030_f2f8e96b-e62d-4bbe-83d2-88f0be91c4d4.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 17:00:19 +0200",
-        "excerpt": "Rapporto Irena-Gra e presidenza turca Cop31, investire di più su reti e tecnologie"
-      },
-      {
-        "title": "In Spagna investimenti esteri in crescita del 31,2% nel primo semestre",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/in-spagna-investimenti-esteri-in-crescita-del-312-nel-primo-semestre_2007924b-6ff8-4b78-a360-8fceb61e3f55.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 16:59:37 +0200",
-        "excerpt": "Afflussi per 12,4 miliardi di euro. Gli Stati Uniti primo investitore"
       }
     ],
     "europa": [
@@ -681,6 +681,27 @@
       }
     ],
     "mondo": [
+      {
+        "title": "'I jet erano pronti contro gli houthi, poi lo stop di Trump'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/21/i-jet-erano-pronti-contro-gli-houthi-poi-lo-stop-di-trump_5a5117b7-6646-4851-9244-5caef3a44aca.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 22:05:15 +0200",
+        "excerpt": "Il presidente Usa all'Onu incontra il Golfo e forse Pezeshkian. 'Dal 23 bloccati i voli dell'Iran'"
+      },
+      {
+        "title": "Ue, slitta ancora l'ok al rinnovo delle sanzioni, domani nuova riunione",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/ue-slitta-ancora-lok-al-rinnovo-delle-sanzioni-domani-nuova-riunione_ddff3938-d7be-468d-9c9a-e7b63f6101ae.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 21 Sep 2026 22:03:47 +0200",
+        "excerpt": "Le misure contro la Russia. Convocato alle 8 di mattina il Coreper II"
+      },
+      {
+        "title": "Trump says US is working on deal to purchase potash from Belarus",
+        "link": "https://www.investing.com/news/commodities-news/trump-says-us-is-working-on-deal-to-purchase-potash-from-belarus-4909550",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-21 19:26:18",
+        "excerpt": ""
+      },
       {
         "title": "Natural Gas tests key support at $2.83: Live levels",
         "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
@@ -1079,27 +1100,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 21 Sep 2026 12:27:58 +0200",
         "excerpt": "Causa basata sul primo emendamento, udienze già in settimana"
-      },
-      {
-        "title": "Colombia, proposti tagli al bilancio del Tribunale per la pace",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/colombia-proposti-tagli-al-bilancio-del-tribunale-per-la-pace_2f10dd5a-8e76-47ca-9cb9-b014ab33a966.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 12:14:22 +0200",
-        "excerpt": "Il presidente De la Espriella: 'Motivi fiscali, non agisco per vendetta'"
-      },
-      {
-        "title": "Dalle ballerine ai diamanti, all'asta gli oggetti personali di Brigitte Bardot",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/dalle-ballerine-ai-diamanti-allasta-gli-oggetti-personali-di-brigitte-bardot_f6ef8150-bbe9-44a1-91b8-8eb6ab157b4d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 12:11:34 +0200",
-        "excerpt": "Circa 300 lotti, il ricavato andrà alla sua fondazione benefica per gli animali"
-      },
-      {
-        "title": "Ukmto, 'colpita petroliera in transito a Hormuz, due feriti lievi'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/21/ukmto-colpita-petroliera-in-transito-a-hormuz-due-feriti-lievi_9ca7f60f-5e44-4e49-82d9-c34cfcd9505a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 11:46:11 +0200",
-        "excerpt": "La nave ha proseguito la rotta"
       }
     ]
   },
@@ -1124,6 +1124,13 @@
       "source": "ANSA",
       "pubDate": "Mon, 21 Sep 2026 19:46:06 +0200",
       "excerpt": "Condannato all'ergastolo, ha trascorso 25 anni in carcere negli Usa"
+    },
+    {
+      "title": "De Martino, a Sanremo sì a voto online e giuria straniera, no all'IA",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/21/de-martino-a-sanremo-si-a-voto-online-e-giuria-straniera-no-allia_22fb2941-1d79-45fc-bd7e-6d0200ff1624.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 21 Sep 2026 19:43:14 +0200",
+      "excerpt": "24 artisti in gara \"senza aggiunte\". \"Maneskin? Vedremo. Venerdì la serata Performance\""
     },
     {
       "title": "La preside di Amatrice: 'Siamo orgogliosi di questa visita'",
@@ -1516,16 +1523,16 @@
       "source": "ANSA",
       "pubDate": "Mon, 21 Sep 2026 08:06:28 +0200",
       "excerpt": "E' deceduto in una struttura di riabilitazione. Lo annunciano i media Usa"
-    },
-    {
-      "title": "++ Media Usa, 'morto a 27 anni il figlio di Cindy Crawford' ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/21/media-usa-morto-a-27-anni-il-figlio-di-cindy-crawford_8b5f72fb-9777-468a-9fc1-b14ab9173df7.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 07:42:32 +0200",
-      "excerpt": "Il modello Presley Gerber è deceduto in una struttura di riabilitazione"
     }
   ],
   "sport": [
+    {
+      "title": "Infantino scrive alle Federazioni, 'riformiamo la governance della Fifa'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/infantino-scrive-alle-federazioni-riformiamo-la-governance-della-fifa_51fefcec-2fda-4023-9e3c-eadc11888070.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 21 Sep 2026 21:58:54 +0200",
+      "excerpt": "Il n.1 del calcio mondiale: \"Obiettivo rafforzare i processi decisionali\""
+    },
     {
       "title": "F1: dal 2027 Gran Premi più corti, riduzione di 15 chilometri",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/21/f1-dal-2027-gran-premi-piu-corti-riduzione-di-15-chilometri_fa974ba4-da02-43ad-a0f0-da021a6c8c50.html",
