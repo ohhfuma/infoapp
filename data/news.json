@@ -1,55 +1,118 @@
 {
-  "lastUpdated": "2026-09-22T09:38:07.811Z",
+  "lastUpdated": "2026-09-22T10:08:58.754Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Me contro Te, patrimonio da 29 milioni e utili a 1,8 milioni malgrado il calo dei ricavi",
+        "link": "https://www.repubblica.it/economia/2026/09/22/news/me_contro_te_bilancio_2025_utili_immobili_investimenti_ricavi_lui_sofi-425600031/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Tue, 22 Sep 2026 12:02:39 +0200",
+        "excerpt": "La coppia famosa per gli spettacoli per bambini, appena finita nel mirino di Consumerismo, possiede immobili per 19 milioni. E nel 2025 si è lanciata nella finanza, investendo 10,6 milioni tra fondi e titoli (presso Medi"
+      },
+      {
+        "title": "Itas Mutua, il patrimonio netto aumenta del 10,2% e sale a 850,9 milioni di euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/itas-mutua-il-patrimonio-netto-aumenta-del-102-e-sale-a-8509-milioni_5222c1ff-d0ad-4be3-81c6-bbfb9beb5658.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 12:02:24 +0200",
+        "excerpt": "Il cda ha approvato i conti consolidati del primo semestre 2026"
+      },
+      {
+        "title": "Zaccheo, valutare le tariffe per il Ponte sullo Stretto con costi e volumi definiti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/zaccheo-valutare-le-tariffe-per-il-ponte-sullo-stretto-con-costi-e-volumi_a4eb315c-6bae-431a-984c-ac02d51711f5.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 12:01:28 +0200",
+        "excerpt": "'Verificare sostenibilità economica nel tempo e corretta allocazione dei rischi'"
+      },
+      {
+        "title": "“Due nuovi binari tra Roma e Firenze, linea veloce è satura”",
+        "link": "https://www.repubblica.it/economia/2026/09/22/news/art_trasporti_zaccheo_direttissima_binari-425600022/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Tue, 22 Sep 2026 11:52:52 +0200",
+        "excerpt": "Zaccheo, presidente dell’Autorità dei Trasporti, chiede una puntuale programmazione degli investimenti in vista dell’arrivo di nuovi operatori. Entreranno sia nell’alta velocità sia nel segmento Intercity. Reclami dei vi"
+      },
+      {
+        "title": "Perché il titolo On Holding sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-on-holding-sta-salendo-oggi-93CH-3557382",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 09:51:57",
+        "excerpt": ""
+      },
+      {
+        "title": "Borsa: Europa in rialzo, Francoforte +0,14%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-europa-in-rialzo-francoforte-014_a3ac28ee-f82e-4745-96b9-c3068cd31ace.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 11:50:24 +0200",
+        "excerpt": "Milano resta in calo -0,38% con Buzzi e Poste"
+      },
+      {
+        "title": "AI e utili continuano a trainare i mercati, focus sul vertice Trump-Xi",
+        "link": "https://it.investing.com/news/stock-market-news/ai-e-utili-continuano-a-trainare-i-mercati-focus-sul-vertice-trumpxi-3557381",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 09:49:35",
+        "excerpt": ""
+      },
+      {
+        "title": "Citi prevede un aumento del 52,9% della domanda di eSSD nel 2027",
+        "link": "https://it.investing.com/news/stock-market-news/citi-prevede-un-aumento-del-529-della-domanda-di-essd-nel-2027-93CH-3557374",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 09:49:19",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Evonik Industries è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-evonik-industries-e-in-rialzo-oggi-93CH-3557364",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 09:46:42",
+        "excerpt": ""
+      },
+      {
+        "title": "Lane (Bce), 'inflazione più persistente con energia, primo calo da metà 2027'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/lane-bce-inflazione-piu-persistente-con-energia-primo-calo-da-meta_364f8e75-06db-4832-acb3-8de80e89c229.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 11:45:40 +0200",
+        "excerpt": "'Nuova ondata di rincari. Shock più intenso finirebbe per pesare sull'economia'"
+      },
+      {
+        "title": "Grimaldi, in Sardegna torna la Euromed convention",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/grimaldi-in-sardegna-torna-la-euromed-convention_f2e8329d-4716-422c-96b4-d7713a0838ca.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 11:44:07 +0200",
+        "excerpt": "Appuntamento internazionale sul futuro del trasporto marittimo e della logistica"
+      },
+      {
+        "title": "TD Cowen: quota sulle esportazioni di diesel possibile mossa politica",
+        "link": "https://it.investing.com/news/stock-market-news/td-cowen-quota-sulle-esportazioni-di-diesel-possibile-mossa-politica-93CH-3557361",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 09:44:01",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Key sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-key-sta-salendo-oggi-93CH-3557353",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 09:40:31",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo di Fifth Third Bancorp sale oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-fifth-third-bancorp-sale-oggi-93CH-3557352",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 09:39:20",
+        "excerpt": ""
+      },
+      {
+        "title": "Ericsson in calo dopo il downgrade di Morgan Stanley sul titolo",
+        "link": "https://it.investing.com/news/stock-market-news/ericsson-in-calo-dopo-il-downgrade-di-morgan-stanley-sul-titolo-3557363",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 09:38:25",
+        "excerpt": ""
+      },
       {
         "title": "Dai bonus 5.0 alla Zes, dall’ex Ilva agli elettrodomestici: i punti chiave della manovra per l’industria ",
         "link": "https://www.ilsole24ore.com/art/dai-bonus-50-zes-dall-ex-ilva-elettrodomestici-punti-chiave-manovra-l-industria-AJE9OqKB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 09:37:44 GMT",
         "excerpt": "Da Transizione 5.0 alla Zona economica speciale. Dal bonus elettrodomestici all’ex Ilva. Inizia a delinearsi il pacchetto di interventi per la politica industriale che il governo presenterà con la manovra,..."
-      },
-      {
-        "title": "Perché i futures sulla benzina RBOB sono in calo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-i-futures-sulla-benzina-rbob-sono-in-calo-oggi-93CH-3557334",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 09:30:55",
-        "excerpt": ""
-      },
-      {
-        "title": "La crescita HBM di Samsung supera SK Hynix ad agosto, secondo Bernstein",
-        "link": "https://it.investing.com/news/stock-market-news/la-crescita-hbm-di-samsung-supera-sk-hynix-ad-agosto-secondo-bernstein-93CH-3557332",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 09:30:13",
-        "excerpt": ""
-      },
-      {
-        "title": "Novo Nordisk aperta a M&A per rafforzare la pipeline sui farmaci anti-obesità",
-        "link": "https://it.investing.com/news/stock-market-news/novo-nordisk-aperta-a-ma-per-rafforzare-la-pipeline-sui-farmaci-antiobesita-3557333",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 09:29:35",
-        "excerpt": ""
-      },
-      {
-        "title": "Come si muovono oggi i futures sul Bestiame Vivo?",
-        "link": "https://it.investing.com/news/stock-market-news/come-si-muovono-oggi-i-futures-sul-bestiame-vivo-93CH-3557329",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 09:26:42",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché i futures sul mais statunitense sono in calo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-i-futures-sul-mais-statunitense-sono-in-calo-oggi-93CH-3557327",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 09:24:45",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché i futures sulla soia statunitense sono in calo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-i-futures-sulla-soia-statunitense-sono-in-calo-oggi-93CH-3557325",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 09:24:21",
-        "excerpt": ""
       },
       {
         "title": "Il deficit resta al 3,1%. Giorgetti: “Prendiamo atto con rammarico”",
@@ -59,25 +122,11 @@
         "excerpt": "Il ministro dell’Economia commenta a caldo il dato Istat sul rapporto deficit-Pil al 3,1% nel 2025: “L’Italia non uscirà in anticipo dalla procedura d’infrazione”. Pd: “Smacco per Meloni”. I 5 stelle: “L’austerità non ha"
       },
       {
-        "title": "Le azioni Danone salgono dopo l’upgrade di Deutsche Bank",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-danone-salgono-dopo-lupgrade-di-deutsche-bank-3557307",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 09:10:38",
-        "excerpt": ""
-      },
-      {
         "title": "Caro carburante, dal Masaf via libera a 7 milioni agevolazioni fiscali per la pesca",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/caro-carburante-dal-masaf-via-libera-a-7-milioni-agevolazioni-fiscali-per_30c28a09-d4bf-416f-a558-ab137b715814.html",
         "source": "ANSA Economia",
         "pubDate": "Tue, 22 Sep 2026 11:09:22 +0200",
         "excerpt": "Coperto 100% imprese ammesse a credito d'imposta. Tetto massimo di risorse è di 10 milioni"
-      },
-      {
-        "title": "Bitcoin ai massimi da otto mesi. Fase ribassista terminata?",
-        "link": "https://it.investing.com/news/stock-market-news/bitcoin-ai-massimi-da-otto-mesi-fase-ribassista-terminata-3557299",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 09:05:07",
-        "excerpt": ""
       },
       {
         "title": "Istat, il deficit resta al 3,1%. Sfuma l’uscita anticipata dalla procedura Ue. Cosa succede ora",
@@ -108,46 +157,11 @@
         "excerpt": "Tra le proposte anche l'istituzione della Carta Carburante Taxi nazionale"
       },
       {
-        "title": "L'Istat conferma deficit 2025 al 3,1%, rivede al rialzo il Pil a +0,6%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/listat-conferma-deficit-2025-al-31-rivede-al-rialzo-il-pil-a-06_2443e0dd-4757-464a-9ec5-497a0dc5fd3b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 10:22:08 +0200",
-        "excerpt": "Nel 2025 la pressione sale al 42,9%"
-      },
-      {
-        "title": "Giorgetti, 'rammarico, l'Italia non esce anticipatamente dalla procedura di deficit'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/giorgetti-rammarico-litalia-non-esce-anticipatamente-dalla-procedura-di-deficit_3c8c15fe-6b00-4ec9-a432-d6af6e846e25.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 10:22:05 +0200",
-        "excerpt": "'Prendiamo atto dei dati definitivi. Ma potrà farlo nel 2027'"
-      },
-      {
-        "title": "Pattern, salgono i ricavi nel semestre, ridotta la perdita",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/pattern-salgono-i-ricavi-nel-semestre-ridotta-la-perdita_b3bb3642-973e-4c26-9516-a0558ea2cdf6.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 10:14:27 +0200",
-        "excerpt": "Migliora la redditività"
-      },
-      {
         "title": "Istat: il deficit resta al 3,1%, ostacolo alla spesa per energia e difesa. Cosa succede adesso",
         "link": "https://www.ilsole24ore.com/art/istat-2025-rapporto-deficit-pil-31percento-AJmVeqKB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 08:09:00 GMT",
         "excerpt": "L’Istat conferma che il disavanzo 2025 è sopra il 3%, niente uscita dalla procedura Ue. Giorgetti: «Ne prendiamo atto con rammarico»"
-      },
-      {
-        "title": "Lollobrigida, 'Carta dedicata a te non è provvedimento spot, è intervento strutturale'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/lollobrigida-carta-dedicata-a-te-non-e-provvedimento-spot-e-intervento-strutturale_f10df3fe-dc3b-43a6-bc31-48e7213bbf70.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 10:08:18 +0200",
-        "excerpt": "\"E' un obiettivo strategico del Governo Meloni\""
-      },
-      {
-        "title": "Ex Ilva, sciopero e presidio lavoratori Semat a Taranto",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/ex-ilva-sciopero-e-presidio-lavoratori-semat-a-taranto_0a362591-7002-4b53-a3fb-1fe1a11ac275.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 10:04:42 +0200",
-        "excerpt": "Protesta per mancata erogazione stipendi e cassa integrazione"
       },
       {
         "title": "Intesa tra Usa e Italia sulle materie prime critiche: risorse pubbliche e private per blindare la filiera dell’AI  ",
@@ -211,20 +225,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Tue, 22 Sep 2026 02:45:00 +0200",
         "excerpt": "Quasi 1,2 milioni di famiglie riceveranno 500 euro dal 4 novembre e altri 500 da aprile. Isee fino a 15mila euro, nessuna domanda da presentare, priorità ai nuclei numerosi"
-      },
-      {
-        "title": "Stefano Buono: “Il Nasdaq ci darà nuovo slancio. Reattori Newcleo entro il 2032”",
-        "link": "https://www.repubblica.it/economia/2026/09/21/news/intervista_stefano_buono_nucleare_quotazione_wall_street_nasdaq-425599386/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
-        "excerpt": "Oggi la quotazione a Wall Street. Il ceo: “Ora prevediamo di costruire 46 impianti. In Italia realistico l’obiettivo del 2035”"
-      },
-      {
-        "title": "Roma vuole il tetto al gas, lite con la Ue sulla cifra",
-        "link": "https://www.repubblica.it/economia/2026/09/22/news/gas_price_cup_tetto_pichetto-425599301/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il ministro Pichetto spinge per il modello spagnolo con una limitazione a 40 euro. Intanto i carburanti segnano un altro record"
       }
     ],
     "europa": [
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "La Fondazione Hind Rajab denuncia un soldato israeliano in vacanza in Italia per crimini di guerra",
+        "link": "https://www.repubblica.it/esteri/2026/09/22/news/fondazione_hind_rajab_denuncia_soldato_israeliano_in_vacanza_in_italia_per_crimini_di_guerra-425599818/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Tue, 22 Sep 2026 11:52:58 +0200",
+        "excerpt": "Yonatan Chalich, secondo l'indagine condotta da Hrf, sarebbe coinvolto in tre episodi durante il suo periodo di servizio a Gaza tra l’ottobre 2023 e l’agosto 2024: l'assedio e distruzione dell'ospedale Al-Shifa, l’incend"
+      },
+      {
+        "title": "Katz minaccia di 'evacuare' Gaza City se Hamas rapisce un israeliano",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/katz-minaccia-di-evacuare-gaza-city-se-hamas-rapisce-un-israeliano_6bc2d8d6-6851-4690-904f-491ebbc1a4df.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 11:44:04 +0200",
+        "excerpt": ""
+      },
+      {
         "title": "Nasce TrumpTv: “Vi raccontiamo la verità”. Rivolta negli Usa: “Donald ha un canale come tutti i dittatori”",
         "link": "https://www.repubblica.it/esteri/2026/09/22/news/trump_tv_youtube_annuncio_casa_bianca-425599465/?rss",
         "source": "Repubblica Esteri",
@@ -413,13 +427,6 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-22 09:19:40",
         "excerpt": ""
-      },
-      {
-        "title": "La Fondazione Hind Rajab denuncia un soldato israeliano in vacanza in Italia per crimini di guerra",
-        "link": "https://www.repubblica.it/esteri/2026/09/22/news/fondazione_hind_rajab_denuncia_soldato_israeliano_in_vacanza_in_italia_per_crimini_di_guerra-425599818/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Tue, 22 Sep 2026 11:19:10 +0200",
-        "excerpt": "Yonatan Chalich, secondo l'indagine condotta da Hrf, sarebbe coinvolto in tre episodi durante il suo periodo di servizio a Gaza tra l’ottobre 2023 e l’agosto 2024: l'assedio e distruzione dell'ospedale Al-Shifa, l’incend"
       },
       {
         "title": "Cuba, 'gli Usa puntano a militarizzare l'America Latina'",
@@ -534,13 +541,6 @@
         "excerpt": "Sheinbaum punta a ridurre il surplus del Paese latinoamericano per accontentare Trump"
       },
       {
-        "title": "L'economia di Panama cresce del 6,4% nel secondo trimestre",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/leconomia-di-panama-cresce-del-64-nel-secondo-trimestre_d57f1e09-5055-438d-80ea-8bc63e9eb65b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 03:22:47 +0200",
-        "excerpt": "L'Istituto di statistica conferma la ripresa, il governo promette nuovi impieghi"
-      },
-      {
         "title": "Quei venti di tempesta che agitano il tycoon in attesa delle elezioni",
         "link": "https://www.repubblica.it/esteri/2026/09/22/news/quei_venti_di_tempesta_che_agitano_trump_attesa_elezioni-425599313/?rss",
         "source": "Repubblica Esteri",
@@ -572,6 +572,13 @@
   },
   "attualita": [
     {
+      "title": "Un tetto agli studenti stranieri e burqa vietato in classe: domande e risposte sul decreto scuola",
+      "link": "https://www.repubblica.it/scuola/2026/09/22/news/alunni_stranieri_tetto_burqa_domande_risposte-425599934/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 09:21:37 +0000",
+      "excerpt": "Ecco come funzionerà il dl del ministro Valditara che arriverà giovedì in Cdm"
+    },
+    {
       "title": "Inchiesta Gruppo Ops: in carcere Luca Carleo, ex dirigente di Futuro Nazionale in Lombardia",
       "link": "https://milano.repubblica.it/cronaca/2026/09/22/news/inchiesta_gruppo_ops_carcere_luca_carleo_ex_dirigente_futuro_nazionale_vannacci_lombardia-425599910/",
       "source": "Repubblica",
@@ -586,11 +593,18 @@
       "excerpt": "Il leader di FnV interviene sulle polemiche nate dalle parole del vicepremier Tajani"
     },
     {
+      "title": "Israele attacca il ct dell’Irlanda: “Non abbiamo trovato la cura contro stupidità e ignoranza”",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/22/news/israele_irlanda_hallgrimsson_genocidio-425599877/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 08:56:53 +0000",
+      "excerpt": "La replica alle parole di Hallgrimsson sul genocidio"
+    },
+    {
       "title": "La sparata di Vannacci: “Gonna corta o lunga? Io una donna la preferisco sempre senza...”",
       "link": "https://www.repubblica.it/politica/2026/09/22/news/vannacci_tajani_gonna_corta_lunga_preferisco_senza-425599872/",
       "source": "Repubblica",
       "pubDate": "Tue, 22 Sep 2026 08:53:28 +0000",
-      "excerpt": "Dopo le parole del ministro Tajani costretto a scusarsi, ora l’uscita dell’ex generale"
+      "excerpt": "Dopo le parole del ministro Tajani sull’affidabilità delle mogli che vestono in maniera più appariscente e poi costretto a scusarsi, ora l’uscita dell’ex generale"
     },
     {
       "title": "Zelensky vede Macron all'Onu. La Francia lavora a una risoluzione per Hormuz",
@@ -628,25 +642,11 @@
       "excerpt": "La revisione al rialzo del Pil non basta: il disavanzo peggiora di 355 milioni. Il rientro slitta al 2027, resta il nodo della clausola energia-difesa"
     },
     {
-      "title": "Fn e la grana del simbolo conteso. E a Reggio Calabria rischia di far perdere il centrodestra",
-      "link": "https://www.repubblica.it/politica/2026/09/22/news/elezioni_suppletive_reggio_calabria_vannacci_centrodestra-425599736/",
+      "title": "Naza, perché Israele considera il documentario una minaccia alla sicurezza nazionale",
+      "link": "https://www.repubblica.it/esteri/2026/09/22/news/naza_perche_israele_considera_documentario_una_minaccia_alla_sicurezza_nazionale-425599745/",
       "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 07:58:35 +0000",
-      "excerpt": "Ammessa l'azione legale presentata da Giubilei che a febbraio aveva impugnato il logo scelto da Vannacci per il suo partito considerandolo troppo simile al suo. In Calabria domenica e lunedì le suppletive: Futuro naziona"
-    },
-    {
-      "title": "Sarah Rizea, chi è la Miss Italia 2026: dalla Nazionale di nuoto artistico alla corona",
-      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/09/22/news/sarah_rizea_chi_e_la_miss_italia_2026_dalla_nazionale_di_nuoto_artistico_alla_corona-425599619/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 07:13:32 +0000",
-      "excerpt": "La 18enne savonese, atleta delle Fiamme Oro e della Nazionale italiana di nuoto artistico, ha conquistato il titolo al Castello di Santa Severa dopo aver rappresentato la Liguria"
-    },
-    {
-      "title": "Neto subito e Palmisani per il futuro, il piano della Juve per sistemare la porta",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/22/news/calciomercato_juventus_neto_palmisani-425599598/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 07:06:36 +0000",
-      "excerpt": "Il brasiliano, che ha già vestito il bianconero tra il 2015 e il 2017, è l’opzione migliore tra gli svincolati. Per l’estate l’idea è anticipare tutti per iI numero 1 del Frosinone"
+      "pubDate": "Tue, 22 Sep 2026 08:00:05 +0000",
+      "excerpt": "Il film di Yuval Abraham e Rachel Szor, che raccoglie le testimonianze anonime di 24 militari e membri dell’intelligence, racconta un sistema di selezione degli obiettivi a Gaza in cui l’uccisione di civili sarebbe stata"
     },
     {
       "title": "Osservato in tempo reale il primo salto quantico del suono",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Calcio: Lazio, il bilancio al 30 giugno 2026 chiude in perdita di 10 milioni",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/calcio-lazio-il-bilancio-al-30-giugno-2026-chiude-in-perdita-di-10-milioni_8ad9fa19-c308-4e08-8c90-a0acdf064772.html",
+      "source": "ANSA Sport",
+      "pubDate": "Tue, 22 Sep 2026 11:50:07 +0200",
+      "excerpt": "Valore produzione a 131,75 milioni, in calo di 11,74 a causa dei mancati introiti"
+    },
+    {
       "title": "Hadjar torna al volante della sua Red Bull in Azerbaijan",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/22/hadjar-torna-al-volante-della-sua-red-bull-in-azerbaijan_8fa9bc65-558d-46e9-9541-3fd25ee9d550.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Mon, 21 Sep 2026 21:05:45 +0200",
       "excerpt": "Il taglio dopo le norme sulle power unit. Nuove regole in caso di interruzioni"
-    },
-    {
-      "title": "Ciclismo: Coppa delle Regioni, classifica dopo il Giro di Campania",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/21/ciclismo-coppa-delle-regioni-classifica-dopo-il-giro-di-campania_7d342c7e-39ba-45db-8fd9-1689ee760a84.html",
-      "source": "ANSA Sport",
-      "pubDate": "Mon, 21 Sep 2026 19:43:39 +0200",
-      "excerpt": "Pellizzari sempre più leader, alle sue spalle Crescioli e Facellu"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
