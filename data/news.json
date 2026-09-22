@@ -1,13 +1,111 @@
 {
-  "lastUpdated": "2026-09-22T08:08:20.551Z",
+  "lastUpdated": "2026-09-22T08:40:10.003Z",
   "finanza": {
     "italia": [
       {
-        "title": "Istat, nel 2025 rapporto deficit-Pil al 3,1%, invariato",
+        "title": "Calabresi: «Per Milano ci sono, alla città serve un cambiamento vero»",
+        "link": "https://www.ilsole24ore.com/art/calabresi-per-milano-ci-sono-citta-serve-cambiamento-vero-AJnV7tKB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Tue, 22 Sep 2026 08:39:01 GMT",
+        "excerpt": "«Mi interessa il percorso per Milano. Non è chiaro che percorso sarà, se ci saranno le primarie, quando saranno, i tempi e i modi. Mancano molti mesi, però io ci..."
+      },
+      {
+        "title": "L'Istat: 'Il deficit 2025 al 3,1%'. Resta la procedura di infrazione, il rammarico di Giorgetti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/listat-conferma-il-deficit-2025-al-31.-rivisto-al-rialzo-pil-06_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:35:04 +0200",
+        "excerpt": "Rivista al rialzo la crescita 2025, +0,6%. La pressione fiscale al 42,9%, in aumento dello 0,7%"
+      },
+      {
+        "title": "Istat, il deficit resta al 3,1%. Sfuma l’uscita anticipata dalla procedura Ue. Cosa succede ora",
+        "link": "https://www.repubblica.it/economia/2026/09/22/news/istat_deficit_invariato_cosa_succede_ora-425599772/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:34:55 +0200",
+        "excerpt": "La revisione al rialzo del Pil non basta: il disavanzo peggiora di 355 milioni. Il rientro slitta al 2027, resta il nodo della clausola energia-difesa"
+      },
+      {
+        "title": "Caro carburanti, sit-in sindacati tassisti davanti al Mef a Roma",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/caro-carburanti-sit-in-sindacati-tassisti-davanti-al-mef-a-roma_24c5fc78-ce8a-4f34-aab1-bd9fb566c971.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:32:48 +0200",
+        "excerpt": "Tra le proposte anche l'istituzione della Carta Carburante Taxi nazionale"
+      },
+      {
+        "title": "Il deficit resta al 3,1%. Giorgetti: “Prendiamo atto con rammarico”",
+        "link": "https://www.repubblica.it/economia/2026/09/22/news/istat_deficit_giancarlo_giorgetti-425599785/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:26:37 +0200",
+        "excerpt": "Il ministro dell’Economia commenta a caldo il dato Istat sul rapporto deficit-Pil al 3,1% nel 2025: “L’Italia non uscirà in anticipo dalla procedura d’infrazione”. Appuntamento rinviato al 2027"
+      },
+      {
+        "title": "L'Istat conferma deficit 2025 al 3,1%, rivede al rialzo il Pil a +0,6%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/listat-conferma-deficit-2025-al-31-rivede-al-rialzo-il-pil-a-06_2443e0dd-4757-464a-9ec5-497a0dc5fd3b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:22:08 +0200",
+        "excerpt": "Nel 2025 la pressione sale al 42,9%"
+      },
+      {
+        "title": "Giorgetti, 'rammarico, l'Italia non esce anticipatamente dalla procedura di deficit'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/giorgetti-rammarico-litalia-non-esce-anticipatamente-dalla-procedura-di-deficit_3c8c15fe-6b00-4ec9-a432-d6af6e846e25.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:22:05 +0200",
+        "excerpt": "'Prendiamo atto dei dati definitivi. Ma potrà farlo nel 2027'"
+      },
+      {
+        "title": "Le azioni Cranswick salgono ai massimi di una settimana dopo l’upgrade di Berenberg",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-cranswick-salgono-ai-massimi-di-una-settimana-dopo-lupgrade-di-berenberg-3557231",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 08:20:45",
+        "excerpt": ""
+      },
+      {
+        "title": "Citi avverte: il posizionamento azionario globale si indebolisce",
+        "link": "https://it.investing.com/news/stock-market-news/citi-avverte-il-posizionamento-azionario-globale-si-indebolisce-3557230",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 08:19:59",
+        "excerpt": ""
+      },
+      {
+        "title": "La Cina aggiunge due sostanze chimiche ai controlli sulle esportazioni prima del vertice Xi-Trump",
+        "link": "https://it.investing.com/news/stock-market-news/la-cina-aggiunge-due-sostanze-chimiche-ai-controlli-sulle-esportazioni-prima-del-vertice-xitrump-93CH-3557222",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 08:15:07",
+        "excerpt": ""
+      },
+      {
+        "title": "Pattern, salgono i ricavi nel semestre, ridotta la perdita",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/pattern-salgono-i-ricavi-nel-semestre-ridotta-la-perdita_b3bb3642-973e-4c26-9516-a0558ea2cdf6.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:14:27 +0200",
+        "excerpt": "Migliora la redditività"
+      },
+      {
+        "title": "Il deficit resta al 3,1%, ostacolo alla spesa per energia e difesa",
         "link": "https://www.ilsole24ore.com/art/istat-2025-rapporto-deficit-pil-31percento-AJmVeqKB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Tue, 22 Sep 2026 08:06:38 GMT",
-        "excerpt": "Istat, nel 2025 rapporto deficit-Pil al 3,1%, invariato."
+        "pubDate": "Tue, 22 Sep 2026 08:09:00 GMT",
+        "excerpt": "L’Istat conferma che il disavanzo 2025 è sopra il 3%, niente uscita dalla procedura Ue. Giorgetti: «Ne prendiamo atto con rammarico»"
+      },
+      {
+        "title": "Lollobrigida, 'Carta dedicata a te non è provvedimento spot, è intervento strutturale'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/lollobrigida-carta-dedicata-a-te-non-e-provvedimento-spot-e-intervento-strutturale_f10df3fe-dc3b-43a6-bc31-48e7213bbf70.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:08:18 +0200",
+        "excerpt": "\"E' un obiettivo strategico del Governo Meloni\""
+      },
+      {
+        "title": "Digia abbassa le previsioni di profitto 2026 per difficoltà nei progetti",
+        "link": "https://it.investing.com/news/stock-market-news/digia-abbassa-le-previsioni-di-profitto-2026-per-difficolta-nei-progetti-93CH-3557216",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 08:06:39",
+        "excerpt": ""
+      },
+      {
+        "title": "Il regolatore USA chiude l’indagine sulla telecamera Honda Ridgeline",
+        "link": "https://it.investing.com/news/stock-market-news/il-regolatore-usa-chiude-lindagine-sulla-telecamera-honda-ridgeline-93CH-3557215",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 08:06:16",
+        "excerpt": ""
       },
       {
         "title": "Ex Ilva, sciopero e presidio lavoratori Semat a Taranto",
@@ -24,39 +122,18 @@
         "excerpt": "Valutazione pre-money di circa 2,4 miliardi di dollari"
       },
       {
+        "title": "Le azioni UBS scendono mentre il CEO si oppone alle nuove regole di capitale svizzere",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-ubs-scendono-mentre-il-ceo-si-oppone-alle-nuove-regole-di-capitale-svizzere-3557209",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 08:00:08",
+        "excerpt": ""
+      },
+      {
         "title": "Trump firmerà un accordo con Groenlandia e Danimarca sull’espansione militare USA",
         "link": "https://it.investing.com/news/stock-market-news/trump-firmera-un-accordo-con-groenlandia-e-danimarca-sullespansione-militare-usa-93CH-3557202",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-22 07:56:46",
         "excerpt": ""
-      },
-      {
-        "title": "Lo spread Btp-Bund a 89,3 punti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/lo-spread-btp-bund-a-893-punti_8b88cd1b-8c09-470c-8453-96fb6138c73f.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:56:28 +0200",
-        "excerpt": "Il rendimento italiano al 4,36% e quello tedesco al 3,47%"
-      },
-      {
-        "title": "Il prezzo del gas in rialzo a 74,86 euro al megawattora",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/il-prezzo-del-gas-in-rialzo-a-7486-euro-al-megawattora_ccb25630-2646-4324-a2a3-225ed91afc3b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:56:18 +0200",
-        "excerpt": "Il Ttf guadagna il 2,2%"
-      },
-      {
-        "title": "Luce e gas, crisi del Golfo costa alle famiglie 1,8 miliardi in sei mesi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/luce-e-gas-crisi-del-golfo-costa-alle-famiglie-18-miliardi-in-sei_fa6e2702-ad47-4203-a4c8-74d67ae4b9ec.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:56:08 +0200",
-        "excerpt": "Confartigianato, prezzi +11,4% da febbraio. Lombardia, Veneto e Lazio le più colpite"
-      },
-      {
-        "title": "Gme, in calo l'indice italiano del prezzo del gas",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/gme-in-calo-lindice-italiano-del-prezzo-del-gas_fe7f7ba5-a417-4815-babe-ccf0a34b9e4d.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:55:53 +0200",
-        "excerpt": "Scende a 77,32 euro a Mwh"
       },
       {
         "title": "Perché il titolo Vusiongroup è in forte rialzo oggi?",
@@ -66,67 +143,11 @@
         "excerpt": ""
       },
       {
-        "title": "Il Canada vicino all’accordo commerciale con Filippine e ASEAN",
-        "link": "https://it.investing.com/news/stock-market-news/il-canada-vicino-allaccordo-commerciale-con-filippine-e-asean-93CH-3557199",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:53:19",
-        "excerpt": ""
-      },
-      {
-        "title": "Peters avverte: errori di politica estera rischiano di danneggiare l’economia",
-        "link": "https://it.investing.com/news/stock-market-news/peters-avverte-errori-di-politica-estera-rischiano-di-danneggiare-leconomia-93CH-3557197",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:51:02",
-        "excerpt": ""
-      },
-      {
         "title": "Intesa tra Usa e Italia sulle materie prime critiche: risorse pubbliche e private per blindare la filiera dell’AI  ",
         "link": "https://www.ilsole24ore.com/art/intesa-usa-e-italia-materie-prime-critiche-risorse-pubbliche-e-private-blindare-filiera-dell-ai-AJmkQEKB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 07:50:36 GMT",
         "excerpt": "Sottoscritta a New York dal segretario di Stato degli Stati Uniti Marco Rubio e dal vicepremier e ministro degli Esteri Antonio Tajani, prevede la collaborazione con partner internazionali per sviluppare meccanismi di de"
-      },
-      {
-        "title": "PhonePe ottiene l’approvazione preliminare per le licenze di pagamento negli Emirati Arabi Uniti",
-        "link": "https://it.investing.com/news/stock-market-news/phonepe-ottiene-lapprovazione-preliminare-per-le-licenze-di-pagamento-negli-emirati-arabi-uniti-93CH-3557195",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:45:55",
-        "excerpt": ""
-      },
-      {
-        "title": "Citibank valuta un’espansione in Kyrgyzstan con possibile filiale",
-        "link": "https://it.investing.com/news/stock-market-news/citibank-valuta-unespansione-in-kyrgyzstan-con-possibile-filiale-93CH-3557193",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:39:03",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Bureau Veritas sale dopo il rialzo del target di crescita dei ricavi",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-bureau-veritas-sale-dopo-il-rialzo-del-target-di-crescita-dei-ricavi-93CH-3557192",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:38:53",
-        "excerpt": ""
-      },
-      {
-        "title": "Rinvoq di AbbVie ottiene l’approvazione UE per l’artrite giovanile",
-        "link": "https://it.investing.com/news/stock-market-news/rinvoq-di-abbvie-ottiene-lapprovazione-ue-per-lartrite-giovanile-93CH-3557189",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:37:10",
-        "excerpt": ""
-      },
-      {
-        "title": "Borsa: Europa apre in rialzo, Parigi +0,26%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-europa-apre-in-rialzo-parigi-026_9255df28-362c-47e0-b2bd-cfaaccb156fa.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:24:56 +0200",
-        "excerpt": "Londra +0,2%, Francoforte +0,07%"
-      },
-      {
-        "title": "Borsa: Milano apre positiva (+0,1%) e poi scivola",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-milano-apre-positiva-01-e-poi-scivola_eb3bca5f-9d40-41b7-85cb-1400e059ec09.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:15:53 +0200",
-        "excerpt": "Maglia nera a Buzzi -2,77%. Sul listino pesa Generali -1,09%"
       },
       {
         "title": "Protesi di ginocchio con l’AI a Villa Erbosa: la chirurgia “su misura”",
@@ -178,13 +199,6 @@
         "excerpt": "Tra le altre misure il noleggio sociale Aci per i redditi bassi"
       },
       {
-        "title": "Le auto elettriche sono il 12,6%: ripresa nel 2025 ma il mercato è policy driven",
-        "link": "https://www.ilsole24ore.com/art/le-auto-elettriche-sono-126percento-ripresa-2025-ma-mercato-e-policy-driven-AJfZssEB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Tue, 22 Sep 2026 05:36:34 GMT",
-        "excerpt": "Nel 2025 193mila immatricolazioni e più flotte green, ma la quota resta sotto la media europea. Crescono colonnine e offerta di veicoli (+49%)"
-      },
-      {
         "title": "Bonus Colonnine, al via da oggi 22 settembre: quanto vale e come richiederlo",
         "link": "https://www.repubblica.it/economia/2026/09/22/news/bonus_colonnine_al_via_da_oggi_22_settembre_quanto_vale_e_come_richiederlo-425599238/?rss",
         "source": "Repubblica Economia",
@@ -211,20 +225,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
         "excerpt": "Il ministro Pichetto spinge per il modello spagnolo con una limitazione a 40 euro. Intanto i carburanti segnano un altro record"
-      },
-      {
-        "title": "L’avviso di Giorgetti sul debito fuori controllo. Spunta il tesoretto Pnrr",
-        "link": "https://www.repubblica.it/economia/2026/09/22/news/giorgetti_debito_manovra_2027-425599151/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
-        "excerpt": "“La spesa per interessi non cura nessuno”, sottolinea il ministro. Oggi il verdetto Istat sul deficit 2025: in ballo l’uscita dalla procedura d’infrazione per disavanzo eccessivo"
-      },
-      {
-        "title": "La carta acquisti alimentari raddoppia in vista del voto",
-        "link": "https://www.repubblica.it/economia/2026/09/22/news/carta_acquisti_alimentari_raddoppia_bonus_elettorale-425599122/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il bonus gestito da Lollobrigida sarà erogato a novembre e aprile. Più di un miliardo alle famiglie e sconto del 15% nei supermarket"
       }
     ],
     "europa": [
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "La Fondazione Hind Rajab denuncia un soldato israeliano in vacanza in Italia per crimini di guerra",
+        "link": "https://www.repubblica.it/esteri/2026/09/22/news/fondazione_hind_rajab_denuncia_soldato_israeliano_in_vacanza_in_italia_per_crimini_di_guerra-425599818/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Tue, 22 Sep 2026 10:34:05 +0200",
+        "excerpt": "Yonatan Chalich, secondo l'indagine condotta da Hrf, sarebbe coinvolto in tre episodi durante il suo periodo di servizio a Gaza tra l’ottobre 2023 e l’agosto 2024: l'assedio e distruzione dell'ospedale Al-Shifa, l’incend"
+      },
+      {
         "title": "Ministri esteri G7, 'gli Houthi cessino immediatamente attacchi'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/ministri-esteri-g7-gli-houthi-cessino-immediatamente-attacchi_01fe6163-72c9-42e3-9458-9f8afea4d5a0.html",
         "source": "ANSA Mondo",
@@ -560,30 +567,51 @@
         "source": "Repubblica Esteri",
         "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
         "excerpt": "In Parlamento 49 militari Gli Usa avvertono lo zar: “Per la guerra la Russia ha perso il controllo dell’industria petrolifera”"
-      },
-      {
-        "title": "Trump frena i raid contro gli Houthi: soltanto Londra tende una mano ai sauditi",
-        "link": "https://www.repubblica.it/esteri/2026/09/22/news/trump_raid_usa_houthi_arabia_saudita-425599037/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il presidente Usa non vuole farsi coinvolgere nel conflitto yemenita e ritira l’ordine di bombardare i ribelli, nonostante gli appelli di Mbs. Ieri nuovi scontri tra Riad e Sana’a mentre l’Onu lancia l’allarme: crescono "
       }
     ]
   },
   "attualita": [
     {
-      "title": "++ Istat conferma, deficit 2025 al 3,1% del Pil ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/22/-istat-conferma-deficit-2025-al-31-del-pil-_2994267f-c1db-424b-93f3-8010297d1639.html",
+      "title": "L'Istat: 'Il deficit 2025 al 3,1%'. Resta la procedura di infrazione, il rammarico di Giorgetti",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/listat-conferma-il-deficit-2025-al-31.-rivisto-al-rialzo-pil-06_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
       "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 10:03:19 +0200",
-      "excerpt": "Era al 3,4% l'anno precedente"
+      "pubDate": "Tue, 22 Sep 2026 10:35:04 +0200",
+      "excerpt": "Rivista al rialzo la crescita 2025, +0,6%. La pressione fiscale al 42,9%, in aumento dello 0,7%"
     },
     {
-      "title": "Quattro giovanissimi preparavano molotov, perquisizioni e sequestri",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/22/quattro-giovanissimi-preparavano-molotov-perquisizioni-e-sequestri_fbd8fc70-5dbf-465c-943e-b5706cd8f467.html",
+      "title": "La Francia lavora a una risoluzione del consiglio di sicurezza dell'Onu per Hormuz",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/francia-lavora-a-risoluzione-del-consiglio-di-sicurezza-dellonu-per-hormuz_a339206d-6f7a-400c-bbeb-f57876af94f0.html",
       "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 09:13:50 +0200",
-      "excerpt": "L'operazione dei Carabinieri a Pesaro. Due risiedono a Rimini e a Bologna"
+      "pubDate": "Tue, 22 Sep 2026 10:28:38 +0200",
+      "excerpt": "Parigi intende collaborare con gli americani e i propri partner a una risoluzione che garantisca la libertà di navigazione. Incontro Trump-Macron a margine dell'Assemblea dell'Onu a New York"
+    },
+    {
+      "title": " Vannacci: 'Gonna corta o gonna lunga? Una donna la preferisco sempre senza gonna'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/vannacci-gonna-corta-o-gonna-lunga-una-donna-la-preferisco-sempre-senza_8d6e269c-0fd8-478a-9ec2-87fa4901a974.html",
+      "source": "ANSA",
+      "pubDate": "Tue, 22 Sep 2026 10:26:28 +0200",
+      "excerpt": "Il leader di FnV interviene sulle polemiche nate dalle parole del vicepremier Tajani"
+    },
+    {
+      "title": "Il rammarico di Giorgetti: “Prendiamo atto, l’Italia non uscirà dalla procedura in anticipo”",
+      "link": "https://www.repubblica.it/economia/2026/09/22/news/istat_deficit_giancarlo_giorgetti-425599785/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 08:18:37 +0000",
+      "excerpt": "Il ministro dell’Economia commenta a caldo il dato Istat sul rapporto deficit-Pil al 3,1% nel 2025."
+    },
+    {
+      "title": "Istat, il deficit resta al 3,1%. Sfuma l’uscita anticipata dalla procedura di infrazione Ue",
+      "link": "https://www.repubblica.it/economia/2026/09/22/news/istat_deficit_invariato_cosa_succede_ora-425599772/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 08:12:42 +0000",
+      "excerpt": "La revisione al rialzo del Pil non basta: il disavanzo peggiora di 355 milioni. Il rientro slitta al 2027, resta il nodo della clausola energia-difesa"
+    },
+    {
+      "title": "Reggio Calabria, le suppletive della discordia: Vannacci tenta lo sgambetto al centrodestra",
+      "link": "https://www.repubblica.it/politica/2026/09/22/news/elezioni_suppletive_reggio_calabria_vannacci_centrodestra-425599736/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 07:58:35 +0000",
+      "excerpt": "La coalizione corre con Roscioli, amico della famiglia Berlusconi, per il seggio rimasto vacante da Cannizzaro eletto sindaco. Futuro nazionale candida un ex esponente di Forza Italia. Per il centrosinistra c’è Benedetto"
     },
     {
       "title": "Sarah Rizea, chi è la Miss Italia 2026: dalla Nazionale di nuoto artistico alla corona",
@@ -600,11 +628,11 @@
       "excerpt": "Il brasiliano, che ha già vestito il bianconero tra il 2015 e il 2017, è l’opzione migliore tra gli svincolati. Per l’estate l’idea è anticipare tutti per iI numero 1 del Frosinone"
     },
     {
-      "title": "La Francia lavora a una risoluzione del consiglio di sicurezza dell'Onu per Hormuz",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/francia-lavora-a-risoluzione-del-consiglio-di-sicurezza-dellonu-per-hormuz_a339206d-6f7a-400c-bbeb-f57876af94f0.html",
+      "title": "Osservato in tempo reale il primo salto quantico del suono",
+      "link": "https://www.ansa.it/canale_scienza/notizie/futuri_digitali/2026/09/22/osservato-in-tempo-reale-il-primo-salto-quantico-del-suono_281b5c52-4245-4247-8a3d-9f42487b0641.html",
       "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 07:28:19 +0200",
-      "excerpt": "Parigi intende collaborare con gli americani e i propri partner a una risoluzione che garantisca la libertà di navigazione. Incontro Trump-Macron a margine dell'Assemblea dell'Onu a New York"
+      "pubDate": "Tue, 22 Sep 2026 08:15:39 +0200",
+      "excerpt": "Svolta attesa da tempo, può far progredire diverse tecnologie"
     },
     {
       "title": "Karen Appiah e le diciottenni nel calcio italiano",
@@ -628,20 +656,6 @@
       "excerpt": "La risposta dell’amministrazione repubblicana dopo le polemiche per la cacciata dalla Casa Bianca dei reporter di Cnn, MsNow e Politico. Un nuovo strumento di propaganda in vista delle temute elezioni di midterm"
     },
     {
-      "title": "Bonus Colonnine, al via da oggi 22 settembre: quanto vale e come richiederlo",
-      "link": "https://www.repubblica.it/economia/2026/09/22/news/bonus_colonnine_al_via_da_oggi_22_settembre_quanto_vale_e_come_richiederlo-425599238/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 00:45:00 +0000",
-      "excerpt": "Le agevolazioni sono concesse nella forma del contributo in conto capitalepari all'80% delle spese ammissibili. Il limite è di 1.500 eurose è richiesto da una persona fisica e 8.000 euro se da un condominio"
-    },
-    {
-      "title": "Baldissero d’Alba, tredici spari al ladro in fuga. L’accusa: “Colpito alle spalle”",
-      "link": "https://torino.repubblica.it/cronaca/2026/09/22/news/ladro_colpito_spalle_baldissero_alba-425599439/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 00:40:18 +0000",
-      "excerpt": "Solo due proiettili rimasti in canna all’uomo che ha aperto il fuoco. Ora è indagato per omicidio volontario. La Russa: “Assurdo”"
-    },
-    {
       "title": "Scuola, pronto il decreto sul tetto di alunni stranieri. Ma riguarda 2000 classi",
       "link": "https://www.repubblica.it/politica/2026/09/22/news/scuola_pronto_decreto_tetto_alunni_stranieri_duemila_classi-425599250/",
       "source": "Repubblica",
@@ -649,39 +663,25 @@
       "excerpt": "Nel 2022/2023, ultimo dato ministeriale disponibile, solo lo 0,6% di aule su 370mila superava il limite del 30% di non italiani"
     },
     {
-      "title": "Roma, in aula con cento lingue. “Qui bambini da tutto il pianeta, siamo il laboratorio del futuro”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/22/news/studenti_stranieri_tetto_reportage_esquilino_roma-425599372/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 21 Sep 2026 23:00:00 +0000",
-      "excerpt": "Nel cuore dell’Esquilino, il quartiere multietnico della capitale, da anni la scuola Di Donato è un modello per l’inclusione degli alunni stranieri"
+      "title": "Cina, a 6 anni batte due volte il record mondiale femminile del cubo di Rubik",
+      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/21/cina-a-6-anni-batte-due-volte-il-record-mondiale-femminile-del-cubo_49f929a1-59d5-404e-95f8-c01cd644a728.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 21 Sep 2026 22:13:22 +0200",
+      "excerpt": "Lian Yunzhi ottiene un 4''52 prima a Wuhan e un 4\"27 poi a Guangzhou"
     },
     {
-      "title": "Dalle ballerine ai diamanti, all'asta gli oggetti personali di Brigitte Bardot",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/21/dalle-ballerine-ai-diamanti-allasta-gli-oggetti-personali-di-brigitte-bardot_b28af765-ba10-4946-b968-6e1786c0dc09.html",
+      "title": "Pikachu in the sky, Pokemon nello spazio",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/teen/2026/09/21/pikachu-in-the-sky-pokemon-nello-spazio_860c0809-0e7c-4cb8-b8f4-c60a5d9f69b3.html",
       "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 21:35:57 +0200",
-      "excerpt": "All'asta a Parigi i beni di Brigitte Bardot, 43.000 euro per un bracciale di nozze"
+      "pubDate": "Mon, 21 Sep 2026 19:31:40 +0200",
+      "excerpt": "Mostra con Esa nei musei ed eventi speciali per stimolare la curiosità verso l’esplorazione spaziale"
     },
     {
-      "title": "Cellule zombie nell'organismo che invecchia",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/21/nellorganismo-che-invecchia-le-cellule-diventano-zombie-_ab64a4f6-bd96-413c-bee0-a34d466b4372.html",
+      "title": "Nel cuore di Napoli ecco Voyager, nuova installazione di arte contemporanea",
+      "link": "https://www.ansa.it/canale_viaggi/regione/campania/2026/09/21/nel-cuore-di-napoli-ecco-voyager-nuova-installazione-di-arte-contemporanea_a04c923e-fcbe-4c3a-8c67-088cdb0852dc.html",
       "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 20:17:25 +0200",
-      "excerpt": "Viste nei topi, aiutano a diagnosticare malattie legate all'età"
-    },
-    {
-      "title": "De Martino, a Sanremo sì a voto online e giuria straniera, no all'IA",
-      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/21/de-martino-a-sanremo-si-a-voto-online-e-giuria-straniera-no-allia_22fb2941-1d79-45fc-bd7e-6d0200ff1624.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 19:43:14 +0200",
-      "excerpt": "24 artisti in gara \"senza aggiunte\". \"Maneskin? Vedremo. Venerdì la serata Performance\""
-    },
-    {
-      "title": "\"Quando quell'onda enorme sta per travolgerti\", così raccontava Presley Gerber",
-      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/21/quando-quellonda-enorme-sta-per-travolgerti-cosi-raccontava-presley-gerber_ecf73825-b8eb-46aa-9f01-6a61ca2d96eb.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 15:43:00 +0200",
-      "excerpt": "Il figlio di Cindy Crawford, 27 anni, è deceduto in una struttura di riabilitazione"
+      "pubDate": "Mon, 21 Sep 2026 18:58:38 +0200",
+      "excerpt": "Firmata dall'artista ghanese Ibrahim Mahama. Manfredi, 'rappresenta l'accoglienza'"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Mabappé, Pallone d'Oro premio individuale e nessuno ha segnato quanto me",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/mabappe-pallone-doro-premio-individuale-e-nessuno-ha-segnato-quanto-me_c94cd273-a3e7-46de-a3bb-2772b2d7848d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Tue, 22 Sep 2026 10:21:25 +0200",
+      "excerpt": "\"Anche con Zidane la Francia deve vincere, é quello che ci aspetta da noi\""
+    },
+    {
       "title": "Eurovolley: avanzano Belgio e Slovenia, definito il quadro dei quarti",
       "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/21/eurovolley-avanzano-belgio-e-slovenia-definito-il-quadro-dei-quarti_0e08a0b8-f687-4489-afce-bf25465b90c3.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Mon, 21 Sep 2026 19:43:39 +0200",
       "excerpt": "Pellizzari sempre più leader, alle sue spalle Crescioli e Facellu"
-    },
-    {
-      "title": "Mazzola: l'ex Juve Marchisio, 'fatico ad accettare episodio allo Stadium'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/21/mazzola-lex-juve-marchisio-fatico-ad-accettare-episodio-allo-stadium_7d38c460-0287-4f87-8112-dc61ae7b2099.html",
-      "source": "ANSA Sport",
-      "pubDate": "Mon, 21 Sep 2026 18:52:31 +0200",
-      "excerpt": "Ex calciatore sui social, 'gesti come quello non devono accadere'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
