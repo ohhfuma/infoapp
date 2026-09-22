@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-09-22T19:36:40.012Z",
+  "lastUpdated": "2026-09-22T20:07:28.789Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Ferrovie, l’ad Strisciuglio: “Maxi piano di sviluppo e prezzo dei biglietti bloccato”",
+        "link": "https://www.repubblica.it/economia/2026/09/22/news/ferrovie_strisciuglio_piano_100_miliardi_prezzo_biglietti-425601115/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Tue, 22 Sep 2026 21:41:07 +0200",
+        "excerpt": "L’ad presenterà un programma da 100 miliardi in cinque anni per cantieri, crescita all’estero e Intercity"
+      },
+      {
+        "title": "Trump rivela le operazioni di luglio su SpaceX",
+        "link": "https://it.investing.com/news/stock-market-news/trump-rivela-le-operazioni-di-luglio-su-spacex-3558381",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 19:37:34",
+        "excerpt": ""
+      },
+      {
+        "title": "Il CEO di Meta Zuckerberg al banchetto di stato Trump-Xi",
+        "link": "https://it.investing.com/news/stock-market-news/il-ceo-di-meta-zuckerberg-al-banchetto-di-stato-trumpxi-93CH-3558376",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 19:26:52",
+        "excerpt": ""
+      },
+      {
+        "title": "Abenojar Tungsten pianifica IPO a Londra per rifornire l’Europa",
+        "link": "https://it.investing.com/news/stock-market-news/abenojar-tungsten-pianifica-ipo-a-londra-per-rifornire-leuropa-93CH-3558374",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 19:22:20",
+        "excerpt": ""
+      },
+      {
+        "title": "Legora tratta un round da $300 milioni con valutazione di $8,5 miliardi",
+        "link": "https://it.investing.com/news/stock-market-news/legora-tratta-un-round-da-300-milioni-con-valutazione-di-85-miliardi-93CH-3558373",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 19:22:11",
+        "excerpt": ""
+      },
       {
         "title": "Tesla sotto resistenza $381-384: aggiornato ogni ora",
         "link": "https://it.investing.com/news/stock-market-news/tesla-stretta-tra-sma200-e-supporti-livelli-in-tempo-reale-93CH-3556621",
@@ -22,13 +57,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Tue, 22 Sep 2026 21:08:03 +0200",
         "excerpt": "Aumentano le denunce di infortuni, che nel 2025 passano dalle quasi 594 mila del 2024 a 600 mila"
-      },
-      {
-        "title": "Ferrovie, l’ad Strisciuglio: “Per Fs piano da 100 miliardi e biglietti bloccati”",
-        "link": "https://www.repubblica.it/economia/2026/09/22/news/ferrovie_strisciuglio_piano_100_miliardi_prezzo_biglietti-425601115/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Tue, 22 Sep 2026 21:04:43 +0200",
-        "excerpt": "L’ad presenterà un programma da 100 miliardi in 5 anni su cantieri, crescita all’estero e Intercity"
       },
       {
         "title": "Deficit resta al 3,1%, Salvini chiede lo scostamento, FI frena",
@@ -57,34 +85,6 @@
         "source": "ANSA Economia",
         "pubDate": "Tue, 22 Sep 2026 20:47:20 +0200",
         "excerpt": "Il Wti a -0,85%, il Brent cede l'1,28% a quota 99,06"
-      },
-      {
-        "title": "Perché il titolo JPMorgan Chase sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-jpmorgan-chase-sta-scendendo-oggi-93CH-3558357",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 18:43:56",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Expedia sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-expedia-sta-scendendo-oggi-93CH-3558355",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 18:38:43",
-        "excerpt": ""
-      },
-      {
-        "title": "Arabia Saudita nega l’acquisto di petroliere affermato dall’Iraq",
-        "link": "https://it.investing.com/news/stock-market-news/arabia-saudita-nega-lacquisto-di-petroliere-affermato-dalliraq-93CH-3558352",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 18:34:36",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Booking Holdings sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-booking-holdings-sta-scendendo-oggi-93CH-3558349",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 18:31:06",
-        "excerpt": ""
       },
       {
         "title": "Pirulli (Cisl), al tavolo con le imprese \"complessità ma le stiamo affrontando\"",
@@ -264,7 +264,7 @@
         "excerpt": ""
       },
       {
-        "title": "Onu, Trump: «Invierò subito massiccia presenza militare in Groenlandia, costruiremo 2 basi»",
+        "title": "Onu, Zelensky chiede a Trump di sollevare tema Russia con Xi: «Vogliamo che guerra finisca prima dell’inverno»",
         "link": "https://www.ilsole24ore.com/art/trump-all-onu-usa-aprono-dialogo-l-iran-guterres-potere-militare-solo-non-garantisce-pace-AJC9p9KB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Tue, 22 Sep 2026 13:35:00 GMT",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Il cileno Kast critica l'Onu nel suo primo discorso al dibattito dell'Assemblea",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/il-cileno-kast-critica-lonu-nel-suo-primo-discorso-al-dibattito-dellassemblea_96fcabe6-3d65-4958-8c9a-520853dc2b34.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 21:47:14 +0200",
+        "excerpt": "'Ha una struttura che delibera eccessivamente e agisce lentamente'"
+      },
+      {
         "title": "Trump, 'Witkoff e Kushner hanno incontrato i mediatori iraniani'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/trump-witkoff-e-kushner-hanno-incontrato-i-mediatori-iraniani_9a212a0a-98ec-497c-acf9-6895c939109b.html",
         "source": "ANSA Mondo",
@@ -412,6 +419,55 @@
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-witkoff-e-kushner-hanno-incontrato-i-mediatori-iraniani_77992ed2-53a3-4949-b0fc-30050d50e7a8.html",
         "source": "ANSA Mondo",
         "pubDate": "Tue, 22 Sep 2026 21:30:51 +0200",
+        "excerpt": ""
+      },
+      {
+        "title": "London Gas Oil trapped at $1,465 between support and SMA: Live",
+        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-stuck-in-chop-zone-at-1480-live-levels-93CH-4908349",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 19:18:20",
+        "excerpt": ""
+      },
+      {
+        "title": "Natural Gas tests $3.026 resistance with overbought RSI: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 19:18:15",
+        "excerpt": ""
+      },
+      {
+        "title": "Crude Oil WTI near oversold support at $87.72: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-94-support-after-double-top-live-levels-93CH-4908350",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 19:18:09",
+        "excerpt": ""
+      },
+      {
+        "title": "Copper presses all-time high at $6.903: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/copper-hits-multimonth-high-near-680-resistance-live-levels-93CH-4908347",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 19:18:05",
+        "excerpt": ""
+      },
+      {
+        "title": "Silver stuck in $66-$68 range as momentum fades: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/silver-consolidates-at-6640-in-breakout-coil-live-levels-93CH-4908353",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 19:18:04",
+        "excerpt": ""
+      },
+      {
+        "title": "Brent Oil drops to $99.15 below key resistance: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/brent-oil-battles-10176-support-as-bearish-signals-build-live-93CH-4908348",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 19:18:01",
+        "excerpt": ""
+      },
+      {
+        "title": "Gold trapped in tight range near $4,394: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/gold-wedged-in-43004450-range-live-breakout-levels-93CH-4908346",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 19:18:00",
         "excerpt": ""
       },
       {
@@ -450,27 +506,6 @@
         "excerpt": ""
       },
       {
-        "title": "Soybean futures hold steady ahead of US-China summit",
-        "link": "https://www.investing.com/news/commodities-news/soybean-futures-hold-steady-ahead-of-uschina-summit-93CH-4911461",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 18:34:49",
-        "excerpt": ""
-      },
-      {
-        "title": "Trump says US will keep buying Canadian potash, Belarus would sell at lower price",
-        "link": "https://www.investing.com/news/commodities-news/trump-says-us-will-keep-buying-canadian-potash-belarus-would-sell-at-lower-price-4911450",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 18:19:17",
-        "excerpt": ""
-      },
-      {
-        "title": "Trump rivela, 'colloqui tra responsabili iraniani e americani all'Onu'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-rivela-colloqui-tra-responsabili-iraniani-e-americani-allonu_9b3aa97d-f676-466c-ade6-7695c9a44695.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 20:10:50 +0200",
-        "excerpt": "Oggi a margine dell'Assemblea generale in corso a New York"
-      },
-      {
         "title": "Trump rivela, 'colloqui tra responsabili iraniani e americani all'Onu'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/trump-rivela-colloqui-tra-responsabili-iraniani-e-americani-allonu_8ab81b6d-aa96-48ed-8bb1-c5e97bef5544.html",
         "source": "ANSA Mondo",
@@ -478,46 +513,11 @@
         "excerpt": "Oggi a margine dell'Assemblea generale in corso a New York"
       },
       {
-        "title": "European diesel margins climb as Saudi pipeline restarts",
-        "link": "https://www.investing.com/news/commodities-news/european-diesel-margins-climb-as-saudi-pipeline-restarts-93CH-4911407",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 17:48:51",
-        "excerpt": ""
-      },
-      {
         "title": "La Fondazione Hind Rajab denuncia un soldato israeliano in vacanza in Italia per crimini di guerra",
         "link": "https://www.repubblica.it/esteri/2026/09/22/news/fondazione_hind_rajab_denuncia_soldato_israeliano_in_vacanza_in_italia_per_crimini_di_guerra-425599818/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Tue, 22 Sep 2026 19:33:19 +0200",
         "excerpt": "Yonatan Chalich, secondo l'indagine condotta da Hrf, sarebbe coinvolto in tre episodi durante il suo periodo di servizio a Gaza tra l’ottobre 2023 e l’agosto 2024: l'assedio e distruzione dell'ospedale Al-Shifa, l’incend"
-      },
-      {
-        "title": "Texas Governor Abbott halts all state-issued permits for data centers until grid audit is complete",
-        "link": "https://www.investing.com/news/commodities-news/texas-gov-abbott-halts-all-stateissued-permits-for-data-centers-until-grid-audit-is-complete-4909646",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 17:19:41",
-        "excerpt": ""
-      },
-      {
-        "title": "Trump says talks with Iran continue and he thinks settlement will be reached",
-        "link": "https://www.investing.com/news/commodities-news/trump-says-talks-with-iran-continue-and-he-thinks-settlement-will-be-reached-4911375",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 17:14:06",
-        "excerpt": ""
-      },
-      {
-        "title": "Oil dips below $100 as Iran reportedly offers to reopen Hormuz amid diplomacy push",
-        "link": "https://www.investing.com/news/commodities-news/oil-edges-higher-as-markets-eye-usiran-talks-saudi-flows-4909809",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 14:19:06",
-        "excerpt": ""
-      },
-      {
-        "title": "Exclusive-Lithuania plans key substation near Russia, fortified against explosive drones",
-        "link": "https://www.investing.com/news/commodities-news/exclusivelithuania-plans-key-substation-near-russia-fortified-against-explosive-drones-4911102",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 14:06:36",
-        "excerpt": ""
       },
       {
         "title": "Nasce TrumpTv: “Vi raccontiamo la verità”. Rivolta negli Usa: “Donald ha un canale come tutti i dittatori”",
@@ -572,17 +572,17 @@
   },
   "attualita": [
     {
-      "title": "Meloni: 'Mattarella da ministro redigeva circolari sul tetto agli stranieri in classe'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-mattarella-da-ministro-redigeva-circolari-sul-tetto-agli-stranieri-in-classe_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
+      "title": "Meloni difende il tetto agli stranieri in classe e tira in ballo Mattarella",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-difende-il-tetto-agli-stranieri-in-classe-e-tira-in-ballo-mattarella_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
       "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 21:33:09 +0200",
-      "excerpt": "'E' una misura di buonsenso, giusto portarla avanti', ha detto la premier"
+      "pubDate": "Tue, 22 Sep 2026 21:51:27 +0200",
+      "excerpt": "La premier: 'Da ministro redigeva circolari' sul tema. Dal Colle nessun commento, faro sulle misure allo studio"
     },
     {
       "title": "Trump all'Onu: 'Putin fermi la guerra'. E lancia l'ultimatum all'Iran",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/trump-allonu-putin-fermi-la-guerra.-e-lancia-lultimatum-alliran_68a02777-7c4a-49c6-a576-362f728dd3f8.html",
       "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 21:29:39 +0200",
+      "pubDate": "Tue, 22 Sep 2026 21:47:36 +0200",
       "excerpt": "'Accordo dopo il voto o li anniento'. Poi attacca a Cuba che lascia l'aula"
     },
     {
