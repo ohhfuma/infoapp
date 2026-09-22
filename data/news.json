@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T03:08:07.622Z",
+  "lastUpdated": "2026-09-22T03:39:25.237Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Il Messico valuta più acquisti dagli Stati Uniti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/il-messico-valuta-piu-acquisti-dagli-stati-uniti_655d8881-9fca-4ac6-bd29-906269642c8e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 05:26:25 +0200",
+        "excerpt": "Sheinbaum punta a ridurre il surplus del Paese latinoamericano per accontentare Trump"
+      },
+      {
         "title": "How a Bangladeshi garment-maker is fighting the Middle East energy crunch ",
         "link": "https://www.investing.com/news/commodities-news/how-a-bangladeshi-garmentmaker-is-fighting-the-middle-east-energy-crunch-4909827",
         "source": "Investing.com Commodities",
@@ -560,17 +567,24 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 21 Sep 2026 22:26:20 +0200",
         "excerpt": "In rialzo anche l'S 500 a +1,49%"
-      },
-      {
-        "title": "Trump, 'Studio Ovale non sia profanato da pagliacci di serie B con fake news'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/21/trump-studio-ovale-non-sia-profanato-da-pagliacci-di-serie-b-con-fake_2b54e648-3fe0-404f-8294-3b8697a90ba4.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 22:12:03 +0200",
-        "excerpt": "Il tycoon torna ad attaccare Cnn, MsNow e Politico"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "La Francia lavora a una risoluzione del consiglio di sicurezza dell'Onu per Hormuz",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/francia-lavora-a-risoluzione-del-consiglio-di-sicurezza-dellonu-per-hormuz_a339206d-6f7a-400c-bbeb-f57876af94f0.html",
+      "source": "ANSA",
+      "pubDate": "Tue, 22 Sep 2026 05:18:31 +0200",
+      "excerpt": "Intende collaborare con gli americani e i propri partner"
+    },
+    {
+      "title": "Kallas: 'L'operazione Aspides ha bisogno di altri assetti navali e aerei'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/kallas-loperazione-aspides-ha-bisogno-di-altri-assetti-navali-e-aerei_8c73f7d9-8eb5-469c-8ae2-261fda345fc6.html",
+      "source": "ANSA",
+      "pubDate": "Tue, 22 Sep 2026 05:17:28 +0200",
+      "excerpt": "'Servirebbero più di 10 navi, ma al momento non ne abbiamo a sufficienza'"
+    },
     {
       "title": "Nasce TrumpTv: “Vi raccontiamo la verità”. Rivolta negli Usa: “Donald ha un canale come tutti i dittatori”",
       "link": "https://www.repubblica.it/esteri/2026/09/22/news/trump_tv_youtube_annuncio_casa_bianca-425599465/",
@@ -635,25 +649,11 @@
       "excerpt": "Il capo dello Stato agli studenti: 'La cultura rende liberi. La nostra libertà è autentica se esiste per tutti. L'Ia non potrà mai sostituire il docente. Violenza sui docenti, a volte i genitori tradiscono il compito edu"
     },
     {
-      "title": "Semilibertà per Chico Forti, potrà continuare ad uscire dal carcere",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/21/semiliberta-per-chico-forti-potra-continuare-ad-uscire-dal-carcere_131a6004-f01b-43da-93ef-203062b495e3.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 22:07:54 +0200",
-      "excerpt": "Condannato all'ergastolo, ha trascorso 25 anni in carcere negli Usa"
-    },
-    {
       "title": "Dalle ballerine ai diamanti, all'asta gli oggetti personali di Brigitte Bardot",
       "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/21/dalle-ballerine-ai-diamanti-allasta-gli-oggetti-personali-di-brigitte-bardot_b28af765-ba10-4946-b968-6e1786c0dc09.html",
       "source": "ANSA",
       "pubDate": "Mon, 21 Sep 2026 21:35:57 +0200",
       "excerpt": "All'asta a Parigi i beni di Brigitte Bardot, 43.000 euro per un bracciale di nozze"
-    },
-    {
-      "title": "Tajani: 'Mi scuso con le donne, non le ho mai volute offendere'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/21/tajani-mi-scuso-con-le-donne-non-le-ho-mai-volute-offendere_8ff45906-1a05-4edf-b2b5-64ed8bb232e4.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 21 Sep 2026 20:39:53 +0200",
-      "excerpt": "Il vicepremier replica dopo le polemiche sulle frasi sulla 'ragazza da sposare'"
     },
     {
       "title": "Cellule zombie nell'organismo che invecchia",
