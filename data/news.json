@@ -1,20 +1,104 @@
 {
-  "lastUpdated": "2026-09-22T16:08:06.909Z",
+  "lastUpdated": "2026-09-22T16:40:01.831Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Codacons, anche con taglio accise gasolio +43% rispetto a un anno fa",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/codacons-anche-con-taglio-accise-gasolio-43-rispetto-a-un-anno-fa_eec710b4-67ec-41c3-963a-fba8a49f214f.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 18:28:54 +0200",
+        "excerpt": "\"Un pieno per un motore diesel costa 35 euro in più\""
+      },
+      {
+        "title": "Marchesini (Confindustria): 'il confronto con i sindacati va avanti, sono temi complessi'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/marchesini-confindustria-il-confronto-con-i-sindacati-va-avanti-sono-temi-complessi_69245e1d-4ee0-4cdb-afdd-6efe9c0362e1.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 18:28:48 +0200",
+        "excerpt": "\"Tempi più lunghi del previsto, difficile chiudere un accordo entro settembre\""
+      },
+      {
+        "title": "Morgan Stanley indica Baker Hughes come miglior titolo nei servizi energetici",
+        "link": "https://it.investing.com/news/stock-market-news/morgan-stanley-indica-baker-hughes-come-miglior-titolo-nei-servizi-energetici-93CH-3558280",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 16:28:28",
+        "excerpt": ""
+      },
+      {
+        "title": "Apple esplora un fitness tracker senza schermo simile a Whoop",
+        "link": "https://it.investing.com/news/stock-market-news/apple-esplora-un-fitness-tracker-senza-schermo-simile-a-whoop-93CH-3558279",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 16:28:26",
+        "excerpt": ""
+      },
+      {
+        "title": "Sky diventa operatore virtuale mobile sulla rete Fastweb+Vodafone",
+        "link": "https://www.repubblica.it/economia/2026/09/22/news/sky_mobile_operatore_virtuale_rete_fastweb_vodafone-425600780/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Tue, 22 Sep 2026 18:28:11 +0200",
+        "excerpt": "Con il lancio del nuovo Sky Mobile, il gruppo gestirà direttamente in autonomia l’offerta commerciale. Diverse le opzioni per i nuovi e vecchi clienti"
+      },
+      {
+        "title": "Pirelli approva piano di investimenti negli Stati Uniti per circa 1 miliardo",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/pirelli-approva-piano-di-investimenti-negli-stati-uniti-per-circa-1-miliardo_c06eb432-be77-4b2f-977d-0faf8ebcd42f.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 18:28:09 +0200",
+        "excerpt": "Decisione del consiglio d'amministrazione a maggioranza"
+      },
+      {
+        "title": "Exor, buyback fino a 500 milioni di euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/exor-buyback-fino-a-500-milioni-di-euro_2d78ec9c-1aeb-4422-8160-201af6ac1087.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 18:27:58 +0200",
+        "excerpt": "Nel semestre il valore patrimoniale netto per azione è diminuito del 3,9%"
+      },
+      {
+        "title": "Lo spread tra Btp e Bund chiude in lieve rialzo a 89 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/lo-spread-tra-btp-e-bund-chiude-in-lieve-rialzo-a-89-punti_2fb33c29-36b2-495d-84c9-408450a93275.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 18:26:50 +0200",
+        "excerpt": "Il rendimento del decennale italiano sale al 4,35%"
+      },
+      {
+        "title": "Borsa: Milano chiude in calo, pesano banche e assicurazioni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-milano-chiude-in-calo-pesano-banche-e-assicurazioni_b292f232-44c5-4449-8c60-a44af09de625.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 18:25:10 +0200",
+        "excerpt": "A Piazza Affari scivola Poste, corre Stm. Lo spread tra Btp e Bund a 89 punti"
+      },
+      {
+        "title": "Xbox taglia 268 posti e riorganizza gli studi sotto Activision",
+        "link": "https://it.investing.com/news/stock-market-news/xbox-taglia-268-posti-e-riorganizza-gli-studi-sotto-activision-93CH-3558275",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 16:22:59",
+        "excerpt": ""
+      },
+      {
+        "title": "Previdenza, nel 2029 pensione di vecchiaia a 67 anni e sei mesi",
+        "link": "https://www.ilsole24ore.com/art/previdenza-2029-pensione-vecchiaia-67-anni-e-sei-mesi-AJhBIKLB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Tue, 22 Sep 2026 16:15:00 GMT",
+        "excerpt": "Continuano a spostarsi in avanti l’età e i contributi necessari per il pensionamento, per effetto dell’adeguamento alle aspettative di vita. Nel 2029 si andrà in pensione di vecchiaia a 67..."
+      },
+      {
+        "title": "Florovivaismo italiano sul podio mondiale",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/mercati/2026/09/22/news/florovivaismo_italiano_sul_podio_mondiale-425600713/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Tue, 22 Sep 2026 18:07:17 +0200",
+        "excerpt": "Le vendite all’estero sono cresciute del 5,1% nel 2025 e l’Italia si conferma terzo esportatore globale, dietro Paesi Bassi e Colombia. Francia, Olanda e Germania assorbono oltre la metà delle esportazioni. Il settore si"
+      },
+      {
+        "title": "Borsa: l'Europa chiude contrastata, si guarda sviluppi Usa-Iran",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-leuropa-chiude-contrastata-si-guarda-sviluppi-usa-iran_94124f36-dadd-4922-bd64-af85e49bdef0.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 18:06:26 +0200",
+        "excerpt": "Parigi (+0,2%), Francoforte (+0,02%) e Londra (-0,29%)"
+      },
       {
         "title": "L’IA entra in azienda, ma la sicurezza resta indietro: l'allarme di Deloitte",
         "link": "https://www.repubblica.it/economia/dossier/sicurezza/2026/09/22/news/l_ia_entra_in_azienda_ma_la_sicurezza_resta_indietro_l_allarme_di_deloitte-425600692/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Tue, 22 Sep 2026 17:59:57 +0200",
         "excerpt": "L'80% delle organizzazioni ha già adottato l'intelligenza artificiale generativa, ma solo il 9% lo ha fatto integrando presidi di sicurezza adeguati"
-      },
-      {
-        "title": "Marchesini (Confindustria): 'il confronto con i sindacati va avanti, sono temi complessi'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/marchesini-confindustria-il-confronto-con-i-sindacati-va-avanti-sono-temi-complessi_69245e1d-4ee0-4cdb-afdd-6efe9c0362e1.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 17:55:44 +0200",
-        "excerpt": "\"Tempi più lunghi del previsto, difficile chiudere un accordo entro settembre\""
       },
       {
         "title": "Cop31, obiettivo elettrificazione del 35% dei consumi energetici al 2035",
@@ -31,20 +115,6 @@
         "excerpt": ""
       },
       {
-        "title": "Borsa: Milano chiude in calo dello 0,53%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-milano-chiude-in-calo-dello-053_4e6adef5-c7c3-4bba-aea2-c0781da23da5.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 17:39:47 +0200",
-        "excerpt": "L'ultimo indice Ftse Mib a 52.095 punti"
-      },
-      {
-        "title": "Trenitalia e Alstom presentano a InnoTrans nuovo Intercity 200",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/trenitalia-e-alstom-presentano-a-innotrans-nuovo-intercity-200_fc9fe89c-66c2-4f05-a665-a0a987d8802a.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 17:39:23 +0200",
-        "excerpt": "Raggiunge i 200 km/h, parte di piano investimento di 500 milioni, finanziato dal Pnrr"
-      },
-      {
         "title": "Dieci anni di Festival del Podcasting: da Palermo a Milano il podcast conquista l’Italia",
         "link": "https://www.ilsole24ore.com/art/dieci-anni-festival-podcasting-palermo-milano-podcast-conquista-l-italia-AJ9i1DLB",
         "source": "Il Sole 24 Ore",
@@ -52,25 +122,11 @@
         "excerpt": "Gli eventi locali diffusi in tutta Italia aprono l’edizione 2026 della manifestazione. A Milano il 2 e 3 ottobre il Festival con due giornate dedicate a industry e creator tra AI, multicanalità, videopodcast, insights, w"
       },
       {
-        "title": "Rgs: 'Nel 2029 in pensione di vecchiaia a 67 anni e sei mesi'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/rgs-nel-2029-in-pensione-di-vecchiaia-a-67-anni-e-sei-mesi_a00aa2ac-0840-47e0-b22d-a3958d409822.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 17:07:56 +0200",
-        "excerpt": "Nel 2031 a 67 anni e 8 mesi. La spesa pensionistica sale fino al 2041, picco al 17,1% del Pil. Il ritiro dei baby boom solo parzialmente compensato dall'innalzamento dei requisiti minimi"
-      },
-      {
         "title": "JPMorgan punta a raddoppiare il business nell’hub finanziario in India",
         "link": "https://it.investing.com/news/stock-market-news/jpmorgan-punta-a-raddoppiare-il-business-nellhub-finanziario-in-india-93CH-3558238",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-22 15:06:54",
         "excerpt": ""
-      },
-      {
-        "title": "Confidustria, 'il 2026 sorprende al rialzo ma frenata in vista'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/confidustria-il-2026-sorprende-al-rialzo-ma-frenata-in-vista_02e046ab-035d-4aed-9401-06764f08c303.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 17:05:47 +0200",
-        "excerpt": "\"Inflazione e tassi rallenteranno consumi e investimenti. Finisce la spinta del Pnrr\""
       },
       {
         "title": "Constellium potrebbe bloccare l’espansione del riciclo UE per scarsità di rottami",
@@ -94,20 +150,6 @@
         "excerpt": ""
       },
       {
-        "title": "Caccia F-16 statunitense si schianta in Germania occidentale",
-        "link": "https://it.investing.com/news/stock-market-news/caccia-f16-statunitense-si-schianta-in-germania-occidentale-93CH-3558226",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 14:57:55",
-        "excerpt": ""
-      },
-      {
-        "title": "Mef, emessi 8 miliardi di euro del nuovo Btp green",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/mef-emessi-8-miliardi-di-euro-del-nuovo-btp-green_cc73f15e-1cc9-498c-a573-e3fa41f365f9.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 16:57:36 +0200",
-        "excerpt": "Il titolo scade il 30 ottobre 2038"
-      },
-      {
         "title": "Istat, il deficit resta al 3,1%. Sfuma l’uscita anticipata dalla procedura Ue. Cosa succede ora",
         "link": "https://www.repubblica.it/economia/2026/09/22/news/istat_deficit_invariato_cosa_succede_ora-425599772/?rss",
         "source": "Repubblica Economia",
@@ -120,27 +162,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 14:47:21 GMT",
         "excerpt": "Il 2026 sorprende al rialzo, rispetto ad aprile, grazie ai due buoni primi trimestri, ma la crescita rallenta a fine anno. E’ il messaggio che arriva da Congiuntura Flash, l’analisi..."
-      },
-      {
-        "title": "Il titolo CarMax potrebbe muoversi del 9% con gli utili la prossima settimana",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-carmax-potrebbe-muoversi-del-9-con-gli-utili-la-prossima-settimana-93CH-3558210",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 14:34:57",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo Concentrix potrebbe muoversi del 13% con gli utili del 29 settembre",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-concentrix-potrebbe-muoversi-del-13-con-gli-utili-del-29-settembre-93CH-3558209",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 14:33:40",
-        "excerpt": ""
-      },
-      {
-        "title": "Federacciai, rischio fermata per impianti siderurgici, sospendere Ets",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/federacciai-rischio-fermata-per-impianti-siderurgici-sospendere-ets_291004c7-eced-4997-9529-c85a0be8f495.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 16:15:49 +0200",
-        "excerpt": "'La situazione legata ai prezzi dell'energia elettrica e del gas è gravissima'"
       },
       {
         "title": "La fiducia, chiave di volta per lo sviluppo dei pagamenti digitali",
@@ -171,25 +192,11 @@
         "excerpt": "Secondo uno studio realizzato da YouGov per Ikea, il 55% degli italiani desidera una casa vissuta, informale e non perfettamente in ordine"
       },
       {
-        "title": "Asphaltica guarda al futuro della rete stradale",
-        "link": "https://www.repubblica.it/economia/rapporti/energitalia/mobilita/2026/09/22/news/asphaltica_guarda_al_futuro_della_rete_stradale-425600384/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Tue, 22 Sep 2026 15:24:40 +0200",
-        "excerpt": "Dal 7 al 10 ottobre 2026 a BolognaFiere: 140 espositori, oltre 8.000 operatori attesi e 40 convegni e workshop. Tra le novità, il nuovo Padiglione 37, le Agorà SITEB e il Cantiere Sostenibile"
-      },
-      {
         "title": "L’estate difficile degli aeroporti: voli cancellati per 1,3 milioni di passeggeri (+218%)",
         "link": "https://www.ilsole24ore.com/art/l-estate-difficile-aeroporti-voli-cancellati-13-milioni-passeggeri-218percento-AJRiOCKB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 12:33:35 GMT",
         "excerpt": "Quella appena conclusa è stata un’estate da record per il turismo italiano ma allo stesso i mesi da giugno ad agosto sono stati segnati da parecchi disagi per..."
-      },
-      {
-        "title": "Mirafiori, torna la cassa integrazione: oltre mille lavoratori coinvolti",
-        "link": "https://www.repubblica.it/economia/2026/09/22/news/mirafiori_cassa_integrazione_stabilimento_stellantis_lavoratori-425600266/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Tue, 22 Sep 2026 13:49:26 +0200",
-        "excerpt": "Stop dal 19 al 30 ottobre sulla linea della Fiat 500 a Torino. Stellantis parla di «situazione complessa». Pesa la crisi del mercato e l'esplosione dei costi dell'energia"
       },
       {
         "title": "Infortuni sul lavoro 2025: denunce a quota 600mila, record di malattie professionali degli ultimi 26 anni. Calano i decessi",
@@ -218,13 +225,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 08:09:00 GMT",
         "excerpt": "L’Istat conferma che il disavanzo 2025 è sopra il 3%, niente uscita dalla procedura Ue. Giorgetti: «Ne prendiamo atto con rammarico»"
-      },
-      {
-        "title": "Intesa tra Usa e Italia sulle materie prime critiche: risorse pubbliche e private per blindare la filiera dell’AI  ",
-        "link": "https://www.ilsole24ore.com/art/intesa-usa-e-italia-materie-prime-critiche-risorse-pubbliche-e-private-blindare-filiera-dell-ai-AJmkQEKB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Tue, 22 Sep 2026 07:50:36 GMT",
-        "excerpt": "Sottoscritta a New York dal segretario di Stato degli Stati Uniti Marco Rubio e dal vicepremier e ministro degli Esteri Antonio Tajani, prevede la collaborazione con partner internazionali per sviluppare meccanismi di de"
       }
     ],
     "europa": [
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Kiev, 'decisione Ue su Usmanov e Fridman vergognosa, Mosca festeggia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/kiev-decisione-ue-su-usmanov-e-fridman-vergognosa-mosca-festeggia_c40eb759-3719-4651-bfac-4752140bee00.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 18:27:41 +0200",
+        "excerpt": "'Ora i singoli Paesi Ue impongano sanzioni nazionali a queste due persone'"
+      },
+      {
+        "title": "Intesa in Ue sulle sanzioni alla Russia, rinnovo per 3 anni e fuori Usmanov e Fridman. L'ira di Kiev",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/intesa-in-ue-sulle-sanzioni-alla-russia-rinnovo-per-3-anni-e-fuori-usmanov_24cdd38d-5453-46f0-9887-697a08c67f03.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 18:27:30 +0200",
+        "excerpt": "'Decisione vergognosa sugli oligarchi, Mosca festeggia. Ora sanzioni nazionali'"
+      },
+      {
         "title": "L'Avana, 'Cuba un Paese sovrano, da Trump solo calunnie'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/lavana-cuba-un-paese-sovrano-da-trump-solo-calunnie_83d52824-bd98-400a-a693-713d3deb2898.html",
         "source": "ANSA Mondo",
@@ -436,25 +450,11 @@
         "excerpt": "Petrobras annuncia i risultati delle analisi dopo la nuova scoperta di riserve"
       },
       {
-        "title": "Intesa in Ue sulle sanzioni, rinnovo per 3 anni e fuori Usmanov e Fridman",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/intesa-in-ue-sulle-sanzioni-rinnovo-per-3-anni-e-fuori-usmanov-e-fridman_24cdd38d-5453-46f0-9887-697a08c67f03.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 17:26:01 +0200",
-        "excerpt": "Fonti Ue, 'si attende fine della procedura scritta per formalizzare l'accordo'"
-      },
-      {
         "title": "Pasdaran, 'rifiutiamo qualsiasi contatto con gli Usa'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/pasdaran-rifiutiamo-qualsiasi-contatto-con-gli-usa_16496c16-b9de-41ef-8d2b-4629aa837895.html",
         "source": "ANSA Mondo",
         "pubDate": "Tue, 22 Sep 2026 17:20:11 +0200",
         "excerpt": "Portavoce Mohebi: 'non hanno altra scelta se non quella di accettare condizioni dell'Iran'"
-      },
-      {
-        "title": "Trump, invierò subito massiccia presenza militare in Groenlandia, costruiremo 2 basi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/trump-inviero-subito-massiccia-presenza-militare-in-groenlandia-costruiremo-2-basi_dc414f70-561c-4ea3-91a8-c2f299595446.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 17:16:13 +0200",
-        "excerpt": "Gli Stati Uniti 'cominceranno a sviluppare una significativa presenza militare'"
       },
       {
         "title": "Oil dips below $100 as Iran reportedly offers to reopen Hormuz amid diplomacy push",
@@ -572,21 +572,21 @@
   },
   "attualita": [
     {
+      "title": "Violenza sessuale al Senato, richiesta di archiviazione per il senatore di FI Silvestro",
+      "link": "https://www.repubblica.it/politica/2026/09/22/news/violenza_sessuale_senato_silvestro_richiesta_archiviazione_senatore_fi-425600706/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 16:05:37 +0000",
+      "excerpt": "La decisione motivata dalla tardività della querela da parte della donna"
+    },
+    {
       "title": "Trump all'Onu. 'L'America è tornata, più forte che mai. L'Iran farà l'accordo dopo le midterm'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/trump-allonu.-lamerica-e-tornata-piu-forte-che-mai.-liran-fara_8c73f7d9-8eb5-469c-8ae2-261fda345fc6.html",
       "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 17:37:07 +0200",
+      "pubDate": "Tue, 22 Sep 2026 17:58:55 +0200",
       "excerpt": "'Il messaggio a Putin? Mettere fine alla guerra'. Guterres evoca 'lo spettro della pulizia etnica' in Cisgiordania"
     },
     {
-      "title": "Sangiuliano sui social con foto di donna velata a Porta Nolana: “Pericolo islamizzazione”. Polemica",
-      "link": "https://napoli.repubblica.it/cronaca/2026/09/22/news/sangiuliano_sui_social_con_foto_di_donna_velata_a_porta_nolana_pericolo_islamizzazione_polemica-425600615/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 15:20:39 +0000",
-      "excerpt": "L’ex ministro pubblica l’immagine di una donna con il velo integrale a Napoli e parla di “minaccia all’identità nazionale”. Il post arriva mentre il governo discute nuove norme su burqa e niqab a scuola"
-    },
-    {
-      "title": "Senatrici in minigonna a palazzo Madama per protestare contro le parole di Tajani e Vannacci",
+      "title": "Senatrici in minigonna a palazzo Madama per protestare contro le parole di Tajani",
       "link": "https://www.repubblica.it/politica/2026/09/22/news/senatrici_minigonna_protesta_contro_tajani_vannacci-425600570/",
       "source": "Repubblica",
       "pubDate": "Tue, 22 Sep 2026 15:02:21 +0000",
@@ -742,25 +742,39 @@
   ],
   "sport": [
     {
-      "title": "Azzurri: maxi convocazione ed esordienti, Mancini riparte alla Bernardini",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/22/azzurri-maxi-convocazione-ed-esordienti-mancini-riparte-alla-bernardini_2fd93940-85ca-422b-9927-b9729200e10a.html",
+      "title": "America's Cup: Bennato 'inno? Ho pensato ai versi di mio fratello Eugenio'",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/22/americas-cup-bennato-inno-ho-pensato-ai-versi-di-mio-fratello-eugenio_5ba8ec34-1c8d-4e1d-a712-6aac25eb8c75.html",
       "source": "ANSA Sport",
-      "pubDate": "Tue, 22 Sep 2026 17:47:53 +0200",
-      "excerpt": "52 anni fa 'Fuffo' pose le basi per rifondare l'Italia campione del mondo '82 con Bearzot"
+      "pubDate": "Tue, 22 Sep 2026 18:33:55 +0200",
+      "excerpt": "Il cantautore partenopeo: \"Chiamato me perché napoletano ed esperto di sigle sportive\""
     },
     {
-      "title": "Azzurri: Sebastiano e Pio fratelli d'Italia: 'Un sogno la nazionale insieme'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/sebastiano-e-pio-fratelli-ditalia-un-sogno-la-nazionale-insieme_86ae69d0-54c1-48d5-8f9b-da43ef4e40cf.html",
+      "title": "Mondiali ciclismo: Longo Borghini, la mia prima maglia iridata è da brividi",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/22/mondiali-ciclismo-longo-borghini-la-mia-prima-maglia-iridata-e-da-brividi_8f261ddc-3833-4d4d-9e24-28f12150fe68.html",
       "source": "ANSA Sport",
-      "pubDate": "Tue, 22 Sep 2026 17:47:19 +0200",
-      "excerpt": "Gli Esposito in azzurro: 'C'è grande entusiasmo per ripartire al meglio'"
+      "pubDate": "Tue, 22 Sep 2026 18:24:35 +0200",
+      "excerpt": "Ganna \"ci lavoravamo da anni a questo oro, finalmente è nostro\""
+    },
+    {
+      "title": "Azzurri: si ferma Scalvini per problemi alla caviglia, in gruppo c'è Ruggeri",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/azzurri-si-ferma-scalvini-per-problemi-alla-caviglia-in-gruppo-ce-ruggeri_4994f12b-893b-4a0b-b0c5-e719d28df9af.html",
+      "source": "ANSA Sport",
+      "pubDate": "Tue, 22 Sep 2026 18:16:59 +0200",
+      "excerpt": "A Coverciano è arrivato anche il dt Ranieri"
     },
     {
       "title": "Eurovolley: c'è la Finlandia, l'Italia va a caccia della semifinale",
       "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/22/eurovolley-ce-la-finlandia-litalia-va-a-caccia-della-semifinale_56fc2c38-1bc4-4055-8b93-6b4dfbe11df3.html",
       "source": "ANSA Sport",
-      "pubDate": "Tue, 22 Sep 2026 17:45:57 +0200",
+      "pubDate": "Tue, 22 Sep 2026 18:02:35 +0200",
       "excerpt": "Domani a Torino azzurri in campo, chi vince trova la Francia"
+    },
+    {
+      "title": "Azzurri: maxi convocazione ed esordienti, Mancini riparte alla Bernardini",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/22/azzurri-maxi-convocazione-ed-esordienti-mancini-riparte-alla-bernardini_2fd93940-85ca-422b-9927-b9729200e10a.html",
+      "source": "ANSA Sport",
+      "pubDate": "Tue, 22 Sep 2026 17:47:53 +0200",
+      "excerpt": "52 anni fa 'Fuffo' pose le basi per rifondare l'Italia campione del mondo '82 con Bearzot"
     },
     {
       "title": "Mondiali ciclismo: Italia d'oro nel Team Relay a Montreal",
@@ -782,20 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Tue, 22 Sep 2026 16:51:54 +0200",
       "excerpt": "Venerdì a Miano affronterà la vincente della sfida tra Italia e Finlandia"
-    },
-    {
-      "title": "Under 21: Baldini 'calcio italiano è rappresentato più dal Frosinone che dal Como'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/under-21-baldini-calcio-italiano-e-rappresentato-piu-dal-frosinone-che-dal_69f9ab24-664e-4fa5-9780-321eef94e859.html",
-      "source": "ANSA Sport",
-      "pubDate": "Tue, 22 Sep 2026 16:35:03 +0200",
-      "excerpt": "\"Alvini è una storia bellissima, dagli amatori alla serie A, un percorso importante\""
-    },
-    {
-      "title": "Daniele Masala è il nuovo presidente del Pentathlon Moderno ASD Lazio",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/22/daniele-masala-e-il-nuovo-presidente-del-pentathlon-moderno-asd-lazio_20e04162-d560-488f-b88f-a36623bab35f.html",
-      "source": "ANSA Sport",
-      "pubDate": "Tue, 22 Sep 2026 16:10:33 +0200",
-      "excerpt": "Votato all'unanimità ha un mandato fino alla scadenza di questo quadriennio olimpico"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
