@@ -4,11 +4,32 @@
   "finanza": {
     "italia": [
       {
+        "title": "Icop, nei 6 mesi utili in aumento a 22 milioni, confermata la guidance 2026",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/icop-nei-6-mesi-utili-in-aumento-a-22-milioni-confermata-la-guidance-2026_d69fa819-185d-49a3-9aa4-11f95e1938af.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:43:32 +0200",
+        "excerpt": "Ricavi a 286,5 milioni (+78%). Petrucco: 'Percorso industriale solido'"
+      },
+      {
+        "title": "Perché il titolo Vicor è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-vicor-e-in-forte-rialzo-oggi-93CH-3557244",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 08:43:04",
+        "excerpt": ""
+      },
+      {
         "title": "Calabresi: «Per Milano ci sono, alla città serve un cambiamento vero»",
         "link": "https://www.ilsole24ore.com/art/calabresi-per-milano-ci-sono-citta-serve-cambiamento-vero-AJnV7tKB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 08:39:01 GMT",
         "excerpt": "«Mi interessa il percorso per Milano. Non è chiaro che percorso sarà, se ci saranno le primarie, quando saranno, i tempi e i modi. Mancano molti mesi, però io ci..."
+      },
+      {
+        "title": "Alibaba sfida Nvidia: presentato il chip IA “più potente” della Cina",
+        "link": "https://it.investing.com/news/stock-market-news/alibaba-sfida-nvidia-presentato-il-chip-ia-piu-potente-della-cina-3557243",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 08:35:07",
+        "excerpt": ""
       },
       {
         "title": "L'Istat: 'Il deficit 2025 al 3,1%'. Resta la procedura di infrazione, il rammarico di Giorgetti",
@@ -37,6 +58,13 @@
         "source": "Repubblica Economia",
         "pubDate": "Tue, 22 Sep 2026 10:26:37 +0200",
         "excerpt": "Il ministro dell’Economia commenta a caldo il dato Istat sul rapporto deficit-Pil al 3,1% nel 2025: “L’Italia non uscirà in anticipo dalla procedura d’infrazione”. Appuntamento rinviato al 2027"
+      },
+      {
+        "title": "Azioni Evonik in rialzo del 3% grazie al piano di ristrutturazione",
+        "link": "https://it.investing.com/news/stock-market-news/azioni-evonik-in-rialzo-del-3-grazie-al-piano-di-ristrutturazione-3557236",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 08:25:48",
+        "excerpt": ""
       },
       {
         "title": "L'Istat conferma deficit 2025 al 3,1%, rivede al rialzo il Pil a +0,6%",
@@ -394,34 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 05:38:16 GMT",
         "excerpt": "Tra le altre misure il noleggio sociale Aci per i redditi bassi"
-      },
-      {
-        "title": "Le auto elettriche sono il 12,6%: ripresa nel 2025 ma il mercato è policy driven",
-        "link": "https://www.ilsole24ore.com/art/le-auto-elettriche-sono-126percento-ripresa-2025-ma-mercato-e-policy-driven-AJfZssEB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Tue, 22 Sep 2026 05:36:34 GMT",
-        "excerpt": "Nel 2025 193mila immatricolazioni e più flotte green, ma la quota resta sotto la media europea. Crescono colonnine e offerta di veicoli (+49%)"
-      },
-      {
-        "title": "La BCE avverte: inflazione più alta e persistente con la seconda ondata energetica",
-        "link": "https://it.investing.com/news/stock-market-news/la-bce-avverte-inflazione-piu-alta-e-persistente-con-la-seconda-ondata-energetica-93CH-3557038",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 05:35:08",
-        "excerpt": ""
-      },
-      {
-        "title": "Deficit, oggi il verdetto Istat: a rischio il 3%. In bilico la spesa extra per energia e difesa",
-        "link": "https://www.ilsole24ore.com/art/deficit-oggi-verdetto-istat-rischio-3percento-bilico-spesa-extra-energia-e-difesa-AJvpvUKB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Tue, 22 Sep 2026 05:09:08 GMT",
-        "excerpt": "Solo l’uscita dalla procedura porta a escludere dai saldi il disavanzo aggiuntivo"
-      },
-      {
-        "title": "La governatrice della RBA Bullock avverte sui rischi inflazionistici",
-        "link": "https://it.investing.com/news/stock-market-news/la-governatrice-della-rba-bullock-avverte-sui-rischi-inflazionistici-93CH-3557036",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 05:08:09",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -1098,6 +1098,13 @@
   },
   "attualita": [
     {
+      "title": "Zelensky vede Macron all'Onu. La Francia lavora a una risoluzione per Hormuz",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/zelensky-vede-macron-allonu-parlato-di-difesa-aerea-e-aiuti-per-linverno_8c73f7d9-8eb5-469c-8ae2-261fda345fc6.html",
+      "source": "ANSA",
+      "pubDate": "Tue, 22 Sep 2026 10:42:25 +0200",
+      "excerpt": "Ministri degli Esteri del G7: 'Gli Houthi cessino immediatamente attacchi'"
+    },
+    {
       "title": "L'Istat: 'Il deficit 2025 al 3,1%'. Resta la procedura di infrazione, il rammarico di Giorgetti",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/listat-conferma-il-deficit-2025-al-31.-rivisto-al-rialzo-pil-06_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
       "source": "ANSA",
@@ -1498,6 +1505,13 @@
     }
   ],
   "sport": [
+    {
+      "title": "Hadjar torna al volante della sua Red Bull in Azerbaijan",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/22/hadjar-torna-al-volante-della-sua-red-bull-in-azerbaijan_8fa9bc65-558d-46e9-9541-3fd25ee9d550.html",
+      "source": "ANSA Sport",
+      "pubDate": "Tue, 22 Sep 2026 10:45:42 +0200",
+      "excerpt": "Il francese ha saltato tre GP per infortunio"
+    },
     {
       "title": "Mabappé, Pallone d'Oro premio individuale e nessuno ha segnato quanto me",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/mabappe-pallone-doro-premio-individuale-e-nessuno-ha-segnato-quanto-me_c94cd273-a3e7-46de-a3bb-2772b2d7848d.html",
