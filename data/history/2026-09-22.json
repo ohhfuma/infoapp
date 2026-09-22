@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "I principali titoli Cybersecurity salgono grazie all’IA",
+        "link": "https://it.investing.com/news/stock-market-news/i-principali-titoli-cybersecurity-salgono-grazie-allia-93CH-3558295",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 17:03:14",
+        "excerpt": ""
+      },
+      {
+        "title": "Anthropic lancia Claude Opus 5.5: più veloce e meno costoso",
+        "link": "https://it.investing.com/news/stock-market-news/anthropic-lancia-claude-opus-55-piu-veloce-e-meno-costoso-3558297",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 17:00:49",
+        "excerpt": ""
+      },
+      {
         "title": "Mef, la domanda per il nuovo Btp Green ha superato i 110 miliardi",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/mef-la-domanda-per-il-nuovo-btp-green-ha-superato-i-110-miliardi_321094bf-c67a-4ed2-88e8-c4306485e7bd.html",
         "source": "ANSA Economia",
@@ -408,20 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-22 13:53:14",
         "excerpt": ""
-      },
-      {
-        "title": "Immobiliare: Zurigo e Tokyo tra i mercati più esposti al rischio di bolla",
-        "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/09/22/news/immobiliare_zurigo_e_tokyo_tra_i_mercati_piu_esposti_al_rischio_di_bolla-425600442/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Tue, 22 Sep 2026 15:51:02 +0200",
-        "excerpt": "I risultati dell’UBS Global Real Estate Bubble Index 2026"
-      },
-      {
-        "title": "Corvex preme su Whitbread per un posto nel CdA",
-        "link": "https://it.investing.com/news/stock-market-news/corvex-preme-su-whitbread-per-un-posto-nel-cda-3558126",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 13:47:12",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -716,6 +716,41 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Texas Governor Abbott halts all state-issued permits for data centers until grid audit is complete",
+        "link": "https://www.investing.com/news/commodities-news/texas-gov-abbott-halts-all-stateissued-permits-for-data-centers-until-grid-audit-is-complete-4909646",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 17:19:41",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump says talks with Iran continue and he thinks settlement will be reached",
+        "link": "https://www.investing.com/news/commodities-news/trump-says-talks-with-iran-continue-and-he-thinks-settlement-will-be-reached-4911375",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 17:14:06",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump, 'l'Iran sta parlando con noi, anche oggi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-liran-sta-parlando-con-noi-anche-oggi_0fd96129-251c-4225-8bd3-e351a0354d19.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 19:07:19 +0200",
+        "excerpt": "Il presidente Usa a margine del bilaterale con il primo ministro britannico Andy Burhnam"
+      },
+      {
+        "title": "Trump, 'l'Iran sta parlando con noi, anche oggi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/trump-liran-sta-parlando-con-noi-anche-oggi_5720fb30-deb4-4820-81d5-8a89671eec51.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 19:07:17 +0200",
+        "excerpt": "Il presidente Usa a margine del bilaterale con il primo ministro britannico Andy Burhnam"
+      },
+      {
+        "title": "Trump, 'l'Iran sta parlando con noi, anche oggi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/trump-liran-sta-parlando-con-noi-anche-oggi_737dcfb1-47bf-4854-9905-499356970b6e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 19:07:13 +0200",
+        "excerpt": "Il presidente Usa a margine del bilaterale con il primo ministro britannico Andy Burhnam"
+      },
       {
         "title": "Il governatore dell'Illinois perde 40 kg con farmaci anti-obesità e guarda al 2028",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/il-governatore-dellillinois-perde-40-kg-con-farmaci-anti-obesita-e-guarda-al-2028_5f8a98c1-8e66-4cec-add6-2db4ad75b1f6.html",
@@ -1100,45 +1135,24 @@
         "source": "Repubblica Esteri",
         "pubDate": "Tue, 22 Sep 2026 11:34:38 +0200",
         "excerpt": "La risposta dell’amministrazione repubblicana dopo le polemiche per la cacciata dalla Casa Bianca dei reporter di Cnn, MsNow e Politico. Un nuovo strumento di propaganda in vista delle temute elezioni di midterm"
-      },
-      {
-        "title": "Cuba, 'gli Usa puntano a militarizzare l'America Latina'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/cuba-gli-usa-puntano-a-militarizzare-lamerica-latina_da3f978b-732c-4fbe-bd70-5609ae83f8dc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 11:16:17 +0200",
-        "excerpt": "'Vogliono una nuova Dottrina Monroe col pretesto della lotta ai narcos'"
-      },
-      {
-        "title": "Il Conte Spencer: “Diana diceva che Carlo era innamorato del suo valletto”. E Harry prepara il doc su Lady D",
-        "link": "https://www.repubblica.it/esteri/2026/09/22/news/gran_bretagna_conte_spence_carlo_innamorato_del_suo_valletto_harry_doc_su_lady_d-425599913/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Tue, 22 Sep 2026 11:10:52 +0200",
-        "excerpt": "Nuove rivelazioni del libro “Canto del cigno: mia sorella Diana”, già in cima alla classifica dei best-seller, in uscita questa settimana. Mentre, secondo alcune indiscrezioni, il duca di Sussex starebbe realizzando un f"
-      },
-      {
-        "title": "European natural gas stabilize from two-week lows; UN talks in focus",
-        "link": "https://www.investing.com/news/commodities-news/european-natural-gas-stabilize-from-twoweek-lows-un-talks-in-focus-4910011",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 09:02:33",
-        "excerpt": ""
-      },
-      {
-        "title": "La Fondazione Hind Rajab denuncia un soldato israeliano in vacanza in Italia per crimini di guerra",
-        "link": "https://www.repubblica.it/esteri/2026/09/22/news/fondazione_hind_rajab_denuncia_soldato_israeliano_in_vacanza_in_italia_per_crimini_di_guerra-425599818/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Tue, 22 Sep 2026 10:34:05 +0200",
-        "excerpt": "Yonatan Chalich, secondo l'indagine condotta da Hrf, sarebbe coinvolto in tre episodi durante il suo periodo di servizio a Gaza tra l’ottobre 2023 e l’agosto 2024: l'assedio e distruzione dell'ospedale Al-Shifa, l’incend"
-      },
-      {
-        "title": "Ministri esteri G7, 'gli Houthi cessino immediatamente attacchi'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/ministri-esteri-g7-gli-houthi-cessino-immediatamente-attacchi_01fe6163-72c9-42e3-9458-9f8afea4d5a0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 10:01:25 +0200",
-        "excerpt": "'Assoluta necessità di garantire sicurezza marittima permanente'"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "++ Meloni, non leggo le parole di Mattarella come contestazione, vuole superare ghetti ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/22/meloni-non-leggo-le-parole-di-mattarella-come-contestazione-vuole-superare-ghetti_4aa6dfb1-fe13-4c3c-97d9-31324cb87b9f.html",
+      "source": "ANSA",
+      "pubDate": "Tue, 22 Sep 2026 19:16:27 +0200",
+      "excerpt": ""
+    },
+    {
+      "title": "Pensioni, sale l’età. Per quella di vecchiaia si esce a 67 anni e 6 mesi nel 2029",
+      "link": "https://www.repubblica.it/economia/2026/09/22/news/pensioni_sale_eta_vecchiaia_67_anni_6_mesi_proiezioni_ragioneria-425600803/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 16:46:05 +0000",
+      "excerpt": "Le nuove proiezioni della Ragioneria. Per l’anticipata serviranno 43 anni e 4 mesi di contributi agli uomini e 42 anni e 4 mesi alle donne. Ma i dati Istat sulla speranza di vita potrebbero spingere ancora più in alto i "
+    },
     {
       "title": "Primi segnali radio da un pianeta alieno, ma non li ha inviati ET ",
       "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/22/primi-segnali-radio-da-un-pianeta-alieno-ma-non-li-ha-inviati-et_c31249cf-a1eb-47ad-8cae-de11bff40eaf.html",
@@ -1544,23 +1558,23 @@
       "source": "ANSA",
       "pubDate": "Tue, 22 Sep 2026 07:07:56 +0200",
       "excerpt": ""
-    },
-    {
-      "title": "La Francia lavora a una risoluzione del consiglio di sicurezza dell'Onu per Hormuz",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/francia-lavora-a-risoluzione-del-consiglio-di-sicurezza-dellonu-per-hormuz_a339206d-6f7a-400c-bbeb-f57876af94f0.html",
-      "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 05:18:31 +0200",
-      "excerpt": "Intende collaborare con gli americani e i propri partner"
-    },
-    {
-      "title": "Kallas: 'L'operazione Aspides ha bisogno di altri assetti navali e aerei'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/kallas-loperazione-aspides-ha-bisogno-di-altri-assetti-navali-e-aerei_8c73f7d9-8eb5-469c-8ae2-261fda345fc6.html",
-      "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 05:17:28 +0200",
-      "excerpt": "'Servirebbero più di 10 navi, ma al momento non ne abbiamo a sufficienza'"
     }
   ],
   "sport": [
+    {
+      "title": "Il Venezia conferma Stroppa nonostante le cinque sconfitte",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/il-venezia-conferma-stroppa-nonostante-le-cinque-sconfitte_2f5bae33-8ded-4388-96ed-80636211a720.html",
+      "source": "ANSA Sport",
+      "pubDate": "Tue, 22 Sep 2026 19:15:30 +0200",
+      "excerpt": "Nota della società, il tecnico resta alla guida dei lagunari"
+    },
+    {
+      "title": "Red Bull Cliff Diving, la finale 2026 a Polignano a Mare, tre in corsa per il titolo",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/22/red-bull-cliff-diving-la-finale-2026-a-polignano-a-mare-tre-in-corsa_d369489c-54e0-449f-ac8b-69c3eaf65c31.html",
+      "source": "ANSA Sport",
+      "pubDate": "Tue, 22 Sep 2026 19:12:42 +0200",
+      "excerpt": "Aidan Heslop, James Lichtenstein e Constantin Popovici a ultima tappa separati da 13 punti"
+    },
     {
       "title": "Napoli: lesione all'adduttore per Anguissa, fermo per 15 giorni",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/napoli-lesione-alladduttore-per-anguissa-fermo-per-15-giorni_c318c3d9-5328-452c-953e-7e32397e427f.html",
