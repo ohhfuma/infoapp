@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-22T01:06:31.036Z",
+  "lastUpdated": "2026-09-22T01:37:52.960Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Binance sotto indagine negli USA per possibili violazioni delle sanzioni sull’Iran",
+        "link": "https://it.investing.com/news/stock-market-news/binance-sotto-indagine-negli-usa-per-possibili-violazioni-delle-sanzioni-sulliran-93CH-3556981",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 01:03:05",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo AnaptysBio è in rialzo nell’after-hours oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-anaptysbio-e-in-rialzo-nellafterhours-oggi-93CH-3556979",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 00:58:09",
+        "excerpt": ""
+      },
+      {
+        "title": "I futures USA in rialzo dopo il rally dell’AI, il calo del petrolio sostiene Wall St",
+        "link": "https://it.investing.com/news/stock-market-news/i-futures-usa-in-rialzo-dopo-il-rally-dellai-il-calo-del-petrolio-sostiene-wall-st-3556978",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 00:55:11",
+        "excerpt": ""
+      },
       {
         "title": "Bonus Colonnine, al via da oggi 22 settembre: quanto vale e come richiederlo",
         "link": "https://www.repubblica.it/economia/2026/09/22/news/bonus_colonnine_al_via_da_oggi_22_settembre_quanto_vale_e_come_richiederlo-425599238/?rss",
@@ -77,27 +98,6 @@
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-quest-diagnostics-sta-scendendo-oggi-93CH-3556926",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-21 21:53:06",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Labcorp sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-labcorp-sta-scendendo-oggi-93CH-3556924",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 21:52:51",
-        "excerpt": ""
-      },
-      {
-        "title": "Rating di Latam Airlines alzato da S&P per le solide performance",
-        "link": "https://it.investing.com/news/stock-market-news/rating-di-latam-airlines-alzato-da-sp-per-le-solide-performance-93CH-3556919",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 21:43:52",
-        "excerpt": ""
-      },
-      {
-        "title": "Boeing si aggiudica contratti difesa da 41,5 milioni di dollari per supporto aeromobili",
-        "link": "https://it.investing.com/news/stock-market-news/boeing-si-aggiudica-contratti-difesa-da-415-milioni-di-dollari-per-supporto-aeromobili-93CH-3556910",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 21:27:56",
         "excerpt": ""
       },
       {
@@ -401,6 +401,27 @@
     ],
     "mondo": [
       {
+        "title": "L'economia di Panama cresce del 6,4% nel secondo trimestre",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/leconomia-di-panama-cresce-del-64-nel-secondo-trimestre_d57f1e09-5055-438d-80ea-8bc63e9eb65b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 03:22:47 +0200",
+        "excerpt": "L'Istituto di statistica conferma la ripresa, il governo promette nuovi impieghi"
+      },
+      {
+        "title": "Messico, la tempesta Polo diventa uragano e scatta l'allerta sul Pacifico",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/messico-la-tempesta-polo-diventa-uragano-e-scatta-lallerta-sul-pacifico_856c1107-165d-4f1f-adfb-0d993234d627.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 03:13:28 +0200",
+        "excerpt": "Onde fino a quattro metri e rischio categoria 5, allarme frane"
+      },
+      {
+        "title": "Canada aims to cut time needed for project reviews, and address strikes",
+        "link": "https://www.investing.com/news/commodities-news/canada-aims-to-cut-time-needed-for-project-reviews-and-address-strikes-4909803",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 00:55:16",
+        "excerpt": ""
+      },
+      {
         "title": "Oil rises slightly ahead of potential US-Iran talks",
         "link": "https://www.investing.com/news/commodities-news/oil-rises-slightly-ahead-of-potential-usiran-talks-4909781",
         "source": "Investing.com Commodities",
@@ -541,32 +562,11 @@
         "excerpt": "Il tycoon torna ad attaccare Cnn, MsNow e Politico"
       },
       {
-        "title": "Ue, slitta ancora l'ok al rinnovo delle sanzioni, domani nuova riunione",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/ue-slitta-ancora-lok-al-rinnovo-delle-sanzioni-domani-nuova-riunione_ddff3938-d7be-468d-9c9a-e7b63f6101ae.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 22:03:47 +0200",
-        "excerpt": "Le misure contro la Russia. Convocato alle 8 di mattina il Coreper II"
-      },
-      {
         "title": "California governor signs broad data center oversight bill package",
         "link": "https://www.investing.com/news/commodities-news/california-governor-signs-broad-data-center-oversight-bill-package-4909524",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-21 19:54:28",
         "excerpt": ""
-      },
-      {
-        "title": "Oil price dips to $100 on hopes of US-Iran diplomacy, partial recovery in Saudi exports",
-        "link": "https://www.investing.com/news/commodities-news/oil-rises-after-houthi-attack-on-saudi-capital-4908199",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 19:42:57",
-        "excerpt": ""
-      },
-      {
-        "title": "Maxi operazione contro la criminalità transnazionale in America Latina ed Europa",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/maxi-operazione-contro-la-criminalita-transnazionale-in-america-latina-ed-europa_87ad33ab-f070-4922-958e-d6ea253a085d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 21:18:33 +0200",
-        "excerpt": "Nel quadro di 'El Paccto'. 490 arresti, sequestrate tonnellate di cocaina e cannabis"
       }
     ]
   },
