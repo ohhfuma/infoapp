@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-09-22T15:38:04.391Z",
+  "lastUpdated": "2026-09-22T16:08:06.909Z",
   "finanza": {
     "italia": [
+      {
+        "title": "L’IA entra in azienda, ma la sicurezza resta indietro: l'allarme di Deloitte",
+        "link": "https://www.repubblica.it/economia/dossier/sicurezza/2026/09/22/news/l_ia_entra_in_azienda_ma_la_sicurezza_resta_indietro_l_allarme_di_deloitte-425600692/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Tue, 22 Sep 2026 17:59:57 +0200",
+        "excerpt": "L'80% delle organizzazioni ha già adottato l'intelligenza artificiale generativa, ma solo il 9% lo ha fatto integrando presidi di sicurezza adeguati"
+      },
+      {
+        "title": "Marchesini (Confindustria): 'il confronto con i sindacati va avanti, sono temi complessi'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/marchesini-confindustria-il-confronto-con-i-sindacati-va-avanti-sono-temi-complessi_69245e1d-4ee0-4cdb-afdd-6efe9c0362e1.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 17:55:44 +0200",
+        "excerpt": "\"Tempi più lunghi del previsto, difficile chiudere un accordo entro settembre\""
+      },
+      {
+        "title": "Cop31, obiettivo elettrificazione del 35% dei consumi energetici al 2035",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/cop31-obiettivo-elettrificazione-del-35-dei-consumi-energetici-al-2035_dcb530bd-2a95-47d9-9971-24c6904c4fc8.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 17:55:18 +0200",
+        "excerpt": "Ad Antalya in Turchia dal 9 al 20 novembre. Focus sull'IA per il clima"
+      },
+      {
+        "title": "Perché il titolo PayPal sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-paypal-sta-salendo-oggi-93CH-3558265",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 15:51:28",
+        "excerpt": ""
+      },
+      {
+        "title": "Borsa: Milano chiude in calo dello 0,53%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-milano-chiude-in-calo-dello-053_4e6adef5-c7c3-4bba-aea2-c0781da23da5.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 17:39:47 +0200",
+        "excerpt": "L'ultimo indice Ftse Mib a 52.095 punti"
+      },
+      {
+        "title": "Trenitalia e Alstom presentano a InnoTrans nuovo Intercity 200",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/trenitalia-e-alstom-presentano-a-innotrans-nuovo-intercity-200_fc9fe89c-66c2-4f05-a665-a0a987d8802a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 17:39:23 +0200",
+        "excerpt": "Raggiunge i 200 km/h, parte di piano investimento di 500 milioni, finanziato dal Pnrr"
+      },
       {
         "title": "Dieci anni di Festival del Podcasting: da Palermo a Milano il podcast conquista l’Italia",
         "link": "https://www.ilsole24ore.com/art/dieci-anni-festival-podcasting-palermo-milano-podcast-conquista-l-italia-AJ9i1DLB",
@@ -38,7 +80,7 @@
         "excerpt": ""
       },
       {
-        "title": "I titoli finanziari cedono mentre i trader ruotano verso la tecnologia",
+        "title": "PayPal vola grazie all’accordo con Meta AI, i finanziari cedono",
         "link": "https://it.investing.com/news/stock-market-news/i-titoli-finanziari-cedono-mentre-i-trader-ruotano-verso-la-tecnologia-3558234",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-22 15:03:46",
@@ -94,20 +136,6 @@
         "excerpt": ""
       },
       {
-        "title": "Il titolo Carnival potrebbe muoversi del 6,2% in vista dei risultati",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-carnival-potrebbe-muoversi-del-62-in-vista-dei-risultati-93CH-3558207",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 14:32:31",
-        "excerpt": ""
-      },
-      {
-        "title": "Strisciuglio: 'Fs non aumenterà il prezzo dei biglietti'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/strisciuglio-al-lavoro-sul-nuovo-piano-definirlo-entro-fine-anno_f3e480d2-46a7-4a66-86f7-7215f4feaaec.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 16:19:46 +0200",
-        "excerpt": "Ad: 'Al lavoro sul nuovo piano, definirlo entro fine anno'"
-      },
-      {
         "title": "Federacciai, rischio fermata per impianti siderurgici, sospendere Ets",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/federacciai-rischio-fermata-per-impianti-siderurgici-sospendere-ets_291004c7-eced-4997-9529-c85a0be8f495.html",
         "source": "ANSA Economia",
@@ -129,13 +157,6 @@
         "excerpt": "Oltre 2 mila prodotti su Borsa Italiana, ma il 51% dei risparmiatori non sa come muoversi. Una ricerca Moneyfarm lancia uno scoring oggettivo per scegliere in autonomia"
       },
       {
-        "title": "Borsa: l'Europa positiva dopo Wall Street, Milano -0,1%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-leuropa-positiva-dopo-wall-street-milano-01_e59388a3-7dde-431f-972c-d6ed6ec70027.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 15:57:47 +0200",
-        "excerpt": "In flessione gas e petrolio. Lo spread tra Btp e Bund a 88 punti"
-      },
-      {
         "title": "Immobiliare: Zurigo e Tokyo tra i mercati più esposti al rischio di bolla",
         "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/09/22/news/immobiliare_zurigo_e_tokyo_tra_i_mercati_piu_esposti_al_rischio_di_bolla-425600442/?rss",
         "source": "Repubblica Economia",
@@ -143,25 +164,11 @@
         "excerpt": "I risultati dell’UBS Global Real Estate Bubble Index 2026"
       },
       {
-        "title": "Wall Street apre positiva, Dj a +0,35% e Nasdaq a +0,19%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/wall-street-apre-positiva-dj-a-035-e-nasdaq-a-019_a0c4d738-edca-46ee-b7be-24ceb96e14d6.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 15:37:38 +0200",
-        "excerpt": "In rialzo anche l'S 500 a +0,10%"
-      },
-      {
         "title": "Gli italiani fanno spazio in casa a ciò che amano",
         "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/stili-di-vita/2026/09/22/news/gli_italiani_fanno_spazio_in_casa_a_cio_che_amano-425600394/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Tue, 22 Sep 2026 15:31:49 +0200",
         "excerpt": "Secondo uno studio realizzato da YouGov per Ikea, il 55% degli italiani desidera una casa vissuta, informale e non perfettamente in ordine"
-      },
-      {
-        "title": "Enea presenta il suo modello, 950 brevetti e 9 società spinoff",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/enea-presenta-il-suo-modello-950-brevetti-e-9-societa-spinoff_aa3bdd61-f090-4938-989f-4f1488533d0c.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 15:31:37 +0200",
-        "excerpt": "Convegno alla Camera a Roma sul trasferimento di tecnologia"
       },
       {
         "title": "Asphaltica guarda al futuro della rete stradale",
@@ -190,13 +197,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 11:45:00 GMT",
         "excerpt": "La relazione Inail evidenzia come consuntivo dello scorso anno un aumento delle denunce di infortunio (+1,2%) e un record di 98mila denunce di malattie professionali, il livello più alto degli ultimi 26 anni. In diminuzi"
-      },
-      {
-        "title": "Cybersecurity, la difesa parte dalle persone",
-        "link": "https://www.repubblica.it/economia/dossier/sicurezza/2026/09/22/news/cybersecurity_la_difesa_parte_dalle_persone-425600214/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Tue, 22 Sep 2026 13:16:14 +0200",
-        "excerpt": "Veronika Vavrova (Abi): “L’intelligenza artificiale cambia gli equilibri tra strategie di attacco e sistemi di difesa”"
       },
       {
         "title": "Patuelli: deficit? Le banche hanno già dato. Salvini: surreale dipendere da zero virgola",
@@ -278,7 +278,7 @@
         "excerpt": "BRUXELLES – La Commissione europea e il governo filippino hanno annunciato nella notte di lunedì 21 settembre di avere trovato un accordo di principio su una futura intesa commerciale. L’annuncio..."
       },
       {
-        "title": "Intesa in Ue sulle sanzioni alla Russia, rinnovate per 3 anni. La Lettonia si astiene",
+        "title": "Intesa in Ue sulle sanzioni a Mosca, rinnovate per 3 anni. Salvati due oligarchi russi",
         "link": "https://www.ilsole24ore.com/art/ucraina-oggi-incontro-trump-zelensky-macron-sostenere-piu-kiev-AJuNVmKB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Tue, 22 Sep 2026 06:13:00 GMT",
@@ -401,6 +401,34 @@
     ],
     "mondo": [
       {
+        "title": "L'Avana, 'Cuba un Paese sovrano, da Trump solo calunnie'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/lavana-cuba-un-paese-sovrano-da-trump-solo-calunnie_83d52824-bd98-400a-a693-713d3deb2898.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 17:51:54 +0200",
+        "excerpt": "Ministro degli Esteri, 'non rappresentiamo una minaccia per nessuno, il blocco lo è'"
+      },
+      {
+        "title": "L'Avana, 'Cuba un Paese sovrano, da Trump solo calunnie'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/lavana-cuba-un-paese-sovrano-da-trump-solo-calunnie_5829f927-0b86-455a-83a1-07f540f9dc42.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 17:51:51 +0200",
+        "excerpt": "Ministro degli Esteri, 'non rappresentiamo una minaccia per nessuno, il blocco lo è'"
+      },
+      {
+        "title": "Trump firma l'accordo di sicurezza con la Groelandia e la Danimarca",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-firma-laccordo-di-sicurezza-con-la-groelandia-e-la-danimarca_cb9e8d56-3177-459b-ba6a-cc650ae780c1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 17:48:29 +0200",
+        "excerpt": "A margine dell'Assemblea Onu"
+      },
+      {
+        "title": "Trump firma l'accordo di sicurezza con la Groelandia e la Danimarca",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/trump-firma-laccordo-di-sicurezza-con-la-groelandia-e-la-danimarca_e3c3b2c5-4ec8-42e4-8967-d5025fc2d19c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 17:48:29 +0200",
+        "excerpt": "A margine dell'Assemblea Onu"
+      },
+      {
         "title": "Brasile, il petrolio alla foce del Rio delle Amazzoni 'il migliore che abbiamo'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/brasile-il-petrolio-alla-foce-del-rio-delle-amazzoni-il-migliore-che_1126aea6-8627-4a7e-8c35-78ed70e0afdc.html",
         "source": "ANSA Mondo",
@@ -423,38 +451,10 @@
       },
       {
         "title": "Trump, invierò subito massiccia presenza militare in Groenlandia, costruiremo 2 basi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-inviero-subito-massiccia-presenza-militare-in-groenlandia-costruiremo-2-basi_26b53f59-eaba-4ad3-b3a1-20c05da87826.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 17:16:16 +0200",
-        "excerpt": "Gli Stati Uniti 'cominceranno a sviluppare una significativa presenza militare'"
-      },
-      {
-        "title": "Trump, invierò subito massiccia presenza militare in Groenlandia, costruiremo 2 basi",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/trump-inviero-subito-massiccia-presenza-militare-in-groenlandia-costruiremo-2-basi_dc414f70-561c-4ea3-91a8-c2f299595446.html",
         "source": "ANSA Mondo",
         "pubDate": "Tue, 22 Sep 2026 17:16:13 +0200",
         "excerpt": "Gli Stati Uniti 'cominceranno a sviluppare una significativa presenza militare'"
-      },
-      {
-        "title": "Trump, 'Cuba è fallita, cadrà'. E la delegazione de L'Avana lascia l'aula dell'Onu",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/trump-cuba-e-fallita-cadra.-e-la-delegazione-de-lavana-lascia-laula-dellonu_a8843fd6-6fb6-48a0-b825-c184dede4f80.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 17:05:06 +0200",
-        "excerpt": "Le parole del presidente Usa durante il suo intervento all'Assemblea generale"
-      },
-      {
-        "title": "Wsj, 'Trump ha valutato di allontanare tutta la stampa dalla Casa Bianca'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/wsj-trump-ha-valutato-di-allontanare-tutta-la-stampa-dalla-casa-bianca_1a99d14f-39d0-4205-8808-ea7cf4d5b0dc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 16:50:38 +0200",
-        "excerpt": "'L'ha riproposto anche nell'ultimo mese, sconsigliato da alcuni funzionari'"
-      },
-      {
-        "title": "Trump, 'sono convinto che l'Iran farà l'accordo dopo le midterm'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/trump-sono-convinto-che-liran-fara-laccordo-dopo-le-midterm_2a962c1b-3636-4041-ba47-dcd0f500ba94.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 16:49:12 +0200",
-        "excerpt": "Parole del presidente Usa all'Assemblea generale dell'Onu"
       },
       {
         "title": "Oil dips below $100 as Iran reportedly offers to reopen Hormuz amid diplomacy push",
@@ -575,8 +575,22 @@
       "title": "Trump all'Onu. 'L'America è tornata, più forte che mai. L'Iran farà l'accordo dopo le midterm'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/trump-allonu.-lamerica-e-tornata-piu-forte-che-mai.-liran-fara_8c73f7d9-8eb5-469c-8ae2-261fda345fc6.html",
       "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 17:26:33 +0200",
+      "pubDate": "Tue, 22 Sep 2026 17:37:07 +0200",
       "excerpt": "'Il messaggio a Putin? Mettere fine alla guerra'. Guterres evoca 'lo spettro della pulizia etnica' in Cisgiordania"
+    },
+    {
+      "title": "Sangiuliano sui social con foto di donna velata a Porta Nolana: “Pericolo islamizzazione”. Polemica",
+      "link": "https://napoli.repubblica.it/cronaca/2026/09/22/news/sangiuliano_sui_social_con_foto_di_donna_velata_a_porta_nolana_pericolo_islamizzazione_polemica-425600615/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 15:20:39 +0000",
+      "excerpt": "L’ex ministro pubblica l’immagine di una donna con il velo integrale a Napoli e parla di “minaccia all’identità nazionale”. Il post arriva mentre il governo discute nuove norme su burqa e niqab a scuola"
+    },
+    {
+      "title": "Senatrici in minigonna a palazzo Madama per protestare contro le parole di Tajani e Vannacci",
+      "link": "https://www.repubblica.it/politica/2026/09/22/news/senatrici_minigonna_protesta_contro_tajani_vannacci-425600570/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 15:02:21 +0000",
+      "excerpt": "A organizzare il “sit-in” al Senato è stata Raffaella Paita di Italia viva"
     },
     {
       "title": "Deficit 2025 al 3,1%, resta la procedura di infrazione. Salvini: 'Serve un maxi scostamento in manovra'",
@@ -593,6 +607,13 @@
       "excerpt": "Gli attori tornano insieme dopo True detective con Brothers, su Apple TV dal 23 settembre"
     },
     {
+      "title": "“Solo una sbornia”, i medici non riconobbero ictus e la paziente è paralizzata: “Ora paghino danni”",
+      "link": "https://bari.repubblica.it/cronaca/2026/09/22/news/solo_una_sbornia_i_medici_non_riconobbero_ictus_e_la_paziente_e_paralizzata_ora_paghino_danni-425600503/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 14:33:53 +0000",
+      "excerpt": "Il Policlinico di Bari ha liquidato oltre un milione a Patrizia Minerva e ora vuole rivalersi su quattro specialisti di Neurologia: sarà una consulenza medico-legale a stabilirlo. Lo ha deciso la Corte dei Conti"
+    },
+    {
       "title": "L'estate è al capolinea, arriva l'equinozio d'autunno",
       "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/22/lestate-e-al-capolinea-arriva-lequinozio-dautunno_fe42717b-f661-4bf1-bdd1-30f5ebb0682b.html",
       "source": "ANSA",
@@ -600,11 +621,18 @@
       "excerpt": "L'appuntamento astronomico alle ore 2:05 del 23 settembre"
     },
     {
-      "title": "Il social X mostrerà i post che i governi vogliono censurare",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/09/22/il-social-x-mostrera-i-post-che-i-governi-vogliono-censurare_81805fa7-3fa5-4e54-a418-c128ee0ba7aa.html",
+      "title": "Il ransomware minaccia cyber con il maggiore impatto in Ue",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/09/22/enisa-ransomware-minaccia-cyber-con-il-maggiore-impatto-a-breve-termine-in-ue_01f72e48-b7b4-429b-96b3-2d090bf8cc2b.html",
       "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 15:14:36 +0200",
-      "excerpt": "Più trasparenza per evitare lo 'shadowbanning', la restrizione dei contenuti senza motivo"
+      "pubDate": "Tue, 22 Sep 2026 15:51:03 +0200",
+      "excerpt": "Report Enisa, 'il 57% degli incidenti motivato da ragioni ideologiche'"
+    },
+    {
+      "title": "Caso Cospito, i giudici: “Delmastro sapeva che le informazioni erano segrete”",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/22/news/caso_cospito_delmastro_motivazioni_appello_informazioni_segrete_finalita_politica-425600340/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 12:53:39 +0000",
+      "excerpt": "Le motivazioni della Corte d’Appello di Roma che ha confermato la condanna a otto mesi per rivelazione di segreto d’ufficio. Secondo i giudici l’ex sottosegretario riferì a Giovanni Donzelli informazioni riservate ricevu"
     },
     {
       "title": "Assemblea generale Onu, il messaggio di Trump a Putin: “Metta fine alla guerra”",
@@ -628,13 +656,6 @@
       "excerpt": "Reuters on line: 'Oleodotto chiuso dal 13 settembre per rischio attacchi'"
     },
     {
-      "title": "Bimba cinese di sei anni stabilisce due record mondiali al Cubo di Rubik in tre giorni",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/bimba-cinese-di-sei-anni-stabilisce-due-record-mondiali-al-cubo-di-rubik_99f04bc7-826c-44a9-ac44-feb6c344879e.html",
-      "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 13:12:22 +0200",
-      "excerpt": "Primato femminile per Lian Yunzhi nella media sul 3x3"
-    },
-    {
       "title": "Giampaolo Galli: “Ora una manovra molto stretta se il governo vuole uscire dai sorvegliati Ue”",
       "link": "https://www.repubblica.it/economia/2026/09/22/news/giampaolo_galli_deficit_manovra_molto_stretta-425600130/",
       "source": "Repubblica",
@@ -649,32 +670,11 @@
       "excerpt": "Appena 18 anni, atleta di origini rumene e savonese di adozione, ha vinto il concorso di bellezza negli stessi giorni in cui si discute di tetti agli stranieri nelle classi"
     },
     {
-      "title": "Sondaggi politici: frenano Lega e Avs, bene M5S",
-      "link": "https://www.repubblica.it/politica/2026/09/22/news/sondaggi_politici_fdi_m5s_pd_lega_avs_fi_vannacci-425600053/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 10:06:03 +0000",
-      "excerpt": "La rilevazione settimanale di Swg per il Tg La7. FdI resta primo partito guadagnando lo 0,1% rispetto a sette giorni fa"
-    },
-    {
-      "title": "Me contro Te, patrimonio da 29 milioni e utili a 1,8 milioni malgrado il calo dei ricavi",
-      "link": "https://www.repubblica.it/economia/2026/09/22/news/me_contro_te_bilancio_2025_utili_immobili_investimenti_ricavi_lui_sofi-425600031/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 09:55:24 +0000",
-      "excerpt": "La coppia famosa per gli spettacoli per bambini, appena finita nel mirino di Consumerismo, possiede immobili per 19 milioni. E nel 2025 si è lanciata nella finanza, investendo 10,6 milioni tra fondi e titoli (presso Medi"
-    },
-    {
-      "title": "Stop al sito dei Me contro Te: è in manutenzione. La settimana scorsa il ricorso in tribunale",
-      "link": "https://palermo.repubblica.it/cronaca/2026/09/22/news/me_contro_te_sito_web_sospeso_youtuber_notizie-425599974/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 09:37:52 +0000",
-      "excerpt": "La settimana scorsa l’esposto di Consumerismo no profit per “pratiche commerciali scorrette” rivolte soprattutto ai minori"
-    },
-    {
-      "title": "Un tetto agli studenti stranieri e burqa vietato in classe: domande e risposte sul decreto scuola",
-      "link": "https://www.repubblica.it/scuola/2026/09/22/news/alunni_stranieri_tetto_burqa_domande_risposte-425599934/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 09:21:37 +0000",
-      "excerpt": "Ecco come funzionerà il dl del ministro Valditara che arriverà giovedì in Cdm"
+      "title": "Tumori, curare un figlio lontano da casa costa fino a 35mila euro",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/21/tumori-curare-un-figlio-lontano-da-casa-costa-fino-a-35mila-euro_e5f73627-ae0f-45a5-87fc-27bc5e3caf20.html",
+      "source": "ANSA",
+      "pubDate": "Tue, 22 Sep 2026 10:11:41 +0200",
+      "excerpt": "Peter Pan Odv: \"Almeno uno dei genitori deve abbandonare o ridurre il proprio lavoro\""
     },
     {
       "title": "Col Programma giovani, donne e lavoro si investe nelle competenze",
@@ -742,6 +742,27 @@
   ],
   "sport": [
     {
+      "title": "Azzurri: maxi convocazione ed esordienti, Mancini riparte alla Bernardini",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/22/azzurri-maxi-convocazione-ed-esordienti-mancini-riparte-alla-bernardini_2fd93940-85ca-422b-9927-b9729200e10a.html",
+      "source": "ANSA Sport",
+      "pubDate": "Tue, 22 Sep 2026 17:47:53 +0200",
+      "excerpt": "52 anni fa 'Fuffo' pose le basi per rifondare l'Italia campione del mondo '82 con Bearzot"
+    },
+    {
+      "title": "Azzurri: Sebastiano e Pio fratelli d'Italia: 'Un sogno la nazionale insieme'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/sebastiano-e-pio-fratelli-ditalia-un-sogno-la-nazionale-insieme_86ae69d0-54c1-48d5-8f9b-da43ef4e40cf.html",
+      "source": "ANSA Sport",
+      "pubDate": "Tue, 22 Sep 2026 17:47:19 +0200",
+      "excerpt": "Gli Esposito in azzurro: 'C'è grande entusiasmo per ripartire al meglio'"
+    },
+    {
+      "title": "Eurovolley: c'è la Finlandia, l'Italia va a caccia della semifinale",
+      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/22/eurovolley-ce-la-finlandia-litalia-va-a-caccia-della-semifinale_56fc2c38-1bc4-4055-8b93-6b4dfbe11df3.html",
+      "source": "ANSA Sport",
+      "pubDate": "Tue, 22 Sep 2026 17:45:57 +0200",
+      "excerpt": "Domani a Torino azzurri in campo, chi vince trova la Francia"
+    },
+    {
       "title": "Mondiali ciclismo: Italia d'oro nel Team Relay a Montreal",
       "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/22/mondiali-ciclismo-italia-doro-nel-team-relay-a-montreal_cbd1b793-793c-4aca-bbfa-71ec918cb9f4.html",
       "source": "ANSA Sport",
@@ -770,32 +791,11 @@
       "excerpt": "\"Alvini è una storia bellissima, dagli amatori alla serie A, un percorso importante\""
     },
     {
-      "title": "Sebastiano e Pio fratelli d'Italia 'un sogno la nazionale insieme'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/sebastiano-e-pio-fratelli-ditalia-un-sogno-la-nazionale-insieme_86ae69d0-54c1-48d5-8f9b-da43ef4e40cf.html",
-      "source": "ANSA Sport",
-      "pubDate": "Tue, 22 Sep 2026 16:34:35 +0200",
-      "excerpt": "Gli Esposito in azzurro: 'C'è grande entusiasmo per ripartire al meglio'"
-    },
-    {
-      "title": "Azzurri, Kayode: 'Giocare in Serie D mi ha dato forza, i giovani dovrebbero farlo'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/azzurri-kayode-giocare-in-serie-d-mi-ha-dato-forza-i-giovani-dovrebbero-farlo_36745e17-0e73-430d-9cc8-e6397e55029a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Tue, 22 Sep 2026 16:12:00 +0200",
-      "excerpt": "'Guai disperarsi se si scende di categoria, quell'esperienza mi ha portato a questi livelli'"
-    },
-    {
       "title": "Daniele Masala è il nuovo presidente del Pentathlon Moderno ASD Lazio",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/22/daniele-masala-e-il-nuovo-presidente-del-pentathlon-moderno-asd-lazio_20e04162-d560-488f-b88f-a36623bab35f.html",
       "source": "ANSA Sport",
       "pubDate": "Tue, 22 Sep 2026 16:10:33 +0200",
       "excerpt": "Votato all'unanimità ha un mandato fino alla scadenza di questo quadriennio olimpico"
-    },
-    {
-      "title": "F1, Vasseur: 'Baku imprevedibile, può riservare molte variabili'",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/22/f1-vasseur-baku-imprevedibile-puo-riservare-molte-variabili_d48e6a54-3347-417f-b968-27feee43e22a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Tue, 22 Sep 2026 16:06:18 +0200",
-      "excerpt": "Team principal Ferrari: 'La nostra vettura ha dimostrato un buon livello di competitività'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
