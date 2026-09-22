@@ -1,13 +1,48 @@
 {
-  "lastUpdated": "2026-09-22T05:38:26.102Z",
+  "lastUpdated": "2026-09-22T06:10:18.336Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Prezzo dell'oro in calo, Spot quotato 4.323,58 dollari l'oncia",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/prezzo-delloro-in-calo-spot-quotato-4.32358-dollari-loncia_ef320c16-f75c-4c2a-806b-0454749786ed.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 08:05:45 +0200",
+        "excerpt": "In perdita dello 0,46%"
+      },
+      {
+        "title": "Petrolio in lieve rialzo, il Wti avanza dell'1,40% a 97,12 dollari al barile",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/petrolio-in-lieve-rialzo-il-wti-avanza-dell140-a-9712-dollari-al-barile_7850e091-4b28-41b3-9ce3-27c5516b023e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 08:05:15 +0200",
+        "excerpt": "Il Brent sale dell'1,50% a 101,85 dollari"
+      },
+      {
+        "title": "Euro stabile, scambiato a 1,1473 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/euro-stabile-scambiato-a-11473-dollari_920b4ee2-8ac7-4751-b295-c3eae5275e8c.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 08:04:27 +0200",
+        "excerpt": "Moneta unica in lieve rialzo sullo yen a 180,68"
+      },
+      {
+        "title": "Bonus colonnine al via: dai requisiti ai costi, ecco come fare domanda",
+        "link": "https://www.ilsole24ore.com/art/bonus-colonnine-via-requisiti-costi-ecco-come-fare-domanda-AJjeAEIB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Tue, 22 Sep 2026 05:38:16 GMT",
+        "excerpt": "Tra le altre misure il noleggio sociale Aci per i redditi bassi"
+      },
       {
         "title": "Le auto elettriche sono il 12,6%: ripresa nel 2025 ma il mercato è policy driven",
         "link": "https://www.ilsole24ore.com/art/le-auto-elettriche-sono-126percento-ripresa-2025-ma-mercato-e-policy-driven-AJfZssEB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 05:36:34 GMT",
         "excerpt": "Nel 2025 193mila immatricolazioni e più flotte green, ma la quota resta sotto la media europea. Crescono colonnine e offerta di veicoli (+49%)"
+      },
+      {
+        "title": "La BCE avverte: inflazione più alta e persistente con la seconda ondata energetica",
+        "link": "https://it.investing.com/news/stock-market-news/la-bce-avverte-inflazione-piu-alta-e-persistente-con-la-seconda-ondata-energetica-93CH-3557038",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 05:35:08",
+        "excerpt": ""
       },
       {
         "title": "Deficit, oggi il verdetto Istat: a rischio il 3%. In bilico la spesa extra per energia e difesa",
@@ -63,13 +98,6 @@
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-samsung-electronics-e-in-rialzo-oggi-93CH-3557023",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-22 04:09:13",
-        "excerpt": ""
-      },
-      {
-        "title": "Le azioni Tencent balzano dopo il lancio del nuovo modello AI per immagini",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-tencent-balzano-dopo-il-lancio-del-nuovo-modello-ai-per-immagini-3557022",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 04:03:13",
         "excerpt": ""
       },
       {
@@ -171,13 +199,6 @@
         "excerpt": "Norma presentata dal ministro Pichetto per rifare normativa in materia"
       },
       {
-        "title": "Il gas prosegue in forte calo (-7,4%) sul mercato di Amsterdam",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/il-gas-prosegue-in-forte-calo-74-sul-mercato-di-amsterdam_cd608e08-bbab-48b9-93bb-f5bd95375184.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 19:21:36 +0200",
-        "excerpt": "I future Ttf scendono a 73,65 euro al megawattora"
-      },
-      {
         "title": "Glovo, per il gip non c’è obbligo di assunzione: «Decide il Tribunale del lavoro»",
         "link": "https://www.ilsole24ore.com/art/glovo-il-gip-non-c-e-obbligo-assunzione-decide-tribunale-lavoro-AJyt6GKB",
         "source": "Il Sole 24 Ore",
@@ -204,30 +225,16 @@
         "source": "ANSA Economia",
         "pubDate": "Mon, 21 Sep 2026 18:35:25 +0200",
         "excerpt": "Sarà erogato a ottobre. L'importo può essere convertito in parte in welfare"
-      },
-      {
-        "title": "Lo spread Btp-Bund scende a 88 punti, forte calo dei rendimenti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/lo-spread-btp-bund-scende-a-88-punti-forte-calo-dei-rendimenti_4e86f7a1-9024-4936-b597-42419220d3d7.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 18:07:34 +0200",
-        "excerpt": "Il decennale italiano cede quasi dieci punti base, al 4,33%"
-      },
-      {
-        "title": "Borsa: Milano svetta con Technoprobe, Banco Bpm e Unicredit",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/21/borsa-milano-svetta-con-technoprobe-banco-bpm-e-unicredit_501c4800-87bf-4716-9af5-737264d79e32.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 21 Sep 2026 18:07:11 +0200",
-        "excerpt": "Bene anche Stm e Prysmian, vendite su Eni e Poste. Scatto di Ariston e De Nora"
-      },
-      {
-        "title": "Da programma cult a fenomeno live:  La Zanzara festeggia 20 anni nei palazzetti d’Italia",
-        "link": "https://www.ilsole24ore.com/art/da-programma-cult-fenomeno-live-zanzara-festeggia-20-anni-palazzetti-d-italia-AJEVf9JB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Mon, 21 Sep 2026 15:42:52 GMT",
-        "excerpt": "Vent’anni dopo la prima puntata, La Zanzara è pronta a uscire ancora una volta dagli studi radiofonici per incontrare il suo pubblico e questa volta lo fa in grande: per..."
       }
     ],
     "europa": [
+      {
+        "title": "Assemblea Onu al via, Trump vede Macron e Zelensky. Giovedì visita di Stato di Xi",
+        "link": "https://www.ilsole24ore.com/art/assemblea-onu-via-trump-vede-macron-e-zelensky-giovedi-visita-stato-xi-AJN2HRKB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Tue, 22 Sep 2026 06:01:56 GMT",
+        "excerpt": "NEW YORK - L’81esima Assemblea generale dell’Onu apre il dibattito messa all’angolo dalla propria impotenza, al cospetto di guerre e crisi irrisolte – dall’Iran all’Ucraina e alla tragedia palestinese a..."
+      },
       {
         "title": "La Casa Bianca lancia la «Trump TV» per celebrare i successi dell’amministrazione",
         "link": "https://www.ilsole24ore.com/art/la-casa-bianca-lancia-trump-tv-celebrare-successi-dell-amministrazione-AJNNukKB",
@@ -239,7 +246,7 @@
         "title": "Guerra ultime notizie. Trump all’Onu, tour de force diplomatico con 11 leader mondiali: in agenda guerra Iran e Houti",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-trump-all-onu-tour-de-force-diplomatico-11-leader-mondiali-agenda-guerra-iran-e-houti-AJ9lUkKB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Tue, 22 Sep 2026 05:22:49 GMT",
+        "pubDate": "Tue, 22 Sep 2026 05:22:00 GMT",
         "excerpt": ""
       },
       {
@@ -247,7 +254,7 @@
         "link": "https://www.ilsole24ore.com/art/ft-69-miliardi-riciclati-mosca-attraverso-banche-globali-AJMC6jKB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Tue, 22 Sep 2026 04:54:14 GMT",
-        "excerpt": "Un sistema di falsificazione appoggiato dal Cremlino ha movimentato 6,9 miliardi di dollari attraverso banche globali. Lo scrive il Financial Times. Secondo il quotidiano economico, Standard Chartered, Citigroup..."
+        "excerpt": "Secondo il quotidiano economico, Standard Chartered, Citigroup e altre banche internazionali hanno gestito miliardi di dollari provenienti da una società fintech sostenuta dal Cremlino, che si è infiltrata nel sistema fi"
       },
       {
         "title": "Usa-Gb lanciano siluro da drone sottomarino, è la prima volta",
@@ -304,13 +311,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Mon, 21 Sep 2026 14:01:00 GMT",
         "excerpt": "Oggi i lavoratori del settore automobilistico hanno manifestato in tutta la Germania, esortando i vertici dei principali marchi – tra cui Volkswagen e Mercedes-Benz – a garantire i posti di..."
-      },
-      {
-        "title": "Ultima chiamata per votare sulle nuove banconote in euro: l’appello di Lagarde",
-        "link": "https://www.ilsole24ore.com/art/ultima-chiamata-votare-nuove-banconote-euro-l-appello-lagarde-AJpi20JB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Mon, 21 Sep 2026 13:18:00 GMT",
-        "excerpt": "Oggi lunedì 21 settembre 2026 si chiuderà il sondaggio organizzato dalla Banca centrale europea presso i cittadini per esprimere il loro parere sulla scemta della serie delle future banconote..."
       },
       {
         "title": "HWH International to change name to EnerSyn Global, ticker to ESYN on Nasdaq",
@@ -649,11 +649,11 @@
       "excerpt": "La presenza di questi giovani non fa che arricchire l’ambiente.A beneficiarne sono tutti"
     },
     {
-      "title": "Brussig: “Su alcuni temi l’Afd raccoglie le paure di tanti, a votarlo non sono solo i fascisti”",
-      "link": "https://www.repubblica.it/esteri/2026/09/22/news/brussig_scrittore_intervista_non_solo_fascisti_votano_afd_su_alcuni_temi_posizioni_ragionevoli-425598926/",
+      "title": "Quei venti di tempesta che agitano il tycoon in attesa delle elezioni",
+      "link": "https://www.repubblica.it/esteri/2026/09/22/news/quei_venti_di_tempesta_che_agitano_trump_attesa_elezioni-425599313/",
       "source": "Repubblica",
       "pubDate": "Mon, 21 Sep 2026 23:00:00 +0000",
-      "excerpt": "Lo scrittore: “In una democrazia si accetta che non tutti sono pro migranti, favorevoli all’invio di armi all’Ucraina e per la lotta ai cambiamenti climatici”"
+      "excerpt": "Prima i giudici hanno cominciato a dargli torto, ora le tv si coalizzano per protesta. La Costituzione Usa si prende la rivincita"
     },
     {
       "title": "Dalle ballerine ai diamanti, all'asta gli oggetti personali di Brigitte Bardot",
