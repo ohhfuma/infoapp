@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-22T02:08:19.593Z",
+  "lastUpdated": "2026-09-22T02:38:50.454Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Alibaba vende azioni ZTO per 500 milioni di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/alibaba-vende-azioni-zto-per-500-milioni-di-dollari-3556998",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 02:13:16",
+        "excerpt": ""
+      },
+      {
+        "title": "I titoli energetici asiatici scivolano con il petrolio in calo prolungato",
+        "link": "https://it.investing.com/news/stock-market-news/i-titoli-energetici-asiatici-scivolano-con-il-petrolio-in-calo-prolungato-3556996",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 02:07:41",
+        "excerpt": ""
+      },
       {
         "title": "Le azioni LG Electronics salgono del 5% dopo la qualifica Nvidia per l’unità di raffreddamento AI",
         "link": "https://it.investing.com/news/stock-market-news/le-azioni-lg-electronics-salgono-del-5-dopo-la-qualifica-nvidia-per-lunita-di-raffreddamento-ai-3556993",
@@ -59,13 +73,6 @@
         "excerpt": ""
       },
       {
-        "title": "Meta annuncia una partnership AI per lo shopping con Shopify",
-        "link": "https://it.investing.com/news/stock-market-news/meta-annuncia-una-partnership-ai-per-lo-shopping-con-shopify-3556949",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 23:42:17",
-        "excerpt": ""
-      },
-      {
         "title": "Stefano Buono: “Il Nasdaq ci darà nuovo slancio. Reattori Newcleo entro il 2032”",
         "link": "https://www.repubblica.it/economia/2026/09/21/news/intervista_stefano_buono_nucleare_quotazione_wall_street_nasdaq-425599386/?rss",
         "source": "Repubblica Economia",
@@ -92,13 +99,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
         "excerpt": "Il bonus gestito da Lollobrigida sarà erogato a novembre e aprile. Più di un miliardo alle famiglie e sconto del 15% nei supermarket"
-      },
-      {
-        "title": "Iambic Therapeutics presenta domanda di IPO per finanziare farmaci oncologici",
-        "link": "https://it.investing.com/news/stock-market-news/iambic-therapeutics-presenta-domanda-di-ipo-per-finanziare-farmaci-oncologici-93CH-3556929",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 22:00:36",
-        "excerpt": ""
       },
       {
         "title": "Aerei, mancano 510 mila barili al giorno. Ue: vertice d’urgenza. Ora si cerca carburante in Corea",
@@ -401,10 +401,17 @@
     ],
     "mondo": [
       {
+        "title": "How a Bangladeshi garment-maker is fighting the Middle East energy crunch ",
+        "link": "https://www.investing.com/news/commodities-news/how-a-bangladeshi-garmentmaker-is-fighting-the-middle-east-energy-crunch-4909827",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 02:24:29",
+        "excerpt": ""
+      },
+      {
         "title": "Nasce TrumpTv: “Vi raccontiamo la verità”. Rivolta negli Usa: “Donald ha un canale come tutti i dittatori”",
         "link": "https://www.repubblica.it/esteri/2026/09/22/news/trump_tv_youtube_annuncio_casa_bianca-425599465/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Tue, 22 Sep 2026 04:07:39 +0200",
+        "pubDate": "Tue, 22 Sep 2026 04:20:07 +0200",
         "excerpt": "La risposta dell’amministrazione repubblicana dopo le polemiche per la cacciata dalla Casa Bianca dei reporter di Cnn, MsNow e Politico. Un nuovo strumento di propaganda in vista delle temute elezioni di midterm"
       },
       {
@@ -555,13 +562,6 @@
         "excerpt": "In rialzo anche l'S 500 a +1,49%"
       },
       {
-        "title": "ICE canola futures climb on soybean support, weaker loonie",
-        "link": "https://www.investing.com/news/commodities-news/ice-canola-futures-climb-on-soybean-support-weaker-loonie-93CH-4909608",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-21 20:21:53",
-        "excerpt": ""
-      },
-      {
         "title": "Trump, 'Studio Ovale non sia profanato da pagliacci di serie B con fake news'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/21/trump-studio-ovale-non-sia-profanato-da-pagliacci-di-serie-b-con-fake_2b54e648-3fe0-404f-8294-3b8697a90ba4.html",
         "source": "ANSA Mondo",
@@ -572,18 +572,18 @@
   },
   "attualita": [
     {
+      "title": "Nasce TrumpTv: “Vi raccontiamo la verità”. Rivolta negli Usa: “Donald ha un canale come tutti i dittatori”",
+      "link": "https://www.repubblica.it/esteri/2026/09/22/news/trump_tv_youtube_annuncio_casa_bianca-425599465/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 02:04:10 +0000",
+      "excerpt": "La risposta dell’amministrazione repubblicana dopo le polemiche per la cacciata dalla Casa Bianca dei reporter di Cnn, MsNow e Politico. Un nuovo strumento di propaganda in vista delle temute elezioni di midterm"
+    },
+    {
       "title": "Bonus Colonnine, al via da oggi 22 settembre: quanto vale e come richiederlo",
       "link": "https://www.repubblica.it/economia/2026/09/22/news/bonus_colonnine_al_via_da_oggi_22_settembre_quanto_vale_e_come_richiederlo-425599238/",
       "source": "Repubblica",
       "pubDate": "Tue, 22 Sep 2026 00:45:00 +0000",
       "excerpt": "Le agevolazioni sono concesse nella forma del contributo in conto capitalepari all'80% delle spese ammissibili. Il limite è di 1.500 eurose è richiesto da una persona fisica e 8.000 euro se da un condominio"
-    },
-    {
-      "title": "Baldissero d’Alba, tredici spari al ladro in fuga. L’accusa: “Colpito alle spalle”",
-      "link": "https://torino.repubblica.it/cronaca/2026/09/22/news/ladro_colpito_spalle_baldissero_alba-425599439/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 00:40:18 +0000",
-      "excerpt": "Solo due proiettili rimasti in canna all’uomo che ha aperto il fuoco. Ora è indagato per omicidio volontario. La Russa: “Assurdo”"
     },
     {
       "title": "Scuola, pronto il decreto sul tetto di alunni stranieri. Ma riguarda 2000 classi",
