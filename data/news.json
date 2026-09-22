@@ -1,34 +1,118 @@
 {
-  "lastUpdated": "2026-09-22T07:39:00.316Z",
+  "lastUpdated": "2026-09-22T08:08:20.551Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Istat, nel 2025 rapporto deficit-Pil al 3,1%, invariato",
+        "link": "https://www.ilsole24ore.com/art/istat-2025-rapporto-deficit-pil-31percento-AJmVeqKB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Tue, 22 Sep 2026 08:06:38 GMT",
+        "excerpt": "Istat, nel 2025 rapporto deficit-Pil al 3,1%, invariato."
+      },
+      {
+        "title": "Ex Ilva, sciopero e presidio lavoratori Semat a Taranto",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/ex-ilva-sciopero-e-presidio-lavoratori-semat-a-taranto_0a362591-7002-4b53-a3fb-1fe1a11ac275.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:04:42 +0200",
+        "excerpt": "Protesta per mancata erogazione stipendi e cassa integrazione"
+      },
+      {
+        "title": "Newcleo debutta al Nasdaq, raccolti 247 milioni di dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/newcleo-debutta-al-nasdaq-raccolti-247-milioni-di-dollari_aa9cab78-1d39-458e-a346-c4686f782215.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 10:03:51 +0200",
+        "excerpt": "Valutazione pre-money di circa 2,4 miliardi di dollari"
+      },
+      {
+        "title": "Trump firmerà un accordo con Groenlandia e Danimarca sull’espansione militare USA",
+        "link": "https://it.investing.com/news/stock-market-news/trump-firmera-un-accordo-con-groenlandia-e-danimarca-sullespansione-militare-usa-93CH-3557202",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 07:56:46",
+        "excerpt": ""
+      },
+      {
+        "title": "Lo spread Btp-Bund a 89,3 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/lo-spread-btp-bund-a-893-punti_8b88cd1b-8c09-470c-8453-96fb6138c73f.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 09:56:28 +0200",
+        "excerpt": "Il rendimento italiano al 4,36% e quello tedesco al 3,47%"
+      },
+      {
+        "title": "Il prezzo del gas in rialzo a 74,86 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/il-prezzo-del-gas-in-rialzo-a-7486-euro-al-megawattora_ccb25630-2646-4324-a2a3-225ed91afc3b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 09:56:18 +0200",
+        "excerpt": "Il Ttf guadagna il 2,2%"
+      },
+      {
+        "title": "Luce e gas, crisi del Golfo costa alle famiglie 1,8 miliardi in sei mesi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/luce-e-gas-crisi-del-golfo-costa-alle-famiglie-18-miliardi-in-sei_fa6e2702-ad47-4203-a4c8-74d67ae4b9ec.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 09:56:08 +0200",
+        "excerpt": "Confartigianato, prezzi +11,4% da febbraio. Lombardia, Veneto e Lazio le più colpite"
+      },
+      {
+        "title": "Gme, in calo l'indice italiano del prezzo del gas",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/gme-in-calo-lindice-italiano-del-prezzo-del-gas_fe7f7ba5-a417-4815-babe-ccf0a34b9e4d.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 22 Sep 2026 09:55:53 +0200",
+        "excerpt": "Scende a 77,32 euro a Mwh"
+      },
+      {
+        "title": "Perché il titolo Vusiongroup è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-vusiongroup-e-in-forte-rialzo-oggi-93CH-3557200",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 07:54:25",
+        "excerpt": ""
+      },
+      {
+        "title": "Il Canada vicino all’accordo commerciale con Filippine e ASEAN",
+        "link": "https://it.investing.com/news/stock-market-news/il-canada-vicino-allaccordo-commerciale-con-filippine-e-asean-93CH-3557199",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 07:53:19",
+        "excerpt": ""
+      },
+      {
+        "title": "Peters avverte: errori di politica estera rischiano di danneggiare l’economia",
+        "link": "https://it.investing.com/news/stock-market-news/peters-avverte-errori-di-politica-estera-rischiano-di-danneggiare-leconomia-93CH-3557197",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 07:51:02",
+        "excerpt": ""
+      },
+      {
+        "title": "Intesa tra Usa e Italia sulle materie prime critiche: risorse pubbliche e private per blindare la filiera dell’AI  ",
+        "link": "https://www.ilsole24ore.com/art/intesa-usa-e-italia-materie-prime-critiche-risorse-pubbliche-e-private-blindare-filiera-dell-ai-AJmkQEKB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Tue, 22 Sep 2026 07:50:36 GMT",
+        "excerpt": "Sottoscritta a New York dal segretario di Stato degli Stati Uniti Marco Rubio e dal vicepremier e ministro degli Esteri Antonio Tajani, prevede la collaborazione con partner internazionali per sviluppare meccanismi di de"
+      },
+      {
+        "title": "PhonePe ottiene l’approvazione preliminare per le licenze di pagamento negli Emirati Arabi Uniti",
+        "link": "https://it.investing.com/news/stock-market-news/phonepe-ottiene-lapprovazione-preliminare-per-le-licenze-di-pagamento-negli-emirati-arabi-uniti-93CH-3557195",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 07:45:55",
+        "excerpt": ""
+      },
+      {
+        "title": "Citibank valuta un’espansione in Kyrgyzstan con possibile filiale",
+        "link": "https://it.investing.com/news/stock-market-news/citibank-valuta-unespansione-in-kyrgyzstan-con-possibile-filiale-93CH-3557193",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 07:39:03",
+        "excerpt": ""
+      },
+      {
+        "title": "Il titolo di Bureau Veritas sale dopo il rialzo del target di crescita dei ricavi",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-bureau-veritas-sale-dopo-il-rialzo-del-target-di-crescita-dei-ricavi-93CH-3557192",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 07:38:53",
+        "excerpt": ""
+      },
       {
         "title": "Rinvoq di AbbVie ottiene l’approvazione UE per l’artrite giovanile",
         "link": "https://it.investing.com/news/stock-market-news/rinvoq-di-abbvie-ottiene-lapprovazione-ue-per-lartrite-giovanile-93CH-3557189",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-22 07:37:10",
         "excerpt": ""
-      },
-      {
-        "title": "Petrolio di nuovo in crescita in attesa di un incontro tra USA e Iran",
-        "link": "https://it.investing.com/news/stock-market-news/petrolio-di-nuovo-in-crescita-in-attesa-di-un-incontro-tra-usa-e-iran-3557188",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:35:07",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Industrie De Nora crolla oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-industrie-de-nora-crolla-oggi-93CH-3557187",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:34:27",
-        "excerpt": ""
-      },
-      {
-        "title": "Luce e gas, crisi del Golfo costa alle famiglie 1,8 miliardi in sei mesi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/luce-e-gas-crisi-del-golfo-costa-alle-famiglie-18-miliardi-in-sei_fa6e2702-ad47-4203-a4c8-74d67ae4b9ec.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:31:15 +0200",
-        "excerpt": "Confartigianato, prezzi +11,4% da febbraio. Lombardia, Veneto e Lazio le più colpite"
       },
       {
         "title": "Borsa: Europa apre in rialzo, Parigi +0,26%",
@@ -38,74 +122,11 @@
         "excerpt": "Londra +0,2%, Francoforte +0,07%"
       },
       {
-        "title": "Il prezzo del gas in rialzo a 74,86 euro al megawattora",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/il-prezzo-del-gas-in-rialzo-a-7486-euro-al-megawattora_ccb25630-2646-4324-a2a3-225ed91afc3b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:24:06 +0200",
-        "excerpt": "Il Ttf guadagna il 2,2%"
-      },
-      {
-        "title": "Perché il titolo Smiths sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-smiths-sta-salendo-oggi-93CH-3557182",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:20:09",
-        "excerpt": ""
-      },
-      {
-        "title": "Le azioni di Industrie De Nora crollano dopo che Snam riduce la quota del 5%",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-industrie-de-nora-crollano-dopo-che-snam-riduce-la-quota-del-5-3557184",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:18:56",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo M&C Saatchi sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-mc-saatchi-sta-scendendo-oggi-93CH-3557181",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:18:05",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Kingfisher è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-kingfisher-e-in-forte-rialzo-oggi-93CH-3557180",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:16:54",
-        "excerpt": ""
-      },
-      {
-        "title": "Lo spread Btp-Bund a 89,3 punti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/lo-spread-btp-bund-a-893-punti_8b88cd1b-8c09-470c-8453-96fb6138c73f.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:16:15 +0200",
-        "excerpt": "Il rendimento italiano al 4,36% e quello tedesco al 3,47%"
-      },
-      {
         "title": "Borsa: Milano apre positiva (+0,1%) e poi scivola",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-milano-apre-positiva-01-e-poi-scivola_eb3bca5f-9d40-41b7-85cb-1400e059ec09.html",
         "source": "ANSA Economia",
         "pubDate": "Tue, 22 Sep 2026 09:15:53 +0200",
         "excerpt": "Maglia nera a Buzzi -2,77%. Sul listino pesa Generali -1,09%"
-      },
-      {
-        "title": "Mimit, gasolio self in rialzo a 2,340 euro su strada e 2,422 su autostrada",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/mimit-gasolio-self-in-rialzo-a-2340-euro-su-strada-e-2422-su-autostrada_e31a4cc9-3aee-4624-a343-d45de981b151.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:14:54 +0200",
-        "excerpt": "Benzina self sale a 2,156 euro su strada e 2,248 su autostrada"
-      },
-      {
-        "title": "Le azioni europee salgono mentre la diplomazia ONU spinge il petrolio al ribasso",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-europee-salgono-mentre-la-diplomazia-onu-spinge-il-petrolio-al-ribasso-3557172",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 07:11:59",
-        "excerpt": ""
-      },
-      {
-        "title": "Borsa: Asia in rialzo con IA ma il rimbalzo del petrolio fa da freno",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/borsa-asia-in-rialzo-con-ia-ma-il-rimbalzo-del-petrolio-fa-da-freno_48a1360d-8375-4a22-b710-8f6912c73a39.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 09:04:11 +0200",
-        "excerpt": "Tokyo chiusa per festività, Seul +0,15%, Hong Kong piatta"
       },
       {
         "title": "Protesi di ginocchio con l’AI a Villa Erbosa: la chirurgia “su misura”",
@@ -143,13 +164,6 @@
         "excerpt": "Perquisizioni e sequestri nei confronti di quattro giovanissimi che fabbricavano molotov. Il provvedimento, emesso dalla Procura di Pesaro, è stato eseguito dai Carabinieri del nucleo investigativo del Comando provincial"
       },
       {
-        "title": "Prezzo dell'oro in calo, Spot quotato 4.323,58 dollari l'oncia",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/prezzo-delloro-in-calo-spot-quotato-4.32358-dollari-loncia_ef320c16-f75c-4c2a-806b-0454749786ed.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 08:14:31 +0200",
-        "excerpt": "In perdita dello 0,46%"
-      },
-      {
         "title": "Italia, ultima chance per restare una potenza industriale",
         "link": "https://www.repubblica.it/economia/2026/09/22/news/italia_ultima_chance_per_restare_una_potenza_industriale-425591129/?rss",
         "source": "Repubblica Economia",
@@ -169,13 +183,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Tue, 22 Sep 2026 05:36:34 GMT",
         "excerpt": "Nel 2025 193mila immatricolazioni e più flotte green, ma la quota resta sotto la media europea. Crescono colonnine e offerta di veicoli (+49%)"
-      },
-      {
-        "title": "Deficit, oggi il dato Istat: a rischio il 3%. In bilico la spesa extra per energia e difesa",
-        "link": "https://www.ilsole24ore.com/art/deficit-oggi-verdetto-istat-rischio-3percento-bilico-spesa-extra-energia-e-difesa-AJvpvUKB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Tue, 22 Sep 2026 05:09:00 GMT",
-        "excerpt": "Solo l’uscita dalla procedura porta a escludere dai saldi il disavanzo aggiuntivo"
       },
       {
         "title": "Bonus Colonnine, al via da oggi 22 settembre: quanto vale e come richiederlo",
@@ -218,13 +225,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
         "excerpt": "Il bonus gestito da Lollobrigida sarà erogato a novembre e aprile. Più di un miliardo alle famiglie e sconto del 15% nei supermarket"
-      },
-      {
-        "title": "Salvini: congresso della Lega entro un mese, conto e mi aspetto che si candidi qualcun altro",
-        "link": "https://www.ilsole24ore.com/art/salvini-congresso-lega-entro-mese-conto-e-mi-aspetto-che-si-candidi-qualcun-altro-AJnbD0JB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Mon, 21 Sep 2026 19:05:00 GMT",
-        "excerpt": "«Il congresso straordinario della Lega si terrà entro un mese. Si potrà discutere di tutto, statuto, linea politica, alleanze. Il Consiglio federale mi ha ribadito all’unanimità dei presenti la fiducia..."
       }
     ],
     "europa": [
@@ -257,7 +257,7 @@
         "excerpt": "Si chiama ’Trump Tv: The Essentials Station’. A lanciarla è la Casa Bianca: sarà un canale video attivo h 24. “Benvenuti - è il messaggio con cui Kaelan Dorr, vice..."
       },
       {
-        "title": "Guerra ultime notizie. Trump all’Onu, tour de force diplomatico con 11 leader mondiali: in agenda guerra Iran e Houti",
+        "title": "Guerra ultime notizie. Ministri Esteri G7: «Teheran cessi di armare gli Houthi». Pechino: no sanzioni Usa contro compagnie aeree iraniane",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-trump-all-onu-tour-de-force-diplomatico-11-leader-mondiali-agenda-guerra-iran-e-houti-AJ9lUkKB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Tue, 22 Sep 2026 05:22:00 GMT",
@@ -401,6 +401,41 @@
     ],
     "mondo": [
       {
+        "title": "Ministri esteri G7, 'gli Houthi cessino immediatamente attacchi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/ministri-esteri-g7-gli-houthi-cessino-immediatamente-attacchi_01fe6163-72c9-42e3-9458-9f8afea4d5a0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 10:01:25 +0200",
+        "excerpt": "'Assoluta necessità di garantire sicurezza marittima permanente'"
+      },
+      {
+        "title": "Naza, perché Israele considera il documentario una minaccia alla sicurezza nazionale",
+        "link": "https://www.repubblica.it/esteri/2026/09/22/news/naza_perche_israele_considera_documentario_una_minaccia_alla_sicurezza_nazionale-425599745/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Tue, 22 Sep 2026 10:00:05 +0200",
+        "excerpt": "Il film di Yuval Abraham e Rachel Szor, che raccoglie le testimonianze anonime di 24 militari e membri dell’intelligence, racconta un sistema di selezione degli obiettivi a Gaza in cui l’uccisione di civili sarebbe stata"
+      },
+      {
+        "title": "Kiev, raid russo su azienda nel Dnepr, 4 morti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/kiev-raid-russo-su-azienda-nel-dnepr-4-morti_f801da25-6b74-4148-8d10-da413e6e72a6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 09:59:06 +0200",
+        "excerpt": "Attacchi continuano mentre Zelensky vedrà oggi Trump"
+      },
+      {
+        "title": "Sparatoria in una scuola in Turchia, 8 feriti. Arrestato il presunto autore",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/sparatoria-in-una-scuola-in-turchia-8-feriti.-arrestato-il-presunto-autore_8151e681-e885-44fc-a3e0-ff751823f274.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 09:40:19 +0200",
+        "excerpt": "Ignoto per ora il motivo del gesto"
+      },
+      {
+        "title": "Factbox-South Korea’s US investment package takes shape with Texas power plant, nuclear projects",
+        "link": "https://www.investing.com/news/commodities-news/factboxsouth-koreas-us-investment-package-takes-shape-with-texas-power-plant-nuclear-projects-4909997",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-22 07:36:31",
+        "excerpt": ""
+      },
+      {
         "title": "Lula per ora esclude il principio di reciprocità contro i dazi Usa",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/lula-per-ora-esclude-il-principio-di-reciprocita-contro-i-dazi-usa_4ac39759-4d5a-4b69-8ffe-eafea2560654.html",
         "source": "ANSA Mondo",
@@ -457,13 +492,6 @@
         "excerpt": ""
       },
       {
-        "title": "Gold pressured below 200-SMA with $4,320 support at risk: Live",
-        "link": "https://www.investing.com/news/commodities-news/gold-wedged-in-43004450-range-live-breakout-levels-93CH-4908346",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 07:11:19",
-        "excerpt": ""
-      },
-      {
         "title": "Design italiano, a Shanghai la quarta edizione di The Italian Lounge",
         "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/22/design-italiano-a-shanghai-la-quarta-edizione-di-the-italian-lounge_597fad06-2e10-4dfd-b4df-3cedb0186655.html",
         "source": "ANSA Mondo",
@@ -497,13 +525,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Tue, 22 Sep 2026 03:13:28 +0200",
         "excerpt": "Onde fino a quattro metri e rischio categoria 5, allarme frane"
-      },
-      {
-        "title": "Brasile, sondaggio Quaest/Globo Flávio Bolsonaro avanti su Lula al ballottaggio",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/brasile-sondaggio-quaestglobo-flavio-bolsonaro-avanti-su-lula-al-ballottaggio_67d03b9a-b287-471b-b3b2-686e4fbaee96.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 01:07:57 +0200",
-        "excerpt": "Il senatore al 42% e il presidente al 41%. Lula al primo turno è avanti di 4 punti"
       },
       {
         "title": "Quei venti di tempesta che agitano il tycoon in attesa delle elezioni",
@@ -546,37 +567,16 @@
         "source": "Repubblica Esteri",
         "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
         "excerpt": "Il presidente Usa non vuole farsi coinvolgere nel conflitto yemenita e ritira l’ordine di bombardare i ribelli, nonostante gli appelli di Mbs. Ieri nuovi scontri tra Riad e Sana’a mentre l’Onu lancia l’allarme: crescono "
-      },
-      {
-        "title": "Parte la “seconda stagione” dell’offensiva ucraina. Avanzata a sorpresa in Donbass",
-        "link": "https://www.repubblica.it/esteri/2026/09/22/news/parte_seconda_stagione_offensiva_ucraina_avanzata_a_sorpresa_in_donbass-425599024/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Tue, 22 Sep 2026 01:00:00 +0200",
-        "excerpt": "Oltre ai missili su Mosca lo slancio ucraino prende forza anche nell’est del Paese dove Kiev mette in difficoltà il nemico"
-      },
-      {
-        "title": "Sondaggio, i venezuelani bocciano l'incontro Trump-Rodríguez",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/sondaggio-i-venezuelani-bocciano-lincontro-trump-rodriguez_a34ad13d-a209-4c5e-907a-8fd4fe7b9464.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 00:06:54 +0200",
-        "excerpt": "Meganálisis, 91% contrario al vertice mentre l'80% non approva l'accordo sul petrolio"
-      },
-      {
-        "title": "Cuba, due anziani morti nel crollo di un'abitazione all'Avana",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/21/cuba-due-anziani-morti-nel-crollo-di-unabitazione-allavana_bfc3e89a-acaf-4a72-93a5-a95b901625d0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 21 Sep 2026 23:56:07 +0200",
-        "excerpt": "Le vittime erano sedute nel portico della casa, nel quartiere di Lawton"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Bonus colonnine, oggi il via alle domande. Ecco come fare per richiederlo",
-      "link": "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/22/bonus-colonnine-oggi-il-via-alle-domande.-ecco-come-fare-per_35f7e2d1-ea7d-48e0-98ea-d772eb6f1806.html",
+      "title": "++ Istat conferma, deficit 2025 al 3,1% del Pil ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/22/-istat-conferma-deficit-2025-al-31-del-pil-_2994267f-c1db-424b-93f3-8010297d1639.html",
       "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 09:17:10 +0200",
-      "excerpt": "Fino a 1.500 euro per ciascuna persona fisica, il limite sale a 8mila per i condomini"
+      "pubDate": "Tue, 22 Sep 2026 10:03:19 +0200",
+      "excerpt": "Era al 3,4% l'anno precedente"
     },
     {
       "title": "Quattro giovanissimi preparavano molotov, perquisizioni e sequestri",
