@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-09-22T22:07:03.634Z",
+  "lastUpdated": "2026-09-22T22:37:23.614Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Boeing si aggiudica un contratto da 33,4 milioni per l’avionica dell’Air Force",
+        "link": "https://it.investing.com/news/stock-market-news/boeing-si-aggiudica-un-contratto-da-334-milioni-per-lavionica-dellair-force-93CH-3558548",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 21:56:27",
+        "excerpt": ""
+      },
+      {
+        "title": "Booz Allen Hamilton vince contratto da $85 mln con l’Aeronautica",
+        "link": "https://it.investing.com/news/stock-market-news/booz-allen-hamilton-vince-contratto-da-85-mln-con-laeronautica-93CH-3558547",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 21:53:25",
+        "excerpt": ""
+      },
+      {
+        "title": "Raytheon vince un contratto da 105,6 milioni per parti di missili",
+        "link": "https://it.investing.com/news/stock-market-news/raytheon-vince-un-contratto-da-1056-milioni-per-parti-di-missili-93CH-3558546",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 21:52:15",
+        "excerpt": ""
+      },
+      {
+        "title": "General Dynamics si aggiudica una modifica contrattuale da $49,3 mln con l’Esercito",
+        "link": "https://it.investing.com/news/stock-market-news/general-dynamics-si-aggiudica-una-modifica-contrattuale-da-493-mln-con-lesercito-93CH-3558545",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 21:52:09",
+        "excerpt": ""
+      },
       {
         "title": "Apollo limita i rimborsi: richieste di uscita al 14,7%",
         "link": "https://it.investing.com/news/stock-market-news/apollo-limita-i-rimborsi-richieste-di-uscita-al-147-3558536",
@@ -28,34 +56,6 @@
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-voyager-technologies-scende-oggi-93CH-3558514",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-22 21:04:13",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Worthington Industries è salito di oltre il 15% oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-worthington-industries-e-salito-di-oltre-il-15-oggi-93CH-3558506",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 20:54:56",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Voyager Technologies scende con l’offerta di debito da 350 milioni",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-voyager-technologies-scende-con-lofferta-di-debito-da-350-milioni-93CH-3558504",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 20:53:38",
-        "excerpt": ""
-      },
-      {
-        "title": "Spire Global guadagna con contratto NOAA da 33,2 milioni di dollari",
-        "link": "https://it.investing.com/news/stock-market-news/spire-global-guadagna-con-contratto-noaa-da-332-milioni-di-dollari-93CH-3558499",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 20:50:59",
-        "excerpt": ""
-      },
-      {
-        "title": "Biomea Fusion crolla in borsa dopo l’annuncio di un’offerta pubblica",
-        "link": "https://it.investing.com/news/stock-market-news/biomea-fusion-crolla-in-borsa-dopo-lannuncio-di-unofferta-pubblica-93CH-3558497",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 20:48:42",
         "excerpt": ""
       },
       {
@@ -572,18 +572,18 @@
   },
   "attualita": [
     {
-      "title": "Di Battista in video a DiMartedì su La7: “Ogni giorno mi sento meglio”",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/di-battista-in-video-a-dimartedi-su-la7-ogni-giorno-mi-sento-meglio_5fb2287d-a847-4ef7-a7cc-190e8f4eb060.html",
-      "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 23:02:21 +0200",
-      "excerpt": "\"Mi sarebbe piaciuto essere lì già da questa sera, ma forse è un po' presto\""
-    },
-    {
       "title": "Meloni difende il tetto agli stranieri in classe e tira in ballo Mattarella",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-difende-il-tetto-agli-stranieri-in-classe-e-tira-in-ballo-mattarella_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
       "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 21:55:44 +0200",
+      "pubDate": "Wed, 23 Sep 2026 00:30:39 +0200",
       "excerpt": "La premier: 'Da ministro redigeva circolari' sul tema. Dal Colle nessun commento, faro sulle misure allo studio"
+    },
+    {
+      "title": "Di Battista in video a DiMartedì su La7: “Ogni giorno mi sento meglio”",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/di-battista-in-video-a-dimartedi-su-la7-ogni-giorno-mi-sento-meglio_5fb2287d-a847-4ef7-a7cc-190e8f4eb060.html",
+      "source": "ANSA",
+      "pubDate": "Tue, 22 Sep 2026 23:27:05 +0200",
+      "excerpt": "\"Mi sarebbe piaciuto essere lì già da questa sera, ma forse è un po' presto\""
     },
     {
       "title": "Trump all'Onu: 'Putin fermi la guerra'. E lancia l'ultimatum all'Iran",
