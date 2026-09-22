@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Tesla sotto resistenza $381-384: aggiornato ogni ora",
+        "link": "https://it.investing.com/news/stock-market-news/tesla-stretta-tra-sma200-e-supporti-livelli-in-tempo-reale-93CH-3556621",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 19:11:44",
+        "excerpt": ""
+      },
+      {
+        "title": "Microsoft in consolidamento tra $487 e $508: livelli in tempo reale",
+        "link": "https://it.investing.com/news/stock-market-news/microsoft-consolida-tra-487-e-507-livelli-in-tempo-reale-93CH-3556620",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 19:11:15",
+        "excerpt": ""
+      },
+      {
+        "title": "Inail: morti sul lavoro in lieve calo, e più malattie professionali",
+        "link": "https://www.repubblica.it/economia/2026/09/22/news/inail_morti_sul_lavoro_in_lieve_calo_e_piu_malattie_professionali-425601126/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Tue, 22 Sep 2026 21:08:03 +0200",
+        "excerpt": "Aumentano le denunce di infortuni, che nel 2025 passano dalle quasi 594 mila del 2024 a 600 mila"
+      },
+      {
         "title": "Ferrovie, l’ad Strisciuglio: “Per Fs piano da 100 miliardi e biglietti bloccati”",
         "link": "https://www.repubblica.it/economia/2026/09/22/news/ferrovie_strisciuglio_piano_100_miliardi_prezzo_biglietti-425601115/?rss",
         "source": "Repubblica Economia",
@@ -16,6 +37,13 @@
         "source": "ANSA Economia",
         "pubDate": "Tue, 22 Sep 2026 21:01:40 +0200",
         "excerpt": "FdI critica l'Istat. Giorgetti: 'Potremo uscire dalla procedura di infrazione nel 2027'"
+      },
+      {
+        "title": "Perché il titolo Twilio è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-twilio-e-in-forte-rialzo-oggi-93CH-3558361",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-22 18:50:09",
+        "excerpt": ""
       },
       {
         "title": "Perché il titolo LPL Financial sta scendendo oggi?",
@@ -394,34 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-22 15:00:12",
         "excerpt": ""
-      },
-      {
-        "title": "Caccia F-16 statunitense si schianta in Germania occidentale",
-        "link": "https://it.investing.com/news/stock-market-news/caccia-f16-statunitense-si-schianta-in-germania-occidentale-93CH-3558226",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 14:57:55",
-        "excerpt": ""
-      },
-      {
-        "title": "Mef, emessi 8 miliardi di euro del nuovo Btp green",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/mef-emessi-8-miliardi-di-euro-del-nuovo-btp-green_cc73f15e-1cc9-498c-a573-e3fa41f365f9.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 16:57:36 +0200",
-        "excerpt": "Il titolo scade il 30 ottobre 2038"
-      },
-      {
-        "title": "Rgs: 'Nel 2029 in pensione di vecchiaia a 67 anni e sei mesi'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/rgs-nel-2029-in-pensione-di-vecchiaia-a-67-anni-e-sei-mesi_a00aa2ac-0840-47e0-b22d-a3958d409822.html",
-        "source": "ANSA Economia",
-        "pubDate": "Tue, 22 Sep 2026 16:54:25 +0200",
-        "excerpt": "Nel 2031 a 67 anni e 8 mesi. La spesa pensionistica sale fino al 2041, picco al 17,1% del Pil. Il ritiro dei baby boom solo parzialmente compensato dall'innalzamento dei requisiti minimi"
-      },
-      {
-        "title": "Istat, il deficit resta al 3,1%. Sfuma l’uscita anticipata dalla procedura Ue. Cosa succede ora",
-        "link": "https://www.repubblica.it/economia/2026/09/22/news/istat_deficit_invariato_cosa_succede_ora-425599772/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Tue, 22 Sep 2026 16:47:33 +0200",
-        "excerpt": "La revisione al rialzo del Pil non basta: il disavanzo peggiora di 355 milioni. Il rientro slitta al 2027, resta il nodo della clausola energia-difesa"
       }
     ],
     "europa": [
@@ -730,6 +730,48 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Trump, 'Witkoff e Kushner hanno incontrato i mediatori iraniani'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/trump-witkoff-e-kushner-hanno-incontrato-i-mediatori-iraniani_9a212a0a-98ec-497c-acf9-6895c939109b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 21:30:51 +0200",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump, 'Witkoff e Kushner hanno incontrato i mediatori iraniani'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/trump-witkoff-e-kushner-hanno-incontrato-i-mediatori-iraniani_77992ed2-53a3-4949-b0fc-30050d50e7a8.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 21:30:51 +0200",
+        "excerpt": ""
+      },
+      {
+        "title": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_6e04f783-07d4-40f2-a48a-173fa9837679.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 21:13:06 +0200",
+        "excerpt": "Niente credibilità se restiamo inattivi. Serve la soluzione a due Stati"
+      },
+      {
+        "title": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_2e6b126e-daa4-4a1b-a106-21271b6df344.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 21:13:06 +0200",
+        "excerpt": "Niente credibilità se restiamo inattivi. Serve la soluzione a due Stati"
+      },
+      {
+        "title": "Macron, 'a Gaza uno spettacolo che ci fa vergognare tutti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/macron-a-gaza-uno-spettacolo-che-ci-fa-vergognare-tutti_ff34936a-f781-4762-b2e7-a5bbf35ee630.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 21:13:04 +0200",
+        "excerpt": "Niente credibilità se restiamo inattivi. Serve la soluzione a due Stati"
+      },
+      {
+        "title": "Sfila tra polemiche l'ultimo testimone al processo Maradona, si va verso la sentenza",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/sfila-tra-polemiche-lultimo-testimone-al-processo-maradona-si-va-verso-la-sentenza_3f3e1160-971f-4cd6-bd27-9c4f8a357603.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 22 Sep 2026 21:08:26 +0200",
+        "excerpt": "Sul banco un perito della difesa ribatte la tesi dell'accusa, \"è morto all'improvviso\""
+      },
       {
         "title": "Trump says he backs the idea of a ban on diesel exports",
         "link": "https://www.investing.com/news/commodities-news/trump-says-he-backs-the-idea-of-a-ban-on-diesel-exports-4911466",
@@ -1107,52 +1149,24 @@
         "source": "ANSA Mondo",
         "pubDate": "Tue, 22 Sep 2026 12:39:32 +0200",
         "excerpt": "Portavoce: 'Anche gli sfollati interni potrebbero aumentare da 130 mila a oltre 230 mila'"
-      },
-      {
-        "title": "Media, 'Xi chiederà a Trump stop ad armi Usa a Taiwan in cambio di pressing su Iran'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/22/media-xi-chiedera-a-trump-stop-ad-armi-usa-a-taiwan-in-cambio-di-pressing-su-iran_bd0624db-b4e0-49c4-a292-576f030cf2e8.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 12:37:24 +0200",
-        "excerpt": "E alle consegne di armamenti già ordinati da Taipei. In base all'intesa del 1982"
-      },
-      {
-        "title": "Media, 'Xi chiederà a Trump stop ad armi Usa a Taiwan in cambio di pressing su Iran'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/22/media-xi-chiedera-a-trump-stop-ad-armi-usa-a-taiwan-in-cambio-di-pressing-su-iran_8d1fd89d-2930-4ee7-8dcf-6ec5a6fef3ed.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 12:37:12 +0200",
-        "excerpt": "E alle consegne di armamenti già ordinati da Taipei. In base all'intesa del 1982"
-      },
-      {
-        "title": "Riga, 'sulle sanzioni vogliamo soluzioni ma pressione su Mosca non può diminuire'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/riga-sulle-sanzioni-vogliamo-soluzioni-ma-pressione-su-mosca-non-puo-diminuire_c7c6048e-32dd-4a04-98b6-db9e02e66f50.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 12:36:22 +0200",
-        "excerpt": "La Lettonia conferma che ieri ha messo il veto sull'intesa per rinnovo"
-      },
-      {
-        "title": "Madrid, 'Ue riconosca catalano, basco e galiziano, nessun motivo per il rinvio'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/madrid-ue-riconosca-catalano-basco-e-galiziano-nessun-motivo-per-il-rinvio_2c819cd4-01a0-47e0-bf5d-0453c4718afa.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 12:31:50 +0200",
-        "excerpt": "'Bisogna finirla con questa discriminazione'"
-      },
-      {
-        "title": "Cremlino, 'crescente popolarità Afd mostra auspicio migliori relazioni con Mosca'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/cremlino-crescente-popolarita-afd-mostra-auspicio-migliori-relazioni-con-mosca_6a95c3d4-e5dc-4449-aada-d39041fd446c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 12:29:42 +0200",
-        "excerpt": "'La posizione di Afd nei nostri confronti non può che essere apprezzata'"
-      },
-      {
-        "title": "Ong, 'si intensificano le aggressioni israeliane nel sud-ovest della Siria'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/ong-si-intensificano-le-aggressioni-israeliane-nel-sud-ovest-della-siria_b67b2b3c-90a3-442e-a067-cf2bd4f58049.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 12:28:34 +0200",
-        "excerpt": "Lorze di occupazione hanno colpito quartieri residenziali"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Meloni: 'Mattarella da ministro redigeva circolari sul tetto agli stranieri in classe'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-mattarella-da-ministro-redigeva-circolari-sul-tetto-agli-stranieri-in-classe_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
+      "source": "ANSA",
+      "pubDate": "Tue, 22 Sep 2026 21:33:09 +0200",
+      "excerpt": "'E' una misura di buonsenso, giusto portarla avanti', ha detto la premier"
+    },
+    {
+      "title": "Missili e aiuti per l'inverno, il pressing di Zelensky al Palazzo di Vetro",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/missili-e-aiuti-per-linverno-il-pressing-di-zelensky-al-palazzo-di-vetro_efdfe43c-c6ac-437b-98d6-495475b8c4c2.html",
+      "source": "ANSA",
+      "pubDate": "Tue, 22 Sep 2026 21:27:28 +0200",
+      "excerpt": "Il leader ucraino incontra Trump e Macron. Il tycoon: 'Troveremo una soluzione'"
+    },
     {
       "title": "Deficit resta al 3,1%, Salvini chiede lo scostamento, FI frena",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/22/deficit-resta-al-31-salvini-chiede-lo-scostamento-fi-frena_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
@@ -1173,6 +1187,13 @@
       "source": "ANSA",
       "pubDate": "Tue, 22 Sep 2026 20:02:44 +0200",
       "excerpt": "'E' una misura di buonsenso, giusto portarla avanti', ha detto la premier ospite di Cinque minuti"
+    },
+    {
+      "title": "Avrebbe dovuto ottenere la cittadinanza, ma il sindaco interrompe la cerimonia: “Non sa l’italiano”",
+      "link": "https://www.repubblica.it/cronaca/2026/09/22/news/marocchina_cittadinanza_negata_sindaco_conoscenza_italiano-425600911/",
+      "source": "Repubblica",
+      "pubDate": "Tue, 22 Sep 2026 17:39:02 +0000",
+      "excerpt": "È successo a Cadoneghe, in provincia di Padova. La procedura è stata congelata in attesa di verifiche, ma non è chiaro chi le debba fare. Sui social è polemica"
     },
     {
       "title": "Scuola, Meloni attacca Mattarella: “Da ministro redigeva circolari sul tetto a stranieri in classe”",
@@ -1551,27 +1572,6 @@
       "source": "ANSA",
       "pubDate": "Tue, 22 Sep 2026 09:17:10 +0200",
       "excerpt": "Fino a 1.500 euro per ciascuna persona fisica, il limite sale a 8mila per i condomini"
-    },
-    {
-      "title": "Sarah Rizea, chi è la Miss Italia 2026: dalla Nazionale di nuoto artistico alla corona",
-      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/09/22/news/sarah_rizea_chi_e_la_miss_italia_2026_dalla_nazionale_di_nuoto_artistico_alla_corona-425599619/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 07:13:32 +0000",
-      "excerpt": "La 18enne savonese, atleta delle Fiamme Oro e della Nazionale italiana di nuoto artistico, ha conquistato il titolo al Castello di Santa Severa dopo aver rappresentato la Liguria"
-    },
-    {
-      "title": "Neto subito e Palmisani per il futuro, il piano della Juve per sistemare la porta",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/22/news/calciomercato_juventus_neto_palmisani-425599598/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 07:06:36 +0000",
-      "excerpt": "Il brasiliano, che ha già vestito il bianconero tra il 2015 e il 2017, è l’opzione migliore tra gli svincolati. Per l’estate l’idea è anticipare tutti per iI numero 1 del Frosinone"
-    },
-    {
-      "title": "Sparatoria in una scuola superiore in Turchia, feriti 4 studenti",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/sparatoria-in-una-scuola-superiore-in-turchia-feriti-4-studenti_2a78ced9-3d3c-46b7-a1fc-e27e785df1a4.html",
-      "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 08:32:08 +0200",
-      "excerpt": "In provincia di Manisa. Caccia al responsabile"
     }
   ],
   "sport": [
