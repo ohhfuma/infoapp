@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-21T23:37:36.198Z",
+  "lastUpdated": "2026-09-22T00:10:44.152Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Meta annuncia una partnership AI per lo shopping con Shopify",
+        "link": "https://it.investing.com/news/stock-market-news/meta-annuncia-una-partnership-ai-per-lo-shopping-con-shopify-3556949",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-21 23:42:17",
+        "excerpt": ""
+      },
       {
         "title": "Stefano Buono: “Il Nasdaq ci darà nuovo slancio. Reattori Newcleo entro il 2032”",
         "link": "https://www.repubblica.it/economia/2026/09/21/news/intervista_stefano_buono_nucleare_quotazione_wall_street_nasdaq-425599386/?rss",
@@ -77,13 +84,6 @@
         "link": "https://it.investing.com/news/stock-market-news/gm-defense-si-aggiudica-una-modifica-contrattuale-da-6977-milioni-per-lesercito-usa-93CH-3556903",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-21 21:22:26",
-        "excerpt": ""
-      },
-      {
-        "title": "Le azioni GameStop salgono dopo che il CEO Cohen acquista $26,4M in titoli",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-gamestop-salgono-dopo-che-il-ceo-cohen-acquista-264m-in-titoli-93CH-3556902",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-21 21:21:34",
         "excerpt": ""
       },
       {
@@ -229,6 +229,20 @@
     ],
     "europa": [
       {
+        "title": "BancFirst declares quarterly dividend and trust preferred interest payment",
+        "link": "https://www.investing.com/news/sec-filings/bancfirst-declares-quarterly-dividend-and-trust-preferred-interest-payment-93CH-4909757",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-21 23:46:07",
+        "excerpt": ""
+      },
+      {
+        "title": "TriplePoint Private Venture Credit announces leadership changes and board reduction",
+        "link": "https://www.investing.com/news/sec-filings/triplepoint-private-venture-credit-announces-leadership-changes-and-board-reduction-93CH-4909756",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-21 23:42:34",
+        "excerpt": ""
+      },
+      {
         "title": "Stati Uniti, più di 25 mila migranti deportati verso Paesi terzi",
         "link": "https://www.ilsole24ore.com/art/stati-uniti-piu-25-mila-migranti-deportati-paesi-terzi-AJEREGKB",
         "source": "Il Sole 24 Ore Mondo",
@@ -324,20 +338,6 @@
         "link": "https://www.investing.com/news/sec-filings/moleculin-biotech-receives-nasdaq-delisting-notice-after-minimum-bid-price-violation-93CH-4907937",
         "source": "Investing.com Eurozona",
         "pubDate": "2026-09-18 21:31:59",
-        "excerpt": ""
-      },
-      {
-        "title": "Paradium.AI enters ten-year platform agreement with RTB Digital and minority stake sale is planned",
-        "link": "https://www.investing.com/news/sec-filings/paradiumai-enters-tenyear-platform-agreement-with-rtb-digital-and-minority-stake-sale-is-planned-93CH-4907929",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-18 21:27:25",
-        "excerpt": ""
-      },
-      {
-        "title": "Fusemachines receives Nasdaq notice for minimum bid price non-compliance",
-        "link": "https://www.investing.com/news/sec-filings/fusemachines-receives-nasdaq-notice-for-minimum-bid-price-noncompliance-93CH-4907923",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-18 21:23:04",
         "excerpt": ""
       }
     ],
@@ -607,18 +607,25 @@
       "excerpt": "Lo scrittore: “In una democrazia si accetta che non tutti sono pro migranti, favorevoli all’invio di armi all’Ucraina e per la lotta ai cambiamenti climatici”"
     },
     {
-      "title": "La vera sfida per le democrazie",
-      "link": "https://www.repubblica.it/commenti/2026/09/22/news/germania_la_vera_sfida_per_le_democrazie-425599290/",
+      "title": "Quei venti di tempesta che agitano il tycoon in attesa delle elezioni",
+      "link": "https://www.repubblica.it/esteri/2026/09/22/news/quei_venti_di_tempesta_che_agitano_trump_attesa_elezioni-425599313/",
       "source": "Repubblica",
-      "pubDate": "Mon, 21 Sep 2026 22:01:00 +0000",
-      "excerpt": "Non si può chiedere a cittadini spaventati di avere fiducia nel sistema, se il sistema non li vede. È questo che ci insegna il voto tedesco"
+      "pubDate": "Mon, 21 Sep 2026 23:00:00 +0000",
+      "excerpt": "Prima i giudici hanno cominciato a dargli torto, ora le tv si coalizzano per protesta. La Costituzione Usa si prende la rivincita"
     },
     {
-      "title": "La scuola di Meloni nella vignetta di Ellekappa",
-      "link": "https://www.repubblica.it/politica/2026/09/22/news/scuola_di_meloni_integrazione_con_vannacci_vignetta_ellekappa-425599254/",
+      "title": "Campo largo, Avs invoca un federatore senza primarie: “Serve un terzo nome”",
+      "link": "https://www.repubblica.it/politica/2026/09/22/news/campo_largo_avs_federatore_senza_primarie_schlein_conte-425599325/",
       "source": "Repubblica",
-      "pubDate": "Mon, 21 Sep 2026 22:01:00 +0000",
-      "excerpt": ""
+      "pubDate": "Mon, 21 Sep 2026 23:00:00 +0000",
+      "excerpt": "Boccia: “Discussione aperta”. Magi avverte: “Se sul conflitto prevale la posizione del Movimento noi non ci stiamo”"
+    },
+    {
+      "title": "Guerini: “Per sostenere Kiev essenziali anche le armi. Niente veti per l’alleanza”",
+      "link": "https://www.repubblica.it/politica/2026/09/22/news/guerini_sostegno_ucraina_essenziali_armi_alleanza_veti_m5s_intervista-425599336/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 21 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il presidente del Copasir ed esponente del Pd: “La coalizione si costruisce nella condivisione di un progetto per il Paese”"
     },
     {
       "title": "Mattarella: 'La scuola è aperta a tutti. E' integrazione, aiuti a non creare ghetti'",
@@ -654,13 +661,6 @@
       "source": "ANSA",
       "pubDate": "Mon, 21 Sep 2026 20:17:25 +0200",
       "excerpt": "Viste nei topi, aiutano a diagnosticare malattie legate all'età"
-    },
-    {
-      "title": "Morte di Denise Cosco, verifiche su eventuali contatti con il padre",
-      "link": "https://www.repubblica.it/cronaca/2026/09/21/news/morte_denise_cosco_verifiche_contatti_padre-425598916/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 21 Sep 2026 17:59:33 +0000",
-      "excerpt": "Pm attendono risposte dall'analisi del cellulare della ragazza. L'uomo è detenuto"
     },
     {
       "title": "De Martino, a Sanremo sì a voto online e giuria straniera, no all'IA",
