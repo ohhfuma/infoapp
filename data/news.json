@@ -1,13 +1,118 @@
 {
-  "lastUpdated": "2026-09-23T13:39:35.838Z",
+  "lastUpdated": "2026-09-23T14:08:46.165Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Frecciarossa da Napoli a Berlino entro il 2028. E arriva una flotta di 74 treni intelligenti",
+        "link": "https://www.repubblica.it/economia/2026/09/23/news/frecciarossa_da_napoli_a_berlino_entro_il_2028_e_arriva_una_flotta_di_74_treni_intelligenti-425602610/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 23 Sep 2026 16:07:10 +0200",
+        "excerpt": "Ecco il piano di Trenitalia. Nei vagoni ci saranno poltrone più larghe"
+      },
+      {
+        "title": "Perché il titolo Palantir Technologies sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-palantir-technologies-sta-salendo-oggi-93CH-3559853",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 13:53:50",
+        "excerpt": ""
+      },
+      {
+        "title": "Open Fiber, posati 2mila km di nuovi cavi in fibra per potenziare rete",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/open-fiber-posati-2mila-km-di-nuovi-cavi-in-fibra-per-potenziare-rete_dcfba70f-bce4-4414-b449-40c84611f7f8.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 15:51:08 +0200",
+        "excerpt": "Operative direttrici tra Milano, Genova, Bologna, Padova e Roma. Oltre 3.200 km entro 2027"
+      },
+      {
+        "title": "Giorgetti: «Priorità al taglio delle tasse. Rafforziamo le rilevazioni Istat»",
+        "link": "https://www.ilsole24ore.com/art/giorgetti-priorita-taglio-tasse-sintesi-manovra-breve-AJTV8RMB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 23 Sep 2026 13:50:00 GMT",
+        "excerpt": "«Più volte il governo ha ribadito le priorità per quanto riguarda la prosecuzione del percorso di riduzione delle imposte sul reddito per il ceto medio». Lo ha sottolineato il ministro..."
+      },
+      {
+        "title": "Wall Street apre contrastata, Dj a -0,34% e Nasdaq a +0,45%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/wall-street-apre-contrastata-dj-a-034-e-nasdaq-a-045_01cd70fe-2746-4fef-ae38-2415fc2b45f3.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 15:49:49 +0200",
+        "excerpt": "In leggero calo l'S 500 a -0,10%"
+      },
+      {
+        "title": "Borse oggi | FTSE MIB | Pirelli vola con Tronchetti, Ocse alza il PIL italiano",
+        "link": "https://it.investing.com/news/stock-market-news/borse-oggi--ftse-mib--pirelli-vola-con-tronchetti-ocse-alza-il-pil-italiano-3559838",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 13:46:42",
+        "excerpt": ""
+      },
+      {
+        "title": "Fisco, entro il 30 settembre seconda rata della rottamazione quinquies. Online il calendario con le scadenze",
+        "link": "https://www.ilsole24ore.com/art/fisco-entro-30-settembre-seconda-rata-rottamazione-quinquies-online-calendario-le-scadenze-AJBaAPMB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 23 Sep 2026 13:40:23 GMT",
+        "excerpt": "Scadenza vicina per la seconda rata della rottamazione quinquies. Il termine di pagamento è fissato per mercoledì 30 settembre e riguarda i contribuenti che hanno aderito alla definizione agevolata delle..."
+      },
+      {
+        "title": "L’ex presidente del Chelsea, con l’aiuto di Trump, pronto a trattare sulle attività estere di Lukoil",
+        "link": "https://www.repubblica.it/economia/2026/09/23/news/boehly_ex_presidente_chelsea_offerta_lukoil_trump-425602560/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 23 Sep 2026 15:38:37 +0200",
+        "excerpt": "Secondo il Financial Times il miliardario Todd Boehly, in un consorzio con il governo Usa e investitori internazionali, presenterà un’offerta per il ramo internazionale della compagnia petrolifera russa oggetto di sanzio"
+      },
+      {
+        "title": "Bce, quasi 10 milioni di persone hanno votato il design delle nuove banconote",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/bce-quasi-10-milioni-di-persone-hanno-votato-il-design-delle-nuove-banconote_5b923180-25a5-47ed-beea-0e7be23ba492.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 15:37:18 +0200",
+        "excerpt": "Lagarde, 'risultato straordinario'. Entro il 2026 la decisione"
+      },
+      {
+        "title": "IonQ rivoluziona il quantum computing: correzione errori in tempo reale su una CPU standard",
+        "link": "https://it.investing.com/news/stock-market-news/ionq-rivoluziona-il-quantum-computing-correzione-errori-in-tempo-reale-su-una-cpu-standard-3559789",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 13:35:07",
+        "excerpt": ""
+      },
+      {
+        "title": "Ultraviolette nomina il CEO di Intel come consulente e raccoglie 85 milioni di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/ultraviolette-nomina-il-ceo-di-intel-come-consulente-e-raccoglie-85-milioni-di-dollari-93CH-3559771",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 13:32:02",
+        "excerpt": ""
+      },
       {
         "title": "Regole europee, indipendenza e 1800 lavoratori: come nascono i “numeri” dell’Istat",
         "link": "https://www.repubblica.it/economia/2026/09/23/news/istat_come_funziona_ricercatori_conti_pubblici-425602390/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Wed, 23 Sep 2026 15:31:54 +0200",
         "excerpt": "Ieri il nuovo attacco del governo. Ma l’istituto di statistica si muove all’interno di una cornice di norme condivise e sotto la supervisione di Eurostat"
+      },
+      {
+        "title": "Perché il titolo Graphic Packaging è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-graphic-packaging-e-in-rialzo-oggi-93CH-3559769",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 13:30:35",
+        "excerpt": ""
+      },
+      {
+        "title": "Il rendimento decennale del Canada sale mentre riprendono le vendite di bond",
+        "link": "https://it.investing.com/news/stock-market-news/il-rendimento-decennale-del-canada-sale-mentre-riprendono-le-vendite-di-bond-3559773",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 13:30:12",
+        "excerpt": ""
+      },
+      {
+        "title": "La domanda di Aritzia resta solida nonostante i timori sui tassi",
+        "link": "https://it.investing.com/news/stock-market-news/la-domanda-di-aritzia-resta-solida-nonostante-i-timori-sui-tassi-3559772",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 13:30:11",
+        "excerpt": ""
+      },
+      {
+        "title": "PJT Partners assume un banchiere di Goldman Sachs per l’ufficio di Londra",
+        "link": "https://it.investing.com/news/stock-market-news/pjt-partners-assume-un-banchiere-di-goldman-sachs-per-lufficio-di-londra-93CH-3559758",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 13:29:07",
+        "excerpt": ""
       },
       {
         "title": "Masi, '10 anni di Canevel, business raddoppiato, 40 Paesi e 40% di quota export'",
@@ -17,20 +122,6 @@
         "excerpt": "Girotto: 'radici a Valdobbiadene e sguardo verso il mondo'"
       },
       {
-        "title": "Il titolo di Supermicro sale con le spedizioni dei rack Nvidia Vera Rubin",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-supermicro-sale-con-le-spedizioni-dei-rack-nvidia-vera-rubin-93CH-3559723",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 13:17:03",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo Biomea Fusion sale dopo la cancellazione dell’offerta pubblica",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-biomea-fusion-sale-dopo-la-cancellazione-dellofferta-pubblica-93CH-3559722",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 13:16:57",
-        "excerpt": ""
-      },
-      {
         "title": "Pausa pranzo sempre più cara, in 25 anni aumenti del 300%",
         "link": "https://www.ilsole24ore.com/art/pausa-pranzo-sempre-piu-cara-25-anni-aumenti-300percento-AJJvmEMB",
         "source": "Il Sole 24 Ore",
@@ -38,53 +129,11 @@
         "excerpt": "La pausa pranzo diventa sempre più cara. E i rincari si fanno sentire dato che, rispetto allo scorso anno si può pagare un 8% in più. Il paragone con 25..."
       },
       {
-        "title": "Perché il titolo di Alkami Technology crolla oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-alkami-technology-crolla-oggi-93CH-3559717",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 13:15:10",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Instacart è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-instacart-e-in-rialzo-oggi-93CH-3559709",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 13:12:30",
-        "excerpt": ""
-      },
-      {
         "title": "Ai, perché bisogna imparare logica e creatività, non algoritmi",
         "link": "https://www.ilsole24ore.com/art/ai-perche-bisogna-imparare-logica-e-creativita-non-algoritmi-AJZyzLMB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 23 Sep 2026 13:11:05 GMT",
         "excerpt": "Negli ultimi tre anni ho sentito molto spesso commenti sul rapporto tra uomo e macchina, sui pericoli dell’IA, sulla necessità di controllare i ‘ragionamenti’ algoritmici, sulla inevitabilità che questo rapporto..."
-      },
-      {
-        "title": "Il titolo di Alkami Tecnologia crolla dopo la fine della revisione strategica",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-alkami-tecnologia-crolla-dopo-la-fine-della-revisione-strategica-93CH-3559696",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 13:05:43",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Beneficient vola del 275% con il piano per eliminare 130 milioni di debiti",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-beneficient-vola-del-275-con-il-piano-per-eliminare-130-milioni-di-debiti-93CH-3559676",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 13:01:59",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di IM Cannabis crolla del 18,6% dopo un’offerta da 1,31 milioni di dollari",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-im-cannabis-crolla-del-186-dopo-unofferta-da-131-milioni-di-dollari-93CH-3559665",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 12:56:42",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Immunovant sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-immunovant-sta-scendendo-oggi-93CH-3559664",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 12:55:56",
-        "excerpt": ""
       },
       {
         "title": "Inps, in arrivo 1.177.597 carte Dedicata a te, accredito da ottobre",
@@ -136,27 +185,6 @@
         "excerpt": "Un bonifico non autorizzato da 5mila euro è partito dal vostro conto bancario. Ad informarvi è un operatore di Poste Italiane. Fate attenzione, però: è molto probabile che quest’ultimo, in..."
       },
       {
-        "title": "Parlamento svizzero vota aumento requisiti capitale per Ubs",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/parlamento-svizzero-vota-aumento-requisiti-capitale-per-ubs_d8296fb3-4e87-4408-bd76-3050aee3ff16.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 13:37:59 +0200",
-        "excerpt": "Passa proposta vicina a quella del governo, respinta mediazione gradita alla banca"
-      },
-      {
-        "title": "All'Arsenale di Venezia torna il Salone dell'Alto artigianato italiano",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/allarsenale-di-venezia-torna-il-salone-dellalto-artigianato-italiano_4e727b8c-ea16-4bef-ab61-2ccfb5968653.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 13:36:57 +0200",
-        "excerpt": "Attesi 163 espositori da tutta Italia dall'1 al 4 ottobre"
-      },
-      {
-        "title": "Nasce il Marchio bio italiano, più valore alle filiere e al Made in Italy",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/nasce-il-marchio-bio-italiano-piu-valore-alle-filiere-e-al-made-in-italy_e040287a-87a4-4c12-bd30-33ac1629cea9.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 13:10:30 +0200",
-        "excerpt": "Affiancherà il logo di produzione bio dell'Unione europea"
-      },
-      {
         "title": "Mobilità elettrica, l'Italia riparte ma il target 2030 si allontana",
         "link": "https://www.repubblica.it/economia/rapporti/energitalia/mobilita/2026/09/23/news/mobilita_elettrica_l_italia_riparte_ma_il_target_2030_si_allontana-425602281/?rss",
         "source": "Repubblica Economia",
@@ -197,37 +225,23 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 23 Sep 2026 08:26:54 GMT",
         "excerpt": "Cimmino, vicepresidente Confindustria: la sfida è mettere le Pmi familiari nelle condizioni di crescere e affrontare mercati complessi"
-      },
-      {
-        "title": "Operaio 22enne muore al Colosseo. «Fune non agganciata». Chiuso il sito",
-        "link": "https://www.ilsole24ore.com/art/precipita-lavori-colosseo-muore-operaio-AJSXFzLB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 23 Sep 2026 06:38:00 GMT",
-        "excerpt": "Tragedia sul lavoro nella notte al Colosseo. Intorno alla mezzanotte un operaio rocciatore di 22 anni, Andrea Moretti, addetto ai lavori di installazione in quota di..."
-      },
-      {
-        "title": "Eolico offshore: Mase taglia i fondi, ne fanno le spese i porti di Taranto ed Augusta",
-        "link": "https://www.ilsole24ore.com/art/eolico-offshore-mase-taglia-fondi-ne-fanno-spese-porti-taranto-ed-augusta-AJ7DnwLB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 23 Sep 2026 06:09:00 GMT",
-        "excerpt": "Da 78 milioni a poco più di 38. Il ministero dell’Ambiente riduce i fondi destinati agli investimenti nell’eolico offshore per i porti e della riduzione ne fanno le spese i..."
-      },
-      {
-        "title": "Fisco, l’Agenzia delle Entrate allunga gli orari: assistenza anche al pomeriggio",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/23/news/agenzia_delle_entrate_cambia_orari_assistenza_pomeriggio_uffici-425601053/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 23 Sep 2026 03:00:00 +0200",
-        "excerpt": "Coinvolte 160 strutture a livello nazionale: un pomeriggio per gli appuntamenti di persona e uno per l’assistenza da remoto"
-      },
-      {
-        "title": "Legge 104, attenzione a domande e permessi: nuovi chiarimenti, cosa si rischia e cosa cambierà",
-        "link": "https://www.repubblica.it/economia/2026/09/23/news/legge_104_domande_permessi_cosa_cambia_inps-425601007/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 23 Sep 2026 03:00:00 +0200",
-        "excerpt": "Tre ordinanze della Cassazione ribadiscono che 104 e accompagnamento sono prestazioni diverse e che i benefici vanno richiesti in modo esplicito. L’Inps chiarisce come dividere i giorni di permesso tra più familiari e ch"
       }
     ],
     "europa": [
+      {
+        "title": "Pilgrim’s Pride completes €500 million senior notes offering for acquisition funding",
+        "link": "https://www.investing.com/news/sec-filings/pilgrims-pride-completes-500-million-senior-notes-offering-for-acquisition-funding-93CH-4913343",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-23 13:56:51",
+        "excerpt": ""
+      },
+      {
+        "title": "Patriot National Bancorp issues $10 million in subordinated notes due 2036",
+        "link": "https://www.investing.com/news/sec-filings/patriot-national-bancorp-issues-10-million-in-subordinated-notes-due-2036-93CH-4913328",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-23 13:52:47",
+        "excerpt": ""
+      },
       {
         "title": "Edgewell Personal Care names LaTanya Langley chief administrative and legal officer",
         "link": "https://www.investing.com/news/sec-filings/edgewell-personal-care-names-latanya-langley-chief-administrative-and-legal-officer-93CH-4913092",
@@ -278,20 +292,6 @@
         "excerpt": ""
       },
       {
-        "title": "Ocugen stockholders approve adjournment of special meeting for share increase vote",
-        "link": "https://www.investing.com/news/sec-filings/ocugen-stockholders-approve-adjournment-of-special-meeting-for-share-increase-vote-93CH-4912456",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-23 10:06:03",
-        "excerpt": ""
-      },
-      {
-        "title": "Terra Innovatum Global announces board changes and new director appointments",
-        "link": "https://www.investing.com/news/sec-filings/terra-innovatum-global-announces-board-changes-and-new-director-appointments-93CH-4912444",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-23 10:02:31",
-        "excerpt": ""
-      },
-      {
         "title": "Morti da fentanyl: da Hayden Panettiere a Prince, la lunga scia di vittime Vip e la minaccia in Europa",
         "link": "https://www.ilsole24ore.com/art/da-prince-hayden-panettiere-lunga-scia-vip-caduti-il-fentanyl-AJFai5LB",
         "source": "Il Sole 24 Ore Mondo",
@@ -313,7 +313,7 @@
         "excerpt": ""
       },
       {
-        "title": "Cremlino: Zelensky può venire a Mosca. Varsavia, elicottero russo viola  spazio aereo",
+        "title": "Polonia, elicottero russo viola spazio aereo. Caccia in volo. Cremlino: Zelensky può venire a Mosca",
         "link": "https://www.ilsole24ore.com/art/zelensky-pronti-cessate-fuoco-reciproco-russia-energia-chiesti-usa-patriot-e-tecnologie-AJVrVuLB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 23 Sep 2026 05:20:00 GMT",
@@ -401,11 +401,60 @@
     ],
     "mondo": [
       {
+        "title": "Nizza, modella di 25 anni uccisa dall’ex compagno: il corpo sfregiato trovato nel bagagliaio dell’auto",
+        "link": "https://www.repubblica.it/esteri/2026/09/23/news/nizza_modella_di_25_anni_uccisa_dall_ex_compagno_il_corpo_sfregiato_trovato_nel_bagagliaio_dell_auto-425602600/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 23 Sep 2026 16:02:52 +0200",
+        "excerpt": "La vittima si chiamava Larissa Brito ed era originaria di San Paolo"
+      },
+      {
+        "title": "Melania Trump suona la campana di apertura a Wall Street e lancia Imperia",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/23/melania-trump-suona-la-campana-di-apertura-a-wall-street-e-lancia-imperia_91005747-4428-4fd3-9cad-753e56e42702.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 15:47:21 +0200",
+        "excerpt": "Iniziativa per promuovere leadership, influenza e potere economico delle donne"
+      },
+      {
+        "title": "US Energy Secretary Wright says diesel export ban would not work",
+        "link": "https://www.investing.com/news/commodities-news/us-energy-secretary-wright-says-diesel-export-ban-would-not-work-4913282",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-23 13:43:37",
+        "excerpt": ""
+      },
+      {
+        "title": "Oim, 5.077 ritorni volontari dalla Tunisia da inizio anno",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/23/oim-5.077-ritorni-volontari-dalla-tunisia-da-inizio-anno_fc17dede-884d-46c4-93a4-c06c1dfb6381.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 15:39:38 +0200",
+        "excerpt": "Ministro Nafti incontra Amy Pope a New York, 25.351 beneficiari del programma"
+      },
+      {
+        "title": "First US-Iran talks in months raise hopes for progress despite no concessions",
+        "link": "https://www.investing.com/news/commodities-news/hope-for-progress-after-us-iran-hold-first-shuttle-talks-in-months-4912555",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-23 13:36:32",
+        "excerpt": ""
+      },
+      {
+        "title": "Putin, 'alta partecipazione al voto dimostra che il popolo ci sostiene'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/putin-alta-partecipazione-al-voto-dimostra-che-il-popolo-ci-sostiene_252ec8a7-9a62-4e0e-85d7-0345af51d5d7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 15:35:25 +0200",
+        "excerpt": "Presidente ai soldati, 'questo voto è per voi, la gente crede nella nostra vittoria'"
+      },
+      {
         "title": "Etiopia, i ribelli del Tigré prendono il controllo dell’aeroporto di Macallé e di altri due scali. Cancellati i voli",
         "link": "https://www.repubblica.it/esteri/2026/09/23/news/etiopia_ribelli_tigre_prendono_aeroporto_macalle_e_altri_due_scali_cancellati_voli-425602501/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Wed, 23 Sep 2026 15:14:17 +0200",
         "excerpt": "Ethiopian Airlines ha annunciato la decisione per il timore di un’escalation nei combattimenti tra le forze federali di Addis Abeba e i gruppi di opposizione che, solo tre giorni fa, hanno formato un’alleanza per destitu"
+      },
+      {
+        "title": "Oil holds near two-week lows while diesel cracks hit record",
+        "link": "https://www.investing.com/news/commodities-news/oil-falls-on-increased-gulf-supply-and-hopes-for-usiran-talks-4912001",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-23 13:13:00",
+        "excerpt": ""
       },
       {
         "title": "Il Sudafrica guarda ai fondi del Golfo per sbloccare piano immobiliare",
@@ -450,13 +499,6 @@
         "excerpt": ""
       },
       {
-        "title": "Oil holds near two-week lows while diesel cracks hit record peak",
-        "link": "https://www.investing.com/news/commodities-news/oil-falls-on-increased-gulf-supply-and-hopes-for-usiran-talks-4912001",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 12:12:55",
-        "excerpt": ""
-      },
-      {
         "title": "Intelligenza artificiale, perché cresce la rivolta popolare contro i “data center”",
         "link": "https://www.repubblica.it/esteri/2026/09/23/news/intelligenza_artificiale_perche_cresce_la_rivolta_contro_i_data_center-425602401/?rss",
         "source": "Repubblica Esteri",
@@ -476,34 +518,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Wed, 23 Sep 2026 13:05:32 +0200",
         "excerpt": "'Se osano aiutare Riad, prenderemo di mira tutti gli interessi americani nella zona'"
-      },
-      {
-        "title": "Raid russo su Kiev, sospeso il servizio ferroviario della città",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/raid-russo-su-kiev-sospeso-il-servizio-ferroviario-della-citta_aae93497-24bd-48a9-b03b-81bfd21f34c0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 12:40:18 +0200",
-        "excerpt": "Droni su infrastrutture, distrutti due distributori di benzina. 161 droni sull'Ucraina"
-      },
-      {
-        "title": "Media, il Board of peace presenta piano per Gaza, interventi per 2,4 miliardi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/media-il-board-of-peace-presenta-piano-per-gaza-interventi-per-24-miliardi_c0eaec9d-29f9-4115-83ee-b82329650028.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 12:38:50 +0200",
-        "excerpt": "In 6 mesi alloggi temporanei, rimozione macerie e riabilitazione degli ospedali"
-      },
-      {
-        "title": "Cremlino dopo incontro Trump-Zelensky, 'non ci sono presupposti per i negoziati'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/cremlino-dopo-incontro-trump-zelensky-non-ci-sono-presupposti-per-i-negoziati_9aa0a4d2-1ea1-4103-b410-b281d517b192.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 12:37:17 +0200",
-        "excerpt": "'E' in corso una crescente militarizzazione da Kiev'"
-      },
-      {
-        "title": "Hope for progress after US, Iran hold first shuttle talks in months",
-        "link": "https://www.investing.com/news/commodities-news/hope-for-progress-after-us-iran-hold-first-shuttle-talks-in-months-4912555",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 10:36:33",
-        "excerpt": ""
       },
       {
         "title": "Gaza, i proiettili israeliani attraversano la “Linea Gialla” e trafiggono le vite dei civili",
@@ -548,25 +562,11 @@
         "excerpt": "Domani il bilaterale tra i due capi di Stato. Al centro dell’incontro vari temi: l’accordo sui dazi in scadenza il 10 novembre, la cooperazione (limitata) sull’intelligenza artificiale e, soprattutto, le pressioni sullo "
       },
       {
-        "title": "London Gas Oil tests $1,517 SuperTrend ceiling: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-stuck-in-chop-zone-at-1480-live-levels-93CH-4908349",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 07:11:46",
-        "excerpt": ""
-      },
-      {
         "title": "Ue, via le sanzioni a due oligarchi russi. Kiev: “Vergognoso e ingiustificabile”",
         "link": "https://www.repubblica.it/esteri/2026/09/23/news/usmanov_e_fridman_ue_via_le_sanzioni_a_due_oligarchi_russi_ucraina-425601171/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Wed, 23 Sep 2026 01:01:18 +0200",
         "excerpt": "Francia e Lussemburgo salvano Usmanov e Fridman. Nella black list rimangono per tre anni tremila tra individui ed entità"
-      },
-      {
-        "title": "Zelensky spera nell’aiuto della Cina: “Stop alle armi prima dell’inverno”",
-        "link": "https://www.repubblica.it/esteri/2026/09/23/news/zelensky_aiuto_cina_fine_guerra_inverno_trump-425601449/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 23 Sep 2026 01:00:00 +0200",
-        "excerpt": "Bilaterale tra il presidente ucraino e Donald Trump a margine dell’Assemblea generale delle Nazioni Unite. “Ci confrontiamo sulla tregua energetica e su come terminare la guerra”"
       }
     ]
   },
@@ -575,8 +575,29 @@
       "title": "Morto un operaio al Colosseo, Meloni: 'Morte inaccettabile'",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/morto-un-operaio-al-colosseo-meloni-morte-inaccettabile_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
       "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 15:03:31 +0200",
+      "pubDate": "Wed, 23 Sep 2026 15:59:02 +0200",
       "excerpt": "La vittima di 22 anni è caduta da un'altezza di 10 metri. Il Parco archeologico ha disposto la chiusura dell'Anfiteatro Flavio in segno di lutto, alle 19 una fiaccolata per il giovane"
+    },
+    {
+      "title": "Question time alla Camera con Foti, Giorgetti, Crosetto e Schillaci",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/23/question-time-alla-camera-con-foti-giorgetti-crosetto-e-schillaci_19775b52-ce42-4fc3-832f-ee92597cdf5b.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 23 Sep 2026 15:58:44 +0200",
+      "excerpt": ""
+    },
+    {
+      "title": "Magrezza estrema e sessualizzazione, dove l'Intelligenza Artificiale sta facendo danni ",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/09/22/magrezza-estrema-e-sessualizzazione-dove-lintelligenza-artificiale-sta-facendo-danni-_8fd64def-5e79-4f6c-9b86-c34f56060767.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 23 Sep 2026 15:43:37 +0200",
+      "excerpt": "Anche se consapevoli che sono immagini fake hanno effetti su percezione corporea e salute mentale"
+    },
+    {
+      "title": "Chi è Paolo Strippoli, gavetta con Amelio e passione per l’horror: a 33 anni da Corato a Hollywood",
+      "link": "https://bari.repubblica.it/cronaca/2026/09/23/news/chi_e_paolo_strippoli_gavetta_con_amelio_e_passione_per_l_horror_a_33_anni_da_corato_a_hollywood-425602532/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 13:23:34 +0000",
+      "excerpt": "Parte dalla Puglia la strada verso la notte degli Oscar. Il comitato di selezione dell'Anica ha scommesso su L'Estranea, pellicola ambientata tra i vicoli e i luoghi simbolo di Bari"
     },
     {
       "title": "Il rabbino di Roma contro il Vaticano: “Dialogo difficile se non citano Israele”",
@@ -584,13 +605,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 12:59:01 +0000",
       "excerpt": "Un documento della Santa Sede celebra i 60 anni dalla svolta conciliare nei rapporti tra cattolici ed ebrei, ma Di Segni interviene gelido: “Noi siamo anche nazione”. Sullo sfondo, le divergenze per la posizione della Sa"
-    },
-    {
-      "title": "Question time alla Camera con Foti, Giorgetti, Crosetto e Schillaci",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/23/question-time-alla-camera-con-foti-giorgetti-crosetto-e-schillaci_19775b52-ce42-4fc3-832f-ee92597cdf5b.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 14:52:41 +0200",
-      "excerpt": "Diretta streaming su ANSA.it alle 15"
     },
     {
       "title": "Assemblea generale dell’Onu, attesa per il discorso di Pezeshkian. Oggi parleranno anche Zelensky e Milei",
@@ -649,13 +663,6 @@
       "excerpt": "I dati Istat, accolti con toni trionfalistici dal governo, dicono che l’Italia fa meglio della media europea. Ma tra gli alunni che vengono dall’estero la percentuale di abbandono è ancora altissima"
     },
     {
-      "title": "Gaza, i proiettili israeliani attraversano la “Linea Gialla” e trafiggono le vite dei civili",
-      "link": "https://www.repubblica.it/esteri/2026/09/23/news/gaza_proiettili_israeliani_attraversano_linea_gialla_uccidono_civili-425602230/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 10:32:01 +0000",
-      "excerpt": "Dall’inizio del cessate il fuoco, circa 150 persone sono state uccise da colpi d’arma da fuoco provenienti dalle aree controllate dall’Idf. Con famiglie e bambini della Striscia che vivono nella paura quotidiana di esser"
-    },
-    {
       "title": "Borsa Italiana, torna “Investire in un mondo che cambia”",
       "link": "https://www.ansa.it/native/ansacom/2026/09/23/borsa-italiana-torna-investire-in-un-mondo-che-cambia_888859c4-747a-4d19-bb54-925ed66f8933.html",
       "source": "ANSA",
@@ -668,13 +675,6 @@
       "source": "ANSA",
       "pubDate": "Tue, 22 Sep 2026 19:38:38 +0200",
       "excerpt": "Velcro e cristalli, la sottana come una pagina bianca"
-    },
-    {
-      "title": "Il 40% dei tumori al seno prevenibili con gli stili di vita, al via la Campagna Komen Italia",
-      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/09/22/il-40-dei-tumori-al-seno-prevenibili-con-stili-di-vita.-al-via-campagna-komen_5b0c812e-1dbd-4a50-8c93-590912bb6ddf.html",
-      "source": "ANSA",
-      "pubDate": "Tue, 22 Sep 2026 18:52:07 +0200",
-      "excerpt": "Con i ministeri della Cultura e Salute, 49 giorni di promozione della prevenzione dal Nord al Sud"
     },
     {
       "title": "Azienda americana vuole vietare gli smartphone di Apple, Samsung e Google negli Usa",
@@ -742,6 +742,20 @@
   ],
   "sport": [
     {
+      "title": "Frattesi: 'Contento sia tornato Mancini, alla Lazio per Gattuso'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/calcio-frattesi-contento-sia-tornato-mancini-alla-lazio-per-gattuso_8b43623b-65ad-47ef-9fe4-d50a3fcbba51.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 15:51:43 +0200",
+      "excerpt": "Centrocampista: 'delusione di Zenica una ferita ancora aperta'"
+    },
+    {
+      "title": "F1, Leclerc: 'Hamilton? Regole di ingaggio chiare, abbiamo parlato'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/23/f1-leclerc-hamilton-regole-di-ingaggio-chiare-abbiamo-parlato_e8e91794-ce59-49c7-b927-d65b295be30c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 15:35:53 +0200",
+      "excerpt": "'Siamo una squadra. Lotto contro i migliori e Lews è tra questi'"
+    },
+    {
       "title": "La Fifa apre due campi da gioco in Cisgiordania",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/calcio-la-fifa-apre-due-campi-da-gioco-in-cisgiordania_019e8fb7-e69e-41f3-9b90-49406f6188db.html",
       "source": "ANSA Sport",
@@ -777,25 +791,11 @@
       "excerpt": "Dall'esperto di diritto sportivo proposte correttiva al ddl 1902"
     },
     {
-      "title": "Calcio: Frattesi, \"contento sia tornato Mancini, alla Lazio per Gattuso\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/calcio-frattesi-contento-sia-tornato-mancini-alla-lazio-per-gattuso_8b43623b-65ad-47ef-9fe4-d50a3fcbba51.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 14:06:54 +0200",
-      "excerpt": "Centrocampista: 'delusione di Zenica una ferita ancora aperta'"
-    },
-    {
       "title": "Calcio: Udinese a un passo dallo svincolato Alaba",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/calcio-udinese-a-un-passo-dallo-svincolato-alaba_a3177217-36d5-4151-ae30-8b53e5ea793d.html",
       "source": "ANSA Sport",
       "pubDate": "Wed, 23 Sep 2026 12:58:20 +0200",
       "excerpt": "Nelle prossime ore attesi sviluppi, dopo le visite mediche"
-    },
-    {
-      "title": "F1: Leclerc, \"Hamilton? Regole di ingaggio chiare, abbiamo parlato\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/23/f1-leclerc-hamilton-regole-di-ingaggio-chiare-abbiamo-parlato_e8e91794-ce59-49c7-b927-d65b295be30c.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 12:32:34 +0200",
-      "excerpt": "\"Siamo una squadra. Lotto contro i migliori e Lews è tra questi\""
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
