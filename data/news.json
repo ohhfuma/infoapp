@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-09-23T17:07:50.864Z",
+  "lastUpdated": "2026-09-23T17:37:51.883Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Carta dedicata a te 2026 da 500 euro, dal 24 settembre le liste dei beneficiari. Primo accredito l’1 ottobre",
+        "link": "https://www.ilsole24ore.com/art/carta-dedicata-te-2026-500-euro-24-settembre-liste-beneficiari-primo-accredito-l-1-ottobre-AJhKVfMB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 23 Sep 2026 17:31:52 GMT",
+        "excerpt": "Un contributo da 500 euro per la spesa alimentare di prima necessità, senza bisogno di presentare domanda. Sono 1.177.597 le carte «Dedicata a te» destinate alle famiglie in difficoltà per..."
+      },
       {
         "title": "Frecciarossa da Napoli a Berlino entro il 2028. Poi Londra, Bruxelles e Amsterdam: il piano FS",
         "link": "https://www.repubblica.it/economia/2026/09/23/news/frecciarossa_da_napoli_a_berlino_entro_il_2028_e_arriva_una_flotta_di_74_treni_intelligenti-425602610/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Wed, 23 Sep 2026 19:05:35 +0200",
+        "pubDate": "Wed, 23 Sep 2026 19:26:56 +0200",
         "excerpt": "Ecco la strategia internazionale di Trenitalia. Nei vagoni ci saranno poltrone più larghe"
+      },
+      {
+        "title": "Nucleare, via libera definitivo al Senato. Il ministro Pichetto: “Inizia ritorno all’atomo”",
+        "link": "https://www.repubblica.it/economia/2026/09/23/news/nucleare_legge_pichetto_fratin_senato_delega_governo_centrali-425602870/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 23 Sep 2026 19:16:31 +0200",
+        "excerpt": "Approvato il ddl votato a giugno dalla Camera. Il titolare del Mase promette i decreti attuativi entro la fine dell’anno"
+      },
+      {
+        "title": "Decreto imballaggi, via libera dal Senato alle nuove norme per la plastica monouso: cosa cambia",
+        "link": "https://www.ilsole24ore.com/art/decreto-imballaggi-via-libera-senato-nuove-norme-la-plastica-monouso-cosa-cambia-AJY4OOLB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 23 Sep 2026 17:14:05 GMT",
+        "excerpt": "Gli involucri di numerosi prodotti, da frutta, verdura e salse ai cosmetici usati negli alberghi, dovranno essere biodegradabili e compostabili"
       },
       {
         "title": "Mps, Lovaglio: “L’assemblea non è un referendum ma un modo per tenere tutte le opzioni aperte”",
@@ -157,13 +178,6 @@
         "excerpt": "Nel 2020 due italiani su tre guardavano allo sviluppo dell’intelligenza artificiale come a qualcosa di positivo. Sei anni dopo la quota è scesa sotto la metà. Secondo l’indagine Swg effettuata..."
       },
       {
-        "title": "Nucleare, via libera definitivo al Senato. Il ministro Pichetto: “Inizia ritorno all’atomo”",
-        "link": "https://www.repubblica.it/economia/2026/09/23/news/nucleare_legge_pichetto_fratin_senato_delega_governo_centrali-425602870/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 23 Sep 2026 17:38:49 +0200",
-        "excerpt": "Approvato il ddl votato a giugno dalla Camera. Il titolare del Mase promette i decreti attuativi entro la fine dell’anno"
-      },
-      {
         "title": "L’IA è un affare per freelance: aumentano produttività e tariffe. Per i dipendenti solo il lavoro",
         "link": "https://www.repubblica.it/economia/2026/09/23/news/ia_freelance_lavoro_dipendente_produttivita_tariffe_tempo-425602786/?rss",
         "source": "Repubblica Economia",
@@ -211,20 +225,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 23 Sep 2026 13:40:23 GMT",
         "excerpt": "Scadenza vicina per la seconda rata della rottamazione quinquies. Il termine di pagamento è fissato per mercoledì 30 settembre e riguarda i contribuenti che hanno aderito alla definizione agevolata delle..."
-      },
-      {
-        "title": "Pausa pranzo sempre più cara, in 25 anni aumenti del 300%",
-        "link": "https://www.ilsole24ore.com/art/pausa-pranzo-sempre-piu-cara-25-anni-aumenti-300percento-AJJvmEMB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 23 Sep 2026 13:16:03 GMT",
-        "excerpt": "La pausa pranzo diventa sempre più cara. E i rincari si fanno sentire dato che, rispetto allo scorso anno si può pagare un 8% in più. Il paragone con 25..."
-      },
-      {
-        "title": "Ai, perché bisogna imparare logica e creatività, non algoritmi",
-        "link": "https://www.ilsole24ore.com/art/ai-perche-bisogna-imparare-logica-e-creativita-non-algoritmi-AJZyzLMB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 23 Sep 2026 13:11:05 GMT",
-        "excerpt": "Negli ultimi tre anni ho sentito molto spesso commenti sul rapporto tra uomo e macchina, sui pericoli dell’IA, sulla necessità di controllare i ‘ragionamenti’ algoritmici, sulla inevitabilità che questo rapporto..."
       }
     ],
     "europa": [
@@ -327,7 +327,7 @@
         "excerpt": "Alibaba ha annunciato l’intenzione di espandere i data center all’estero, puntando sui mercati europei e mediorientali, «creando le prime regioni cloud» in Turchia, Finlandia e Paesi Bassi, espandendo al contempo..."
       },
       {
-        "title": "Guerra, ultime notizie. Onu, Pezeshkian mostra foto bambini «uccisi da bombe americane e israeliane». Usa lasciano aula",
+        "title": "Guerra, ultime notizie. Onu, Pezeshkian mostra foto di bimbi uccisi dalle bombe. Usa lasciano l’aula",
         "link": "https://www.ilsole24ore.com/art/colloqui-usa-iran-margine-assemblea-onu-teheran-ha-trasmesso-condizioni-un-accordo-AJNQiuLB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 23 Sep 2026 05:23:00 GMT",
@@ -572,25 +572,25 @@
   },
   "attualita": [
     {
-      "title": "Pezeshkian: 'L'Iran è vittima di terrorismo'. La delegazione Usa lascia l'assemblea",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-liran-e-vittima-di-terrorismo.-la-delegazione-usa-lascia-lassemblea_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
+      "title": "Pezeshkian mostra le foto dei bimbi uccisi nei raid. La delegazione Usa lascia l'aula",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-mostra-le-foto-dei-bimbi-uccisi-nei-raid.-la-delegazione-usa_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
       "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 18:54:18 +0200",
-      "excerpt": "Il presidente iraniano mostra alle Nazioni Unite le foto dei bimbi uccisi nel bombardamento della scuola. 'La resistenza dell'Iran aumenterà di fronte alle sanzioni e ai bulli. Pronti a dialogo e diplomazia, senza il lin"
+      "pubDate": "Wed, 23 Sep 2026 19:29:49 +0200",
+      "excerpt": "Scontro Washington-Teheran alle Nazioni Uniti. Il giorno dopo l'intervento di Trump, il presidente iraniano avverte: 'Siamo pronti al dialogo, ma non ci pieghiamo ai bulli'. Tajani: 'Discorso molto duro, deve cambiare i "
+    },
+    {
+      "title": "Ucraina, Lavrov: 'Pronti ai negoziati, ma senza sospendere le ostilità'. Rubio: 'Putin invitato al G20 di Miami'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/ucraina-lavrov-pronti-ai-negoziati-ma-senza-sospendere-le-ostilita.-rubio-putin-invitato_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 23 Sep 2026 19:28:36 +0200",
+      "excerpt": "Incontro del segretario di Stato Usa con Lavrov. Il Cremlino dopo l'incontro Trump-Zelensky: 'Non ci sono presupposti per i negoziati'"
     },
     {
       "title": "Morto un operaio al Colosseo, Meloni: 'Morte inaccettabile'",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/morto-un-operaio-al-colosseo-meloni-morte-inaccettabile_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
       "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 18:37:46 +0200",
-      "excerpt": "La vittima di 22 anni è caduta da un'altezza di 10 metri. Il ragazzo trovato on l'imbracatura non agganciata alla fune. Il Parco archeologico ha disposto la chiusura dell'Anfiteatro Flavio in segno di lutto, alle 19 una "
-    },
-    {
-      "title": "Rubio: 'Mosca e Kiev vogliono tregua energetica e sul grano'. Putin invitato al G20 di Miami",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/rubio-russia-e-ucraina-vogliono-tregua-energetica-e-sul-grano-_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 17:49:55 +0200",
-      "excerpt": "Incontro del segretario di Stato Usa con Lavrov. Il Cremlino dopo l'incontro Trump-Zelensky: 'Non ci sono presupposti per i negoziati'"
+      "pubDate": "Wed, 23 Sep 2026 19:02:41 +0200",
+      "excerpt": "La vittima di 22 anni è caduta da un'altezza di 10 metri. Il Parco archeologico ha disposto la chiusura dell'Anfiteatro Flavio in segno di lutto, alle 18 una fiaccolata al Colosseo per il giovane"
     },
     {
       "title": "Nucleare, via libera definitivo al Senato. Il ministro Pichetto: “Inizia ritorno all’atomo”",
@@ -600,7 +600,7 @@
       "excerpt": "Approvato il ddl votato a giugno dalla Camera. Il titolare del Mase promette i decreti attuativi entro la fine dell’anno"
     },
     {
-      "title": "Repubblica Insieme, Giani: “Nel 2030 una Toscana con la sanità forte”",
+      "title": "Repubblica Insieme: “A Firenze un vertice sul clima con 100 sindaci del mediterraneo”",
       "link": "https://firenze.repubblica.it/cronaca/2026/09/23/diretta/firenze_repubblica_insieme_diretta-425602853/",
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 15:16:14 +0000",
@@ -742,6 +742,27 @@
   ],
   "sport": [
     {
+      "title": "Baku, Leclerc mano tesa ad Hamilton: 'Abbiamo parlato'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/23/baku-leclerc-mano-tesa-ad-hamilton-abbiamo-parlato_2f7d7e86-dec8-40b4-a122-63abeb2b5b33.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 19:12:57 +0200",
+      "excerpt": "Il ferrarista parla dei rapporti con il collega di scuderia dopo gli screzi ultime gare"
+    },
+    {
+      "title": "Figc, De Laurentiis: 'Troppa politica, Abodi e Giorgetti creano solo problemi'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/figc-de-laurentiis-troppa-politica-abodi-e-giorgetti-creano-solo-problemi_856ef05e-1a0d-4693-9d87-20d7906bcc2f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 19:11:28 +0200",
+      "excerpt": "'Malagò l'unico capace di salvare il calcio, ora vogliono farlo cadere'"
+    },
+    {
+      "title": "Germania: Eriksen rescinde il contratto con il Wolfsburg 'di comune accordo'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/germania-eriksen-rescinde-il-contratto-con-il-wolfsburg-di-comune-accordo_16743cbb-fd20-45b2-b9bb-36b6dc102317.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 19:11:03 +0200",
+      "excerpt": "L'ex Inter: 'al momento per me è importante stare vicino alla mia famiglia in Danimarca'"
+    },
+    {
       "title": "Spazio alla 'leggenda', Zidane guida i Bleus e la Francia è ai suoi piedi",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/spazio-alla-leggenda-zidane-guida-i-bleus-e-la-francia-e-ai-suoi-piedi_193d6f39-34bb-4db6-8931-06f83413d9af.html",
       "source": "ANSA Sport",
@@ -754,13 +775,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 23 Sep 2026 18:24:57 +0200",
       "excerpt": "Il centrocampista: 'All'Inter troppi alti e bassi, con la Lazio ho ripreso a divertirmi'"
-    },
-    {
-      "title": "Il judo azzurro verso il Mondiale, Giuffrida: 'A Baku per giocarmela'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/23/il-judo-azzurro-verso-il-mondiale-giuffrida-a-baku-per-giocarmela_a573f9a3-adc5-4185-afdb-649cbb2039ad.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 18:18:55 +0200",
-      "excerpt": "Il campione europeo Pirelli: 'Vado per l'oro'. La campionessa Scutto: 'Voglio confermarmi'"
     },
     {
       "title": "Canottaggio: Gualtieri socio onorario del Reale Circolo Canottieri Tevere Remo",
@@ -782,20 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 23 Sep 2026 18:04:18 +0200",
       "excerpt": "A Roma l'Open Day di \"formazione del talento\" al Centro di preparazione delle Tre Fontane"
-    },
-    {
-      "title": "Canottaggio: Gualtieri socio onorario del Reale Circolo Canottieri Tevere Remo",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/23/canottaggio-gualtieri-socio-onorario-del-reale-circolo-canottieri-tevere-remo_f79b53e5-ebc2-4741-8d72-220749e3ec4a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 17:54:00 +0200",
-      "excerpt": "Sport, inclusione e rapporto con il Tevere tra temi serata consegna diploma a sindaco Roma"
-    },
-    {
-      "title": "A Coverciano il sorteggio della 5/a edizione della Unity Euro Cup",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/a-coverciano-il-sorteggio-della-5a-edizione-della-unity-euro-cup_194e0273-34d5-4075-997f-dd2d75d0105d.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 17:43:47 +0200",
-      "excerpt": "Il torneo in programma il 15 ottobre prossimo al Centro federale"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
