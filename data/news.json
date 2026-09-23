@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T22:08:10.011Z",
+  "lastUpdated": "2026-09-23T22:37:15.303Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_c0b79a44-3925-43e0-8b5d-f614fc566620.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 00:10:15 +0200",
+        "excerpt": "Tycoon accoglie il presidente sulla pista della base Andrews con le rispettive first lady"
+      },
+      {
         "title": "Tajani, 'minacce ibride della Russia mettono a rischio sicurezza europea'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/tajani-minacce-ibride-della-russia-mettono-a-rischio-sicurezza-europea_652c2928-03c2-415b-b1e0-99dedfb6d81c.html",
         "source": "ANSA Mondo",
@@ -506,13 +513,6 @@
         "excerpt": "'Ha il potenziale di diventare un attore chiave nel panorama energetico'"
       },
       {
-        "title": "Zelensky, 'Russia usa soldati da 47 Paesi, non lasciatevi trascinare'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/zelensky-russia-usa-soldati-da-47-paesi-non-lasciatevi-trascinare_81e578a8-b5d9-4426-a211-f283a768d29e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 20:29:48 +0200",
-        "excerpt": "L'appello del leader ucraino all'Assemblea generale dell'Onu"
-      },
-      {
         "title": "Usa, Harvey Weinstein condannato a 15 anni per violenza sessuale",
         "link": "https://www.repubblica.it/esteri/2026/09/23/news/usa_harvey_weinstein_condannato_a_15_anni_per_violenza_sessuale-425603025/?rss",
         "source": "Repubblica Esteri",
@@ -572,6 +572,20 @@
   },
   "attualita": [
     {
+      "title": "Delusione Italia, ko al tie-break con la Finlandia e fuori nei quarti agli Europei di volley",
+      "link": "https://www.repubblica.it/sport/volley/2026/09/23/news/europei_volley_italia_finlandia_risultato_quarti-425603719/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 21:59:22 +0000",
+      "excerpt": "Gli azzurri – che erano avanti 11-8 nel parziale decisivo - cedono 3-2 a Torino ed escono di scena"
+    },
+    {
+      "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-mostra-allonu-le-foto-dei-bimbi-uccisi-non-ci-piegheremo_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 23 Sep 2026 23:31:52 +0200",
+      "excerpt": "'Sì al dialogo ma basta forza'. La delegazione Usa lascia la sala. Rubio: 'Progressi ma nessuna svolta'"
+    },
+    {
       "title": "Zelensky: 'Putin è il paziente zero, va fermato'. Trump invita lo zar al G20, il Cremlino: grazie, valuteremo",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/zelensky-putin-e-il-paziente-zero-va-fermato.-trump-invita-lo-zar-al-g20_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
       "source": "ANSA",
@@ -591,20 +605,6 @@
       "source": "ANSA",
       "pubDate": "Wed, 23 Sep 2026 21:00:15 +0200",
       "excerpt": "Montava la nuova illuminazione, caduto da 10 metri. Chiuso l'Anfiteatro. Meloni: 'Inaccettabile'"
-    },
-    {
-      "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-mostra-allonu-le-foto-dei-bimbi-uccisi-non-ci-piegheremo_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 20:11:34 +0200",
-      "excerpt": "'Sì al dialogo ma basta forza'. La delegazione Usa lascia la sala. Rubio: 'Progressi ma nessuna svolta'"
-    },
-    {
-      "title": "Europei volley, incredibile Italia, in vantaggio al tie-break va fuori con la Finlandia",
-      "link": "https://www.repubblica.it/sport/volley/2026/09/23/diretta/italia_finlandia_europei_volley_maschile_diretta-425603249/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 18:10:56 +0000",
-      "excerpt": "A Torino gli azzurri di De Giorgi eliminati 3-2 (21-25, 28-26, 25-16, 20-25, 15-13) dai nordici che vanno alle semifinali di Milano con la Francia. Terzo set da incubo, Giannelli: “Non abbiamo giocato al livello di un to"
     },
     {
       "title": "Ricciardi (M5S): “Meloni diserta l’Onu per Vespa e Fashion week”. Renzi: “Che figuraccia”",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "EuroVolley: De Giorgi 'quando dovevamo dare la zampata finale siamo mancati'",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/24/eurovolley-de-giorgi-quando-dovevamo-dare-la-zampata-finale-siamo-mancati_13e62e5f-7674-4fd0-8003-f6e922b0b818.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 00:11:38 +0200",
+      "excerpt": "'Non possiamo prendercela con nessuno, dovevamo concretizzare nonostante brutta giornata'"
+    },
+    {
       "title": "EuroVolley: Giannelli 'non siamo riusciti a giocare una partita di livello'",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/24/eurovolley-giannelli-non-siamo-riusciti-a-giocare-una-partita-di-livello_2626948d-5e36-4341-be89-97fd259cc785.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 23 Sep 2026 20:09:47 +0200",
       "excerpt": "Gli azzurri outsider domenica, Evenepoel cerca il bis dopo il botta e risposta con Ganna"
-    },
-    {
-      "title": "Figc: la Lega Serie A ribadisce il sostegno a Malagò, 'sempre al suo fianco'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/figc-la-lega-serie-a-ribadisce-il-sostegno-a-malago-sempre-al-suo-fianco_549e9d65-9499-40aa-ba78-05823a0a203a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 19:58:22 +0200",
-      "excerpt": "Simonelli: 'Siamo coerenti, caso tesseramento non inciderà su azzurri'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
