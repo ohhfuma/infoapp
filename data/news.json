@@ -1,7 +1,56 @@
 {
-  "lastUpdated": "2026-09-23T07:39:31.173Z",
+  "lastUpdated": "2026-09-23T08:09:02.857Z",
   "finanza": {
     "italia": [
+      {
+        "title": "L’Ocse rivede al rialzo la crescita dell’Italia: +0,9% nel 2026",
+        "link": "https://www.repubblica.it/economia/2026/09/23/news/ocse_rialzo_la_crescita_italia_09_2026-425601826/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 23 Sep 2026 10:01:53 +0200",
+        "excerpt": "L’outlook intermedio dell’organizzazione. Confermate le stime per il 2027, con il Pil a +0,6%"
+      },
+      {
+        "title": "La Borsa di Milano apre in rialzo (+0,49%), in vetta Banco Bpm",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/la-borsa-di-milano-apre-in-rialzo-049-in-vetta-banco-bpm_f74ed559-098c-448e-8c09-c7388323d8be.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 09:48:30 +0200",
+        "excerpt": "Indice Ftse Mib a 52.349 punti"
+      },
+      {
+        "title": "Borsa Milano in rialzo con l'Europa (+0,56%) grazie al calo del petrolio",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/borsa-milano-in-rialzo-con-leuropa-056-grazie-al-calo-del-petrolio_2a043a9b-d84a-4689-a41e-4a8918b411e3.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 09:48:18 +0200",
+        "excerpt": "In attesa dell' incontro a Washington fra i presidenti Usa e cinese"
+      },
+      {
+        "title": "Mimit, prezzi carburanti in lieve calo, benzina self a 2,155 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/mimit-prezzi-carburanti-in-lieve-calo-benzina-self-a-2155-euro_58545c1c-5aec-4a1b-beba-4b75982ca96b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 09:48:17 +0200",
+        "excerpt": "Gasolio stabile a 2,340 euro. Prezzi in ribasso in autostrada"
+      },
+      {
+        "title": "Industrie De Nora si riprende leggermente dopo il crollo del 18% seguito al collocamento di Snam",
+        "link": "https://it.investing.com/news/stock-market-news/industrie-de-nora-si-riprende-leggermente-dopo-il-crollo-del-18-seguito-al-collocamento-di-snam-3558806",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 07:37:08",
+        "excerpt": ""
+      },
+      {
+        "title": "Eni e Saipem deboli in apertura col calo del petrolio",
+        "link": "https://it.investing.com/news/stock-market-news/eni-e-saipem-deboli-in-apertura-col-calo-del-petrolio-3558800",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 07:35:07",
+        "excerpt": ""
+      },
+      {
+        "title": "La Danimarca prevede una crescita del 4% e invita alla cautela fiscale",
+        "link": "https://it.investing.com/news/stock-market-news/la-danimarca-prevede-una-crescita-del-4-e-invita-alla-cautela-fiscale-93CH-3558795",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 07:32:05",
+        "excerpt": ""
+      },
       {
         "title": "Perché il titolo Renishaw sta salendo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-renishaw-sta-salendo-oggi-93CH-3558784",
@@ -38,20 +87,6 @@
         "excerpt": "Per Parigi e Londra rialzi di oltre lo 0,4%"
       },
       {
-        "title": "La Borsa di Milano apre in rialzo (+0,49%), in vetta Banco Bpm",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/la-borsa-di-milano-apre-in-rialzo-049-in-vetta-banco-bpm_f74ed559-098c-448e-8c09-c7388323d8be.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 09:12:55 +0200",
-        "excerpt": "Indice Ftse Mib a 52.349 punti"
-      },
-      {
-        "title": "Mimit, prezzi carburanti in lieve calo, benzina self a 2,155 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/mimit-prezzi-carburanti-in-lieve-calo-benzina-self-a-2155-euro_58545c1c-5aec-4a1b-beba-4b75982ca96b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 09:12:23 +0200",
-        "excerpt": "Gasolio stabile a 2,340 euro. Prezzi in ribasso in autostrada"
-      },
-      {
         "title": "Le borse europee avanzano sul riavvio del gasdotto saudita e la diplomazia ONU",
         "link": "https://it.investing.com/news/stock-market-news/le-borse-europee-avanzano-sul-riavvio-del-gasdotto-saudita-e-la-diplomazia-onu-3558772",
         "source": "Investing.com Italia",
@@ -73,32 +108,11 @@
         "excerpt": "Rendimento italiano al 4,3%"
       },
       {
-        "title": "L’attività privata in India raggiunge i massimi di 3 mesi",
-        "link": "https://it.investing.com/news/stock-market-news/lattivita-privata-in-india-raggiunge-i-massimi-di-3-mesi-93CH-3558748",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 06:59:29",
-        "excerpt": ""
-      },
-      {
         "title": "Borse asiatiche incerte, si guarda a Iran e a summit Trump-Xi",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/borse-asiatiche-incerte-si-guarda-a-iran-e-a-summit-trump-xi_666912c4-b83e-484f-96ca-deaa2d8fab5f.html",
         "source": "ANSA Economia",
         "pubDate": "Wed, 23 Sep 2026 08:47:10 +0200",
         "excerpt": "Deboli i lstini cinesi, cala il petrolio"
-      },
-      {
-        "title": "Esclusiva: Hashgraph ottiene la certificazione IBM per il suo tool di identità AI",
-        "link": "https://it.investing.com/news/stock-market-news/esclusiva-hashgraph-group-sbarca-sul-marketplace-ibm-con-tool-di-identita-per-agenti-ai-3558721",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 06:44:26",
-        "excerpt": ""
-      },
-      {
-        "title": "Pirelli, Tronchetti Provera sale al 29,9% dopo acquisto 3,34% tramite Camfin AA",
-        "link": "https://it.investing.com/news/stock-market-news/pirelli-tronchetti-provera-sale-al-299-dopo-acquisto-334-tramite-camfin-aa-3558710",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 06:40:33",
-        "excerpt": ""
       },
       {
         "title": "Precipita durante lavori notturni al Colosseo, muore operaio 22enne",
@@ -120,13 +134,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 23 Sep 2026 06:09:48 GMT",
         "excerpt": "Da 78 milioni a poco più di 38. Il ministero dell’Ambiente riduce i fondi destinati agli investimenti nell’eolico offshore per i porti e della riduzione ne fanno le spese i..."
-      },
-      {
-        "title": "Prezzo oro in calo, Spot scambiato a 4.329 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/prezzo-oro-in-calo-spot-scambiato-a-4.329-dollari_af5e0edb-4609-4795-97ad-c20ec7b3453a.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 08:04:33 +0200",
-        "excerpt": "Quotazione scende dello 0,72%"
       },
       {
         "title": "Estate agli sgoccioli, oggi arriva l’equinozio d’autunno: ecco cosa cambia",
@@ -199,13 +206,6 @@
         "excerpt": "Meloni irritata con Giorgetti perché nelle scorse settimane era sembrato ottimista. Messaggio a Bruxelles per aprire un dialogo"
       },
       {
-        "title": "Perché la tassa sui ricchi è una svolta nella lotta tra democrazia e gli oligarchi di Big Tech",
-        "link": "https://www.repubblica.it/economia/rubriche/outlook/2026/09/23/news/perche_la_tassa_sui_ricchi_e_una_svolta_nella_lotta_tra_democrazia_e_gli_oligarchi_di_big_tech-425600822/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 23 Sep 2026 00:00:00 +0200",
-        "excerpt": "Outlook del 23 settembre. Iscriviti alla Newsletter"
-      },
-      {
         "title": "Nucleare, lo smantellamento degli impianti supera il 47%. Sogin verso il rinnovo del Cda",
         "link": "https://www.ilsole24ore.com/art/nucleare-smantellamento-impianti-supera-47percento-sogin-il-rinnovo-cda-AJDUecLB",
         "source": "Il Sole 24 Ore",
@@ -236,11 +236,11 @@
         "excerpt": ""
       },
       {
-        "title": "Zelensky: pronti a cessate il fuoco reciproco con Russia su energia. Chiesti agli Usa Patriot e  tecnologie",
+        "title": "Raid russo su Kiev, sospeso il servizio ferroviario della città. Zelensky: pronti a cessate il fuoco reciproco con Russia su energia",
         "link": "https://www.ilsole24ore.com/art/zelensky-pronti-cessate-fuoco-reciproco-russia-energia-chiesti-usa-patriot-e-tecnologie-AJVrVuLB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 23 Sep 2026 05:20:00 GMT",
-        "excerpt": "Il pacchetto di aiuti urgenti chiesti dal presidente ucraino al presidente Usa in un faccia a faccia al Palazzo di vetro comprende equipaggiamenti militari per l’inverno, compresi i sistemi antimissile Patriot e altre te"
+        "excerpt": "Il servizio ferroviario urbano di Kiev è stato sospeso a causa di un attacco di droni sulla capitale avvenuto all’alba. Si sono registrati attacchi e incendi in diversi quartieri. Lo..."
       },
       {
         "title": "Adb, stime di crescita in lieve rialzo (+5%) per l’Asia in via di sviluppo",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Protesta a Caracas contro la partecipazione di Rodriguez all'Onu",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/protesta-a-caracas-contro-la-partecipazione-di-rodriguez-allonu_e5596cff-ded8-4649-90f7-54f772c45c0e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 09:50:03 +0200",
+        "excerpt": "'Non ci rappresenta', hanno scandito i manifestanti, tra cui vari dissidenti"
+      },
+      {
         "title": "Tutti i nodi dell’incontro Trump-Xi, dalla tregua commerciale all’IA. Ma il cuore degli interessi cinesi è Taiwan",
         "link": "https://www.repubblica.it/esteri/2026/09/23/news/tutti_i_nodi_dell_incontro_trump-xi_tregua_commerciale_ia_al_centro_taiwan-425601744/?rss",
         "source": "Repubblica Esteri",
@@ -513,13 +520,6 @@
         "excerpt": "'Bisogna parlarsi nonostante l'odio. Trump favorevole a rilascio licenze dei Patriot'"
       },
       {
-        "title": "Messico, allerta dell'ambasciata Usa per l'uragano Polo di categoria 5",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/messico-allerta-dellambasciata-usa-per-luragano-polo-di-categoria-5_39b65311-be38-4afa-966e-9a7f69cdb0a9.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 01:34:52 +0200",
-        "excerpt": "Il ciclone minaccia la costa del Pacifico con venti fino a 285 km orari"
-      },
-      {
         "title": "Ue, via le sanzioni a due oligarchi russi. Kiev: “Vergognoso e ingiustificabile”",
         "link": "https://www.repubblica.it/esteri/2026/09/23/news/usmanov_e_fridman_ue_via_le_sanzioni_a_due_oligarchi_russi_ucraina-425601171/?rss",
         "source": "Repubblica Esteri",
@@ -572,11 +572,32 @@
   },
   "attualita": [
     {
+      "title": "La Nazionale è un affare di famiglia: Pio e Sebastiano Esposito come gli Inzaghi 26 anni fa",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/23/news/nazionale_fratelli_pio_sebastiano_esposito_inzaghi-425601784/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 07:42:27 +0000",
+      "excerpt": "Gli attaccanti di Inter e Sassuolo sognano di giocare insieme nella sfida di Nations League di venerdì, con il Belgio"
+    },
+    {
+      "title": "Lamezia Terme, alunno pianifica aggressione con coltello alla prof: fermato dai carabinieri",
+      "link": "https://www.repubblica.it/cronaca/2026/09/23/news/lamezia_terme_minorenne_aggressione_coltello_docente-425601774/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 07:39:03 +0000",
+      "excerpt": "Lo studente ha 14 anni e frequenta un Istituto comprensivo. Scoperto un gruppo Telegram"
+    },
+    {
       "title": "Minore pianifica un'aggressione con coltello a una docente, fermato dai carabinieri",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/minore-pianifica-aggressione-con-coltello-a-docente-fermato-dai-carabinieri_eaf339b5-2f60-4ce4-9d2a-516e2abc2061.html",
       "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 09:36:52 +0200",
+      "pubDate": "Wed, 23 Sep 2026 09:38:05 +0200",
       "excerpt": "È accaduto in un Istituto comprensivo di Lamezia Terme. Scoperto un gruppo Telegram"
+    },
+    {
+      "title": "Tutti i nodi dell’incontro Trump-Xi, dalla tregua commerciale all’IA. Ma il cuore degli interessi cinesi è Taiwan",
+      "link": "https://www.repubblica.it/esteri/2026/09/23/news/tutti_i_nodi_dell_incontro_trump-xi_tregua_commerciale_ia_al_centro_taiwan-425601744/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 07:18:19 +0000",
+      "excerpt": "Domani il bilaterale tra i due capi di Stato. Al centro dell’incontro vari temi: l’accordo sui dazi in scadenza il 10 novembre, la cooperazione (limitata) sull’intelligenza artificiale e, soprattutto, le pressioni sullo "
     },
     {
       "title": "Borsa Italiana, torna “Investire in un mondo che cambia”",
@@ -611,14 +632,7 @@
       "link": "https://roma.repubblica.it/cronaca/2026/09/23/news/operaio_morto_colosseo_caduta_lavori_andrea_moretti-425601641/",
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 06:17:13 +0000",
-      "excerpt": "Andrea Moretti è precipitato mentre lavorava al nuovo impianto di illuminazione. Il ministro Giuli: “Una morte assurda”. Indagini sulla dinamica, chiuso il settore del secondo ordine"
-    },
-    {
-      "title": "Capovilla: “In laguna la magia del creato, salviamola dal turismo senza regole”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/23/news/pierpaolo_capovilla_veneto_intervista-425601237/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 05:00:00 +0000",
-      "excerpt": "Il musicista e attore, protagonista del film Le città di pianura: “La Laguna e Pellestrina sono magiche, ma vanno difese”"
+      "excerpt": "Andrea Moretti è precipitato mentre lavorava al nuovo impianto di illuminazione. Il ministro Giuli: “Una morte assurda”. Indagini sulla dinamica, aperto un fascicolo per omicidio colposo"
     },
     {
       "title": "Il Veneto oltre l’overtourism: ecco come scoprirlo davvero, parola di Lonely Planet",
@@ -635,25 +649,11 @@
       "excerpt": "Non esistono più scuole e segreti, anche la preparazione dei n.1 si è diffusa in tutto il mondo. In A 9 italiani su 26 da inizio campionato, Palmisani la rivelazione"
     },
     {
-      "title": "Classifica Best in Travel: le 50 mete di Lonely Planet per il 2027",
-      "link": "https://www.repubblica.it/cronaca/2026/09/23/news/best_in_travel_lonely_planet_classifica_50_mete_2027-425601601/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 04:45:00 +0000",
-      "excerpt": "Zaino in spalla e mappa alla mano: il mondo che vale la pena scoprire nei prossimi dodici mesi, con una sorpresa tutta italiana"
-    },
-    {
       "title": "Oggi al Teatro della Pergola Repubblica Insieme: alla scoperta del nostro futuro",
       "link": "https://firenze.repubblica.it/cronaca/2026/09/23/news/repubblica_insieme_firenze_teatro_pergola-425600908/",
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 04:45:00 +0000",
       "excerpt": "L’evento dalle 17 nello storico teatro fiorentino. Dibattiti e interviste su ambiente, industria e innovazione. Con Cappellini, Mancuso, Massini, Funaro, Giani e tanti altri ospiti. Sarà anche trasmesso in streaming sul "
-    },
-    {
-      "title": "Legge 104, attenzione a domande e permessi: nuovi chiarimenti, cosa si rischia e cosa cambierà",
-      "link": "https://www.repubblica.it/economia/2026/09/23/news/legge_104_domande_permessi_cosa_cambia_inps-425601007/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 01:00:00 +0000",
-      "excerpt": "Tre ordinanze della Cassazione ribadiscono che 104 e accompagnamento sono prestazioni diverse e che i benefici vanno richiesti in modo esplicito. L’Inps chiarisce come dividere i giorni di permesso tra più familiari e ch"
     },
     {
       "title": "Meloni difende il tetto agli stranieri in classe e tira in ballo Mattarella",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "F1: Red Bull prolunga il contratto di Hadjar, \"con noi fino al 2027\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/23/f1-red-bull-prolunga-il-contratto-di-hadjar-con-noi-fino-al-2027_48a785c6-2166-4a49-902a-32fdb4fd1abd.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 09:40:30 +0200",
+      "excerpt": "Il 21enne francese ha debuttato lo scorso anno al fianco di Verstappen"
+    },
+    {
       "title": "Champions donne: la Juve perde al debutto, allo Stadium passa il Benfica",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/22/champions-donne-la-juve-perde-al-debutto-allo-stadium-passa-il-benfica_da1171cf-2810-4d8f-b599-c0d58bbd1b3a.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Tue, 22 Sep 2026 18:53:26 +0200",
       "excerpt": "Celebrati i 130 anni con un incontro ideale tra Tina Modotti e Pasolini"
-    },
-    {
-      "title": "America's Cup: Mezzaroma 'Sport è rigenerazione, si cade ma importante è rialzarsi'",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/22/americas-cup-mezzaroma-sport-e-rigenerazione-si-cade-ma-importante-e-rialzarsi_1a9e31ed-6d84-417d-9a01-da812f63abf6.html",
-      "source": "ANSA Sport",
-      "pubDate": "Tue, 22 Sep 2026 18:36:31 +0200",
-      "excerpt": "Il presidente di Sport e Salute all'apertura della settimana della regata preliminare"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
