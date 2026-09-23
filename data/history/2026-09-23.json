@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Vigilanza finanziaria Ue, è allarme sulla dipendenza da cloud e Ia non europei",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/vigilanza-finanziaria-ue-e-allarme-sulla-dipendenza-da-cloud-e-ia-non-europei_32f22eb1-7036-494d-b513-dfcdc408f38a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 20:20:22 +0200",
+        "excerpt": "Il rapporto di Eba-Eiopa-Esma, criticità aggravate dal quadro geopolitico'"
+      },
+      {
+        "title": "Il modello Claude di Anthropic scopre un nuovo sistema enzimatico",
+        "link": "https://it.investing.com/news/stock-market-news/il-modello-claude-di-anthropic-scopre-un-nuovo-sistema-enzimatico-3560100",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 18:16:36",
+        "excerpt": ""
+      },
+      {
         "title": "Miniera di rame Escondida di BHP nel Cile: incidente mortale",
         "link": "https://it.investing.com/news/stock-market-news/miniera-di-rame-escondida-di-bhp-nel-cile-incidente-mortale-93CH-3560087",
         "source": "Investing.com Italia",
@@ -408,20 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "Wed, 23 Sep 2026 16:18:02 +0200",
         "excerpt": "In concomitanza con l'aumento dei prezzi del carburante"
-      },
-      {
-        "title": "Fisco, il nuovo concorso per giudice tributario entra nel vivo: pronta la commissione",
-        "link": "https://www.ilsole24ore.com/art/fisco-nuovo-concorso-giudice-tributario-entra-vivo-pronta-commissione-AJEr9TLB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 23 Sep 2026 14:16:51 GMT",
-        "excerpt": "Il Cpgt ha scelto all’unanimità i 29 componenti della commissione del secondo concorso per la magistratura tributaria professionale per 180 posti. Presidente Roberto Proietti. Attesa per la fissazione delle date delle pr"
-      },
-      {
-        "title": "Assemblea Nazionale sul Futuro, al lavoro per giovani e nuove generazioni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/assemblea-nazionale-sul-futuro-al-lavoro-per-giovani-e-nuove-generazioni_7067879a-5c19-4b4c-9c83-30349df96b69.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 16:11:25 +0200",
-        "excerpt": "Il progetto promosso dall'ASviS per mettere il futuro al centro del dibattito pubblico"
       }
     ],
     "europa": [
@@ -793,6 +793,34 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Zelensky, 'Russia usa soldati da 47 Paesi, non lasciatevi trascinare'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/23/zelensky-russia-usa-soldati-da-47-paesi-non-lasciatevi-trascinare_fe479629-6cca-4107-b416-e4b9be841159.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 20:29:51 +0200",
+        "excerpt": "L'appello del leader ucraino all'Assemblea generale dell'Onu"
+      },
+      {
+        "title": "Zelensky, 'Russia usa soldati da 47 Paesi, non lasciatevi trascinare'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/zelensky-russia-usa-soldati-da-47-paesi-non-lasciatevi-trascinare_81e578a8-b5d9-4426-a211-f283a768d29e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 20:29:48 +0200",
+        "excerpt": "L'appello del leader ucraino all'Assemblea generale dell'Onu"
+      },
+      {
+        "title": "Zelensky, 'Putin deve essere fermato, le sanzioni ci rafforzano'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/zelensky-putin-deve-essere-fermato-le-sanzioni-ci-rafforzano_4e8ac890-69b3-47a2-9938-a3915ecf048e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 20:09:57 +0200",
+        "excerpt": "L'appello del presidente ucraino all'Onu"
+      },
+      {
+        "title": "La Tunisia respinge il ricorso dei quattro attivisti della Flotilla Soumoud",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/la-tunisia-respinge-il-ricorso-dei-quattro-attivisti-della-flotilla-soumoud_5ebfec03-5e96-42f3-aa6b-dee803c18376.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 20:08:44 +0200",
+        "excerpt": "Naouar di nuovo in ospedale, prorogato di 48 ore il fermo di 13 manifestanti"
+      },
       {
         "title": "Lavrov, 'pronti ai negoziati ma senza sospendere le ostilità'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/lavrov-pronti-ai-negoziati-ma-senza-sospendere-le-ostilita_5c774d52-4978-45e3-aa99-811e2b687030.html",
@@ -1184,38 +1212,24 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-23 07:11:20",
         "excerpt": ""
-      },
-      {
-        "title": "Silver consolidates at $66.29 above key support: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/silver-consolidates-at-6640-in-breakout-coil-live-levels-93CH-4908353",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 07:11:10",
-        "excerpt": ""
-      },
-      {
-        "title": "Gold clings to 50% Fib support at $4,365: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/gold-wedged-in-43004450-range-live-breakout-levels-93CH-4908346",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 07:10:51",
-        "excerpt": ""
-      },
-      {
-        "title": "Analysis-Wheat buyers brace for higher costs as Russia-Ukraine war drags on",
-        "link": "https://www.investing.com/news/commodities-news/analysiswheat-buyers-brace-for-higher-costs-as-russiaukraine-war-drags-on-4912057",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 04:12:50",
-        "excerpt": ""
-      },
-      {
-        "title": "Oil falls on increased Gulf supply and hopes for US-Iran talks",
-        "link": "https://www.investing.com/news/commodities-news/oil-falls-on-increased-gulf-supply-and-hopes-for-usiran-talks-4912001",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 01:48:37",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Ucraina, Lavrov: 'Pronti ai negoziati, ma senza sospendere le ostilità'. Zelensky: 'Putin deve essere fermato'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/ucraina-lavrov-pronti-ai-negoziati-ma-senza-sospendere-le-ostilita.-zelensky-putin-deve_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 23 Sep 2026 20:36:02 +0200",
+      "excerpt": "Il leader ucraino: 'Russia usa soldati da 47 paesi, non lasciatevi trascinare'. Rubio: 'Putin invitato al G20 di Miami'. Incontro del segretario di Stato Usa con il ministro degli Esteri russo"
+    },
+    {
+      "title": "Ricciardi (M5S): “Meloni diserta l’Onu per Vespa e Fashion week”. Renzi: “Che figuraccia”",
+      "link": "https://www.repubblica.it/politica/2026/09/23/news/meloni_onu_fashion_week_milano_renzi_ricciardi_m5s-425603235/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 18:06:48 +0000",
+      "excerpt": "La premier assente all’assemblea a New York partecipa invece alla cena di gala a Milano. Il leader di Italia viva: “Rimane a casa per la campagna elettorale”"
+    },
     {
       "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi, 'non ci piegheremo' ",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-mostra-allonu-le-foto-dei-bimbi-uccisi-non-ci-piegheremo_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
@@ -1621,23 +1635,30 @@
       "source": "Repubblica",
       "pubDate": "Tue, 22 Sep 2026 23:00:00 +0000",
       "excerpt": "L’offensiva alimentata dalle chat dei parlamentari di FdI nelle quali è rimbalzato l’atto firmato 36 anni fa dall’allora ministro"
-    },
-    {
-      "title": "Il faro del Quirinale sul decreto scuola. Confronto aperto con il governo",
-      "link": "https://www.repubblica.it/politica/2026/09/23/news/quirinale_decreto_scuola_governo-425601360/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 23:00:00 +0000",
-      "excerpt": "La sorpresa per il contropiede dell’inquilina di Palazzo Chigi che equipara un documento del ‘90 alla sua legge"
-    },
-    {
-      "title": "“Dal Senegal alla cattedra, ora dopo laurea e master insegno anche agli italiani”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/23/news/stranieri_scuola_tetto_intervista_insegnante-425601218/",
-      "source": "Repubblica",
-      "pubDate": "Tue, 22 Sep 2026 23:00:00 +0000",
-      "excerpt": "Abdou M. Diouf è professore in provincia di Piacenza. “Quando sono arrivato, a cinque anni, non sapevo la lingua”"
     }
   ],
   "sport": [
+    {
+      "title": "Jannik Sinner si unisce alla Global Partnership for Education",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/23/jannik-sinner-si-unisce-alla-global-partnership-for-education_541881cb-b443-4c11-8274-9e4cc42dbca9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 20:34:00 +0200",
+      "excerpt": "Il n.1 del tennis in video all'iniziativa rilanciata oggi all'Onu da Italia e Nigeria"
+    },
+    {
+      "title": "Punti fermi e qualche esordiente, la nuova Italia di Mancini",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/punti-fermi-e-qualche-esordiente-la-nuova-italia-di-mancini_3b8002bf-9698-4c0b-81a0-8d8617aebb52.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 20:11:16 +0200",
+      "excerpt": "Romano fra le possibili novità, 'ho scelto l'azzurro con il cuore'"
+    },
+    {
+      "title": "Mondiali di ciclismo: parola alla strada, Longo Borghini ci riprova",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/23/mondiali-di-ciclismo-parola-alla-strada-longo-borghini-ci-riprova_ad7109cd-df06-43bb-8be7-2857aef17ade.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 20:09:47 +0200",
+      "excerpt": "Gli azzurri outsider domenica, Evenepoel cerca il bis dopo il botta e risposta con Ganna"
+    },
     {
       "title": "Figc: la Lega Serie A ribadisce il sostegno a Malagò, 'sempre al suo fianco'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/figc-la-lega-serie-a-ribadisce-il-sostegno-a-malago-sempre-al-suo-fianco_549e9d65-9499-40aa-ba78-05823a0a203a.html",

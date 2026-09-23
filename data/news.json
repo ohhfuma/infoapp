@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-23T18:10:15.426Z",
+  "lastUpdated": "2026-09-23T18:40:24.731Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Vigilanza finanziaria Ue, è allarme sulla dipendenza da cloud e Ia non europei",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/vigilanza-finanziaria-ue-e-allarme-sulla-dipendenza-da-cloud-e-ia-non-europei_32f22eb1-7036-494d-b513-dfcdc408f38a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 20:20:22 +0200",
+        "excerpt": "Il rapporto di Eba-Eiopa-Esma, criticità aggravate dal quadro geopolitico'"
+      },
+      {
+        "title": "Il modello Claude di Anthropic scopre un nuovo sistema enzimatico",
+        "link": "https://it.investing.com/news/stock-market-news/il-modello-claude-di-anthropic-scopre-un-nuovo-sistema-enzimatico-3560100",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 18:16:36",
+        "excerpt": ""
+      },
       {
         "title": "Miniera di rame Escondida di BHP nel Cile: incidente mortale",
         "link": "https://it.investing.com/news/stock-market-news/miniera-di-rame-escondida-di-bhp-nel-cile-incidente-mortale-93CH-3560087",
@@ -59,11 +73,11 @@
         "excerpt": "L’ad di Montepaschi a Londra parla agli azionisti: “A ottobre non dovete scegliere tra l’offerta di Intesa e le nostre, ma tenete viva ogni possibilità per massimizzare l’investimento”. Su Crédit Agricole: “Capirà la log"
       },
       {
-        "title": "Incendio alle porte di Milano, nube nera in cielo",
+        "title": "Incendio a Turate, capannone in fiamme con animali all’interno",
         "link": "https://www.ilsole24ore.com/art/incendio-porte-milano-nube-nera-cielo-AJZfPjMB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 23 Sep 2026 16:55:00 GMT",
-        "excerpt": "Un vasto incendio sta divampando alle porte di Milano; una nunbe di fumo consistente è salita al cielo intorno alle 18,30. Sul posto stanno intervenendo i vigili del fuoco. La..."
+        "excerpt": "Un vasto incendio sta divampando alle porte di Milano; una nube di fumo consistente è salita al cielo intorno alle 18,30. Sul posto stanno intervenendo i..."
       },
       {
         "title": "Il traffico ferroviario di CN e CPKC supera le stime del 3° trimestre",
@@ -91,13 +105,6 @@
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-airbnb-sta-scendendo-oggi-93CH-3560034",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-23 16:39:52",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Booking Holdings sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-booking-holdings-sta-scendendo-oggi-93CH-3560032",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 16:34:49",
         "excerpt": ""
       },
       {
@@ -162,13 +169,6 @@
         "source": "ANSA Economia",
         "pubDate": "Wed, 23 Sep 2026 17:58:07 +0200",
         "excerpt": "Londra -0,03%, Francoforte -0,66%"
-      },
-      {
-        "title": "Approvato dal Senato in via definitiva il ddl sul nucleare",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/approvato-dal-senato-in-via-definitiva-il-ddl-sul-nucleare_b7e4e93d-a8f7-4b8f-96af-f0a7c7221f73.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 17:56:18 +0200",
-        "excerpt": "Meloni, promessa mantenuta, scelta coraggiosa e di buon senso"
       },
       {
         "title": "Ai, più timori e meno fiducia: così è cambiato il giudizio degli italiani",
@@ -327,7 +327,7 @@
         "excerpt": "Alibaba ha annunciato l’intenzione di espandere i data center all’estero, puntando sui mercati europei e mediorientali, «creando le prime regioni cloud» in Turchia, Finlandia e Paesi Bassi, espandendo al contempo..."
       },
       {
-        "title": "Guerra, ultime notizie. Onu, Pezeshkian mostra foto di bimbi uccisi dalle bombe. Usa lasciano l’aula",
+        "title": "Guerra, ultime notizie. Onu, Zelensky: Putin paziente zero, impedirgli diffusione male. Pezeshkian mostra foto bimbi uccisi e Usa lasciano aula",
         "link": "https://www.ilsole24ore.com/art/colloqui-usa-iran-margine-assemblea-onu-teheran-ha-trasmesso-condizioni-un-accordo-AJNQiuLB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 23 Sep 2026 05:23:00 GMT",
@@ -401,6 +401,34 @@
     ],
     "mondo": [
       {
+        "title": "Zelensky, 'Russia usa soldati da 47 Paesi, non lasciatevi trascinare'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/23/zelensky-russia-usa-soldati-da-47-paesi-non-lasciatevi-trascinare_fe479629-6cca-4107-b416-e4b9be841159.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 20:29:51 +0200",
+        "excerpt": "L'appello del leader ucraino all'Assemblea generale dell'Onu"
+      },
+      {
+        "title": "Zelensky, 'Russia usa soldati da 47 Paesi, non lasciatevi trascinare'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/zelensky-russia-usa-soldati-da-47-paesi-non-lasciatevi-trascinare_81e578a8-b5d9-4426-a211-f283a768d29e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 20:29:48 +0200",
+        "excerpt": "L'appello del leader ucraino all'Assemblea generale dell'Onu"
+      },
+      {
+        "title": "Zelensky, 'Putin deve essere fermato, le sanzioni ci rafforzano'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/zelensky-putin-deve-essere-fermato-le-sanzioni-ci-rafforzano_4e8ac890-69b3-47a2-9938-a3915ecf048e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 20:09:57 +0200",
+        "excerpt": "L'appello del presidente ucraino all'Onu"
+      },
+      {
+        "title": "La Tunisia respinge il ricorso dei quattro attivisti della Flotilla Soumoud",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/la-tunisia-respinge-il-ricorso-dei-quattro-attivisti-della-flotilla-soumoud_5ebfec03-5e96-42f3-aa6b-dee803c18376.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 20:08:44 +0200",
+        "excerpt": "Naouar di nuovo in ospedale, prorogato di 48 ore il fermo di 13 manifestanti"
+      },
+      {
         "title": "Lavrov, 'pronti ai negoziati ma senza sospendere le ostilità'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/lavrov-pronti-ai-negoziati-ma-senza-sospendere-le-ostilita_5c774d52-4978-45e3-aa99-811e2b687030.html",
         "source": "ANSA Mondo",
@@ -437,38 +465,10 @@
       },
       {
         "title": "Tajani, 'discorso dell'Iran all'Onu molto duro, deve cambiare i toni'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/tajani-discorso-delliran-allonu-molto-duro-deve-cambiare-i-toni_6debb32a-c444-4561-a3fe-7d3d275409ad.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 18:51:50 +0200",
-        "excerpt": "'Noi lavoriamo per una soluzione diplomatica'"
-      },
-      {
-        "title": "Tajani, 'discorso dell'Iran all'Onu molto duro, deve cambiare i toni'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/23/tajani-discorso-delliran-allonu-molto-duro-deve-cambiare-i-toni_113a71c9-654e-491e-8131-5ee64af9bad0.html",
         "source": "ANSA Mondo",
         "pubDate": "Wed, 23 Sep 2026 18:51:47 +0200",
         "excerpt": "'Noi lavoriamo per una soluzione diplomatica'"
-      },
-      {
-        "title": "Presentato a New York il piano da 2,45 miliardi del Board of Peace per Gaza",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/presentato-a-new-york-il-piano-da-245-miliardi-del-board-of-peace-per_600d8651-68b1-4e88-99e5-773940812137.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 18:51:27 +0200",
-        "excerpt": "Alla presenza degli Stati membri e degli inviati Usa Witkoff e Kushner a margine dell'Onu"
-      },
-      {
-        "title": "Presentato a New York il piano da 2,45 miliardi del Board of Peace per Gaza",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/23/presentato-a-new-york-il-piano-da-245-miliardi-del-board-of-peace-per_e8db5d64-ce47-4c90-8a8c-7bdd8d068666.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 18:51:03 +0200",
-        "excerpt": "Alla presenza degli Stati membri e degli inviati Usa Witkoff e Kushner a margine dell'Onu"
-      },
-      {
-        "title": "Tajani, 'da Italia un nuovo finanziamento per i villaggi cristiani nel sud del Libano'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/23/tajani-da-italia-un-nuovo-finanziamento-per-i-villaggi-cristiani-nel-sud-del_dbfb2df4-7ddc-49f7-8c37-fc48c945c845.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 18:48:19 +0200",
-        "excerpt": "Il ministro incontra l'omologo libanese a margine dell'Assemblea Onu"
       },
       {
         "title": "US crude inventories rise while fuel stocks decline, EIA says",
@@ -572,25 +572,32 @@
   },
   "attualita": [
     {
-      "title": "Precipita durante i lavori al Colosseo, morto operaio 22enne",
+      "title": "Ucraina, Lavrov: 'Pronti ai negoziati, ma senza sospendere le ostilità'. Zelensky: 'Putin deve essere fermato'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/ucraina-lavrov-pronti-ai-negoziati-ma-senza-sospendere-le-ostilita.-zelensky-putin-deve_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 23 Sep 2026 20:36:02 +0200",
+      "excerpt": "Il leader ucraino: 'Russia usa soldati da 47 paesi, non lasciatevi trascinare'. Rubio: 'Putin invitato al G20 di Miami'. Incontro del segretario di Stato Usa con il ministro degli Esteri russo"
+    },
+    {
+      "title": "Precipita durante i lavori al Colosseo, morto un operaio 22enne",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/morto-un-operaio-al-colosseo-meloni-morte-inaccettabile_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
       "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 19:54:58 +0200",
-      "excerpt": "Montava nuova illuminazione,caduto da 10 metri. Chiuso Anfiteatro. Meloni, 'inaccettabile'"
+      "pubDate": "Wed, 23 Sep 2026 20:14:53 +0200",
+      "excerpt": "Montava la nuova illuminazione, caduto da 10 metri. Chiuso l'Anfiteatro. Meloni: 'Inaccettabile'"
     },
     {
-      "title": "Ucraina, Lavrov: 'Pronti ai negoziati, ma senza sospendere le ostilità'. Rubio: 'Putin invitato al G20 di Miami'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/ucraina-lavrov-pronti-ai-negoziati-ma-senza-sospendere-le-ostilita.-rubio-putin-invitato_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 19:52:56 +0200",
-      "excerpt": "Incontro del segretario di Stato Usa con Lavrov. Il Cremlino dopo l'incontro Trump-Zelensky: 'Non ci sono presupposti per i negoziati'"
-    },
-    {
-      "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi, 'non ci piegheremo' ",
+      "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-mostra-allonu-le-foto-dei-bimbi-uccisi-non-ci-piegheremo_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
       "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 19:50:26 +0200",
+      "pubDate": "Wed, 23 Sep 2026 20:11:34 +0200",
       "excerpt": "'Sì al dialogo ma basta forza'. La delegazione Usa lascia la sala. Rubio: 'Progressi ma nessuna svolta'"
+    },
+    {
+      "title": "Ricciardi (M5S): “Meloni diserta l’Onu per Vespa e Fashion week”. Renzi: “Che figuraccia”",
+      "link": "https://www.repubblica.it/politica/2026/09/23/news/meloni_onu_fashion_week_milano_renzi_ricciardi_m5s-425603235/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 18:06:48 +0000",
+      "excerpt": "La premier assente all’assemblea a New York partecipa invece alla cena di gala a Milano. Il leader di Italia viva: “Rimane a casa per la campagna elettorale”"
     },
     {
       "title": "Nucleare, via libera definitivo al Senato. Il ministro Pichetto: “Inizia ritorno all’atomo”",
@@ -600,11 +607,11 @@
       "excerpt": "Approvato il ddl votato a giugno dalla Camera. Il titolare del Mase promette i decreti attuativi entro la fine dell’anno"
     },
     {
-      "title": "Repubblica Insieme: “A Firenze un vertice sul clima con 100 sindaci del mediterraneo”",
+      "title": "Repubblica Insieme, Mancuso: “Il caldo è un apocalisse. Meno asfalto, più alberi”",
       "link": "https://firenze.repubblica.it/cronaca/2026/09/23/diretta/firenze_repubblica_insieme_diretta-425602853/",
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 15:16:14 +0000",
-      "excerpt": "La proposta della sindaca durante l’evento al Teatro della Pergola. Il direttore Cappellini: “La democrazia a rischio, il giornale una comunità dove trovarsi”"
+      "excerpt": "La soprintendente Ranaldi: “Accolgo l’appello del neurobiologo, vedrei bene il verde i piazza della Repubblica. Funaro candida Firenze come sede di un vertice dei sindaci del Mediterraneo sul clima. Il direttore Cappelli"
     },
     {
       "title": "Cortenuova, operaio di 66 anni muore schiacciato da una trave in acciaio nel polo logistico di MD",
@@ -654,13 +661,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 12:59:01 +0000",
       "excerpt": "Un documento della Santa Sede celebra i 60 anni dalla svolta conciliare nei rapporti tra cattolici ed ebrei, ma Di Segni interviene gelido: “Noi siamo anche nazione”. Sullo sfondo, le divergenze per la posizione della Sa"
-    },
-    {
-      "title": "Assemblea generale dell’Onu, Pezeshkian mostra le foto dei bimbi uccisi. Delegazione Usa esce",
-      "link": "https://www.repubblica.it/esteri/2026/09/23/diretta/onu_assemblea_generale_pezeshkian_zelensky_milei_oggi-425602433/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 12:40:54 +0000",
-      "excerpt": "Al Palazzo di Vetro 200 leader si riuniscono per il secondo giorno. Dopo l’intervento fiume di Trump di ieri, con le minacce a Teheran, ora tocca al presidente iraniano rispondere: “Noi vittime di terrorismo”. Milei: “Or"
     },
     {
       "title": "Dopo Grammy e Oscar, H.E.R. doppia \"L’isola dei ricordi\"",
@@ -742,6 +742,27 @@
   ],
   "sport": [
     {
+      "title": "Jannik Sinner si unisce alla Global Partnership for Education",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/23/jannik-sinner-si-unisce-alla-global-partnership-for-education_541881cb-b443-4c11-8274-9e4cc42dbca9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 20:34:00 +0200",
+      "excerpt": "Il n.1 del tennis in video all'iniziativa rilanciata oggi all'Onu da Italia e Nigeria"
+    },
+    {
+      "title": "Punti fermi e qualche esordiente, la nuova Italia di Mancini",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/punti-fermi-e-qualche-esordiente-la-nuova-italia-di-mancini_3b8002bf-9698-4c0b-81a0-8d8617aebb52.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 20:11:16 +0200",
+      "excerpt": "Romano fra le possibili novità, 'ho scelto l'azzurro con il cuore'"
+    },
+    {
+      "title": "Mondiali di ciclismo: parola alla strada, Longo Borghini ci riprova",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/23/mondiali-di-ciclismo-parola-alla-strada-longo-borghini-ci-riprova_ad7109cd-df06-43bb-8be7-2857aef17ade.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 20:09:47 +0200",
+      "excerpt": "Gli azzurri outsider domenica, Evenepoel cerca il bis dopo il botta e risposta con Ganna"
+    },
+    {
       "title": "Figc: la Lega Serie A ribadisce il sostegno a Malagò, 'sempre al suo fianco'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/figc-la-lega-serie-a-ribadisce-il-sostegno-a-malago-sempre-al-suo-fianco_549e9d65-9499-40aa-ba78-05823a0a203a.html",
       "source": "ANSA Sport",
@@ -775,27 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 23 Sep 2026 19:11:03 +0200",
       "excerpt": "L'ex Inter: 'al momento per me è importante stare vicino alla mia famiglia in Danimarca'"
-    },
-    {
-      "title": "Frattesi: 'Zenica ferita sempre aperta, ma l'Italia merita fiducia'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/frattesi-zenica-ferita-sempre-aperta-ma-litalia-merita-fiducia_bbc90188-b5b7-44ac-96ad-99e2857dc742.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 18:24:57 +0200",
-      "excerpt": "Il centrocampista: 'All'Inter troppi alti e bassi, con la Lazio ho ripreso a divertirmi'"
-    },
-    {
-      "title": "Canottaggio: Gualtieri socio onorario del Reale Circolo Canottieri Tevere Remo",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/23/canottaggio-gualtieri-socio-onorario-del-reale-circolo-canottieri-tevere-remo_82f9303b-da8b-41a8-95be-24a9c350c162.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 18:12:34 +0200",
-      "excerpt": "Sport, inclusione e rapporto con il Tevere tra temi serata consegna diploma a sindaco Roma"
-    },
-    {
-      "title": "Calcio: Juve; Grabara si è operato a Konin, intervento riuscito",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/calcio-juve-grabara-si-e-operato-a-konin-intervento-riuscito_f3092e2d-94f9-4bd7-945c-f5d27e60f519.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 18:06:27 +0200",
-      "excerpt": "Ora il portiere inizierà la lunga riabilitazione post operazione"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
