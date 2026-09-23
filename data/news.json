@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-23T00:10:14.743Z",
+  "lastUpdated": "2026-09-23T00:41:39.139Z",
   "finanza": {
     "italia": [
+      {
+        "title": "L’ACCC blocca la proposta di acquisizione di RAC Insurance da parte di IAG",
+        "link": "https://it.investing.com/news/stock-market-news/laccc-blocca-la-proposta-di-acquisizione-di-rac-insurance-da-parte-di-iag-3558583",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 00:14:15",
+        "excerpt": ""
+      },
       {
         "title": "Jana Partners chiede la vendita di Six Flags",
         "link": "https://it.investing.com/news/stock-market-news/jana-partners-chiede-la-vendita-di-six-flags-3558575",
@@ -91,13 +98,6 @@
         "link": "https://it.investing.com/news/stock-market-news/apollo-limita-i-rimborsi-richieste-di-uscita-al-147-3558536",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-22 21:29:20",
-        "excerpt": ""
-      },
-      {
-        "title": "Talos Energy sale asset nel Golfo d’America da 420 milioni di dollari",
-        "link": "https://it.investing.com/news/stock-market-news/talos-energy-sale-asset-nel-golfo-damerica-da-420-milioni-di-dollari-93CH-3558525",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-22 21:14:01",
         "excerpt": ""
       },
       {
@@ -401,6 +401,34 @@
     ],
     "mondo": [
       {
+        "title": "Burnham, 'al fianco di Israele ma azioni a Gaza a Cisgiordania ingiustificate'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/burnham-al-fianco-di-israele-ma-azioni-a-gaza-a-cisgiordania-ingiustificate_12bcb4b5-9f61-4395-83d9-4f890a22e768.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 02:35:51 +0200",
+        "excerpt": "'Basta a sofferenze e morti, i popoli israeliano e palestinese vivano in pace'"
+      },
+      {
+        "title": "++ Burnham, 'al fianco di Israele ma azioni a Gaza a Cisgiordania ingiustificate' ++",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/burnham-al-fianco-di-israele-ma-azioni-a-gaza-a-cisgiordania-ingiustificate_8097fee7-a382-46e2-840e-f557270b925b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 02:35:18 +0200",
+        "excerpt": "'Basta a sofferenze e morti, i popoli israeliano e palestinese vivano in pace'"
+      },
+      {
+        "title": "Mexico arrests alleged prominent fentanyl trafficker",
+        "link": "https://www.investing.com/news/commodities-news/mexico-arrests-allegedprominent-fentanyl-trafficker-4911914",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-23 00:24:13",
+        "excerpt": ""
+      },
+      {
+        "title": "Burnham, 'G20 lavorerà a standard sicurezza per l'IA con la presidenza Gb del 2027'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/burnham-g20-lavorera-a-standard-sicurezza-per-lia-con-la-presidenza-gb-del_2a9b9a28-f4c0-4043-8c33-ddb0e013ef3d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 02:22:36 +0200",
+        "excerpt": "E annuncia una nuova partnership di difesa basata sull'IA con gli Stati Uniti"
+      },
+      {
         "title": "Panama, 37 denunce di abusi sessuali contro il clero dal 2001 al 2025",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/panama-37-denunce-di-abusi-sessuali-contro-il-clero-dal-2001-al-2025_725f611f-c5d3-4898-85c8-d09d9333e31e.html",
         "source": "ANSA Mondo",
@@ -513,32 +541,11 @@
         "excerpt": ""
       },
       {
-        "title": "Protesta dell'Argentina dopo la nuova decisione Gb sulle Falkland-Malvinas",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/protesta-dellargentina-dopo-la-nuova-decisione-gb-sulle-falkland-malvinas_87ab0403-e7ba-4d36-a48d-d3df81779472.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 23:19:45 +0200",
-        "excerpt": "Prolungate di 5 anni le concessioni petrolifere nonostante le sanzioni di Buenos Aires"
-      },
-      {
         "title": "Gold slightly higher as slide in oil prices counters drag from firmer dollar",
         "link": "https://www.investing.com/news/commodities-news/gold-rises-as-oil-slide-eases-inflation-fears-trump-signals-iran-talks-4909810",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-22 21:18:56",
         "excerpt": ""
-      },
-      {
-        "title": "Netanyahu, 'da Macron sbalorditiva dichiarazione grottesca'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/22/netanyahu-da-macron-sbalorditiva-dichiarazione-grottesca_c9d70038-50b3-4457-a0ef-00c7fe11b066.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 23:01:03 +0200",
-        "excerpt": "'L'ignoranza non è una scusa per cancellare il sangue degli ebrei uccisi'"
-      },
-      {
-        "title": "Fujimori rivendica la guerra al terrorismo in Perù davanti all'Assemblea Generale",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/22/fujimori-rivendica-la-guerra-al-terrorismo-in-peru-davanti-allassemblea-generale_a12af597-6b33-4264-ac8d-be90a47c00d2.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Tue, 22 Sep 2026 22:28:18 +0200",
-        "excerpt": "'Dopo 34 anni quelli che hanno sconfitto le guerriglie continuano ad essere processati'"
       },
       {
         "title": "Corn futures decline as traders await US-China trade talks",
@@ -559,13 +566,6 @@
         "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-22 19:18:15",
-        "excerpt": ""
-      },
-      {
-        "title": "Crude Oil WTI near oversold support at $87.72: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-94-support-after-double-top-live-levels-93CH-4908350",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 19:18:09",
         "excerpt": ""
       }
     ]
