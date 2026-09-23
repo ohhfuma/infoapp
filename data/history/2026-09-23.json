@@ -4,11 +4,46 @@
   "finanza": {
     "italia": [
       {
+        "title": "Approvato dal Senato in via definitiva il ddl sul nucleare",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/approvato-dal-senato-in-via-definitiva-il-ddl-sul-nucleare_b7e4e93d-a8f7-4b8f-96af-f0a7c7221f73.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 17:52:21 +0200",
+        "excerpt": "Meloni, promessa mantenuta, scelta coraggiosa e di buon senso"
+      },
+      {
+        "title": "Conviene comprare il calo dei titoli della difesa? Risponde Bernstein",
+        "link": "https://it.investing.com/news/stock-market-news/conviene-comprare-il-calo-dei-titoli-della-difesa-risponde-bernstein-3560000",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 15:49:44",
+        "excerpt": ""
+      },
+      {
+        "title": "Borsa: Milano chiude in calo, Ftse Mib -0,18%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/borsa-milano-chiude-in-calo-ftse-mib-018_5108fecd-8e88-49e5-bb4b-4e8e5216b825.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 17:45:51 +0200",
+        "excerpt": "Scivolone Unipol e Generali, sugli scudi Eni e Cucinelli"
+      },
+      {
+        "title": "Ai, più timori e meno fiducia: così è cambiato il giudizio degli italiani",
+        "link": "https://www.ilsole24ore.com/art/ai-piu-timori-e-meno-fiducia-cosi-e-cambiato-giudizio-italiani-AJ6bkXMB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Wed, 23 Sep 2026 15:44:01 GMT",
+        "excerpt": "Nel 2020 due italiani su tre guardavano allo sviluppo dell’intelligenza artificiale come a qualcosa di positivo. Sei anni dopo la quota è scesa sotto la metà. Secondo l’indagine Swg effettuata..."
+      },
+      {
         "title": "Nucleare, via libera definitivo al Senato. Il ministro Pichetto: “Inizia ritorno all’atomo”",
         "link": "https://www.repubblica.it/economia/2026/09/23/news/nucleare_legge_pichetto_fratin_senato_delega_governo_centrali-425602870/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Wed, 23 Sep 2026 17:35:09 +0200",
         "excerpt": "Approvato il ddl votato a giugno dalla Camera. Il titolare del Mase promette i decreti attuativi entro la fine dell’anno"
+      },
+      {
+        "title": "Perché il titolo Shopify sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-shopify-sta-scendendo-oggi-93CH-3559986",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 15:30:12",
+        "excerpt": ""
       },
       {
         "title": "Perché il titolo di Hemlo Mining sta scendendo oggi?",
@@ -387,44 +422,23 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-23 12:55:56",
         "excerpt": ""
-      },
-      {
-        "title": "Un dipendente di Morgan Stanley diffonde per errore documenti riservati sulle operazioni in Asia",
-        "link": "https://it.investing.com/news/stock-market-news/un-dipendente-di-morgan-stanley-diffonde-per-errore-documenti-riservati-sulle-operazioni-in-asia-93CH-3559654",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 12:52:23",
-        "excerpt": ""
-      },
-      {
-        "title": "BofA promuove SigmaRoc: forza dei prezzi della calce e potenziale acquisizioni",
-        "link": "https://it.investing.com/news/stock-market-news/bofa-promuove-sigmaroc-forza-dei-prezzi-della-calce-e-potenziale-acquisizioni-3559649",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 12:50:26",
-        "excerpt": ""
-      },
-      {
-        "title": "Le azioni di Zeo Energy salgono dopo il rimborso anticipato del debito",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-zeo-energy-salgono-dopo-il-rimborso-anticipato-del-debito-93CH-3559646",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 12:50:22",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo Paychex crolla dopo i risultati del primo trimestre fiscale",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-paychex-crolla-dopo-i-risultati-del-primo-trimestre-fiscale-93CH-3559640",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 12:48:06",
-        "excerpt": ""
-      },
-      {
-        "title": "Inps, in arrivo 1.177.597 carte Dedicata a te, accredito da ottobre",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/inps-in-arrivo-1.177.597-carte-dedicata-a-te-accredito-da-ottobre_c86a4d4a-a45f-442f-8053-cd341bbd3869.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 14:46:23 +0200",
-        "excerpt": "500 euro per famiglie con Isee inferiore a 15mila euro non destinatarie di Adi e Naspi"
       }
     ],
     "europa": [
+      {
+        "title": "India, l’opposizione accusa la Commissione elettorale di manipolazione delle liste",
+        "link": "https://www.ilsole24ore.com/art/india-l-opposizione-accusa-commissione-elettorale-manipolazione-liste-AJXp0QMB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Wed, 23 Sep 2026 15:43:38 GMT",
+        "excerpt": "NEW DELHI - Il governo guidato dal primo ministro Narendra Modi è nuovamente sotto pressione dopo che, in seguito a un’inchiesta giornalistica, le opposizioni hanno chiesto le dimissioni del..."
+      },
+      {
+        "title": "Aditxt to be delisted from Nasdaq following trading suspension",
+        "link": "https://www.investing.com/news/sec-filings/aditxt-to-be-delisted-from-nasdaq-following-trading-suspension-93CH-4913528",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-23 15:42:33",
+        "excerpt": ""
+      },
       {
         "title": "Culp shareholders re-elect board, approve auditors and executive pay",
         "link": "https://www.investing.com/news/sec-filings/culp-shareholders-reelect-board-approve-auditors-and-executive-pay-93CH-4913445",
@@ -751,6 +765,34 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Trump, Venezuela’s Rodriguez discuss debt restructuring, Rubio says",
+        "link": "https://www.investing.com/news/commodities-news/trump-venezuelas-rodriguez-discuss-debt-restructuring-rubio-says-4913537",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-23 15:48:54",
+        "excerpt": ""
+      },
+      {
+        "title": "Iran minaccia paralisi aeroporti dei Paesi che adotteranno sanzioni Usa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/iran-minaccia-paralisi-aeroporti-dei-paesi-che-adotteranno-sanzioni-usa_e7ef5e9f-c0ce-4c2e-b1be-1b1b84690131.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 17:38:17 +0200",
+        "excerpt": "Lo ha dichiarato il segretario del Consiglio supremo per la sicurezza nazionale"
+      },
+      {
+        "title": "Rubio, abbiamo invitato Putin al G20 a Miami",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/23/rubio-abbiamo-invitato-putin-al-g20-a-miami_7193fc2d-3871-4335-9eea-5e92b0e1a769.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 17:20:24 +0200",
+        "excerpt": "Il segretario di Stato Usa: 'Speriamo che accetti l'invito'"
+      },
+      {
+        "title": "Rubio, abbiamo invitato Putin al G20 a Miami",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/rubio-abbiamo-invitato-putin-al-g20-a-miami_3bb52590-d963-4e86-aa90-f4d32d184ed7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Wed, 23 Sep 2026 17:20:06 +0200",
+        "excerpt": "Il segretario di Stato Usa: 'Speriamo che accetti l'invito'"
+      },
       {
         "title": "Brasile, Inpasa porta l'olio di mais nella produzione di asfalto Petrobras",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/brasile-inpasa-porta-lolio-di-mais-nella-produzione-di-asfalto-petrobras_4494441b-52df-4410-bda0-336b69f6befd.html",
@@ -1142,34 +1184,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Wed, 23 Sep 2026 01:01:18 +0200",
         "excerpt": "Francia e Lussemburgo salvano Usmanov e Fridman. Nella black list rimangono per tre anni tremila tra individui ed entità"
-      },
-      {
-        "title": "Explainer-Ban on US diesel exports would hurt, not help fuel markets, analysts say",
-        "link": "https://www.investing.com/news/commodities-news/explainerban-on-us-diesel-exports-would-hurt-not-help-fuel-markets-analysts-say-4911830",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-22 23:00:32",
-        "excerpt": ""
-      },
-      {
-        "title": "Zelensky spera nell’aiuto della Cina: “Stop alle armi prima dell’inverno”",
-        "link": "https://www.repubblica.it/esteri/2026/09/23/news/zelensky_aiuto_cina_fine_guerra_inverno_trump-425601449/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 23 Sep 2026 01:00:00 +0200",
-        "excerpt": "Bilaterale tra il presidente ucraino e Donald Trump a margine dell’Assemblea generale delle Nazioni Unite. “Ci confrontiamo sulla tregua energetica e su come terminare la guerra”"
-      },
-      {
-        "title": "Trump alle Nazioni Unite: “Porto la pace nel mondo, ora l’accordo con l’Iran”",
-        "link": "https://www.repubblica.it/esteri/2026/09/23/news/trump_discorso_nazioni_unite_pace_mondo_accordo_iran-425601390/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 23 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il discorso all’Assemblea generale: “Putin deve fare l’intesa con l’Ucraina”. Poi attacca la giustizia e ribattezza l’IA: “Chiamatela superintelligenza”"
-      },
-      {
-        "title": "I Paesi del Golfo in pressing su Trump: “Risolvi questa crisi”",
-        "link": "https://www.repubblica.it/esteri/2026/09/23/news/paesi_golfo_pressing_trump_crisi_arabia_qatar_oleodotto-425601354/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 23 Sep 2026 01:00:00 +0200",
-        "excerpt": "Alta tensione tra America e Riad, che si è vista rifiutare l’offensiva contro gli Houthi. Il Financial Times: “Bin Salman non dimenticherà”"
       }
     ]
   },
@@ -1596,6 +1610,27 @@
     }
   ],
   "sport": [
+    {
+      "title": "Atletica paralimpica e inclusione, Fispes e Unicredit insieme per i giovani talenti",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/23/atletica-paralimpica-e-inclusione-fispes-e-unicredit-insieme-per-i-giovani-talenti_e0f8c459-c981-4fee-ad81-33b11727cae2.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 18:04:18 +0200",
+      "excerpt": "A Roma l'Open Day di \"formazione del talento\" al Centro di preparazione delle Tre Fontane"
+    },
+    {
+      "title": "Canottaggio: Gualtieri socio onorario del Reale Circolo Canottieri Tevere Remo",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/23/canottaggio-gualtieri-socio-onorario-del-reale-circolo-canottieri-tevere-remo_f79b53e5-ebc2-4741-8d72-220749e3ec4a.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 17:54:00 +0200",
+      "excerpt": "Sport, inclusione e rapporto con il Tevere tra temi serata consegna diploma a sindaco Roma"
+    },
+    {
+      "title": "A Coverciano il sorteggio della 5/a edizione della Unity Euro Cup",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/a-coverciano-il-sorteggio-della-5a-edizione-della-unity-euro-cup_194e0273-34d5-4075-997f-dd2d75d0105d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 17:43:47 +0200",
+      "excerpt": "Il torneo in programma il 15 ottobre prossimo al Centro federale"
+    },
     {
       "title": "Mondiali donne U20: Italia battuta 2-0, in finale va la Spagna",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/mondiali-donne-u20-italia-battuta-2-0-in-finale-va-la-spagna_b09fa050-178c-49b2-a420-531794ea52c2.html",
