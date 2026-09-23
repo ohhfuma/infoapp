@@ -1,19 +1,103 @@
 {
-  "lastUpdated": "2026-09-23T16:08:51.557Z",
+  "lastUpdated": "2026-09-23T16:40:25.422Z",
   "finanza": {
     "italia": [
       {
-        "title": "Giorgetti, la priorità è il taglio delle tasse, sintesi sulla manovra a breve",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/giorgetti-la-priorita-e-il-taglio-delle-tasse-sintesi-sulla-manovra-a-breve_b1a5b09c-b8ef-457b-a62e-ec49f8a55922.html",
+        "title": "Longevità, da rischio a opportunità: la nuova sfida per il welfare e le assicurazioni",
+        "link": "https://www.repubblica.it/economia/2026/09/23/news/longevita_da_rischio_a_opportunita_la_nuova_sfida_per_il_welfare_e_le_assicurazioni-425603040/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 23 Sep 2026 18:32:27 +0200",
+        "excerpt": "Ci sono 15 milioni di ultrasessantacinquenni in Italia e di questi circa 5 milioni hanno problemi di salute seri"
+      },
+      {
+        "title": "Frecciarossa da Napoli a Berlino entro il 2028. Poi Londra, Bruxelles e Amsterdam: il piano FS",
+        "link": "https://www.repubblica.it/economia/2026/09/23/news/frecciarossa_da_napoli_a_berlino_entro_il_2028_e_arriva_una_flotta_di_74_treni_intelligenti-425602610/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 23 Sep 2026 18:27:34 +0200",
+        "excerpt": "Ecco la strategia internazionale di Trenitalia. Nei vagoni ci saranno poltrone più larghe"
+      },
+      {
+        "title": "Energia, finanza low-carbon a un passo dai combustibili fossili",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/09/23/news/energia_finanza_low-carbon_a_un_passo_dai_combustibili_fossili-425602997/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Wed, 23 Sep 2026 18:16:23 +0200",
+        "excerpt": "Nel 2025 il rapporto sale a 0,97:1, con 1.150 miliardi di dollari destinati alle attività a basse emissioni su 2.300 miliardi complessivi. L’Europa resta leader, la Cina accelera sugli investimenti in reti e utility, men"
+      },
+      {
+        "title": "Lollobrigida, firmato decreto per la promozione del turismo enologico",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/lollobrigida-firmato-decreto-per-la-promozione-del-turismo-enologico_3f8cac4a-3163-4cab-a250-1484b74bfde6.html",
         "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 17:55:29 +0200",
-        "excerpt": "Migliorate le stime dell'Ocse, non siamo in coda in Europa"
+        "pubDate": "Wed, 23 Sep 2026 18:16:15 +0200",
+        "excerpt": "I beneficiari sono Consorzi di tutela, organizzazioni di produttori e interprofessionali"
+      },
+      {
+        "title": "Perché il titolo CrowdStrike è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-crowdstrike-e-in-forte-rialzo-oggi-93CH-3560017",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 16:15:31",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo CoreWeave è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-coreweave-e-in-rialzo-oggi-93CH-3560014",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 16:12:50",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Royal Caribbean è in calo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-royal-caribbean-e-in-calo-oggi-93CH-3560012",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 16:12:03",
+        "excerpt": ""
+      },
+      {
+        "title": "Il futuro dell'agricoltura parte dal suolo, 250 giovani scelgono vie dell'innovazione",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/il-futuro-dellagricoltura-parte-dal-suolo-250-giovani-scelgono-vie-dellinnovazione_2174893e-658c-4ba9-b4ed-fc3035b30332.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 18:09:37 +0200",
+        "excerpt": "Studenti degli istituti agrari e imprenditori protagonisti a Roma del contest Soil Date"
+      },
+      {
+        "title": "Lo spread Btp-Bund si allarga a 95,4 punti, balzo dei rendimenti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/lo-spread-btp-bund-si-allarga-a-954-punti-balzo-dei-rendimenti_6a5dc7a4-2e42-4b85-a4dd-1d21d42b3c81.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 18:02:45 +0200",
+        "excerpt": "Il titolo italiano rende il 4,5% e quello tedesco il 3,55%"
+      },
+      {
+        "title": "Lovaglio, le due offerte possono funzionare separatamente",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/lovaglio-le-due-offerte-possono-funzionare-separatamente_357a0fca-d018-40b5-9456-9759d892f8dd.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 18:02:07 +0200",
+        "excerpt": "Col Banco più grandi, con Banca Generali più forti nel wealth management"
+      },
+      {
+        "title": "Electrolux, incontro tra Regione Fvg e sindacati in vista del 5 ottobre",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/electrolux-incontro-tra-regione-fvg-e-sindacati-in-vista-del-5-ottobre_b1be2fb7-733f-405e-9296-2696217ec152.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 17:59:13 +0200",
+        "excerpt": "Già stanziati 8 milioni di euro a sostegno della filiera dell'elettrodomestico"
+      },
+      {
+        "title": "Il prezzo del gas frena a 73,16 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/il-prezzo-del-gas-frena-a-7316-euro-al-megawattora_0f40b874-47d5-4650-a716-11b259d91f58.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 17:58:25 +0200",
+        "excerpt": "Il Ttf cede lo 0,25%"
+      },
+      {
+        "title": "Borsa: Europa chiude in calo, Parigi +0,39%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/borsa-europa-chiude-in-calo-parigi-039_4e29ec24-ead4-4414-ad06-cd7e681bae2a.html",
+        "source": "ANSA Economia",
+        "pubDate": "Wed, 23 Sep 2026 17:58:07 +0200",
+        "excerpt": "Londra -0,03%, Francoforte -0,66%"
       },
       {
         "title": "Approvato dal Senato in via definitiva il ddl sul nucleare",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/approvato-dal-senato-in-via-definitiva-il-ddl-sul-nucleare_b7e4e93d-a8f7-4b8f-96af-f0a7c7221f73.html",
         "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 17:52:21 +0200",
+        "pubDate": "Wed, 23 Sep 2026 17:56:18 +0200",
         "excerpt": "Meloni, promessa mantenuta, scelta coraggiosa e di buon senso"
       },
       {
@@ -22,13 +106,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-23 15:49:44",
         "excerpt": ""
-      },
-      {
-        "title": "Borsa: Milano chiude in calo, Ftse Mib -0,18%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/borsa-milano-chiude-in-calo-ftse-mib-018_5108fecd-8e88-49e5-bb4b-4e8e5216b825.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 17:45:51 +0200",
-        "excerpt": "Scivolone Unipol e Generali, sugli scudi Eni e Cucinelli"
       },
       {
         "title": "Ai, più timori e meno fiducia: così è cambiato il giudizio degli italiani",
@@ -73,27 +150,6 @@
         "excerpt": ""
       },
       {
-        "title": "Il titolo Jabil potrebbe muoversi dell’8,6% con gli utili del 30 settembre",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-jabil-potrebbe-muoversi-dell86-con-gli-utili-del-30-settembre-93CH-3559963",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 15:01:41",
-        "excerpt": ""
-      },
-      {
-        "title": "Le opzioni di Conagra Brands segnalano un movimento del 4,4% per gli utili del 30 settembre",
-        "link": "https://it.investing.com/news/stock-market-news/le-opzioni-di-conagra-brands-segnalano-un-movimento-del-44-per-gli-utili-del-30-settembre-93CH-3559960",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 14:59:52",
-        "excerpt": ""
-      },
-      {
-        "title": "Cal-Maine Foods potrebbe muoversi del 6,7% con gli utili del 30 settembre",
-        "link": "https://it.investing.com/news/stock-market-news/calmaine-foods-potrebbe-muoversi-del-67-con-gli-utili-del-30-settembre-93CH-3559955",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 14:53:52",
-        "excerpt": ""
-      },
-      {
         "title": "L’IA è un affare per freelance: aumentano produttività e tariffe. Per i dipendenti solo il lavoro",
         "link": "https://www.repubblica.it/economia/2026/09/23/news/ia_freelance_lavoro_dipendente_produttivita_tariffe_tempo-425602786/?rss",
         "source": "Repubblica Economia",
@@ -106,13 +162,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Wed, 23 Sep 2026 16:45:20 +0200",
         "excerpt": "L’outlook intermedio dell’organizzazione. Confermate le stime per il 2027, con il Pil a +0,6%"
-      },
-      {
-        "title": "Ludoil assume la guida di Isab, il primo polo di raffinazione italiano",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/ludoil-assume-la-guida-di-isab-il-primo-polo-di-raffinazione-italiano_f37dbb57-3846-41a1-bc03-2f76ab3ffc91.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 16:44:36 +0200",
-        "excerpt": "Investimenti per 1,3 miliardi, golden power e autorizzazioni in 4 mesi"
       },
       {
         "title": "Nucleare, via libera definitivo del Senato al Ddl delega. Pichetto: «Giornata storica per l’Italia» ",
@@ -129,46 +178,11 @@
         "excerpt": "Il question time del ministro in Parlamento: \" Priorità a taglio delle tasse. Abolizione del bollo sarà strutturale"
       },
       {
-        "title": "Sottosegretario Barbaro all'Onu, focus su su oceani, clima e transizione giusta",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/sottosegretario-barbaro-allonu-focus-su-su-oceani-clima-e-transizione-giusta_d2008493-f140-4760-a645-4cfca40ea149.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 16:22:14 +0200",
-        "excerpt": "Missione in rappresentanza del governo all'81/a assemblea generale"
-      },
-      {
-        "title": "Ocse, livello salari Italia e altri Paesi ancora pari o inferiore a livelli pre-Covid",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/ocse-livello-salari-italia-e-altri-paesi-ancora-pari-o-inferiore-a-livelli_e2c8601c-580b-4f1e-8f46-c314c3574c83.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 16:18:02 +0200",
-        "excerpt": "In concomitanza con l'aumento dei prezzi del carburante"
-      },
-      {
         "title": "Fisco, il nuovo concorso per giudice tributario entra nel vivo: pronta la commissione",
         "link": "https://www.ilsole24ore.com/art/fisco-nuovo-concorso-giudice-tributario-entra-vivo-pronta-commissione-AJEr9TLB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 23 Sep 2026 14:16:51 GMT",
         "excerpt": "Il Cpgt ha scelto all’unanimità i 29 componenti della commissione del secondo concorso per la magistratura tributaria professionale per 180 posti. Presidente Roberto Proietti. Attesa per la fissazione delle date delle pr"
-      },
-      {
-        "title": "Assemblea Nazionale sul Futuro, al lavoro per giovani e nuove generazioni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/assemblea-nazionale-sul-futuro-al-lavoro-per-giovani-e-nuove-generazioni_7067879a-5c19-4b4c-9c83-30349df96b69.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 16:11:25 +0200",
-        "excerpt": "Il progetto promosso dall'ASviS per mettere il futuro al centro del dibattito pubblico"
-      },
-      {
-        "title": "Frecciarossa da Napoli a Berlino entro il 2028. E arriva una flotta di 74 treni intelligenti",
-        "link": "https://www.repubblica.it/economia/2026/09/23/news/frecciarossa_da_napoli_a_berlino_entro_il_2028_e_arriva_una_flotta_di_74_treni_intelligenti-425602610/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 23 Sep 2026 16:07:10 +0200",
-        "excerpt": "Ecco il piano di Trenitalia. Nei vagoni ci saranno poltrone più larghe"
-      },
-      {
-        "title": "Open Fiber, posati 2mila km di nuovi cavi in fibra per potenziare rete",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/open-fiber-posati-2mila-km-di-nuovi-cavi-in-fibra-per-potenziare-rete_dcfba70f-bce4-4414-b449-40c84611f7f8.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 15:51:08 +0200",
-        "excerpt": "Operative direttrici tra Milano, Genova, Bologna, Padova e Roma. Oltre 3.200 km entro 2027"
       },
       {
         "title": "Giorgetti: «Priorità al taglio delle tasse. Rafforziamo le rilevazioni Istat»",
@@ -192,13 +206,6 @@
         "excerpt": "Secondo il Financial Times il miliardario Todd Boehly, in un consorzio con il governo Usa e investitori internazionali, presenterà un’offerta per il ramo internazionale della compagnia petrolifera russa oggetto di sanzio"
       },
       {
-        "title": "Regole europee, indipendenza e 1800 lavoratori: come nascono i “numeri” dell’Istat",
-        "link": "https://www.repubblica.it/economia/2026/09/23/news/istat_come_funziona_ricercatori_conti_pubblici-425602390/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 23 Sep 2026 15:31:54 +0200",
-        "excerpt": "Ieri il nuovo attacco del governo. Ma l’istituto di statistica si muove all’interno di una cornice di norme condivise e sotto la supervisione di Eurostat"
-      },
-      {
         "title": "Pausa pranzo sempre più cara, in 25 anni aumenti del 300%",
         "link": "https://www.ilsole24ore.com/art/pausa-pranzo-sempre-piu-cara-25-anni-aumenti-300percento-AJJvmEMB",
         "source": "Il Sole 24 Ore",
@@ -218,16 +225,16 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 23 Sep 2026 12:04:53 GMT",
         "excerpt": "Divisi dalla riforma del trasporto non di linea, uniti dal caro carburanti. Ci volevano la crisi energetica causata dalle guerre in Iran e Ucraina che morde in particolare il mondo..."
-      },
-      {
-        "title": "Pioggia di domande per il Btp Green, emessi 8 miliardi da destinare a rinnovabili e sostenibilità",
-        "link": "https://www.repubblica.it/economia/2026/09/23/news/btp_green_emissione_titolo_di_stato_rinnovabili_energia-425602393/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 23 Sep 2026 14:04:42 +0200",
-        "excerpt": "Le domande degli investitori istituzionali hanno superato i 110 miliardi di euro, quasi un terzo dal Regno Unito"
       }
     ],
     "europa": [
+      {
+        "title": "Weinstein condannato di nuovo a 15 anni di carcere per violenza sessuale",
+        "link": "https://www.ilsole24ore.com/art/weinstein-condannato-nuovo-15-anni-carcere-violenza-sessuale-AJw3DfMB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Wed, 23 Sep 2026 16:19:21 GMT",
+        "excerpt": "L’ex produttore di Hollywood Harvey Weinstein, 74 anni, è stato condannato nuovamente a 15 anni di carcere a New York per violenza sessuale su un’ex assistente di produzione, dopo otto..."
+      },
       {
         "title": "India, l’opposizione accusa la Commissione elettorale di manipolazione delle liste",
         "link": "https://www.ilsole24ore.com/art/india-l-opposizione-accusa-commissione-elettorale-manipolazione-liste-AJXp0QMB",
@@ -332,13 +339,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 23 Sep 2026 04:17:00 GMT",
         "excerpt": "L’Asian Development Bank ha aggiornato il suo outlook. Migliorano le prospettive rispetto a luglio (4,9%). Perso mezzo punto di Pil rispetto al 2025"
-      },
-      {
-        "title": "Onu, tutto quello che c’è da sapere sull’Assemblea Generale",
-        "link": "https://www.ilsole24ore.com/art/onu-tutto-quello-che-c-e-sapere-sull-assemblea-generale-AJkTTCLB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Tue, 22 Sep 2026 14:34:44 GMT",
-        "excerpt": "Come funziona, ogni quanto si riunisce, come si compone e quali sono i poteri dell’Assemblea generale delle Nazioni Unite"
       }
     ],
     "usa": [
@@ -400,6 +400,27 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Usa, Harvey Weinstein condannato a 15 anni per violenza sessuale",
+        "link": "https://www.repubblica.it/esteri/2026/09/23/news/usa_harvey_weinstein_condannato_a_15_anni_per_violenza_sessuale-425603025/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Wed, 23 Sep 2026 18:24:12 +0200",
+        "excerpt": "La sentenza per gli abusi su una ex assistente di produzione chiude un iter processuale durato sei anni"
+      },
+      {
+        "title": "Oil up almost 2% as Iran’s president vows to never surrender",
+        "link": "https://www.investing.com/news/commodities-news/oil-falls-on-increased-gulf-supply-and-hopes-for-usiran-talks-4912001",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-23 16:12:30",
+        "excerpt": ""
+      },
+      {
+        "title": "US will either reform IEA on climate issues or leave the group, energy secretary says",
+        "link": "https://www.investing.com/news/commodities-news/us-will-either-reform-iea-on-climate-issues-or-leave-the-group-energy-secretary-says-4913565",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-23 16:07:13",
+        "excerpt": ""
+      },
       {
         "title": "Iran’s Pezeshkian accuses Trump of ’bullying mentality,’ vows no surrender",
         "link": "https://www.investing.com/news/commodities-news/irans-president-says-tehran-will-not-surrender-in-war-with-us-butbelieves-in-diplomacy-4913453",
@@ -506,24 +527,10 @@
         "excerpt": "Ethiopian Airlines ha annunciato la decisione per il timore di un’escalation nei combattimenti tra le forze federali di Addis Abeba e i gruppi di opposizione che, solo tre giorni fa, hanno formato un’alleanza per destitu"
       },
       {
-        "title": "Oil holds near two-week lows while diesel cracks hit record",
-        "link": "https://www.investing.com/news/commodities-news/oil-falls-on-increased-gulf-supply-and-hopes-for-usiran-talks-4912001",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 13:13:00",
-        "excerpt": ""
-      },
-      {
         "title": "Gold, silver, platinum and palladium outlook after the metals pullback",
         "link": "https://www.investing.com/news/commodities-news/gold-silver-platinum-and-palladium-outlook-after-the-metals-pullback-93CH-4912952",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-23 12:17:47",
-        "excerpt": ""
-      },
-      {
-        "title": "Oil oscillates around $100 as investors await updates on Iran talks",
-        "link": "https://www.investing.com/news/commodities-news/oil-extends-losses-as-trump-signals-progress-in-usiran-talks-4911933",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 12:17:29",
         "excerpt": ""
       },
       {
@@ -560,17 +567,24 @@
         "source": "Repubblica Esteri",
         "pubDate": "Wed, 23 Sep 2026 09:18:19 +0200",
         "excerpt": "Domani il bilaterale tra i due capi di Stato. Al centro dell’incontro vari temi: l’accordo sui dazi in scadenza il 10 novembre, la cooperazione (limitata) sull’intelligenza artificiale e, soprattutto, le pressioni sullo "
-      },
-      {
-        "title": "Ue, via le sanzioni a due oligarchi russi. Kiev: “Vergognoso e ingiustificabile”",
-        "link": "https://www.repubblica.it/esteri/2026/09/23/news/usmanov_e_fridman_ue_via_le_sanzioni_a_due_oligarchi_russi_ucraina-425601171/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Wed, 23 Sep 2026 01:01:18 +0200",
-        "excerpt": "Francia e Lussemburgo salvano Usmanov e Fridman. Nella black list rimangono per tre anni tremila tra individui ed entità"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Morto un operaio al Colosseo, Meloni: 'Morte inaccettabile'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/morto-un-operaio-al-colosseo-meloni-morte-inaccettabile_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 23 Sep 2026 18:11:07 +0200",
+      "excerpt": "La vittima di 22 anni è caduta da un'altezza di 10 metri. Il ragazzo trovato on l'imbracatura non agganciata alla fune. Il Parco archeologico ha disposto la chiusura dell'Anfiteatro Flavio in segno di lutto, alle 19 una "
+    },
+    {
+      "title": "Pezeshkian: 'L'Iran è vittima di terrorismo'. La delegazione Usa lascia l'assemblea",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-liran-e-vittima-di-terrorismo.-la-delegazione-usa-lascia-lassemblea_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
+      "source": "ANSA",
+      "pubDate": "Wed, 23 Sep 2026 18:02:06 +0200",
+      "excerpt": "Il presidente iraniano mostra alle Nazioni Unite le foto dei bimbi uccisi nel bombardamento della scuola. 'La resistenza dell'Iran aumenterà di fronte alle sanzioni e ai bulli. Pronti a dialogo e diplomazia, senza il lin"
+    },
     {
       "title": "Rubio: 'Mosca e Kiev vogliono tregua energetica e sul grano'. Putin invitato al G20 di Miami",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/rubio-russia-e-ucraina-vogliono-tregua-energetica-e-sul-grano-_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
@@ -579,25 +593,11 @@
       "excerpt": "Incontro del segretario di Stato Usa con Lavrov. Il Cremlino dopo l'incontro Trump-Zelensky: 'Non ci sono presupposti per i negoziati'"
     },
     {
-      "title": "Pezeshkian: 'L'Iran è vittima di terrorismo'. La delegazione Usa lascia l'assemblea",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-liran-e-vittima-di-terrorismo.-la-delegazione-usa-lascia-lassemblea_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 17:34:04 +0200",
-      "excerpt": "Il presidente iraniano mostra alle Nazioni Unite le foto dei bimbi uccisi nel bombardamento della scuola. 'La resistenza dell'Iran aumenterà di fronte alle sanzioni e ai bulli. Pronti a dialogo e diplomazia, senza il lin"
-    },
-    {
-      "title": "Repubblica Insieme: “A Firenze il vertice sul clima di 100 sindaci del mediterraneo”",
+      "title": "Repubblica Insieme: “A Firenze un vertice sul clima con 100 sindaci del mediterraneo”",
       "link": "https://firenze.repubblica.it/cronaca/2026/09/23/diretta/firenze_repubblica_insieme_diretta-425602853/",
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 15:16:14 +0000",
-      "excerpt": "Cappellini, Mancuso, Massini, Funaro, Giani e tanti altri ospiti sul palcoscenico del Teatro della Pergola"
-    },
-    {
-      "title": "Morto un operaio al Colosseo, Meloni: 'Morte inaccettabile'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/morto-un-operaio-al-colosseo-meloni-morte-inaccettabile_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 17:05:37 +0200",
-      "excerpt": "La vittima di 22 anni è caduta da un'altezza di 10 metri. Il ragazzo trovato on l'imbracatura non agganciata alla fune. Il Parco archeologico ha disposto la chiusura dell'Anfiteatro Flavio in segno di lutto, alle 19 una "
+      "excerpt": "La proposta della sindaca durante l’evento al Teatro della Pergola. Il direttore Cappellini: “La democrazia a rischio, il giornale una comunità dove trovarsi”"
     },
     {
       "title": "Cortenuova, operaio di 66 anni muore schiacciato da una trave in acciaio nel polo logistico di MD",
@@ -742,6 +742,41 @@
   ],
   "sport": [
     {
+      "title": "Spazio alla 'leggenda', Zidane guida i Bleus e la Francia è ai suoi piedi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/spazio-alla-leggenda-zidane-guida-i-bleus-e-la-francia-e-ai-suoi-piedi_193d6f39-34bb-4db6-8931-06f83413d9af.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 18:26:50 +0200",
+      "excerpt": "Attesa per l'esordio con la Turchia, il più idolatrato di sempre si riprende la nazionale"
+    },
+    {
+      "title": "Frattesi: 'Zenica ferita sempre aperta, ma l'Italia merita fiducia'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/frattesi-zenica-ferita-sempre-aperta-ma-litalia-merita-fiducia_bbc90188-b5b7-44ac-96ad-99e2857dc742.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 18:24:57 +0200",
+      "excerpt": "Il centrocampista: 'All'Inter troppi alti e bassi, con la Lazio ho ripreso a divertirmi'"
+    },
+    {
+      "title": "Il judo azzurro verso il Mondiale, Giuffrida: 'A Baku per giocarmela'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/23/il-judo-azzurro-verso-il-mondiale-giuffrida-a-baku-per-giocarmela_a573f9a3-adc5-4185-afdb-649cbb2039ad.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 18:18:55 +0200",
+      "excerpt": "Il campione europeo Pirelli: 'Vado per l'oro'. La campionessa Scutto: 'Voglio confermarmi'"
+    },
+    {
+      "title": "Canottaggio: Gualtieri socio onorario del Reale Circolo Canottieri Tevere Remo",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/23/canottaggio-gualtieri-socio-onorario-del-reale-circolo-canottieri-tevere-remo_82f9303b-da8b-41a8-95be-24a9c350c162.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 18:12:34 +0200",
+      "excerpt": "Sport, inclusione e rapporto con il Tevere tra temi serata consegna diploma a sindaco Roma"
+    },
+    {
+      "title": "Calcio: Juve; Grabara si è operato a Konin, intervento riuscito",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/calcio-juve-grabara-si-e-operato-a-konin-intervento-riuscito_f3092e2d-94f9-4bd7-945c-f5d27e60f519.html",
+      "source": "ANSA Sport",
+      "pubDate": "Wed, 23 Sep 2026 18:06:27 +0200",
+      "excerpt": "Ora il portiere inizierà la lunga riabilitazione post operazione"
+    },
+    {
       "title": "Atletica paralimpica e inclusione, Fispes e Unicredit insieme per i giovani talenti",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/23/atletica-paralimpica-e-inclusione-fispes-e-unicredit-insieme-per-i-giovani-talenti_e0f8c459-c981-4fee-ad81-33b11727cae2.html",
       "source": "ANSA Sport",
@@ -761,41 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 23 Sep 2026 17:43:47 +0200",
       "excerpt": "Il torneo in programma il 15 ottobre prossimo al Centro federale"
-    },
-    {
-      "title": "Mondiali donne U20: Italia battuta 2-0, in finale va la Spagna",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/mondiali-donne-u20-italia-battuta-2-0-in-finale-va-la-spagna_b09fa050-178c-49b2-a420-531794ea52c2.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 17:22:04 +0200",
-      "excerpt": "Niente da fare per le azzurrine contro le favorite del torneo"
-    },
-    {
-      "title": "Nations League: non solo Zizou e Mancini, nelle nazionali è l'ora dei grandi tecnici da club",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/23/nations-league-non-solo-zizou-e-mancini-nelle-nazionali-e-lora-dei_b573e8aa-496a-4fbb-a8d5-30f148d04d0a.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 17:03:50 +0200",
-      "excerpt": "Dai campionati al ruolo di ct: Tuchel, Xavi e ora Klopp alla guida dei team di Nations"
-    },
-    {
-      "title": "U.21: Favasuli e la nuova Italia: 'Sui giovani l'aria sta cambiando'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/23/u.21-favasuli-e-la-nuova-italia-sui-giovani-laria-sta-cambiando_9ba4c0f9-758c-42b8-8534-e5356f27c41e.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 17:02:34 +0200",
-      "excerpt": "'Grazie a mister Baldini. Il Napoli? Dopo la sosta andrà meglio'"
-    },
-    {
-      "title": "Malagò agli azzurri: 'Ho messo una pressione allegra, l'Italia ci guarda più che mai'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/malago-agli-azzurri-ho-messo-una-pressione-allegra-litalia-ci-guarda-piu_e2548795-7abb-44e6-949c-69e745270480.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 16:52:29 +0200",
-      "excerpt": "Il presidente federale oggi a Coverciano: 'Ho detto che siamo tutti sulla stessa barca'"
-    },
-    {
-      "title": "Frosinone: prolungato il contratto a Bracaglia fino al 2029",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/frosinone-prolungato-il-contratto-a-bracaglia-fino-al-2029_69b5c33c-ddef-4e66-ae5d-dbf4188f32d3.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 16:37:48 +0200",
-      "excerpt": "Il terzino classe 2003 è protagonista anche in questa stagione"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
