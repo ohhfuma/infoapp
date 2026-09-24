@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T05:07:16.087Z",
+  "lastUpdated": "2026-09-24T05:38:40.635Z",
   "finanza": {
     "italia": [
       {
@@ -229,18 +229,25 @@
     ],
     "europa": [
       {
+        "title": "Guerra, ultime notizie. Board of Peace, ricostruzione di Gaza costerà 71,4 mld di dollari in 10 anni",
+        "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-board-of-peace-ricostruzione-gaza-costera-714-mld-dollari-10-anni-AJE06CNB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 24 Sep 2026 05:27:00 GMT",
+        "excerpt": ""
+      },
+      {
         "title": "Trump accoglie Xi a Washington, tregua sui dazi prorogata fino a gennaio",
         "link": "https://www.ilsole24ore.com/art/trump-accoglie-xi-washington-tregua-dazi-prorogata-fino-gennaio-AJdT1CNB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Thu, 24 Sep 2026 05:04:04 GMT",
-        "excerpt": "Il presidente cinese Xi Jinping è arrivato il 23 settembre a Washington per una visita di Stato di tre giorni negli Stati Uniti. Ad accoglierlo personalmente alla Joint Base Andrews..."
+        "pubDate": "Thu, 24 Sep 2026 05:04:00 GMT",
+        "excerpt": "Il presidente cinese Xi Jinping è arrivato il 23 settembre a Washington per una visita di Stato di tre giorni negli Stati Uniti. Ad accoglierlo personalmente alla Joint..."
       },
       {
         "title": "El Mundo: «Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna»",
         "link": "https://www.ilsole24ore.com/art/el-mundo-russia-pronta-ad-attacchi-droni-mare-italia-francia-e-spagna-AJcaWCNB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 24 Sep 2026 04:49:43 GMT",
-        "excerpt": "La Russia si sta preparando a nuovi attacchi con droni in Europa, ma questa volta prenderà di mira i paesi del Mediterraneo: Francia, Spagna e anche Italia. Lo scrive il..."
+        "excerpt": "I russi «useranno droni lanciati dal mare, nascosti in container; non è affatto difficile», spiega una fonte vicina al Ministero della Difesa lituano"
       },
       {
         "title": "Pakistan: raid aerei su dieci siti in Afghanistan in risposta ad attacco droni",
@@ -332,13 +339,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 23 Sep 2026 16:19:21 GMT",
         "excerpt": "L’ex produttore di Hollywood Harvey Weinstein, 74 anni, è stato condannato nuovamente a 15 anni di carcere a New York per violenza sessuale su un’ex assistente di produzione, dopo otto..."
-      },
-      {
-        "title": "India, l’opposizione accusa la Commissione elettorale di manipolazione delle liste",
-        "link": "https://www.ilsole24ore.com/art/india-l-opposizione-accusa-commissione-elettorale-manipolazione-liste-AJXp0QMB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 23 Sep 2026 15:43:38 GMT",
-        "excerpt": "NEW DELHI - Il governo guidato dal primo ministro Narendra Modi è nuovamente sotto pressione dopo che, in seguito a un’inchiesta giornalistica, le opposizioni hanno chiesto le dimissioni del..."
       }
     ],
     "usa": [
@@ -572,6 +572,13 @@
   },
   "attualita": [
     {
+      "title": "El Mundo: 'Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/el-mundo-russia-pronta-ad-attacchi-con-droni-dal-mare-in-italia-francia_f3970154-cd44-45da-9d7a-0f7ce91c9725.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 24 Sep 2026 07:13:44 +0200",
+      "excerpt": "I piani del Cremlino svelati dalla Cia. Potrebbero colpire quasi tutto il Paese"
+    },
+    {
       "title": "Se sei al verde, venditi il prato",
       "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/09/24/news/manchester_united_vende_erba_old_trafford-425603894/",
       "source": "Repubblica",
@@ -591,13 +598,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 24 Sep 2026 02:30:56 +0000",
       "excerpt": "Vertice a Washington tra i capi delle due superpotenze. Il presidente americano, accompagnato dalla firts lady Melania, ha rispettato il cerimoniale. Tra i nodi dell’incontro Taiwan, su cui Pechino non arretra"
-    },
-    {
-      "title": "Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_56a36ff8-3394-40ca-b17c-750eac341420.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 03:58:50 +0200",
-      "excerpt": "Il leader di Pechino: \"Dovremmo essere partner e non avversari\""
     },
     {
       "title": "Horror e giovane, per la corsa agli Oscar l’Italia scommette su Paolo Strippoli",
@@ -642,11 +642,11 @@
       "excerpt": "Macron ha condiviso con i leader di partito i timori dell’intelligence: Mosca vuole destabilizzare il Paese con attacchi ibridi"
     },
     {
-      "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-mostra-allonu-le-foto-dei-bimbi-uccisi-non-ci-piegheremo_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
+      "title": "Tetto agli stranieri in un decreto, 'Non disarticoleremo le classi'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/23/valditara-la-norma-sul-tetto-agli-stranieri-a-scuola-sara-un-decreto-legge_89aa62bf-9298-49c1-8ad9-e1f9a52e3edf.html",
       "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 23:31:52 +0200",
-      "excerpt": "'Sì al dialogo ma basta forza'. La delegazione Usa lascia la sala. Rubio: 'Progressi ma nessuna svolta'"
+      "pubDate": "Wed, 23 Sep 2026 21:41:03 +0200",
+      "excerpt": "Valditara: 'Il criterio sarà linguistico, previste deroghe. Articolo 34 della Costituzione faro del Colle"
     },
     {
       "title": "Milano Fashion Week, la storia della moda (e della città) con Vogue World",
