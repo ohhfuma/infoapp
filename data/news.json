@@ -1,13 +1,76 @@
 {
-  "lastUpdated": "2026-09-24T07:08:47.439Z",
+  "lastUpdated": "2026-09-24T07:39:21.546Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Tempi, costi e tecnologia del “nuovo nucleare sostenibile”: cosa prevede il piano italiano",
+        "link": "https://www.repubblica.it/economia/2026/09/24/news/piano_nucleare_italia_tempi_costi_tecnologia-425604156/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 24 Sep 2026 09:33:22 +0200",
+        "excerpt": "Il parlamento ha approvato il disegno di legge delega sull’atomo. Adesso il governo ha un anno per intervenire con i decreti attuativi. Strategia e ostacoli del programma"
+      },
+      {
+        "title": "Borsa: Europa in calo, i rendimenti dei titoli di Stato si stabilizzano",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/borsa-europa-in-calo-i-rendimenti-dei-titoli-di-stato-si-stabilizzano_151822ab-71f3-4f29-a9bb-bf73dd0d8f21.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 24 Sep 2026 09:31:54 +0200",
+        "excerpt": "Francoforte -0,5%, Parigi -0,4%, Londra -0,3%"
+      },
+      {
+        "title": "Scuola e stranieri, dai corsi di lingua a test e velo: come funziona negli altri Paesi",
+        "link": "https://www.ilsole24ore.com/art/scuola-e-stranieri-corsi-lingua-test-e-velo-come-funziona-altri-paesi-AJiMEKNB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Thu, 24 Sep 2026 07:27:17 GMT",
+        "excerpt": "Dalle classi speciali tedesche alla “full immersion” britannica, i modelli adottati dagli altri paesi occidentali sono numerosi"
+      },
+      {
+        "title": "Borsa: Milano apre in calo, Ftse Mib -0,58%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/borsa-milano-apre-in-calo-ftse-mib-058_49b7c262-a531-49c5-8cee-eead1d36e1d8.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 24 Sep 2026 09:21:25 +0200",
+        "excerpt": "Deboli Leonardo e Fincantieri"
+      },
+      {
+        "title": "Lo spread Btp-Bund scende a 94,3 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/lo-spread-btp-bund-scende-a-943-punti_1ba2b3e8-aa16-4457-91c1-0dd7c9825bfa.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 24 Sep 2026 09:15:05 +0200",
+        "excerpt": "Il titolo italiano scende al 4,48% mentre quello tedesco si lima al 3,54%"
+      },
+      {
+        "title": "Leone in Francia, nel cuore del progetto europeo e della laïcité. Macron non assisterà alla messa del Papa",
+        "link": "https://www.ilsole24ore.com/art/leone-francia-cuore-progetto-europeo-e-laicite-macron-non-assistera-messe-papa-AJdAVJNB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Thu, 24 Sep 2026 07:09:00 GMT",
+        "excerpt": "Quinto viaggio apostolico di Prevost dal 25 28 settembre. Parigi, (compresa l’Unesco), Lourdes e Metz, patria di Schuman"
+      },
+      {
+        "title": "H&M, utile operativo terzo trimestre cresce oltre attese",
+        "link": "https://it.investing.com/news/stock-market-news/hm-utile-operativo-terzo-trimestre-cresce-oltre-attese-3560584",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 07:08:33",
+        "excerpt": ""
+      },
       {
         "title": "I futures su gas rimbalzano a 74,6 euro al megawattora",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/i-futures-su-gas-rimbalzano-a-746-euro-al-megawattora_a6cde7d7-d308-4bb6-88bc-8921489e6de6.html",
         "source": "ANSA Economia",
         "pubDate": "Thu, 24 Sep 2026 09:06:46 +0200",
         "excerpt": "Il Ttf corre in rialzo del 3,6%"
+      },
+      {
+        "title": "Disastro bond",
+        "link": "https://it.investing.com/news/stock-market-news/disastro-bond-3560580",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 07:05:07",
+        "excerpt": ""
+      },
+      {
+        "title": "Le borse europee scivolano mentre i colloqui USA-Iran segnano pochi progressi",
+        "link": "https://it.investing.com/news/stock-market-news/le-borse-europee-scivolano-mentre-i-colloqui-usairan-stentano-3560582",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 07:04:42",
+        "excerpt": ""
       },
       {
         "title": "Borsa: Asia in calo, pesa petrolio e timori inflazione",
@@ -17,17 +80,38 @@
         "excerpt": "In Europa occhi sui titoli automobilistici"
       },
       {
-        "title": "Auto Europa, immatricolazioni agosto +5,3%, gruppo Stellantis +3,5%",
-        "link": "https://it.investing.com/news/stock-market-news/auto-europa-immatricolazioni-agosto-53-gruppo-stellantis-35-3560552",
+        "title": "JPMorgan nomina Lavatelli come senior country officer per il Giappone",
+        "link": "https://it.investing.com/news/stock-market-news/jpmorgan-nomina-lavatelli-come-senior-country-officer-per-il-giappone-93CH-3560566",
         "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 06:40:32",
+        "pubDate": "2026-09-24 06:54:42",
         "excerpt": ""
       },
       {
-        "title": "Mitchells & Butlers: vendite in crescita, FY26 in linea con le stime",
-        "link": "https://it.investing.com/news/stock-market-news/mitchells--butlers-vendite-in-crescita-fy26-in-linea-con-le-stime-3560539",
+        "title": "Honda pianifica un nuovo impianto per ibridi in Ohio entro il 2030",
+        "link": "https://it.investing.com/news/stock-market-news/honda-pianifica-un-nuovo-impianto-per-ibridi-in-ohio-entro-il-2030-93CH-3560565",
         "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 06:25:55",
+        "pubDate": "2026-09-24 06:53:55",
+        "excerpt": ""
+      },
+      {
+        "title": "Honda pianifica un nuovo impianto per ibridi in Ohio entro il 2030",
+        "link": "https://it.investing.com/news/stock-market-news/honda-pianifica-un-nuovo-impianto-per-ibridi-in-ohio-entro-il-2030-93CH-3560564",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 06:53:51",
+        "excerpt": ""
+      },
+      {
+        "title": "Capricorn Energy alza le previsioni di produzione nel mezzo di un’OPA",
+        "link": "https://it.investing.com/news/stock-market-news/capricorn-energy-alza-le-previsioni-di-produzione-nel-mezzo-di-unopa-93CH-3560560",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 06:52:46",
+        "excerpt": ""
+      },
+      {
+        "title": "Mercedes punta a tagliare €800 milioni di costi del lavoro in Germania",
+        "link": "https://it.investing.com/news/stock-market-news/mercedes-punta-a-tagliare-800-milioni-di-costi-del-lavoro-in-germania-93CH-3560553",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 06:45:30",
         "excerpt": ""
       },
       {
@@ -38,60 +122,11 @@
         "excerpt": "Spot a 4.285,84 dollari l'oncia"
       },
       {
-        "title": "Tencent lancia un’app di pagamento mobile per i turisti stranieri",
-        "link": "https://it.investing.com/news/stock-market-news/tencent-lancia-unapp-di-pagamento-mobile-per-i-turisti-stranieri-93CH-3560507",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 06:09:05",
-        "excerpt": ""
-      },
-      {
-        "title": "La RBI indiana conduce swap valutari da 10 miliardi per drenare liquidità",
-        "link": "https://it.investing.com/news/stock-market-news/la-rbi-indiana-conduce-swap-valutari-da-10-miliardi-per-drenare-liquidita-93CH-3560505",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 06:08:42",
-        "excerpt": ""
-      },
-      {
         "title": "Prezzo del petrolio poco mosso, Brent a 103 dollari al barile",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/prezzo-del-petrolio-poco-mosso-brent-a-103-dollari-al-barile_c0e64906-b09e-4355-a1a2-9e1ede32c20a.html",
         "source": "ANSA Economia",
         "pubDate": "Thu, 24 Sep 2026 08:06:37 +0200",
         "excerpt": "Wti in calo dello 0,2% a 92 dollari"
-      },
-      {
-        "title": "Le azioni delle terre rare asiatiche calano dopo la proroga della tregua commerciale USA-Cina",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-delle-terre-rare-asiatiche-calano-dopo-la-proroga-della-tregua-commerciale-usacina-3560493",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 05:39:02",
-        "excerpt": ""
-      },
-      {
-        "title": "Titoli assicurativi indiani in crollo per timori di riforma normativa",
-        "link": "https://it.investing.com/news/stock-market-news/titoli-assicurativi-indiani-in-crollo-per-timori-di-riforma-normativa-3560489",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 05:31:04",
-        "excerpt": ""
-      },
-      {
-        "title": "I titoli cinesi della robotica salgono dopo le previsioni di Musk: un miliardo di robot umanoidi in 10 anni",
-        "link": "https://it.investing.com/news/stock-market-news/i-titoli-cinesi-della-robotica-salgono-dopo-le-previsioni-di-musk-un-miliardo-di-robot-umanoidi-in-10-anni-3560486",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 05:02:50",
-        "excerpt": ""
-      },
-      {
-        "title": "Le speranze per un accordo Boeing in Cina svaniscono prima del vertice Trump-Xi",
-        "link": "https://it.investing.com/news/stock-market-news/le-speranze-per-un-accordo-boeing-in-cina-svaniscono-prima-del-vertice-trumpxi-3560481",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 04:55:37",
-        "excerpt": ""
-      },
-      {
-        "title": "Acea, nella Ue la quota delle elettriche sale al 21,7%, le ibride al 36,6%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/acea-nella-ue-la-quota-delle-elettriche-sale-al-217-le-ibride-al-366_3a0e42d6-2360-4621-b7fd-283f5fc31ea9.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 24 Sep 2026 06:02:07 +0200",
-        "excerpt": "Forte crescita in Francia, Germania e Danimarca"
       },
       {
         "title": "In Europa nel mese di agosto le immatricolazioni di auto in crescita del 5,3%",
@@ -150,32 +185,11 @@
         "excerpt": "Camfin è primo azionista, controlla il cda e può concentrarsi sul progetto di crescita negli Usa"
       },
       {
-        "title": "Corrono i ricavi e margini di Ovs: ottimismo sul 2026",
-        "link": "https://www.repubblica.it/economia/2026/09/24/news/ovs_bilancio_primo_semestre_2026_upim_goldenpoint-425603532/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Thu, 24 Sep 2026 01:00:00 +0200",
-        "excerpt": "Nei primi sei mesi dell’anno buona performance anche di Upim e Goldenpoint, gli altri marchi del gruppo"
-      },
-      {
-        "title": "Inps, in arrivo 1.177.597 carte Dedicata a te, attive da ottobre, accredito a novembre",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/inps-in-arrivo-1.177.597-carte-dedicata-a-te-attive-da-ottobre-accredito-a-novembre_86cc3d50-04c1-44b4-aa04-e2768649d6af.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 22:06:15 +0200",
-        "excerpt": "500 euro per famiglie con Isee sotto 15mila euro senza Adi e Naspi"
-      },
-      {
         "title": "Salvini: «Se vinco non sarò uomo solo al comando, ci sarà ruolo per Zaia»",
         "link": "https://www.ilsole24ore.com/art/salvini-se-vinco-non-saro-uomo-solo-comando-ci-sara-ruolo-zaia-AJvlmmMB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 23 Sep 2026 19:10:37 GMT",
         "excerpt": "Matteo Salvini sceglie il salotto di Bruno Vespa per prepararsi alla conta che andrà in scena al congresso della Lega annunciato dal palco di Pontida. E apre alla fronda nordista,..."
-      },
-      {
-        "title": "I rendimenti del T-bond decennale Usa salgono al 5,13%, massimi dal 2007",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/i-rendimenti-del-t-bond-decennale-usa-salgono-al-513-massimi-dal-2007_0948fbc2-2171-4939-810b-6c1f23fcaa43.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 21:06:55 +0200",
-        "excerpt": ""
       },
       {
         "title": "Carta dedicata a te 2026 da 500 euro, da oggi le liste dei beneficiari. Primo accredito il 1° ottobre",
@@ -211,20 +225,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Wed, 23 Sep 2026 14:43:00 GMT",
         "excerpt": "Semaforo verde arrivato dall’Aula del Senato, con 81 voti favorevoli, 51 contrari e 7 astenuti"
-      },
-      {
-        "title": "Fisco, il nuovo concorso per giudice tributario entra nel vivo: pronta la commissione",
-        "link": "https://www.ilsole24ore.com/art/fisco-nuovo-concorso-giudice-tributario-entra-vivo-pronta-commissione-AJEr9TLB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 23 Sep 2026 14:16:51 GMT",
-        "excerpt": "Il Cpgt ha scelto all’unanimità i 29 componenti della commissione del secondo concorso per la magistratura tributaria professionale per 180 posti. Presidente Roberto Proietti. Attesa per la fissazione delle date delle pr"
-      },
-      {
-        "title": "Giorgetti: «Priorità al taglio delle tasse. Rafforziamo le rilevazioni Istat»",
-        "link": "https://www.ilsole24ore.com/art/giorgetti-priorita-taglio-tasse-sintesi-manovra-breve-AJTV8RMB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Wed, 23 Sep 2026 13:50:00 GMT",
-        "excerpt": "«Più volte il governo ha ribadito le priorità per quanto riguarda la prosecuzione del percorso di riduzione delle imposte sul reddito per il ceto medio». Lo ha sottolineato il ministro..."
       }
     ],
     "europa": [
@@ -264,7 +264,7 @@
         "excerpt": "La Russia si sta preparando a nuovi attacchi con droni in Europa, ma questa volta prenderà di mira i paesi del Mediterraneo: Francia, Spagna e anche Italia. Lo scrive il..."
       },
       {
-        "title": "Pakistan: raid aerei su dieci siti in Afghanistan in risposta ad attacco droni",
+        "title": "Pakistan: raid aerei su dieci siti in Afghanistan. Kabul, quattro morti",
         "link": "https://www.ilsole24ore.com/art/pakistan-raid-aerei-dieci-siti-afghanistan-risposta-ad-attacco-droni-AJbnv2MB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 24 Sep 2026 03:53:00 GMT",
@@ -401,32 +401,88 @@
     ],
     "mondo": [
       {
+        "title": "Giudice Usa a Trump: “Riammetta alla Casa Bianca i media banditi”",
+        "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 24 Sep 2026 09:28:40 +0200",
+        "excerpt": "Il magistrato Tim Kelly ordina all'amministrazione Usa di far rientrare Cnn, MsNow e Politico dopo che ai tre media era stato revocato l'accesso per ordine del presidente: “Scelta fatta senza giusto processo”"
+      },
+      {
+        "title": "Kiev, 'raid russo su fattoria nel Kharkiv, 7 morti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/kiev-raid-russo-su-fattoria-nel-kharkiv-7-morti_8e86896e-3a03-4a81-996b-fd9755662b6a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 09:22:27 +0200",
+        "excerpt": "I feriti sono 12"
+      },
+      {
+        "title": "Oil extends gains on little sign of progress in US-Iran talks",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-iran-says-it-is-open-to-diplomacy-to-end-the-war-4914308",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 07:13:14",
+        "excerpt": ""
+      },
+      {
+        "title": "Giudice ordina di ripristinare accesso alla Casa Bianca per Cnn, Msnbc e Politico",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/giudice-ordina-di-ripristinare-accesso-alla-casa-bianca-per-cnn-msnbc_73cf8828-d3fa-4c8a-a6be-7bcc07531404.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 09:11:48 +0200",
+        "excerpt": "La decisione sospende il divieto per 14 giorni, concedere più tempo per esaminare il caso"
+      },
+      {
+        "title": "Natural Gas breaks $3.02: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 07:11:16",
+        "excerpt": ""
+      },
+      {
+        "title": "Gold tests $4,310 support as RSI nears oversold: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/gold-wedged-in-43004450-range-live-breakout-levels-93CH-4908346",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 07:11:07",
+        "excerpt": ""
+      },
+      {
+        "title": "London Gas Oil coiled in $1,435-$1,517 range: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-stuck-in-chop-zone-at-1480-live-levels-93CH-4908349",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 07:11:04",
+        "excerpt": ""
+      },
+      {
+        "title": "Copper stuck between $6.710 support and $6.830 resistance: Live",
+        "link": "https://www.investing.com/news/commodities-news/copper-hits-multimonth-high-near-680-resistance-live-levels-93CH-4908347",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 07:11:03",
+        "excerpt": ""
+      },
+      {
+        "title": "Crude Oil WTI faces resistance at $95.50-$97.50: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-94-support-after-double-top-live-levels-93CH-4908350",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 07:10:52",
+        "excerpt": ""
+      },
+      {
+        "title": "Silver stuck below cloud with bearish momentum: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/silver-consolidates-at-6640-in-breakout-coil-live-levels-93CH-4908353",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 07:10:51",
+        "excerpt": ""
+      },
+      {
+        "title": "Brent Oil battles $103.41 resistance cluster: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/brent-oil-battles-10176-support-as-bearish-signals-build-live-93CH-4908348",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 07:10:45",
+        "excerpt": ""
+      },
+      {
         "title": "Al via la visita di Xi negli Usa. 'Dovremmo essere partner, non rivali'",
         "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/24/al-via-la-visita-di-xi-negli-usa.-dobbiamo-essere-partner-non-rivali_f5995ac9-d14b-4d27-8567-50c599dca1e8.html",
         "source": "ANSA Mondo",
         "pubDate": "Thu, 24 Sep 2026 08:48:03 +0200",
         "excerpt": "Stretta di mano con Trump. Oggi il vertice, poi a cena con le big tech"
-      },
-      {
-        "title": "Oil extends sharp gains amid U.S.-Iran diplomacy doubts",
-        "link": "https://www.investing.com/news/commodities-news/oil-slips-1-after-sharp-gains-amid-usiran-diplomacy-doubts-4914284",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 06:33:47",
-        "excerpt": ""
-      },
-      {
-        "title": "Giudice Usa a Trump: “Riammetta alla Casa Bianca i media banditi”",
-        "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 24 Sep 2026 08:10:10 +0200",
-        "excerpt": "Timothy Kelly ha ordinato all'amministrazione americana di far rientrare Cnn, MsNow e Politico dopo che ai tre network era stato revocato l'accesso per ordine del presidente: “La revoca dei badge stampa è stata fatta sen"
-      },
-      {
-        "title": "Gold prices edge lower as higher oil, yields keep pressure on bullion",
-        "link": "https://www.investing.com/news/commodities-news/gold-steadies-after-selloff-as-oil-strong-us-data-lift-fed-hike-bets-4914320",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 05:59:56",
-        "excerpt": ""
       },
       {
         "title": "Kiev e Odessa sotto i missili russi, almeno due morti. La risposta di Putin al discorso di Zelensky all’Onu",
@@ -436,32 +492,11 @@
         "excerpt": "Nella notte italiana tra mercoledì e giovedì le due città sotto attacco, colpito un ospedale pediatrico. Il leader ucraino aveva definito lo zar “il paziente zero che ha scatenato la guerra”"
       },
       {
-        "title": "Oil prices fall as Iran says it is open to diplomacy to end the war",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-iran-says-it-is-open-to-diplomacy-to-end-the-war-4914308",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 04:36:47",
-        "excerpt": ""
-      },
-      {
-        "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump",
-        "link": "https://www.investing.com/news/commodities-news/us-and-indian-top-diplomats-discuss-russia-sanctions-bill-signed-by-trump-4914397",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 03:54:27",
-        "excerpt": ""
-      },
-      {
         "title": "Per Xi accoglienza con tappeto rosso: Trump cerca sponde su Iran, IA e dazi",
         "link": "https://www.repubblica.it/esteri/2026/09/24/news/xi_trump_tappeto_rosso_vertice_usa_cina-425603800/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 24 Sep 2026 04:37:45 +0200",
         "excerpt": "Vertice a Washington tra i capi delle due superpotenze. Il presidente americano, accompagnato dalla first lady Melania, ha rispettato il cerimoniale. Tra i nodi dell’incontro Taiwan, su cui Pechino non arretra"
-      },
-      {
-        "title": "Asia energy stocks rise as oil rebounds on renewed Iran supply fears",
-        "link": "https://www.investing.com/news/commodities-news/asia-energy-stocks-rise-as-oil-rebounds-on-renewed-iran-supply-fears-4914367",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 02:04:30",
-        "excerpt": ""
       },
       {
         "title": "Tajani, 'Onu deve ritrovare capacità di agire, troppo spesso appare impotente'",
@@ -499,20 +534,6 @@
         "excerpt": "Il presidente difende le misure al debutto del suo programma radiofonico"
       },
       {
-        "title": "Borsa: Tokyo, apertura in rialzo (+0,69%)",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/borsa-tokyo-apertura-in-rialzo-069_c450e975-8583-4c02-9c58-6e9be14a1d4d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 02:24:22 +0200",
-        "excerpt": "Nikkei tenta recupero dopo lunga festività. Yen torna a indebolirsi"
-      },
-      {
-        "title": "Kiev sotto attacco russo, almeno due morti e tre feriti",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/kiev-sotto-attacco-russo-almeno-due-morti-e-tre-feriti_1f673532-a628-4768-ab7c-4845ab5f75a6.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 02:13:11 +0200",
-        "excerpt": "Missili contro la capitale. Sindaco, 'danneggiato anche un ospedale di maternità'"
-      },
-      {
         "title": "Pezeshkian alle Nazioni Unite mostra le foto dei bimbi uccisi: “L’Iran non cederà agli Usa”",
         "link": "https://www.repubblica.it/esteri/2026/09/24/news/pezeshkian_intervento_nazioni_unite_mostra_foto_bimbi_uccisi_iran_guerra_usa-425603529/?rss",
         "source": "Repubblica Esteri",
@@ -546,44 +567,51 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 24 Sep 2026 01:00:00 +0200",
         "excerpt": "Intervista a Robert Brovdi, l’uomo che ha trasformato la difesa in offesa a lungo raggio: “Abbiamo portato la guerra in Russia per costringerli a negoziare. Anche l’Italia deve creare una propria brigata di sistemi senza"
-      },
-      {
-        "title": "Senators from both parties ask Trump to release emergency heating oil as prices surge",
-        "link": "https://www.investing.com/news/commodities-news/senators-from-both-parties-ask-trump-to-release-emergency-heating-oil-as-prices-surge-4914071",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 21:30:25",
-        "excerpt": ""
-      },
-      {
-        "title": "Chicago wheat futures fall on hopes for Black Sea ceasefire",
-        "link": "https://www.investing.com/news/commodities-news/chicago-wheat-futures-fall-on-hopes-for-black-sea-ceasefire-93CH-4914037",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 21:16:11",
-        "excerpt": ""
-      },
-      {
-        "title": "Soybean futures fall as traders await US-China summit",
-        "link": "https://www.investing.com/news/commodities-news/soybean-futures-fall-as-traders-await-uschina-summit-93CH-4914025",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 21:12:10",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
     {
-      "title": "Giudice Usa a Trump: “Riammetta alla Casa Bianca i media banditi”",
-      "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 24 Sep 2026 06:10:10 +0000",
-      "excerpt": "Timothy Kelly ha ordinato all'amministrazione americana di far rientrare Cnn, MsNow e Politico dopo che ai tre network era stato revocato l'accesso per ordine del presidente: “La revoca dei badge stampa è stata fatta sen"
+      "title": "Kiev: 'Raid russo su fattoria nel Kharkiv, 7 morti'. Due vittime anche nella capitale",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/kiev-raid-russo-su-fattoria-nel-kharkiv-7-morti.-due-vittime-anche_feb663f1-6d18-48f5-bb71-429ab07a50ab.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 24 Sep 2026 09:35:37 +0200",
+      "excerpt": "Massicci attacchi missilistici nella notte. 'Colpito anche un ospedale di maternità'"
     },
     {
       "title": "El Mundo: 'Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/el-mundo-russia-pronta-ad-attacchi-con-droni-dal-mare-in-italia-francia_f3970154-cd44-45da-9d7a-0f7ce91c9725.html",
       "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 08:04:05 +0200",
+      "pubDate": "Thu, 24 Sep 2026 09:35:27 +0200",
       "excerpt": "I piani del Cremlino svelati dalla Cia. Potrebbero colpire quasi tutto il Paese"
+    },
+    {
+      "title": "Il giudice ordina di ripristinare l'accesso alla Casa Bianca per Cnn, Msnbc e Politico",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/il-giudice-ordina-di-ripristinare-laccesso-alla-casa-bianca-per-cnn-msnbc_8656a193-133f-4151-807f-4fc0fb63e5fb.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 24 Sep 2026 09:07:11 +0200",
+      "excerpt": "La revoca dei pass stampa dei giornalisti è avvenuta in assenza di un 'giusto processo costituzionalmente adeguato'"
+    },
+    {
+      "title": "Decreto scuola, quelle lezioni di italiano per i migranti cancellate da Salvini al Viminale",
+      "link": "https://www.repubblica.it/politica/2026/09/24/news/decreto_scuola_migranti_salvini_lezioni_cancellate-425604024/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 06:56:33 +0000",
+      "excerpt": "Lo studio della lingua – criterio centrale nel provvedimento oggi in cdm – e i corsi di formazione professionale per i richiedenti asilo erano tra i servizi obbligatori che lo Stato offriva ai richiedenti asilo. Nel 2018"
+    },
+    {
+      "title": "Da Nord a Sud, ecco le scuole salvate dagli alunni stranieri",
+      "link": "https://www.repubblica.it/politica/2026/09/24/news/scuole_salvate_alunni_stranieri_quali_sono-425603981/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 06:39:53 +0000",
+      "excerpt": "Il governo si appresta a varare un decreto per imporre un tetto massimo del 30%. Ma in tutta Italia sono gli studenti con background migratorio ad aver garantito che gli istituti di paesi e piccole realtà rimanessero ape"
+    },
+    {
+      "title": "Giudice Usa a Trump: “Riammetta alla Casa Bianca i media banditi”",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 06:10:10 +0000",
+      "excerpt": "Il magistrato Tim Kelly ha ordinato all'amministrazione Usa di far rientrare Cnn, MsNow e Politico dopo che ai tre media era stato revocato l'accesso per ordine del presidente: “Scelta fatta senza giusto processo”"
     },
     {
       "title": "Se sei al verde, venditi il prato",
@@ -591,13 +619,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 24 Sep 2026 04:55:58 +0000",
       "excerpt": "Il Manchester United è in perdita e si è messo a vendere cubetti di terreno di gioco di Old Trafford. Nei club di calcio, ormai, qualsiasi cosa ha un prezzo"
-    },
-    {
-      "title": "Zelensky: 'Putin è il paziente zero, va fermato'. Bombe nella notte su Kiev, 2 morti",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/zelensky-putin-e-il-paziente-zero-va-fermato.-trump-invita-lo-zar-al-g20_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 04:52:46 +0200",
-      "excerpt": "Trump invita lo zar al G20, il Cremlino: grazie, valuteremo. Lavrov a Rubio: 'Negoziamo ma non ci fermiamo'"
     },
     {
       "title": "Per Xi accoglienza con tappeto rosso: Trump cerca sponde su Iran, IA e dazi",
@@ -626,20 +647,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 24 Sep 2026 00:00:00 +0000",
       "excerpt": "Al mattino l’Anfiteatro accoglie 6.500 turisti, poi l’ira dei lavoratori costringe al fermo. E salta pure lo show di Alberto Angela"
-    },
-    {
-      "title": "Firenze capitale del clima: “Qui il primo vertice delle cento città verdi”",
-      "link": "https://firenze.repubblica.it/cronaca/2026/09/24/news/repubblica_insieme_firenze_funaro_mancuso_alberi-425603579/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 23:45:00 +0000",
-      "excerpt": "L’annuncio all’evento “Repubblica insieme”. La sindaca Funaro raccoglie l’appello di Mancuso: “La nostra città ha la forza di parlare al mondo”"
-    },
-    {
-      "title": "Il comandante ucraino Magyar: “Putin recluterà altri 300 mila soldati, ma con i droni lo fermeremo”",
-      "link": "https://www.repubblica.it/esteri/2026/09/24/news/comandante_ucraino_brovdi_intervista_putin_reclutera_altri_soldati_droni_lo_fermeremo-425603371/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "Intervista a Robert Brovdi, l’uomo che ha trasformato la difesa in offesa a lungo raggio: “Abbiamo portato la guerra in Russia per costringerli a negoziare. Anche l’Italia deve creare una propria brigata di sistemi senza"
     },
     {
       "title": "Tetto agli stranieri in un decreto, 'Non disarticoleremo le classi'",
@@ -675,13 +682,6 @@
       "source": "ANSA",
       "pubDate": "Wed, 23 Sep 2026 13:45:04 +0200",
       "excerpt": "La zona diventa così sempre più interessante per la ricerca di tracce di vita passata"
-    },
-    {
-      "title": "Borsa Italiana, torna “Investire in un mondo che cambia”",
-      "link": "https://www.ansa.it/native/ansacom/2026/09/23/borsa-italiana-torna-investire-in-un-mondo-che-cambia_888859c4-747a-4d19-bb54-925ed66f8933.html",
-      "source": "ANSA",
-      "pubDate": "Wed, 23 Sep 2026 09:10:55 +0200",
-      "excerpt": ""
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "In India i Mondiali di ciclismo su strada del 2032",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/24/in-india-i-mondiali-di-ciclismo-su-strada-del-2032_6578336a-001a-43b8-a40a-7ab0e00bcedc.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 09:18:16 +0200",
+      "excerpt": "Pune preferita a Groningen che li ospiterà nel 2034"
+    },
+    {
       "title": "EuroVolley: De Giorgi 'quando dovevamo dare la zampata finale siamo mancati'",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/24/eurovolley-de-giorgi-quando-dovevamo-dare-la-zampata-finale-siamo-mancati_13e62e5f-7674-4fd0-8003-f6e922b0b818.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 23 Sep 2026 20:11:16 +0200",
       "excerpt": "Romano fra le possibili novità, 'ho scelto l'azzurro con il cuore'"
-    },
-    {
-      "title": "Mondiali di ciclismo: parola alla strada, Longo Borghini ci riprova",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/23/mondiali-di-ciclismo-parola-alla-strada-longo-borghini-ci-riprova_ad7109cd-df06-43bb-8be7-2857aef17ade.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 20:09:47 +0200",
-      "excerpt": "Gli azzurri outsider domenica, Evenepoel cerca il bis dopo il botta e risposta con Ganna"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
