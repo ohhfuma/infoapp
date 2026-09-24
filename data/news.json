@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T04:39:51.368Z",
+  "lastUpdated": "2026-09-24T05:07:16.087Z",
   "finanza": {
     "italia": [
       {
@@ -229,6 +229,20 @@
     ],
     "europa": [
       {
+        "title": "Trump accoglie Xi a Washington, tregua sui dazi prorogata fino a gennaio",
+        "link": "https://www.ilsole24ore.com/art/trump-accoglie-xi-washington-tregua-dazi-prorogata-fino-gennaio-AJdT1CNB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 24 Sep 2026 05:04:04 GMT",
+        "excerpt": "Il presidente cinese Xi Jinping è arrivato il 23 settembre a Washington per una visita di Stato di tre giorni negli Stati Uniti. Ad accoglierlo personalmente alla Joint Base Andrews..."
+      },
+      {
+        "title": "El Mundo: «Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna»",
+        "link": "https://www.ilsole24ore.com/art/el-mundo-russia-pronta-ad-attacchi-droni-mare-italia-francia-e-spagna-AJcaWCNB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 24 Sep 2026 04:49:43 GMT",
+        "excerpt": "La Russia si sta preparando a nuovi attacchi con droni in Europa, ma questa volta prenderà di mira i paesi del Mediterraneo: Francia, Spagna e anche Italia. Lo scrive il..."
+      },
+      {
         "title": "Pakistan: raid aerei su dieci siti in Afghanistan in risposta ad attacco droni",
         "link": "https://www.ilsole24ore.com/art/pakistan-raid-aerei-dieci-siti-afghanistan-risposta-ad-attacco-droni-AJbnv2MB",
         "source": "Il Sole 24 Ore Mondo",
@@ -325,20 +339,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Wed, 23 Sep 2026 15:43:38 GMT",
         "excerpt": "NEW DELHI - Il governo guidato dal primo ministro Narendra Modi è nuovamente sotto pressione dopo che, in seguito a un’inchiesta giornalistica, le opposizioni hanno chiesto le dimissioni del..."
-      },
-      {
-        "title": "Trump all’Onu: «Putin faccia la pace». E sull’Iran: «Intesa o lo anniento»",
-        "link": "https://www.ilsole24ore.com/art/trump-all-onu-putin-faccia-pace-e-sull-iran-intesa-o-anniento-AJuTeHMB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 23 Sep 2026 11:15:14 GMT",
-        "excerpt": "Il presidente Usa non permetterà a «minacce all’America di mettere radici nell’emisfero occidentale». Richiamo al leader russo e incontro con Zelensky: «Troveremo una soluzione»"
-      },
-      {
-        "title": "Morti da fentanyl: da Hayden Panettiere a Prince, la lunga scia di vittime Vip e la minaccia in Europa",
-        "link": "https://www.ilsole24ore.com/art/da-prince-hayden-panettiere-lunga-scia-vip-caduti-il-fentanyl-AJFai5LB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 23 Sep 2026 09:08:00 GMT",
-        "excerpt": "Sul tavolo di un appartamento in disordine c’erano alcune pillole blu e una cannuccia. Lo scenario è quello di un Airbnb di Greenville, in South Carolina. Un posto anonimo. Lì..."
       }
     ],
     "usa": [
@@ -400,6 +400,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Kiev e Odessa sotto i missili russi, almeno due morti. La risposta di Putin al discorso di Zelensky all’Onu",
+        "link": "https://www.repubblica.it/esteri/2026/09/24/news/kiev_odessa_missili_russia_ucraina_guerra-425603778/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 24 Sep 2026 06:59:34 +0200",
+        "excerpt": "Nella notte italiana tra mercoledì e giovedì le due città sotto attacco, colpito un ospedale pediatrico. Il leader ucraino aveva definito lo zar “il paziente zero che ha scatenato la guerra”"
+      },
       {
         "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump",
         "link": "https://www.investing.com/news/commodities-news/us-and-indian-top-diplomats-discuss-russia-sanctions-bill-signed-by-trump-4914397",
@@ -476,13 +483,6 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-24 00:53:01",
         "excerpt": ""
-      },
-      {
-        "title": "Kiev e Odessa sotto i missili russi, almeno due morti. La risposta di Putin al discorso di Zelensky all’Onu",
-        "link": "https://www.repubblica.it/esteri/2026/09/24/news/kiev_odessa_missili_russia_ucraina_guerra-425603778/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 24 Sep 2026 02:29:29 +0200",
-        "excerpt": "Nella notte italiana tra mercoledì e giovedì le due città sotto attacco, colpito un ospedale pediatrico. Il leader ucraino aveva definito lo zar “il paziente zero che ha scatenato la guerra”"
       },
       {
         "title": "Borsa: Tokyo, apertura in rialzo (+0,69%)",
@@ -572,6 +572,13 @@
   },
   "attualita": [
     {
+      "title": "Se sei al verde, venditi il prato",
+      "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/09/24/news/manchester_united_vende_erba_old_trafford-425603894/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 04:55:58 +0000",
+      "excerpt": "Il Manchester United è in perdita e si è messo a vendere cubetti di terreno di gioco di Old Trafford. Nei club di calcio, ormai, qualsiasi cosa ha un prezzo"
+    },
+    {
       "title": "Zelensky: 'Putin è il paziente zero, va fermato'. Bombe nella notte su Kiev, 2 morti",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/zelensky-putin-e-il-paziente-zero-va-fermato.-trump-invita-lo-zar-al-g20_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
       "source": "ANSA",
@@ -633,13 +640,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
       "excerpt": "Macron ha condiviso con i leader di partito i timori dell’intelligence: Mosca vuole destabilizzare il Paese con attacchi ibridi"
-    },
-    {
-      "title": "Il comandante ucraino: “Putin recluterà altri soldati, ma con i droni lo fermeremo”",
-      "link": "https://www.repubblica.it/esteri/2026/09/24/news/comandante_ucraino_brovdi_intervista_putin_reclutera_altri_soldati_droni_lo_fermeremo-425603371/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "Brovdi, l’uomo che ha trasformato la difesa in offesa a lungo raggio: “Anche l’Italia deve creare una propria brigata di sistemi senza pilota, è cruciale per difendersi”"
     },
     {
       "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo'",
