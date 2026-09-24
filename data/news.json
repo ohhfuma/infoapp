@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-24T02:39:08.490Z",
+  "lastUpdated": "2026-09-24T03:07:44.774Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il titolo IT è salito di oltre l’89% da luglio: i nostri modelli AI lo avevano già scelto",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-it-e-salito-di-oltre-l89-da-luglio-i-nostri-modelli-ai-lo-avevano-gia-scelto-3560454",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 02:51:32",
+        "excerpt": ""
+      },
+      {
+        "title": "Titoli tech e chip cinesi in calo mentre i rendimenti USA salgono",
+        "link": "https://it.investing.com/news/stock-market-news/titoli-tech-e-chip-cinesi-in-calo-mentre-i-rendimenti-usa-salgono-3560451",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 02:40:40",
+        "excerpt": ""
+      },
       {
         "title": "Rottamazione, in arrivo le scadenze per sistemare i conti con il Fisco: pagamenti e domande",
         "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/24/news/rottamazione_quinquies_seconda_rata_tributi_locali-425603303/?rss",
@@ -49,20 +63,6 @@
         "link": "https://it.investing.com/news/stock-market-news/amaero-rinvia-lipo-negli-usa-per-le-condizioni-di-mercato-avverse-432SI-3560411",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-24 00:50:02",
-        "excerpt": ""
-      },
-      {
-        "title": "Meta lancia un nuovo dispositivo portatile dedicato a Muse",
-        "link": "https://it.investing.com/news/stock-market-news/meta-lancia-un-nuovo-dispositivo-portatile-dedicato-a-muse-3560406",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 00:41:32",
-        "excerpt": ""
-      },
-      {
-        "title": "HSBC sposta il consiglio di amministrazione da Dubai a Londra",
-        "link": "https://it.investing.com/news/stock-market-news/hsbc-sposta-il-consiglio-di-amministrazione-da-dubai-a-londra-93CH-3560392",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 23:53:21",
         "excerpt": ""
       },
       {
@@ -404,8 +404,8 @@
         "title": "Per Xi accoglienza con tappeto rosso: Trump cerca sponde su Iran, IA e dazi",
         "link": "https://www.repubblica.it/esteri/2026/09/24/news/xi_trump_tappeto_rosso_vertice_usa_cina-425603800/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Thu, 24 Sep 2026 04:30:56 +0200",
-        "excerpt": "Vertice a Washington tra i capi delle due superpotenze. Il presidente americano, accompagnato dalla firts lady Melania, ha rispettato il cerimoniale. Tra i nodi dell’incontro Taiwan, su cui Pechino non arretra"
+        "pubDate": "Thu, 24 Sep 2026 04:37:45 +0200",
+        "excerpt": "Vertice a Washington tra i capi delle due superpotenze. Il presidente americano, accompagnato dalla first lady Melania, ha rispettato il cerimoniale. Tra i nodi dell’incontro Taiwan, su cui Pechino non arretra"
       },
       {
         "title": "Asia energy stocks rise as oil rebounds on renewed Iran supply fears",
@@ -572,6 +572,20 @@
   },
   "attualita": [
     {
+      "title": "Zelensky: 'Putin è il paziente zero, va fermato'. Bombe nella notte su Kiev, 2 morti",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/zelensky-putin-e-il-paziente-zero-va-fermato.-trump-invita-lo-zar-al-g20_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 24 Sep 2026 04:52:46 +0200",
+      "excerpt": "Trump invita lo zar al G20, il Cremlino: grazie, valuteremo. Lavrov a Rubio: 'Negoziamo ma non ci fermiamo'"
+    },
+    {
+      "title": "Per Xi accoglienza con tappeto rosso: Trump cerca sponde su Iran, IA e dazi",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/xi_trump_tappeto_rosso_vertice_usa_cina-425603800/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 02:30:56 +0000",
+      "excerpt": "Vertice a Washington tra i capi delle due superpotenze. Il presidente americano, accompagnato dalla firts lady Melania, ha rispettato il cerimoniale. Tra i nodi dell’incontro Taiwan, su cui Pechino non arretra"
+    },
+    {
       "title": "Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_56a36ff8-3394-40ca-b17c-750eac341420.html",
       "source": "ANSA",
@@ -626,20 +640,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
       "excerpt": "Brovdi, l’uomo che ha trasformato la difesa in offesa a lungo raggio: “Anche l’Italia deve creare una propria brigata di sistemi senza pilota, è cruciale per difendersi”"
-    },
-    {
-      "title": "Meloni al gala fashion week e non all’Assemblea Onu: “Una figuraccia per l’Italia”",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/24/news/meloni_fashion_week_milano_onu_polemica-425603697/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "La premier a sorpresa al Palazzo Reale di Milano per il ricevimento. Renzi e Ricciardi: “Tutti i leader a New York tranne lei”"
-    },
-    {
-      "title": "Zelensky: 'Putin è il paziente zero, va fermato'. Trump invita lo zar al G20, il Cremlino: grazie, valuteremo",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/zelensky-putin-e-il-paziente-zero-va-fermato.-trump-invita-lo-zar-al-g20_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 00:11:54 +0200",
-      "excerpt": "Lavrov a Rubio: 'Negoziamo ma non ci fermiamo'. Tajani: 'Minacce ibride della Russia mettono a rischio la sicurezza europea'"
     },
     {
       "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo'",
