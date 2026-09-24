@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-09-24T20:08:37.529Z",
+  "lastUpdated": "2026-09-24T20:39:58.088Z",
   "finanza": {
     "italia": [
+      {
+        "title": "STAAR Surgical sale fino al 2% dopo buyback da 50 milioni di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/staar-surgical-sale-fino-al-2-dopo-buyback-da-50-milioni-di-dollari-3562091",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 20:33:19",
+        "excerpt": ""
+      },
+      {
+        "title": "Il titolo di Zscaler crolla dopo il cambio di leadership al vertice delle vendite",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-zscaler-crolla-dopo-il-cambio-di-leadership-al-vertice-delle-vendite-3562057",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 20:21:36",
+        "excerpt": ""
+      },
+      {
+        "title": "Il titolo di Prime Medicine balza dopo l’approvazione IND della FDA",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-prime-medicine-balza-dopo-lapprovazione-ind-della-fda-3562047",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 20:17:47",
+        "excerpt": ""
+      },
+      {
+        "title": "Live Oak Acquisition Corp. VI raccoglie 230 milioni di dollari con l’IPO al Nasdaq",
+        "link": "https://it.investing.com/news/stock-market-news/live-oak-acquisition-corp-vi-raccoglie-230-milioni-di-dollari-con-lipo-al-nasdaq-432SI-3562033",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 20:12:07",
+        "excerpt": ""
+      },
+      {
+        "title": "Akamai si aggiudica un contratto da 11,6 miliardi con Anthropic, titolo in rialzo",
+        "link": "https://it.investing.com/news/stock-market-news/akamai-si-aggiudica-un-contratto-da-116-miliardi-con-anthropic-titolo-in-rialzo-3562028",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 20:08:33",
+        "excerpt": ""
+      },
       {
         "title": "Newsmax fa pressione sul DOJ per bloccare l’accordo Fox-Roku da 22 miliardi",
         "link": "https://it.investing.com/news/stock-market-news/newsmax-fa-pressione-sul-doj-per-bloccare-laccordo-foxroku-da-22-miliardi-3561988",
@@ -24,46 +59,11 @@
         "excerpt": ""
       },
       {
-        "title": "Tesla stretta tra SMA 200 e Fibonacci 61,8%: livelli in tempo reale",
-        "link": "https://it.investing.com/news/stock-market-news/tesla-stretta-tra-sma200-e-supporti-livelli-in-tempo-reale-93CH-3556621",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 19:11:55",
-        "excerpt": ""
-      },
-      {
-        "title": "Microsoft consolida tra $490 e $505: livelli in tempo reale",
-        "link": "https://it.investing.com/news/stock-market-news/microsoft-consolida-tra-487-e-507-livelli-in-tempo-reale-93CH-3556620",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 19:11:38",
-        "excerpt": ""
-      },
-      {
         "title": "AAA cercasi insalata e pomodori sugli scaffali dei supermercati",
         "link": "https://www.ilsole24ore.com/art/aaa-cercasi-insalata-e-pomodori-scaffali-supermercati-AJMFHzNB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 24 Sep 2026 19:10:14 GMT",
         "excerpt": "Poca insalata e pochi pomodori. I consumatori italiani faticano sempre di più a trovare questi due ortaggi al supermercato. Il motivo? Il caldo eccessivo dei mesi di luglio e agosto...."
-      },
-      {
-        "title": "Alaska Air prevede la certificazione del Boeing 737 MAX 10 questo mese",
-        "link": "https://it.investing.com/news/stock-market-news/alaska-air-prevede-la-certificazione-del-boeing-737-max-10-questo-mese-93CH-3561973",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 18:42:29",
-        "excerpt": ""
-      },
-      {
-        "title": "I titoli gaming crollano dopo i nuovi strumenti AI di Meta per i giochi",
-        "link": "https://it.investing.com/news/stock-market-news/i-titoli-gaming-crollano-dopo-i-nuovi-strumenti-ai-di-meta-per-i-giochi-3561972",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 18:39:33",
-        "excerpt": ""
-      },
-      {
-        "title": "L’ex responsabile dei data center di OpenAI entra in Nvidia",
-        "link": "https://it.investing.com/news/stock-market-news/lex-responsabile-dei-data-center-di-openai-entra-in-nvidia-3561956",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 18:11:47",
-        "excerpt": ""
       },
       {
         "title": "Icop sottoscrive accordo per acquisire il 51% di Ediltunnel",
@@ -401,6 +401,27 @@
     ],
     "mondo": [
       {
+        "title": "Oil jumps for second straight day as U.S.-Iran diplomatic breakthrough hopes fade",
+        "link": "https://www.investing.com/news/commodities-news/oil-slips-1-after-sharp-gains-amid-usiran-diplomacy-doubts-4914284",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 20:32:57",
+        "excerpt": ""
+      },
+      {
+        "title": "Attività economica in calo e povertà in aumento in Argentina",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/attivita-economica-in-calo-e-poverta-in-aumento-in-argentina_00782d6f-a272-4c46-b7b8-db4e99bba4e3.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 22:14:15 +0200",
+        "excerpt": "A luglio contrazione del 2,9% su mese mentre il numero di poveri aumenta di 3,4 punti"
+      },
+      {
+        "title": "In centinaia protestano contro Netanyahu all’Onu: “Basta armi a Israele”. Arrestata Susan Sarandon",
+        "link": "https://www.repubblica.it/esteri/2026/09/24/news/new_york_onu_proteste_contro_netanyahu_arrestata_susan_sarandon-425605992/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 24 Sep 2026 22:08:00 +0200",
+        "excerpt": "La manifestazione organizzata da Jewish Voice for Peace contro Bibi è culminata con decine di fermi. Città blindata dal sindaco Mamdani"
+      },
+      {
         "title": "Oil prices settle up about 3% as Houthi attack on Saudi Arabia lifts supply fears",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-jump-4-as-houthis-fire-missiles-at-saudi-arabia-4915853",
         "source": "Investing.com Commodities",
@@ -457,13 +478,6 @@
         "excerpt": ""
       },
       {
-        "title": "Gold breaks $4,320 support, bears target $4,261: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/gold-wedged-in-43004450-range-live-breakout-levels-93CH-4908346",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 19:18:02",
-        "excerpt": ""
-      },
-      {
         "title": "Costa Rica, la presidente destituisce il ministro degli Esteri dopo vertice con Trump",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/costa-rica-la-presidente-destituisce-il-ministro-degli-esteri-dopo-vertice-con_863e5549-a00f-4dbd-9ca7-da2ee18162c8.html",
         "source": "ANSA Mondo",
@@ -513,20 +527,6 @@
         "excerpt": "Manifestazioni attorno al Palazzo di Vetro, primi fermi"
       },
       {
-        "title": "Sostenitori di Machado sfilano a Caracas per chiedere il suo ritorno in patria",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/sostenitori-di-machado-sfilano-a-caracas-per-chiedere-il-suo-ritorno-in-patria_164c9cef-9fa2-43e1-aaf8-c04db43cf66f.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 19:44:51 +0200",
-        "excerpt": "Gli ultimi tre tentativi di entrare in Venezuela da Panama sono stati bloccati"
-      },
-      {
-        "title": "Ali, Yusuf e i bimbi di Gaza a scuola nelle tende e senza libri: “Dividiamo anche le cartelle”",
-        "link": "https://www.repubblica.it/esteri/2026/09/24/news/gaza_scuola_tende_e_senza_libri_guerra-425604692/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 24 Sep 2026 19:35:12 +0200",
-        "excerpt": "Dopo tre anni di guerra sono ricominciate le lezioni, anche se il 98% degli istituti è stato distrutto o danneggiato dai raid israeliani. Le autorità si sono arrangiate per organizzare classi dove si può: in spazi rovent"
-      },
-      {
         "title": "Che cosa è la trappola di Tucidide citata ancora una volta da Xi Jinping nell’incontro con Trump",
         "link": "https://www.repubblica.it/esteri/2026/09/24/news/trappola_di_tucidide_che_cosa_e_xi_trump-425605314/?rss",
         "source": "Repubblica Esteri",
@@ -571,6 +571,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "In centinaia protestano contro Netanyahu all’Onu: “Basta armi a Israele”. Arrestata Susan Sarandon",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/new_york_onu_proteste_contro_netanyahu_arrestata_susan_sarandon-425605992/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 20:08:00 +0000",
+      "excerpt": "La manifestazione organizzata da Jewish Voice for Peace contro Bibi è culminata con decine di fermi. Città blindata dal sindaco Mamdani"
+    },
     {
       "title": "Elena Pero, addio alla voce del tennis di Sky: ha raccontato le grandi vittorie di Jannik Sinner",
       "link": "https://www.repubblica.it/sport/tennis/2026/09/24/news/elena_pero_morta_voce_tennis_sky-425605942/",
@@ -663,13 +670,6 @@
       "excerpt": "Determinazione e addestramento dei miliziani yemeniti surclassano l’arsenale hi-tech di Riad"
     },
     {
-      "title": "Max Pezzali si racconta a Carlo Lucarelli: “Le mie storie senza sfumature”",
-      "link": "https://www.repubblica.it/venerdi/2026/09/24/news/max_pezzali_883_carlo_lucarelli_intervista-425604655/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 24 Sep 2026 14:00:00 +0000",
-      "excerpt": "«La cosa che so fare meglio è narrare a colori primari. Non sono bravo coi mezzi toni», dice Max Pezzali. E ora che arriva la seconda stagione della serie sugli 883 si confessa con un vecchio amico. Tra nostalgia e risat"
-    },
-    {
       "title": "Noleggio auto usate a lungo termine: perché sempre più italiani lo scelgono",
       "link": "https://www.ansa.it/native/ansacom/2026/09/24/noleggio-auto-usate-a-lungo-termine-perche-sempre-piu-italiani-lo-scelgono_90e6a96f-c0b7-494f-b341-86f6cabb8eda.html",
       "source": "ANSA",
@@ -742,32 +742,46 @@
   ],
   "sport": [
     {
-      "title": "Calcio, intitolato alla memoria di Protti piazzale dello stadio di Livorno",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/calcio-intitolato-alla-memoria-di-protti-piazzale-dello-stadio-di-livorno_0ecebe62-a13d-4790-ac02-f3ccf330496d.html",
+      "title": "Tv: morta Elena Pero, voce del tennis su Sky",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/24/tv-morta-elena-pero-voce-del-tennis-su-sky_d3ee9b8c-6eb0-48ee-9c7b-7c12524efcb8.html",
       "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 22:04:13 +0200",
-      "excerpt": "Sotto la Curva Nord inaugurata targa celebrativa"
+      "pubDate": "Thu, 24 Sep 2026 22:36:40 +0200",
+      "excerpt": "Aveva 60 anni. Gli inizi a Telepiù con Rino Tommasi"
     },
     {
-      "title": "Nations League: minuto di silenzio per Mazzola prima di Italia-Belgio",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/24/nations-league-minuto-di-silenzio-per-mazzola-prima-di-italia-belgio_d0acc5f9-4d39-4363-974e-bd561e4a524b.html",
+      "title": "Il Belgio sulla strada dell'Italia: 'Vogliamo vincere e dominare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/il-belgio-sulla-strada-dellitalia-vogliamo-vincere-e-dominare_e065f37a-2500-4820-8165-d1c1a1ce8a64.html",
       "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 22:04:10 +0200",
-      "excerpt": "Ci sarà anche un momento per ricordare Franco Baresi"
+      "pubDate": "Thu, 24 Sep 2026 22:32:22 +0200",
+      "excerpt": "Il ct Van Bommel: \"Per noi quella con azzurri è grande sfida\""
     },
     {
-      "title": "Calcio: Donnarumma 'Con Mancini abbiamo fatto la storia, speriamo di ripeterci'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/calcio-donnarumma-con-mancini-abbiamo-fatto-la-storia-speriamo-di-ripeterci_4b9604c6-7b28-44d5-8388-8e892d8cc697.html",
+      "title": "Punti fermi e qualche esordiente come Romano, la nuova Italia di Mancini",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/punti-fermi-e-qualche-esordiente-come-romano-la-nuova-italia-di-mancini_3b8002bf-9698-4c0b-81a0-8d8617aebb52.html",
       "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 22:04:03 +0200",
-      "excerpt": "'Dopo la Bosnia estate lunga, riportiamo l'Italia dove merita'"
+      "pubDate": "Thu, 24 Sep 2026 22:31:28 +0200",
+      "excerpt": "Il giovane del Cagliari fra le possibili novità: 'Ho scelto l'azzurro con il cuore'"
     },
     {
-      "title": ">>>ANSA/Il Belgio di Van Bommel sulla strada dell'Italia 'vogliamo vincere e dominare'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/24/ansail-belgio-di-van-bommel-sulla-strada-dellitalia-vogliamo-vincere-e-dominare_e065f37a-2500-4820-8165-d1c1a1ce8a64.html",
+      "title": "L'Italia di Mancini riparte dal Belgio: 'L'unica medicina e' il bel gioco'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/litalia-di-mancini-riparte-dal-belgio-lunica-medicina-e-il-bel-gioco_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
       "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 22:04:00 +0200",
-      "excerpt": "Il ct dei Diavoli Rossi: \"Per noi quella con azzurri è grande sfida, vogliamo i 3 punti\""
+      "pubDate": "Thu, 24 Sep 2026 22:29:50 +0200",
+      "excerpt": "All'Olimpico la prima di Nations League anche per scacciare le nubi del mancato Mondiale"
+    },
+    {
+      "title": "Bjk: Italia rischia con la Cina ma Errani e Paolini la portano in semifinale",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/24/bjk-italia-rischia-con-la-cina-ma-errani-e-paolini-la-portano-in-semifinale_ba81a2c0-f88f-4f69-92df-1aaf89bc3bef.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 22:21:30 +0200",
+      "excerpt": "A Shenzen decisivo il doppio. Prossima avversaria l'Ucraina sabato"
+    },
+    {
+      "title": "Eurovolley: delusione Italia, Manfredi 'avanti con De Giorgi, parleremo'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/24/eurovolley-delusione-italia-manfredi-avanti-con-de-giorgi-parleremo_dcac0a36-8b80-485c-a33d-284191c35e06.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 22:18:39 +0200",
+      "excerpt": "Il presidente della Fipav: 'Il gruppo è compatto, avevamo appena rinnovato'"
     },
     {
       "title": "F1: super-Russell a Baku, la Mercedes detta i tempi",
@@ -777,25 +791,11 @@
       "excerpt": "Secondo tempo per Antonelli. Le Ferrari inseguono: Leclerc quarto davanti a Hamilton"
     },
     {
-      "title": "L'Italia di Mancini riparte dal Belgio,'l'unica medicina e' il bel gioco'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/litalia-di-mancini-riparte-dal-belgiolunica-medicina-e-il-bel-gioco_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 21:14:42 +0200",
-      "excerpt": "Prima di Nations League per scacciare le nubi del mancato Mondiale"
-    },
-    {
       "title": "Sinner atteso a Pechino, Alcaraz 'mi manca giocare con lui'",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/24/sinner-atteso-a-pechino-alcaraz-mi-manca-giocare-con-lui_8448d34b-0928-4c29-992f-a2cb68a9d65d.html",
       "source": "ANSA Sport",
       "pubDate": "Thu, 24 Sep 2026 20:31:44 +0200",
       "excerpt": "Ottimismo per l'Open di Cina, il n.1 ha intensificato gli allenamenti"
-    },
-    {
-      "title": "Nations League: Van Bommel 'con l'Italia per vincere, vogliamo dominare il gioco'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/nations-league-van-bommel-con-litalia-per-vincere-vogliamo-dominare_a9f48728-4eed-4004-a6ab-d91cac6b3380.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 19:55:33 +0200",
-      "excerpt": "Il tecnico del Belgio: \"Partita difficile, partiamo da zero come Mancini\""
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
