@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-24T02:07:48.313Z",
+  "lastUpdated": "2026-09-24T02:39:08.490Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Rottamazione, in arrivo le scadenze per sistemare i conti con il Fisco: pagamenti e domande",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/24/news/rottamazione_quinquies_seconda_rata_tributi_locali-425603303/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Thu, 24 Sep 2026 04:00:00 +0200",
+        "excerpt": "Il 30 settembre va pagata la seconda rata della definizione agevolata “quinquies”. Il 16 ottobre si apre la finestra per la rottamazione dei tributi locali"
+      },
       {
         "title": "Perché il titolo SoftBank è in forte rialzo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-softbank-e-in-forte-rialzo-oggi-93CH-3560435",
@@ -106,13 +113,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Thu, 24 Sep 2026 00:01:00 +0200",
         "excerpt": ""
-      },
-      {
-        "title": "Altman e Amodei all’Onu: “L’IA può sfuggirci”. Ma lanciano altri modelli",
-        "link": "https://www.repubblica.it/economia/2026/09/23/news/altman_amodei_onu_rischi_ia_senza_controllo_nuovi_modelli-425603693/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 23 Sep 2026 23:32:23 +0200",
-        "excerpt": "I fondatori di OpenAI e Anthropic avvertono il Consiglio di Sicurezza sui rischi, ma non mettono un freno alla competizione"
       },
       {
         "title": "Inps, in arrivo 1.177.597 carte Dedicata a te, attive da ottobre, accredito a novembre",
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Per Xi accoglienza con tappeto rosso: Trump cerca sponde su Iran, IA e dazi",
+        "link": "https://www.repubblica.it/esteri/2026/09/24/news/xi_trump_tappeto_rosso_vertice_usa_cina-425603800/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 24 Sep 2026 04:30:56 +0200",
+        "excerpt": "Vertice a Washington tra i capi delle due superpotenze. Il presidente americano, accompagnato dalla firts lady Melania, ha rispettato il cerimoniale. Tra i nodi dell’incontro Taiwan, su cui Pechino non arretra"
+      },
+      {
+        "title": "Asia energy stocks rise as oil rebounds on renewed Iran supply fears",
+        "link": "https://www.investing.com/news/commodities-news/asia-energy-stocks-rise-as-oil-rebounds-on-renewed-iran-supply-fears-4914367",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 02:04:30",
+        "excerpt": ""
+      },
+      {
         "title": "Tajani, 'Onu deve ritrovare capacità di agire, troppo spesso appare impotente'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/tajani-onu-deve-ritrovare-capacita-di-agire-troppo-spesso-appare-impotente_7d46b2fe-4535-465f-adf0-616f0289d539.html",
         "source": "ANSA Mondo",
@@ -527,13 +541,6 @@
         "excerpt": "La strategia del doppio binario per il leader che fu scelto da Khamenei: ha usato toni da falco per non scontentare i pasdaran e tenere aperto il canale con l’America"
       },
       {
-        "title": "Boulos: “Il governo italiano deve fare di più in Libia, così riuniremo il Paese”",
-        "link": "https://www.repubblica.it/esteri/2026/09/24/news/boulos_usa_intervista_italia_libia_migrazione-425603326/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 24 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il consigliere di Trump per il Nord Africa: “Se controlliamo il territorio otteniamo subito un freno a migrazioni e terrorismo”"
-      },
-      {
         "title": "Senators from both parties ask Trump to release emergency heating oil as prices surge",
         "link": "https://www.investing.com/news/commodities-news/senators-from-both-parties-ask-trump-to-release-emergency-heating-oil-as-prices-surge-4914071",
         "source": "Investing.com Commodities",
@@ -559,13 +566,6 @@
         "link": "https://www.investing.com/news/commodities-news/ice-canola-futures-rise-on-oil-strength-and-weaker-loonie-93CH-4914021",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-23 21:07:53",
-        "excerpt": ""
-      },
-      {
-        "title": "Iran, US still far apart in peace talks, Iranian official says; Pezeshkian vows no surrender",
-        "link": "https://www.investing.com/news/commodities-news/hope-for-progress-after-us-iran-hold-first-shuttle-talks-in-months-4912555",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 21:01:22",
         "excerpt": ""
       }
     ]
