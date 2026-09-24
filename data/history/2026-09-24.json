@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Il prezzo spot dell'oro è sotto 4.300 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/il-prezzo-spot-delloro-e-sotto-4.300-dollari_1ae24719-2bf8-4c67-885d-a6e9fd4fc765.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 24 Sep 2026 08:15:28 +0200",
+        "excerpt": "Spot a 4.285,84 dollari l'oncia"
+      },
+      {
+        "title": "Tencent lancia un’app di pagamento mobile per i turisti stranieri",
+        "link": "https://it.investing.com/news/stock-market-news/tencent-lancia-unapp-di-pagamento-mobile-per-i-turisti-stranieri-93CH-3560507",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 06:09:05",
+        "excerpt": ""
+      },
+      {
+        "title": "La RBI indiana conduce swap valutari da 10 miliardi per drenare liquidità",
+        "link": "https://it.investing.com/news/stock-market-news/la-rbi-indiana-conduce-swap-valutari-da-10-miliardi-per-drenare-liquidita-93CH-3560505",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 06:08:42",
+        "excerpt": ""
+      },
+      {
         "title": "Prezzo del petrolio poco mosso, Brent a 103 dollari al barile",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/prezzo-del-petrolio-poco-mosso-brent-a-103-dollari-al-barile_c0e64906-b09e-4355-a1a2-9e1ede32c20a.html",
         "source": "ANSA Economia",
@@ -401,27 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Wed, 23 Sep 2026 18:32:27 +0200",
         "excerpt": "Ci sono 15 milioni di ultrasessantacinquenni in Italia e di questi circa 5 milioni hanno problemi di salute seri"
-      },
-      {
-        "title": "Energia, finanza low-carbon a un passo dai combustibili fossili",
-        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/09/23/news/energia_finanza_low-carbon_a_un_passo_dai_combustibili_fossili-425602997/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Wed, 23 Sep 2026 18:16:23 +0200",
-        "excerpt": "Nel 2025 il rapporto sale a 0,97:1, con 1.150 miliardi di dollari destinati alle attività a basse emissioni su 2.300 miliardi complessivi. L’Europa resta leader, la Cina accelera sugli investimenti in reti e utility, men"
-      },
-      {
-        "title": "Lollobrigida, firmato decreto per la promozione del turismo enologico",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/lollobrigida-firmato-decreto-per-la-promozione-del-turismo-enologico_3f8cac4a-3163-4cab-a250-1484b74bfde6.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 18:16:15 +0200",
-        "excerpt": "I beneficiari sono Consorzi di tutela, organizzazioni di produttori e interprofessionali"
-      },
-      {
-        "title": "Il futuro dell'agricoltura parte dal suolo, 250 giovani scelgono vie dell'innovazione",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/il-futuro-dellagricoltura-parte-dal-suolo-250-giovani-scelgono-vie-dellinnovazione_2174893e-658c-4ba9-b4ed-fc3035b30332.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 18:09:37 +0200",
-        "excerpt": "Studenti degli istituti agrari e imprenditori protagonisti a Roma del contest Soil Date"
       }
     ],
     "europa": [
@@ -632,6 +632,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Giudice Usa a Trump: “Riammetta alla Casa Bianca i media banditi”",
+        "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 24 Sep 2026 08:10:10 +0200",
+        "excerpt": "Timothy Kelly ha ordinato all'amministrazione americana di far rientrare Cnn, MsNow e Politico dopo che ai tre network era stato revocato l'accesso per ordine del presidente: “La revoca dei badge stampa è stata fatta sen"
+      },
       {
         "title": "US and Indian top diplomats discuss Russia sanctions bill signed by Trump",
         "link": "https://www.investing.com/news/commodities-news/us-and-indian-top-diplomats-discuss-russia-sanctions-bill-signed-by-trump-4914397",
@@ -999,6 +1006,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Giudice Usa a Trump: “Riammetta alla Casa Bianca i media banditi”",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 06:10:10 +0000",
+      "excerpt": "Timothy Kelly ha ordinato all'amministrazione americana di far rientrare Cnn, MsNow e Politico dopo che ai tre network era stato revocato l'accesso per ordine del presidente: “La revoca dei badge stampa è stata fatta sen"
+    },
     {
       "title": "El Mundo: 'Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/el-mundo-russia-pronta-ad-attacchi-con-droni-dal-mare-in-italia-francia_f3970154-cd44-45da-9d7a-0f7ce91c9725.html",

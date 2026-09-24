@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-24T06:10:13.703Z",
+  "lastUpdated": "2026-09-24T06:43:08.381Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il prezzo spot dell'oro è sotto 4.300 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/il-prezzo-spot-delloro-e-sotto-4.300-dollari_1ae24719-2bf8-4c67-885d-a6e9fd4fc765.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 24 Sep 2026 08:15:28 +0200",
+        "excerpt": "Spot a 4.285,84 dollari l'oncia"
+      },
+      {
+        "title": "Tencent lancia un’app di pagamento mobile per i turisti stranieri",
+        "link": "https://it.investing.com/news/stock-market-news/tencent-lancia-unapp-di-pagamento-mobile-per-i-turisti-stranieri-93CH-3560507",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 06:09:05",
+        "excerpt": ""
+      },
+      {
+        "title": "La RBI indiana conduce swap valutari da 10 miliardi per drenare liquidità",
+        "link": "https://it.investing.com/news/stock-market-news/la-rbi-indiana-conduce-swap-valutari-da-10-miliardi-per-drenare-liquidita-93CH-3560505",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 06:08:42",
+        "excerpt": ""
+      },
       {
         "title": "Prezzo del petrolio poco mosso, Brent a 103 dollari al barile",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/prezzo-del-petrolio-poco-mosso-brent-a-103-dollari-al-barile_c0e64906-b09e-4355-a1a2-9e1ede32c20a.html",
@@ -38,7 +59,7 @@
         "excerpt": ""
       },
       {
-        "title": "Schneider Electric vicina a un accordo da 1,5 mld $ per acquisire Shelly Group",
+        "title": "Shelly Group conferma l’offerta di Schneider a €70 per azione",
         "link": "https://it.investing.com/news/stock-market-news/schneider-electric-vicina-a-un-accordo-da-15-mld--per-acquisire-shelly-group-3560480",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-24 04:55:35",
@@ -49,20 +70,6 @@
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-zijin-longking-e-in-rialzo-oggi-93CH-3560475",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-24 04:44:49",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Lynas Rare Earths sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-lynas-rare-earths-sta-scendendo-oggi-93CH-3560474",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 04:44:45",
-        "excerpt": ""
-      },
-      {
-        "title": "Titolo chip in rialzo del 18% questo mese: i nostri modelli AI lo avevano già scelto",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-sui-chip-sale-del-18-questo-mese-i-nostri-modelli-ai-lo-avevano-gia-scelto-3560473",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 04:30:37",
         "excerpt": ""
       },
       {
@@ -192,13 +199,6 @@
         "excerpt": "Un vasto incendio sta divampando alle porte di Milano; una nube di fumo consistente è salita al cielo intorno alle 18,30. Sul posto stanno intervenendo i..."
       },
       {
-        "title": "Lollobrigida, firmato decreto per la promozione del turismo enologico",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/23/lollobrigida-firmato-decreto-per-la-promozione-del-turismo-enologico_3f8cac4a-3163-4cab-a250-1484b74bfde6.html",
-        "source": "ANSA Economia",
-        "pubDate": "Wed, 23 Sep 2026 18:16:15 +0200",
-        "excerpt": "I beneficiari sono Consorzi di tutela, organizzazioni di produttori e interprofessionali"
-      },
-      {
         "title": "Ai, più timori e meno fiducia: così è cambiato il giudizio degli italiani",
         "link": "https://www.ilsole24ore.com/art/ai-piu-timori-e-meno-fiducia-cosi-e-cambiato-giudizio-italiani-AJ6bkXMB",
         "source": "Il Sole 24 Ore",
@@ -232,7 +232,7 @@
         "title": "Giudice ordina alla Casa Bianca di riammettere media banditi da Trump",
         "link": "https://www.ilsole24ore.com/art/giudice-ordina-casa-bianca-riammettere-media-banditi-trump-AJp4gGNB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Thu, 24 Sep 2026 06:02:21 GMT",
+        "pubDate": "Thu, 24 Sep 2026 06:02:00 GMT",
         "excerpt": "Il giudice federale Timothy Kelly ha temporaneamente bloccato la decisione del presidente Donald Trump di bandire tre testate giornalistiche dai locali della Casa Bianca e ha stabilito che a CNN,..."
       },
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Giudice Usa a Trump: “Riammetta alla Casa Bianca i media banditi”",
+        "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 24 Sep 2026 08:10:10 +0200",
+        "excerpt": "Timothy Kelly ha ordinato all'amministrazione americana di far rientrare Cnn, MsNow e Politico dopo che ai tre network era stato revocato l'accesso per ordine del presidente: “La revoca dei badge stampa è stata fatta sen"
+      },
+      {
         "title": "Gold prices edge lower as higher oil, yields keep pressure on bullion",
         "link": "https://www.investing.com/news/commodities-news/gold-steadies-after-selloff-as-oil-strong-us-data-lift-fed-hike-bets-4914320",
         "source": "Investing.com Commodities",
@@ -541,13 +548,6 @@
         "excerpt": "Intervista a Robert Brovdi, l’uomo che ha trasformato la difesa in offesa a lungo raggio: “Abbiamo portato la guerra in Russia per costringerli a negoziare. Anche l’Italia deve creare una propria brigata di sistemi senza"
       },
       {
-        "title": "Pezeshkian, il medico mite che si fa falco per trattare ma senza cedimenti",
-        "link": "https://www.repubblica.it/esteri/2026/09/24/news/pezeshkian_presidente_iran_onu_strategia_doppio_binario_pasdaran_usa-425603354/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 24 Sep 2026 01:00:00 +0200",
-        "excerpt": "La strategia del doppio binario per il leader che fu scelto da Khamenei: ha usato toni da falco per non scontentare i pasdaran e tenere aperto il canale con l’America"
-      },
-      {
         "title": "Senators from both parties ask Trump to release emergency heating oil as prices surge",
         "link": "https://www.investing.com/news/commodities-news/senators-from-both-parties-ask-trump-to-release-emergency-heating-oil-as-prices-surge-4914071",
         "source": "Investing.com Commodities",
@@ -572,10 +572,17 @@
   },
   "attualita": [
     {
+      "title": "Giudice Usa a Trump: “Riammetta alla Casa Bianca i media banditi”",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 06:10:10 +0000",
+      "excerpt": "Timothy Kelly ha ordinato all'amministrazione americana di far rientrare Cnn, MsNow e Politico dopo che ai tre network era stato revocato l'accesso per ordine del presidente: “La revoca dei badge stampa è stata fatta sen"
+    },
+    {
       "title": "El Mundo: 'Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/el-mundo-russia-pronta-ad-attacchi-con-droni-dal-mare-in-italia-francia_f3970154-cd44-45da-9d7a-0f7ce91c9725.html",
       "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 07:43:59 +0200",
+      "pubDate": "Thu, 24 Sep 2026 08:04:05 +0200",
       "excerpt": "I piani del Cremlino svelati dalla Cia. Potrebbero colpire quasi tutto il Paese"
     },
     {
@@ -628,18 +635,11 @@
       "excerpt": "L’annuncio all’evento “Repubblica insieme”. La sindaca Funaro raccoglie l’appello di Mancuso: “La nostra città ha la forza di parlare al mondo”"
     },
     {
-      "title": "Un elicottero russo sconfina in Polonia: “Mosca cerca l’incidente”",
-      "link": "https://www.repubblica.it/esteri/2026/09/24/news/elicottero_russo_sconfina_ipolonia_mosca_cerca_incidente-425603421/",
+      "title": "Il comandante ucraino Magyar: “Putin recluterà altri 300 mila soldati, ma con i droni lo fermeremo”",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/comandante_ucraino_brovdi_intervista_putin_reclutera_altri_soldati_droni_lo_fermeremo-425603371/",
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "Varsavia: “Incidente per mettere alla prova le nostre difese aeree”. Il timore di una reazione eccessiva che porti a una spirale di violenza"
-    },
-    {
-      "title": "Allarme attacchi ibridi di Mosca, Parigi ha paura: “Dopo Lipsia tocca a noi”",
-      "link": "https://www.repubblica.it/esteri/2026/09/24/news/allarme_attacchi_ibridi_mosca_parigi_paura_macron-425603291/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "Macron ha condiviso con i leader di partito i timori dell’intelligence: Mosca vuole destabilizzare il Paese con attacchi ibridi"
+      "excerpt": "Intervista a Robert Brovdi, l’uomo che ha trasformato la difesa in offesa a lungo raggio: “Abbiamo portato la guerra in Russia per costringerli a negoziare. Anche l’Italia deve creare una propria brigata di sistemi senza"
     },
     {
       "title": "Tetto agli stranieri in un decreto, 'Non disarticoleremo le classi'",
