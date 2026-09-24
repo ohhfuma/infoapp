@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-24T01:07:40.946Z",
+  "lastUpdated": "2026-09-24T01:38:09.675Z",
   "finanza": {
     "italia": [
+      {
+        "title": "I futures USA calano dopo i rendimenti alti; inizia il vertice Trump-Xi",
+        "link": "https://it.investing.com/news/stock-market-news/i-futures-usa-calano-dopo-i-rendimenti-alti-inizia-il-vertice-trumpxi-3560424",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 01:15:17",
+        "excerpt": ""
+      },
       {
         "title": "Amaero rinvia l’IPO negli USA per le condizioni di mercato avverse",
         "link": "https://it.investing.com/news/stock-market-news/amaero-rinvia-lipo-negli-usa-per-le-condizioni-di-mercato-avverse-432SI-3560411",
@@ -98,13 +105,6 @@
         "link": "https://it.investing.com/news/stock-market-news/sp-promuove-il-rating-di-bending-spoons-dopo-le-acquisizioni-93CH-3560340",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-23 21:49:43",
-        "excerpt": ""
-      },
-      {
-        "title": "Celldex Therapeutics guida la classifica Biotecnologia di Guggenheim",
-        "link": "https://it.investing.com/news/stock-market-news/celldex-therapeutics-guida-la-classifica-biotecnologia-di-guggenheim-93CH-3560339",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 21:49:21",
         "excerpt": ""
       },
       {
@@ -401,6 +401,48 @@
     ],
     "mondo": [
       {
+        "title": "Tajani, 'Onu deve ritrovare capacità di agire, troppo spesso appare impotente'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/tajani-onu-deve-ritrovare-capacita-di-agire-troppo-spesso-appare-impotente_7d46b2fe-4535-465f-adf0-616f0289d539.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 03:28:46 +0200",
+        "excerpt": "'L'Italia vuole che il Consiglio di sicurezza non sia un club esclusivo'"
+      },
+      {
+        "title": "Xi, 'Cina e Usa dovrebbero essere partner e non avversari'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/xi-cina-e-usa-dovrebbero-essere-partner-e-non-avversari_824b1f0d-1acf-4fe3-a793-b2eb425317ff.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 03:23:25 +0200",
+        "excerpt": "'Rinascita della nazione cinese e ritorno alla grandezza dell'America possono coesistere'"
+      },
+      {
+        "title": "Gold steadies after selloff as oil, strong U.S. data lift Fed hike bets",
+        "link": "https://www.investing.com/news/commodities-news/gold-steadies-after-selloff-as-oil-strong-us-data-lift-fed-hike-bets-4914320",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 01:22:12",
+        "excerpt": ""
+      },
+      {
+        "title": "Oil prices edge lower as Iran says it is open to diplomacy to end the war",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-iran-says-it-is-open-to-diplomacy-to-end-the-war-4914308",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 01:18:28",
+        "excerpt": ""
+      },
+      {
+        "title": "Sheinbaum, 'difficile vivere accanto a chi consuma droghe e produce armi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/sheinbaum-difficile-vivere-accanto-a-chi-consuma-droghe-e-produce-armi_02345d27-0cbd-4c8c-9ca4-a81baa75754b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 03:07:37 +0200",
+        "excerpt": "La presidente risponde a Trump e chiede rispetto per il Messico"
+      },
+      {
+        "title": "Stati Uniti ed Argentina avviano progetto di investimenti da 7 miliardi di dollari",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/stati-uniti-ed-argentina-avviano-progetto-di-investimenti-da-7-miliardi-di-dollari_fc96ada4-5572-4717-a177-2c6a474a5a4c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 03:06:35 +0200",
+        "excerpt": "Focus su infrastrutture strategiche, minerali critici e catene di approvvigionamento"
+      },
+      {
         "title": "Díaz-Canel, 'nelle nostre riforme molte delle risposte ai problemi di Cuba'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/diaz-canel-nelle-nostre-riforme-molte-delle-risposte-ai-problemi-di-cuba_af5a70ac-a03c-4baa-b10d-d9ecc88917b9.html",
         "source": "ANSA Mondo",
@@ -441,20 +483,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 24 Sep 2026 01:53:00 +0200",
         "excerpt": "Lo riferisce un residente del secondo centro dell'Afghanistan"
-      },
-      {
-        "title": "OpenAi, 'nostro modello può aver tentato hackeraggio diversi siti governo Australia'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/openai-nostro-modello-puo-aver-tentato-hackeraggio-diversi-siti-governo_ee7fd1d2-5acc-4631-9d0b-0d2adeeaef05.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 01:41:16 +0200",
-        "excerpt": ""
-      },
-      {
-        "title": "Trump, 'ottimo incontro con Xi'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/trump-ottimo-incontro-con-xi_82d64d7e-1471-4373-ba81-cba5db179aaf.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 01:09:36 +0200",
-        "excerpt": ""
       },
       {
         "title": "Pezeshkian alle Nazioni Unite mostra le foto dei bimbi uccisi: “L’Iran non cederà agli Usa”",
@@ -506,20 +534,6 @@
         "excerpt": "Il consigliere di Trump per il Nord Africa: “Se controlliamo il territorio otteniamo subito un freno a migrazioni e terrorismo”"
       },
       {
-        "title": "Xi, 'fiducioso in risultati fruttuosi dalla visita negli Usa'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/xi-fiducioso-in-risultati-fruttuosi-dalla-visita-negli-usa_314a1c88-d7e4-4ff8-9362-75c60f666237.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 00:55:15 +0200",
-        "excerpt": "'Costruire relazioni stabili' e una cooperazione bilaterale 'in diversi altri settori'"
-      },
-      {
-        "title": "Bessent, tregua commerciale con la Cina estesa fino al 10 gennaio",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/bessent-tregua-commerciale-con-la-cina-estesa-fino-al-10-gennaio_8d73d284-9316-4697-8455-d4ee555297a5.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 00:38:50 +0200",
-        "excerpt": "In scadenza il 10 novembre, concordata un'estensione di due mesi"
-      },
-      {
         "title": "Senators from both parties ask Trump to release emergency heating oil as prices surge",
         "link": "https://www.investing.com/news/commodities-news/senators-from-both-parties-ask-trump-to-release-emergency-heating-oil-as-prices-surge-4914071",
         "source": "Investing.com Commodities",
@@ -553,24 +567,17 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-23 21:01:22",
         "excerpt": ""
-      },
-      {
-        "title": "Oil halts 5-day losing run, Brent rises 4% as Iran’s president expresses defiance",
-        "link": "https://www.investing.com/news/commodities-news/oil-extends-losses-as-trump-signals-progress-in-usiran-talks-4911933",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 21:00:44",
-        "excerpt": ""
-      },
-      {
-        "title": "Natural Gas retests $3.00 with bearish divergence: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 19:18:30",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Horror e giovane, per la corsa agli Oscar l’Italia scommette su Paolo Strippoli",
+      "link": "https://www.repubblica.it/spettacoli/cinema/2026/09/24/news/oscar_italia_paolo_strippoli_estranea-425603089/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 01:00:00 +0000",
+      "excerpt": "“L’estranea”, il nuovo film del regista rappresenterà il nostro Paese nella corsa al premio più ambito del cinema"
+    },
     {
       "title": "Kiev e Odessa sotto i missili russi, almeno due morti. La risposta di Putin al discorso di Zelensky all’Onu",
       "link": "https://www.repubblica.it/esteri/2026/09/24/news/kiev_odessa_missili_russia_ucraina_guerra-425603778/",
@@ -584,6 +591,20 @@
       "source": "ANSA",
       "pubDate": "Thu, 24 Sep 2026 02:25:22 +0200",
       "excerpt": "\"Ottimo incontro\". Il bilaterale, poi cena con Big tech e Wall Street"
+    },
+    {
+      "title": "Morte al Colosseo, il giorno nero del ministro Giuli: prima prende tempo, poi si arrende allo stop",
+      "link": "https://www.repubblica.it/cronaca/2026/09/24/news/morte_al_colosseo_il_giorno_nero_del_ministro_giuli_prima_prende_tempo_poi_si_arrende_allo_stop-425603732/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 00:00:00 +0000",
+      "excerpt": "Al mattino l’Anfiteatro accoglie 6.500 turisti, poi l’ira dei lavoratori costringe al fermo. E salta pure lo show di Alberto Angela"
+    },
+    {
+      "title": "Firenze capitale del clima: “Qui il primo vertice delle cento città verdi”",
+      "link": "https://firenze.repubblica.it/cronaca/2026/09/24/news/repubblica_insieme_firenze_funaro_mancuso_alberi-425603579/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 23:45:00 +0000",
+      "excerpt": "L’annuncio all’evento “Repubblica insieme”. La sindaca Funaro raccoglie l’appello di Mancuso: “La nostra città ha la forza di parlare al mondo”"
     },
     {
       "title": "Un elicottero russo sconfina in Polonia: “Mosca cerca l’incidente”",
@@ -612,27 +633,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
       "excerpt": "La premier a sorpresa al Palazzo Reale di Milano per il ricevimento. Renzi e Ricciardi: “Tutti i leader a New York tranne lei”"
-    },
-    {
-      "title": "Pezeshkian alle Nazioni Unite mostra le foto dei bimbi uccisi: “L’Iran non cederà agli Usa”",
-      "link": "https://www.repubblica.it/esteri/2026/09/24/news/pezeshkian_intervento_nazioni_unite_mostra_foto_bimbi_uccisi_iran_guerra_usa-425603529/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il presidente della Repubblica islamica accusa Trump: “Aggressione terrorista, non rinunceremo al nucleare e a Hormuz”. La delegazione americana lascia l’aula"
-    },
-    {
-      "title": "Pezeshkian, il medico mite che si fa falco per trattare ma senza cedimenti",
-      "link": "https://www.repubblica.it/esteri/2026/09/24/news/pezeshkian_presidente_iran_onu_strategia_doppio_binario_pasdaran_usa-425603354/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "La strategia del doppio binario per il leader che fu scelto da Khamenei: ha usato toni da falco per non scontentare i pasdaran e tenere aperto il canale con l’America"
-    },
-    {
-      "title": "Boulos: “Il governo italiano deve fare di più in Libia, così riuniremo il Paese”",
-      "link": "https://www.repubblica.it/esteri/2026/09/24/news/boulos_usa_intervista_italia_libia_migrazione-425603326/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il consigliere di Trump per il Nord Africa: “Se controlliamo il territorio otteniamo subito un freno a migrazioni e terrorismo”"
     },
     {
       "title": "Zelensky: 'Putin è il paziente zero, va fermato'. Trump invita lo zar al G20, il Cremlino: grazie, valuteremo",
