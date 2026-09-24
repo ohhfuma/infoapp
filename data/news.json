@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-24T00:43:00.469Z",
+  "lastUpdated": "2026-09-24T01:07:40.946Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Amaero rinvia l’IPO negli USA per le condizioni di mercato avverse",
+        "link": "https://it.investing.com/news/stock-market-news/amaero-rinvia-lipo-negli-usa-per-le-condizioni-di-mercato-avverse-432SI-3560411",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 00:50:02",
+        "excerpt": ""
+      },
+      {
+        "title": "Meta lancia un nuovo dispositivo portatile dedicato a Muse",
+        "link": "https://it.investing.com/news/stock-market-news/meta-lancia-un-nuovo-dispositivo-portatile-dedicato-a-muse-3560406",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 00:41:32",
+        "excerpt": ""
+      },
       {
         "title": "HSBC sposta il consiglio di amministrazione da Dubai a Londra",
         "link": "https://it.investing.com/news/stock-market-news/hsbc-sposta-il-consiglio-di-amministrazione-da-dubai-a-londra-93CH-3560392",
@@ -94,25 +108,11 @@
         "excerpt": ""
       },
       {
-        "title": "Everpure: il titolo vola dopo il rialzo delle previsioni 2028",
-        "link": "https://it.investing.com/news/stock-market-news/everpure-il-titolo-vola-dopo-il-rialzo-delle-previsioni-2028-93CH-3560334",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 21:43:52",
-        "excerpt": ""
-      },
-      {
         "title": "Altman e Amodei all’Onu: “L’IA può sfuggirci”. Ma lanciano altri modelli",
         "link": "https://www.repubblica.it/economia/2026/09/23/news/altman_amodei_onu_rischi_ia_senza_controllo_nuovi_modelli-425603693/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Wed, 23 Sep 2026 23:32:23 +0200",
         "excerpt": "I fondatori di OpenAI e Anthropic avvertono il Consiglio di Sicurezza sui rischi, ma non mettono un freno alla competizione"
-      },
-      {
-        "title": "L3Harris ottiene un contratto da 876 milioni di dollari per sistema di disturbo elettronico della Marina",
-        "link": "https://it.investing.com/news/stock-market-news/l3harris-ottiene-un-contratto-da-876-milioni-di-dollari-per-sistema-di-disturbo-elettronico-della-marina-93CH-3560320",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 21:29:26",
-        "excerpt": ""
       },
       {
         "title": "Inps, in arrivo 1.177.597 carte Dedicata a te, attive da ottobre, accredito a novembre",
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Díaz-Canel, 'nelle nostre riforme molte delle risposte ai problemi di Cuba'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/diaz-canel-nelle-nostre-riforme-molte-delle-risposte-ai-problemi-di-cuba_af5a70ac-a03c-4baa-b10d-d9ecc88917b9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 03:04:17 +0200",
+        "excerpt": "Il presidente difende le misure al debutto del suo programma radiofonico"
+      },
+      {
+        "title": "Oil slips 1% after sharp gains amid U.S.-Iran diplomacy doubts",
+        "link": "https://www.investing.com/news/commodities-news/oil-slips-1-after-sharp-gains-amid-usiran-diplomacy-doubts-4914284",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 00:53:01",
+        "excerpt": ""
+      },
+      {
         "title": "Kiev e Odessa sotto i missili russi, almeno due morti. La risposta di Putin al discorso di Zelensky all’Onu",
         "link": "https://www.repubblica.it/esteri/2026/09/24/news/kiev_odessa_missili_russia_ucraina_guerra-425603778/?rss",
         "source": "Repubblica Esteri",
@@ -506,13 +520,6 @@
         "excerpt": "In scadenza il 10 novembre, concordata un'estensione di due mesi"
       },
       {
-        "title": "Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_c0b79a44-3925-43e0-8b5d-f614fc566620.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 00:10:15 +0200",
-        "excerpt": "Tycoon accoglie il presidente sulla pista della base Andrews con le rispettive first lady"
-      },
-      {
         "title": "Senators from both parties ask Trump to release emergency heating oil as prices surge",
         "link": "https://www.investing.com/news/commodities-news/senators-from-both-parties-ask-trump-to-release-emergency-heating-oil-as-prices-surge-4914071",
         "source": "Investing.com Commodities",
@@ -560,13 +567,6 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-23 19:18:30",
         "excerpt": ""
-      },
-      {
-        "title": "London Gas Oil coils in $1,440-$1,517 range: Breakout levels live",
-        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-stuck-in-chop-zone-at-1480-live-levels-93CH-4908349",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-23 19:18:29",
-        "excerpt": ""
       }
     ]
   },
@@ -586,39 +586,53 @@
       "excerpt": "\"Ottimo incontro\". Il bilaterale, poi cena con Big tech e Wall Street"
     },
     {
-      "title": "Spostamenti di pochi km, dubbi sul divieto di velo a scuola: ecco la linea rossa del Colle",
-      "link": "https://www.repubblica.it/politica/2026/09/24/news/decreto_scuola_spostamenti_studenti_stranieri_quirinale_governo-425603627/",
+      "title": "Un elicottero russo sconfina in Polonia: “Mosca cerca l’incidente”",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/elicottero_russo_sconfina_ipolonia_mosca_cerca_incidente-425603421/",
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "Trattativa serrata tra Palazzo Chigi e gli uffici legislativi del Quirinale. L’incertezza tra decreto legge e legislativo"
+      "excerpt": "Varsavia: “Incidente per mettere alla prova le nostre difese aeree”. Il timore di una reazione eccessiva che porti a una spirale di violenza"
     },
     {
-      "title": "Stranieri in classe e stop burqa, oggi il testo arriva in cdm. Valditara: “Possibili deroghe”",
-      "link": "https://www.repubblica.it/politica/2026/09/24/news/studenti_stranieri_decreto_scuola_burqa_cdm_valditara-425603613/",
+      "title": "Allarme attacchi ibridi di Mosca, Parigi ha paura: “Dopo Lipsia tocca a noi”",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/allarme_attacchi_ibridi_mosca_parigi_paura_macron-425603291/",
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il ministro dell’Istruzione sul tetto di studenti immigrati al 30%: “Il criterio sarà linguistico, quest’anno riguarderà chi si iscrive in corsa”. Esclusi i bambini che hanno frequentato almeno due anni di scuola d’infan"
+      "excerpt": "Macron ha condiviso con i leader di partito i timori dell’intelligence: Mosca vuole destabilizzare il Paese con attacchi ibridi"
     },
     {
-      "title": "Mattarella e la circolare del ‘90, all’epoca negli istituti gli stranieri erano solo 19mila",
-      "link": "https://www.repubblica.it/politica/2026/09/24/news/mattarella_circolare_1990_scuola_stranieri-425603674/",
+      "title": "Il comandante ucraino: “Putin recluterà altri soldati, ma con i droni lo fermeremo”",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/comandante_ucraino_brovdi_intervista_putin_reclutera_altri_soldati_droni_lo_fermeremo-425603371/",
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "Come nacque l’atto firmato dall’allora ministro dell’Istruzione. Oggi la soglia supera i 900mila"
+      "excerpt": "Brovdi, l’uomo che ha trasformato la difesa in offesa a lungo raggio: “Anche l’Italia deve creare una propria brigata di sistemi senza pilota, è cruciale per difendersi”"
     },
     {
-      "title": "Azzariti: “Il Quirinale va tutelato,destra insofferente ai controlli finirà in un vicolo cieco”",
-      "link": "https://www.repubblica.it/politica/2026/09/24/news/azzariti_quirinale_scuola_governo_meloni_intervista-425603679/",
+      "title": "Meloni al gala fashion week e non all’Assemblea Onu: “Una figuraccia per l’Italia”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/24/news/meloni_fashion_week_milano_onu_polemica-425603697/",
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il costituzionalista: “Nella prima Repubblica non si criticava il presidente per salvaguardare la sua funzione di garante”"
+      "excerpt": "La premier a sorpresa al Palazzo Reale di Milano per il ricevimento. Renzi e Ricciardi: “Tutti i leader a New York tranne lei”"
     },
     {
-      "title": "Il primo “Chi l’ha visto?” di Raffaella Griggi. “Bentornati, continuiamo la strada di Sciarelli”",
-      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/09/24/news/chi_l_ha_visto_raffaella_griggi_prima_puntata-425603739/",
+      "title": "Pezeshkian alle Nazioni Unite mostra le foto dei bimbi uccisi: “L’Iran non cederà agli Usa”",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/pezeshkian_intervento_nazioni_unite_mostra_foto_bimbi_uccisi_iran_guerra_usa-425603529/",
       "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 22:55:17 +0000",
-      "excerpt": "L’ex inviata, all’inizio un po’ rigida, tradita dall’emozione, ha esordito come conduttrice del programma di Rai3"
+      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il presidente della Repubblica islamica accusa Trump: “Aggressione terrorista, non rinunceremo al nucleare e a Hormuz”. La delegazione americana lascia l’aula"
+    },
+    {
+      "title": "Pezeshkian, il medico mite che si fa falco per trattare ma senza cedimenti",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/pezeshkian_presidente_iran_onu_strategia_doppio_binario_pasdaran_usa-425603354/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
+      "excerpt": "La strategia del doppio binario per il leader che fu scelto da Khamenei: ha usato toni da falco per non scontentare i pasdaran e tenere aperto il canale con l’America"
+    },
+    {
+      "title": "Boulos: “Il governo italiano deve fare di più in Libia, così riuniremo il Paese”",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/boulos_usa_intervista_italia_libia_migrazione-425603326/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il consigliere di Trump per il Nord Africa: “Se controlliamo il territorio otteniamo subito un freno a migrazioni e terrorismo”"
     },
     {
       "title": "Zelensky: 'Putin è il paziente zero, va fermato'. Trump invita lo zar al G20, il Cremlino: grazie, valuteremo",
@@ -626,20 +640,6 @@
       "source": "ANSA",
       "pubDate": "Thu, 24 Sep 2026 00:11:54 +0200",
       "excerpt": "Lavrov a Rubio: 'Negoziamo ma non ci fermiamo'. Tajani: 'Minacce ibride della Russia mettono a rischio la sicurezza europea'"
-    },
-    {
-      "title": "L’archivio di Eugenio Scalfari va alla Fondazione Feltrinelli",
-      "link": "https://www.repubblica.it/cultura/2026/09/24/news/archivio_scalfari_fondazione_feltrinelli-425603070/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 22:01:00 +0000",
-      "excerpt": "Le carte del fondatore di “Repubblica” all’istituzione di Milano. “È la collocazione giusta per valorizzare il materiale di nostro padre e della storia del giornale”, dicono le figlie Enrica e Donata"
-    },
-    {
-      "title": "Eugenio Scalfari: quanto è diventato difficile distinguere tra sinistra e destra",
-      "link": "https://www.repubblica.it/cultura/2026/09/24/news/scalfari_archivio_fondazione_feltrinelli_inedito_destra_sinistra-425603112/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 22:01:00 +0000",
-      "excerpt": "Un inedito dall’archivio del fondatore di Repubblica: “L’opinione nazionale si frantuma, così come si frantumano le omogeneità di partito e di classe”."
     },
     {
       "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo'",
