@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-24T18:41:15.876Z",
+  "lastUpdated": "2026-09-24T19:07:27.442Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Alaska Air prevede la certificazione del Boeing 737 MAX 10 questo mese",
+        "link": "https://it.investing.com/news/stock-market-news/alaska-air-prevede-la-certificazione-del-boeing-737-max-10-questo-mese-93CH-3561973",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 18:42:29",
+        "excerpt": ""
+      },
+      {
+        "title": "I titoli gaming crollano dopo i nuovi strumenti AI di Meta per i giochi",
+        "link": "https://it.investing.com/news/stock-market-news/i-titoli-gaming-crollano-dopo-i-nuovi-strumenti-ai-di-meta-per-i-giochi-3561972",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 18:39:33",
+        "excerpt": ""
+      },
       {
         "title": "L’ex responsabile dei data center di OpenAI entra in Nvidia",
         "link": "https://it.investing.com/news/stock-market-news/lex-responsabile-dei-data-center-di-openai-entra-in-nvidia-3561956",
@@ -101,20 +115,6 @@
         "excerpt": ""
       },
       {
-        "title": "Credit Agricole e UniCredit hanno valutato mossa congiunta su Banco Bpm - fonti",
-        "link": "https://it.investing.com/news/stock-market-news/credit-agricole-e-unicredit-hanno-valutato-mossa-congiunta-su-banco-bpm--fonti-3561905",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 17:00:29",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Storage Vault Canada scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-storage-vault-canada-scende-oggi-93CH-3561903",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 16:59:04",
-        "excerpt": ""
-      },
-      {
         "title": "Il gas supera i 76 euro sul mercato Ttf di Amsterdam",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/il-gas-supera-i-76-euro-sul-mercato-ttf-di-amsterdam_ba52d109-b172-45f2-b9ae-63f504ef4593.html",
         "source": "ANSA Economia",
@@ -147,7 +147,7 @@
         "link": "https://www.ilsole24ore.com/art/euro-5-diesel-slitta-un-anno-blocco-i-veicoli-lombardia-piemonte-veneto-ed-emilia-romagna-AJWlAtNB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 24 Sep 2026 15:47:00 GMT",
-        "excerpt": "Un altro anno di tempo prima del blocco alla circolazione dei veicoli diesel Euro 5 nelle Regioni del Bacino Padano. Il Consiglio dei ministri ha approvato il decreto legge proposto..."
+        "excerpt": "In Consiglio dei ministri varato il decreto annunciato nei giorni scorsi dal ministro Salvini. Riguarderà 1,2 milioni di autoveicoli e 200mila furgoni"
       },
       {
         "title": "Dalle aziende alle scuole: pc rigenerati, con IA locale e formazione, contro lo spreco elettronico",
@@ -299,7 +299,7 @@
         "excerpt": "La Casa Bianca ha negato l’accesso a una giornalista della Cnn e a un reporter di Politico anche dopo la decisione di un giudice federale, che ha temporaneamente bloccato il..."
       },
       {
-        "title": "Guerra, ultime notizie. Onu, Netanyahu: «I coloni violenti sono giovani teppisti»",
+        "title": "Guerra, ultime notizie. Onu, Netanyahu: «Accusa genocidio più grande bugia del secolo. Trump miglior partner»",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-board-of-peace-ricostruzione-gaza-costera-714-mld-dollari-10-anni-AJE06CNB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 24 Sep 2026 05:27:00 GMT",
@@ -401,6 +401,27 @@
     ],
     "mondo": [
       {
+        "title": "Mafalda a Buenos Aires diventa 'immersiva' per farsi conoscere dai più piccoli",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/mafalda-a-buenos-aires-diventa-immersiva-per-farsi-conoscere-dai-piu_e85141a1-008e-46d4-bec9-c5c62eb62633.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 20:58:52 +0200",
+        "excerpt": "Il primo ottobre al via una mostra sul leggendario e sempre attuale fumetto di Quino"
+      },
+      {
+        "title": "Netanyahu all'Onu, 'i coloni violenti sono giovani teppisti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/24/netanyahu-allonu-i-coloni-violenti-sono-giovani-teppisti_84b36c2f-5c9e-4269-adf5-2e1da3319000.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 20:43:55 +0200",
+        "excerpt": "'I media si concentrano su un manipolo di 150 persone che abbattono ulivi'"
+      },
+      {
+        "title": "Netanyahu all'Onu, 'Mamdani anti-semita, vergognati delle bugie'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/netanyahu-allonu-mamdani-anti-semita-vergognati-delle-bugie_c5246cdd-e28b-4e62-b6ad-3dfaea2e9ff9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 20:39:21 +0200",
+        "excerpt": "'Non mi puoi mettere a tacere, non puoi mettere a tacere la verità'"
+      },
+      {
         "title": "Macron, minaccia droni ? È un'informazione da smentire ma situazione è preoccupante'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/macron-minaccia-droni-e-uninformazione-da-smentire-ma-situazione-e-preoccupante_f36027bc-4c8c-4660-81f3-da5d32d9c1ec.html",
         "source": "ANSA Mondo",
@@ -448,27 +469,6 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-24 17:25:14",
         "excerpt": ""
-      },
-      {
-        "title": "Wsj, 'Usa in pressing sulla Cina su presunti test nucleari'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/wsj-usa-in-pressing-sulla-cina-su-presunti-test-nucleari_26daa679-da6d-4957-aeba-e359be71ee46.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 19:24:21 +0200",
-        "excerpt": "Avviati colloqui riservati"
-      },
-      {
-        "title": "Progetto Eni-Ypf su Lng riceve proposta di finanziamento Usa da 6 miliardi di dollari",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/progetto-eni-ypf-su-lng-riceve-proposta-di-finanziamento-usa-da-6-miliardi-di-dollari_348bf463-812f-42d3-9f58-204636f245d2.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 19:13:43 +0200",
-        "excerpt": "Exim Bank sostiene l'ingresso degli Stati Uniti nelle catene di valore di Argentina-Lng"
-      },
-      {
-        "title": "Amministrazione Trump, 'ripristinato l'accesso dei media alla Casa Bianca'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/amministrazione-trump-ripristinato-laccesso-dei-media-alla-casa-bianca_2102ac07-7b27-4963-9298-dfb0b5ac3784.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 19:01:17 +0200",
-        "excerpt": "Dopo al decisione del giudice che ha rimosso il divieto del tycoon"
       },
       {
         "title": "Trump riceve Xi in pompa magna. Il leader cinese: “Evitiamo la trappola di Tucidide”",
@@ -572,11 +572,18 @@
   },
   "attualita": [
     {
-      "title": "Arriva Netanyahu, la sala dell'Onu si svuota, Il premier israeliano: 'Codardi'",
+      "title": "Scuola, multe per il burqa e ai genitori che non sanno l'italiano. Meloni: 'Con il tetto evitiamo classi-ghetto'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/24/scuola-multe-per-il-burqa-e-ai-genitori-che-non-sanno-litaliano.-meloni_39a231c7-1897-4df4-bfd9-a0e0bb8f798b.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 24 Sep 2026 21:00:26 +0200",
+      "excerpt": "Approvato il decreto, tetto del 30% nelle prime. Sindacati e presidi: 'E' solo propaganda'"
+    },
+    {
+      "title": "Parla Netanyahu, decine di inviati lasciano la sala dell'Onu, il premier israeliano: 'Codardi'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/arriva-netanyahu-la-sala-dellonu-si-svuota-il-premier-israeliano-codardi_234fa594-d5e0-405b-a53b-b6f7bae3ba88.html",
       "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 20:31:28 +0200",
-      "excerpt": "'Se ce ne sono altri se ne vadano subito'. Mamdani con un ramoscello di ulivo per la pace"
+      "pubDate": "Thu, 24 Sep 2026 20:48:13 +0200",
+      "excerpt": "'Se ce ne sono altri se ne vadano subito'. Mamdani con un ramoscello di ulivo, il leader israeliano lo attacca"
     },
     {
       "title": "Gli U2 tornano con un nuovo album in studio, il primo della band dopo 9 anni",
@@ -584,13 +591,6 @@
       "source": "ANSA",
       "pubDate": "Thu, 24 Sep 2026 20:25:41 +0200",
       "excerpt": "Carnaval de luz dal 13 novembre, già fuori il brano Silencio. Nel disco anche Dolly Parton"
-    },
-    {
-      "title": "Meloni: 'Il decreto per una scuola che integra senza rinunciare alle regole'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/24/meloni-il-decreto-per-una-scuola-che-integra-senza-rinunciare-alle_39a231c7-1897-4df4-bfd9-a0e0bb8f798b.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 20:24:06 +0200",
-      "excerpt": "La premier: 'Strumenti di buonsenso che non dividono ma evitano le classi-ghetto'. Valditara: 'Sanzioni fino a 1.000 euro se i genitori non imparano italiano'"
     },
     {
       "title": "Proteste per Netanyahu all'Onu, arrestata Susan Sarandon",
