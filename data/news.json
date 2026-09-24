@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-24T19:36:48.232Z",
+  "lastUpdated": "2026-09-24T20:08:37.529Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Newsmax fa pressione sul DOJ per bloccare l’accordo Fox-Roku da 22 miliardi",
+        "link": "https://it.investing.com/news/stock-market-news/newsmax-fa-pressione-sul-doj-per-bloccare-laccordo-foxroku-da-22-miliardi-3561988",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 19:15:26",
+        "excerpt": ""
+      },
+      {
+        "title": "JSW One Platforms presenta domanda per IPO da 318 milioni di dollari in India",
+        "link": "https://it.investing.com/news/stock-market-news/jsw-one-platforms-presenta-domanda-per-ipo-da-318-milioni-di-dollari-in-india-93CH-3561984",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 19:14:24",
+        "excerpt": ""
+      },
       {
         "title": "Perché il titolo TransAlta sta scendendo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-transalta-sta-scendendo-oggi-93CH-3561982",
@@ -80,13 +94,6 @@
         "excerpt": "In termini reali riduzione dell'1,3%"
       },
       {
-        "title": "La Casa Bianca chiede alle aziende AI di ritardare la condivisione dei modelli con il Regno Unito",
-        "link": "https://it.investing.com/news/stock-market-news/la-casa-bianca-chiede-alle-aziende-ai-di-ritardare-la-condivisione-dei-modelli-con-il-regno-unito-3561945",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 17:47:54",
-        "excerpt": ""
-      },
-      {
         "title": "Pensioni, le Quote della Lega e lo stop alla speranza di vita sono costati 36 miliardi",
         "link": "https://www.repubblica.it/economia/2026/09/24/news/pensioni_quote_lega_stop_speranza_di_vita_costo-425605545/?rss",
         "source": "Repubblica Economia",
@@ -106,13 +113,6 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 24 Sep 2026 19:34:25 +0200",
         "excerpt": "Wealth advisor a talk Fermo: \"Tempo grande alleato per famiglie e risparmi\""
-      },
-      {
-        "title": "S&P declassa il rating di Paramount Skydance per la leva più alta",
-        "link": "https://it.investing.com/news/stock-market-news/sp-declassa-il-rating-di-paramount-skydance-per-la-leva-piu-alta-93CH-3561932",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 17:34:10",
-        "excerpt": ""
       },
       {
         "title": "Meloni: «Priorità al taglio delle tasse, per le patrimoniali bisognerà aspettare un Governo diverso» ",
@@ -229,6 +229,13 @@
     ],
     "europa": [
       {
+        "title": "Macron: possibili attacchi russi agli aeroporti di Parigi e Marsiglia",
+        "link": "https://www.ilsole24ore.com/art/macron-possibili-attacchi-russi-aeroporti-parigi-e-marsiglia-AJ2y1KOB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 24 Sep 2026 19:58:00 GMT",
+        "excerpt": "È possibile che un drone armato russo possa attaccare l’aeroporto di Orly, o lo Charles de Gaulle, o lo scalo di Marsiglia? «La risposta è sì, bisogna essere molto chiari»...."
+      },
+      {
         "title": "America’s Car-Mart shareholders approve equity plan amendment and director elections",
         "link": "https://www.investing.com/news/sec-filings/americas-carmart-shareholders-approve-equity-plan-amendment-and-director-elections-93CH-4916059",
         "source": "Investing.com Eurozona",
@@ -320,13 +327,6 @@
         "excerpt": "Donald Trump ha celebrato la “grande amicizia” instaurata con Xi Jinping, mentre il leader cinese dava inizio alla sua attesissima visita di Stato, invitando Washington a una collaborazione più stretta..."
       },
       {
-        "title": "El Mundo: «Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna». Crosetto: nessuna conferma",
-        "link": "https://www.ilsole24ore.com/art/el-mundo-russia-pronta-ad-attacchi-droni-mare-italia-francia-e-spagna-AJcaWCNB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Thu, 24 Sep 2026 04:49:00 GMT",
-        "excerpt": "La Russia si sta preparando a nuovi attacchi con droni in Europa, ma questa volta prenderà di mira i paesi del Mediterraneo: Francia, Spagna e anche Italia. Lo scrive il..."
-      },
-      {
         "title": "FG Nexus acquires $10 million stake in FG Communities",
         "link": "https://www.investing.com/news/sec-filings/fg-nexus-acquires-10-million-stake-in-fg-communities-93CH-4914094",
         "source": "Investing.com Eurozona",
@@ -401,11 +401,67 @@
     ],
     "mondo": [
       {
+        "title": "Oil prices settle up about 3% as Houthi attack on Saudi Arabia lifts supply fears",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-jump-4-as-houthis-fire-missiles-at-saudi-arabia-4915853",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 19:49:06",
+        "excerpt": ""
+      },
+      {
         "title": "“Noi grandi amici”, ma su Taiwan e Iran Xi avverte Trump",
         "link": "https://www.repubblica.it/esteri/2026/09/24/news/trump_riceve_xi_casa_bianca_cerimonia_leader_cinese_evitiamo_trappola_tucidide-425605518/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 24 Sep 2026 21:35:20 +0200",
         "excerpt": "Il vertice alla Casa Bianca oscurato dalle tv Usa in segno di protesta. Il cinese: “Si torni al memorandum con i pasdaran”. Il dono dei panda"
+      },
+      {
+        "title": "Natural Gas hits RSI 83.8 in parabolic surge: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 19:18:35",
+        "excerpt": ""
+      },
+      {
+        "title": "Brent Oil double-top at $109.97 risks drop to $98.80: Live",
+        "link": "https://www.investing.com/news/commodities-news/brent-oil-battles-10176-support-as-bearish-signals-build-live-93CH-4908348",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 19:18:30",
+        "excerpt": ""
+      },
+      {
+        "title": "London Gas Oil drops 7% from high, tests $1,410 support: Live",
+        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-stuck-in-chop-zone-at-1480-live-levels-93CH-4908349",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 19:18:30",
+        "excerpt": ""
+      },
+      {
+        "title": "Silver pinned below MAs near $63 Fib support: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/silver-consolidates-at-6640-in-breakout-coil-live-levels-93CH-4908353",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 19:18:28",
+        "excerpt": ""
+      },
+      {
+        "title": "Crude Oil WTI tests $96 resistance on 5h chart: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-94-support-after-double-top-live-levels-93CH-4908350",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 19:18:25",
+        "excerpt": ""
+      },
+      {
+        "title": "Copper coils near $6.78 double top: Live setups",
+        "link": "https://www.investing.com/news/commodities-news/copper-hits-multimonth-high-near-680-resistance-live-levels-93CH-4908347",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 19:18:23",
+        "excerpt": ""
+      },
+      {
+        "title": "Gold breaks $4,320 support, bears target $4,261: Live levels",
+        "link": "https://www.investing.com/news/commodities-news/gold-wedged-in-43004450-range-live-breakout-levels-93CH-4908346",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-24 19:18:02",
+        "excerpt": ""
       },
       {
         "title": "Costa Rica, la presidente destituisce il ministro degli Esteri dopo vertice con Trump",
@@ -471,53 +527,11 @@
         "excerpt": "Dopo tre anni di guerra sono ricominciate le lezioni, anche se il 98% degli istituti è stato distrutto o danneggiato dai raid israeliani. Le autorità si sono arrangiate per organizzare classi dove si può: in spazi rovent"
       },
       {
-        "title": "Oil prices rise 2% as Houthi missiles add to supply fears",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-jump-4-as-houthis-fire-missiles-at-saudi-arabia-4915853",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 17:25:14",
-        "excerpt": ""
-      },
-      {
-        "title": "Senate inches closer to US infrastructure permitting reform bill",
-        "link": "https://www.investing.com/news/commodities-news/senate-inches-closer-to-us-infrastructure-permitting-reform-bill-4915915",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 16:55:54",
-        "excerpt": ""
-      },
-      {
-        "title": "Oil sharply pares gains after report says U.S. and Iran discussing phased deal",
-        "link": "https://www.investing.com/news/commodities-news/oil-slips-1-after-sharp-gains-amid-usiran-diplomacy-doubts-4914284",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 16:32:41",
-        "excerpt": ""
-      },
-      {
-        "title": "Senators from both parties ask Trump to release emergency heating oil as prices surge",
-        "link": "https://www.investing.com/news/commodities-news/senators-from-both-parties-ask-trump-to-release-emergency-heating-oil-as-prices-surge-4914071",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 16:24:55",
-        "excerpt": ""
-      },
-      {
-        "title": "US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say",
-        "link": "https://www.investing.com/news/commodities-news/us-and-iran-discuss-phased-deal-to-reopen-hormuz-and-end-us-blockade-sources-say-4915884",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 16:18:38",
-        "excerpt": ""
-      },
-      {
         "title": "Che cosa è la trappola di Tucidide citata ancora una volta da Xi Jinping nell’incontro con Trump",
         "link": "https://www.repubblica.it/esteri/2026/09/24/news/trappola_di_tucidide_che_cosa_e_xi_trump-425605314/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 24 Sep 2026 17:14:01 +0200",
         "excerpt": "La teoria del politologo Graham Allison secondo cui una guerra diventa probabile quando una potenza emergente minaccia quella dominante, come oggi potrebbe accadere tra Cina e Stati Uniti, si ispira allo storico greco ch"
-      },
-      {
-        "title": "UAE and Saudi Arabia eye India refinery investments, minister says",
-        "link": "https://www.investing.com/news/commodities-news/uae-and-saudi-arabia-eye-india-refinery-investments-minister-says-93CH-4915747",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 14:45:20",
-        "excerpt": ""
       },
       {
         "title": "Perché gli Houthi tengono in scacco i sauditi",
@@ -532,20 +546,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Thu, 24 Sep 2026 15:33:04 +0200",
         "excerpt": "La relatrice Onu per i territori palestinesi ha posato come modella per la rivista di moda vestendo due brand che secondo i siti specializzati in monitoraggio dei finanziamenti allo stato ebraico andrebbero boicottati da"
-      },
-      {
-        "title": "Gold prices edge lower amid higher oil prices, bond yields",
-        "link": "https://www.investing.com/news/commodities-news/gold-steadies-after-selloff-as-oil-strong-us-data-lift-fed-hike-bets-4914320",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 13:32:35",
-        "excerpt": ""
-      },
-      {
-        "title": "Trump rolled back regulations for oil company campaign donors, Democrats say",
-        "link": "https://www.investing.com/news/commodities-news/trump-rolled-back-regulations-for-oil-company-campaign-donors-democrats-say-4915352",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-24 12:37:38",
-        "excerpt": ""
       },
       {
         "title": "Un cold case su Adolf Hitler. Nuove carte smontano il suo alibi nella morte dell’amata nipote Geli",
@@ -572,6 +572,20 @@
   },
   "attualita": [
     {
+      "title": "Elena Pero, addio alla voce del tennis di Sky: ha raccontato le grandi vittorie di Jannik Sinner",
+      "link": "https://www.repubblica.it/sport/tennis/2026/09/24/news/elena_pero_morta_voce_tennis_sky-425605942/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 19:44:40 +0000",
+      "excerpt": "La giornalista scompare a 60 anni"
+    },
+    {
+      "title": "Netanyahu all'Assemblea Onu mezza vuota: 'Un codardo chi è uscito'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/arriva-netanyahu-la-sala-dellonu-si-svuota-il-premier-israeliano-codardi_234fa594-d5e0-405b-a53b-b6f7bae3ba88.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 24 Sep 2026 21:43:34 +0200",
+      "excerpt": "'Difendiamo anche voi. Coloni violenti? Giovani teppisti'. Sit-in pro-Pal, fermata Susan Sarandon"
+    },
+    {
       "title": "Proteste per Netanyahu all'Onu, arrestata Susan Sarandon",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/proteste-per-netanyahu-allonu-arrestata-susan-sarandon_efbb5c73-ddc2-4848-ae94-75b0c6abc9d9.html",
       "source": "ANSA",
@@ -584,13 +598,6 @@
       "source": "ANSA",
       "pubDate": "Thu, 24 Sep 2026 21:18:37 +0200",
       "excerpt": "Approvato il decreto, tetto del 30% nelle prime. Sindacati e presidi: 'E' solo propaganda'"
-    },
-    {
-      "title": "Parla Netanyahu, decine di inviati lasciano la sala dell'Onu, il premier israeliano: 'Codardi'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/arriva-netanyahu-la-sala-dellonu-si-svuota-il-premier-israeliano-codardi_234fa594-d5e0-405b-a53b-b6f7bae3ba88.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 21:06:40 +0200",
-      "excerpt": "'Se ce ne sono altri se ne vadano subito'. Mamdani con un ramoscello di ulivo, il leader israeliano lo attacca"
     },
     {
       "title": "Gli U2 tornano con un nuovo album in studio, il primo della band dopo 9 anni",
@@ -661,13 +668,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 24 Sep 2026 14:00:00 +0000",
       "excerpt": "«La cosa che so fare meglio è narrare a colori primari. Non sono bravo coi mezzi toni», dice Max Pezzali. E ora che arriva la seconda stagione della serie sugli 883 si confessa con un vecchio amico. Tra nostalgia e risat"
-    },
-    {
-      "title": "Sydney Sibilia: “883, la leggenda di due ragazzi normali”",
-      "link": "https://www.repubblica.it/venerdi/2026/09/24/news/sydney_sibilia_serie_883_intervista-425604662/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 24 Sep 2026 14:00:00 +0000",
-      "excerpt": "L’ideatore, produttore e regista della serie di Sky Sydney Sibilia spiega perché ha tanto amato la storia di Pezzali e Repetto. A scoppio ritardato"
     },
     {
       "title": "Noleggio auto usate a lungo termine: perché sempre più italiani lo scelgono",
@@ -742,6 +742,34 @@
   ],
   "sport": [
     {
+      "title": "Calcio, intitolato alla memoria di Protti piazzale dello stadio di Livorno",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/calcio-intitolato-alla-memoria-di-protti-piazzale-dello-stadio-di-livorno_0ecebe62-a13d-4790-ac02-f3ccf330496d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 22:04:13 +0200",
+      "excerpt": "Sotto la Curva Nord inaugurata targa celebrativa"
+    },
+    {
+      "title": "Nations League: minuto di silenzio per Mazzola prima di Italia-Belgio",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/24/nations-league-minuto-di-silenzio-per-mazzola-prima-di-italia-belgio_d0acc5f9-4d39-4363-974e-bd561e4a524b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 22:04:10 +0200",
+      "excerpt": "Ci sarà anche un momento per ricordare Franco Baresi"
+    },
+    {
+      "title": "Calcio: Donnarumma 'Con Mancini abbiamo fatto la storia, speriamo di ripeterci'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/calcio-donnarumma-con-mancini-abbiamo-fatto-la-storia-speriamo-di-ripeterci_4b9604c6-7b28-44d5-8388-8e892d8cc697.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 22:04:03 +0200",
+      "excerpt": "'Dopo la Bosnia estate lunga, riportiamo l'Italia dove merita'"
+    },
+    {
+      "title": ">>>ANSA/Il Belgio di Van Bommel sulla strada dell'Italia 'vogliamo vincere e dominare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/24/ansail-belgio-di-van-bommel-sulla-strada-dellitalia-vogliamo-vincere-e-dominare_e065f37a-2500-4820-8165-d1c1a1ce8a64.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 22:04:00 +0200",
+      "excerpt": "Il ct dei Diavoli Rossi: \"Per noi quella con azzurri è grande sfida, vogliamo i 3 punti\""
+    },
+    {
       "title": "F1: super-Russell a Baku, la Mercedes detta i tempi",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/24/f1-super-russell-a-baku-la-mercedes-detta-i-tempi_a02aed75-2dd5-4181-817a-0a95f787ee4d.html",
       "source": "ANSA Sport",
@@ -763,39 +791,11 @@
       "excerpt": "Ottimismo per l'Open di Cina, il n.1 ha intensificato gli allenamenti"
     },
     {
-      "title": "Calcio: Donnarumma 'Con Mancini abbiamo fatto la storia, speriamo di ripeterci'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/calcio-donnarumma-con-mancini-abbiamo-fatto-la-storia-speriamo-di-ripeterci_4b9604c6-7b28-44d5-8388-8e892d8cc697.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 20:30:34 +0200",
-      "excerpt": "'Dopo la Bosnia estate lunga, riportiamo l'Italia dove merita'"
-    },
-    {
-      "title": ">ANSA-FOCUS/ Sinner atteso a Pechino, Alcaraz 'mi manca giocare con lui'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/24/ansa-focus-sinner-atteso-a-pechino-alcaraz-mi-manca-giocare-con-lui_d0c4ecd3-212c-4506-9633-26c871102fcc.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 20:16:51 +0200",
-      "excerpt": "Ottimismo per l'Open di Cina, il n.1 ha intensificato gli allenamenti"
-    },
-    {
       "title": "Nations League: Van Bommel 'con l'Italia per vincere, vogliamo dominare il gioco'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/nations-league-van-bommel-con-litalia-per-vincere-vogliamo-dominare_a9f48728-4eed-4004-a6ab-d91cac6b3380.html",
       "source": "ANSA Sport",
       "pubDate": "Thu, 24 Sep 2026 19:55:33 +0200",
       "excerpt": "Il tecnico del Belgio: \"Partita difficile, partiamo da zero come Mancini\""
-    },
-    {
-      "title": "Calcio, intitolato alla memoria di Protti piazzale dello stadio di Livorno",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/calcio-intitolato-alla-memoria-di-protti-piazzale-dello-stadio-di-livorno_0ecebe62-a13d-4790-ac02-f3ccf330496d.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 19:45:34 +0200",
-      "excerpt": "Sotto la Curva Nord inaugurata targa celebrativa"
-    },
-    {
-      "title": "Calcio: azzurri; Donnarumma, 'da Zenica giorni durissimi ma dobbiamo ricominciare'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/calcio-azzurri-donnarumma-da-zenica-giorni-durissimi-ma-dobbiamo-ricominciare_fcdaa09c-2e01-43a2-abb4-434801305083.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 19:42:40 +0200",
-      "excerpt": "Capitano Italia: dobbiamo far reinnamorare i tifosi"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
