@@ -1,13 +1,48 @@
 {
-  "lastUpdated": "2026-09-24T07:39:21.546Z",
+  "lastUpdated": "2026-09-24T08:08:45.389Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Bce, con la guerra inflazione ben sopra il 2% fino a metà 2027",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/bce-con-la-guerra-inflazione-ben-sopra-il-2-fino-a-meta-2027_d5c12533-d2bb-40fb-ad3c-3c5f7c1879e3.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 24 Sep 2026 10:02:38 +0200",
+        "excerpt": "+14,3% energia, ma anche la crescita sta facendo salire i prezzi"
+      },
+      {
+        "title": "Mimit, prezzi carburanti in lieve calo sulle strade, benzina self a 2,154 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/mimit-prezzi-carburanti-in-lieve-calo-sulle-strade-benzina-self-a-2154_0208cdf8-defd-4b29-a3d6-01c5eff74d0d.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 24 Sep 2026 09:51:21 +0200",
+        "excerpt": "Gasolio venduto in media a 2,338 euro al litro. Prezzo aumenta in autostrada"
+      },
+      {
+        "title": "La banca centrale svizzera mantiene i tassi allo 0% mentre altri inaspriscono",
+        "link": "https://it.investing.com/news/stock-market-news/la-banca-centrale-svizzera-mantiene-i-tassi-allo-0-mentre-altri-inaspriscono-93CH-3560621",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 07:46:58",
+        "excerpt": ""
+      },
+      {
+        "title": "Fabi, sale 'bottino' truffe online, nel 2025 +17% a 279 milioni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/fabi-sale-bottino-truffe-online-nel-2025-17-a-279-milioni_e50fdc39-df88-477f-ad2a-7923bf2b9060.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 24 Sep 2026 09:45:30 +0200",
+        "excerpt": "Analisi sindacato, meno caro ma crescono ammontari, dal 2022 sottratti 828 milioni"
+      },
       {
         "title": "Tempi, costi e tecnologia del “nuovo nucleare sostenibile”: cosa prevede il piano italiano",
         "link": "https://www.repubblica.it/economia/2026/09/24/news/piano_nucleare_italia_tempi_costi_tecnologia-425604156/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Thu, 24 Sep 2026 09:33:22 +0200",
+        "pubDate": "Thu, 24 Sep 2026 09:39:20 +0200",
         "excerpt": "Il parlamento ha approvato il disegno di legge delega sull’atomo. Adesso il governo ha un anno per intervenire con i decreti attuativi. Strategia e ostacoli del programma"
+      },
+      {
+        "title": "Stellantis, aumentano le vendite ad agosto in Europa ma cala la quota di mercato",
+        "link": "https://it.investing.com/news/stock-market-news/stellantis-aumentano-le-vendite-ad-agosto-in-europa-ma-cala-la-quota-di-mercato-3560610",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 07:35:07",
+        "excerpt": ""
       },
       {
         "title": "Borsa: Europa in calo, i rendimenti dei titoli di Stato si stabilizzano",
@@ -15,6 +50,13 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 24 Sep 2026 09:31:54 +0200",
         "excerpt": "Francoforte -0,5%, Parigi -0,4%, Londra -0,3%"
+      },
+      {
+        "title": "Le vendite di auto elettriche in Europe crescono ad agosto, Stellantis in calo",
+        "link": "https://it.investing.com/news/stock-market-news/le-vendite-di-auto-elettriche-in-europe-crescono-ad-agosto-stellantis-in-calo-3560605",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 07:28:22",
+        "excerpt": ""
       },
       {
         "title": "Scuola e stranieri, dai corsi di lingua a test e velo: come funziona negli altri Paesi",
@@ -29,6 +71,27 @@
         "source": "ANSA Economia",
         "pubDate": "Thu, 24 Sep 2026 09:21:25 +0200",
         "excerpt": "Deboli Leonardo e Fincantieri"
+      },
+      {
+        "title": "Perché il titolo H&M scende oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-hm-scende-oggi-93CH-3560598",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 07:18:28",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Raspberry Pi sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-raspberry-pi-sta-salendo-oggi-93CH-3560596",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 07:17:53",
+        "excerpt": ""
+      },
+      {
+        "title": "FTSE 100 oggi: Titoli piatti, tensioni USA-Iran e rendimenti Treasury pesano",
+        "link": "https://it.investing.com/news/stock-market-news/ftse-100-oggi-titoli-piatti-tensioni-usairan-e-rendimenti-treasury-pesano-3560602",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 07:17:07",
+        "excerpt": ""
       },
       {
         "title": "Lo spread Btp-Bund scende a 94,3 punti",
@@ -66,74 +129,11 @@
         "excerpt": ""
       },
       {
-        "title": "Le borse europee scivolano mentre i colloqui USA-Iran segnano pochi progressi",
-        "link": "https://it.investing.com/news/stock-market-news/le-borse-europee-scivolano-mentre-i-colloqui-usairan-stentano-3560582",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 07:04:42",
-        "excerpt": ""
-      },
-      {
         "title": "Borsa: Asia in calo, pesa petrolio e timori inflazione",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/borsa-asia-in-calo-pesa-petrolio-e-timori-inflazione_c16a7336-1c77-40da-a77c-c740db28364f.html",
         "source": "ANSA Economia",
         "pubDate": "Thu, 24 Sep 2026 09:02:39 +0200",
         "excerpt": "In Europa occhi sui titoli automobilistici"
-      },
-      {
-        "title": "JPMorgan nomina Lavatelli come senior country officer per il Giappone",
-        "link": "https://it.investing.com/news/stock-market-news/jpmorgan-nomina-lavatelli-come-senior-country-officer-per-il-giappone-93CH-3560566",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 06:54:42",
-        "excerpt": ""
-      },
-      {
-        "title": "Honda pianifica un nuovo impianto per ibridi in Ohio entro il 2030",
-        "link": "https://it.investing.com/news/stock-market-news/honda-pianifica-un-nuovo-impianto-per-ibridi-in-ohio-entro-il-2030-93CH-3560565",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 06:53:55",
-        "excerpt": ""
-      },
-      {
-        "title": "Honda pianifica un nuovo impianto per ibridi in Ohio entro il 2030",
-        "link": "https://it.investing.com/news/stock-market-news/honda-pianifica-un-nuovo-impianto-per-ibridi-in-ohio-entro-il-2030-93CH-3560564",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 06:53:51",
-        "excerpt": ""
-      },
-      {
-        "title": "Capricorn Energy alza le previsioni di produzione nel mezzo di un’OPA",
-        "link": "https://it.investing.com/news/stock-market-news/capricorn-energy-alza-le-previsioni-di-produzione-nel-mezzo-di-unopa-93CH-3560560",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 06:52:46",
-        "excerpt": ""
-      },
-      {
-        "title": "Mercedes punta a tagliare €800 milioni di costi del lavoro in Germania",
-        "link": "https://it.investing.com/news/stock-market-news/mercedes-punta-a-tagliare-800-milioni-di-costi-del-lavoro-in-germania-93CH-3560553",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 06:45:30",
-        "excerpt": ""
-      },
-      {
-        "title": "Il prezzo spot dell'oro è sotto 4.300 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/il-prezzo-spot-delloro-e-sotto-4.300-dollari_1ae24719-2bf8-4c67-885d-a6e9fd4fc765.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 24 Sep 2026 08:15:28 +0200",
-        "excerpt": "Spot a 4.285,84 dollari l'oncia"
-      },
-      {
-        "title": "Prezzo del petrolio poco mosso, Brent a 103 dollari al barile",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/prezzo-del-petrolio-poco-mosso-brent-a-103-dollari-al-barile_c0e64906-b09e-4355-a1a2-9e1ede32c20a.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 24 Sep 2026 08:06:37 +0200",
-        "excerpt": "Wti in calo dello 0,2% a 92 dollari"
-      },
-      {
-        "title": "In Europa nel mese di agosto le immatricolazioni di auto in crescita del 5,3%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/in-europa-nel-mese-di-agosto-le-immatricolazioni-di-auto-in-crescita-del-53_ba040a4e-33ab-4036-a536-30c91c1abe7b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 24 Sep 2026 06:01:18 +0200",
-        "excerpt": "Negli otto mesi Stellantis cresce del 4,7%, quota di mercato al 14,8%"
       },
       {
         "title": "Dalla culla alla maggiore età: 162mila euro per crescere un figlio in Italia. Balzo del 4%",
@@ -229,6 +229,20 @@
     ],
     "europa": [
       {
+        "title": "Australia, agente di OpenAI si è infiltrato in sito web governativo",
+        "link": "https://www.ilsole24ore.com/art/australia-agente-openai-si-e-infiltrato-sito-web-governativo-AJNzALNB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 24 Sep 2026 07:46:58 GMT",
+        "excerpt": "L’Australia è estremamente preoccupata e delusa per la violazione della sicurezza di un sito web governativo da parte di OpenAI, che l’azienda specializzata in intelligenza artificiale ha impiegato troppo tempo..."
+      },
+      {
+        "title": "Leone in Francia, nel cuore del progetto europeo e della laïcité. Macron non assisterà alla messa del Papa",
+        "link": "https://www.ilsole24ore.com/art/leone-francia-cuore-progetto-europeo-e-laicite-macron-non-assistera-messe-papa-AJdAVJNB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Thu, 24 Sep 2026 07:09:00 GMT",
+        "excerpt": "Quinto viaggio apostolico di Prevost dal 25 28 settembre. Parigi, (compresa l’Unesco), Lourdes e Metz, patria di Schuman"
+      },
+      {
         "title": "Attore francese 43enne sottoposto a eutanasia in Belgio per dolori post-operatori",
         "link": "https://www.ilsole24ore.com/art/attore-francese-43enne-sottoposto-eutanasia-belgio-dolori-post-operatori-AJnrcINB",
         "source": "Il Sole 24 Ore Mondo",
@@ -243,18 +257,18 @@
         "excerpt": "Il giudice federale Timothy Kelly ha temporaneamente bloccato la decisione del presidente Donald Trump di bandire tre testate giornalistiche dai locali della Casa Bianca e ha stabilito che a CNN,..."
       },
       {
-        "title": "Guerra, ultime notizie. Board of Peace, ricostruzione di Gaza costerà 71,4 mld di dollari in 10 anni",
+        "title": "Guerra, ultime notizie. Gaza, Idf uccide comandante di Hamas: aveva tenuto in ostaggio 7 israeliani",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-board-of-peace-ricostruzione-gaza-costera-714-mld-dollari-10-anni-AJE06CNB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 24 Sep 2026 05:27:00 GMT",
         "excerpt": ""
       },
       {
-        "title": "Trump accoglie Xi a Washington, tregua sui dazi prorogata fino a gennaio",
+        "title": "Trump accoglie Xi a Washington, tregua sui dazi fino a gennaio",
         "link": "https://www.ilsole24ore.com/art/trump-accoglie-xi-washington-tregua-dazi-prorogata-fino-gennaio-AJdT1CNB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 24 Sep 2026 05:04:00 GMT",
-        "excerpt": "Il segretario al Tesoro Scott Bessent ha annunciato che Stati Uniti e Cina hanno concordato una proroga di due mesi della tregua sui dazi, che sarebbe scaduta il 10 novembre e resterà così in vigore fino al 10 gennaio"
+        "excerpt": "Il presidente cinese Xi Jinping è arrivato il 23 settembre a Washington per una visita di Stato di tre giorni negli Stati Uniti. Ad accoglierlo personalmente alla Joint..."
       },
       {
         "title": "El Mundo: «Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna»",
@@ -268,7 +282,7 @@
         "link": "https://www.ilsole24ore.com/art/pakistan-raid-aerei-dieci-siti-afghanistan-risposta-ad-attacco-droni-AJbnv2MB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 24 Sep 2026 03:53:00 GMT",
-        "excerpt": "I bombardamenti giungono dopo un’escalation di violenza proseguita per giorni. Il governo di Kabul nega di aver aggredito il Paese confinante"
+        "excerpt": "I bombardamenti giungono dopo un’escalation proseguita per giorni. Il governo di Kabul nega di aver aggredito il Paese confinante"
       },
       {
         "title": "FG Nexus acquires $10 million stake in FG Communities",
@@ -325,20 +339,6 @@
         "source": "Investing.com Eurozona",
         "pubDate": "2026-09-23 20:36:18",
         "excerpt": ""
-      },
-      {
-        "title": "Così la manodopera indiana conquista la leadership globale",
-        "link": "https://www.ilsole24ore.com/art/cosi-manodopera-indiana-conquista-leadership-globale-AJcnd0FB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 23 Sep 2026 20:13:25 GMT",
-        "excerpt": "Il Paese colmerà il vuoto lasciato dalla decrescita demografica in molte aree"
-      },
-      {
-        "title": "Voli Iran, sanzioni Usa: il primo giorno di applicazione tra sfide e cedimenti",
-        "link": "https://www.ilsole24ore.com/art/voli-iran-sanzioni-usa-primo-giorno-applicazione-sfide-e-cedimenti-AJ3qWoMB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Wed, 23 Sep 2026 18:45:41 GMT",
-        "excerpt": "Washington minaccia di escludere dal sistema del dollaro chiunque fornisca carburante, assistenza a terra o venda biglietti delle compagnie di Teheran. I collegamenti con alcuni Paesi sono stati sospesi, mentre..."
       }
     ],
     "usa": [
@@ -400,6 +400,20 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Presidente Moldavia, '4 droni russi hanno violato nostro spazio aereo'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/presidente-moldavia-4-droni-russi-hanno-violato-nostro-spazio-aereo_e2c56647-3d58-4b93-aa97-7fe10776768d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 09:57:04 +0200",
+        "excerpt": "'Almeno uno è esploso a nord, la guerra della Russia mette in pericolo l'Europa'"
+      },
+      {
+        "title": "La presidente del Costa Rica avrà un'udienza privata dal Papa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/la-presidente-del-costa-rica-avra-unudienza-privata-dal-papa_4bb8d363-e452-435e-a1ed-3d40cc5cb882.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 09:43:09 +0200",
+        "excerpt": "Durante la vista ufficiale annunciata da Fernández in Vaticano"
+      },
       {
         "title": "Giudice Usa a Trump: “Riammetta alla Casa Bianca i media banditi”",
         "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/?rss",
@@ -520,20 +534,6 @@
         "excerpt": "La presidente risponde a Trump e chiede rispetto per il Messico"
       },
       {
-        "title": "Stati Uniti ed Argentina avviano progetto di investimenti da 7 miliardi di dollari",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/stati-uniti-ed-argentina-avviano-progetto-di-investimenti-da-7-miliardi-di-dollari_fc96ada4-5572-4717-a177-2c6a474a5a4c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 03:06:35 +0200",
-        "excerpt": "Focus su infrastrutture strategiche, minerali critici e catene di approvvigionamento"
-      },
-      {
-        "title": "Díaz-Canel, 'nelle nostre riforme molte delle risposte ai problemi di Cuba'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/diaz-canel-nelle-nostre-riforme-molte-delle-risposte-ai-problemi-di-cuba_af5a70ac-a03c-4baa-b10d-d9ecc88917b9.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 03:04:17 +0200",
-        "excerpt": "Il presidente difende le misure al debutto del suo programma radiofonico"
-      },
-      {
         "title": "Pezeshkian alle Nazioni Unite mostra le foto dei bimbi uccisi: “L’Iran non cederà agli Usa”",
         "link": "https://www.repubblica.it/esteri/2026/09/24/news/pezeshkian_intervento_nazioni_unite_mostra_foto_bimbi_uccisi_iran_guerra_usa-425603529/?rss",
         "source": "Repubblica Esteri",
@@ -575,15 +575,22 @@
       "title": "Kiev: 'Raid russo su fattoria nel Kharkiv, 7 morti'. Due vittime anche nella capitale",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/kiev-raid-russo-su-fattoria-nel-kharkiv-7-morti.-due-vittime-anche_feb663f1-6d18-48f5-bb71-429ab07a50ab.html",
       "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 09:35:37 +0200",
+      "pubDate": "Thu, 24 Sep 2026 10:02:23 +0200",
       "excerpt": "Massicci attacchi missilistici nella notte. 'Colpito anche un ospedale di maternità'"
     },
     {
       "title": "El Mundo: 'Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/el-mundo-russia-pronta-ad-attacchi-con-droni-dal-mare-in-italia-francia_f3970154-cd44-45da-9d7a-0f7ce91c9725.html",
       "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 09:35:27 +0200",
+      "pubDate": "Thu, 24 Sep 2026 10:00:23 +0200",
       "excerpt": "I piani del Cremlino svelati dalla Cia. Potrebbero colpire quasi tutto il Paese"
+    },
+    {
+      "title": "Tempi, costi e tecnologia del “nuovo nucleare sostenibile”: cosa prevede il piano italiano",
+      "link": "https://www.repubblica.it/economia/2026/09/24/news/piano_nucleare_italia_tempi_costi_tecnologia-425604156/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 07:33:22 +0000",
+      "excerpt": "Il parlamento ha approvato il disegno di legge delega sull’atomo. Adesso il governo ha un anno per intervenire con i decreti attuativi. Strategia e ostacoli del programma"
     },
     {
       "title": "Il giudice ordina di ripristinare l'accesso alla Casa Bianca per Cnn, Msnbc e Politico",
@@ -640,13 +647,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 24 Sep 2026 00:29:29 +0000",
       "excerpt": "Nella notte italiana tra mercoledì e giovedì le due città sotto attacco, colpito un ospedale pediatrico. Il leader ucraino aveva definito lo zar “il paziente zero che ha scatenato la guerra”"
-    },
-    {
-      "title": "Morte al Colosseo, il giorno nero del ministro Giuli: prima prende tempo, poi si arrende allo stop",
-      "link": "https://www.repubblica.it/cronaca/2026/09/24/news/morte_al_colosseo_il_giorno_nero_del_ministro_giuli_prima_prende_tempo_poi_si_arrende_allo_stop-425603732/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 24 Sep 2026 00:00:00 +0000",
-      "excerpt": "Al mattino l’Anfiteatro accoglie 6.500 turisti, poi l’ira dei lavoratori costringe al fermo. E salta pure lo show di Alberto Angela"
     },
     {
       "title": "Tetto agli stranieri in un decreto, 'Non disarticoleremo le classi'",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Tennis: Alcaraz, mi manca giocare contro Sinner",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/24/tennis-alcaraz-mi-manca-giocare-contro-sinner_8448d34b-0928-4c29-992f-a2cb68a9d65d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 09:55:45 +0200",
+      "excerpt": "Lo spagnola a Londra per la Laver Cup, \"Jannik mi spinge a migliorare\""
+    },
+    {
       "title": "In India i Mondiali di ciclismo su strada del 2032",
       "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/24/in-india-i-mondiali-di-ciclismo-su-strada-del-2032_6578336a-001a-43b8-a40a-7ab0e00bcedc.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Wed, 23 Sep 2026 20:34:00 +0200",
       "excerpt": "Il n.1 del tennis in video all'iniziativa rilanciata oggi all'Onu da Italia e Nigeria"
-    },
-    {
-      "title": "Punti fermi e qualche esordiente, la nuova Italia di Mancini",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/23/punti-fermi-e-qualche-esordiente-la-nuova-italia-di-mancini_3b8002bf-9698-4c0b-81a0-8d8617aebb52.html",
-      "source": "ANSA Sport",
-      "pubDate": "Wed, 23 Sep 2026 20:11:16 +0200",
-      "excerpt": "Romano fra le possibili novità, 'ho scelto l'azzurro con il cuore'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
