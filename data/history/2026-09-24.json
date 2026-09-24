@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "L’ex responsabile dei data center di OpenAI entra in Nvidia",
+        "link": "https://it.investing.com/news/stock-market-news/lex-responsabile-dei-data-center-di-openai-entra-in-nvidia-3561956",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 18:11:47",
+        "excerpt": ""
+      },
+      {
+        "title": "Icop sottoscrive accordo per acquisire il 51% di Ediltunnel",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/icop-sottoscrive-accordo-per-acquisire-il-51-di-ediltunnel_a165a41a-fc7e-4ed3-b7df-720ab4d879a1.html",
+        "source": "ANSA Economia",
+        "pubDate": "Thu, 24 Sep 2026 20:10:50 +0200",
+        "excerpt": "Famiglia Ricchiuto azionista con il 49%; Elisabetta Ricchiuto resterà a.d."
+      },
+      {
         "title": "Mit, ok Cdm a dl contro blocco veicoli diesel euro 5",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/mit-ok-cdm-a-dl-contro-blocco-veicoli-diesel-euro-5_f3bb5de2-15ff-41eb-a48e-85491a6470f8.html",
         "source": "ANSA Economia",
@@ -408,20 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-24 14:15:18",
         "excerpt": ""
-      },
-      {
-        "title": "Tesla in compressione tra 375 e 381 $: livelli in tempo reale",
-        "link": "https://it.investing.com/news/stock-market-news/tesla-stretta-tra-sma200-e-supporti-livelli-in-tempo-reale-93CH-3556621",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 14:09:58",
-        "excerpt": ""
-      },
-      {
-        "title": "Microsoft sotto pressione a 490 $: livelli in tempo reale",
-        "link": "https://it.investing.com/news/stock-market-news/microsoft-consolida-tra-487-e-507-livelli-in-tempo-reale-93CH-3556620",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-24 14:09:50",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -751,6 +751,20 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Macron, minaccia droni ? È un'informazione da smentire ma situazione è preoccupante'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/macron-minaccia-droni-e-uninformazione-da-smentire-ma-situazione-e-preoccupante_f36027bc-4c8c-4660-81f3-da5d32d9c1ec.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 20:25:49 +0200",
+        "excerpt": "'Gli atti ostili un po' ovunque in Europa si sono moltiplicati'"
+      },
+      {
+        "title": "Decine di delegati lasciano l'aula dell'Onu. Netanyahu, 'codardi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/24/decine-di-delegati-lasciano-laula-dellonu.-netanyahu-codardi_6e6c788b-e510-4bd6-8bf3-eaeb08d85b62.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 20:18:27 +0200",
+        "excerpt": "Ira del premier israeliano: 'Se ce ne sono altri se ne vadano subito'"
+      },
       {
         "title": "Proteste contro Netanyahu all'Onu, arrestata Susan Sarandon",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/proteste-contro-netanyahu-allonu-arrestata-susan-sarandon_f14bdfdd-ad4d-4d74-8be0-dcafcf5925b7.html",
@@ -1156,24 +1170,24 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 24 Sep 2026 09:57:04 +0200",
         "excerpt": "'Almeno uno è esploso a nord, la guerra della Russia mette in pericolo l'Europa'"
-      },
-      {
-        "title": "La presidente del Costa Rica avrà un'udienza privata dal Papa",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/24/la-presidente-del-costa-rica-avra-unudienza-privata-dal-papa_4bb8d363-e452-435e-a1ed-3d40cc5cb882.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 09:43:09 +0200",
-        "excerpt": "Durante la vista ufficiale annunciata da Fernández in Vaticano"
-      },
-      {
-        "title": "Kiev, 'raid russo su fattoria nel Kharkiv, 7 morti'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/kiev-raid-russo-su-fattoria-nel-kharkiv-7-morti_8e86896e-3a03-4a81-996b-fd9755662b6a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Thu, 24 Sep 2026 09:22:27 +0200",
-        "excerpt": "I feriti sono 12"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Arriva Netanyahu, la sala dell'Onu si svuota, Il premier israeliano: 'Codardi'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/arriva-netanyahu-la-sala-dellonu-si-svuota-il-premier-israeliano-codardi_234fa594-d5e0-405b-a53b-b6f7bae3ba88.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 24 Sep 2026 20:31:28 +0200",
+      "excerpt": "'Se ce ne sono altri se ne vadano subito'. Mamdani con un ramoscello di ulivo per la pace"
+    },
+    {
+      "title": "Proteste per Netanyahu all'Onu, arrestata Susan Sarandon",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/proteste-per-netanyahu-allonu-arrestata-susan-sarandon_efbb5c73-ddc2-4848-ae94-75b0c6abc9d9.html",
+      "source": "ANSA",
+      "pubDate": "Thu, 24 Sep 2026 19:52:33 +0200",
+      "excerpt": "Manifestazioni attorno al Palazzo di Vetro, primi fermi"
+    },
     {
       "title": "Fine vita, il Consiglio dei Ministri impugna legge dell’Emilia-Romagna: “Viola competenze statali”",
       "link": "https://bologna.repubblica.it/cronaca/2026/09/24/news/fine_vita_consiglio_ministri_impugna_legge_emilia_romagna-425605595/",
@@ -1579,23 +1593,30 @@
       "source": "Repubblica",
       "pubDate": "Thu, 24 Sep 2026 06:39:53 +0000",
       "excerpt": "Il governo si appresta a varare un decreto per imporre un tetto massimo del 30%. Ma in tutta Italia sono gli studenti con background migratorio ad aver garantito che gli istituti di paesi e piccole realtà rimanessero ape"
-    },
-    {
-      "title": "Giudice Usa a Trump: “Riammetta alla Casa Bianca i media banditi”",
-      "link": "https://www.repubblica.it/esteri/2026/09/24/news/giudice_usa_a_trump_cnn_politico_casa_bianca-425603914/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 24 Sep 2026 06:10:10 +0000",
-      "excerpt": "Timothy Kelly ha ordinato all'amministrazione americana di far rientrare Cnn, MsNow e Politico dopo che ai tre network era stato revocato l'accesso per ordine del presidente: “La revoca dei badge stampa è stata fatta sen"
-    },
-    {
-      "title": "El Mundo: 'Russia pronta ad attacchi con droni dal mare in Italia, Francia e Spagna'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/el-mundo-russia-pronta-ad-attacchi-con-droni-dal-mare-in-italia-francia_f3970154-cd44-45da-9d7a-0f7ce91c9725.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 07:13:44 +0200",
-      "excerpt": "I piani del Cremlino svelati dalla Cia. Potrebbero colpire quasi tutto il Paese"
     }
   ],
   "sport": [
+    {
+      "title": "Sinner atteso a Pechino, Alcaraz 'mi manca giocare con lui'",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/24/sinner-atteso-a-pechino-alcaraz-mi-manca-giocare-con-lui_8448d34b-0928-4c29-992f-a2cb68a9d65d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 20:31:44 +0200",
+      "excerpt": "Ottimismo per l'Open di Cina, il n.1 ha intensificato gli allenamenti"
+    },
+    {
+      "title": "Calcio: Donnarumma 'Con Mancini abbiamo fatto la storia, speriamo di ripeterci'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/calcio-donnarumma-con-mancini-abbiamo-fatto-la-storia-speriamo-di-ripeterci_4b9604c6-7b28-44d5-8388-8e892d8cc697.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 20:30:34 +0200",
+      "excerpt": "'Dopo la Bosnia estate lunga, riportiamo l'Italia dove merita'"
+    },
+    {
+      "title": ">ANSA-FOCUS/ Sinner atteso a Pechino, Alcaraz 'mi manca giocare con lui'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/24/ansa-focus-sinner-atteso-a-pechino-alcaraz-mi-manca-giocare-con-lui_d0c4ecd3-212c-4506-9633-26c871102fcc.html",
+      "source": "ANSA Sport",
+      "pubDate": "Thu, 24 Sep 2026 20:16:51 +0200",
+      "excerpt": "Ottimismo per l'Open di Cina, il n.1 ha intensificato gli allenamenti"
+    },
     {
       "title": "Nations League: Van Bommel 'con l'Italia per vincere, vogliamo dominare il gioco'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/24/nations-league-van-bommel-con-litalia-per-vincere-vogliamo-dominare_a9f48728-4eed-4004-a6ab-d91cac6b3380.html",
