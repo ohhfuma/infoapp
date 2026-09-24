@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T00:10:03.863Z",
+  "lastUpdated": "2026-09-24T00:43:00.469Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,27 @@
     ],
     "mondo": [
       {
+        "title": "Kiev e Odessa sotto i missili russi, almeno due morti. La risposta di Putin al discorso di Zelensky all’Onu",
+        "link": "https://www.repubblica.it/esteri/2026/09/24/news/kiev_odessa_missili_russia_ucraina_guerra-425603778/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Thu, 24 Sep 2026 02:29:29 +0200",
+        "excerpt": "Nella notte italiana tra mercoledì e giovedì le due città sotto attacco, colpito un ospedale pediatrico. Il leader ucraino aveva definito lo zar “il paziente zero che ha scatenato la guerra”"
+      },
+      {
+        "title": "Borsa: Tokyo, apertura in rialzo (+0,69%)",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/borsa-tokyo-apertura-in-rialzo-069_c450e975-8583-4c02-9c58-6e9be14a1d4d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 02:24:22 +0200",
+        "excerpt": "Nikkei tenta recupero dopo lunga festività. Yen torna a indebolirsi"
+      },
+      {
+        "title": "Kiev sotto attacco russo, almeno due morti e tre feriti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/24/kiev-sotto-attacco-russo-almeno-due-morti-e-tre-feriti_1f673532-a628-4768-ab7c-4845ab5f75a6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 02:13:11 +0200",
+        "excerpt": "Missili contro la capitale. Sindaco, 'danneggiato anche un ospedale di maternità'"
+      },
+      {
         "title": "'Raid aereo contro Kandahar, incendio in città sede leader talebani'",
         "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/raid-aereo-contro-kandahar-incendio-in-citta-sede-leader-talebani_bf797b62-0727-43c3-b1b1-af0438c5dc5e.html",
         "source": "ANSA Mondo",
@@ -471,13 +492,6 @@
         "excerpt": "Il consigliere di Trump per il Nord Africa: “Se controlliamo il territorio otteniamo subito un freno a migrazioni e terrorismo”"
       },
       {
-        "title": "Allarme attacchi ibridi di Mosca, Parigi ha paura: “Dopo Lipsia tocca a noi”",
-        "link": "https://www.repubblica.it/esteri/2026/09/24/news/allarme_attacchi_ibridi_mosca_parigi_paura_macron-425603291/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 24 Sep 2026 01:00:00 +0200",
-        "excerpt": "Macron ha condiviso con i leader di partito i timori dell’intelligence: Mosca vuole destabilizzare il Paese con attacchi ibridi"
-      },
-      {
         "title": "Xi, 'fiducioso in risultati fruttuosi dalla visita negli Usa'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/xi-fiducioso-in-risultati-fruttuosi-dalla-visita-negli-usa_314a1c88-d7e4-4ff8-9362-75c60f666237.html",
         "source": "ANSA Mondo",
@@ -497,13 +511,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Thu, 24 Sep 2026 00:10:15 +0200",
         "excerpt": "Tycoon accoglie il presidente sulla pista della base Andrews con le rispettive first lady"
-      },
-      {
-        "title": "Tajani, 'minacce ibride della Russia mettono a rischio sicurezza europea'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/tajani-minacce-ibride-della-russia-mettono-a-rischio-sicurezza-europea_652c2928-03c2-415b-b1e0-99dedfb6d81c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 23:41:44 +0200",
-        "excerpt": "'Evitare escalation, l'Italia non è in guerra con Mosca'"
       },
       {
         "title": "Senators from both parties ask Trump to release emergency heating oil as prices surge",
@@ -548,13 +555,6 @@
         "excerpt": ""
       },
       {
-        "title": "Kiev, colpita la sede del partito di Zelensky nella capitale mentre parlava all'Onu",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/kiev-colpita-la-sede-del-partito-di-zelensky-nella-capitale-mentre-parlava_4754d364-3520-4ef2-988f-d9fadbeb4ed9.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 22:32:46 +0200",
-        "excerpt": "L'attacco è stato l'ultimo di una serie di raid contro il Paese avvenuti oggi"
-      },
-      {
         "title": "Natural Gas retests $3.00 with bearish divergence: Live levels",
         "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
         "source": "Investing.com Commodities",
@@ -572,18 +572,46 @@
   },
   "attualita": [
     {
-      "title": "Firenze capitale del clima: “Qui il primo vertice delle cento città verdi”",
-      "link": "https://firenze.repubblica.it/cronaca/2026/09/24/news/repubblica_insieme_firenze_funaro_mancuso_alberi-425603579/",
+      "title": "Kiev e Odessa sotto i missili russi, almeno due morti. La risposta di Putin al discorso di Zelensky all’Onu",
+      "link": "https://www.repubblica.it/esteri/2026/09/24/news/kiev_odessa_missili_russia_ucraina_guerra-425603778/",
       "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 23:45:00 +0000",
-      "excerpt": "L’annuncio all’evento “Repubblica insieme”. La sindaca Funaro raccoglie l’appello di Mancuso: “La nostra città ha la forza di parlare al mondo”"
+      "pubDate": "Thu, 24 Sep 2026 00:29:29 +0000",
+      "excerpt": "Nella notte italiana tra mercoledì e giovedì le due città sotto attacco, colpito un ospedale pediatrico. Il leader ucraino aveva definito lo zar “il paziente zero che ha scatenato la guerra”"
     },
     {
       "title": "Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_56a36ff8-3394-40ca-b17c-750eac341420.html",
       "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 01:18:05 +0200",
+      "pubDate": "Thu, 24 Sep 2026 02:25:22 +0200",
       "excerpt": "\"Ottimo incontro\". Il bilaterale, poi cena con Big tech e Wall Street"
+    },
+    {
+      "title": "Spostamenti di pochi km, dubbi sul divieto di velo a scuola: ecco la linea rossa del Colle",
+      "link": "https://www.repubblica.it/politica/2026/09/24/news/decreto_scuola_spostamenti_studenti_stranieri_quirinale_governo-425603627/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
+      "excerpt": "Trattativa serrata tra Palazzo Chigi e gli uffici legislativi del Quirinale. L’incertezza tra decreto legge e legislativo"
+    },
+    {
+      "title": "Stranieri in classe e stop burqa, oggi il testo arriva in cdm. Valditara: “Possibili deroghe”",
+      "link": "https://www.repubblica.it/politica/2026/09/24/news/studenti_stranieri_decreto_scuola_burqa_cdm_valditara-425603613/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il ministro dell’Istruzione sul tetto di studenti immigrati al 30%: “Il criterio sarà linguistico, quest’anno riguarderà chi si iscrive in corsa”. Esclusi i bambini che hanno frequentato almeno due anni di scuola d’infan"
+    },
+    {
+      "title": "Mattarella e la circolare del ‘90, all’epoca negli istituti gli stranieri erano solo 19mila",
+      "link": "https://www.repubblica.it/politica/2026/09/24/news/mattarella_circolare_1990_scuola_stranieri-425603674/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
+      "excerpt": "Come nacque l’atto firmato dall’allora ministro dell’Istruzione. Oggi la soglia supera i 900mila"
+    },
+    {
+      "title": "Azzariti: “Il Quirinale va tutelato,destra insofferente ai controlli finirà in un vicolo cieco”",
+      "link": "https://www.repubblica.it/politica/2026/09/24/news/azzariti_quirinale_scuola_governo_meloni_intervista-425603679/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il costituzionalista: “Nella prima Repubblica non si criticava il presidente per salvaguardare la sua funzione di garante”"
     },
     {
       "title": "Il primo “Chi l’ha visto?” di Raffaella Griggi. “Bentornati, continuiamo la strada di Sciarelli”",
@@ -614,39 +642,11 @@
       "excerpt": "Un inedito dall’archivio del fondatore di Repubblica: “L’opinione nazionale si frantuma, così come si frantumano le omogeneità di partito e di classe”."
     },
     {
-      "title": "Delusione Italia, ko al tie-break con la Finlandia e fuori nei quarti agli Europei di volley",
-      "link": "https://www.repubblica.it/sport/volley/2026/09/23/news/europei_volley_italia_finlandia_risultato_quarti-425603719/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 21:59:22 +0000",
-      "excerpt": "Gli azzurri – che erano avanti 11-8 nel parziale decisivo - cedono 3-2 a Torino ed escono di scena"
-    },
-    {
       "title": "Pezeshkian mostra all'Onu le foto dei bimbi uccisi: 'Non ci piegheremo'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-mostra-allonu-le-foto-dei-bimbi-uccisi-non-ci-piegheremo_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
       "source": "ANSA",
       "pubDate": "Wed, 23 Sep 2026 23:31:52 +0200",
       "excerpt": "'Sì al dialogo ma basta forza'. La delegazione Usa lascia la sala. Rubio: 'Progressi ma nessuna svolta'"
-    },
-    {
-      "title": "Zverev: “Cerco di stare al passo di Alcaraz e Sinner, il loro ritorno serve a tutto il tennis”",
-      "link": "https://www.repubblica.it/sport/tennis/2026/09/23/news/zverev_intervista_alcaraz_sinner_laver_cup-425603557/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 20:05:24 +0000",
-      "excerpt": "Intervista al giocatore tedesco, fresco vincitore degli Us Open, a Londra per la Laver Cup"
-    },
-    {
-      "title": "Ricciardi (M5S): “Meloni diserta l’Onu per Vespa e Fashion week”. Renzi: “Che figuraccia”",
-      "link": "https://www.repubblica.it/politica/2026/09/23/news/meloni_onu_fashion_week_milano_renzi_ricciardi_m5s-425603235/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 18:06:48 +0000",
-      "excerpt": "La premier assente all’assemblea a New York partecipa invece alla cena di gala a Milano. Il leader di Italia viva: “Rimane a casa per la campagna elettorale”"
-    },
-    {
-      "title": "Usa, Harvey Weinstein condannato a 15 anni per violenza sessuale",
-      "link": "https://www.repubblica.it/esteri/2026/09/23/news/usa_harvey_weinstein_condannato_a_15_anni_per_violenza_sessuale-425603025/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 16:23:44 +0000",
-      "excerpt": "La sentenza per gli abusi su una ex assistente di produzione chiude un iter processuale durato sei anni"
     },
     {
       "title": "Milano Fashion Week, la storia della moda (e della città) con Vogue World",
