@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-23T23:35:31.588Z",
+  "lastUpdated": "2026-09-24T00:10:03.863Z",
   "finanza": {
     "italia": [
+      {
+        "title": "HSBC sposta il consiglio di amministrazione da Dubai a Londra",
+        "link": "https://it.investing.com/news/stock-market-news/hsbc-sposta-il-consiglio-di-amministrazione-da-dubai-a-londra-93CH-3560392",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-23 23:53:21",
+        "excerpt": ""
+      },
       {
         "title": "La rabbia dei lavoratori Istat: “I numeri non si possono piegare”",
         "link": "https://www.repubblica.it/economia/2026/09/24/news/rabbia_lavoratori_istat_scontro_meloni_giorgetti_deficit-425603712/?rss",
@@ -105,13 +112,6 @@
         "link": "https://it.investing.com/news/stock-market-news/l3harris-ottiene-un-contratto-da-876-milioni-di-dollari-per-sistema-di-disturbo-elettronico-della-marina-93CH-3560320",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-23 21:29:26",
-        "excerpt": ""
-      },
-      {
-        "title": "Un agente AI di OpenAI accede illegalmente a un sistema governativo australiano",
-        "link": "https://it.investing.com/news/stock-market-news/un-agente-ai-di-openai-accede-illegalmente-a-un-sistema-governativo-australiano-3560315",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-23 21:23:43",
         "excerpt": ""
       },
       {
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "'Raid aereo contro Kandahar, incendio in città sede leader talebani'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/raid-aereo-contro-kandahar-incendio-in-citta-sede-leader-talebani_bf797b62-0727-43c3-b1b1-af0438c5dc5e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 01:53:00 +0200",
+        "excerpt": "Lo riferisce un residente del secondo centro dell'Afghanistan"
+      },
+      {
+        "title": "OpenAi, 'nostro modello può aver tentato hackeraggio diversi siti governo Australia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/openai-nostro-modello-puo-aver-tentato-hackeraggio-diversi-siti-governo_ee7fd1d2-5acc-4631-9d0b-0d2adeeaef05.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Thu, 24 Sep 2026 01:41:16 +0200",
+        "excerpt": ""
+      },
+      {
         "title": "Trump, 'ottimo incontro con Xi'",
         "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/trump-ottimo-incontro-con-xi_82d64d7e-1471-4373-ba81-cba5db179aaf.html",
         "source": "ANSA Mondo",
@@ -541,20 +555,6 @@
         "excerpt": "L'attacco è stato l'ultimo di una serie di raid contro il Paese avvenuti oggi"
       },
       {
-        "title": "Cremlino, 'grati agli Usa per l'invito a Putin per il G20, valuteremo'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/23/cremlino-grati-agli-usa-per-linvito-a-putin-per-il-g20-valuteremo_21eeb7bc-e29c-42a3-98d4-f3f9d88ea377.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 22:30:39 +0200",
-        "excerpt": "'Prenderemo una decisione e procederemo a lavorare sulla questione per via diplomatica'"
-      },
-      {
-        "title": "Appello del presidente dominicano all'Onu per un maggior impegno su Haiti",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/23/appello-del-presidente-dominicano-allonu-per-un-maggior-impegno-su-haiti_233a4e8f-8152-40a5-8f6f-15f69bce7655.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Wed, 23 Sep 2026 22:14:21 +0200",
-        "excerpt": "Abinader: 'Questa Assemblea non può rassegnarsi a vedere i massacri diventare la norma'"
-      },
-      {
         "title": "Natural Gas retests $3.00 with bearish divergence: Live levels",
         "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
         "source": "Investing.com Commodities",
@@ -571,6 +571,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Firenze capitale del clima: “Qui il primo vertice delle cento città verdi”",
+      "link": "https://firenze.repubblica.it/cronaca/2026/09/24/news/repubblica_insieme_firenze_funaro_mancuso_alberi-425603579/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 23:45:00 +0000",
+      "excerpt": "L’annuncio all’evento “Repubblica insieme”. La sindaca Funaro raccoglie l’appello di Mancuso: “La nostra città ha la forza di parlare al mondo”"
+    },
     {
       "title": "Stretta di mano tra Trump e Xi, al via la visita del leader cinese in Usa",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_56a36ff8-3394-40ca-b17c-750eac341420.html",
@@ -591,6 +598,20 @@
       "source": "ANSA",
       "pubDate": "Thu, 24 Sep 2026 00:11:54 +0200",
       "excerpt": "Lavrov a Rubio: 'Negoziamo ma non ci fermiamo'. Tajani: 'Minacce ibride della Russia mettono a rischio la sicurezza europea'"
+    },
+    {
+      "title": "L’archivio di Eugenio Scalfari va alla Fondazione Feltrinelli",
+      "link": "https://www.repubblica.it/cultura/2026/09/24/news/archivio_scalfari_fondazione_feltrinelli-425603070/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 22:01:00 +0000",
+      "excerpt": "Le carte del fondatore di “Repubblica” all’istituzione di Milano. “È la collocazione giusta per valorizzare il materiale di nostro padre e della storia del giornale”, dicono le figlie Enrica e Donata"
+    },
+    {
+      "title": "Eugenio Scalfari: quanto è diventato difficile distinguere tra sinistra e destra",
+      "link": "https://www.repubblica.it/cultura/2026/09/24/news/scalfari_archivio_fondazione_feltrinelli_inedito_destra_sinistra-425603112/",
+      "source": "Repubblica",
+      "pubDate": "Wed, 23 Sep 2026 22:01:00 +0000",
+      "excerpt": "Un inedito dall’archivio del fondatore di Repubblica: “L’opinione nazionale si frantuma, così come si frantumano le omogeneità di partito e di classe”."
     },
     {
       "title": "Delusione Italia, ko al tie-break con la Finlandia e fuori nei quarti agli Europei di volley",
@@ -626,27 +647,6 @@
       "source": "Repubblica",
       "pubDate": "Wed, 23 Sep 2026 16:23:44 +0000",
       "excerpt": "La sentenza per gli abusi su una ex assistente di produzione chiude un iter processuale durato sei anni"
-    },
-    {
-      "title": "Nucleare, via libera definitivo al Senato. Il ministro Pichetto: “Le prime centrali nel 2033”",
-      "link": "https://www.repubblica.it/economia/2026/09/23/news/nucleare_legge_pichetto_fratin_senato_delega_governo_centrali-425602870/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 15:18:15 +0000",
-      "excerpt": "Approvato il ddl votato a giugno dalla Camera. Il titolare del Mase promette i decreti attuativi entro la fine dell’anno. La premier: “Una scelta coraggiosa e di buon senso”. Per le opposizioni è una promessa con tempi e"
-    },
-    {
-      "title": "Repubblica Insieme, Massini: “L’uomo è l’unità di misura di tutto e l’IA lo mette a rischio”",
-      "link": "https://firenze.repubblica.it/cronaca/2026/09/23/diretta/firenze_repubblica_insieme_diretta-425602853/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 15:16:14 +0000",
-      "excerpt": "Il direttore artistico della Pergola chiude l’evento: “Rischiamo di essere l’anello debole del mondo nuovo”. Mancuso: “Il caldo è un’apocalisse. Meno asfalto, più alberi”. Funaro candida Firenze come sede di un vertice d"
-    },
-    {
-      "title": "Cortenuova, operaio di 66 anni muore schiacciato da una trave in acciaio nel polo logistico di MD",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/23/news/cortenuova_operaio_morto_schiacciato_trave_incidenti_lavoro-425602754/",
-      "source": "Repubblica",
-      "pubDate": "Wed, 23 Sep 2026 14:41:32 +0000",
-      "excerpt": "L’uomo era al lavoro nel parcheggio della struttura di via Trieste, stava montando una struttura metallica quando il muletto ha urtato la trave"
     },
     {
       "title": "Milano Fashion Week, la storia della moda (e della città) con Vogue World",
