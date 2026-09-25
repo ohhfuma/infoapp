@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "ADARx Pharmaceuticals fissa l’IPO a $17 per azione, raccogliendo $446,3M",
+        "link": "https://it.investing.com/news/stock-market-news/adarx-pharmaceuticals-fissa-lipo-a-17-per-azione-raccogliendo-4463m-432SI-3562199",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-24 23:45:02",
+        "excerpt": ""
+      },
+      {
         "title": "Tasse, tutto il peso dell’Irpef su un terzo dei contribuenti. “Nove milioni pagano zero”",
         "link": "https://www.repubblica.it/economia/2026/09/25/news/tasse_irpef_nove_milioni_pagano_zero-425606134/?rss",
         "source": "Repubblica Economia",
@@ -500,6 +507,13 @@
     ],
     "mondo": [
       {
+        "title": "Kast incontra Delcy Rodríguez, al centro del colloquio migranti e rapporti con Caracas",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/kast-incontra-delcy-rodriguez-al-centro-del-colloquio-migranti-e-rapporti-con_c01243d1-e8f8-433b-a65a-d8c917d6ebcf.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 25 Sep 2026 01:38:02 +0200",
+        "excerpt": "Il presidente cileno sostiene la ricostruzione del Venezuela e il dialogo diplomatico"
+      },
+      {
         "title": "Pezeshkian: 'Sono gli Usa a dover decidere se porre fine alla guerra'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/25/pezeshkian-sono-gli-usa-a-dover-decidere-se-porre-fine-alla-guerra_1f374973-6893-46db-b55f-505a1cf00203.html",
         "source": "ANSA Mondo",
@@ -740,6 +754,62 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Giulio Regeni, un omicidio di Stato: la ricostruzione del caso fino al processo",
+      "link": "https://www.repubblica.it/cronaca/2026/09/25/news/giulio_regeni_omicidio_morte_storia-425604832/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
+      "excerpt": "Documenti inediti e testimonianze: dieci anni di indagini, depistaggi e silenzi sul sequestro, la tortura e la morte del ricercatore universitario"
+    },
+    {
+      "title": "“Via i figli a chi rifiuta”, in bozza decreto scuola misure estreme: poi i consigli del Quirinale",
+      "link": "https://www.repubblica.it/politica/2026/09/25/news/bozza_decreto_scuola_misure_estreme_consigli_quirinale-425606138/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
+      "excerpt": "Saltato il divieto di burqa per madri e padri, inserito il diritto allo studio. Oggi il vaglio del testo finale"
+    },
+    {
+      "title": "Varato il decreto scuola, nel mirino i genitori che non parlano italiano",
+      "link": "https://www.repubblica.it/politica/2026/09/25/news/decreto_scuola_ok_cdm_mirino_genitori_non_parlano_italiano-425606144/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
+      "excerpt": "Via libera dal Cdm, tetto agli stranieri e niente burqa tra i banchi. Multe per le famiglie. Valditara corregge fino all’ultimo il testo. Esulta Meloni: “Evitate classi ghetto”. Schlein: “Caccia alle streghe”"
+    },
+    {
+      "title": "Decreto scuola, il 30% di stranieri nelle prime e sanzioni per il burqa. Cosa cambia in classe",
+      "link": "https://www.repubblica.it/cronaca/2026/09/25/news/decreto_scuola_stranieri_tetto_sanzioni_burqa_cosa_cambia-425606013/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
+      "excerpt": "Le nuove norme in vigore dal prossimo anno. Chi è nato in Italia e ha frequentato almeno due anni di materna non rientra nei limiti. Multe alle famiglie che non seguono le lezioni di lingua. Ai presidi e agli uffici scol"
+    },
+    {
+      "title": "Allarme reati dei minori, poteri al Procuratore nazionale antimafia",
+      "link": "https://www.repubblica.it/politica/2026/09/25/news/reati_minori_poteri_procuratore_nazionale_antimafia-425606131/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
+      "excerpt": "La novità in un decreto legge approvato in Cdm: “È urgente intervenire”"
+    },
+    {
+      "title": "“Legge elettorale o urne”, Meloni e la caccia ai sospetti tra liste di traditori e “spie”",
+      "link": "https://www.repubblica.it/politica/2026/09/25/news/legge_elettorale_urne_sospetti_meloni_liste_traditori_spie-425606127/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il piano della premier: se salta la riforma voto a gennaio, altrimenti elezioni in primavera. Striglia ministri e gruppi sulle assenze in aula"
+    },
+    {
+      "title": "Tasse, tutto il peso dell’Irpef su un terzo dei contribuenti. “Nove milioni pagano zero”",
+      "link": "https://www.repubblica.it/economia/2026/09/25/news/tasse_irpef_nove_milioni_pagano_zero-425606134/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
+      "excerpt": "Il rapporto di Itinerari Previdenziali mostra l’asimmetria del sistema fiscale: un terzo degli italiani si sobbarca gran parte delle imposte, sono soprattutto dipendenti e pensionati"
+    },
+    {
+      "title": "Nella giungla dei redditi dove un gioielliere dichiara meno di un insegnante",
+      "link": "https://www.repubblica.it/economia/2026/09/25/news/categorie_lavoratori_liberi_professionisti_per_reddito_medio_annuo-425606088/",
+      "source": "Repubblica",
+      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
+      "excerpt": "Nella classifica per professioni molti dipendenti superano gli imprenditori: bizzarrie che nascondono spesso sacche d’evasione"
+    },
     {
       "title": "Il Colosseo chiuso tre giorni per lutto, 7 indagati per la morte di un operaio ",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/24/il-colosseo-chiuso-tre-giorni-per-lutto-7-indagati-per-la-morte-di-un-operaio_63b7089b-ae2f-447b-8e4d-1bb2a6c25f85.html",
