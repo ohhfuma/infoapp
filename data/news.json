@@ -1,13 +1,125 @@
 {
-  "lastUpdated": "2026-09-25T06:10:07.446Z",
+  "lastUpdated": "2026-09-25T06:43:56.347Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Euro stabile sul dollaro a 1,1383 in avvio di giornata",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/euro-stabile-sul-dollaro-a-11383-in-avvio-di-giornata_6c79cce9-a6dd-43a9-9695-16e8e433097b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 08:41:35 +0200",
+        "excerpt": "Moneta unica in lieve calo sullo yen a 179,95"
+      },
+      {
+        "title": "Manfredi: «Legame strettissimo fra sviluppo, coesione e riforme istituzionali»",
+        "link": "https://www.ilsole24ore.com/art/manfredi-legame-strettissimo-sviluppo-coesione-e-riforme-istituzionali-AJds75JB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 25 Sep 2026 06:37:50 GMT",
+        "excerpt": "Per il presidente dell’Anci «È urgente replicare in modo strutturale il metodo del Pnrr»"
+      },
+      {
+        "title": "Gentiloni: «Ora la sfida di nuovi investimenti comuni»",
+        "link": "https://www.ilsole24ore.com/art/gentiloni-ora-sfida-nuovi-investimenti-comuni-AJ6IT4JB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 25 Sep 2026 06:37:00 GMT",
+        "excerpt": "La risposta europea alla crisi pandemica è stata rapida e all’altezza della situazione, ma adesso quella stagione di rilancio non può essere archiviata"
+      },
+      {
+        "title": "Lo spread tra Btp e Bund apre in calo a 92 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/lo-spread-tra-btp-e-bund-apre-in-calo-a-92-punti_241c1aa5-4c79-43f0-b394-c569f83477b0.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 08:36:59 +0200",
+        "excerpt": "Il rendimento del decennale italiano scende al 4,49%"
+      },
+      {
+        "title": "Giorgetti: «Alleanza fra Stato e imprese per la crescita»",
+        "link": "https://www.ilsole24ore.com/art/giorgetti-alleanza-stato-e-imprese-la-crescita-AJraXuNB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 25 Sep 2026 06:36:39 GMT",
+        "excerpt": "Le misure del Governo a favore della produzione vanno lette come additive rispetto a quelle finanziate con capitale proprio"
+      },
+      {
+        "title": "Competitività, coesione e istituzioni rinnovate per crescere dopo il Pnrr",
+        "link": "https://www.ilsole24ore.com/art/competitivita-coesione-e-istituzioni-rinnovate-crescere-il-pnrr-AJKUG3JB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Fri, 25 Sep 2026 06:35:58 GMT",
+        "excerpt": "Nel nuovo Rapporto curato da Roberto Garofoli le tre «leve» indispensabili per tornare a uno sviluppo stabile e inclusivo"
+      },
+      {
+        "title": "Musk: il data center Colossus 2 raddoppierà i chip Nvidia AI entro fine anno",
+        "link": "https://it.investing.com/news/stock-market-news/musk-il-data-center-colossus-2-raddoppiera-i-chip-nvidia-ai-entro-fine-anno-3562318",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 06:34:35",
+        "excerpt": ""
+      },
+      {
+        "title": "Novo Nordisk licenzia la tecnologia di Nanexa in un accordo da fino a €1,17 mld",
+        "link": "https://it.investing.com/news/stock-market-news/novo-nordisk-licenzia-la-tecnologia-di-nanexa-in-un-accordo-da-fino-a-117-mld-93CH-3562316",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 06:31:20",
+        "excerpt": ""
+      },
+      {
+        "title": "Il prezzo del gas in calo a 72,56 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/il-prezzo-del-gas-in-calo-a-7256-euro-al-megawattora_63903058-0629-423c-9f04-e607038d8d42.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 08:21:46 +0200",
+        "excerpt": "Ad Amsterdam le quotazioni scendono del 3,4%"
+      },
+      {
+        "title": "Il rally del 15,53% post-utili di Cracker Barrel: inizio o fine?",
+        "link": "https://it.investing.com/news/stock-market-news/il-rally-del-1553-postutili-di-cracker-barrel-inizio-o-fine-3562289",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 06:15:37",
+        "excerpt": ""
+      },
+      {
+        "title": "HelloFresh taglia le previsioni 2026: i tagli al marketing frenano la crescita",
+        "link": "https://it.investing.com/news/stock-market-news/hellofresh-taglia-le-previsioni-2026-i-tagli-al-marketing-frenano-la-crescita-3562285",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 06:12:12",
+        "excerpt": ""
+      },
+      {
+        "title": "Prezzo oro poco mosso, Spot scambiato a 4.271 dollari l'oncia",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/prezzo-oro-poco-mosso-spot-scambiato-a-4.271-dollari-loncia_9259afb6-48c9-4926-8975-17878224d8c0.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 08:09:26 +0200",
+        "excerpt": "Quotazione +0,09%. Per i futures con scadenza dicembre lieve rialzo (+0,21%) a 4.307"
+      },
       {
         "title": "Petrolio in calo in avvio di giornata, Wti a 92,82 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/petrolio-in-calo-in-avvio-di-giornata-wti-a-9282-dollari_de4a4edc-a4c7-4da4-b283-4bba44897c5c.html",
         "source": "ANSA Economia",
         "pubDate": "Fri, 25 Sep 2026 08:05:02 +0200",
         "excerpt": "In calo dell'1,89%. Il Brent scende a quota 105,43"
+      },
+      {
+        "title": "I timori sull’IA sono seri, ma un rallentamento frontier è improbabile: BMO",
+        "link": "https://it.investing.com/news/stock-market-news/i-timori-sullia-sono-seri-ma-un-rallentamento-frontier-e-improbabile-bmo-3562283",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 06:04:59",
+        "excerpt": ""
+      },
+      {
+        "title": "Welspun Corp guadagna dopo contratto da $412,5 milioni per la filiale USA",
+        "link": "https://it.investing.com/news/stock-market-news/welspun-corp-guadagna-dopo-contratto-da-4125-milioni-per-la-filiale-usa-93CH-3562279",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 05:57:47",
+        "excerpt": ""
+      },
+      {
+        "title": "SMBC del Giappone in trattative per portare la quota in VPBank al 20%",
+        "link": "https://it.investing.com/news/stock-market-news/smbc-del-giappone-in-trattative-per-portare-la-quota-in-vpbank-al-20-3562275",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 05:32:54",
+        "excerpt": ""
+      },
+      {
+        "title": "Airbus individua un problema di qualità nei fusoliere degli A321neo",
+        "link": "https://it.investing.com/news/stock-market-news/airbus-individua-un-problema-di-qualita-nei-fusoliere-degli-a321neo-93CH-3562272",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 05:32:08",
+        "excerpt": ""
       },
       {
         "title": "Rc auto,  prezzo medio a 422 euro: +1,6% sul 2025",
@@ -17,67 +129,11 @@
         "excerpt": "Se da un lato il prezzo della garanzia Rc auto cala rispetto all’inizio del 2026, dall’altro registra valori più alti rispetto a un anno fa. È ciò che emerge dall’ultima..."
       },
       {
-        "title": "Le azioni bancarie giapponesi salgono sull’onda dei rendimenti e delle scommesse sui rialzi dei tassi",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-bancarie-giapponesi-salgono-sullonda-dei-rendimenti-e-delle-scommesse-sui-rialzi-dei-tassi-3562264",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 04:44:06",
-        "excerpt": ""
-      },
-      {
-        "title": "Bitget: violazione dei wallet, colpiti 351,6 milioni di dollari",
-        "link": "https://it.investing.com/news/stock-market-news/bitget-violazione-dei-wallet-colpiti-3516-milioni-di-dollari-3562258",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 04:32:19",
-        "excerpt": ""
-      },
-      {
-        "title": "Approvazione in Giappone e +27%: il titolo healthcare scelto dall’AI a settembre",
-        "link": "https://it.investing.com/news/stock-market-news/approvazione-in-giappone-e-27-il-titolo-healthcare-scelto-dallai-a-settembre-3562256",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 04:22:14",
-        "excerpt": ""
-      },
-      {
         "title": "Tagli Volkswagen in Messico, licenziati in totale oltre mille operai",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/tagli-volkswagen-in-messico-licenziati-in-totale-oltre-mille-operai_c0dde5c9-7197-4f38-bd8a-6bb98aed0a3e.html",
         "source": "ANSA Economia",
         "pubDate": "Fri, 25 Sep 2026 06:18:16 +0200",
         "excerpt": "La riduzione dei turni a Puebla colpisce anche le aziende fornitrici"
-      },
-      {
-        "title": "Perché il titolo Shimizu sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-shimizu-sta-scendendo-oggi-93CH-3562249",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 03:41:41",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo di Oracle Giappone è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-oracle-giappone-e-in-forte-rialzo-oggi-93CH-3562248",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 03:34:26",
-        "excerpt": ""
-      },
-      {
-        "title": "Le azioni asiatiche scivolano mentre i rendimenti salgono; vertice Trump-Xi offre poco sollievo",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-asiatiche-scivolano-mentre-i-rendimenti-salgono-vertice-trumpxi-offre-poco-sollievo-3562246",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 03:23:34",
-        "excerpt": ""
-      },
-      {
-        "title": "Le azioni SoftBank crollano dopo l’avvertimento di Oracle sui data center",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-softbank-scendono-dopo-lavvertimento-oracle-sui-data-center-ai-3562243",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 03:18:00",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo di SoftBank Group sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-softbank-group-sta-scendendo-oggi-93CH-3562241",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 03:17:21",
-        "excerpt": ""
       },
       {
         "title": "La pensione di ottobre arriva il primo del mese. Nel cedolino i nuovi sconti sull’Ape sociale",
@@ -106,13 +162,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 25 Sep 2026 02:34:29 +0200",
         "excerpt": "Subentra dal 28 settembre a Camilo Barco alla guida del gruppo petrolifero"
-      },
-      {
-        "title": "Borsa: Tokyo, apertura in rialzo (+0,36%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/borsa-tokyo-apertura-in-rialzo-036_8c812088-6c9b-49ac-9537-7a3c31842868.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 02:24:31 +0200",
-        "excerpt": "Tecnologia protagonista. Yen si mantiene debole su dollaro, euro"
       },
       {
         "title": "Tasse, tutto il peso dell’Irpef su un terzo dei contribuenti. “Nove milioni pagano zero”",
@@ -164,27 +213,6 @@
         "excerpt": "Poca insalata e pochi pomodori. I consumatori italiani faticano sempre di più a trovare questi due ortaggi al supermercato. Il motivo? Il caldo eccessivo dei mesi di luglio e agosto...."
       },
       {
-        "title": "Icop sottoscrive accordo per acquisire il 51% di Ediltunnel",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/icop-sottoscrive-accordo-per-acquisire-il-51-di-ediltunnel_a165a41a-fc7e-4ed3-b7df-720ab4d879a1.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 24 Sep 2026 20:10:50 +0200",
-        "excerpt": "Famiglia Ricchiuto azionista con il 49%; Elisabetta Ricchiuto resterà a.d."
-      },
-      {
-        "title": "Ok del Cdm al decreto legge contro blocco veicoli diesel euro 5",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/mit-ok-cdm-a-dl-contro-blocco-veicoli-diesel-euro-5_f3bb5de2-15ff-41eb-a48e-85491a6470f8.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 24 Sep 2026 20:08:12 +0200",
-        "excerpt": "Grande soddisfazione di Salvini"
-      },
-      {
-        "title": "Ivass, prezzo medio Rc Auto a 422 euro +1,6%, in calo sul trimestre",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/24/ivass-prezzo-medio-rc-auto-a-422-euro-16-in-calo-sul-trimestre_e027a7f7-a0f0-4536-b304-941a5a3d9890.html",
-        "source": "ANSA Economia",
-        "pubDate": "Thu, 24 Sep 2026 19:52:16 +0200",
-        "excerpt": "In termini reali riduzione dell'1,3%"
-      },
-      {
         "title": "Meloni: «Priorità al taglio delle tasse, per le patrimoniali bisognerà aspettare un Governo diverso» ",
         "link": "https://www.ilsole24ore.com/art/meloni-priorita-taglio-tasse-le-patrimoniali-bisognera-aspettare-governo-diverso-AJTQn1NB",
         "source": "Il Sole 24 Ore",
@@ -197,37 +225,16 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Thu, 24 Sep 2026 15:47:00 GMT",
         "excerpt": "Un altro anno di tempo prima del blocco alla circolazione dei veicoli diesel Euro 5 nelle Regioni del Bacino Padano. Il Consiglio dei ministri ha approvato il decreto legge proposto..."
-      },
-      {
-        "title": "Il Gruppo Il Sole 24 Ore riceve l’HEART Award 2026 per il miglior utilizzo della Corporate Social Responsability in ambito HR",
-        "link": "https://www.ilsole24ore.com/art/il-gruppo-sole-24-ore-riceve-l-heart-award-2026-il-miglior-utilizzo-corporate-social-responsability-ambito-hr-AJQBYsNB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 24 Sep 2026 14:43:05 GMT",
-        "excerpt": "Riconosciuto l’impegno del Gruppo nella valorizzazione delle persone attraverso politiche di sostenibilità, inclusione, welfare e sviluppo professionale"
-      },
-      {
-        "title": "Peccioli, 235 milioni di ricavi con una discarica diventata attrazione turistica",
-        "link": "https://www.ilsole24ore.com/art/peccioli-235-milioni-ricavi-una-discarica-diventata-attrazione-turistica-AJPpvlNB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 24 Sep 2026 14:41:00 GMT",
-        "excerpt": "La legge Pichetto sul nucleare sostenibile - si legge nell’articolo di Celestina Dominelli su Sole 24 Ore - non individua i siti delle future centrali. La localizzazione avverrà..."
-      },
-      {
-        "title": "Arrestato Riccardo Bossi, deve scontare 5 anni e 9 mesi",
-        "link": "https://www.ilsole24ore.com/art/arrestato-riccardo-bossi-deve-scontare-5-anni-e-9-mesi-AJm90oNB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 24 Sep 2026 14:03:00 GMT",
-        "excerpt": "Il primogenito del fondatore della Lega è stato portato nel carcere di Busto Arsizio"
-      },
-      {
-        "title": "Agenzie, sindacati in pressing sugli incentivi al personale: canale aperto per un dialogo con Leo",
-        "link": "https://www.ilsole24ore.com/art/agenzie-sindacati-pressing-incentivi-personale-canale-aperto-un-dialogo-leo-AJ3KYmNB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Thu, 24 Sep 2026 13:35:23 GMT",
-        "excerpt": "Sindacati di Entrate e Dogane in pressing per discutere delle nuove regole di attribuzione del fondo di incentivazione del personale previste dalla legge di Bilancio 2026. L’incontro svoltosi al dipartimento..."
       }
     ],
     "europa": [
+      {
+        "title": "Alla cena per Xi il gotha dell’industria tech Usa: Musk, Huang,  Altman. Le first lady rubano la scena",
+        "link": "https://www.ilsole24ore.com/art/alla-cena-xi-gotha-dell-industria-tech-usa-musk-huang-altman-first-lady-rubano-scena-AJ5eAfOB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Fri, 25 Sep 2026 06:13:06 GMT",
+        "excerpt": "Dalla corsa all’intelligenza artificiale alle catene di approvvigionamento, fino ai colossi tecnologici esclusi dal mercato cinese: la cena di Stato offerta alla Casa Bianca in onore del presidente Xi Jinping..."
+      },
       {
         "title": "Nyt: paradossale che stampa Usa sia fuori da Casa Bianca, quella cinese dentro",
         "link": "https://www.ilsole24ore.com/art/nyt-paradossale-che-stampa-usa-7sia-fuori-casa-bianca-quella-cinese-dentro-AJl8gdOB",
@@ -332,13 +339,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Thu, 24 Sep 2026 07:09:00 GMT",
         "excerpt": "Quinto viaggio apostolico di Prevost dal 25 28 settembre. Parigi, (compresa l’Unesco), Lourdes e Metz, patria di Schuman"
-      },
-      {
-        "title": "Attore francese 43enne sottoposto a eutanasia in Belgio per dolori post-operatori",
-        "link": "https://www.ilsole24ore.com/art/attore-francese-43enne-sottoposto-eutanasia-belgio-dolori-post-operatori-AJnrcINB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Thu, 24 Sep 2026 06:54:50 GMT",
-        "excerpt": "L’attore di teatro francese Arnaud Denis, gravemente invalido dopo un’operazione di impianto enti-ernia, si è sottoposto ad eutanasia in Belgio all’età di 43 anni per mettere fine alle sue sofferenze,..."
       }
     ],
     "usa": [
@@ -401,6 +401,27 @@
     ],
     "mondo": [
       {
+        "title": "Il Papa in Francia, Éric-Emmanuel Schmitt: “Tutti curiosi di Leone, l’assenza di Francesco spiazzò”",
+        "link": "https://www.repubblica.it/esteri/2026/09/25/news/cattolicesimo_in_francia_eric_emmanuel_schmitt_intervista_papa_leone-425606348/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Fri, 25 Sep 2026 08:39:00 +0200",
+        "excerpt": "Il drammaturgo, figura di spicco del cattolicesimo d’Oltralpe, parla del viaggio di Prevost che inizia oggi: “La sua enciclica sull’intelligenza artificiale una forma di resistenza umana che riconosciamo in esempi della "
+      },
+      {
+        "title": "Media, 'l'Iran ha proposto agli Usa un piano da 7 giorni per la tregua'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/25/media-liran-ha-proposto-agli-usa-un-piano-da-7-giorni-per-la-tregua_cc53e56b-ff65-4098-9ca3-d0974dee139f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 25 Sep 2026 08:32:31 +0200",
+        "excerpt": "Araghchi, 'se Washington dà l'ok noi ci siamo. Meglio trovare accordo prima di midterm'"
+      },
+      {
+        "title": "Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities-4916502",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-25 06:24:26",
+        "excerpt": ""
+      },
+      {
         "title": "Tagli Volkswagen in Messico, licenziati in totale oltre mille operai",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/tagli-volkswagen-in-messico-licenziati-in-totale-oltre-mille-operai_6ceeb12c-3d5d-4a5b-9f22-8b51e97ef606.html",
         "source": "ANSA Mondo",
@@ -427,13 +448,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 25 Sep 2026 04:34:10 +0200",
         "excerpt": "Arrestate 30 persone legate al cartello messicano Jalisco"
-      },
-      {
-        "title": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities-4916502",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 02:30:32",
-        "excerpt": ""
       },
       {
         "title": "Xi: 'Cina e Usa devono esplorare un nuovo modello di convivenza tra grandi nazioni'",
@@ -478,13 +492,6 @@
         "excerpt": "Subentra dal 28 settembre a Camilo Barco alla guida del gruppo petrolifero"
       },
       {
-        "title": "Messico e Corea del Sud, piano di cooperazione fino al 2030",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/messico-e-corea-del-sud-piano-di-cooperazione-fino-al-2030_1bd9c98c-c4f2-407c-a07b-57db97e8d4b4.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 25 Sep 2026 02:24:35 +0200",
-        "excerpt": "Firmati 17 accordi, intesa su difesa, petrolio, intelligenza artificiale e investimenti"
-      },
-      {
         "title": "Europa e Paesi del Golfo, alleanza per il futuro: “È urgente accelerare”",
         "link": "https://www.repubblica.it/esteri/2026/09/25/news/europa_paesi_golfo_alleanza_futuro-425606056/?rss",
         "source": "Repubblica Esteri",
@@ -527,13 +534,6 @@
         "excerpt": "La first lady americana sui suoi anni in Slovenia: “Certo, dovevo stare attenta a certe cose e non ero libera come qui, ma onestamente, non mi è mai mancato nulla”"
       },
       {
-        "title": "Cassif, escluso dalle elezioni: “Vogliono spaventare gli elettori arabi, la Corte ci darà ragione”",
-        "link": "https://www.repubblica.it/esteri/2026/09/25/news/cassif_escluso_dalle_elezioni_vogliono_spaventare_gli_elettori_arabi_la_corte_ci_dara_ragione-425605505/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 25 Sep 2026 00:00:00 +0200",
-        "excerpt": "Israele, il deputato del partito della sinistra radicale Hadash commenta la decisione della Commissione elettorale di squalificare le liste arabe dalla consultazione del 27 ottobre: “Vorrebbero che il 20% del Paese non a"
-      },
-      {
         "title": "Oil prices settle up about 3% as Houthi attack on Saudi Arabia lifts supply fears",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-jump-4-as-houthis-fire-missiles-at-saudi-arabia-4915853",
         "source": "Investing.com Commodities",
@@ -571,6 +571,20 @@
     ]
   },
   "attualita": [
+    {
+      "title": "'L'Iran ha proposto agli Usa un piano da 7 giorni per la tregua'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/25/liran-ha-proposto-agli-usa-un-piano-da-7-giorni-per-la-tregua_abfcce73-5c3c-4c55-93df-efa91e3c3202.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 08:26:19 +0200",
+      "excerpt": "Araghchi: 'Se Washington dà l'ok noi ci siamo. Meglio trovare accordo prima di midterm'"
+    },
+    {
+      "title": "Truffa da 36 milioni al presidente di Fideuram: la richiesta da un finto numero di Messina (Intesa)",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/25/news/truffa_36_milioni_presidente_fideuram_molesini_whatsapp_finto_carlo_messina_intesa-425606314/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 06:13:49 +0000",
+      "excerpt": "Il raggiro tramite un messaggio whatsapp arrivata a Paolo Molesini da un account falso che fingeva di essere quello dell’ad di Intesa: inizialmente usciti 95 milioni"
+    },
     {
       "title": "Trump e Xi alla cena di Stato: “Fatta la storia, nuovo modello di convivenza”. Accesso negato ai giornalisti",
       "link": "https://www.repubblica.it/esteri/2026/09/25/news/trump_xi_cena_casa_bianca_giornalisti-425606249/",
@@ -626,20 +640,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
       "excerpt": "La novità in un decreto legge approvato in Cdm: “È urgente intervenire”"
-    },
-    {
-      "title": "“Legge elettorale o urne”, Meloni e la caccia ai sospetti tra liste di traditori e “spie”",
-      "link": "https://www.repubblica.it/politica/2026/09/25/news/legge_elettorale_urne_sospetti_meloni_liste_traditori_spie-425606127/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il piano della premier: se salta la riforma voto a gennaio, altrimenti elezioni in primavera. Striglia ministri e gruppi sulle assenze in aula"
-    },
-    {
-      "title": "Netanyahu all'Assemblea Onu mezza vuota: 'Un codardo chi è uscito'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/arriva-netanyahu-la-sala-dellonu-si-svuota-il-premier-israeliano-codardi_234fa594-d5e0-405b-a53b-b6f7bae3ba88.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 23:23:56 +0200",
-      "excerpt": "'Difendiamo anche voi. Coloni violenti? Giovani teppisti'. Sit-in pro-Pal, fermata Susan Sarandon"
     },
     {
       "title": "Proteste per Netanyahu all'Onu, arrestata Susan Sarandon",
