@@ -1,13 +1,55 @@
 {
-  "lastUpdated": "2026-09-25T16:08:55.065Z",
+  "lastUpdated": "2026-09-25T16:41:10.401Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Rottamazione di multe e bollo auto, aderiscono 1.500 Comuni. Al Nord il fronte del “no”",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/25/news/rottamazione_multe_bollo_auto_adesione_citta-425607409/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 25 Sep 2026 18:26:49 +0200",
+        "excerpt": "Tra le grandi città che hanno aderito ci sono Roma, Napoli, Bari, Palermo. Tra le Regioni solo Basilicata, Campania, Lazio, Puglia e Umbria"
+      },
+      {
+        "title": "Castagna, 'offerta di Mps purtroppo è a sconto e non a premio'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/castagna-offerta-di-mps-purtroppo-e-a-sconto-e-non-a-premio_93d50707-1010-4fe4-a132-3ccefaf83ce0.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 18:21:40 +0200",
+        "excerpt": "'Per passivity rule impossibilitati a fare delle nostre mosse'"
+      },
+      {
+        "title": "Webull collabora con i regolatori mentre il trading con l’AI evolve",
+        "link": "https://it.investing.com/news/stock-market-news/webull-collabora-con-i-regolatori-mentre-il-trading-con-lai-evolve-3563368",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 16:13:42",
+        "excerpt": ""
+      },
+      {
+        "title": "Dal 19 a 23 ottobre primo collocamento 'doppio' Btp Valore e Btp Valore Insieme",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/dal-19-a-23-ottobre-primo-collocamento-doppio-btp-valore-e-btp-valore-insieme_c0f5300f-0195-406f-9fe7-87a396219366.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 18:07:29 +0200",
+        "excerpt": "Il Mef: entrambi a 5 anni, ma con due piani cedolari diversi"
+      },
+      {
+        "title": "Lo spread Btp-Bund scende a 91 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/lo-spread-btp-bund-scende-a-91-punti_d6a1b92e-3102-472e-9787-b86833c6fb99.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 18:06:49 +0200",
+        "excerpt": "Il titolo italiano rende il 4,5% e quello tedesco il 3,59%"
+      },
       {
         "title": "I futures su gas in frenata, Ttf -4,2%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/i-futures-su-gas-in-frenata-ttf-42_ac3bf039-8aab-4025-9c13-466d764deefb.html",
         "source": "ANSA Economia",
         "pubDate": "Fri, 25 Sep 2026 18:00:41 +0200",
         "excerpt": "Il prezzo ad Amsterdam scende a 71,93 euro al megawattora"
+      },
+      {
+        "title": "Prestige Estates abbandona l’IPO Hospitality dopo l’investimento canadese",
+        "link": "https://it.investing.com/news/stock-market-news/prestige-estates-abbandona-lipo-hospitality-dopo-linvestimento-canadese-3563363",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 15:59:52",
+        "excerpt": ""
       },
       {
         "title": "Diesel, da domani si riduce lo sconto sulle accise. Eni, tetto ai prezzi su benzina e gasolio",
@@ -80,27 +122,6 @@
         "excerpt": ""
       },
       {
-        "title": "Saldi a Wall Street: 7 titoli USA decimati con potenziale del +180%",
-        "link": "https://it.investing.com/news/stock-market-news/saldi-a-wall-street-7-titoli-usa-decimati-con-potenziale-del-180-3563297",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 14:44:48",
-        "excerpt": ""
-      },
-      {
-        "title": "BofA alza il target su AMD a $720, TAM server CPU a $211 miliardi entro il 2030",
-        "link": "https://it.investing.com/news/stock-market-news/bofa-alza-il-target-su-amd-a-720-tam-server-cpu-a-211-miliardi-entro-il-2030-3563298",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 14:44:01",
-        "excerpt": ""
-      },
-      {
-        "title": "Rottamazione di multe e bollo auto, aderiscono 1.500 Comuni. Al Nord il fronte del “no”",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/25/news/rottamazione_multe_bollo_auto_adesione_citta-425607409/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 25 Sep 2026 16:17:49 +0200",
-        "excerpt": "Tra le grandi città che hanno aderito ci sono Roma, Napoli, Bari, Palermo. Tra le Regioni solo Basilicata, Campania, Lazio, Puglia e Umbria"
-      },
-      {
         "title": "Borsa: Europa rallenta, il petrolio continua a scendere",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/borsa-europa-rallenta-il-petrolio-continua-a-scendere_23f3a4e5-87ed-444b-a5d5-2d1e825283b4.html",
         "source": "ANSA Economia",
@@ -113,27 +134,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 25 Sep 2026 16:02:34 +0200",
         "excerpt": "Mascarino, \"il food è un motore per la crescita del Paese\""
-      },
-      {
-        "title": "Ue fissa a 2 euro la commissione di gestione sui pacchi extra-Ue",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/ue-fissa-a-2-euro-la-commissione-di-gestione-sui-pacchi-extra-ue_7fc938fa-c7ef-4168-8558-3ca334aa92f0.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 15:45:59 +0200",
-        "excerpt": "Atto delegato formalizza la 'handling fee', si aggiunge al dazio sui mini-pacchi"
-      },
-      {
-        "title": "Wall Street apre positiva, Dj a +0,15% e Nasdaq a +0,01%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/wall-street-apre-positiva-dj-a-015-e-nasdaq-a-001_a9d5740b-6011-4867-9d67-6bcc4b13f0ec.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 15:38:16 +0200",
-        "excerpt": "In leggero rialzo anche l'S 500 a +0,08%"
-      },
-      {
-        "title": "Accordo per l'integrativo Ferrero, welfare, investimenti e premio fino a 3.100 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/accordo-per-lintegrativo-ferrero-welfare-investimenti-e-premio-fino-a-3.100-euro_7a024e71-4e35-4395-8735-1412780bae8a.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 15:35:48 +0200",
-        "excerpt": "Interessati 7.000 lavoratori, voto sull'intesa"
       },
       {
         "title": "Grimaldi investe 1,5 miliardi in nove RoPax pronte per il net zero",
@@ -199,7 +199,7 @@
         "excerpt": "Il conto alla rovescia per la rottamazione quinquies delle entrate locali è cominciato. Per Imu, Tari, multe e bollo auto si apre la porta della sanatoria. In corso ci sono..."
       },
       {
-        "title": "Carburanti, Eni fissa il tetto di 2,19 euro al prezzo del gasolio, 1,99 per la benzina",
+        "title": "Eni introduce un price cap a 2,19 euro per il gasolio e 1,99 euro per la benzina dal 28 settembre",
         "link": "https://www.ilsole24ore.com/art/carburanti-urso-e-pichetto-convocano-operatori-raffinerie-aumentare-produzione-AJeCYnOB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 25 Sep 2026 08:10:00 GMT",
@@ -228,6 +228,13 @@
       }
     ],
     "europa": [
+      {
+        "title": "Galaxy Gaming amends credit agreement to raise capital expenditure limit",
+        "link": "https://www.investing.com/news/sec-filings/galaxy-gaming-amends-credit-agreement-to-raise-capital-expenditure-limit-93CH-4917866",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-25 16:12:51",
+        "excerpt": ""
+      },
       {
         "title": "Sterling Real Estate Trust updates unit redemption and trustee compensation plans",
         "link": "https://www.investing.com/news/sec-filings/sterling-real-estate-trust-updates-unit-redemption-and-trustee-compensation-plans-93CH-4917801",
@@ -303,13 +310,6 @@
         "link": "https://www.investing.com/news/sec-filings/nektar-therapeutics-awarded-90-million-in-jury-verdict-against-eli-lilly-93CH-4917324",
         "source": "Investing.com Eurozona",
         "pubDate": "2026-09-25 11:32:40",
-        "excerpt": ""
-      },
-      {
-        "title": "Box announces resignation of principal accounting officer Eli Berkovitch",
-        "link": "https://www.investing.com/news/sec-filings/box-announces-resignation-of-principal-accounting-officer-eli-berkovitch-93CH-4917152",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-25 10:35:31",
         "excerpt": ""
       },
       {
@@ -401,11 +401,46 @@
     ],
     "mondo": [
       {
+        "title": "L’assistente di Trump Natalie Harp si confessa col Washingtonian: “L'età è solo un numero”",
+        "link": "https://www.repubblica.it/esteri/2026/09/25/news/assistente_trump_natalie_harp_intervista_washingtonian-425607784/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Fri, 25 Sep 2026 18:36:56 +0200",
+        "excerpt": "L’intervista alla rivista mensile: \"L'epicentro del 'potere' non è Washington ma il Paradiso. Ascolto alcuni capitoli della Bibbia su un audiolibro e prego per la saggezza di Dio, che mi dia forza in qualsiasi situazione"
+      },
+      {
+        "title": "Media, tolto il divieto di ingresso per Machado in Venezuela",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/media-tolto-il-divieto-di-ingresso-per-machado-in-venezuela_901cf693-4eb7-4d0b-b0e2-b04a60d1a1ba.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 25 Sep 2026 18:27:51 +0200",
+        "excerpt": "Citata una fonte del governo di Delcy Rodríguez e un documento dell'ufficio immigrazione"
+      },
+      {
+        "title": "Natalie Harp si confessa col Washingtonian, 'l'età è solo un numero'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/25/natalie-harp-si-confessa-col-washingtonian-leta-e-solo-un-numero_67e6b126-0777-4de3-88de-18ac3586c65b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 25 Sep 2026 17:57:08 +0200",
+        "excerpt": "Assente dal benvenuto a Xi, 'la Bibbia per rilassarsi'"
+      },
+      {
         "title": "Spagna, milionario Usa comunista e pro-Pal fatto arrestare da Trump a Ibiza. Ma la sinistra insorge",
         "link": "https://www.repubblica.it/esteri/2026/09/25/news/fergie_chambers_spagna_milionario_usa_comunista_e_pro-pal_fatto_arrestare_da_trump-425607178/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Fri, 25 Sep 2026 17:54:27 +0200",
         "excerpt": "Per l’amministrazione americana James Cox \"Fergie\" Chambers avrebbe finanziato gruppi vicini ad Hamas. Primo ok di Madrid per l'estradizione ma c’è chi protesta: “E’ persecuzione politica”. Richard Gere, Greta Thunberg e"
+      },
+      {
+        "title": "Ft, gli Houthi promettono di non prendere di mira le navi europee",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/25/ft-gli-houthi-promettono-di-non-prendere-di-mira-le-navi-europee_992f0cdd-1557-461e-bcca-970c99192dbe.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 25 Sep 2026 17:52:15 +0200",
+        "excerpt": "In una lettera inviata al servizio diplomatico Ue"
+      },
+      {
+        "title": "Xi a Trump, 'presto altre due occasioni per vederci, all'Apec e al G20'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/25/xi-a-trump-presto-altre-due-occasioni-per-vederci-allapec-e-al-g20_4e51cd57-51f4-4b0e-8243-3ae6e75ad3d9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 25 Sep 2026 17:50:26 +0200",
+        "excerpt": "'Le prospettive delle relazioni tra Cina e Usa saranno sempre più luminose'"
       },
       {
         "title": "Usa, 'nostra posizione su Taiwan non è cambiata, vogliamo la pace nello Stretto'",
@@ -437,38 +472,10 @@
       },
       {
         "title": "Araghchi vede Lavrov, 'discussi sviluppi sul negoziato e accordo Hormuz con Oman'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/25/araghchi-vede-lavrov-discussi-sviluppi-sul-negoziato-e-accordo-hormuz-con_3eb6c2dc-ea6e-4391-851a-6f5a1b7d32b2.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 25 Sep 2026 16:37:10 +0200",
-        "excerpt": "Nel corso dell'incontro il ministro iraniano ha elogiato 'posizione responsabile' Russia"
-      },
-      {
-        "title": "Araghchi vede Lavrov, 'discussi sviluppi sul negoziato e accordo Hormuz con Oman'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/25/araghchi-vede-lavrov-discussi-sviluppi-sul-negoziato-e-accordo-hormuz-con_e04a1ac6-52dc-4503-92a2-20258e9f9ff0.html",
         "source": "ANSA Mondo",
         "pubDate": "Fri, 25 Sep 2026 16:37:07 +0200",
         "excerpt": "Nel corso dell'incontro il ministro iraniano ha elogiato 'posizione responsabile' Russia"
-      },
-      {
-        "title": "Ex alleata di Trump, 'ci ha tradito, il movimento Maga è morto'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/25/ex-alleata-di-trump-ci-ha-tradito-il-movimento-maga-e-morto_d3574149-e5c1-481c-9e75-d36bc700a73a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 25 Sep 2026 16:32:54 +0200",
-        "excerpt": "Greene critica, 'non vedo un candidato credibile per il 2028 da nessuna parte'"
-      },
-      {
-        "title": "Allerta maltempo per 40 milioni di americani, venti e piogge da New York a Boston",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/25/allerta-maltempo-per-40-milioni-di-americani-venti-e-piogge-da-new-york-a-boston_7e9262c1-c6f5-46d6-ab65-8a0367f3e6ba.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 25 Sep 2026 16:30:46 +0200",
-        "excerpt": "Mamdani, 'pronti a rispondere alle emergenze'"
-      },
-      {
-        "title": "Von der Leyen, 'con l'intesa sui 6,6 miliardi dell'Epf aumenta il sostegno a Kiev'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/25/von-der-leyen-con-lintesa-sui-66-miliardi-dellepf-aumenta-il-sostegno_e44f66e6-55ba-4425-a20f-9104927a4a42.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 25 Sep 2026 16:28:56 +0200",
-        "excerpt": "'Molto presto stop altri aiuti dall'Ue'"
       },
       {
         "title": "Details on US, China trade talks to come on Monday, says Greer",
@@ -560,17 +567,31 @@
         "source": "Repubblica Esteri",
         "pubDate": "Fri, 25 Sep 2026 05:58:07 +0200",
         "excerpt": "Dopo il vertice la serata di gala alla Casa Bianca, tra gli invitati i rappresentanti delle big tech americane. Evento non trasmesso in tv, prosegue il braccio di ferro tra il tycoon e le principali emittenti dopo il pas"
-      },
-      {
-        "title": "Europa e Paesi del Golfo, alleanza per il futuro: “È urgente accelerare”",
-        "link": "https://www.repubblica.it/esteri/2026/09/25/news/europa_paesi_golfo_alleanza_futuro-425606056/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 25 Sep 2026 01:00:00 +0200",
-        "excerpt": "I rapporti tra le due regioni, cruciali dopo la guerra in Iran, sono stati al centro dello Europe Gulf Forum di New York. Tra i protagonisti Blair, al Thani, Mitsotakis e, in video, Meloni"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Papa Leone alla Francia: 'Dialogo urgente per prevenire derive autoritarie'",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/09/25/il-papa-in-francia-oggi-a-parigi-tra-leliseo-lunesco-e-notre-dame_ff8b8f8e-c0fd-4908-ab1e-1b748b91c76c.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 18:21:19 +0200",
+      "excerpt": "'Fine vita, non si può offrire una morte programmata. Sostenere ogni tappa dell'esistenza, tutela della vita fondamento di ogni diritto'"
+    },
+    {
+      "title": "Supercoppa in gara secca e in Italia, Inter-Lazio il 22 dicembre a San Siro",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/25/news/supercoppa_inter_lazio_quando_si_gioca-425607711/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 15:59:41 +0000",
+      "excerpt": "Si torna alla partita unica dopo tre edizioni con la formula a quattro squadre"
+    },
+    {
+      "title": "Tetto stranieri scuola, 31mila in lista d’attesa nei Centri per gli adulti. “Decreto inapplicabile”",
+      "link": "https://bologna.repubblica.it/cronaca/2026/09/25/news/tetto_stranieri_scuola_liste_attesa_centri_adulti-425607706/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 15:57:24 +0000",
+      "excerpt": "L’obbligo per i genitori di studiare l’italiano si scontra con la mancanza di posti negli istituti (Cpia) che dovrebbero accoglierli"
+    },
     {
       "title": "L'Eni mette un tetto massimo sui carburanti: 2,19 euro per il gasolio, 1,99 per la benzina. Governo ringrazia",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html",
@@ -586,11 +607,11 @@
       "excerpt": "Il nuovo conduttore: “Dopo la nomina mi ha detto ‘se rinunci sei un grande’”. Giudice del lavoro si riserva sul ricorso contro la Rai"
     },
     {
-      "title": "Papa Leone alla Francia: 'Dialogo urgente per prevenire derive autoritarie'",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/09/25/il-papa-in-francia-oggi-a-parigi-tra-leliseo-lunesco-e-notre-dame_ff8b8f8e-c0fd-4908-ab1e-1b748b91c76c.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 17:26:19 +0200",
-      "excerpt": "'Fine vita, non si può offrire una morte programmata. Sostenere ogni tappa dell'esistenza, tutela della vita fondamento di ogni diritto'"
+      "title": "Euro 2032, Figc pronta ad inviare dossier stadi a Uefa. Poi la scelta dei cinque impianti",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/25/news/europei_2032_stadi_italia_figc_uefa_ultime_notizie-425607676/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 15:42:51 +0000",
+      "excerpt": "L’annuncio della federcalcio dopo il Consiglio federale. Sono 13 le città che hanno presentato la documentazione. Mercato invernale anticipato al 28 dicembre, si attende ok Fifa"
     },
     {
       "title": "Un tiro alla fune nel nucleo terrestre cambia la durata dei giorni",
@@ -640,27 +661,6 @@
       "source": "ANSA",
       "pubDate": "Fri, 25 Sep 2026 15:48:49 +0200",
       "excerpt": "Dei coltelli accanto ai resti umani di un uomo. L'allarme dato da una donna: 'Mio figlio ha fatto qualcosa di grave'"
-    },
-    {
-      "title": "Rottamazione di multe e bollo auto, aderiscono 1.500 Comuni. Al Nord il fronte del “no”",
-      "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/25/news/rottamazione_multe_bollo_auto_adesione_citta-425607409/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 13:48:41 +0000",
-      "excerpt": "Tra le grandi città che hanno aderito ci sono Roma, Napoli, Bari, Palermo. Tra le Regioni solo Basilicata, Campania, Lazio, Puglia e Umbria"
-    },
-    {
-      "title": "Russell, super pole a Baku. Leclerc in prima fila. Antonelli sbaglia, partirà 16°: “Sono arrabbiato”",
-      "link": "https://www.repubblica.it/sport/formulauno/2026/09/25/news/gp_baku_f1_pole_russell_errore_antonelli_cosa_e_successo-425607402/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 13:47:58 +0000",
-      "excerpt": "Il britannico della Mercedes domina le qualifiche in Azerbaigian staccando di quasi un secondo la Ferrari, sesto Hamilton. Errore di Kimi nel Q1"
-    },
-    {
-      "title": "Mancini tra nostalgia e futuro: “Divertiamo la gente e riconquistiamola”",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/mancini_stasera_italia_belgio-425607261/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 12:55:32 +0000",
-      "excerpt": "Il ct stasera al secondo debutto sulla panchina dell’Italia nello stesso stadio dove iniziò la cavalcata verso il titolo europeo. “Ho giovani mentalmente liberi, non pensano troppo, fanno quello che gli viene in mente”"
     },
     {
       "title": "Meta lancia occhiali intelligenti senza fotocamera basati sull'IA VIDEO",
@@ -742,18 +742,39 @@
   ],
   "sport": [
     {
+      "title": "America's Cup: entusiasmo e selfie per i napoletani sul pontone del Race Village",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/25/americas-cup-entusiasmo-e-selfie-per-i-napoletani-sul-pontone-del-race_4212a7e7-1601-4861-8d42-5cf3760c205d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 18:06:46 +0200",
+      "excerpt": "Lo spazio ideato e realizzato da Sport e Salute aperto per la prima volta ai visitatori"
+    },
+    {
+      "title": "Calcio: la Supercoppa si giocherà a Milano il 22 dicembre",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/25/calcio-la-supercoppa-si-giochera-a-milano-il-22-dicembre_ad063053-2948-4452-abf5-70d063945a5c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 18:06:05 +0200",
+      "excerpt": "Lo ha deciso il Cda della Lega di serie A"
+    },
+    {
+      "title": "Frosinone: Grillitsch operato, stop per almeno un mese",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/frosinone-grillitsch-operato-stop-per-almeno-un-mese_3aa1ce2f-e0ab-46fd-96d7-9618483a1304.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 18:02:54 +0200",
+      "excerpt": "Intervento di ernioplastica a Vienna per il centrocampista austriaco"
+    },
+    {
+      "title": "Media Gb: 'City colpevole di quasi tutte le 115 infrazioni finanziarie'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/media-gb-city-colpevole-di-quasi-tutte-le-115-infrazioni-finanziarie_45886cec-bfda-4f91-898d-7a92ceffd31b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 18:01:10 +0200",
+      "excerpt": "Il club ora rischia pesanti sanzioni da parte della Premier League"
+    },
+    {
       "title": "Figc: Calcagno 'sostegno a Malagò, è situazione paradossale'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/figc-calcagno-sostegno-a-malago-e-situazione-paradossale_51dab507-3461-4065-800a-273a12a34c5d.html",
       "source": "ANSA Sport",
       "pubDate": "Fri, 25 Sep 2026 17:58:57 +0200",
       "excerpt": "N.1 Aic: \"procedimento elettorale e' stato fatto nella giusta modalità\""
-    },
-    {
-      "title": "Media Gb, 'City colpevole di quasi tutte le 115 infrazioni finanziarie'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/media-gb-city-colpevole-di-quasi-tutte-le-115-infrazioni-finanziarie_45886cec-bfda-4f91-898d-7a92ceffd31b.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 17:47:42 +0200",
-      "excerpt": "Il club ora rischia pesanti sanzioni da parte della Premier League"
     },
     {
       "title": "America's Cup: Luna Rossa senior domina e vince la seconda regata di flotta",
@@ -763,13 +784,6 @@
       "excerpt": "L'AC40 italiano precede gli svizzeri di Alinghi. Caduta in acqua per La Roche-Posay"
     },
     {
-      "title": "Frosinone: Grillitsch operato, stop per almeno un mese",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/frosinone-grillitsch-operato-stop-per-almeno-un-mese_3aa1ce2f-e0ab-46fd-96d7-9618483a1304.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 17:43:38 +0200",
-      "excerpt": "Intervento di ernioplastica a Vienna per il centrocampista austriaco"
-    },
-    {
       "title": "Figc: Ulivieri 'nostro sostegno totale a Malagò'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/figc-ulivieri-nostro-sostegno-totale-a-malago_972c4451-7d30-434f-bf68-3bbce69caa29.html",
       "source": "ANSA Sport",
@@ -777,25 +791,11 @@
       "excerpt": "N.1 Aiac: \"Ipotesi commissariamento preoccupa, se si fa questione morale si sbaglia\""
     },
     {
-      "title": "Evenepoel per il bis, i Mondiali di ciclismo al rush finale",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/25/evenepoel-per-il-bis-i-mondiali-di-ciclismo-al-rush-finale_d077173c-7cbc-4164-89ab-af254ced713f.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 17:23:09 +0200",
-      "excerpt": "A Montreal le prove in linea. Tra gli uomini spicca Seixas, Longo Borghini punta il podio"
-    },
-    {
       "title": "America's Cup: Arc Team Usa vince la prima prova di flotta davanti a Luna Rossa",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/25/americas-cup-arc-team-usa-vince-la-prima-prova-di-flotta-davanti_c3934ef7-5d79-4679-9f64-0c26e77fb4e4.html",
       "source": "ANSA Sport",
       "pubDate": "Fri, 25 Sep 2026 17:13:09 +0200",
       "excerpt": "Gli statunitensi sorprendono tutti nel Golfo. A breve la seconda regata"
-    },
-    {
-      "title": "Doping: argento olimpico 100 ostacoli a Parigi, Samba-Mayela ora rischia due anni",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/25/doping-argento-olimpico-100-ostacoli-a-parigi-samba-mayela-ora-rischia_1f10228d-6892-4249-8841-c3c8a494001c.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 17:10:20 +0200",
-      "excerpt": "Velocista francese non reperibile a tre controlli antidoping di seguito"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
