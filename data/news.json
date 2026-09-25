@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-25T22:07:26.349Z",
+  "lastUpdated": "2026-09-25T22:38:23.614Z",
   "finanza": {
     "italia": [
+      {
+        "title": "“Solo 10 minuti di carburante”: l’incidente sfiorato sul Ryanair Pisa-Prestwick, cosa è successo",
+        "link": "https://www.repubblica.it/economia/2026/09/25/news/volo_ryanair_pisa_manchester_carburante-425607652/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 26 Sep 2026 00:37:46 +0200",
+        "excerpt": "Conclusa l’indagine sul volo costretto ad atterrare a Manchester in emergenza con il serbatoio quasi a secco. Un passeggero italiano a bordo dice a Repubblica: “Sono scioccato”"
+      },
+      {
+        "title": "Moody's, Italia resiliente a shock energia, quest'anno pil +0,8%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/moodys-italia-resiliente-a-shock-energia-questanno-pil-08_84306d2a-f8c6-462b-9347-ab0f655f9d1b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 26 Sep 2026 00:21:37 +0200",
+        "excerpt": "Deficit al 3% nel 2026, al 2,9% nel 2027"
+      },
       {
         "title": "TFP Group presenta domanda di IPO alla Borsa di New York",
         "link": "https://it.investing.com/news/stock-market-news/tfp-group-presenta-domanda-di-ipo-alla-borsa-di-new-york-3563562",
@@ -15,13 +29,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-25 21:08:07",
         "excerpt": ""
-      },
-      {
-        "title": "Moody's, Italia resiliente a shock energia, quest'anno pil +0,8%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/moodys-italia-resiliente-a-shock-energia-questanno-pil-08_84306d2a-f8c6-462b-9347-ab0f655f9d1b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 23:02:36 +0200",
-        "excerpt": "Deficit al 3% nel 2026, al 2,9% nel 2027"
       },
       {
         "title": "Perché il titolo Circle Internet sta scendendo oggi?",
@@ -85,13 +92,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 25 Sep 2026 22:03:49 +0200",
         "excerpt": "Il governo ringrazia, ma Assotir evoca lo sciopero. Petrolieri convocati per raffinare di più"
-      },
-      {
-        "title": "“Solo 10 minuti di carburante”: l’incidente sfiorato sul Ryanair Pisa-Prestwick, cosa è successo",
-        "link": "https://www.repubblica.it/economia/2026/09/25/news/volo_ryanair_pisa_manchester_carburante-425607652/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 25 Sep 2026 19:57:20 +0200",
-        "excerpt": "Conclusa l’indagine sul volo costretto ad atterrare a Manchester in emergenza con il serbatoio quasi a secco. Un passeggero italiano a bordo dice a Repubblica: “Sono scioccato”"
       },
       {
         "title": "Caso Me contro Te e la denuncia dell’Antitrust: «I minori non sono un target commerciale»",
@@ -230,6 +230,27 @@
     "europa": [
       {
         "title": "Marygold Companies to be taken private by Madison Dearborn Partners in all-cash deal",
+        "link": "https://www.investing.com/news/sec-filings/marygold-companies-to-be-taken-private-by-madison-dearborn-partners-in-allcash-deal-93CH-4918240",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-25 22:02:00",
+        "excerpt": ""
+      },
+      {
+        "title": "Tidewater enters guarantee agreement for BNDES construction loans",
+        "link": "https://www.investing.com/news/sec-filings/tidewater-enters-guarantee-agreement-for-bndes-construction-loans-93CH-4918228",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-25 21:58:19",
+        "excerpt": ""
+      },
+      {
+        "title": "Marygold Companies enters agreement to go private in deal with Madison Dearborn",
+        "link": "https://www.investing.com/news/sec-filings/marygold-companies-enters-agreement-to-go-private-in-deal-with-madison-dearborn-93CH-4918226",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-25 21:54:41",
+        "excerpt": ""
+      },
+      {
+        "title": "Marygold Companies to be taken private by Madison Dearborn Partners in all-cash deal",
         "link": "https://www.investing.com/news/sec-filings/marygold-companies-to-be-taken-private-by-madison-dearborn-partners-in-allcash-deal-93CH-4918224",
         "source": "Investing.com Eurozona",
         "pubDate": "2026-09-25 21:49:04",
@@ -261,27 +282,6 @@
         "link": "https://www.investing.com/news/sec-filings/marygold-companies-to-go-private-in-deal-with-madison-dearborn-partners-93CH-4918207",
         "source": "Investing.com Eurozona",
         "pubDate": "2026-09-25 21:32:42",
-        "excerpt": ""
-      },
-      {
-        "title": "Co-Diagnostics annual meeting adjourned again due to lack of quorum",
-        "link": "https://www.investing.com/news/sec-filings/codiagnostics-annual-meeting-adjourned-again-due-to-lack-of-quorum-93CH-4918183",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-25 21:22:26",
-        "excerpt": ""
-      },
-      {
-        "title": "Genco Shipping extends shareholder rights agreement to September 2027",
-        "link": "https://www.investing.com/news/sec-filings/genco-shipping-extends-shareholder-rights-agreement-to-september-2027-93CH-4918179",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-25 21:18:45",
-        "excerpt": ""
-      },
-      {
-        "title": "AerSale completes redomestication from Delaware to Texas, stock trading unaffected",
-        "link": "https://www.investing.com/news/sec-filings/aersale-completes-redomestication-from-delaware-to-texas-stock-trading-unaffected-93CH-4918172",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-25 21:14:45",
         "excerpt": ""
       },
       {
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Venezuela’s promised elections face long delays, sources say",
+        "link": "https://www.investing.com/news/commodities-news/venezuelas-promised-elections-face-long-delays-sources-say-4918243",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-25 22:13:30",
+        "excerpt": ""
+      },
+      {
+        "title": "La vignetta di Ellekappa: la strategia di Putin",
+        "link": "https://www.repubblica.it/esteri/2026/09/26/news/la_vignetta_di_ellekappa_la_strategia_di_putin-425608194/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 26 Sep 2026 00:01:00 +0200",
+        "excerpt": ""
+      },
+      {
         "title": "Gold slips 2% for the week amid rise in dollar and yields, boost to Fed hike bets",
         "link": "https://www.investing.com/news/commodities-news/gold-edges-lower-set-for-weekly-loss-as-oil-fuels-fed-hike-bets-4916501",
         "source": "Investing.com Commodities",
@@ -492,13 +506,6 @@
         "excerpt": ""
       },
       {
-        "title": "Natural Gas holds uptrend at $3.162 with pullback risk: Live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 19:18:11",
-        "excerpt": ""
-      },
-      {
         "title": "Putin, 'eravamo pronti a riprendere i negoziati ma dopo raid ucraini ci rifletteremo'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/25/putin-eravamo-pronti-a-riprendere-i-negoziati-ma-dopo-raid-ucraini-ci-rifletteremo_c12311ab-f509-4994-acce-1e7c904b15ef.html",
         "source": "ANSA Mondo",
@@ -560,13 +567,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Fri, 25 Sep 2026 09:12:19 +0200",
         "excerpt": "Il nuovo premier britannico non ha escluso la clamorosa svolta. Mentre si accumulano coincidenze sospette, come un articolo pro-Ue di Tony Blair e la tentazione di elezioni anticipate. La furia dei tabloid: “Tradimento”"
-      },
-      {
-        "title": "Il Papa in Francia, Éric-Emmanuel Schmitt: “Tutti curiosi di Leone, l’assenza di Francesco spiazzò”",
-        "link": "https://www.repubblica.it/esteri/2026/09/25/news/cattolicesimo_in_francia_eric_emmanuel_schmitt_intervista_papa_leone-425606348/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 25 Sep 2026 08:39:00 +0200",
-        "excerpt": "Il drammaturgo, figura di spicco del cattolicesimo d’Oltralpe, parla del viaggio di Prevost che inizia oggi: “La sua enciclica sull’intelligenza artificiale una forma di resistenza umana che riconosciamo in esempi della "
       }
     ]
   },
