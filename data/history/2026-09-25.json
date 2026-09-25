@@ -4,11 +4,39 @@
   "finanza": {
     "italia": [
       {
+        "title": "TFP Group presenta domanda di IPO alla Borsa di New York",
+        "link": "https://it.investing.com/news/stock-market-news/tfp-group-presenta-domanda-di-ipo-alla-borsa-di-new-york-3563562",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 21:24:35",
+        "excerpt": ""
+      },
+      {
+        "title": "L’indagine di OpenAI rivela interazioni AI oltre i limiti previsti",
+        "link": "https://it.investing.com/news/stock-market-news/lindagine-di-openai-rivela-interazioni-ai-oltre-i-limiti-previsti-3563549",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 21:08:07",
+        "excerpt": ""
+      },
+      {
         "title": "Moody's, Italia resiliente a shock energia, quest'anno pil +0,8%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/moodys-italia-resiliente-a-shock-energia-questanno-pil-08_84306d2a-f8c6-462b-9347-ab0f655f9d1b.html",
         "source": "ANSA Economia",
         "pubDate": "Fri, 25 Sep 2026 23:02:36 +0200",
         "excerpt": "Deficit al 3% nel 2026, al 2,9% nel 2027"
+      },
+      {
+        "title": "Perché il titolo Circle Internet sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-circle-internet-sta-scendendo-oggi-93CH-3563536",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 20:53:59",
+        "excerpt": ""
+      },
+      {
+        "title": "RegenLab punta al Nasdaq con ticker RGNA e ricavi oltre $29 milioni",
+        "link": "https://it.investing.com/news/stock-market-news/regenlab-punta-al-nasdaq-con-ticker-rgna-e-ricavi-oltre-29-milioni-3563535",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 20:50:22",
+        "excerpt": ""
       },
       {
         "title": "Il titolo Circle cede dopo le dimissioni del CFO e l’uscita del co-fondatore",
@@ -394,37 +422,44 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-25 14:44:48",
         "excerpt": ""
-      },
-      {
-        "title": "BofA alza il target su AMD a $720, TAM server CPU a $211 miliardi entro il 2030",
-        "link": "https://it.investing.com/news/stock-market-news/bofa-alza-il-target-su-amd-a-720-tam-server-cpu-a-211-miliardi-entro-il-2030-3563298",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 14:44:01",
-        "excerpt": ""
-      },
-      {
-        "title": "Eni introduce tetti di prezzo sui carburanti in Italia dal 28 settembre",
-        "link": "https://it.investing.com/news/stock-market-news/eni-introduce-tetti-di-prezzo-sui-carburanti-in-italia-dal-28-settembre-93CH-3563290",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 14:36:33",
-        "excerpt": ""
-      },
-      {
-        "title": "Adarx Pharmaceuticals assegna il 55% dell’IPO a 10 investitori",
-        "link": "https://it.investing.com/news/stock-market-news/adarx-pharmaceuticals-assegna-il-55-dellipo-a-10-investitori-93CH-3563288",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 14:34:47",
-        "excerpt": ""
-      },
-      {
-        "title": "Diesel, da domani si riduce lo sconto sulle accise. Eni, tetto ai prezzi su benzina e gasolio",
-        "link": "https://www.repubblica.it/economia/2026/09/25/news/eni_tetto_prezzi_benzina_diesel-425607530/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 25 Sep 2026 16:32:56 +0200",
-        "excerpt": "Il price cap scatterà dal 28 settembre con la possibilità di una estensione fino a fine anno."
       }
     ],
     "europa": [
+      {
+        "title": "AerSale completes redomestication from Delaware to Texas, stock trading unaffected",
+        "link": "https://www.investing.com/news/sec-filings/aersale-completes-redomestication-from-delaware-to-texas-stock-trading-unaffected-93CH-4918172",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-25 21:14:45",
+        "excerpt": ""
+      },
+      {
+        "title": "Dragonfly Energy Holdings appoints MaloneBailey as new auditor",
+        "link": "https://www.investing.com/news/sec-filings/dragonfly-energy-holdings-appoints-malonebailey-as-new-auditor-93CH-4918168",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-25 21:09:21",
+        "excerpt": ""
+      },
+      {
+        "title": "Sanuwave Health receives Nasdaq notice for not meeting $50 million market value",
+        "link": "https://www.investing.com/news/sec-filings/sanuwave-health-receives-nasdaq-notice-for-not-meeting-50-million-market-value-93CH-4918165",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-25 21:05:38",
+        "excerpt": ""
+      },
+      {
+        "title": "Ocean Power Technologies amends convertible notes and warrant terms",
+        "link": "https://www.investing.com/news/sec-filings/ocean-power-technologies-amends-convertible-notes-and-warrant-terms-93CH-4918155",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-25 21:01:00",
+        "excerpt": ""
+      },
+      {
+        "title": "BitGo Holdings chief operating officer Jody Mettler to step down in October",
+        "link": "https://www.investing.com/news/sec-filings/bitgo-holdings-chief-operating-officer-jody-mettler-to-step-down-in-october-93CH-4918144",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-25 20:56:59",
+        "excerpt": ""
+      },
       {
         "title": "Texas Pacific Land extends executive contracts and announces 2027 annual meeting date",
         "link": "https://www.investing.com/news/sec-filings/texas-pacific-land-extends-executive-contracts-and-announces-2027-annual-meeting-date-93CH-4918142",
@@ -1210,11 +1245,46 @@
   },
   "attualita": [
     {
+      "title": "È ancora azzurro tenebra, neanche Mancini rianima l'Italia ",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/e-ancora-azzurro-tenebra-neanche-mancini-rianima-litalia-_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 23:14:42 +0200",
+      "excerpt": "Dai fischi all'inno del Belgio a quelli alla nazionale: dominati e sconfitti 2-0 all'Olimpico"
+    },
+    {
+      "title": "Italia-Belgio, le pagelle azzurre: Romano sbaglia, Esposito timido. Tonali triste",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/pagelle_italia_belgio_tonali_kean_esposito-425608338/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 21:11:11 +0000",
+      "excerpt": "Promossi e bocciati della sfida di Nations League giocata all’Olimpico"
+    },
+    {
+      "title": "Troppo Belgio per l’Italia, il Mancini bis parte male: azzurri battuti 2-0 e fischiati",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/italia_belgio_gol-425608324/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 21:03:25 +0000",
+      "excerpt": "La squadra di Van Bommel domina il primo tempo e va avanti con Godts. Nella ripresa gli azzurri crescono ma Lukebakio chiude i giochi"
+    },
+    {
+      "title": "Zidane, buona la prima: la Francia vince 1-0 in Turchia. Mbappé segna e si fa male",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/25/news/turchia_francia_nations_league_mbappe-425608309/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 20:58:14 +0000",
+      "excerpt": "Alla prima panchina dopo 5 anni e 4 mesi, l'ex fuoriclasse della Juve fa subito centro grazie a un gol dell'attaccante del Real che, però, nel calciare si fa male al ginocchio. Rischia di non esserci contro l'Italia"
+    },
+    {
       "title": "Italia, una falsa partenza e una vera brutta figura: c’è ancora tanto da fare",
       "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/italia_belgio_commento-425608301/",
       "source": "Repubblica",
       "pubDate": "Fri, 25 Sep 2026 20:56:43 +0000",
       "excerpt": "Il ko con il belgio apre tanti interrogativi"
+    },
+    {
+      "title": "Ucciso e fatto a pezzi a Torino, fermate tre persone",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/ucciso-e-fatto-a-pezzi-a-torino-fermate-tre-persone_c2ab923a-e30d-4fa4-a689-0500dac697f5.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 22:27:30 +0200",
+      "excerpt": "Un uomo è indagato per omicidio, due donne per favoreggiamento e soppressione di cadavere"
     },
     {
       "title": "++ Ucciso e fatto a pezzi a Torino, fermate tre persone ++",
@@ -1593,44 +1663,23 @@
       "source": "Repubblica",
       "pubDate": "Fri, 25 Sep 2026 09:24:55 +0000",
       "excerpt": "Il difetto riguarda una vite a rischio corrosione, la sostituzione è gratuita. In Germania sono interessati complessivamente 954.387 veicoli"
-    },
-    {
-      "title": "Le first lady Melania e Peng rubano la scena alla cena di stato alla Casa Bianca",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/25/le-first-lady-melania-e-peng-rubano-la-scena-alla-cena-di-stato-alla_d976eddb-c4a6-4da9-b147-bad8fee8ad32.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 10:57:44 +0200",
-      "excerpt": "Camicetta bianca e pantaloni neri in broccato contro abito lungo rosso con maniche lunghe"
-    },
-    {
-      "title": "Btp Valore, dal 19 al 23 ottobre il primo doppio collocamento del Tesoro",
-      "link": "https://www.repubblica.it/economia/2026/09/25/news/btp_valore_ottobre_2026_prossima_emissione-425606678/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 08:56:51 +0000",
-      "excerpt": "Saranno emessi due diversi titoli dedicati al retail, entrambi con durata 5 anni ma piano cedolare differenziato: trimestrale o con cedola unica pagata alla scadenza. Il 16 ottobre i tassi minimi"
-    },
-    {
-      "title": "Sofia Goggia, due virus l’hanno debilitata in Argentina",
-      "link": "https://www.repubblica.it/sport/sci/2026/09/25/news/sofia_goggia_due_virus_esami_malore_argentina-425606671/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 08:53:41 +0000",
-      "excerpt": "Resi noti i risultati di una serie di esami a cui è stata sottoposta la campionessa azzurra dopo il rientro in Italia a causa dei malori che l’avevano colpita in Sud America"
-    },
-    {
-      "title": "Papa Leone XIV in Francia | Macron e Brigitte accolgono il pontefice",
-      "link": "https://www.repubblica.it/esteri/2026/09/25/diretta/papa_leone_xiv_in_francia__diretta-425606625/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 08:36:50 +0000",
-      "excerpt": "Campane suonano a festa in tutto il Paese. Il viaggio apostolico prevede tappe Parigi, Lourdes e Metz"
-    },
-    {
-      "title": "Papa Leone ai giornalisti dopo il blocco di Trump alla Casa Bianca: “Qui siete tutti benvenuti”",
-      "link": "https://www.repubblica.it/esteri/2026/09/25/news/papa_leone_francia_trump_giornalisti_casa_bianca_benvenuti-425606591/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 08:18:55 +0000",
-      "excerpt": "Il Pontefice saluta i cronisti al seguito sul volo da Roma a Parigi: “Penso che sia molto importante una buona copertura (giornalistica) e che l’abbiamo ovunque per tutti”. Ceuta, “è stata veramente una crisi umanitaria”"
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: Mbappe' segna ed esce, Francia preoccupata per l'infortunio",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-mbappe-segna-ed-esce-francia-preoccupata-per-linfortunio_872d067c-9687-47e6-b4f2-69ff929c2a9d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 23:27:01 +0200",
+      "excerpt": "Il fuoriclasse in gol contro la Turchia regala la vittoria all'esordio per Zidane ct"
+    },
+    {
+      "title": "È ancora azzurro tenebra, neanche Mancini rianima l'Italia ",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/e-ancora-azzurro-tenebra-neanche-mancini-rianima-litalia-_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 23:14:42 +0200",
+      "excerpt": "Dai fischi all'inno del Belgio a quelli alla nazionale: dominati e sconfitti 2-0 all'Olimpico"
+    },
     {
       "title": "Eurolega: Partizan-Armani Milano 92-76",
       "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/25/eurolega-partizan-armani-milano-92-76_b20e476e-7f4a-4fd5-b18a-1c5cbce1ef8a.html",
@@ -2036,20 +2085,6 @@
       "source": "ANSA Sport",
       "pubDate": "Thu, 24 Sep 2026 22:29:50 +0200",
       "excerpt": "All'Olimpico la prima di Nations League anche per scacciare le nubi del mancato Mondiale"
-    },
-    {
-      "title": "Bjk: Italia rischia con la Cina ma Errani e Paolini la portano in semifinale",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/24/bjk-italia-rischia-con-la-cina-ma-errani-e-paolini-la-portano-in-semifinale_ba81a2c0-f88f-4f69-92df-1aaf89bc3bef.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 22:21:30 +0200",
-      "excerpt": "A Shenzen decisivo il doppio. Prossima avversaria l'Ucraina sabato"
-    },
-    {
-      "title": "Eurovolley: delusione Italia, Manfredi 'avanti con De Giorgi, parleremo'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/24/eurovolley-delusione-italia-manfredi-avanti-con-de-giorgi-parleremo_dcac0a36-8b80-485c-a33d-284191c35e06.html",
-      "source": "ANSA Sport",
-      "pubDate": "Thu, 24 Sep 2026 22:18:39 +0200",
-      "excerpt": "Il presidente della Fipav: 'Il gruppo è compatto, avevamo appena rinnovato'"
     }
   ]
 }
