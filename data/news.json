@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-25T03:39:19.647Z",
+  "lastUpdated": "2026-09-25T04:08:01.907Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Perché il titolo Shimizu sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-shimizu-sta-scendendo-oggi-93CH-3562249",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 03:41:41",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo di Oracle Giappone è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-oracle-giappone-e-in-forte-rialzo-oggi-93CH-3562248",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 03:34:26",
+        "excerpt": ""
+      },
       {
         "title": "Le azioni asiatiche scivolano mentre i rendimenti salgono; vertice Trump-Xi offre poco sollievo",
         "link": "https://it.investing.com/news/stock-market-news/le-azioni-asiatiche-scivolano-mentre-i-rendimenti-salgono-vertice-trumpxi-offre-poco-sollievo-3562246",
@@ -57,20 +71,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 25 Sep 2026 04:00:00 +0200",
         "excerpt": "Gli italiani hanno pagato il 15% in più rispetto al 2025 e il caro carburante ha spaventato tutti. L’inflazione è la principale preoccupazione per sei italiani su dieci"
-      },
-      {
-        "title": "OpenAI presenterà GPT-6 Cyber nelle prossime settimane",
-        "link": "https://it.investing.com/news/stock-market-news/openai-presentera-gpt6-cyber-nelle-prossime-settimane-3562220",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 01:02:25",
-        "excerpt": ""
-      },
-      {
-        "title": "I futures azionari USA scendono con rendimenti e petrolio in rialzo",
-        "link": "https://it.investing.com/news/stock-market-news/i-futures-azionari-usa-scendono-con-rendimenti-e-petrolio-in-rialzo-3562218",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 00:53:39",
-        "excerpt": ""
       },
       {
         "title": "Lego investe 400 milioni di dollari in Messico",
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Gold steadies near $4,275, set for weekly loss as Fed hike bets rise",
+        "link": "https://www.investing.com/news/commodities-news/gold-edges-lower-set-for-weekly-loss-as-oil-fuels-fed-hike-bets-4916501",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-25 04:01:15",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump e Xi alla cena di Stato: “Fatta la storia, nuovo modello di convivenza”. Accesso negato ai giornalisti",
+        "link": "https://www.repubblica.it/esteri/2026/09/25/news/trump_xi_cena_casa_bianca_giornalisti-425606249/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Fri, 25 Sep 2026 05:58:07 +0200",
+        "excerpt": "Dopo il vertice la serata di gala alla Casa Bianca, tra gli invitati i rappresentanti delle big tech americane. Evento non trasmesso in tv, prosegue il braccio di ferro tra il tycoon e le principali emittenti dopo il pas"
+      },
+      {
         "title": "Blitz antidroga in Ecuador con il supporto degli Stati Uniti",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/blitz-antidroga-in-ecuador-con-il-supporto-degli-stati-uniti_b4dff47b-f88f-4222-9df3-5600c42fce2a.html",
         "source": "ANSA Mondo",
@@ -427,13 +441,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 25 Sep 2026 03:14:18 +0200",
         "excerpt": "'Con Trump scambi sinceri e approfonditi, intesa comune su molte questioni'"
-      },
-      {
-        "title": "Gold edges lower, set for weekly loss as oil fuels Fed hike bets",
-        "link": "https://www.investing.com/news/commodities-news/gold-edges-lower-set-for-weekly-loss-as-oil-fuels-fed-hike-bets-4916501",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 01:12:15",
-        "excerpt": ""
       },
       {
         "title": "Cuba, 'impossibile sostenere energeticamente la rete di telecomunicazioni'",
@@ -555,13 +562,6 @@
         "excerpt": ""
       },
       {
-        "title": "In centinaia protestano contro Netanyahu all’Onu: “Basta armi a Israele”. Arrestata Susan Sarandon",
-        "link": "https://www.repubblica.it/esteri/2026/09/24/news/new_york_onu_proteste_contro_netanyahu_arrestata_susan_sarandon-425605992/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Thu, 24 Sep 2026 22:08:00 +0200",
-        "excerpt": "La manifestazione organizzata da Jewish Voice for Peace contro Bibi è culminata con decine di fermi. Città blindata dal sindaco Mamdani"
-      },
-      {
         "title": "Natural Gas hits RSI 83.8 in parabolic surge: Live levels",
         "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
         "source": "Investing.com Commodities",
@@ -571,6 +571,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Trump e Xi alla cena di Stato: “Fatta la storia, nuovo modello di convivenza”. Accesso negato ai giornalisti",
+      "link": "https://www.repubblica.it/esteri/2026/09/25/news/trump_xi_cena_casa_bianca_giornalisti-425606249/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 03:43:11 +0000",
+      "excerpt": "Dopo il vertice la serata di gala alla Casa Bianca, tra gli invitati i rappresentanti delle big tech americane. Evento non trasmesso in tv, prosegue il braccio di ferro tra il tycoon e le principali emittenti dopo il pas"
+    },
     {
       "title": "Xi e Trump ostentano amicizia: 'Dobbiamo coesistere'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/24/xi-in-visita-negli-usa.-dovremmo-essere-partner-non-rivali.-trump-grande_f5995ac9-d14b-4d27-8567-50c599dca1e8.html",
@@ -626,13 +633,6 @@
       "source": "Repubblica",
       "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
       "excerpt": "Il piano della premier: se salta la riforma voto a gennaio, altrimenti elezioni in primavera. Striglia ministri e gruppi sulle assenze in aula"
-    },
-    {
-      "title": "Tasse, tutto il peso dell’Irpef su un terzo dei contribuenti. “Nove milioni pagano zero”",
-      "link": "https://www.repubblica.it/economia/2026/09/25/news/tasse_irpef_nove_milioni_pagano_zero-425606134/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il rapporto di Itinerari Previdenziali mostra l’asimmetria del sistema fiscale: un terzo degli italiani si sobbarca gran parte delle imposte, sono soprattutto dipendenti e pensionati"
     },
     {
       "title": "Netanyahu all'Assemblea Onu mezza vuota: 'Un codardo chi è uscito'",
