@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-09-25T19:07:00.297Z",
+  "lastUpdated": "2026-09-25T19:36:58.958Z",
   "finanza": {
     "italia": [
       {
         "title": "Poste all'85,82% di Tim al termine delle adesioni all'offerta",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/poste-all8582-di-tim-al-termine-delle-adesioni-allofferta_be8b8130-21bd-485a-8efd-ac51e8f1c7b6.html",
         "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 21:01:26 +0200",
+        "pubDate": "Fri, 25 Sep 2026 21:22:12 +0200",
         "excerpt": "Alla chiusura dei 5 giorni conferito l'82,25% delle azioni oggetto dell'Opas"
+      },
+      {
+        "title": "Perché il titolo Roblox sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-roblox-sta-scendendo-oggi-93CH-3563432",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 18:59:42",
+        "excerpt": ""
       },
       {
         "title": "Perché il titolo Humana è in forte rialzo oggi?",
@@ -63,13 +70,6 @@
         "link": "https://it.investing.com/news/stock-market-news/la-giuria-del-nuovo-messico-stabilisce-che-meta-ha-ingannato-i-residenti-dello-stato-3563407",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-25 17:44:27",
-        "excerpt": ""
-      },
-      {
-        "title": "Leader’s Advantage Acquisition Corp. chiude IPO da $150M sul Nasdaq",
-        "link": "https://it.investing.com/news/stock-market-news/leaders-advantage-acquisition-corp-chiude-ipo-da-150m-sul-nasdaq-432SI-3563405",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 17:43:02",
         "excerpt": ""
       },
       {
@@ -233,7 +233,7 @@
         "link": "https://www.ilsole24ore.com/art/incidente-militari-italiani-lettonia-esercitazione-quattro-feriti-AJipKdPB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 25 Sep 2026 18:24:00 GMT",
-        "excerpt": "Incidente per i militari italiani durante un addestramento Nato in Lettonia. Durante un’esercitazione a fuoco a Ādaži un veicolo con quattro militari dell’Esercito italiano è stato colpito da un’arma da..."
+        "excerpt": "Un veicolo militare italiano ha accidentalmente sparato su un altro durante un addestramento a Ādaži, causando feriti trasportati a Riga per cure urgenti."
       },
       {
         "title": "First Merchants Corp announces $100 million subordinated notes offering",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Oim, 'ad Haiti quasi 1,5 milioni di sfollati per le violenze'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/oim-ad-haiti-quasi-15-milioni-di-sfollati-per-le-violenze_8161b928-2794-4b63-9dab-66e6881fe68c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Fri, 25 Sep 2026 21:33:30 +0200",
+        "excerpt": "L'80% fuori dalla capitale, le bande armate avanzano nelle aree rurali"
+      },
+      {
         "title": "Oil prices drop about 3% as US, Iran explore path out of war",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities-4916502",
         "source": "Investing.com Commodities",
@@ -476,13 +483,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 25 Sep 2026 17:50:26 +0200",
         "excerpt": "'Le prospettive delle relazioni tra Cina e Usa saranno sempre più luminose'"
-      },
-      {
-        "title": "Usa, 'nostra posizione su Taiwan non è cambiata, vogliamo la pace nello Stretto'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/25/usa-nostra-posizione-su-taiwan-non-e-cambiata-vogliamo-la-pace-nello-stretto_9d386cd3-e0fb-4478-99ee-5f90b914cf92.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 25 Sep 2026 17:15:01 +0200",
-        "excerpt": "L'ambasciatore americano a Pechino: 'Vendita armi a Taipei? Trump ha una sua agenda'"
       },
       {
         "title": "Details on US, China trade talks to come on Monday, says Greer",
@@ -572,18 +572,25 @@
   },
   "attualita": [
     {
-      "title": "Nations League: Italia-Belgio 0-0 DIRETTA GOL e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-italia-belgio-0-0-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "title": "Incidente per militari italiani in esercitazione in Lettonia, 4 feriti",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/25/-incidente-per-militari-italiani-in-lettonia-durante-esercitazione-4-feriti-_aad36c78-16fd-466a-9424-d488e9c86ae7.html",
       "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 21:01:52 +0200",
+      "pubDate": "Fri, 25 Sep 2026 21:34:11 +0200",
+      "excerpt": "Uno in condizioni 'più serie'. Colpi accidentali di mitragliatrice da un corazzato a un altro"
+    },
+    {
+      "title": "Nations League: Italia-Belgio 0-1 DIRETTA GOL e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-italia-belgio-0-1-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 21:29:11 +0200",
       "excerpt": "Azzurri in attacco con Kean, Pio Esposito e Cambiaghi. Fischi per l'inno belga prima della partita"
     },
     {
-      "title": "Militari italiani feriti in Lettonia durante un'esercitazione, 4 soldati coinvolti",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/25/-incidente-per-militari-italiani-in-lettonia-durante-esercitazione-4-feriti-_aad36c78-16fd-466a-9424-d488e9c86ae7.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 20:46:54 +0200",
-      "excerpt": "Nessuno rischia la vita, uno più grave. Arma da fuoco su un veicolo ha colpito altro mezzo"
+      "title": "U2, la nuova era riparte dalle origini: il live tra i ragazzi della scuola dove tutto ebbe inizio",
+      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/25/news/u2_bono_concerto_scuola_dublino_50_anni_band-425608012/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 18:51:22 +0000",
+      "excerpt": "Il gruppo torna alla Mount Temple Comprehensive School, luogo della giovinezza, per festeggiare il 50ennale e lanciare il nuovo album “Carnaval de Luz”"
     },
     {
       "title": "Da domani gasolio più caro, l'Eni mette un tetto ai prezzi",
@@ -626,13 +633,6 @@
       "source": "ANSA",
       "pubDate": "Fri, 25 Sep 2026 18:34:49 +0200",
       "excerpt": "Il 29 Giornata Mondiale. Cardiologi, circa 80% eventi può essere evitato con prevenzione"
-    },
-    {
-      "title": "Tetto stranieri scuola, 31mila in lista d’attesa nei Centri per gli adulti. “Decreto inapplicabile”",
-      "link": "https://bologna.repubblica.it/cronaca/2026/09/25/news/tetto_stranieri_scuola_liste_attesa_centri_adulti-425607706/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 15:57:24 +0000",
-      "excerpt": "L’obbligo per i genitori di studiare l’italiano si scontra con la mancanza di posti negli istituti (Cpia) che dovrebbero accoglierli"
     },
     {
       "title": "Urto tra due treni tra Rignano e Pontassieve, prigionieri i pendolari a bordo",
@@ -742,10 +742,10 @@
   ],
   "sport": [
     {
-      "title": "Nations League: Italia-Belgio 0-0 DIRETTA GOL e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-italia-belgio-0-0-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "title": "Nations League: Italia-Belgio 0-1 DIRETTA GOL e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-italia-belgio-0-1-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
       "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 21:01:52 +0200",
+      "pubDate": "Fri, 25 Sep 2026 21:35:18 +0200",
       "excerpt": "Azzurri in attacco con Kean, Pio Esposito e Cambiaghi. Fischi per l'inno belga prima della partita"
     },
     {
