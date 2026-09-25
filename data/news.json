@@ -1,20 +1,83 @@
 {
-  "lastUpdated": "2026-09-25T09:08:09.532Z",
+  "lastUpdated": "2026-09-25T09:39:56.636Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Rete dei Comuni Sostenibili, 15 proposte per la sostenibilità e la Giornata EcoTrek",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/rete-dei-comuni-sostenibili-15-proposte-per-la-sostenibilita-e-la-giornata-ecotrek_b2e8bcf7-f335-45c4-b72d-9f0d457efdfe.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:31:29 +0200",
+        "excerpt": "Nuovi regolamenti per giovani e sostenitori a 11 anni da Agenda 2030"
+      },
+      {
+        "title": "Btp Valore, dal 19 al 23 ottobre il primo doppio collocamento del Tesoro",
+        "link": "https://www.repubblica.it/economia/2026/09/25/news/btp_valore_ottobre_2026_prossima_emissione-425606678/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:30:49 +0200",
+        "excerpt": "Saranno emessi due diversi titoli dedicati al retail, entrambi con durata 5 anni ma piano cedolare differenziato: trimestrale o con cedola unica pagata alla scadenza. Il 16 ottobre i tassi minimi"
+      },
+      {
+        "title": "Perché il titolo Tandem sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-tandem-sta-salendo-oggi-93CH-3562618",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 09:30:49",
+        "excerpt": ""
+      },
+      {
+        "title": "Urso, 'a breve un nuovo decreto imprese che riguarderà anche l'IA'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/urso-a-breve-un-nuovo-decreto-imprese-che-riguardera-anche-lia_3d04213f-f7e1-4e36-adf7-0705b31cb059.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:29:29 +0200",
+        "excerpt": "\"Vogliamo dare un preciso indirizzo e accelerare sulla robotica avanzata\""
+      },
+      {
+        "title": "Volkswagen e Audi richiamano quasi 3 milioni di veicoli: problemi allo sterzo. I modelli coinvolti",
+        "link": "https://www.repubblica.it/economia/2026/09/25/news/volkswagen_audi_richiamo_vite_sterzo_modelli_sostituzione-425606735/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:26:12 +0200",
+        "excerpt": "Il difetto riguarda una vite a rischio corrosione, la sostituzione è gratuita. In Germania sono interessati complessivamente 954.387 veicoli"
+      },
+      {
+        "title": "Urso e Pichetto convocano gli operatori delle raffinerie: 'Aumentare la produzione'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/urso-e-pichetto-convocano-gli-operatori-delle-raffinerie-aumentare-la-produzione_e20fb9b2-6a76-4817-b4b2-e3480be698cf.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:21:54 +0200",
+        "excerpt": "Per mitigare gli effetti del caro-energia"
+      },
+      {
+        "title": "Banca Ifis crolla del 12% dopo i rilievi della Banca d’Italia",
+        "link": "https://it.investing.com/news/stock-market-news/banca-ifis-crolla-del-12-dopo-i-rilievi-della-banca-ditalia-93CH-3562596",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 09:21:26",
+        "excerpt": ""
+      },
+      {
+        "title": "Mef, da 19 a 23 ottobre primo collocamento 'doppio' Btp Valore e Btp Valore Insieme",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/mef-da-19-a-23-ottobre-primo-collocamento-doppio-btp-valore-e-btp-valore-insieme_d55d6f31-633f-4fda-b09e-5703258a5011.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:16:50 +0200",
+        "excerpt": "Entrambi a 5 anni, ma con due piani cedolari diversi"
+      },
+      {
+        "title": "Dal 19 a 23 ottobre primo collocamento 'doppio' Btp Valore e Btp Valore Insieme",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/dal-19-a-23-ottobre-primo-collocamento-doppio-btp-valore-e-btp-valore-insieme_c0f5300f-0195-406f-9fe7-87a396219366.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:11:55 +0200",
+        "excerpt": "Il Mef: entrambi a 5 anni, ma con due piani cedolari diversi"
+      },
+      {
+        "title": "Legambiente, sbagliato sospendere stop ad euro 5",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/legambiente-sbagliato-sospendere-stop-ad-euro-5_de83ebd4-6f05-41fb-b412-d8e4b3993bd7.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:05:07 +0200",
+        "excerpt": "Basta inseguire emergenze con le deroghe e le proroghe"
+      },
       {
         "title": "Il fondo Usa RedBird, proprietario del Milan, scommette sui giornalisti-brand di Puck",
         "link": "https://www.repubblica.it/economia/2026/09/25/news/redbird_proprietario_milan_compra_maggioranza_puck_informazione-425606650/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Fri, 25 Sep 2026 11:00:20 +0200",
         "excerpt": "La società finanziaria di Gerry Cardinale si prepara a spendere 250 milioni di dollari per comprare la maggioranza del sito nato nel 2021. La testata ha soli grandi firme che raccontano in profondità i temi chiave. E gli"
-      },
-      {
-        "title": "Btp Valore, dal 19 al 23 ottobre il primo doppio collocamento del Tesoro",
-        "link": "https://www.repubblica.it/economia/2026/09/25/news/btp_valore_ottobre_2026_prossima_emissione-425606678/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 25 Sep 2026 10:56:51 +0200",
-        "excerpt": "Saranno emessi due diversi titoli dedicati al retail, entrambi con durata 5 anni ma piano cedolare differenziato: trimestrale o con cedola unica pagata alla scadenza"
       },
       {
         "title": "Associazioni terziario, bene eurodigitale ma azzerare commissioni micropagamenti",
@@ -66,32 +129,11 @@
         "excerpt": ""
       },
       {
-        "title": "Perché il titolo People sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-people-sta-salendo-oggi-93CH-3562513",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 08:39:49",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Banco BPM è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-banco-bpm-e-in-rialzo-oggi-93CH-3562507",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 08:35:40",
-        "excerpt": ""
-      },
-      {
         "title": "Prometeia rivede al rialzo Pil Italia, in 2026 +0,9% (2)",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/prometeia-rivede-al-rialzo-pil-italia-in-2026-09-2_fae54e22-8fac-449f-ab03-34a816c3592b.html",
         "source": "ANSA Economia",
         "pubDate": "Fri, 25 Sep 2026 10:29:11 +0200",
         "excerpt": ""
-      },
-      {
-        "title": "Prometeia rivede al rialzo Pil Italia, in 2026 +0,9%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/prometeia-rivede-al-rialzo-pil-italia-in-2025-09_4c88ff33-6bab-4c44-8707-c95d0cb32fbb.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 10:24:08 +0200",
-        "excerpt": "'Quadro più favorevole' soprattutto per consumi delle famiglie"
       },
       {
         "title": "Carburanti, Urso e Pichetto convocano operatori raffinerie: aumentare la produzione",
@@ -108,46 +150,11 @@
         "excerpt": "Messaggio del Presidente della Repubblica a Papa Leone XIV in vista del viaggio del Pontefice in Francia"
       },
       {
-        "title": "L'economia invisibile vale 197,6 miliardi, 'ruba 3.350 euro a ogni italiano'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/leconomia-invisibile-vale-1976-miliardi-ruba-3.350-euro-a-ogni-italiano_0a6a163d-b29c-4681-833d-953a1737d8ca.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 10:01:16 +0200",
-        "excerpt": "Focus Censis-Confcooperative su sommerso in Italia. Gardini: un macigno su debito pubblico"
-      },
-      {
-        "title": "Grimaldi, 2026 anno molto positivo, guardiamo al futuro con ottimismo",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/grimaldi-2026-anno-molto-positivo-guardiamo-al-futuro-con-ottimismo_bcc96b2d-3261-43f7-871d-9cde5e3afe84.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 09:56:44 +0200",
-        "excerpt": "Risultati forti in un contesto difficile, ma inferiori all'anno record 2025"
-      },
-      {
-        "title": "Prezzi benzina e gasolio stabili sulle strade, da domani si dimezza sconto accise",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/prezzi-benzina-e-gasolio-stabili-sulle-strade-da-domani-si-dimezza-sconto-accise_a31b920b-bc7c-4cae-a85e-0bed952c9825.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 09:53:42 +0200",
-        "excerpt": "In autostrada listini in rialzo per entrambi i carburanti"
-      },
-      {
-        "title": "Grimaldi, in crescita flotta e rotte, 30 con Asia nonostante tensioni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/grimaldi-in-crescita-flotta-e-rotte-30-con-asia-nonostante-tensioni_2aa32609-56be-4331-8cec-b03df8629a71.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 09:48:57 +0200",
-        "excerpt": "Nuove navi ConRo e Multipurpose per il trasporto di veicoli e container"
-      },
-      {
         "title": "Caro carburanti, convocati al Mimit gli operatori delle raffinerie: “Aumentare la produzione”",
         "link": "https://www.repubblica.it/economia/2026/09/25/news/caro_carburanti_convocati_mimit_operatori_raffinerie-425606504/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Fri, 25 Sep 2026 09:47:13 +0200",
         "excerpt": "I ministri Urso e Pichetto Fratin hanno fissato l’incontro per l’8 ottobre; l’invito è rivolto a Unem e ai rappresentanti di Sonatrach, Socar-Ip, Iplom, Kpi, Alma petroli, Ludoil/Isab, Eni, Saras e Innovhub."
-      },
-      {
-        "title": "Borsa: Milano allunga il passo e guadagna l'1,2%, in luce Stm",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/borsa-milano-allunga-il-passo-e-guadagna-l12-in-luce-stm_0101a596-4f7a-4ec7-8e7b-753b32c64186.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 09:47:11 +0200",
-        "excerpt": "In fondo al listino Tenaris e Fincantieri. Lo spread tra Btp e Bund a 92 punti"
       },
       {
         "title": "Guerra ibrida della Russia all’Italia e al Mediterraneo: social e giovanissimi nel mirino",
@@ -181,15 +188,15 @@
         "title": "Giorgetti: «Alleanza fra Stato e imprese per la crescita»",
         "link": "https://www.ilsole24ore.com/art/giorgetti-alleanza-stato-e-imprese-la-crescita-AJraXuNB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 06:36:39 GMT",
+        "pubDate": "Fri, 25 Sep 2026 06:36:00 GMT",
         "excerpt": "Le misure del Governo a favore della produzione vanno lette come additive rispetto a quelle finanziate con capitale proprio"
       },
       {
-        "title": "Competitività, coesione e istituzioni rinnovate per crescere dopo il Pnrr",
+        "title": "Competitività, coesione e istituzioni rinnovate: le tre «Leve per la crescita»",
         "link": "https://www.ilsole24ore.com/art/competitivita-coesione-e-istituzioni-rinnovate-crescere-il-pnrr-AJKUG3JB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 06:35:58 GMT",
-        "excerpt": "Nel nuovo Rapporto curato da Roberto Garofoli le tre «leve» indispensabili per tornare a uno sviluppo stabile e inclusivo"
+        "pubDate": "Fri, 25 Sep 2026 06:35:00 GMT",
+        "excerpt": "Nel nuovo Rapporto curato da Roberto Garofoli su impulso dell’Anci le ricette per rilanciare uno sviluppo stabile e inclusivo"
       },
       {
         "title": "Rc auto,  prezzo medio a 422 euro: +1,6% sul 2025",
@@ -218,13 +225,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 25 Sep 2026 01:00:00 +0200",
         "excerpt": "Il rapporto di Itinerari Previdenziali mostra l’asimmetria del sistema fiscale: un terzo degli italiani si sobbarca gran parte delle imposte, sono soprattutto dipendenti e pensionati"
-      },
-      {
-        "title": "Gli azionisti Mps a ottobre voteranno anche la fusione con Mediobanca",
-        "link": "https://www.repubblica.it/economia/2026/09/25/news/gli_azionisti_mps_a_ottobre_voteranno_anche_la_fusione_con_mediobanca-425606112/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 25 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il cda arricchisce l’ordine del giorno dell’assemblea cruciale sulla doppia Ops. Uno dei nuovi punti riguarda anche il trasferimento a Siena dell’intera quota di Generali. Ma il board si spacca, con sei astenuti"
       }
     ],
     "europa": [
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Gold on track for weekly loss as Fed hike bets rise, dollar weighs",
+        "link": "https://www.investing.com/news/commodities-news/gold-edges-lower-set-for-weekly-loss-as-oil-fuels-fed-hike-bets-4916501",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-25 09:08:43",
+        "excerpt": ""
+      },
+      {
+        "title": "Europe gas heads for worst week since mid-June amid profit-taking",
+        "link": "https://www.investing.com/news/commodities-news/europe-gas-heads-for-worst-week-since-midjune-amid-profittaking-4916922",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-25 08:57:51",
+        "excerpt": ""
+      },
+      {
         "title": "Zelensky, 'ok di Trump alle licenze per i Patriot'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/25/zelensky-ok-di-trump-alle-licenze-per-i-patriot_a0af2ebc-f4a0-4b1f-ba06-2b069eafd7bc.html",
         "source": "ANSA Mondo",
@@ -413,6 +427,13 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 25 Sep 2026 10:49:14 +0200",
         "excerpt": "'Me lo ha detto durante il nostro ultimo incontro'"
+      },
+      {
+        "title": "Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities-4916502",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-25 08:48:26",
+        "excerpt": ""
       },
       {
         "title": "Oil dips after sharp gains as U.S., Iran reportedly explore Hormuz deal",
@@ -513,27 +534,6 @@
         "excerpt": ""
       },
       {
-        "title": "Natural Gas surges to $3.173 with pullback risk rising: Live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-squeezed-near-2878-ahead-of-breakout-live-levels-93CH-4908351",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 07:11:54",
-        "excerpt": ""
-      },
-      {
-        "title": "Copper tests key $6.705-$6.720 support confluence: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/copper-hits-multimonth-high-near-680-resistance-live-levels-93CH-4908347",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 07:11:50",
-        "excerpt": ""
-      },
-      {
-        "title": "Gold breaks below key MAs, eyes $4,260 support: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/gold-wedged-in-43004450-range-live-breakout-levels-93CH-4908346",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 07:11:45",
-        "excerpt": ""
-      },
-      {
         "title": "Il Papa in Francia, Éric-Emmanuel Schmitt: “Tutti curiosi di Leone, l’assenza di Francesco spiazzò”",
         "link": "https://www.repubblica.it/esteri/2026/09/25/news/cattolicesimo_in_francia_eric_emmanuel_schmitt_intervista_papa_leone-425606348/?rss",
         "source": "Repubblica Esteri",
@@ -572,11 +572,32 @@
   },
   "attualita": [
     {
-      "title": "Il Papa in Francia, oggi a Parigi tra l'Eliseo, l'Unesco e Notre Dame",
+      "title": "Volkswagen e Audi richiamano quasi 3 milioni di veicoli: problemi allo sterzo. I modelli coinvolti",
+      "link": "https://www.repubblica.it/economia/2026/09/25/news/volkswagen_audi_richiamo_vite_sterzo_modelli_sostituzione-425606735/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 09:24:55 +0000",
+      "excerpt": "Il difetto riguarda una vite a rischio corrosione, la sostituzione è gratuita. In Germania sono interessati complessivamente 954.387 veicoli"
+    },
+    {
+      "title": "Btp Valore, dal 19 al 23 ottobre il primo doppio collocamento del Tesoro",
+      "link": "https://www.repubblica.it/economia/2026/09/25/news/btp_valore_ottobre_2026_prossima_emissione-425606678/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 08:56:51 +0000",
+      "excerpt": "Saranno emessi due diversi titoli dedicati al retail, entrambi con durata 5 anni ma piano cedolare differenziato: trimestrale o con cedola unica pagata alla scadenza. Il 16 ottobre i tassi minimi"
+    },
+    {
+      "title": "Sofia Goggia, due virus l’hanno debilitata in Argentina",
+      "link": "https://www.repubblica.it/sport/sci/2026/09/25/news/sofia_goggia_due_virus_esami_malore_argentina-425606671/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 08:53:41 +0000",
+      "excerpt": "Resi noti i risultati di una serie di esami a cui è stata sottoposta la campionessa azzurra dopo il rientro in Italia a causa dei malori che l’avevano colpita in Sud America"
+    },
+    {
+      "title": "Papa Leone in Francia, accolto da Macron e Brigitte ",
       "link": "https://www.ansa.it/vaticano/notizie/2026/09/25/il-papa-in-francia-oggi-a-parigi-tra-leliseo-lunesco-e-notre-dame_ff8b8f8e-c0fd-4908-ab1e-1b748b91c76c.html",
       "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 10:35:38 +0200",
-      "excerpt": "Il messaggio di Mattarella al Pontefice: 'Serve coesione per il bene comune e per il servizio delle persone'"
+      "pubDate": "Fri, 25 Sep 2026 10:44:32 +0200",
+      "excerpt": "Dopo l'esclusione di alcuni giornalisti dalla Casa Bianca: 'Sono contento che siate tutti qui, molto importante una buona copertura mediatica'"
     },
     {
       "title": "Incendio a Lucca, 2 morti e 13 feriti in un palazzo",
@@ -593,11 +614,11 @@
       "excerpt": "Il Pontefice saluta i cronisti al seguito sul volo da Roma a Parigi: “Penso che sia molto importante una buona copertura (giornalistica) e che l’abbiamo ovunque per tutti”. Ceuta, “è stata veramente una crisi umanitaria”"
     },
     {
-      "title": "Silvia d’Amico, addio alla produttrice sempre in bilico tra cinema e televisione",
+      "title": "Silvia d’Amico Bendicò, addio alla produttrice sempre in bilico tra cinema e televisione",
       "link": "https://www.repubblica.it/spettacoli/cinema/2026/09/25/news/silvia_d_amico_addio_alla_produttrice_sempre_in_bilico_tra_cinema_e_televisione-425606568/",
       "source": "Repubblica",
       "pubDate": "Fri, 25 Sep 2026 08:07:39 +0000",
-      "excerpt": "Produttrice, sceneggiatrice e segretaria di edizione, figlia di Suso Cecchi d’Amico e Fedele d’Amico, è scomparsa a 85 anni"
+      "excerpt": "Produttrice, sceneggiatrice e segretaria di edizione, figlia di Suso Cecchi d’Amico e Fedele d’Amico, è scomparsa a 85 anni. Per anni scelse il nome d’arte Bendicò (ispirata al Gattopardo) per sfuggire all’idea di “figli"
     },
     {
       "title": "Meta lancia occhiali intelligenti senza fotocamera basati sull'IA VIDEO",
@@ -628,32 +649,11 @@
       "excerpt": "Il nuovo premier britannico non ha escluso la clamorosa svolta. Mentre si accumulano coincidenze sospette, come un articolo pro-Ue di Tony Blair e la tentazione di elezioni anticipate. La furia dei tabloid: “Tradimento”"
     },
     {
-      "title": "L’economia sommersa vale quasi 200 miliardi l’anno, e impoverisce 2,7 milioni di lavoratori",
-      "link": "https://www.repubblica.it/economia/2026/09/25/news/economia_sommersa_fisco_evasione_lavoratori_dati_italia-425606414/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 07:07:30 +0000",
-      "excerpt": "Il focus Censis-Confcooperative. Il nero sottrae al Paese il 9,2% del Pil, 3.350 euro per ogni italiano, neonati compresi"
-    },
-    {
-      "title": "Il Papa in Francia, Éric-Emmanuel Schmitt: “Tutti curiosi di Leone, l’assenza di Francesco spiazzò”",
-      "link": "https://www.repubblica.it/esteri/2026/09/25/news/cattolicesimo_in_francia_eric_emmanuel_schmitt_intervista_papa_leone-425606348/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 06:39:00 +0000",
-      "excerpt": "Il drammaturgo, figura di spicco del cattolicesimo d’Oltralpe, parla del viaggio di Prevost che inizia oggi: “La sua enciclica sull’intelligenza artificiale una forma di resistenza umana che riconosciamo in esempi della "
-    },
-    {
       "title": "'L'Iran ha proposto agli Usa un piano da 7 giorni per la tregua'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/25/liran-ha-proposto-agli-usa-un-piano-da-7-giorni-per-la-tregua_abfcce73-5c3c-4c55-93df-efa91e3c3202.html",
       "source": "ANSA",
       "pubDate": "Fri, 25 Sep 2026 08:26:19 +0200",
       "excerpt": "Araghchi: 'Se Washington dà l'ok noi ci siamo. Meglio trovare accordo prima di midterm'"
-    },
-    {
-      "title": "Truffa da 36 milioni al presidente di Fideuram: la richiesta da un finto numero di Messina (Intesa)",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/25/news/truffa_36_milioni_presidente_fideuram_molesini_whatsapp_finto_carlo_messina_intesa-425606314/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 06:13:49 +0000",
-      "excerpt": "Il raggiro tramite un messaggio whatsapp arrivata a Paolo Molesini da un account falso che fingeva di essere quello dell’ad di Intesa: inizialmente usciti 95 milioni"
     },
     {
       "title": "Emporio Armani, l'ultima collezione disegnata in famiglia",
