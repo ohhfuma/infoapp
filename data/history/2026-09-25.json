@@ -4,6 +4,41 @@
   "finanza": {
     "italia": [
       {
+        "title": "Multe e bollo auto 'rottamabili' in 1.500 enti locali, online l'elenco",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/multe-e-bollo-auto-rottamabili-in-1.500-enti-locali-online-lelenco_8ffc2148-7dfa-4cf5-97c9-7b4814f45937.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 12:01:50 +0200",
+        "excerpt": "Ag. Entrate-Riscossione pubblica lista enti che hanno aderito alla rottamazione quinquies"
+      },
+      {
+        "title": "Istat, per donne oltre 4 ore lavoro familiare al giorno, si riduce divario",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/istat-per-donne-oltre-4-ore-lavoro-familiare-al-giorno-si-riduce-divario_3ba0c64b-568d-4064-b1ef-fb13cb6a2deb.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:58:32 +0200",
+        "excerpt": "2 ore e 27 minuti in più degli uomini"
+      },
+      {
+        "title": "'Oltre un'impresa su 4 stima fatturato in crescita, 70% teme caro-energia'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/oltre-unimpresa-su-4-stima-fatturato-in-crescita-70-teme-caro-energia_74865e68-e8df-4a9e-8829-15b7dce0f6f8.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:47:23 +0200",
+        "excerpt": "Unioncamere, il 22% investirà nell'Ia entro il 2028"
+      },
+      {
+        "title": "Le azioni di Raspberry Pi cedono il 9% dopo i record del primo semestre",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-raspberry-pi-cedono-il-9-dopo-i-record-del-primo-semestre-3562626",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 09:44:47",
+        "excerpt": ""
+      },
+      {
+        "title": "Borsa: l'Europa positiva con il calo del petrolio, si guarda a Hormuz",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/borsa-leuropa-positiva-con-il-calo-del-petrolio-si-guarda-a-hormuz_3390acbc-bab3-4526-8553-b28d031b73fe.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 11:42:14 +0200",
+        "excerpt": "In rialzo banche e tecnologici. Poco mossi i rendimenti dei titoli di Stato"
+      },
+      {
         "title": "Rete dei Comuni Sostenibili, 15 proposte per la sostenibilità e la Giornata EcoTrek",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/rete-dei-comuni-sostenibili-15-proposte-per-la-sostenibilita-e-la-giornata-ecotrek_b2e8bcf7-f335-45c4-b72d-9f0d457efdfe.html",
         "source": "ANSA Economia",
@@ -387,41 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-25 07:04:03",
         "excerpt": ""
-      },
-      {
-        "title": "Borsa: l'Asia chiude in positiva, si guarda a Cina-Usa",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/borsa-lasia-chiude-in-positiva-si-guarda-a-cina-usa_4afebd12-74f4-41cd-b836-865a84043eaa.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 09:02:33 +0200",
-        "excerpt": "Positiva Tokyo, la Cina chiusa per festività. Poco mosso lo yen"
-      },
-      {
-        "title": "Petkim firma contratti per l’ingegneria di un impianto petrolchimico",
-        "link": "https://it.investing.com/news/stock-market-news/petkim-firma-contratti-per-lingegneria-di-un-impianto-petrolchimico-93CH-3562344",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 06:54:41",
-        "excerpt": ""
-      },
-      {
-        "title": "Genel Energy aumenta l’offerta per Capricorn a 436 milioni di dollari",
-        "link": "https://it.investing.com/news/stock-market-news/genel-energy-aumenta-lofferta-per-capricorn-a-436-milioni-di-dollari-93CH-3562343",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 06:53:37",
-        "excerpt": ""
-      },
-      {
-        "title": "EQT assume JPMorgan per vendere la quota in Parques Reunidos per €1,7 mld",
-        "link": "https://it.investing.com/news/stock-market-news/eqt-assume-jpmorgan-per-vendere-la-quota-in-parques-reunidos-per-17-mld-93CH-3562329",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 06:41:37",
-        "excerpt": ""
-      },
-      {
-        "title": "Euro stabile sul dollaro a 1,1383 in avvio di giornata",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/euro-stabile-sul-dollaro-a-11383-in-avvio-di-giornata_6c79cce9-a6dd-43a9-9695-16e8e433097b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 08:41:35 +0200",
-        "excerpt": "Moneta unica in lieve calo sullo yen a 179,95"
       }
     ],
     "europa": [
@@ -1084,6 +1084,34 @@
   },
   "attualita": [
     {
+      "title": "Esaltavano suprematisti e proponevano attentati, 14 minori perquisiti",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/esaltavano-suprematisti-e-proponevano-attentati-14-minori-perquisiti_0dc34236-793e-4c32-bd95-1e067fbd1e19.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 11:58:30 +0200",
+      "excerpt": "Operazione in tutta Italia. Erano su gruppi Nuovo Ordine Europeo e Fronte Fascista Italiano"
+    },
+    {
+      "title": "Sondaggi, com’è cambiato il consenso dei partiti dal 2022: Pd cresce di due punti, Lega ne perde tre",
+      "link": "https://www.repubblica.it/politica/2026/09/25/news/sondaggi_politici_pd_fdi_lega_m5s_avs-425606833/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 09:53:15 +0000",
+      "excerpt": "Secondo l’ultima Supermedia Agi/Youtrend FdI, rispetto a quattro anni fa, resta primo (+1%). Stabile Forza Italia, raddoppia Avs"
+    },
+    {
+      "title": "Esaltavano suprematisti e proponevano attentati, perquisiti quattordici minori",
+      "link": "https://www.repubblica.it/cronaca/2026/09/25/news/suprematisti_perquisiti_quattordici_minori_operazione_italia-425606831/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 09:52:08 +0000",
+      "excerpt": "Operazione in tutta Italia. Erano su gruppi Nuovo Ordine Europeo e Fronte Fascista Italiano"
+    },
+    {
+      "title": "L'economia invisibile vale 197,6 miliardi, 'ruba 3.350 euro a ogni italiano'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/leconomia-invisibile-vale-1976-miliardi-ruba-3.350-euro-a-ogni-italiano_0a6a163d-b29c-4681-833d-953a1737d8ca.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 11:43:46 +0200",
+      "excerpt": "Focus Censis-Confcooperative su sommerso in Italia. Gardini: un macigno su debito pubblico"
+    },
+    {
       "title": "Volkswagen e Audi richiamano quasi 3 milioni di veicoli: problemi allo sterzo. I modelli coinvolti",
       "link": "https://www.repubblica.it/economia/2026/09/25/news/volkswagen_audi_richiamo_vite_sterzo_modelli_sostituzione-425606735/",
       "source": "Repubblica",
@@ -1474,23 +1502,16 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 07:13:16 +0200",
       "excerpt": "Tra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità portuale Paolo SignoriniTra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità po"
-    },
-    {
-      "title": "Accumulare allegramente debito  senza pensare a chi pagherà",
-      "link": "https://www.corriere.it/lettere-al-direttore/12-05-2024/index.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 07:13:14 +0200",
-      "excerpt": ""
-    },
-    {
-      "title": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-      "link": "https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 06:05:06 +0200",
-      "excerpt": ""
     }
   ],
   "sport": [
+    {
+      "title": "F1, Azerbaijan, Verstappen precede Russell nelle libere 3",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/25/azerbaijan-verstappen-precede-russell-nelle-libere-3_dad06084-b0a3-49f4-9bde-ece5f1bf8647.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 11:52:51 +0200",
+      "excerpt": "Di Hamilton il terzo tempo, seguono Antonelli e Leclerc"
+    },
     {
       "title": "Nations League: Xavi contro Klopp, Olanda-Germania 1-1 tra le polemiche",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/24/nations-league-xavi-contro-klopp-olanda-germania-1-1-tra-le-polemiche_de5d053d-e351-4f9d-a5ee-e4220c23843d.html",
