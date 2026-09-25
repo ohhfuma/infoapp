@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-09-25T18:40:31.151Z",
+  "lastUpdated": "2026-09-25T19:07:00.297Z",
   "finanza": {
     "italia": [
       {
-        "title": "Da domani gasolio più caro, l'Eni mette un tetto ai prezzi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html",
+        "title": "Poste all'85,82% di Tim al termine delle adesioni all'offerta",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/poste-all8582-di-tim-al-termine-delle-adesioni-allofferta_be8b8130-21bd-485a-8efd-ac51e8f1c7b6.html",
         "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 20:34:13 +0200",
-        "excerpt": "Il governo ringrazia, ma Assotir evoca lo sciopero. Petrolieri convocati per raffinare di più"
+        "pubDate": "Fri, 25 Sep 2026 21:01:26 +0200",
+        "excerpt": "Alla chiusura dei 5 giorni conferito l'82,25% delle azioni oggetto dell'Opas"
+      },
+      {
+        "title": "Perché il titolo Humana è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-humana-e-in-forte-rialzo-oggi-93CH-3563428",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 18:34:45",
+        "excerpt": ""
+      },
+      {
+        "title": "Humana balza in borsa: Barclays punta sul rimbalzo dei rating Medicare",
+        "link": "https://it.investing.com/news/stock-market-news/humana-in-rialzo-barclays-punta-sul-rimbalzo-dei-rating-medicare-3563427",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 18:29:42",
+        "excerpt": ""
       },
       {
         "title": "Perché il titolo di Power Corporation sta salendo oggi?",
@@ -59,25 +73,11 @@
         "excerpt": ""
       },
       {
-        "title": "Indagine su CrowdStrike chiusa dai procuratori USA senza accuse",
-        "link": "https://it.investing.com/news/stock-market-news/indagine-su-crowdstrike-chiusa-dai-procuratori-usa-senza-accuse-3563401",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 17:35:08",
-        "excerpt": ""
-      },
-      {
         "title": "Caso Me contro Te e la denuncia dell’Antitrust: «I minori non sono un target commerciale»",
         "link": "https://www.ilsole24ore.com/art/caso-me-contro-te-e-denuncia-dell-antitrust-i-minori-non-sono-target-commerciale-AJB1BYPB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 25 Sep 2026 17:35:01 GMT",
         "excerpt": "Dal pomeriggio di lunedì 21 settembre il sito dei Me contro Te è “temporaneamente sospeso per interventi tecnici di aggiornamento e di ottimizzazione”. Questo blackout digitale arriva nel bel mezzo..."
-      },
-      {
-        "title": "La designazione nella catena di fornitura di Anthropic confermata nella disputa sull’IA militare",
-        "link": "https://it.investing.com/news/stock-market-news/la-designazione-nella-catena-di-fornitura-di-anthropic-confermata-nella-disputa-sullia-militare-3563395",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 17:14:54",
-        "excerpt": ""
       },
       {
         "title": "Dal 19 a 23 ottobre primo collocamento 'doppio' Btp Valore e Btp Valore Insieme",
@@ -229,7 +229,7 @@
     ],
     "europa": [
       {
-        "title": "Incidente per militari italiani in Lettonia durante esercitazione, quattro feriti",
+        "title": "Incidente durante esercitazione Nato in Lettonia: quattro militari italiani feriti da fuoco amico",
         "link": "https://www.ilsole24ore.com/art/incidente-militari-italiani-lettonia-esercitazione-quattro-feriti-AJipKdPB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 25 Sep 2026 18:24:00 GMT",
@@ -572,6 +572,20 @@
   },
   "attualita": [
     {
+      "title": "Nations League: Italia-Belgio 0-0 DIRETTA GOL e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-italia-belgio-0-0-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 21:01:52 +0200",
+      "excerpt": "Azzurri in attacco con Kean, Pio Esposito e Cambiaghi. Fischi per l'inno belga prima della partita"
+    },
+    {
+      "title": "Militari italiani feriti in Lettonia durante un'esercitazione, 4 soldati coinvolti",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/25/-incidente-per-militari-italiani-in-lettonia-durante-esercitazione-4-feriti-_aad36c78-16fd-466a-9424-d488e9c86ae7.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 20:46:54 +0200",
+      "excerpt": "Nessuno rischia la vita, uno più grave. Arma da fuoco su un veicolo ha colpito altro mezzo"
+    },
+    {
       "title": "Da domani gasolio più caro, l'Eni mette un tetto ai prezzi",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html",
       "source": "ANSA",
@@ -579,25 +593,11 @@
       "excerpt": "Il governo ringrazia, ma Assotir evoca lo sciopero. Petrolieri convocati per raffinare di più"
     },
     {
-      "title": "Italia-Belgio in campo dalle 20:45 DIRETTA GOL e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/italia-belgio-in-campo-dalle-2045-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 20:30:28 +0200",
-      "excerpt": "Azzurri in attacco con azzurri con Kean, Pio Esposito e Cambiaghi"
-    },
-    {
-      "title": "++ Tg1, 'caso Garlasco, pm sentono Garofano e gli ex del Ris' ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/25/tg1-caso-garlasco-pm-sentono-garofano-e-gli-ex-del-ris_80b35e44-8282-4fa6-b637-facb526c8b51.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 20:16:33 +0200",
-      "excerpt": ""
-    },
-    {
       "title": "Garlasco, l’ex generale dei Ris Garofano sentito in procura a Pavia con alcuni ufficiali",
       "link": "https://milano.repubblica.it/cronaca/2026/09/25/news/garlasco_garofano_ros_interrogatori_procura_pavia-425607946/",
       "source": "Repubblica",
       "pubDate": "Fri, 25 Sep 2026 18:12:35 +0000",
-      "excerpt": "Dai pm pavesi alcuni dei nomi che indagarono nel 2007 sull’omicidio di Chiara Poggi"
+      "excerpt": "Dai pm pavesi alcuni dei nomi che indagarono nel 2007 sull’omicidio di Chiara Poggi. A breve la chiusura indagini su Andrea Sempio"
     },
     {
       "title": "Treni in tilt: traliccio cade sui binari in Calabria, Frecciarossa lo investe. Linea bloccata, ritardi di ore",
@@ -742,11 +742,11 @@
   ],
   "sport": [
     {
-      "title": "Italia-Belgio in campo dalle 20:45 DIRETTA GOL e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/italia-belgio-in-campo-dalle-2045-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "title": "Nations League: Italia-Belgio 0-0 DIRETTA GOL e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-italia-belgio-0-0-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
       "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 20:30:28 +0200",
-      "excerpt": "Azzurri in attacco con azzurri con Kean, Pio Esposito e Cambiaghi"
+      "pubDate": "Fri, 25 Sep 2026 21:01:52 +0200",
+      "excerpt": "Azzurri in attacco con Kean, Pio Esposito e Cambiaghi. Fischi per l'inno belga prima della partita"
     },
     {
       "title": "Figc: Buonfiglio 'sostegno componenti a Malagò? Il mondo sportivo si basa su regole'",

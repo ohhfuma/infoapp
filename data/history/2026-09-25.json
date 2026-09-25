@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Poste all'85,82% di Tim al termine delle adesioni all'offerta",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/poste-all8582-di-tim-al-termine-delle-adesioni-allofferta_be8b8130-21bd-485a-8efd-ac51e8f1c7b6.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 21:01:26 +0200",
+        "excerpt": "Alla chiusura dei 5 giorni conferito l'82,25% delle azioni oggetto dell'Opas"
+      },
+      {
+        "title": "Perché il titolo Humana è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-humana-e-in-forte-rialzo-oggi-93CH-3563428",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 18:34:45",
+        "excerpt": ""
+      },
+      {
+        "title": "Humana balza in borsa: Barclays punta sul rimbalzo dei rating Medicare",
+        "link": "https://it.investing.com/news/stock-market-news/humana-in-rialzo-barclays-punta-sul-rimbalzo-dei-rating-medicare-3563427",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 18:29:42",
+        "excerpt": ""
+      },
+      {
         "title": "Perché il titolo di Power Corporation sta salendo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-power-corporation-sta-salendo-oggi-93CH-3563422",
         "source": "Investing.com Italia",
@@ -400,27 +421,6 @@
         "link": "https://it.investing.com/news/stock-market-news/tesla-affronta-sfide-produttive-con-le-mani-del-robot-optimus-3563174",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-25 13:15:10",
-        "excerpt": ""
-      },
-      {
-        "title": "Cariplo e Bei riuniscono istituzioni, banche ed operatori per l'housing accessibile",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/cariplo-e-bei-riuniscono-istituzioni-banche-ed-operatori-per-lhousing-accessibile_eae1cd94-fe7f-457a-aeb1-28185aa30c1f.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 15:14:58 +0200",
-        "excerpt": "Il tema casa al centro dell'incontro. Verso collaborazione con altre fondazioni in Europa"
-      },
-      {
-        "title": "Il petrolio in calo a New York a 92,41 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/il-petrolio-in-calo-a-new-york-a-9241-dollari_552e6ac7-c79e-4bbb-bc73-69a7f0454136.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 15:14:35 +0200",
-        "excerpt": "Quotazioni perdono il 2,33%"
-      },
-      {
-        "title": "Il titolo di Star Fashion Culture cala dopo un’offerta azionaria da $9,6 milioni",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-star-fashion-culture-cala-dopo-unofferta-azionaria-da-96-milioni-3563164",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 13:12:15",
         "excerpt": ""
       }
     ],
@@ -1203,6 +1203,20 @@
   },
   "attualita": [
     {
+      "title": "Nations League: Italia-Belgio 0-0 DIRETTA GOL e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-italia-belgio-0-0-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 21:01:52 +0200",
+      "excerpt": "Azzurri in attacco con Kean, Pio Esposito e Cambiaghi. Fischi per l'inno belga prima della partita"
+    },
+    {
+      "title": "Militari italiani feriti in Lettonia durante un'esercitazione, 4 soldati coinvolti",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/25/-incidente-per-militari-italiani-in-lettonia-durante-esercitazione-4-feriti-_aad36c78-16fd-466a-9424-d488e9c86ae7.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 20:46:54 +0200",
+      "excerpt": "Nessuno rischia la vita, uno più grave. Arma da fuoco su un veicolo ha colpito altro mezzo"
+    },
+    {
       "title": "Italia-Belgio in campo dalle 20:45 DIRETTA GOL e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/italia-belgio-in-campo-dalle-2045-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
       "source": "ANSA",
@@ -1607,23 +1621,16 @@
       "source": "Repubblica",
       "pubDate": "Fri, 25 Sep 2026 07:16:02 +0000",
       "excerpt": "Coinvolti alcuni bambini trasportati all’ospedale di Pisa. S’indaga sulle cause del rogo"
-    },
-    {
-      "title": "Brexit, i silenzi di Burnham scatenano i rumors: “Farà tornare il Regno Unito in Europa”",
-      "link": "https://www.repubblica.it/esteri/2026/09/25/news/brexit_burnham_piani_per_far_tornare_il_regno_unito_in_europa-425606440/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 07:12:19 +0000",
-      "excerpt": "Il nuovo premier britannico non ha escluso la clamorosa svolta. Mentre si accumulano coincidenze sospette, come un articolo pro-Ue di Tony Blair e la tentazione di elezioni anticipate. La furia dei tabloid: “Tradimento”"
-    },
-    {
-      "title": "L’economia sommersa vale quasi 200 miliardi l’anno, e impoverisce 2,7 milioni di lavoratori",
-      "link": "https://www.repubblica.it/economia/2026/09/25/news/economia_sommersa_fisco_evasione_lavoratori_dati_italia-425606414/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 07:07:30 +0000",
-      "excerpt": "Il focus Censis-Confcooperative. Il nero sottrae al Paese il 9,2% del Pil, 3.350 euro per ogni italiano, neonati compresi"
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: Italia-Belgio 0-0 DIRETTA GOL e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-italia-belgio-0-0-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 21:01:52 +0200",
+      "excerpt": "Azzurri in attacco con Kean, Pio Esposito e Cambiaghi. Fischi per l'inno belga prima della partita"
+    },
     {
       "title": "Italia-Belgio in campo dalle 20:45 DIRETTA GOL e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/italia-belgio-in-campo-dalle-2045-diretta-gol-e-foto_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
