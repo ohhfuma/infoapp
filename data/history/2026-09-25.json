@@ -4,6 +4,34 @@
   "finanza": {
     "italia": [
       {
+        "title": "I futures su gas in frenata, Ttf -4,2%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/i-futures-su-gas-in-frenata-ttf-42_ac3bf039-8aab-4025-9c13-466d764deefb.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 18:00:41 +0200",
+        "excerpt": "Il prezzo ad Amsterdam scende a 71,93 euro al megawattora"
+      },
+      {
+        "title": "Borsa: Milano chiude in rialzo (+0,63%), Tim inciampa sul finale",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/borsa-milano-chiude-in-rialzo-063-tim-inciampa-sul-finale_d8774354-57bd-4c7a-aec6-4177bd0cf7af.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 17:47:47 +0200",
+        "excerpt": "Sugli scudi Avio +2,29%, Technoprobe +2,24%, Unicredit +2,15%"
+      },
+      {
+        "title": "Perché il titolo di Meta Platforms sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-meta-platforms-sta-scendendo-oggi-93CH-3563355",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 15:43:50",
+        "excerpt": ""
+      },
+      {
+        "title": "Nscale raccoglie 3,36 miliardi in round pre-IPO in vista della quotazione",
+        "link": "https://it.investing.com/news/stock-market-news/nscale-raccoglie-336-miliardi-in-round-preipo-in-vista-della-quotazione-3563354",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 15:39:23",
+        "excerpt": ""
+      },
+      {
         "title": "“Solo 10 minuti di carburante”: l’incidente sfiorato sul Ryanair Pisa-Prestwick, cosa è successo",
         "link": "https://www.repubblica.it/economia/2026/09/25/news/volo_ryanair_pisa_manchester_carburante-425607652/?rss",
         "source": "Repubblica Economia",
@@ -394,34 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-25 11:49:52",
         "excerpt": ""
-      },
-      {
-        "title": "Le azioni europee legate all’AI rally dopo l’accordo da $11,6 mld di Anthropic",
-        "link": "https://it.investing.com/news/stock-market-news/i-titoli-europei-legati-allia-salgono-dopo-laccordo-da-116-mld-di-anthropic-3562957",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 11:44:30",
-        "excerpt": ""
-      },
-      {
-        "title": "Barclays: i mercati azionari si stanno avvicinando al punto di rottura?",
-        "link": "https://it.investing.com/news/stock-market-news/barclays-i-mercati-azionari-si-stanno-avvicinando-al-punto-di-rottura-3562954",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 11:44:12",
-        "excerpt": ""
-      },
-      {
-        "title": "Movimenti pre-mercato: Akamai vola sull’accordo con Anthropic, Comcast e Twilio in calo",
-        "link": "https://it.investing.com/news/stock-market-news/movimenti-premercato-akamai-vola-sullaccordo-con-anthropic-comcast-e-twilio-in-calo-3562935",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 11:33:00",
-        "excerpt": ""
-      },
-      {
-        "title": "Ufi Hydrogen inaugura in Trentino il nuovo polo per le tecnologie dell'idrogeno",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/ufi-hydrogen-inaugura-in-trentino-il-nuovo-polo-per-le-tecnologie-dellidrogeno_15ccbe82-490e-4b85-a98d-a6b9e9a0160d.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 13:29:20 +0200",
-        "excerpt": "A Serravalle di Ala un sito che integra ricerca e sviluppo"
       }
     ],
     "europa": [
@@ -1182,6 +1182,13 @@
   },
   "attualita": [
     {
+      "title": "Report, Piervincenzi: “Se Ranucci venisse reintegrato immagino mi caccerebbe”",
+      "link": "https://www.repubblica.it/politica/2026/09/25/news/report_piervincenzi_ranucci_caso_lavitola-425607684/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 15:48:35 +0000",
+      "excerpt": "Il nuovo conduttore: “Dopo la nomina mi ha detto ‘se rinunci sei un grande’”. Giudice del lavoro si riserva sul ricorso contro la Rai"
+    },
+    {
       "title": "Un tiro alla fune nel nucleo terrestre cambia la durata dei giorni",
       "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/09/25/un-tiro-alla-fune-nel-nucleo-terrestre-cambia-durata-dei-giorni_64ad4375-e8bc-4cda-befc-58672eab4ba7.html",
       "source": "ANSA",
@@ -1593,16 +1600,44 @@
       "source": "Repubblica",
       "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
       "excerpt": "Il rapporto di Itinerari Previdenziali mostra l’asimmetria del sistema fiscale: un terzo degli italiani si sobbarca gran parte delle imposte, sono soprattutto dipendenti e pensionati"
-    },
-    {
-      "title": "Nella giungla dei redditi dove un gioielliere dichiara meno di un insegnante",
-      "link": "https://www.repubblica.it/economia/2026/09/25/news/categorie_lavoratori_liberi_professionisti_per_reddito_medio_annuo-425606088/",
-      "source": "Repubblica",
-      "pubDate": "Thu, 24 Sep 2026 23:00:00 +0000",
-      "excerpt": "Nella classifica per professioni molti dipendenti superano gli imprenditori: bizzarrie che nascondono spesso sacche d’evasione"
     }
   ],
   "sport": [
+    {
+      "title": "Figc: Calcagno 'sostegno a Malagò, è situazione paradossale'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/figc-calcagno-sostegno-a-malago-e-situazione-paradossale_51dab507-3461-4065-800a-273a12a34c5d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 17:58:57 +0200",
+      "excerpt": "N.1 Aic: \"procedimento elettorale e' stato fatto nella giusta modalità\""
+    },
+    {
+      "title": "Media Gb, 'City colpevole di quasi tutte le 115 infrazioni finanziarie'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/media-gb-city-colpevole-di-quasi-tutte-le-115-infrazioni-finanziarie_45886cec-bfda-4f91-898d-7a92ceffd31b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 17:47:42 +0200",
+      "excerpt": "Il club ora rischia pesanti sanzioni da parte della Premier League"
+    },
+    {
+      "title": "America's Cup: Luna Rossa senior domina e vince la seconda regata di flotta",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/25/americas-cup-luna-rossa-senior-domina-e-vince-la-seconda-regata-di-flotta_9d1aabb5-2d06-4105-a5df-77a991f0d3fa.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 17:45:42 +0200",
+      "excerpt": "L'AC40 italiano precede gli svizzeri di Alinghi. Caduta in acqua per La Roche-Posay"
+    },
+    {
+      "title": "Frosinone: Grillitsch operato, stop per almeno un mese",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/frosinone-grillitsch-operato-stop-per-almeno-un-mese_3aa1ce2f-e0ab-46fd-96d7-9618483a1304.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 17:43:38 +0200",
+      "excerpt": "Intervento di ernioplastica a Vienna per il centrocampista austriaco"
+    },
+    {
+      "title": "Figc: Ulivieri 'nostro sostegno totale a Malagò'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/figc-ulivieri-nostro-sostegno-totale-a-malago_972c4451-7d30-434f-bf68-3bbce69caa29.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 17:37:15 +0200",
+      "excerpt": "N.1 Aiac: \"Ipotesi commissariamento preoccupa, se si fa questione morale si sbaglia\""
+    },
     {
       "title": "Evenepoel per il bis, i Mondiali di ciclismo al rush finale",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/25/evenepoel-per-il-bis-i-mondiali-di-ciclismo-al-rush-finale_d077173c-7cbc-4164-89ab-af254ced713f.html",

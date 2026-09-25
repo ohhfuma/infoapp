@@ -1,20 +1,55 @@
 {
-  "lastUpdated": "2026-09-25T15:38:47.522Z",
+  "lastUpdated": "2026-09-25T16:08:55.065Z",
   "finanza": {
     "italia": [
+      {
+        "title": "I futures su gas in frenata, Ttf -4,2%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/i-futures-su-gas-in-frenata-ttf-42_ac3bf039-8aab-4025-9c13-466d764deefb.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 18:00:41 +0200",
+        "excerpt": "Il prezzo ad Amsterdam scende a 71,93 euro al megawattora"
+      },
+      {
+        "title": "Diesel, da domani si riduce lo sconto sulle accise. Eni, tetto ai prezzi su benzina e gasolio",
+        "link": "https://www.repubblica.it/economia/2026/09/25/news/eni_tetto_prezzi_benzina_diesel-425607530/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Fri, 25 Sep 2026 17:56:33 +0200",
+        "excerpt": "Il price cap scatterà dal 28 settembre con la possibilità di una estensione fino a fine anno. Il limite sarà valido anche in autostrada"
+      },
+      {
+        "title": "L'Eni mette un tetto massimo sui carburanti: 2,19 euro per il gasolio, 1,99 per la benzina. Governo ringrazia",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 17:54:10 +0200",
+        "excerpt": "\"Dal 28 settembre per 30 giorni, prorogabili fino a fine anno\""
+      },
+      {
+        "title": "Borsa: Milano chiude in rialzo (+0,63%), Tim inciampa sul finale",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/borsa-milano-chiude-in-rialzo-063-tim-inciampa-sul-finale_d8774354-57bd-4c7a-aec6-4177bd0cf7af.html",
+        "source": "ANSA Economia",
+        "pubDate": "Fri, 25 Sep 2026 17:47:47 +0200",
+        "excerpt": "Sugli scudi Avio +2,29%, Technoprobe +2,24%, Unicredit +2,15%"
+      },
+      {
+        "title": "Perché il titolo di Meta Platforms sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-meta-platforms-sta-scendendo-oggi-93CH-3563355",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 15:43:50",
+        "excerpt": ""
+      },
+      {
+        "title": "Nscale raccoglie 3,36 miliardi in round pre-IPO in vista della quotazione",
+        "link": "https://it.investing.com/news/stock-market-news/nscale-raccoglie-336-miliardi-in-round-preipo-in-vista-della-quotazione-3563354",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-25 15:39:23",
+        "excerpt": ""
+      },
       {
         "title": "“Solo 10 minuti di carburante”: l’incidente sfiorato sul Ryanair Pisa-Prestwick, cosa è successo",
         "link": "https://www.repubblica.it/economia/2026/09/25/news/volo_ryanair_pisa_manchester_carburante-425607652/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Fri, 25 Sep 2026 17:31:33 +0200",
         "excerpt": "L’indagine sul volo costretto ad atterrare a Manchester in emergenza con il serbatoio quasi a secco. Il passeggero italiano a bordo dice a Repubblica: “Sono scioccato”"
-      },
-      {
-        "title": "Diesel, da domani si riduce lo sconto sulle accise. Eni, tetto ai prezzi su benzina e gasolio",
-        "link": "https://www.repubblica.it/economia/2026/09/25/news/eni_tetto_prezzi_benzina_diesel-425607530/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 25 Sep 2026 17:30:01 +0200",
-        "excerpt": "Il price cap scatterà dal 28 settembre con la possibilità di una estensione fino a fine anno."
       },
       {
         "title": "Cognition AI punta a $1 miliardo di fatturato annuo grazie alla domanda di software per la programmazione",
@@ -29,13 +64,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-25 15:11:44",
         "excerpt": ""
-      },
-      {
-        "title": "L'Eni mette un tetto massimo sui carburanti: 2,19 euro per il gasolio, 1,99 per la benzina",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 17:10:42 +0200",
-        "excerpt": "\"Dal 28 settembre per 30 giorni, prorogabili fino a fine anno\""
       },
       {
         "title": "Le migliori scelte biotech di B. Riley prima della stagione utili del 3Q26",
@@ -63,20 +91,6 @@
         "link": "https://it.investing.com/news/stock-market-news/bofa-alza-il-target-su-amd-a-720-tam-server-cpu-a-211-miliardi-entro-il-2030-3563298",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-25 14:44:01",
-        "excerpt": ""
-      },
-      {
-        "title": "Eni introduce tetti di prezzo sui carburanti in Italia dal 28 settembre",
-        "link": "https://it.investing.com/news/stock-market-news/eni-introduce-tetti-di-prezzo-sui-carburanti-in-italia-dal-28-settembre-93CH-3563290",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 14:36:33",
-        "excerpt": ""
-      },
-      {
-        "title": "Adarx Pharmaceuticals assegna il 55% dell’IPO a 10 investitori",
-        "link": "https://it.investing.com/news/stock-market-news/adarx-pharmaceuticals-assegna-il-55-dellipo-a-10-investitori-93CH-3563288",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 14:34:47",
         "excerpt": ""
       },
       {
@@ -120,20 +134,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 25 Sep 2026 15:35:48 +0200",
         "excerpt": "Interessati 7.000 lavoratori, voto sull'intesa"
-      },
-      {
-        "title": "Cariplo e Bei riuniscono istituzioni, banche ed operatori per l'housing accessibile",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/cariplo-e-bei-riuniscono-istituzioni-banche-ed-operatori-per-lhousing-accessibile_eae1cd94-fe7f-457a-aeb1-28185aa30c1f.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 15:14:58 +0200",
-        "excerpt": "Il tema casa al centro dell'incontro. Verso collaborazione con altre fondazioni in Europa"
-      },
-      {
-        "title": "Il petrolio in calo a New York a 92,41 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/il-petrolio-in-calo-a-new-york-a-9241-dollari_552e6ac7-c79e-4bbb-bc73-69a7f0454136.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 15:14:35 +0200",
-        "excerpt": "Quotazioni perdono il 2,33%"
       },
       {
         "title": "Grimaldi investe 1,5 miliardi in nove RoPax pronte per il net zero",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Spagna, milionario Usa comunista e pro-Pal fatto arrestare da Trump a Ibiza. Ma la sinistra insorge",
+        "link": "https://www.repubblica.it/esteri/2026/09/25/news/fergie_chambers_spagna_milionario_usa_comunista_e_pro-pal_fatto_arrestare_da_trump-425607178/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Fri, 25 Sep 2026 17:54:27 +0200",
+        "excerpt": "Per l’amministrazione americana James Cox \"Fergie\" Chambers avrebbe finanziato gruppi vicini ad Hamas. Primo ok di Madrid per l'estradizione ma c’è chi protesta: “E’ persecuzione politica”. Richard Gere, Greta Thunberg e"
+      },
+      {
         "title": "Usa, 'nostra posizione su Taiwan non è cambiata, vogliamo la pace nello Stretto'",
         "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/25/usa-nostra-posizione-su-taiwan-non-e-cambiata-vogliamo-la-pace-nello-stretto_9d386cd3-e0fb-4478-99ee-5f90b914cf92.html",
         "source": "ANSA Mondo",
@@ -469,13 +476,6 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-25 13:55:03",
         "excerpt": ""
-      },
-      {
-        "title": "Spagna, milionario Usa comunista e pro-Pal fatto arrestare da Trump a Ibiza. Ma la sinistra insorge",
-        "link": "https://www.repubblica.it/esteri/2026/09/25/news/fergie_chambers_spagna_milionario_usa_comunista_e_pro-pal_fatto_arrestare_da_trump-425607178/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 25 Sep 2026 15:44:14 +0200",
-        "excerpt": "Per l’amministrazione americana James Cox \"Fergie\" Chambers avrebbe finanziato gruppi vicini ad Hamas. Primo ok di Madrid per l'estradizione ma c’è chi protesta: “E’ persecuzione politica”. Richard Gere, Greta Thunberg e"
       },
       {
         "title": "Gold on track for weekly loss as Fed hike bets rise, dollar weighs",
@@ -572,6 +572,20 @@
   },
   "attualita": [
     {
+      "title": "L'Eni mette un tetto massimo sui carburanti: 2,19 euro per il gasolio, 1,99 per la benzina. Governo ringrazia",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 17:54:10 +0200",
+      "excerpt": "\"Dal 28 settembre per 30 giorni, prorogabili fino a fine anno\""
+    },
+    {
+      "title": "Report, Piervincenzi: “Se Ranucci venisse reintegrato immagino mi caccerebbe”",
+      "link": "https://www.repubblica.it/politica/2026/09/25/news/report_piervincenzi_ranucci_caso_lavitola-425607684/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 15:48:35 +0000",
+      "excerpt": "Il nuovo conduttore: “Dopo la nomina mi ha detto ‘se rinunci sei un grande’”. Giudice del lavoro si riserva sul ricorso contro la Rai"
+    },
+    {
       "title": "Papa Leone alla Francia: 'Dialogo urgente per prevenire derive autoritarie'",
       "link": "https://www.ansa.it/vaticano/notizie/2026/09/25/il-papa-in-francia-oggi-a-parigi-tra-leliseo-lunesco-e-notre-dame_ff8b8f8e-c0fd-4908-ab1e-1b748b91c76c.html",
       "source": "ANSA",
@@ -586,18 +600,11 @@
       "excerpt": "La forza di gravità combatte contro torsioni meccaniche e campi magnetici"
     },
     {
-      "title": "L'Eni mette un tetto massimo sui carburanti: 2,19 euro per il gasolio, 1,99 per la benzina",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 17:10:42 +0200",
-      "excerpt": "\"Dal 28 settembre per 30 giorni, prorogabili fino a fine anno\""
-    },
-    {
-      "title": "Coppa America, prima regata vince il team Usa",
+      "title": "Coppa America, il team Usa vince la prima regata",
       "link": "https://napoli.repubblica.it/sport/2026/09/25/news/coppa_america_napoli_regate_preliminari_luna_rossa_oggi_vincitore-425607615/",
       "source": "Repubblica",
       "pubDate": "Fri, 25 Sep 2026 15:03:57 +0000",
-      "excerpt": "Inzio slittato di un’ora a causa del poco vento"
+      "excerpt": "Il Grecale è arrivato dopo due ore di attesa"
     },
     {
       "title": "“Il bambino con il coltello in classe non capiva la gravità del gesto, i compagni erano sconvolti”",
@@ -654,13 +661,6 @@
       "source": "Repubblica",
       "pubDate": "Fri, 25 Sep 2026 12:55:32 +0000",
       "excerpt": "Il ct stasera al secondo debutto sulla panchina dell’Italia nello stesso stadio dove iniziò la cavalcata verso il titolo europeo. “Ho giovani mentalmente liberi, non pensano troppo, fanno quello che gli viene in mente”"
-    },
-    {
-      "title": "A 7 anni a scuola con un coltello da 13 centimetri nello zainetto: il gesto dopo lite coi compagni",
-      "link": "https://bari.repubblica.it/cronaca/2026/09/25/news/bambino_6_anni_a_scuola_coltello_13_centimetri_zaino-425607125/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 11:50:40 +0000",
-      "excerpt": "A Trepuzzi, in provincia di Lecce, il bambino sarebbe sfuggito al controllo dei genitori: “Persone perbene, sconvolti dall’accaduto”. Allertati i carabinieri e i servizi sociali, un’informativa è stata inviata alla Procu"
     },
     {
       "title": "Meta lancia occhiali intelligenti senza fotocamera basati sull'IA VIDEO",
@@ -742,11 +742,39 @@
   ],
   "sport": [
     {
-      "title": "L'Australia spaventa il Brasile, ko evitato solo nel recupero",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/laustralia-spaventa-il-brasile-ko-evitato-solo-nel-recupero_c4173512-223e-4aab-936b-ff7bdf375adf.html",
+      "title": "Figc: Calcagno 'sostegno a Malagò, è situazione paradossale'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/figc-calcagno-sostegno-a-malago-e-situazione-paradossale_51dab507-3461-4065-800a-273a12a34c5d.html",
       "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 17:26:28 +0200",
-      "excerpt": "Rayan sigla l'1-1 al 50', prestazione opaca degli uomini di Ancelotti"
+      "pubDate": "Fri, 25 Sep 2026 17:58:57 +0200",
+      "excerpt": "N.1 Aic: \"procedimento elettorale e' stato fatto nella giusta modalità\""
+    },
+    {
+      "title": "Media Gb, 'City colpevole di quasi tutte le 115 infrazioni finanziarie'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/media-gb-city-colpevole-di-quasi-tutte-le-115-infrazioni-finanziarie_45886cec-bfda-4f91-898d-7a92ceffd31b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 17:47:42 +0200",
+      "excerpt": "Il club ora rischia pesanti sanzioni da parte della Premier League"
+    },
+    {
+      "title": "America's Cup: Luna Rossa senior domina e vince la seconda regata di flotta",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/25/americas-cup-luna-rossa-senior-domina-e-vince-la-seconda-regata-di-flotta_9d1aabb5-2d06-4105-a5df-77a991f0d3fa.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 17:45:42 +0200",
+      "excerpt": "L'AC40 italiano precede gli svizzeri di Alinghi. Caduta in acqua per La Roche-Posay"
+    },
+    {
+      "title": "Frosinone: Grillitsch operato, stop per almeno un mese",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/frosinone-grillitsch-operato-stop-per-almeno-un-mese_3aa1ce2f-e0ab-46fd-96d7-9618483a1304.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 17:43:38 +0200",
+      "excerpt": "Intervento di ernioplastica a Vienna per il centrocampista austriaco"
+    },
+    {
+      "title": "Figc: Ulivieri 'nostro sostegno totale a Malagò'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/figc-ulivieri-nostro-sostegno-totale-a-malago_972c4451-7d30-434f-bf68-3bbce69caa29.html",
+      "source": "ANSA Sport",
+      "pubDate": "Fri, 25 Sep 2026 17:37:15 +0200",
+      "excerpt": "N.1 Aiac: \"Ipotesi commissariamento preoccupa, se si fa questione morale si sbaglia\""
     },
     {
       "title": "Evenepoel per il bis, i Mondiali di ciclismo al rush finale",
@@ -768,34 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Fri, 25 Sep 2026 17:10:20 +0200",
       "excerpt": "Velocista francese non reperibile a tre controlli antidoping di seguito"
-    },
-    {
-      "title": "'In un battito', la storia di Edoardo Bove diventa un film",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/in-un-battito-la-storia-di-edoardo-bove-diventa-un-film_0cd440e6-2fb0-4746-8cf1-50e32ff000f0.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 17:09:48 +0200",
-      "excerpt": "La pellicola sarà presentata in anteprima alla Festa del Cinema di Roma 2026"
-    },
-    {
-      "title": "America's Cup: buona la terza, al via prima regata preliminare a Napoli",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/25/americas-cup-buona-la-terza-al-via-prima-regata-preliminare-a-napoli_d83b2030-7172-4ea1-84a1-1202a435d73e.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 16:59:32 +0200",
-      "excerpt": "Condizioni di vento ok sia in partenza che in bolina, in azione i nove AC40"
-    },
-    {
-      "title": "America's Cup: neutralizzata la prima regata preliminare a Napoli",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/25/americas-cup-neutralizzata-la-prima-regata-preliminare-a-napoli_3d816e79-0414-439a-a322-cf2415ba8f34.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 15:54:57 +0200",
-      "excerpt": "Manca il vento nel campo di gara di via Caracciolo"
-    },
-    {
-      "title": "F1, Gp Azerbaijan: Russell in pole davanti a Leclerc. Antonelli a muro in Q1, partirà 16/o in gara",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/25/f1-gp-azerbaijan-russell-in-pole-davanti-a-leclerc.-antonelli-a-muro-in-q1-partira-16o-in-gara_ab38e02f-31b9-4be8-9535-5084a292fc56.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 15:22:29 +0200",
-      "excerpt": "A Baku seconda fila per Piastri e Hadjar"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
