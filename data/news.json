@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-26T15:07:40.254Z",
+  "lastUpdated": "2026-09-26T15:39:25.707Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Rc Auto e caro carburanti, da Napoli parte mobilitazione nazionale",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/rc-auto-e-caro-carburanti-da-napoli-parte-mobilitazione-nazionale_64ff6006-44ae-4534-8b5f-76a3c9ce667e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 26 Sep 2026 17:32:01 +0200",
+        "excerpt": "Piazza del Carmine gremita, esplode la rabbia dei cittadini"
+      },
+      {
+        "title": "Stretto di Messina: il direttore tecnico Mele passa ad Anas, il progetto del Ponte pronto per il Cipess",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/stretto-di-messina-mele-passa-ad-anas-progetto-del-ponte-pronto-per_02433380-3623-4b78-8f67-f76fc90a3784.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 26 Sep 2026 17:17:36 +0200",
+        "excerpt": "'Il nuovo incarico è stato deciso e condiviso da tempo'"
+      },
       {
         "title": "Come per l’IA nessuno mai: investimenti sino al 3,63 per cento del Pil",
         "link": "https://www.repubblica.it/economia/rubriche/eurobarometro/2026/09/26/news/come_per_l_ia_nessuno_mai_investimenti_sino_al_363_per_cento_del_pil-425609329/?rss",
@@ -17,10 +31,10 @@
         "excerpt": "Mentre il governo valuta un contributo pubblico, gli esperti ragionano su come accantonare denaro per i bambini piccoli"
       },
       {
-        "title": "Il Papa ai francesi, «non nascondete la vostra fede»",
+        "title": "Il Papa ai francesi, «non nascondete la vostra fede». In Place de la Concorde 800mila fedeli",
         "link": "https://www.ilsole24ore.com/art/il-papa-francesi-non-nascondete-vostra-fede-AJyoXEQB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 26 Sep 2026 13:45:08 GMT",
+        "pubDate": "Sat, 26 Sep 2026 13:45:00 GMT",
         "excerpt": "“Spetta a voi portare la speranza là dove regnano lo scoraggiamento e l’aridità spirituale”, ha detto Leone XIV nel paese laico dove si moltiplicano i battesimi"
       },
       {
@@ -73,13 +87,6 @@
         "excerpt": "Vietate le dichiarazioni non verificabili sulla sostenibilità dei prodotti"
       },
       {
-        "title": "Stretto di Messina: il direttore tecnico Mele passa ad Anas, il progetto del Ponte pronto per il Cipess",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/stretto-di-messina-mele-passa-ad-anas-progetto-del-ponte-pronto-per_02433380-3623-4b78-8f67-f76fc90a3784.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 26 Sep 2026 12:29:45 +0200",
-        "excerpt": "'Il nuovo incarico è stato deciso e condiviso da tempo'"
-      },
-      {
         "title": "Le mani americane su L’Avana",
         "link": "https://www.repubblica.it/economia/2026/09/28/news/le_mani_americane_su_l_avana-425607005/?rss",
         "source": "Repubblica Economia",
@@ -113,13 +120,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 26 Sep 2026 08:54:00 GMT",
         "excerpt": "Sanzioni fino a mille euro, deroghe al limite nelle classi e 17,5 milioni per potenziare l’italiano. Sale a 40mila euro la soglia Isee per i libri di testo"
-      },
-      {
-        "title": "Sale il costo del gasolio, ma l'Eni mette un tetto ai prezzi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/sale-il-costo-del-gasolio-ma-leni-mette-un-tetto-ai-prezzi_94d83426-2bbc-400c-a017-36aab3b4da40.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 26 Sep 2026 09:57:49 +0200",
-        "excerpt": "Il governo ringrazia, ma Assotir evoca lo sciopero. Petrolieri convocati per raffinare di più"
       },
       {
         "title": "Cenere lavica dell’Etna, sospese le attività di volo allo scalo di Catania",
@@ -401,6 +401,34 @@
     ],
     "mondo": [
       {
+        "title": "Brasile, a una settimana dal voto Lula vieta le scommesse online",
+        "link": "https://www.repubblica.it/esteri/2026/09/26/news/brasile_a_una_settimana_da_voto_lula_vieta_scommesse_online-425609402/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 26 Sep 2026 17:31:06 +0200",
+        "excerpt": "Il presidente è sfidato da Flávio Bolsonaro, e i sondaggi danno un testa a testa. La mossa è appoggiata da due terzi degli elettori"
+      },
+      {
+        "title": "In 20mila in piazza a Madrid per la 'Marcia della dignità' contro Sanchez e per Ceuta",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/26/in-20mila-in-piazza-a-madrid-per-la-marcia-della-dignita-contro-sanchez-e-per_f51e8eb6-1562-48b7-bbb1-56ed499a9cc5.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 17:26:18 +0200",
+        "excerpt": "Secondo le stime della Delegazione del governo, 180mila per gli organizzatori"
+      },
+      {
+        "title": "Sondaggio Wsj, 'consenso Trump a 37%, ai minimi dal 1990 per presidente a vigilia midterm'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/sondaggio-wsj-consenso-trump-a-37-ai-minimi-dal-1990-per-presidente-a-vigilia_c8127027-5d85-40c1-8070-75c9aed8adb4.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 17:22:35 +0200",
+        "excerpt": "Ma il tycoon è ottimista, 'repubblicani vinceranno ma di poco'"
+      },
+      {
+        "title": "Cnn, 'Zuckerberg cambia ancora look, ritorno allo stile geek'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/cnn-zuckerberg-cambia-ancora-look-ritorno-allo-stile-geek_889e2c9c-972d-4daa-895b-27136c8a58df.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 17:21:53 +0200",
+        "excerpt": "Pantaloni marroni, Ray-Ban e maglietta nera con la scritta 'Building is my love language'"
+      },
+      {
         "title": "Trump says he spoke with Venezuela’s Rodriguez about elections",
         "link": "https://www.investing.com/news/commodities-news/trump-says-he-spoke-with-venezuelas-rodriguez-about-elections-4918595",
         "source": "Investing.com Commodities",
@@ -457,25 +485,11 @@
         "excerpt": "Accordo su stop a censura a media dissidenti e su processo nomine a nuova Corte Suprema"
       },
       {
-        "title": "Attentato contro posto di polizia in Pakistan, 11 morti",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/26/attentato-contro-posto-di-polizia-in-pakistan-11-morti_3b883093-b2d0-44c4-b6ee-01789b1f6bfb.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 26 Sep 2026 15:41:20 +0200",
-        "excerpt": "Tra le vittime otto uomini, due donne e un bambino"
-      },
-      {
         "title": "Spagna, verso il “Frente Amplio”: nuova coalizione delle sinistre dove potrebbe arrivare Ada Colau",
         "link": "https://www.repubblica.it/esteri/2026/09/26/news/spagna_frente_amplio_coalizione_sinistre_ada_colau_elezioni-425608937/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Sat, 26 Sep 2026 14:40:17 +0200",
         "excerpt": "In vista del voto del 2027, l’ex sindaca di Barcellona si avvicina al ritorno in politica e potrebbe diventare la leader dell’alleanza dei partiti progressisti per frenare l’avanzata di Pp e Vox. Ma resta il nodo della p"
-      },
-      {
-        "title": "Trump, 'fake news non accedano alla Casa Bianca, è luogo sacro'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/trump-fake-news-non-accedano-alla-casa-bianca-e-luogo-sacro_2c069c84-ef10-4f59-bab1-b76cd9684e9b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 26 Sep 2026 14:37:07 +0200",
-        "excerpt": "Il presidente attacca, 'situazione va avanti da troppo tempo con un costo enorme per Usa'"
       },
       {
         "title": "EU warns of energy price crisis, urges gas demand cuts - Bloomberg",
@@ -520,13 +534,6 @@
         "excerpt": "L’azienda ha riconosciuto che numerosi siti istituzionali, soprattutto del governo Usa, potrebbero essere stati hackerati da attività improprie di Ia sfuggita al controllo. Pubblicate inoltre “per errore” 53 immagini car"
       },
       {
-        "title": "Inondazioni a Bangkok, dichiarato lo stato di calamità",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/26/inondazioni-a-bangkok-dichiarato-lo-stato-di-calamita_f497d218-9c62-490f-a56e-c9ea7efb2fef.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 26 Sep 2026 06:31:47 +0200",
-        "excerpt": "Piogge torrenziali da giovedì, caduti quasi 300 millimetri di pioggia"
-      },
-      {
         "title": "“Basta pietre di inciampo”, in Sassonia Cdu con l’Afd: ira del comitato Auschwitz",
         "link": "https://www.repubblica.it/esteri/2026/09/26/news/basta_pietre_inciampo_sassonia_cdu_afd_ira_comitato_auschwitz-425608262/?rss",
         "source": "Repubblica Esteri",
@@ -539,13 +546,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Sat, 26 Sep 2026 01:00:00 +0200",
         "excerpt": "Il presidente Usa chiede lo stop all’assistenza alla Repubblica Islamica, il leader cinese. “Torna al memorandum di luglio e tratta”. Mini-accordo solo sulla tregua commerciale"
-      },
-      {
-        "title": "Battesimi e influencer-missionari, la Francia riscopre il cattolicesimo",
-        "link": "https://www.repubblica.it/esteri/2026/09/26/news/battesimi_influencer_missionari_francia_riscopre_cattolicesimo-425608136/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 01:00:00 +0200",
-        "excerpt": "La folla che ieri ha acclamato il pontefice è il segno del risveglio della dimensione religiosa nel Paese simbolo della laicità"
       },
       {
         "title": "Analysis-Talk of US export ban on diesel deepens US crude futures’ discount to global benchmark",
@@ -572,6 +572,27 @@
   },
   "attualita": [
     {
+      "title": "++ Morto a 15 anni folgorato su un traliccio, ipotesi sfida social ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/26/morto-a-15-anni-folgorato-su-un-traliccio-ipotesi-sfida-social_da7ca068-61d3-4fa7-8abd-6fbc7c505298.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 17:30:59 +0200",
+      "excerpt": "Nel lodigiano, salito a 20 metri di altezza probabilmente per scattarsi un selfie"
+    },
+    {
+      "title": "Papa Leone ai francesi: 'Non nascondete la vostra fede'",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 17:29:37 +0200",
+      "excerpt": "A Parigi il pontefice accolto da migliaia di persone. Piazza della Concorde gremita per la messa, sono almeno 800 mila"
+    },
+    {
+      "title": "Tajani: 'Magistrati 'perdonisti' rimettono troppi in libertà, la sicurezza è diritto'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/anm-a-tajani-la-responsabilita-sulla-sicurezza-non-si-scarica-sui-magistrati_2ef91653-9a51-4252-83d2-12153bd223b7.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 17:25:57 +0200",
+      "excerpt": "La risposta di Anm: 'Le sue parole contrarie allo Stato di diritto. La giustizia non è uno strumento di intimidazione'"
+    },
+    {
       "title": "America’s Cup, show francese nel golfo di Napoli: per La Roche-Posay due vittorie e altra “scuffia”",
       "link": "https://napoli.repubblica.it/sport/2026/09/26/news/america_s_cup_show_francese_nel_golfo_di_napoli_due_vittorie_e_un_altra_scuffia-425609301/",
       "source": "Repubblica",
@@ -579,32 +600,11 @@
       "excerpt": "La Roche-Posay stupisce nel day-2 della preregata partenopea. Ma in classifica generale il duello è tra Luna Rossa e New Zealand"
     },
     {
-      "title": "Papa Leone ai francesi: 'Non nascondete la vostra fede'",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 16:20:16 +0200",
-      "excerpt": "A Parigi il pontefice accolto da migliaia di persone. Piazza della Concorde gremita per la messa"
-    },
-    {
-      "title": "Una donna getta dell'acido al suo avvocato, il legale è ricoverato",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/donna-getta-acido-al-suo-avvocato-a-messina-legale-ricoverato_f6ffe7d9-7664-4ed8-9dec-1f7f960942ea.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 16:15:47 +0200",
-      "excerpt": "L'aggressione a Messina. La vittima ha riportato ustioni sul 20% del corpo, è in Rianimazione a Catania. L'uomo: 'E' una cliente con problemi mentali'"
-    },
-    {
       "title": "Siracusano, sottosegretaria FI: \"Vannacci mi ha spogliata con l'IA. Che viltà, lo denuncio\"",
       "link": "https://www.repubblica.it/politica/2026/09/26/news/matilde_siracusano_fi_vannacci_foto_nuda_ia_intervista-425609252/",
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 14:05:45 +0000",
       "excerpt": "L’esponente di Forza Italia “senza parole” per il post dell’ex generale sulla campagna elettorale a Reggio. Tajani: \"Volgare e inaccettabile”"
-    },
-    {
-      "title": "Omicidio di Torino, la madre del fermato: 'Piangeva, era sconvolto' ",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/omicidio-di-torino-la-madre-del-fermato-piangeva-era-sconvolto-_dfe8e53a-0135-4ecc-828a-3bdb360f920c.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 16:03:32 +0200",
-      "excerpt": "\"Diceva cose confuse, non capivo cosa avesse fatto\""
     },
     {
       "title": "Russell vince a Baku davanti a Verstappen. Antonelli da 16° a 5°, Ferrari giù dal podio",
@@ -742,6 +742,41 @@
   ],
   "sport": [
     {
+      "title": "Abodi 'Futuro sportivo per Bagnoli, con il dialogo spiegherò dove andiamo'",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/abodi-futuro-sportivo-per-bagnoli-con-il-dialogo-spieghero-dove-andiamo_e8a184dc-40ab-460c-b5e3-e44c339df8bb.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 17:21:53 +0200",
+      "excerpt": "\"Capisco le proteste, fondamentale far sapere cosa abbiamo intenzione di fare\""
+    },
+    {
+      "title": "Calcio: U21; Cisse \"sono in un gruppo speciale, voglio dare il massimo\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/calcio-u21-cisse-sono-in-un-gruppo-speciale-voglio-dare-il-massimo_168896a5-5810-42d4-ad88-d29549d71a19.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 17:21:22 +0200",
+      "excerpt": "L'attaccante \"speriamo di festeggiare a Pescara la qualificazione a Euro 2027\""
+    },
+    {
+      "title": "F1: Vasseur 'sapevamo che Baku sarebbe stata difficile, si doveva far meglio'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/26/f1-vasseur-sapevamo-che-baku-sarebbe-stata-difficile-si-doveva-far-meglio_2240854b-5b78-4a5d-9190-dbb8539b9c96.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 17:19:33 +0200",
+      "excerpt": "Il team principal Ferrari: \"Soffriamo sui rettilinei lunghi\""
+    },
+    {
+      "title": "F1: Leclerc, 'massimizzato il risultato, ritmo costante ma insufficiente'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/26/f1-leclerc-massimizzato-il-risultato-ritmo-costante-ma-insufficiente_c8085ae4-c53e-44d3-9029-a03275818f52.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 17:08:08 +0200",
+      "excerpt": "Hamilton: \"Non il weekend che volevamo, tanta fatica con le gomme\""
+    },
+    {
+      "title": "America's Cup: regate preliminari, Luna Rossa al comando dopo due giornate",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-regate-preliminari-luna-rossa-al-comando-dopo-due-giornate_0422e9bc-6f3f-4ac0-8f15-ce7493471f45.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 17:01:53 +0200",
+      "excerpt": "La barca italiana prima con 51 punti davanti a New Zealand (43) e Alinghi (38)"
+    },
+    {
       "title": "America's Cup: riscatto La Roche-Posay, Luna Rossa chiude in testa alla classifica",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-riscatto-la-roche-posay-luna-rossa-chiude-in-testa-alla_18b5922c-090e-4ecc-8d70-a914ef672cae.html",
       "source": "ANSA Sport",
@@ -756,46 +791,11 @@
       "excerpt": "Tensioni a Debrecen, alcuni chiedevano di boicottare la gara ma la federazione la conferma"
     },
     {
-      "title": "Cobolli perde al tiebreak decisivo con Tien in Laver Cup",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/26/cobolli-perde-al-tiebreak-decisivo-con-tien-in-laver-cup_2966bf86-a0d7-47b6-8cf6-b0f1aaeafaaa.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 16:13:10 +0200",
-      "excerpt": "Il Mondo pareggia i conti con l'Europa, 3-3 dopo il primo match di giornata"
-    },
-    {
       "title": "America's Cup: La Roche-Posay scuffia sul traguardo, terza regata va a New Zealand Y&W",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-la-roche-posay-scuffia-sul-traguardo-terza-regata-va-a-new_26c7ef98-f3e3-4a39-ad31-deaad3b3ccae.html",
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 16:12:45 +0200",
       "excerpt": "Epilogo a sorpresa nella quinta fleet race, Luna Rossa si piazza al secondo posto"
-    },
-    {
-      "title": "America's Cup: Abodi 'Entusiasmo Napoli e tanti turisti, c'è già un ritorno immediato'",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-abodi-entusiasmo-napoli-e-tanti-turisti-ce-gia-un-ritorno-immediato_513b907a-9e8f-4981-85c7-f28f17e28f84.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 16:11:19 +0200",
-      "excerpt": "Il ministro alla regata preliminare: \"Investimento pubblico rilevante ma ad alta resa\""
-    },
-    {
-      "title": "F1: Antonelli, 'weekend peggiore dell'anno, devo accontentarmi del 5/o posto'",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/26/f1-antonelli-weekend-peggiore-dellanno-devo-accontentarmi-del-5o-posto_23de7f8b-174d-47a6-8f5e-fe367ed6781e.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 15:49:16 +0200",
-      "excerpt": "Il pilota Mercedes: \"Russell è stato fantastico, io insoddisfatto della guida\""
-    },
-    {
-      "title": "America's Cup: la seconda prova di flotta va ai francesi di La Roche-Posay",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-la-seconda-prova-di-flotta-va-ai-francesi-di-la-roche-posay_079ab98a-9ffb-4b67-8ef2-149d58ceaf29.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 15:29:04 +0200",
-      "excerpt": "Day 2 della regata preliminare: solo sesta Luna Rossa senior penalizzata in partenza"
-    },
-    {
-      "title": "Alajbegovic, 'la Juve vuole competere per il titolo'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/alajbegovic-la-juve-vuole-competere-per-il-titolo_1a994009-53ea-492a-a0f2-aaf5aa102ed7.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 15:20:07 +0200",
-      "excerpt": "Il bosniaco bianconero, 'Spalletti è un top, mi aiuta a migliorare'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
