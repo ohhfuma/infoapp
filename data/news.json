@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T11:07:19.869Z",
+  "lastUpdated": "2026-09-26T11:37:08.006Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "With a Super El Nino, analyst asks: What happens to LNG demand?",
+        "link": "https://www.investing.com/news/commodities-news/with-a-super-el-nino-analyst-asks-what-happens-to-lng-demand-4918560",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-26 11:12:12",
+        "excerpt": ""
+      },
+      {
         "title": "Spagna, verso il “Frente Amplio”: nuova coalizione delle sinistre dove potrebbe arrivare Ada Colau",
         "link": "https://www.repubblica.it/esteri/2026/09/26/news/spagna_frente_amplio_coalizione_sinistre_ada_colau_elezioni-425608937/?rss",
         "source": "Repubblica Esteri",
@@ -560,23 +567,16 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-25 19:41:12",
         "excerpt": ""
-      },
-      {
-        "title": "Oil prices slide about 2% as US, Iran explore path out of war",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities-4916502",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 19:30:26",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
     {
-      "title": "Una donna getta acido al suo avvocato a Messina, legale ricoverato",
+      "title": "Una donna getta dell'acido al suo avvocato, il legale è ricoverato",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/donna-getta-acido-al-suo-avvocato-a-messina-legale-ricoverato_f6ffe7d9-7664-4ed8-9dec-1f7f960942ea.html",
       "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 13:01:31 +0200",
-      "excerpt": "Vittima ha riportato ustioni sul 20% del corpo, è in Rianimazione a Catania"
+      "pubDate": "Sat, 26 Sep 2026 13:17:17 +0200",
+      "excerpt": "L'aggressione a Messina. La vittima ha riportato ustioni sul 20% del corpo, è in Rianimazione a Catania"
     },
     {
       "title": "Il viaggio del Papa in Francia. Leone a Parigi al centro per migranti, primo appuntamento del giorno",
@@ -586,11 +586,32 @@
       "excerpt": "Oggi per il pontefice la messa nella capitale francese, poi vola a Lourdes"
     },
     {
+      "title": "La lite per il crack, poi il delitto e il corpo fatto a pezzi: i misteri dell’omicidio di Colapietro",
+      "link": "https://torino.repubblica.it/cronaca/2026/09/26/news/crack_delitto_corpo_fatto_a_pezzi_omicidio_colapietro_torino-425608954/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 10:41:08 +0000",
+      "excerpt": "La pista che si fa strada tra gli investigatori sull’origine dell’omicidio di Fabio Colapietro, ucciso e fatto a pezzi a Torino. Tre persone sono state fermate, ma la ricostruzione del delitto è ancora tutta da chiarire."
+    },
+    {
+      "title": "I novant'anni di Berlusconi. Figli e amici a Villa Certosa e una maxi torta tricolore a Napoli",
+      "link": "https://www.repubblica.it/politica/2026/09/26/news/berlusconi_celebrazione_90_anni_villa_certosa_napoli-425608944/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 10:34:39 +0000",
+      "excerpt": "Il Cavaliere, scomparso nel giugno del 2023, avrebbe compiuto gli anni il 29 settembre"
+    },
+    {
       "title": "Leone XIV in Francia, per la stampa francese il papa è una star",
       "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/09/26/leone-xiv-in-francia-per-la-stampa-francese-il-papa-e-una-star_28579fc1-03f2-4109-86dd-53deee90f7a2.html",
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 12:33:34 +0200",
       "excerpt": "'Leone il Parigino', 'Leone in Francia, giorno 1, Papa star a Parigi', 'Letizia e fervore'"
+    },
+    {
+      "title": "Spagna, verso il “Frente Amplio”: nuova coalizione delle sinistre dove potrebbe arrivare Ada Colau",
+      "link": "https://www.repubblica.it/esteri/2026/09/26/news/spagna_frente_amplio_coalizione_sinistre_ada_colau_elezioni-425608937/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 10:32:38 +0000",
+      "excerpt": "In vista del voto del 2027, l’ex sindaca di Barcellona si avvicina al ritorno in politica e potrebbe diventare la leader dell’alleanza dei partiti progressisti per frenare l’avanzata di Pp e Vox. Ma resta il nodo della p"
     },
     {
       "title": "Fiorello, ritorno a sorpresa su Rai1. L’annuncio in un video social",
@@ -605,6 +626,13 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 09:43:24 +0000",
       "excerpt": "L’embargo soffoca l’isola, senza energia e cibo Intanto a Miami si disegnano i piani per il post-castrismo: un grande banchetto immobiliare"
+    },
+    {
+      "title": "L’assessora di Belluno non indietreggia. “Il libro negazionista sul clima rimarrà nelle scuole”",
+      "link": "https://www.repubblica.it/cronaca/2026/09/26/news/belluno_libri_scuola_negazionista_clima_assessora_ambiente-425608804/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 09:27:32 +0000",
+      "excerpt": "“Conteneva gli atti di una conferenza” si difende l’esponente di Forza Italia. Che anzi rilancia e propone un convegno aperto a chi smentisce che i gas serra siano la causa del riscaldamento globale"
     },
     {
       "title": "Il Papa a Parigi, oggi messa con 600mila fedeli a Place de la Concorde",
@@ -642,39 +670,11 @@
       "excerpt": ""
     },
     {
-      "title": "OpenAi: “Decine di governi nel mondo colpiti dai nostri agenti di Intelligenza artificiale”",
-      "link": "https://www.repubblica.it/esteri/2026/09/26/news/openai_colpiti_siti_governo_pubblicate_foto_utenti-425608601/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 07:16:52 +0000",
-      "excerpt": "L’azienda ha riconosciuto che numerosi siti istituzionali, soprattutto del governo Usa, potrebbero essere stati hackerati da attività improprie di Ia sfuggita al controllo. Pubblicate inoltre “per errore” 53 immagini car"
-    },
-    {
       "title": "Artico, il ghiaccio marino ha raggiunto l'estensione minima annuale ",
       "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/09/26/artico-il-ghiaccio-marino-ha-raggiunto-lestensione-minima-annuale-_89f690b9-a129-471d-9314-b3e3a63b35c3.html",
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 09:04:59 +0200",
       "excerpt": "Stabilizzata nell'ultimo decennio dalla maggiore copertura nuvolosa"
-    },
-    {
-      "title": "Ponte sullo Stretto, il direttore tecnico lascia l'incarico. Nuova grana per il progetto di Salvini",
-      "link": "https://www.repubblica.it/politica/2026/09/26/news/ponte_sullo_stretto_valerio_mele_direttore_tecnico_lascia_incarico_salvini-425607963/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 05:00:00 +0000",
-      "excerpt": "Valerio Mele dal primo ottobre torna in Anas. Un addio che arriva alla vigilia dell’attesa ripresentazione della delibera al Cipess"
-    },
-    {
-      "title": "Ceto medio, ipotesi taglio Irpef per tre milioni di contribuenti.Moody’s conferma il rating",
-      "link": "https://www.repubblica.it/economia/2026/09/26/news/ceto_medio_ipotesi_taglio_irpef_per_tre_milioni_di_contribuenti_moody_s_conferma_il_rating-425608361/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 23:00:00 +0000",
-      "excerpt": "L’agenzia americana prevede il deficit al 3%: “Servono progressi più rapidi sul fronte dell’occupazione e dell’innovazione”"
-    },
-    {
-      "title": "Una vita da evasore: scontrini falsi, buoni regalo e ordinazioni fantasma",
-      "link": "https://www.repubblica.it/economia/2026/09/26/news/evasori_scontrini_falsi_buoni_regalo_ordinazioni_fantasma_inchiesta_finanza-425608364/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 23:00:00 +0000",
-      "excerpt": "Le inchieste della Guardia di Finanza ci regalano uno spaccato del Paese furbetto, dove il contante è ancora re e chi non dichiara prende anche la Naspi"
     },
     {
       "title": "Il prof youtuber Schettini agli studenti, tre consigli per ripartire",
@@ -742,11 +742,25 @@
   ],
   "sport": [
     {
-      "title": "È ancora azzurro tenebra, neanche Mancini rianima l'Italia ",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/e-ancora-azzurro-tenebra-neanche-mancini-rianima-litalia-_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "title": "F1, Gran premio di Baku",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/f1-gran-premio-di-baku_7c2ccad1-fd34-4355-80a4-1ba4d6413837.html",
       "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 12:59:44 +0200",
-      "excerpt": "Dai fischi all'inno del Belgio a quelli alla nazionale: dominati e sconfitti 2-0 all'Olimpico"
+      "pubDate": "Sat, 26 Sep 2026 13:27:12 +0200",
+      "excerpt": "Al via la quindicesima prova della stagione. La griglia di partenza"
+    },
+    {
+      "title": "America's Cup: oltre 26mila accessi al Race Village, oggi quattro regate di flotta",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-oltre-26mila-accessi-al-race-village-oggi-quattro-regate_66d4dbd2-f9cd-4b63-8ce2-d278dad22762.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 13:14:47 +0200",
+      "excerpt": "Il comitato di gara ha deciso di recuperare la prova non disputata ieri per poco vento"
+    },
+    {
+      "title": "La nazionale al lavoro a Roma, dopo il ko col Belgio testa alla Turchia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/la-nazionale-al-lavoro-a-roma-dopo-il-ko-col-belgio-testa-alla-turchia_98a2fa9a-ad75-46a8-b306-397d0b6c35c4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 13:05:44 +0200",
+      "excerpt": "Al Cpo Onesti allenamento per chi non ha giocato ieri. Domani la partenza per la Turchia"
     },
     {
       "title": "Bjk Cup: Grant sconfitta da Kalinina, Ucraina avanti 1-0 sull'Italia",
@@ -782,20 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 09:59:41 +0200",
       "excerpt": "Il francese batte 7-6 6-1 il giovane azzurro nell'Atp 250 cinese"
-    },
-    {
-      "title": "Nba: Curry rinnova per 2 anni coi Warriors e rinuncia a 20 milioni",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/26/nba-curry-rinnova-per-2-anni-coi-warriors-e-rinuncia-a-20-milioni_31092e59-070f-4767-9296-5de03d113ee4.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 09:24:41 +0200",
-      "excerpt": "A Golden State dal 2009, niente massimo salariale per aiutare il mercato"
-    },
-    {
-      "title": "Nations League: Mbappe' segna ed esce, Francia preoccupata per l'infortunio",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-mbappe-segna-ed-esce-francia-preoccupata-per-linfortunio_872d067c-9687-47e6-b4f2-69ff929c2a9d.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 23:27:01 +0200",
-      "excerpt": "Il fuoriclasse in gol contro la Turchia regala la vittoria all'esordio per Zidane ct"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
