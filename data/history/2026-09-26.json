@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Il Papa ai francesi, «non nascondete la vostra fede»",
+        "link": "https://www.ilsole24ore.com/art/il-papa-francesi-non-nascondete-vostra-fede-AJyoXEQB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 13:45:08 GMT",
+        "excerpt": "“Spetta a voi portare la speranza là dove regnano lo scoraggiamento e l’aridità spirituale”, ha detto Leone XIV nel paese laico dove si moltiplicano i battesimi"
+      },
+      {
         "title": "Gold Fields si avvicina a Northern Star per una possibile acquisizione",
         "link": "https://it.investing.com/news/stock-market-news/gold-fields-si-avvicina-a-northern-star-per-una-possibile-acquisizione-3563680",
         "source": "Investing.com Italia",
@@ -415,13 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 25 Sep 2026 10:46:48 GMT",
         "excerpt": "Vale 3,7 miliardi per Fincantieri e Leonardo, tramite la joint venture Orizzonte Sistemi Navali, il contratto per due cacciatorpedinieri ’Ddx’ di nuova generazione"
-      },
-      {
-        "title": "Rottamazione quinquies: come sanare debiti locali su Imu, Tari, multe e bollo auto in 1.500 enti. Ecco l’elenco",
-        "link": "https://www.ilsole24ore.com/art/multe-bollo-auto-imu-e-tari-rottamabili-1500-enti-locali-domande-16-ottobre-AJbMowOB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 10:24:00 GMT",
-        "excerpt": "Il conto alla rovescia per la rottamazione quinquies delle entrate locali è cominciato. Per Imu, Tari, multe e bollo auto si apre la porta della sanatoria. In corso ci sono..."
       }
     ],
     "europa": [
@@ -660,6 +660,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Concluso il secondo round di negoziati tra governo e opposizione in Venezuela",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/26/concluso-il-secondo-round-di-negoziati-tra-governo-e-opposizione-in-venezuela_f9b55969-56a9-4e86-b4f5-7029b0316848.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 15:41:23 +0200",
+        "excerpt": "Accordo su stop a censura a media dissidenti e su processo nomine a nuova Corte Suprema"
+      },
       {
         "title": "Trump, 'fake news non accedano alla Casa Bianca, è luogo sacro'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/trump-fake-news-non-accedano-alla-casa-bianca-e-luogo-sacro_2c069c84-ef10-4f59-bab1-b76cd9684e9b.html",
@@ -1021,6 +1028,20 @@
   },
   "attualita": [
     {
+      "title": "Russell vince a Baku davanti a Verstappen. Antonelli da 16° a 5°, Ferrari giù dal podio",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/09/26/news/f1_gp_baku_2026_vince_russell_ferrari_antonelli-425609244/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 13:56:27 +0000",
+      "excerpt": "Il pilota della Mercedes guida dal primo all’ultimo metro, il compagno di squadra leader del mondiale rimonta e limita i danni in classifica. Leclerc quarto, Hamilton sesto"
+    },
+    {
+      "title": "Israele-Irlanda, scoppia il caso: cinque giocatori si rifiutano di giocare e la partita è a rischio",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/26/news/israele_irlanda_boicottaggio_scoppia_caso-425609209/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 13:29:50 +0000",
+      "excerpt": "Sono pressanti le richieste alla squadra di non scendere in campo domani e anche domenica"
+    },
+    {
       "title": "A 15 anni muore folgorato su un traliccio nel Lodigiano: l’ipotesi di una sfida social",
       "link": "https://milano.repubblica.it/cronaca/2026/09/26/news/lodi_ragazzino_morto_fulminato_challenge_social_jacopo_rossi_trabattoni-425609166/",
       "source": "Repubblica",
@@ -1040,6 +1061,13 @@
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 14:36:12 +0200",
       "excerpt": "\"Diceva cose confuse, non capivo cosa avesse fatto\""
+    },
+    {
+      "title": "Malta e la Sicilia erano tutt’uno. Una striscia di terra ha collegato le due isole fino a 13 anni mila fa",
+      "link": "https://www.repubblica.it/cronaca/2026/09/26/news/sicilia_malta_unite_corridoio_terra_cnr_ogs-425609056/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 11:45:20 +0000",
+      "excerpt": "Una campagna navale di ricercatori italiani e maltesi ha permesso di ricostruire i fondali. “Durante l’era glaciale il Mediterraneo era meno profondo di 130 metri rispetto a oggi”"
     },
     {
       "title": "Una donna getta acido al suo avvocato a Messina, legale ricoverato",
@@ -1418,30 +1446,16 @@
       "source": "ANSA",
       "pubDate": "Thu, 24 Sep 2026 19:19:55 +0200",
       "excerpt": "A Mandas centro intermodale e a dicembre apre la 'Locanda Lawrence'"
-    },
-    {
-      "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
-      "link": "https://www.corriere.it/politica/24_maggio_12/inchiesta-liguria-marco-bucci-gioco-al-massacro-non-ci-sto-chiedo-chiarezza-su-di-me-sono-pronto-a-parlare-con-i-pm-57e1da92-5b6c-4d81-94f6-321a522abxlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 08:07:51 +0200",
-      "excerpt": "Il sindaco di Genova: «Le mie parole sui maiali intercettate? Per ogni area nel porto si scatena la rissa. I soldi del ponte Morandi per un favore a Spinelli? È una falsità, quei soldi non c’entrano nulla»Il sindaco di G"
-    },
-    {
-      "title": "Fedez denunciato per il caso Iovino, identificato dalle telecamere: «Ma quale massacro, io non c’ero»",
-      "link": "https://milano.corriere.it/notizie/cronaca/24_maggio_13/fedez-denunciato-iovino-3eeb49c3-fa4c-448d-bac5-d7bb9f09fxlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 08:01:38 +0200",
-      "excerpt": "Il rapper identificato con le telecamere. «Di cosa parliamo? Lui tre giorni dopo era a ballare». Presente quella sera nel locale anche Ludovica Di GresyLe telecamere che hanno ripreso il pestaggio inquadrerebbero il rapp"
-    },
-    {
-      "title": "I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia ",
-      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 08:00:32 +0200",
-      "excerpt": "Sui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumentatiSui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumenta"
     }
   ],
   "sport": [
+    {
+      "title": "F1: Antonelli, 'weekend peggiore dell'anno, devo accontentarmi del 5/o posto'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/26/f1-antonelli-weekend-peggiore-dellanno-devo-accontentarmi-del-5o-posto_23de7f8b-174d-47a6-8f5e-fe367ed6781e.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 15:49:16 +0200",
+      "excerpt": "Il pilota Mercedes: \"Russell è stato fantastico, io insoddisfatto della guida\""
+    },
     {
       "title": "America's Cup: la seconda prova di flotta va ai francesi di La Roche-Posay",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-la-seconda-prova-di-flotta-va-ai-francesi-di-la-roche-posay_079ab98a-9ffb-4b67-8ef2-149d58ceaf29.html",
