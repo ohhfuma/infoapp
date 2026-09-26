@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-09-26T14:38:30.133Z",
+  "lastUpdated": "2026-09-26T15:07:40.254Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Come per l’IA nessuno mai: investimenti sino al 3,63 per cento del Pil",
+        "link": "https://www.repubblica.it/economia/rubriche/eurobarometro/2026/09/26/news/come_per_l_ia_nessuno_mai_investimenti_sino_al_363_per_cento_del_pil-425609329/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 26 Sep 2026 16:57:56 +0200",
+        "excerpt": "Dal 2024 i baroni dell’intelligenza artificiale hanno investito nei centri dati 1.200 miliardi di dollari, ricavandone 277 miliardi di incassi"
+      },
+      {
+        "title": "Previdenza per i figli: muoversi oggi per il domani",
+        "link": "https://www.repubblica.it/economia/2026/09/26/news/previdenza_per_i_figli_muoversi_oggi_per_il_domani-425607506/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 26 Sep 2026 16:00:00 +0200",
+        "excerpt": "Mentre il governo valuta un contributo pubblico, gli esperti ragionano su come accantonare denaro per i bambini piccoli"
+      },
       {
         "title": "Il Papa ai francesi, «non nascondete la vostra fede»",
         "link": "https://www.ilsole24ore.com/art/il-papa-francesi-non-nascondete-vostra-fede-AJyoXEQB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 26 Sep 2026 13:45:08 GMT",
         "excerpt": "“Spetta a voi portare la speranza là dove regnano lo scoraggiamento e l’aridità spirituale”, ha detto Leone XIV nel paese laico dove si moltiplicano i battesimi"
+      },
+      {
+        "title": "Sottile (Slow Food): “Abbiamo distrutto la biodiversità. Serve una svolta agroecologica”",
+        "link": "https://www.repubblica.it/economia/2026/09/26/news/sottile_slow_food_abbiamo_distrutto_la_biodiversita_serve_una_svolta_agroecologica-425607681/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 26 Sep 2026 15:00:00 +0200",
+        "excerpt": "Parla il docente e vicepresidente di Slow Food: “Per un secolo abbiamo pensato di poter fare a meno dei servizi ecosistemici. Ma il modello industriale ha distrutto la biodiversità e creato dipendenze”"
       },
       {
         "title": "Gold Fields si avvicina a Northern Star per una possibile acquisizione",
@@ -171,27 +192,6 @@
         "excerpt": ""
       },
       {
-        "title": "L’inflazione si è mangiata un pezzo dei salari: il potere d’acquisto giù del 10%",
-        "link": "https://www.repubblica.it/economia/2026/09/26/news/inflazione_salari_potere_acquisto_meloni-425608372/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 26 Sep 2026 01:00:00 +0200",
-        "excerpt": "Gli italiani sono spaventati, la fiducia dei consumatori è calata, per questo la premier parla d’altro. L’opposizione si occupi di lavoro"
-      },
-      {
-        "title": "Poste chiude la scalata a Tim, per il delisting serve un’altra mossa",
-        "link": "https://www.repubblica.it/economia/2026/09/26/news/poste_chiude_scalata_tim_delisting-425608377/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 26 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il gruppo di Del Fante sale all’85% del capitale della società telefonica: nel dossier l’opzione fusione o una nuova offerta"
-      },
-      {
-        "title": "Una vita da evasore: scontrini falsi, buoni regalo e ordinazioni fantasma",
-        "link": "https://www.repubblica.it/economia/2026/09/26/news/evasori_scontrini_falsi_buoni_regalo_ordinazioni_fantasma_inchiesta_finanza-425608364/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 26 Sep 2026 01:00:00 +0200",
-        "excerpt": "Le inchieste della Guardia di Finanza ci regalano uno spaccato del Paese furbetto, dove il contante è ancora re e chi non dichiara prende anche la Naspi"
-      },
-      {
         "title": "Moody's, Italia resiliente a shock energia, quest'anno pil +0,8%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/moodys-italia-resiliente-a-shock-energia-questanno-pil-08_84306d2a-f8c6-462b-9347-ab0f655f9d1b.html",
         "source": "ANSA Economia",
@@ -236,7 +236,7 @@
         "excerpt": "L’iniziativa è appoggiata dalla destra nazionalista e si è sviluppata sull’onda dell’adesione della Confederazione alla gran parte delle sanzioni Ue contro la Russia"
       },
       {
-        "title": "Mosca rivendica attacchi contro centro dati di Kiev a supporto di Starlink",
+        "title": "Mosca rivendica attacchi contro centro dati di Kiev. Trump: «Forse  faranno accordo prima del pieno inverno»",
         "link": "https://www.ilsole24ore.com/art/mosca-rivendica-attacchi-contro-centro-dati-kiev-supporto-starlink-AJ3qp5PB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sat, 26 Sep 2026 09:23:00 GMT",
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Trump says he spoke with Venezuela’s Rodriguez about elections",
+        "link": "https://www.investing.com/news/commodities-news/trump-says-he-spoke-with-venezuelas-rodriguez-about-elections-4918595",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-26 14:54:32",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump predicts Cuba and US will make a deal",
+        "link": "https://www.investing.com/news/commodities-news/trump-predicts-cuba-and-us-will-make-a-deal-4918594",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-26 14:42:30",
+        "excerpt": ""
+      },
+      {
         "title": "Uragano Polo riacquista forza 5 di fronte alla costa occidentale del Messico",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/26/uragano-polo-riacquista-forza-5-di-fronte-alla-costa-occidentale-del-messico_7060871c-e5ff-464a-b2d7-cb02ebbbba13.html",
         "source": "ANSA Mondo",
@@ -553,24 +567,17 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-25 22:42:37",
         "excerpt": ""
-      },
-      {
-        "title": "Gold slips 2% for the week amid rise in dollar and yields, boost to Fed hike bets",
-        "link": "https://www.investing.com/news/commodities-news/gold-edges-lower-set-for-weekly-loss-as-oil-fuels-fed-hike-bets-4916501",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 20:40:26",
-        "excerpt": ""
-      },
-      {
-        "title": "Iran’s Araqchi says now up to US to accept 7-day plan",
-        "link": "https://www.investing.com/news/commodities-news/irans-araqchi-says-now-up-to-us-to-accept-7day-plan-4918113",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 20:36:51",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "America’s Cup, show francese nel golfo di Napoli: per La Roche-Posay due vittorie e altra “scuffia”",
+      "link": "https://napoli.repubblica.it/sport/2026/09/26/news/america_s_cup_show_francese_nel_golfo_di_napoli_due_vittorie_e_un_altra_scuffia-425609301/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 14:42:46 +0000",
+      "excerpt": "La Roche-Posay stupisce nel day-2 della preregata partenopea. Ma in classifica generale il duello è tra Luna Rossa e New Zealand"
+    },
     {
       "title": "Papa Leone ai francesi: 'Non nascondete la vostra fede'",
       "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
@@ -607,13 +614,6 @@
       "excerpt": "Il pilota della Mercedes guida dal primo all’ultimo metro, il compagno di squadra leader del mondiale rimonta e limita i danni in classifica. Leclerc quarto, Hamilton sesto"
     },
     {
-      "title": "Israele-Irlanda, cinque giocatori si rifiutano di scendere in campo ma la partita si deve giocare",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/26/news/israele_irlanda_boicottaggio_scoppia_caso-425609209/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 13:29:50 +0000",
-      "excerpt": "Sono pressanti le richieste alla squadra di non scendere in campo domani e anche domenica"
-    },
-    {
       "title": "Malta e la Sicilia erano tutt’uno. Una striscia di terra ha collegato le due isole fino a 13 anni mila fa",
       "link": "https://www.repubblica.it/cronaca/2026/09/26/news/sicilia_malta_unite_corridoio_terra_cnr_ogs-425609056/",
       "source": "Repubblica",
@@ -625,7 +625,7 @@
       "link": "https://torino.repubblica.it/cronaca/2026/09/26/news/crack_delitto_corpo_fatto_a_pezzi_omicidio_colapietro_torino-425608954/",
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 10:41:08 +0000",
-      "excerpt": "La pista che si fa strada tra gli investigatori sull’origine dell’omicidio di Fabio Colapietro, ucciso e fatto a pezzi a Torino. Tre persone sono state fermate, ma la ricostruzione del delitto è ancora tutta da chiarire."
+      "excerpt": "In corso gli interrogatori di convalida l’omicidio di Fabio Colapietro, ucciso e fatto a pezzi a Torino. Tre persone sono state fermate. La professoressa si è avvalsa della facoltà di non rispondere, la donna trans ha ne"
     },
     {
       "title": "I novant'anni di Berlusconi. Figli e amici a Villa Certosa e una maxi torta tricolore a Napoli",
@@ -670,11 +670,11 @@
       "excerpt": ""
     },
     {
-      "title": "Artico, il ghiaccio marino ha raggiunto l'estensione minima annuale ",
-      "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/09/26/artico-il-ghiaccio-marino-ha-raggiunto-lestensione-minima-annuale-_89f690b9-a129-471d-9314-b3e3a63b35c3.html",
+      "title": "I colori della laguna di Venezia visti dai satelliti ",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/26/i-colori-della-laguna-di-venezia-catturati-dai-satelliti-iride_0ede9c10-07f0-4061-9fe7-7fadf10e27e1.html",
       "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 09:04:59 +0200",
-      "excerpt": "Stabilizzata nell'ultimo decennio dalla maggiore copertura nuvolosa"
+      "pubDate": "Sat, 26 Sep 2026 09:12:46 +0200",
+      "excerpt": "Dalla costellazione Iride le scie delle barche e le paludi salmastre"
     },
     {
       "title": "Il prof youtuber Schettini agli studenti, tre consigli per ripartire",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "America's Cup: riscatto La Roche-Posay, Luna Rossa chiude in testa alla classifica",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-riscatto-la-roche-posay-luna-rossa-chiude-in-testa-alla_18b5922c-090e-4ecc-8d70-a914ef672cae.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 16:54:36 +0200",
+      "excerpt": "Francesi vittoriosi nell'ultima prova della seconda giornata. Italiani primi a 51 punti"
+    },
+    {
       "title": "Nations League: protesta giocatori Irlanda, ma con Israele si gioca",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/nations-league-protesta-giocatori-irlanda-ma-con-israele-si-gioca_8027d19d-c398-4997-97c4-8ab972c06498.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 15:20:07 +0200",
       "excerpt": "Il bosniaco bianconero, 'Spalletti è un top, mi aiuta a migliorare'"
-    },
-    {
-      "title": "America's Cup: i ragazzi delle periferie di Napoli in mare con 7 campioni olimpici",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-i-ragazzi-delle-periferie-di-napoli-in-mare-con-7-campioni-olimpici_db1f6dc7-4b81-4adc-9b32-130dca77e703.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 15:15:52 +0200",
-      "excerpt": "Appuntamento promosso da Sport e Salute in collaborazione con la Federazione Italiana Vela"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

@@ -4,11 +4,32 @@
   "finanza": {
     "italia": [
       {
+        "title": "Come per l’IA nessuno mai: investimenti sino al 3,63 per cento del Pil",
+        "link": "https://www.repubblica.it/economia/rubriche/eurobarometro/2026/09/26/news/come_per_l_ia_nessuno_mai_investimenti_sino_al_363_per_cento_del_pil-425609329/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 26 Sep 2026 16:57:56 +0200",
+        "excerpt": "Dal 2024 i baroni dell’intelligenza artificiale hanno investito nei centri dati 1.200 miliardi di dollari, ricavandone 277 miliardi di incassi"
+      },
+      {
+        "title": "Previdenza per i figli: muoversi oggi per il domani",
+        "link": "https://www.repubblica.it/economia/2026/09/26/news/previdenza_per_i_figli_muoversi_oggi_per_il_domani-425607506/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 26 Sep 2026 16:00:00 +0200",
+        "excerpt": "Mentre il governo valuta un contributo pubblico, gli esperti ragionano su come accantonare denaro per i bambini piccoli"
+      },
+      {
         "title": "Il Papa ai francesi, «non nascondete la vostra fede»",
         "link": "https://www.ilsole24ore.com/art/il-papa-francesi-non-nascondete-vostra-fede-AJyoXEQB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 26 Sep 2026 13:45:08 GMT",
         "excerpt": "“Spetta a voi portare la speranza là dove regnano lo scoraggiamento e l’aridità spirituale”, ha detto Leone XIV nel paese laico dove si moltiplicano i battesimi"
+      },
+      {
+        "title": "Sottile (Slow Food): “Abbiamo distrutto la biodiversità. Serve una svolta agroecologica”",
+        "link": "https://www.repubblica.it/economia/2026/09/26/news/sottile_slow_food_abbiamo_distrutto_la_biodiversita_serve_una_svolta_agroecologica-425607681/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 26 Sep 2026 15:00:00 +0200",
+        "excerpt": "Parla il docente e vicepresidente di Slow Food: “Per un secolo abbiamo pensato di poter fare a meno dei servizi ecosistemici. Ma il modello industriale ha distrutto la biodiversità e creato dipendenze”"
       },
       {
         "title": "Gold Fields si avvicina a Northern Star per una possibile acquisizione",
@@ -401,27 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Fri, 25 Sep 2026 13:17:03 +0200",
         "excerpt": "Francesco Tricomi ha volato per 47 anni sia come militare sia come civile. E’ stato anche nelle Frecce tricolori. Il volo dell’addio è nel segno della commozione"
-      },
-      {
-        "title": "Aeroporto di Malpensa intitolato a Silvio Berlusconi. Marina: «Emozione e orgoglio»",
-        "link": "https://www.ilsole24ore.com/art/aeroporto-malpensa-intitolato-silvio-berlusconi-marina-emozione-e-orgoglio-AJKlh0OB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 11:14:00 GMT",
-        "excerpt": "La cerimonia ha celebrato l’ex premier come simbolo di dialogo e visione europea, con interventi di Tajani, Salvini, La Russa e i familiari di Berlusconi"
-      },
-      {
-        "title": "Gdo italiana in crescita: +2,77% tra il 14 e il 20 settembre",
-        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/rilevazione-settimanale/2026/09/25/news/gdo_italiana_in_crescita_277_tra_il_14_e_il_20_settembre-425607020/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 25 Sep 2026 12:53:24 +0200",
-        "excerpt": "I dati di NielsenIQ sul trend dei fatturati. L'andamento positivo riguarda tutte le macro aree della Penisola: guida il Sud con un +4,05%"
-      },
-      {
-        "title": "Contratto per due cacciatorpedinieri Ddx di nuova generazione: ecco le navi da guerra “pensanti”",
-        "link": "https://www.ilsole24ore.com/art/contratto-due-cacciatorpedinieri-ddx-nuova-generazione-ecco-navi-guerra-pensanti-AJgt7gOB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 10:46:48 GMT",
-        "excerpt": "Vale 3,7 miliardi per Fincantieri e Leonardo, tramite la joint venture Orizzonte Sistemi Navali, il contratto per due cacciatorpedinieri ’Ddx’ di nuova generazione"
       }
     ],
     "europa": [
@@ -660,6 +660,20 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Trump says he spoke with Venezuela’s Rodriguez about elections",
+        "link": "https://www.investing.com/news/commodities-news/trump-says-he-spoke-with-venezuelas-rodriguez-about-elections-4918595",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-26 14:54:32",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump predicts Cuba and US will make a deal",
+        "link": "https://www.investing.com/news/commodities-news/trump-predicts-cuba-and-us-will-make-a-deal-4918594",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-26 14:42:30",
+        "excerpt": ""
+      },
       {
         "title": "Uragano Polo riacquista forza 5 di fronte alla costa occidentale del Messico",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/26/uragano-polo-riacquista-forza-5-di-fronte-alla-costa-occidentale-del-messico_7060871c-e5ff-464a-b2d7-cb02ebbbba13.html",
@@ -1056,6 +1070,13 @@
   },
   "attualita": [
     {
+      "title": "America’s Cup, show francese nel golfo di Napoli: per La Roche-Posay due vittorie e altra “scuffia”",
+      "link": "https://napoli.repubblica.it/sport/2026/09/26/news/america_s_cup_show_francese_nel_golfo_di_napoli_due_vittorie_e_un_altra_scuffia-425609301/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 14:42:46 +0000",
+      "excerpt": "La Roche-Posay stupisce nel day-2 della preregata partenopea. Ma in classifica generale il duello è tra Luna Rossa e New Zealand"
+    },
+    {
       "title": "Siracusano, sottosegretaria FI: \"Vannacci mi ha spogliata con l'IA. Che viltà, lo denuncio\"",
       "link": "https://www.repubblica.it/politica/2026/09/26/news/matilde_siracusano_fi_vannacci_foto_nuda_ia_intervista-425609252/",
       "source": "Repubblica",
@@ -1222,6 +1243,13 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 07:16:52 +0000",
       "excerpt": "L’azienda ha riconosciuto che numerosi siti istituzionali, soprattutto del governo Usa, potrebbero essere stati hackerati da attività improprie di Ia sfuggita al controllo. Pubblicate inoltre “per errore” 53 immagini car"
+    },
+    {
+      "title": "I colori della laguna di Venezia visti dai satelliti ",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/26/i-colori-della-laguna-di-venezia-catturati-dai-satelliti-iride_0ede9c10-07f0-4061-9fe7-7fadf10e27e1.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 09:12:46 +0200",
+      "excerpt": "Dalla costellazione Iride le scie delle barche e le paludi salmastre"
     },
     {
       "title": "Artico, il ghiaccio marino ha raggiunto l'estensione minima annuale ",
@@ -1460,23 +1488,16 @@
       "source": "ANSA",
       "pubDate": "Fri, 25 Sep 2026 10:30:30 +0200",
       "excerpt": "Progetto sostenuto da Stellantis Autonomy"
-    },
-    {
-      "title": "Meta lancia occhiali intelligenti senza fotocamera basati sull'IA VIDEO",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/09/24/meta-lancia-occhiali-intelligenti-senza-fotocamera-basati-sullia_59db0751-7e25-4bff-856d-1ecbb607ed19.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 10:02:03 +0200",
-      "excerpt": "Zuckerberg, 'senza il video si aprono molte nuove possibilità'. Milleri, 'anni di ricerca e di sviluppo dietro ogni prodotto'"
-    },
-    {
-      "title": "Cucce al posto delle culle, il fenomeno pet parenting",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/pets/2026/09/25/cucce-al-posto-delle-culle-il-fenomeno-pet-parenting_60ef1f2f-33ad-4782-a326-2ca5469d5c51.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 01:00:51 +0200",
-      "excerpt": "Amare il proprio animale come un figlio, oltre 1 giovane su 2 li sostituisce alla prole, ecco perchè"
     }
   ],
   "sport": [
+    {
+      "title": "America's Cup: riscatto La Roche-Posay, Luna Rossa chiude in testa alla classifica",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-riscatto-la-roche-posay-luna-rossa-chiude-in-testa-alla_18b5922c-090e-4ecc-8d70-a914ef672cae.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 16:54:36 +0200",
+      "excerpt": "Francesi vittoriosi nell'ultima prova della seconda giornata. Italiani primi a 51 punti"
+    },
     {
       "title": "Nations League: protesta giocatori Irlanda, ma con Israele si gioca",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/nations-league-protesta-giocatori-irlanda-ma-con-israele-si-gioca_8027d19d-c398-4997-97c4-8ab972c06498.html",
