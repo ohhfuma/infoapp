@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-26T08:39:55.272Z",
+  "lastUpdated": "2026-09-26T09:07:36.718Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Cambia abbonamento a Av Trenitalia, meno caro ma prenotazione diventa a pagamento",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/cambia-abbonamento-a-av-trenitalia-meno-caro-ma-prenotazione-diventa-a-pagamento_434f6b8b-014e-4f86-96b6-da2639c4042f.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 26 Sep 2026 11:03:25 +0200",
+        "excerpt": "Assoutenti, costerà ai pendolari 2 euro a tratta, ma canone mensile scende di 80 euro"
+      },
+      {
+        "title": "Decreto scuola, si lavora alle coperture: lunedì il testo al Colle",
+        "link": "https://www.ilsole24ore.com/art/decreto-scuola-si-lavora-coperture-lunedi-testo-colle-AJCsp3PB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 08:54:00 GMT",
+        "excerpt": "Sanzioni fino a mille euro, deroghe al limite nelle classi e 17,5 milioni per potenziare l’italiano. Sale a 40mila euro la soglia Isee per i libri di testo"
+      },
       {
         "title": "Sale il costo del gasolio, ma l'Eni mette un tetto ai prezzi",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/sale-il-costo-del-gasolio-ma-leni-mette-un-tetto-ai-prezzi_94d83426-2bbc-400c-a017-36aab3b4da40.html",
@@ -192,13 +206,6 @@
         "excerpt": "Il Mef: entrambi a 5 anni, ma con due piani cedolari diversi. Moody's decide sul rating"
       },
       {
-        "title": "Da Bankitalia richieste a Ifis e via libera a fusione illimity",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/da-bankitalia-richieste-a-ifis-e-via-libera-a-fusione-illimity_8adb6342-bd54-41ba-8bc1-48157a100f44.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 18:46:35 +0200",
-        "excerpt": "Raffaele Zingone nominato amministratore delegato. Il titolo pesante in Borsa"
-      },
-      {
         "title": "Danieli, ricavi (-9%) ma utili (+5%) e Posizione finanziaria (+48%)",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/danieli-ricavi-9-ma-utili-5-e-posizione-finanziaria-48_8665d4d4-514e-46e1-a8c3-4fec75f6f72c.html",
         "source": "ANSA Economia",
@@ -218,13 +225,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 25 Sep 2026 11:14:00 GMT",
         "excerpt": "La cerimonia ha celebrato l’ex premier come simbolo di dialogo e visione europea, con interventi di Tajani, Salvini, La Russa e i familiari di Berlusconi"
-      },
-      {
-        "title": "Contratto per due cacciatorpedinieri Ddx di nuova generazione: ecco le navi da guerra “pensanti”",
-        "link": "https://www.ilsole24ore.com/art/contratto-due-cacciatorpedinieri-ddx-nuova-generazione-ecco-navi-guerra-pensanti-AJgt7gOB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 10:46:48 GMT",
-        "excerpt": "Vale 3,7 miliardi per Fincantieri e Leonardo, tramite la joint venture Orizzonte Sistemi Navali, il contratto per due cacciatorpedinieri ’Ddx’ di nuova generazione"
       }
     ],
     "europa": [
@@ -401,18 +401,18 @@
     ],
     "mondo": [
       {
-        "title": "Cuba, gli Usa sanzionano anche i medici e adesso la sanità è a rischio in 56 Paesi",
-        "link": "https://www.repubblica.it/esteri/2026/09/26/news/cuba_medici_sanzioni_usa_sanita_brigate_rischio-425608710/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 10:34:46 +0200",
-        "excerpt": "In tutto il mondo, Calabria inclusa, le brigate dei medici cubani riempiono ospedali e ambulatori che in alternativa rimarrebbero vuoti. Ma adesso anche pagare i loro stipendi espone un governo a rischio sanzioni"
-      },
-      {
         "title": "OpenAi: “Decine di governi nel mondo colpiti dai nostri agenti di Intelligenza artificiale”",
         "link": "https://www.repubblica.it/esteri/2026/09/26/news/openai_colpiti_siti_governo_pubblicate_foto_utenti-425608601/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 10:21:34 +0200",
+        "pubDate": "Sat, 26 Sep 2026 10:51:31 +0200",
         "excerpt": "L’azienda ha riconosciuto che numerosi siti istituzionali, soprattutto del governo Usa, potrebbero essere stati hackerati da attività improprie di Ia sfuggita al controllo. Pubblicate inoltre “per errore” 53 immagini car"
+      },
+      {
+        "title": "Cuba, gli Usa sanzionano anche i medici: ripercussioni nella sanità di 56 Paesi",
+        "link": "https://www.repubblica.it/esteri/2026/09/26/news/cuba_medici_sanzioni_usa_sanita_brigate_rischio-425608710/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 26 Sep 2026 10:50:02 +0200",
+        "excerpt": "In tutto il mondo, Calabria inclusa, le brigate dei medici cubani riempiono ospedali e ambulatori che in alternativa rimarrebbero vuoti. Ma adesso anche pagare i loro stipendi espone un governo a rischio sanzioni"
       },
       {
         "title": "Inondazioni a Bangkok, dichiarato lo stato di calamità",
@@ -579,6 +579,13 @@
       "excerpt": "Oggi per il pontefice la messa nella capitale francese, poi vola a Lourdes"
     },
     {
+      "title": "Cuba, gli Usa sanzionano anche i medici: ripercussioni nella sanità di 56 Paesi",
+      "link": "https://www.repubblica.it/esteri/2026/09/26/news/cuba_medici_sanzioni_usa_sanita_brigate_rischio-425608710/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 08:31:08 +0000",
+      "excerpt": "In tutto il mondo, Calabria inclusa, le brigate dei medici cubani riempiono ospedali e ambulatori che in alternativa rimarrebbero vuoti. Ma adesso anche pagare i loro stipendi espone un governo a rischio sanzioni"
+    },
+    {
       "title": "Lo sconto delle accise si dimezza, il diesel sale a 2,357 euro, in autostrada a 2,439 ",
       "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/26/lo-sconto-delle-accise-si-dimezza-il-diesel-sale-a-2357-euro-in-autostrada-a-2439_c3c9592d-e01e-47a7-bfbb-b4d6a28a3711.html",
       "source": "ANSA",
@@ -593,25 +600,18 @@
       "excerpt": ""
     },
     {
-      "title": "Mancini, i fantasmi del passato pesano. Da Tonali a Maldini, tanti gli azzurri rimandati",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/26/news/mancini_problemi_situazione_figc_nazionale-425608545/",
+      "title": "OpenAi: “Decine di governi nel mondo colpiti dai nostri agenti di Intelligenza artificiale”",
+      "link": "https://www.repubblica.it/esteri/2026/09/26/news/openai_colpiti_siti_governo_pubblicate_foto_utenti-425608601/",
       "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 06:38:04 +0000",
-      "excerpt": "Le sconfitte azzurre danno forza a chi vuol mettere le mani sulla Federcalcio e i calciatori lo sanno"
+      "pubDate": "Sat, 26 Sep 2026 07:16:52 +0000",
+      "excerpt": "L’azienda ha riconosciuto che numerosi siti istituzionali, soprattutto del governo Usa, potrebbero essere stati hackerati da attività improprie di Ia sfuggita al controllo. Pubblicate inoltre “per errore” 53 immagini car"
     },
     {
-      "title": "Inchiesta Mps-Mediobanca, braccio di ferro sulle chat: il Senato chiede nuovi chiarimenti ai pm",
-      "link": "https://www.repubblica.it/politica/2026/09/26/news/inchiesta_mps_mediobanca_chat_senato_pm-425608315/",
+      "title": "Ponte sullo Stretto, il direttore tecnico lascia l'incarico. Nuova grana per il progetto di Salvini",
+      "link": "https://www.repubblica.it/politica/2026/09/26/news/ponte_sullo_stretto_valerio_mele_direttore_tecnico_lascia_incarico_salvini-425607963/",
       "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 06:00:00 +0000",
-      "excerpt": "La procura di Milano vuole leggere le conversazioni tra l’ex direttore del Mef Sala e nove parlamentari, fra cui il ministro Giorgetti. Ma da Palazzo Madama arriva un altro stop. Che allunga i tempi"
-    },
-    {
-      "title": "Decreto scuola, il giurista: “Contrasta con la Costituzione. Tutti devono accedere all’istruzione”",
-      "link": "https://www.repubblica.it/politica/2026/09/26/news/decreto_scuola_giuseppe_arconzo_giurista_costituzione_intervista-425607912/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 06:00:00 +0000",
-      "excerpt": "Per Giuseppe Arconzo, ordinario alla Statale di Milano, il provvedimento del governo non ha risorse ed è contraddittorio"
+      "pubDate": "Sat, 26 Sep 2026 05:00:00 +0000",
+      "excerpt": "Valerio Mele dal primo ottobre torna in Anas. Un addio che arriva alla vigilia dell’attesa ripresentazione della delibera al Cipess"
     },
     {
       "title": "'Trump ha respinto la proposta dell'Iran, nuovi attacchi dopo le midterm'",
@@ -619,13 +619,6 @@
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 02:54:46 +0200",
       "excerpt": "Wsj, bocciato il piano per cessare le ostilità"
-    },
-    {
-      "title": "Ceruti: “A scuola negazionismo e fake news, con le nuove linee guida si rischia di tornare all’Ottocento”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/26/news/ceruti_intervista_scuola_negazionismo_fake_news-425608439/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 00:39:05 +0000",
-      "excerpt": "Il filosofo guidò la Commissione che ha riscritto i programmi nel 2007: “Così si capovolge l’approccio culturale”"
     },
     {
       "title": "Ceto medio, ipotesi taglio Irpef per tre milioni di contribuenti.Moody’s conferma il rating",
@@ -654,6 +647,13 @@
       "source": "Repubblica",
       "pubDate": "Fri, 25 Sep 2026 23:00:00 +0000",
       "excerpt": "Gli italiani sono spaventati, la fiducia dei consumatori è calata, per questo la premier parla d’altro. L’opposizione si occupi di lavoro"
+    },
+    {
+      "title": "Moral suasion sull’ad Eni Descalzi: la mossa di Meloni per avere l’effetto-traino",
+      "link": "https://www.repubblica.it/politica/2026/09/26/news/eni_descalzi_meloni_prezzo_carburante-425608292/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 23:00:00 +0000",
+      "excerpt": "Contatti con l’ad del colosso petrolifero L’obiettivo è risparmiare risorse per la legge di bilancio pre-elettorale"
     },
     {
       "title": "A Palazzo San Giorgio apre la Collezione Casamonti, 250 opere dei grandi maestri",
@@ -742,18 +742,25 @@
   ],
   "sport": [
     {
-      "title": "Cinà fuori agli ottavi a Chengdu, vince Muller in 2 set",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/26/cina-fuori-agli-ottavi-a-chengdu-vince-muller-in-2-set_64f64dec-77ce-49c9-a852-543779089903.html",
+      "title": "Nations League: Turchia-Italia sarà diretta dall'inglese Oliver",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/nations-league-turchia-italia-sara-diretta-dallinglese-oliver_4fdf73c0-0506-431b-aefe-f865142c329b.html",
       "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 09:59:41 +0200",
-      "excerpt": "Il francese batte 7-6 6-1 il giovane azzurro nell'Atp 250 cinese"
+      "pubDate": "Sat, 26 Sep 2026 10:50:31 +0200",
+      "excerpt": "Designato l'arbitro per la partita di lunedì sera"
     },
     {
       "title": "L'ex azzurro Osvaldo ricoverato in terapia intensiva in Argentina",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/lex-azzurro-osvaldo-ricoverato-in-terapia-intensiva-in-argentina_327ca4c6-ef80-411f-aa50-0b520c0594b9.html",
       "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 09:43:16 +0200",
+      "pubDate": "Sat, 26 Sep 2026 10:45:22 +0200",
       "excerpt": "Il 40enne è stato operato al polmone per un versamento pleurico. Prognosi riservata"
+    },
+    {
+      "title": "Cinà fuori agli ottavi a Chengdu, vince Muller in 2 set",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/26/cina-fuori-agli-ottavi-a-chengdu-vince-muller-in-2-set_64f64dec-77ce-49c9-a852-543779089903.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 09:59:41 +0200",
+      "excerpt": "Il francese batte 7-6 6-1 il giovane azzurro nell'Atp 250 cinese"
     },
     {
       "title": "Nba: Curry rinnova per 2 anni coi Warriors e rinuncia a 20 milioni",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Fri, 25 Sep 2026 22:50:58 +0200",
       "excerpt": "Il ct \"solo nel primo un gioco sotto le aspettative\""
-    },
-    {
-      "title": "Nations League: l'Italia parte male, il Belgio vince 2-0",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/nations-league-litalia-parte-male-il-belgio-vince-2-0_cec87193-955a-4477-a645-f115ea933683.html",
-      "source": "ANSA Sport",
-      "pubDate": "Fri, 25 Sep 2026 22:40:57 +0200",
-      "excerpt": "Un gol per tempo di Godts e Lukebakio, strada subito in salita per Mancini"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
