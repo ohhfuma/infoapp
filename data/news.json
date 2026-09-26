@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T19:06:54.096Z",
+  "lastUpdated": "2026-09-26T19:35:54.977Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Papa Leone in Francia, alla messa in piazza a Parigi tutti (o quasi) gli aspiranti presidenti",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_leone_in_francia_alla_messa_in_piazza_a_parigi_tutti_aspiranti_presidenti-425609805/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 26 Sep 2026 21:30:00 +0200",
+        "excerpt": "Macron assente in ossequio alla separazione tra Stato e Chiesa, i big della destra e del centro fanno a gara per mettersi in mostra"
+      },
+      {
+        "title": "Pietro Umberto Dini insignito della laurea honoris causa in Lettonia",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/26/pietro-umberto-dini-insignito-della-laurea-honoris-causa-in-lettonia_498ec480-1719-4730-897b-bf023c7b1ef1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 21:12:52 +0200",
+        "excerpt": "Nuovo riconoscimento per uno dei massimi esperti mondiali di filologia baltica"
+      },
+      {
         "title": "Il Papa a Parigi, messa con 800mila fedeli a Place de la Concorde: “Non tenete la fede per voi”",
         "link": "https://www.repubblica.it/esteri/2026/09/26/news/papa_parigi_messa_place_concorde_lourdes-425608795/?rss",
         "source": "Repubblica Esteri",
@@ -472,13 +486,6 @@
       },
       {
         "title": "Lavrov a Onu, Occidente usa forza bruta per agire in modo imprevedibile",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/lavrov-a-onu-occidente-usa-forza-bruta-per-agire-in-modo-imprevedibile_e8c1f4a5-4617-4842-b70c-10b97ccc90fc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 26 Sep 2026 18:07:48 +0200",
-        "excerpt": "'Mette a rischio la vita e la prosperità di milioni, se non miliardi, di persone'"
-      },
-      {
-        "title": "Lavrov a Onu, Occidente usa forza bruta per agire in modo imprevedibile",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/26/lavrov-a-onu-occidente-usa-forza-bruta-per-agire-in-modo-imprevedibile_3e0c893f-39ad-4afb-9493-a31b9e09ed55.html",
         "source": "ANSA Mondo",
         "pubDate": "Sat, 26 Sep 2026 18:07:45 +0200",
@@ -541,13 +548,6 @@
         "excerpt": "Arrivato ieri in Francia per un viaggio di quattro giorni, in serata Leone si trasferisce al santuario di Lourdes. In mattinata la visita al centro per rifugiati e l’incontro con i neofiti dopo il boom di battesimi adult"
       },
       {
-        "title": "OpenAi: “Decine di governi nel mondo colpiti dai nostri agenti di Intelligenza artificiale”",
-        "link": "https://www.repubblica.it/esteri/2026/09/26/news/openai_colpiti_siti_governo_pubblicate_foto_utenti-425608601/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 10:51:31 +0200",
-        "excerpt": "L’azienda ha riconosciuto che numerosi siti istituzionali, soprattutto del governo Usa, potrebbero essere stati hackerati da attività improprie di Ia sfuggita al controllo. Pubblicate inoltre “per errore” 53 immagini car"
-      },
-      {
         "title": "Analysis-Talk of US export ban on diesel deepens US crude futures’ discount to global benchmark",
         "link": "https://www.investing.com/news/commodities-news/analysistalk-of-us-export-ban-on-diesel-deepens-us-crude-futures-discount-to-global-benchmark-4917077",
         "source": "Investing.com Commodities",
@@ -572,11 +572,18 @@
   },
   "attualita": [
     {
-      "title": "'Da giorni sotto l'effetto di droghe poi la lite e l'omicidio'",
+      "title": "'Da giorni sotto l'effetto di droghe: il festino, la lite e l'omicidio'",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/omicidio-di-torino-la-madre-del-fermato-piangeva-era-sconvolto-_dfe8e53a-0135-4ecc-828a-3bdb360f920c.html",
       "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 21:04:32 +0200",
+      "pubDate": "Sat, 26 Sep 2026 21:12:45 +0200",
       "excerpt": "La confessione al gip di uno degli indagati per l'uomo ucciso e fatto a pezzi a Torino"
+    },
+    {
+      "title": "Domani si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 21:09:27 +0200",
+      "excerpt": "Il generale replica: 'Cercate meglio' e Tajani dice di non temerlo, 'Roscioli sarà deputato'"
     },
     {
       "title": "Papa Leone star sugli Champs-Elysees, in 800mila alla messa. Ora a Lourdes",
@@ -591,13 +598,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 18:27:09 +0000",
       "excerpt": "L’ex calciatore brasiliano ha svelato i problemi con il suo ex agente e familiari che lo hanno portato a perdere tutti i guadagni"
-    },
-    {
-      "title": "Domani si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 20:26:58 +0200",
-      "excerpt": "Il generale replica: 'Cercate meglio' e Tajani dice di non temerlo, 'Roscioli sarà deputato'"
     },
     {
       "title": "Trump dice no alla proposta iraniana: “Non mi faccio condizionare”",
