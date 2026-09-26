@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T18:40:59.439Z",
+  "lastUpdated": "2026-09-26T19:06:54.096Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Il Papa a Parigi, messa con 800mila fedeli a Place de la Concorde: “Non tenete la fede per voi”",
+        "link": "https://www.repubblica.it/esteri/2026/09/26/news/papa_parigi_messa_place_concorde_lourdes-425608795/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 26 Sep 2026 20:47:00 +0200",
+        "excerpt": "Presenti Brigitte Macron (ma non il presidente) e Marine Le Pen. Arrivato ieri in Francia per un viaggio di quattro giorni, in serata Leone si trasferisce al santuario di Lourdes. In mattinata la visita al centro per rif"
+      },
+      {
         "title": "Lavrov, 'da incontro con Wadephul nulla di nuovo, ripetuta la posizione di Berlino'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/26/lavrov-da-incontro-con-wadephul-nulla-di-nuovo-ripetuta-la-posizione-di-berlino_9be27d69-a9ad-4b02-a4c1-2fe9a1fe9ccb.html",
         "source": "ANSA Mondo",
@@ -492,13 +499,6 @@
         "excerpt": ""
       },
       {
-        "title": "Il Papa a Parigi, messa con 700mila fedeli a Place de la Concorde: “Non tenete la fede per voi”",
-        "link": "https://www.repubblica.it/esteri/2026/09/26/news/papa_parigi_messa_place_concorde_lourdes-425608795/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 15:51:25 +0200",
-        "excerpt": "Presenti Brigitte Macron (ma non il presidente) e Marine Le Pen. Arrivato ieri in Francia per un viaggio di quattro giorni, in serata Leone si trasferisce al santuario di Lourdes. In mattinata la visita al centro per rif"
-      },
-      {
         "title": "Spagna, verso il “Frente Amplio”: nuova coalizione delle sinistre dove potrebbe arrivare Ada Colau",
         "link": "https://www.repubblica.it/esteri/2026/09/26/news/spagna_frente_amplio_coalizione_sinistre_ada_colau_elezioni-425608937/?rss",
         "source": "Repubblica Esteri",
@@ -572,18 +572,32 @@
   },
   "attualita": [
     {
-      "title": "Domani si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html",
+      "title": "'Da giorni sotto l'effetto di droghe poi la lite e l'omicidio'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/omicidio-di-torino-la-madre-del-fermato-piangeva-era-sconvolto-_dfe8e53a-0135-4ecc-828a-3bdb360f920c.html",
       "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 20:26:58 +0200",
-      "excerpt": "Il generale replica: 'Cercate meglio' e Tajani dice di non temerlo, 'Roscioli sarà deputato'"
+      "pubDate": "Sat, 26 Sep 2026 21:04:32 +0200",
+      "excerpt": "La confessione al gip di uno degli indagati per l'uomo ucciso e fatto a pezzi a Torino"
     },
     {
       "title": "Papa Leone star sugli Champs-Elysees, in 800mila alla messa. Ora a Lourdes",
       "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/papa-leone-star-sugli-champs-elysees-in-800mila-alla-messa.-ora_902d673e-03d3-4ce4-a952-2a96283b0241.html",
       "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 20:09:21 +0200",
+      "pubDate": "Sat, 26 Sep 2026 20:40:24 +0200",
       "excerpt": "Il Papa sprona i cattolici francesi: \"Non nascondetevi, rinnovate la nazione\""
+    },
+    {
+      "title": "“Mi hanno svuotato il conto”. Roberto Carlos racconta come ha perso oltre 160 milioni di euro",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/26/news/roberto_carlos_conto_povero-425609669/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 18:27:09 +0000",
+      "excerpt": "L’ex calciatore brasiliano ha svelato i problemi con il suo ex agente e familiari che lo hanno portato a perdere tutti i guadagni"
+    },
+    {
+      "title": "Domani si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 20:26:58 +0200",
+      "excerpt": "Il generale replica: 'Cercate meglio' e Tajani dice di non temerlo, 'Roscioli sarà deputato'"
     },
     {
       "title": "Trump dice no alla proposta iraniana: “Non mi faccio condizionare”",
@@ -598,13 +612,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 17:23:16 +0000",
       "excerpt": "Il giornalista di Repubblica, esperto di Difesa e questioni militari, si aggiudica il prestigioso riconoscimento con il libro “Il cielo sporco”, edito da Guanda"
-    },
-    {
-      "title": "L'omicidio di Torino, 'nella casa consumato ogni tipo di droga, poi una lite'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/omicidio-di-torino-la-madre-del-fermato-piangeva-era-sconvolto-_dfe8e53a-0135-4ecc-828a-3bdb360f920c.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 19:19:26 +0200",
-      "excerpt": "La ricostruzione dell'avvocato di Christian Matheus De Oliveira Morando, uno dei tre indagati per la morte di Fabio Colapietro"
     },
     {
       "title": "La stravaganza siciliana di Dolce e Gabbana / LA SFILATA",
@@ -654,13 +661,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 14:05:45 +0000",
       "excerpt": "L’esponente di Forza Italia “senza parole” per il post dell’ex generale sulla campagna elettorale a Reggio. Tajani: \"Volgare e inaccettabile”"
-    },
-    {
-      "title": "Russell vince a Baku davanti a Verstappen. Antonelli da 16° a 5°, Ferrari giù dal podio",
-      "link": "https://www.repubblica.it/sport/formulauno/2026/09/26/news/f1_gp_baku_2026_vince_russell_ferrari_antonelli-425609244/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 13:56:27 +0000",
-      "excerpt": "Il pilota della Mercedes guida dal primo all’ultimo metro, il compagno di squadra leader del mondiale rimonta e limita i danni in classifica. Leclerc quarto, Hamilton sesto"
     },
     {
       "title": "A Città del Capo una corsa di 24 ore contro il femminicidio",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Coni: martedì riunione d'urgenza Giunta per dimissioni presidente Fipe e consiglieri",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/coni-martedi-riunione-durgenza-giunta-per-dimissioni-presidente-fipe-e-consiglieri_6daa6efa-d697-4ed2-a3fb-afaf1b634bba.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 20:49:57 +0200",
+      "excerpt": "L'assemblea della Federpesi ha bocciato le modifiche allo Statuto"
+    },
+    {
       "title": "Calcio Italia crisi infinita, Mancini non basta e trema il palazzo ",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/calcio-italia-crisi-infinita-mancini-non-basta-e-trema-il-palazzo_98a2fa9a-ad75-46a8-b306-397d0b6c35c4.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 19:10:37 +0200",
       "excerpt": "La nazionale che ha eliminato gli azzurri chiude sul podio"
-    },
-    {
-      "title": "America's Cup: Giubilei di Luna Rossa 'qualche errore ma contenti della giornata'",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-giubilei-di-luna-rossa-qualche-errore-ma-contenti-della-giornata_f8372137-998b-4375-8526-f4697c23d863.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 19:09:45 +0200",
-      "excerpt": "Trimmer del team senior primo in classifica: \"Si torna in acqua con la testa libera\""
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
