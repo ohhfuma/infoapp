@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Caro carburanti, i tir minacciano lo sciopero",
+        "link": "https://www.ilsole24ore.com/art/caro-carburanti-tir-minacciano-sciopero-AJBpcAQB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 11:41:00 GMT",
+        "excerpt": "Per il segretario generale di Assotir, Claudio Donati, sarebbe “un’arma definitiva”, perché fermarsi “anche solo per un giorno significa fermare il Paese”, e la risposta - in caso - “deve essere presa in modo unitario de"
+      },
+      {
+        "title": "Risparmio, arrivano i BTp gemelli: eccoli a confronto",
+        "link": "https://www.ilsole24ore.com/art/risparmio-arrivano-btp-gemelli-eccoli-confronto-AJpbsaPB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 11:38:00 GMT",
+        "excerpt": "Dal 19 al 23 ottobre è stato messo in calendario infatti un inedito collocamento contemporaneo di due titoli. In offerta ci sarà un BTp Valore dall’impostazione tradizionale, con scadenza a..."
+      },
+      {
         "title": "Tempi della giustizia civile e Pnrr: riduzione permanente o effetti del “rush finale”?",
         "link": "https://www.repubblica.it/economia/2026/09/26/news/tempi_della_giustizia_civile_e_pnrr_riduzione_permanente_o_effetti_del_rush_finale-425608983/?rss",
         "source": "Repubblica Economia",
@@ -408,20 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 25 Sep 2026 08:10:00 GMT",
         "excerpt": "Urso e Pichetto convocano operatori raffinerie: aumentare la produzione"
-      },
-      {
-        "title": "Leone alla Francia: dialogo urgente per prevenire derive autoritarie",
-        "link": "https://www.ilsole24ore.com/art/mattarella-papa-l-europa-unita-e-argine-contro-predominio-indiscriminato-forza-AJsH3lOB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 08:06:00 GMT",
-        "excerpt": "Messaggio del Presidente della Repubblica a Papa Leone XIV in vista del viaggio del Pontefice in Francia"
-      },
-      {
-        "title": "Guerra ibrida della Russia all’Italia e al Mediterraneo: social e giovanissimi nel mirino",
-        "link": "https://www.ilsole24ore.com/art/guerra-ibrida-russia-italia-e-mediterraneo-social-e-giovanissimi-mirino-faro-flussi-migratori-AJWN38NB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 07:39:00 GMT",
-        "excerpt": "Lo spostamento della pressione russa dall’Est al Mediterraneo: cyberattacchi, propaganda, influenza sui più giovani le emergenze nelle analisi dell’intelligence"
       }
     ],
     "europa": [
@@ -660,6 +660,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "EU warns of energy price crisis, urges gas demand cuts - Bloomberg",
+        "link": "https://www.investing.com/news/commodities-news/eu-warns-of-energy-price-crisis-urges-gas-demand-cuts--bloomberg-4918563",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-26 11:52:40",
+        "excerpt": ""
+      },
       {
         "title": "With a Super El Nino, analyst asks: What happens to LNG demand?",
         "link": "https://www.investing.com/news/commodities-news/with-a-super-el-nino-analyst-asks-what-happens-to-lng-demand-4918560",
@@ -1421,6 +1428,13 @@
     }
   ],
   "sport": [
+    {
+      "title": "America's Cup: riparati danni a barca La Roche-Posay, francesi saranno in gara",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-riparati-danni-a-barca-la-roche-posay-francesi-saranno-in-gara_005bd680-0fdf-4f63-9818-b9168103561f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 13:45:22 +0200",
+      "excerpt": "Notte di lavoro dopo l'incidente di ieri, il team transalpino al via delle fleet race"
+    },
     {
       "title": "F1, Gran premio di Baku",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/f1-gran-premio-di-baku_7c2ccad1-fd34-4355-80a4-1ba4d6413837.html",

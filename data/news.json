@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-26T11:37:08.006Z",
+  "lastUpdated": "2026-09-26T12:09:13.214Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Caro carburanti, i tir minacciano lo sciopero",
+        "link": "https://www.ilsole24ore.com/art/caro-carburanti-tir-minacciano-sciopero-AJBpcAQB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 11:41:00 GMT",
+        "excerpt": "Per il segretario generale di Assotir, Claudio Donati, sarebbe “un’arma definitiva”, perché fermarsi “anche solo per un giorno significa fermare il Paese”, e la risposta - in caso - “deve essere presa in modo unitario de"
+      },
+      {
+        "title": "Risparmio, arrivano i BTp gemelli: eccoli a confronto",
+        "link": "https://www.ilsole24ore.com/art/risparmio-arrivano-btp-gemelli-eccoli-confronto-AJpbsaPB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 11:38:00 GMT",
+        "excerpt": "Dal 19 al 23 ottobre è stato messo in calendario infatti un inedito collocamento contemporaneo di due titoli. In offerta ci sarà un BTp Valore dall’impostazione tradizionale, con scadenza a..."
+      },
       {
         "title": "Tempi della giustizia civile e Pnrr: riduzione permanente o effetti del “rush finale”?",
         "link": "https://www.repubblica.it/economia/2026/09/26/news/tempi_della_giustizia_civile_e_pnrr_riduzione_permanente_o_effetti_del_rush_finale-425608983/?rss",
@@ -211,20 +225,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-25 20:31:52",
         "excerpt": ""
-      },
-      {
-        "title": "Caso Me contro Te e la denuncia dell’Antitrust: «I minori non sono un target commerciale»",
-        "link": "https://www.ilsole24ore.com/art/caso-me-contro-te-e-denuncia-dell-antitrust-i-minori-non-sono-target-commerciale-AJB1BYPB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 17:35:01 GMT",
-        "excerpt": "Dal pomeriggio di lunedì 21 settembre il sito dei Me contro Te è “temporaneamente sospeso per interventi tecnici di aggiornamento e di ottimizzazione”. Questo blackout digitale arriva nel bel mezzo..."
-      },
-      {
-        "title": "L’economia sommersa vale 197,6 miliardi, il 12,6% in più del 2021",
-        "link": "https://www.ilsole24ore.com/art/sommerso-vale-1976-miliardi-crescita-126percento-cinque-anni-AJx5H0OB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 12:18:00 GMT",
-        "excerpt": "Secondo il Focus Censis-Confcooperative, il principale motore del fenomeno è la sottodichiarazione dei redditi da parte di imprese e lavoratori autonomi, che vale oltre 108 miliardi di euro. Sono circa 2,7 milioni i lavo"
       }
     ],
     "europa": [
@@ -239,7 +239,7 @@
         "title": "Mosca rivendica attacchi contro centro dati di Kiev a supporto di Starlink",
         "link": "https://www.ilsole24ore.com/art/mosca-rivendica-attacchi-contro-centro-dati-kiev-supporto-starlink-AJ3qp5PB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Sat, 26 Sep 2026 09:23:57 GMT",
+        "pubDate": "Sat, 26 Sep 2026 09:23:00 GMT",
         "excerpt": "Il ministero della Difesa russo ha dichiarato di aver condotto durante la notte attacchi con droni contro infrastrutture portuali, di trasporto, logistiche e di comunicazione utilizzate dall’esercito ucraino. A Kiev,..."
       },
       {
@@ -401,18 +401,25 @@
     ],
     "mondo": [
       {
+        "title": "Spagna, verso il “Frente Amplio”: nuova coalizione delle sinistre dove potrebbe arrivare Ada Colau",
+        "link": "https://www.repubblica.it/esteri/2026/09/26/news/spagna_frente_amplio_coalizione_sinistre_ada_colau_elezioni-425608937/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 26 Sep 2026 14:05:17 +0200",
+        "excerpt": "In vista del voto del 2027, l’ex sindaca di Barcellona si avvicina al ritorno in politica e potrebbe diventare la leader dell’alleanza dei partiti progressisti per frenare l’avanzata di Pp e Vox. Ma resta il nodo della p"
+      },
+      {
+        "title": "EU warns of energy price crisis, urges gas demand cuts - Bloomberg",
+        "link": "https://www.investing.com/news/commodities-news/eu-warns-of-energy-price-crisis-urges-gas-demand-cuts--bloomberg-4918563",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-26 11:52:40",
+        "excerpt": ""
+      },
+      {
         "title": "With a Super El Nino, analyst asks: What happens to LNG demand?",
         "link": "https://www.investing.com/news/commodities-news/with-a-super-el-nino-analyst-asks-what-happens-to-lng-demand-4918560",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-26 11:12:12",
         "excerpt": ""
-      },
-      {
-        "title": "Spagna, verso il “Frente Amplio”: nuova coalizione delle sinistre dove potrebbe arrivare Ada Colau",
-        "link": "https://www.repubblica.it/esteri/2026/09/26/news/spagna_frente_amplio_coalizione_sinistre_ada_colau_elezioni-425608937/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 12:32:38 +0200",
-        "excerpt": "In vista del voto del 2027, l’ex sindaca di Barcellona si avvicina al ritorno in politica e potrebbe diventare la leader dell’alleanza dei partiti progressisti per frenare l’avanzata di Pp e Vox. Ma resta il nodo della p"
       },
       {
         "title": "Analysis-Venezuela president returns from US visit with no deals, no firm election date",
@@ -560,30 +567,30 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-25 20:36:51",
         "excerpt": ""
-      },
-      {
-        "title": "Soybean futures rise as traders await US-China trade details",
-        "link": "https://www.investing.com/news/commodities-news/soybean-futures-rise-as-traders-await-uschina-trade-details-93CH-4918016",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 19:41:12",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Lo sconto delle accise si dimezza, il diesel sale a 2,357 euro, in autostrada a 2,439 ",
+      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/26/lo-sconto-delle-accise-si-dimezza-il-diesel-sale-a-2357-euro-in-autostrada-a-2439_c3c9592d-e01e-47a7-bfbb-b4d6a28a3711.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 13:55:55 +0200",
+      "excerpt": "L'aumento è inferiore a quello delle tasse"
+    },
+    {
+      "title": "Il viaggio del Papa in Francia. Leone a Parigi al centro per migranti, primo appuntamento del giorno",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 13:47:07 +0200",
+      "excerpt": "Oggi per il pontefice la messa nella capitale francese, poi vola a Lourdes"
+    },
     {
       "title": "Una donna getta dell'acido al suo avvocato, il legale è ricoverato",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/donna-getta-acido-al-suo-avvocato-a-messina-legale-ricoverato_f6ffe7d9-7664-4ed8-9dec-1f7f960942ea.html",
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 13:17:17 +0200",
       "excerpt": "L'aggressione a Messina. La vittima ha riportato ustioni sul 20% del corpo, è in Rianimazione a Catania"
-    },
-    {
-      "title": "Il viaggio del Papa in Francia. Leone a Parigi al centro per migranti, primo appuntamento del giorno",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 12:56:21 +0200",
-      "excerpt": "Oggi per il pontefice la messa nella capitale francese, poi vola a Lourdes"
     },
     {
       "title": "La lite per il crack, poi il delitto e il corpo fatto a pezzi: i misteri dell’omicidio di Colapietro",
@@ -640,13 +647,6 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 09:23:42 +0000",
       "excerpt": "Arrivato ieri in Francia per un viaggio di quattro giorni, in serata Leone si trasferisce al santuario di Lourdes. In mattinata la visita al centro per rifugiati e l’incontro con i neofiti dopo il boom di battesimi adult"
-    },
-    {
-      "title": "Lo sconto delle accise si dimezza, il diesel sale a 2,357 euro, in autostrada a 2,439 ",
-      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/26/lo-sconto-delle-accise-si-dimezza-il-diesel-sale-a-2357-euro-in-autostrada-a-2439_c3c9592d-e01e-47a7-bfbb-b4d6a28a3711.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 11:20:47 +0200",
-      "excerpt": "L'aumento è inferiore a quello delle tasse"
     },
     {
       "title": "Al Teatro degli Eroi a Roma la quarta edizione di Aut Art Festival",
@@ -742,11 +742,18 @@
   ],
   "sport": [
     {
+      "title": "America's Cup: riparati danni a barca La Roche-Posay, francesi saranno in gara",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-riparati-danni-a-barca-la-roche-posay-francesi-saranno-in-gara_005bd680-0fdf-4f63-9818-b9168103561f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 13:45:22 +0200",
+      "excerpt": "Notte di lavoro dopo l'incidente di ieri, il team transalpino al via delle fleet race"
+    },
+    {
       "title": "F1, Gran premio di Baku",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/f1-gran-premio-di-baku_7c2ccad1-fd34-4355-80a4-1ba4d6413837.html",
       "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 13:27:12 +0200",
-      "excerpt": "Al via la quindicesima prova della stagione. La griglia di partenza"
+      "pubDate": "Sat, 26 Sep 2026 13:39:38 +0200",
+      "excerpt": "Oggi in Azerbaijan la quindicesima prova della stagione. La griglia di partenza"
     },
     {
       "title": "America's Cup: oltre 26mila accessi al Race Village, oggi quattro regate di flotta",
@@ -782,13 +789,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 10:50:31 +0200",
       "excerpt": "Designato l'arbitro per la partita di lunedì sera"
-    },
-    {
-      "title": "L'ex azzurro Osvaldo ricoverato in terapia intensiva in Argentina",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/lex-azzurro-osvaldo-ricoverato-in-terapia-intensiva-in-argentina_327ca4c6-ef80-411f-aa50-0b520c0594b9.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 10:45:22 +0200",
-      "excerpt": "Il 40enne è stato operato al polmone per un versamento pleurico. Prognosi riservata"
     },
     {
       "title": "Cinà fuori agli ottavi a Chengdu, vince Muller in 2 set",
