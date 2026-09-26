@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T06:42:07.496Z",
+  "lastUpdated": "2026-09-26T07:07:23.267Z",
   "finanza": {
     "italia": [
       {
@@ -7,14 +7,14 @@
         "link": "https://www.ilsole24ore.com/art/politiche-2027-si-andra-votare-la-tessera-digitale-smartphone-AJ68rePB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 26 Sep 2026 06:08:11 GMT",
-        "excerpt": "Alle prossime elezioni del 2027 si potrà votare con la tessera digitale, scaricata sullo smartphone. Il governo sta lavorando ai decreti per dare attuazione alla misura di semplificazione approvata nel..."
+        "excerpt": "«Questa è una semplificazione importante per i cittadini» ha detto il ministro per la Pubblica amministrazione, Paolo Zangrillo"
       },
       {
         "title": "Gasolio, oggi parte lo sconto ridotto a 6,1 cent: di quanto aumenterà il costo. Ma lunedì scatta il price cap Eni",
         "link": "https://www.ilsole24ore.com/art/gasolio-oggi-parte-sconto-ridotto-61-cent-quanto-aumentera-costo-ma-lunedi-scatta-price-cap-eni-AJK1FXPB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 26 Sep 2026 05:56:57 GMT",
-        "excerpt": "Il taglio delle accise sul gasolio si dimezza? Entra in campo l’Eni, che annuncia un tetto ai prezzi dei suoi carburanti - 1,99 euro al litro per la benzina e..."
+        "excerpt": "Il tetto massimo per la benzina sarà di 1,99 euro al litro, mentre quello del diesel sarà di 2,19 euro. Entrambi partiranno lunedì e dureranno un mese"
       },
       {
         "title": "Lula, 'minerali critici siano trasformati in Brasile, non solo esportati'",
@@ -240,7 +240,7 @@
         "link": "https://www.ilsole24ore.com/art/il-papa-francia-guerra-non-e-inevitabile-promuovere-dialogo-e-diplomazia-AJ3lyjPB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sat, 26 Sep 2026 06:05:01 GMT",
-        "excerpt": "Un Papa torna in Francia dopo diciotto anni, e nella patria della laicità dello Stato viene accolto con tutti gli onori, e anche da una vasta..."
+        "excerpt": "La visita di un pontefice nel Paese dopo 18 anni riafferma la centralità dell’Europa per la Chiesa. Pace e difesa della vita al centro del suo messaggio"
       },
       {
         "title": "Marygold Companies to go private in agreement with Madison Dearborn Partners",
@@ -572,11 +572,32 @@
   },
   "attualita": [
     {
+      "title": "Il viaggio del Papa in Francia. Oggi messa a Parigi, poi vola a Lourdes",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 08:41:17 +0200",
+      "excerpt": "Leone visita anche il Centro Bakhita e l'Istituto Cattolico"
+    },
+    {
+      "title": "Mancini, i fantasmi del passato pesano. Da Tonali a Maldini, tanti gli azzurri rimandati",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/26/news/mancini_problemi_situazione_figc_nazionale-425608545/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 06:38:04 +0000",
+      "excerpt": "Le sconfitte azzurre danno forza a chi vuol mettere le mani sulla Federcalcio e i calciatori lo sanno"
+    },
+    {
       "title": "Ponte sullo Stretto, il direttore tecnico lascia l'incarico. Nuova grana per il progetto di Salvini",
       "link": "https://www.repubblica.it/politica/2026/09/26/news/ponte_sullo_stretto_valerio_mele_direttore_tecnico_lascia_incarico_salvini-425607963/",
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 05:00:00 +0000",
       "excerpt": "Valerio Mele dal primo ottobre torna in Anas. Un addio che arriva alla vigilia dell’attesa ripresentazione della delibera al Cipess"
+    },
+    {
+      "title": "'Trump ha respinto la proposta dell'Iran, nuovi attacchi dopo le midterm'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/26/trump-ha-respinto-la-proposta-delliran-nuovi-attacchi-dopo-le-midterm_4c47d3f5-794e-47cd-bd5b-d91596797e92.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 02:54:46 +0200",
+      "excerpt": "Wsj, bocciato il piano per cessare le ostilità"
     },
     {
       "title": "Ceruti: “A scuola negazionismo e fake news, con le nuove linee guida si rischia di tornare all’Ottocento”",
@@ -621,32 +642,32 @@
       "excerpt": "La premier ha annunciato che in caso di un no alle preferenze salirà al Colle a dimettersi. FdI prova a sondare le correnti dem"
     },
     {
-      "title": "Moral suasion sull’ad Eni Descalzi: la mossa della premier per avere l’effetto-traino",
-      "link": "https://www.repubblica.it/politica/2026/09/26/news/eni_descalzi_meloni_prezzo_carburante-425608292/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 23:00:00 +0000",
-      "excerpt": "Contatti con l’ad del colosso petrolifero L’obiettivo è risparmiare risorse per la legge di bilancio pre-elettorale"
-    },
-    {
-      "title": "È ancora azzurro tenebra, neanche Mancini rianima l'Italia ",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/e-ancora-azzurro-tenebra-neanche-mancini-rianima-litalia-_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 23:14:42 +0200",
-      "excerpt": "Dai fischi all'inno del Belgio a quelli alla nazionale: dominati e sconfitti 2-0 all'Olimpico"
-    },
-    {
-      "title": "Ucciso e fatto a pezzi a Torino, fermate tre persone",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/ucciso-e-fatto-a-pezzi-a-torino-fermate-tre-persone_c2ab923a-e30d-4fa4-a689-0500dac697f5.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 22:27:30 +0200",
-      "excerpt": "Un uomo è indagato per omicidio, due donne per favoreggiamento e soppressione di cadavere"
-    },
-    {
       "title": "Sale il costo del gasolio, ma l'Eni mette un tetto ai prezzi",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/sale-il-costo-del-gasolio-ma-leni-mette-un-tetto-ai-prezzi_94d83426-2bbc-400c-a017-36aab3b4da40.html",
       "source": "ANSA",
       "pubDate": "Fri, 25 Sep 2026 22:03:49 +0200",
       "excerpt": "Il governo ringrazia, ma Assotir evoca lo sciopero. Petrolieri convocati per raffinare di più"
+    },
+    {
+      "title": "A Palazzo San Giorgio apre la Collezione Casamonti, 250 opere dei grandi maestri",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/25/a-palazzo-san-giorgio-apre-la-collezione-casamonti-250-opere-dei-grandi_f7675570-0ddb-4a3e-98d2-c14483976c7b.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 20:45:21 +0200",
+      "excerpt": ""
+    },
+    {
+      "title": "Torna la Festa del cinema di Roma, da Jenna Ortega a Jovanotti",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/25/torna-la-festa-del-cinema-di-roma-da-jenna-ortega-a-jovanotti_cf88d270-4444-468d-a1f4-56b3cd5f78ae.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 20:36:44 +0200",
+      "excerpt": "Due registe, Nicchiarelli e Smutniak fra i tre italiani in gara a Progressive Cinema"
+    },
+    {
+      "title": "Gucci con Demna sfila in negozio, il glamour da vendere",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/25/gucci-con-demna-sfila-in-negozio-il-glamour-da-vendere_8635aaeb-9a95-45e0-92ce-94b03dee52e7.html",
+      "source": "ANSA",
+      "pubDate": "Fri, 25 Sep 2026 20:07:23 +0200",
+      "excerpt": "Modelli come clienti, in passerella anche Isabella Ferrari"
     },
     {
       "title": "Da stop al fumo a meno sale, le 5 regole per la salute del cuore",
@@ -656,32 +677,11 @@
       "excerpt": "Il 29 Giornata Mondiale. Cardiologi, circa 80% eventi può essere evitato con prevenzione"
     },
     {
-      "title": "Un tiro alla fune nel nucleo terrestre cambia la durata dei giorni",
-      "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/09/25/un-tiro-alla-fune-nel-nucleo-terrestre-cambia-durata-dei-giorni_64ad4375-e8bc-4cda-befc-58672eab4ba7.html",
+      "title": "'Autonomy for Art', l'arte accessibile a tutti alla Gam di Torino ",
+      "link": "https://www.ansa.it/responsabilmente/notizie/accessibilita/2026/09/24/autonomy-for-art-larte-accessibile-a-tutti-alla-gam-di-torino_f771b793-57cd-446f-84ac-1128f9444a74.html",
       "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 17:18:39 +0200",
-      "excerpt": "La forza di gravità combatte contro torsioni meccaniche e campi magnetici"
-    },
-    {
-      "title": "Meta lancia occhiali intelligenti senza fotocamera basati sull'IA VIDEO",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/09/24/meta-lancia-occhiali-intelligenti-senza-fotocamera-basati-sullia_59db0751-7e25-4bff-856d-1ecbb607ed19.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 10:02:03 +0200",
-      "excerpt": "Zuckerberg, 'senza il video si aprono molte nuove possibilità'. Milleri, 'anni di ricerca e di sviluppo dietro ogni prodotto'"
-    },
-    {
-      "title": "Cucce al posto delle culle, il fenomeno pet parenting",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/pets/2026/09/25/cucce-al-posto-delle-culle-il-fenomeno-pet-parenting_60ef1f2f-33ad-4782-a326-2ca5469d5c51.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 01:00:51 +0200",
-      "excerpt": "Amare il proprio animale come un figlio, oltre 1 giovane su 2 li sostituisce alla prole, ecco perchè"
-    },
-    {
-      "title": "La locomotiva a vapore torna a sbuffare nella linea turistica Sardegna",
-      "link": "https://www.ansa.it/canale_viaggi/regione/sardegna/2026/09/24/la-locomotiva-a-vapore-torna-a-sbuffare-nella-linea-turistica-sardegna_3acebc60-19c0-4d03-a67e-ec2f270eb2e6.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 19:19:55 +0200",
-      "excerpt": "A Mandas centro intermodale e a dicembre apre la 'Locanda Lawrence'"
+      "pubDate": "Fri, 25 Sep 2026 10:30:30 +0200",
+      "excerpt": "Progetto sostenuto da Stellantis Autonomy"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
