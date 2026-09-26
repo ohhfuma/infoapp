@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T06:10:15.873Z",
+  "lastUpdated": "2026-09-26T06:42:07.496Z",
   "finanza": {
     "italia": [
       {
@@ -38,7 +38,7 @@
         "excerpt": "Meno mutui e costi delle case inferiori: ecco perché Calabria, Sicilia e Sardegna presentano rate più leggeri. Trento con Rimini, Prato e Bolzano sono le città in cui servono più mesi di stipendio per estinguere il prest"
       },
       {
-        "title": "Come le aziende telecom possono diventare vincitrici nell’era dell’AI",
+        "title": "Come le telecom possono diventare vincitrici nell’era dell’AI",
         "link": "https://it.investing.com/news/stock-market-news/come-le-aziende-telecom-possono-diventare-vincitrici-nellera-dellai-3563621",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-26 01:21:02",
@@ -229,6 +229,13 @@
     ],
     "europa": [
       {
+        "title": "Guerra, ultime notizie. Trump respinge proposta di tregua dell’Iran, nuovi attacchi dopo le midterm",
+        "link": "https://www.ilsole24ore.com/art/trump-respinge-proposta-tregua-dell-iran-nuovi-attacchi-le-midterm-AJILSzPB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Sat, 26 Sep 2026 06:18:00 GMT",
+        "excerpt": ""
+      },
+      {
         "title": "Il Papa in Francia: la guerra non è inevitabile, promuovere dialogo e diplomazia",
         "link": "https://www.ilsole24ore.com/art/il-papa-francia-guerra-non-e-inevitabile-promuovere-dialogo-e-diplomazia-AJ3lyjPB",
         "source": "Il Sole 24 Ore Mondo",
@@ -332,13 +339,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 25 Sep 2026 07:06:00 GMT",
         "excerpt": "Il presidente ucraino Volodymyr Zelensky ha annunciato che il presidente statunitense Donald Trump gli ha comunicato che consentirà all’Ucraina di produrre missili avanzati per la difesa aerea Patriot, dopo una..."
-      },
-      {
-        "title": "Alla cena per Xi il gotha dell’industria tech Usa: Musk, Huang,  Altman. Le first lady rubano la scena",
-        "link": "https://www.ilsole24ore.com/art/alla-cena-xi-gotha-dell-industria-tech-usa-musk-huang-altman-first-lady-rubano-scena-AJ5eAfOB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Fri, 25 Sep 2026 06:13:00 GMT",
-        "excerpt": "Dalla corsa all’intelligenza artificiale alle catene di approvvigionamento, fino ai colossi tecnologici esclusi dal mercato cinese: la cena di Stato offerta alla Casa Bianca in onore del presidente Xi Jinping..."
       }
     ],
     "usa": [
@@ -572,6 +572,13 @@
   },
   "attualita": [
     {
+      "title": "Ponte sullo Stretto, il direttore tecnico lascia l'incarico. Nuova grana per il progetto di Salvini",
+      "link": "https://www.repubblica.it/politica/2026/09/26/news/ponte_sullo_stretto_valerio_mele_direttore_tecnico_lascia_incarico_salvini-425607963/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 05:00:00 +0000",
+      "excerpt": "Valerio Mele dal primo ottobre torna in Anas. Un addio che arriva alla vigilia dell’attesa ripresentazione della delibera al Cipess"
+    },
+    {
       "title": "Ceruti: “A scuola negazionismo e fake news, con le nuove linee guida si rischia di tornare all’Ottocento”",
       "link": "https://www.repubblica.it/cronaca/2026/09/26/news/ceruti_intervista_scuola_negazionismo_fake_news-425608439/",
       "source": "Repubblica",
@@ -619,13 +626,6 @@
       "source": "Repubblica",
       "pubDate": "Fri, 25 Sep 2026 23:00:00 +0000",
       "excerpt": "Contatti con l’ad del colosso petrolifero L’obiettivo è risparmiare risorse per la legge di bilancio pre-elettorale"
-    },
-    {
-      "title": "Accise, si dimezza lo sconto. Eni si muove sui carburanti, tetto ai prezzi per un mese",
-      "link": "https://www.repubblica.it/economia/2026/09/26/news/accise_sconto_eni_tetto_prezzo_carburanti-425608066/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il governo ringrazia. Il diesel oggi potrebbe toccare quota 2,4 euro. Il Pd: “Il governo non ha politica energetica”. Assotir evoca lo sciopero"
     },
     {
       "title": "È ancora azzurro tenebra, neanche Mancini rianima l'Italia ",
