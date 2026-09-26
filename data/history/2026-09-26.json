@@ -661,6 +661,20 @@
     ],
     "mondo": [
       {
+        "title": "Trump, 'fake news non accedano alla Casa Bianca, è luogo sacro'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/trump-fake-news-non-accedano-alla-casa-bianca-e-luogo-sacro_2c069c84-ef10-4f59-bab1-b76cd9684e9b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 14:37:07 +0200",
+        "excerpt": "Il presidente attacca, 'situazione va avanti da troppo tempo con un costo enorme per Usa'"
+      },
+      {
+        "title": "Attentato contro posto di polizia in Pakistan, 11 morti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/26/attentato-contro-posto-di-polizia-in-pakistan-11-morti_3b883093-b2d0-44c4-b6ee-01789b1f6bfb.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 14:07:44 +0200",
+        "excerpt": "Tra le vittime otto uomini, due donne e un bambino"
+      },
+      {
         "title": "EU warns of energy price crisis, urges gas demand cuts - Bloomberg",
         "link": "https://www.investing.com/news/commodities-news/eu-warns-of-energy-price-crisis-urges-gas-demand-cuts--bloomberg-4918563",
         "source": "Investing.com Commodities",
@@ -1006,6 +1020,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Omicidio di Torino, la madre del fermato: 'Piangeva, era sconvolto' ",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/omicidio-di-torino-la-madre-del-fermato-piangeva-era-sconvolto-_dfe8e53a-0135-4ecc-828a-3bdb360f920c.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 14:36:12 +0200",
+      "excerpt": "\"Diceva cose confuse, non capivo cosa avesse fatto\""
+    },
     {
       "title": "Una donna getta acido al suo avvocato a Messina, legale ricoverato",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/donna-getta-acido-al-suo-avvocato-a-messina-legale-ricoverato_f6ffe7d9-7664-4ed8-9dec-1f7f960942ea.html",
@@ -1418,16 +1439,16 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 07:21:14 +0200",
       "excerpt": "Le sole certezze sono contenute nella cartella esattoriale che hanno portato il dipendente delegato dell’agenzia delle Entrate riscossione di Firenze, Paolo Bracciali, a notificarle un primo pignoramento il 26 giugno sco"
-    },
-    {
-      "title": "LE FOTO SULLO YACHT Le immagini degli incontri e i telefonini lasciati all’esterno per blindare i colloqui riservati",
-      "link": "https://www.corriere.it/cronache/24_maggio_12/toti-arrestato-gli-incontri-sullo-yacht-di-spinelli-e-i-telefonini-lasciati-all-esterno-per-blindare-i-colloqui-riservati-e99c3dad-0cea-46a5-9b3a-8e728c4c3xlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 07:13:16 +0200",
-      "excerpt": "Tra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità portuale Paolo SignoriniTra gli ospiti della barca, anche il sindaco di Genova Marco Bucci e il presidente dell'autorità po"
     }
   ],
   "sport": [
+    {
+      "title": "Billie Jean King Cup: Paolini ko con Svitolina, Italia eliminata",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/26/bjk-cup-paolini-ko-con-svitolina-italia-eliminata_4c18f710-87b8-4418-83dc-8c8b7aabf0b8.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 14:25:21 +0200",
+      "excerpt": "La toscana perde 6-2 6-2, le azzurre cedono il titolo dopo due anni"
+    },
     {
       "title": "America's Cup: riparati danni a barca La Roche-Posay, francesi saranno in gara",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-riparati-danni-a-barca-la-roche-posay-francesi-saranno-in-gara_005bd680-0fdf-4f63-9818-b9168103561f.html",

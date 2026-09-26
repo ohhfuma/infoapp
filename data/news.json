@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T12:09:13.214Z",
+  "lastUpdated": "2026-09-26T12:41:36.265Z",
   "finanza": {
     "italia": [
       {
@@ -14,7 +14,7 @@
         "link": "https://www.ilsole24ore.com/art/risparmio-arrivano-btp-gemelli-eccoli-confronto-AJpbsaPB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 26 Sep 2026 11:38:00 GMT",
-        "excerpt": "Dal 19 al 23 ottobre è stato messo in calendario infatti un inedito collocamento contemporaneo di due titoli. In offerta ci sarà un BTp Valore dall’impostazione tradizionale, con scadenza a..."
+        "excerpt": "Dal 19 al 23 ottobre in emissione un titolo a cedole trimestrali e uno con rendimento equivalente ma interessi riconosciuti in soluzione unica alla scadenza (si chiamerà «Insieme»)"
       },
       {
         "title": "Tempi della giustizia civile e Pnrr: riduzione permanente o effetti del “rush finale”?",
@@ -247,7 +247,7 @@
         "link": "https://www.ilsole24ore.com/art/tik-tok-patteggia-alabama-l-accusa-creare-dipendenza-e-fissa-limite-giornaliero-2-ore-gli-adolescenti-AJpSG1PB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sat, 26 Sep 2026 07:18:09 GMT",
-        "excerpt": "Il procuratore generale dell’Alabama ha dichiarato che Tik Tok ha accettato di pagare fino a 300 milioni di dollari e di adottare nuove misure di tutela degli utenti per risolvere..."
+        "excerpt": "Tik Tok ha accettato di pagare fino a 300 milioni di dollari"
       },
       {
         "title": "Guerra, ultime notizie. Trump respinge proposta di tregua dell’Iran, nuovi attacchi dopo le midterm",
@@ -401,11 +401,25 @@
     ],
     "mondo": [
       {
+        "title": "Trump, 'fake news non accedano alla Casa Bianca, è luogo sacro'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/trump-fake-news-non-accedano-alla-casa-bianca-e-luogo-sacro_2c069c84-ef10-4f59-bab1-b76cd9684e9b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 14:37:07 +0200",
+        "excerpt": "Il presidente attacca, 'situazione va avanti da troppo tempo con un costo enorme per Usa'"
+      },
+      {
         "title": "Spagna, verso il “Frente Amplio”: nuova coalizione delle sinistre dove potrebbe arrivare Ada Colau",
         "link": "https://www.repubblica.it/esteri/2026/09/26/news/spagna_frente_amplio_coalizione_sinistre_ada_colau_elezioni-425608937/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 14:05:17 +0200",
+        "pubDate": "Sat, 26 Sep 2026 14:22:44 +0200",
         "excerpt": "In vista del voto del 2027, l’ex sindaca di Barcellona si avvicina al ritorno in politica e potrebbe diventare la leader dell’alleanza dei partiti progressisti per frenare l’avanzata di Pp e Vox. Ma resta il nodo della p"
+      },
+      {
+        "title": "Attentato contro posto di polizia in Pakistan, 11 morti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/26/attentato-contro-posto-di-polizia-in-pakistan-11-morti_3b883093-b2d0-44c4-b6ee-01789b1f6bfb.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 14:07:44 +0200",
+        "excerpt": "Tra le vittime otto uomini, due donne e un bambino"
       },
       {
         "title": "EU warns of energy price crisis, urges gas demand cuts - Bloomberg",
@@ -499,20 +513,6 @@
         "excerpt": "Il presidente a imprenditori riuniti dal Grupo Esfera, 'stabilità è obbligo, non merito'"
       },
       {
-        "title": "Media, intelligence egiziana aveva avvertito Israele prima del 7 ottobre",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/26/media-intelligence-egiziana-aveva-avvertito-israele-prima-del-7-ottobre_7b8ee321-040a-4497-93fc-e544dc7d9d4d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 26 Sep 2026 03:08:55 +0200",
-        "excerpt": "Kamel era volato a Tel Aviv, raccomandò di concedere agevolazioni ad Hamas"
-      },
-      {
-        "title": "'Trump ha respinto la proposta dell'Iran, nuovi attacchi dopo le midterm'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/26/trump-ha-respinto-la-proposta-delliran-nuovi-attacchi-dopo-le-midterm_28a92973-0179-45b4-8673-07897a6eac81.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 26 Sep 2026 02:51:00 +0200",
-        "excerpt": "Wsj, bocciato il piano per cessare le ostilità"
-      },
-      {
         "title": "“Basta pietre di inciampo”, in Sassonia Cdu con l’Afd: ira del comitato Auschwitz",
         "link": "https://www.repubblica.it/esteri/2026/09/26/news/basta_pietre_inciampo_sassonia_cdu_afd_ira_comitato_auschwitz-425608262/?rss",
         "source": "Repubblica Esteri",
@@ -572,18 +572,18 @@
   },
   "attualita": [
     {
+      "title": "Omicidio di Torino, la madre del fermato: 'Piangeva, era sconvolto' ",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/omicidio-di-torino-la-madre-del-fermato-piangeva-era-sconvolto-_dfe8e53a-0135-4ecc-828a-3bdb360f920c.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 14:36:12 +0200",
+      "excerpt": "\"Diceva cose confuse, non capivo cosa avesse fatto\""
+    },
+    {
       "title": "Lo sconto delle accise si dimezza, il diesel sale a 2,357 euro, in autostrada a 2,439 ",
       "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/26/lo-sconto-delle-accise-si-dimezza-il-diesel-sale-a-2357-euro-in-autostrada-a-2439_c3c9592d-e01e-47a7-bfbb-b4d6a28a3711.html",
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 13:55:55 +0200",
       "excerpt": "L'aumento è inferiore a quello delle tasse"
-    },
-    {
-      "title": "Il viaggio del Papa in Francia. Leone a Parigi al centro per migranti, primo appuntamento del giorno",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 13:47:07 +0200",
-      "excerpt": "Oggi per il pontefice la messa nella capitale francese, poi vola a Lourdes"
     },
     {
       "title": "Una donna getta dell'acido al suo avvocato, il legale è ricoverato",
@@ -742,6 +742,27 @@
   ],
   "sport": [
     {
+      "title": "La nazionale al lavoro a Roma, dopo il ko col Belgio testa alla Turchia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/la-nazionale-al-lavoro-a-roma-dopo-il-ko-col-belgio-testa-alla-turchia_98a2fa9a-ad75-46a8-b306-397d0b6c35c4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 14:34:36 +0200",
+      "excerpt": "Al Cpo Onesti allenamento per chi non ha giocato ieri. Domani la partenza per la Turchia"
+    },
+    {
+      "title": "F1, Gran premio di Baku",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/f1-gran-premio-di-baku_7c2ccad1-fd34-4355-80a4-1ba4d6413837.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 14:33:17 +0200",
+      "excerpt": "Oggi in Azerbaijan la quindicesima prova della stagione. La griglia di partenza"
+    },
+    {
+      "title": "Billie Jean King Cup: Paolini ko con Svitolina, Italia eliminata",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/26/bjk-cup-paolini-ko-con-svitolina-italia-eliminata_4c18f710-87b8-4418-83dc-8c8b7aabf0b8.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 14:25:21 +0200",
+      "excerpt": "La toscana perde 6-2 6-2, le azzurre cedono il titolo dopo due anni"
+    },
+    {
       "title": "America's Cup: riparati danni a barca La Roche-Posay, francesi saranno in gara",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-riparati-danni-a-barca-la-roche-posay-francesi-saranno-in-gara_005bd680-0fdf-4f63-9818-b9168103561f.html",
       "source": "ANSA Sport",
@@ -749,25 +770,11 @@
       "excerpt": "Notte di lavoro dopo l'incidente di ieri, il team transalpino al via delle fleet race"
     },
     {
-      "title": "F1, Gran premio di Baku",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/f1-gran-premio-di-baku_7c2ccad1-fd34-4355-80a4-1ba4d6413837.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 13:39:38 +0200",
-      "excerpt": "Oggi in Azerbaijan la quindicesima prova della stagione. La griglia di partenza"
-    },
-    {
       "title": "America's Cup: oltre 26mila accessi al Race Village, oggi quattro regate di flotta",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-oltre-26mila-accessi-al-race-village-oggi-quattro-regate_66d4dbd2-f9cd-4b63-8ce2-d278dad22762.html",
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 13:14:47 +0200",
       "excerpt": "Il comitato di gara ha deciso di recuperare la prova non disputata ieri per poco vento"
-    },
-    {
-      "title": "La nazionale al lavoro a Roma, dopo il ko col Belgio testa alla Turchia",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/la-nazionale-al-lavoro-a-roma-dopo-il-ko-col-belgio-testa-alla-turchia_98a2fa9a-ad75-46a8-b306-397d0b6c35c4.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 13:05:44 +0200",
-      "excerpt": "Al Cpo Onesti allenamento per chi non ha giocato ieri. Domani la partenza per la Turchia"
     },
     {
       "title": "Bjk Cup: Grant sconfitta da Kalinina, Ucraina avanti 1-0 sull'Italia",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 10:50:31 +0200",
       "excerpt": "Designato l'arbitro per la partita di lunedì sera"
-    },
-    {
-      "title": "Cinà fuori agli ottavi a Chengdu, vince Muller in 2 set",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/26/cina-fuori-agli-ottavi-a-chengdu-vince-muller-in-2-set_64f64dec-77ce-49c9-a852-543779089903.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 09:59:41 +0200",
-      "excerpt": "Il francese batte 7-6 6-1 il giovane azzurro nell'Atp 250 cinese"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
