@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Gold Fields si avvicina a Northern Star per una possibile acquisizione",
+        "link": "https://it.investing.com/news/stock-market-news/gold-fields-si-avvicina-a-northern-star-per-una-possibile-acquisizione-3563680",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-26 12:48:11",
+        "excerpt": ""
+      },
+      {
         "title": "Caro carburanti, i tir minacciano lo sciopero",
         "link": "https://www.ilsole24ore.com/art/caro-carburanti-tir-minacciano-sciopero-AJBpcAQB",
         "source": "Il Sole 24 Ore",
@@ -415,13 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 25 Sep 2026 10:24:00 GMT",
         "excerpt": "Il conto alla rovescia per la rottamazione quinquies delle entrate locali è cominciato. Per Imu, Tari, multe e bollo auto si apre la porta della sanatoria. In corso ci sono..."
-      },
-      {
-        "title": "Eni introduce un price cap a 2,19 euro per il gasolio e 1,99 euro per la benzina dal 28 settembre",
-        "link": "https://www.ilsole24ore.com/art/carburanti-urso-e-pichetto-convocano-operatori-raffinerie-aumentare-produzione-AJeCYnOB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 08:10:00 GMT",
-        "excerpt": "Urso e Pichetto convocano operatori raffinerie: aumentare la produzione"
       }
     ],
     "europa": [
@@ -1021,6 +1021,13 @@
   },
   "attualita": [
     {
+      "title": "A 15 anni muore folgorato su un traliccio nel Lodigiano: l’ipotesi di una sfida social",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/26/news/lodi_ragazzino_morto_fulminato_challenge_social_jacopo_rossi_trabattoni-425609166/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 13:04:36 +0000",
+      "excerpt": "L’allarme venerdì sera vicino alla Tenuta Bottedo. La madre di Jacopo Rossi Trabattoni aveva appena denunciato la scomparsa del figlio"
+    },
+    {
       "title": "F1, Russell vince a Baku davanti a Verstappen, Antonelli quinto",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/f1-gran-premio-di-baku_7c2ccad1-fd34-4355-80a4-1ba4d6413837.html",
       "source": "ANSA",
@@ -1432,16 +1439,30 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 08:00:32 +0200",
       "excerpt": "Sui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumentatiSui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumenta"
-    },
-    {
-      "title": "Toti a Spinelli: «Ti vengo a trovare prima delle elezioni. Ti chiedo un po’ di robe» Ecco le immagini degli incontri sullo yacht",
-      "link": "https://www.corriere.it/politica/24_maggio_13/toti-spinelli-elezioni-9eac3140-71d7-4523-b980-142b573d5xlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 07:57:43 +0200",
-      "excerpt": "Le parole del governatore ligure all'imprenditore: «Come al solito, di questi tempi» Spinelli a Signorini: «A 83 anni non mi possono fare niente»Le parole del governatore ligure all'imprenditore: «Come al solito, di ques"
     }
   ],
   "sport": [
+    {
+      "title": "America's Cup: la seconda prova di flotta va ai francesi di La Roche-Posay",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-la-seconda-prova-di-flotta-va-ai-francesi-di-la-roche-posay_079ab98a-9ffb-4b67-8ef2-149d58ceaf29.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 15:29:04 +0200",
+      "excerpt": "Day 2 della regata preliminare: solo sesta Luna Rossa senior penalizzata in partenza"
+    },
+    {
+      "title": "Alajbegovic, 'la Juve vuole competere per il titolo'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/alajbegovic-la-juve-vuole-competere-per-il-titolo_1a994009-53ea-492a-a0f2-aaf5aa102ed7.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 15:20:07 +0200",
+      "excerpt": "Il bosniaco bianconero, 'Spalletti è un top, mi aiuta a migliorare'"
+    },
+    {
+      "title": "America's Cup: i ragazzi delle periferie di Napoli in mare con 7 campioni olimpici",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-i-ragazzi-delle-periferie-di-napoli-in-mare-con-7-campioni-olimpici_db1f6dc7-4b81-4adc-9b32-130dca77e703.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 15:15:52 +0200",
+      "excerpt": "Appuntamento promosso da Sport e Salute in collaborazione con la Federazione Italiana Vela"
+    },
     {
       "title": "F1: Russell vince a Baku davanti a Verstappen, Antonelli quinto",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/26/f1-russell-vince-a-baku-davanti-a-verstappen-antonelli-quinto_cc884d61-a095-4dff-960c-6d8c1bab281e.html",
