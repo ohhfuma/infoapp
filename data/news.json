@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-26T12:41:36.265Z",
+  "lastUpdated": "2026-09-26T13:06:53.787Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Trenitalia taglia i prezzi degli abbonamenti dell’Alta velocità. Ma la prenotazione sarà a pagamento",
+        "link": "https://www.repubblica.it/economia/2026/09/26/news/trenitalia_abbonamento_cambio_tariffe_alta_velocita_prenotazione-425608969/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sat, 26 Sep 2026 14:39:45 +0200",
+        "excerpt": "Ad anticipare la novità è Assoutenti. Il costo per i pendolari scende di 80 euro, mentre il posto sul treno costerà 2 euro"
+      },
       {
         "title": "Caro carburanti, i tir minacciano lo sciopero",
         "link": "https://www.ilsole24ore.com/art/caro-carburanti-tir-minacciano-sciopero-AJBpcAQB",
@@ -22,13 +29,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sat, 26 Sep 2026 13:04:03 +0200",
         "excerpt": "L’obiettivo di riduzione della durata dei processi civili è stato ampiamente raggiunto. Questi risultati sono però stati raggiunti anche attraverso una accelerazione delle cause definite nel primo semestre del 2026. Rest"
-      },
-      {
-        "title": "Trenitalia taglia i prezzi degli abbonamenti dell’Alta velocità. Ma la prenotazione sarà a pagamento",
-        "link": "https://www.repubblica.it/economia/2026/09/26/news/trenitalia_abbonamento_cambio_tariffe_alta_velocita_prenotazione-425608969/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 26 Sep 2026 12:52:44 +0200",
-        "excerpt": "Ad anticipare la novità è Assoutenti. Il costo per i pendolari scende di 80 euro, mentre il posto sul treno costerà 2 euro"
       },
       {
         "title": "Stretta contro il greenwashing, da domani al via le nuove norme Ue",
@@ -401,18 +401,25 @@
     ],
     "mondo": [
       {
-        "title": "Trump, 'fake news non accedano alla Casa Bianca, è luogo sacro'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/trump-fake-news-non-accedano-alla-casa-bianca-e-luogo-sacro_2c069c84-ef10-4f59-bab1-b76cd9684e9b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 26 Sep 2026 14:37:07 +0200",
-        "excerpt": "Il presidente attacca, 'situazione va avanti da troppo tempo con un costo enorme per Usa'"
+        "title": "Il Papa a Parigi, oggi messa con 700mila fedeli a Place de la Concorde",
+        "link": "https://www.repubblica.it/esteri/2026/09/26/news/papa_parigi_messa_place_concorde_lourdes-425608795/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 26 Sep 2026 15:02:23 +0200",
+        "excerpt": "Arrivato ieri in Francia per un viaggio di quattro giorni, in serata Leone si trasferisce al santuario di Lourdes. In mattinata la visita al centro per rifugiati e l’incontro con i neofiti dopo il boom di battesimi adult"
       },
       {
         "title": "Spagna, verso il “Frente Amplio”: nuova coalizione delle sinistre dove potrebbe arrivare Ada Colau",
         "link": "https://www.repubblica.it/esteri/2026/09/26/news/spagna_frente_amplio_coalizione_sinistre_ada_colau_elezioni-425608937/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 14:22:44 +0200",
+        "pubDate": "Sat, 26 Sep 2026 14:40:17 +0200",
         "excerpt": "In vista del voto del 2027, l’ex sindaca di Barcellona si avvicina al ritorno in politica e potrebbe diventare la leader dell’alleanza dei partiti progressisti per frenare l’avanzata di Pp e Vox. Ma resta il nodo della p"
+      },
+      {
+        "title": "Trump, 'fake news non accedano alla Casa Bianca, è luogo sacro'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/trump-fake-news-non-accedano-alla-casa-bianca-e-luogo-sacro_2c069c84-ef10-4f59-bab1-b76cd9684e9b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 14:37:07 +0200",
+        "excerpt": "Il presidente attacca, 'situazione va avanti da troppo tempo con un costo enorme per Usa'"
       },
       {
         "title": "Attentato contro posto di polizia in Pakistan, 11 morti",
@@ -448,13 +455,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Sat, 26 Sep 2026 11:44:45 +0200",
         "excerpt": "In tutto il mondo, Calabria inclusa, le brigate dei medici cubani riempiono ospedali e ambulatori che in alternativa rimarrebbero vuoti. Ma adesso anche pagare i loro stipendi espone un governo a rischio sanzioni"
-      },
-      {
-        "title": "Il Papa a Parigi, oggi messa con 600mila fedeli a Place de la Concorde",
-        "link": "https://www.repubblica.it/esteri/2026/09/26/news/papa_parigi_messa_place_concorde_lourdes-425608795/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 11:23:42 +0200",
-        "excerpt": "Arrivato ieri in Francia per un viaggio di quattro giorni, in serata Leone si trasferisce al santuario di Lourdes. In mattinata la visita al centro per rifugiati e l’incontro con i neofiti dopo il boom di battesimi adult"
       },
       {
         "title": "Il Papa a Parigi, oggi messa con 600mila fedeli a Place de la Concorde",
@@ -572,18 +572,18 @@
   },
   "attualita": [
     {
+      "title": "F1, Russell vince a Baku davanti a Verstappen, Antonelli quinto",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/f1-gran-premio-di-baku_7c2ccad1-fd34-4355-80a4-1ba4d6413837.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 14:52:23 +0200",
+      "excerpt": "Completa il podio Hadjar, quarto Leclerc e sesto Hamilton"
+    },
+    {
       "title": "Omicidio di Torino, la madre del fermato: 'Piangeva, era sconvolto' ",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/omicidio-di-torino-la-madre-del-fermato-piangeva-era-sconvolto-_dfe8e53a-0135-4ecc-828a-3bdb360f920c.html",
       "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 14:36:12 +0200",
+      "pubDate": "Sat, 26 Sep 2026 14:44:22 +0200",
       "excerpt": "\"Diceva cose confuse, non capivo cosa avesse fatto\""
-    },
-    {
-      "title": "Lo sconto delle accise si dimezza, il diesel sale a 2,357 euro, in autostrada a 2,439 ",
-      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/26/lo-sconto-delle-accise-si-dimezza-il-diesel-sale-a-2357-euro-in-autostrada-a-2439_c3c9592d-e01e-47a7-bfbb-b4d6a28a3711.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 13:55:55 +0200",
-      "excerpt": "L'aumento è inferiore a quello delle tasse"
     },
     {
       "title": "Una donna getta dell'acido al suo avvocato, il legale è ricoverato",
@@ -742,18 +742,32 @@
   ],
   "sport": [
     {
+      "title": "F1, Russell vince a Baku davanti a Verstappen, Antonelli quinto",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/f1-gran-premio-di-baku_7c2ccad1-fd34-4355-80a4-1ba4d6413837.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 14:52:23 +0200",
+      "excerpt": "Completa il podio Hadjar, quarto Leclerc e sesto Hamilton"
+    },
+    {
+      "title": "F1: Russell vince a Baku davanti a Verstappen, Antonelli quinto",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/26/f1-russell-vince-a-baku-davanti-a-verstappen-antonelli-quinto_cc884d61-a095-4dff-960c-6d8c1bab281e.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 14:43:53 +0200",
+      "excerpt": "Completa il podio Hadjar, quarto Leclerc e sesto Hamilton"
+    },
+    {
+      "title": "America's Cup: a Luna Rossa senior la prima prova di giornata, disastro New Zealand",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-a-luna-rossa-senior-la-prima-prova-di-giornata-disastro-new_d2c622f6-8a77-4735-b452-88fbaf8597df.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 14:40:13 +0200",
+      "excerpt": "Day 2 della regata preliminare: vince l'AC40 italiano, campioni in carica ottavi e noni"
+    },
+    {
       "title": "La nazionale al lavoro a Roma, dopo il ko col Belgio testa alla Turchia",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/la-nazionale-al-lavoro-a-roma-dopo-il-ko-col-belgio-testa-alla-turchia_98a2fa9a-ad75-46a8-b306-397d0b6c35c4.html",
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 14:34:36 +0200",
       "excerpt": "Al Cpo Onesti allenamento per chi non ha giocato ieri. Domani la partenza per la Turchia"
-    },
-    {
-      "title": "F1, Gran premio di Baku",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/f1-gran-premio-di-baku_7c2ccad1-fd34-4355-80a4-1ba4d6413837.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 14:33:17 +0200",
-      "excerpt": "Oggi in Azerbaijan la quindicesima prova della stagione. La griglia di partenza"
     },
     {
       "title": "Billie Jean King Cup: Paolini ko con Svitolina, Italia eliminata",
@@ -782,20 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 12:44:09 +0200",
       "excerpt": "La 18enne cede in 2 set all'esordio in azzurro, ora Paolini"
-    },
-    {
-      "title": "Il professor Pigozzi rieletto a capo della medicina dello sport mondiale",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/il-professor-pigozzi-rieletto-a-capo-della-medicina-dello-sport-mondiale_ef59a6c7-1ff1-42ca-8e3f-07ea7c1a13c7.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 12:03:31 +0200",
-      "excerpt": "Il n.1 di Nado Italia confermato presidente della Fims nel 39° Congresso"
-    },
-    {
-      "title": "Nations League: Turchia-Italia sarà diretta dall'inglese Oliver",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/nations-league-turchia-italia-sara-diretta-dallinglese-oliver_4fdf73c0-0506-431b-aefe-f865142c329b.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 10:50:31 +0200",
-      "excerpt": "Designato l'arbitro per la partita di lunedì sera"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
