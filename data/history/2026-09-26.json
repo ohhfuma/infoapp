@@ -661,6 +661,34 @@
     ],
     "mondo": [
       {
+        "title": "Uragano Polo riacquista forza 5 di fronte alla costa occidentale del Messico",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/26/uragano-polo-riacquista-forza-5-di-fronte-alla-costa-occidentale-del-messico_7060871c-e5ff-464a-b2d7-cb02ebbbba13.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 16:31:31 +0200",
+        "excerpt": "Autorità in allerta per l'impatto nello stato della Bassa California del Sud"
+      },
+      {
+        "title": "Trump, 'forse Putin e Zelensky faranno un accordo prima del pieno inverno'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/trump-forse-putin-e-zelensky-faranno-un-accordo-prima-del-pieno-inverno_29e3dd55-27a5-4da6-8b16-fd3faa82a831.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 16:30:39 +0200",
+        "excerpt": "Lo ha detto il presidente Usa, secondo quanto riporta l'agenzia Bloomberg"
+      },
+      {
+        "title": "Trump, 'forse Putin e Zelensky faranno un accordo prima del pieno inverno'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/26/trump-forse-putin-e-zelensky-faranno-un-accordo-prima-del-pieno-inverno_b8e05640-176e-4dc8-865c-0683f2b60c50.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 16:30:39 +0200",
+        "excerpt": "Lo ha detto il presidente Usa, secondo quanto riporta l'agenzia Bloomberg"
+      },
+      {
+        "title": "Trump conferma, ho respinto la proposta dell'Iran",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/trump-conferma-ho-respinto-la-proposta-delliran_e33bcefc-fbd0-48bd-aae8-58a9bfb1ee6b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 16:13:06 +0200",
+        "excerpt": "Wall Street Journal aveva anticipato la decisione"
+      },
+      {
         "title": "Concluso il secondo round di negoziati tra governo e opposizione in Venezuela",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/26/concluso-il-secondo-round-di-negoziati-tra-governo-e-opposizione-in-venezuela_f9b55969-56a9-4e86-b4f5-7029b0316848.html",
         "source": "ANSA Mondo",
@@ -1027,6 +1055,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Siracusano, sottosegretaria FI: \"Vannacci mi ha spogliata con l'IA. Che viltà, lo denuncio\"",
+      "link": "https://www.repubblica.it/politica/2026/09/26/news/matilde_siracusano_fi_vannacci_foto_nuda_ia_intervista-425609252/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 14:05:45 +0000",
+      "excerpt": "L’esponente di Forza Italia “senza parole” per il post dell’ex generale sulla campagna elettorale a Reggio. Tajani: \"Volgare e inaccettabile”"
+    },
     {
       "title": "Russell vince a Baku davanti a Verstappen. Antonelli da 16° a 5°, Ferrari giù dal podio",
       "link": "https://www.repubblica.it/sport/formulauno/2026/09/26/news/f1_gp_baku_2026_vince_russell_ferrari_antonelli-425609244/",
@@ -1439,16 +1474,37 @@
       "source": "ANSA",
       "pubDate": "Fri, 25 Sep 2026 01:00:51 +0200",
       "excerpt": "Amare il proprio animale come un figlio, oltre 1 giovane su 2 li sostituisce alla prole, ecco perchè"
-    },
-    {
-      "title": "La locomotiva a vapore torna a sbuffare nella linea turistica Sardegna",
-      "link": "https://www.ansa.it/canale_viaggi/regione/sardegna/2026/09/24/la-locomotiva-a-vapore-torna-a-sbuffare-nella-linea-turistica-sardegna_3acebc60-19c0-4d03-a67e-ec2f270eb2e6.html",
-      "source": "ANSA",
-      "pubDate": "Thu, 24 Sep 2026 19:19:55 +0200",
-      "excerpt": "A Mandas centro intermodale e a dicembre apre la 'Locanda Lawrence'"
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: protesta giocatori Irlanda, ma con Israele si gioca",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/nations-league-protesta-giocatori-irlanda-ma-con-israele-si-gioca_8027d19d-c398-4997-97c4-8ab972c06498.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 16:35:05 +0200",
+      "excerpt": "Tensioni a Debrecen, alcuni chiedevano di boicottare la gara ma la federazione la conferma"
+    },
+    {
+      "title": "Cobolli perde al tiebreak decisivo con Tien in Laver Cup",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/26/cobolli-perde-al-tiebreak-decisivo-con-tien-in-laver-cup_2966bf86-a0d7-47b6-8cf6-b0f1aaeafaaa.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 16:13:10 +0200",
+      "excerpt": "Il Mondo pareggia i conti con l'Europa, 3-3 dopo il primo match di giornata"
+    },
+    {
+      "title": "America's Cup: La Roche-Posay scuffia sul traguardo, terza regata va a New Zealand Y&W",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-la-roche-posay-scuffia-sul-traguardo-terza-regata-va-a-new_26c7ef98-f3e3-4a39-ad31-deaad3b3ccae.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 16:12:45 +0200",
+      "excerpt": "Epilogo a sorpresa nella quinta fleet race, Luna Rossa si piazza al secondo posto"
+    },
+    {
+      "title": "America's Cup: Abodi 'Entusiasmo Napoli e tanti turisti, c'è già un ritorno immediato'",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-abodi-entusiasmo-napoli-e-tanti-turisti-ce-gia-un-ritorno-immediato_513b907a-9e8f-4981-85c7-f28f17e28f84.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 16:11:19 +0200",
+      "excerpt": "Il ministro alla regata preliminare: \"Investimento pubblico rilevante ma ad alta resa\""
+    },
     {
       "title": "F1: Antonelli, 'weekend peggiore dell'anno, devo accontentarmi del 5/o posto'",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/26/f1-antonelli-weekend-peggiore-dellanno-devo-accontentarmi-del-5o-posto_23de7f8b-174d-47a6-8f5e-fe367ed6781e.html",
