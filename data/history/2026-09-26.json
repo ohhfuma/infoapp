@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Biennale dello Stretto, il Mediterraneo come laboratorio di pensiero Calabria e Sicilia",
+        "link": "https://www.ilsole24ore.com/art/biennale-stretto-mediterraneo-come-laboratorio-pensiero-calabria-e-sicilia-AJWlTBQB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 17:02:32 GMT",
+        "excerpt": "Un evento “longue durée”, fino al 13 dicembre, in cui arte, architettura, design e fotografia indagano le mutazioni in atto nelle città e negli spazi relazionali delle comunità"
+      },
+      {
+        "title": "Strade Sicure, strappo in Commissione. No della Lega a più Carabinieri: «Fino a 10mila militari in più»",
+        "link": "https://www.ilsole24ore.com/art/strade-sicure-strappo-commissione-no-lega-piu-carabinieri-fino-10mila-militari-piu-AJyewjOB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 16:43:26 GMT",
+        "excerpt": "La Lega ha detto no alla riformulazione della sua risoluzione (primo firmatario il deputato Eugenio Zoffili), all’esame della Commissione, suggerita dal rappresentante del Governo, il sottosegretario alla Difesa Matteo P"
+      },
+      {
         "title": "Migranti, Piantedosi al vertice di Monaco: return hub fuori dall’Europa e rimpatri rapidi",
         "link": "https://www.ilsole24ore.com/art/migranti-piantedosi-vertice-monaco-return-hub-fuori-dall-europa-e-rimpatri-rapidi-AJdkHKQB",
         "source": "Il Sole 24 Ore",
@@ -408,20 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "Fri, 25 Sep 2026 18:46:35 +0200",
         "excerpt": "Raffaele Zingone nominato amministratore delegato. Il titolo pesante in Borsa"
-      },
-      {
-        "title": "Danieli, ricavi (-9%) ma utili (+5%) e Posizione finanziaria (+48%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/danieli-ricavi-9-ma-utili-5-e-posizione-finanziaria-48_8665d4d4-514e-46e1-a8c3-4fec75f6f72c.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 18:36:10 +0200",
-        "excerpt": "CdA approva Bilancio annuale e Consolidato al 30/6. Risultato operativo (-27%)"
-      },
-      {
-        "title": "Rottamazione di multe e bollo auto, aderiscono 1.500 Comuni. Al Nord il fronte del “no”",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/25/news/rottamazione_multe_bollo_auto_adesione_citta-425607409/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Fri, 25 Sep 2026 18:26:49 +0200",
-        "excerpt": "Tra le grandi città che hanno aderito ci sono Roma, Napoli, Bari, Palermo. Tra le Regioni solo Basilicata, Campania, Lazio, Puglia e Umbria"
       }
     ],
     "europa": [
@@ -667,6 +667,20 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Nubifragi e inondazioni in Libia, sfollati e dispersi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/26/nubifragi-e-inondazioni-in-libia-sfollati-e-dispersi_111c2b07-9f48-43a4-aaa3-3fb31fe73364.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 18:55:29 +0200",
+        "excerpt": "Temporali anche sulla costa nord dell'Egitto"
+      },
+      {
+        "title": "Cuba all'Onu, se gli Usa attaccano ci difenderemo con massima determinazione e vigore",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/26/cuba-allonu-se-gli-usa-attaccano-ci-difenderemo-con-massima-determinazione-e-vigore_c6aef90d-e1d7-40bd-aa01-5a4f816ec3dd.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 18:48:59 +0200",
+        "excerpt": "Rodríguez: 'comporterebbe la morte di cittadini cubani e di giovani statunitensi'"
+      },
       {
         "title": "Lavrov, 'a Kiev regime russofobo, Europa ostacola i negoziati di pace'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/lavrov-a-kiev-regime-russofobo-europa-ostacola-i-negoziati-di-pace_468b0fab-9893-4b41-977c-353d7a5d3690.html",
@@ -1072,30 +1086,37 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 25 Sep 2026 19:53:22 +0200",
         "excerpt": "'Decideremo basandoci sugli interessi della Russia'"
-      },
-      {
-        "title": "Trump conferma i due incontri con Xi, in Cina per l'Apec e negli Usa per il G20",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/25/trump-conferma-i-due-incontri-con-xi-in-cina-per-lapec-e-negli-usa_045fbd89-8c84-48c9-844a-41fd4bc6d9f4.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Fri, 25 Sep 2026 19:49:56 +0200",
-        "excerpt": "Presidente Usa conferma le affermazioni del presidente cinese"
-      },
-      {
-        "title": "Iran, perché l’offerta di tregua di Teheran mette Trump davanti a un bivio",
-        "link": "https://www.repubblica.it/esteri/2026/09/25/news/iran_offerta_tregua_teheran_trump_bivio_hormuz_blocco_navale_sanzioni-425607882/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 25 Sep 2026 19:41:32 +0200",
-        "excerpt": "La Repubblica islamica offre di riaprire lo stretto di Hormuz se gli americani rispetteranno alcune condizioni, che sono le stesse di giugno: via il blocco navale e le sanzioni, fine della guerra. Per il presidente Usa i"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "La stravaganza siciliana di Dolce e Gabbana / LA SFILATA",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/26/la-stravaganza-siciliana-di-dolce-e-gabbana-_02febc60-2764-4fff-b7c6-66ec2a78df9c.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 18:59:03 +0200",
+      "excerpt": "JLo allo show dedicato al guardaroba di famiglia tramandato per generazioni"
+    },
+    {
+      "title": "Alla messa del Papa a Parigi 800mila fedeli. Leone ai francesi: 'Non nascondete la vostra fede'",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/alla-messa-del-papa-a-parigi-800mila-fedeli.-leone-ai-francesi-non_902d673e-03d3-4ce4-a952-2a96283b0241.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 18:39:26 +0200",
+      "excerpt": "Place de la Concorde gremita. Ora il Pontefice è partito verso Lourdes, arrivo previsto poco dopo le 19"
+    },
     {
       "title": "++ Omicidio Torino, avvocato indagato 'nella casa consumata ogni tipo di droga' ++",
       "link": "https://www.ansa.it/sito/notizie/flash/2026/09/26/omicidio-torino-avvocato-indagato-nella-casa-consumata-ogni-tipo-di-droga_963e069e-5f6c-47f2-8013-27dc44e8c1fa.html",
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 18:29:17 +0200",
       "excerpt": "'Morto in una lite per dei soldi. Stupefacenti giorno e notte'"
+    },
+    {
+      "title": "El Niño ospite indesiderato degli chef, i ristoranti si scoprono vulnerabili ",
+      "link": "https://www.ansa.it/canale_terraegusto/notizie/in_breve/2026/09/26/el-nino-ospite-indesiderato-degli-chef-i-ristoranti-si-scoprono-vulnerabili_1edc08d9-e741-4892-8ae1-41440db3093d.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 18:02:35 +0200",
+      "excerpt": "Da eventi meteo estremi impatto sulla disponibilità, qualità e prezzo degli ingredienti"
     },
     {
       "title": "Usa, l’ultima mossa di Mamdani: regala 70mila biglietti per l’opera ai newyorkesi",
@@ -1140,6 +1161,13 @@
       "excerpt": "La risposta di Anm: 'Le sue parole contrarie allo Stato di diritto. La giustizia non è uno strumento di intimidazione'"
     },
     {
+      "title": "“Forza Nuova vuole fermare la lettura del libro di Berizzi”, Bonelli annuncia un’interrogazione",
+      "link": "https://www.repubblica.it/politica/2026/09/26/news/forza_nuova_libro_berizzi_bonelli_interrogazione-425609344/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 15:06:56 +0000",
+      "excerpt": "Il deputato di Avs: “I neofascisti hanno sempre avuto paura dei libri specialmente quando raccontano inchieste su di loro”"
+    },
+    {
       "title": "Foto ritoccata di Siracusano, il centrodestra contro Vannacci: “Volgare e inaccettabile”",
       "link": "https://www.repubblica.it/politica/2026/09/26/news/siracusano_foto_ritoccata_centrodestra_contro_vannacci-425609322/",
       "source": "Repubblica",
@@ -1180,6 +1208,13 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 13:04:36 +0000",
       "excerpt": "L’allarme venerdì sera vicino alla Tenuta Bottedo. La madre di Jacopo Rossi Trabattoni aveva appena denunciato la scomparsa del figlio"
+    },
+    {
+      "title": "A Città del Capo una corsa di 24 ore contro il femminicidio",
+      "link": "https://www.ansa.it/donne/videogallery/2026/09/26/a-citta-del-capo-una-corsa-di-24-ore-contro-il-femminicidio_699f8e9a-d5d0-46a9-aa99-4de772231171.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 15:00:14 +0200",
+      "excerpt": "Alla Rondebosch Common, contro la recente ondata di violenza"
     },
     {
       "title": "F1, Russell vince a Baku davanti a Verstappen, Antonelli quinto",
@@ -1474,44 +1509,37 @@
       "source": "Repubblica",
       "pubDate": "Fri, 25 Sep 2026 20:56:43 +0000",
       "excerpt": "Il ko con il Belgio apre tanti interrogativi"
-    },
-    {
-      "title": "Ucciso e fatto a pezzi a Torino, fermate tre persone",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/ucciso-e-fatto-a-pezzi-a-torino-fermate-tre-persone_c2ab923a-e30d-4fa4-a689-0500dac697f5.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 22:27:30 +0200",
-      "excerpt": "Un uomo è indagato per omicidio, due donne per favoreggiamento e soppressione di cadavere"
-    },
-    {
-      "title": "Fatto a pezzi nei sacchi neri a casa dell’insospettabile prof: tre fermati, l’ipotesi del festino",
-      "link": "https://torino.repubblica.it/cronaca/2026/09/26/news/omicidio_via_gulli_casa_professoressa_ipotesi_festino_droga-425608184/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 20:20:00 +0000",
-      "excerpt": "La macabra scoperta in via Gulli dopo la chiamata di una madre e la confessione del figlio: “Ho ucciso una persona durante una lite”. Il giovane arrestato assieme assieme alla docente e a un’altra donna"
-    },
-    {
-      "title": "Sale il costo del gasolio, ma l'Eni mette un tetto ai prezzi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/sale-il-costo-del-gasolio-ma-leni-mette-un-tetto-ai-prezzi_94d83426-2bbc-400c-a017-36aab3b4da40.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 22:03:49 +0200",
-      "excerpt": "Il governo ringrazia, ma Assotir evoca lo sciopero. Petrolieri convocati per raffinare di più"
-    },
-    {
-      "title": "U2, la nuova era riparte dalle origini: il live tra i ragazzi della scuola dove tutto ebbe inizio",
-      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/25/news/u2_bono_concerto_scuola_dublino_50_anni_band-425608012/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 18:51:22 +0000",
-      "excerpt": "Il gruppo torna alla Mount Temple Comprehensive School, luogo della giovinezza, per festeggiare il 50ennale e lanciare il nuovo album “Carnaval de Luz”"
-    },
-    {
-      "title": "A Palazzo San Giorgio apre la Collezione Casamonti, 250 opere dei grandi maestri",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/25/a-palazzo-san-giorgio-apre-la-collezione-casamonti-250-opere-dei-grandi_f7675570-0ddb-4a3e-98d2-c14483976c7b.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 20:45:21 +0200",
-      "excerpt": ""
     }
   ],
   "sport": [
+    {
+      "title": "Rush finale per il nuovo stadio della Roma, lunedì giorno decisivo",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/rush-finale-per-il-nuovo-stadio-della-roma-lunedi-giorno-decisivo_e3a1906a-fdb5-4344-bfc4-34e4c507ec4b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 18:54:06 +0200",
+      "excerpt": "Si chiude la Conferenza dei servizi. Obiettivo prima pietra a marzo 2027"
+    },
+    {
+      "title": "Il City pronto al ricorso 'dimostreremo la nostra innocenza'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/il-city-pronto-al-ricorso-dimostreremo-la-nostra-innocenza_1daf65c5-c00f-4e7d-8f2d-c259c870a361.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 18:49:42 +0200",
+      "excerpt": "Il presidente Al Mubarak ribadisce la fiducia, altri club studiano i risarcimenti"
+    },
+    {
+      "title": "Mondiali ciclismo: Slovacchia senza corridori, in gara un massaggiatore",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/26/mondiali-ciclismo-slovacchia-senza-corridori-in-gara-un-massaggiatore_87631ce2-a50b-460c-a63d-c55434947c6e.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 18:35:24 +0200",
+      "excerpt": "Unica soluzione per evitare penalizzazioni nelle classifiche Uci"
+    },
+    {
+      "title": "America's Cup: circa 90mila persone al Race Village per la seconda giornata di gare",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/americas-cup-circa-90mila-persone-al-race-village-per-la-seconda-giornata_21c23aa7-8896-46c5-b3d7-763389087487.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 18:33:36 +0200",
+      "excerpt": "Lungomare Caracciolo una tribuna sul mare: 135 mila le presenze complessive in tre giorni"
+    },
     {
       "title": "Billie Jean King Cup: l'Italia cede lo scettro dopo 2 anni, in finale va l'Ucraina ",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/26/billie-jean-king-cup-litalia-cede-lo-scettro-dopo-2-anni-in-finale_4c18f710-87b8-4418-83dc-8c8b7aabf0b8.html",
