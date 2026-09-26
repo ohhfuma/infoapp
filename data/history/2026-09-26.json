@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Cenere lavica dell’Etna, sospese le attività di volo allo scalo di Catania",
+        "link": "https://www.ilsole24ore.com/art/cenere-lavica-dell-etna-sospese-attivita-volo-scalo-catania-AJVzr2PB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 07:56:05 GMT",
+        "excerpt": "Voli sospesi all’aeroporto di Catania, fino alle 16, per l’attività in corso sull’Etna e l’emissione di cenere lavica dal cratere Nord-Est dell’Etna che produce anche una nube eruttiva alta 4..."
+      },
+      {
+        "title": "Reggio Calabria, primo test per pesare i voti di Vannacci",
+        "link": "https://www.ilsole24ore.com/art/reggio-calabria-primo-test-pesare-voti-vannacci-AJUZYiPB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 07:55:31 GMT",
+        "excerpt": "A Roma pochi ne parlano, ma tutti ci pensano. Le elezioni suppletive per la Camera nel collegio di Reggio Calabria - in gioco c’è il seggio lasciato libero da Francesco..."
+      },
+      {
+        "title": "Sconto accise si dimezza, diesel sale a 2,357 euro, in autostrada a 2,439",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/sconto-accise-si-dimezza-diesel-sale-a-2357-euro-in-autostrada-a-2439_a705299d-6958-48b5-8017-f4af8ccc9859.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 26 Sep 2026 09:36:20 +0200",
+        "excerpt": "L'aumento è inferiore a quello delle tasse"
+      },
+      {
         "title": "Politiche 2027, si andrà a votare con la tessera digitale su smartphone",
         "link": "https://www.ilsole24ore.com/art/politiche-2027-si-andra-votare-la-tessera-digitale-smartphone-AJ68rePB",
         "source": "Il Sole 24 Ore",
@@ -860,6 +881,13 @@
   },
   "attualita": [
     {
+      "title": "++ Cenere lavica dell'Etna, sospese le attività di volo a Catania ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/26/-cenere-lavica-delletna-sospese-le-attivita-di-volo-a-catania-_aceb44f4-47bd-4dee-9859-cbea0195cfb1.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 09:43:22 +0200",
+      "excerpt": "Chiuso uno spazio aereo, zero atterraggi e decolli fino alle 16"
+    },
+    {
       "title": "Calzoni (Invitalia), 'Grazie al Piano integrato per l'autoimpiego sprint alle imprese degli under35'",
       "link": "https://www.ansa.it/native/ansacom/2026/09/26/calzoni-invitalia-grazie-al-piano-integrato-per-lautoimpiego-sprint-alle-imprese_a02f47e3-1246-47d5-acb5-066ce0e7820b.html",
       "source": "ANSA",
@@ -879,6 +907,20 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 06:38:04 +0000",
       "excerpt": "Le sconfitte azzurre danno forza a chi vuol mettere le mani sulla Federcalcio e i calciatori lo sanno"
+    },
+    {
+      "title": "Inchiesta Mps-Mediobanca, braccio di ferro sulle chat: il Senato chiede nuovi chiarimenti ai pm",
+      "link": "https://www.repubblica.it/politica/2026/09/26/news/inchiesta_mps_mediobanca_chat_senato_pm-425608315/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 06:00:00 +0000",
+      "excerpt": "La procura di Milano vuole leggere le conversazioni tra l’ex direttore del Mef Sala e nove parlamentari, fra cui il ministro Giorgetti. Ma da Palazzo Madama arriva un altro stop. Che allunga i tempi"
+    },
+    {
+      "title": "Decreto scuola, il giurista: “Contrasta con la Costituzione. Tutti devono accedere all’istruzione”",
+      "link": "https://www.repubblica.it/politica/2026/09/26/news/decreto_scuola_giuseppe_arconzo_giurista_costituzione_intervista-425607912/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 06:00:00 +0000",
+      "excerpt": "Per Giuseppe Arconzo, ordinario alla Statale di Milano, il provvedimento del governo non ha risorse ed è contraddittorio"
     },
     {
       "title": "Ponte sullo Stretto, il direttore tecnico lascia l'incarico. Nuova grana per il progetto di Salvini",
@@ -1155,6 +1197,20 @@
     }
   ],
   "sport": [
+    {
+      "title": "Cinà fuori agli ottavi a Chengdu, vince Muller in 2 set",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/26/cina-fuori-agli-ottavi-a-chengdu-vince-muller-in-2-set_64f64dec-77ce-49c9-a852-543779089903.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 09:59:41 +0200",
+      "excerpt": "Il francese batte 7-6 6-1 il giovane azzurro nell'Atp 250 cinese"
+    },
+    {
+      "title": "L'ex azzurro Osvaldo ricoverato in terapia intensiva in Argentina",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/lex-azzurro-osvaldo-ricoverato-in-terapia-intensiva-in-argentina_327ca4c6-ef80-411f-aa50-0b520c0594b9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 09:43:16 +0200",
+      "excerpt": "Il 40enne è stato operato al polmone per un versamento pleurico. Prognosi riservata"
+    },
     {
       "title": "Nba: Curry rinnova per 2 anni coi Warriors e rinuncia a 20 milioni",
       "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/09/26/nba-curry-rinnova-per-2-anni-coi-warriors-e-rinuncia-a-20-milioni_31092e59-070f-4767-9296-5de03d113ee4.html",
