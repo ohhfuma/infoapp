@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Carburanti, la mossa di Eni spiazza la distribuzione. 'Il sistema rischia di saltare'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/carburanti-la-mossa-di-eni-spiazza-la-distribuzione.-il-sistema-rischia-di-saltare_b876bc6e-4049-4e35-b227-212d9d3f349b.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 26 Sep 2026 20:11:44 +0200",
+        "excerpt": "Figisc avverte anche sui gestori. Possibile problema di concorrenza sleale"
+      },
+      {
         "title": "Riformisti Pd in conclave, primarie larghe e con doppio turno. «Nessun compromesso sull’Ucraina»",
         "link": "https://www.ilsole24ore.com/art/riformisti-pd-conclave-primarie-larghe-e-doppio-turno-nessun-compromesso-sull-ucraina-AJXvgOQB",
         "source": "Il Sole 24 Ore",
@@ -415,13 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 25 Sep 2026 17:35:01 GMT",
         "excerpt": "Dal pomeriggio di lunedì 21 settembre il sito dei Me contro Te è “temporaneamente sospeso per interventi tecnici di aggiornamento e di ottimizzazione”. Questo blackout digitale arriva nel bel mezzo..."
-      },
-      {
-        "title": "Dal 19 a 23 ottobre primo collocamento 'doppio' Btp Valore e Btp Valore Insieme",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/dal-19-a-23-ottobre-primo-collocamento-doppio-btp-valore-e-btp-valore-insieme_c0f5300f-0195-406f-9fe7-87a396219366.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 19:06:01 +0200",
-        "excerpt": "Il Mef: entrambi a 5 anni, ma con due piani cedolari diversi. Moody's decide sul rating"
       }
     ],
     "europa": [
@@ -1091,6 +1091,13 @@
   },
   "attualita": [
     {
+      "title": "Trump dice no alla proposta iraniana: “Non mi faccio condizionare”",
+      "link": "https://www.repubblica.it/esteri/2026/09/26/news/trump_dice_no_alla_proposta_iraniana_non_mi_faccio_condizionare-425609563/",
+      "source": "Repubblica",
+      "pubDate": "Sat, 26 Sep 2026 17:40:18 +0000",
+      "excerpt": "Con un post sui social il tycoon battezza lo Stretto con il suo nome, e respinge al mittente la bozza portata dai pasdaran a New York"
+    },
+    {
       "title": "Bufera per la foto 'modificata' di Siracusano rilanciata da Vannacci",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html",
       "source": "ANSA",
@@ -1502,16 +1509,30 @@
       "source": "ANSA",
       "pubDate": "Fri, 25 Sep 2026 23:14:42 +0200",
       "excerpt": "Dai fischi all'inno del Belgio a quelli alla nazionale: dominati e sconfitti 2-0 all'Olimpico"
-    },
-    {
-      "title": "Italia-Belgio, le pagelle azzurre: Romano sbaglia, Esposito timido. Tonali triste",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/pagelle_italia_belgio_tonali_kean_esposito-425608338/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 21:11:11 +0000",
-      "excerpt": "Promossi e bocciati della sfida di Nations League giocata all’Olimpico"
     }
   ],
   "sport": [
+    {
+      "title": "Calcio Italia crisi infinita, Mancini non basta e trema il palazzo ",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/calcio-italia-crisi-infinita-mancini-non-basta-e-trema-il-palazzo_98a2fa9a-ad75-46a8-b306-397d0b6c35c4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 20:28:59 +0200",
+      "excerpt": "Dalla Bosnia al Belgio poco è cambiato: c'è delusione e le manovre contro Malagò avanzano"
+    },
+    {
+      "title": "Mondiali di ciclismo: bronzo di Longo Borghini nella gara in linea, oro a Vollering",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/26/mondiali-ciclismo-bronzo-di-longo-borghini-nella-gara-in-linea-oro-vollering_a05bd09b-64ed-4e62-a3ef-4d69deaa3047.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 20:25:05 +0200",
+      "excerpt": "L'azzurra aveva già vinto l'oro con la staffetta mista"
+    },
+    {
+      "title": "Luna Rossa e La Roche-Posay danno spettacolo, boom di presenze",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/26/luna-rossa-e-la-roche-posay-danno-spettacolo-boom-di-presenze_095734f4-050e-46ac-8064-1af9cc9ffcb9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 20:18:19 +0200",
+      "excerpt": "Due vittorie per i francesi ma l'AC40 senior italiano resta saldamente primo in classifica"
+    },
     {
       "title": "Il City pronto al ricorso, 'dimostreremo la nostra innocenza'",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/26/il-city-pronto-al-ricorso-dimostreremo-la-nostra-innocenza_1abbc460-fcb6-4899-b592-b0ba2dd6d2c6.html",
@@ -1910,13 +1931,6 @@
       "source": "Gazzetta dello Sport",
       "pubDate": "Thu, 7 Dec 2023 15:30:58 +0100",
       "excerpt": "Alessandro Vanetti, in arte Massimo Pericolo, si racconta alla Gazzetta: dagli inizi con il rap alla produzione del suo nuovo album “Le cose cambiano”. Un viaggio tra musica, autodeterminazione e una dura lotta contro la"
-    },
-    {
-      "title": "Maltempo e allagamenti in Toscana: segui la diretta  ",
-      "link": "https://video.gazzetta.it/video-maltempo-toscana-allagamenti-danni-segui-diretta/1a11e3ec-7a1c-11ee-9790-0f29f8a2d723",
-      "source": "Gazzetta dello Sport",
-      "pubDate": "Fri, 3 Nov 2023 08:57:25 +0100",
-      "excerpt": "Maltempo Toscana, allagamenti e danni: segui la diretta La tempesta Ciaran è arrivata in Italia. È emergenza in Toscana, dove ci sono stati sei morti. Alcuni dispersi in diverse regioni per il maltempo, mentre anche oggi"
     }
   ]
 }
