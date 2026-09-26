@@ -668,6 +668,13 @@
     ],
     "mondo": [
       {
+        "title": "Machado, 'in Venezuela ci sono attori che cercano di prolungare la sottomissione'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/26/machado-in-venezuela-ci-sono-attori-che-cercano-di-prolungare-la-sottomissione_373e0ea4-ce50-422b-8bb8-fb81f281ccb9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sat, 26 Sep 2026 22:56:23 +0200",
+        "excerpt": "'Tornerò molto presto, urgente necessità di avviare un processo elettorale'"
+      },
+      {
         "title": "Papa Leone in Francia, alla messa in piazza a Parigi tutti (o quasi) gli aspiranti presidenti",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_leone_in_francia_alla_messa_in_piazza_a_parigi_tutti_aspiranti_presidenti-425609805/?rss",
         "source": "Repubblica Esteri",
@@ -1079,13 +1086,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Fri, 25 Sep 2026 21:33:30 +0200",
         "excerpt": "L'80% fuori dalla capitale, le bande armate avanzano nelle aree rurali"
-      },
-      {
-        "title": "Oil prices slide about 2% as US, Iran explore path out of war",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities-4916502",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 19:30:26",
-        "excerpt": ""
       }
     ]
   },
@@ -1513,6 +1513,20 @@
   ],
   "sport": [
     {
+      "title": "Confessione choc di Roberto Carlos, perso il 99% di quanto guadagnato con il calcio",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/confessione-choc-di-roberto-carlos-perso-il-99-di-quanto-guadagnato-con-il-calcio_82648871-f6fd-4a12-ad5a-f6695eea85bf.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 22:56:21 +0200",
+      "excerpt": "'Ho commesso degli errori, per questo esorto i giocatori più giovani a non fare lo stesso'"
+    },
+    {
+      "title": "Nations League: la Spagna riparte vincendo, 3-2 all'Inghilterra",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/nations-league-la-spagna-riparte-vincendo-3-2-allinghilterra_584a15ca-29d8-4ff0-96a5-33fc3a8f8d47.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sat, 26 Sep 2026 22:54:06 +0200",
+      "excerpt": "A Wemblwy Kane sbaglia un rigore e consente la rimonta degli iberici"
+    },
+    {
       "title": "Nations League: Zaniolo lascia il ritiro azzurro, non ci sarà con Turchia e Francia",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/nations-league-zaniolo-lascia-il-ritiro-azzurro-non-ci-sara-con-turchia_9730c0f8-831d-44f2-b668-0ba801f10b84.html",
       "source": "ANSA Sport",
@@ -1917,20 +1931,6 @@
       "source": "Gazzetta dello Sport",
       "pubDate": "Fri, 8 Dec 2023 13:05:36 +0100",
       "excerpt": "Rivede i suoi match al video, ha sposato lo stile nerazzurro, forma una coppia perfetta con Lautaro: così Marcus è decollato"
-    },
-    {
-      "title": "Thuram e la storia dell'Inter: tutte le esultanze copiate dai grandi bomber  ",
-      "link": "https://www.gazzetta.it/Calcio/Serie-A/Inter/storie/08-12-2023/inter-thuram-e-le-esultanze-come-adriano-icardi-dimarco-e/",
-      "source": "Gazzetta dello Sport",
-      "pubDate": "Fri, 8 Dec 2023 13:01:49 +0100",
-      "excerpt": "Dopo ogni gol il francese omaggia chi lo ha preceduto con la sua stessa maglia, un po’ per gioco e un po’ per rispetto"
-    },
-    {
-      "title": "Inter, sotto Natale l'Udinese è indigesta: Inzaghi suona l'allarme  ",
-      "link": "https://www.gazzetta.it/Calcio/Serie-A/Inter/08-12-2023/inter-udinese-i-precedenti-a-natale.shtml",
-      "source": "Gazzetta dello Sport",
-      "pubDate": "Fri, 8 Dec 2023 12:16:46 +0100",
-      "excerpt": "Il tecnico è stato già battuto dai friulani come i predecessori Spalletti, Mancini, Mazzarri, Stramaccioni, Ranieri e Leonardo: nel 2022-23 il ko esterno fu un colpo molto duro"
     }
   ]
 }
