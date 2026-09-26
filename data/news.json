@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-26T09:07:36.718Z",
+  "lastUpdated": "2026-09-26T09:37:46.713Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Ponte sullo Stretto, il direttore tecnico passa ad Anas come Chief operating officer",
+        "link": "https://www.ilsole24ore.com/art/ponte-stretto-direttore-tecnico-passa-ad-anas-come-chief-operating-officer-AJ8hl5PB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sat, 26 Sep 2026 09:37:16 GMT",
+        "excerpt": "Dal 1° ottobre Valerio Mele assumerà il ruolo di massimo vertice tecnico di Anas. Il cambio arriva mentre il progetto del ponte entra nella fase dell’istruttoria Cipess"
+      },
+      {
+        "title": "Cgia, il caro carburante mette a rischio camionisti, taxisti e rappresentanti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/cgia-il-caro-carburante-mette-a-rischio-camionisti-taxisti-e-rappresentanti_62768d9e-0348-4949-bb69-6c5cdc80fff4.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sat, 26 Sep 2026 11:06:28 +0200",
+        "excerpt": "Interessate 303.814 imprese nei tre comparti, in testa Lombardia, Lazio e Veneto"
+      },
       {
         "title": "Cambia abbonamento a Av Trenitalia, meno caro ma prenotazione diventa a pagamento",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/cambia-abbonamento-a-av-trenitalia-meno-caro-ma-prenotazione-diventa-a-pagamento_434f6b8b-014e-4f86-96b6-da2639c4042f.html",
@@ -206,28 +220,21 @@
         "excerpt": "Il Mef: entrambi a 5 anni, ma con due piani cedolari diversi. Moody's decide sul rating"
       },
       {
-        "title": "Danieli, ricavi (-9%) ma utili (+5%) e Posizione finanziaria (+48%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/danieli-ricavi-9-ma-utili-5-e-posizione-finanziaria-48_8665d4d4-514e-46e1-a8c3-4fec75f6f72c.html",
-        "source": "ANSA Economia",
-        "pubDate": "Fri, 25 Sep 2026 18:36:10 +0200",
-        "excerpt": "CdA approva Bilancio annuale e Consolidato al 30/6. Risultato operativo (-27%)"
-      },
-      {
         "title": "L’economia sommersa vale 197,6 miliardi, il 12,6% in più del 2021",
         "link": "https://www.ilsole24ore.com/art/sommerso-vale-1976-miliardi-crescita-126percento-cinque-anni-AJx5H0OB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Fri, 25 Sep 2026 12:18:00 GMT",
         "excerpt": "Secondo il Focus Censis-Confcooperative, il principale motore del fenomeno è la sottodichiarazione dei redditi da parte di imprese e lavoratori autonomi, che vale oltre 108 miliardi di euro. Sono circa 2,7 milioni i lavo"
-      },
-      {
-        "title": "Aeroporto di Malpensa intitolato a Silvio Berlusconi. Marina: «Emozione e orgoglio»",
-        "link": "https://www.ilsole24ore.com/art/aeroporto-malpensa-intitolato-silvio-berlusconi-marina-emozione-e-orgoglio-AJKlh0OB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Fri, 25 Sep 2026 11:14:00 GMT",
-        "excerpt": "La cerimonia ha celebrato l’ex premier come simbolo di dialogo e visione europea, con interventi di Tajani, Salvini, La Russa e i familiari di Berlusconi"
       }
     ],
     "europa": [
+      {
+        "title": "Mosca rivendica attacchi contro centro dati di Kiev a supporto di Starlink",
+        "link": "https://www.ilsole24ore.com/art/mosca-rivendica-attacchi-contro-centro-dati-kiev-supporto-starlink-AJ3qp5PB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Sat, 26 Sep 2026 09:23:57 GMT",
+        "excerpt": "Il ministero della Difesa russo ha dichiarato di aver condotto durante la notte attacchi con droni contro infrastrutture portuali, di trasporto, logistiche e di comunicazione utilizzate dall’esercito ucraino. A Kiev,..."
+      },
       {
         "title": "Tik Tok patteggia in Alabama l’accusa di creare dipendenza e fissa un limite giornaliero di 2 ore per gli adolescenti",
         "link": "https://www.ilsole24ore.com/art/tik-tok-patteggia-alabama-l-accusa-creare-dipendenza-e-fissa-limite-giornaliero-2-ore-gli-adolescenti-AJpSG1PB",
@@ -332,13 +339,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Fri, 25 Sep 2026 12:53:45 GMT",
         "excerpt": "Il ministro dell'Interno, Abdelouafi Laftit ha annunciato che la coalizione di governo marocchina, composta da tre partiti di centrodestra, ha ottenuto la maggioranza assoluta alla Camera dei Rappresentanti. L'affluenza "
-      },
-      {
-        "title": "Mini pacchi extra Ue, la tassa  di gestione sarà di 2 euro: si aggiungerà al dazio da 3 euro",
-        "link": "https://www.ilsole24ore.com/art/mini-pacchi-extra-ue-tassa-gestione-sara-2-euro-si-aggiungera-dazio-3-euro-AJWug7OB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Fri, 25 Sep 2026 12:20:00 GMT",
-        "excerpt": "Il tassello mancante è arrivato. La Commissione europea ha fissato a due euro per articolo l’importo della handling fee, la tassa di gestione sui beni acquistati online e importati da..."
       }
     ],
     "usa": [
@@ -400,6 +400,20 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Il Papa a Parigi, oggi messa con 600mila fedeli a Place de la Concorde",
+        "link": "https://www.repubblica.it/esteri/2026/09/26/news/papa_parigi_messa_place_concorde_lourdes-425608795/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 26 Sep 2026 11:23:42 +0200",
+        "excerpt": "Arrivato ieri in Francia per un viaggio di quattro giorni, in serata Leone si trasferisce al santuario di Lourdes. In mattinata la visita al centro per rifugiati e l’incontro con i neofiti dopo il boom di battesimi adult"
+      },
+      {
+        "title": "Il Papa a Parigi, oggi messa con 600mila fedeli a Place de la Concorde",
+        "link": "https://www.repubblica.it/esteri/2026/09/26/news/papa_parigi_messa_place_concorde_lourdes-425608794/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sat, 26 Sep 2026 11:23:04 +0200",
+        "excerpt": "Arrivato ieri in Francia per un viaggio di quattro giorni, in serata Leone si trasferisce al santuario di Lourdes. In mattinata la visita al centro per rifugiati e l’incontro con i neofiti dopo il boom di battesimi adult"
+      },
       {
         "title": "OpenAi: “Decine di governi nel mondo colpiti dai nostri agenti di Intelligenza artificiale”",
         "link": "https://www.repubblica.it/esteri/2026/09/26/news/openai_colpiti_siti_governo_pubblicate_foto_utenti-425608601/?rss",
@@ -520,13 +534,6 @@
         "excerpt": ""
       },
       {
-        "title": "La vignetta di Ellekappa: la strategia di Putin",
-        "link": "https://www.repubblica.it/esteri/2026/09/26/news/la_vignetta_di_ellekappa_la_strategia_di_putin-425608194/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 00:01:00 +0200",
-        "excerpt": ""
-      },
-      {
         "title": "Gold slips 2% for the week amid rise in dollar and yields, boost to Fed hike bets",
         "link": "https://www.investing.com/news/commodities-news/gold-edges-lower-set-for-weekly-loss-as-oil-fuels-fed-hike-bets-4916501",
         "source": "Investing.com Commodities",
@@ -560,17 +567,24 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-25 19:22:07",
         "excerpt": ""
-      },
-      {
-        "title": "Iran, perché l’offerta di tregua di Teheran mette Trump davanti a un bivio",
-        "link": "https://www.repubblica.it/esteri/2026/09/25/news/iran_offerta_tregua_teheran_trump_bivio_hormuz_blocco_navale_sanzioni-425607882/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Fri, 25 Sep 2026 19:41:32 +0200",
-        "excerpt": "La Repubblica islamica offre di riaprire lo stretto di Hormuz se gli americani rispetteranno alcune condizioni, che sono le stesse di giugno: via il blocco navale e le sanzioni, fine della guerra. Per il presidente Usa i"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Lo sconto delle accise si dimezza, il diesel sale a 2,357 euro, in autostrada a 2,439 ",
+      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/26/lo-sconto-delle-accise-si-dimezza-il-diesel-sale-a-2357-euro-in-autostrada-a-2439_c3c9592d-e01e-47a7-bfbb-b4d6a28a3711.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 11:20:47 +0200",
+      "excerpt": "L'aumento è inferiore a quello delle tasse"
+    },
+    {
+      "title": "Al Teatro degli Eroi a Roma la quarta edizione di Aut Art Festival",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/09/26/al-teatro-degli-eroi-a-roma-la-quarta-edizione-di-aut-art-festival_2ce729a4-3189-4cf8-9d64-5cf47fcc3e3a.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 11:03:42 +0200",
+      "excerpt": "La rassegna, fino al 27 settembre, per dare voce alle persone autistiche"
+    },
     {
       "title": "Il viaggio del Papa in Francia. Leone a Parigi al centro per migranti, primo appuntamento del giorno",
       "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
@@ -586,13 +600,6 @@
       "excerpt": "In tutto il mondo, Calabria inclusa, le brigate dei medici cubani riempiono ospedali e ambulatori che in alternativa rimarrebbero vuoti. Ma adesso anche pagare i loro stipendi espone un governo a rischio sanzioni"
     },
     {
-      "title": "Lo sconto delle accise si dimezza, il diesel sale a 2,357 euro, in autostrada a 2,439 ",
-      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/26/lo-sconto-delle-accise-si-dimezza-il-diesel-sale-a-2357-euro-in-autostrada-a-2439_c3c9592d-e01e-47a7-bfbb-b4d6a28a3711.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 09:59:16 +0200",
-      "excerpt": "L'aumento è inferiore a quello delle tasse"
-    },
-    {
       "title": "Calzoni (Invitalia), 'Grazie al Piano integrato per l'autoimpiego sprint alle imprese degli under35'",
       "link": "https://www.ansa.it/native/ansacom/2026/09/26/calzoni-invitalia-grazie-al-piano-integrato-per-lautoimpiego-sprint-alle-imprese_a02f47e3-1246-47d5-acb5-066ce0e7820b.html",
       "source": "ANSA",
@@ -605,6 +612,13 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 07:16:52 +0000",
       "excerpt": "L’azienda ha riconosciuto che numerosi siti istituzionali, soprattutto del governo Usa, potrebbero essere stati hackerati da attività improprie di Ia sfuggita al controllo. Pubblicate inoltre “per errore” 53 immagini car"
+    },
+    {
+      "title": "Artico, il ghiaccio marino ha raggiunto l'estensione minima annuale ",
+      "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/09/26/artico-il-ghiaccio-marino-ha-raggiunto-lestensione-minima-annuale-_89f690b9-a129-471d-9314-b3e3a63b35c3.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 09:04:59 +0200",
+      "excerpt": "Stabilizzata nell'ultimo decennio dalla maggiore copertura nuvolosa"
     },
     {
       "title": "Ponte sullo Stretto, il direttore tecnico lascia l'incarico. Nuova grana per il progetto di Salvini",
@@ -642,13 +656,6 @@
       "excerpt": "Sonia Adipietro, due figlie adolescenti, lavora al Careggi di Firenze: “Un tempo era una professione ambita, ma oggi i nostri stipendi sono al palo”. Con questo articolo inizia la serie che Repubblica dedica ai mestieri "
     },
     {
-      "title": "L’inflazione si è mangiata un pezzo dei salari: il potere d’acquisto giù del 10%",
-      "link": "https://www.repubblica.it/economia/2026/09/26/news/inflazione_salari_potere_acquisto_meloni-425608372/",
-      "source": "Repubblica",
-      "pubDate": "Fri, 25 Sep 2026 23:00:00 +0000",
-      "excerpt": "Gli italiani sono spaventati, la fiducia dei consumatori è calata, per questo la premier parla d’altro. L’opposizione si occupi di lavoro"
-    },
-    {
       "title": "Moral suasion sull’ad Eni Descalzi: la mossa di Meloni per avere l’effetto-traino",
       "link": "https://www.repubblica.it/politica/2026/09/26/news/eni_descalzi_meloni_prezzo_carburante-425608292/",
       "source": "Repubblica",
@@ -656,11 +663,11 @@
       "excerpt": "Contatti con l’ad del colosso petrolifero L’obiettivo è risparmiare risorse per la legge di bilancio pre-elettorale"
     },
     {
-      "title": "A Palazzo San Giorgio apre la Collezione Casamonti, 250 opere dei grandi maestri",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/25/a-palazzo-san-giorgio-apre-la-collezione-casamonti-250-opere-dei-grandi_f7675570-0ddb-4a3e-98d2-c14483976c7b.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 20:45:21 +0200",
-      "excerpt": ""
+      "title": "L’inflazione si è mangiata un pezzo dei salari: il potere d’acquisto giù del 10%",
+      "link": "https://www.repubblica.it/economia/2026/09/26/news/inflazione_salari_potere_acquisto_meloni-425608372/",
+      "source": "Repubblica",
+      "pubDate": "Fri, 25 Sep 2026 23:00:00 +0000",
+      "excerpt": "Gli italiani sono spaventati, la fiducia dei consumatori è calata, per questo la premier parla d’altro. L’opposizione si occupi di lavoro"
     },
     {
       "title": "Torna la Festa del cinema di Roma, da Jenna Ortega a Jovanotti",
@@ -670,18 +677,11 @@
       "excerpt": "Due registe, Nicchiarelli e Smutniak fra i tre italiani in gara a Progressive Cinema"
     },
     {
-      "title": "Da stop al fumo a meno sale, le 5 regole per la salute del cuore",
-      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/09/25/da-stop-al-fumo-a-meno-sale-le-5-regole-per-la-salute-del-cuore_131b800c-9d37-4430-b0c8-aa2b5149703b.html",
+      "title": "Il prof youtuber Schettini agli studenti, tre consigli per ripartire",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/teen/2026/09/25/3-consigli-del-prof-youtuber-schettini-agli-studenti-alle-prese-con_e07f199f-646c-4248-aa78-54d945331869.html",
       "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 18:34:49 +0200",
-      "excerpt": "Il 29 Giornata Mondiale. Cardiologi, circa 80% eventi può essere evitato con prevenzione"
-    },
-    {
-      "title": "'Autonomy for Art', l'arte accessibile a tutti alla Gam di Torino ",
-      "link": "https://www.ansa.it/responsabilmente/notizie/accessibilita/2026/09/24/autonomy-for-art-larte-accessibile-a-tutti-alla-gam-di-torino_f771b793-57cd-446f-84ac-1128f9444a74.html",
-      "source": "ANSA",
-      "pubDate": "Fri, 25 Sep 2026 10:30:30 +0200",
-      "excerpt": "Progetto sostenuto da Stellantis Autonomy"
+      "pubDate": "Fri, 25 Sep 2026 19:37:30 +0200",
+      "excerpt": "Organizzati e attenti in classe, scrivere i compiti sul diario di carta e non usare l'IA"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
