@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-27T18:41:12.583Z",
+  "lastUpdated": "2026-09-27T19:06:36.643Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ip-segue-eni-sui-prezzi-dei-carburanti.-meloni-assicura-un-sostegno-alle_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 27 Sep 2026 20:50:26 +0200",
+        "excerpt": "Da domani un limite al costo. La premier: 'Segnale importante'. Ma monta la protesta, taxi pronti a sciopero"
+      },
       {
         "title": "Addio a Lorenzo Pallesi, il manager che guidò l’Ina-Assitalia e rinnovò la Treccani",
         "link": "https://www.repubblica.it/economia/2026/09/27/news/lorenzo_pallesi_morto_manager_ina_assitalia_treccani_privatizzazioni-425611175/?rss",
@@ -36,13 +43,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sun, 27 Sep 2026 18:44:13 +0200",
         "excerpt": "Eni fissa la benzina al massimo a 1,99 euro al litro e il gasolio a 2,19. Insieme a Ip, le due compagnie gestiscono più di un terzo dei distributori italiani"
-      },
-      {
-        "title": "Da domani limiti ai prezzi dei carburanti anche sulla rete Ip. Meloni: \"Segnale importante\"",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/da-domani-limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sun, 27 Sep 2026 18:26:21 +0200",
-        "excerpt": "L'annuncio di Socar: 'Rafforziamo l'impegno nei confronti dell'Italia'. Scatta anche lo sconto di Eni"
       },
       {
         "title": "I bar sotto casa, ne scompaiono 11 al giorno. L'allarme di Confesercenti",
@@ -108,7 +108,7 @@
         "excerpt": ""
       },
       {
-        "title": "Il Papa da Lourdes su fine vita e aborto, «nessuna legge può dare la morte»",
+        "title": "Il Papa alle vittime di abusi: «Il mio impegno perché non si ripeta»",
         "link": "https://www.ilsole24ore.com/art/papa-leone-xiv-lourdes-massima-vigilanza-abusi-minori-AJeT9lQB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 27 Sep 2026 10:57:00 GMT",
@@ -257,7 +257,7 @@
         "excerpt": "Per la società di Altman si è tratta di comportamenti imprevisti» già individuati"
       },
       {
-        "title": "Guerra, ultime notizie. Iran: Trump, mi aspetto nuovi colloqui con Teheran già in settimana",
+        "title": "Guerra, ultime notizie. Iran, Trump: mi aspetto nuovi colloqui con Teheran già in settimana",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-bessent-il-blocco-commerciale-all-iran-sta-funzionando-AJ193eQB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sun, 27 Sep 2026 06:51:00 GMT",
@@ -401,18 +401,25 @@
     ],
     "mondo": [
       {
+        "title": "Il Papa riceve le vittime degli abusi dei preti: “Piaga dolorosa, il mio impegno che non si ripeta”",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 21:00:52 +0200",
+        "excerpt": "A Lourdes Leone incontra sette sopravvissuti di diverse età e contesti. Ai vescovi francesi: “Essenziale mantenere la massima vigilanza”. Il caso dei mosaici coperti di Rupnik. Torna a parlare del fine vita: “E’ impossib"
+      },
+      {
         "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 20:37:52 +0200",
-        "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo suo partito di destra"
+        "pubDate": "Sun, 27 Sep 2026 21:00:26 +0200",
+        "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo partito di destra"
       },
       {
-        "title": "Il Papa a Lourdes tra i malati. E riceve le vittime degli abusi dei preti: “Piaga dolorosa”",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 20:34:12 +0200",
-        "excerpt": "“Il mio impegno perché questo male non si ripeta”. Ai vescovi francesi: “Essenziale mantenere la massima vigilanza”. Il caso dei mosaici coperti di Rupnik. E Leone torna a parlare del fine vita: “E’ impossibile considera"
+        "title": "Il presidente serbo Vucic si dimette per candidarsi alle elezioni anticipate",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/il-presidente-serbo-vucic-si-dimette-per-candidarsi-alle-elezioni-anticipate_e872079a-6af1-4fec-a46b-288f46f8714a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 20:40:29 +0200",
+        "excerpt": "La decisione preannunciata, correrà alla carica di premier nel voto previsto a ottobre"
       },
       {
         "title": "A Madrid tornano gli 'indignados', lotta contro gli sfratti ",
@@ -455,13 +462,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 18:32:51 +0200",
         "excerpt": "Il tycoon: 'Nuovi raid? Ci penso continuamente. Non vogliono l'accordo che voglio io'"
-      },
-      {
-        "title": "Trump, 'prezzo petrolio crollerà a guerra finita, più basso ora che con Biden'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/trump-prezzo-petrolio-crollera-a-guerra-finita-piu-basso-ora-che_1bb7a914-b16b-4672-b410-4ca4bc8721b6.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 18:25:07 +0200",
-        "excerpt": "'Abbiamo i migliori dati sull'occupazione e c'è la povertà più bassa di sempre'"
       },
       {
         "title": "Trump, 'su arresti a Fairford fatto un lavoro straordinario con Gb'",
@@ -572,6 +572,41 @@
   },
   "attualita": [
     {
+      "title": "++ Aggredisce donna e investe due persone a Reggio Emilia, arrestato ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/27/-aggredisce-donna-e-investe-due-persone-a-reggio-emilia-arrestato-_860d79d4-194c-45b4-af86-4841b04f42fa.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 20:54:14 +0200",
+      "excerpt": "Follia in serata a un distributore di benzina, tre feriti gravi in ospedale"
+    },
+    {
+      "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ip-segue-eni-sui-prezzi-dei-carburanti.-meloni-assicura-un-sostegno-alle_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 20:50:26 +0200",
+      "excerpt": "Da domani un limite al costo. La premier: 'Segnale importante'. Ma monta la protesta, taxi pronti a sciopero"
+    },
+    {
+      "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
+      "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 18:37:52 +0000",
+      "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo partito di destra"
+    },
+    {
+      "title": "Valditara attacca la sinistra sul decreto scuola: “Immaturità politica”",
+      "link": "https://www.repubblica.it/politica/2026/09/27/news/decreto_scuola_valditara_sinistra_immaturita_politica-425611253/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 18:33:20 +0000",
+      "excerpt": "Il ministro: “Misure progressiste. Bimbi strumentalizzati”. La replica di Manzi (Pd): “Scenda dalla cattedra e risponda nel merito”. Proteste davanti alle scuole"
+    },
+    {
+      "title": "Montella: “Anni fa l’Italia mi cercò, ma il mio cuore è qui. Anche in Turchia c’è tanta pressione”",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/27/news/montella_conferenza_turchia_italia-425611226/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 18:25:43 +0000",
+      "excerpt": "Il tecnico della Turchia rivela un interesse azzurro (“Ma non negli ultimi tempi”) e teme la sfida con Mancini: “Ha una squadra molto competitiva, con il Belgio è stato un episodio”"
+    },
+    {
       "title": "Picchiata, torturata e quasi annegata, arrestato un 38enne",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/picchiata-torturata-e-quasi-annegata-arrestato-un-38enne_643b5a66-5c1e-48eb-937b-c01309788196.html",
       "source": "ANSA",
@@ -584,13 +619,6 @@
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 19:47:36 +0200",
       "excerpt": "OpenAi e Anthropic indagano su molti più casi"
-    },
-    {
-      "title": "Allarme terrorismo in una base Raf usata da bombardieri Usa contro l'Iran ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-terrorismo-in-una-base-raf-usata-da-bombardieri-usa-contro-liran_91d9e309-9fb5-4940-99e1-9370a923d619.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 19:40:06 +0200",
-      "excerpt": "Cinque arresti, 'progettavano un attentato'. Sospetti legami con Teheran. Trump s'intesta il blitz"
     },
     {
       "title": "Ballando, Fialdini e Ventura regine del tesoretto. Sciarelli 'Ballerina per una notte'",
@@ -621,13 +649,6 @@
       "excerpt": "Domenica i Video Music Awards tornano sulla costa Ovest, presenta Snoop Dogg"
     },
     {
-      "title": "Da domani limiti ai prezzi dei carburanti anche sulla rete Ip. Meloni: \"Segnale importante\"",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/da-domani-limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 18:26:21 +0200",
-      "excerpt": "L'annuncio di Socar: 'Rafforziamo l'impegno nei confronti dell'Italia'. Scatta anche lo sconto di Eni"
-    },
-    {
       "title": "Dove, quando e perché: tutto quello che c’è da sapere sullo sconto al distributore",
       "link": "https://www.repubblica.it/economia/2026/09/27/news/carburante_tetto_prezzi_ip_eni_sconti-425611013/",
       "source": "Repubblica",
@@ -647,27 +668,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 14:42:09 +0000",
       "excerpt": "Partenza perfetta di Burling e Gradoni, che incrementano il vantaggio nella seconda parte. Il successo accolto dal boato del pubblico sul lungomare. Diciassette secondi separano l’equipaggio neozelandese da quello italia"
-    },
-    {
-      "title": "Ip fissa un tetto ai prezzi del carburante. Parte l’effetto traino dopo la mossa di Eni",
-      "link": "https://www.repubblica.it/economia/2026/09/27/news/ip_fissa_tetto_prezzi_carburante_effetto_traino_eni-425610802/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 14:29:51 +0000",
-      "excerpt": "Allo studio anche le modalità per estendere il meccanismo alle stazioni a marchio Esso e agli altri operatori della filiera che si riforniscono dal gruppo"
-    },
-    {
-      "title": "La mamma di Jacopo Trabattoni, morto sul traliccio: “Amava il parkour, nessuna sfida social”",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/27/news/jacopo_trabattoni_morto_traliccio_lodi_madre-425610767/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 13:58:24 +0000",
-      "excerpt": "Il 15enne è rimasto folgorato su un traliccio nel Lodigiano, la mamma Gioia Farina: “Era un ragazzo fantastico, sulla sua tragedia tanto sciacallaggio"
-    },
-    {
-      "title": "Conca d’Oro, incendio in un appartamento: trovato morto un uomo di 77 anni",
-      "link": "https://roma.repubblica.it/cronaca/2026/09/27/news/conca_d_oro_incendio_uomo_morto_77enne-425610758/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 13:50:20 +0000",
-      "excerpt": "Le fiamme in un alloggio al secondo piano di un palazzo in via Val Cristallina. L’edificio è stato evacuato. È la seconda tragedia in 24 ore dopo la morte di Claudio Rozzi a Colli Aniene"
     },
     {
       "title": "Jovanotti, l’eterno ragazzo compie 60 anni",
@@ -742,6 +742,20 @@
   ],
   "sport": [
     {
+      "title": "America's Cup: la gioia di Sirena 'ok i nuovi equipaggi, abbiamo gruppo di talento'",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-la-gioia-di-sirena-ok-i-nuovi-equipaggi-abbiamo-gruppo-di-talento_335723fe-f397-41c8-8beb-0a554c31a493.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 20:48:59 +0200",
+      "excerpt": "L'ad di Luna Rossa dopo la preregata: 'Tifo napoletani ci ha regalato qualche nodo in più'"
+    },
+    {
+      "title": "Nations League, Montella: 'Avrei evitato l'Italia ma darò tutto per la Turchia'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/nations-league-montella-avrei-evitato-litalia-ma-daro-tutto-per-la-turchia_a06e2cbf-c494-413b-afd3-b9d4f9b2c35c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 20:45:43 +0200",
+      "excerpt": "Il ct dei turchi: \"A Mancini toglierei Donnarumma, è straordinario\""
+    },
+    {
       "title": "A Napoli il trionfo di Luna Rossa, ora l'America's Cup non è più un sogno",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/a-napoli-il-trionfo-di-luna-rossa-ora-lamericas-cup-non-e-piu-un-sogno_61c0c5e5-a015-4e02-a555-a629426708da.html",
       "source": "ANSA Sport",
@@ -782,20 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 18:57:47 +0200",
       "excerpt": "Oltre 250mila persone nel Race Village. Mezzaroma e Nepi: \"Napoli ha vinto la sfida'"
-    },
-    {
-      "title": "Bulega campione del mondo Superbike, 14 anni dopo Biaggi",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/bulega-campione-del-mondo-superbike-14-anni-dopo-biaggi_0bedf039-48ed-4c2d-894a-7595da735ff0.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 18:57:19 +0200",
-      "excerpt": "\"Una figata\". Titolo con Ducati. Ex enfant prodige realizza suo sogno a 26 anni"
-    },
-    {
-      "title": "Nations League: Tonali, 'non abbiamo la stella, ma questa Italia e' viva'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-tonali-non-abbiamo-la-stella-ma-questa-italia-e-viva_185075f4-3630-4d23-96d6-b14dd52dae2d.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 18:01:51 +0200",
-      "excerpt": "Centrocampista azzurro: 'col Belgio giocato male, cresciamo passo dopo passo'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
