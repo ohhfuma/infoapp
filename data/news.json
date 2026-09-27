@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-27T13:06:57.890Z",
+  "lastUpdated": "2026-09-27T13:38:11.637Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Caro carburante, anche i tassisti minacciano lo sciopero",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/carburanti-ancora-in-rialzo-diesel-si-avvicina-a-25-euro-in-autostrada_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 27 Sep 2026 15:29:10 +0200",
+        "excerpt": "'Il governo ci convochi'. Da domani in vigore lo sconto dell'Eni"
+      },
       {
         "title": "Barrick Mining raggiunge un accordo con i sindacati in Mali, scioperi annullati",
         "link": "https://it.investing.com/news/stock-market-news/barrick-mining-raggiunge-un-accordo-con-i-sindacati-in-mali-scioperi-annullati-3563799",
@@ -36,13 +43,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sun, 27 Sep 2026 12:43:12 +0200",
         "excerpt": "Il drammaturgo e sceneggiatore porta in scena una versione “da cortile” della opera di Verdi con il pubblico mischiato ai cantanti nei piazzali della Kimbo. In due serate quasi 1.200 spettatori in arrivo anche dai quarti"
-      },
-      {
-        "title": "Carburanti ancora in rialzo, il diesel si avvicina a 2,5 euro in autostrada",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/carburanti-ancora-in-rialzo-diesel-si-avvicina-a-25-euro-in-autostrada_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sun, 27 Sep 2026 12:42:07 +0200",
-        "excerpt": "Mimit, sulle strade gasolio a 2,377 euro, la benzina a 2,159"
       },
       {
         "title": "'In Europa migliora puntualità aerei ma 3 su 10 in ritardo, rischio rincari'",
@@ -394,11 +394,32 @@
     ],
     "mondo": [
       {
+        "title": "Allarme a base Raf, i 5 arrestati accusati formalmente di terrorismo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-a-base-raf-i-5-arrestati-accusati-formalmente-di-terrorismo_c5ce7f23-5b59-47b2-a089-fa3fc3a2040d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 15:30:47 +0200",
+        "excerpt": "Sono sospettati di aver pianificato un attentato"
+      },
+      {
         "title": "Gran Bretagna, allarme esplosivi vicino a base della Raf usata dagli Usa per operazioni in Iran. Indaga l’antiterrorismo",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 15:06:00 +0200",
-        "excerpt": "Cinqu uomini sono stati arrestati e alcune abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford"
+        "pubDate": "Sun, 27 Sep 2026 15:30:14 +0200",
+        "excerpt": "Cinque uomini sono stati arrestati e 85 abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford"
+      },
+      {
+        "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 15:28:08 +0200",
+        "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
+      },
+      {
+        "title": "Allarme esplosivi vicino a base Raf, 5 le persone arrestate",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-esplosivi-vicino-a-base-raf-5-le-persone-arrestate_f33335e0-b450-4209-9e1f-41413c2821b9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 15:05:20 +0200",
+        "excerpt": "Investigazioni ora \"condotte in coordinamento con l'antiterrorismo\""
       },
       {
         "title": "Il Papa a Lourdes tra i malati. E oggi riceve le vittime degli abusi dei preti: “Piaga dolorosa”",
@@ -471,32 +492,11 @@
         "excerpt": "Washington, secondo il New York Times, contesta il carattere troppo “woke” del testo per i suoi riferimenti a equità e inclusività. Resta la frattura tra Paesi ricchi e mondo in via di sviluppo, già emersa durante il Cov"
       },
       {
-        "title": "Allarme esplosivi vicino a base della Raf, in campo antiterrorismo Gb",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-esplosivi-vicino-a-base-della-raf-in-campo-antiterrorismo-gb_399ed795-5693-4212-b31b-60cf28643b69.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 12:24:50 +0200",
-        "excerpt": "Al momento non risultano invece coinvolti i servizi segreti"
-      },
-      {
-        "title": "Kiev, 14 morti e 57 feriti in 24 ore per i raid russi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/kiev-14-morti-e-57-feriti-in-24-ore-per-i-raid-russi_aa14a425-7767-4c9d-a492-1291ed7d3c86.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 12:05:27 +0200",
-        "excerpt": "Particolarmente colpita la regione di Odessa"
-      },
-      {
         "title": "Iran’s army voices readiness for potential renewed US attack",
         "link": "https://www.investing.com/news/commodities-news/irans-army-voices-readiness-for-potential-renewed-us-attack-4918902",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-27 09:42:27",
         "excerpt": ""
-      },
-      {
-        "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 11:32:18 +0200",
-        "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
       },
       {
         "title": "La tirannia dell’essere ottimi: che effetti produce vivere secondo le aspettative degli altri",
@@ -565,25 +565,39 @@
   },
   "attualita": [
     {
-      "title": "Mondiali di ciclismo in diretta, Evenepoel è il grande favorito",
-      "link": "https://www.repubblica.it/sport/ciclismo/2026/09/27/diretta/mondiali_ciclismo_montreal_diretta_evenepoel_ciccone-425610699/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 12:54:13 +0000",
-      "excerpt": "La rassegna iridata di Montreal si chiude con la gara più attesa, la prova in linea maschile"
-    },
-    {
-      "title": "Allarme esplosivi vicino a una base della Raf, in campo l'antiterrorismo",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-in-un-campo-antiterrorismo_91d9e309-9fb5-4940-99e1-9370a923d619.html",
+      "title": "Jovanotti, l’eterno ragazzo compie 60 anni",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/27/jovanotti-leterno-ragazzo-compie-60-anni_87cd8ef6-33d5-43f0-87e0-6f3e5c725f3f.html",
       "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 14:37:37 +0200",
-      "excerpt": "Lo riporta la Bbc. Al momento non risultano invece coinvolti i servizi segreti"
+      "pubDate": "Sun, 27 Sep 2026 15:32:53 +0200",
+      "excerpt": "“Al compleanno non ci penso, faccio sempre festa per lavoro”"
     },
     {
       "title": "Ubriaco alla guida, travolge un operaio in un cantiere sulla A14 a Bologna",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/ubriaco-alla-guida-travolge-un-operaio-in-un-cantiere-a14-a-bologna_6c6ad14d-cd96-467f-a4f6-9b34ebbd628e.html",
       "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 14:35:42 +0200",
+      "pubDate": "Sun, 27 Sep 2026 15:19:02 +0200",
       "excerpt": "Investitore con tasso alcolico oltre 2 grammi per litro. È stato denunciato in stato di libertà e indagato per omicidio stradale"
+    },
+    {
+      "title": "Allarme esplosivi vicino a una base della Raf, 5 arresti. In campo l'antiterrorismo",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-5-arresti.-in-campo-lantiterrorismo_91d9e309-9fb5-4940-99e1-9370a923d619.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 15:06:11 +0200",
+      "excerpt": "La base usata anche dagli Stati Uniti per la guerra in Iran. Al momento non risultano coinvolti i servizi segreti"
+    },
+    {
+      "title": "Svizzera, schiaffo alla destra al referendum sulla neutralità: bocciata la stretta con il 68,8% dei no",
+      "link": "https://www.repubblica.it/esteri/2026/09/27/news/svizzera_schiaffo_alla_destra_referendum_su_neutralita_bocciata_stretta-425610715/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 13:02:27 +0000",
+      "excerpt": "L’elettorato ha respinto l’iniziativa dell’Udc per blindare nella Costituzione la neutralità della Confederazione. Un risultato che segna i limiti della mobilitazione sovranista e conferma il progressivo avvicinamento di"
+    },
+    {
+      "title": "Mondiali di ciclismo in diretta, 16 corridori in fuga dai primi chilometri: c’è anche Girmay",
+      "link": "https://www.repubblica.it/sport/ciclismo/2026/09/27/diretta/mondiali_ciclismo_montreal_diretta_evenepoel_ciccone-425610699/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 12:54:13 +0000",
+      "excerpt": "La rassegna iridata di Montreal si chiude con la gara più attesa, la prova in linea maschile"
     },
     {
       "title": "Bimbo di 5 anni investito a Torino, è stata l'ex compagna del padre",
@@ -607,13 +621,6 @@
       "excerpt": "Washington, secondo il New York Times, contesta il carattere troppo “woke” del testo per i suoi riferimenti a equità e inclusività. Resta la frattura tra Paesi ricchi e mondo in via di sviluppo, già emersa durante il Cov"
     },
     {
-      "title": "Bologna, operaio muore travolto sulla A14: il conducente dell’auto positivo all’alcoltest",
-      "link": "https://bologna.repubblica.it/cronaca/2026/09/27/news/operaio_muore_travolto_a14_bologna-425610488/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 09:44:51 +0000",
-      "excerpt": "L’incidente sabato sera prima delle 22, presso un cantiere segnalato. L’uomo che l’ha travolto aveva un tasso di alcol nel sangue 4 volte oltre il limite"
-    },
-    {
       "title": "Niente Turchia per dieci azzurri, Mancini lascia a casa anche Barella e Mancini",
       "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/27/news/italia_turchia_mancini_convocati_barella_mancini-425610424/",
       "source": "Repubblica",
@@ -632,7 +639,7 @@
       "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/",
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 08:42:18 +0000",
-      "excerpt": "Diversi uomini sono stati arrestati e alcune abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford"
+      "excerpt": "Cinque uomini sono stati arrestati e 85 abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford"
     },
     {
       "title": "La Luna potrebbe essersi formata in una manciata di ore",
@@ -654,13 +661,6 @@
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 20:18:32 +0200",
       "excerpt": "Dalla capitale ai villaggi di montagna e alle antiche città della Via della Seta"
-    },
-    {
-      "title": "Il ladro di libri è tornato a colpire, tra le vittime anche Latronico",
-      "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/09/26/il-ladro-di-libri-e-tornato-a-colpire-tra-le-vittime-anche-latronico_172b4f06-2de9-4682-a56a-9552ab77dfd1.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 19:15:57 +0200",
-      "excerpt": "Il New York Times indaga sul giallo degli inediti rubati, anche Nick Hornby tra le vittime"
     },
     {
       "title": "Laura Biagiotti, quando sei a Roma trascendi le mode e il momento",
@@ -735,6 +735,13 @@
   ],
   "sport": [
     {
+      "title": "La Repubblica Ceca vince la Bjk Cup, battuta l'Ucraina",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/27/la-repubblica-ceca-vince-la-bjk-cup-battuta-lucraina_f693bacb-ac47-483b-bb61-cbc1e5a26093.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 15:30:31 +0200",
+      "excerpt": "Noskova e Muchova riportano il titolo a casa dopo otto anni"
+    },
+    {
       "title": "Addio a 'Batman' Battara, portiere della Samp che allenò Pagliuca",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/addio-a-batman-battara-portiere-della-samp-che-alleno-pagliuca_5271371c-3dcf-4666-9c09-2bd66bedcb4b.html",
       "source": "ANSA Sport",
@@ -782,13 +789,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 13:16:22 +0200",
       "excerpt": "L'azzurra: \"Per me judo è stato salvezza, darò tutto per confermarmi campionessa mondiale\""
-    },
-    {
-      "title": "Maratona Berlino: Assefa domina ma un infortunio la priva del record mondiale",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/maratona-berlino-assefa-domina-ma-un-infortunio-la-priva-del-record-mondiale_e9fe68ff-0df7-4fc7-8563-9c831d31ff80.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 12:28:09 +0200",
-      "excerpt": "L'etiope arriva al traguardo zoppicante segnando il terzo tempo di sempre"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
