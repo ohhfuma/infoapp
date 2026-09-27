@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Quali sono gli effetti dei rendimenti obbligazionari sulle azioni europee?",
+        "link": "https://it.investing.com/news/stock-market-news/quali-sono-gli-effetti-dei-rendimenti-obbligazionari-sulle-azioni-europee-3563816",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-27 17:04:33",
+        "excerpt": ""
+      },
+      {
+        "title": "La Cina potrebbe permettere ad Alibaba e ByteDance di acquistare i nuovi chip Nvidia",
+        "link": "https://it.investing.com/news/stock-market-news/la-cina-potrebbe-permettere-ad-alibaba-e-bytedance-di-acquistare-i-nuovi-chip-nvidia-3563814",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-27 17:00:17",
+        "excerpt": ""
+      },
+      {
         "title": "Dove, quando e perché: tutto quello che c’è da sapere sullo sconto al distributore",
         "link": "https://www.repubblica.it/economia/2026/09/27/news/carburante_tetto_prezzi_ip_eni_sconti-425611013/?rss",
         "source": "Repubblica Economia",
@@ -408,20 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sat, 26 Sep 2026 11:43:24 +0200",
         "excerpt": "L’embargo soffoca l’isola, senza energia e cibo Intanto a Miami si disegnano i piani per il post-castrismo: un grande banchetto immobiliare"
-      },
-      {
-        "title": "Cgia, il caro carburante mette a rischio camionisti, taxisti e rappresentanti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/cgia-il-caro-carburante-mette-a-rischio-camionisti-taxisti-e-rappresentanti_62768d9e-0348-4949-bb69-6c5cdc80fff4.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 26 Sep 2026 11:06:28 +0200",
-        "excerpt": "Interessate 303.814 imprese nei tre comparti, in testa Lombardia, Lazio e Veneto"
-      },
-      {
-        "title": "Cambia abbonamento a Av Trenitalia, meno caro ma prenotazione diventa a pagamento",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/cambia-abbonamento-a-av-trenitalia-meno-caro-ma-prenotazione-diventa-a-pagamento_434f6b8b-014e-4f86-96b6-da2639c4042f.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 26 Sep 2026 11:03:25 +0200",
-        "excerpt": "Assoutenti, costerà ai pendolari 2 euro a tratta, ma canone mensile scende di 80 euro"
       }
     ],
     "europa": [
@@ -688,6 +688,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "La Svizzera dice no al referendum sulla neutralità, salve le sanzioni Ue ",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/la-svizzera-dice-no-al-referendum-sulla-neutralita-salve-le-sanzioni-ue_7c894446-31aa-4d59-b589-bf82a5104497.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 19:20:52 +0200",
+        "excerpt": "La proposta, ben vista da Mosca, irrigidiva la posizione internazionale di Berna"
+      },
       {
         "title": "Guilfoyle agli incontri ufficiali con un lobbista del gas: le ombre sulla missione dell’ambasciatrice Usa in Grecia",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/kimberly_guilfoyle_ambasciatrice_usa_grecia_lobbista_gas_christos_marafatsos-425611084/?rss",
@@ -1100,17 +1107,31 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-26 11:52:40",
         "excerpt": ""
-      },
-      {
-        "title": "With a Super El Nino, analyst asks: What happens to LNG demand?",
-        "link": "https://www.investing.com/news/commodities-news/with-a-super-el-nino-analyst-asks-what-happens-to-lng-demand-4918560",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-26 11:12:12",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Ballando, Fialdini e Ventura regine del tesoretto. Sciarelli 'Ballerina per una notte'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/09/27/carlucci-fialdini-e-ventura-regine-del-tesoretto.-sciarelli-ballerina-per-una_6cf96c13-6063-4684-8427-ae65655b9dc2.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 19:07:50 +0200",
+      "excerpt": "Milly Carluscci: \"Simone Di Pasquale in Sala delle Stelle al posto di Paolo Belli\""
+    },
+    {
+      "title": "Mancini: “Alle critiche si risponde vincendo, ma a questa generazione serve tempo”",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/27/news/mancini_conferenza_turchia_italia-425611088/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 16:58:41 +0000",
+      "excerpt": "il ct alla vigilia della gara di Bursa con la Turchia chiede pazienza e difende i suoi giocatori a cominciare da Romano: “Avrà un grande futuro in Nazionale”"
+    },
+    {
+      "title": "Guilfoyle agli incontri ufficiali con un lobbista del gas: le ombre sulla missione dell’ambasciatrice Usa in Grecia",
+      "link": "https://www.repubblica.it/esteri/2026/09/27/news/kimberly_guilfoyle_ambasciatrice_usa_grecia_lobbista_gas_christos_marafatsos-425611084/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 16:52:23 +0000",
+      "excerpt": "La diplomatica, ex fidanzata del figlio maggiore di Trump, avrebbe promosso in diversi Paesi europei il gas naturale liquefatto statunitense accompagnata da Christos Marafatsos, lobbista legato al gruppo greco Aktor. Il "
+    },
     {
       "title": "Madonna, Taylor Swift e soliti imprevisti per gli Mtv Awards a Los Angeles",
       "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/26/madonna-taylor-swift-e-soliti-imprevisti-per-gli-mtv-awards-a-los_9410ba54-088b-4363-91f4-16ba71da2f28.html",
@@ -1509,30 +1530,30 @@
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 21:12:45 +0200",
       "excerpt": "La confessione al gip di uno degli indagati per l'uomo ucciso e fatto a pezzi a Torino"
-    },
-    {
-      "title": "Domani si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 21:09:27 +0200",
-      "excerpt": "Il generale replica: 'Cercate meglio' e Tajani dice di non temerlo, 'Roscioli sarà deputato'"
-    },
-    {
-      "title": "“Mi hanno svuotato il conto”. Roberto Carlos racconta come ha perso oltre 160 milioni di euro",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/26/news/roberto_carlos_conto_povero-425609669/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 18:27:09 +0000",
-      "excerpt": "L’ex calciatore brasiliano ha svelato i problemi con il suo ex agente e familiari che lo hanno portato a perdere tutti i guadagni"
-    },
-    {
-      "title": "Viaggio in Azerbaijan, da Baku al Grande Caucaso",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/mondo/2026/09/26/viaggio-in-azerbaijan-da-baku-al-grande-caucaso_769bed0b-5f45-4e9e-b1b5-1b027916a327.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 20:18:32 +0200",
-      "excerpt": "Dalla capitale ai villaggi di montagna e alle antiche città della Via della Seta"
     }
   ],
   "sport": [
+    {
+      "title": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_869bd7cb-de43-462b-bdcd-d88af8b4884c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 19:32:22 +0200",
+      "excerpt": "Carlson vince la gara femminile, Cosetti, Barnaba e Baraldi beniamini nella tappa di casa"
+    },
+    {
+      "title": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
+      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_44710784-f049-445a-b894-66173484b090.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 19:32:22 +0200",
+      "excerpt": "Carlson vince la gara femminile, Cosetti, Barnaba e Baraldi beniamini nella tappa di casa"
+    },
+    {
+      "title": "Cuesta e Parma si dividono, cambio panchina dopo 5 giornate ",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/cuesta-e-parma-si-dividono-cambio-panchina-dopo-5-giornate-_f92b680e-9858-41a6-99be-86355f643046.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 19:31:10 +0200",
+      "excerpt": "Il club: 'Non ci sono più i presupposti per lo sviluppo del progetto sportivo'. Toto successore: Gilardino, Tudor, Zanetti i primi nomi"
+    },
     {
       "title": "America's Cup: Sport e Salute 'vero trionfo non è oggi, ma quello che comincia domani'",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-sport-e-salute-vero-trionfo-non-e-oggi-ma-quello-che_d4f15ee3-0b57-49b7-8ffd-081ebcebba5d.html",

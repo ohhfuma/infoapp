@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-27T17:07:10.288Z",
+  "lastUpdated": "2026-09-27T17:37:36.169Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Quali sono gli effetti dei rendimenti obbligazionari sulle azioni europee?",
+        "link": "https://it.investing.com/news/stock-market-news/quali-sono-gli-effetti-dei-rendimenti-obbligazionari-sulle-azioni-europee-3563816",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-27 17:04:33",
+        "excerpt": ""
+      },
+      {
+        "title": "La Cina potrebbe permettere ad Alibaba e ByteDance di acquistare i nuovi chip Nvidia",
+        "link": "https://it.investing.com/news/stock-market-news/la-cina-potrebbe-permettere-ad-alibaba-e-bytedance-di-acquistare-i-nuovi-chip-nvidia-3563814",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-27 17:00:17",
+        "excerpt": ""
+      },
       {
         "title": "Ip fissa un tetto ai prezzi del carburante. Parte l’effetto traino dopo la mossa di Eni",
         "link": "https://www.repubblica.it/economia/2026/09/27/news/ip_fissa_tetto_prezzi_carburante_effetto_traino_eni-425610802/?rss",
@@ -143,7 +157,7 @@
         "excerpt": "La prima Corte d’Assise di Roma decide sul processo per il sequestro, le torture e l’omicidio del giovane ricercatore friulano. La procura ha chiesto il carcere a vita per Magdi Ibrahim Adelal Sharif e 17 anni e mezzo pe"
       },
       {
-        "title": "Suppletive in Calabria: affluenza in picchiata, alle urne alle 12 solo il 3,43%",
+        "title": "Suppletive in Calabria: affluenza in picchiata, alle urne alle 12 di domenica solo il 3,43%",
         "link": "https://www.ilsole24ore.com/art/suppletive-calabria-seggi-aperti-vannacci-sfida-forza-italia-bufera-foto-siracusano-AJsxqfQB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 27 Sep 2026 07:52:00 GMT",
@@ -210,20 +224,6 @@
         "link": "https://it.investing.com/news/stock-market-news/aramco-valuta-una-divisione-gas-autonoma-con-valutazione-da-100-mld-3563684",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-26 15:41:51",
-        "excerpt": ""
-      },
-      {
-        "title": "Gold Fields avvicina Northern Star per una possibile acquisizione",
-        "link": "https://it.investing.com/news/stock-market-news/gold-fields-si-avvicina-a-northern-star-per-una-possibile-acquisizione-3563680",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-26 12:48:11",
-        "excerpt": ""
-      },
-      {
-        "title": "Come le telecom possono diventare vincitrici nell’era dell’AI",
-        "link": "https://it.investing.com/news/stock-market-news/come-le-aziende-telecom-possono-diventare-vincitrici-nellera-dellai-3563621",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-26 01:21:02",
         "excerpt": ""
       }
     ],
@@ -401,18 +401,18 @@
     ],
     "mondo": [
       {
+        "title": "La Svizzera dice no al referendum sulla neutralità, salve le sanzioni Ue ",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/la-svizzera-dice-no-al-referendum-sulla-neutralita-salve-le-sanzioni-ue_7c894446-31aa-4d59-b589-bf82a5104497.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 19:20:52 +0200",
+        "excerpt": "La proposta, ben vista da Mosca, irrigidiva la posizione internazionale di Berna"
+      },
+      {
         "title": "Guilfoyle agli incontri ufficiali con un lobbista del gas: le ombre sulla missione dell’ambasciatrice Usa in Grecia",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/kimberly_guilfoyle_ambasciatrice_usa_grecia_lobbista_gas_christos_marafatsos-425611084/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Sun, 27 Sep 2026 18:52:23 +0200",
         "excerpt": "La diplomatica, ex fidanzata del figlio maggiore di Trump, avrebbe promosso in diversi Paesi europei il gas naturale liquefatto statunitense accompagnata da Christos Marafatsos, lobbista legato al gruppo greco Aktor. Il "
-      },
-      {
-        "title": "La Svizzera dice no alla stretta sulla neutralità",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/svizzera-al-referendum-su-una-maggiore-neutralita-vince-il-no-con-il-702_7c894446-31aa-4d59-b589-bf82a5104497.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 18:48:36 +0200",
-        "excerpt": "Frana la proposta che avrebbe messo in bilico le sanzioni contro Mosca"
       },
       {
         "title": "Gran Bretagna, 5 arresti per esplosivi vicino base Raf usata da Usa. Trump: “Volevano fare danni”",
@@ -572,6 +572,27 @@
   },
   "attualita": [
     {
+      "title": "Ballando, Fialdini e Ventura regine del tesoretto. Sciarelli 'Ballerina per una notte'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/09/27/carlucci-fialdini-e-ventura-regine-del-tesoretto.-sciarelli-ballerina-per-una_6cf96c13-6063-4684-8427-ae65655b9dc2.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 19:07:50 +0200",
+      "excerpt": "Milly Carluscci: \"Simone Di Pasquale in Sala delle Stelle al posto di Paolo Belli\""
+    },
+    {
+      "title": "Mancini: “Alle critiche si risponde vincendo, ma a questa generazione serve tempo”",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/27/news/mancini_conferenza_turchia_italia-425611088/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 16:58:41 +0000",
+      "excerpt": "il ct alla vigilia della gara di Bursa con la Turchia chiede pazienza e difende i suoi giocatori a cominciare da Romano: “Avrà un grande futuro in Nazionale”"
+    },
+    {
+      "title": "Guilfoyle agli incontri ufficiali con un lobbista del gas: le ombre sulla missione dell’ambasciatrice Usa in Grecia",
+      "link": "https://www.repubblica.it/esteri/2026/09/27/news/kimberly_guilfoyle_ambasciatrice_usa_grecia_lobbista_gas_christos_marafatsos-425611084/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 16:52:23 +0000",
+      "excerpt": "La diplomatica, ex fidanzata del figlio maggiore di Trump, avrebbe promosso in diversi Paesi europei il gas naturale liquefatto statunitense accompagnata da Christos Marafatsos, lobbista legato al gruppo greco Aktor. Il "
+    },
+    {
       "title": "Madonna, Taylor Swift e soliti imprevisti per gli Mtv Awards a Los Angeles",
       "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/26/madonna-taylor-swift-e-soliti-imprevisti-per-gli-mtv-awards-a-los_9410ba54-088b-4363-91f4-16ba71da2f28.html",
       "source": "ANSA",
@@ -649,20 +670,6 @@
       "excerpt": "“Al compleanno non ci penso, faccio sempre festa per lavoro”"
     },
     {
-      "title": "Svizzera, schiaffo alla destra al referendum sulla neutralità: bocciata la stretta con il 68,8% dei no",
-      "link": "https://www.repubblica.it/esteri/2026/09/27/news/svizzera_schiaffo_alla_destra_referendum_su_neutralita_bocciata_stretta-425610715/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 13:02:27 +0000",
-      "excerpt": "L’elettorato ha respinto l’iniziativa dell’Udc per blindare nella Costituzione la neutralità della Confederazione. Un risultato che segna i limiti della mobilitazione sovranista e conferma il progressivo avvicinamento di"
-    },
-    {
-      "title": "Mondiali di ciclismo in diretta, -100 km: la Francia controlla la corsa",
-      "link": "https://www.repubblica.it/sport/ciclismo/2026/09/27/diretta/mondiali_ciclismo_montreal_diretta_evenepoel_ciccone-425610699/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 12:54:13 +0000",
-      "excerpt": "La rassegna iridata di Montreal si chiude con la gara più attesa, la prova in linea maschile"
-    },
-    {
       "title": "La Luna potrebbe essersi formata in una manciata di ore",
       "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/27/la-luna-potrebbe-essersi-formata-in-una-manciata-di-ore_5182348f-e9ea-458a-8d71-ce36025ec9b3.html",
       "source": "ANSA",
@@ -675,13 +682,6 @@
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 20:18:32 +0200",
       "excerpt": "Dalla capitale ai villaggi di montagna e alle antiche città della Via della Seta"
-    },
-    {
-      "title": "Laura Biagiotti, quando sei a Roma trascendi le mode e il momento",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/fashion_week/2026/09/26/laura-biagiotti-quando-sei-a-roma-trascendi-le-mode-e-il-momento_d49cc713-8548-40f5-bedf-e17763259b71.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 18:56:25 +0200",
-      "excerpt": "In passerella a Milano cartoline dalla città eterna, fuori rose per le signore"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -742,6 +742,27 @@
   ],
   "sport": [
     {
+      "title": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_869bd7cb-de43-462b-bdcd-d88af8b4884c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 19:32:22 +0200",
+      "excerpt": "Carlson vince la gara femminile, Cosetti, Barnaba e Baraldi beniamini nella tappa di casa"
+    },
+    {
+      "title": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
+      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_44710784-f049-445a-b894-66173484b090.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 19:32:22 +0200",
+      "excerpt": "Carlson vince la gara femminile, Cosetti, Barnaba e Baraldi beniamini nella tappa di casa"
+    },
+    {
+      "title": "Cuesta e Parma si dividono, cambio panchina dopo 5 giornate ",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/cuesta-e-parma-si-dividono-cambio-panchina-dopo-5-giornate-_f92b680e-9858-41a6-99be-86355f643046.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 19:31:10 +0200",
+      "excerpt": "Il club: 'Non ci sono più i presupposti per lo sviluppo del progetto sportivo'. Toto successore: Gilardino, Tudor, Zanetti i primi nomi"
+    },
+    {
       "title": "America's Cup: Sport e Salute 'vero trionfo non è oggi, ma quello che comincia domani'",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-sport-e-salute-vero-trionfo-non-e-oggi-ma-quello-che_d4f15ee3-0b57-49b7-8ffd-081ebcebba5d.html",
       "source": "ANSA Sport",
@@ -763,20 +784,6 @@
       "excerpt": "L'azzurro vince in finale il derby con Santinelli"
     },
     {
-      "title": "Carlos Cuesta non è più l'allenatore del Parma",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/carlos-cuesta-non-e-piu-lallenatore-del-parma_f92b680e-9858-41a6-99be-86355f643046.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 18:27:26 +0200",
-      "excerpt": "Il club: 'Non ci sono più i presupposti per lo sviluppo del progetto sportivo'"
-    },
-    {
-      "title": "Tennis: Zverev batte Tien, il Team Europa vince la Laver Cup",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/tennis-zverev-batte-tien-il-team-europa-vince-la-laver-cup_48cc9e9f-6f44-432d-b145-8a3962bfd825.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 18:20:54 +0200",
-      "excerpt": "A Londra, decisiva anche la vittoria nel doppio di Cobolli-Mensik"
-    },
-    {
       "title": "Nations League: Tonali, 'non abbiamo la stella, ma questa Italia e' viva'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-tonali-non-abbiamo-la-stella-ma-questa-italia-e-viva_185075f4-3630-4d23-96d6-b14dd52dae2d.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 17:51:18 +0200",
       "excerpt": "Ct alla vigilia di Turchia-Italia: 'ripartiamo dal secondo tempo di Roma'"
-    },
-    {
-      "title": "Zverev batte Tien, il Team Europa vince la Laver Cup",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/27/zverev-batte-tien-il-team-europa-vince-la-laver-cup_99056bc8-d498-455e-ab8d-f8e90b03cf34.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 17:39:56 +0200",
-      "excerpt": "A Londra, decisova anche la vittoria nel doppio di Cobolli-Mensik"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
