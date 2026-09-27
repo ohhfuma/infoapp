@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T20:07:54.582Z",
+  "lastUpdated": "2026-09-27T20:38:23.877Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Jp Morgan riduce le stime di crescita per l'Argentina all'1,5%",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/jp-morgan-riduce-le-stime-di-crescita-per-largentina-all15_9d441dee-1938-4524-ae05-f152b0e97f02.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 22:28:29 +0200",
+        "excerpt": "Dopo gli ultimi dati la banca Usa prevede l'entrata in 'recessione tecnica' a settembre"
+      },
+      {
         "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/?rss",
         "source": "Repubblica Esteri",
@@ -469,13 +476,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 18:33:43 +0200",
         "excerpt": "Tra questi creazione di bacheche di messaggi, fuga dalle sandbox, dirottamento di siti web"
-      },
-      {
-        "title": "Trump ad Axios, 'mi aspetto altri colloqui sull'Iran in settimana'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/trump-ad-axios-mi-aspetto-altri-colloqui-sulliran-in-settimana_4add53bc-1cd9-4952-a8c9-3a9ecfa2f9fc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 18:24:40 +0200",
-        "excerpt": "Il tycoon: 'Nuovi raid? Ci penso continuamente. Non vogliono l'accordo che voglio io'"
       },
       {
         "title": "Allarme base Raf, per Sky si indaga su potenziali legami arrestati con l'Iran",
@@ -575,11 +575,18 @@
       "title": "Aggredisce una donna e investe due persone a Reggio Emilia, arrestato ",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/aggredisce-una-donna-e-investe-due-persone-a-reggio-emilia-arrestato_eae1d70a-f8b9-4cb6-a57f-243f9791ab74.html",
       "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 21:47:09 +0200",
-      "excerpt": "Follia in serata a un distributore di benzina, tre feriti gravi in ospedale"
+      "pubDate": "Sun, 27 Sep 2026 22:21:01 +0200",
+      "excerpt": "Terrore in serata ad un distributore di benzina, tre feriti gravi in ospedale"
     },
     {
-      "title": "Reggio Emilia, a un distributore aggredisce una donna e investe due persone: tre feriti gravi",
+      "title": "Reggio Emilia, a un distributore aggredisce una donna e investe due passanti: tre feriti gravi",
+      "link": "https://bologna.repubblica.it/cronaca/2026/09/27/news/reggio_emilia_donna_aggredita_distributore_due_persone_investite-425611360/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 19:43:30 +0000",
+      "excerpt": "Arrestato un 26enne: avrebbe colpito la signora con un cacciavite, poi puntato l’auto su chi stava cercando di soccorrerla. In corso perquisizione domiciliare"
+    },
+    {
+      "title": "Reggio Emilia, a un distributore aggredisce una donna e investe due passanti: tre feriti gravi",
       "link": "https://bologna.repubblica.it/cronaca/2026/09/27/news/reggio_emilia_donna_aggredita_distributore_due_persone_investite-425611360/",
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 19:43:30 +0000",
@@ -663,13 +670,6 @@
       "excerpt": "Eni fissa la benzina al massimo a 1,99 euro al litro e il gasolio a 2,19. Insieme a Ip, le due compagnie gestiscono più di un terzo dei distributori italiani"
     },
     {
-      "title": "Pistoia: rifiuta approccio sessuale, torturata e quasi annegata nel fiume. Arrestato uomo di 38 anni",
-      "link": "https://firenze.repubblica.it/cronaca/2026/09/27/news/pistoia_rifiuta_approccio_sessuale_aggredita_torturata_arrestato_uomo_38_anni-425610939/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 15:04:43 +0000",
-      "excerpt": "La situazione è degenerata all’improvviso, quando la donna si è opposta con fermezza"
-    },
-    {
       "title": "Jovanotti, l’eterno ragazzo compie 60 anni",
       "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/27/jovanotti-leterno-ragazzo-compie-60-anni_87cd8ef6-33d5-43f0-87e0-6f3e5c725f3f.html",
       "source": "ANSA",
@@ -742,18 +742,25 @@
   ],
   "sport": [
     {
-      "title": ">ANSA-BOX/Figc: botta e risposta Ceferin-Buonfiglio, e arriva sponsor ItalPetroli",
+      "title": "Figc: botta e risposta Ceferin-Buonfiglio, e arriva sponsor ItalPetroli",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/ansa-boxfigc-botta-e-risposta-ceferin-buonfiglio-e-arriva-sponsor-italpetroli_9023b35b-a623-43d3-baa2-af246f0f1dc6.html",
       "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 22:04:05 +0200",
+      "pubDate": "Sun, 27 Sep 2026 22:37:16 +0200",
       "excerpt": "Il presidente dell'Uefa 'difende' federazione, il n.1 del Coni: 'Rispettiamo l'ordinamento sportivo'"
     },
     {
-      "title": "Mondiali ciclismo: Ciccone, 'mi spiace per il risultato, meritavamo di più'",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/27/mondiali-ciclismo-ciccone-mi-spiace-per-il-risultato-meritavamo-di-piu_e86bf8b3-0002-4e16-a276-0999ec7d6fd9.html",
+      "title": "Mondiali ciclismo: sorpresa McNulty, l'americano vince in Canada ",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/27/mondiali-ciclismo-sorpresa-mcnulty-lamericano-vince-in-canada-_e86bf8b3-0002-4e16-a276-0999ec7d6fd9.html",
       "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 22:00:22 +0200",
-      "excerpt": "Prova generosa dell'italiano che arriva nono al traguardo"
+      "pubDate": "Sun, 27 Sep 2026 22:23:33 +0200",
+      "excerpt": "Storico gregario di Podagar. Male Evenepoel. Generosa prova di Ciccone"
+    },
+    {
+      "title": "Mondiali ciclismo: Finn, 'gara dura ma è un mattoncino per il futuro'",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/27/mondiali-ciclismo-finn-gara-dura-ma-e-un-mattoncino-per-il-futuro_aa1051f7-90a8-4055-af80-2fa69ffced07.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 22:05:21 +0200",
+      "excerpt": "Prima esperienza iridata per il 19enne azzurro, chiude 55mo"
     },
     {
       "title": "Nations League: la Francia va in Belgio, \"primo vero test per Zidane\"",
@@ -775,13 +782,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 20:48:59 +0200",
       "excerpt": "L'ad di Luna Rossa dopo la preregata: 'Tifo napoletani ci ha regalato qualche nodo in più'"
-    },
-    {
-      "title": "Nations League, Montella: 'Avrei evitato l'Italia ma darò tutto per la Turchia'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/nations-league-montella-avrei-evitato-litalia-ma-daro-tutto-per-la-turchia_a06e2cbf-c494-413b-afd3-b9d4f9b2c35c.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 20:45:43 +0200",
-      "excerpt": "Il ct dei turchi: \"A Mancini toglierei Donnarumma, è straordinario\""
     },
     {
       "title": "A Napoli il trionfo di Luna Rossa, ora l'America's Cup non è più un sogno",

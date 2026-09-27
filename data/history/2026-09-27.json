@@ -689,6 +689,13 @@
     ],
     "mondo": [
       {
+        "title": "Jp Morgan riduce le stime di crescita per l'Argentina all'1,5%",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/jp-morgan-riduce-le-stime-di-crescita-per-largentina-all15_9d441dee-1938-4524-ae05-f152b0e97f02.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 22:28:29 +0200",
+        "excerpt": "Dopo gli ultimi dati la banca Usa prevede l'entrata in 'recessione tecnica' a settembre"
+      },
+      {
         "title": "Media, Netanyahu negli Emirati oggi per incontro con bin Zayed",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/media-netanyahu-negli-emirati-oggi-per-incontro-con-bin-zayed_ed215a04-5926-4eef-a4a8-6e2c10bc27ae.html",
         "source": "ANSA Mondo",
@@ -1100,13 +1107,6 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-26 16:24:29",
         "excerpt": ""
-      },
-      {
-        "title": "Lavrov, 'a Kiev regime russofobo, Europa ostacola i negoziati di pace'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/26/lavrov-a-kiev-regime-russofobo-europa-ostacola-i-negoziati-di-pace_468b0fab-9893-4b41-977c-353d7a5d3690.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 26 Sep 2026 18:13:12 +0200",
-        "excerpt": "'Usa hanno distrutto architettura di sicurezza europea. Occidente vuole sconfitta Russia'"
       }
     ]
   },
@@ -1533,6 +1533,20 @@
     }
   ],
   "sport": [
+    {
+      "title": "Mondiali ciclismo: sorpresa McNulty, l'americano vince in Canada ",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/27/mondiali-ciclismo-sorpresa-mcnulty-lamericano-vince-in-canada-_e86bf8b3-0002-4e16-a276-0999ec7d6fd9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 22:23:33 +0200",
+      "excerpt": "Storico gregario di Podagar. Male Evenepoel. Generosa prova di Ciccone"
+    },
+    {
+      "title": "Mondiali ciclismo: Finn, 'gara dura ma è un mattoncino per il futuro'",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/27/mondiali-ciclismo-finn-gara-dura-ma-e-un-mattoncino-per-il-futuro_aa1051f7-90a8-4055-af80-2fa69ffced07.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 22:05:21 +0200",
+      "excerpt": "Prima esperienza iridata per il 19enne azzurro, chiude 55mo"
+    },
     {
       "title": ">ANSA-BOX/Figc: botta e risposta Ceferin-Buonfiglio, e arriva sponsor ItalPetroli",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/ansa-boxfigc-botta-e-risposta-ceferin-buonfiglio-e-arriva-sponsor-italpetroli_9023b35b-a623-43d3-baa2-af246f0f1dc6.html",
