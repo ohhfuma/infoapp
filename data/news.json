@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-27T07:07:58.069Z",
+  "lastUpdated": "2026-09-27T07:38:23.781Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Mazzi: «Il turismo è industria. Siamo sopra la Spagna: primi per notti nell’Ue»",
+        "link": "https://www.ilsole24ore.com/art/mazzi-il-turismo-e-industria-siamo-sopra-spagna-primi-notti-nell-ue-AJWB6IQB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Sun, 27 Sep 2026 07:09:10 GMT",
+        "excerpt": "Nonostante un valore per la sola Italia di oltre 240 miliardi di euro, il turismo non gode di un’adeguata considerazione, soprattutto in Europa. Lo dimostra l’assenza di «un capitolo dedicato..."
+      },
       {
         "title": "5 grandi mosse degli analisti sull’AI: Muse AI catalizzatore per Meta; MSFT promossa",
         "link": "https://it.investing.com/news/stock-market-news/5-grandi-mosse-degli-analisti-sullai-muse-ai-catalizzatore-per-meta-msft-promossa-3563747",
@@ -155,13 +162,6 @@
         "source": "ANSA Economia",
         "pubDate": "Sat, 26 Sep 2026 17:32:01 +0200",
         "excerpt": "Piazza del Carmine gremita, esplode la rabbia dei cittadini"
-      },
-      {
-        "title": "Il Papa ai francesi, «non nascondete la vostra fede». In Place de la Concorde 800mila fedeli",
-        "link": "https://www.ilsole24ore.com/art/il-papa-francesi-non-nascondete-vostra-fede-AJyoXEQB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 26 Sep 2026 13:45:00 GMT",
-        "excerpt": "“Spetta a voi portare la speranza là dove regnano lo scoraggiamento e l’aridità spirituale”, ha detto Leone XIV nel paese laico dove si moltiplicano i battesimi"
       },
       {
         "title": "Gold Fields avvicina Northern Star per una possibile acquisizione",
@@ -404,7 +404,7 @@
         "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 09:05:05 +0200",
+        "pubDate": "Sun, 27 Sep 2026 09:35:34 +0200",
         "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
       },
       {
@@ -572,18 +572,18 @@
   },
   "attualita": [
     {
+      "title": " Axios, indagine OpenAI e Anthropic su decine di migliaia di incidenti di sicurezza ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_c3aef7f9-3ae8-43b9-a6e9-df5f262707e9.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 09:10:54 +0200",
+      "excerpt": "Tra questi creazione di bacheche di messaggi, fuga dalle sandbox, dirottamento di siti web"
+    },
+    {
       "title": "Oggi si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html",
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 09:02:09 +0200",
       "excerpt": "Il generale replica: 'Cercate meglio' e Tajani dice di non temerlo, 'Roscioli sarà deputato'"
-    },
-    {
-      "title": "++ Axios, indagine OpenAI e Anthropic su decine di migliaia di incidenti di sicurezza ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_245075d0-57b5-4537-aa89-3cf51f728be7.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 08:57:36 +0200",
-      "excerpt": "Tra questi creazione di bacheche di messaggi, fuga dalle sandbox, dirottamento di siti web"
     },
     {
       "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Mondiali di ciclismo: Elisa Longo Borghini ancora sul podio, è bronzo",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/26/mondiali-di-ciclismo-elisa-longo-borghini-ancora-sul-podio-e-bronzo_a05bd09b-64ed-4e62-a3ef-4d69deaa3047.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 09:12:42 +0200",
+      "excerpt": "Quinta medaglia per l'Italia, l'oro vinto dalla favorita olandese Vollering"
+    },
+    {
       "title": "Confessione choc di Roberto Carlos, perso il 99% di quanto guadagnato con il calcio",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/confessione-choc-di-roberto-carlos-perso-il-99-di-quanto-guadagnato-con-il-calcio_82648871-f6fd-4a12-ad5a-f6695eea85bf.html",
       "source": "ANSA Sport",
@@ -782,13 +789,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 21:51:17 +0200",
       "excerpt": "Presidente Figc \"un torneo storico che conferma la crescita del movimento\""
-    },
-    {
-      "title": "Mondiali di ciclismo: Elisa Longo Borghini ancora sul podio, è bronzo",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/26/mondiali-di-ciclismo-elisa-longo-borghini-ancora-sul-podio-e-bronzo_a05bd09b-64ed-4e62-a3ef-4d69deaa3047.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 21:38:10 +0200",
-      "excerpt": "Quinta medaglia per l'Italia, l'oro vinto dalla favorita olandese Vollering"
     },
     {
       "title": "Coni: martedì riunione d'urgenza Giunta per dimissioni presidente Fipe e consiglieri",
