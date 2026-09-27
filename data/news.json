@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T11:38:19.581Z",
+  "lastUpdated": "2026-09-27T12:10:07.307Z",
   "finanza": {
     "italia": [
       {
@@ -8,6 +8,13 @@
         "source": "ANSA Economia",
         "pubDate": "Sun, 27 Sep 2026 13:31:29 +0200",
         "excerpt": "Marsocci, 'Armani ha dato indicazioni su partner possibili...'"
+      },
+      {
+        "title": "OpenAI sospende di nuovo il training: agenti AI fuori controllo sui siti governativi USA",
+        "link": "https://it.investing.com/news/stock-market-news/openai-sospende-di-nuovo-il-training-dopo-che-agenti-ai-colpiscono-siti-governativi-usa-3563791",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-27 11:30:58",
+        "excerpt": ""
       },
       {
         "title": "Papa Leone XIV a Lourdes: «Massima vigilanza sugli abusi sui minori»",
@@ -83,7 +90,7 @@
         "title": "Suppletive in Calabria, seggi aperti: Vannacci sfida Forza Italia. Bufera sulla foto di Siracusano",
         "link": "https://www.ilsole24ore.com/art/suppletive-calabria-seggi-aperti-vannacci-sfida-forza-italia-bufera-foto-siracusano-AJsxqfQB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "Sun, 27 Sep 2026 07:52:52 GMT",
+        "pubDate": "Sun, 27 Sep 2026 07:52:00 GMT",
         "excerpt": "Urne aperte nel collegio Reggio Calabria-Locri, dove sono chiamati al voto quasi 346mila elettori. Futuro nazionale schiera Domenico Giannetta contro l’azzurro Fabio Roscioli, mentre il centrosinistra puta su Frank Bened"
       },
       {
@@ -210,13 +217,6 @@
         "link": "https://it.investing.com/news/stock-market-news/il-coresponsabile-del-public-finance-di-morgan-stanley-zach-solomon-passa-a-td-3563617",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-26 00:43:33",
-        "excerpt": ""
-      },
-      {
-        "title": "Citigroup punta a un’IPO di Banamex da oltre 3 miliardi a gennaio",
-        "link": "https://it.investing.com/news/stock-market-news/citigroup-punta-a-unipo-di-banamex-da-oltre-3-miliardi-a-gennaio-3563602",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 23:31:35",
         "excerpt": ""
       }
     ],
@@ -394,18 +394,25 @@
     ],
     "mondo": [
       {
+        "title": "Gran Bretagna, allarme esplosivi vicino a base della Raf usata dagli Usa per operazioni in Iran. Indaga l’antiterrorismo",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 14:00:47 +0200",
+        "excerpt": "Diversi uomini sono stati arrestati e alcune abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford"
+      },
+      {
+        "title": "Il ruolo delle donne per la libertà in Ucraina: “Non siamo solo vittime”",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/il_ruolo_delle_donne_per_la_liberta_in_ucraina_non_siamo_solo_vittime-425610663/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 13:58:12 +0200",
+        "excerpt": "Al Women Economic Forum al Castello di Tabiano, l’avvocata e premio Nobel per la Pace denuncia gli arresti illegali nei territori occupati, ricordando il caso di una bambina di cinque anni separata dalla madre per “simpa"
+      },
+      {
         "title": "Pandemie, Ue e Usa non sottoscrivono dichiarazione Onu per solidarietà vaccinale. Anche l’Italia tra gli astenuti",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/pandemie_ue_e_usa_non_sottoscrivono_dichiarazione_onu_per_solidarieta_vaccinale_anche_l_italia_tra_gli_astenuti-425610575/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Sun, 27 Sep 2026 12:48:51 +0200",
         "excerpt": "Washington, secondo il New York Times, contesta il carattere troppo “woke” del testo per i suoi riferimenti a equità e inclusività. Resta la frattura tra Paesi ricchi e mondo in via di sviluppo, già emersa durante il Cov"
-      },
-      {
-        "title": "Gran Bretagna, allarme esplosivi vicino a base della Raf usata dagli Usa per operazioni in Iran. Indaga l’antiterrorismo",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 12:43:55 +0200",
-        "excerpt": "Diversi uomini sono stati arrestati e alcune abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford"
       },
       {
         "title": "Allarme esplosivi vicino a base della Raf, in campo antiterrorismo Gb",
@@ -513,13 +520,6 @@
         "excerpt": "Raid anche su Odessa, colpite infrastrutture portuali"
       },
       {
-        "title": "Lavrov alle Nazioni Unite attacca l’Europa: “Ostacola i negoziati”",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/lavrov_alle_nazioni_unite_attacca_l_europa_ostacola_i_negoziati-425609926/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 01:00:00 +0200",
-        "excerpt": "Il ministro russo presenta a Guterres “un rapporto sulle falsificazioni di Bucha”. Ai margini dell’Assemblea vede Wadephul"
-      },
-      {
         "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
         "link": "https://www.investing.com/news/commodities-news/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan-4918661",
         "source": "Investing.com Commodities",
@@ -565,18 +565,18 @@
   },
   "attualita": [
     {
+      "title": "Bimbo di 5 anni investito a Torino, è stata l'ex compagna del padre",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/bimbo-di-5-anni-investito-a-torino-e-stata-lex-compagna-del-padre_cf769303-383d-40d2-8cf8-32a267410ba0.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 13:29:35 +0200",
+      "excerpt": "Trauma toracico e addominale, il piccolo è ricoverato in ospedale. La donna, accusata di tentato omicidio, ha 24 anni. E' stata fermata dai carabinieri dopo la fuga"
+    },
+    {
       "title": "Allarme esplosivi vicino a una base della Raf, in campo l'antiterrorismo",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-in-un-campo-antiterrorismo_91d9e309-9fb5-4940-99e1-9370a923d619.html",
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 13:00:56 +0200",
       "excerpt": "Lo riporta la Bbc. Al momento non risultano invece coinvolti i servizi segreti"
-    },
-    {
-      "title": "Bimbo di 5 anni investito a Torino, è stata l'ex compagna del padre",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/bimbo-di-5-anni-investito-a-torino-e-stata-lex-compagna-del-padre_cf769303-383d-40d2-8cf8-32a267410ba0.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 12:34:49 +0200",
-      "excerpt": "Trauma toracico e addominale, il piccolo è ricoverato in ospedale. La donna, accusata di tentato omicidio, ha 24 anni. E' stata fermata dai carabinieri dopo la fuga"
     },
     {
       "title": "Il Papa a Lourdes: 'Gli abusi sono una piaga, massima vigilanza'",
@@ -656,6 +656,13 @@
       "excerpt": "Dalla capitale ai villaggi di montagna e alle antiche città della Via della Seta"
     },
     {
+      "title": "Il ladro di libri è tornato a colpire, tra le vittime anche Latronico",
+      "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/09/26/il-ladro-di-libri-e-tornato-a-colpire-tra-le-vittime-anche-latronico_172b4f06-2de9-4682-a56a-9552ab77dfd1.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 19:15:57 +0200",
+      "excerpt": "Il New York Times indaga sul giallo degli inediti rubati, anche Nick Hornby tra le vittime"
+    },
+    {
       "title": "La sfilata di Dolce e Gabbana alla Milano Fashion Week",
       "link": "https://www.ansa.it/canale_lifestyle/photogallery/2026/09/26/la-sfilata-di-dolce-e-gabbana-alla-milano-fashion-week_fd4d7117-2c64-4498-9596-236d7857b480.html",
       "source": "ANSA",
@@ -668,13 +675,6 @@
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 18:05:13 +0200",
       "excerpt": "Domenica i Video Music Awards tornano sulla costa Ovest, presenta Snoop Dogg"
-    },
-    {
-      "title": "Calzoni (Invitalia), 'Grazie al Piano integrato per l'autoimpiego sprint alle imprese degli under35'",
-      "link": "https://www.ansa.it/native/ansacom/2026/09/26/calzoni-invitalia-grazie-al-piano-integrato-per-lautoimpiego-sprint-alle-imprese_a02f47e3-1246-47d5-acb5-066ce0e7820b.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 09:22:53 +0200",
-      "excerpt": ""
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -735,6 +735,20 @@
   ],
   "sport": [
     {
+      "title": "America's Cup: già 42mila accessi al Race Village, tutto pronto per ultima giornata",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-gia-42mila-accessi-al-race-village-tutto-pronto-per_b9de1038-9729-487d-999b-cc5fc9ac05db.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 14:05:41 +0200",
+      "excerpt": "Si chiude oggi la regata preliminare a Napoli, New Zealand e Alinghi inseguono Luna Rossa"
+    },
+    {
+      "title": "Figc sigla accordo con Socar, sarà partner delle nazionali fino al 2030",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/figc-sigla-accordo-con-socar-sara-partner-delle-nazionali-fino_2d46c855-a4f5-4711-8b5d-d3f0cb908b88.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 14:05:07 +0200",
+      "excerpt": "La compagnia energetica dell'Azerbaigian ha acquisito mesi fa l'IP"
+    },
+    {
       "title": "Daniel Osvaldo fuori pericolo, la famiglia 'sta bene ed è lucido'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/daniel-osvaldo-fuori-pericolo-la-famiglia-sta-bene-ed-e-lucido_e586f0ff-60ce-48aa-b775-c7bedfeb8f5f.html",
       "source": "ANSA Sport",
@@ -775,20 +789,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 12:28:09 +0200",
       "excerpt": "L'etiope arriva al traguardo zoppicante segnando il terzo tempo di sempre"
-    },
-    {
-      "title": "Staccioli, un' 'Aliena' dai vertici della ginnastica alla danza",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/staccioli-un-aliena-dai-vertici-della-ginnastica-alla-danza_fd0990b1-3f42-4e3e-b71a-4ace39675446.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 11:46:19 +0200",
-      "excerpt": "Connessione intima e fruttuosa tra sport e arte per la coreografa che invento 'Kataklò'"
-    },
-    {
-      "title": "Scalvini prolunga il contratto con l'Atalanta",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/scalvini-prolunga-il-contratto-con-latalanta_c219ac06-109b-444c-bc78-c1914674951c.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 11:24:42 +0200",
-      "excerpt": "Ufficializzata l'estensione del rapporto, 'una storia d'amore'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

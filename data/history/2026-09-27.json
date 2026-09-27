@@ -11,6 +11,13 @@
         "excerpt": "Marsocci, 'Armani ha dato indicazioni su partner possibili...'"
       },
       {
+        "title": "OpenAI sospende di nuovo il training: agenti AI fuori controllo sui siti governativi USA",
+        "link": "https://it.investing.com/news/stock-market-news/openai-sospende-di-nuovo-il-training-dopo-che-agenti-ai-colpiscono-siti-governativi-usa-3563791",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-27 11:30:58",
+        "excerpt": ""
+      },
+      {
         "title": "Papa Leone XIV a Lourdes: «Massima vigilanza sugli abusi sui minori»",
         "link": "https://www.ilsole24ore.com/art/papa-leone-xiv-lourdes-massima-vigilanza-abusi-minori-AJeT9lQB",
         "source": "Il Sole 24 Ore",
@@ -668,6 +675,13 @@
     ],
     "mondo": [
       {
+        "title": "Il ruolo delle donne per la libertà in Ucraina: “Non siamo solo vittime”",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/il_ruolo_delle_donne_per_la_liberta_in_ucraina_non_siamo_solo_vittime-425610663/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 13:58:12 +0200",
+        "excerpt": "Al Women Economic Forum al Castello di Tabiano, l’avvocata e premio Nobel per la Pace denuncia gli arresti illegali nei territori occupati, ricordando il caso di una bambina di cinque anni separata dalla madre per “simpa"
+      },
+      {
         "title": "Pandemie, Ue e Usa non sottoscrivono dichiarazione Onu per solidarietà vaccinale. Anche l’Italia tra gli astenuti",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/pandemie_ue_e_usa_non_sottoscrivono_dichiarazione_onu_per_solidarieta_vaccinale_anche_l_italia_tra_gli_astenuti-425610575/?rss",
         "source": "Repubblica Esteri",
@@ -1280,6 +1294,13 @@
       "excerpt": "Il giornalista di Repubblica, esperto di Difesa e questioni militari, si aggiudica il prestigioso riconoscimento con il libro “Il cielo sporco”, edito da Guanda"
     },
     {
+      "title": "Il ladro di libri è tornato a colpire, tra le vittime anche Latronico",
+      "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/09/26/il-ladro-di-libri-e-tornato-a-colpire-tra-le-vittime-anche-latronico_172b4f06-2de9-4682-a56a-9552ab77dfd1.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 19:15:57 +0200",
+      "excerpt": "Il New York Times indaga sul giallo degli inediti rubati, anche Nick Hornby tra le vittime"
+    },
+    {
       "title": "La stravaganza siciliana di Dolce e Gabbana / LA SFILATA",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/26/la-stravaganza-siciliana-di-dolce-e-gabbana-_02febc60-2764-4fff-b7c6-66ec2a78df9c.html",
       "source": "ANSA",
@@ -1411,16 +1432,23 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 07:13:14 +0200",
       "excerpt": ""
-    },
-    {
-      "title": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-      "link": "https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 06:05:06 +0200",
-      "excerpt": ""
     }
   ],
   "sport": [
+    {
+      "title": "America's Cup: già 42mila accessi al Race Village, tutto pronto per ultima giornata",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-gia-42mila-accessi-al-race-village-tutto-pronto-per_b9de1038-9729-487d-999b-cc5fc9ac05db.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 14:05:41 +0200",
+      "excerpt": "Si chiude oggi la regata preliminare a Napoli, New Zealand e Alinghi inseguono Luna Rossa"
+    },
+    {
+      "title": "Figc sigla accordo con Socar, sarà partner delle nazionali fino al 2030",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/figc-sigla-accordo-con-socar-sara-partner-delle-nazionali-fino_2d46c855-a4f5-4711-8b5d-d3f0cb908b88.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 14:05:07 +0200",
+      "excerpt": "La compagnia energetica dell'Azerbaigian ha acquisito mesi fa l'IP"
+    },
     {
       "title": "Daniel Osvaldo fuori pericolo, la famiglia 'sta bene ed è lucido'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/daniel-osvaldo-fuori-pericolo-la-famiglia-sta-bene-ed-e-lucido_e586f0ff-60ce-48aa-b775-c7bedfeb8f5f.html",
