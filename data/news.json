@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T22:07:38.908Z",
+  "lastUpdated": "2026-09-27T22:39:05.356Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Oil rebounds after Trump rejects Iran peace deal",
+        "link": "https://www.investing.com/news/commodities-news/oil-rebounds-after-trump-rejects-iran-peace-deal-4919183",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-27 22:18:25",
+        "excerpt": ""
+      },
+      {
+        "title": "Inaugurato padiglione Italia alla Fiera del Turismo di Buenos Aires",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/28/inaugurato-padiglione-italia-alla-fiera-del-turismo-di-buenos-aires_d75b6b07-ad5a-455e-9301-23ac56beb1e5.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 28 Sep 2026 00:09:40 +0200",
+        "excerpt": "Forte presenza istituzionale con l'ad di Enit e commissione Turismo della Camera"
+      },
+      {
         "title": "Jp Morgan riduce le stime di crescita per l'Argentina all'1,5%",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/jp-morgan-riduce-le-stime-di-crescita-per-largentina-all15_9d441dee-1938-4524-ae05-f152b0e97f02.html",
         "source": "ANSA Mondo",
@@ -478,13 +492,6 @@
         "excerpt": "Tra questi creazione di bacheche di messaggi, fuga dalle sandbox, dirottamento di siti web"
       },
       {
-        "title": "Allarme base Raf, per Sky si indaga su potenziali legami arrestati con l'Iran",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-base-raf-per-sky-si-indaga-su-potenziali-legami-arrestati-con_0b95c863-e60c-451c-8384-c40b03d3c05f.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 18:24:20 +0200",
-        "excerpt": ""
-      },
-      {
         "title": "Svizzera, schiaffo alla destra al referendum sulla neutralità: bocciata la stretta con il 68,8% dei no",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/svizzera_schiaffo_alla_destra_referendum_su_neutralita_bocciata_stretta-425610715/?rss",
         "source": "Repubblica Esteri",
@@ -560,17 +567,24 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-26 11:12:12",
         "excerpt": ""
-      },
-      {
-        "title": "Analysis-Venezuela president returns from US visit with no deals, no firm election date",
-        "link": "https://www.investing.com/news/commodities-news/analysisvenezuela-president-returns-from-us-visit-with-no-deals-no-firm-election-date-4918550",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-26 10:07:58",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Il Papa alle vittime di abusi: 'Il mio impegno perché non si ripeta'",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/09/27/il-papa-alle-vittime-di-abusi-il-mio-impegno-perche-non-si-ripeta_5764dd52-00c0-41b4-9e1f-d03516069f0c.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 00:11:34 +0200",
+      "excerpt": "A Lourdes, dove sono stati coperti i mosaici di Rupnik, l'incontro con sette persone"
+    },
+    {
+      "title": "Guerra in Iran, le news di oggi. Trump: “Vinceremo questa guerra molto presto”",
+      "link": "https://www.repubblica.it/esteri/2026/09/28/diretta/guerra_iran_usa_israele_news_oggi-425611520/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 22:02:04 +0000",
+      "excerpt": ""
+    },
     {
       "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ip-segue-eni-sui-prezzi-dei-carburanti.-meloni-assicura-un-sostegno-alle_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
@@ -649,25 +663,11 @@
       "excerpt": "Il tecnico della Turchia rivela un interesse azzurro (“Ma non negli ultimi tempi”) e teme la sfida con Mancini: “Ha una squadra molto competitiva, con il Belgio è stato un episodio”"
     },
     {
-      "title": "Picchiata, torturata e quasi annegata, arrestato un 38enne",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/picchiata-torturata-e-quasi-annegata-arrestato-un-38enne_643b5a66-5c1e-48eb-937b-c01309788196.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 20:04:51 +0200",
-      "excerpt": "E' successo a Pescia (Pistoia). La passeggiata si trasforma in un incubo. Salvata da un passante"
-    },
-    {
       "title": "Ballando, Fialdini e Ventura regine del tesoretto. Sciarelli 'Ballerina per una notte'",
       "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/09/27/carlucci-fialdini-e-ventura-regine-del-tesoretto.-sciarelli-ballerina-per-una_6cf96c13-6063-4684-8427-ae65655b9dc2.html",
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 19:07:50 +0200",
       "excerpt": "Milly Carluscci: \"Simone Di Pasquale in Sala delle Stelle al posto di Paolo Belli\""
-    },
-    {
-      "title": "Mancini: “Alle critiche si risponde vincendo in Turchia, ma a questa generazione serve tempo”",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/27/news/mancini_conferenza_turchia_italia-425611088/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 16:58:41 +0000",
-      "excerpt": "Il ct alla vigilia della gara di Bursa con la Turchia chiede pazienza e difende i suoi giocatori a cominciare da Romano: “Avrà un grande futuro in Nazionale”"
     },
     {
       "title": "Jovanotti, l’eterno ragazzo compie 60 anni",
