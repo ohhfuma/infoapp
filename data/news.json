@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T19:36:46.143Z",
+  "lastUpdated": "2026-09-27T20:07:54.582Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 21:37:42 +0200",
+        "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo partito di destra"
+      },
+      {
         "title": "Media, Netanyahu negli Emirati oggi per incontro con bin Zayed",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/media-netanyahu-negli-emirati-oggi-per-incontro-con-bin-zayed_ed215a04-5926-4eef-a4a8-6e2c10bc27ae.html",
         "source": "ANSA Mondo",
@@ -413,13 +420,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 21:24:33 +0200",
         "excerpt": "L'incontro avverrà nel contesto del confronto tra il colosso dell'IA e l'amministrazione"
-      },
-      {
-        "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 21:09:08 +0200",
-        "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo partito di destra"
       },
       {
         "title": "Il Papa riceve le vittime degli abusi dei preti: “Piaga dolorosa, il mio impegno che non si ripeta”",
@@ -575,8 +575,22 @@
       "title": "Aggredisce una donna e investe due persone a Reggio Emilia, arrestato ",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/aggredisce-una-donna-e-investe-due-persone-a-reggio-emilia-arrestato_eae1d70a-f8b9-4cb6-a57f-243f9791ab74.html",
       "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 21:10:02 +0200",
+      "pubDate": "Sun, 27 Sep 2026 21:47:09 +0200",
       "excerpt": "Follia in serata a un distributore di benzina, tre feriti gravi in ospedale"
+    },
+    {
+      "title": "Reggio Emilia, a un distributore aggredisce una donna e investe due persone: tre feriti gravi",
+      "link": "https://bologna.repubblica.it/cronaca/2026/09/27/news/reggio_emilia_donna_aggredita_distributore_due_persone_investite-425611360/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 19:43:30 +0000",
+      "excerpt": "Arrestato un 26enne: avrebbe colpito la signora con un cacciavite, poi puntato l’auto su chi stava cercando di soccorrerla. In corso perquisizione domiciliare"
+    },
+    {
+      "title": "I mosaici di Rupnik a Lourdes, il velo per il rispetto alle vittime",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/09/27/i-mosaici-di-rupnik-a-lourdes-il-velo-per-il-rispetto-alle-vittime_bf62b968-0a96-4d7f-986d-4b2c4d2a411f.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 21:38:54 +0200",
+      "excerpt": "L'artista, ex gesuita, è accusato di abusi. Erano stati inaugurati nel 2008"
     },
     {
       "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
@@ -612,13 +626,6 @@
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 20:04:51 +0200",
       "excerpt": "E' successo a Pescia (Pistoia). La passeggiata si trasforma in un incubo. Salvata da un passante"
-    },
-    {
-      "title": "L'allarme sull'IA: 'Sono decine di migliaia gli incidenti'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_c3aef7f9-3ae8-43b9-a6e9-df5f262707e9.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 19:47:36 +0200",
-      "excerpt": "OpenAi e Anthropic indagano su molti più casi"
     },
     {
       "title": "Ballando, Fialdini e Ventura regine del tesoretto. Sciarelli 'Ballerina per una notte'",
@@ -661,13 +668,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 15:04:43 +0000",
       "excerpt": "La situazione è degenerata all’improvviso, quando la donna si è opposta con fermezza"
-    },
-    {
-      "title": "Coppa America a Napoli: trionfa Luna Rossa, New Zealand deve arrendersi",
-      "link": "https://napoli.repubblica.it/sport/2026/09/27/news/luna_rossa_vince_finale_america_cup_napoli-425610817/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 14:42:09 +0000",
-      "excerpt": "Partenza perfetta di Burling e Gradoni, che incrementano il vantaggio nella seconda parte. Il successo accolto dal boato del pubblico sul lungomare. Diciassette secondi separano l’equipaggio neozelandese da quello italia"
     },
     {
       "title": "Jovanotti, l’eterno ragazzo compie 60 anni",
@@ -742,6 +742,27 @@
   ],
   "sport": [
     {
+      "title": ">ANSA-BOX/Figc: botta e risposta Ceferin-Buonfiglio, e arriva sponsor ItalPetroli",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/ansa-boxfigc-botta-e-risposta-ceferin-buonfiglio-e-arriva-sponsor-italpetroli_9023b35b-a623-43d3-baa2-af246f0f1dc6.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 22:04:05 +0200",
+      "excerpt": "Il presidente dell'Uefa 'difende' federazione, il n.1 del Coni: 'Rispettiamo l'ordinamento sportivo'"
+    },
+    {
+      "title": "Mondiali ciclismo: Ciccone, 'mi spiace per il risultato, meritavamo di più'",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/09/27/mondiali-ciclismo-ciccone-mi-spiace-per-il-risultato-meritavamo-di-piu_e86bf8b3-0002-4e16-a276-0999ec7d6fd9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 22:00:22 +0200",
+      "excerpt": "Prova generosa dell'italiano che arriva nono al traguardo"
+    },
+    {
+      "title": "Nations League: la Francia va in Belgio, \"primo vero test per Zidane\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/nations-league-la-francia-va-in-belgio-primo-vero-test-per-zidane_2d985a13-ef37-49fc-b582-299719d73005.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 21:35:51 +0200",
+      "excerpt": "Non c'è Mbappé che salta anche l'Italia per infortunio"
+    },
+    {
       "title": "America's Cup: foto di famiglia per Luna Rossa sul pontone del Race Village",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-foto-di-famiglia-per-luna-rossa-sul-pontone-del_27e9677c-6b45-43e0-a153-42adb96ab1de.html",
       "source": "ANSA Sport",
@@ -775,27 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 19:43:22 +0200",
       "excerpt": "Il ct dei turchi: \"A Mancini toglierei Donnarumma, è straordinario\""
-    },
-    {
-      "title": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_869bd7cb-de43-462b-bdcd-d88af8b4884c.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 19:32:22 +0200",
-      "excerpt": "Carlson vince la gara femminile, Cosetti, Barnaba e Baraldi beniamini nella tappa di casa"
-    },
-    {
-      "title": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
-      "link": "https://www.ansa.it/sito/notizie/sport/nuoto/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_44710784-f049-445a-b894-66173484b090.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 19:32:22 +0200",
-      "excerpt": "Carlson vince la gara femminile, Cosetti, Barnaba e Baraldi beniamini nella tappa di casa"
-    },
-    {
-      "title": "Cuesta e Parma si dividono, cambio panchina dopo 5 giornate ",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/cuesta-e-parma-si-dividono-cambio-panchina-dopo-5-giornate-_f92b680e-9858-41a6-99be-86355f643046.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 19:31:10 +0200",
-      "excerpt": "Il club: 'Non ci sono più i presupposti per lo sviluppo del progetto sportivo'. Toto successore: Gilardino, Tudor, Zanetti i primi nomi"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
