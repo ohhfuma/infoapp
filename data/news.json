@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T13:38:11.637Z",
+  "lastUpdated": "2026-09-27T14:07:37.676Z",
   "finanza": {
     "italia": [
       {
@@ -222,6 +222,13 @@
     ],
     "europa": [
       {
+        "title": "La Svizzera vota no a rafforzare la neutralità nella Costituzione",
+        "link": "https://www.ilsole24ore.com/art/la-svizzera-vota-no-rafforzare-neutralita-costituzione-AJwtKtQB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "Sun, 27 Sep 2026 14:04:01 GMT",
+        "excerpt": "Gli elettori svizzeri hanno respinto l’iniziativa che voleva introdurre nella Costituzione elvetica una formula più rigida della neutralità. A spoglio quasi concluso, il no era attorno al 70%. Molti i..."
+      },
+      {
         "title": "Kiev, 14 morti e 57 feriti in 24 ore per i raid russi",
         "link": "https://www.ilsole24ore.com/art/kiev-14-morti-e-57-feriti-24-ore-i-raid-russi-AJ4sIlQB",
         "source": "Il Sole 24 Ore Mondo",
@@ -229,11 +236,11 @@
         "excerpt": "Particolarmente colpita la regione di Odessa"
       },
       {
-        "title": "Allarme esplosivi vicino base in Gb utilizzata dagli Usa, arresti e zona evacuata",
+        "title": "Allarme esplosivi vicino base in Gb utilizzata dagli Usa, i 5 arrestati accusati formalmente di terrorismo",
         "link": "https://www.ilsole24ore.com/art/allarme-esplosivi-base-gb-utilizzata-usa-arresti-e-zona-evacuata-AJaj2iQB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sun, 27 Sep 2026 08:55:00 GMT",
-        "excerpt": "Diverse persone sono state arrestate e alcune abitazioni evacuate nella zona di Whelford, nella contea del Gloucestershire, in Inghilterra, in seguito ad un allarme esplosivi dopo la segnalazione di un..."
+        "excerpt": "L’allarme è scattato dopo la segnalazione di un grave episodio nei pressi di una base aerea della Raf utilizzata dagli Stati Uniti"
       },
       {
         "title": "I bot di OpenAI violano siti del governo Usa",
@@ -269,13 +276,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sat, 26 Sep 2026 09:23:00 GMT",
         "excerpt": "“Nel tentativo di contenere la Russia, gli Stati Uniti hanno distrutto l’architettura di sicurezza europea e instaurato a Kiev un regime russofobo”. Lo ha detto il ministro degli Esteri russo..."
-      },
-      {
-        "title": "Tik Tok patteggia in Alabama l’accusa di creare dipendenza e fissa un limite giornaliero di 2 ore per gli adolescenti",
-        "link": "https://www.ilsole24ore.com/art/tik-tok-patteggia-alabama-l-accusa-creare-dipendenza-e-fissa-limite-giornaliero-2-ore-gli-adolescenti-AJpSG1PB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Sat, 26 Sep 2026 07:18:09 GMT",
-        "excerpt": "Tik Tok ha accettato di pagare fino a 300 milioni di dollari"
       },
       {
         "title": "Marygold Companies to go private in agreement with Madison Dearborn Partners",
@@ -394,25 +394,25 @@
     ],
     "mondo": [
       {
-        "title": "Allarme a base Raf, i 5 arrestati accusati formalmente di terrorismo",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-a-base-raf-i-5-arrestati-accusati-formalmente-di-terrorismo_c5ce7f23-5b59-47b2-a089-fa3fc3a2040d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 15:30:47 +0200",
-        "excerpt": "Sono sospettati di aver pianificato un attentato"
-      },
-      {
         "title": "Gran Bretagna, allarme esplosivi vicino a base della Raf usata dagli Usa per operazioni in Iran. Indaga l’antiterrorismo",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 15:30:14 +0200",
-        "excerpt": "Cinque uomini sono stati arrestati e 85 abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford"
+        "pubDate": "Sun, 27 Sep 2026 15:59:32 +0200",
+        "excerpt": "Cinque uomini sono stati arrestati e 85 abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford. Si sospetta un attacco terroristico sventato all’ultim"
       },
       {
         "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 15:28:08 +0200",
+        "pubDate": "Sun, 27 Sep 2026 15:39:24 +0200",
         "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
+      },
+      {
+        "title": "Allarme a base Raf, i 5 arrestati accusati formalmente di terrorismo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-a-base-raf-i-5-arrestati-accusati-formalmente-di-terrorismo_c5ce7f23-5b59-47b2-a089-fa3fc3a2040d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 15:30:47 +0200",
+        "excerpt": "Sono sospettati di aver pianificato un attentato"
       },
       {
         "title": "Allarme esplosivi vicino a base Raf, 5 le persone arrestate",
@@ -565,6 +565,20 @@
   },
   "attualita": [
     {
+      "title": "La mamma di Jacopo Trabattoni, morto sul traliccio: “Amava il parkour, nessuna sfida social”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/27/news/jacopo_trabattoni_morto_traliccio_lodi_madre-425610767/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 13:58:24 +0000",
+      "excerpt": "Il 15enne è rimasto folgorato su un traliccio nel Lodigiano, la mamma Gioia Farina: “Era un ragazzo fantastico, sulla sua tragedia tanto sciacallaggio"
+    },
+    {
+      "title": "Allarme esplosivi vicino a una base della Raf, 5 arrestati accusati di terrorismo",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-5-arresti.-in-campo-lantiterrorismo_91d9e309-9fb5-4940-99e1-9370a923d619.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 15:43:39 +0200",
+      "excerpt": "Sono sospettati di aver pianificato un attentato. La base usata anche dagli Stati Uniti per la guerra in Iran"
+    },
+    {
       "title": "Jovanotti, l’eterno ragazzo compie 60 anni",
       "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/27/jovanotti-leterno-ragazzo-compie-60-anni_87cd8ef6-33d5-43f0-87e0-6f3e5c725f3f.html",
       "source": "ANSA",
@@ -577,13 +591,6 @@
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 15:19:02 +0200",
       "excerpt": "Investitore con tasso alcolico oltre 2 grammi per litro. È stato denunciato in stato di libertà e indagato per omicidio stradale"
-    },
-    {
-      "title": "Allarme esplosivi vicino a una base della Raf, 5 arresti. In campo l'antiterrorismo",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-5-arresti.-in-campo-lantiterrorismo_91d9e309-9fb5-4940-99e1-9370a923d619.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 15:06:11 +0200",
-      "excerpt": "La base usata anche dagli Stati Uniti per la guerra in Iran. Al momento non risultano coinvolti i servizi segreti"
     },
     {
       "title": "Svizzera, schiaffo alla destra al referendum sulla neutralità: bocciata la stretta con il 68,8% dei no",
@@ -639,7 +646,7 @@
       "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/",
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 08:42:18 +0000",
-      "excerpt": "Cinque uomini sono stati arrestati e 85 abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford"
+      "excerpt": "Cinque uomini sono stati arrestati e 85 abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford. Si sospetta un attacco terroristico sventato all’ultim"
     },
     {
       "title": "La Luna potrebbe essersi formata in una manciata di ore",
@@ -647,13 +654,6 @@
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 09:39:32 +0200",
       "excerpt": "Lo indicano nuove simulazioni dell'impatto tra la Terra e il protopianeta Theia"
-    },
-    {
-      "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
-      "link": "https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 06:56:17 +0000",
-      "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
     },
     {
       "title": "Viaggio in Azerbaijan, da Baku al Grande Caucaso",
@@ -735,6 +735,20 @@
   ],
   "sport": [
     {
+      "title": "Daniel Osvaldo fuori pericolo. La famiglia: \"Sta bene ed è lucido\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/daniel-osvaldo-fuori-pericolo-la-famiglia-sta-bene-ed-e-lucido_e586f0ff-60ce-48aa-b775-c7bedfeb8f5f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 15:40:38 +0200",
+      "excerpt": "L'ex oriundo della nazionale azzurra rimane comunque ricoverato in terapia intensiva"
+    },
+    {
+      "title": "America's Cup: Luna Rossa vince la regata, finale contro New Zealand al match race",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-luna-rossa-vince-la-regata-finale-contro-new-zealand_9e273e34-da35-4a22-a9ba-03694b6f53d9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 15:37:30 +0200",
+      "excerpt": "Italiani e kiwi alla sfida decisiva con una prova d'anticipo"
+    },
+    {
       "title": "La Repubblica Ceca vince la Bjk Cup, battuta l'Ucraina",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/27/la-repubblica-ceca-vince-la-bjk-cup-battuta-lucraina_f693bacb-ac47-483b-bb61-cbc1e5a26093.html",
       "source": "ANSA Sport",
@@ -763,13 +777,6 @@
       "excerpt": "La compagnia energetica dell'Azerbaigian ha acquisito mesi fa l'IP"
     },
     {
-      "title": "Daniel Osvaldo fuori pericolo, la famiglia 'sta bene ed è lucido'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/daniel-osvaldo-fuori-pericolo-la-famiglia-sta-bene-ed-e-lucido_e586f0ff-60ce-48aa-b775-c7bedfeb8f5f.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 13:34:04 +0200",
-      "excerpt": "L'ex oriundo della nazionale azzurra rimane comunque ricoverato in terapia intensiva"
-    },
-    {
       "title": "Scalvini, 'l'Atalanta è famiglia, Luca Percassi mi ha visto crescere'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/scalvini-latalanta-e-famiglia-luca-percassi-mi-ha-visto-crescere_82efb209-cc8d-469c-9846-e142ee0fd157.html",
       "source": "ANSA Sport",
@@ -782,13 +789,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 13:25:28 +0200",
       "excerpt": "Nel 2016 uno schianto uccise 71 persone e decimò la squadra brasiliana"
-    },
-    {
-      "title": "Il sogno di Scutto 'voglio essere la prima a portare l'oro olimpico a Scampia'",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/il-sogno-di-scutto-voglio-essere-la-prima-a-portare-loro-olimpico-a-scampia_f3a23b56-6163-4264-b875-d62039b6fbee.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 13:16:22 +0200",
-      "excerpt": "L'azzurra: \"Per me judo è stato salvezza, darò tutto per confermarmi campionessa mondiale\""
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
