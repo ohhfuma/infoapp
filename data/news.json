@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-27T09:07:36.304Z",
+  "lastUpdated": "2026-09-27T09:38:28.939Z",
   "finanza": {
     "italia": [
+      {
+        "title": "I bar sotto casa, ne scompaiono 11 al giorno. L'allarme di Confesercenti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/bar-sotto-casa-la-desertificazione-ne-cancella-24mila-in-6-anni-11-al-giorno_41129101-66b3-4b57-b8ee-ea35f41e224d.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 27 Sep 2026 11:35:02 +0200",
+        "excerpt": "Ne sono stati chiusi 24mila in 6 anni, per le economie locali persi oltre 7,2 miliardi"
+      },
       {
         "title": "Carburanti ancora in rialzo, il diesel si avvicina a 2,5 euro in autostrada",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/carburanti-ancora-in-rialzo-diesel-si-avvicina-a-25-euro-in-autostrada_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
@@ -50,13 +57,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 27 Sep 2026 07:46:07 GMT",
         "excerpt": "Il Ministero delle Imprese e del Made in Italy rende noti gli ultimi dati rilevati dall’Osservatorio"
-      },
-      {
-        "title": "'Bar sotto casa, la desertificazione ne cancella 24mila in 6 anni, 11 al giorno'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/bar-sotto-casa-la-desertificazione-ne-cancella-24mila-in-6-anni-11-al-giorno_41129101-66b3-4b57-b8ee-ea35f41e224d.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sun, 27 Sep 2026 09:45:40 +0200",
-        "excerpt": "Allarme Confesercenti, per le economie locali persi oltre 7,2 miliardi"
       },
       {
         "title": "Mazzi: «Il turismo è industria. Siamo sopra la Spagna: primi per notti nell’Ue»",
@@ -136,13 +136,6 @@
         "excerpt": "I Dem, riuniti alla casa del popolo di Coiano, alle porte di Prato, per lanciare “idee e proposte” ma anche per mettere alcuni paletti"
       },
       {
-        "title": "Lascia il direttore tecnico della Stretto di Messina, 'ma il progetto è pronto'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/stretto-di-messina-mele-passa-ad-anas-progetto-del-ponte-pronto-per_02433380-3623-4b78-8f67-f76fc90a3784.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 26 Sep 2026 19:21:23 +0200",
-        "excerpt": "La delibera del Cipess entro ottobre, obiettivo partire entro l'anno dopo un nuovo esame della Corte dei Conti"
-      },
-      {
         "title": "Biennale dello Stretto, il Mediterraneo come laboratorio di pensiero tra Calabria e Sicilia",
         "link": "https://www.ilsole24ore.com/art/biennale-stretto-mediterraneo-come-laboratorio-pensiero-calabria-e-sicilia-AJWlTBQB",
         "source": "Il Sole 24 Ore",
@@ -192,20 +185,6 @@
         "excerpt": "Vietate le dichiarazioni non verificabili sulla sostenibilità dei prodotti"
       },
       {
-        "title": "Cgia, il caro carburante mette a rischio camionisti, taxisti e rappresentanti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/cgia-il-caro-carburante-mette-a-rischio-camionisti-taxisti-e-rappresentanti_62768d9e-0348-4949-bb69-6c5cdc80fff4.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 26 Sep 2026 11:06:28 +0200",
-        "excerpt": "Interessate 303.814 imprese nei tre comparti, in testa Lombardia, Lazio e Veneto"
-      },
-      {
-        "title": "Cambia abbonamento a Av Trenitalia, meno caro ma prenotazione diventa a pagamento",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/cambia-abbonamento-a-av-trenitalia-meno-caro-ma-prenotazione-diventa-a-pagamento_434f6b8b-014e-4f86-96b6-da2639c4042f.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 26 Sep 2026 11:03:25 +0200",
-        "excerpt": "Assoutenti, costerà ai pendolari 2 euro a tratta, ma canone mensile scende di 80 euro"
-      },
-      {
         "title": "Come le telecom possono diventare vincitrici nell’era dell’AI",
         "link": "https://it.investing.com/news/stock-market-news/come-le-aziende-telecom-possono-diventare-vincitrici-nellera-dellai-3563621",
         "source": "Investing.com Italia",
@@ -232,7 +211,7 @@
         "title": "Allarme esplosivi vicino base in Gb utilizzata dagli Usa, arresti e zona evacuata",
         "link": "https://www.ilsole24ore.com/art/allarme-esplosivi-base-gb-utilizzata-usa-arresti-e-zona-evacuata-AJaj2iQB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Sun, 27 Sep 2026 08:55:55 GMT",
+        "pubDate": "Sun, 27 Sep 2026 08:55:00 GMT",
         "excerpt": "Diverse persone sono state arrestate e alcune abitazioni evacuate nella zona di Whelford, nella contea del Gloucestershire, in Inghilterra, in seguito ad un allarme esplosivi dopo la segnalazione di un..."
       },
       {
@@ -401,18 +380,25 @@
     ],
     "mondo": [
       {
+        "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 11:32:18 +0200",
+        "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
+      },
+      {
+        "title": "Tensione alla marcia in Irlanda del Nord, folla protesta contro parata Orange",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/tensione-alla-marcia-in-irlanda-del-nord-folla-protesta-contro-parata_961ae61c-77c0-4447-9172-e2cc05082aa9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 11:24:58 +0200",
+        "excerpt": "Dal primo ministro Gb Burnham invito alla calma"
+      },
+      {
         "title": "Il Papa a Lourdes tra i malati. E questa sera riceve le vittime degli abusi dei preti",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "Sun, 27 Sep 2026 10:54:19 +0200",
         "excerpt": "Leone nel santuario mariano incontra i vescovi francesi. L’incontro con sette sopravvissuti e il caso dei mosaici coperti di Rupnik"
-      },
-      {
-        "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 10:53:12 +0200",
-        "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
       },
       {
         "title": "Gran Bretagna, allarme esplosivi vicino a una base della RAF usata dagli Usa per operazioni in Iran: “Diversi arresti”",
@@ -527,13 +513,6 @@
         "excerpt": "Temporali anche sulla costa nord dell'Egitto"
       },
       {
-        "title": "Cuba all'Onu, se gli Usa attaccano ci difenderemo con massima determinazione e vigore",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/26/cuba-allonu-se-gli-usa-attaccano-ci-difenderemo-con-massima-determinazione-e-vigore_c6aef90d-e1d7-40bd-aa01-5a4f816ec3dd.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 26 Sep 2026 18:48:59 +0200",
-        "excerpt": "Rodríguez: 'comporterebbe la morte di cittadini cubani e di giovani statunitensi'"
-      },
-      {
         "title": "Trump says he spoke with Venezuela’s Rodriguez about elections",
         "link": "https://www.investing.com/news/commodities-news/trump-says-he-spoke-with-venezuelas-rodriguez-about-elections-4918595",
         "source": "Investing.com Commodities",
@@ -572,11 +551,18 @@
   },
   "attualita": [
     {
-      "title": "Nations League: Mancini divide il gruppo, 10 azzurri non partono per la Turchia",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/nations-league-mancini-divide-il-gruppo-10-azzurri-non-partono-per-la-turchia_da450839-4940-4c84-b2d6-30c73abdcb79.html",
+      "title": "++ Il Papa, 'gli abusi sono una piaga, massima vigilanza' ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/27/-il-papa-gli-abusi-sono-una-piaga-massima-vigilanza-_53435820-edc9-4c78-aab6-4961abc4f4e9.html",
       "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 10:57:30 +0200",
-      "excerpt": "A Coverciano, tra gli altri, rimarranno Barella, Mancini e Maldini"
+      "pubDate": "Sun, 27 Sep 2026 11:32:12 +0200",
+      "excerpt": "Ai vescovi francesi, \"li avete affrontati con coraggio, continuate\""
+    },
+    {
+      "title": "Il Papa a Lourdes, oggi l'incontro con le vittime degli abusi",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/09/27/il-papa-a-lourdes-oggi-lincontro-con-le-vittime-degli-abusi_5764dd52-00c0-41b4-9e1f-d03516069f0c.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 11:19:43 +0200",
+      "excerpt": "Terza giornata del viaggio in Francia, la messa e l'abbraccio con i malati"
     },
     {
       "title": "Carburanti ancora in rialzo, il diesel si avvicina a 2,5 euro in autostrada",
@@ -584,6 +570,20 @@
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 10:54:43 +0200",
       "excerpt": "Mimit, sulle strade gasolio a 2,377 euro, la benzina a 2,159"
+    },
+    {
+      "title": "Niente Turchia per dieci azzurri, Mancini lascia a casa anche Barella e Mancini",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/27/news/italia_turchia_mancini_convocati_barella_mancini-425610424/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 08:54:38 +0000",
+      "excerpt": "Restano a Coverciano il centrocampista dell’Inter e il difensore della Roma. Le scelte per la sfida di lunedì contro Montella"
+    },
+    {
+      "title": "Il Papa a Lourdes tra i malati. E questa sera riceve le vittime degli abusi dei preti",
+      "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 08:53:29 +0000",
+      "excerpt": "Leone nel santuario mariano incontra i vescovi francesi. L’incontro con sette sopravvissuti e il caso dei mosaici coperti di Rupnik"
     },
     {
       "title": "Gran Bretagna, allarme esplosivi vicino a una base della RAF usata dagli Usa per operazioni in Iran: “Diversi arresti”",
@@ -600,20 +600,6 @@
       "excerpt": "S-Print, la newsletter gratuita di Emanuela Audisio"
     },
     {
-      "title": " Axios, indagine OpenAI e Anthropic su decine di migliaia di incidenti di sicurezza ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_c3aef7f9-3ae8-43b9-a6e9-df5f262707e9.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 09:10:54 +0200",
-      "excerpt": "Tra questi creazione di bacheche di messaggi, fuga dalle sandbox, dirottamento di siti web"
-    },
-    {
-      "title": "Oggi si vota alle suppletive a Reggio, tempesta su Vannacci per la foto fake di Matilde Siracusano",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/26/bufera-per-la-foto-modificata-di-siracusano-rilanciata-da-vannacci_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 09:02:09 +0200",
-      "excerpt": "Il generale replica: 'Cercate meglio' e Tajani dice di non temerlo, 'Roscioli sarà deputato'"
-    },
-    {
       "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
       "link": "https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/",
       "source": "Repubblica",
@@ -621,11 +607,11 @@
       "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
     },
     {
-      "title": "Il Papa a Lourdes, oggi l'incontro con le vittime degli abusi",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/09/27/il-papa-a-lourdes-oggi-lincontro-con-le-vittime-degli-abusi_5764dd52-00c0-41b4-9e1f-d03516069f0c.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 08:14:47 +0200",
-      "excerpt": "Terza giornata del viaggio in Francia, la messa e l'abbraccio con i malati"
+      "title": "Bimbo di 5 anni investito a Torino, l’ombra della vendetta: al volante l’ex fidanzata del papà",
+      "link": "https://torino.repubblica.it/cronaca/2026/09/27/news/bimbo_investito_via_pinelli_industria-425610150/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 06:42:18 +0000",
+      "excerpt": "La donna è stata arrestata per tentato omicidio. Il piccolo travolto da un’auto tra via Pinelli e via Industria, nel quartiere San Donato, mentre era con i genitori e la sorella"
     },
     {
       "title": "Il dolore delle madri, incredule per l’orrore del delitto di via Gulli",
@@ -635,13 +621,6 @@
       "excerpt": "Una piange il figlio ucciso, l’altra ha convinto l’omicida a chiamare la polizia, l’altra ancora si dispera per la figlia trans: “Ha già sofferto tanto”"
     },
     {
-      "title": "Operaio morto al Colosseo, indagato il cognato della vittima",
-      "link": "https://roma.repubblica.it/cronaca/2026/09/27/news/operaio_morto_colosseo_cognato_indagato-425610081/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 01:04:36 +0000",
-      "excerpt": "Sono otto le persone indagate nell’ambito dell’inchiesta per omicidio colposo. I pm concentrano l’attenzione sulle misure di sicurezza e sul contratto di Andrea Moretti: era inquadrato come “manovale semplice”"
-    },
-    {
       "title": "Viaggiare in autunno: da New York al Marocco, il mondo fuori stagione diventa più facile",
       "link": "https://www.repubblica.it/viaggi/2026/09/27/news/giornata_mondiale_turismo_viaggiare_autunno_facile-425609036/",
       "source": "Repubblica",
@@ -649,18 +628,18 @@
       "excerpt": "Partire a fine estate garantisce prezzi migliori e un clima più mite. Ecco una serie di itinerari e di avvenimenti tra Oman, Vienna, Philadelphia e Azwerbaijan per godersi una vacanza con percorsi alternativi"
     },
     {
-      "title": "Nuovo picco della benzina in attesa dello sconto Eni. Gli altri petrolieri in allarme",
-      "link": "https://www.repubblica.it/economia/2026/09/26/news/nuovo_picco_della_benzina_in_attesa_dello_sconto_eni_gli_altri_petrolieri_in_allarme-425609955/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 23:00:00 +0000",
-      "excerpt": "Crescita anche per il diesel che si avvicina a 2,5 euro in autostrada"
+      "title": "Viaggio in Azerbaijan, da Baku al Grande Caucaso",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/mondo/2026/09/26/viaggio-in-azerbaijan-da-baku-al-grande-caucaso_769bed0b-5f45-4e9e-b1b5-1b027916a327.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 20:18:32 +0200",
+      "excerpt": "Dalla capitale ai villaggi di montagna e alle antiche città della Via della Seta"
     },
     {
-      "title": "Caro benzina, Meloni confida nel taglio prorogato a fine anno.Lega: tassare chi non lo fa",
-      "link": "https://www.repubblica.it/politica/2026/09/27/news/benzina_meloni_confida_taglio_prorogato_lega-425609950/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 23:00:00 +0000",
-      "excerpt": "Il partito di Salvini pensa di imporre in ogni caso la sforbiciata a tutti ma FI è contraria e anche FdI frena"
+      "title": "La sfilata di Dolce e Gabbana alla Milano Fashion Week",
+      "link": "https://www.ansa.it/canale_lifestyle/photogallery/2026/09/26/la-sfilata-di-dolce-e-gabbana-alla-milano-fashion-week_fd4d7117-2c64-4498-9596-236d7857b480.html",
+      "source": "ANSA",
+      "pubDate": "Sat, 26 Sep 2026 18:37:49 +0200",
+      "excerpt": "È la collezione Women's Spring/Summer 2027"
     },
     {
       "title": "Fialdini, a 'Da noi… a ruota libera' novità senza stravolgere l'identità",
@@ -742,6 +721,13 @@
   ],
   "sport": [
     {
+      "title": "Scalvini prolunga il contratto con l'Atalanta",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/scalvini-prolunga-il-contratto-con-latalanta_c219ac06-109b-444c-bc78-c1914674951c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 11:24:42 +0200",
+      "excerpt": "Ufficializzata l'estensione del rapporto, 'una storia d'amore'"
+    },
+    {
       "title": "Nations League: Mancini divide il gruppo, 10 azzurri non partono per la Turchia",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/nations-league-mancini-divide-il-gruppo-10-azzurri-non-partono-per-la-turchia_da450839-4940-4c84-b2d6-30c73abdcb79.html",
       "source": "ANSA Sport",
@@ -782,13 +768,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sat, 26 Sep 2026 22:54:06 +0200",
       "excerpt": "A Wemblwy Kane sbaglia un rigore e consente la rimonta degli iberici"
-    },
-    {
-      "title": "Nations League: Zaniolo lascia il ritiro azzurro, non ci sarà con Turchia e Francia",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/nations-league-zaniolo-lascia-il-ritiro-azzurro-non-ci-sara-con-turchia_9730c0f8-831d-44f2-b668-0ba801f10b84.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sat, 26 Sep 2026 22:02:12 +0200",
-      "excerpt": "Il trequartista infortunato torna a Udine, domani i convocati per la trasferta di Bursa"
     },
     {
       "title": "Mondiali donne U20: Malagò \"amarezza per il 4/o posto dopo percorso straordinario\"",
