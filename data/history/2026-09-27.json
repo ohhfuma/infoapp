@@ -689,6 +689,20 @@
     ],
     "mondo": [
       {
+        "title": "Guilfoyle agli incontri ufficiali con un lobbista del gas: le ombre sulla missione dell’ambasciatrice Usa in Grecia",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/kimberly_guilfoyle_ambasciatrice_usa_grecia_lobbista_gas_christos_marafatsos-425611084/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 18:52:23 +0200",
+        "excerpt": "La diplomatica, ex fidanzata del figlio maggiore di Trump, avrebbe promosso in diversi Paesi europei il gas naturale liquefatto statunitense accompagnata da Christos Marafatsos, lobbista legato al gruppo greco Aktor. Il "
+      },
+      {
+        "title": "La Svizzera dice no alla stretta sulla neutralità",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/svizzera-al-referendum-su-una-maggiore-neutralita-vince-il-no-con-il-702_7c894446-31aa-4d59-b589-bf82a5104497.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 18:48:36 +0200",
+        "excerpt": "Frana la proposta che avrebbe messo in bilico le sanzioni contro Mosca"
+      },
+      {
         "title": "Axios, indagine OpenAI e Anthropic su decine di migliaia di incidenti di sicurezza",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_043c1471-5487-49a8-ae2e-f36cdbc7a6dd.html",
         "source": "ANSA Mondo",
@@ -1093,24 +1107,17 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-26 11:12:12",
         "excerpt": ""
-      },
-      {
-        "title": "Analysis-Venezuela president returns from US visit with no deals, no firm election date",
-        "link": "https://www.investing.com/news/commodities-news/analysisvenezuela-president-returns-from-us-visit-with-no-deals-no-firm-election-date-4918550",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-26 10:07:58",
-        "excerpt": ""
-      },
-      {
-        "title": "Cuba, gli Usa sanzionano anche i medici: ripercussioni nella sanità di 56 Paesi",
-        "link": "https://www.repubblica.it/esteri/2026/09/26/news/cuba_medici_sanzioni_usa_sanita_brigate_rischio-425608710/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 11:44:45 +0200",
-        "excerpt": "In tutto il mondo, Calabria inclusa, le brigate dei medici cubani riempiono ospedali e ambulatori che in alternativa rimarrebbero vuoti. Ma adesso anche pagare i loro stipendi espone un governo a rischio sanzioni"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Madonna, Taylor Swift e soliti imprevisti per gli Mtv Awards a Los Angeles",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/26/madonna-taylor-swift-e-soliti-imprevisti-per-gli-mtv-awards-a-los_9410ba54-088b-4363-91f4-16ba71da2f28.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 18:43:44 +0200",
+      "excerpt": "Domenica i Video Music Awards tornano sulla costa Ovest, presenta Snoop Dogg"
+    },
     {
       "title": "Picchiata, torturata e quasi annegata, arrestato un 38enne",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/picchiata-torturata-e-quasi-annegata-arrestato-un-38enne_643b5a66-5c1e-48eb-937b-c01309788196.html",
@@ -1523,16 +1530,23 @@
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 20:18:32 +0200",
       "excerpt": "Dalla capitale ai villaggi di montagna e alle antiche città della Via della Seta"
-    },
-    {
-      "title": "Trump dice no alla proposta iraniana: “Non mi faccio condizionare”",
-      "link": "https://www.repubblica.it/esteri/2026/09/26/news/trump_dice_no_alla_proposta_iraniana_non_mi_faccio_condizionare-425609563/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 17:40:18 +0000",
-      "excerpt": "Con un post sui social il tycoon battezza lo Stretto con il suo nome, e respinge al mittente la bozza portata dai pasdaran a New York"
     }
   ],
   "sport": [
+    {
+      "title": "America's Cup: Sport e Salute 'vero trionfo non è oggi, ma quello che comincia domani'",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-sport-e-salute-vero-trionfo-non-e-oggi-ma-quello-che_d4f15ee3-0b57-49b7-8ffd-081ebcebba5d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 18:57:47 +0200",
+      "excerpt": "Oltre 250mila persone nel Race Village. Mezzaroma e Nepi: \"Napoli ha vinto la sfida'"
+    },
+    {
+      "title": "Bulega campione del mondo Superbike, 14 anni dopo Biaggi",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/bulega-campione-del-mondo-superbike-14-anni-dopo-biaggi_0bedf039-48ed-4c2d-894a-7595da735ff0.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 18:57:19 +0200",
+      "excerpt": "\"Una figata\". Titolo con Ducati. Ex enfant prodige realizza suo sogno a 26 anni"
+    },
     {
       "title": "Tennis: Zverev batte Tien, il Team Europa vince la Laver Cup",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/tennis-zverev-batte-tien-il-team-europa-vince-la-laver-cup_48cc9e9f-6f44-432d-b145-8a3962bfd825.html",
