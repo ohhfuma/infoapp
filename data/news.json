@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-27T01:08:08.175Z",
+  "lastUpdated": "2026-09-27T01:38:33.860Z",
   "finanza": {
     "italia": [
+      {
+        "title": "730 ultima chiamata: le scadenze per rimediare agli errori",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/27/news/730_ultima_chiamata_scadenze_rimediare_errori-425609574/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 03:00:00 +0200",
+        "excerpt": "Si può ricorrere al 730 integrativo, entro il 26 ottobre, se si sono dimenticate alcune spese e le tasse scendono. Come fermare i maxi-acconti"
+      },
+      {
+        "title": "Scioperi: ottobre nero tra due stop “generali” e la scuola che si ferma il 16",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/scioperi_ottobre_nero_stop_generali_scuola_date-425609581/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 03:00:00 +0200",
+        "excerpt": "L’autunno si apre mettendo in difficoltà l’intera Italia. Tra le categorie interessate alle proteste ci sono anche i magistrati e i Vigili del Fuoco"
+      },
       {
         "title": "Matteo Renzi: serve la quattordicesima per insegnanti, agenti e infermieri",
         "link": "https://www.repubblica.it/economia/2026/09/27/news/renzi_fisco_quattordicesima_insegnanti_agenti_infermieri-425609960/?rss",
@@ -43,13 +57,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sun, 27 Sep 2026 01:00:00 +0200",
         "excerpt": "La proposta della multinazionale alla procura dopo l’inchiesta del pm Storari: oltre ai 19 milioni di risarcimenti, altri 10 di imposte e sanzioni all’Inps e all’Ispettorato del lavoro"
-      },
-      {
-        "title": "Le flat tax spingono l’evasione. “Un potente motore per il nero”",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/flat_tax_spinge_evasione_brambilla_potente_motore_per_nero-425609749/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 01:00:00 +0200",
-        "excerpt": "Secondo l’esperto di fisco Brambilla sarebbe meglio “abolire i regimi agevolati”. Il Mef stima un mancato gettito di 37 miliardi"
       },
       {
         "title": "Boeing scopre un bug software nel 737 MAX che può influire sulla navigazione automatica",
@@ -120,13 +127,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-26 16:07:30",
         "excerpt": ""
-      },
-      {
-        "title": "Come per l’IA nessuno mai: investimenti sino al 3,63 per cento del Pil",
-        "link": "https://www.repubblica.it/economia/rubriche/eurobarometro/2026/09/26/news/come_per_l_ia_nessuno_mai_investimenti_sino_al_363_per_cento_del_pil-425609329/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 26 Sep 2026 18:04:27 +0200",
-        "excerpt": "Dal 2024 i baroni dell’intelligenza artificiale hanno investito nei centri dati 1.200 miliardi di dollari, ricavandone 277 miliardi di incassi"
       },
       {
         "title": "Razionalizzazione e riciclo per fronteggiare la scarsità di acqua",
@@ -343,59 +343,59 @@
     ],
     "usa": [
       {
-        "title": "Iran insists on diplomacy after Trump rejects Hormuz peace plan",
-        "link": "https://www.investing.com/news/economy-news/iran-insists-on-diplomacy-after-trump-rejects-hormuz-peace-plan-4918668",
+        "title": "Deutsche Bank forecasts S&P 500 to hit 7000 by end of 2025",
+        "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-forecasts-sp-500-to-hit-7000-by-end-of-2025-3741586",
         "source": "Investing.com USA",
-        "pubDate": "2026-09-26 23:19:31",
+        "pubDate": "2024-11-26 10:47:35",
         "excerpt": ""
       },
       {
-        "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
-        "link": "https://www.investing.com/news/commodities-news/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan-4918661",
+        "title": "Trump's tariffs, Fed minutes, Rumble's Bitcoin buy - what's moving markets",
+        "link": "https://www.investing.com/news/economy/trumps-tariffs-fed-minutes-rumbles-bitcoin-buy--whats-moving-markets-3741453",
         "source": "Investing.com USA",
-        "pubDate": "2026-09-26 22:36:27",
+        "pubDate": "2024-11-26 08:55:17",
         "excerpt": ""
       },
       {
-        "title": "Trump predicts Cuba and US will make a deal",
-        "link": "https://www.investing.com/news/commodities-news/trump-predicts-cuba-and-us-will-make-a-deal-4918594",
+        "title": "2025 macro outlook for the US is 'murky at best' says Deutsche Bank",
+        "link": "https://www.investing.com/news/economy/2025-macro-outlook-for-the-us-is-murky-at-best-says-deutsche-bank-3741435",
         "source": "Investing.com USA",
-        "pubDate": "2026-09-26 22:06:31",
+        "pubDate": "2024-11-26 08:26:03",
         "excerpt": ""
       },
       {
-        "title": "Trump rejects Iran deal to reopen Hormuz; Houthi attacks on Saudi Arabia continue",
-        "link": "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476",
+        "title": "Bitcoin price today: slips to $94k as risk appetite sours on Trump tariff threat",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-to-94k-as-risk-appetite-sours-on-trump-tariff-threat-3741330",
         "source": "Investing.com USA",
-        "pubDate": "2026-09-26 17:03:43",
+        "pubDate": "2024-11-26 06:22:06",
         "excerpt": ""
       },
       {
-        "title": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
-        "link": "https://www.investing.com/news/economy-news/china-us-agree-to-30-billion-tariff-cut-launch-ai-dialogue-4918542",
+        "title": "Asia stocks fall after Trump threatens tariffs, Japan's Nikkei leads losses",
+        "link": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-after-trump-threatens-tariffs-japans-nikkei-leads-losses-3741249",
         "source": "Investing.com USA",
-        "pubDate": "2026-09-26 13:41:08",
+        "pubDate": "2024-11-26 03:31:51",
         "excerpt": ""
       },
       {
-        "title": "Investing.com’s stocks of the week",
-        "link": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-4917943",
+        "title": "S&P 500 positioning levels at record highs, pullback risks rise, Citi warns",
+        "link": "https://www.investing.com/news/stock-market-news/sp-500-positioning-levels-at-record-highs-pullback-risks-rise-citi-warns-3741245",
         "source": "Investing.com USA",
-        "pubDate": "2026-09-25 18:00:46",
+        "pubDate": "2024-11-26 03:26:47",
         "excerpt": ""
       },
       {
-        "title": "Midterms in the US: Find out which stocks can withstand any outcome",
-        "link": "https://www.investing.com/news/stock-market-news/midterms-in-the-us-find-out-which-stocks-can-withstand-any-outcome-4917670",
+        "title": "Trump says he will impose additional 10% tariffs on China over drug inflow",
+        "link": "https://www.investing.com/news/politics/trump-says-he-will-impose-additional-10-tariffs-on-china-over-drug-inflow-3741069",
         "source": "Investing.com USA",
-        "pubDate": "2026-09-25 13:45:27",
+        "pubDate": "2024-11-26 00:01:07",
         "excerpt": ""
       },
       {
-        "title": "BofA says investors are increasingly worried about an AI boom-bust cycle",
-        "link": "https://www.investing.com/news/stock-market-news/bofa-says-investors-are-increasingly-worried-about-an-ai-boombust-cycle-4917525",
+        "title": "Analyst calls Bitcoin 'global bubble', could soar to infinity",
+        "link": "https://www.investing.com/news/cryptocurrency-news/analyst-calls-bitcoin-global-bubble-could-soar-to-infinity-3740406",
         "source": "Investing.com USA",
-        "pubDate": "2026-09-25 12:41:48",
+        "pubDate": "2024-11-25 18:20:45",
         "excerpt": ""
       }
     ],
