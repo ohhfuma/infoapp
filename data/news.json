@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-27T12:42:15.950Z",
+  "lastUpdated": "2026-09-27T13:06:57.890Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Barrick Mining raggiunge un accordo con i sindacati in Mali, scioperi annullati",
+        "link": "https://it.investing.com/news/stock-market-news/barrick-mining-raggiunge-un-accordo-con-i-sindacati-in-mali-scioperi-annullati-3563799",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-27 12:37:54",
+        "excerpt": ""
+      },
       {
         "title": "Ceo Armani, non è scritto sulla pietra che il 15% vada a un solo partner",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ceo-armani-non-e-scritto-sulla-pietra-che-il-15-vada-a-un-solo-partner_589fa5e2-384e-46c0-832c-48f120f389e0.html",
@@ -211,13 +218,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-26 01:21:02",
         "excerpt": ""
-      },
-      {
-        "title": "Il co-responsabile del public finance di Morgan Stanley, Zach Solomon, passa a TD",
-        "link": "https://it.investing.com/news/stock-market-news/il-coresponsabile-del-public-finance-di-morgan-stanley-zach-solomon-passa-a-td-3563617",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-26 00:43:33",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -394,6 +394,55 @@
     ],
     "mondo": [
       {
+        "title": "Gran Bretagna, allarme esplosivi vicino a base della Raf usata dagli Usa per operazioni in Iran. Indaga l’antiterrorismo",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 15:06:00 +0200",
+        "excerpt": "Cinqu uomini sono stati arrestati e alcune abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford"
+      },
+      {
+        "title": "Il Papa a Lourdes tra i malati. E oggi riceve le vittime degli abusi dei preti: “Piaga dolorosa”",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 15:04:06 +0200",
+        "excerpt": "Leone nel santuario mariano incontra i vescovi francesi: “Essenziale mantenere la massima vigilanza”. L’incontro con sette sopravvissuti e il caso dei mosaici coperti di Rupnik. E torna a parlare del fine vita: “La voce "
+      },
+      {
+        "title": "Svizzera, schiaffo alla destra al referendum sulla neutralità: bocciata la stretta con il 68,8% dei no",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/svizzera_schiaffo_alla_destra_referendum_su_neutralita_bocciata_stretta-425610715/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 15:02:27 +0200",
+        "excerpt": "L’elettorato ha respinto l’iniziativa dell’Udc per blindare nella Costituzione la neutralità della Confederazione. Un risultato che segna i limiti della mobilitazione sovranista e conferma il progressivo avvicinamento di"
+      },
+      {
+        "title": "Pasdaran, sequestrato un drone sottomarino Usa nello stretto di Hormuz",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/pasdaran-sequestrato-un-drone-sottomarino-usa-nello-stretto-di-hormuz_64e69a8f-e139-4673-a124-ed8ebe438fdc.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 14:47:31 +0200",
+        "excerpt": "Il dispositivo 'operava a fini di spionaggio'"
+      },
+      {
+        "title": "Pasdaran, sequestrato un drone sottomarino Usa nello stretto di Hormuz",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/pasdaran-sequestrato-un-drone-sottomarino-usa-nello-stretto-di-hormuz_deead9a0-f6f0-4c2b-9579-9c0aad04914e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 14:47:17 +0200",
+        "excerpt": "Il dispositivo 'operava a fini di spionaggio'"
+      },
+      {
+        "title": "Brasile, Meta ha sospeso per qualche ora gli annunci sul profilo di Fb di Lula",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/brasile-meta-ha-sospeso-per-qualche-ora-gli-annunci-sul-profilo_fc1fbde9-0594-497b-90ee-1f2b20a5dbc8.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 14:42:40 +0200",
+        "excerpt": "Bloccato anche il video di un comico. Meta si è scusata ma il governo ha protestato"
+      },
+      {
+        "title": "Yemen, 7 morti e 40 feriti in un attacco saudita contro un mercato a Taiz",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/yemen-7-morti-e-40-feriti-in-un-attacco-saudita-contro-un-mercato-a-taiz_e81ecc4d-b8d9-4426-989f-c39738554926.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 14:40:32 +0200",
+        "excerpt": "Lo ha riferito l'emittente televisiva degli Houthi"
+      },
+      {
         "title": "Teheran avverte, 'non utilizzate rotte non autorizzate nello Stretto di Hormuz'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/teheran-avverte-non-utilizzate-rotte-non-autorizzate-nello-stretto-di-hormuz_e897dd2b-0722-426d-aa7a-4f804feb8b93.html",
         "source": "ANSA Mondo",
@@ -406,13 +455,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 14:31:39 +0200",
         "excerpt": "Cinque delle vittime sono morte sul posto"
-      },
-      {
-        "title": "Gran Bretagna, allarme esplosivi vicino a base della Raf usata dagli Usa per operazioni in Iran. Indaga l’antiterrorismo",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 14:10:42 +0200",
-        "excerpt": "Diversi uomini sono stati arrestati e alcune abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford"
       },
       {
         "title": "Il ruolo delle donne per la libertà in Ucraina: “Non siamo solo vittime”",
@@ -443,34 +485,6 @@
         "excerpt": "Particolarmente colpita la regione di Odessa"
       },
       {
-        "title": "Centinaia di manifestanti accampati in Puerta del Sol a Madrid per diritto alla casa",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/centinaia-di-manifestanti-accampati-in-puerta-del-sol-a-madrid-per-diritto-alla_91293b9c-2dae-4b6c-a653-859e5c91dbbf.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 12:02:38 +0200",
-        "excerpt": "Protesta pacifica è proseguita nella notte per chiedere approvazione 'decreto Maricarmen'"
-      },
-      {
-        "title": "Kiev, 'drone russo colpisce un edificio della capitale, un morto'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/kiev-drone-russo-colpisce-un-edificio-della-capitale-un-morto_71c25199-9fd3-4507-ac18-46a1a3cc5af4.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 12:01:33 +0200",
-        "excerpt": "I soccorritori hanno spento un incendio divampato nell'edificio dopo l'attacco"
-      },
-      {
-        "title": "Teheran avverte, 'non utilizzate rotte non autorizzate nello Stretto di Hormuz'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/teheran-avverte-non-utilizzate-rotte-non-autorizzate-nello-stretto-di-hormuz_aae03c8f-6d8f-49f0-9e17-523afdc0e130.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 12:00:15 +0200",
-        "excerpt": ""
-      },
-      {
-        "title": "Il Papa a Lourdes tra i malati. E oggi riceve le vittime degli abusi dei preti: “Piaga dolorosa”",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 11:53:23 +0200",
-        "excerpt": "Leone nel santuario mariano incontra i vescovi francesi: “Essenziale mantenere la massima vigilanza”. L’incontro con sette sopravvissuti e il caso dei mosaici coperti di Rupnik. E torna a parlare del fine vita: “La voce "
-      },
-      {
         "title": "Iran’s army voices readiness for potential renewed US attack",
         "link": "https://www.investing.com/news/commodities-news/irans-army-voices-readiness-for-potential-renewed-us-attack-4918902",
         "source": "Investing.com Commodities",
@@ -485,13 +499,6 @@
         "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
       },
       {
-        "title": "Tensione alla marcia in Irlanda del Nord, folla protesta contro parata Orange",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/tensione-alla-marcia-in-irlanda-del-nord-folla-protesta-contro-parata_961ae61c-77c0-4447-9172-e2cc05082aa9.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 11:24:58 +0200",
-        "excerpt": "Dal primo ministro Gb Burnham invito alla calma"
-      },
-      {
         "title": "La tirannia dell’essere ottimi: che effetti produce vivere secondo le aspettative degli altri",
         "link": "https://www.repubblica.it/esteri/dossier/lena/2026/09/27/news/ottimizzazione_ossessione_essere_noi_stessi_continental_breakfast-425602884/?rss",
         "source": "Repubblica Esteri",
@@ -504,13 +511,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Sun, 27 Sep 2026 06:00:00 +0200",
         "excerpt": "Come nel caso Epstein, dall’inizio dell’estate l’amministrazione americana continua pubblicare documenti, fotografie e video legati a “fenomeni aerei non identificati”. Alcuni di questi sono rimasti senza spiegazione e a"
-      },
-      {
-        "title": "Saloon e forca, in vendita per 1,6 milioni il villaggio di “C’era una volta il West”",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/09/27/news/villaggio_film_c_era_una_volta_west_sergio_leone_vendita_16_milioni_continental_breakfast-425602099/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 06:00:00 +0200",
-        "excerpt": "La famiglia proprietaria si è rassegnata a cedere mitico Ranch Western Leone, che è stato set anche per Almodovar nel 2023"
       },
       {
         "title": "Nor’easter brings flooding, power outages across US Northeast, over 400 flights canceled",
@@ -565,11 +565,25 @@
   },
   "attualita": [
     {
+      "title": "Mondiali di ciclismo in diretta, Evenepoel è il grande favorito",
+      "link": "https://www.repubblica.it/sport/ciclismo/2026/09/27/diretta/mondiali_ciclismo_montreal_diretta_evenepoel_ciccone-425610699/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 12:54:13 +0000",
+      "excerpt": "La rassegna iridata di Montreal si chiude con la gara più attesa, la prova in linea maschile"
+    },
+    {
+      "title": "Allarme esplosivi vicino a una base della Raf, in campo l'antiterrorismo",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-in-un-campo-antiterrorismo_91d9e309-9fb5-4940-99e1-9370a923d619.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 14:37:37 +0200",
+      "excerpt": "Lo riporta la Bbc. Al momento non risultano invece coinvolti i servizi segreti"
+    },
+    {
       "title": "Ubriaco alla guida, travolge un operaio in un cantiere sulla A14 a Bologna",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/ubriaco-alla-guida-travolge-un-operaio-in-un-cantiere-a14-a-bologna_6c6ad14d-cd96-467f-a4f6-9b34ebbd628e.html",
       "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 14:28:10 +0200",
-      "excerpt": "Investitore con tasso alcolico oltre 2 g/l. È stato denunciato in stato di libertà e indagato per omicidio stradale"
+      "pubDate": "Sun, 27 Sep 2026 14:35:42 +0200",
+      "excerpt": "Investitore con tasso alcolico oltre 2 grammi per litro. È stato denunciato in stato di libertà e indagato per omicidio stradale"
     },
     {
       "title": "Bimbo di 5 anni investito a Torino, è stata l'ex compagna del padre",
@@ -579,11 +593,11 @@
       "excerpt": "Trauma toracico e addominale, il piccolo è ricoverato in ospedale. La donna, accusata di tentato omicidio, ha 24 anni. E' stata fermata dai carabinieri dopo la fuga"
     },
     {
-      "title": "Allarme esplosivi vicino a una base della Raf, in campo l'antiterrorismo",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-in-un-campo-antiterrorismo_91d9e309-9fb5-4940-99e1-9370a923d619.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 13:00:56 +0200",
-      "excerpt": "Lo riporta la Bbc. Al momento non risultano invece coinvolti i servizi segreti"
+      "title": "Leclerc, il lapsus sul motore Ferrari e la reazione dell'addetta stampa diventata virale",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/09/27/news/leclerc_ferrari_aduo_2_gp_baku-425610590/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 10:55:47 +0000",
+      "excerpt": "Dopo il quarto posto a Baku, il monegasco ‘svela’ la power unit utilizzata: “Forse sto dicendo qualcosa che non dovevo dire”"
     },
     {
       "title": "Pandemie, Ue e Usa non sottoscrivono dichiarazione Onu per solidarietà vaccinale. Anche l’Italia tra gli astenuti",
@@ -633,20 +647,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 06:56:17 +0000",
       "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
-    },
-    {
-      "title": "Bimbo di 5 anni investito a Torino, l’ombra della vendetta: al volante l’ex fidanzata del papà",
-      "link": "https://torino.repubblica.it/cronaca/2026/09/27/news/bimbo_investito_via_pinelli_industria-425610150/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 06:42:18 +0000",
-      "excerpt": "La donna, 24 anni, è stata arrestata per tentato omicidio. Il piccolo travolto da un’auto tra via Pinelli e via Industria, nel quartiere San Donato, mentre era con i genitori e la sorella"
-    },
-    {
-      "title": "Saloon e forca, in vendita per 1,6 milioni il villaggio di “C’era una volta il West”",
-      "link": "https://www.repubblica.it/esteri/dossier/lena/2026/09/27/news/villaggio_film_c_era_una_volta_west_sergio_leone_vendita_16_milioni_continental_breakfast-425602099/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 04:00:00 +0000",
-      "excerpt": "La famiglia proprietaria si è rassegnata a cedere mitico Ranch Western Leone, che è stato set anche per Almodovar nel 2023"
     },
     {
       "title": "Viaggio in Azerbaijan, da Baku al Grande Caucaso",
@@ -735,6 +735,13 @@
   ],
   "sport": [
     {
+      "title": "Addio a 'Batman' Battara, portiere della Samp che allenò Pagliuca",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/addio-a-batman-battara-portiere-della-samp-che-alleno-pagliuca_5271371c-3dcf-4666-9c09-2bd66bedcb4b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 14:47:37 +0200",
+      "excerpt": "Aveva 90 anni. Il club blucerchiato \"un mito che resterà nei nostri cuori\""
+    },
+    {
       "title": "America's Cup: già 42mila accessi al Race Village, tutto pronto per ultima giornata",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-gia-42mila-accessi-al-race-village-tutto-pronto-per_b9de1038-9729-487d-999b-cc5fc9ac05db.html",
       "source": "ANSA Sport",
@@ -775,13 +782,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 13:16:22 +0200",
       "excerpt": "L'azzurra: \"Per me judo è stato salvezza, darò tutto per confermarmi campionessa mondiale\""
-    },
-    {
-      "title": "Cinquant'anni Totti, l'ottavo re di Roma festeggia a Las Vegas",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/27/-cinquantanni-totti-lottavo-re-di-roma-festeggia-a-las-vegas_f9fe0823-b075-4c36-906f-464482946474.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 12:54:28 +0200",
-      "excerpt": "Un altro traguardo per leggenda giallorossa, tra prodezze, gioie e delusioni"
     },
     {
       "title": "Maratona Berlino: Assefa domina ma un infortunio la priva del record mondiale",
