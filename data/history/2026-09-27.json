@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Ip fissa un tetto ai prezzi del carburante. Parte l’effetto traino dopo la mossa di Eni",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/ip_fissa_tetto_prezzi_carburante_effetto_traino_eni-425610802/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 16:29:51 +0200",
+        "excerpt": "Allo studio anche le modalità per estendere il meccanismo alle stazioni a marchio Esso e agli altri operatori della filiera che si riforniscono da Ip"
+      },
+      {
+        "title": "Armani, per il 15% della maison ipotesi spezzatino",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/armani_per_il_15_della_maison_ipotesi_spezzatino-425610775/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 16:17:40 +0200",
+        "excerpt": "L’ad Marsocci conferma che a breve inizieranno gli incontri con Lvmh, L’Oréal e EssilorLuxottica per collocare la prima tranche di azioni del gruppo come indicato dallo stilista nel suo testamento. “Non è scritto sulla p"
+      },
+      {
+        "title": "Tutti vogliono una Starlink il fallimento dei russi e le lezioni per la IRIS2 europea",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/tutti_vogliono_una_starlink_il_fallimento_dei_russi_e_le_lezioni_per_la_iris2_europea-425607551/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 16:00:00 +0200",
+        "excerpt": "Rassvet non decolla ed evidenzia tre ordini di problemi che Bruxelles deve tenere presenti nella rincorsa a Musk: tecnologico, di costo e di realismo sui tempi. L’uso militare insieme al civile diventa la regola della sp"
+      },
+      {
         "title": "Barrick Mining raggiunge un accordo con i sindacati in Mali, scioperi annullati",
         "link": "https://it.investing.com/news/stock-market-news/barrick-mining-raggiunge-un-accordo-con-i-sindacati-in-mali-scioperi-annullati-3563799",
         "source": "Investing.com Italia",
@@ -401,27 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-26 00:43:33",
         "excerpt": ""
-      },
-      {
-        "title": "Citigroup punta a un’IPO di Banamex da oltre 3 miliardi a gennaio",
-        "link": "https://it.investing.com/news/stock-market-news/citigroup-punta-a-unipo-di-banamex-da-oltre-3-miliardi-a-gennaio-3563602",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 23:31:35",
-        "excerpt": ""
-      },
-      {
-        "title": "TFP Group presenta domanda di IPO alla Borsa di New York",
-        "link": "https://it.investing.com/news/stock-market-news/tfp-group-presenta-domanda-di-ipo-alla-borsa-di-new-york-3563562",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 21:24:35",
-        "excerpt": ""
-      },
-      {
-        "title": "L’indagine di OpenAI rivela interazioni AI oltre i limiti previsti",
-        "link": "https://it.investing.com/news/stock-market-news/lindagine-di-openai-rivela-interazioni-ai-oltre-i-limiti-previsti-3563549",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-25 21:08:07",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -688,6 +688,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Il governo di Delcy Rodríguez rilascia altri 40 prigionieri politici in Venezuela",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/il-governo-di-delcy-rodriguez-rilascia-altri-40-prigionieri-politici-in-venezuela_9749f218-b9b6-4cb1-a767-e31ffbee769b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 16:22:44 +0200",
+        "excerpt": "La notizia segue la conclusione del secondo round di negoziati con l'opposizione"
+      },
       {
         "title": "Allarme a base Raf, i 5 arrestati accusati formalmente di terrorismo",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-a-base-raf-i-5-arrestati-accusati-formalmente-di-terrorismo_c5ce7f23-5b59-47b2-a089-fa3fc3a2040d.html",
@@ -1091,6 +1098,27 @@
   },
   "attualita": [
     {
+      "title": "++ Socar applicherà limiti ai prezzi carburanti sulla rete italiana Ip ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/27/-socar-applichera-limiti-ai-prezzi-carburanti-sulla-rete-italiana-ip-_1c915728-4ae4-4dd9-b4a3-812fbf2c8a63.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 16:31:12 +0200",
+      "excerpt": "'La decisione per rafforzare l'impegno nei confronti dell'Italia'"
+    },
+    {
+      "title": "Ip fissa un tetto ai prezzi del carburante. Parte l’effetto traino dopo la mossa di Eni",
+      "link": "https://www.repubblica.it/economia/2026/09/27/news/ip_fissa_tetto_prezzi_carburante_effetto_traino_eni-425610802/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 14:29:51 +0000",
+      "excerpt": "Allo studio anche le modalità per estendere il meccanismo alle stazioni a marchio Esso e agli altri operatori della filiera che si riforniscono da Ip"
+    },
+    {
+      "title": "Allarme esplosivi vicino a una base della Raf, 5 arrestati. Sono accusati di terrorismo",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-5-arrestati.-sono-accusati_91d9e309-9fb5-4940-99e1-9370a923d619.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 16:02:46 +0200",
+      "excerpt": "Sono sospettati di aver pianificato un attentato. La base usata anche dagli Stati Uniti per la guerra in Iran"
+    },
+    {
       "title": "La mamma di Jacopo Trabattoni, morto sul traliccio: “Amava il parkour, nessuna sfida social”",
       "link": "https://milano.repubblica.it/cronaca/2026/09/27/news/jacopo_trabattoni_morto_traliccio_lodi_madre-425610767/",
       "source": "Repubblica",
@@ -1488,30 +1516,23 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 15:58:36 +0000",
       "excerpt": "Con la sua agenzia fotografica ha documento i grandi eventi di Bari e della Puglia ma anche i grandi rivolgimenti e poi la rinascita dei Paesi dei Balcani. Aveva 82 anni"
-    },
-    {
-      "title": "Usa, l’ultima mossa di Mamdani: regala 70mila biglietti per l’opera ai newyorkesi",
-      "link": "https://www.repubblica.it/esteri/2026/09/26/news/usa_sindaco_mamdani_regala_70mila_biglietti_opera_ai_newyorkesi-425609429/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 15:54:13 +0000",
-      "excerpt": "I biglietti invenduti del Met saranno distribuiti ai residenti con una lotteria. Il direttore della Philarmonic: “Meraviglioso”"
-    },
-    {
-      "title": "Brasile, a una settimana dal voto Lula vieta le scommesse online. Protestano agenzie e club",
-      "link": "https://www.repubblica.it/esteri/2026/09/26/news/brasile_a_una_settimana_da_voto_lula_vieta_scommesse_online-425609402/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 15:31:06 +0000",
-      "excerpt": "Il presidente è sfidato da Flávio Bolsonaro, e i sondaggi danno un testa a testa. La mossa è appoggiata da due terzi degli elettori"
-    },
-    {
-      "title": "Vannacci spoglia con l’AI la forzista Siracusano, tutti contro l’ex generale",
-      "link": "https://www.repubblica.it/politica/2026/09/26/news/siracusano_foto_ritoccata_centrodestra_contro_vannacci-425609322/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 14:55:19 +0000",
-      "excerpt": "Il vicepremier e leader di Forza Italia Tajani: “Dimostra la scarsezza di contenuti politici da parte di chi l'ha escogitato”"
     }
   ],
   "sport": [
+    {
+      "title": "America's Cup: Luna Rossa domina la classifica generale, New Zealand seconda",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-luna-rossa-domina-la-classifica-generale-new-zealand-seconda_c22a8660-0fa5-448a-b8df-dc8b2b812886.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 16:22:59 +0200",
+      "excerpt": "Chiuse le prove di flotta della regata preliminare: terzo posto per La Roche-Posay"
+    },
+    {
+      "title": "America's Cup: Luna Rossa vince anche la 2/a regata, ora il match race con New Zealand",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-luna-rossa-vince-anche-la-2a-regata-ora-il-match-race_02eb6d23-1753-4f84-99a4-8adde36238f3.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 16:20:05 +0200",
+      "excerpt": "Barca italiana chiude le prove di flotta al primo posto in classifica con 71 punti"
+    },
     {
       "title": "America's Cup: Luna Rossa vince la regata, finale contro New Zealand al match race",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-luna-rossa-vince-la-regata-finale-contro-new-zealand_9e273e34-da35-4a22-a9ba-03694b6f53d9.html",

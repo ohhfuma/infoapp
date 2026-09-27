@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-27T14:07:37.676Z",
+  "lastUpdated": "2026-09-27T14:38:19.996Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Ip fissa un tetto ai prezzi del carburante. Parte l’effetto traino dopo la mossa di Eni",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/ip_fissa_tetto_prezzi_carburante_effetto_traino_eni-425610802/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 16:29:51 +0200",
+        "excerpt": "Allo studio anche le modalità per estendere il meccanismo alle stazioni a marchio Esso e agli altri operatori della filiera che si riforniscono da Ip"
+      },
+      {
+        "title": "Armani, per il 15% della maison ipotesi spezzatino",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/armani_per_il_15_della_maison_ipotesi_spezzatino-425610775/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 16:17:40 +0200",
+        "excerpt": "L’ad Marsocci conferma che a breve inizieranno gli incontri con Lvmh, L’Oréal e EssilorLuxottica per collocare la prima tranche di azioni del gruppo come indicato dallo stilista nel suo testamento. “Non è scritto sulla p"
+      },
+      {
+        "title": "Tutti vogliono una Starlink il fallimento dei russi e le lezioni per la IRIS2 europea",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/tutti_vogliono_una_starlink_il_fallimento_dei_russi_e_le_lezioni_per_la_iris2_europea-425607551/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 16:00:00 +0200",
+        "excerpt": "Rassvet non decolla ed evidenzia tre ordini di problemi che Bruxelles deve tenere presenti nella rincorsa a Musk: tecnologico, di costo e di realismo sui tempi. L’uso militare insieme al civile diventa la regola della sp"
+      },
       {
         "title": "Caro carburante, anche i tassisti minacciano lo sciopero",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/carburanti-ancora-in-rialzo-diesel-si-avvicina-a-25-euro-in-autostrada_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
@@ -134,27 +155,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sun, 27 Sep 2026 03:00:00 +0200",
         "excerpt": "Si può ricorrere al 730 integrativo, entro il 26 ottobre, se si sono dimenticate alcune spese e le tasse scendono. Come fermare i maxi-acconti"
-      },
-      {
-        "title": "Scioperi: ottobre nero tra due stop “generali” e la scuola che si ferma il 16",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/scioperi_ottobre_nero_stop_generali_scuola_date-425609581/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 03:00:00 +0200",
-        "excerpt": "L’autunno si apre mettendo in difficoltà l’intera Italia. Tra le categorie interessate alle proteste ci sono anche i magistrati e i Vigili del Fuoco"
-      },
-      {
-        "title": "Matteo Renzi: serve la quattordicesima per insegnanti, agenti e infermieri",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/renzi_fisco_quattordicesima_insegnanti_agenti_infermieri-425609960/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 01:00:00 +0200",
-        "excerpt": "Per queste categorie il carovita non è solo una questione economica: svilisce la loro stessa funzione sociale. L’estratto del nuovo libro dell’ex premier, in uscita martedì 29 settembre"
-      },
-      {
-        "title": "Nuovo picco della benzina in attesa dello sconto Eni. Gli altri petrolieri in allarme",
-        "link": "https://www.repubblica.it/economia/2026/09/26/news/nuovo_picco_della_benzina_in_attesa_dello_sconto_eni_gli_altri_petrolieri_in_allarme-425609955/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 01:00:00 +0200",
-        "excerpt": "Crescita anche per il diesel che si avvicina a 2,5 euro in autostrada"
       },
       {
         "title": "Boeing scopre un bug software nel 737 MAX che può influire sulla navigazione automatica",
@@ -394,10 +394,24 @@
     ],
     "mondo": [
       {
+        "title": "Il Papa a Lourdes tra i malati. E oggi riceve le vittime degli abusi dei preti: “Piaga dolorosa”",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 16:29:43 +0200",
+        "excerpt": "Leone nel santuario mariano incontra i vescovi francesi: “Essenziale mantenere la massima vigilanza”. L’incontro con sette sopravvissuti e il caso dei mosaici coperti di Rupnik. E torna a parlare del fine vita: “E’ impos"
+      },
+      {
+        "title": "Il governo di Delcy Rodríguez rilascia altri 40 prigionieri politici in Venezuela",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/il-governo-di-delcy-rodriguez-rilascia-altri-40-prigionieri-politici-in-venezuela_9749f218-b9b6-4cb1-a767-e31ffbee769b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 16:22:44 +0200",
+        "excerpt": "La notizia segue la conclusione del secondo round di negoziati con l'opposizione"
+      },
+      {
         "title": "Gran Bretagna, allarme esplosivi vicino a base della Raf usata dagli Usa per operazioni in Iran. Indaga l’antiterrorismo",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 15:59:32 +0200",
+        "pubDate": "Sun, 27 Sep 2026 16:15:27 +0200",
         "excerpt": "Cinque uomini sono stati arrestati e 85 abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford. Si sospetta un attacco terroristico sventato all’ultim"
       },
       {
@@ -420,13 +434,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 15:05:20 +0200",
         "excerpt": "Investigazioni ora \"condotte in coordinamento con l'antiterrorismo\""
-      },
-      {
-        "title": "Il Papa a Lourdes tra i malati. E oggi riceve le vittime degli abusi dei preti: “Piaga dolorosa”",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 15:04:06 +0200",
-        "excerpt": "Leone nel santuario mariano incontra i vescovi francesi: “Essenziale mantenere la massima vigilanza”. L’incontro con sette sopravvissuti e il caso dei mosaici coperti di Rupnik. E torna a parlare del fine vita: “La voce "
       },
       {
         "title": "Svizzera, schiaffo alla destra al referendum sulla neutralità: bocciata la stretta con il 68,8% dei no",
@@ -469,13 +476,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 14:37:54 +0200",
         "excerpt": "Noleggiatori responsabili delle violazioni saranno inseriti nella lista di non conformità"
-      },
-      {
-        "title": "Sparatoria in Sudafrica in un locale vicino Città del Capo, 10 morti e 11 feriti",
-        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/27/sparatoria-in-sudafrica-in-un-locale-vicino-citta-del-capo-10-morti-e-11-feriti_c3466d18-9686-49c8-9472-2195dea66019.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 14:31:39 +0200",
-        "excerpt": "Cinque delle vittime sono morte sul posto"
       },
       {
         "title": "Il ruolo delle donne per la libertà in Ucraina: “Non siamo solo vittime”",
@@ -565,17 +565,31 @@
   },
   "attualita": [
     {
-      "title": "La mamma di Jacopo Trabattoni, morto sul traliccio: “Amava il parkour, nessuna sfida social”",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/27/news/jacopo_trabattoni_morto_traliccio_lodi_madre-425610767/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 13:58:24 +0000",
-      "excerpt": "Il 15enne è rimasto folgorato su un traliccio nel Lodigiano, la mamma Gioia Farina: “Era un ragazzo fantastico, sulla sua tragedia tanto sciacallaggio"
+      "title": "Il Papa su fine vita e aborto: 'Nessuna legge può dare la morte. Gli abusi sono una piaga'",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/09/27/il-papa-a-lourdes-oggi-lincontro-con-le-vittime-degli-abusi_5764dd52-00c0-41b4-9e1f-d03516069f0c.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 16:31:53 +0200",
+      "excerpt": "Terza giornata del viaggio in Francia, oggi a Lourdes. Oltre 150mila fedeli alla messa al Santuario, l'abbraccio con i malati"
     },
     {
-      "title": "Allarme esplosivi vicino a una base della Raf, 5 arrestati accusati di terrorismo",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-5-arresti.-in-campo-lantiterrorismo_91d9e309-9fb5-4940-99e1-9370a923d619.html",
+      "title": "++ Socar applicherà limiti ai prezzi carburanti sulla rete italiana Ip ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/27/-socar-applichera-limiti-ai-prezzi-carburanti-sulla-rete-italiana-ip-_1c915728-4ae4-4dd9-b4a3-812fbf2c8a63.html",
       "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 15:43:39 +0200",
+      "pubDate": "Sun, 27 Sep 2026 16:31:12 +0200",
+      "excerpt": "'La decisione per rafforzare l'impegno nei confronti dell'Italia'"
+    },
+    {
+      "title": "Ip fissa un tetto ai prezzi del carburante. Parte l’effetto traino dopo la mossa di Eni",
+      "link": "https://www.repubblica.it/economia/2026/09/27/news/ip_fissa_tetto_prezzi_carburante_effetto_traino_eni-425610802/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 14:29:51 +0000",
+      "excerpt": "Allo studio anche le modalità per estendere il meccanismo alle stazioni a marchio Esso e agli altri operatori della filiera che si riforniscono da Ip"
+    },
+    {
+      "title": "Allarme esplosivi vicino a una base della Raf, 5 arrestati. Sono accusati di terrorismo",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-5-arrestati.-sono-accusati_91d9e309-9fb5-4940-99e1-9370a923d619.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 16:02:46 +0200",
       "excerpt": "Sono sospettati di aver pianificato un attentato. La base usata anche dagli Stati Uniti per la guerra in Iran"
     },
     {
@@ -584,13 +598,6 @@
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 15:32:53 +0200",
       "excerpt": "“Al compleanno non ci penso, faccio sempre festa per lavoro”"
-    },
-    {
-      "title": "Ubriaco alla guida, travolge un operaio in un cantiere sulla A14 a Bologna",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/ubriaco-alla-guida-travolge-un-operaio-in-un-cantiere-a14-a-bologna_6c6ad14d-cd96-467f-a4f6-9b34ebbd628e.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 15:19:02 +0200",
-      "excerpt": "Investitore con tasso alcolico oltre 2 grammi per litro. È stato denunciato in stato di libertà e indagato per omicidio stradale"
     },
     {
       "title": "Svizzera, schiaffo alla destra al referendum sulla neutralità: bocciata la stretta con il 68,8% dei no",
@@ -605,13 +612,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 12:54:13 +0000",
       "excerpt": "La rassegna iridata di Montreal si chiude con la gara più attesa, la prova in linea maschile"
-    },
-    {
-      "title": "Bimbo di 5 anni investito a Torino, è stata l'ex compagna del padre",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/bimbo-di-5-anni-investito-a-torino-e-stata-lex-compagna-del-padre_cf769303-383d-40d2-8cf8-32a267410ba0.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 13:29:35 +0200",
-      "excerpt": "Trauma toracico e addominale, il piccolo è ricoverato in ospedale. La donna, accusata di tentato omicidio, ha 24 anni. E' stata fermata dai carabinieri dopo la fuga"
     },
     {
       "title": "Leclerc, il lapsus sul motore Ferrari e la reazione dell'addetta stampa diventata virale",
@@ -639,7 +639,7 @@
       "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/",
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 08:53:29 +0000",
-      "excerpt": "Leone nel santuario mariano incontra i vescovi francesi: “Essenziale mantenere la massima vigilanza”. L’incontro con sette sopravvissuti e il caso dei mosaici coperti di Rupnik. E torna a parlare del fine vita: “La voce "
+      "excerpt": "Leone nel santuario mariano incontra i vescovi francesi: “Essenziale mantenere la massima vigilanza”. L’incontro con sette sopravvissuti e il caso dei mosaici coperti di Rupnik. E torna a parlare del fine vita: “E’ impos"
     },
     {
       "title": "Gran Bretagna, allarme esplosivi vicino a base della Raf usata dagli Usa per operazioni in Iran. Indaga l’antiterrorismo",
@@ -735,6 +735,20 @@
   ],
   "sport": [
     {
+      "title": "America's Cup: Luna Rossa domina la classifica generale, New Zealand seconda",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-luna-rossa-domina-la-classifica-generale-new-zealand-seconda_c22a8660-0fa5-448a-b8df-dc8b2b812886.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 16:22:59 +0200",
+      "excerpt": "Chiuse le prove di flotta della regata preliminare: terzo posto per La Roche-Posay"
+    },
+    {
+      "title": "America's Cup: Luna Rossa vince anche la 2/a regata, ora il match race con New Zealand",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-luna-rossa-vince-anche-la-2a-regata-ora-il-match-race_02eb6d23-1753-4f84-99a4-8adde36238f3.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 16:20:05 +0200",
+      "excerpt": "Barca italiana chiude le prove di flotta al primo posto in classifica con 71 punti"
+    },
+    {
       "title": "Daniel Osvaldo fuori pericolo. La famiglia: \"Sta bene ed è lucido\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/daniel-osvaldo-fuori-pericolo-la-famiglia-sta-bene-ed-e-lucido_e586f0ff-60ce-48aa-b775-c7bedfeb8f5f.html",
       "source": "ANSA Sport",
@@ -775,20 +789,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 14:05:07 +0200",
       "excerpt": "La compagnia energetica dell'Azerbaigian ha acquisito mesi fa l'IP"
-    },
-    {
-      "title": "Scalvini, 'l'Atalanta è famiglia, Luca Percassi mi ha visto crescere'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/scalvini-latalanta-e-famiglia-luca-percassi-mi-ha-visto-crescere_82efb209-cc8d-469c-9846-e142ee0fd157.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 13:26:32 +0200",
-      "excerpt": "Il difensore dopo l'annuncio del prolungamento fino al 2031"
-    },
-    {
-      "title": "Chapecoense e Atletico Nacional in campo, ricordano le vittime del disastro aereo",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/chapecoense-e-atletico-nacional-in-campo-ricordano-le-vittime-del-disastro-aereo_e8b8d5fb-ffcc-44bc-8443-e327755e090e.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 13:25:28 +0200",
-      "excerpt": "Nel 2016 uno schianto uccise 71 persone e decimò la squadra brasiliana"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
