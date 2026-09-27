@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T23:07:22.648Z",
+  "lastUpdated": "2026-09-27T23:37:17.736Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,55 @@
     ],
     "mondo": [
       {
+        "title": "L’ultimo incubo europeo: Mosca potrebbe manipolare il voto elettronico e postale",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/russia_voto_elettronico_postale_europa_minaccia-425611465/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "Oltre alle minacce militari, i Paesi Nato temono che la Russia possa “bucare” i sistemi elettorali. A partire dai Paesi del Baltico"
+      },
+      {
+        "title": "La Casa Bianca ora spinge per nuovi colloqui su Hormuz. Araghchi: “Non arretriamo”",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/stati_uniti_nuovi_colloqui_hormuz_araghchi_netanyahu_emirati-425611448/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "Dopo aver respinto la bozza, il presidente ha annunciato trattative in settimana. Nethanyahu negli Emirati vede Mbz"
+      },
+      {
+        "title": "L’assalto finale russo all’industria ucraina: acciaio e telecomunicazioni sotto assedio",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/ucraina_industrie_acciaio_telecomunicazioni_attacchi_russia-425611441/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "Nelle ultime settimane la macchina bellica sta azzerando il comparto siderurgico e colpendo l’economia digitale"
+      },
+      {
+        "title": "Londra, allarme terrorismo: cinque arresti alla base Usa. Trump: “Decisi a colpire”",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/terrorismo_fairford_arresti_base_usa_trump_iran-425611353/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "L’allarme partito da una signora. Sequestrati furgoni con esplosivi. Evacuati circa 400 cittadini. L’installazione usata contro Teheran"
+      },
+      {
+        "title": "François Hollande: “Attenti, Le Pen vuole smantellare l’Europa. Uniamoci per batterla”",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/intervista_francois_hollande_presidenziali_francia_le_pen_europa_unire-425611338/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "Intervista all’ex presidente francese che non esclude una nuova discesa in campo: “Potrei decidere di farlo, ma solo in circostanze eccezionali”"
+      },
+      {
+        "title": "Putin-Trump-Xi, vertice a tre: il Cremlino apre alla Cina. Ipotesi incontro a novembre",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/vertice_putin_trump_xi_novembre_apec_starlink-425611324/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "Secondo il portavoce Peskov, l’incontro potrebbe avvenire al summit Apec. “Sul G20 a Miami nessuna decisione”. Ma la Russia avverte gli Usa su Starlink"
+      },
+      {
+        "title": "Fairford, la rampa di lancio dei bombardieri Usa che hanno devastato l’Iran",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/fairford_regno_unito_base_usa_raid_iran_sigonella_allarme-425611213/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "L’allarme attentati esteso a tutte le basi europee, dalla Germania al Belgio, dalla Grecia alla Bulgaria. Controlli anche in Italia"
+      },
+      {
         "title": "Oil rebounds after Trump rejects Iran peace deal",
         "link": "https://www.investing.com/news/commodities-news/oil-rebounds-after-trump-rejects-iran-peace-deal-4919183",
         "source": "Investing.com Commodities",
@@ -443,13 +492,6 @@
         "excerpt": "L'incontro avverrà nel contesto del confronto tra il colosso dell'IA e l'amministrazione"
       },
       {
-        "title": "Il Papa riceve le vittime degli abusi dei preti: “Piaga dolorosa, il mio impegno che non si ripeta”",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 21:00:52 +0200",
-        "excerpt": "A Lourdes Leone incontra sette sopravvissuti di diverse età e contesti. Ai vescovi francesi: “Essenziale mantenere la massima vigilanza”. Il caso dei mosaici coperti di Rupnik. Torna a parlare del fine vita: “E’ impossib"
-      },
-      {
         "title": "Il presidente serbo Vucic si dimette per candidarsi alle elezioni anticipate",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/il-presidente-serbo-vucic-si-dimette-per-candidarsi-alle-elezioni-anticipate_e872079a-6af1-4fec-a46b-288f46f8714a.html",
         "source": "ANSA Mondo",
@@ -471,53 +513,11 @@
         "excerpt": "La proposta, ben vista da Mosca, irrigidiva la posizione internazionale di Berna"
       },
       {
-        "title": "Guilfoyle agli incontri ufficiali con un lobbista del gas: le ombre sulla missione dell’ambasciatrice Usa in Grecia",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/kimberly_guilfoyle_ambasciatrice_usa_grecia_lobbista_gas_christos_marafatsos-425611084/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 18:52:23 +0200",
-        "excerpt": "La diplomatica, ex fidanzata del figlio maggiore di Trump, avrebbe promosso in diversi Paesi europei il gas naturale liquefatto statunitense accompagnata da Christos Marafatsos, lobbista legato al gruppo greco Aktor. Il "
-      },
-      {
-        "title": "Gran Bretagna, 5 arresti per esplosivi vicino base Raf usata da Usa. Trump: “Volevano fare danni”",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 18:40:31 +0200",
-        "excerpt": "Oltre 80 abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford. L’antiterrorismo indaga su presunti legami con l’Iran: in passato era stata dichiarat"
-      },
-      {
         "title": "Axios, indagine OpenAI e Anthropic su decine di migliaia di incidenti di sicurezza",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_043c1471-5487-49a8-ae2e-f36cdbc7a6dd.html",
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 18:33:43 +0200",
         "excerpt": "Tra questi creazione di bacheche di messaggi, fuga dalle sandbox, dirottamento di siti web"
-      },
-      {
-        "title": "Svizzera, schiaffo alla destra al referendum sulla neutralità: bocciata la stretta con il 68,8% dei no",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/svizzera_schiaffo_alla_destra_referendum_su_neutralita_bocciata_stretta-425610715/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 17:31:43 +0200",
-        "excerpt": "L’elettorato ha respinto l’iniziativa dell’Udc per blindare nella Costituzione la neutralità della Confederazione. Un risultato che segna i limiti della mobilitazione sovranista e conferma il progressivo avvicinamento di"
-      },
-      {
-        "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 15:39:24 +0200",
-        "excerpt": "Una controversa parata orangista sulla strada repubblicana di Garvaghy Road, sanguinoso scenario della guerra civile, è stata approvata dopo 28 anni di veti e una battaglia legale durata nella notte: i protestanti pronti"
-      },
-      {
-        "title": "Il ruolo delle donne per la libertà in Ucraina: “Non siamo solo vittime”",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/il_ruolo_delle_donne_per_la_liberta_in_ucraina_non_siamo_solo_vittime-425610663/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 13:58:12 +0200",
-        "excerpt": "Al Women Economic Forum al Castello di Tabiano, l’avvocata e premio Nobel per la Pace denuncia gli arresti illegali nei territori occupati, ricordando il caso di una bambina di cinque anni separata dalla madre per “simpa"
-      },
-      {
-        "title": "Pandemie, Ue e Usa non sottoscrivono dichiarazione Onu per solidarietà vaccinale. Anche l’Italia tra gli astenuti",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/pandemie_ue_e_usa_non_sottoscrivono_dichiarazione_onu_per_solidarieta_vaccinale_anche_l_italia_tra_gli_astenuti-425610575/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 12:48:51 +0200",
-        "excerpt": "Washington, secondo il New York Times, contesta il carattere troppo “woke” del testo per i suoi riferimenti a equità e inclusività. Resta la frattura tra Paesi ricchi e mondo in via di sviluppo, già emersa durante il Cov"
       },
       {
         "title": "Iran’s army voices readiness for potential renewed US attack",
