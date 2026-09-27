@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-27T17:37:36.169Z",
+  "lastUpdated": "2026-09-27T18:09:18.591Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Addio a Lorenzo Pallesi, il manager che guidò l’Ina-Assitalia e rinnovò la Treccani",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/lorenzo_pallesi_morto_manager_ina_assitalia_treccani_privatizzazioni-425611175/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 20:06:16 +0200",
+        "excerpt": "Si è spento a Roma a 89 anni. Per lunghi anni aveva ricoperto importanti incarichi nel campo dell’economia pubblica, accompagnandone il percorso verso l’approdo delle privatizzazioni"
+      },
       {
         "title": "Quali sono gli effetti dei rendimenti obbligazionari sulle azioni europee?",
         "link": "https://it.investing.com/news/stock-market-news/quali-sono-gli-effetti-dei-rendimenti-obbligazionari-sulle-azioni-europee-3563816",
@@ -164,13 +171,6 @@
         "excerpt": "Urne aperte nel collegio Reggio Calabria-Locri, dove sono chiamati al voto quasi 346mila elettori. Futuro nazionale schiera Domenico Giannetta contro l’azzurro Fabio Roscioli, mentre il centrosinistra puta su Frank Bened"
       },
       {
-        "title": "Addio bevande di mandorle e di riso, si torna a bere il latte tradizionale",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/latte_riso_mandorle_mucca_proteine_costi-425610272/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 09:47:26 +0200",
-        "excerpt": "Il classico “milk” piace perché è considerato più conveniente per il portafoglio e per la salute. Per le alternative invece si registrano crolli nelle vendite in America e in Europa"
-      },
-      {
         "title": "Carburanti ancora in rialzo, il diesel si avvicina a 2,5 euro in autostrada",
         "link": "https://www.ilsole24ore.com/art/carburanti-ancora-rialzo-diesel-si-avvicina-25-euro-autostrada-AJMWIgQB",
         "source": "Il Sole 24 Ore",
@@ -233,7 +233,7 @@
         "link": "https://www.ilsole24ore.com/art/la-svizzera-vota-no-rafforzare-neutralita-costituzione-AJwtKtQB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Sun, 27 Sep 2026 14:04:00 GMT",
-        "excerpt": "Gli elettori svizzeri hanno respinto l’iniziativa che voleva introdurre nella Costituzione elvetica una formula più rigida della neutralità. A spoglio concluso, il no ha vinto con..."
+        "excerpt": "L’iniziativa era appoggiata dalla destra nazionalista e si era sviluppata sull’onda dell’adesione della Confederazione alla gran parte delle sanzioni Ue contro la Russia"
       },
       {
         "title": "Kiev, 14 morti e 57 feriti in 24 ore per i raid russi",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "A Madrid tornano gli 'indignados', lotta contro gli sfratti ",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/a-madrid-tornano-gli-indignados-lotta-contro-gli-sfratti-_91293b9c-2dae-4b6c-a653-859e5c91dbbf.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 19:53:13 +0200",
+        "excerpt": "In 500 accampati alla Puerta del Sol nel nome di Maricarmen, l'anziana simbolo della protesta"
+      },
+      {
         "title": "La Svizzera dice no al referendum sulla neutralità, salve le sanzioni Ue ",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/la-svizzera-dice-no-al-referendum-sulla-neutralita-salve-le-sanzioni-ue_7c894446-31aa-4d59-b589-bf82a5104497.html",
         "source": "ANSA Mondo",
@@ -434,13 +441,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 18:32:51 +0200",
         "excerpt": "Il tycoon: 'Nuovi raid? Ci penso continuamente. Non vogliono l'accordo che voglio io'"
-      },
-      {
-        "title": "Il governo di Delcy Rodríguez rilascia altri 40 prigionieri politici in Venezuela",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/il-governo-di-delcy-rodriguez-rilascia-altri-40-prigionieri-politici-in-venezuela_9749f218-b9b6-4cb1-a767-e31ffbee769b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 18:25:31 +0200",
-        "excerpt": "La notizia segue la conclusione del secondo round di negoziati con l'opposizione"
       },
       {
         "title": "Trump, 'prezzo petrolio crollerà a guerra finita, più basso ora che con Biden'",
@@ -572,6 +572,27 @@
   },
   "attualita": [
     {
+      "title": "L'allarme sull'IA: 'Sono decine di migliaia gli incidenti'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_c3aef7f9-3ae8-43b9-a6e9-df5f262707e9.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 19:47:36 +0200",
+      "excerpt": "OpenAi e Anthropic indagano su molti più casi"
+    },
+    {
+      "title": "Picchiata, torturata e quasi annegata, arrestato un 38enne",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/picchiata-torturata-e-quasi-annegata-arrestato-un-38enne_643b5a66-5c1e-48eb-937b-c01309788196.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 19:46:54 +0200",
+      "excerpt": "E' successo a Pescia (Pistoia). La passeggiata si trasforma in un incubo. Salvata da un passante"
+    },
+    {
+      "title": "Allarme terrorismo in una base Raf usata da bombardieri Usa contro l'Iran ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-terrorismo-in-una-base-raf-usata-da-bombardieri-usa-contro-liran_91d9e309-9fb5-4940-99e1-9370a923d619.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 19:40:06 +0200",
+      "excerpt": "Cinque arresti, 'progettavano un attentato'. Sospetti legami con Teheran. Trump s'intesta il blitz"
+    },
+    {
       "title": "Ballando, Fialdini e Ventura regine del tesoretto. Sciarelli 'Ballerina per una notte'",
       "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/09/27/carlucci-fialdini-e-ventura-regine-del-tesoretto.-sciarelli-ballerina-per-una_6cf96c13-6063-4684-8427-ae65655b9dc2.html",
       "source": "ANSA",
@@ -579,11 +600,11 @@
       "excerpt": "Milly Carluscci: \"Simone Di Pasquale in Sala delle Stelle al posto di Paolo Belli\""
     },
     {
-      "title": "Mancini: “Alle critiche si risponde vincendo, ma a questa generazione serve tempo”",
+      "title": "Mancini: “Alle critiche si risponde vincendo in Turchia, ma a questa generazione serve tempo”",
       "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/27/news/mancini_conferenza_turchia_italia-425611088/",
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 16:58:41 +0000",
-      "excerpt": "il ct alla vigilia della gara di Bursa con la Turchia chiede pazienza e difende i suoi giocatori a cominciare da Romano: “Avrà un grande futuro in Nazionale”"
+      "excerpt": "Il ct alla vigilia della gara di Bursa con la Turchia chiede pazienza e difende i suoi giocatori a cominciare da Romano: “Avrà un grande futuro in Nazionale”"
     },
     {
       "title": "Guilfoyle agli incontri ufficiali con un lobbista del gas: le ombre sulla missione dell’ambasciatrice Usa in Grecia",
@@ -600,13 +621,6 @@
       "excerpt": "Domenica i Video Music Awards tornano sulla costa Ovest, presenta Snoop Dogg"
     },
     {
-      "title": "Picchiata, torturata e quasi annegata, arrestato un 38enne",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/picchiata-torturata-e-quasi-annegata-arrestato-un-38enne_643b5a66-5c1e-48eb-937b-c01309788196.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 18:31:51 +0200",
-      "excerpt": "E' successo a Pescia (Pistoia). La passeggiata si trasforma in un incubo. Salvata da un passante"
-    },
-    {
       "title": "Da domani limiti ai prezzi dei carburanti anche sulla rete Ip. Meloni: \"Segnale importante\"",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/da-domani-limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
       "source": "ANSA",
@@ -619,13 +633,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 15:47:46 +0000",
       "excerpt": "Eni fissa la benzina al massimo a 1,99 euro al litro e il gasolio a 2,19. Insieme a Ip, le due compagnie gestiscono più di un terzo dei distributori italiani"
-    },
-    {
-      "title": "Allarme esplosivi vicino a una base della Raf, 5 arrestati. Sono accusati di terrorismo",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-5-arrestati.-sono-accusati_91d9e309-9fb5-4940-99e1-9370a923d619.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 17:46:32 +0200",
-      "excerpt": "Sono sospettati di aver pianificato un attentato. La base usata anche dagli Stati Uniti per la guerra in Iran"
     },
     {
       "title": "Pistoia: rifiuta approccio sessuale, torturata e quasi annegata nel fiume. Arrestato uomo di 38 anni",
@@ -675,13 +682,6 @@
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 09:39:32 +0200",
       "excerpt": "Lo indicano nuove simulazioni dell'impatto tra la Terra e il protopianeta Theia"
-    },
-    {
-      "title": "Viaggio in Azerbaijan, da Baku al Grande Caucaso",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/mondo/2026/09/26/viaggio-in-azerbaijan-da-baku-al-grande-caucaso_769bed0b-5f45-4e9e-b1b5-1b027916a327.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 20:18:32 +0200",
-      "excerpt": "Dalla capitale ai villaggi di montagna e alle antiche città della Via della Seta"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -742,6 +742,20 @@
   ],
   "sport": [
     {
+      "title": "A Napoli il trionfo di Luna Rossa, ora l'America's Cup non è più un sogno",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/a-napoli-il-trionfo-di-luna-rossa-ora-lamericas-cup-non-e-piu-un-sogno_61c0c5e5-a015-4e02-a555-a629426708da.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 19:58:43 +0200",
+      "excerpt": "Come a Cagliari barca italiana domina i rivali di New Zealand nelle regate preliminari"
+    },
+    {
+      "title": "Nations League: Montella, \"avrei evitato l'Italia ma darò tutto per la Turchia\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-montella-avrei-evitato-litalia-ma-daro-tutto-per-la-turchia_38f38cae-e84e-451c-a31e-9fec67b7cc80.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 19:43:22 +0200",
+      "excerpt": "Il ct dei turchi: \"A Mancini toglierei Donnarumma, è straordinario\""
+    },
+    {
       "title": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_869bd7cb-de43-462b-bdcd-d88af8b4884c.html",
       "source": "ANSA Sport",
@@ -777,25 +791,11 @@
       "excerpt": "\"Una figata\". Titolo con Ducati. Ex enfant prodige realizza suo sogno a 26 anni"
     },
     {
-      "title": "Taekwondo: oro per Dell'Aquila a Varsavia",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/taekwondo-oro-per-dellaquila-a-varsavia_7d2c3e39-d431-437c-a84a-8cb6e4639099.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 18:46:34 +0200",
-      "excerpt": "L'azzurro vince in finale il derby con Santinelli"
-    },
-    {
       "title": "Nations League: Tonali, 'non abbiamo la stella, ma questa Italia e' viva'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-tonali-non-abbiamo-la-stella-ma-questa-italia-e-viva_185075f4-3630-4d23-96d6-b14dd52dae2d.html",
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 18:01:51 +0200",
       "excerpt": "Centrocampista azzurro: 'col Belgio giocato male, cresciamo passo dopo passo'"
-    },
-    {
-      "title": "Nations League: Mancini, 'troppa agitazione, diamo tempo ai giovani'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-mancini-troppa-agitazione-diamo-tempo-ai-giovani_85d95282-0596-49dd-af85-04e290af9a0c.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 17:51:18 +0200",
-      "excerpt": "Ct alla vigilia di Turchia-Italia: 'ripartiamo dal secondo tempo di Roma'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

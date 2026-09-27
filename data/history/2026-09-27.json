@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Addio a Lorenzo Pallesi, il manager che guidò l’Ina-Assitalia e rinnovò la Treccani",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/lorenzo_pallesi_morto_manager_ina_assitalia_treccani_privatizzazioni-425611175/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 20:06:16 +0200",
+        "excerpt": "Si è spento a Roma a 89 anni. Per lunghi anni aveva ricoperto importanti incarichi nel campo dell’economia pubblica, accompagnandone il percorso verso l’approdo delle privatizzazioni"
+      },
+      {
         "title": "Quali sono gli effetti dei rendimenti obbligazionari sulle azioni europee?",
         "link": "https://it.investing.com/news/stock-market-news/quali-sono-gli-effetti-dei-rendimenti-obbligazionari-sulle-azioni-europee-3563816",
         "source": "Investing.com Italia",
@@ -415,13 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "Sat, 26 Sep 2026 12:34:28 +0200",
         "excerpt": "Vietate le dichiarazioni non verificabili sulla sostenibilità dei prodotti"
-      },
-      {
-        "title": "Le mani americane su L’Avana",
-        "link": "https://www.repubblica.it/economia/2026/09/28/news/le_mani_americane_su_l_avana-425607005/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 26 Sep 2026 11:43:24 +0200",
-        "excerpt": "L’embargo soffoca l’isola, senza energia e cibo Intanto a Miami si disegnano i piani per il post-castrismo: un grande banchetto immobiliare"
       }
     ],
     "europa": [
@@ -688,6 +688,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "A Madrid tornano gli 'indignados', lotta contro gli sfratti ",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/a-madrid-tornano-gli-indignados-lotta-contro-gli-sfratti-_91293b9c-2dae-4b6c-a653-859e5c91dbbf.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 19:53:13 +0200",
+        "excerpt": "In 500 accampati alla Puerta del Sol nel nome di Maricarmen, l'anziana simbolo della protesta"
+      },
       {
         "title": "La Svizzera dice no al referendum sulla neutralità, salve le sanzioni Ue ",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/la-svizzera-dice-no-al-referendum-sulla-neutralita-salve-le-sanzioni-ue_7c894446-31aa-4d59-b589-bf82a5104497.html",
@@ -1100,17 +1107,17 @@
         "source": "Repubblica Esteri",
         "pubDate": "Sat, 26 Sep 2026 14:40:17 +0200",
         "excerpt": "In vista del voto del 2027, l’ex sindaca di Barcellona si avvicina al ritorno in politica e potrebbe diventare la leader dell’alleanza dei partiti progressisti per frenare l’avanzata di Pp e Vox. Ma resta il nodo della p"
-      },
-      {
-        "title": "EU warns of energy price crisis, urges gas demand cuts - Bloomberg",
-        "link": "https://www.investing.com/news/commodities-news/eu-warns-of-energy-price-crisis-urges-gas-demand-cuts--bloomberg-4918563",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-26 11:52:40",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Allarme terrorismo in una base Raf usata da bombardieri Usa contro l'Iran ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-terrorismo-in-una-base-raf-usata-da-bombardieri-usa-contro-liran_91d9e309-9fb5-4940-99e1-9370a923d619.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 19:40:06 +0200",
+      "excerpt": "Cinque arresti, 'progettavano un attentato'. Sospetti legami con Teheran. Trump s'intesta il blitz"
+    },
     {
       "title": "Ballando, Fialdini e Ventura regine del tesoretto. Sciarelli 'Ballerina per una notte'",
       "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/09/27/carlucci-fialdini-e-ventura-regine-del-tesoretto.-sciarelli-ballerina-per-una_6cf96c13-6063-4684-8427-ae65655b9dc2.html",
@@ -1523,16 +1530,23 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 19:18:00 +0000",
       "excerpt": "Macron assente in ossequio alla separazione tra Stato e Chiesa, i big della destra e del centro fanno a gara per mettersi in mostra"
-    },
-    {
-      "title": "'Da giorni sotto l'effetto di droghe: il festino, la lite e l'omicidio'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/omicidio-di-torino-la-madre-del-fermato-piangeva-era-sconvolto-_dfe8e53a-0135-4ecc-828a-3bdb360f920c.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 21:12:45 +0200",
-      "excerpt": "La confessione al gip di uno degli indagati per l'uomo ucciso e fatto a pezzi a Torino"
     }
   ],
   "sport": [
+    {
+      "title": "A Napoli il trionfo di Luna Rossa, ora l'America's Cup non è più un sogno",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/a-napoli-il-trionfo-di-luna-rossa-ora-lamericas-cup-non-e-piu-un-sogno_61c0c5e5-a015-4e02-a555-a629426708da.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 19:58:43 +0200",
+      "excerpt": "Come a Cagliari barca italiana domina i rivali di New Zealand nelle regate preliminari"
+    },
+    {
+      "title": "Nations League: Montella, \"avrei evitato l'Italia ma darò tutto per la Turchia\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-montella-avrei-evitato-litalia-ma-daro-tutto-per-la-turchia_38f38cae-e84e-451c-a31e-9fec67b7cc80.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 19:43:22 +0200",
+      "excerpt": "Il ct dei turchi: \"A Mancini toglierei Donnarumma, è straordinario\""
+    },
     {
       "title": "Red Bull Cliff Diving, Polignano a Mare premia Prygorov, a britannico Heslop il titolo",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/red-bull-cliff-diving-polignano-a-mare-premia-prygorov-a-britannico-heslop_869bd7cb-de43-462b-bdcd-d88af8b4884c.html",
