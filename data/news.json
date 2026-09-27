@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-27T19:06:36.643Z",
+  "lastUpdated": "2026-09-27T19:36:46.143Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il CEO di Anthropic, Amodei, incontrerà Trump prima del summit sull’IA",
+        "link": "https://it.investing.com/news/stock-market-news/il-ceo-di-anthropic-amodei-incontrera-trump-prima-del-summit-sullia-3563822",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-27 19:17:33",
+        "excerpt": ""
+      },
       {
         "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ip-segue-eni-sui-prezzi-dei-carburanti.-meloni-assicura-un-sostegno-alle_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
@@ -218,13 +225,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-26 16:07:30",
         "excerpt": ""
-      },
-      {
-        "title": "Aramco valuta una divisione gas autonoma con valutazione da $100 mld",
-        "link": "https://it.investing.com/news/stock-market-news/aramco-valuta-una-divisione-gas-autonoma-con-valutazione-da-100-mld-3563684",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-26 15:41:51",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -401,18 +401,32 @@
     ],
     "mondo": [
       {
-        "title": "Il Papa riceve le vittime degli abusi dei preti: “Piaga dolorosa, il mio impegno che non si ripeta”",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 21:00:52 +0200",
-        "excerpt": "A Lourdes Leone incontra sette sopravvissuti di diverse età e contesti. Ai vescovi francesi: “Essenziale mantenere la massima vigilanza”. Il caso dei mosaici coperti di Rupnik. Torna a parlare del fine vita: “E’ impossib"
+        "title": "Media, Netanyahu negli Emirati oggi per incontro con bin Zayed",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/media-netanyahu-negli-emirati-oggi-per-incontro-con-bin-zayed_ed215a04-5926-4eef-a4a8-6e2c10bc27ae.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 21:24:37 +0200",
+        "excerpt": "Secondo Channel 12 il premier israeliano è rientrato in Israele"
+      },
+      {
+        "title": "Axios, 'Trump terrà cena privata alla Casa Bianca con il ceo di Anthropic'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/axios-trump-terra-cena-privata-alla-casa-bianca-con-il-ceo_9adb3afa-0c81-43d2-852e-ef33b0a00e5b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 21:24:33 +0200",
+        "excerpt": "L'incontro avverrà nel contesto del confronto tra il colosso dell'IA e l'amministrazione"
       },
       {
         "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 21:00:26 +0200",
+        "pubDate": "Sun, 27 Sep 2026 21:09:08 +0200",
         "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo partito di destra"
+      },
+      {
+        "title": "Il Papa riceve le vittime degli abusi dei preti: “Piaga dolorosa, il mio impegno che non si ripeta”",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 21:00:52 +0200",
+        "excerpt": "A Lourdes Leone incontra sette sopravvissuti di diverse età e contesti. Ai vescovi francesi: “Essenziale mantenere la massima vigilanza”. Il caso dei mosaici coperti di Rupnik. Torna a parlare del fine vita: “E’ impossib"
       },
       {
         "title": "Il presidente serbo Vucic si dimette per candidarsi alle elezioni anticipate",
@@ -455,20 +469,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 18:33:43 +0200",
         "excerpt": "Tra questi creazione di bacheche di messaggi, fuga dalle sandbox, dirottamento di siti web"
-      },
-      {
-        "title": "Trump ad Axios, 'mi aspetto altri colloqui sull'Iran in settimana'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/trump-ad-axios-mi-aspetto-altri-colloqui-sulliran-in-settimana_83af1891-8020-42c6-8925-54868fe08ea5.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 18:32:51 +0200",
-        "excerpt": "Il tycoon: 'Nuovi raid? Ci penso continuamente. Non vogliono l'accordo che voglio io'"
-      },
-      {
-        "title": "Trump, 'su arresti a Fairford fatto un lavoro straordinario con Gb'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/trump-su-arresti-a-fairford-fatto-un-lavoro-straordinario-con-gb_f8767055-8f2c-4b4d-a8c8-c78a0ce7f1df.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 18:24:49 +0200",
-        "excerpt": ""
       },
       {
         "title": "Trump ad Axios, 'mi aspetto altri colloqui sull'Iran in settimana'",
@@ -572,10 +572,10 @@
   },
   "attualita": [
     {
-      "title": "++ Aggredisce donna e investe due persone a Reggio Emilia, arrestato ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/27/-aggredisce-donna-e-investe-due-persone-a-reggio-emilia-arrestato-_860d79d4-194c-45b4-af86-4841b04f42fa.html",
+      "title": "Aggredisce una donna e investe due persone a Reggio Emilia, arrestato ",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/aggredisce-una-donna-e-investe-due-persone-a-reggio-emilia-arrestato_eae1d70a-f8b9-4cb6-a57f-243f9791ab74.html",
       "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 20:54:14 +0200",
+      "pubDate": "Sun, 27 Sep 2026 21:10:02 +0200",
       "excerpt": "Follia in serata a un distributore di benzina, tre feriti gravi in ospedale"
     },
     {
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "America's Cup: foto di famiglia per Luna Rossa sul pontone del Race Village",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-foto-di-famiglia-per-luna-rossa-sul-pontone-del_27e9677c-6b45-43e0-a153-42adb96ab1de.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 21:15:47 +0200",
+      "excerpt": "La festa continua sull'installazione di Sport e Salute. Sul palco cantano i The Kolors"
+    },
+    {
       "title": "America's Cup: la gioia di Sirena 'ok i nuovi equipaggi, abbiamo gruppo di talento'",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-la-gioia-di-sirena-ok-i-nuovi-equipaggi-abbiamo-gruppo-di-talento_335723fe-f397-41c8-8beb-0a554c31a493.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 19:31:10 +0200",
       "excerpt": "Il club: 'Non ci sono più i presupposti per lo sviluppo del progetto sportivo'. Toto successore: Gilardino, Tudor, Zanetti i primi nomi"
-    },
-    {
-      "title": "America's Cup: Sport e Salute 'vero trionfo non è oggi, ma quello che comincia domani'",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-sport-e-salute-vero-trionfo-non-e-oggi-ma-quello-che_d4f15ee3-0b57-49b7-8ffd-081ebcebba5d.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 18:57:47 +0200",
-      "excerpt": "Oltre 250mila persone nel Race Village. Mezzaroma e Nepi: \"Napoli ha vinto la sfida'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

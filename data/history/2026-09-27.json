@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Il CEO di Anthropic, Amodei, incontrerà Trump prima del summit sull’IA",
+        "link": "https://it.investing.com/news/stock-market-news/il-ceo-di-anthropic-amodei-incontrera-trump-prima-del-summit-sullia-3563822",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-27 19:17:33",
+        "excerpt": ""
+      },
+      {
         "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ip-segue-eni-sui-prezzi-dei-carburanti.-meloni-assicura-un-sostegno-alle_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
         "source": "ANSA Economia",
@@ -415,13 +422,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Sat, 26 Sep 2026 14:39:45 +0200",
         "excerpt": "Ad anticipare la novità è Assoutenti. Il costo per i pendolari scende di 80 euro, mentre il posto sul treno costerà 2 euro"
-      },
-      {
-        "title": "Tempi della giustizia civile e Pnrr: riduzione permanente o effetti del “rush finale”?",
-        "link": "https://www.repubblica.it/economia/2026/09/26/news/tempi_della_giustizia_civile_e_pnrr_riduzione_permanente_o_effetti_del_rush_finale-425608983/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 26 Sep 2026 13:04:03 +0200",
-        "excerpt": "L’obiettivo di riduzione della durata dei processi civili è stato ampiamente raggiunto. Questi risultati sono però stati raggiunti anche attraverso una accelerazione delle cause definite nel primo semestre del 2026. Rest"
       }
     ],
     "europa": [
@@ -688,6 +688,20 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Media, Netanyahu negli Emirati oggi per incontro con bin Zayed",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/media-netanyahu-negli-emirati-oggi-per-incontro-con-bin-zayed_ed215a04-5926-4eef-a4a8-6e2c10bc27ae.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 21:24:37 +0200",
+        "excerpt": "Secondo Channel 12 il premier israeliano è rientrato in Israele"
+      },
+      {
+        "title": "Axios, 'Trump terrà cena privata alla Casa Bianca con il ceo di Anthropic'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/axios-trump-terra-cena-privata-alla-casa-bianca-con-il-ceo_9adb3afa-0c81-43d2-852e-ef33b0a00e5b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 21:24:33 +0200",
+        "excerpt": "L'incontro avverrà nel contesto del confronto tra il colosso dell'IA e l'amministrazione"
+      },
       {
         "title": "Il presidente serbo Vucic si dimette per candidarsi alle elezioni anticipate",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/il-presidente-serbo-vucic-si-dimette-per-candidarsi-alle-elezioni-anticipate_e872079a-6af1-4fec-a46b-288f46f8714a.html",
@@ -1093,24 +1107,17 @@
         "source": "ANSA Mondo",
         "pubDate": "Sat, 26 Sep 2026 18:13:12 +0200",
         "excerpt": "'Usa hanno distrutto architettura di sicurezza europea. Occidente vuole sconfitta Russia'"
-      },
-      {
-        "title": "Lavrov, 'a Kiev regime russofobo, Europa ostacola i negoziati di pace'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/26/lavrov-a-kiev-regime-russofobo-europa-ostacola-i-negoziati-di-pace_18fd37d3-0cde-4532-b255-47db6606a824.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sat, 26 Sep 2026 18:13:12 +0200",
-        "excerpt": "'Usa hanno distrutto architettura di sicurezza europea. Occidente vuole sconfitta Russia'"
-      },
-      {
-        "title": "Usa, l’ultima mossa di Mamdani: regala 70mila biglietti per l’opera ai newyorkesi",
-        "link": "https://www.repubblica.it/esteri/2026/09/26/news/usa_sindaco_mamdani_regala_70mila_biglietti_opera_ai_newyorkesi-425609429/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sat, 26 Sep 2026 17:54:13 +0200",
-        "excerpt": "I biglietti invenduti del Met saranno distribuiti ai residenti con una lotteria. Il direttore della Philarmonic: “Meraviglioso”"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Aggredisce una donna e investe due persone a Reggio Emilia, arrestato ",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/aggredisce-una-donna-e-investe-due-persone-a-reggio-emilia-arrestato_eae1d70a-f8b9-4cb6-a57f-243f9791ab74.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 21:10:02 +0200",
+      "excerpt": "Follia in serata a un distributore di benzina, tre feriti gravi in ospedale"
+    },
     {
       "title": "++ Aggredisce donna e investe due persone a Reggio Emilia, arrestato ++",
       "link": "https://www.ansa.it/sito/notizie/flash/2026/09/27/-aggredisce-donna-e-investe-due-persone-a-reggio-emilia-arrestato-_860d79d4-194c-45b4-af86-4841b04f42fa.html",
@@ -1523,16 +1530,16 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 23:00:00 +0000",
       "excerpt": "A Prato con Guerini e Delrio la riunione della corrente che scalda i motori in vista delle consultazioni: “Ma siano aperte e senza voto online”. Su antisemitismo e Kiev: nessun prendere o lasciare"
-    },
-    {
-      "title": "Ruffini: “Lista unica al centro: primarie aperte, io mi candido”",
-      "link": "https://www.repubblica.it/politica/2026/09/27/news/ruffini_lista_unica_centro_primarie_aperte_mi_candido_intervista-425609978/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 23:00:00 +0000",
-      "excerpt": "L’ex direttore dell’Agenzia delle Entrate il 10 ottobre tiene a battesimo “Più uno”, il suo partito: “Bisogna allargare il consenso”"
     }
   ],
   "sport": [
+    {
+      "title": "America's Cup: foto di famiglia per Luna Rossa sul pontone del Race Village",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-foto-di-famiglia-per-luna-rossa-sul-pontone-del_27e9677c-6b45-43e0-a153-42adb96ab1de.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 21:15:47 +0200",
+      "excerpt": "La festa continua sull'installazione di Sport e Salute. Sul palco cantano i The Kolors"
+    },
     {
       "title": "America's Cup: la gioia di Sirena 'ok i nuovi equipaggi, abbiamo gruppo di talento'",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-la-gioia-di-sirena-ok-i-nuovi-equipaggi-abbiamo-gruppo-di-talento_335723fe-f397-41c8-8beb-0a554c31a493.html",
