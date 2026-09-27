@@ -1,20 +1,41 @@
 {
-  "lastUpdated": "2026-09-27T15:38:15.038Z",
+  "lastUpdated": "2026-09-27T16:08:08.650Z",
   "finanza": {
     "italia": [
       {
-        "title": "Limiti ai prezzi dei carburanti anche sulla rete Ip. 'Saranno applicati progressivamente'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno-applicati_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sun, 27 Sep 2026 17:35:25 +0200",
-        "excerpt": "L'annuncio di Socar: 'Rafforziamo l'impegno nei confronti dell'Italia'. Da domani lo sconto di Eni"
+        "title": "Dove, quando e perché: tutto quello che c’è da sapere sullo sconto al distributore",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/carburante_tetto_prezzi_ip_eni_sconti-425611013/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 17:59:32 +0200",
+        "excerpt": "Eni fissa la benzina al massimo a 1,99 euro al litro e il gasolio a 2,19. Insieme a Ip, le due compagnie gestiscono più di un terzo dei distributori italiani"
       },
       {
         "title": "Caro-carburanti, sindacati taxi pronti a sciopero, governo ci risponda",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/caro-carburanti-sindacati-taxi-pronti-a-sciopero-governo-ci-risponda_66be07f7-a72f-4961-914a-203da10f6474.html",
         "source": "ANSA Economia",
-        "pubDate": "Sun, 27 Sep 2026 17:27:05 +0200",
+        "pubDate": "Sun, 27 Sep 2026 17:55:32 +0200",
         "excerpt": "Unica Cgil e Uiltrasporti, senza interventi inevitabile il fermo del servizio"
+      },
+      {
+        "title": "Socar applicherà limiti ai prezzi carburanti sulla rete italiana Ip",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/socar-applichera-limiti-ai-prezzi-carburanti-sulla-rete-italiana-ip_c804396f-a915-491f-9dee-7d2a1b2aaa54.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 27 Sep 2026 17:48:59 +0200",
+        "excerpt": "'La decisione per rafforzare l'impegno nei confronti dell'Italia'"
+      },
+      {
+        "title": "Da domani limiti ai prezzi dei carburanti anche sulla rete Ip. 'Saranno applicati progressivamente'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/da-domani-limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 27 Sep 2026 17:43:19 +0200",
+        "excerpt": "L'annuncio di Socar: 'Rafforziamo l'impegno nei confronti dell'Italia'. Scatta anche lo sconto di Eni"
+      },
+      {
+        "title": "Carburanti, lo sconto dell'Eni fa scattare i risparmi: 9,35 euro in meno per un pieno di diesel",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/carburanti-lo-sconto-delleni-fa-scattare-i-risparmi-935-euro-in-meno-per-un-pieno_419c4393-d4c6-4595-b2e6-6f8a4455158e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 27 Sep 2026 17:39:06 +0200",
+        "excerpt": "Per le auto a benzina -8,45 euro. La Cgia: 'Ma per il gasolio +27% da pre-guerra'"
       },
       {
         "title": "Ip fissa un tetto ai prezzi del carburante. Parte l’effetto traino dopo la mossa di Eni",
@@ -157,25 +178,11 @@
         "excerpt": ""
       },
       {
-        "title": "730 ultima chiamata: le scadenze per rimediare agli errori",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/27/news/730_ultima_chiamata_scadenze_rimediare_errori-425609574/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 03:00:00 +0200",
-        "excerpt": "Si può ricorrere al 730 integrativo, entro il 26 ottobre, se si sono dimenticate alcune spese e le tasse scendono. Come fermare i maxi-acconti"
-      },
-      {
         "title": "Boeing scopre un bug software nel 737 MAX che può influire sulla navigazione automatica",
         "link": "https://it.investing.com/news/stock-market-news/boeing-scopre-un-bug-software-nel-737-max-che-puo-influire-sulla-navigazione-automatica-3563692",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-26 19:01:46",
         "excerpt": ""
-      },
-      {
-        "title": "Carburanti, la mossa di Eni spiazza la distribuzione. 'Il sistema rischia di saltare'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/carburanti-la-mossa-di-eni-spiazza-la-distribuzione.-il-sistema-rischia-di-saltare_b876bc6e-4049-4e35-b227-212d9d3f349b.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 26 Sep 2026 20:11:44 +0200",
-        "excerpt": "Figisc avverte anche sui gestori. Possibile problema di concorrenza sleale"
       },
       {
         "title": "Riformisti Pd in conclave, primarie larghe e con doppio turno. «Nessun compromesso sull’Ucraina»",
@@ -394,11 +401,18 @@
     ],
     "mondo": [
       {
+        "title": "Allarme base Raf, per Sky si indaga su potenziali legami arrestati con l'Iran",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-base-raf-per-sky-si-indaga-su-potenziali-legami-arrestati-con_0b95c863-e60c-451c-8384-c40b03d3c05f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 18:00:29 +0200",
+        "excerpt": ""
+      },
+      {
         "title": "Gran Bretagna, 5 arresti per esplosivi vicino base Raf usata da Usa. Trump: “Volevano fare danni”",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/gran_bretagna_allarme_esplosivi_base_raf_usata_dagli_usa_per_operazioni_in_iran_diversi_arresti-425610393/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 17:34:44 +0200",
-        "excerpt": "Oltre 80 abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford. Si sospetta un attacco terroristico sventato all’ultimo: in passato, la base era stat"
+        "pubDate": "Sun, 27 Sep 2026 17:44:57 +0200",
+        "excerpt": "Oltre 80 abitazioni sono state evacuate questa mattina nell'area di Whelford, vicino alla base aerea della Royal Air Force a Fairford. L’antiterrorismo indaga su presunti legami con l’Iran: in passato era stata dichiarat"
       },
       {
         "title": "Trump ad Axios, 'mi aspetto altri colloqui sull'Iran in settimana'",
@@ -469,13 +483,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 15:05:20 +0200",
         "excerpt": "Investigazioni ora \"condotte in coordinamento con l'antiterrorismo\""
-      },
-      {
-        "title": "Pasdaran, sequestrato un drone sottomarino Usa nello stretto di Hormuz",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/pasdaran-sequestrato-un-drone-sottomarino-usa-nello-stretto-di-hormuz_deead9a0-f6f0-4c2b-9579-9c0aad04914e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 14:47:17 +0200",
-        "excerpt": "Il dispositivo 'operava a fini di spionaggio'"
       },
       {
         "title": "Il ruolo delle donne per la libertà in Ucraina: “Non siamo solo vittime”",
@@ -565,6 +572,34 @@
   },
   "attualita": [
     {
+      "title": "Dove, quando e perché: tutto quello che c’è da sapere sullo sconto al distributore",
+      "link": "https://www.repubblica.it/economia/2026/09/27/news/carburante_tetto_prezzi_ip_eni_sconti-425611013/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 15:47:46 +0000",
+      "excerpt": "Eni fissa la benzina al massimo a 1,99 euro al litro e il gasolio a 2,19. Insieme a Ip, le due compagnie gestiscono più di un terzo dei distributori italiani"
+    },
+    {
+      "title": "Allarme esplosivi vicino a una base della Raf, 5 arrestati. Sono accusati di terrorismo",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-esplosivi-vicino-a-una-base-della-raf-5-arrestati.-sono-accusati_91d9e309-9fb5-4940-99e1-9370a923d619.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 17:46:32 +0200",
+      "excerpt": "Sono sospettati di aver pianificato un attentato. La base usata anche dagli Stati Uniti per la guerra in Iran"
+    },
+    {
+      "title": "Da domani limiti ai prezzi dei carburanti anche sulla rete Ip. 'Saranno applicati progressivamente'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/da-domani-limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 17:43:19 +0200",
+      "excerpt": "L'annuncio di Socar: 'Rafforziamo l'impegno nei confronti dell'Italia'. Scatta anche lo sconto di Eni"
+    },
+    {
+      "title": "Luna Rossa batte New Zealand e vince la regata preliminare di Napoli",
+      "link": "https://www.ansa.it/sito/notizie/sport/speciali/coppa-america-2027/2026/09/27/luna-rossa-batte-new-zealand-e-vince-la-regata-preliminare-di-napoli_feb106a9-89db-43bb-9816-acbbbe5f584a.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 17:31:58 +0200",
+      "excerpt": "L'equipaggio italiano trionfa. Come a Cagliari, i kiwi si inchinano nel match race finale"
+    },
+    {
       "title": "Pistoia: rifiuta approccio sessuale, torturata e quasi annegata nel fiume. Arrestato uomo di 38 anni",
       "link": "https://firenze.repubblica.it/cronaca/2026/09/27/news/pistoia_rifiuta_approccio_sessuale_aggredita_torturata_arrestato_uomo_38_anni-425610939/",
       "source": "Repubblica",
@@ -572,32 +607,11 @@
       "excerpt": "La situazione è degenerata all’improvviso, quando la donna si è opposta con fermezza"
     },
     {
-      "title": "Limiti ai prezzi dei carburanti anche sulla rete Ip. 'Saranno applicati progressivamente'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno-applicati_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 16:50:55 +0200",
-      "excerpt": "L'annuncio di Socar: 'Rafforziamo l'impegno nei confronti dell'Italia'. Da domani lo sconto di Eni. I tassisti minacciano lo sciopero per i rincari"
-    },
-    {
-      "title": "Luna Rossa batte New Zealand e vince la regata preliminare di Napoli",
-      "link": "https://www.ansa.it/sito/notizie/sport/speciali/coppa-america-2027/2026/09/27/luna-rossa-batte-new-zealand-e-vince-la-regata-preliminare-di-napoli_feb106a9-89db-43bb-9816-acbbbe5f584a.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 16:45:46 +0200",
-      "excerpt": "L'equipaggio italiano trionfa. Come a Cagliari, i kiwi si inchinano nel match race finale"
-    },
-    {
-      "title": "Coppa America a Napoli: trionfa Luna Rossa, New Zealand deve arrendersi",
+      "title": "Coppa America a Napoli: trionfa Luna Rossa, New Zeland deve arrendersi",
       "link": "https://napoli.repubblica.it/sport/2026/09/27/news/luna_rossa_vince_finale_america_cup_napoli-425610817/",
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 14:42:09 +0000",
-      "excerpt": "Partenza perfetta di Burling e Gradoni, che incrementano il vantaggio nella seconda parte. Il successo accolto dal boato del pubblico sul lungomare"
-    },
-    {
-      "title": "Il Papa su fine vita e aborto: 'Nessuna legge può dare la morte. Gli abusi sono una piaga'",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/09/27/il-papa-a-lourdes-oggi-lincontro-con-le-vittime-degli-abusi_5764dd52-00c0-41b4-9e1f-d03516069f0c.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 16:31:53 +0200",
-      "excerpt": "Terza giornata del viaggio in Francia, oggi a Lourdes. Oltre 150mila fedeli alla messa al Santuario, l'abbraccio con i malati"
+      "excerpt": ""
     },
     {
       "title": "Ip fissa un tetto ai prezzi del carburante. Parte l’effetto traino dopo la mossa di Eni",
@@ -607,11 +621,18 @@
       "excerpt": "Allo studio anche le modalità per estendere il meccanismo alle stazioni a marchio Esso e agli altri operatori della filiera che si riforniscono dal gruppo"
     },
     {
-      "title": "Bulega, missione compiuta: è campione del mondo Superbike",
-      "link": "https://www.repubblica.it/sport/vari/2026/09/27/news/bulega_campione_mondo_superbike-425610794/",
+      "title": "La mamma di Jacopo Trabattoni, morto sul traliccio: “Amava il parkour, nessuna sfida social”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/27/news/jacopo_trabattoni_morto_traliccio_lodi_madre-425610767/",
       "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 14:28:17 +0000",
-      "excerpt": "Al pilota Ducati basta il terzo posto in Gara-2 nel Gp d’Italia per vincere il titolo iridato e chiudere in anticipo una stagione dominata"
+      "pubDate": "Sun, 27 Sep 2026 13:58:24 +0000",
+      "excerpt": "Il 15enne è rimasto folgorato su un traliccio nel Lodigiano, la mamma Gioia Farina: “Era un ragazzo fantastico, sulla sua tragedia tanto sciacallaggio"
+    },
+    {
+      "title": "Conca d’Oro, incendio in un appartamento: trovato morto un uomo di 77 anni",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/27/news/conca_d_oro_incendio_uomo_morto_77enne-425610758/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 13:50:20 +0000",
+      "excerpt": "Le fiamme in un alloggio al secondo piano di un palazzo in via Val Cristallina. L’edificio è stato evacuato. È la seconda tragedia in 24 ore dopo la morte di Claudio Rozzi a Colli Aniene"
     },
     {
       "title": "Jovanotti, l’eterno ragazzo compie 60 anni",
@@ -628,25 +649,11 @@
       "excerpt": "L’elettorato ha respinto l’iniziativa dell’Udc per blindare nella Costituzione la neutralità della Confederazione. Un risultato che segna i limiti della mobilitazione sovranista e conferma il progressivo avvicinamento di"
     },
     {
-      "title": "Mondiali di ciclismo in diretta, si entra nel circuito: 16 uomini in testa con 7 minuti sul gruppo",
+      "title": "Mondiali di ciclismo in diretta, -150 km: 15 uomini con 5’ di vantaggio sul gruppo dei favoriti",
       "link": "https://www.repubblica.it/sport/ciclismo/2026/09/27/diretta/mondiali_ciclismo_montreal_diretta_evenepoel_ciccone-425610699/",
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 12:54:13 +0000",
       "excerpt": "La rassegna iridata di Montreal si chiude con la gara più attesa, la prova in linea maschile"
-    },
-    {
-      "title": "Leclerc, il lapsus sul motore Ferrari e la reazione dell'addetta stampa diventata virale",
-      "link": "https://www.repubblica.it/sport/formulauno/2026/09/27/news/leclerc_ferrari_aduo_2_gp_baku-425610590/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 10:55:47 +0000",
-      "excerpt": "Dopo il quarto posto a Baku, il monegasco ‘svela’ la power unit utilizzata: “Forse sto dicendo qualcosa che non dovevo dire”"
-    },
-    {
-      "title": "Pandemie, Ue e Usa non sottoscrivono dichiarazione Onu per solidarietà vaccinale. Anche l’Italia tra gli astenuti",
-      "link": "https://www.repubblica.it/esteri/2026/09/27/news/pandemie_ue_e_usa_non_sottoscrivono_dichiarazione_onu_per_solidarieta_vaccinale_anche_l_italia_tra_gli_astenuti-425610575/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 10:48:51 +0000",
-      "excerpt": "Washington, secondo il New York Times, contesta il carattere troppo “woke” del testo per i suoi riferimenti a equità e inclusività. Resta la frattura tra Paesi ricchi e mondo in via di sviluppo, già emersa durante il Cov"
     },
     {
       "title": "La Luna potrebbe essersi formata in una manciata di ore",
@@ -735,6 +742,34 @@
   ],
   "sport": [
     {
+      "title": "Nations League: Tonali, 'non abbiamo la stella, ma questa Italia e' viva'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-tonali-non-abbiamo-la-stella-ma-questa-italia-e-viva_185075f4-3630-4d23-96d6-b14dd52dae2d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 18:01:51 +0200",
+      "excerpt": "Centrocampista azzurro: 'col Belgio giocato male, cresciamo passo dopo passo'"
+    },
+    {
+      "title": "Taekwondo: oro per Dell'Aquila a Varsavia",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/taekwondo-oro-per-dellaquila-a-varsavia_7d2c3e39-d431-437c-a84a-8cb6e4639099.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 18:00:19 +0200",
+      "excerpt": "L'azzurro vince in finale il derby con Santinelli"
+    },
+    {
+      "title": "Nations League: Mancini, 'troppa agitazione, diamo tempo ai giovani'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-mancini-troppa-agitazione-diamo-tempo-ai-giovani_85d95282-0596-49dd-af85-04e290af9a0c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 17:51:18 +0200",
+      "excerpt": "Ct alla vigilia di Turchia-Italia: 'ripartiamo dal secondo tempo di Roma'"
+    },
+    {
+      "title": "Zverev batte Tien, il Team Europa vince la Laver Cup",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/27/zverev-batte-tien-il-team-europa-vince-la-laver-cup_99056bc8-d498-455e-ab8d-f8e90b03cf34.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 17:39:56 +0200",
+      "excerpt": "A Londra, decisova anche la vittoria nel doppio di Cobolli-Mensik"
+    },
+    {
       "title": "Lazio: Gattuso, andando avanti così possiamo levarci tante soddisfazioni",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/lazio-gattuso-andando-avanti-cosi-possiamo-levarci-tante-soddisfazioni_e0a33513-122a-4de1-a0ab-d3ccd8b7c160.html",
       "source": "ANSA Sport",
@@ -761,34 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 16:44:03 +0200",
       "excerpt": "L'equipaggio italiano trionfa. Come a Cagliari, i kiwi si inchinano nel match race finale"
-    },
-    {
-      "title": "America's Cup: Luna Rossa domina la classifica generale, New Zealand seconda",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-luna-rossa-domina-la-classifica-generale-new-zealand-seconda_c22a8660-0fa5-448a-b8df-dc8b2b812886.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 16:22:59 +0200",
-      "excerpt": "Chiuse le prove di flotta della regata preliminare: terzo posto per La Roche-Posay"
-    },
-    {
-      "title": "America's Cup: Luna Rossa vince anche la 2/a regata, ora il match race con New Zealand",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-luna-rossa-vince-anche-la-2a-regata-ora-il-match-race_02eb6d23-1753-4f84-99a4-8adde36238f3.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 16:20:05 +0200",
-      "excerpt": "Barca italiana chiude le prove di flotta al primo posto in classifica con 71 punti"
-    },
-    {
-      "title": "America's Cup: Luna Rossa vince la regata, finale contro New Zealand al match race",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-luna-rossa-vince-la-regata-finale-contro-new-zealand_9e273e34-da35-4a22-a9ba-03694b6f53d9.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 15:37:30 +0200",
-      "excerpt": "Italiani e kiwi alla sfida decisiva con una prova d'anticipo"
-    },
-    {
-      "title": "La Repubblica Ceca vince la Bjk Cup, battuta l'Ucraina",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/27/la-repubblica-ceca-vince-la-bjk-cup-battuta-lucraina_f693bacb-ac47-483b-bb61-cbc1e5a26093.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 15:30:31 +0200",
-      "excerpt": "Noskova e Muchova riportano il titolo a casa dopo otto anni"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

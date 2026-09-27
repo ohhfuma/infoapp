@@ -4,6 +4,34 @@
   "finanza": {
     "italia": [
       {
+        "title": "Dove, quando e perché: tutto quello che c’è da sapere sullo sconto al distributore",
+        "link": "https://www.repubblica.it/economia/2026/09/27/news/carburante_tetto_prezzi_ip_eni_sconti-425611013/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Sun, 27 Sep 2026 17:59:32 +0200",
+        "excerpt": "Eni fissa la benzina al massimo a 1,99 euro al litro e il gasolio a 2,19. Insieme a Ip, le due compagnie gestiscono più di un terzo dei distributori italiani"
+      },
+      {
+        "title": "Socar applicherà limiti ai prezzi carburanti sulla rete italiana Ip",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/socar-applichera-limiti-ai-prezzi-carburanti-sulla-rete-italiana-ip_c804396f-a915-491f-9dee-7d2a1b2aaa54.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 27 Sep 2026 17:48:59 +0200",
+        "excerpt": "'La decisione per rafforzare l'impegno nei confronti dell'Italia'"
+      },
+      {
+        "title": "Da domani limiti ai prezzi dei carburanti anche sulla rete Ip. 'Saranno applicati progressivamente'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/da-domani-limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 27 Sep 2026 17:43:19 +0200",
+        "excerpt": "L'annuncio di Socar: 'Rafforziamo l'impegno nei confronti dell'Italia'. Scatta anche lo sconto di Eni"
+      },
+      {
+        "title": "Carburanti, lo sconto dell'Eni fa scattare i risparmi: 9,35 euro in meno per un pieno di diesel",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/carburanti-lo-sconto-delleni-fa-scattare-i-risparmi-935-euro-in-meno-per-un-pieno_419c4393-d4c6-4595-b2e6-6f8a4455158e.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 27 Sep 2026 17:39:06 +0200",
+        "excerpt": "Per le auto a benzina -8,45 euro. La Cgia: 'Ma per il gasolio +27% da pre-guerra'"
+      },
+      {
         "title": "Caro-carburanti, sindacati taxi pronti a sciopero, governo ci risponda",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/caro-carburanti-sindacati-taxi-pronti-a-sciopero-governo-ci-risponda_66be07f7-a72f-4961-914a-203da10f6474.html",
         "source": "ANSA Economia",
@@ -394,34 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "Sat, 26 Sep 2026 11:03:25 +0200",
         "excerpt": "Assoutenti, costerà ai pendolari 2 euro a tratta, ma canone mensile scende di 80 euro"
-      },
-      {
-        "title": "Sconto accise si dimezza, diesel sale a 2,357 euro, in autostrada a 2,439",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/sconto-accise-si-dimezza-diesel-sale-a-2357-euro-in-autostrada-a-2439_a705299d-6958-48b5-8017-f4af8ccc9859.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 26 Sep 2026 09:36:20 +0200",
-        "excerpt": "L'aumento è inferiore a quello delle tasse"
-      },
-      {
-        "title": "Lula, 'minerali critici siano trasformati in Brasile, non solo esportati'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/lula-minerali-critici-siano-trasformati-in-brasile-non-solo-esportati_f02c7fed-9f18-4274-a432-20cd0c360e1f.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sat, 26 Sep 2026 04:11:20 +0200",
-        "excerpt": "Il presidente a imprenditori del Grupo Esfera, 'vogliamo nostra intelligenza artificiale'"
-      },
-      {
-        "title": "Prodotti “green” e “amici dell’ambiente”. Stop dichiarazioni “allegre”: stretta sul greenwashing",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/09/26/news/prodotti_green_dichiarzioni_ambiente_stretta_greenwashing-425607934/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 26 Sep 2026 04:00:00 +0200",
-        "excerpt": "Il 27 settembre entra in vigore la direttiva europea che disciplina dichiarazioni ambientali e marchi di sostenibilità. De Giorgi (A&O Shearman): “Non è un fulmine a ciel sereno, ma le aziende italiane rischiano di esser"
-      },
-      {
-        "title": "Mutui e prestiti, in Trentino le rate più pesanti: 455 euro al mese",
-        "link": "https://www.repubblica.it/economia/2026/09/26/news/mutui_prestiti_rate_classifica_regioni-425607928/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sat, 26 Sep 2026 04:00:00 +0200",
-        "excerpt": "Meno mutui e costi delle case inferiori: ecco perché Calabria, Sicilia e Sardegna presentano rate più leggeri. Trento con Rimini, Prato e Bolzano sono le città in cui servono più mesi di stipendio per estinguere il prest"
       }
     ],
     "europa": [
@@ -688,6 +688,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Allarme base Raf, per Sky si indaga su potenziali legami arrestati con l'Iran",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-base-raf-per-sky-si-indaga-su-potenziali-legami-arrestati-con_0b95c863-e60c-451c-8384-c40b03d3c05f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 18:00:29 +0200",
+        "excerpt": ""
+      },
       {
         "title": "Trump ad Axios, 'mi aspetto altri colloqui sull'Iran in settimana'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/trump-ad-axios-mi-aspetto-altri-colloqui-sulliran-in-settimana_4add53bc-1cd9-4952-a8c9-3a9ecfa2f9fc.html",
@@ -1100,17 +1107,24 @@
         "source": "Repubblica Esteri",
         "pubDate": "Sat, 26 Sep 2026 11:23:04 +0200",
         "excerpt": "Arrivato ieri in Francia per un viaggio di quattro giorni, in serata Leone si trasferisce al santuario di Lourdes. In mattinata la visita al centro per rifugiati e l’incontro con i neofiti dopo il boom di battesimi adult"
-      },
-      {
-        "title": "Analysis-Talk of US export ban on diesel deepens US crude futures’ discount to global benchmark",
-        "link": "https://www.investing.com/news/commodities-news/analysistalk-of-us-export-ban-on-diesel-deepens-us-crude-futures-discount-to-global-benchmark-4917077",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-25 22:55:31",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Dove, quando e perché: tutto quello che c’è da sapere sullo sconto al distributore",
+      "link": "https://www.repubblica.it/economia/2026/09/27/news/carburante_tetto_prezzi_ip_eni_sconti-425611013/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 15:47:46 +0000",
+      "excerpt": "Eni fissa la benzina al massimo a 1,99 euro al litro e il gasolio a 2,19. Insieme a Ip, le due compagnie gestiscono più di un terzo dei distributori italiani"
+    },
+    {
+      "title": "Da domani limiti ai prezzi dei carburanti anche sulla rete Ip. 'Saranno applicati progressivamente'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/da-domani-limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 17:43:19 +0200",
+      "excerpt": "L'annuncio di Socar: 'Rafforziamo l'impegno nei confronti dell'Italia'. Scatta anche lo sconto di Eni"
+    },
     {
       "title": "Pistoia: rifiuta approccio sessuale, torturata e quasi annegata nel fiume. Arrestato uomo di 38 anni",
       "link": "https://firenze.repubblica.it/cronaca/2026/09/27/news/pistoia_rifiuta_approccio_sessuale_aggredita_torturata_arrestato_uomo_38_anni-425610939/",
@@ -1173,6 +1187,13 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 13:58:24 +0000",
       "excerpt": "Il 15enne è rimasto folgorato su un traliccio nel Lodigiano, la mamma Gioia Farina: “Era un ragazzo fantastico, sulla sua tragedia tanto sciacallaggio"
+    },
+    {
+      "title": "Conca d’Oro, incendio in un appartamento: trovato morto un uomo di 77 anni",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/27/news/conca_d_oro_incendio_uomo_morto_77enne-425610758/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 13:50:20 +0000",
+      "excerpt": "Le fiamme in un alloggio al secondo piano di un palazzo in via Val Cristallina. L’edificio è stato evacuato. È la seconda tragedia in 24 ore dopo la morte di Claudio Rozzi a Colli Aniene"
     },
     {
       "title": "Jovanotti, l’eterno ragazzo compie 60 anni",
@@ -1509,30 +1530,37 @@
       "source": "Repubblica",
       "pubDate": "Sat, 26 Sep 2026 17:23:16 +0000",
       "excerpt": "Il giornalista di Repubblica, esperto di Difesa e questioni militari, si aggiudica il prestigioso riconoscimento con il libro “Il cielo sporco”, edito da Guanda"
-    },
-    {
-      "title": "Il ladro di libri è tornato a colpire, tra le vittime anche Latronico",
-      "link": "https://www.ansa.it/sito/notizie/cultura/libri/approfondimenti/2026/09/26/il-ladro-di-libri-e-tornato-a-colpire-tra-le-vittime-anche-latronico_172b4f06-2de9-4682-a56a-9552ab77dfd1.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 19:15:57 +0200",
-      "excerpt": "Il New York Times indaga sul giallo degli inediti rubati, anche Nick Hornby tra le vittime"
-    },
-    {
-      "title": "La stravaganza siciliana di Dolce e Gabbana / LA SFILATA",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/26/la-stravaganza-siciliana-di-dolce-e-gabbana-_02febc60-2764-4fff-b7c6-66ec2a78df9c.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 18:59:03 +0200",
-      "excerpt": "JLo allo show dedicato al guardaroba di famiglia tramandato per generazioni"
-    },
-    {
-      "title": "Laura Biagiotti, quando sei a Roma trascendi le mode e il momento",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/fashion_week/2026/09/26/laura-biagiotti-quando-sei-a-roma-trascendi-le-mode-e-il-momento_d49cc713-8548-40f5-bedf-e17763259b71.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 18:56:25 +0200",
-      "excerpt": "In passerella a Milano cartoline dalla città eterna, fuori rose per le signore"
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: Tonali, 'non abbiamo la stella, ma questa Italia e' viva'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-tonali-non-abbiamo-la-stella-ma-questa-italia-e-viva_185075f4-3630-4d23-96d6-b14dd52dae2d.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 18:01:51 +0200",
+      "excerpt": "Centrocampista azzurro: 'col Belgio giocato male, cresciamo passo dopo passo'"
+    },
+    {
+      "title": "Taekwondo: oro per Dell'Aquila a Varsavia",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/taekwondo-oro-per-dellaquila-a-varsavia_7d2c3e39-d431-437c-a84a-8cb6e4639099.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 18:00:19 +0200",
+      "excerpt": "L'azzurro vince in finale il derby con Santinelli"
+    },
+    {
+      "title": "Nations League: Mancini, 'troppa agitazione, diamo tempo ai giovani'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/nations-league-mancini-troppa-agitazione-diamo-tempo-ai-giovani_85d95282-0596-49dd-af85-04e290af9a0c.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 17:51:18 +0200",
+      "excerpt": "Ct alla vigilia di Turchia-Italia: 'ripartiamo dal secondo tempo di Roma'"
+    },
+    {
+      "title": "Zverev batte Tien, il Team Europa vince la Laver Cup",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/27/zverev-batte-tien-il-team-europa-vince-la-laver-cup_99056bc8-d498-455e-ab8d-f8e90b03cf34.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 17:39:56 +0200",
+      "excerpt": "A Londra, decisova anche la vittoria nel doppio di Cobolli-Mensik"
+    },
     {
       "title": "Lazio: Gattuso, andando avanti così possiamo levarci tante soddisfazioni",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/lazio-gattuso-andando-avanti-cosi-possiamo-levarci-tante-soddisfazioni_e0a33513-122a-4de1-a0ab-d3ccd8b7c160.html",
