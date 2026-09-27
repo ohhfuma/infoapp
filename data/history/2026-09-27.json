@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Limiti ai prezzi dei carburanti anche sulla rete Ip. 'Saranno applicati progressivamente'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno-applicati_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
+        "source": "ANSA Economia",
+        "pubDate": "Sun, 27 Sep 2026 16:50:55 +0200",
+        "excerpt": "L'annuncio di Socar: 'Rafforziamo l'impegno nei confronti dell'Italia'. Da domani lo sconto di Eni. I tassisti minacciano lo sciopero per i rincari"
+      },
+      {
         "title": "Ip fissa un tetto ai prezzi del carburante. Parte l’effetto traino dopo la mossa di Eni",
         "link": "https://www.repubblica.it/economia/2026/09/27/news/ip_fissa_tetto_prezzi_carburante_effetto_traino_eni-425610802/?rss",
         "source": "Repubblica Economia",
@@ -415,13 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-26 01:21:02",
         "excerpt": ""
-      },
-      {
-        "title": "Il co-responsabile del public finance di Morgan Stanley, Zach Solomon, passa a TD",
-        "link": "https://it.investing.com/news/stock-market-news/il-coresponsabile-del-public-finance-di-morgan-stanley-zach-solomon-passa-a-td-3563617",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-26 00:43:33",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -688,6 +688,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Trump, 'prezzo petrolio crollerà a guerra finita, più basso ora che con Biden'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/trump-prezzo-petrolio-crollera-a-guerra-finita-piu-basso-ora-che_1bb7a914-b16b-4672-b410-4ca4bc8721b6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Sun, 27 Sep 2026 16:52:20 +0200",
+        "excerpt": "'Abbiamo i migliori dati sull'occupazione e c'è la povertà più bassa di sempre'"
+      },
       {
         "title": "Il governo di Delcy Rodríguez rilascia altri 40 prigionieri politici in Venezuela",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/27/il-governo-di-delcy-rodriguez-rilascia-altri-40-prigionieri-politici-in-venezuela_9749f218-b9b6-4cb1-a767-e31ffbee769b.html",
@@ -1098,6 +1105,27 @@
   },
   "attualita": [
     {
+      "title": "Limiti ai prezzi dei carburanti anche sulla rete Ip. 'Saranno applicati progressivamente'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/limiti-ai-prezzi-dei-carburanti-anche-sulla-rete-ip.-saranno-applicati_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 16:50:55 +0200",
+      "excerpt": "L'annuncio di Socar: 'Rafforziamo l'impegno nei confronti dell'Italia'. Da domani lo sconto di Eni. I tassisti minacciano lo sciopero per i rincari"
+    },
+    {
+      "title": "Luna Rossa batte New Zealand e vince la regata preliminare di Napoli",
+      "link": "https://www.ansa.it/sito/notizie/sport/speciali/coppa-america-2027/2026/09/27/luna-rossa-batte-new-zealand-e-vince-la-regata-preliminare-di-napoli_feb106a9-89db-43bb-9816-acbbbe5f584a.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 16:45:46 +0200",
+      "excerpt": "L'equipaggio italiano trionfa. Come a Cagliari, i kiwi si inchinano nel match race finale"
+    },
+    {
+      "title": "Coppa America a Napoli: trionfa Luna Rossa, New Zeland deve arrendersi",
+      "link": "https://napoli.repubblica.it/sport/2026/09/27/news/luna_rossa_vince_finale_america_cup_napoli-425610817/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 14:42:09 +0000",
+      "excerpt": ""
+    },
+    {
       "title": "++ Socar applicherà limiti ai prezzi carburanti sulla rete italiana Ip ++",
       "link": "https://www.ansa.it/sito/notizie/flash/2026/09/27/-socar-applichera-limiti-ai-prezzi-carburanti-sulla-rete-italiana-ip-_1c915728-4ae4-4dd9-b4a3-812fbf2c8a63.html",
       "source": "ANSA",
@@ -1110,6 +1138,13 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 14:29:51 +0000",
       "excerpt": "Allo studio anche le modalità per estendere il meccanismo alle stazioni a marchio Esso e agli altri operatori della filiera che si riforniscono da Ip"
+    },
+    {
+      "title": "Bulega, missione compiuta: è campione del mondo Superbike",
+      "link": "https://www.repubblica.it/sport/vari/2026/09/27/news/bulega_campione_mondo_superbike-425610794/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 14:28:17 +0000",
+      "excerpt": "Al pilota Ducati basta il terzo posto in Gara-2 nel Gp d’Italia per vincere il titolo iridato e chiudere in anticipo una stagione dominata"
     },
     {
       "title": "Allarme esplosivi vicino a una base della Raf, 5 arrestati. Sono accusati di terrorismo",
@@ -1488,37 +1523,30 @@
       "source": "ANSA",
       "pubDate": "Sat, 26 Sep 2026 18:37:49 +0200",
       "excerpt": "È la collezione Women's Spring/Summer 2027"
-    },
-    {
-      "title": "Fialdini, a 'Da noi… a ruota libera' novità senza stravolgere l'identità",
-      "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/09/26/fialdini-a-da-noi-a-ruota-libera-novita-senza-stravolgere-lidentita_23a04dc1-50f5-4915-ab49-0806a2bb4b4b.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 18:07:48 +0200",
-      "excerpt": "Sul ritorno a Ballando: \"Non escludo nulla, ma deve esserci un'idea\""
-    },
-    {
-      "title": "Madonna, Taylor Swift e soliti imprevisti per gli Mtv Awards a Los Angeles",
-      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/26/madonna-taylor-swift-e-soliti-imprevisti-per-gli-mtv-awards-a-los_9410ba54-088b-4363-91f4-16ba71da2f28.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 18:05:13 +0200",
-      "excerpt": "Domenica i Video Music Awards tornano sulla costa Ovest, presenta Snoop Dogg"
-    },
-    {
-      "title": "El Niño ospite indesiderato degli chef, i ristoranti si scoprono vulnerabili ",
-      "link": "https://www.ansa.it/canale_terraegusto/notizie/in_breve/2026/09/26/el-nino-ospite-indesiderato-degli-chef-i-ristoranti-si-scoprono-vulnerabili_1edc08d9-e741-4892-8ae1-41440db3093d.html",
-      "source": "ANSA",
-      "pubDate": "Sat, 26 Sep 2026 18:02:35 +0200",
-      "excerpt": "Da eventi meteo estremi impatto sulla disponibilità, qualità e prezzo degli ingredienti"
-    },
-    {
-      "title": "Addio a Luca Turi, il fotografo della Vlora: “Il suo obiettivo ha attraversato decenni di storia”",
-      "link": "https://bari.repubblica.it/cronaca/2026/09/26/news/e_morto_luca_turi_fotografo_vlora_bari_agenzia-425609432/",
-      "source": "Repubblica",
-      "pubDate": "Sat, 26 Sep 2026 15:58:36 +0000",
-      "excerpt": "Con la sua agenzia fotografica ha documento i grandi eventi di Bari e della Puglia ma anche i grandi rivolgimenti e poi la rinascita dei Paesi dei Balcani. Aveva 82 anni"
     }
   ],
   "sport": [
+    {
+      "title": "Carlos Cuesta non è più l'allenatore del Parma",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/carlos-cuesta-non-e-piu-lallenatore-del-parma_f92b680e-9858-41a6-99be-86355f643046.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 17:03:49 +0200",
+      "excerpt": "Il club, 'non ci sono più i presupposti per sviluppo progetto sportivo'"
+    },
+    {
+      "title": "Lazio: 2-0 all'Arezzo 2-0 in amichevole, a segno Pinamonti e Diogo Leite",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/27/lazio-2-0-allarezzo-2-0-in-amichevole-a-segno-pinamonti-e-diogo-leite_92fa152c-21eb-4080-b042-6e69da6140ee.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 16:56:08 +0200",
+      "excerpt": "A Formello la squadra di Gattuso ha la meglio sui toscani, allenati da Cristian Bucchi"
+    },
+    {
+      "title": "Luna Rossa batte New Zealand e vince la regata preliminare di Napoli",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/luna-rossa-batte-new-zealand-e-vince-la-regata-preliminare-di-napoli_fd830f2e-1ca2-4a63-b6b5-379272e8524b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Sun, 27 Sep 2026 16:44:03 +0200",
+      "excerpt": "L'equipaggio italiano trionfa. Come a Cagliari, i kiwi si inchinano nel match race finale"
+    },
     {
       "title": "America's Cup: Luna Rossa domina la classifica generale, New Zealand seconda",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-luna-rossa-domina-la-classifica-generale-new-zealand-seconda_c22a8660-0fa5-448a-b8df-dc8b2b812886.html",
