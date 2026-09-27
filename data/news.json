@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T18:09:18.591Z",
+  "lastUpdated": "2026-09-27T18:41:12.583Z",
   "finanza": {
     "italia": [
       {
@@ -164,7 +164,7 @@
         "excerpt": "La prima Corte d’Assise di Roma decide sul processo per il sequestro, le torture e l’omicidio del giovane ricercatore friulano. La procura ha chiesto il carcere a vita per Magdi Ibrahim Adelal Sharif e 17 anni e mezzo pe"
       },
       {
-        "title": "Suppletive in Calabria: affluenza in picchiata, alle urne alle 12 di domenica solo il 3,43%",
+        "title": "Suppletive in Calabria, l’affluenza resta molto bassa: alle urne alle 19 solo il 10,26%",
         "link": "https://www.ilsole24ore.com/art/suppletive-calabria-seggi-aperti-vannacci-sfida-forza-italia-bufera-foto-siracusano-AJsxqfQB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 27 Sep 2026 07:52:00 GMT",
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 20:37:52 +0200",
+        "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo suo partito di destra"
+      },
+      {
+        "title": "Il Papa a Lourdes tra i malati. E riceve le vittime degli abusi dei preti: “Piaga dolorosa”",
+        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Sun, 27 Sep 2026 20:34:12 +0200",
+        "excerpt": "“Il mio impegno perché questo male non si ripeta”. Ai vescovi francesi: “Essenziale mantenere la massima vigilanza”. Il caso dei mosaici coperti di Rupnik. E Leone torna a parlare del fine vita: “E’ impossibile considera"
+      },
+      {
         "title": "A Madrid tornano gli 'indignados', lotta contro gli sfratti ",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/a-madrid-tornano-gli-indignados-lotta-contro-gli-sfratti-_91293b9c-2dae-4b6c-a653-859e5c91dbbf.html",
         "source": "ANSA Mondo",
@@ -478,13 +492,6 @@
         "excerpt": "L’elettorato ha respinto l’iniziativa dell’Udc per blindare nella Costituzione la neutralità della Confederazione. Un risultato che segna i limiti della mobilitazione sovranista e conferma il progressivo avvicinamento di"
       },
       {
-        "title": "Il Papa a Lourdes tra i malati. E oggi riceve le vittime degli abusi dei preti: “Piaga dolorosa”",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/papa_a_lourdes_tra_i_malati_vittime_degli_abusi_dei_preti-425610422/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 16:29:43 +0200",
-        "excerpt": "Leone nel santuario mariano incontra i vescovi francesi: “Essenziale mantenere la massima vigilanza”. L’incontro con sette sopravvissuti e il caso dei mosaici coperti di Rupnik. E torna a parlare del fine vita: “E’ impos"
-      },
-      {
         "title": "Irlanda del Nord, tensione altissima: catene umane di cattolici contro una marcia protestante",
         "link": "https://www.repubblica.it/esteri/2026/09/27/news/irlanda_del_nord_tensione_altissima_catene_umane_di_cattolici_contro_una_marcia_protestante-425610181/?rss",
         "source": "Repubblica Esteri",
@@ -511,13 +518,6 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-27 09:42:27",
         "excerpt": ""
-      },
-      {
-        "title": "La tirannia dell’essere ottimi: che effetti produce vivere secondo le aspettative degli altri",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/09/27/news/ottimizzazione_ossessione_essere_noi_stessi_continental_breakfast-425602884/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 06:00:00 +0200",
-        "excerpt": "La psicologa Franca Cerutti spiega al quotidiano tedesco Welt quante menzogne ci raccontiamo che ci impediscono una vita piena: “Aspettiamo il gong che dia il via ai nostri veri noi. E invece dovremmo ascoltare la nostra"
       },
       {
         "title": "Nor’easter brings flooding, power outages across US Northeast, over 400 flights canceled",
@@ -572,18 +572,18 @@
   },
   "attualita": [
     {
+      "title": "Picchiata, torturata e quasi annegata, arrestato un 38enne",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/picchiata-torturata-e-quasi-annegata-arrestato-un-38enne_643b5a66-5c1e-48eb-937b-c01309788196.html",
+      "source": "ANSA",
+      "pubDate": "Sun, 27 Sep 2026 20:04:51 +0200",
+      "excerpt": "E' successo a Pescia (Pistoia). La passeggiata si trasforma in un incubo. Salvata da un passante"
+    },
+    {
       "title": "L'allarme sull'IA: 'Sono decine di migliaia gli incidenti'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_c3aef7f9-3ae8-43b9-a6e9-df5f262707e9.html",
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 19:47:36 +0200",
       "excerpt": "OpenAi e Anthropic indagano su molti più casi"
-    },
-    {
-      "title": "Picchiata, torturata e quasi annegata, arrestato un 38enne",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/picchiata-torturata-e-quasi-annegata-arrestato-un-38enne_643b5a66-5c1e-48eb-937b-c01309788196.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 19:46:54 +0200",
-      "excerpt": "E' successo a Pescia (Pistoia). La passeggiata si trasforma in un incubo. Salvata da un passante"
     },
     {
       "title": "Allarme terrorismo in una base Raf usata da bombardieri Usa contro l'Iran ",
