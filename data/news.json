@@ -1,27 +1,97 @@
 {
-  "lastUpdated": "2026-09-28T08:10:43.374Z",
+  "lastUpdated": "2026-09-28T08:41:27.483Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Carburanti, scatta il tetto nei distributori Eni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/carburanti-scatta-il-tetto-nei-distributori-eni_acc62c40-30c5-43ee-b52a-9061d52e8aaf.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 10:32:00 +0200",
+        "excerpt": "Prezzo non ancora ridotto nelle stazioni Ip"
+      },
+      {
+        "title": "Perché il titolo Capricorn Energy sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-capricorn-energy-sta-scendendo-oggi-93CH-3564149",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 08:29:50",
+        "excerpt": ""
+      },
+      {
+        "title": "I costruttori di case britannici volano grazie al nuovo piano per ridurre i depositi",
+        "link": "https://it.investing.com/news/stock-market-news/i-costruttori-di-case-britannici-volano-grazie-al-nuovo-piano-per-ridurre-i-depositi-3564143",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 08:26:08",
+        "excerpt": ""
+      },
+      {
+        "title": "Comitato autotrasportatori siciliani, fermi dal 16 al 20 ottobre",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/comitato-autotrasportatori-siciliani-fermi-dal-16-al-20-ottobre_10f9387e-7e09-4d57-967d-2afd3be02491.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 10:20:36 +0200",
+        "excerpt": "Bella: 'Nessun riscontro dal governo, nessuna movimentazione nei porti'"
+      },
+      {
+        "title": "Suedzucker alza le previsioni di ricavi grazie alla domanda di biocarburanti",
+        "link": "https://it.investing.com/news/stock-market-news/suedzucker-alza-le-previsioni-di-ricavi-grazie-alla-domanda-di-biocarburanti-93CH-3564119",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 08:15:36",
+        "excerpt": ""
+      },
+      {
+        "title": "Il titolo di Capricorn Energy crolla dopo che DNO rifiuta di aumentare l’offerta",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-capricorn-energy-crolla-dopo-che-dno-rifiuta-di-aumentare-lofferta-93CH-3564118",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 08:13:53",
+        "excerpt": ""
+      },
+      {
+        "title": "Mimit, prezzi carburanti in calo, benzina self a 2,152 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/mimit-prezzi-carburanti-in-calo-benzina-self-a-2152-euro_909a05a0-6b53-44a4-ba89-e28adaace76f.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 10:13:47 +0200",
+        "excerpt": "Prezzo gasolio scende a 2,369 euro"
+      },
+      {
+        "title": "Cina e Usa concordano tagli dazi reciproci su 60 mld $ di merci",
+        "link": "https://it.investing.com/news/stock-market-news/cina-e-usa-concordano-tagli-dazi-reciproci-su-60-mld--di-merci-3564114",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 08:09:44",
+        "excerpt": ""
+      },
+      {
+        "title": "Borsa Milano, Tim in calo dopo che Poste non ha raggiunto quota per delisting",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-tim-in-calo-dopo-che-poste-non-ha-raggiunto-quota-per-delisting-3564113",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 08:09:21",
+        "excerpt": ""
+      },
+      {
+        "title": "Tribunale kazako boccia ricorso operatore petrolifero Kashagan su multa da 5 mld",
+        "link": "https://it.investing.com/news/stock-market-news/tribunale-kazako-boccia-ricorso-operatore-petrolifero-kashagan-su-multa-da-5mld-3564111",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 08:08:33",
+        "excerpt": ""
+      },
+      {
+        "title": "Eni sale in borsa nel primo giorno di tetto sui prezzi dei carburanti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/eni-sale-in-borsa-nel-primo-giorno-di-tetto-sui-prezzi-dei_aee81c62-631d-4fa5-b177-93035c7d5fac.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 10:06:38 +0200",
+        "excerpt": "Il titolo guadagna l'1,5%. Salgono il greggio e il gas naturale"
+      },
+      {
+        "title": "Perché il titolo Better Collective crolla oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-better-collective-crolla-oggi-93CH-3564102",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 08:04:25",
+        "excerpt": ""
+      },
       {
         "title": "Borsa: Milano apre in rialzo, +0,09%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-milano-apre-in-rialzo-009_1caf91cc-9122-4474-b43b-11f30c8dabcc.html",
         "source": "ANSA Economia",
         "pubDate": "Mon, 28 Sep 2026 09:55:59 +0200",
         "excerpt": "Indice Ftse Mib a quota 51.913 punti. Corre Amplifon, scivola Tim"
-      },
-      {
-        "title": "Carburanti, scatta il tetto nei distributori Eni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/carburanti-scatta-il-tetto-nei-distributori-eni_acc62c40-30c5-43ee-b52a-9061d52e8aaf.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 09:49:32 +0200",
-        "excerpt": "Prezzo non ancora ridotto nelle stazioni Ip"
-      },
-      {
-        "title": "Perché il titolo Verbund sale oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-verbund-sale-oggi-93CH-3564077",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 07:43:49",
-        "excerpt": ""
       },
       {
         "title": "Dove, quando, perché e i prezzi: tutto quello che c’è da sapere sul tetto ai carburanti",
@@ -31,32 +101,11 @@
         "excerpt": "Al via da oggi lo sconto sulla rete delle 6.200 stazioni di servizio Eni e sulla metà di quelle a marchio Ip, allo studio anche la riduzione dei listini per Esso"
       },
       {
-        "title": "Azioni Verbund in rialzo del 3% dopo l’upgrade di Deutsche Bank",
-        "link": "https://it.investing.com/news/stock-market-news/azioni-verbund-in-rialzo-del-3-dopo-lupgrade-di-deutsche-bank-3564073",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 07:35:25",
-        "excerpt": ""
-      },
-      {
-        "title": "Poste Italiane non raggiunge il 90% di Tim",
-        "link": "https://it.investing.com/news/stock-market-news/poste-italiane-non-raggiunge-il-90-di-tim-3564070",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 07:35:07",
-        "excerpt": ""
-      },
-      {
         "title": "Borsa: Milano si conferma in rialzo (+0,2%), balzo di Amplifon, Stellantis e Ferrari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-milano-si-conferma-in-rialzo-02-balzo-di-amplifon-stellantis-e-ferrari_6c1356f3-8ef3-4ada-a4cb-d252ad1c75b3.html",
         "source": "ANSA Economia",
         "pubDate": "Mon, 28 Sep 2026 09:29:31 +0200",
         "excerpt": "Spread sopra 92 punti. Giù Tim, Prysmian, Technoprobe, Bper e Mediobanca"
-      },
-      {
-        "title": "Perché il titolo Tullow Oil è in calo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-tullow-oil-e-in-calo-oggi-93CH-3564058",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 07:26:08",
-        "excerpt": ""
       },
       {
         "title": "L’accordo biennale sarà in prima fila nel Codice tributario",
@@ -73,60 +122,11 @@
         "excerpt": "In rialzo anche Francoforte (+0,14%) e Madrid (+0,24%)"
       },
       {
-        "title": "FTSE 100 oggi: i titoli salgono con le speranze di diplomazia con l’Iran",
-        "link": "https://it.investing.com/news/stock-market-news/ftse-100-oggi-i-titoli-salgono-con-le-speranze-di-diplomazia-con-liran-3564052",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 07:16:37",
-        "excerpt": ""
-      },
-      {
-        "title": "Le borse europee scivolano dopo il rifiuto di Trump sulla proposta iraniana",
-        "link": "https://it.investing.com/news/stock-market-news/le-borse-europee-scivolano-dopo-il-rifiuto-di-trump-sulla-proposta-iraniana-3564048",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 07:13:09",
-        "excerpt": ""
-      },
-      {
-        "title": "Temasek acquisisce 9% di Fsi e si impegna in futuri investimenti",
-        "link": "https://it.investing.com/news/stock-market-news/temasek-acquisisce-9-di-fsi-e-si-impegna-in-futuri-investimenti-3564039",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 07:08:27",
-        "excerpt": ""
-      },
-      {
         "title": "Borsa: Asia scettica su ripresa trattative tra Usa e Iran, Tokyo -0,73%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-asia-scettica-su-ripresa-trattative-tra-usa-e-iran-tokyo-073_0aa7afcf-e30c-4d9d-944a-b9a35aae7cb2.html",
         "source": "ANSA Economia",
         "pubDate": "Mon, 28 Sep 2026 08:59:59 +0200",
         "excerpt": "Future positivi in Europa e negativi negli Usa. Attesa per Lagarde"
-      },
-      {
-        "title": "Sud Africa e Zimbabwe discutono una diga da 500 milioni di dollari",
-        "link": "https://it.investing.com/news/stock-market-news/sud-africa-e-zimbabwe-discutono-una-diga-da-500-milioni-di-dollari-93CH-3564006",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 06:59:52",
-        "excerpt": ""
-      },
-      {
-        "title": "Lo spread tra Btp e Bund tedeschi apre in rialzo a 92,3 punti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/lo-spread-tra-btp-e-bund-tedeschi-apre-in-rialzo-a-923-punti_8f5e8c1f-6760-463a-ade6-2ed7ebf110e8.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 08:36:14 +0200",
-        "excerpt": "Il rendimento annuo italiano guadagna 3,7 punti al 4,55%"
-      },
-      {
-        "title": "Amco, utile semestre sale a 11,1 milioni, crediti in gestione a 29,4 miliardi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/amco-utile-semestre-sale-a-111-milioni-crediti-in-gestione-a-294-miliardi_717ccee4-cf9f-47a5-abc6-47fab17a60b7.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 08:26:02 +0200",
-        "excerpt": "Calo del 5% ma senza intervento su Banca Progetto -12% grazie a gestione industriale"
-      },
-      {
-        "title": "Il gas sale ancora e sfiora i 73,5 euro sulla piazza Ttf di Amsterdam",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/il-gas-sale-ancora-e-sfiora-i-735-euro-sulla-piazza-ttf-di-amsterdam_cdacfc60-80f0-417e-9189-0c19ed2447f7.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 08:12:08 +0200",
-        "excerpt": "Pesano le manutenzioni negli impianti in Norvegia, future su ottobre +1.95%"
       },
       {
         "title": "Frumento&riso",
@@ -178,7 +178,7 @@
         "excerpt": "Per arrivare a 223 miliardi di euro in contanti è bastato un anno. È il valore dei soli versamenti censiti nel 2025 dall’Unità di informazione finanziaria (Uif) della Banca d’Italia:..."
       },
       {
-        "title": "Caro carburante, dopo Eni anche Ip fa scattare gli sconti. Ecco quanto si può risparmiare",
+        "title": "Caro carburante, Eni sale in Borsa e anche Ip fa scattare gli sconti. Ecco quanto si può risparmiare",
         "link": "https://www.ilsole24ore.com/art/caro-carburante-eni-anche-ip-fa-scattare-sconti-ecco-quanto-si-puo-risparmiare-AJBhWzQB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Mon, 28 Sep 2026 05:21:00 GMT",
@@ -236,7 +236,7 @@
         "excerpt": "Fissata una cena privata alla Casa Bianca dopo gli scontri tra il colosso di AI e il Pentagono per l’uso militare dei modelli di Claude"
       },
       {
-        "title": "Nuove accuse a Netanyahu, 007 egiziani avvertirono più volte di un possibile 7 ottobre",
+        "title": "L’Iran smentisce Trump: no nuovi negoziati. 007 egiziani: avvertimmo Netanyahu del 7 ottobre",
         "link": "https://www.ilsole24ore.com/art/nuove-accuse-netanyahu-007-egiziani-avvertirono-piu-volte-un-possibile-7-ottobre-AJPUNFRB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Mon, 28 Sep 2026 05:27:00 GMT",
@@ -401,6 +401,27 @@
     ],
     "mondo": [
       {
+        "title": "“La Germania odiava tutti i semiti, non solo gli ebrei”: polemica per le parole di Francesca Albanese",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/germania_odiava_tutti_i_semiti_non_solo_ebrei_polemica_per_parole_francesca_albanese-425611788/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 10:34:48 +0200",
+        "excerpt": "Contro le dichiarazioni della relatrice speciale delle Nazioni Unite per i diritti umani nei territori palestinesi il Jerusalem Post: “Un falso storico”. La filosofa Di Cesare: “Così sminuisce il ruolo degli ebrei come v"
+      },
+      {
+        "title": "IA fuori controllo, Trump: “Non me ne preoccupo”. Bill Gates: “Potrebbe causare miliardi di morti, servono leggi”",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/ia_trump_gates_regole-425611574/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 10:24:23 +0200",
+        "excerpt": "Il presidente Usa riceve Dario Amodei alla Casa Bianca e si dice tranquillo sugli allarmi lanciati da Antrhropic e OpenAI"
+      },
+      {
+        "title": "Un astronauta straniero per la prima volta sulla stazione spaziale cinese Tiangong",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/28/un-astronauta-straniero-per-la-prima-volta-sulla-stazione-spaziale-cinese-tiangong_8aa6312a-d554-4046-9f37-5182dec3f829.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 28 Sep 2026 10:08:54 +0200",
+        "excerpt": "I due candidati sono pachistani"
+      },
+      {
         "title": "La contadina che ha dato l'allarme sulla base Raf, 'è stata pura fortuna'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/28/la-contadina-che-ha-dato-lallarme-sulla-base-raf-e-stata-pura-fortuna_100a7818-4037-47f8-b922-54d2310a1118.html",
         "source": "ANSA Mondo",
@@ -415,6 +436,13 @@
         "excerpt": "'Ripresi 5 insediamenti compreso importante nodo di rifornimenti per russi'"
       },
       {
+        "title": "China to cut tariffs on US farm goods, but list excludes soybeans",
+        "link": "https://www.investing.com/news/commodities-news/china-says-to-cut-tariffs-on-us-farm-goods-but-soybeans-excluded-4919307",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-28 08:01:12",
+        "excerpt": ""
+      },
+      {
         "title": "Leader socialdemocratici svedesi, 'non sono riuscita a formare un governo'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/28/leader-socialdemocratici-svedesi-non-sono-riuscita-a-formare-un-governo_c8150bc1-d247-434b-81a6-d99bd96c4338.html",
         "source": "ANSA Mondo",
@@ -427,13 +455,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 28 Sep 2026 09:43:38 +0200",
         "excerpt": ""
-      },
-      {
-        "title": "“La Germania odiava tutti i semiti, non solo gli ebrei”: polemica per le parole di Francesca Albanese",
-        "link": "https://www.repubblica.it/esteri/2026/09/28/news/germania_odiava_tutti_i_semiti_non_solo_ebrei_polemica_per_parole_francesca_albanese-425611788/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Mon, 28 Sep 2026 09:19:35 +0200",
-        "excerpt": "Contro le dichiarazioni della relatrice speciale delle Nazioni Unite per i diritti umani nei territori palestinesi il Jerusalem Post: “Un falso storico”. La filosofa Di Cesare: “Così sminuisce il ruolo degli ebrei come v"
       },
       {
         "title": "Natural Gas trapped in $3.081-$3.203 range: Live levels",
@@ -485,20 +506,6 @@
         "excerpt": ""
       },
       {
-        "title": "Brent rises above $107/bbl as Iran, U.S. remain at odds over Hormuz reopening",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-iran-us-remain-at-odds-over-hormuz-reopening-4919238",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-28 06:46:01",
-        "excerpt": ""
-      },
-      {
-        "title": "IA fuori controllo, Trump: “Non me ne preoccupo”. Bill Gates: “Potrebbe causare miliardi di morti, servono leggi”",
-        "link": "https://www.repubblica.it/esteri/2026/09/28/news/ia_trump_gates_regole-425611574/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Mon, 28 Sep 2026 06:48:06 +0200",
-        "excerpt": "Il presidente Usa riceve Dario Amodei alla Casa Bianca e si dice tranquillo sugli allarmi lanciati da Antrhropic e OpenAI"
-      },
-      {
         "title": "Media, '7 ottobre, 007 Egitto chiamarono Netanyahu dopo due avvisi inascoltati'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/28/media-7-ottobre-007-egitto-chiamarono-netanyahu-dopo-due-avvisi-inascoltati_dbfc74cd-6cf6-4e8a-95b5-a3696cf9a0cd.html",
         "source": "ANSA Mondo",
@@ -518,13 +525,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 28 Sep 2026 04:51:47 +0200",
         "excerpt": "'L'autoregolamentazione non basta. Necessario che Washington approvi una legge'"
-      },
-      {
-        "title": "Trump, 'l'Ai che sfugge al controllo? Non me ne preoccupo'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/28/trump-lai-che-sfugge-al-controllo-non-me-ne-preoccupo_bf5799a1-de6c-4cc1-82ed-c176ef920014.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 28 Sep 2026 03:17:10 +0200",
-        "excerpt": "'Siamo avanti alla Cina e stiamo costruendo strutture per migliaia di miliardi'"
       },
       {
         "title": "L’ultimo incubo europeo: Mosca potrebbe manipolare il voto elettronico e postale",
@@ -572,11 +572,25 @@
   },
   "attualita": [
     {
+      "title": "Protesta degli autotrasportatori siciliani, fermi dal 16 al 20 ottobre ",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/autotrasportatori-siciliani-fermi-dal-16-al-20-ottobre-_774b89eb-2c54-46c1-97bf-ea1af35d3887.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 10:30:58 +0200",
+      "excerpt": "Il Comitato: 'Non abbiamo ricevuto alcun riscontro dal governo, nessuna movimentazione nei porti'"
+    },
+    {
       "title": "Carburanti, scatta il tetto nei distributori Eni",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/carburanti-scatta-il-tetto-nei-distributori-eni_acc62c40-30c5-43ee-b52a-9061d52e8aaf.html",
       "source": "ANSA",
-      "pubDate": "Mon, 28 Sep 2026 09:49:32 +0200",
+      "pubDate": "Mon, 28 Sep 2026 10:10:49 +0200",
       "excerpt": "Prezzo non ancora ridotto nelle stazioni Ip"
+    },
+    {
+      "title": "Nations League, l’Italia già non può sbagliare: cosa si rischia con la retrocessione",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/28/news/nations_league_come_funziona_italia_rischio_retrocessione-425611915/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 07:56:35 +0000",
+      "excerpt": "La doppia sfida con la Turchia diventa decisiva per gli azzurri per evitare la discesa nella lega B"
     },
     {
       "title": "Noleggio auto usate a lungo termine: perché sempre più italiani lo scelgono",
@@ -605,13 +619,6 @@
       "source": "Repubblica",
       "pubDate": "Mon, 28 Sep 2026 07:36:14 +0000",
       "excerpt": "Il sistema scolastico sposta storicamente pochi voti, con insegnanti e studenti in maggioranza per il centrosinistra, ma oggi è il luogo di definizione di alcune delle questioni più capaci di generare consensi"
-    },
-    {
-      "title": "L'allarme di Kallas: 'Per i nostri servizi Mosca prepara nuovi atti di sabotaggio'",
-      "link": "https://www.ansa.it/europa/notizie/rubriche/voceeurodeputati/2026/09/28/lallarme-di-kallas-per-i-nostri-servizi-mosca-prepara-nuovi-atti-di-sabotaggio_75a9164e-7c68-4578-83b4-a5adfb31c42e.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 28 Sep 2026 09:26:33 +0200",
-      "excerpt": "'Rinnovo l'appello ai 27, forniscano Kiev di sistema di difesa con le loro scorte'"
     },
     {
       "title": "Il 'grande inganno' dell'IA, un manuale per capire cos'è e chi la controlla",
@@ -668,13 +675,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 23:24:35 +0000",
       "excerpt": "Puoi conoscere tutto e continuare a non sapere cosa succederà"
-    },
-    {
-      "title": "Torna la tassa invisibile. Stangata da 13 miliardi su stipendi e pensioni",
-      "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/09/28/news/tassa_invisibile_da_13_miliardi_su_stipendi_e_pensioni_fiscal_drag-425611378/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
-      "excerpt": "In questo biennio il drenaggio fiscale colpisce di nuovo i dipendenti e i pensionati. Aumentano le entrate del Tesoro alla vigilia della manovra elettorale"
     },
     {
       "title": "I mosaici di Rupnik a Lourdes, il velo per il rispetto alle vittime",
@@ -742,6 +742,20 @@
   ],
   "sport": [
     {
+      "title": "Classifica Wta, Paolini conserva il 20/o posto",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/28/classifica-wta-paolini-conserva-il-20o-posto_49861086-b1b1-4e2e-a27c-4a62dfe2ac84.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 10:33:01 +0200",
+      "excerpt": "Podio invariato: Ribakina n.1 davanti a Sabalenka e Pegula"
+    },
+    {
+      "title": "Classifica Atp: podio invariato, ma Zverev più vicino a Sinner",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/28/classifica-atp-podio-invariato-ma-zverev-piu-vicino-a-sinner_0dc097da-1de3-4b1e-b037-bdba14b26ab4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 10:11:53 +0200",
+      "excerpt": ""
+    },
+    {
       "title": "Domenicali indica la rotta alla Ferrari, \"nella tempesta barra dritta\"",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/28/domenicali-indica-la-rotta-alla-ferrari-nella-tempesta-barra-dritta_08ab84eb-215f-4511-aee9-6c46bf3e26e1.html",
       "source": "ANSA Sport",
@@ -782,20 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Sun, 27 Sep 2026 22:05:21 +0200",
       "excerpt": "Prima esperienza iridata per il 19enne azzurro, chiude 55mo"
-    },
-    {
-      "title": "America's Cup: foto di famiglia per Luna Rossa sul pontone del Race Village",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-foto-di-famiglia-per-luna-rossa-sul-pontone-del_27e9677c-6b45-43e0-a153-42adb96ab1de.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 21:15:47 +0200",
-      "excerpt": "La festa continua sull'installazione di Sport e Salute. Sul palco cantano i The Kolors"
-    },
-    {
-      "title": "America's Cup: la gioia di Sirena 'ok i nuovi equipaggi, abbiamo gruppo di talento'",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/27/americas-cup-la-gioia-di-sirena-ok-i-nuovi-equipaggi-abbiamo-gruppo-di-talento_335723fe-f397-41c8-8beb-0a554c31a493.html",
-      "source": "ANSA Sport",
-      "pubDate": "Sun, 27 Sep 2026 20:48:59 +0200",
-      "excerpt": "L'ad di Luna Rossa dopo la preregata: 'Tifo napoletani ci ha regalato qualche nodo in più'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
