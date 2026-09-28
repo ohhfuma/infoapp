@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T01:08:12.208Z",
+  "lastUpdated": "2026-09-28T01:39:28.448Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Trump, 'l'Ai che sfugge al controllo? Non me ne preoccupo'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/28/trump-lai-che-sfugge-al-controllo-non-me-ne-preoccupo_bf5799a1-de6c-4cc1-82ed-c176ef920014.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 28 Sep 2026 03:17:10 +0200",
+        "excerpt": "'Siamo avanti alla Cina e stiamo costruendo strutture per migliaia di miliardi'"
+      },
+      {
         "title": "Borsa: Tokyo, apertura in rialzo (+0,29%)",
         "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/28/borsa-tokyo-apertura-in-rialzo-029_8565c990-0f34-4d90-a35e-1c5518f87bb9.html",
         "source": "ANSA Mondo",
@@ -527,13 +534,6 @@
         "excerpt": "In 500 accampati alla Puerta del Sol nel nome di Maricarmen, l'anziana simbolo della protesta"
       },
       {
-        "title": "La Svizzera dice no al referendum sulla neutralità, salve le sanzioni Ue ",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/la-svizzera-dice-no-al-referendum-sulla-neutralita-salve-le-sanzioni-ue_7c894446-31aa-4d59-b589-bf82a5104497.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 19:20:52 +0200",
-        "excerpt": "La proposta, ben vista da Mosca, irrigidiva la posizione internazionale di Berna"
-      },
-      {
         "title": "Iran’s army voices readiness for potential renewed US attack",
         "link": "https://www.investing.com/news/commodities-news/irans-army-voices-readiness-for-potential-renewed-us-attack-4918902",
         "source": "Investing.com Commodities",
@@ -571,6 +571,27 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Trump: 'L'Ia fuori controllo? Non sono preoccupato'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/axios-trump-terra-cena-privata-alla-casa-bianca-con-il-ceo_aca63136-c974-4a3f-8c66-63ee65195ce2.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 03:36:26 +0200",
+      "excerpt": "Axios: 'Il presidente a cena privata alla Casa Bianca con il ceo di Anthropic'"
+    },
+    {
+      "title": "Torino, il killer accusa la prof: “Droga e orrore, lei la regista”",
+      "link": "https://torino.repubblica.it/cronaca/2026/09/28/news/omicidio_pusher_professoressa_torino_droga-425611540/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 01:23:58 +0000",
+      "excerpt": "Il 26enne assassino del pusher: “Ci manovrava. Ha studiato come disfarsi del corpo, voleva tornare alla sua vita normale”"
+    },
+    {
+      "title": "Folgorato sul traliccio: il mistero dell’ultimo selfie e del cellulare scomparso",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/28/news/folgorato_traliccio_lodi_mistero_selfie_cellulare_scomparso-425611391/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 23:00:14 +0000",
+      "excerpt": "Caccia alle chat del quindicenne morto a Lodi. La madre: “Nessuna sfida social”. Ma gli inquirenti non smentiscono la pista"
+    },
     {
       "title": "Torna la tassa invisibile. Stangata da 13 miliardi su stipendi e pensioni",
       "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/09/28/news/tassa_invisibile_da_13_miliardi_su_stipendi_e_pensioni_fiscal_drag-425611378/",
@@ -614,27 +635,6 @@
       "excerpt": "Roma dovrà chiedere al Cairo di eseguirla. E di pagare anche i danni. Aprendo una falla nei rapporti “ricuciti”"
     },
     {
-      "title": "Quando Giulio scriveva nel diario: “Studiare i sindacati è un rischio”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/28/news/quando_giulio_scriveva_nel_diario_studiare_i_sindacati_e_un_rischio-425611500/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
-      "excerpt": "Accusato di essere uno sprovveduto o una spia, i suoi scritti prima di partire per il Cairo testimoniano il contrario"
-    },
-    {
-      "title": "François Hollande: “Attenti, Le Pen vuole smantellare l’Europa. Uniamoci per batterla”",
-      "link": "https://www.repubblica.it/esteri/2026/09/28/news/intervista_francois_hollande_presidenziali_francia_le_pen_europa_unire-425611338/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
-      "excerpt": "Intervista all’ex presidente francese che non esclude una nuova discesa in campo: “Potrei decidere di farlo, ma solo in circostanze eccezionali”"
-    },
-    {
-      "title": "Il Papa alle vittime di abusi: 'Il mio impegno perché non si ripeta'",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/09/27/il-papa-alle-vittime-di-abusi-il-mio-impegno-perche-non-si-ripeta_5764dd52-00c0-41b4-9e1f-d03516069f0c.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 28 Sep 2026 00:11:34 +0200",
-      "excerpt": "A Lourdes, dove sono stati coperti i mosaici di Rupnik, l'incontro con sette persone"
-    },
-    {
       "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ip-segue-eni-sui-prezzi-dei-carburanti.-meloni-assicura-un-sostegno-alle_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
       "source": "ANSA",
@@ -642,11 +642,11 @@
       "excerpt": "Da oggi un limite al costo. La premier: 'Segnale importante'. Ma monta la protesta, taxi pronti a sciopero"
     },
     {
-      "title": "Aggredisce una donna e investe due persone a Reggio Emilia, arrestato ",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/aggredisce-una-donna-e-investe-due-persone-a-reggio-emilia-arrestato_eae1d70a-f8b9-4cb6-a57f-243f9791ab74.html",
+      "title": "Allarme terrorismo in una base Raf usata da bombardieri Usa contro l'Iran ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/allarme-terrorismo-in-una-base-raf-usata-da-bombardieri-usa-contro-liran_91d9e309-9fb5-4940-99e1-9370a923d619.html",
       "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 23:13:27 +0200",
-      "excerpt": "Terrore in serata ad un distributore di benzina, tre feriti gravi in ospedale"
+      "pubDate": "Sun, 27 Sep 2026 23:05:17 +0200",
+      "excerpt": "Cinque arresti, 'progettavano un attentato'. Sospetti legami con Teheran. Trump s'intesta il blitz"
     },
     {
       "title": "Il Whitney celebra il padre dei fumetti pop, retrospettiva su Roy Lichtenstein",
