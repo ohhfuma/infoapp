@@ -1,12 +1,26 @@
 {
-  "lastUpdated": "2026-09-28T12:10:07.762Z",
+  "lastUpdated": "2026-09-28T12:46:18.059Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Europa in ordine sparso, future Usa in rosso, Milano +0,2%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-europa-in-ordine-sparso-future-usa-in-rosso-milano-02_2e607d90-f67f-4520-9e13-aafdbf12af1d.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 14:30:12 +0200",
+        "excerpt": "Nuovi massimi per i titoli di stato, corrono il greggio e il gas"
+      },
+      {
+        "title": "Conto alla rovescia per la rottamazione quinquies, si paga entro mercoledì",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/conto-alla-rovescia-per-la-rottamazione-quinquies-si-paga-entro-mercoledi_27e9be63-6288-40bf-9ede-3cf7673e48de.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 14:21:58 +0200",
+        "excerpt": "Si avvicina la scadenza della seconda rata"
+      },
       {
         "title": "Tetto ai carburanti, protestano petrolieri indipendenti e benzinai: “Estenderlo a tutti i fornitori”",
         "link": "https://www.repubblica.it/economia/2026/09/28/news/petrolieri_assopetroli_tetto_prezzo_carburanti_fornitori-425612386/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 14:05:31 +0200",
+        "pubDate": "Mon, 28 Sep 2026 14:10:10 +0200",
         "excerpt": "Assopetroli chiede un tavolo al governo per evitare una distorsione del mercato e della concorrenza: “Così rischiamo di chiudere”. Anche la Cisl regole comuni per calmierare i prezzi"
       },
       {
@@ -150,25 +164,11 @@
         "excerpt": "Un numero che si traduce in oltre 257 kg al secondo: pesa lo spreco domestico, ma anche lungo la filiera. Con l’app Too Good to Go salvati dal 2019 a oggi circa 37 milioni di pasti"
       },
       {
-        "title": "Assalzoo, tra guerre, crollo mais e caro-energia a rischio il Made in Italy zootecnico",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/assalzoo-tra-guerre-crollo-mais-e-caro-energia-a-rischio-il-made-in-italy_bc176838-f2f3-4db6-92cb-c9a5a989a27d.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 12:54:56 +0200",
-        "excerpt": "Zanin, serve intervenire subito per garantire la sicurezza degli approvvigionamenti"
-      },
-      {
         "title": "Consumi, stime di chiusura anno a +0,7% a valore",
         "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/mercati/2026/09/28/news/consumi_stime_di_chiusura_anno_a_07_a_valore-425612402/?rss",
         "source": "Repubblica Economia",
         "pubDate": "Mon, 28 Sep 2026 12:49:38 +0200",
         "excerpt": "Dato in rialzo rispetto alla previsione iniziale di +0,4%, ma l’andamento rimane debole: fatturato complessivamente in calo, scontrino medio a -0,4%, male soprattutto la ristorazione e abbigliamento-accessori"
-      },
-      {
-        "title": "Idealservice, semestrale record, utile a 2,4 milioni e ricavi verso 200milioni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/idealservice-semestrale-record-utile-a-24-milioni-e-ricavi-verso-200milioni_4ab9a314-fccf-4b29-a3eb-521cf3d4dc30.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 12:43:53 +0200",
-        "excerpt": "Ricavi in aumento del 5% rispetto allo stesso periodo 2025"
       },
       {
         "title": "Legge elettorale: Meloni punta al voto utile, Schlein a respingere l’Opa di Conte sul Pd",
@@ -401,10 +401,17 @@
     ],
     "mondo": [
       {
+        "title": "Attacco contro base Raf, i cinque arrestati sono tutti cittadini britannici sui 25 anni",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/inghilterra_attacco_base_raf_tutti_cittadini_britannici_di_20_anni_i_5_arrestati_antiterrorismo-425612628/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 14:21:08 +0200",
+        "excerpt": "L'antiterrorismo, che è alla guida delle indagini, resta abbottonata sulla matrice del presunto attacco esplosivo di ieri a Fairford, in Inghilterra: “Indagine vasta e complessa”"
+      },
+      {
         "title": "Spagna, gli “indignados” son tornati: tende contro la crisi abitativa e per il decreto Maricarmen",
         "link": "https://www.repubblica.it/esteri/2026/09/28/news/spagna_indignados_sono_tornati_tende_contro_crisi_abitativa_decreto_maricarmen-425612218/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Mon, 28 Sep 2026 13:48:27 +0200",
+        "pubDate": "Mon, 28 Sep 2026 14:17:11 +0200",
         "excerpt": "Da due giorni centinaia di persone sono accampate in Puerta del Sol, a Madrid, per il diritto alla casa dopo lo sfratto dell’anziana diventata simbolo della lotta. Sul decreto casa, che dovrebbe essere approvato domani, "
       },
       {
@@ -560,23 +567,30 @@
         "source": "Repubblica Esteri",
         "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
         "excerpt": "Dopo aver respinto la bozza, il presidente ha annunciato trattative in settimana. Nethanyahu negli Emirati vede Mbz"
-      },
-      {
-        "title": "L’assalto finale russo all’industria ucraina: acciaio e telecomunicazioni sotto assedio",
-        "link": "https://www.repubblica.it/esteri/2026/09/28/news/ucraina_industrie_acciaio_telecomunicazioni_attacchi_russia-425611441/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
-        "excerpt": "Nelle ultime settimane la macchina bellica sta azzerando il comparto siderurgico e colpendo l’economia digitale"
       }
     ]
   },
   "attualita": [
     {
+      "title": "La morte di Giulio Regeni, oggi la sentenza per gli 007 egiziani",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/la-morte-di-giulio-regeni-oggi-la-sentenza-per-gli-007-egiziani_64ef9a1a-bafc-462b-a8c9-eb196acca780.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 14:37:05 +0200",
+      "excerpt": "I giudici in camera di consiglio, sentenza attesa per le 18"
+    },
+    {
       "title": "Carburanti, scatta il tetto nei distributori Eni e Ip, gli autotrasportatori siciliani annunciano lo stop",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/carburanti-scatta-il-tetto-nei-distributori-eni_acc62c40-30c5-43ee-b52a-9061d52e8aaf.html",
       "source": "ANSA",
-      "pubDate": "Mon, 28 Sep 2026 14:01:31 +0200",
+      "pubDate": "Mon, 28 Sep 2026 14:17:27 +0200",
       "excerpt": "Già applicato il tetto ai prezzi dei carburanti, come annunciato, nelle stazioni di servizio. Code ai distributori in alcune città. Assopetroli plaude alla calmierazione: 'Il governo apra un confronto per estenderla'"
+    },
+    {
+      "title": "L'anziana sfrattata agli accampati a Puerta del Sol: “Lottate e tenete duro!”",
+      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/28/l87-sfrattata-agli-accampati-a-puerta-del-sol-lottate-e-tenete-duro_7b69be28-7fd9-4c11-be92-2132de8b1497.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 13:54:16 +0200",
+      "excerpt": "Maricarmen Abascal, ricoverata in ospedale, sostiene la protesta per il diritto alla casa"
     },
     {
       "title": "Stadio della Roma, via libera definitivo: ora possono partire i lavori a Pietralata",
@@ -600,18 +614,25 @@
       "excerpt": "“Ho conosciuto mia moglie grazie a dei cuccioli da addestrare” racconta Diego, il marito. L’ultima arrivata, Matilde, esplora i boschi attorno a Città di Castello in passeggino. “Le nostre uscite sono feste nella natura”"
     },
     {
-      "title": "La morte di Giulio Regeni, oggi la sentenza per gli 007 egiziani",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/la-morte-di-giulio-regeni-oggi-la-sentenza-per-gli-007-egiziani_64ef9a1a-bafc-462b-a8c9-eb196acca780.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 28 Sep 2026 12:35:14 +0200",
-      "excerpt": "I giudici in camera di consiglio, sentenza attesa per le 18"
+      "title": "Tetto ai carburanti, protestano petrolieri indipendenti e benzinai: “Estenderlo a tutti i fornitori”",
+      "link": "https://www.repubblica.it/economia/2026/09/28/news/petrolieri_assopetroli_tetto_prezzo_carburanti_fornitori-425612386/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 10:39:30 +0000",
+      "excerpt": "Assopetroli chiede un tavolo al governo per evitare una distorsione del mercato e della concorrenza: “Così rischiamo di chiudere”. Anche la Cisl regole comuni per calmierare i prezzi"
     },
     {
       "title": "Mps, morte David Rossi, la perizia: “Aggredito da più persone, tentava di difendersi”",
       "link": "https://firenze.repubblica.it/cronaca/2026/09/28/news/mps_siena_david_rossi_ris_inchiesta_carabinieri-425612306/",
       "source": "Repubblica",
       "pubDate": "Mon, 28 Sep 2026 10:10:52 +0000",
-      "excerpt": "I primi risultati dopo la simulazione ordinata dalla commissione di inchiesta: “Tenuto fuori dalla finestra”"
+      "excerpt": "I primi risultati dopo la simulazione ordinata dalla commissione di inchiesta: “Tenuto fuori dalla finestra. E’ stato un omicidio”"
+    },
+    {
+      "title": "Ddl antisemitismo, Segre ai partiti: “Si approvi insieme”. L’appello di giuristi contro la legge",
+      "link": "https://www.repubblica.it/politica/2026/09/28/news/ddl_antisemitismo_appello_liliana_segre_foa-425612265/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 09:57:31 +0000",
+      "excerpt": "La senatrice a vita: “Anche con le modifiche, mettete da parte le speculazioni e pensate al Paese\". Da Zagrebelski a Foa, oltre cento accademici bocciano il testo del governo: “Illiberale e inefficace”"
     },
     {
       "title": "Spagna, gli “indignados” son tornati: tende contro la crisi abitativa e per il decreto Maricarmen",
@@ -635,25 +656,11 @@
       "excerpt": "Dante, i suoi studenti, il cane Felix. Poi la droga, il delitto e quei giorni nella casa di via Gulli in cui, secondo l’accusa, la donna avrebbe organizzato lo smembramento del corpo"
     },
     {
-      "title": "Nations League, l’Italia già non può sbagliare: cosa si rischia con la retrocessione",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/28/news/nations_league_come_funziona_italia_rischio_retrocessione-425611915/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 07:56:35 +0000",
-      "excerpt": "La doppia sfida con la Turchia diventa decisiva per gli azzurri per evitare la discesa nella lega B"
-    },
-    {
       "title": "Noleggio auto usate a lungo termine: perché sempre più italiani lo scelgono",
       "link": "https://www.ansa.it/native/ansacom/2026/09/24/noleggio-auto-usate-a-lungo-termine-perche-sempre-piu-italiani-lo-scelgono_90e6a96f-c0b7-494f-b341-86f6cabb8eda.html",
       "source": "ANSA",
       "pubDate": "Mon, 28 Sep 2026 09:44:14 +0200",
       "excerpt": "Flessibilità, servizi all inclusive e zero pensieri: la scelta che conquista gli automobilisti italiani."
-    },
-    {
-      "title": "Per Meloni la campagna elettorale passa dalla scuola",
-      "link": "https://www.repubblica.it/politica/rubriche/spin-off/2026/09/28/news/decreto_scuola_meloni_elezioni_tetto_stranieri_burqa-425611825/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 07:36:14 +0000",
-      "excerpt": "Il sistema scolastico sposta storicamente pochi voti, con insegnanti e studenti in maggioranza per il centrosinistra, ma oggi è il luogo di definizione di alcune delle questioni più capaci di generare consensi"
     },
     {
       "title": "Il 'grande inganno' dell'IA, un manuale per capire cos'è e chi la controlla",
@@ -675,13 +682,6 @@
       "source": "ANSA",
       "pubDate": "Mon, 28 Sep 2026 07:55:55 +0200",
       "excerpt": "Il raro avvistamento documentato al largo della costa australiana"
-    },
-    {
-      "title": "I mosaici di Rupnik a Lourdes, il velo per il rispetto alle vittime",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/09/27/i-mosaici-di-rupnik-a-lourdes-il-velo-per-il-rispetto-alle-vittime_bf62b968-0a96-4d7f-986d-4b2c4d2a411f.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 21:38:54 +0200",
-      "excerpt": "L'artista, ex gesuita, è accusato di abusi. Erano stati inaugurati nel 2008"
     },
     {
       "title": "IL SINDACO DI GENOVA Lo sfogo di Bucci: «Gioco  al massacro, non ci sto. Chiedo chiarezza, pronto a parlare con i pm»",
@@ -742,6 +742,34 @@
   ],
   "sport": [
     {
+      "title": "Via libera al nuovo stadio della Roma, firmata l'autorizzazione",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/28/via-libera-al-nuovo-stadio-della-roma-firmata-lautorizzazione_668beb45-dde1-485f-9d53-a2c671addaf9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 14:26:35 +0200",
+      "excerpt": "L'Ok dal commissario. Gualtieri: 'Impianto può essere pronto già nel 2029'"
+    },
+    {
+      "title": "America's Cup e Barcolana al lavoro per collaborazione più stretta",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/28/americas-cup-e-barcolana-al-lavoro-per-collaborazione-piu-stretta_42c371e9-e4d3-467a-bb1b-068ef9dfa1d2.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 14:06:38 +0200",
+      "excerpt": "Accordi già in corso. Gialuz, tre nostre atlete in team Luna rossa"
+    },
+    {
+      "title": "Abodi 'lo stadio della Roma è dimostrazione di cosa sappiamo fare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/abodi-lo-stadio-della-roma-e-dimostrazione-di-cosa-sappiamo-fare_3564a5e4-3c53-409c-bbf5-2d132cd16dd3.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 14:04:20 +0200",
+      "excerpt": "Il ministro, 'entro tre giorni la lista per Euro 2032, deciderà l'Uefa'"
+    },
+    {
+      "title": "Figc: Abete, 'Malagò? Serve riprendere presto percorso positivo'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/figc-abete-malago-serve-riprendere-presto-percorso-positivo_25b4f2ed-f870-4df1-8918-b952960ddbb4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 14:02:26 +0200",
+      "excerpt": "Presidente Lnd, 'possiamo intervenire solo su aspetti di politica sportiva'"
+    },
+    {
       "title": "Nations League: 'Tragedia greca', Klopp non è il mago che aspettava la Germania",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/28/nations-league-tragedia-greca-klopp-non-e-il-mago-che-aspettava-la-germania_450d9607-7f1e-4ee4-a9dc-2834c6c38b27.html",
       "source": "ANSA Sport",
@@ -768,34 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "Mon, 28 Sep 2026 13:52:23 +0200",
       "excerpt": "Eliminato dal polacco Majchrzak"
-    },
-    {
-      "title": "Via libera al nuovo stadio della Roma, firmata l'autorizzazione",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/28/via-libera-al-nuovo-stadio-della-roma-firmata-lautorizzazione_668beb45-dde1-485f-9d53-a2c671addaf9.html",
-      "source": "ANSA Sport",
-      "pubDate": "Mon, 28 Sep 2026 13:44:45 +0200",
-      "excerpt": "l'Ok dal commissario. La conferenza dei servizi decisoria si chiude con esito positivo"
-    },
-    {
-      "title": "Under 21, Raimondo lascia il ritiro di Tirrenia",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/under-21-raimondo-lascia-il-ritiro-di-tirrenia_0c6a3103-b4b9-4a91-bbb3-2cac183d4b14.html",
-      "source": "ANSA Sport",
-      "pubDate": "Mon, 28 Sep 2026 11:38:36 +0200",
-      "excerpt": "Qualificazioni europee: giovedì a Yerevan l'Italia affronta l'Armenia"
-    },
-    {
-      "title": "Patric all'Al-Ittifaq: \"Lascio la Lazio, ma una parte di me sarà sempre qui\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/patric-allal-ittifaq-lascio-la-lazio-ma-una-parte-di-me-sara-sempre-qui_e2a0c6b4-ce9c-49ff-8876-d94a33e09a3b.html",
-      "source": "ANSA Sport",
-      "pubDate": "Mon, 28 Sep 2026 11:30:41 +0200",
-      "excerpt": "Il difensore saluta dopo 11 anni per trasferirsi in Arabia Saudita"
-    },
-    {
-      "title": "Coni: in arrivo i pareri giuridici sul caso Malagò",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/coni-in-arrivo-i-pareri-giuridici-sul-caso-malago_8097590b-c358-4704-9866-a4427f3ec0b4.html",
-      "source": "ANSA Sport",
-      "pubDate": "Mon, 28 Sep 2026 11:08:04 +0200",
-      "excerpt": "Sono stati chiesti a Scoca, Coccia, Medugno e Angeletti"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",

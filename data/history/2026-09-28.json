@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Borsa: Europa in ordine sparso, future Usa in rosso, Milano +0,2%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-europa-in-ordine-sparso-future-usa-in-rosso-milano-02_2e607d90-f67f-4520-9e13-aafdbf12af1d.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 14:30:12 +0200",
+        "excerpt": "Nuovi massimi per i titoli di stato, corrono il greggio e il gas"
+      },
+      {
+        "title": "Conto alla rovescia per la rottamazione quinquies, si paga entro mercoledì",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/conto-alla-rovescia-per-la-rottamazione-quinquies-si-paga-entro-mercoledi_27e9be63-6288-40bf-9ede-3cf7673e48de.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 14:21:58 +0200",
+        "excerpt": "Si avvicina la scadenza della seconda rata"
+      },
+      {
         "title": "Via libera al nuovo stadio della Roma, firmata l’autorizzazione",
         "link": "https://www.ilsole24ore.com/art/via-libera-nuovo-stadio-roma-firmata-l-autorizzazione-AJIuQYRB",
         "source": "Il Sole 24 Ore",
@@ -51,6 +65,13 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-28 11:54:43",
         "excerpt": ""
+      },
+      {
+        "title": "Effetto Eni, distributori esauriti in molte città. Ma il prezzo medio va giù di pochissimo",
+        "link": "https://www.repubblica.it/economia/2026/09/28/news/eni_prezzi_g_benzina_gasolio_europa_energia_mimit-425612097/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 13:54:35 +0200",
+        "excerpt": "I consumatori dell’Unc: “Il tetto non basta, il governo faccia la sua parte”. E l’Europa chiede di ridurre i consumi di elettricità e gas"
       },
       {
         "title": "Roche pianifica laboratori AI autonomi per accelerare lo sviluppo dei farmaci",
@@ -401,27 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "Mon, 28 Sep 2026 11:23:57 +0200",
         "excerpt": "Per valutare impatto iniziativa su concorrenza e effetti su aziende associate"
-      },
-      {
-        "title": "Commissario Ue ai 27, 'attuare misure per ridurre domanda di energia'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/commissario-ue-ai-27-attuare-misure-per-ridurre-domanda-di-energia_2e591be7-66f2-4fb3-83d6-ac52360e9668.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 11:23:13 +0200",
-        "excerpt": "In una lettera Jorgensen mette in guardia sulla crisi dei prezzi dell'energia"
-      },
-      {
-        "title": "Airbus indaga su difetto A321neo, piano di riparazione limita disagi",
-        "link": "https://it.investing.com/news/stock-market-news/airbus-indaga-su-difetto-a321neo-piano-di-riparazione-limita-disagi-3564247",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 09:16:49",
-        "excerpt": ""
-      },
-      {
-        "title": "TotalEnergies sale dopo annuncio su dividendi, buyback e produzione al 2035",
-        "link": "https://it.investing.com/news/stock-market-news/totalenergies-sale-dopo-annuncio-su-dividendi-buyback-e-produzione-al-2035-3564238",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 09:11:39",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -667,6 +667,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Attacco contro base Raf, i cinque arrestati sono tutti cittadini britannici sui 25 anni",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/inghilterra_attacco_base_raf_tutti_cittadini_britannici_di_20_anni_i_5_arrestati_antiterrorismo-425612628/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 14:21:08 +0200",
+        "excerpt": "L'antiterrorismo, che è alla guida delle indagini, resta abbottonata sulla matrice del presunto attacco esplosivo di ieri a Fairford, in Inghilterra: “Indagine vasta e complessa”"
+      },
       {
         "title": "Quasi 560 migranti su tre barconi soccorsi dall'alba alle Canarie",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/28/quasi-560-migranti-su-tre-barconi-soccorsi-dallalba-alle-canarie_a150736a-db74-4ec6-9374-c414ca2cbe6d.html",
@@ -1079,17 +1086,17 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 18:33:43 +0200",
         "excerpt": "Tra questi creazione di bacheche di messaggi, fuga dalle sandbox, dirottamento di siti web"
-      },
-      {
-        "title": "Allarme base Raf, per Sky si indaga su potenziali legami arrestati con l'Iran",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/27/allarme-base-raf-per-sky-si-indaga-su-potenziali-legami-arrestati-con_0b95c863-e60c-451c-8384-c40b03d3c05f.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 18:24:20 +0200",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "L'anziana sfrattata agli accampati a Puerta del Sol: “Lottate e tenete duro!”",
+      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/28/l87-sfrattata-agli-accampati-a-puerta-del-sol-lottate-e-tenete-duro_7b69be28-7fd9-4c11-be92-2132de8b1497.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 13:54:16 +0200",
+      "excerpt": "Maricarmen Abascal, ricoverata in ospedale, sostiene la protesta per il diritto alla casa"
+    },
     {
       "title": "Stadio della Roma, via libera definitivo: ora possono partire i lavori a Pietralata",
       "link": "https://roma.repubblica.it/cronaca/2026/09/28/news/stadio_della_roma_via_libera_definitivo_pietralata-425612529/",
@@ -1112,11 +1119,25 @@
       "excerpt": "“Ho conosciuto mia moglie grazie a dei cuccioli da addestrare” racconta Diego, il marito. L’ultima arrivata, Matilde, esplora i boschi attorno a Città di Castello in passeggino. “Le nostre uscite sono feste nella natura”"
     },
     {
+      "title": "Tetto ai carburanti, protestano petrolieri indipendenti e benzinai: “Estenderlo a tutti i fornitori”",
+      "link": "https://www.repubblica.it/economia/2026/09/28/news/petrolieri_assopetroli_tetto_prezzo_carburanti_fornitori-425612386/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 10:39:30 +0000",
+      "excerpt": "Assopetroli chiede un tavolo al governo per evitare una distorsione del mercato e della concorrenza: “Così rischiamo di chiudere”. Anche la Cisl regole comuni per calmierare i prezzi"
+    },
+    {
       "title": "Mps, morte David Rossi, la perizia: “Aggredito da più persone, tentava di difendersi”",
       "link": "https://firenze.repubblica.it/cronaca/2026/09/28/news/mps_siena_david_rossi_ris_inchiesta_carabinieri-425612306/",
       "source": "Repubblica",
       "pubDate": "Mon, 28 Sep 2026 10:10:52 +0000",
       "excerpt": "I primi risultati dopo la simulazione ordinata dalla commissione di inchiesta: “Tenuto fuori dalla finestra”"
+    },
+    {
+      "title": "Ddl antisemitismo, Segre ai partiti: “Si approvi insieme”. L’appello di giuristi contro la legge",
+      "link": "https://www.repubblica.it/politica/2026/09/28/news/ddl_antisemitismo_appello_liliana_segre_foa-425612265/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 09:57:31 +0000",
+      "excerpt": "La senatrice a vita: “Anche con le modifiche, mettete da parte le speculazioni e pensate al Paese\". Da Zagrebelski a Foa, oltre cento accademici bocciano il testo del governo: “Illiberale e inefficace”"
     },
     {
       "title": "Spagna, gli “indignados” son tornati: tende contro la crisi abitativa e per il decreto Maricarmen",
@@ -1488,30 +1509,30 @@
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 19:07:50 +0200",
       "excerpt": "Milly Carluscci: \"Simone Di Pasquale in Sala delle Stelle al posto di Paolo Belli\""
-    },
-    {
-      "title": "Mancini: “Alle critiche si risponde vincendo in Turchia, ma a questa generazione serve tempo”",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/27/news/mancini_conferenza_turchia_italia-425611088/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 16:58:41 +0000",
-      "excerpt": "Il ct alla vigilia della gara di Bursa con la Turchia chiede pazienza e difende i suoi giocatori a cominciare da Romano: “Avrà un grande futuro in Nazionale”"
-    },
-    {
-      "title": "Jovanotti, l’eterno ragazzo compie 60 anni",
-      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/27/jovanotti-leterno-ragazzo-compie-60-anni_87cd8ef6-33d5-43f0-87e0-6f3e5c725f3f.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 15:32:53 +0200",
-      "excerpt": "“Al compleanno non ci penso, faccio sempre festa per lavoro”"
-    },
-    {
-      "title": "La Luna potrebbe essersi formata in una manciata di ore",
-      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/27/la-luna-potrebbe-essersi-formata-in-una-manciata-di-ore_5182348f-e9ea-458a-8d71-ce36025ec9b3.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 09:39:32 +0200",
-      "excerpt": "Lo indicano nuove simulazioni dell'impatto tra la Terra e il protopianeta Theia"
     }
   ],
   "sport": [
+    {
+      "title": "America's Cup e Barcolana al lavoro per collaborazione più stretta",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/09/28/americas-cup-e-barcolana-al-lavoro-per-collaborazione-piu-stretta_42c371e9-e4d3-467a-bb1b-068ef9dfa1d2.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 14:06:38 +0200",
+      "excerpt": "Accordi già in corso. Gialuz, tre nostre atlete in team Luna rossa"
+    },
+    {
+      "title": "Abodi 'lo stadio della Roma è dimostrazione di cosa sappiamo fare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/abodi-lo-stadio-della-roma-e-dimostrazione-di-cosa-sappiamo-fare_3564a5e4-3c53-409c-bbf5-2d132cd16dd3.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 14:04:20 +0200",
+      "excerpt": "Il ministro, 'entro tre giorni la lista per Euro 2032, deciderà l'Uefa'"
+    },
+    {
+      "title": "Figc: Abete, 'Malagò? Serve riprendere presto percorso positivo'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/figc-abete-malago-serve-riprendere-presto-percorso-positivo_25b4f2ed-f870-4df1-8918-b952960ddbb4.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 14:02:26 +0200",
+      "excerpt": "Presidente Lnd, 'possiamo intervenire solo su aspetti di politica sportiva'"
+    },
     {
       "title": "Nations League: 'Tragedia greca', Klopp non è il mago che aspettava la Germania",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/28/nations-league-tragedia-greca-klopp-non-e-il-mago-che-aspettava-la-germania_450d9607-7f1e-4ee4-a9dc-2834c6c38b27.html",
