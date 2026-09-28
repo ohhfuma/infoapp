@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-28T04:08:37.651Z",
+  "lastUpdated": "2026-09-28T04:42:32.327Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Nidec crolla del 18% per una svalutazione da 6,3 miliardi di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/nidec-crolla-del-18-per-una-svalutazione-da-63-miliardi-di-dollari-3563878",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 04:20:19",
+        "excerpt": ""
+      },
       {
         "title": "Perché il titolo Samsung Electronics sta scendendo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-samsung-electronics-sta-scendendo-oggi-93CH-3563873",
@@ -49,13 +56,6 @@
         "link": "https://it.investing.com/news/stock-market-news/td-synnex-morgan-stanley-alza-il-target-price-dopo-un-trimestre-solido-3563859",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-28 02:21:41",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Northern Star Resources è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-northern-star-resources-e-in-forte-rialzo-oggi-93CH-3563855",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 02:04:19",
         "excerpt": ""
       },
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Media, '7 ottobre, 007 Egitto chiamarono Netanyahu dopo due avvisi inascoltati'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/28/media-7-ottobre-007-egitto-chiamarono-netanyahu-dopo-due-avvisi-inascoltati_dbfc74cd-6cf6-4e8a-95b5-a3696cf9a0cd.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 28 Sep 2026 06:08:54 +0200",
+        "excerpt": "Il capo dell'intelligence chiamò il premier pochi giorni prima dell'offensiva di Hamas"
+      },
+      {
         "title": "IA fuori controllo, Trump: “Non me ne preoccupo”. Bill Gates: “L’autoregolamentazione non basta”",
         "link": "https://www.repubblica.it/esteri/2026/09/28/news/ia_trump_gates_regole-425611574/?rss",
         "source": "Repubblica Esteri",
@@ -539,13 +546,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 22:28:29 +0200",
         "excerpt": "Dopo gli ultimi dati la banca Usa prevede l'entrata in 'recessione tecnica' a settembre"
-      },
-      {
-        "title": "Media, Netanyahu negli Emirati oggi per incontro con bin Zayed",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/media-netanyahu-negli-emirati-oggi-per-incontro-con-bin-zayed_ed215a04-5926-4eef-a4a8-6e2c10bc27ae.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 21:24:37 +0200",
-        "excerpt": "Secondo Channel 12 il premier israeliano è rientrato in Israele"
       },
       {
         "title": "Axios, 'Trump terrà cena privata alla Casa Bianca con il ceo di Anthropic'",
