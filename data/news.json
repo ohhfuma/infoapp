@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-28T03:08:55.224Z",
+  "lastUpdated": "2026-09-28T03:41:57.484Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Perché il titolo SK Hynix sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-sk-hynix-sta-scendendo-oggi-93CH-3563868",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 03:02:38",
+        "excerpt": ""
+      },
       {
         "title": "Cosa ha spinto questo titolo dell’industria chip a un rialzo del 18%",
         "link": "https://it.investing.com/news/stock-market-news/cosa-ha-spinto-questo-titolo-dellindustria-chip-a-un-rialzo-del-18-3563867",
@@ -106,13 +113,6 @@
         "source": "ANSA Economia",
         "pubDate": "Sun, 27 Sep 2026 23:58:44 +0200",
         "excerpt": "Da oggi un limite al costo. La premier: 'Segnale importante'. Ma monta la protesta, taxi pronti a sciopero"
-      },
-      {
-        "title": "Il CEO di Anthropic, Amodei, incontrerà Trump prima del summit sull’IA",
-        "link": "https://it.investing.com/news/stock-market-news/il-ceo-di-anthropic-amodei-incontrera-trump-prima-del-summit-sullia-3563822",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-27 19:17:33",
-        "excerpt": ""
       },
       {
         "title": "Addio a Lorenzo Pallesi, il manager che guidò l’Ina-Assitalia e rinnovò la Treccani",
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "IA fuori controllo, Trump: “Non me ne preoccupo”. Bill Gates: “L’autoregolamentazione non basta”",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/ia_trump_gates_regole-425611574/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 05:34:24 +0200",
+        "excerpt": "Il presidente Usa riceve Dario Amodei alla Casa Bianca e si dice tranquillo sugli allarmi lanciati da Antrhropic e OpenAI"
+      },
+      {
+        "title": "China says US trade truce extension creates space to advance talks",
+        "link": "https://www.investing.com/news/commodities-news/china-says-us-trade-truce-extension-creates-space-to-advance-talks-4919293",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-28 03:12:52",
+        "excerpt": ""
+      },
+      {
         "title": "Bill Gates, 'gli Usa prendano la guida sulla regolamentazione dell'IA'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/28/bill-gates-gli-usa-prendano-la-guida-sulla-regolamentazione-dellia_3969ad76-3dcb-4b4a-bca3-92e27bffac8e.html",
         "source": "ANSA Mondo",
@@ -527,13 +541,6 @@
         "excerpt": "Dopo gli ultimi dati la banca Usa prevede l'entrata in 'recessione tecnica' a settembre"
       },
       {
-        "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 21:37:42 +0200",
-        "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo partito di destra"
-      },
-      {
         "title": "Media, Netanyahu negli Emirati oggi per incontro con bin Zayed",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/27/media-netanyahu-negli-emirati-oggi-per-incontro-con-bin-zayed_ed215a04-5926-4eef-a4a8-6e2c10bc27ae.html",
         "source": "ANSA Mondo",
@@ -560,17 +567,17 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-27 02:13:28",
         "excerpt": ""
-      },
-      {
-        "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
-        "link": "https://www.investing.com/news/commodities-news/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan-4918661",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-26 22:36:27",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Mtv video music awards, Madonna apre lo show. Taylor Swift la più premiata della storia",
+      "link": "https://www.repubblica.it/spettacoli/2026/09/28/news/mtv_video_music_awards_premi_madonna_taylor_swift-425611554/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 03:02:02 +0000",
+      "excerpt": "Il video The Fate of Ophelia è il migliore dell’anno"
+    },
     {
       "title": "Giovanna Mezzogiorno “Adesso combatto il passato per vivere il presente”",
       "link": "https://www.repubblica.it/spettacoli/cinema/2026/09/28/news/giovanna_mezzogiorno_intervista-425611401/",
@@ -626,13 +633,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
       "excerpt": "Intervista al presidente dell’associazione dei distributori associata a Confcommercio. “Di solito ogni gestore ha un margine compreso tra i 3,5 e i 4 centesimi. I tagli annunciati quindi causeranno delle perdite”"
-    },
-    {
-      "title": "“Faccio la maestra come mia madre, taglio spese non essenziali ma tremo a ogni imprevisto”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/28/news/piccoli_salari_inchiesta_maestra_sostegno_impoverita_taglio_spese_non_essenziali_ma_tremo_a_ogni_imprevisto-425611386/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
-      "excerpt": "Terza puntata della serie “Piccoli salari”. Parla Chiara Migliori, insegnante di sostegno. “Noi docenti siamo impoveriti. In 16 anni di lavoro lo stipendio è cresciuto di neanche 200 euro. Con due figli adolescenti rispa"
     },
     {
       "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
