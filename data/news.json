@@ -1,7 +1,98 @@
 {
-  "lastUpdated": "2026-09-28T05:40:28.033Z",
+  "lastUpdated": "2026-09-28T06:11:16.662Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Prezzo oro in ribasso, Spot scambiato a 4.180 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/prezzo-oro-in-ribasso-spot-scambiato-a-4.180-dollari_061c1a82-3a80-4fd3-a912-f603fc2b84a0.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 08:06:12 +0200",
+        "excerpt": "Quotazione scende del 2,43%"
+      },
+      {
+        "title": "Prezzo del petrolio in forte rialzo, Wti scambiato a 94,71 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/prezzo-del-petrolio-in-forte-rialzo-wti-scambiato-a-9471-dollari_6549ae2c-becc-43de-8cba-c1583d0de85f.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 08:01:01 +0200",
+        "excerpt": "Brent passa di mano a 107,92 dollari, +3,45%"
+      },
+      {
+        "title": "Frumento&riso",
+        "link": "https://www.repubblica.it/economia/rubriche/la-borsa-della-spesa/2026/09/28/news/frumentoriso-425607565/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 08:00:00 +0200",
+        "excerpt": ""
+      },
+      {
+        "title": "Una manager per Amundi, cambio ai vertici di Symphonia Sgr",
+        "link": "https://www.repubblica.it/economia/rubriche/poltrone/2026/09/28/news/una_manager_per_amundi_cambio_ai_vertici_di_symphonia_sgr-425605169/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 08:00:00 +0200",
+        "excerpt": ""
+      },
+      {
+        "title": "La seconda vita di Saint-Denis tra concerti, danza ed eventi",
+        "link": "https://www.repubblica.it/economia/rubriche/paris-express/2026/09/28/news/la_seconda_vita_di_saint-denis_tra_concerti_danza_ed_eventi-425606899/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 08:00:00 +0200",
+        "excerpt": ""
+      },
+      {
+        "title": "Investire su seta e porcellane la Cina riparte dal passato",
+        "link": "https://www.repubblica.it/economia/rubriche/far-east/2026/09/28/news/investire_su_seta_e_porcellane_la_cina_riparte_dal_passato-425602571/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 08:00:00 +0200",
+        "excerpt": ""
+      },
+      {
+        "title": "Il diritto internazionale diventa fragile e la colpa è solo di Trump",
+        "link": "https://www.repubblica.it/economia/rubriche/il-libro/2026/09/28/news/il_diritto_internazionale_diventa_fragile_e_la_colpa_e_solo_di_trump-425602792/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 08:00:00 +0200",
+        "excerpt": ""
+      },
+      {
+        "title": "Il peso di essere sotto procedura di infrazione",
+        "link": "https://www.repubblica.it/economia/2026/09/28/news/il_peso_di_essere_sotto_procedura_di_infrazione-425607103/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 08:00:00 +0200",
+        "excerpt": "Essere o non essere in procedura condiziona la realizzazione del piano presentato dall’Italia due anni fa all’Unione europea per riportare sotto controllo i conti pubblici entro il 2029"
+      },
+      {
+        "title": "I titoli cinesi dei semiconduttori crollano dopo le indiscrezioni su Nvidia",
+        "link": "https://it.investing.com/news/stock-market-news/i-titoli-cinesi-dei-semiconduttori-crollano-dopo-le-indiscrezioni-su-nvidia-3563932",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 05:52:28",
+        "excerpt": ""
+      },
+      {
+        "title": "Il peso del contante resta ancora forte: 235 miliardi nel 2025",
+        "link": "https://www.ilsole24ore.com/art/il-peso-contante-resta-ancora-forte-235-miliardi-2025-AJTUQhQB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Mon, 28 Sep 2026 05:47:39 GMT",
+        "excerpt": "Per arrivare a 223 miliardi di euro in contanti è bastato un anno. È il valore dei soli versamenti censiti nel 2025 dall’Unità di informazione finanziaria (Uif) della Banca d’Italia:..."
+      },
+      {
+        "title": "Perché il titolo HUTCHMED China è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-hutchmed-china-e-in-rialzo-oggi-93CH-3563909",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 05:35:41",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo NIO è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-nio-e-in-rialzo-oggi-93CH-3563908",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 05:35:38",
+        "excerpt": ""
+      },
+      {
+        "title": "La Gran Bretagna costruirà tre bacini galleggianti alla base di Clyde",
+        "link": "https://it.investing.com/news/stock-market-news/la-gran-bretagna-costruira-tre-bacini-galleggianti-alla-base-di-clyde-93CH-3563897",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 05:33:58",
+        "excerpt": ""
+      },
       {
         "title": "Perché il titolo di Ingenia Communities sta salendo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-ingenia-communities-sta-salendo-oggi-93CH-3563893",
@@ -38,81 +129,18 @@
         "excerpt": ""
       },
       {
-        "title": "Le azioni asiatiche scendono mentre petrolio e rendimenti salgono; chip sotto pressione dopo la pausa di OpenAI",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-asiatiche-scendono-mentre-petrolio-e-rendimenti-salgono-chip-sotto-pressione-dopo-la-pausa-di-openai-3563882",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 04:43:29",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo GoTo Gojek Tokopedia crolla oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-goto-gojek-tokopedia-crolla-oggi-93CH-3563880",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 04:33:42",
-        "excerpt": ""
-      },
-      {
-        "title": "Nidec crolla del 18% per una svalutazione da 6,3 miliardi di dollari",
-        "link": "https://it.investing.com/news/stock-market-news/nidec-crolla-del-18-per-una-svalutazione-da-63-miliardi-di-dollari-3563878",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 04:20:19",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Samsung Electronics sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-samsung-electronics-sta-scendendo-oggi-93CH-3563873",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 03:33:45",
-        "excerpt": ""
-      },
-      {
-        "title": "Il governo scommette sul Pil all’1%. In arrivo il Dpfp, il documento che precede la manovra",
-        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/09/28/news/manovra_dpfp_governo_scommette_pil_1-425611388/?rss",
+        "title": "Una nuova fase per EdiliziAcrobatica",
+        "link": "https://www.repubblica.it/economia/2026/09/28/news/edilizia_acrobatica_perdite_assemblea_bonus_edilizia-425607574/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
-        "excerpt": "In settimana il varo. Deficit sotto al 3% quest’anno e il prossimo. Incognita clausola su energia e difesa. Più spesa per interessi, ma il fiscal drag aiuta"
+        "pubDate": "Mon, 28 Sep 2026 07:00:00 +0200",
+        "excerpt": "La società di ristrutturazioni in fune razionalizza la struttura e taglia i costi dopo le perdite del 2025. A pesare soprattutto la fine dei maxi incentivi"
       },
       {
-        "title": "Torna la tassa invisibile. Stangata da 13 miliardi su stipendi e pensioni",
-        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/09/28/news/tassa_invisibile_da_13_miliardi_su_stipendi_e_pensioni_fiscal_drag-425611378/?rss",
+        "title": "Dieci anni da record per la raccolta delle reti di consulenza",
+        "link": "https://www.repubblica.it/economia/2026/09/28/news/dieci_anni_da_record_per_la_raccolta_delle_reti_di_consulenza-425607537/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
-        "excerpt": "In questo biennio il drenaggio fiscale colpisce di nuovo i dipendenti e i pensionati. Aumentano le entrate del Tesoro alla vigilia della manovra elettorale"
-      },
-      {
-        "title": "Bolla o Apocalisse? Per ora i big dell’IA vogliono frenare i governi",
-        "link": "https://www.repubblica.it/economia/rubriche/circo-massimo/2026/09/28/news/bolla_o_apocalisse_per_ora_i_big_dell_ia_vogliono_frenare_i_governi-425607363/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
-        "excerpt": "Nonostante gli appelli alla prudenza dalle Sette Sorelle della Silicon Valley arrivano oltre 1.000 miliardi di dollari nei data center. Solo l’Europa resta indietro"
-      },
-      {
-        "title": "Riforma Irpef: il gioco dell’addizionale. Ora il costo delle tasse lo sceglie la Regione",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/28/news/riforma_irpef_il_gioco_dell_addizionale_ora_il_costo_delle_tasse_lo_sceglie_la_regione-425611147/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
-        "excerpt": "Dal 2027 i governatori saranno liberi di cancellare del tutto l’imposta addizionale, o di stabilire nuove esenzioni per i redditi più bassi fissando le soglie"
-      },
-      {
-        "title": "Adesso Meloni punta la Q8 per chiudere il cerchio. Contatti diplomatici con il Golfo",
-        "link": "https://www.repubblica.it/economia/2026/09/28/news/adesso_meloni_punta_la_q8_per_chiudere_il_cerchio_contatti_diplomatici_con_il_golfo-425611394/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
-        "excerpt": "La compagnia kuwaitiana possiede quasi tremila impianti. Cautela a palazzo Chigi per le norme a tutela del mercato"
-      },
-      {
-        "title": "Bearzi (Figisc): “È concorrenza sleale. Valutiamo azioni comuni anche all’Antitrust”",
-        "link": "https://www.repubblica.it/economia/2026/09/28/news/bearzi_figisc_e_concorrenza_sleale_valutiamo_azioni_comuni_anche_all_antitrust-425611346/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
-        "excerpt": "Intervista al presidente dell’associazione dei distributori associata a Confcommercio. “Di solito ogni gestore ha un margine compreso tra i 3,5 e i 4 centesimi. I tagli annunciati quindi causeranno delle perdite”"
-      },
-      {
-        "title": "Scuola, cambia anche la Carta del docente: tutte le novità già in vigore e quelle in arrivo",
-        "link": "https://www.repubblica.it/economia/2026/09/28/news/scuola_cambia_la_carta_del_docente_tutte_le_novita_gia_in_vigore_e_quelle_in_arrivo-425611145/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
-        "excerpt": "La Cassazione conferma il diritto al bonus anche per il personale educativo. Intanto, sono tornati disponibili i residui 2025/2026, mentre per il ‘26/’27 importo e tempi del nuovo accredito devono essere definiti. Sullo "
+        "pubDate": "Mon, 28 Sep 2026 07:00:00 +0200",
+        "excerpt": "Dal 2015 il patrimonio è volato a 1.078 miliardi. In cima alla classifica resta Fideuram. Rally per Fineco, Mediolanum, Credem e Banca Generali"
       },
       {
         "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
@@ -120,20 +148,6 @@
         "source": "ANSA Economia",
         "pubDate": "Sun, 27 Sep 2026 23:58:44 +0200",
         "excerpt": "Da oggi un limite al costo. La premier: 'Segnale importante'. Ma monta la protesta, taxi pronti a sciopero"
-      },
-      {
-        "title": "Addio a Lorenzo Pallesi, il manager che guidò l’Ina-Assitalia e rinnovò la Treccani",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/lorenzo_pallesi_morto_manager_ina_assitalia_treccani_privatizzazioni-425611175/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 20:06:16 +0200",
-        "excerpt": "Si è spento a Roma a 89 anni. Per lunghi anni aveva ricoperto importanti incarichi nel campo dell’economia pubblica, accompagnandone il percorso verso l’approdo delle privatizzazioni"
-      },
-      {
-        "title": "I bar sotto casa, ne scompaiono 11 al giorno. L'allarme di Confesercenti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/bar-sotto-casa-la-desertificazione-ne-cancella-24mila-in-6-anni-11-al-giorno_41129101-66b3-4b57-b8ee-ea35f41e224d.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sun, 27 Sep 2026 18:12:49 +0200",
-        "excerpt": "Ne sono stati chiusi 24mila in 6 anni, per le economie locali persi oltre 7,2 miliardi"
       },
       {
         "title": "Caro-carburanti, sindacati taxi pronti a sciopero, governo ci risponda",
@@ -169,13 +183,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 27 Sep 2026 10:57:00 GMT",
         "excerpt": "Il Pontefice ai vescovi francesi: avanti con ascolto, verità, giustizia, riparazione e prevenzione. Alla messa nella Prairie del Santuario di Nostra Signora di Lourdes presenti circa 150mila fedeli"
-      },
-      {
-        "title": "'In Europa migliora puntualità aerei ma 3 su 10 in ritardo, rischio rincari'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/in-europa-migliora-puntualita-aerei-ma-3-su-10-in-ritardo-rischio-rincari_01312812-b346-4b46-82cc-71434f030bfa.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sun, 27 Sep 2026 12:41:39 +0200",
-        "excerpt": "Dati RimborsoAlVolo, Stoccolma top per partenze in orario, a Fiumicino solo il 56%"
       },
       {
         "title": "Cgia, 'bene sconto Eni ma la situazione resta comunque critica'",
@@ -218,13 +225,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 27 Sep 2026 07:09:10 GMT",
         "excerpt": "Il ministro del Turismo: il valore del settore viene ancora sottostimato, soprattutto in Europa, è ora di un capitolo dedicato nel bilancio dell’Ue. Pronte le semplificazioni per le imprese"
-      },
-      {
-        "title": "Riformisti Pd in conclave, primarie larghe e con doppio turno. «Nessun compromesso sull’Ucraina»",
-        "link": "https://www.ilsole24ore.com/art/riformisti-pd-conclave-primarie-larghe-e-doppio-turno-nessun-compromesso-sull-ucraina-AJXvgOQB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "Sat, 26 Sep 2026 18:07:13 GMT",
-        "excerpt": "I Dem, riuniti alla casa del popolo di Coiano, alle porte di Prato, per lanciare “idee e proposte” ma anche per mettere alcuni paletti"
       }
     ],
     "europa": [
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Gold falls below $4,300 as oil, Fed hike bets keep pressure on bullion",
+        "link": "https://www.investing.com/news/commodities-news/gold-falls-below-4300-as-oil-fed-hike-bets-keep-pressure-on-bullion-4919230",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-28 05:40:49",
+        "excerpt": ""
+      },
+      {
         "title": "China to cut tariffs on US farm goods, but list excludes soybeans",
         "link": "https://www.investing.com/news/commodities-news/china-says-to-cut-tariffs-on-us-farm-goods-but-soybeans-excluded-4919307",
         "source": "Investing.com Commodities",
@@ -455,13 +462,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 28 Sep 2026 03:17:10 +0200",
         "excerpt": "'Siamo avanti alla Cina e stiamo costruendo strutture per migliaia di miliardi'"
-      },
-      {
-        "title": "Gold falls below $4,300 as oil, Fed hike bets keep pressure on bullion",
-        "link": "https://www.investing.com/news/commodities-news/gold-falls-below-4300-as-oil-fed-hike-bets-keep-pressure-on-bullion-4919230",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-28 01:13:52",
-        "excerpt": ""
       },
       {
         "title": "Borsa: Tokyo, apertura in rialzo (+0,29%)",
