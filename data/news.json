@@ -1,13 +1,62 @@
 {
-  "lastUpdated": "2026-09-28T00:45:30.067Z",
+  "lastUpdated": "2026-09-28T01:08:12.208Z",
   "finanza": {
     "italia": [
       {
-        "title": "Tetto al prezzo dei carburanti, Ip segue Eni sugli sconti. Protestano i piccoli petrolieri",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/ip_fissa_tetto_prezzi_carburante_effetto_traino_eni-425610802/?rss",
+        "title": "I futures USA calano su tensioni con Iran e stop OpenAI",
+        "link": "https://it.investing.com/news/stock-market-news/i-futures-usa-calano-su-tensioni-con-iran-e-stop-openai-3563842",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 00:31:27",
+        "excerpt": ""
+      },
+      {
+        "title": "Il governo scommette sul Pil all’1%. In arrivo il Dpfp, il documento che precede la manovra",
+        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/09/28/news/manovra_dpfp_governo_scommette_pil_1-425611388/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 00:02:46 +0200",
-        "excerpt": "Il gruppo azero abbassa i listini per un mese ma resta l’incognita sull’entità. Gasolio da record quasi 2,8 euro a Roma"
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "In settimana il varo. Deficit sotto al 3% quest’anno e il prossimo. Incognita clausola su energia e difesa. Più spesa per interessi, ma il fiscal drag aiuta"
+      },
+      {
+        "title": "Torna la tassa invisibile. Stangata da 13 miliardi su stipendi e pensioni",
+        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/09/28/news/tassa_invisibile_da_13_miliardi_su_stipendi_e_pensioni_fiscal_drag-425611378/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "In questo biennio il drenaggio fiscale colpisce di nuovo i dipendenti e i pensionati. Aumentano le entrate del Tesoro alla vigilia della manovra elettorale"
+      },
+      {
+        "title": "Bolla o Apocalisse? Per ora i big dell’IA vogliono frenare i governi",
+        "link": "https://www.repubblica.it/economia/rubriche/circo-massimo/2026/09/28/news/bolla_o_apocalisse_per_ora_i_big_dell_ia_vogliono_frenare_i_governi-425607363/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "Nonostante gli appelli alla prudenza dalle Sette Sorelle della Silicon Valley arrivano oltre 1.000 miliardi di dollari nei data center. Solo l’Europa resta indietro"
+      },
+      {
+        "title": "Riforma Irpef: il gioco dell’addizionale. Ora il costo delle tasse lo sceglie la Regione",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/28/news/riforma_irpef_il_gioco_dell_addizionale_ora_il_costo_delle_tasse_lo_sceglie_la_regione-425611147/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "Dal 2027 i governatori saranno liberi di cancellare del tutto l’imposta addizionale, o di stabilire nuove esenzioni per i redditi più bassi fissando le soglie"
+      },
+      {
+        "title": "Adesso Meloni punta la Q8 per chiudere il cerchio. Contatti diplomatici con il Golfo",
+        "link": "https://www.repubblica.it/economia/2026/09/28/news/adesso_meloni_punta_la_q8_per_chiudere_il_cerchio_contatti_diplomatici_con_il_golfo-425611394/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "La compagnia kuwaitiana possiede quasi tremila impianti. Cautela a palazzo Chigi per le norme a tutela del mercato"
+      },
+      {
+        "title": "Bearzi (Figisc): “È concorrenza sleale. Valutiamo azioni comuni anche all’Antitrust”",
+        "link": "https://www.repubblica.it/economia/2026/09/28/news/bearzi_figisc_e_concorrenza_sleale_valutiamo_azioni_comuni_anche_all_antitrust-425611346/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "Intervista al presidente dell’associazione dei distributori associata a Confcommercio. “Di solito ogni gestore ha un margine compreso tra i 3,5 e i 4 centesimi. I tagli annunciati quindi causeranno delle perdite”"
+      },
+      {
+        "title": "Scuola, cambia anche la Carta del docente: tutte le novità già in vigore e quelle in arrivo",
+        "link": "https://www.repubblica.it/economia/2026/09/28/news/scuola_cambia_la_carta_del_docente_tutte_le_novita_gia_in_vigore_e_quelle_in_arrivo-425611145/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 01:00:00 +0200",
+        "excerpt": "La Cassazione conferma il diritto al bonus anche per il personale educativo. Intanto, sono tornati disponibili i residui 2025/2026, mentre per il ‘26/’27 importo e tempi del nuovo accredito devono essere definiti. Sullo "
       },
       {
         "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
@@ -45,25 +94,11 @@
         "excerpt": ""
       },
       {
-        "title": "Dove, quando e perché: tutto quello che c’è da sapere sullo sconto al distributore",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/carburante_tetto_prezzi_ip_eni_sconti-425611013/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 18:44:13 +0200",
-        "excerpt": "Eni fissa la benzina al massimo a 1,99 euro al litro e il gasolio a 2,19. Insieme a Ip, le due compagnie gestiscono più di un terzo dei distributori italiani"
-      },
-      {
         "title": "I bar sotto casa, ne scompaiono 11 al giorno. L'allarme di Confesercenti",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/bar-sotto-casa-la-desertificazione-ne-cancella-24mila-in-6-anni-11-al-giorno_41129101-66b3-4b57-b8ee-ea35f41e224d.html",
         "source": "ANSA Economia",
         "pubDate": "Sun, 27 Sep 2026 18:12:49 +0200",
         "excerpt": "Ne sono stati chiusi 24mila in 6 anni, per le economie locali persi oltre 7,2 miliardi"
-      },
-      {
-        "title": "Armani, per il 15% della maison ipotesi spezzatino",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/armani_per_il_15_della_maison_ipotesi_spezzatino-425610775/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 18:09:50 +0200",
-        "excerpt": "L’ad Marsocci: “Non è scritto sulla pietra che deve essere solo uno”"
       },
       {
         "title": "Caro-carburanti, sindacati taxi pronti a sciopero, governo ci risponda",
@@ -85,13 +120,6 @@
         "source": "ANSA Economia",
         "pubDate": "Sun, 27 Sep 2026 17:39:06 +0200",
         "excerpt": "Per le auto a benzina -8,45 euro. La Cgia: 'Ma per il gasolio +27% da pre-guerra'"
-      },
-      {
-        "title": "Tutti vogliono una Starlink il fallimento dei russi e le lezioni per la IRIS2 europea",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/tutti_vogliono_una_starlink_il_fallimento_dei_russi_e_le_lezioni_per_la_iris2_europea-425607551/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 16:00:00 +0200",
-        "excerpt": "Rassvet non decolla ed evidenzia tre ordini di problemi che Bruxelles deve tenere presenti nella rincorsa a Musk: tecnologico, di costo e di realismo sui tempi. L’uso militare insieme al civile diventa la regola della sp"
       },
       {
         "title": "Barrick Mining raggiunge un accordo con i sindacati in Mali, scioperi annullati",
@@ -122,13 +150,6 @@
         "excerpt": "Il Pontefice ai vescovi francesi: avanti con ascolto, verità, giustizia, riparazione e prevenzione. Alla messa nella Prairie del Santuario di Nostra Signora di Lourdes presenti circa 150mila fedeli"
       },
       {
-        "title": "La Traviata di Baricco nella fabbrica del caffè. Assist culturale alla periferia di Napoli",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/la_traviata_di_baricco_nella_fabbrica_del_caffe_assist_culturale_alla_periferia_di_napoli-425610557/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 12:43:12 +0200",
-        "excerpt": "Il drammaturgo e sceneggiatore porta in scena una versione “da cortile” della opera di Verdi con il pubblico mischiato ai cantanti nei piazzali della Kimbo. In due serate quasi 1.200 spettatori in arrivo anche dai quarti"
-      },
-      {
         "title": "'In Europa migliora puntualità aerei ma 3 su 10 in ritardo, rischio rincari'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/in-europa-migliora-puntualita-aerei-ma-3-su-10-in-ritardo-rischio-rincari_01312812-b346-4b46-82cc-71434f030bfa.html",
         "source": "ANSA Economia",
@@ -143,25 +164,11 @@
         "excerpt": "'Dall'inizio guerra Usa-Iran comunque +19,2% benzina e +27,3% diesel nelle aree Eni'"
       },
       {
-        "title": "La Ue guardi oltre il Canada un patto con gli alleati per rispondere a Usa e Cina",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/la_ue_guardi_oltre_il_canada_un_patto_con_gli_alleati_per_rispondere_a_usa_e_cina-425607050/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 12:00:00 +0200",
-        "excerpt": "Riunire le economie dal Regno Unito alla Svizzera passando per Corea e Giappone permetterebbe di ridurre il protezionismo, coordinarsi per affrontare la sovraproduzione globale, assistersi contro la coercizione economica"
-      },
-      {
         "title": "Bar, chiuse 24mila attività in sei anni: Roma perde oltre il 30% dei locali",
         "link": "https://www.ilsole24ore.com/art/bar-chiuse-24mila-attivita-sei-anni-roma-perde-oltre-30percento-locali-AJe5JhQB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 27 Sep 2026 08:43:26 GMT",
         "excerpt": "Confesercenti fotografa la crisi delle attività di prossimità: tra il 2019 e il 2025 le imprese scendono da 169.839 a 145.766, con un calo del 14,2%. L’associazione stima un impoverimento dei territori superiore a 7,2 mi"
-      },
-      {
-        "title": "Carlotta Fabbri: con lei le ciliege più famose d’Italia hanno girato il mondo",
-        "link": "https://www.repubblica.it/economia/2026/09/27/news/carlotta_fabbri_con_lei_le_ciliege_piu_famose_d_italia_hanno_girato_il_mondo-425610375/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Sun, 27 Sep 2026 10:41:00 +0200",
-        "excerpt": "L’azienda Fabbri ha chiuso il 2025 con 145 milioni di euro di fatturato, più 11 per cento sull’anno precedente"
       },
       {
         "title": "Caso Regeni, domani la sentenza: chiesto l’ergastolo per uno dei quattro 007 egiziani",
@@ -218,13 +225,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "Sat, 26 Sep 2026 17:02:00 GMT",
         "excerpt": "Un evento “longue durée”, fino al 13 dicembre, in cui arte, architettura, design e fotografia indagano le mutazioni in atto nelle città e negli spazi relazionali delle comunità"
-      },
-      {
-        "title": "Le crociere fluviali sono a rischio a lungo termine per il cambiamento climatico?",
-        "link": "https://it.investing.com/news/stock-market-news/le-crociere-fluviali-sono-a-rischio-a-lungo-termine-per-il-cambiamento-climatico-3563686",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-26 16:07:30",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Borsa: Tokyo, apertura in rialzo (+0,29%)",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/28/borsa-tokyo-apertura-in-rialzo-029_8565c990-0f34-4d90-a35e-1c5518f87bb9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 28 Sep 2026 02:51:46 +0200",
+        "excerpt": "Titoli tecnologici trainanti, torna a salire il prezzo del petrolio"
+      },
+      {
         "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
         "link": "https://www.investing.com/news/commodities-news/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan-4919219",
         "source": "Investing.com Commodities",
@@ -525,13 +532,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 19:20:52 +0200",
         "excerpt": "La proposta, ben vista da Mosca, irrigidiva la posizione internazionale di Berna"
-      },
-      {
-        "title": "Axios, indagine OpenAI e Anthropic su decine di migliaia di incidenti di sicurezza",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/27/axios-indagine-openai-e-anthropic-su-decine-di-migliaia-di-incidenti-di-sicurezza_043c1471-5487-49a8-ae2e-f36cdbc7a6dd.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Sun, 27 Sep 2026 18:33:43 +0200",
-        "excerpt": "Tra questi creazione di bacheche di messaggi, fuga dalle sandbox, dirottamento di siti web"
       },
       {
         "title": "Iran’s army voices readiness for potential renewed US attack",
