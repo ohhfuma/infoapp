@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-28T22:08:09.141Z",
+  "lastUpdated": "2026-09-28T22:38:00.075Z",
   "finanza": {
     "italia": [
+      {
+        "title": "'OpenAi rinuncia al lancio del suo ultimo modello Ia per timori sicurezza'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/openai-rinuncia-al-lancio-del-suo-ultimo-modello-ia-per-timori-sicurezza_a9177c98-184c-4042-b3d2-54197943fe7d.html",
+        "source": "ANSA Economia",
+        "pubDate": "Tue, 29 Sep 2026 00:20:58 +0200",
+        "excerpt": "Wsj, non è risultato affidabile e per responsabili ha mostrato propensione all'inganno"
+      },
       {
         "title": "Le azioni di Summit salgono del 15% dopo l’accordo azionario da $2 miliardi con AstraZeneca",
         "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-summit-salgono-del-15-dopo-laccordo-azionario-da-2-miliardi-con-astrazeneca-3565703",
@@ -162,13 +169,6 @@
         "source": "ANSA Economia",
         "pubDate": "Mon, 28 Sep 2026 17:44:13 +0200",
         "excerpt": "L'ultimo indice Ftse Mib a 51.759 punti"
-      },
-      {
-        "title": "Filiera della pasta pari allo 0,6% del Pil, 14,3 miliardi di valore aggiunto",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/filiera-della-pasta-pari-allo-06-del-pil-143-miliardi-di-valore_2dbce828-f673-473d-bc9d-07a6daf4096f.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 17:30:33 +0200",
-        "excerpt": "Studio Ambrosetti per Uif, Unione Italiana Food"
       },
       {
         "title": "Chi è Roscioli, il tesoriere di Forza Italia vicino alla famiglia Berlusconi",
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "'OpenAi rinuncia al lancio del suo ultimo modello Ia per timori sicurezza'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/openai-rinuncia-al-lancio-del-suo-ultimo-modello-ia-per-timori-sicurezza_264beac2-c8a4-48eb-bd23-f53a6aebe043.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 29 Sep 2026 00:21:00 +0200",
+        "excerpt": "Wsj, non è risultato affidabile e per responsabili ha mostrato propensione all'inganno"
+      },
+      {
         "title": "Trump, 'all'Iran non ho offerto nulla'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/28/trump-alliran-non-ho-offerto-nulla_cee6ee3f-660d-48b5-be39-d1b4cf10f25b.html",
         "source": "ANSA Mondo",
@@ -504,13 +511,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "Mon, 28 Sep 2026 22:03:34 +0200",
         "excerpt": "L’intervista sul volo da Metz a Roma, al termine del viaggio di quattro giorni in Francia: “Quanto all’estrema destra, sarebbe interessante studiare e analizzare se c’è un legame, e quale, tra la crescita di questi grupp"
-      },
-      {
-        "title": "Media Emirati, Netanyahu da bin Zayed per discutere di relazioni bilaterali",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/28/media-emirati-netanyahu-da-bin-zayed-per-discutere-di-relazioni-bilaterali_3f36507b-2a5f-421e-b0f7-002d19374b38.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 28 Sep 2026 22:00:55 +0200",
-        "excerpt": "Lo riporta l'agenzia di stampa statale emiratina Wam"
       },
       {
         "title": "Corn futures fall on soybean weakness and stronger dollar",
