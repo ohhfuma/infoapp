@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-28T18:43:36.027Z",
+  "lastUpdated": "2026-09-28T19:08:34.680Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Boeing crolla del 6% mentre la FAA blocca la certificazione del Max 10",
+        "link": "https://it.investing.com/news/stock-market-news/boeing-crolla-del-6-mentre-la-faa-blocca-la-certificazione-del-max-10-3565511",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 18:42:13",
+        "excerpt": ""
+      },
       {
         "title": "Il petrolio chiude in rialzo a New York a 92,60 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/il-petrolio-chiude-in-rialzo-a-new-york-a-9260-dollari_9d0521d5-1d4a-4d91-9eae-91cbb7cc5287.html",
@@ -84,13 +91,6 @@
         "link": "https://it.investing.com/news/stock-market-news/la-startup-di-agenti-ai-instinct-raggiunge-una-valutazione-di-10-miliardi-3565479",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-28 17:36:34",
-        "excerpt": ""
-      },
-      {
-        "title": "Le azioni di Sweetgreen cancellano il calo da Cyclospora dopo l’upgrade di Wells Fargo",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-sweetgreen-cancellano-il-calo-da-cyclospora-dopo-lupgrade-di-wells-fargo-3565477",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 17:32:35",
         "excerpt": ""
       },
       {
@@ -401,10 +401,17 @@
     ],
     "mondo": [
       {
+        "title": "Trump unveils $15 billion planned Iowa steel project",
+        "link": "https://www.investing.com/news/commodities-news/trump-to-unveil-planned-15-billion-iowa-steel-project-4920589",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-28 18:54:28",
+        "excerpt": ""
+      },
+      {
         "title": "Israele, veleni sul viaggio di Netanyahu negli Emirati. “Il premier ha chiesto a Mbz di scagionarlo”",
         "link": "https://www.repubblica.it/esteri/2026/09/28/news/israele_viaggio_netanyahu_emirati_mbz_scagionarlo_7_ottobre_shin_bet_denuncia_channel_12-425613432/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "Mon, 28 Sep 2026 20:28:06 +0200",
+        "pubDate": "Mon, 28 Sep 2026 20:46:59 +0200",
         "excerpt": "L’ufficio del premier ha smentito più volte di aver ricevuto l’allarme sul 7 ottobre annunciando querele. Lo Shin Bet, il servizio segreto interno, ha addirittura presentato una denuncia contro Channel 12 per la fuga di "
       },
       {
@@ -441,13 +448,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 28 Sep 2026 19:11:29 +0200",
         "excerpt": "Il governo ordina alla popolazione della Baja California di rimanere a casa"
-      },
-      {
-        "title": "Trump to unveil planned $15 billion Iowa steel project",
-        "link": "https://www.investing.com/news/commodities-news/trump-to-unveil-planned-15-billion-iowa-steel-project-4920589",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-28 17:06:53",
-        "excerpt": ""
       },
       {
         "title": "Governatore ucraino, drone russo ha danneggiato posto di frontiera a confine polacco",
@@ -572,11 +572,32 @@
   },
   "attualita": [
     {
-      "title": "Nations League: Turchia-Italia in campo alle 20.45 DIRETTA",
+      "title": "Nations League: in campo Turchia-Italia 0-1 DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/28/nations-league-turchia-italia-in-campo-alle-20.45-diretta_270d1b30-d3fd-42cf-9020-5812108b0e17.html",
       "source": "ANSA",
-      "pubDate": "Mon, 28 Sep 2026 20:36:43 +0200",
-      "excerpt": "Mancini ne cambia otto, in campo insieme i fratelli Esposito. C'è Fagioli, oltre a Pio confermati Tonali e Donnarumma"
+      "pubDate": "Mon, 28 Sep 2026 21:00:05 +0200",
+      "excerpt": "Il difensore azzurro da centro dell'area finalizza al meglio un calcio d'angolo."
+    },
+    {
+      "title": "Più infrastrutture con il Pnrr. Labriola: “Ma sulle reti si poteva spendere meglio”",
+      "link": "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-digitalizzazione-2026/2026/09/28/news/piu_infrastrutture_con_il_pnrr_labriola_ma_sulle_reti_si_poteva_spendere_meglio-425613496/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:44:27 +0000",
+      "excerpt": "In arrivo 25 miliardi sui data center che però non assicurano la sovranità digitale. Catania: “Non dobbiamo perdere punti di Pil come con la rivoluzione Internet”"
+    },
+    {
+      "title": "Pio e Sebastiano Esposito, due fratelli titolari in azzurro dopo 111 anni",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/28/news/pio_sebastiano_esposito_fratelli_nazionale-425613469/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:38:41 +0000",
+      "excerpt": "Nel 1915 Aldo e Luigi Cevenini giocarono e segnarono insieme contro la Svizzera. Da allora solo gli Inzaghi hanno calcato il campo insieme, ma per 11 minuti con Trapattoni nel 2000"
+    },
+    {
+      "title": "Solo due Pmi su dieci investono in modo diffuso sulla digitalizzazione",
+      "link": "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-digitalizzazione-2026/2026/09/28/news/solo_due_pmi_su_dieci_investono_in_modo_diffuso_sulla_digitalizzazione-425613454/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:32:46 +0000",
+      "excerpt": "Bonifazi (Avantune): Il paradosso è che la tecnologia abbonda, ma è stata pensata quando erano le persone a doversi adattare agli strumenti"
     },
     {
       "title": "Suppletive, vince Roscioli, il centrodestra mantiene le posizioni a Reggio Calabria",
@@ -586,11 +607,32 @@
       "excerpt": "Meloni: 'Battuto il campo larghissimo'. Ma Vannacci: 'Sfondiamo il 10% e siamo appena decollati'"
     },
     {
+      "title": "Israele, veleni sul viaggio di Netanyahu negli Emirati. “Il premier ha chiesto a Mbz di scagionarlo”",
+      "link": "https://www.repubblica.it/esteri/2026/09/28/news/israele_viaggio_netanyahu_emirati_mbz_scagionarlo_7_ottobre_shin_bet_denuncia_channel_12-425613432/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:28:06 +0000",
+      "excerpt": "L’ufficio del premier ha smentito più volte di aver ricevuto l’allarme sul 7 ottobre annunciando querele. Lo Shin Bet, il servizio segreto interno, ha addirittura presentato una denuncia contro Channel 12 per la fuga di "
+    },
+    {
       "title": "Regeni, tre 007 egiziani condannati a dieci anni per il sequestro ma non per l'omicidio",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/la-morte-di-giulio-regeni-tre-007-egiziani-condannati-a-dieci-anni-per_64ef9a1a-bafc-462b-a8c9-eb196acca780.html",
       "source": "ANSA",
       "pubDate": "Mon, 28 Sep 2026 20:26:42 +0200",
       "excerpt": "Sono stati condannati per il sequestro del ricercatore avvenuto al Cairo il 25 gennaio del 2016. I giudici hanno fatto cadere l'accusa di omicidio riconoscendo per i condannati l'accusa di sequestro di persona"
+    },
+    {
+      "title": "Pa digitale, balzo in avanti dell’Italia: l’app IO modello per l’Europa",
+      "link": "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-digitalizzazione-2026/2026/09/28/news/pa_digitale_balzo_in_avanti_dell_italia_l_app_io_modello_per_l_europa-425613427/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:26:24 +0000",
+      "excerpt": "Gli investimenti nel digitale devono proseguire anche dopo il Recovery. La sfida delle Zis, zone di innovazione e sviluppo"
+    },
+    {
+      "title": "IA, la rivoluzione più veloce e dirompente degli ultimi 40 anni",
+      "link": "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-digitalizzazione-2026/2026/09/28/news/ia_la_rivoluzione_piu_veloce_e_dirompente_degli_ultimi_40_anni-425613416/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:23:32 +0000",
+      "excerpt": "La trasformazione tocca banche e assicurazioni. Vaccarono: “Dobbiamo far studiare più persone e in modo continuativo”"
     },
     {
       "title": "Regeni, cosa succederà dopo la condanna dei tre 007 egiziani",
@@ -614,20 +656,6 @@
       "excerpt": "A oltre dieci anni dalla morte del ricercatore al Cairo, è arrivato il verdetto nei confronti dei suoi assassini. Ecco gli snodi principali della vicenda"
     },
     {
-      "title": "Reggio Calabria, Vannacci non sgambetta il centrodestra nella terra dei disillusi",
-      "link": "https://www.repubblica.it/commenti/2026/09/28/news/reggio_calabria_vannacci_non_sgambetta_il_centrodestra_nella_terra_dei_disillusi-425613079/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 16:21:30 +0000",
-      "excerpt": "L’estremismo dell’ex generale ha successo dove il malessere è alto, ma non tanto da cambiare gli equilibri. L’idea di usarlo come un taxi per farsi portare in Parlamento al prossimo giro servirà ai singoli, non al risult"
-    },
-    {
-      "title": "Giulio Regeni, la sentenza: tre condannati a 10 anni e uno assolto. I genitori: “Siamo soddisfatti”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/28/diretta/sentenza_regeni_morte_omicidio_processo_oggi-425613074/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 16:20:46 +0000",
-      "excerpt": "Caduta l'accusa di omicidio, gli 007 egiziani riconosciuti colpevoli per tortura e sequestro. L’avvocata Ballerini: “Il governo prenda atto della sentenza e rompa i rapporti con Egitto”"
-    },
-    {
       "title": "Elisa e Andrea Rigonat si sono separati dopo 18 anni insieme",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/09/28/finisce-la-storia-damore-tra-elisa-e-andrea-rigonat_e3e21a49-0ced-48d6-a009-894333548ee2.html",
       "source": "ANSA",
@@ -640,34 +668,6 @@
       "source": "ANSA",
       "pubDate": "Mon, 28 Sep 2026 17:43:07 +0200",
       "excerpt": "Sul palco Grohl, Novoselic e Smear. Loro il Video Vanguard Award"
-    },
-    {
-      "title": "Denis Bergamini, nuovo indagato: notificato l’avviso al cugino dell’ex fidanzata del calciatore",
-      "link": "https://www.repubblica.it/cronaca/2026/09/28/news/denis_bergamini_calciatore_cosenza_indagato_ex_cognato_roberto_interno-425612941/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 15:01:23 +0000",
-      "excerpt": "Il nuovo iscritto nel registro è Roberto Internò, oggi 65enne. Il 17 novembre la sentenza d'appello per l'ex del calciatore, Isabella Internò"
-    },
-    {
-      "title": "Il razzo Starship di SpaceX ha raggiunto l’orbita terrestre, ma poi è tornato prima del previsto",
-      "link": "https://www.repubblica.it/cronaca/2026/09/28/news/razzo_starship_spacex_raggiunge_orbita_terrestre-425612925/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 14:52:29 +0000",
-      "excerpt": "Il test prevedeva sei giri intorno alla Terra, ma è stato interrotto dopo il primo per un guasto al motore. Starship avrà il compito di portare l’essere umano su Luna e Marte. I tredici voli di prova precedenti erano fal"
-    },
-    {
-      "title": "Caro gasolio, in Sicilia si fermano tir, trattori e pescherecci: distribuzione delle merci a rischio",
-      "link": "https://palermo.repubblica.it/cronaca/2026/09/28/news/caro_gasolio_sicilia_si_fermano_autotrasporto_agricoltura_pesca-425612883/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 14:29:07 +0000",
-      "excerpt": "Oggi il corteo degli agricoltori, gli autotrasportatori e gli armatori preparano la serrata"
-    },
-    {
-      "title": "Migranti, anche la Grecia vuole aprire un centro per i rimpatri in Africa nel 2027",
-      "link": "https://www.repubblica.it/cronaca/2026/09/28/news/migranti_grecia_africa_2027_centro_rimpatri-425612843/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 14:12:02 +0000",
-      "excerpt": "Atene annuncia la partecipazione al progetto già avviato da Germania, Austria, Paesi Bassi e Danimarca. Il Paese destinato a ospitare la struttura per i rimpatri fuori dai confini Ue sarebbe già stato scelto. In lizza Ru"
     },
     {
       "title": "Uno zucchero presente nella carne rossa aumenta il rischio di diabete fino al 63%",
@@ -742,11 +742,11 @@
   ],
   "sport": [
     {
-      "title": "Nations League: Turchia-Italia in campo alle 20.45 DIRETTA",
+      "title": "Nations League: in campo Turchia-Italia 0-1 DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/28/nations-league-turchia-italia-in-campo-alle-20.45-diretta_270d1b30-d3fd-42cf-9020-5812108b0e17.html",
       "source": "ANSA Sport",
-      "pubDate": "Mon, 28 Sep 2026 20:36:43 +0200",
-      "excerpt": "Mancini ne cambia otto, in campo insieme i fratelli Esposito. C'è Fagioli, oltre a Pio confermati Tonali e Donnarumma"
+      "pubDate": "Mon, 28 Sep 2026 21:00:05 +0200",
+      "excerpt": "Il difensore azzurro da centro dell'area finalizza al meglio un calcio d'angolo."
     },
     {
       "title": "Nba, LeBron: 'Per fare cose grandi con i Sixers servono tempo e sacrifici'",

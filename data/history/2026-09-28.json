@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Boeing crolla del 6% mentre la FAA blocca la certificazione del Max 10",
+        "link": "https://it.investing.com/news/stock-market-news/boeing-crolla-del-6-mentre-la-faa-blocca-la-certificazione-del-max-10-3565511",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 18:42:13",
+        "excerpt": ""
+      },
+      {
         "title": "Il petrolio chiude in rialzo a New York a 92,60 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/il-petrolio-chiude-in-rialzo-a-new-york-a-9260-dollari_9d0521d5-1d4a-4d91-9eae-91cbb7cc5287.html",
         "source": "ANSA Economia",
@@ -414,13 +421,6 @@
         "link": "https://it.investing.com/news/stock-market-news/il-governo-federale-investe-51-milioni-di-dollari-nel-texas-rurale-contro-diabete-e-obesita-93CH-3565290",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-28 14:12:30",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo di Credo Tecnologia scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-credo-tecnologia-scende-oggi-93CH-3565289",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 14:12:23",
         "excerpt": ""
       }
     ],
@@ -906,6 +906,13 @@
         "excerpt": "Attaccata una zona con università, teatro dell'opera e l'ambasciata tedesca"
       },
       {
+        "title": "China, US agree to tariff cuts on $60 billion of goods including agriculture, household items",
+        "link": "https://www.investing.com/news/commodities-news/china-says-us-trade-truce-extension-creates-space-to-advance-talks-4919293",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-28 13:30:37",
+        "excerpt": ""
+      },
+      {
         "title": "Mercoledì gli attacchi ibridi al tavolo Nato, Rutte al Coreper Ue",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/28/mercoledi-gli-attacchi-ibridi-al-tavolo-nato-rutte-al-coreper-ue_573dce11-aa9f-42c5-a186-575dc59ba11c.html",
         "source": "ANSA Mondo",
@@ -1081,6 +1088,13 @@
         "excerpt": "'Rinnovo l'appello ai 27, forniscano Kiev di sistema di difesa con le loro scorte'"
       },
       {
+        "title": "IA fuori controllo, Trump: “Non me ne preoccupo”. Bill Gates: “Potrebbe causare miliardi di morti, servono leggi”",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/ia_trump_gates_regole-425611574/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 10:24:23 +0200",
+        "excerpt": "Il presidente Usa riceve Dario Amodei alla Casa Bianca e si dice tranquillo sugli allarmi lanciati da Antrhropic e OpenAI"
+      },
+      {
         "title": "Un astronauta straniero per la prima volta sulla stazione spaziale cinese Tiangong",
         "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/28/un-astronauta-straniero-per-la-prima-volta-sulla-stazione-spaziale-cinese-tiangong_8aa6312a-d554-4046-9f37-5182dec3f829.html",
         "source": "ANSA Mondo",
@@ -1156,30 +1170,37 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-28 07:11:48",
         "excerpt": ""
-      },
-      {
-        "title": "Copper tests 200-period SMA at $6.63: Live levels",
-        "link": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-28 07:11:47",
-        "excerpt": ""
-      },
-      {
-        "title": "China says to cut tariffs on US farm goods, but soybeans excluded",
-        "link": "https://www.investing.com/news/commodities-news/china-says-to-cut-tariffs-on-us-farm-goods-but-soybeans-excluded-4919307",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-28 04:24:27",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Più infrastrutture con il Pnrr. Labriola: “Ma sulle reti si poteva spendere meglio”",
+      "link": "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-digitalizzazione-2026/2026/09/28/news/piu_infrastrutture_con_il_pnrr_labriola_ma_sulle_reti_si_poteva_spendere_meglio-425613496/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:44:27 +0000",
+      "excerpt": "In arrivo 25 miliardi sui data center che però non assicurano la sovranità digitale. Catania: “Non dobbiamo perdere punti di Pil come con la rivoluzione Internet”"
+    },
+    {
+      "title": "Pio e Sebastiano Esposito, due fratelli titolari in azzurro dopo 111 anni",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/28/news/pio_sebastiano_esposito_fratelli_nazionale-425613469/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:38:41 +0000",
+      "excerpt": "Nel 1915 Aldo e Luigi Cevenini giocarono e segnarono insieme contro la Svizzera. Da allora solo gli Inzaghi hanno calcato il campo insieme, ma per 11 minuti con Trapattoni nel 2000"
+    },
     {
       "title": "Nations League: Turchia-Italia in campo alle 20.45 DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/28/nations-league-turchia-italia-in-campo-alle-20.45-diretta_270d1b30-d3fd-42cf-9020-5812108b0e17.html",
       "source": "ANSA",
       "pubDate": "Mon, 28 Sep 2026 20:36:43 +0200",
       "excerpt": "Mancini ne cambia otto, in campo insieme i fratelli Esposito. C'è Fagioli, oltre a Pio confermati Tonali e Donnarumma"
+    },
+    {
+      "title": "Solo due Pmi su dieci investono in modo diffuso sulla digitalizzazione",
+      "link": "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-digitalizzazione-2026/2026/09/28/news/solo_due_pmi_su_dieci_investono_in_modo_diffuso_sulla_digitalizzazione-425613454/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:32:46 +0000",
+      "excerpt": "Bonifazi (Avantune): Il paradosso è che la tecnologia abbonda, ma è stata pensata quando erano le persone a doversi adattare agli strumenti"
     },
     {
       "title": "Suppletive, vince Roscioli, il centrodestra mantiene le posizioni a Reggio Calabria",
@@ -1189,11 +1210,32 @@
       "excerpt": "Meloni: 'Battuto il campo larghissimo'. Ma Vannacci: 'Sfondiamo il 10% e siamo appena decollati'"
     },
     {
+      "title": "Israele, veleni sul viaggio di Netanyahu negli Emirati. “Il premier ha chiesto a Mbz di scagionarlo”",
+      "link": "https://www.repubblica.it/esteri/2026/09/28/news/israele_viaggio_netanyahu_emirati_mbz_scagionarlo_7_ottobre_shin_bet_denuncia_channel_12-425613432/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:28:06 +0000",
+      "excerpt": "L’ufficio del premier ha smentito più volte di aver ricevuto l’allarme sul 7 ottobre annunciando querele. Lo Shin Bet, il servizio segreto interno, ha addirittura presentato una denuncia contro Channel 12 per la fuga di "
+    },
+    {
       "title": "Regeni, tre 007 egiziani condannati a dieci anni per il sequestro ma non per l'omicidio",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/la-morte-di-giulio-regeni-tre-007-egiziani-condannati-a-dieci-anni-per_64ef9a1a-bafc-462b-a8c9-eb196acca780.html",
       "source": "ANSA",
       "pubDate": "Mon, 28 Sep 2026 20:26:42 +0200",
       "excerpt": "Sono stati condannati per il sequestro del ricercatore avvenuto al Cairo il 25 gennaio del 2016. I giudici hanno fatto cadere l'accusa di omicidio riconoscendo per i condannati l'accusa di sequestro di persona"
+    },
+    {
+      "title": "Pa digitale, balzo in avanti dell’Italia: l’app IO modello per l’Europa",
+      "link": "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-digitalizzazione-2026/2026/09/28/news/pa_digitale_balzo_in_avanti_dell_italia_l_app_io_modello_per_l_europa-425613427/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:26:24 +0000",
+      "excerpt": "Gli investimenti nel digitale devono proseguire anche dopo il Recovery. La sfida delle Zis, zone di innovazione e sviluppo"
+    },
+    {
+      "title": "IA, la rivoluzione più veloce e dirompente degli ultimi 40 anni",
+      "link": "https://www.repubblica.it/dossier/economia/affari-e-finanza-live-digitalizzazione-2026/2026/09/28/news/ia_la_rivoluzione_piu_veloce_e_dirompente_degli_ultimi_40_anni-425613416/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:23:32 +0000",
+      "excerpt": "La trasformazione tocca banche e assicurazioni. Vaccarono: “Dobbiamo far studiare più persone e in modo continuativo”"
     },
     {
       "title": "Regeni, cosa succederà dopo la condanna dei tre 007 egiziani",
@@ -1551,48 +1593,6 @@
       "source": "Repubblica",
       "pubDate": "Mon, 28 Sep 2026 03:34:24 +0000",
       "excerpt": "Il presidente Usa riceve Dario Amodei alla Casa Bianca e si dice tranquillo sugli allarmi lanciati da Antrhropic e OpenAI"
-    },
-    {
-      "title": "Mtv video music awards, Madonna apre lo show. Taylor Swift la più premiata della storia",
-      "link": "https://www.repubblica.it/spettacoli/2026/09/28/news/mtv_video_music_awards_premi_madonna_taylor_swift-425611554/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 03:02:02 +0000",
-      "excerpt": "Il video The Fate of Ophelia è il migliore dell’anno"
-    },
-    {
-      "title": "Giovanna Mezzogiorno “Adesso combatto il passato per vivere il presente”",
-      "link": "https://www.repubblica.it/spettacoli/cinema/2026/09/28/news/giovanna_mezzogiorno_intervista-425611401/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 03:01:00 +0000",
-      "excerpt": "In sala con “Se ami qualcuno dillo” e “Sotto a chi tocca”, l’attrice ripercorre le sue mille vite. E racconta:“I miei figli mi fanno molto ridere. Mio padre Vittorio si complimentò con me solo dopo avermi sentito cantare"
-    },
-    {
-      "title": "Trump: 'L'Ia fuori controllo? Non sono preoccupato'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/27/axios-trump-terra-cena-privata-alla-casa-bianca-con-il-ceo_aca63136-c974-4a3f-8c66-63ee65195ce2.html",
-      "source": "ANSA",
-      "pubDate": "Mon, 28 Sep 2026 03:36:26 +0200",
-      "excerpt": "Axios: 'Il presidente a cena privata alla Casa Bianca con il ceo di Anthropic'"
-    },
-    {
-      "title": "Torino, il killer accusa la prof: “Droga e orrore, lei la regista”",
-      "link": "https://torino.repubblica.it/cronaca/2026/09/28/news/omicidio_pusher_professoressa_torino_droga-425611540/",
-      "source": "Repubblica",
-      "pubDate": "Mon, 28 Sep 2026 01:23:58 +0000",
-      "excerpt": "Il 26enne assassino del pusher: “Ci manovrava. Ha studiato come disfarsi del corpo, voleva tornare alla sua vita normale”"
-    },
-    {
-      "title": "L’irripetibile forma artistica del calcio",
-      "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/09/28/news/l_irripetibile_forma_artistica_del_calcio-425611535/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:24:35 +0000",
-      "excerpt": "Puoi conoscere tutto e continuare a non sapere cosa succederà"
-    },
-    {
-      "title": "Folgorato sul traliccio: il mistero dell’ultimo selfie e del cellulare scomparso",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/28/news/folgorato_traliccio_lodi_mistero_selfie_cellulare_scomparso-425611391/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:14 +0000",
-      "excerpt": "Caccia alle chat del quindicenne morto a Lodi. La madre: “Nessuna sfida social”. Ma gli inquirenti non smentiscono la pista"
     }
   ],
   "sport": [
