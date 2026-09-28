@@ -4,11 +4,46 @@
   "finanza": {
     "italia": [
       {
+        "title": "Il petrolio chiude in rialzo a New York a 92,60 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/il-petrolio-chiude-in-rialzo-a-new-york-a-9260-dollari_9d0521d5-1d4a-4d91-9eae-91cbb7cc5287.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 20:38:31 +0200",
+        "excerpt": "Quotazioni salgono dello 0,21%"
+      },
+      {
+        "title": "Difesa, intesa tra Fincantieri e PT PAL Indonesia per ammodernare l’ex nave Garibaldi ",
+        "link": "https://www.ilsole24ore.com/art/difesa-intesa-fincantieri-e-pt-pal-indonesia-ammodernare-l-ex-nave-garibaldi-AJ8h8aRB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "Mon, 28 Sep 2026 18:16:23 GMT",
+        "excerpt": "La nave, che allo stato attuale ha il nome di “KRI SRIWIJAYA”, sarà utilizzata dalla Marina indonesiana nell’ambito di un ampio spettro di missioni, dalle operazioni di difesa e sicurezza marittima fino alle attività di "
+      },
+      {
+        "title": "I migliori titoli software da monitorare secondo Oppenheimer",
+        "link": "https://it.investing.com/news/stock-market-news/i-migliori-titoli-software-da-monitorare-secondo-oppenheimer-3565502",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 18:16:23",
+        "excerpt": ""
+      },
+      {
+        "title": "UBS avverte: i rischi sui prezzi alimentari potrebbero spingere i rendimenti obbligazionari al rialzo",
+        "link": "https://it.investing.com/news/stock-market-news/ubs-avverte-i-rischi-sui-prezzi-alimentari-potrebbero-spingere-i-rendimenti-obbligazionari-al-rialzo-93CH-3565500",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 18:12:47",
+        "excerpt": ""
+      },
+      {
         "title": "Riscaldamento in condominio: arrivano la telelettura e i report mensili sui consumi",
         "link": "https://www.ilsole24ore.com/art/riscaldamento-condominio-arrivano-telelettura-e-report-mensili-consumi-AJ84o3RB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Mon, 28 Sep 2026 18:05:57 GMT",
         "excerpt": "Almeno una volta al mese. Questa è la frequenza con cui a chi vive in condomini con un impianto di riscaldamento centralizzato – cioè un sistema unico che rifornisce più..."
+      },
+      {
+        "title": "Perché il titolo Tesla crolla del 3,5% oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-tesla-crolla-del-35-oggi-93CH-3565489",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 18:02:28",
+        "excerpt": ""
       },
       {
         "title": "Il prezzo del gas in calo a 71,52 euro",
@@ -387,41 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-28 14:12:23",
         "excerpt": ""
-      },
-      {
-        "title": "Tesla sotto le medie chiave con rischio breakdown: aggiornato",
-        "link": "https://it.investing.com/news/stock-market-news/tesla-sotto-le-medie-chiave-con-rischio-breakdown-aggiornato-93CH-3565286",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 14:10:20",
-        "excerpt": ""
-      },
-      {
-        "title": "Microsoft in consolidamento tra $504 e $515: aggiornato ogni ora",
-        "link": "https://it.investing.com/news/stock-market-news/microsoft-in-consolidamento-tra-504-e-515-aggiornato-ogni-ora-93CH-3565285",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 14:10:19",
-        "excerpt": ""
-      },
-      {
-        "title": "Ricerca e innovazione, Astrazeneca presenta strategia per competitività e crescita",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/ricerca-e-innovazione-astrazeneca-presenta-strategia-per-competitivita-e-crescita_47dba0af-25e5-401d-9b08-5728f277cbc0.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 16:05:14 +0200",
-        "excerpt": "Pubblico e privato insieme per attrarre investimenti nelle Life Science"
-      },
-      {
-        "title": "L’allarme di Lagarde: “Tassi a lungo termine peseranno sulla crescita”",
-        "link": "https://www.repubblica.it/economia/2026/09/28/news/l_allarme_di_lagarde_tassi_a_lungo_termine_crescita-425612814/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 16:01:42 +0200",
-        "excerpt": "L’intervento in Parlamento europeo: “I salari non hanno reagito a shock energia”"
-      },
-      {
-        "title": "Borsa: l'Europa positiva dopo Wall Street, Milano +0,37%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-leuropa-positiva-dopo-wall-street-milano-037_4eed4655-6e06-4b24-bc2a-f7f2af685047.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 16:00:52 +0200",
-        "excerpt": "A Piazza Affari balzo di Amplifon, giù Tim. Lo spread Btp-Bund a 93 punti"
       }
     ],
     "europa": [
@@ -751,6 +751,27 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Israele, veleni sul viaggio di Netanyahu negli Emirati. “Il premier ha chiesto a Mbz di scagionarlo”",
+        "link": "https://www.repubblica.it/esteri/2026/09/28/news/israele_viaggio_netanyahu_emirati_mbz_scagionarlo_7_ottobre_shin_bet_denuncia_channel_12-425613432/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "Mon, 28 Sep 2026 20:28:06 +0200",
+        "excerpt": "L’ufficio del premier ha smentito più volte di aver ricevuto l’allarme sul 7 ottobre annunciando querele. Lo Shin Bet, il servizio segreto interno, ha addirittura presentato una denuncia contro Channel 12 per la fuga di "
+      },
+      {
+        "title": "Cristina Kirchner insiste su una candidatura nel 2027 nonostante la condanna",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/28/cristina-kirchner-insiste-su-una-candidatura-nel-2027-nonostante-la-condanna_fba348f1-b9f4-4f05-a3c9-2d0efca5e78a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 28 Sep 2026 20:27:36 +0200",
+        "excerpt": "L'ex presidente si contende la leadership del peronismo con il governatore Axel Kicillof"
+      },
+      {
+        "title": "Brasile, Lula firma la legge sul calcio femminile in vista dei Mondiali 2027",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/28/brasile-lula-firma-la-legge-sul-calcio-femminile-in-vista-dei-mondiali_b739ae11-d9f1-4a98-90eb-ccecd28eac3a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 28 Sep 2026 20:11:06 +0200",
+        "excerpt": "Norme su professionalizzazione, maternità, parità salariale e discriminazioni"
+      },
       {
         "title": "Putin aumenta di 15.000 il numero di militari, il totale sale a 1.550.000",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/28/putin-aumenta-di-15.000-il-numero-di-militari-il-totale-sale-a-1.550.000_31b18c7e-ee2a-4ed6-b2bc-08241df157e5.html",
@@ -1149,31 +1170,45 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-28 04:24:27",
         "excerpt": ""
-      },
-      {
-        "title": "Media, '7 ottobre, 007 Egitto chiamarono Netanyahu dopo due avvisi inascoltati'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/28/media-7-ottobre-007-egitto-chiamarono-netanyahu-dopo-due-avvisi-inascoltati_dbfc74cd-6cf6-4e8a-95b5-a3696cf9a0cd.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 28 Sep 2026 06:08:54 +0200",
-        "excerpt": "Il capo dell'intelligence chiamò il premier pochi giorni prima dell'offensiva di Hamas"
-      },
-      {
-        "title": "IA fuori controllo, Trump: “Non me ne preoccupo”. Bill Gates: “L’autoregolamentazione non basta”",
-        "link": "https://www.repubblica.it/esteri/2026/09/28/news/ia_trump_gates_regole-425611574/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Mon, 28 Sep 2026 05:34:24 +0200",
-        "excerpt": "Il presidente Usa riceve Dario Amodei alla Casa Bianca e si dice tranquillo sugli allarmi lanciati da Antrhropic e OpenAI"
-      },
-      {
-        "title": "China says US trade truce extension creates space to advance talks",
-        "link": "https://www.investing.com/news/commodities-news/china-says-us-trade-truce-extension-creates-space-to-advance-talks-4919293",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-28 03:12:52",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Nations League: Turchia-Italia in campo alle 20.45 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/28/nations-league-turchia-italia-in-campo-alle-20.45-diretta_270d1b30-d3fd-42cf-9020-5812108b0e17.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 20:36:43 +0200",
+      "excerpt": "Mancini ne cambia otto, in campo insieme i fratelli Esposito. C'è Fagioli, oltre a Pio confermati Tonali e Donnarumma"
+    },
+    {
+      "title": "Suppletive, vince Roscioli, il centrodestra mantiene le posizioni a Reggio Calabria",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/28/suppletive-vince-roscioli-il-centrodestra-mantiene-le-posizioni-a-reggio-calabria_a63e6693-4c61-4c65-82d4-be0b74ae1210.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 20:28:44 +0200",
+      "excerpt": "Meloni: 'Battuto il campo larghissimo'. Ma Vannacci: 'Sfondiamo il 10% e siamo appena decollati'"
+    },
+    {
+      "title": "Regeni, tre 007 egiziani condannati a dieci anni per il sequestro ma non per l'omicidio",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/la-morte-di-giulio-regeni-tre-007-egiziani-condannati-a-dieci-anni-per_64ef9a1a-bafc-462b-a8c9-eb196acca780.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 20:26:42 +0200",
+      "excerpt": "Sono stati condannati per il sequestro del ricercatore avvenuto al Cairo il 25 gennaio del 2016. I giudici hanno fatto cadere l'accusa di omicidio riconoscendo per i condannati l'accusa di sequestro di persona"
+    },
+    {
+      "title": "Regeni, cosa succederà dopo la condanna dei tre 007 egiziani",
+      "link": "https://www.repubblica.it/cronaca/2026/09/28/news/regeni_condanna_agenti_cosa_succede_ora-425613398/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 18:14:33 +0000",
+      "excerpt": "Nessuno è stato condannato per l’omicidio. Probabilmente, la Procura ricorrerà in appello"
+    },
+    {
+      "title": "Madonna regina dei Video Music Awards a Los Angeles, Taylor Swift ancora da record",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/09/28/madonna-regina-dei-video-music-awards-a-los-angeles-taylor-swift_d5dc99d2-c14d-4929-98bc-d5a5ce5692d7.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 20:09:55 +0200",
+      "excerpt": "In Italia la cerimonia sarà trasmessa stasera su MTV e su Comedy Central,poi su Paramount+"
+    },
     {
       "title": "La morte di Giulio Regeni: tre 007 condannati a dieci anni per il sequestro ma non per l'omicidio",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/la-morte-di-giulio-regeni-tre-007-condannati-a-dieci-anni-per-il-sequestro_64ef9a1a-bafc-462b-a8c9-eb196acca780.html",
@@ -1558,41 +1593,6 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 23:00:14 +0000",
       "excerpt": "Caccia alle chat del quindicenne morto a Lodi. La madre: “Nessuna sfida social”. Ma gli inquirenti non smentiscono la pista"
-    },
-    {
-      "title": "Suppletive a Reggio Calabria, test per la destra divisa. Affluenza in picchiata",
-      "link": "https://www.repubblica.it/politica/2026/09/28/news/suppletive_reggio_calabria_test_destra_divisa_vannacci_affluenza-425611452/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
-      "excerpt": "Ieri sera alle 23 la partecipazione al voto era di 14,97%, in calo del 25% rispetto al 2022 quando si votava un solo giorno"
-    },
-    {
-      "title": "Torna la tassa invisibile. Stangata da 13 miliardi su stipendi e pensioni",
-      "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/09/28/news/tassa_invisibile_da_13_miliardi_su_stipendi_e_pensioni_fiscal_drag-425611378/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
-      "excerpt": "In questo biennio il drenaggio fiscale colpisce di nuovo i dipendenti e i pensionati. Aumentano le entrate del Tesoro alla vigilia della manovra elettorale"
-    },
-    {
-      "title": "Adesso Meloni punta la Q8 per chiudere il cerchio. Contatti diplomatici con il Golfo",
-      "link": "https://www.repubblica.it/economia/2026/09/28/news/adesso_meloni_punta_la_q8_per_chiudere_il_cerchio_contatti_diplomatici_con_il_golfo-425611394/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
-      "excerpt": "La compagnia kuwaitiana possiede quasi tremila impianti. Cautela a palazzo Chigi per le norme a tutela del mercato"
-    },
-    {
-      "title": "Bearzi (Figisc): “È concorrenza sleale. Valutiamo azioni comuni anche all’Antitrust”",
-      "link": "https://www.repubblica.it/economia/2026/09/28/news/bearzi_figisc_e_concorrenza_sleale_valutiamo_azioni_comuni_anche_all_antitrust-425611346/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
-      "excerpt": "Intervista al presidente dell’associazione dei distributori associata a Confcommercio. “Di solito ogni gestore ha un margine compreso tra i 3,5 e i 4 centesimi. I tagli annunciati quindi causeranno delle perdite”"
-    },
-    {
-      "title": "“Faccio la maestra come mia madre, taglio spese non essenziali ma tremo a ogni imprevisto”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/28/news/piccoli_salari_inchiesta_maestra_sostegno_impoverita_taglio_spese_non_essenziali_ma_tremo_a_ogni_imprevisto-425611386/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
-      "excerpt": "Terza puntata della serie “Piccoli salari”. Parla Chiara Migliori, insegnante di sostegno. “Noi docenti siamo impoveriti. In 16 anni di lavoro lo stipendio è cresciuto di neanche 200 euro. Con due figli adolescenti rispa"
     }
   ],
   "sport": [
