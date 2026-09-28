@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T23:37:17.736Z",
+  "lastUpdated": "2026-09-28T00:11:45.341Z",
   "finanza": {
     "italia": [
       {
@@ -572,6 +572,34 @@
   },
   "attualita": [
     {
+      "title": "Torna la tassa invisibile. Stangata da 13 miliardi su stipendi e pensioni",
+      "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/09/28/news/tassa_invisibile_da_13_miliardi_su_stipendi_e_pensioni_fiscal_drag-425611378/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "excerpt": "In questo biennio il drenaggio fiscale colpisce di nuovo i dipendenti e i pensionati. Aumentano le entrate del Tesoro alla vigilia della manovra elettorale"
+    },
+    {
+      "title": "Adesso Meloni punta la Q8 per chiudere il cerchio. Contatti diplomatici con il Golfo",
+      "link": "https://www.repubblica.it/economia/2026/09/28/news/adesso_meloni_punta_la_q8_per_chiudere_il_cerchio_contatti_diplomatici_con_il_golfo-425611394/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "excerpt": "La compagnia kuwaitiana possiede quasi tremila impianti. Cautela a palazzo Chigi per le norme a tutela del mercato"
+    },
+    {
+      "title": "Bearzi (Figisc): “È concorrenza sleale. Valutiamo azioni comuni anche all’Antitrust”",
+      "link": "https://www.repubblica.it/economia/2026/09/28/news/bearzi_figisc_e_concorrenza_sleale_valutiamo_azioni_comuni_anche_all_antitrust-425611346/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "excerpt": "Intervista al presidente dell’associazione dei distributori associata a Confcommercio. “Di solito ogni gestore ha un margine compreso tra i 3,5 e i 4 centesimi. I tagli annunciati quindi causeranno delle perdite”"
+    },
+    {
+      "title": "“Faccio la maestra come mia madre, taglio spese non essenziali ma tremo a ogni imprevisto”",
+      "link": "https://www.repubblica.it/cronaca/2026/09/28/news/piccoli_salari_inchiesta_maestra_sostegno_impoverita_taglio_spese_non_essenziali_ma_tremo_a_ogni_imprevisto-425611386/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "excerpt": "Terza puntata della serie “Piccoli salari”. Parla Chiara Migliori, insegnante di sostegno. “Noi docenti siamo impoveriti. In 16 anni di lavoro lo stipendio è cresciuto di neanche 200 euro. Con due figli adolescenti rispa"
+    },
+    {
       "title": "Suppletive a Reggio Calabria, test per la destra divisa. Affluenza in picchiata",
       "link": "https://www.repubblica.it/politica/2026/09/28/news/suppletive_reggio_calabria_test_destra_divisa_vannacci_affluenza-425611452/",
       "source": "Repubblica",
@@ -590,7 +618,14 @@
       "link": "https://www.repubblica.it/esteri/2026/09/28/diretta/guerra_iran_usa_israele_news_oggi-425611520/",
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 22:02:04 +0000",
-      "excerpt": ""
+      "excerpt": "Wsj: “Mediatori di pace in pressing su Teheran per concessioni sul nucleare”"
+    },
+    {
+      "title": "Gabriella e il diritto alla casa senza perdere chi si ama",
+      "link": "https://www.repubblica.it/commenti/2026/09/28/news/casa_esclusione_abitativa_emergenzadegregorio-425611045/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 22:01:00 +0000",
+      "excerpt": "La speculazione, gli affitti al nero, i problemi dei fuorisede: è l’esclusione abitativa"
     },
     {
       "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
@@ -621,46 +656,11 @@
       "excerpt": "'Like New' è la prima grande mostra sull'artista a New York da oltre trent'anni"
     },
     {
-      "title": "Sorpresa McNulty, a Montreal l’America si regala un Mondiale con i baffi. Ciccone chiude al 9° posto",
-      "link": "https://www.repubblica.it/sport/ciclismo/2026/09/27/news/mcnulty_montreal_campione_del_mondo_usa_ciccone_nono-425611476/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 20:32:54 +0000",
-      "excerpt": "Corsa pazza e bellissima: Matthews 2°, Van der Poel 3°. Giulio: “Volevamo qualcosa in più”"
-    },
-    {
-      "title": "Irlanda, i giocatori a testa bassa durante l’inno di Israele, poi non danno la mano agli avversari",
-      "link": "https://www.repubblica.it/sport/calcio/2026/09/27/news/irlanda_lutto_al_braccio_niente_mano_giocatori_israele-425611454/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 20:24:53 +0000",
-      "excerpt": "Protesta eclatante degli irlandesi prima della gara di Nations League giocata sul neutro di Debrecen, in Ungheria"
-    },
-    {
-      "title": "Reggio Emilia, a un distributore aggredisce una donna e investe due passanti: tre feriti gravi",
-      "link": "https://bologna.repubblica.it/cronaca/2026/09/27/news/reggio_emilia_donna_aggredita_distributore_due_persone_investite-425611360/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 19:43:30 +0000",
-      "excerpt": "Arrestato un 26enne: avrebbe colpito la signora con un cacciavite, poi puntato l’auto su chi stava cercando di soccorrerla. In corso perquisizione domiciliare"
-    },
-    {
       "title": "I mosaici di Rupnik a Lourdes, il velo per il rispetto alle vittime",
       "link": "https://www.ansa.it/vaticano/notizie/2026/09/27/i-mosaici-di-rupnik-a-lourdes-il-velo-per-il-rispetto-alle-vittime_bf62b968-0a96-4d7f-986d-4b2c4d2a411f.html",
       "source": "ANSA",
       "pubDate": "Sun, 27 Sep 2026 21:38:54 +0200",
       "excerpt": "L'artista, ex gesuita, è accusato di abusi. Erano stati inaugurati nel 2008"
-    },
-    {
-      "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
-      "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 18:37:52 +0000",
-      "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo partito di destra"
-    },
-    {
-      "title": "Valditara attacca la sinistra sul decreto scuola: “Immaturità politica”",
-      "link": "https://www.repubblica.it/politica/2026/09/27/news/decreto_scuola_valditara_sinistra_immaturita_politica-425611253/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 18:33:20 +0000",
-      "excerpt": "Il ministro: “Misure progressiste. Bimbi strumentalizzati”. La replica di Manzi (Pd): “Scenda dalla cattedra e risponda nel merito”. Proteste davanti alle scuole"
     },
     {
       "title": "Ballando, Fialdini e Ventura regine del tesoretto. Sciarelli 'Ballerina per una notte'",
