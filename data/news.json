@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-09-28T06:47:13.518Z",
+  "lastUpdated": "2026-09-28T07:10:19.160Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Milano apre in rialzo, +0,09%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-milano-apre-in-rialzo-009_1caf91cc-9122-4474-b43b-11f30c8dabcc.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 09:05:20 +0200",
+        "excerpt": "Indice Ftse Mib a quota 51.913 punti. Corre Amplifon, scivola Tim"
+      },
+      {
+        "title": "Borsa: Asia scettica su ripresa trattative tra Usa e Iran, Tokyo -0,73%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-asia-scettica-su-ripresa-trattative-tra-usa-e-iran-tokyo-073_0aa7afcf-e30c-4d9d-944a-b9a35aae7cb2.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 08:59:59 +0200",
+        "excerpt": "Future positivi in Europa e negativi negli Usa. Attesa per Lagarde"
+      },
+      {
+        "title": "Sud Africa e Zimbabwe discutono una diga da 500 milioni di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/sud-africa-e-zimbabwe-discutono-una-diga-da-500-milioni-di-dollari-93CH-3564006",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 06:59:52",
+        "excerpt": ""
+      },
+      {
+        "title": "Aldi investirà £900 mln in negozi e distribuzione nel 2027",
+        "link": "https://it.investing.com/news/stock-market-news/aldi-investira-900-mln-in-negozi-e-distribuzione-nel-2027-93CH-3564005",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 06:59:50",
+        "excerpt": ""
+      },
+      {
+        "title": "General Motors avverte: crescente concorrenza negli USA mentre i rischi dalla Cina aumentano",
+        "link": "https://it.investing.com/news/stock-market-news/general-motors-avverte-crescente-concorrenza-negli-usa-mentre-i-rischi-dalla-cina-aumentano-93CH-3563994",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 06:51:10",
+        "excerpt": ""
+      },
       {
         "title": "Lo spread tra Btp e Bund tedeschi apre in rialzo a 92,3 punti",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/lo-spread-tra-btp-e-bund-tedeschi-apre-in-rialzo-a-923-punti_8f5e8c1f-6760-463a-ade6-2ed7ebf110e8.html",
@@ -31,7 +66,7 @@
         "excerpt": "Calo del 5% ma senza intervento su Banca Progetto -12% grazie a gestione industriale"
       },
       {
-        "title": "Evercore: rischio inversione della curva dei rendimenti in aumento",
+        "title": "Evercore: rischio di inversione della curva dei rendimenti in aumento, il rally AI regge",
         "link": "https://it.investing.com/news/stock-market-news/evercore-rischio-inversione-della-curva-dei-rendimenti-in-aumento-3563951",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-28 06:23:23",
@@ -129,27 +164,6 @@
         "excerpt": "Per arrivare a 223 miliardi di euro in contanti è bastato un anno. È il valore dei soli versamenti censiti nel 2025 dall’Unità di informazione finanziaria (Uif) della Banca d’Italia:..."
       },
       {
-        "title": "Perché il titolo HUTCHMED China è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-hutchmed-china-e-in-rialzo-oggi-93CH-3563909",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 05:35:41",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo NIO è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-nio-e-in-rialzo-oggi-93CH-3563908",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 05:35:38",
-        "excerpt": ""
-      },
-      {
-        "title": "La Gran Bretagna costruirà tre bacini galleggianti alla base di Clyde",
-        "link": "https://it.investing.com/news/stock-market-news/la-gran-bretagna-costruira-tre-bacini-galleggianti-alla-base-di-clyde-93CH-3563897",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 05:33:58",
-        "excerpt": ""
-      },
-      {
         "title": "Caro carburante, dopo Eni anche Ip fa scattare gli sconti. Ecco quanto si può risparmiare",
         "link": "https://www.ilsole24ore.com/art/caro-carburante-eni-anche-ip-fa-scattare-sconti-ecco-quanto-si-puo-risparmiare-AJBhWzQB",
         "source": "Il Sole 24 Ore",
@@ -169,20 +183,6 @@
         "source": "Repubblica Economia",
         "pubDate": "Mon, 28 Sep 2026 07:00:00 +0200",
         "excerpt": "Dal 2015 il patrimonio è volato a 1.078 miliardi. In cima alla classifica resta Fideuram. Rally per Fineco, Mediolanum, Credem e Banca Generali"
-      },
-      {
-        "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/ip-segue-eni-sui-prezzi-dei-carburanti.-meloni-assicura-un-sostegno-alle_bfbacf1c-8ee9-45a5-b566-fa815a21f0da.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sun, 27 Sep 2026 23:58:44 +0200",
-        "excerpt": "Da oggi un limite al costo. La premier: 'Segnale importante'. Ma monta la protesta, taxi pronti a sciopero"
-      },
-      {
-        "title": "Socar applicherà limiti ai prezzi carburanti sulla rete italiana Ip",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/27/socar-applichera-limiti-ai-prezzi-carburanti-sulla-rete-italiana-ip_c804396f-a915-491f-9dee-7d2a1b2aaa54.html",
-        "source": "ANSA Economia",
-        "pubDate": "Sun, 27 Sep 2026 17:48:59 +0200",
-        "excerpt": "'La decisione per rafforzare l'impegno nei confronti dell'Italia'"
       },
       {
         "title": "Il Papa alle vittime di abusi: «Il mio impegno perché non si ripeta»",
@@ -206,7 +206,7 @@
         "excerpt": "La prima Corte d’Assise di Roma decide sul processo per il sequestro, le torture e l’omicidio del giovane ricercatore friulano. La procura ha chiesto il carcere a vita per Magdi Ibrahim Adelal Sharif e 17 anni e mezzo pe"
       },
       {
-        "title": "Suppletive in Calabria, l’affluenza resta molto bassa: alle urne alle 19 solo il 10,26%",
+        "title": "Suppletive in Calabria: affluenza alle 23 al 14,97%, 4 anni fa era al 49,4%",
         "link": "https://www.ilsole24ore.com/art/suppletive-calabria-seggi-aperti-vannacci-sfida-forza-italia-bufera-foto-siracusano-AJsxqfQB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Sun, 27 Sep 2026 07:52:00 GMT",
@@ -233,13 +233,13 @@
         "link": "https://www.ilsole24ore.com/art/trump-incontra-amodei-ceo-anthropic-mesi-tensione-AJGIhGRB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "Mon, 28 Sep 2026 06:32:00 GMT",
-        "excerpt": "Il presidente Donald Trump terrà una cena privata alla Casa Bianca con Dario Amodei, il ceo italoamericano di Anthropic, scrive Axios, aggiungendo che l’incontro avverrà nel contesto del..."
+        "excerpt": "Fissata una cena privata alla Casa Bianca dopo gli scontri tra il colosso di AI e il Pentagono per l’uso militare dei modelli di Claude"
       },
       {
         "title": "Nuove accuse a Netanyahu, 007 egiziani avvertirono più volte di un possibile 7 ottobre",
         "link": "https://www.ilsole24ore.com/art/nuove-accuse-netanyahu-007-egiziani-avvertirono-piu-volte-un-possibile-7-ottobre-AJPUNFRB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "Mon, 28 Sep 2026 05:27:38 GMT",
+        "pubDate": "Mon, 28 Sep 2026 05:27:00 GMT",
         "excerpt": ""
       },
       {
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "China, US agree tariff cuts on $60 billion of goods including agriculture, household items",
+        "link": "https://www.investing.com/news/commodities-news/china-says-us-trade-truce-extension-creates-space-to-advance-talks-4919293",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-28 06:54:30",
+        "excerpt": ""
+      },
+      {
+        "title": "Brent rises above $107/bbl as Iran, U.S. remain at odds over Hormuz reopening",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-iran-us-remain-at-odds-over-hormuz-reopening-4919238",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-28 06:46:01",
+        "excerpt": ""
+      },
+      {
         "title": "Gold falls below $4,300 as oil, Fed hike bets keep pressure on bullion",
         "link": "https://www.investing.com/news/commodities-news/gold-falls-below-4300-as-oil-fed-hike-bets-keep-pressure-on-bullion-4919230",
         "source": "Investing.com Commodities",
@@ -412,13 +426,6 @@
         "link": "https://www.investing.com/news/commodities-news/china-says-to-cut-tariffs-on-us-farm-goods-but-soybeans-excluded-4919307",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-28 05:01:09",
-        "excerpt": ""
-      },
-      {
-        "title": "China says US trade truce extension creates space to advance talks",
-        "link": "https://www.investing.com/news/commodities-news/china-says-us-trade-truce-extension-creates-space-to-advance-talks-4919293",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-28 05:00:47",
         "excerpt": ""
       },
       {
@@ -448,13 +455,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 28 Sep 2026 04:51:47 +0200",
         "excerpt": "'L'autoregolamentazione non basta. Necessario che Washington approvi una legge'"
-      },
-      {
-        "title": "Oil prices rise as Iran, U.S. remain at odds over Hormuz reopening",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-iran-us-remain-at-odds-over-hormuz-reopening-4919238",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-28 01:25:33",
-        "excerpt": ""
       },
       {
         "title": "Trump, 'l'Ai che sfugge al controllo? Non me ne preoccupo'",
@@ -572,11 +572,11 @@
   },
   "attualita": [
     {
-      "title": "'7 ottobre, 007 Egitto chiamarono Netanyahu dopo due avvisi inascoltati'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/28/media-7-ottobre-007-egitto-chiamarono-netanyahu-dopo-due-avvisi-inascoltati_57b11b8b-1489-4b89-b2da-cfb38c40f22d.html",
+      "title": "L'allarme di Kallas: 'Per i nostri servizi Mosca prepara nuovi atti di sabotaggio'",
+      "link": "https://www.ansa.it/europa/notizie/rubriche/voceeurodeputati/2026/09/28/lallarme-di-kallas-per-i-nostri-servizi-mosca-prepara-nuovi-atti-di-sabotaggio_75a9164e-7c68-4578-83b4-a5adfb31c42e.html",
       "source": "ANSA",
-      "pubDate": "Mon, 28 Sep 2026 08:35:06 +0200",
-      "excerpt": "Il capo dell'intelligence chiamò il premier pochi giorni prima dell'offensiva di Hamas"
+      "pubDate": "Mon, 28 Sep 2026 08:56:04 +0200",
+      "excerpt": "'Rinnovo l'appello ai 27, forniscano Kiev di sistema di difesa con le loro scorte'"
     },
     {
       "title": "La morte di Giulio Regeni, oggi la sentenza per gli 007 egiziani",
@@ -621,13 +621,6 @@
       "excerpt": "Puoi conoscere tutto e continuare a non sapere cosa succederà"
     },
     {
-      "title": "Folgorato sul traliccio: il mistero dell’ultimo selfie e del cellulare scomparso",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/28/news/folgorato_traliccio_lodi_mistero_selfie_cellulare_scomparso-425611391/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 23:00:14 +0000",
-      "excerpt": "Caccia alle chat del quindicenne morto a Lodi. La madre: “Nessuna sfida social”. Ma gli inquirenti non smentiscono la pista"
-    },
-    {
       "title": "Torna la tassa invisibile. Stangata da 13 miliardi su stipendi e pensioni",
       "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/09/28/news/tassa_invisibile_da_13_miliardi_su_stipendi_e_pensioni_fiscal_drag-425611378/",
       "source": "Repubblica",
@@ -639,7 +632,14 @@
       "link": "https://www.repubblica.it/economia/2026/09/28/news/adesso_meloni_punta_la_q8_per_chiudere_il_cerchio_contatti_diplomatici_con_il_golfo-425611394/",
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
-      "excerpt": "La compagnia kuwaitiana possiede quasi tremila impianti. Cautela a palazzo Chigi per le norme a tutela del mercato"
+      "excerpt": "La compagnia kuwaitiana possiede quasi tremila impianti. Cautela a palazzo Chigi per le norme a tutela del mercato. Oggi via agli sconti di Eni e Ip"
+    },
+    {
+      "title": "I benzinai di Confcommercio: “È concorrenza sleale. Valutiamo azioni comuni anche all’Antitrust”",
+      "link": "https://www.repubblica.it/economia/2026/09/28/news/bearzi_figisc_e_concorrenza_sleale_valutiamo_azioni_comuni_anche_all_antitrust-425611346/",
+      "source": "Repubblica",
+      "pubDate": "Sun, 27 Sep 2026 23:00:00 +0000",
+      "excerpt": "Intervista al presidente dell’associazione Figisc. “Di solito ogni gestore ha un margine compreso tra i 3,5 e i 4 centesimi. I tagli annunciati quindi causeranno delle perdite”"
     },
     {
       "title": "Ip segue Eni sui prezzi dei carburanti. Meloni assicura un sostegno alle famiglie",
