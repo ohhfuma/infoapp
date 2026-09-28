@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T22:38:00.075Z",
+  "lastUpdated": "2026-09-28T23:07:42.856Z",
   "finanza": {
     "italia": [
       {
@@ -8,6 +8,13 @@
         "source": "ANSA Economia",
         "pubDate": "Tue, 29 Sep 2026 00:20:58 +0200",
         "excerpt": "Wsj, non è risultato affidabile e per responsabili ha mostrato propensione all'inganno"
+      },
+      {
+        "title": "Il titolo di Sangoma Technologies balza oltre il 40% sull’accordo di acquisizione BRC",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-sangoma-technologies-balza-oltre-il-40-sullaccordo-di-acquisizione-brc-3565717",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 22:01:23",
+        "excerpt": ""
       },
       {
         "title": "Le azioni di Summit salgono del 15% dopo l’accordo azionario da $2 miliardi con AstraZeneca",
@@ -56,13 +63,6 @@
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-jefferies-financial-sta-scendendo-oggi-93CH-3565649",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-28 20:52:09",
-        "excerpt": ""
-      },
-      {
-        "title": "Source Agriventures presenta domanda di IPO al Nasdaq con il simbolo ’SRAV’",
-        "link": "https://it.investing.com/news/stock-market-news/source-agriventures-presenta-domanda-di-ipo-al-nasdaq-con-il-simbolo-srav-3565644",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 20:45:12",
         "excerpt": ""
       },
       {
@@ -229,6 +229,27 @@
     ],
     "europa": [
       {
+        "title": "Glucotrack announces amendments to warrant and note agreements, repays bridge notes",
+        "link": "https://www.investing.com/news/sec-filings/glucotrack-announces-amendments-to-warrant-and-note-agreements-repays-bridge-notes-93CH-4921318",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-28 22:10:48",
+        "excerpt": ""
+      },
+      {
+        "title": "Newbury Street II Acquisition Corp sets deadline for shareholder proposals ahead of extraordinary meeting",
+        "link": "https://www.investing.com/news/sec-filings/newbury-street-ii-acquisition-corp-sets-deadline-for-shareholder-proposals-ahead-of-extraordinary-meeting-93CH-4921316",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-28 22:07:12",
+        "excerpt": ""
+      },
+      {
+        "title": "Anavex Life Sciences board election triggers change in control and full vesting of awards",
+        "link": "https://www.investing.com/news/sec-filings/anavex-life-sciences-board-election-triggers-change-in-control-and-full-vesting-of-awards-93CH-4921312",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-28 22:02:53",
+        "excerpt": ""
+      },
+      {
         "title": "Jasper Therapeutics announces CFO resignation and interim appointments",
         "link": "https://www.investing.com/news/sec-filings/jasper-therapeutics-announces-cfo-resignation-and-interim-appointments-93CH-4921248",
         "source": "Investing.com Eurozona",
@@ -261,27 +282,6 @@
         "link": "https://www.investing.com/news/sec-filings/marwynn-holdings-updates-bylaws-to-align-with-nevada-statutes-93CH-4921214",
         "source": "Investing.com Eurozona",
         "pubDate": "2026-09-28 21:00:12",
-        "excerpt": ""
-      },
-      {
-        "title": "Unicycive Therapeutics faces securities class action lawsuit over public statements",
-        "link": "https://www.investing.com/news/sec-filings/unicycive-therapeutics-faces-securities-class-action-lawsuit-over-public-statements-93CH-4921207",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-28 20:56:39",
-        "excerpt": ""
-      },
-      {
-        "title": "Gain Therapeutics announces CFO resignation and interim appointment",
-        "link": "https://www.investing.com/news/sec-filings/gain-therapeutics-announces-cfo-resignation-and-interim-appointment-93CH-4921204",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-28 20:52:43",
-        "excerpt": ""
-      },
-      {
-        "title": "Emmis Acquisition appoints Kenneth Greenberg as director, removes Seth Farbman from board committees",
-        "link": "https://www.investing.com/news/sec-filings/emmis-acquisition-appoints-kenneth-greenberg-as-director-removes-seth-farbman-from-board-committees-93CH-4921142",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-28 20:24:53",
         "excerpt": ""
       },
       {
@@ -408,6 +408,13 @@
         "excerpt": "Wsj, non è risultato affidabile e per responsabili ha mostrato propensione all'inganno"
       },
       {
+        "title": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says",
+        "link": "https://www.investing.com/news/commodities-news/us-iran-set-to-hold-separate-talks-with-mediators-on-monday-or-tuesday-official-says-4920603",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-28 22:12:36",
+        "excerpt": ""
+      },
+      {
         "title": "Trump, 'all'Iran non ho offerto nulla'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/28/trump-alliran-non-ho-offerto-nulla_cee6ee3f-660d-48b5-be39-d1b4cf10f25b.html",
         "source": "ANSA Mondo",
@@ -469,13 +476,6 @@
         "source": "ANSA Mondo",
         "pubDate": "Mon, 28 Sep 2026 22:48:08 +0200",
         "excerpt": "Milei, 'è contro l'illecito saccheggio delle nostre risorse con il progetto Sea Lion'"
-      },
-      {
-        "title": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says",
-        "link": "https://www.investing.com/news/commodities-news/us-iran-set-to-hold-separate-talks-with-mediators-on-monday-or-tuesday-official-says-4920603",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-28 20:43:28",
-        "excerpt": ""
       },
       {
         "title": "Trump unveils $15 billion planned Iowa steel project",
