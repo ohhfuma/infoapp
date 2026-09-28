@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "L’allarme di Lagarde: “Tassi a lungo termine peseranno sulla crescita”",
+        "link": "https://www.repubblica.it/economia/2026/09/28/news/l_allarme_di_lagarde_tassi_a_lungo_termine_crescita-425612814/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 16:01:42 +0200",
+        "excerpt": "L’intervento in Parlamento europeo: “I salari non hanno reagito a shock energia”"
+      },
+      {
+        "title": "Lagarde, i tassi a lungo termine freneranno la crescita",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/lagarde-i-tassi-a-lungo-termine-freneranno-la-crescita_329c2ee3-21d4-4cce-ba8e-608a05ff2d67.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 15:51:16 +0200",
+        "excerpt": "'Forte revisione prospettive Ia puo' innescare correzione nei mercati"
+      },
+      {
+        "title": "Wall Street apre negativa, Dj a -0,72% e Nasdaq -0,51%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/wall-street-apre-negativa-dj-a-072-e-nasdaq-051_2c47346a-804f-41db-bb68-a19767f30740.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 15:39:29 +0200",
+        "excerpt": "In calo anche l'S 500 a -0,48%"
+      },
+      {
         "title": "Perizia dei Ris sulla morte di David Rossi: fu omicidio",
         "link": "https://www.ilsole24ore.com/art/perizia-ris-morte-david-rossi-fu-omicidio-AJX7qdRB",
         "source": "Il Sole 24 Ore",
@@ -401,27 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-28 10:29:59",
         "excerpt": ""
-      },
-      {
-        "title": "Fincantieri firma accordo con Indonesia per ammodernamento ex portaerei italiana",
-        "link": "https://it.investing.com/news/stock-market-news/fincantieri-firma-accordo-con-indonesia-per-ammodernamento-ex-portaerei-italiana-3564382",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 10:24:51",
-        "excerpt": ""
-      },
-      {
-        "title": "Prezzi carburanti in lieve calo, ma sopra tetto fissato da Eni",
-        "link": "https://it.investing.com/news/stock-market-news/prezzi-carburanti-in-lieve-calo-ma-sopra-tetto-fissato-da-eni-3564381",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 10:24:30",
-        "excerpt": ""
-      },
-      {
-        "title": "Il gasolio a $6,52 stringe i pescherecci mentre la domanda di astice cala",
-        "link": "https://it.investing.com/news/stock-market-news/il-gasolio-a-652-stringe-i-pescherecci-mentre-la-domanda-di-astice-cala-93CH-3564379",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 10:21:40",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -702,6 +702,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Media, più raid con droni in centro a Kiev, colpito anche il ministero della Scienza",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/28/media-piu-raid-con-droni-in-centro-a-kiev-colpito-anche-il-ministero_74028023-53e2-4abc-b5e6-e4bf86ce3362.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Mon, 28 Sep 2026 15:37:03 +0200",
+        "excerpt": "Attaccata una zona con università, teatro dell'opera e l'ambasciata tedesca"
+      },
       {
         "title": "Mercoledì gli attacchi ibridi al tavolo Nato, Rutte al Coreper Ue",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/28/mercoledi-gli-attacchi-ibridi-al-tavolo-nato-rutte-al-coreper-ue_573dce11-aa9f-42c5-a186-575dc59ba11c.html",
@@ -1114,23 +1121,58 @@
         "source": "ANSA Mondo",
         "pubDate": "Sun, 27 Sep 2026 22:28:29 +0200",
         "excerpt": "Dopo gli ultimi dati la banca Usa prevede l'entrata in 'recessione tecnica' a settembre"
-      },
-      {
-        "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
-        "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "Sun, 27 Sep 2026 21:37:42 +0200",
-        "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo partito di destra"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Strage di Ustica: la Francia è pronta a collaborare, i pm verso il ritiro dell'archiviazione",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/strage-di-ustica-francia-pronta-a-collaborare-i-pm-verso-il-ritiro-archiviazione_e78ac833-95d5-4598-a57a-8a748dacdcd9.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 16:00:36 +0200",
+      "excerpt": "Inviata una nota in cui annuncia la disponibilità alla trasmissione degli atti sulla strage"
+    },
+    {
+      "title": "Garlasco, chiuse le indagini su Sempio con nuovi atti e consulenze",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/garlasco-chiuse-le-indagini-su-sempio-con-nuovi-atti-e-consulenze_e216f5f1-0c02-4fcb-b48b-3e912ccd28dd.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 15:55:13 +0200",
+      "excerpt": "Verso la richiesta di processo per omicidio aggravato"
+    },
+    {
+      "title": "Garlasco, la bici di Stasi e l’ombra del depistaggio: “Mai stato dna di Chiara Poggi sui pedali”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/28/news/delitto_garlasco_chiara_poggi_stasi_sempio_dna_bici_pedali-425612770/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 13:47:40 +0000",
+      "excerpt": "L’audizione del generale Garofano e di altri appartenenti ai Ris di Parma del 2007: il nuovo filone d’indagine a Pavia per chiarire le responsabilità"
+    },
+    {
+      "title": "Delitto di Garlasco, chiusa l’inchiesta con nuove consulenze: Sempio verso il rinvio a giudizio",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/28/news/sempio_delitto_garlasco_chiara_poggi_inchiesta_rinvio_a_giudizio-425612766/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 13:47:30 +0000",
+      "excerpt": "Il comunicato della procura di Pavia sulle indagini per l’omicidio di Chiara Poggi. Sospeso l’incarico allo psichiatra Catanesi sulla pericolosità sociale. I Ris: “L’impronta 33 era intrisa di sangue”"
+    },
+    {
+      "title": "Ustica, l’inchiesta non verrà archiviata: la Francia dopo 46 anni ha deciso di collaborare",
+      "link": "https://bologna.repubblica.it/cronaca/2026/09/28/news/strage_ustica_inchiesta_archiviazione_novita-425612753/",
+      "source": "Repubblica",
+      "pubDate": "Mon, 28 Sep 2026 13:35:06 +0000",
+      "excerpt": "L’annuncio del procuratore di Roma Lo Voi che anticipa l’udienza del 30 settembre"
+    },
     {
       "title": "Elezioni suppletive Reggio Calabria, cominciato lo spoglio",
       "link": "https://www.repubblica.it/politica/2026/09/28/diretta/risultati_elezioni_reggio_calabria_news_oggi-425612738/",
       "source": "Repubblica",
       "pubDate": "Mon, 28 Sep 2026 13:18:00 +0000",
       "excerpt": "Si è votato ieri e oggi per scegliere il sostituto di Francesco Cannizzaro che ha lasciato il posto alla Camera dei deputati dopo essere stato eletto sindaco della città"
+    },
+    {
+      "title": "Lanciato Starship, primo test in orbita ",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/28/lanciato-starship-primo-test-in-orbita-_59b5d2c0-d231-47e1-b65e-883c15ed375b.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 14:57:48 +0200",
+      "excerpt": "Durerà 10 ore. Previsto il rilascio di 26 satelliti Starlink"
     },
     {
       "title": "L'anziana sfrattata agli accampati a Puerta del Sol: “Lottate e tenete duro!”",
@@ -1502,51 +1544,30 @@
       "source": "Repubblica",
       "pubDate": "Sun, 27 Sep 2026 20:24:53 +0000",
       "excerpt": "Protesta eclatante degli irlandesi prima della gara di Nations League giocata sul neutro di Debrecen, in Ungheria"
-    },
-    {
-      "title": "Reggio Emilia, a un distributore aggredisce una donna e investe due passanti: tre feriti gravi",
-      "link": "https://bologna.repubblica.it/cronaca/2026/09/27/news/reggio_emilia_donna_aggredita_distributore_due_persone_investite-425611360/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 19:43:30 +0000",
-      "excerpt": "Arrestato un 26enne: avrebbe colpito la signora con un cacciavite, poi puntato l’auto su chi stava cercando di soccorrerla. In corso perquisizione domiciliare"
-    },
-    {
-      "title": "I mosaici di Rupnik a Lourdes, il velo per il rispetto alle vittime",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/09/27/i-mosaici-di-rupnik-a-lourdes-il-velo-per-il-rispetto-alle-vittime_bf62b968-0a96-4d7f-986d-4b2c4d2a411f.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 21:38:54 +0200",
-      "excerpt": "L'artista, ex gesuita, è accusato di abusi. Erano stati inaugurati nel 2008"
-    },
-    {
-      "title": "Serbia, il presidente Vucic si dimette per candidarsi alla carica di primo ministro",
-      "link": "https://www.repubblica.it/esteri/2026/09/27/news/aleksandar_vucic_dimissioni_presidente_serbia_candidatura_premier_elezioni_ottobre-425611278/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 18:37:52 +0000",
-      "excerpt": "La Costituzione gli vieta di presentarsi per un terzo mandato. Parteciperà alle elezioni anticipate del 25 ottobre con il suo partito di destra"
-    },
-    {
-      "title": "Valditara attacca la sinistra sul decreto scuola: “Immaturità politica”",
-      "link": "https://www.repubblica.it/politica/2026/09/27/news/decreto_scuola_valditara_sinistra_immaturita_politica-425611253/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 18:33:20 +0000",
-      "excerpt": "Il ministro: “Misure progressiste. Bimbi strumentalizzati”. La replica di Manzi (Pd): “Scenda dalla cattedra e risponda nel merito”. Proteste davanti alle scuole"
-    },
-    {
-      "title": "Montella: “Anni fa l’Italia mi cercò, ma il mio cuore è qui. Anche in Turchia c’è tanta pressione”",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/09/27/news/montella_conferenza_turchia_italia-425611226/",
-      "source": "Repubblica",
-      "pubDate": "Sun, 27 Sep 2026 18:25:43 +0000",
-      "excerpt": "Il tecnico della Turchia rivela un interesse azzurro (“Ma non negli ultimi tempi”) e teme la sfida con Mancini: “Ha una squadra molto competitiva, con il Belgio è stato un episodio”"
-    },
-    {
-      "title": "Picchiata, torturata e quasi annegata, arrestato un 38enne",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/27/picchiata-torturata-e-quasi-annegata-arrestato-un-38enne_643b5a66-5c1e-48eb-937b-c01309788196.html",
-      "source": "ANSA",
-      "pubDate": "Sun, 27 Sep 2026 20:04:51 +0200",
-      "excerpt": "E' successo a Pescia (Pistoia). La passeggiata si trasforma in un incubo. Salvata da un passante"
     }
   ],
   "sport": [
+    {
+      "title": "Vozinha e il prezzo della fama, \"ho perso pace e tranquillità\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/vozinha-e-il-prezzo-della-fama-ho-perso-pace-e-tranquillita_e1c5f69c-f136-4281-bd0e-b18e81a7d32f.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 15:46:00 +0200",
+      "excerpt": "Il portiere di Capo Verde star del Mondiale: \"Preferivo la mia vita di prima\""
+    },
+    {
+      "title": "Djokovic torna a Pechino 'sto bene, non gioco mai solo per divertirmi'",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/28/djokovic-torna-a-pechino-sto-bene-non-gioco-mai-solo-per_a760da4c-3f5a-4048-8d12-0174ec1b8288.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 15:43:57 +0200",
+      "excerpt": "Il serbo dopo 11 anni all'Atp cinese dove non ha mai perso in 29 incontri"
+    },
+    {
+      "title": "Calcio: Giovanni Galli nuovo capo delegazione dell'Under 18 azzurra",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/calcio-giovanni-galli-nuovo-capo-delegazione-dellunder-18-azzurra_4f872eaf-4626-42be-b01a-89dd0e3373a9.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 15:42:41 +0200",
+      "excerpt": "L'ex portiere: \"Orgoglioso di questa sfida\". Malagò: \"Lieti di accoglierlo\""
+    },
     {
       "title": "Abodi, 'mi auguro vada avanti anche il progetto sul Flaminio'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/abodi-mi-auguro-vada-avanti-anche-il-progetto-sul-flaminio_832b668b-4408-41ae-8d17-8b37071a4e2a.html",
