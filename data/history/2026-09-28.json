@@ -4,11 +4,81 @@
   "finanza": {
     "italia": [
       {
+        "title": "Il gas accelera e supera quota 74 euro sulla piazza Ttf di Amsterdam",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/il-gas-accelera-e-supera-quota-74-euro-sulla-piazza-ttf-di-amsterdam_8036da01-355e-43db-8020-69a1792d0127.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 13:29:16 +0200",
+        "excerpt": "I contratti future sul mese di ottobre guadagnano il 2,9% a 74,16 euro"
+      },
+      {
+        "title": "Borsa: Milano azzera il rialzo, corrono Amplifon, Stellantis ed Eni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/borsa-milano-azzera-il-rialzo-corrono-amplifon-stellantis-ed-eni_f2d77c49-d1e9-4e79-9547-7fef0376d40f.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 13:24:48 +0200",
+        "excerpt": "Spread a 94,7 punti, deboli Tim, Inwit, Fincantieri e Technoprobe"
+      },
+      {
+        "title": "Ufi Hydrogen investe a Serravalle",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/09/28/news/ufi_hydrogen_investe_a_serravalle-425612476/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 13:16:58 +0200",
+        "excerpt": "Inaugurato in Trentino il nuovo centro industriale per produrre componenti e membrane catalizzate per elettrolisi e celle a combustibile. Con la Fondazione Bruno Kessler e il centro di ricerca di Rovereto, un ecosistema "
+      },
+      {
+        "title": "Assopetroli, bene calmierazione Eni-Ip, governo apra confronto per estenderla",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/assopetroli-bene-calmierazione-eni-ip-governo-apra-confronto-per-estenderla_61a57ff3-798a-4d13-9f12-835b3a057909.html",
+        "source": "ANSA Economia",
+        "pubDate": "Mon, 28 Sep 2026 13:14:30 +0200",
+        "excerpt": "'Segnale positivo, va allargato alle vendite all'ingrosso'"
+      },
+      {
+        "title": "Il dominio dell’IA di Nvidia finanzia un riacquisto storico da 150 miliardi",
+        "link": "https://it.investing.com/news/stock-market-news/il-dominio-dellia-di-nvidia-finanzia-un-riacquisto-storico-da-150-miliardi-3564572",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 11:13:07",
+        "excerpt": ""
+      },
+      {
+        "title": "La corsa all’idrogeno passa dalle membrane Mea",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/09/28/news/la_corsa_all_idrogeno_passa_dalle_membrane_mea-425612457/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "Mon, 28 Sep 2026 13:05:26 +0200",
+        "excerpt": "Il mercato mondiale vale 6,9 miliardi di dollari. La Cina accelera nella filiera degli elettrolizzatori mentre Europa e Italia puntano sull’innovazione"
+      },
+      {
+        "title": "Cosa serve per correggere la debolezza dell’ampiezza di mercato?",
+        "link": "https://it.investing.com/news/stock-market-news/cosa-serve-per-correggere-la-debolezza-dellampiezza-di-mercato-3564545",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 11:05:10",
+        "excerpt": ""
+      },
+      {
+        "title": "Apple e Amazon affrontano un’azione collettiva nel Regno Unito sull’accordo del 2018",
+        "link": "https://it.investing.com/news/stock-market-news/apple-e-amazon-affrontano-unazione-collettiva-nel-regno-unito-sullaccordo-del-2018-93CH-3564504",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 11:04:33",
+        "excerpt": ""
+      },
+      {
         "title": "Reddito di cittadinanza 2.0, ecco requisiti e benefici del nuovo sussidio votato dalla base M5S",
         "link": "https://www.ilsole24ore.com/art/reddito-cittadinanza-20-ecco-requisiti-e-benefici-nuovo-sussidio-votato-base-m5s-AJS0oNRB",
         "source": "Il Sole 24 Ore",
         "pubDate": "Mon, 28 Sep 2026 11:01:33 GMT",
         "excerpt": "Alla kermesse Nova di Milano in cui il 19 e 20 settembre il M5s ha votato i pilastri del programma da sottoporre agli alleati del Campo largo, il..."
+      },
+      {
+        "title": "Borsa Usa, futures giù, impennata greggio dopo che Trump rifiuta proposta pace Iran",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-usa-futures-giu-impennata-greggio-dopo-che-trump-rifiuta-proposta-pace-iran-3564475",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 11:00:49",
+        "excerpt": ""
+      },
+      {
+        "title": "Borse oggi | FTSE MIB | BTP Valore in arrivo, TIM-Poste Opas, Eni al rialzo",
+        "link": "https://it.investing.com/news/stock-market-news/borse-oggi--ftse-mib--btp-valore-in-arrivo-timposte-opas-eni-brilla-3564464",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 10:58:12",
+        "excerpt": ""
       },
       {
         "title": "Giornata contro lo spreco alimentare, 8,1 milioni di tonnellate di cibo gettate ogni anno in Italia",
@@ -352,79 +422,23 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-28 08:48:30",
         "excerpt": ""
-      },
-      {
-        "title": "Italiani delusi dallo stipendio. E sulla trasparenza salariale, il 69% non si fida delle aziende",
-        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/09/28/news/italiani_delusi_dallo_stipendio_e_sulla_trasparenza_salariale_il_69_non_si_fida_delle_aziende-425612075/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "Mon, 28 Sep 2026 10:43:24 +0200",
-        "excerpt": "Il Compensation Index di Coverflex, che misura la salute del rapporto retributivo tra aziende e lavoratori, si ferma a 35/100. Secondo lo studio, realizzato in collaborazione con Ipsos Doxa, il 60% dei lavoratori non ha "
-      },
-      {
-        "title": "Sprint di Eni a Piazza Affari con la risalita del petrolio",
-        "link": "https://it.investing.com/news/stock-market-news/sprint-di-eni-a-piazza-affari-con-la-risalita-del-petrolio-3564158",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 08:35:07",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Capricorn Energy sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-capricorn-energy-sta-scendendo-oggi-93CH-3564149",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 08:29:50",
-        "excerpt": ""
-      },
-      {
-        "title": "I costruttori di case britannici volano grazie al nuovo piano per ridurre i depositi",
-        "link": "https://it.investing.com/news/stock-market-news/i-costruttori-di-case-britannici-volano-grazie-al-nuovo-piano-per-ridurre-i-depositi-3564143",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 08:26:08",
-        "excerpt": ""
-      },
-      {
-        "title": "Comitato autotrasportatori siciliani, fermi dal 16 al 20 ottobre",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/comitato-autotrasportatori-siciliani-fermi-dal-16-al-20-ottobre_10f9387e-7e09-4d57-967d-2afd3be02491.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 10:20:36 +0200",
-        "excerpt": "Bella: 'Nessun riscontro dal governo, nessuna movimentazione nei porti'"
-      },
-      {
-        "title": "Suedzucker alza le previsioni di ricavi grazie alla domanda di biocarburanti",
-        "link": "https://it.investing.com/news/stock-market-news/suedzucker-alza-le-previsioni-di-ricavi-grazie-alla-domanda-di-biocarburanti-93CH-3564119",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 08:15:36",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Capricorn Energy crolla dopo che DNO rifiuta di aumentare l’offerta",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-capricorn-energy-crolla-dopo-che-dno-rifiuta-di-aumentare-lofferta-93CH-3564118",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 08:13:53",
-        "excerpt": ""
-      },
-      {
-        "title": "Mimit, prezzi carburanti in calo, benzina self a 2,152 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/28/mimit-prezzi-carburanti-in-calo-benzina-self-a-2152-euro_909a05a0-6b53-44a4-ba89-e28adaace76f.html",
-        "source": "ANSA Economia",
-        "pubDate": "Mon, 28 Sep 2026 10:13:47 +0200",
-        "excerpt": "Prezzo gasolio scende a 2,369 euro"
-      },
-      {
-        "title": "Cina e Usa concordano tagli dazi reciproci su 60 mld $ di merci",
-        "link": "https://it.investing.com/news/stock-market-news/cina-e-usa-concordano-tagli-dazi-reciproci-su-60-mld--di-merci-3564114",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 08:09:44",
-        "excerpt": ""
-      },
-      {
-        "title": "Borsa Milano, Tim in calo dopo che Poste non ha raggiunto quota per delisting",
-        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-tim-in-calo-dopo-che-poste-non-ha-raggiunto-quota-per-delisting-3564113",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 08:09:21",
-        "excerpt": ""
       }
     ],
     "europa": [
+      {
+        "title": "Hepion Pharmaceuticals appoints new auditor, dismisses Grassi & Co.",
+        "link": "https://www.investing.com/news/sec-filings/hepion-pharmaceuticals-appoints-new-auditor-dismisses-grassi--co-93CH-4919903",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-28 11:07:04",
+        "excerpt": ""
+      },
+      {
+        "title": "Celularity announces $25 million convertible note financing and board changes",
+        "link": "https://www.investing.com/news/sec-filings/celularity-announces-25-million-convertible-note-financing-and-board-changes-93CH-4919871",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-09-28 11:02:48",
+        "excerpt": ""
+      },
       {
         "title": "«Azienda russa di analisi dati usata da polizie europee, Italia compresa»",
         "link": "https://www.ilsole24ore.com/art/azienda-russa-analisi-dati-usata-polizie-europee-italia-compresa-AJhdEQRB",
@@ -1049,6 +1063,13 @@
   },
   "attualita": [
     {
+      "title": "La perizia sulla morte di David Rossi: 'Aggredito da più persone, ha provato a difendersi'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/28/perizia-su-morte-rossi-aggredito-da-piu-persone-tentava-di-difendersi_36ca01e9-b560-47c2-b79d-7beea11883f4.html",
+      "source": "ANSA",
+      "pubDate": "Mon, 28 Sep 2026 13:33:25 +0200",
+      "excerpt": "Le prime valutazioni dopo la simulazione: \"E' stato tenuto fuori dalla finestra, poi è mancata la presa"
+    },
+    {
       "title": "Mps, morte David Rossi, la perizia: “Aggredito da più persone, tentava di difendersi”",
       "link": "https://firenze.repubblica.it/cronaca/2026/09/28/news/mps_siena_david_rossi_ris_inchiesta_carabinieri-425612306/",
       "source": "Repubblica",
@@ -1460,16 +1481,23 @@
       "source": "Corriere della Sera",
       "pubDate": "Mon, 13 May 2024 08:01:38 +0200",
       "excerpt": "Il rapper identificato con le telecamere. «Di cosa parliamo? Lui tre giorni dopo era a ballare». Presente quella sera nel locale anche Ludovica Di GresyLe telecamere che hanno ripreso il pestaggio inquadrerebbero il rapp"
-    },
-    {
-      "title": "I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia ",
-      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "Mon, 13 May 2024 08:00:32 +0200",
-      "excerpt": "Sui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumentatiSui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumenta"
     }
   ],
   "sport": [
+    {
+      "title": "Tennis: Tokyo, Sonego non passa le qualificazioni",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/28/tennis-tokyo-sonego-non-passa-le-qualificazioni_0d4fb739-82fe-4bc2-bf0a-698a6623e4b0.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 13:14:36 +0200",
+      "excerpt": "Eliminato dal polacco Majchrzak"
+    },
+    {
+      "title": "Parma: Cuesta saluta la squadra, in arrivo Gilardino",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/parma-cuesta-saluta-la-squadra-in-arrivo-gilardino_8fafa545-39e6-4e9e-8469-82b9a0fab49b.html",
+      "source": "ANSA Sport",
+      "pubDate": "Mon, 28 Sep 2026 13:05:29 +0200",
+      "excerpt": "L'ex Pisa atteso in serata in città"
+    },
     {
       "title": "Under 21, Raimondo lascia il ritiro di Tirrenia",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/28/under-21-raimondo-lascia-il-ritiro-di-tirrenia_0c6a3103-b4b9-4a91-bbb3-2cac183d4b14.html",
