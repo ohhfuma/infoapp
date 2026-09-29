@@ -671,3 +671,54 @@ function init() {
 }
 
 init();
+
+/* Fix centratura mobile: sotto-tab Finanza e margini simmetrici */
+.sub-tabs {
+  justify-content: center;
+}
+
+@media (max-width: 480px) {
+  .content-wrapper {
+    padding: 12px;
+  }
+  .sub-tabs {
+    gap: 6px;
+  }
+  .sub-tab-btn {
+    padding: 6px 10px;
+    font-size: 0.8rem;
+  }
+  .news-grid {
+    grid-template-columns: 1fr;
+  }
+  .tab-btn {
+    padding: 8px 12px;
+    font-size: 0.8rem;
+  }
+}
+
+/* Fix landscape mobile: la soglia precedente (480px) non coprivA 
+   schermi telefono in orizzontale, che sono più larghi ma comunque piccoli */
+@media (max-width: 900px) {
+  .content-wrapper {
+    padding: 12px;
+  }
+  .sub-tabs {
+    gap: 6px;
+    justify-content: center;
+  }
+  .sub-tab-btn {
+    padding: 6px 10px;
+    font-size: 0.8rem;
+  }
+  .tab-btn {
+    padding: 8px 12px;
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .news-grid {
+    grid-template-columns: 1fr;
+  }
+}
