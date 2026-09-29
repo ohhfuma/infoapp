@@ -4,6 +4,13 @@
   "finanza": {
     "italia": [
       {
+        "title": "Accelevation fissa il prezzo dell’IPO a $18 per azione sul Nasdaq",
+        "link": "https://it.investing.com/news/stock-market-news/accelevation-fissa-il-prezzo-dellipo-a-18-per-azione-sul-nasdaq-432SI-3567711",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T23:16:02.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "“Fiero di essere un agente, ma siamo rimasti a galla con prestiti e straordinari”",
         "link": "https://www.repubblica.it/economia/2026/09/30/news/agente_polizia_lavoro_straordinari_serie_piccoli_salari-425615920/?rss",
         "source": "Repubblica Economia",
@@ -506,6 +513,27 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Trump e i leader dell’IA: “Regole volontarie ma no a nuovi paletti”",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/trump_intelligenza_artificiale_leader_regole_volontarie-425615855/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T23:00:00.000Z",
+        "excerpt": "Il tycoon vede i boss del settore e rilancia la corsa allo sviluppo: “Non ci arrendiamo alle paure, se ci fermiamo vince la Cina”"
+      },
+      {
+        "title": "Kaliningrad, la fortezza nel Baltico con cui Putin cerca l’incidente in Europa",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/kaliningrad_cosa_e_la_fortezza_baltico_putin_cerca_incidente_europa-425615800/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T23:00:00.000Z",
+        "excerpt": "Le provocazioni dalla ex Königsberg allarmano gli alleati da anni. “Mosca cerca una reazione eccessiva, dobbiamo stare attenti”. Da lì può colpire con gli Iskander il continente"
+      },
+      {
+        "title": "“Putin vuole generare paura per farci abbandonare il sostegno all’Ucraina”",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/kestutis_budrys_intervista_ministro_esteri_lituania_putin_aiuti_ucraina-425615797/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T23:00:00.000Z",
+        "excerpt": "Intervista a Kęstutis Budrys, ministro degli esteri lituano ed esperto di politica per la sicurezza. “Il Gru andrebbe classificato come agente terrorista: conduce crescenti operazioni di guerra ibrida per terrorizzarci”"
+      },
       {
         "title": "Pentagono, a Boeing il contratto da 20 miliardi per il nuovo caccia della Marina",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/30/pentagono-a-boeing-il-contratto-da-20-miliardi-per-il-nuovo-caccia-della-marina_6c88ead8-f3e2-4b58-860e-3bb035857650.html",

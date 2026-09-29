@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-29T23:07:33.653Z",
+  "lastUpdated": "2026-09-29T23:37:44.211Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Accelevation fissa il prezzo dell’IPO a $18 per azione sul Nasdaq",
+        "link": "https://it.investing.com/news/stock-market-news/accelevation-fissa-il-prezzo-dellipo-a-18-per-azione-sul-nasdaq-432SI-3567711",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T23:16:02.000Z",
+        "excerpt": ""
+      },
       {
         "title": "“Fiero di essere un agente, ma siamo rimasti a galla con prestiti e straordinari”",
         "link": "https://www.repubblica.it/economia/2026/09/30/news/agente_polizia_lavoro_straordinari_serie_piccoli_salari-425615920/?rss",
@@ -98,13 +105,6 @@
         "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-dyne-therapeutics-sale-sui-risultati-positivi-del-trial-dm1-3567548",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-29T20:53:00.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Pyxis Oncology scende dopo l’annuncio di un’offerta pubblica",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-pyxis-oncology-scende-dopo-lannuncio-di-unofferta-pubblica-3567540",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T20:49:55.000Z",
         "excerpt": ""
       },
       {
@@ -401,6 +401,27 @@
     ],
     "mondo": [
       {
+        "title": "Trump e i leader dell’IA: “Regole volontarie ma no a nuovi paletti”",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/trump_intelligenza_artificiale_leader_regole_volontarie-425615855/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T23:00:00.000Z",
+        "excerpt": "Il tycoon vede i boss del settore e rilancia la corsa allo sviluppo: “Non ci arrendiamo alle paure, se ci fermiamo vince la Cina”"
+      },
+      {
+        "title": "Kaliningrad, la fortezza nel Baltico con cui Putin cerca l’incidente in Europa",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/kaliningrad_cosa_e_la_fortezza_baltico_putin_cerca_incidente_europa-425615800/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T23:00:00.000Z",
+        "excerpt": "Le provocazioni dalla ex Königsberg allarmano gli alleati da anni. “Mosca cerca una reazione eccessiva, dobbiamo stare attenti”. Da lì può colpire con gli Iskander il continente"
+      },
+      {
+        "title": "“Putin vuole generare paura per farci abbandonare il sostegno all’Ucraina”",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/kestutis_budrys_intervista_ministro_esteri_lituania_putin_aiuti_ucraina-425615797/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T23:00:00.000Z",
+        "excerpt": "Intervista a Kęstutis Budrys, ministro degli esteri lituano ed esperto di politica per la sicurezza. “Il Gru andrebbe classificato come agente terrorista: conduce crescenti operazioni di guerra ibrida per terrorizzarci”"
+      },
+      {
         "title": "I mediatori del Qatar premono per un accordo di pace tra Stati Uniti e Iran",
         "link": "https://www.investing.com/news/commodities-news/trump-denies-offering-iran-sanctions-relief-tehran-says-ready-for-talks-4921647",
         "source": "Investing.com Commodities",
@@ -546,27 +567,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "2026-09-29T15:42:38.000Z",
         "excerpt": "Patrick Branco Ruivo lascerà l’incarico a fine anno. A settembre aveva costretto le donne che lavorano nella struttura a farsi da parte per non incrociare una delegazione religiosa indù"
-      },
-      {
-        "title": "Giappone, Lady Gaga commessa da FamilyMart: lo spot per attirare giovani lavoratori",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/giappone_lady_gaga_commessa_familymart_spot_attirare_giovani_lavoratori-425614887/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T13:01:21.000Z",
-        "excerpt": "La popstar veste i panni di una dipendente del colosso giapponese dei minimarket per attirare nuovi lavoratori in un Paese alle prese con una grave carenza di manodopera. L’obiettivo è conquistare i giovani, mostrando un"
-      },
-      {
-        "title": "La squalo mania di Busan, in 600mila per vedere Bukang-i: esemplare bloccato nel canale da 12 giorni",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/squalo_bloccato_corea_del_sud_busan_bukangi_canale_12_giorni-425614739/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T11:58:39.000Z",
-        "excerpt": "L’animale è entrato per errore in un canale ed è diventato una star, fino a essere nominato ambasciatore onorario della città. Ora il piano per riportarlo in mare"
-      },
-      {
-        "title": "Trump lancia oggi il sito del governo alimentato con IA: “Ecco l’età dell’oro per i cittadini”",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/trump_lancia_nuovo_sito_governo_alimentato_ai-425614539/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T09:39:06.000Z",
-        "excerpt": "Il nuovo portale promette di semplificare l’accesso ai servizi federali. Alla Casa Bianca il vertice con i big della tecnologia, da Zuckerberg a Pichai e Huang: sul tavolo sicurezza, regole e competizione con la Cina"
       }
     ]
   },
