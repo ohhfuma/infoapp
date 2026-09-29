@@ -4,11 +4,32 @@
   "finanza": {
     "italia": [
       {
+        "title": "Il giudice frena i Del Vecchio, quote Delfin ferme per 6 mesi",
+        "link": "https://www.repubblica.it/economia/2026/09/29/news/delfin_respinto_il_ricorso_di_lmdv_prelazione_sei_mesi-425615053/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-29T19:59:42.000Z",
+        "excerpt": "Accolta la richiesta di proroga della società. Fino a fine marzo il 37,5% rimarrà in capo ai singoli eredi e quindi Leonardo Maria non potrà spostare la sua quota"
+      },
+      {
+        "title": "Lundbeck valuta un’acquisizione di Xeris Biopharma, secondo Bloomberg",
+        "link": "https://it.investing.com/news/stock-market-news/lundbeck-valuta-unacquisizione-di-xeris-biopharma-secondo-bloomberg-3567429",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T19:47:36.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Sigarette, nel 2027 fino a 25 centesimi in più a pacchetto",
         "link": "https://www.ilsole24ore.com/art/sigarette-2027-fino-25-centesimi-piu-pacchetto-AJiWwRTB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-09-29T19:37:16.000Z",
         "excerpt": "A partire dal 1° gennaio 2027 un pacchetto di sigarette costerà circa 25 centesimi in più. Questo rincaro, però, non coglie di sorpresa: la manovra di Bilancio del..."
+      },
+      {
+        "title": "Bollette, +37% per i vulnerabili: sconto Eni, è sfida con Enel e A2A. Meloni: “Spero anche in altri”",
+        "link": "https://www.repubblica.it/economia/2026/09/29/news/eni_taglio_bollette_luce_gas_plenitude-425615123/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-29T19:21:22.000Z",
+        "excerpt": "Arera adegua le tariffe elettriche della maggior tutela, ma il mercato libero offre prezzi più competitivi. La premier da Praga: “Soddisfatta, ringrazio tutti quelli che fanno uno sforzo”"
       },
       {
         "title": "Perché il titolo Canadian Solar è salito del 10% oggi?",
@@ -401,27 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-09-29T15:25:23.000Z",
         "excerpt": "Francia a 119. Il decennale italiano rende il 4,59%, massimo di tre anni"
-      },
-      {
-        "title": "Santander approva un dividendo interinale con un aumento del 10%",
-        "link": "https://it.investing.com/news/stock-market-news/santander-approva-un-dividendo-interinale-con-un-aumento-del-10-93CH-3567271",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T15:23:58.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo BCE sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-bce-sta-scendendo-oggi-93CH-3567270",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T15:23:53.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Baird declassa Ryder a Neutral: le stime di consenso sono troppo alte",
-        "link": "https://it.investing.com/news/stock-market-news/baird-declassa-ryder-a-neutral-le-stime-di-consenso-sono-troppo-alte-3567269",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T15:22:30.000Z",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -751,6 +751,27 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Ecuador, multe fino a 14.460 dollari per i droni vicino ad aeroporti e incendi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/ecuador-multe-fino-a-14.460-dollari-per-i-droni-vicino-ad-aeroporti-e-incendi_9f2a3ae4-fec7-4571-b27a-04e7e47d8859.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-29T20:01:55.000Z",
+        "excerpt": "La stretta punta a contrastarne l'uso da parte delle organizzazioni criminali"
+      },
+      {
+        "title": "Corte Suprema Usa revoca ancora i limiti a espulsione immigrati verso Paesi terzi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/corte-suprema-usa-revoca-ancora-i-limiti-a-espulsione-immigrati-verso-paesi_fae7885f-f59a-421f-a625-7645cc40b30c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-29T20:01:37.000Z",
+        "excerpt": "Accoglie la richiesta amministrazione Trump di sospendere sentenza di tribunale inferiore."
+      },
+      {
+        "title": "La minaccia di Putin alla Nato: “Per difendere Kaliningrad siamo pronti a usare l’atomica”",
+        "link": "https://www.repubblica.it/esteri/2026/09/29/news/putin_minaccia_nato_kaliningrad_atomica-425615763/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T19:59:06.000Z",
+        "excerpt": "La lettera formale di Mosca all’Alleanza: “Possiamo colpire le vostre capitali”. L’avvertimento dopo le esercitazioni Ue-Usa intorno all’exclave. “Vogliono dividerci”"
+      },
       {
         "title": "I futures sul mais scendono prima del rapporto sulle azioni USDA",
         "link": "https://www.investing.com/news/commodities-news/corn-futures-edge-lower-ahead-of-usda-stocks-report-93CH-4923344",
@@ -1149,31 +1170,17 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-29T07:11:01.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "L'oro si avvicina all'ipervenduto a $4.175 in una feroce tendenza al ribasso: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/gold-breaks-below-4200-with-rsi-at-286-live-levels-93CH-4919469",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-29T07:10:58.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Seul, 'mina nordcoreana in zona demilitarizzata, chiara violazione dell'armistizio'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/29/seul-mina-nordcoreana-in-zona-demilitarizzata-chiara-violazione-dellarmistizio_99ad4a4a-c611-4aae-bc7e-79975f893765.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-29T07:06:15.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Teheran, 'nessuna flessibilità su nucleare, sul tavolo c'è solo Hormuz'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/29/teheran-nessuna-flessibilita-su-nucleare-sul-tavolo-ce-solo-hormuz_1a906fd2-90f2-422c-84a0-83b68930196e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-29T06:59:24.000Z",
-        "excerpt": "Ministro Araghchi, 'chi dice il contrario sta facendo disinformazione'"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "La minaccia di Putin alla Nato: “Per difendere Kaliningrad siamo pronti a usare l’atomica”",
+      "link": "https://www.repubblica.it/esteri/2026/09/29/news/putin_minaccia_nato_kaliningrad_atomica-425615763/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T19:59:06.000Z",
+      "excerpt": "La lettera formale di Mosca all’Alleanza: “Possiamo colpire le vostre capitali”. L’avvertimento dopo le esercitazioni Ue-Usa intorno all’exclave. “Vogliono dividerci”"
+    },
     {
       "title": "Scontro su Tajani per Regeni. Meloni: 'Chiudere i canali con l'Egitto non aiuta'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/scontro-su-tajani-per-regeni.-meloni-chiudere-i-canali-con-legitto-non_f837010a-3cba-4fa7-90a0-da01db282440.html",
@@ -1586,16 +1593,16 @@
       "source": "Corriere della Sera",
       "pubDate": "2024-05-13T06:07:51.000Z",
       "excerpt": "Il sindaco di Genova: «Le mie parole sui maiali intercettate? Per ogni area nel porto si scatena la rissa. I soldi del ponte Morandi per un favore a Spinelli? È una falsità, quei soldi non c’entrano nulla»Il sindaco di G"
-    },
-    {
-      "title": "Fedez denunciato per il caso Iovino, identificato dalle telecamere: «Ma quale massacro, io non c’ero»",
-      "link": "https://milano.corriere.it/notizie/cronaca/24_maggio_13/fedez-denunciato-iovino-3eeb49c3-fa4c-448d-bac5-d7bb9f09fxlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "2024-05-13T06:01:38.000Z",
-      "excerpt": "Il rapper identificato con le telecamere. «Di cosa parliamo? Lui tre giorni dopo era a ballare». Presente quella sera nel locale anche Ludovica Di GresyLe telecamere che hanno ripreso il pestaggio inquadrerebbero il rapp"
     }
   ],
   "sport": [
+    {
+      "title": "Argentina: Scaloni apre al rinnovo e parla del ricambio della 'Seleccion",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/argentina-scaloni-apre-al-rinnovo-e-parla-del-ricambio-della-seleccion_3785230b-4cde-4394-8c39-1ef2fb49451f.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-29T19:52:25.000Z",
+      "excerpt": "'C'è disponibilità da entrambe le parti, l'importante è che ci sia voglia di proseguire'"
+    },
     {
       "title": "Dybala e Molina non parteciperanno all'addio di Messi all'Argentina",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/dybala-e-molina-non-parteciperanno-alladdio-di-messi-allargentina_b15ae5e8-aa44-4a62-9c69-99ec38034f7c.html",
@@ -2008,13 +2015,6 @@
       "source": "Gazzetta dello Sport",
       "pubDate": "2023-12-08T10:29:21.000Z",
       "excerpt": "Sofia domina con quasi 95/100 sulla Huetter, eguagliata la Brignone e torna al successo nella specialità dopo quasi due anni. Fede 5ª, Bassino 7ª. Brutta caduta per Curtoni"
-    },
-    {
-      "title": "Inter, il piano recupero degli infortunati. Bastoni è il primo a rientrare  ",
-      "link": "https://www.gazzetta.it/Calcio/Serie-A/Inter/07-12-2023/inter-il-piano-recupero-degli-infortunati-bastoni-scalda-i-motori.shtml",
-      "source": "Gazzetta dello Sport",
-      "pubDate": "2023-12-07T19:51:19.000Z",
-      "excerpt": "L’obiettivo in casa nerazzurra è quello di svuotare l’infermeria entro fine anno per restituire a Inzaghi l’organico al completo. L’azzurro sarà il primo a tornare disponibile, con probabile partenza dalla panchina contr"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-29T19:40:02.187Z",
+  "lastUpdated": "2026-09-29T20:09:07.272Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il giudice frena i Del Vecchio, quote Delfin ferme per 6 mesi",
+        "link": "https://www.repubblica.it/economia/2026/09/29/news/delfin_respinto_il_ricorso_di_lmdv_prelazione_sei_mesi-425615053/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-29T19:59:42.000Z",
+        "excerpt": "Accolta la richiesta di proroga della società. Fino a fine marzo il 37,5% rimarrà in capo ai singoli eredi e quindi Leonardo Maria non potrà spostare la sua quota"
+      },
+      {
+        "title": "Lundbeck valuta un’acquisizione di Xeris Biopharma, secondo Bloomberg",
+        "link": "https://it.investing.com/news/stock-market-news/lundbeck-valuta-unacquisizione-di-xeris-biopharma-secondo-bloomberg-3567429",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T19:47:36.000Z",
+        "excerpt": ""
+      },
       {
         "title": "Sigarette, nel 2027 fino a 25 centesimi in più a pacchetto",
         "link": "https://www.ilsole24ore.com/art/sigarette-2027-fino-25-centesimi-piu-pacchetto-AJiWwRTB",
@@ -63,13 +77,6 @@
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-walmart-sta-scendendo-oggi-93CH-3567406",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-29T18:49:29.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Alcuni investitori dell’IPO di Oura avrebbero espresso riserve sulla valutazione",
-        "link": "https://it.investing.com/news/stock-market-news/alcuni-investitori-dellipo-di-oura-avrebbero-espresso-riserve-sulla-valutazione-432SI-3567397",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T18:26:01.000Z",
         "excerpt": ""
       },
       {
@@ -192,13 +199,6 @@
         "excerpt": "Eni, dopo il tetto ai prezzi di gasolio e benzina, “offre un nuovo contributo alle famiglie italiane nell’ambito dell’iniziativa Eni per l’Italia, volta a supportare i cittadini nel..."
       },
       {
-        "title": "Delfin, respinto il ricorso di Lmdv: sei mesi per la prelazione sul trasferimento di azioni",
-        "link": "https://www.repubblica.it/economia/2026/09/29/news/delfin_respinto_il_ricorso_di_lmdv_prelazione_sei_mesi-425615053/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-29T14:38:39.000Z",
-        "excerpt": "Il giudice del Lussemburgo ha accolto la richiesta della società. Fino a fine marzo il 37,5% rimarrà in capo ai singoli eredi e quindi Leonardo Maria non potrà spostare la sua quota"
-      },
-      {
         "title": "Viaggi: Bari, Bologna e Napoli le destinazioni italiane più indicate per una vacanza a ottobre",
         "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/osserva-viaggi/2026/09/29/news/viaggi_bari_bologna_e_napoli_le_destinazioni_italiane_piu_indicate_per_una_vacanza_a_ottobre-425615051/?rss",
         "source": "Repubblica Economia",
@@ -229,7 +229,7 @@
     ],
     "europa": [
       {
-        "title": "Trump: «Per l’Ia deve esserci autoregolamentazione, non paletti»",
+        "title": "Trump: per l’Ia autoregolamentazione, firmiamo documento per cambiarle nome",
         "link": "https://www.ilsole24ore.com/art/trump-per-l-ia-deve-esserci-autoregolamentazione-non-paletti-AJl2KOTB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-09-29T19:04:00.000Z",
@@ -401,6 +401,34 @@
     ],
     "mondo": [
       {
+        "title": "Ecuador, multe fino a 14.460 dollari per i droni vicino ad aeroporti e incendi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/ecuador-multe-fino-a-14.460-dollari-per-i-droni-vicino-ad-aeroporti-e-incendi_9f2a3ae4-fec7-4571-b27a-04e7e47d8859.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-29T20:01:55.000Z",
+        "excerpt": "La stretta punta a contrastarne l'uso da parte delle organizzazioni criminali"
+      },
+      {
+        "title": "Corte Suprema Usa revoca ancora i limiti a espulsione immigrati verso Paesi terzi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/corte-suprema-usa-revoca-ancora-i-limiti-a-espulsione-immigrati-verso-paesi_fae7885f-f59a-421f-a625-7645cc40b30c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-29T20:01:37.000Z",
+        "excerpt": "Accoglie la richiesta amministrazione Trump di sospendere sentenza di tribunale inferiore."
+      },
+      {
+        "title": "La minaccia di Putin alla Nato: “Per difendere Kaliningrad siamo pronti a usare l’atomica”",
+        "link": "https://www.repubblica.it/esteri/2026/09/29/news/putin_minaccia_nato_kaliningrad_atomica-425615763/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T19:59:06.000Z",
+        "excerpt": "La lettera formale di Mosca all’Alleanza: “Possiamo colpire le vostre capitali”. L’avvertimento dopo le esercitazioni Ue-Usa intorno all’exclave. “Vogliono dividerci”"
+      },
+      {
+        "title": "Il petrolio scivola mentre i flussi in Medio Oriente migliorano, gli Stati Uniti rilasciano più greggio dalle riserve",
+        "link": "https://www.investing.com/news/commodities-news/oil-extends-gains-as-usiran-stalemate-overshadows-saudi-flows-4921487",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-29T19:51:23.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Il petrolio greggio WTI barcolla a $89,31 sul bordo della scogliera: livelli live",
         "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-95609773-resistance-wall-live-levels-93CH-4919472",
         "source": "Investing.com Commodities",
@@ -447,13 +475,6 @@
         "link": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-29T19:18:34.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "I futures sul mais scendono prima del rapporto sulle azioni USDA",
-        "link": "https://www.investing.com/news/commodities-news/corn-futures-edge-lower-ahead-of-usda-stocks-report-93CH-4923344",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-29T18:59:39.000Z",
         "excerpt": ""
       },
       {
@@ -513,13 +534,6 @@
         "excerpt": "Ice-Istituto Valorizzazione Salumi Italiani, il primo ottobre parte SalumiAmo Polonia 2026"
       },
       {
-        "title": "Iila a Montevideo per la sicurezza e la gestione integrata delle frontiere",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/iila-a-montevideo-per-la-sicurezza-e-la-gestione-integrata-delle-frontiere_b056e8a9-7b83-45a3-8968-9a5b21ab46c6.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-29T16:29:41.000Z",
-        "excerpt": "Silli: 'Spazio di dialogo, fiducia e cooperazione per affrontare sfide comuni'"
-      },
-      {
         "title": "Brexit, Burnham non esclude il ritorno nella Ue nel suo discorso “rivoluzionario e di sinistra”",
         "link": "https://www.repubblica.it/esteri/2026/09/29/news/brexit_burnham_ritorno_ue_conferenza_labour_liverpool-425615238/?rss",
         "source": "Repubblica Esteri",
@@ -532,13 +546,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "2026-09-29T15:42:38.000Z",
         "excerpt": "Patrick Branco Ruivo lascerà l’incarico a fine anno. A settembre aveva costretto le donne che lavorano nella struttura a farsi da parte per non incrociare una delegazione religiosa indù"
-      },
-      {
-        "title": "Delcy Rodríguez annuncia la depenalizzazione dei delitti d'opinione in Venezuela",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/delcy-rodriguez-annuncia-la-depenalizzazione-dei-delitti-dopinione-in-venezuela_062f364d-dd67-4eb5-afae-7c8ac1d6b055.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-29T15:39:04.000Z",
-        "excerpt": "Chiesta la riforma della 'Legge contro l'odio' usata per criminalizzare la dissidenza"
       },
       {
         "title": "Giappone, Lady Gaga commessa da FamilyMart: lo spot per attirare giovani lavoratori",
@@ -560,30 +567,30 @@
         "source": "Repubblica Esteri",
         "pubDate": "2026-09-29T09:39:06.000Z",
         "excerpt": "Il nuovo portale promette di semplificare l’accesso ai servizi federali. Alla Casa Bianca il vertice con i big della tecnologia, da Zuckerberg a Pichai e Huang: sul tavolo sicurezza, regole e competizione con la Cina"
-      },
-      {
-        "title": "Germania, il piano Afd per riaprire Nord Stream: “Un forum economico con Russia e Usa nel 2027”",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/germania_afd_riaprire_nord_stream_forum_economico_russia_usa_2027-425614478/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T09:14:03.000Z",
-        "excerpt": "Frohnmeier, il vicecapogruppo del partito di estrema destra, tratta con Kirill Dmitriev per un incontro il prossimo anno. Al centro il rilancio dei rapporti economici e il ritorno del gas russo in Germania"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "La minaccia di Putin alla Nato: “Per difendere Kaliningrad siamo pronti a usare l’atomica”",
+      "link": "https://www.repubblica.it/esteri/2026/09/29/news/putin_minaccia_nato_kaliningrad_atomica-425615763/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T19:59:06.000Z",
+      "excerpt": "La lettera formale di Mosca all’Alleanza: “Possiamo colpire le vostre capitali”. L’avvertimento dopo le esercitazioni Ue-Usa intorno all’exclave. “Vogliono dividerci”"
+    },
+    {
+      "title": "Eni, tetto pure alle bollette. Polemica con Enel e A2A, L'appello di Meloni sull'energia",
+      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/29/da-eni-tetto-alle-bollette-sconto-del-30-rispetto-allofferta-base_fe093fda-3737-4bd8-8211-b569e1eb5bca.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-29T19:51:02.000Z",
+      "excerpt": "Arera, +37,3% tariffa luce per i vulnerabili. Q8 si adegua a limite su carburanti"
+    },
     {
       "title": "Scontro su Tajani per Regeni. Meloni: 'Chiudere i canali con l'Egitto non aiuta'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/scontro-su-tajani-per-regeni.-meloni-chiudere-i-canali-con-legitto-non_f837010a-3cba-4fa7-90a0-da01db282440.html",
       "source": "ANSA",
       "pubDate": "2026-09-29T19:18:10.000Z",
       "excerpt": "Le opposizioni, il ministro venga in Parlamento. La Russa, l'Italia farà il necessario"
-    },
-    {
-      "title": "Eni, tetto pure alle bollette. È polemica con Enel e A2A, nostre già più basse ",
-      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/29/da-eni-tetto-alle-bollette-sconto-del-30-rispetto-allofferta-base_fe093fda-3737-4bd8-8211-b569e1eb5bca.html",
-      "source": "ANSA",
-      "pubDate": "2026-09-29T18:36:15.000Z",
-      "excerpt": "Arera, +37,3% tariffa luce per i vulnerabili. Q8 si adegua a limite su carburanti"
     },
     {
       "title": "Matteo Renzi: “Se Conte vincesse le primarie, lo voterei”",
@@ -640,13 +647,6 @@
       "source": "Repubblica",
       "pubDate": "2026-09-29T15:42:38.000Z",
       "excerpt": "Patrick Branco Ruivo lascerà l’incarico a fine anno. A settembre aveva costretto le donne che lavorano nella struttura a farsi da parte per non incrociare una delegazione religiosa indù"
-    },
-    {
-      "title": "Spagna, prima vittoria degli Indignados: Maricarmen torna a casa e sfratti sospesi fino al 2030",
-      "link": "https://www.repubblica.it/esteri/2026/09/29/news/spagna_maricarmen_vittoria_indignados_sfratti_sospesi_2030_sanchez-425615172/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-29T15:18:52.000Z",
-      "excerpt": "Ma il decreto approvato oggi dal Consiglio dei ministri dovrà essere votato venerdì dal Congresso: manca l’ok di Junts. Intanto gli attivisti restano in Puerta del Sol. Anche Ada Colau vittima del caro affitti: l’ex sind"
     },
     {
       "title": "Bollette, +37% per i vulnerabili: sconto Eni, è sfida con Enel e A2A. Meloni: “Spero anche in altri”",
@@ -742,6 +742,13 @@
   ],
   "sport": [
     {
+      "title": "Argentina: Scaloni apre al rinnovo e parla del ricambio della 'Seleccion",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/argentina-scaloni-apre-al-rinnovo-e-parla-del-ricambio-della-seleccion_3785230b-4cde-4394-8c39-1ef2fb49451f.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-29T19:52:25.000Z",
+      "excerpt": "'C'è disponibilità da entrambe le parti, l'importante è che ci sia voglia di proseguire'"
+    },
+    {
       "title": "Nations League: Raspadori lascia il raduno di Coverciano",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/nations-league-raspadori-lascia-il-raduno-di-coverciano_b1998785-f6cc-49a9-b949-4345985a981a.html",
       "source": "ANSA Sport",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-09-29T16:48:19.000Z",
       "excerpt": "L'ex ad di Sport e Salute succede a Fabris"
-    },
-    {
-      "title": "Under 21 in campo giovedì, Ndour: 'In Armenia per fare la partita e vincere'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/under-21-in-campo-giovedi-ndour-in-armenia-per-fare-la-partita-e-vincere_ebaf963e-1a87-42b3-8da7-f646d4890dd5.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-09-29T16:43:15.000Z",
-      "excerpt": "Ultime due partite del girone in vista: 'Possiamo farcela per l'Europeo'"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
