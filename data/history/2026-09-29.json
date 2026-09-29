@@ -4,11 +4,46 @@
   "finanza": {
     "italia": [
       {
+        "title": "Enel annuncia uno sconto del 50% sul prezzo dell’elettricità",
+        "link": "https://www.ilsole24ore.com/art/enel-annuncia-sconto-50percento-prezzo-dell-elettricita-AJT519SB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-09-29T16:23:00.000Z",
+        "excerpt": "Enel annuncia uno sconto del 50% sul prezzo dell’elettricità: «È la più bassa offerta sul mercato nazionale tra gli operatori primari. Per la famiglia media (2MWh l’anno) uno sconto di..."
+      },
+      {
+        "title": "Lo spread Btp-Bund chiude a quota 100 sulla piattaforma di Borsa",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/lo-spread-btp-bund-chiude-a-quota-100-sulla-piattaforma-di-borsa_2545a9bb-31ac-4736-ac32-676b5866ee5f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-29T16:14:15.000Z",
+        "excerpt": "Per Bloomberg a 99 punti base. Il rendimento aggiorna i massimi dal 2023 e supera il 4,6%"
+      },
+      {
+        "title": "Trovato morto in casa a Milano il vicedirettore di Libero Andrea Tempestini",
+        "link": "https://www.ilsole24ore.com/art/trovato-morto-casa-milano-vicedirettore-libero-andrea-tempestini-AJTJk7SB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-09-29T16:12:42.000Z",
+        "excerpt": "Il vicedirettore di Libero Andrea Tempestini, 40 anni, è stato trovato morto nella sua abitazione in via Belinzaghi a Milano. Sul posto, ieri sera, dopo l’allarme dato da una famigliare,..."
+      },
+      {
+        "title": "Il piano dei posti al tavolo di Trump rivela chi conta nell’AI",
+        "link": "https://it.investing.com/news/stock-market-news/il-piano-dei-posti-a-tavola-di-trump-rivela-chi-conta-nellai-3567302",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T16:08:05.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Armani, prezzo e pretendenti si allunga la vendita del 15%",
         "link": "https://www.repubblica.it/economia/2026/09/29/news/armani_prezzo_e_pretendenti_si_allunga_la_vendita_del_15-425615250/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-09-29T16:04:47.000Z",
         "excerpt": "Tempi più lunghi per la vendita e si moltiplicano le opzioni. Il gruppo vuole rafforzare la maison"
+      },
+      {
+        "title": "Borsa: Milano tiene con Technoprobe e Fincantieri, male Tim",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/borsa-milano-tiene-con-technoprobe-e-fincantieri-male-tim_a9aff315-05fd-4041-8598-69013174e296.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-29T16:03:39.000Z",
+        "excerpt": "Acquisti anche su Avio e Stm, scivolano Stellantis e Poste"
       },
       {
         "title": "I principali retailer hardline USA da monitorare nell’era degli agenti AI",
@@ -387,41 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-29T13:24:03.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "Landini, 'abbiamo 120 anni e vogliamo andare avanti con forza'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/landini-abbiamo-120-anni-e-vogliamo-andare-avanti-con-forza_5fe904a2-968d-4ea6-85df-40db68ed8bb6.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-29T13:22:27.000Z",
-        "excerpt": "Mettiamo a disposizione delle nuove generazioni la nostra storia di lotte"
-      },
-      {
-        "title": "Per quanto ancora le azioni potranno sfidare i tassi in rialzo?",
-        "link": "https://it.investing.com/news/stock-market-news/per-quanto-ancora-le-azioni-potranno-sfidare-i-tassi-in-rialzo-3567037",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T13:19:46.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Goldman Sachs individua sei titoli top nei Media & Internet europei dopo le conferenze",
-        "link": "https://it.investing.com/news/stock-market-news/goldman-sachs-individua-sei-titoli-top-nei-media--internet-europei-3567024",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T13:18:29.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo Wyndham Hotels sale dopo l’aumento del buyback",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-wyndham-hotels-sale-dopo-laumento-del-buyback-3567025",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T13:18:12.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il petrolio è in calo a New York, a -2,28%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/il-petrolio-e-in-calo-a-new-york-a-228_6b23bc91-fda7-4600-aafe-1c8954117314.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-29T13:08:09.000Z",
-        "excerpt": "Il Wti scivola 90,49 dollari, il Brent perde l'1,80% a quota 96,07"
       }
     ],
     "europa": [
@@ -681,6 +681,27 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Salumi italiani, in Polonia export +25,2% nei primi sei mesi del 2026",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/29/salumi-italiani-in-polonia-export-252-nei-primi-sei-mesi-del_a6d216b6-2d9a-4b1b-9ab0-4bf74b26bf08.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-29T16:37:38.000Z",
+        "excerpt": "Ice-Istituto Valorizzazione Salumi Italiani, il primo ottobre parte SalumiAmo Polonia 2026"
+      },
+      {
+        "title": "Iila a Montevideo per la sicurezza e la gestione integrata delle frontiere",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/iila-a-montevideo-per-la-sicurezza-e-la-gestione-integrata-delle-frontiere_b056e8a9-7b83-45a3-8968-9a5b21ab46c6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-29T16:29:41.000Z",
+        "excerpt": "Silli: 'Spazio di dialogo, fiducia e cooperazione per affrontare sfide comuni'"
+      },
+      {
+        "title": "Marocco, il re nomina Ezzahra El Mansouri: è la prima donna premier",
+        "link": "https://www.repubblica.it/esteri/2026/09/29/news/marocco_prima_donna_premier_fatima_ezzahra_el_mansour-425615264/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T16:25:20.000Z",
+        "excerpt": "La sindaca di Marrakech è stata scelta dopo la vittoria del suo partito alle elezioni parlamentari del 23 settembre scorso"
+      },
       {
         "title": "Brexit, Burnham non esclude il ritorno in Ue nel suo discorso “rivoluzionario e di sinistra”",
         "link": "https://www.repubblica.it/esteri/2026/09/29/news/brexit_burnham_ritorno_ue_conferenza_labour_liverpool-425615238/?rss",
@@ -1079,31 +1100,31 @@
         "source": "Repubblica Esteri",
         "pubDate": "2026-09-28T23:00:00.000Z",
         "excerpt": "Il ruolo dei transalpini è più che un’ipotesi. Chiarire le responsabilità dipende da cosa decideranno di rendere pubblico"
-      },
-      {
-        "title": "Iran, nuovi spiragli di trattativa: “Pronti a flessibilità sul nucleare”",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/iran_nuovi_spiragli_trattativa_flessibilita_nucleare-425613698/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-28T23:00:00.000Z",
-        "excerpt": "Aperture della Casa Bianca su sanzioni e fondi congelate: “Ma Teheran faccia sul serio”. Voci sulla sostituzione della Guida"
-      },
-      {
-        "title": "Macron chiama i leader europei, ma il gran finale a Metz con il Papa è un flop",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/macron_flop_gran_finale_nessun_leader_vertice_europeo_papa-425613524/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-28T23:00:00.000Z",
-        "excerpt": "Per l’ultima tappa aveva invitato tutti i capi di Stato e di governo dei Paesi Ue. Poi cambia programma, partecipando alla messa"
-      },
-      {
-        "title": "Ocasio-Cortez, orgoglio socialista, attacca ricchi, Ice e data center: “Questa è guerra di classe”",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/ocasio_cortez_campagna_socialista_attacca_ricchi_ice_data_center_guerra_classe-425613455/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-28T23:00:00.000Z",
-        "excerpt": "In campagna con la leader della sinistra Usa che punta al Senato e forse alla Casa Bianca. E non intende riposizionarsi al centro"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Madre e figlie avvelenate con la ricina. Nuovo interrogatorio in questura per Gianni Di Vita",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/29/madre-e-figlie-avvelenate-con-la-ricina.-gianni-di-vita-in-questura-perquisiti-i-suoi_016113bb-edba-43dd-a287-648c26701c52.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-29T16:29:24.000Z",
+      "excerpt": "Il padre e marito delle vittime non è indagato. perquisiti i suoi due studi"
+    },
+    {
+      "title": "Spread Btp-Bund oltre quota 100 per la prima volta dalla primavera del 2025",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/spread-btp-bund-oltre-quota-100-per-la-prima-volta-dalla_28d6f012-e908-49b0-a099-7dbbc25ec9de.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-29T15:57:05.000Z",
+      "excerpt": "Francia a 119. Il decennale italiano rende il 4,59%, massimo di tre anni. I rendimenti del T-bond Usa a 30 anni sale al 5,60%, massimi dal 2002"
+    },
+    {
+      "title": "Brexit, Burnham non esclude il ritorno nella Ue nel suo discorso “rivoluzionario e di sinistra”",
+      "link": "https://www.repubblica.it/esteri/2026/09/29/news/brexit_burnham_ritorno_ue_conferenza_labour_liverpool-425615238/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T15:55:02.000Z",
+      "excerpt": "Il primo ministro britannico scuote il Paese e annuncia “nuove opzioni per i rapporti a lungo termine con l’Europa” post Brexit. Tra gli annunci alla conferenza Labour: acqua ed energia pubbliche, confisca delle abitazio"
+    },
     {
       "title": "Via il direttore della Tour Eiffel dopo lo scandalo delle dipendenti allontanate",
       "link": "https://www.repubblica.it/esteri/2026/09/29/news/tour_eiffel_direttore_scandalo_donne_delegazione_indu-425615211/",
@@ -1463,6 +1484,13 @@
     }
   ],
   "sport": [
+    {
+      "title": "Under 21 in campo giovedì, Ndour 'in Armenia per fare la partita e vincere'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/under-21-in-campo-giovedi-ndour-in-armenia-per-fare-la-partita-e-vincere_ebaf963e-1a87-42b3-8da7-f646d4890dd5.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-29T16:20:41.000Z",
+      "excerpt": "Ultime 2 partite del girone in vista: \"Possiamo farcela per l'Europeo\""
+    },
     {
       "title": "Uefa: Al-Khelaïfi chiede a Ceferin di ricandidarsi alla presidenza",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/uefa-al-khelaifi-chiede-a-ceferin-di-ricandidarsi-alla-presidenza_10c9a2c3-06b6-4086-884c-d3933110b5bf.html",
