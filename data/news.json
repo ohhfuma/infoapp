@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-28T23:38:59.713Z",
+  "lastUpdated": "2026-09-29T00:11:39.478Z",
   "finanza": {
     "italia": [
+      {
+        "title": "OpenAI cancella il lancio di un nuovo modello per problemi di sicurezza",
+        "link": "https://it.investing.com/news/stock-market-news/openai-cancella-il-lancio-di-un-nuovo-modello-per-problemi-di-sicurezza-3565767",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 23:47:09",
+        "excerpt": ""
+      },
+      {
+        "title": "Il CdA di Goldman Sachs discute il piano per nominare Waldron come prossimo CEO",
+        "link": "https://it.investing.com/news/stock-market-news/il-cda-di-goldman-sachs-discute-il-piano-per-nominare-waldron-come-prossimo-ceo-3565761",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-28 23:24:41",
+        "excerpt": ""
+      },
       {
         "title": "Trump rottama l’auto ecologica, smontata l’eredità verde di Biden",
         "link": "https://www.repubblica.it/economia/2026/09/29/news/trump_auto_ecologica-425613873/?rss",
@@ -98,20 +112,6 @@
         "link": "https://it.investing.com/news/stock-market-news/il-titolo-fico-crolla-mentre-gli-usa-vogliono-rompere-il-monopolio-3565653",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-28 20:56:06",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo di Vail Resorts scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-vail-resorts-scende-oggi-93CH-3565651",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 20:53:01",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Jefferies Financial sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-jefferies-financial-sta-scendendo-oggi-93CH-3565649",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-28 20:52:09",
         "excerpt": ""
       },
       {
@@ -401,6 +401,41 @@
     ],
     "mondo": [
       {
+        "title": "Brasile, quasi un milione di brasiliani all'estero voterà alle elezioni di domenica",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/brasile-quasi-un-milione-di-brasiliani-allestero-votera-alle-elezioni-di-domenica_99793667-a7fe-4a72-95c7-e06d6ecdce80.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 29 Sep 2026 02:00:27 +0200",
+        "excerpt": "Elettori registrati in 134 Paesi, +358% rispetto a 2010 e voteranno solo per il presidente"
+      },
+      {
+        "title": "Bufera su Trump per lo spot pagato dai contribuenti, 'repubblica delle banane'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/bufera-su-trump-per-lo-spot-pagato-dai-contribuenti-repubblica-delle-banane_92d22799-5401-4463-a49b-8048a1496026.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 29 Sep 2026 01:58:54 +0200",
+        "excerpt": "Repubblicani critici. I dem, appropriazione indebita. Casa Bianca lo difende"
+      },
+      {
+        "title": "Trump and Xi’s ’stalemate’ summit was a glitzy gift to China",
+        "link": "https://www.investing.com/news/commodities-news/analysistrump-and-xis-stalemate-summit-was-a-glitzy-gift-to-china-4919638",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-28 23:42:28",
+        "excerpt": ""
+      },
+      {
+        "title": "Brasile, la campagna di Flávio Bolsonaro preme per il ritiro di Zema e Caiado",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/brasile-la-campagna-di-flavio-bolsonaro-preme-per-il-ritiro-di-zema-e-caiado_828caf9f-eadd-4b91-b333-e0053790f17f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 29 Sep 2026 01:40:57 +0200",
+        "excerpt": "Il ceo di Nexus Tokarski: 'L'astensione può togliere due punti percentuale a Lula'"
+      },
+      {
+        "title": "Forti esplosioni a Kiev, difese antiaeree in azione",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/29/forti-esplosioni-a-kiev-difese-antiaeree-in-azione_ceb8f9bd-a461-4ca1-b6eb-0d2651156a70.html",
+        "source": "ANSA Mondo",
+        "pubDate": "Tue, 29 Sep 2026 01:38:30 +0200",
+        "excerpt": "Aeronautica ucraina: \"Missili balistici in arrivo sulla città\""
+      },
+      {
         "title": "Terrore in pieno giorno a Kiev, in fumo l’Accademia delle Scienze dopo un bombardamento russo",
         "link": "https://www.repubblica.it/esteri/2026/09/29/news/kiev_accademia_delle_scienze_bombardamento_russo-425613809/?rss",
         "source": "Repubblica Esteri",
@@ -485,20 +520,6 @@
         "excerpt": ""
       },
       {
-        "title": "Ong Venezuela, oltre 60 morti sotto custodia dello Stato da aprile 2026",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/28/ong-venezuela-oltre-60-morti-sotto-custodia-dello-stato-da-aprile-2026_37f7a070-7052-4c7d-a2c3-2e6d5f45bfe2.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 28 Sep 2026 23:22:48 +0200",
-        "excerpt": "L'Osservatorio venezuelano delle carceri denuncia l'ennesimo decesso di un detenuto"
-      },
-      {
-        "title": "Cile, Camera chiede al presidente Kast di chiarire adesione allo Scudo delle Americhe",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/28/cile-camera-chiede-al-presidente-kast-di-chiarire-adesione-allo-scudo-delle_f475e8b5-4454-4946-8f80-7e33b5da1c3b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 28 Sep 2026 23:11:25 +0200",
-        "excerpt": "Richiesta approvata con 66 voti, sufficienti per il quorum di un terzo"
-      },
-      {
         "title": "Gold slips 4% to fall below $4,200 on firmer dollar, bond rout, and Fed hike bets",
         "link": "https://www.investing.com/news/commodities-news/gold-falls-below-4300-as-oil-fed-hike-bets-keep-pressure-on-bullion-4919230",
         "source": "Investing.com Commodities",
@@ -506,25 +527,11 @@
         "excerpt": ""
       },
       {
-        "title": "L'Argentina chiede un arbitrato internazionale sulle Falkland-Malvinas",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/28/largentina-chiede-un-arbitrato-internazionale-sulle-falkland-malvinas_e41486d8-55ce-4e83-a943-c4f7721249a9.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 28 Sep 2026 22:48:08 +0200",
-        "excerpt": "Milei, 'è contro l'illecito saccheggio delle nostre risorse con il progetto Sea Lion'"
-      },
-      {
         "title": "Trump unveils $15 billion planned Iowa steel project",
         "link": "https://www.investing.com/news/commodities-news/trump-to-unveil-planned-15-billion-iowa-steel-project-4920589",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-28 20:42:33",
         "excerpt": ""
-      },
-      {
-        "title": "Inaugurato padiglione Italia alla Fiera del Turismo di Buenos Aires",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/28/inaugurato-padiglione-italia-alla-fiera-del-turismo-di-buenos-aires_321b87c3-ce8d-4fd0-8ffd-ac73c1f2a9e0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "Mon, 28 Sep 2026 22:32:27 +0200",
-        "excerpt": "Forte presenza istituzionale con l'ad di Enit e commissione Turismo della Camera"
       },
       {
         "title": "Trump says US will win Iran war ’very soon’",
@@ -552,13 +559,6 @@
         "link": "https://www.investing.com/news/commodities-news/soybean-futures-fall-as-uschina-deal-excludes-key-crop-93CH-4921036",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-28 19:45:06",
-        "excerpt": ""
-      },
-      {
-        "title": "China, US pledge tariff cuts on $60 billion of goods including agriculture, toys, toasters",
-        "link": "https://www.investing.com/news/commodities-news/china-says-us-trade-truce-extension-creates-space-to-advance-talks-4919293",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-28 19:36:36",
         "excerpt": ""
       },
       {
