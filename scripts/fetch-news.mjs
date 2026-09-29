@@ -10,19 +10,19 @@ const FEEDS = {
       { name: "Il Sole 24 Ore", url: "https://www.ilsole24ore.com/rss/italia.xml" },
       { name: "ANSA Economia", url: "https://www.ansa.it/sito/notizie/economia/economia_rss.xml" },
       { name: "Repubblica Economia", url: "https://www.repubblica.it/rss/economia/rss2.0.xml" },
-      { name: "Investing.com Italia", url: "https://it.investing.com/rss/news_25.rss" }
+      { name: "Investing.com Italia", url: "https://it.investing.com/rss/news_25.rss", translate: false }
     ],
     europa: [
       { name: "Il Sole 24 Ore Mondo", url: "https://www.ilsole24ore.com/rss/mondo.xml" },
-      { name: "Investing.com Eurozona", url: "https://www.investing.com/rss/news_1064.rss" }
+      { name: "Investing.com Eurozona", url: "https://www.investing.com/rss/news_1064.rss", translate: true }
     ],
     usa: [
-      { name: "Investing.com USA", url: "https://www.investing.com/rss/news_285.rss" }
+      { name: "Investing.com USA", url: "https://www.investing.com/rss/news_285.rss", translate: true }
     ],
     mondo: [
       { name: "ANSA Mondo", url: "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml" },
       { name: "Repubblica Esteri", url: "https://www.repubblica.it/rss/esteri/rss2.0.xml" },
-      { name: "Investing.com Commodities", url: "https://www.investing.com/rss/news_11.rss" }
+      { name: "Investing.com Commodities", url: "https://www.investing.com/rss/news_11.rss", translate: true }
     ]
   },
   attualita: [
@@ -40,9 +40,20 @@ const MAX_ITEMS_PER_SOURCE = 8;
 const MAX_ITEMS_PER_DAY = 60;
 const HISTORY_DAYS_TO_KEEP = 7;
 const HISTORY_DIR = 'data/history';
+const TRANSLATE_DELAY_MS = 400;
 
 function cleanExcerpt(text) {
   return (text || '').replace(/\s+/g, ' ').trim().slice(0, 220);
+}
+
+function getValidPubDate(item) {
+  const candidates = [item.isoDate, item.pubDate];
+  for (const c of candidates) {
+    if (!c) continue;
+    const d = new Date(c);
+    if (!isNaN(d.getTime())) return d.toISOString();
+  }
+  return new Date().toISOString();
 }
 
 function getRomeDateKey(date = new Date()) {
@@ -54,25 +65,65 @@ function keyToLabel(dateKey) {
   return d.toLocaleDateString('it-IT', { weekday: 'short', day: '2-digit', month: '2-digit' });
 }
 
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function translateText(text) {
+  if (!text || !text.trim()) return text;
+  try {
+    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|it`;
+    const res = await fetch(url);
+    const data = await res.json();
+    const translated = data?.responseData?.translatedText;
+    if (translated && !translated.toUpperCase().includes('QUERY LENGTH LIMIT')) {
+      return translated;
+    }
+    return text;
+  } catch (err) {
+    console.warn(`  ⚠️ Traduzione fallita per "${text.slice(0, 40)}...": ${err.message}`);
+    return text;
+  }
+}
+
+async function translateItems(items) {
+  const translated = [];
+  for (const item of items) {
+    const title = await translateText(item.title);
+    await sleep(TRANSLATE_DELAY_MS);
+    const excerpt = await translateText(item.excerpt);
+    await sleep(TRANSLATE_DELAY_MS);
+    translated.push({ ...item, title, excerpt });
+  }
+  return translated;
+}
+
 async function fetchCategory(feeds) {
   let items = [];
   for (const feed of feeds) {
     try {
       const parsed = await parser.parseURL(feed.url);
-      const feedItems = (parsed.items || []).slice(0, MAX_ITEMS_PER_SOURCE).map(item => ({
+      let feedItems = (parsed.items || []).slice(0, MAX_ITEMS_PER_SOURCE).map(item => ({
         title: item.title,
         link: item.link,
         source: feed.name,
-        pubDate: item.pubDate || item.isoDate || null,
+        pubDate: getValidPubDate(item),
         excerpt: cleanExcerpt(item.contentSnippet || item.summary || '')
       }));
+
+      if (feed.translate) {
+        console.log(`  🌍 Traduzione in corso per ${feed.name} (${feedItems.length} notizie)...`);
+        feedItems = await translateItems(feedItems);
+      }
+
       items = items.concat(feedItems);
-      console.log(`  ✓ ${feed.name}: ${feedItems.length} notizie`);
+      const dateSample = feedItems[0] ? feedItems[0].pubDate : 'n/d';
+      console.log(`  ✓ ${feed.name}: ${feedItems.length} notizie (es. data: ${dateSample})`);
     } catch (err) {
       console.error(`  ✗ Errore in ${feed.name} (${feed.url}): ${err.message}`);
     }
   }
-  items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  items.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
   return items;
 }
 
@@ -94,7 +145,7 @@ function mergeUnique(existing, fresh, maxItems) {
       seenLinks.add(item.link);
     }
   }
-  merged.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+  merged.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
   return merged.slice(0, maxItems);
 }
 
