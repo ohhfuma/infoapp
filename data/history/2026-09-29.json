@@ -4,6 +4,48 @@
   "finanza": {
     "italia": [
       {
+        "title": "Sigarette, nel 2027 fino a 25 centesimi in più a pacchetto",
+        "link": "https://www.ilsole24ore.com/art/sigarette-2027-fino-25-centesimi-piu-pacchetto-AJiWwRTB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-09-29T19:37:16.000Z",
+        "excerpt": "A partire dal 1° gennaio 2027 un pacchetto di sigarette costerà circa 25 centesimi in più. Questo rincaro, però, non coglie di sorpresa: la manovra di Bilancio del..."
+      },
+      {
+        "title": "Perché il titolo Canadian Solar è salito del 10% oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-canadian-solar-e-salito-del-10-oggi-93CH-3567418",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T19:15:04.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Microsoft consolida tra $493 e $519: aggiornato ogni ora",
+        "link": "https://it.investing.com/news/stock-market-news/microsoft-in-consolidamento-tra-504-e-515-aggiornato-ogni-ora-93CH-3565285",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T19:12:13.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Tesla sotto pressione a $354: analisi ribassista in tempo reale",
+        "link": "https://it.investing.com/news/stock-market-news/tesla-sotto-le-medie-chiave-con-rischio-breakdown-aggiornato-93CH-3565286",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T19:11:45.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "UBS individua i migliori titoli europei dei chip prima della stagione degli utili del Q3 2026",
+        "link": "https://it.investing.com/news/stock-market-news/ubs-individua-i-migliori-titoli-europei-dei-chip-prima-della-stagione-degli-utili-del-q3-2026-3567414",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T19:00:56.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Banca del Canada invita le banche a usare la liquidità senza stigma",
+        "link": "https://it.investing.com/news/stock-market-news/banca-del-canada-invita-le-banche-a-usare-la-liquidita-senza-stigma-3567410",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T18:58:09.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Perché il titolo DraftKings sta scendendo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-draftkings-sta-scendendo-oggi-93CH-3567407",
         "source": "Investing.com Italia",
@@ -380,48 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-29T15:22:30.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo STAAR Surgical è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-staar-surgical-e-in-forte-rialzo-oggi-93CH-3567268",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T15:18:46.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Air Canada è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-air-canada-e-in-rialzo-oggi-93CH-3567265",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T15:16:19.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo di Constellation Software guadagna oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-constellation-software-guadagna-oggi-93CH-3567262",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T15:14:17.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Plug Power sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-plug-power-sta-salendo-oggi-93CH-3567261",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T15:13:23.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Bernstein: Samsung guadagna quota HBM, tagliato target SK Hynix",
-        "link": "https://it.investing.com/news/stock-market-news/bernstein-samsung-guadagna-quota-hbm-tagliato-target-sk-hynix-3567260",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T15:10:53.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Eni dopo i carburanti taglia anche le bollette: sconto del 30% sulle offerte di luce e gas",
-        "link": "https://www.repubblica.it/economia/2026/09/29/news/eni_taglio_bollette_luce_gas_plenitude-425615123/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-29T15:05:05.000Z",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -751,6 +751,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "I futures sul mais scendono prima del rapporto sulle azioni USDA",
+        "link": "https://www.investing.com/news/commodities-news/corn-futures-edge-lower-ahead-of-usda-stocks-report-93CH-4923344",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-29T18:59:39.000Z",
+        "excerpt": ""
+      },
       {
         "title": "Trump, 'per l'Ia deve esserci l'autoregolamentazione, non paletti'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/trump-per-lia-deve-esserci-lautoregolamentazione-non-paletti_eedb76ce-208a-4406-9ad9-6d7531e30431.html",
@@ -1163,17 +1170,17 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-09-29T06:59:24.000Z",
         "excerpt": "Ministro Araghchi, 'chi dice il contrario sta facendo disinformazione'"
-      },
-      {
-        "title": "Leone XIV: “IA e guerre, non possiamo restare a guardare. Serve il dialogo”",
-        "link": "https://www.repubblica.it/esteri/2026/09/28/news/papa_leone_intervista_ia_guerre_dialogo_estrema_destra-425613677/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T06:45:22.000Z",
-        "excerpt": "Il pontefice sul volo da Metz a Roma, al termine del viaggio di quattro giorni in Francia: “Quanto all’estrema destra, sarebbe interessante studiare e analizzare se c’è un legame, e quale, tra la crescita di questi grupp"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Scontro su Tajani per Regeni. Meloni: 'Chiudere i canali con l'Egitto non aiuta'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/scontro-su-tajani-per-regeni.-meloni-chiudere-i-canali-con-legitto-non_f837010a-3cba-4fa7-90a0-da01db282440.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-29T19:18:10.000Z",
+      "excerpt": "Le opposizioni, il ministro venga in Parlamento. La Russa, l'Italia farà il necessario"
+    },
     {
       "title": "Regeni, Meloni: 'Chiudere i canali con l'Egitto rischia di allontanarci dall'obiettivo'",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/29/regeni-meloni-chiudere-i-canali-con-legitto-rischia-di-allontanarci-dallobiettivo_bb681f63-e6c8-4e39-a177-e17c3a2329a2.html",
@@ -1586,13 +1593,6 @@
       "source": "Corriere della Sera",
       "pubDate": "2024-05-13T06:01:38.000Z",
       "excerpt": "Il rapper identificato con le telecamere. «Di cosa parliamo? Lui tre giorni dopo era a ballare». Presente quella sera nel locale anche Ludovica Di GresyLe telecamere che hanno ripreso il pestaggio inquadrerebbero il rapp"
-    },
-    {
-      "title": "I DATI DEL COVID «Io avevo già truccato»: così, secondo i pm, in Liguria manipolavano i numeri sulla pandemia ",
-      "link": "https://www.corriere.it/politica/24_maggio_13/liguria-dati-covid-manipolati-indagine-413ff205-c02e-4bf1-8313-406d7c5c2xlk.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "2024-05-13T06:00:32.000Z",
-      "excerpt": "Sui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumentatiSui contagi il governatore Giovanni Toti diceva al suo capo di gabinetto Matteo Cozzani: li ho un po’ aumenta"
     }
   ],
   "sport": [
