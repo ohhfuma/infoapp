@@ -1,13 +1,90 @@
 {
-  "lastUpdated": "2026-09-30T10:10:01.530Z",
+  "lastUpdated": "2026-09-30T10:41:22.682Z",
   "finanza": {
     "italia": [
       {
-        "title": "Incidente alla Fincantieri Ancona: operaio ucciso da una fiammata, un altro è gravissimo",
-        "link": "https://www.ilsole24ore.com/art/incidente-fincantieri-ancona-operaio-ucciso-una-fiammata-altro-e-gravissimo-AJNDxxTB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T10:05:48.000Z",
-        "excerpt": "Un operaio tunisino di 55 anni morto a causa delle ustioni riportate e un altro di 29 anni, di origine bengalese trasferito dall’ospedale regionale di Ancona al centro Grandi ustionati..."
+        "title": "Carburanti, prezzi in calo dopo gli sconti. Trump non esclude lo stop all'export di diesel",
+        "link": "https://www.repubblica.it/economia/2026/09/30/news/carburanti_prezzi_in_calo_dopo_gli_sconti_trump_export_diesel-425616671/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T10:38:04.000Z",
+        "excerpt": "Quotazioni medie in diminuzione ma dati a macchia di leopardo."
+      },
+      {
+        "title": "Bancomat e altri operatori creano hub europeo per pagamenti più autonomi e interconnessi",
+        "link": "https://www.repubblica.it/economia/2026/09/30/news/bancomat_e_altri_operatori_creano_hub_europeo_per_pagamenti_piu_autonomi_e_interconnessi-425616662/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T10:33:59.000Z",
+        "excerpt": "Nasce European Network for Payments. Burlando: \"Collegando soluzioni nazionali già consolidate all’interno di un quadro comune, rendiamo possibile un’esperienza transfrontaliera semplice e immediata\""
+      },
+      {
+        "title": "Fondi pensione USA pronti a vendere 33 miliardi di dollari in azioni: Goldman",
+        "link": "https://it.investing.com/news/stock-market-news/fondi-pensione-usa-pronti-a-vendere-33-miliardi-di-dollari-in-azioni-goldman-3568397",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:32:58.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Deutsche Bank e J.P. Morgan avviano copertura su Nordnet con visioni divergenti",
+        "link": "https://it.investing.com/news/stock-market-news/deutsche-bank-e-jp-morgan-avviano-copertura-su-nordnet-con-visioni-divergenti-3568396",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:32:10.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo AppLovin è in calo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-applovin-e-in-calo-oggi-93CH-3568388",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:30:58.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo di Southern Company è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-southern-company-e-in-rialzo-oggi-93CH-3568387",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:30:48.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "I mercati USA a nuovi record, ma una catena di ristoranti sale dell’11% questa settimana",
+        "link": "https://it.investing.com/news/stock-market-news/i-mercati-usa-a-nuovi-record-ma-una-catena-di-ristoranti-sale-dell11-questa-settimana-3568382",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:26:49.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Yiren Digital è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-yiren-digital-e-in-rialzo-oggi-93CH-3568367",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:23:51.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Balneari, il bando per le gare: concessioni fino a 20 anni, canone variabile e indennizzi",
+        "link": "https://www.repubblica.it/economia/2026/09/30/news/balneari_banco_concessioni_cannone_indennizzi-425616558/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T10:20:32.000Z",
+        "excerpt": "Le istruzioni del Mit ai Comuni che dovranno procedere con le assegnazioni entro il 30 settembre 2027. Vincerà l’offerta più vantaggiosa, ai concessionari uscenti risarcimenti per gli investimenti effettuati negli ultimi"
+      },
+      {
+        "title": "Il regolatore britannico avverte: l’acquisizione di Brink’s potrebbe danneggiare la concorrenza negli ATM",
+        "link": "https://it.investing.com/news/stock-market-news/il-regolatore-britannico-avverte-lacquisizione-di-brinks-potrebbe-danneggiare-la-concorrenza-negli-atm-93CH-3568348",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:18:54.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo di Trulieve Cannabis sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-trulieve-cannabis-sta-scendendo-oggi-93CH-3568344",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:16:59.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Lovaglio: “L’assemblea Mps non è un referendum tra la nostra proposta e quella di Intesa”",
+        "link": "https://www.repubblica.it/economia/2026/09/30/news/lovaglio_assemblea_mps_intesa-425616590/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T10:12:10.000Z",
+        "excerpt": "Secondo l’ad di Rocca Salimbeni, intervistato da Bloomberg, votare a favore delle Ops su Banco Bpm e Banca Generali significa mantenere aperte le opzioni ed esercitare una pressione competitiva sul prezzo dell’Opas. La v"
       },
       {
         "title": "Borsa: Milano gira in calo con energia e banche",
@@ -24,6 +101,13 @@
         "excerpt": "Una cinquantina di lavoratori a rischio esubero presenti al presidio sotto sede Mimit"
       },
       {
+        "title": "Senza lattosio, proteine e richiami alla tradizione: come cambia il carrello degli italiani",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/mercati/2026/09/30/news/senza_lattosio_proteine_e_richiami_alla_tradizione_come_cambia_il_carrello_degli_italiani-425616554/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T09:58:19.000Z",
+        "excerpt": "Nel 2025 crescono i prodotti che dichiarano l’assenza di alcuni ingredienti, quelli arricchiti di nutrienti e le proposte vegetali. L’indagine dell’Osservatorio Immagino"
+      },
+      {
         "title": "Ex Ilva: Urso, 'labirinto giudiziario in cui è stata spenta anche la luce'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/ex-ilva-urso-labirinto-giudiziario-in-cui-e-stata-spenta-anche-la-luce_df5e1f9d-c223-4f76-83a2-9b65862cd124.html",
         "source": "ANSA Economia",
@@ -36,6 +120,13 @@
         "source": "ANSA Economia",
         "pubDate": "2026-09-30T09:56:29.000Z",
         "excerpt": "Ieri sera ad Ancona un lavoratore deceduto, un altro gravissimo trasferito a Pisa"
+      },
+      {
+        "title": "Istat, maxi balzo dell’inflazione: 4,2% a settembre. Cala la fiducia di consumatori e imprese",
+        "link": "https://www.repubblica.it/economia/2026/09/30/news/istat_inflazione_fiducia_consumatori_imprese-425616309/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T09:51:25.000Z",
+        "excerpt": "Fiammata dell’energia, in rialzo del 22,3%. I dati dell’industria in discesa dopo tre mesi consecutivi di crescita"
       },
       {
         "title": "Urso, immaginavo crescita inflattiva ma non possiamo agire da soli",
@@ -52,48 +143,6 @@
         "excerpt": "Bene gli istituzionali. Il patrimonio sale a 2.721 miliardi"
       },
       {
-        "title": "Jefferies vede l’accordo sui permessi al Senato come positivo per NextEra",
-        "link": "https://it.investing.com/news/stock-market-news/jefferies-vede-laccordo-sui-permessi-al-senato-come-positivo-per-nextera-93CH-3568244",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:42:25.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il CEO di Porsche difende il ritorno alla benzina tra i timori sull’elettrico",
-        "link": "https://it.investing.com/news/stock-market-news/il-ceo-di-porsche-difende-il-ritorno-alla-benzina-tra-i-timori-sullelettrico-93CH-3568242",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:41:00.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "L’agente AI Muse di Meta mette sotto pressione i titoli travel online",
-        "link": "https://it.investing.com/news/stock-market-news/lagente-ai-muse-di-meta-mette-sotto-pressione-i-titoli-travel-online-93CH-3568237",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:37:18.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Coca-Cola valuta un deposito preliminare a dicembre per l’IPO della sua unità di imbottigliamento in India",
-        "link": "https://it.investing.com/news/stock-market-news/cocacola-valuta-un-deposito-preliminare-a-dicembre-per-lipo-della-sua-unita-di-imbottigliamento-in-india-93CH-3568229",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:31:17.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "L’inflazione francese balza al 3% a settembre per i costi energetici",
-        "link": "https://it.investing.com/news/stock-market-news/linflazione-francese-balza-al-3-a-settembre-per-i-costi-energetici-93CH-3568228",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:29:32.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo GameStop sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-gamestop-sta-salendo-oggi-93CH-3568227",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:28:42.000Z",
-        "excerpt": ""
-      },
-      {
         "title": "Nel 2025 in Italia prodotte 424.168 tonnellate di caffè tostato e solubile",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/nel-2025-in-italia-prodotte-424.168-tonnellate-di-caffe-tostato-e-solubile_7ff9b924-de98-4a26-88a8-f047a8b885b9.html",
         "source": "ANSA Economia",
@@ -101,18 +150,11 @@
         "excerpt": "Il fatturato di settore è di 5,9 miliardi. Attive circa 1.000 torrefazioni"
       },
       {
-        "title": "Jefferies alza le previsioni di riduzione Medicaid per agosto 2026",
-        "link": "https://it.investing.com/news/stock-market-news/jefferies-alza-le-previsioni-di-riduzione-medicaid-per-agosto-2026-93CH-3568219",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:27:01.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Stifel: il piano \"Your First Home\" potrebbe aumentare gli utili dei costruttori",
-        "link": "https://it.investing.com/news/stock-market-news/stifel-il-piano-your-first-home-potrebbe-aumentare-gli-utili-dei-costruttori-93CH-3568218",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:26:27.000Z",
-        "excerpt": ""
+        "title": "L’azionario giapponese può ancora crescere, nonostante la stretta sui tassi",
+        "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/09/30/news/l_azionario_giapponese_puo_ancora_crescere_nonostante_la_stretta_sui_tassi-425616443/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T09:24:34.000Z",
+        "excerpt": "Nomoto (Columbia Threadneedle Investments): “Spazio di rivalutazione per i titoli tecnologici e quelli legati alle infrastrutture”"
       },
       {
         "title": "Bancomat e altri player lanciano Enp per interoperabilità pagamenti in Ue",
@@ -122,98 +164,14 @@
         "excerpt": "Verso 'ecosistema più autonomo'. Ci sono Bizum, Epi, Sibs e Vipps"
       },
       {
-        "title": "Inflazione a settembre balza al 4,2%. Pesa il caro carburanti - Il trend di benzina e gasolio",
-        "link": "https://www.ilsole24ore.com/art/inflazione-settembre-balza-42percento-pesa-caro-carburanti-AJuH4rTB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T09:04:00.000Z",
-        "excerpt": "Secondo le stime preliminari dell’Istat, a settembre 2026 l’indice nazionale dei prezzi al consumo per l’intera collettività balza a +0,7% su base mensile e a +4,2% su base annua (da..."
-      },
-      {
-        "title": "Brexit, Burnham: «Tutte le opzioni sul tavolo, inclusa riadesione a Ue»",
-        "link": "https://www.ilsole24ore.com/art/brexit-burnham-tutte-opzioni-tavolo-inclusa-riadesione-ue-AJFlkrTB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T08:35:00.000Z",
-        "excerpt": "Il premier britannico Andy Burnham ha dichiarato che «tutte le opzioni”»sono sul tavolo per le future relazioni del Regno Unito con Bruxelles, da “restare come siamo” fino ad “andare fino..."
-      },
-      {
-        "title": "Il Nord perde velocità al volante. A Roma meno viaggi, ma dieci minuti in più in auto",
-        "link": "https://www.ilsole24ore.com/art/il-nord-perde-velocita-volante-roma-meno-viaggi-ma-dieci-minuti-piu-auto-AJ4ia8SB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T08:12:54.000Z",
-        "excerpt": "A Roma si prende l'auto meno spesso, ma per viaggi più lunghi. E alla fine si passa più tempo alla guida: 62,1 minuti al giorno per veicolo, contro i 52,6..."
-      },
-      {
-        "title": "Carburanti, i prezzi scendono ma anche le quotazioni internazionali",
-        "link": "https://www.ilsole24ore.com/art/carburanti-prezzi-scendono-ma-anche-quotazioni-internazionali-AJ7MuoTB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T08:05:00.000Z",
-        "excerpt": "L’effetto del “tetto” ai prezzi di benzina e gasolio introdotto da Eni e Ip (da domani anche da Q8, mentre questa mattina il primo “retista”, Costantin, ha annunciato..."
-      },
-      {
-        "title": "Manovra, verso il via parziale al deficit per energia e difesa",
-        "link": "https://www.ilsole24ore.com/art/manovra-il-via-parziale-deficit-energia-e-difesa-AJesBTTB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T07:50:53.000Z",
-        "excerpt": "Con il piano dei conti il Governo proporrà l’attivazione della clausola per una quota del disavanzo aggiuntivo: trattativa con la Ue concentrata sui 14 miliardi per gli investimenti verdi"
-      },
-      {
-        "title": "Melonellum in Aula con l’incognita di due voti segreti, ma i leader già studiano le strategie",
-        "link": "https://www.ilsole24ore.com/art/melonellum-aula-l-incognita-due-voti-segreti-ma-leader-gia-studiano-strategie-AJBGsQTB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T06:42:03.000Z",
-        "excerpt": "Alla Camera dalle parti della maggioranza c’è più di un timore sul voto segreto visto il precedente di luglio, quando nel segreto dell’urna franchi tiratori azzurri e leghisti avevano affossato..."
-      },
-      {
-        "title": "Di Battista: «Mi hanno asportato un tumore, ora mi devo curare»",
-        "link": "https://www.ilsole24ore.com/art/di-battista-mi-hanno-asportato-tumore-ora-mi-devo-curare-AJRDthTB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T05:09:00.000Z",
-        "excerpt": "L’ex parlamentare M5s: «Se mi candiderò? Ora la priorità è curarmi»"
+        "title": "Bollette di luce e gas, il confronto tra le offerte e come cambiare operatore",
+        "link": "https://www.repubblica.it/economia/2026/09/30/news/luce_gas_offerte_come_cambiare_operatore-425616291/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T09:11:50.000Z",
+        "excerpt": "Il lancio delle nuove proposte commerciali anti rincari scuote il mercato. Ecco come risparmiare"
       }
     ],
     "europa": [
-      {
-        "title": "Allarme su volo FlyDubai, copilota accoltella comandante. Tentativo di far schiantare l’aereo. Si segue pista terrorismo",
-        "link": "https://www.ilsole24ore.com/art/allarme-volo-flydubai-copilota-accoltella-comandante-tentativo-far-schiantare-l-aereo-AJtl7tTB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-09-30T09:25:00.000Z",
-        "excerpt": "Questa mattina un volo FlyDubai diretto da Dubai a Israele ha lanciato un segnale di emergenza ed è stato dirottato verso l’Arabia Saudita. L’aeronautica israeliana ha fatto decollare caccia in..."
-      },
-      {
-        "title": "Inflazione a settembre 2026: Francia accelera con +3%. In Germania variazioni regionali fino al +3,6%",
-        "link": "https://www.ilsole24ore.com/art/inflazione-settembre-2026-francia-accelera-3percento-germania-variazioni-regionali-fino-36percento-AJRjvqTB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-09-30T08:43:00.000Z",
-        "excerpt": "Nel mese di settembre 2026, in Francia i prezzi al consumo sono aumentati del 3% su base annua, a fronte di un rialzo del 2,4% registrato ad agosto, secondo una..."
-      },
-      {
-        "title": "Nasce a Milano il Polish Italian business council",
-        "link": "https://www.ilsole24ore.com/art/nasce-milano-polish-italian-business-council-AJHykySB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-09-30T08:21:00.000Z",
-        "excerpt": "Varsavia è ormai il settimo partner commerciale dell’Italia e ha superato la Gran Bretagna come interscambio"
-      },
-      {
-        "title": "Ft: Trump valuta il divieto di export del gasolio per contenere la crisi dei prezzi",
-        "link": "https://www.ilsole24ore.com/art/ft-trump-valuta-divieto-export-gasolio-contenere-crisi-prezzi-AJen4oTB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-09-30T08:09:14.000Z",
-        "excerpt": "Donald Trump ha tenuto colloqui d’emergenza con i suoi consiglieri per valutare se imporre un divieto di esportazione del gasolio o altre misure per contenere la crisi dei..."
-      },
-      {
-        "title": "Axios: «Sempre più probabile nuovo conflitto Iran-Usa». Teheran: «Trump è finito in un pantano»",
-        "link": "https://www.ilsole24ore.com/art/iran-axios-sempre-piu-probabile-nuovo-conflitto-militare-usa-AJC7njTB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-09-30T05:51:00.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Ucraina: missili balistici russi su Kiev, 2 morti. La Polonia chiude due aeroporti",
-        "link": "https://www.ilsole24ore.com/art/ucraina-missili-balistici-russi-kiev-2-morti-AJjBkiTB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-09-30T05:33:00.000Z",
-        "excerpt": "Nella notte le forze armate russe hanno lanciato un attacco su Kiev con missili balistici. Numerose esplosioni si sono udite nella capitale ucraina. In alcune zone della città ci sono..."
-      },
       {
         "title": "Charles Phillips nominato nel consiglio di amministrazione di Verizon",
         "link": "https://www.investing.com/news/sec-filings/charles-phillips-appointed-to-verizon-board-of-directors-93CH-4923806",
@@ -269,20 +227,6 @@
         "source": "Investing.com Eurozona",
         "pubDate": "2026-09-29T22:09:10.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "Trump, per Ai solo autoregolamentazione. Firmato l’ordine che cambia il nome in Super Intelligence",
-        "link": "https://www.ilsole24ore.com/art/trump-per-l-ia-deve-esserci-autoregolamentazione-non-paletti-AJl2KOTB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-09-29T19:04:00.000Z",
-        "excerpt": "Pranzo alla Casa Bianca con decine di protagonisti dell’intelligenza artificiale americana per inaugurare la nuova era della Super Intelligenza. Nessuna menzione di rischi, crisi, e incidenti anche se forse nascerà un co"
-      },
-      {
-        "title": "Marocco, Fatima Ezzahra El Mansouri sarà la prima premier donna del Regno",
-        "link": "https://www.ilsole24ore.com/art/marocco-fatima-ezzahra-el-mansouri-sara-prima-premier-donna-regno-AJYXFETB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-09-29T18:07:00.000Z",
-        "excerpt": "La sindaca di Marrakech scelta per la formazione del nuovo governo"
       }
     ],
     "usa": [
@@ -345,6 +289,34 @@
     ],
     "mondo": [
       {
+        "title": "Il volo Dubai-Tel Aviv rischia di precipitare. Lite tra piloti, l’ipotesi: “Uno dei due voleva farlo schiantare”",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/volo_dubai_tel_aviv_lite_piloti_russo_ucraino-425616323/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-30T10:36:49.000Z",
+        "excerpt": "FlyDubai: “Copilota ha accoltellato il comandante”. Si indaga sulle ipotesi, forse un attentato o un tentativo di suicidio. L’aereo, con circa 170 persone a bordo, ha effettuato un atterraggio d’emergenza in Arabia Saudi"
+      },
+      {
+        "title": "Harry e Meghan contro i paparazzi vicino a scuola dei figli, 'irresponsabili'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/30/harry-e-meghan-contro-i-paparazzi-vicino-a-scuola-dei-figli-irresponsabili_6f02831c-a2f8-44fa-b513-cf59b8065070.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-30T10:29:30.000Z",
+        "excerpt": "Il portavoce dei Sussex, 'violazione a privacy e mancanza di giudizio'"
+      },
+      {
+        "title": "Il documento Eda sulla difesa inchioda i 27: 'Gravi lacune, fare di più'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/30/il-documento-eda-sulla-difesa-inchioda-i-27-gravi-lacune-fare-di-piu_2660ee65-c7a0-4604-af5b-0bc93a2b1da1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-30T10:22:51.000Z",
+        "excerpt": "Nonostante la spesa record le forze non sono 'sufficientemente operative e sostenibili'"
+      },
+      {
+        "title": "La Russia colpisce le strutture energetiche a Kiev e nelle aree vicine in preludio all'assalto invernale",
+        "link": "https://www.investing.com/news/commodities-news/russia-hits-power-plants-kills-four-leaves-kyiv-under-smoke-4924426",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-30T10:18:28.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Oro al passo con il calo mensile mentre si profilano i dati sull'inflazione negli Stati Uniti",
         "link": "https://www.investing.com/news/commodities-news/gold-steadies-after-16-gain-as-oil-drop-offsets-elevated-treasury-yields-4923962",
         "source": "Investing.com Commodities",
@@ -363,13 +335,6 @@
         "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-higher-after-sharp-drop-as-middle-east-supply-recovers-4923978",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-30T09:25:30.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "La Russia colpisce le centrali elettriche, ne uccide quattro, lascia Kiev sotto fumo",
-        "link": "https://www.investing.com/news/commodities-news/russia-hits-power-plants-kills-four-leaves-kyiv-under-smoke-4924426",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-30T09:18:25.000Z",
         "excerpt": ""
       },
       {
@@ -436,6 +401,13 @@
         "excerpt": ""
       },
       {
+        "title": "Usa, la Corte Suprema riapre la strada alle deportazioni dei migranti verso Paesi terzi",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/usa_la_corte_suprema_riapre_la_strada_alle_deportazioni_dei_migranti_verso_paesi_terzi-425616169/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-30T07:25:32.000Z",
+        "excerpt": "I giudici sospendono i limiti imposti da un tribunale federale e consentono all’amministrazione Trump di riprendere i trasferimenti verso Stati diversi da quelli di origine. La questione sarà esaminatà nel merito a dicem"
+      },
+      {
         "title": "Brent Oil testa il supporto 200-MA dopo H&S top: Livelli live",
         "link": "https://www.investing.com/news/commodities-news/brent-oil-breaks-10150-neckline-eyes-9749-support-live-93CH-4919470",
         "source": "Investing.com Commodities",
@@ -443,42 +415,126 @@
         "excerpt": ""
       },
       {
-        "title": "Media Israele, 'emergenza su volo da Dubai a Tel Aviv, decollati jet israeliani'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/30/media-israele-emergenza-su-volo-da-dubai-a-tel-aviv-decollati-jet-israeliani_346aef30-6062-4196-bc14-96a276216b4b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-30T06:56:09.000Z",
-        "excerpt": "Ynet, sul volo della Flydubai circa 150 passeggeri"
+        "title": "Trump e i leader dell’IA: “Regole volontarie ma no a nuovi paletti”. E si chiamerà “superintelligenza”",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/trump_intelligenza_artificiale_leader_regole_volontarie-425615855/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T23:00:00.000Z",
+        "excerpt": "Il tycoon vede i boss del settore e rilancia la corsa allo sviluppo: “Non ci arrendiamo alle paure, se ci fermiamo vince la Cina”"
       },
       {
-        "title": "Ministro Kiev, 'ogni allarme missilistico costa 45 milioni dollari all'ora'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/30/ministro-kiev-ogni-allarme-missilistico-costa-45-milioni-dollari-allora_7800ac36-bb41-4f9e-aeac-c8c40fc67649.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-30T04:50:02.000Z",
-        "excerpt": "Kravchenko: \"Tentativo russo di distruggere la nostra economia\""
+        "title": "Kaliningrad, la fortezza nel Baltico con cui Putin cerca l’incidente in Europa",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/kaliningrad_cosa_e_la_fortezza_baltico_putin_cerca_incidente_europa-425615800/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T23:00:00.000Z",
+        "excerpt": "Le provocazioni dalla ex Königsberg allarmano gli alleati da anni. “Mosca cerca una reazione eccessiva, dobbiamo stare attenti”. Da lì può colpire con gli Iskander il continente"
+      },
+      {
+        "title": "“Putin vuole generare paura per farci abbandonare il sostegno all’Ucraina”",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/kestutis_budrys_intervista_ministro_esteri_lituania_putin_aiuti_ucraina-425615797/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T23:00:00.000Z",
+        "excerpt": "Intervista a Kęstutis Budrys, ministro degli esteri lituano ed esperto di politica per la sicurezza. “Il Gru andrebbe classificato come agente terrorista: conduce crescenti operazioni di guerra ibrida per terrorizzarci”"
+      },
+      {
+        "title": "La minaccia di Putin alla Nato: “Per difendere Kaliningrad siamo pronti a usare l’atomica”",
+        "link": "https://www.repubblica.it/esteri/2026/09/29/news/putin_minaccia_nato_kaliningrad_atomica-425615763/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T19:59:06.000Z",
+        "excerpt": "La lettera formale di Mosca all’Alleanza: “Possiamo colpire le vostre capitali”. L’avvertimento dopo le esercitazioni Ue-Usa intorno all’exclave. “Vogliono dividerci”"
+      },
+      {
+        "title": "Sindaca e avvocata, Fatima Mansouri è la prima premier del Marocco",
+        "link": "https://www.repubblica.it/esteri/2026/09/29/news/marocco_prima_donna_premier_fatima_ezzahra_el_mansour-425615264/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T18:48:04.000Z",
+        "excerpt": "La sindaca di Marrakech è stata scelta dopo la vittoria del suo partito alle elezioni parlamentari del 23 settembre scorso"
+      },
+      {
+        "title": "Brexit, Burnham non esclude il ritorno nella Ue nel suo discorso “rivoluzionario e di sinistra”",
+        "link": "https://www.repubblica.it/esteri/2026/09/29/news/brexit_burnham_ritorno_ue_conferenza_labour_liverpool-425615238/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-29T16:15:27.000Z",
+        "excerpt": "Il primo ministro britannico scuote il Paese e annuncia “nuove opzioni per i rapporti a lungo termine con l’Europa” post Brexit. Tra gli annunci alla conferenza Labour: acqua ed energia pubbliche, confisca delle abitazio"
       }
     ]
   },
   "attualita": [
     {
-      "title": "'Emergenza sul volo da Dubai a Tel Aviv per una lite tra piloti'. 'Uno dei due ha tentato di far schiantare l'aereo'",
+      "title": "Incidenti sul lavoro: un morto e un ferito gravissimo alla Fincantieri Ancona, una vittima a Milano",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/30/incidenti-sul-lavoro-un-morto-e-un-ferito-gravissimo-alla-fincantieri-ancona-una_9e828bbf-0deb-4489-88e2-12246eb45353.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-30T10:35:10.000Z",
+      "excerpt": "La vittima padre di famiglia aveva 55 anni. Fiammata forse durante durante lavori taglio"
+    },
+    {
+      "title": "Emergenza sul volo da Dubai a Tel Aviv per una lite tra piloti. 'Uno dei due ha tentato di far schiantare l'aereo'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/media-israele-emergenza-su-volo-da-dubai-a-tel-aviv-decollati-jet-israeliani_ba82b692-fb5f-4d67-98ba-c75431c1bda0.html",
       "source": "ANSA",
-      "pubDate": "2026-09-30T09:42:47.000Z",
-      "excerpt": "A bordo 150 passeggeri. Il volo della FlyDubai aveva trasmesso un codice di un possibile dirottamento facendo decollare i caccia israeliani. L'aereo è poi atterrato in Arabia Saudita"
+      "pubDate": "2026-09-30T10:13:03.000Z",
+      "excerpt": "A bordo 150 passeggeri. Il volo della FlyDubai aveva trasmesso un codice di un possibile dirottamento facendo decollare i caccia israeliani. L'aereo è poi atterrato in Arabia Saudita. Israele segue la pista dell'attacco "
     },
     {
-      "title": "Mattarella a Milano per i 120 anni della Cgil",
-      "link": "https://www.ansa.it/sito/notizie/dirette_live/2026/09/30/mattarella-a-milano-per-i-120-anni-della-cgil_8cd9de55-ef1d-46b2-9cf6-4235042ae9a2.html",
-      "source": "ANSA",
-      "pubDate": "2026-09-30T09:18:21.000Z",
-      "excerpt": ""
+      "title": "Balneari, il bando per le gare: concessioni fino a 20 anni, canone variabile e indennizzi",
+      "link": "https://www.repubblica.it/economia/2026/09/30/news/balneari_banco_concessioni_cannone_indennizzi-425616558/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T09:59:22.000Z",
+      "excerpt": "Le istruzioni del Mit ai Comuni che dovranno procedere con le assegnazioni entro il 30 settembre 2027. Vincerà l’offerta più vantaggiosa, ai concessionari uscenti risarcimenti per gli investimenti effettuati negli ultimi"
     },
     {
-      "title": "Missili e droni sulla regione di Kiev, uccisi un bambino e una donna",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/missili-e-droni-su-regione-di-kiev-uccisi-un-bambino-e-una-donna_1ff1313b-a1de-486d-a7ad-e0aac73d5a48.html",
+      "title": "Passeggero cerca di fermare la rissa tra i piloti del volo FlyDubai, la foto con il sangue sulla t-shirt",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/passeggero-cerca-di-fermare-rissa-tra-piloti-volo-flydubai-foto-con_bb302a75-1440-42dd-b811-3ccc860a2710.html",
       "source": "ANSA",
-      "pubDate": "2026-09-30T08:06:11.000Z",
-      "excerpt": "Il corpo del piccolo trovato tra le macerie della sua abitazione a Vyshgorod"
+      "pubDate": "2026-09-30T09:44:46.000Z",
+      "excerpt": "Media: 'La prima immagine diffusa sui social'"
+    },
+    {
+      "title": "Fifa contro Uefa in tribunale negli Usa. La federazione mondiale: “Accuse infondate su Infantino”",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/30/news/fifa_uefa_tribunale-425616447/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T09:25:49.000Z",
+      "excerpt": "Fifa accusa Uefa di fare una \"ricerca indiscriminata di prove\" contro il presidente. Ma Ceferin rincara: “Il calcio non ha bisogno di imperatori”"
+    },
+    {
+      "title": "Il volo Dubai-Tel Aviv rischia di precipitare. Lite tra piloti, l’ipotesi: “Uno dei due voleva farlo schiantare”",
+      "link": "https://www.repubblica.it/esteri/2026/09/30/news/volo_dubai_tel_aviv_lite_piloti_russo_ucraino-425616323/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T08:34:27.000Z",
+      "excerpt": "La compagnia aerea FlyDubai: “Copilota ha accoltellato il comandante”. Si indaga sulle ipotesi, forse un attentato o un tentativo di suicidio. L’aereo, con circa 170 persone a bordo, ha effettuato un atterraggio d’emerge"
+    },
+    {
+      "title": "Istat, maxi balzo dell’inflazione: 4,2% a settembre. Cala la fiducia di consumatori e imprese",
+      "link": "https://www.repubblica.it/economia/2026/09/30/news/istat_inflazione_fiducia_consumatori_imprese-425616309/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T08:30:37.000Z",
+      "excerpt": "Fiammata dell’energia, in rialzo del 22,3%. I dati dell’industria in discesa dopo tre mesi consecutivi di crescita"
+    },
+    {
+      "title": "Bollette di luce e gas, il confronto tra le offerte e come cambiare operatore",
+      "link": "https://www.repubblica.it/economia/2026/09/30/news/luce_gas_offerte_come_cambiare_operatore-425616291/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T08:24:42.000Z",
+      "excerpt": "Il lancio delle nuove proposte commerciali anti rincari scuote il mercato. Ecco come risparmiare"
+    },
+    {
+      "title": "Legge elettorale, rush finale tra le tensioni: alla Camera limiti alle vedette per il voto segreto",
+      "link": "https://www.repubblica.it/politica/2026/09/30/news/legge_elettorale_voto_segreto_vedette_franchi_tiratori_in_tribuna-425616266/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T08:13:37.000Z",
+      "excerpt": "Questa volta, a differenza di quanto accaduto a luglio, sarà più complicato per i partiti di maggioranza controllare i deputati sospetti dall’alto. Gli addetti stampa dei parlamentari potranno comunque accedere dagli spa"
+    },
+    {
+      "title": "Pattie Boyd, George Harrison ed Eric Clapton: la storia del triangolo amoroso più famoso del rock",
+      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/30/news/pattie_boyd_george_harrison_eric_clapton_triangolo_amoroso_libro-425616195/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T07:34:49.000Z",
+      "excerpt": "Esce “Il triangolo rock”, libro di Riccardo Russino, cronaca dell’amore complesso tra l’ex modella e le due rockstar"
+    },
+    {
+      "title": "“Vinicius è sparito e gioca un sosia”: la folle teoria sulla stella del Real",
+      "link": "https://www.repubblica.it/sport/calcio/esteri/2026/09/30/news/vinicius_sparito_sosia_bufala_fake-425616166/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T07:21:13.000Z",
+      "excerpt": "La strampalata voce dopo l’operazione di armonizzazione facciale che ha cambiato il volto del giocatore"
     },
     {
       "title": "Al Premio Tenco 2026 spazio al rock d'autore e alle nuove generazioni",
@@ -574,6 +630,13 @@
   ],
   "sport": [
     {
+      "title": "De La Fuente lancia Yamal per Pallone d'Oro, 'calciatori Spagna meritano riconoscenza'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/30/de-la-fuente-lancia-yamal-per-pallone-doro-calciatori-spagna-meritano-riconoscenza_39466a4f-10a8-4121-baad-d4c26abd1c1b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-30T10:12:33.000Z",
+      "excerpt": "'Prima di lui dovevano averlo Xavi e Iniesta'"
+    },
+    {
       "title": "F1: Ocon lascerà la scuderia americana Haas a fine stagione",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/09/30/f1-ocon-lascera-la-scuderia-americana-haas-a-fine-stagione_4c5eaf35-4492-4d3c-89b5-ae23ca6e9ccc.html",
       "source": "ANSA Sport",
@@ -621,13 +684,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-09-30T07:17:54.000Z",
       "excerpt": "L'azzurro si è infortunato alla mano durante l'ultimo allenamento"
-    },
-    {
-      "title": "Nations League: Repubblica-Ceca-Inghilterra 0-2",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/29/nations-league-repubblica-ceca-inghilterra-0-2_3e4690f8-897f-4bc1-8097-5691d4fd7309.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-09-29T21:02:12.000Z",
-      "excerpt": "In gol a Praga Gordon e Kane, cechi a lungo in dieci"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
