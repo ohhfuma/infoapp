@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Nautica, nel 2025 fatturato complessivo Italia a 8,72 miliardi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/nautica-nel-2025-fatturato-complessivo-italia-a-872-miliardi_38ac9c27-07a7-44ec-93f1-3e44786de572.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T13:20:26.000Z",
+        "excerpt": "Bene superyacht, calo piccole imbarcazioni ma salgono aspettative imprenditori"
+      },
+      {
+        "title": "Il Giappone riapre il mercato alla carne argentina dopo 20 anni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/il-giappone-riapre-il-mercato-alla-carne-argentina-dopo-20-anni_594afdb8-2d57-4fee-bd15-af78c903584b.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T13:16:58.000Z",
+        "excerpt": "Il governo festeggia: nuove opportunità per produzione ed export"
+      },
+      {
+        "title": "Concessioni balneari, ecco il bando tipo con le regole per le gare entro settembre 2027",
+        "link": "https://www.ilsole24ore.com/art/concessioni-balneari-ecco-bando-tipo-le-regole-le-gare-entro-settembre-2027-AJogd2TB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-09-30T13:13:00.000Z",
+        "excerpt": "Una guida alla compilazione dei bandi di gara per le concessioni balneari, uno dei dossier più controversi nei rapporti con l’Europa che si trascina da anni. Si presenta..."
+      },
+      {
         "title": "Stabile l’inflazione USA, Wall Street si accende",
         "link": "https://it.investing.com/news/stock-market-news/stabile-linflazione-usa-wall-street-si-accende-3568975",
         "source": "Investing.com Italia",
@@ -401,30 +422,16 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-30T09:29:32.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo GameStop sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-gamestop-sta-salendo-oggi-93CH-3568227",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:28:42.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Nel 2025 in Italia prodotte 424.168 tonnellate di caffè tostato e solubile",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/nel-2025-in-italia-prodotte-424.168-tonnellate-di-caffe-tostato-e-solubile_7ff9b924-de98-4a26-88a8-f047a8b885b9.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T09:27:24.000Z",
-        "excerpt": "Il fatturato di settore è di 5,9 miliardi. Attive circa 1.000 torrefazioni"
-      },
-      {
-        "title": "Jefferies alza le previsioni di riduzione Medicaid per agosto 2026",
-        "link": "https://it.investing.com/news/stock-market-news/jefferies-alza-le-previsioni-di-riduzione-medicaid-per-agosto-2026-93CH-3568219",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:27:01.000Z",
-        "excerpt": ""
       }
     ],
     "europa": [
+      {
+        "title": "Ue, verso una rete 5G di comunicazione su emergenza e primo intervento",
+        "link": "https://www.ilsole24ore.com/art/ue-una-rete-5g-comunicazione-emergenza-e-primo-intervento-AJIoKxTB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-09-30T10:40:51.000Z",
+        "excerpt": "BRUXELLES – La Commissione europea ha presentato oggi, mercoledì 30 settembre, un nuovo sistema di comunicazione intraeuropea da usare in tutte le occasioni di primo intervento e di..."
+      },
       {
         "title": "Allarme su volo FlyDubai dirottato, copilota accoltella comandante. Tentativo di far schiantare l’aereo",
         "link": "https://www.ilsole24ore.com/art/allarme-volo-flydubai-copilota-accoltella-comandante-tentativo-far-schiantare-l-aereo-AJtl7tTB",
@@ -695,6 +702,20 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Brasile, pubblico ministero chiede stop a operazioni Petrobras nella Foz do Amazonas",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/brasile-pubblico-ministero-chiede-stop-a-operazioni-petrobras-nella-foz-do-amazonas_55438514-ec88-41ff-b64f-12d9a75467df.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-30T13:23:56.000Z",
+        "excerpt": "Lo sversamento di sostanze chimiche tra nuovi elementi"
+      },
+      {
+        "title": "Il Giappone riapre il mercato alla carne argentina dopo 20 anni",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/il-giappone-riapre-il-mercato-alla-carne-argentina-dopo-20-anni_cc2487d3-1f51-432b-ac3a-2688a175bc6b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-30T13:17:14.000Z",
+        "excerpt": "Il governo festeggia: nuove opportunità per produzione ed export"
+      },
       {
         "title": "Melania Trump sigla accordi con sei big tech per l'iniziativa a favore dei giovani",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/30/melania-trump-sigla-accordi-con-sei-big-tech-per-liniziativa_00c50774-853e-418d-8415-b56344a76dba.html",
@@ -1100,24 +1121,24 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-29T21:12:56.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "Shell approva l'espansione di LNG Canada da C$33 miliardi",
-        "link": "https://www.investing.com/news/commodities-news/shell-approves-c33-billion-lng-canada-expansion-4923342",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-29T20:38:08.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Trump, 'da vertici big tech impegno moralmente vincolante su sicurezza IA'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/29/trump-da-vertici-big-tech-impegno-moralmente-vincolante-su-sicurezza-ia_bd5ccda4-0039-4c94-a6df-aead71c40386.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-29T20:36:13.000Z",
-        "excerpt": "'Si autoregoleranno'"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Anne Hathaway protagonista del thriller \"Verity\" di Michael Showalter",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/09/30/anne-hathaway-protagonista-del-thriller-verity-di-michael-showalter_91e5c8bb-01b0-44f9-9cb2-21445986c1e3.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-30T13:03:16.000Z",
+      "excerpt": "Uscirà nelle sale cinematografiche italiane il 1° ottobre 2026"
+    },
+    {
+      "title": "Guardiola difende il Manchester City: “Supereremo tutto insieme”. Cosa rischia il club",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/30/news/manchester_city_cosa_rischia_domande_risposte-425616974/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T12:57:54.000Z",
+      "excerpt": "Il caso finanziario, le tappe del processo e le possibili sanzioni. Tre Premier sono al centro della vicenda: cosa succederebbe in caso di revoca e perché non è automatica la riassegnazione alle seconde classificate. L’e"
+    },
     {
       "title": "Schlein: “Meloni e il governo facciano rispettare la sentenza Regeni”",
       "link": "https://www.repubblica.it/politica/2026/09/30/news/schlein_regeni_governo_meloni_sentenza_egitto-425616861/",
@@ -1523,23 +1544,30 @@
       "source": "ANSA",
       "pubDate": "2026-09-29T09:05:56.000Z",
       "excerpt": "Il Rapporto Waste Watcher: prima volta sotto 500 grammi a settimana, verso Agenda 2030"
-    },
-    {
-      "title": "Dna e tumori, dalla fisica la chiave per capire il loro legame ",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/09/29/dna-e-tumori-dalla-fisica-la-chiave-per-capire-il-loro-legame_9dc46306-3b74-4b6d-b6a8-e2cb8e7fb1d6.html",
-      "source": "ANSA",
-      "pubDate": "2026-09-29T07:17:04.000Z",
-      "excerpt": "Aperte nuove prospettive per strategie mirate a interferire con questi processi"
-    },
-    {
-      "title": "Noleggio auto usate a lungo termine: perché sempre più italiani lo scelgono",
-      "link": "https://www.ansa.it/native/ansacom/2026/09/24/noleggio-auto-usate-a-lungo-termine-perche-sempre-piu-italiani-lo-scelgono_90e6a96f-c0b7-494f-b341-86f6cabb8eda.html",
-      "source": "ANSA",
-      "pubDate": "2026-09-28T07:44:14.000Z",
-      "excerpt": "Flessibilità, servizi all inclusive e zero pensieri: la scelta che conquista gli automobilisti italiani."
     }
   ],
   "sport": [
+    {
+      "title": "Calcio: la serie C sempre in campo, nel week end si gioca l'8/a giornata",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/30/calcio-la-serie-c-sempre-in-campo-nel-week-end-si-gioca-l8a-giornata_c3f6d0aa-5c83-4b1f-a4f6-68e91c11555d.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-30T13:30:49.000Z",
+      "excerpt": "Nelle prime 7 giornate il girone C guida la classifica dei più prolifici"
+    },
+    {
+      "title": "Azzurri: Scalvini 'con la Francia capiremo il nostro livello'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/30/azzurri-scalvini-con-la-francia-capiremo-il-nostro-livello_7ba08e31-55ba-40af-a990-262454cd88c0.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-30T13:21:13.000Z",
+      "excerpt": "Il difensore: 'Proveremo a giocare a viso aperto, coraggiosi e positivi'"
+    },
+    {
+      "title": "Euro 32: Abodi 'bene gli stadi, ma progetti ora diventino cantieri'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/30/euro-32-abodi-bene-gli-stadi-ma-progetti-ora-diventino-cantieri_9c65747c-1c39-4e58-a3fa-8b300d77ee8a.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-30T13:12:04.000Z",
+      "excerpt": "'Come con Olimpiadi e America's Cup rispettiamo le scadenze temporali'"
+    },
     {
       "title": "Scandalo City, Guardiola: 'Sarò sempre al fianco del mio club'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/30/scandalo-city-guardiola-saro-sempre-al-fianco-del-mio-club_46c5f970-92e5-4050-b5bc-56c15bffe826.html",
