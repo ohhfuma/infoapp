@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-30T01:09:42.336Z",
+  "lastUpdated": "2026-09-30T01:40:38.004Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Nidec tratta la vendita della sua divisione componenti a Carlyle per $636 mln",
+        "link": "https://it.investing.com/news/stock-market-news/nidec-tratta-la-vendita-della-sua-divisione-componenti-a-carlyle-per-636-mln-3567753",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T01:07:10.000Z",
+        "excerpt": ""
+      },
       {
         "title": "I futures azionari USA salgono mentre i rendimenti si fermano e il petrolio scende",
         "link": "https://it.investing.com/news/stock-market-news/i-futures-azionari-usa-salgono-mentre-i-rendimenti-si-fermano-e-il-petrolio-scende-3567746",
@@ -91,13 +98,6 @@
         "link": "https://it.investing.com/news/stock-market-news/american-e-alaska-espandono-gli-accordi-di-condivisione-dei-ricavi-3567629",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-29T21:35:54.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "S&P promuove Wells Fargo ad A- dopo le riforme sulla gestione del rischio",
-        "link": "https://it.investing.com/news/stock-market-news/sp-promuove-wells-fargo-ad-a-dopo-le-riforme-sulla-gestione-del-rischio-3567587",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-29T21:09:28.000Z",
         "excerpt": ""
       },
       {
@@ -285,11 +285,11 @@
         "excerpt": ""
       },
       {
-        "title": "Trump: per l’Ia autoregolamentazione, firmiamo documento per cambiarle nome",
+        "title": "Trump, per Ai solo autoregolamentazione e un accordo «moralmente vincolante». Firmato l’ordine che cambia il nome in Super Intelligence",
         "link": "https://www.ilsole24ore.com/art/trump-per-l-ia-deve-esserci-autoregolamentazione-non-paletti-AJl2KOTB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-09-29T19:04:00.000Z",
-        "excerpt": "Donald Trump ribadisce che “non possiamo soffocare” l’Intelligenza artificiale e presiede un pranzo alla Casa Bianca con i colossi del settore. Nel mezzo delle pressioni per una ricerca di equilibrio..."
+        "excerpt": "Donald Trump ha convocato alla Casa Bianca l’elite tech americana usandola quale pubblico d’eccellenza per rilanciare a spada tratta il proprio laissez faire sull’intelligenza artificiale, anzi sulla Super Intelligenza c"
       },
       {
         "title": "Marocco, Fatima Ezzahra El Mansouri sarà la prima premier donna del Regno",
@@ -400,6 +400,27 @@
       }
     ],
     "mondo": [
+      {
+        "title": "I prezzi del petrolio aumentano dopo un forte calo con la ripresa dell'offerta in Medio Oriente",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-higher-after-sharp-drop-as-middle-east-supply-recovers-4923978",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-30T01:33:35.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "L'oro si stabilizza dopo un guadagno dell'1,6% poiché il calo del petrolio compensa i rendimenti elevati del Tesoro",
+        "link": "https://www.investing.com/news/commodities-news/gold-steadies-after-16-gain-as-oil-drop-offsets-elevated-treasury-yields-4923962",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-30T01:14:49.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump firma ordine esecutivo, 'inaugura l'era della Super Intelligenza'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/30/trump-firma-ordine-esecutivo-inaugura-lera-della-super-intelligenza_e7cbfe6a-e357-41b4-80f8-4defb206b1e4.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-30T01:10:48.000Z",
+        "excerpt": "'Sistemi di frontiera odierni vanno ben oltre singoli aspetti dell'intelligenza umana'"
+      },
       {
         "title": "Missili balistici lanciati su Kiev, esplosioni in città",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/30/missili-balistici-lanciati-su-kiev-esplosioni-in-citta_5a6589f6-0ee9-4890-bb82-95bd7ab324ce.html",
@@ -513,32 +534,11 @@
         "excerpt": ""
       },
       {
-        "title": "Haiti, l'Onu proroga di sei mesi la missione contro le bande armate",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/29/haiti-lonu-proroga-di-sei-mesi-la-missione-contro-le-bande-armate_fd45a8fd-a76e-4fee-8424-da90f679d8f4.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-29T20:36:05.000Z",
-        "excerpt": "La forza internazionale resta fino a marzo 2027, ma ha schierato solo 1.500 uomini"
-      },
-      {
         "title": "La minaccia di Putin alla Nato: “Per difendere Kaliningrad siamo pronti a usare l’atomica”",
         "link": "https://www.repubblica.it/esteri/2026/09/29/news/putin_minaccia_nato_kaliningrad_atomica-425615763/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-09-29T19:59:06.000Z",
         "excerpt": "La lettera formale di Mosca all’Alleanza: “Possiamo colpire le vostre capitali”. L’avvertimento dopo le esercitazioni Ue-Usa intorno all’exclave. “Vogliono dividerci”"
-      },
-      {
-        "title": "Il petrolio scivola mentre i flussi in Medio Oriente migliorano, gli Stati Uniti rilasciano più greggio dalle riserve",
-        "link": "https://www.investing.com/news/commodities-news/oil-extends-gains-as-usiran-stalemate-overshadows-saudi-flows-4921487",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-29T19:51:23.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il petrolio greggio WTI barcolla a $89,31 sul bordo della scogliera: livelli live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-95609773-resistance-wall-live-levels-93CH-4919472",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-29T19:18:54.000Z",
-        "excerpt": ""
       },
       {
         "title": "Sindaca e avvocata, Fatima Mansouri è la prima premier del Marocco",
@@ -600,11 +600,32 @@
       "excerpt": "Anna Lisa Ticconi, avvocata d’ufficio del maggiore egiziano condannato a 10 anni per il sequestro di Giulio Regeni, annuncia il ricorso e punta alla Consulta contro i limiti della riforma Cartabia: “Non credo nell’innoce"
     },
     {
-      "title": "Giulio, lo strano italiano",
-      "link": "https://www.repubblica.it/commenti/2026/09/30/news/regeni_italia_governo_sentenza_adinolfi-425615749/",
+      "title": "Kaliningrad, la fortezza nel Baltico con cui Putin cerca l’incidente in Europa",
+      "link": "https://www.repubblica.it/esteri/2026/09/30/news/kaliningrad_cosa_e_la_fortezza_baltico_putin_cerca_incidente_europa-425615800/",
       "source": "Repubblica",
-      "pubDate": "2026-09-29T22:00:00.000Z",
-      "excerpt": ""
+      "pubDate": "2026-09-29T23:00:00.000Z",
+      "excerpt": "Le provocazioni dalla ex Königsberg allarmano gli alleati da anni. “Mosca cerca una reazione eccessiva, dobbiamo stare attenti”. Da lì può colpire con gli Iskander il continente"
+    },
+    {
+      "title": "“Putin vuole generare paura per farci abbandonare il sostegno all’Ucraina”",
+      "link": "https://www.repubblica.it/esteri/2026/09/30/news/kestutis_budrys_intervista_ministro_esteri_lituania_putin_aiuti_ucraina-425615797/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T23:00:00.000Z",
+      "excerpt": "Intervista a Kęstutis Budrys, ministro degli esteri lituano ed esperto di politica per la sicurezza. “Il Gru andrebbe classificato come agente terrorista: conduce crescenti operazioni di guerra ibrida per terrorizzarci”"
+    },
+    {
+      "title": "Caso Garlasco, nelle nuove carte le intercettazioni dei Sempio: “Gli porteremo le arance in cella”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/30/news/garlasco_intercettazioni_sempio_arance_cella-425615819/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T23:00:00.000Z",
+      "excerpt": "Negli atti della chiusura delle indagini compaiono diverse frasi carpite in casa dalle cimici. La madre dell’indagato: “In tv dicono che hanno trovato altre tracce, parlavano di te”"
+    },
+    {
+      "title": "Garlasco, lo scaricabarile dei Ris sulle anomalie nel dna: “Un errore del software”",
+      "link": "https://milano.repubblica.it/cronaca/2026/09/30/news/garlasco_scaricabarile_ris_anomalie_dna_errore_software_pedali_bici-425615786/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T23:00:00.000Z",
+      "excerpt": "I carabinieri che fecero i rilievi sono stati sentiti dai pm di Pavia. Il generale Garofano: “Ero informato ma non ho alcun ricordo”"
     },
     {
       "title": "Di Battista: 'Mi hanno asportato un tumore, ora mi devo curare'",
@@ -612,20 +633,6 @@
       "source": "ANSA",
       "pubDate": "2026-09-29T21:37:36.000Z",
       "excerpt": "Candidarmi? Avevamo fatto tutti i passi giusti, ma ora devo pensare ad altro"
-    },
-    {
-      "title": "Spagna meglio dell'Olanda '74: in gol dall'avvio dopo 26 passaggi senza che gli altri tocchino palla",
-      "link": "https://www.repubblica.it/sport/calcio/2026/09/29/news/spagna_gol_a_croazia_26_passaggi_consecutivi_yamal-425615858/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-29T20:45:32.000Z",
-      "excerpt": "Le Furie rosse aprono il poker (4-1) con la Croazia con una rete spettacolare dopo appena 70\". Strepitoso Yamal, autore di una doppietta e un assist. Per i campioni del mondo è il 9° successo di fila. Vince anche l'Inghi"
-    },
-    {
-      "title": "La minaccia di Putin alla Nato: “Per difendere Kaliningrad siamo pronti a usare l’atomica”",
-      "link": "https://www.repubblica.it/esteri/2026/09/29/news/putin_minaccia_nato_kaliningrad_atomica-425615763/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-29T19:59:06.000Z",
-      "excerpt": "La lettera formale di Mosca all’Alleanza: “Possiamo colpire le vostre capitali”. L’avvertimento dopo le esercitazioni Ue-Usa intorno all’exclave. “Vogliono dividerci”"
     },
     {
       "title": "Eni, tetto pure alle bollette. Polemica con Enel e A2A, L'appello di Meloni sull'energia",
@@ -640,13 +647,6 @@
       "source": "ANSA",
       "pubDate": "2026-09-29T19:18:10.000Z",
       "excerpt": "Le opposizioni, il ministro venga in Parlamento. La Russa, l'Italia farà il necessario"
-    },
-    {
-      "title": "Matteo Renzi: “Se Conte vincesse le primarie, lo voterei”",
-      "link": "https://milano.repubblica.it/cronaca/2026/09/29/news/matteo_renzi_conte_primarie-425615507/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-29T18:24:20.000Z",
-      "excerpt": "Il leader di Italia Viva ha presentato a Milano il suo libro “Quando c'era lei. L'Italia dopo Giorgia Meloni”, insieme al sindaco Beppe Sala"
     },
     {
       "title": "Tom Cruise: 'Io Digger, ricco bullo senza nessuna umanità'",
