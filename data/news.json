@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-30T05:08:44.185Z",
+  "lastUpdated": "2026-09-30T05:40:57.949Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Le vendite di iPhone 18 Pro in Cina crescono del 12% nella settimana di lancio",
+        "link": "https://it.investing.com/news/stock-market-news/le-vendite-di-iphone-18-pro-in-cina-crescono-del-12-nella-settimana-di-lancio-3567821",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T05:14:40.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Di Battista: «Mi hanno asportato un tumore, ora mi devo curare»",
+        "link": "https://www.ilsole24ore.com/art/di-battista-mi-hanno-asportato-tumore-ora-mi-devo-curare-AJRDthTB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-09-30T05:09:00.000Z",
+        "excerpt": "L’ex parlamentare M5s: «Se mi candiderò? Ora la priorità è curarmi»"
+      },
       {
         "title": "Perché il titolo SUMCO sta salendo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-sumco-sta-salendo-oggi-93CH-3567812",
@@ -49,13 +63,6 @@
         "link": "https://it.investing.com/news/stock-market-news/kkr-vende-asset-di-serbatoi-di-stoccaggio-in-giappone-e-corea-93CH-3567791",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-30T02:32:10.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Nidec è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-nidec-e-in-forte-rialzo-oggi-93CH-3567787",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T02:29:01.000Z",
         "excerpt": ""
       },
       {
@@ -218,16 +225,16 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-09-29T12:46:44.000Z",
         "excerpt": "Il pacchetto di richieste è contenuto nella bozza di documento elaborata dal Coordinamento tecnico della Commissione Salute"
-      },
-      {
-        "title": "Il paradosso dell’AI: riconosciuta come priorità dalle aziende europee, ma solo il 29% si sente pronto",
-        "link": "https://www.ilsole24ore.com/art/il-paradosso-dell-ai-riconosciuta-come-priorita-aziende-europee-ma-solo-29percento-si-sente-pronto-AJ4HpbSB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-29T09:03:00.000Z",
-        "excerpt": "Nuova ricerca di Chaberton Partners, società europea di executive search"
       }
     ],
     "europa": [
+      {
+        "title": "Ucraina: missili balistici russi su Kiev, 2 morti",
+        "link": "https://www.ilsole24ore.com/art/ucraina-missili-balistici-russi-kiev-2-morti-AJjBkiTB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-09-30T05:33:00.000Z",
+        "excerpt": "Nella notte le forze armate russe hanno lanciato un attacco su Kiev con missili balistici. Numerose esplosioni si sono udite nella capitale ucraina. In alcune zone della città ci sono..."
+      },
       {
         "title": "Charles Phillips nominato nel consiglio di amministrazione di Verizon",
         "link": "https://www.investing.com/news/sec-filings/charles-phillips-appointed-to-verizon-board-of-directors-93CH-4923806",
@@ -332,13 +339,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-09-29T05:36:00.000Z",
         "excerpt": "L’Europa sta conducendo una guerra contro la Russia, su questo «non c’è dubbio». Lo ha detto il ministro degli Esteri di Mosca, Serghei Lavrov, citato dalle..."
-      },
-      {
-        "title": "Francia, i lepenisti si rafforzano al Sénat",
-        "link": "https://www.ilsole24ore.com/art/francia-lepenisti-si-rafforzano-senat-AJguxWRB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-09-28T16:04:00.000Z",
-        "excerpt": "Quindici seggi, più del previsto, più dei cinque coperti finora. Soprattutto, un numero sufficiente per creare un gruppo autonomo. Le elezioni sénatoriales francesi - a scrutinio indiretto - hanno premiato..."
       }
     ],
     "usa": [
@@ -400,6 +400,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Trump soppesa il divieto di esportazione di diesel per contenere i prezzi del carburante negli Stati Uniti, riferisce FT",
+        "link": "https://www.investing.com/news/commodities-news/trump-weighs-diesel-export-ban-to-contain-us-fuel-prices-ft-reports-4924082",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-30T05:23:35.000Z",
+        "excerpt": ""
+      },
       {
         "title": "Ministro Kiev, 'ogni allarme missilistico costa 45 milioni dollari all'ora'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/30/ministro-kiev-ogni-allarme-missilistico-costa-45-milioni-dollari-allora_7800ac36-bb41-4f9e-aeac-c8c40fc67649.html",
@@ -527,13 +534,6 @@
         "excerpt": "Intervista a Kęstutis Budrys, ministro degli esteri lituano ed esperto di politica per la sicurezza. “Il Gru andrebbe classificato come agente terrorista: conduce crescenti operazioni di guerra ibrida per terrorizzarci”"
       },
       {
-        "title": "I mediatori del Qatar premono per un accordo di pace tra Stati Uniti e Iran",
-        "link": "https://www.investing.com/news/commodities-news/trump-denies-offering-iran-sanctions-relief-tehran-says-ready-for-talks-4921647",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-29T22:24:27.000Z",
-        "excerpt": ""
-      },
-      {
         "title": "La minaccia di Putin alla Nato: “Per difendere Kaliningrad siamo pronti a usare l’atomica”",
         "link": "https://www.repubblica.it/esteri/2026/09/29/news/putin_minaccia_nato_kaliningrad_atomica-425615763/?rss",
         "source": "Repubblica Esteri",
@@ -571,6 +571,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Missili e droni sulla regione di Kiev, uccisi un bambino e una donna",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/missili-e-droni-su-regione-di-kiev-uccisi-un-bambino-e-una-donna_1ff1313b-a1de-486d-a7ad-e0aac73d5a48.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-30T05:26:18.000Z",
+      "excerpt": "Il corpo trovato tra le macerie di un'abitazione a Vyshgorod"
+    },
     {
       "title": "Guerra “Braccata in Egitto non tiratemi in ballo adesso, io chiedo solo giustizia”",
       "link": "https://genova.repubblica.it/cronaca/2026/09/30/news/nessy_guerra_egitto_regeni-425615939/",
@@ -640,13 +647,6 @@
       "source": "ANSA",
       "pubDate": "2026-09-29T19:51:02.000Z",
       "excerpt": "Arera, +37,3% tariffa luce per i vulnerabili. Q8 si adegua a limite su carburanti"
-    },
-    {
-      "title": "Scontro su Tajani per Regeni. Meloni: 'Chiudere i canali con l'Egitto non aiuta'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/scontro-su-tajani-per-regeni.-meloni-chiudere-i-canali-con-legitto-non_f837010a-3cba-4fa7-90a0-da01db282440.html",
-      "source": "ANSA",
-      "pubDate": "2026-09-29T19:18:10.000Z",
-      "excerpt": "Le opposizioni, il ministro venga in Parlamento. La Russa, l'Italia farà il necessario"
     },
     {
       "title": "Tom Cruise: 'Io Digger, ricco bullo senza nessuna umanità'",
