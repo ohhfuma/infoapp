@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Perché il titolo di United Therapeutics è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-united-therapeutics-e-in-forte-rialzo-oggi-93CH-3569395",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T18:51:20.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Tesla ottiene il via libera della SEC per il voto automatico per delega",
+        "link": "https://it.investing.com/news/stock-market-news/tesla-ottiene-il-via-libera-della-sec-per-il-voto-automatico-per-delega-3569393",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T18:46:35.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Bf, nel semestre il valore della produzione supera 1,2 miliardi: +43% con il gruppo Martini",
+        "link": "https://www.repubblica.it/economia/2026/09/30/news/bf_spa_semestre_valore_produzione_gruppo_martini-425617847/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T18:44:07.000Z",
+        "excerpt": "La holding di partecipazioni attiva nella filiera agroindustriale ha visto l’utile salire da 2 a 24 milioni di euro: crescita “imputabile alla variazione del perimetro di consolidamento, oltre agli effetti di integrazion"
+      },
+      {
         "title": "Pichetto, 'idrogeno fondamentale per la neutralità climatica dell'Italia al 2050'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/pichetto-idrogeno-fondamentale-per-la-neutralita-climatica-dellitalia-al-2050_8b43caa4-ee69-4c93-ac28-81719c9b4deb.html",
         "source": "ANSA Economia",
@@ -400,27 +421,6 @@
         "link": "https://it.investing.com/news/stock-market-news/airbnb-aggiunge-funzioni-social-e-strumenti-ai-per-la-pianificazione-dei-viaggi-3569197",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-30T14:42:42.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "“Non ti metti il costume?”. Frasi a sfondo sessuale alla collega: giusto il licenziamento",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/licenziamento_giusta_causa_commenti_sfondo_sessuale_collega-425617190/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T14:37:59.000Z",
-        "excerpt": "Prima i commenti a connotazione sessuale alla collega, poi il tentativo di farli passare per “discorsi fra maschi” e “complimenti”. Ma quando la dignità è lesa, il licenziamento per giusta causa è corretto: la sentenza"
-      },
-      {
-        "title": "Perché il titolo Mosaic è in calo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-mosaic-e-in-calo-oggi-93CH-3569185",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T14:32:37.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Eli Lilly sale dopo una perdita di peso del 23% in un trial combinato",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-eli-lilly-sale-dopo-una-perdita-di-peso-del-23-in-un-trial-combinato-3569189",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T14:29:37.000Z",
         "excerpt": ""
       }
     ],
@@ -1126,6 +1126,13 @@
   },
   "attualita": [
     {
+      "title": "Diana Bianchedi si dimette dal ruolo di capodelegazione della Nazionale: Abodi l'aveva attaccata",
+      "link": "https://www.repubblica.it/sport/calcio/2026/09/30/news/diana_bianchedi_si_dimette_capodelegazione_nazionale_abodi_attacchi-425617827/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T18:39:10.000Z",
+      "excerpt": "L’ex campionessa olimpica di scherma è anche vicepresidente del Coni"
+    },
+    {
       "title": "Viminale: 'Prorogato di 15 giorni lo stop a Schengen con la Spagna'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/30/viminale-prorogato-di-15-giorni-lo-stop-a-schengen-con-la-spagna_273398e5-c4e2-4429-b5ff-3834783ad0e6.html",
       "source": "ANSA",
@@ -1537,16 +1544,30 @@
       "source": "Repubblica",
       "pubDate": "2026-09-29T23:00:00.000Z",
       "excerpt": "I carabinieri che fecero i rilievi sono stati sentiti dai pm di Pavia. Il generale Garofano: “Ero informato ma non ho alcun ricordo”"
-    },
-    {
-      "title": "Sconto carburanti a rilento negli Ip si allinea anche Q8",
-      "link": "https://www.repubblica.it/economia/2026/09/30/news/sconto_carburanti_a_rilento_negli_ip_si_allinea_anche_q8-425615835/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-29T23:00:00.000Z",
-      "excerpt": ""
     }
   ],
   "sport": [
+    {
+      "title": "Cristiano Ronaldo, a tempo debito dirò ai portoghesi perché ho lasciato la nazionale",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/30/cristiano-ronaldo-a-tempo-debito-diro-ai-portoghesi-perche-ho-lasciato-la-nazionale_8243c14f-bec9-4cde-98b8-14eb45351659.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-30T19:01:46.000Z",
+      "excerpt": "\"Ora auguro buona fortuna a tutti i miei compagni, nessuno escluso\""
+    },
+    {
+      "title": "Diana Bianchedi: 'Mi dimetto da capo delegazione della Nazionale'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/30/diana-bianchedi-mi-dimetto-da-capo-delegazione-della-nazionale_f0f56001-7f44-4caf-8c4b-44675ef1be97.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-30T18:58:43.000Z",
+      "excerpt": "Decisione 'a seguito delle dichiarazioni del ministro Abodi e delle polemiche scaturite'"
+    },
+    {
+      "title": "Figc: Abodi, 'a commissariare non è la politica, Mancini non in discussione'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/09/30/figc-abodi-a-commissariare-non-e-la-politica-mancini-non-in-discussione_9ada3539-58b6-47bf-b3b6-a5cef4a84751.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-30T18:51:32.000Z",
+      "excerpt": "Il ministro dello sport: 'Decide il Coni'. Dalla federazione dossier stadi Euro 2032 all'Uefa"
+    },
     {
       "title": "Mancini all'esame Francia, Scalvini: 'Capiremo il nostro livello'",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/09/30/mancini-allesame-francia-scalvini-capiremo-il-nostro-livello_89276772-ecb3-4baa-be81-d7a0149b7059.html",
