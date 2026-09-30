@@ -4,6 +4,41 @@
   "finanza": {
     "italia": [
       {
+        "title": "Nasce il Registro unico del latte di bufala e dei suoi derivati",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/nasce-il-registro-unico-del-latte-di-bufala-e-dei-suoi-derivati_fc826f43-036e-4d05-a8d5-94e12fdbcfe2.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T15:53:51.000Z",
+        "excerpt": "Lollobrigida: \"Più tracciabilità e controlli\""
+      },
+      {
+        "title": "Borsa: Milano chiude in calo (-0,8%), Tim tra i peggiori",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/borsa-milano-chiude-in-calo-08-tim-tra-i-peggiori_6bd1c79f-e08e-4fd5-a9da-052dc7cc9a75.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T15:53:15.000Z",
+        "excerpt": "Sugli scudi Avio +2,29%, Technoprobe +2,24%, Unicredit +2,15%. Sprofonda Juve -8,8%"
+      },
+      {
+        "title": "Borsa Milano in peggioramento con finanziari, forte Technoprobe, balza Bff",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-in-peggioramento-con-finanziari-forte-technoprobe-balza-bff-3569283",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T15:49:10.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Borsa Usa in rialzo, rallentamento inflazione placa timori su rialzo tassi Fed",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-usa-in-rialzo-rallentamento-inflazione-placa-timori-su-rialzo-tassi-fed-3569282",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T15:48:49.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Needham individua i migliori titoli SaaS dopo le preoccupazioni sulla piattaforma enterprise di Meta",
+        "link": "https://it.investing.com/news/stock-market-news/needham-individua-i-migliori-titoli-saas-dopo-le-preoccupazioni-sulla-piattaforma-enterprise-di-meta-3569271",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T15:40:32.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Kering avvia l’Accademia per formare 1.500 artigiani del lusso",
         "link": "https://www.repubblica.it/economia/2026/09/30/news/kering_avvia_l_accademia_per_formare_1500_artigiani_del_lusso-425617375/?rss",
         "source": "Repubblica Economia",
@@ -387,41 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-30T12:39:56.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "Le azioni Mattel scendono dopo la nomina di Roger Lynch come CEO",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-mattel-scendono-dopo-la-nomina-di-roger-lynch-come-ceo-3568867",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T12:32:43.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo di Hewlett Packard Enterprise è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-hewlett-packard-enterprise-e-in-forte-rialzo-oggi-93CH-3568855",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T12:26:29.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Borse oggi | FTSE MIB | Crollo Juventus, banche e inflazione UE",
-        "link": "https://it.investing.com/news/stock-market-news/borse-oggi--ftse-mib--crollo-juventus-banche-e-inflazione-ue-3568852",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T12:25:05.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Robinhood Markets sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-robinhood-markets-sta-salendo-oggi-93CH-3568842",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T12:19:10.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "L'inflazione sale in Germania al 3,3% a settembre, massimi dal 2023",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/linflazione-sale-in-germania-al-33-a-settembre-massimi-dal-2023_5ad740b4-07c0-45ca-a8d3-bd8d206b5321.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T12:18:35.000Z",
-        "excerpt": "Dato più alto delle previsioni degli analisti. Pesa il caro energia"
       }
     ],
     "europa": [
@@ -1126,6 +1126,13 @@
   },
   "attualita": [
     {
+      "title": "L’annuncio di Piantedosi: “Avviato iter per sei nuovi Cpr in Italia”",
+      "link": "https://www.repubblica.it/politica/2026/09/30/news/piantedosi_avviato_iter_sei_nuovi_cpr_italia-425617335/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T15:22:41.000Z",
+      "excerpt": "Due in Trentino Alto Adige, uno in Calabria, Campania, Emilia Romagna e Toscana. Ecco dove saranno realizzati i nuovi centri per il rimpatrio. Attesa per domani la decisione sulla eventuale proroga della sospensione di S"
+    },
+    {
       "title": "Un testimone sul volo Dubai-Tel Aviv: “Abbiamo immobilizzato l’assalitore con i cavi delle cuffie”",
       "link": "https://www.repubblica.it/esteri/2026/09/30/news/testimone_sul_volo_dubai-tel_aviv_cavi_delle_cuffie-425617298/",
       "source": "Repubblica",
@@ -1537,16 +1544,23 @@
       "source": "ANSA",
       "pubDate": "2026-09-29T17:45:39.000Z",
       "excerpt": "Iñárritu: 'Il disastro? Né cometa né terremoto, siamo noi'"
-    },
-    {
-      "title": "Donne mature e capelli 'adatti all'età', tutte le regole finalmente superate",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/09/29/donne-mature-e-capelli-adatti-alleta-tutte-le-regole-finalmente-superate_77ff9f06-9bcc-41a7-afb1-06a1f269e384.html",
-      "source": "ANSA",
-      "pubDate": "2026-09-29T17:34:37.000Z",
-      "excerpt": "La 70/enne Kim Cattrall simbolo di età senza costrizioni. L'esperta Danielle Louise racconta l'evoluzione di taglio, colore, stile"
     }
   ],
   "sport": [
+    {
+      "title": "Lazio: lussazione della spalla per Gudmundsson, slitta il rientro di Cataldi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/30/lazio-lussazione-della-spalla-per-gudmundsson-slitta-il-rientro-di-cataldi_915e0e10-baa5-45c1-8274-2536989248e3.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-30T15:42:20.000Z",
+      "excerpt": "Infortuni per Gattuso, Marusic e Rovella proseguono lavoro di riatletizzazione"
+    },
+    {
+      "title": "Accordo sul nuovo stadio a Bologna, Fenucci 'servono investitori'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/30/accordo-sul-nuovo-stadio-a-bologna-fenucci-servono-investitori_d60c2765-043e-43ae-87e7-0300e0dfa3fc.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-09-30T15:39:03.000Z",
+      "excerpt": "Progetto da 300 milioni, 35mila posti e copertura mobile"
+    },
     {
       "title": "Tra tennis e kickboxing, gli sportivi oggi all'udienza del Papa",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/09/30/tra-tennis-e-kickboxing-gli-sportivi-oggi-alludienza-del-papa_0e188c32-7c77-4c4f-be00-933d1466a56a.html",
