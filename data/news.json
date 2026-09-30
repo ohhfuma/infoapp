@@ -1,13 +1,97 @@
 {
-  "lastUpdated": "2026-09-30T09:42:47.007Z",
+  "lastUpdated": "2026-09-30T10:10:01.530Z",
   "finanza": {
     "italia": [
       {
-        "title": "Istat, maxi balzo dell’inflazione: 4,2% a settembre. Cala la fiducia di consumatori e imprese",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/istat_inflazione_fiducia_consumatori_imprese-425616309/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T09:34:43.000Z",
-        "excerpt": "Fiammata dell’energia, in rialzo del 22,3%. I dati dell’industria in discesa dopo tre mesi consecutivi di crescita"
+        "title": "Incidente alla Fincantieri Ancona: operaio ucciso da una fiammata, un altro è gravissimo",
+        "link": "https://www.ilsole24ore.com/art/incidente-fincantieri-ancona-operaio-ucciso-una-fiammata-altro-e-gravissimo-AJNDxxTB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-09-30T10:05:48.000Z",
+        "excerpt": "Un operaio tunisino di 55 anni morto a causa delle ustioni riportate e un altro di 29 anni, di origine bengalese trasferito dall’ospedale regionale di Ancona al centro Grandi ustionati..."
+      },
+      {
+        "title": "Borsa: Milano gira in calo con energia e banche",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/borsa-milano-gira-in-calo-con-energia-e-banche_0fce17ce-be93-4e9d-ad39-afa11f5278a5.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T10:01:54.000Z",
+        "excerpt": "Di corsa Technoprobe. Lo spread tra Btp e Bund a 97 punti"
+      },
+      {
+        "title": "Vertenza Electrolux, operai di Cerreto d'Esi in sciopero il 5 ottobre per otto ore",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/vertenza-electrolux-operai-di-cerreto-desi-in-sciopero-il-5-ottobre-per-otto-ore_200ed9ab-703b-4db3-ae5c-2d389a167c00.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T09:58:56.000Z",
+        "excerpt": "Una cinquantina di lavoratori a rischio esubero presenti al presidio sotto sede Mimit"
+      },
+      {
+        "title": "Ex Ilva: Urso, 'labirinto giudiziario in cui è stata spenta anche la luce'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/ex-ilva-urso-labirinto-giudiziario-in-cui-e-stata-spenta-anche-la-luce_df5e1f9d-c223-4f76-83a2-9b65862cd124.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T09:58:16.000Z",
+        "excerpt": "'Decreto è pronto ma dobbiamo aspettare Corte d'Appello e la riunione della Cassazione'"
+      },
+      {
+        "title": "Cordoglio Fincantieri per operaio morto, 'vicina a famiglie e lavoratori'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/cordoglio-fincantieri-per-operaio-morto-vicina-a-famiglie-e-lavoratori_dddc13cb-60ac-4fd3-9b6e-61c5b157f208.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T09:56:29.000Z",
+        "excerpt": "Ieri sera ad Ancona un lavoratore deceduto, un altro gravissimo trasferito a Pisa"
+      },
+      {
+        "title": "Urso, immaginavo crescita inflattiva ma non possiamo agire da soli",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/urso-immaginavo-crescita-inflattiva-ma-non-possiamo-agire-da-soli_f7732525-be00-4a3b-9c6f-c8fd74802bb4.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T09:50:13.000Z",
+        "excerpt": "Su dati Istat, 'necessario che agisca anche l'Europa, gli altri non stiano a guardare'"
+      },
+      {
+        "title": "Assogestioni, raccolta agosto a 8,45 miliardi, in 8 mesi sopra 25 miliardi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/assogestioni-raccolta-agosto-a-845-miliardi-in-8-mesi-sopra-25-miliardi_14f0855f-f811-4590-9bf7-ce336e41d4a2.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T09:47:31.000Z",
+        "excerpt": "Bene gli istituzionali. Il patrimonio sale a 2.721 miliardi"
+      },
+      {
+        "title": "Jefferies vede l’accordo sui permessi al Senato come positivo per NextEra",
+        "link": "https://it.investing.com/news/stock-market-news/jefferies-vede-laccordo-sui-permessi-al-senato-come-positivo-per-nextera-93CH-3568244",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T09:42:25.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Il CEO di Porsche difende il ritorno alla benzina tra i timori sull’elettrico",
+        "link": "https://it.investing.com/news/stock-market-news/il-ceo-di-porsche-difende-il-ritorno-alla-benzina-tra-i-timori-sullelettrico-93CH-3568242",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T09:41:00.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "L’agente AI Muse di Meta mette sotto pressione i titoli travel online",
+        "link": "https://it.investing.com/news/stock-market-news/lagente-ai-muse-di-meta-mette-sotto-pressione-i-titoli-travel-online-93CH-3568237",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T09:37:18.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Coca-Cola valuta un deposito preliminare a dicembre per l’IPO della sua unità di imbottigliamento in India",
+        "link": "https://it.investing.com/news/stock-market-news/cocacola-valuta-un-deposito-preliminare-a-dicembre-per-lipo-della-sua-unita-di-imbottigliamento-in-india-93CH-3568229",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T09:31:17.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "L’inflazione francese balza al 3% a settembre per i costi energetici",
+        "link": "https://it.investing.com/news/stock-market-news/linflazione-francese-balza-al-3-a-settembre-per-i-costi-energetici-93CH-3568228",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T09:29:32.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo GameStop sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-gamestop-sta-salendo-oggi-93CH-3568227",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T09:28:42.000Z",
+        "excerpt": ""
       },
       {
         "title": "Nel 2025 in Italia prodotte 424.168 tonnellate di caffè tostato e solubile",
@@ -17,18 +101,18 @@
         "excerpt": "Il fatturato di settore è di 5,9 miliardi. Attive circa 1.000 torrefazioni"
       },
       {
-        "title": "L’azionario giapponese può ancora crescere, nonostante la stretta sui tassi",
-        "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/09/30/news/l_azionario_giapponese_puo_ancora_crescere_nonostante_la_stretta_sui_tassi-425616443/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T09:24:34.000Z",
-        "excerpt": "Nomoto (Columbia Threadneedle Investments): “Spazio di rivalutazione per i titoli tecnologici e quelli legati alle infrastrutture”"
+        "title": "Jefferies alza le previsioni di riduzione Medicaid per agosto 2026",
+        "link": "https://it.investing.com/news/stock-market-news/jefferies-alza-le-previsioni-di-riduzione-medicaid-per-agosto-2026-93CH-3568219",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T09:27:01.000Z",
+        "excerpt": ""
       },
       {
-        "title": "Assogestioni, raccolta agosto a 8,45 miliardi, in 8 mesi sopra 25 miliardi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/assogestioni-raccolta-agosto-a-845-miliardi-in-8-mesi-sopra-25-miliardi_14f0855f-f811-4590-9bf7-ce336e41d4a2.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T09:24:30.000Z",
-        "excerpt": "Bene gli istituzionali. Il patrimonio sale a 2.721 miliardi"
+        "title": "Stifel: il piano \"Your First Home\" potrebbe aumentare gli utili dei costruttori",
+        "link": "https://it.investing.com/news/stock-market-news/stifel-il-piano-your-first-home-potrebbe-aumentare-gli-utili-dei-costruttori-93CH-3568218",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T09:26:27.000Z",
+        "excerpt": ""
       },
       {
         "title": "Bancomat e altri player lanciano Enp per interoperabilità pagamenti in Ue",
@@ -38,48 +122,6 @@
         "excerpt": "Verso 'ecosistema più autonomo'. Ci sono Bizum, Epi, Sibs e Vipps"
       },
       {
-        "title": "Bollette di luce e gas, il confronto tra le offerte e come cambiare operatore",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/luce_gas_offerte_come_cambiare_operatore-425616291/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T09:11:50.000Z",
-        "excerpt": "Il lancio delle nuove proposte commerciali anti rincari scuote il mercato. Ecco come risparmiare"
-      },
-      {
-        "title": "Istat, con gli energetici l'inflazione a settembre vola al 4,2%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/istat-con-gli-energetici-linflazione-a-settembre-vola-al-42_e14c5a8f-d7e2-4e46-bf3a-701c19cdc53a.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T09:10:47.000Z",
-        "excerpt": "+0,7% la crescita dei prezzi al consumo su base mensile"
-      },
-      {
-        "title": "Le azioni di Kongsberg Gruppen salgono del 5,3% grazie a contratti difesa",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-kongsberg-gruppen-salgono-del-53-grazie-a-contratti-difesa-93CH-3568181",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:06:06.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Btp, lieve calo ma spread con Bund ancora intorno quota 100",
-        "link": "https://it.investing.com/news/stock-market-news/btp-lieve-calo-ma-spread-con-bund-ancora-intorno-quota-100-3568180",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:05:07.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "OPEC+ probabilmente manterrà gli obiettivi di produzione di petrolio alla riunione di domenica",
-        "link": "https://it.investing.com/news/stock-market-news/opec-probabilmente-manterra-gli-obiettivi-di-produzione-di-petrolio-alla-riunione-di-domenica-93CH-3568179",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:04:57.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Le azioni WDP scendono del 4% dopo un’offerta azionaria da €400 milioni",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-wdp-scendono-del-4-dopo-unofferta-azionaria-da-400-milioni-93CH-3568178",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:04:55.000Z",
-        "excerpt": ""
-      },
-      {
         "title": "Inflazione a settembre balza al 4,2%. Pesa il caro carburanti - Il trend di benzina e gasolio",
         "link": "https://www.ilsole24ore.com/art/inflazione-settembre-balza-42percento-pesa-caro-carburanti-AJuH4rTB",
         "source": "Il Sole 24 Ore",
@@ -87,67 +129,11 @@
         "excerpt": "Secondo le stime preliminari dell’Istat, a settembre 2026 l’indice nazionale dei prezzi al consumo per l’intera collettività balza a +0,7% su base mensile e a +4,2% su base annua (da..."
       },
       {
-        "title": "Morgan Stanley promuove Julius Baer dopo la chiusura dell’indagine FINMA",
-        "link": "https://it.investing.com/news/stock-market-news/morgan-stanley-promuove-julius-baer-dopo-la-chiusura-dellindagine-finma-3568182",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:03:43.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Rfi, Antitrust proroga termine istruttoria su Alta Velocità",
-        "link": "https://it.investing.com/news/stock-market-news/rfi-antitrust-proroga-termine-istruttoria-su-alta-velocita-3568158",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T09:00:29.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Atlas Arteria rimbalza dopo il recente sell-off",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-atlas-arteria-rimbalza-dopo-il-recente-selloff-93CH-3568153",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T08:56:10.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Vonovia sale grazie a un potenziale mandato di gestione patrimoniale",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-vonovia-sale-grazie-a-un-potenziale-mandato-di-gestione-patrimoniale-93CH-3568119",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T08:50:56.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Borsa: l'Europa positiva, in calo i rendimenti dei titoli di Stato",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/borsa-leuropa-positiva-in-calo-i-rendimenti-dei-titoli-di-stato_db3b8977-bfb1-4f9e-a0f2-240b026ba2cb.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T08:48:16.000Z",
-        "excerpt": "In rialzo gas e petrolio. Lo spread tra Btp e Bund a 97 punti"
-      },
-      {
         "title": "Brexit, Burnham: «Tutte le opzioni sul tavolo, inclusa riadesione a Ue»",
         "link": "https://www.ilsole24ore.com/art/brexit-burnham-tutte-opzioni-tavolo-inclusa-riadesione-ue-AJFlkrTB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-09-30T08:35:00.000Z",
         "excerpt": "Il premier britannico Andy Burnham ha dichiarato che «tutte le opzioni”»sono sul tavolo per le future relazioni del Regno Unito con Bruxelles, da “restare come siamo” fino ad “andare fino..."
-      },
-      {
-        "title": "Mimit, prezzi carburanti in calo ma resta 'consistente divario' con Eni, Ip e Q8",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/mimit-prezzi-carburanti-in-calo-ma-resta-consistente-divario-con-eni-ip-e-q8_38df60a8-493c-451d-abdd-ffe022d8cfc7.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T08:24:12.000Z",
-        "excerpt": "In modalità self benzina a 2,111 gasolio a 2,316"
-      },
-      {
-        "title": "Antitrust proroga termine chiusura istruttoria su Rfi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/antitrust-proroga-termine-chiusura-istruttoria-su-rfi_cb597dfb-4175-40ec-bc0c-2fdc97e00136.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T08:24:10.000Z",
-        "excerpt": "Per abuso di posizione dominante. Già accolti tre impegni"
-      },
-      {
-        "title": "Istat, a settembre cala fiducia di consumatori e imprese",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/istat-a-settembre-cala-fiducia-di-consumatori-e-imprese_0e4cc907-1751-4a3d-ba30-17b3c1e22e58.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T08:24:04.000Z",
-        "excerpt": "'Il clima delle imprese in calo dopo tre mesi di crescita'"
       },
       {
         "title": "Il Nord perde velocità al volante. A Roma meno viaggi, ma dieci minuti in più in auto",
@@ -183,53 +169,11 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-09-30T05:09:00.000Z",
         "excerpt": "L’ex parlamentare M5s: «Se mi candiderò? Ora la priorità è curarmi»"
-      },
-      {
-        "title": "Rottamazione, ultimo giorno per pagare: ecco chi è coinvolto e come mettersi in regola",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/30/news/rottamazione_quinquies_pagamento_rata_come_mettersi_in_regola-425615385/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T03:00:00.000Z",
-        "excerpt": "La scadenza per chi deve saldare dalla seconda fino alla penultima rata. Proroga fino al 5 ottobre per chi ha il pagamento in un'unica soluzione e deve fare il versamento dell'ultima tranche del piano di dilazione"
-      },
-      {
-        "title": "Casa, cresce l’interesse per la nuda proprietà. Balzo dei prezzi a Genova, Bologna e Torino",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/casa_nuda_proprieta_prezzi_aumento_genova_bologna_torino-425615371/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T03:00:00.000Z",
-        "excerpt": "I dati di Immobiliare.it Insights: quotazioni in crescita del 2%, spesa media di 2077 euro"
-      },
-      {
-        "title": "“Fiero di essere un agente, ma siamo rimasti a galla con prestiti e straordinari”",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/agente_polizia_lavoro_straordinari_serie_piccoli_salari-425615920/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-29T23:00:00.000Z",
-        "excerpt": "La quinta puntata della serie “Piccoli salari”. Gianluca Cioè, 52 anni: “L’unica cosa che mi fa star sereno è lavorare e racimolare ore in più per pagare le rate dell’auto e l’università. Da Roma mi sono trasferito a Bre"
-      },
-      {
-        "title": "Il regalo ai consulenti del lavoro irrita i commercialisti. Derby Calderone-Leo",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/derby_commercialisti_consulenti_calderone_leo_ddl_concorrenza-425615884/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-29T23:00:00.000Z",
-        "excerpt": "La legge estende la possibilità di depositare i bilanci delle imprese alla categoria presieduta dal marito della ministra"
-      },
-      {
-        "title": "Sconto carburanti a rilento negli Ip. Si allinea anche Q8",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/sconto_carburanti_a_rilento_negli_ip_si_allinea_anche_q8-425615835/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-29T23:00:00.000Z",
-        "excerpt": "La società guidata dal Kuwait non indica un prezzo, ma “un approccio modulare”. Anche l’Ue studia un intervento"
-      },
-      {
-        "title": "Sigarette, nel 2027 fino a 25 centesimi in più a pacchetto",
-        "link": "https://www.ilsole24ore.com/art/sigarette-2027-fino-25-centesimi-piu-pacchetto-AJiWwRTB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-29T19:37:16.000Z",
-        "excerpt": "A partire dal 1° gennaio 2027 un pacchetto di sigarette costerà circa 25 centesimi in più. Questo rincaro, però, non coglie di sorpresa: la manovra di Bilancio del..."
       }
     ],
     "europa": [
       {
-        "title": "Allarme su volo FlyDubai dirottato, copilota accoltella comandante. Tentativo di far schiantare l’aereo",
+        "title": "Allarme su volo FlyDubai, copilota accoltella comandante. Tentativo di far schiantare l’aereo. Si segue pista terrorismo",
         "link": "https://www.ilsole24ore.com/art/allarme-volo-flydubai-copilota-accoltella-comandante-tentativo-far-schiantare-l-aereo-AJtl7tTB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-09-30T09:25:00.000Z",
@@ -257,7 +201,7 @@
         "excerpt": "Donald Trump ha tenuto colloqui d’emergenza con i suoi consiglieri per valutare se imporre un divieto di esportazione del gasolio o altre misure per contenere la crisi dei..."
       },
       {
-        "title": "Axios: «Sempre più probabile nuovo conflitto militare Iran-Usa». Teheran: «Trump è finito in un pantano»",
+        "title": "Axios: «Sempre più probabile nuovo conflitto Iran-Usa». Teheran: «Trump è finito in un pantano»",
         "link": "https://www.ilsole24ore.com/art/iran-axios-sempre-piu-probabile-nuovo-conflitto-militare-usa-AJC7njTB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-09-30T05:51:00.000Z",
@@ -401,11 +345,11 @@
     ],
     "mondo": [
       {
-        "title": "Il volo Dubai-Tel Aviv rischia di precipitare. Lite tra piloti, l’ipotesi: “Uno dei due voleva farlo schiantare”",
-        "link": "https://www.repubblica.it/esteri/2026/09/30/news/volo_dubai_tel_aviv_lite_piloti_russo_ucraino-425616323/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-30T09:28:32.000Z",
-        "excerpt": "La compagnia aerea FlyDubai: “Copilota ha accoltellato il comandante”. Un passeggero: “Abbiamo sentito le urla, poi abbiamo visto il sangue”. L’aereo, con circa 170 persone a bordo e diretto da Dubai a Tel-Aviv, è stato "
+        "title": "Oro al passo con il calo mensile mentre si profilano i dati sull'inflazione negli Stati Uniti",
+        "link": "https://www.investing.com/news/commodities-news/gold-steadies-after-16-gain-as-oil-drop-offsets-elevated-treasury-yields-4923962",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-30T09:42:13.000Z",
+        "excerpt": ""
       },
       {
         "title": "Media, piloti del volo FlyDubai sarebbero uno dell'Oman e l'altro emiratino",
@@ -413,6 +357,13 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-09-30T09:27:04.000Z",
         "excerpt": "In precedenza era stato indicato fossero ucraino e russo"
+      },
+      {
+        "title": "Il petrolio rimbalza mentre i nervosismi intorno alle forniture mediorientali persistono nonostante i segni di ripresa",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-higher-after-sharp-drop-as-middle-east-supply-recovers-4923978",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-30T09:25:30.000Z",
+        "excerpt": ""
       },
       {
         "title": "La Russia colpisce le centrali elettriche, ne uccide quattro, lascia Kiev sotto fumo",
@@ -485,31 +436,10 @@
         "excerpt": ""
       },
       {
-        "title": "Usa, la Corte Suprema riapre la strada alle deportazioni dei migranti verso Paesi terzi",
-        "link": "https://www.repubblica.it/esteri/2026/09/30/news/usa_la_corte_suprema_riapre_la_strada_alle_deportazioni_dei_migranti_verso_paesi_terzi-425616169/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-30T07:25:32.000Z",
-        "excerpt": "I giudici sospendono i limiti imposti da un tribunale federale e consentono all’amministrazione Trump di riprendere i trasferimenti verso Stati diversi da quelli di origine. La questione sarà esaminatà nel merito a dicem"
-      },
-      {
         "title": "Brent Oil testa il supporto 200-MA dopo H&S top: Livelli live",
         "link": "https://www.investing.com/news/commodities-news/brent-oil-breaks-10150-neckline-eyes-9749-support-live-93CH-4919470",
         "source": "Investing.com Commodities",
         "pubDate": "2026-09-30T07:11:43.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Test del gas naturale $2,97-$3,00 supporto con segnale Doji: Live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-in-30813203-range-live-levels-93CH-4919473",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-30T07:11:16.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Petrolio greggio WTI bloccato a $89,24 in una situazione di stallo da ipervenduto: livelli Live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-95609773-resistance-wall-live-levels-93CH-4919472",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-30T07:11:07.000Z",
         "excerpt": ""
       },
       {
@@ -525,58 +455,16 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-09-30T04:50:02.000Z",
         "excerpt": "Kravchenko: \"Tentativo russo di distruggere la nostra economia\""
-      },
-      {
-        "title": "Trump e i leader dell’IA: “Regole volontarie ma no a nuovi paletti”. E si chiamerà “superintelligenza”",
-        "link": "https://www.repubblica.it/esteri/2026/09/30/news/trump_intelligenza_artificiale_leader_regole_volontarie-425615855/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T23:00:00.000Z",
-        "excerpt": "Il tycoon vede i boss del settore e rilancia la corsa allo sviluppo: “Non ci arrendiamo alle paure, se ci fermiamo vince la Cina”"
-      },
-      {
-        "title": "Kaliningrad, la fortezza nel Baltico con cui Putin cerca l’incidente in Europa",
-        "link": "https://www.repubblica.it/esteri/2026/09/30/news/kaliningrad_cosa_e_la_fortezza_baltico_putin_cerca_incidente_europa-425615800/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T23:00:00.000Z",
-        "excerpt": "Le provocazioni dalla ex Königsberg allarmano gli alleati da anni. “Mosca cerca una reazione eccessiva, dobbiamo stare attenti”. Da lì può colpire con gli Iskander il continente"
-      },
-      {
-        "title": "“Putin vuole generare paura per farci abbandonare il sostegno all’Ucraina”",
-        "link": "https://www.repubblica.it/esteri/2026/09/30/news/kestutis_budrys_intervista_ministro_esteri_lituania_putin_aiuti_ucraina-425615797/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T23:00:00.000Z",
-        "excerpt": "Intervista a Kęstutis Budrys, ministro degli esteri lituano ed esperto di politica per la sicurezza. “Il Gru andrebbe classificato come agente terrorista: conduce crescenti operazioni di guerra ibrida per terrorizzarci”"
-      },
-      {
-        "title": "La minaccia di Putin alla Nato: “Per difendere Kaliningrad siamo pronti a usare l’atomica”",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/putin_minaccia_nato_kaliningrad_atomica-425615763/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T19:59:06.000Z",
-        "excerpt": "La lettera formale di Mosca all’Alleanza: “Possiamo colpire le vostre capitali”. L’avvertimento dopo le esercitazioni Ue-Usa intorno all’exclave. “Vogliono dividerci”"
-      },
-      {
-        "title": "Sindaca e avvocata, Fatima Mansouri è la prima premier del Marocco",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/marocco_prima_donna_premier_fatima_ezzahra_el_mansour-425615264/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T18:48:04.000Z",
-        "excerpt": "La sindaca di Marrakech è stata scelta dopo la vittoria del suo partito alle elezioni parlamentari del 23 settembre scorso"
-      },
-      {
-        "title": "Brexit, Burnham non esclude il ritorno nella Ue nel suo discorso “rivoluzionario e di sinistra”",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/brexit_burnham_ritorno_ue_conferenza_labour_liverpool-425615238/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T16:15:27.000Z",
-        "excerpt": "Il primo ministro britannico scuote il Paese e annuncia “nuove opzioni per i rapporti a lungo termine con l’Europa” post Brexit. Tra gli annunci alla conferenza Labour: acqua ed energia pubbliche, confisca delle abitazio"
       }
     ]
   },
   "attualita": [
     {
-      "title": "'Emergenza sul volo FlyDubai per una lite tra pilota russo e copilota ucraino'. Funzionari israeliani: 'Uno dei due ha tentato di far schiantare l'aereo'",
+      "title": "'Emergenza sul volo da Dubai a Tel Aviv per una lite tra piloti'. 'Uno dei due ha tentato di far schiantare l'aereo'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/media-israele-emergenza-su-volo-da-dubai-a-tel-aviv-decollati-jet-israeliani_ba82b692-fb5f-4d67-98ba-c75431c1bda0.html",
       "source": "ANSA",
-      "pubDate": "2026-09-30T09:19:44.000Z",
-      "excerpt": "A bordo 150 passeggeri. Il volo, diretto a Tel Aviv, aveva trasmesso un codice di un possibile dirottamento facendo decollare i caccia israeliani. L'aereo è poi atterrato in Arabia Saudita"
+      "pubDate": "2026-09-30T09:42:47.000Z",
+      "excerpt": "A bordo 150 passeggeri. Il volo della FlyDubai aveva trasmesso un codice di un possibile dirottamento facendo decollare i caccia israeliani. L'aereo è poi atterrato in Arabia Saudita"
     },
     {
       "title": "Mattarella a Milano per i 120 anni della Cgil",
@@ -586,67 +474,11 @@
       "excerpt": ""
     },
     {
-      "title": "Preferenze, soglia, premio: tutti i punti della nuova legge elettorale. Ecco cosa prevede la riforma",
-      "link": "https://www.repubblica.it/politica/2026/09/30/news/legge_elettorale_preferenze_soglia_premio_cosa_prevede-425616411/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T09:06:14.000Z",
-      "excerpt": "Il testo torna di nuovo alla Camera. Per l’approvazione finale, blindata dalla fiducia, le opposizioni chiederanno il voto segreto"
-    },
-    {
-      "title": "Il volo Dubai-Tel Aviv rischia di precipitare. Lite tra piloti, l’ipotesi: “Uno dei due voleva farlo schiantare”",
-      "link": "https://www.repubblica.it/esteri/2026/09/30/news/volo_dubai_tel_aviv_lite_piloti_russo_ucraino-425616323/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T08:34:27.000Z",
-      "excerpt": "La compagnia aerea FlyDubai: “Copilota ha accoltellato il comandante”. Un passeggero: “Abbiamo sentito le urla, poi abbiamo visto il sangue”. L’aereo, con circa 170 persone a bordo e diretto da Dubai a Tel-Aviv, è stato "
-    },
-    {
-      "title": "Istat, maxi balzo dell’inflazione: 4,2% a settembre. Cala la fiducia di consumatori e imprese",
-      "link": "https://www.repubblica.it/economia/2026/09/30/news/istat_inflazione_fiducia_consumatori_imprese-425616309/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T08:30:37.000Z",
-      "excerpt": "Fiammata dell’energia, in rialzo del 22,3%. I dati dell’industria in discesa dopo tre mesi consecutivi di crescita"
-    },
-    {
-      "title": "Bollette di luce e gas, il confronto tra le offerte e come cambiare operatore",
-      "link": "https://www.repubblica.it/economia/2026/09/30/news/luce_gas_offerte_come_cambiare_operatore-425616291/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T08:24:42.000Z",
-      "excerpt": "Il lancio delle nuove proposte commerciali anti rincari scuote il mercato. Ecco come risparmiare"
-    },
-    {
-      "title": "Legge elettorale, rush finale tra le tensioni: alla Camera limiti alle vedette per il voto segreto",
-      "link": "https://www.repubblica.it/politica/2026/09/30/news/legge_elettorale_voto_segreto_vedette_franchi_tiratori_in_tribuna-425616266/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T08:13:37.000Z",
-      "excerpt": "Questa volta, a differenza di quanto accaduto a luglio, sarà più complicato per i partiti di maggioranza controllare i deputati sospetti dall’alto. Gli addetti stampa dei parlamentari potranno comunque accedere dagli spa"
-    },
-    {
       "title": "Missili e droni sulla regione di Kiev, uccisi un bambino e una donna",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/missili-e-droni-su-regione-di-kiev-uccisi-un-bambino-e-una-donna_1ff1313b-a1de-486d-a7ad-e0aac73d5a48.html",
       "source": "ANSA",
       "pubDate": "2026-09-30T08:06:11.000Z",
       "excerpt": "Il corpo del piccolo trovato tra le macerie della sua abitazione a Vyshgorod"
-    },
-    {
-      "title": "Pattie Boyd, George Harrison ed Eric Clapton: la storia del triangolo amoroso più famoso del rock",
-      "link": "https://www.repubblica.it/spettacoli/musica/2026/09/30/news/pattie_boyd_george_harrison_eric_clapton_triangolo_amoroso_libro-425616195/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T07:34:49.000Z",
-      "excerpt": "Esce “Il triangolo rock”, libro di Riccardo Russino, cronaca dell’amore complesso tra l’ex modella e le due rockstar"
-    },
-    {
-      "title": "“Vinicius è sparito e gioca un sosia”: la folle teoria sulla stella del Real",
-      "link": "https://www.repubblica.it/sport/calcio/esteri/2026/09/30/news/vinicius_sparito_sosia_bufala_fake-425616166/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T07:21:13.000Z",
-      "excerpt": "La strampalata voce dopo l’operazione di armonizzazione facciale che ha cambiato il volto del giocatore"
-    },
-    {
-      "title": "Naza è una scossa. Bandiere pro Pal in sala e botteghino da record",
-      "link": "https://www.repubblica.it/spettacoli/cinema/2026/09/30/news/naza_film_gaza_bandiere_pro_pal_in_sala_botteghino_da_record-425616028/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T06:05:46.000Z",
-      "excerpt": "Doveva essere proiettato solamente per tre giorni. Ma il doc presentato alla Mostra di Venezia resterà in programmazione"
     },
     {
       "title": "Al Premio Tenco 2026 spazio al rock d'autore e alle nuove generazioni",
