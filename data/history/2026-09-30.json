@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Borsa: Milano apre in rialzo dello 0,11%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/borsa-milano-apre-in-rialzo-dello-011_d95a822c-ecfa-4654-acfa-71091a752758.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T07:06:31.000Z",
+        "excerpt": "Il primo indice Ftse Mib a 51.861 punti"
+      },
+      {
+        "title": "Borsa: l'Asia chiude in rialzo, si guarda a inflazione e crescita economica",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/borsa-lasia-chiude-in-rialzo-si-guarda-a-inflazione-e-crescita-economica_6d1a5cb4-6846-41b0-9f57-7a3139e67a07.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-09-30T06:57:59.000Z",
+        "excerpt": "In rialzo Tokyo, giù Seul. Lo yen si rafforza sul dollaro"
+      },
+      {
         "title": "Melonellum in Aula con l’incognita di due voti segreti, ma i leader già studiano le strategie",
         "link": "https://www.ilsole24ore.com/art/melonellum-aula-l-incognita-due-voti-segreti-ma-leader-gia-studiano-strategie-AJBGsQTB",
         "source": "Il Sole 24 Ore",
@@ -149,6 +163,20 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-30T03:42:36.000Z",
         "excerpt": ""
+      },
+      {
+        "title": "Rottamazione, ultimo giorno per pagare: ecco chi è coinvolto e come mettersi in regola",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/30/news/rottamazione_quinquies_pagamento_rata_come_mettersi_in_regola-425615385/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T03:00:00.000Z",
+        "excerpt": "La scadenza per chi deve saldare dalla seconda fino alla penultima rata. Proroga fino al 5 ottobre per chi ha il pagamento in un'unica soluzione e deve fare il versamento dell'ultima tranche del piano di dilazione"
+      },
+      {
+        "title": "Casa, cresce l’interesse per la nuda proprietà. Balzo dei prezzi a Genova, Bologna e Torino",
+        "link": "https://www.repubblica.it/economia/2026/09/30/news/casa_nuda_proprieta_prezzi_aumento_genova_bologna_torino-425615371/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T03:00:00.000Z",
+        "excerpt": "I dati di Immobiliare.it Insights: quotazioni in crescita del 2%, spesa media di 2077 euro"
       },
       {
         "title": "Perché il titolo di CSPC Pharmaceutical è in forte rialzo oggi?",
@@ -394,34 +422,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-09-29T17:12:40.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "StarTech: Rodà (Uilm), non avviato percorso amministrazione straordinaria",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/startech-roda-uilm-non-avviato-percorso-amministrazione-straordinaria_9d59877b-ce14-4607-a94d-b5237addaf6e.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-29T16:57:03.000Z",
-        "excerpt": "Nonostante le assicurazioni del Ceo. Incontro al presidio davanti cancelli"
-      },
-      {
-        "title": "Il gas chiude in forte calo ad Amsterdam sotto i 70 euro (-4,9%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/il-gas-chiude-in-forte-calo-ad-amsterdam-sotto-i-70-euro-49_6ad18e0c-3ab8-450c-a2c8-b8c104c7e659.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-29T16:40:19.000Z",
-        "excerpt": "I future Ttf scendono a 69,81 euro al megawattora"
-      },
-      {
-        "title": "Enel: sconto del 50% sul prezzo dell’elettricità da aprile 2026. A2A: già attive offerte decennali al 50% ",
-        "link": "https://www.ilsole24ore.com/art/enel-annuncia-sconto-50percento-prezzo-dell-elettricita-AJT519SB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-29T16:23:00.000Z",
-        "excerpt": "Dopo lo sconto del 30% annunciato da Eni sui corrispettivi luce e gas rispetto alla principale offerta a prezzo fisso, con prezzo bloccato per due anni, anche altre..."
-      },
-      {
-        "title": "Lo spread Btp-Bund chiude a quota 100 sulla piattaforma di Borsa",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/29/lo-spread-btp-bund-chiude-a-quota-100-sulla-piattaforma-di-borsa_2545a9bb-31ac-4736-ac32-676b5866ee5f.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-29T16:14:15.000Z",
-        "excerpt": "Per Bloomberg a 99 punti base. Il rendimento aggiorna i massimi dal 2023 e supera il 4,6%"
       }
     ],
     "europa": [
@@ -667,6 +667,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Media Israele, 'emergenza su volo da Dubai a Tel Aviv, decollati jet israeliani'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/30/media-israele-emergenza-su-volo-da-dubai-a-tel-aviv-decollati-jet-israeliani_346aef30-6062-4196-bc14-96a276216b4b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-30T06:56:09.000Z",
+        "excerpt": "Ynet, sul volo della Flydubai circa 150 passeggeri"
+      },
       {
         "title": "Trump soppesa il divieto di esportazione di diesel per contenere i prezzi del carburante negli Stati Uniti, riferisce FT",
         "link": "https://www.investing.com/news/commodities-news/trump-weighs-diesel-export-ban-to-contain-us-fuel-prices-ft-reports-4924082",
@@ -986,6 +993,13 @@
   },
   "attualita": [
     {
+      "title": "++ Media Israele, 'emergenza su volo da Dubai a Tel Aviv, decollati jet israeliani' ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/09/30/media-israele-emergenza-su-volo-da-dubai-a-tel-aviv-decollati-jet-israeliani_621c1021-bd37-4686-8fbd-043493cf7eb5.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-30T06:45:13.000Z",
+      "excerpt": "Ynet, sul volo della Flydubai circa 150 passeggeri"
+    },
+    {
       "title": "Naza è una scossa. Bandiere pro Pal in sala e botteghino da record",
       "link": "https://www.repubblica.it/spettacoli/cinema/2026/09/30/news/naza_film_gaza_bandiere_pro_pal_in_sala_botteghino_da_record-425616028/",
       "source": "Repubblica",
@@ -1061,6 +1075,20 @@
       "source": "Repubblica",
       "pubDate": "2026-09-29T23:00:00.000Z",
       "excerpt": "I carabinieri che fecero i rilievi sono stati sentiti dai pm di Pavia. Il generale Garofano: “Ero informato ma non ho alcun ricordo”"
+    },
+    {
+      "title": "Sconto carburanti a rilento negli Ip si allinea anche Q8",
+      "link": "https://www.repubblica.it/economia/2026/09/30/news/sconto_carburanti_a_rilento_negli_ip_si_allinea_anche_q8-425615835/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T23:00:00.000Z",
+      "excerpt": ""
+    },
+    {
+      "title": "“Ho applicato il tetto ma ci rimettiamo. Contro il caos una vera liberalizzazione”",
+      "link": "https://www.repubblica.it/economia/2026/09/30/news/ho_applicato_il_tetto_ma_ci_rimettiamo_contro_il_caos_una_vera_liberalizzazione-425615803/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T23:00:00.000Z",
+      "excerpt": ""
     },
     {
       "title": "Giulio, lo strano italiano",
