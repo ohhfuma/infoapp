@@ -4,6 +4,20 @@
   "finanza": {
     "italia": [
       {
+        "title": "Robinhood lancia agenti AI per il trading automatizzato",
+        "link": "https://it.investing.com/news/stock-market-news/robinhood-lancia-agenti-ai-per-il-trading-automatizzato-3567734",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T00:06:49.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Google paga 100 editori per contenuti nelle ricerche basate sull’IA",
+        "link": "https://it.investing.com/news/stock-market-news/google-paga-100-editori-per-contenuti-nelle-ricerche-basate-sullia-93CH-3567729",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-29T23:54:48.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Perché il titolo di Vanda Pharmaceuticals è in rialzo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-vanda-pharmaceuticals-e-in-rialzo-oggi-93CH-3567721",
         "source": "Investing.com Italia",
@@ -521,6 +535,13 @@
     ],
     "mondo": [
       {
+        "title": "Bolivia, due unità d'élite antidroga al confine con il Brasile con l'aiuto degli Usa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/bolivia-due-unita-delite-antidroga-al-confine-con-il-brasile-con-laiuto_6d48a9f6-c5ea-491f-8bcf-fcf5b8266889.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-30T00:33:59.000Z",
+        "excerpt": "Saranno installate nei dipartimenti di Santa Cruz e Beni"
+      },
+      {
         "title": "Ecuador, 'una cella per Correa' se tornerà a Quito",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/ecuador-una-cella-per-correa-se-tornera-a-quito_ab74ee05-b769-4878-9c4c-e129174b7a8a.html",
         "source": "ANSA Mondo",
@@ -747,6 +768,41 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Guerra “Braccata in Egitto non tiratemi in ballo adesso, io chiedo solo giustizia”",
+      "link": "https://genova.repubblica.it/cronaca/2026/09/30/news/nessy_guerra_egitto_regeni-425615939/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T00:12:32.000Z",
+      "excerpt": "“Non voglio essere messa in correlazione alla vicenda di Regeni”"
+    },
+    {
+      "title": "Regeni, l’imbarazzo di Meloni: “Rischioso chiudere i canali con il Cairo”",
+      "link": "https://www.repubblica.it/politica/2026/09/30/news/sentenza_regeni_meloni_praga_governo_cosa_fare-425615863/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T23:00:00.000Z",
+      "excerpt": "La presidente del Consiglio parla a Praga dopo l’incontro con il premier Andrej Babis: “Anche noi cerchiamo la verità”"
+    },
+    {
+      "title": "Il silenzio del governo con la famiglia Regeni. “Ora aspettiamo i fatti”",
+      "link": "https://www.repubblica.it/politica/2026/09/30/news/familiari_regeni_indignati_parole_tajani-425615787/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T23:00:00.000Z",
+      "excerpt": "I genitori ribadiscono la richiesta di fermare subitoi rapporti diplomatici: “Abbiamo adesso una verità”"
+    },
+    {
+      "title": "Sentenza Regeni, la legale di Sharif: “Faremo appello e andremo alla Consulta”",
+      "link": "https://roma.repubblica.it/cronaca/2026/09/30/news/sentenza_regeni_legale_sharif_appello_consulta-425615559/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T23:00:00.000Z",
+      "excerpt": "Anna Lisa Ticconi, avvocata d’ufficio del maggiore egiziano condannato a 10 anni per il sequestro di Giulio Regeni, annuncia il ricorso e punta alla Consulta contro i limiti della riforma Cartabia: “Non credo nell’innoce"
+    },
+    {
+      "title": "Giulio, lo strano italiano",
+      "link": "https://www.repubblica.it/commenti/2026/09/30/news/regeni_italia_governo_sentenza_adinolfi-425615749/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-29T22:00:00.000Z",
+      "excerpt": ""
+    },
     {
       "title": "Di Battista: 'Mi hanno asportato un tumore, ora mi devo curare'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/09/29/di-battista-mi-hanno-asportato-un-tumore-ora-mi-devo-curare_7339e2ad-f004-4961-8e5e-ec0ca849671b.html",
