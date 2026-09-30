@@ -4,11 +4,39 @@
   "finanza": {
     "italia": [
       {
+        "title": "Goldman Sachs: questi titoli telecom sono acquisti difensivi nonostante il rischio AI",
+        "link": "https://it.investing.com/news/stock-market-news/goldman-sachs-questi-titoli-telecom-sono-acquisti-difensivi-nonostante-il-rischio-ai-3568446",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:50:49.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Elettricità, l’Europa manca i target sulle rinnovabili al 2030",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/09/30/news/elettricita_l_europa_manca_i_target_sulle_rinnovabili_al_2030-425616699/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-09-30T10:48:19.000Z",
+        "excerpt": "Entro la fine del decennio oltre l’80% della produzione sarà a zero emissioni, ma nell’Ue le fonti rinnovabili si fermeranno al 63,7%, contro il 65% previsto dal Fit for 55 e il 69% indicato da REPowerEU. Wood Mackenzie "
+      },
+      {
         "title": "Carburanti, prezzi in calo dopo gli sconti. Trump non esclude lo stop all'export di diesel",
         "link": "https://www.repubblica.it/economia/2026/09/30/news/carburanti_prezzi_in_calo_dopo_gli_sconti_trump_export_diesel-425616671/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-09-30T10:38:04.000Z",
         "excerpt": "Quotazioni medie in diminuzione ma dati a macchia di leopardo."
+      },
+      {
+        "title": "Dopo un utile superiore del 22% alle stime, questo titolo storage scelto dall’IA è salito del 34%",
+        "link": "https://it.investing.com/news/stock-market-news/dopo-un-utile-superiore-del-22-alle-stime-questo-titolo-storage-scelto-dallia-e-salito-del-34-3568411",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:35:00.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Il posizionamento azionario resta sovrappesato, ma i picchi estivi si sono allentati: Barclays",
+        "link": "https://it.investing.com/news/stock-market-news/il-posizionamento-azionario-resta-sovrappesato-ma-i-picchi-estivi-si-sono-allentati-barclays-3568404",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T10:34:36.000Z",
+        "excerpt": ""
       },
       {
         "title": "Bancomat e altri operatori creano hub europeo per pagamenti più autonomi e interconnessi",
@@ -394,34 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-09-30T08:12:54.000Z",
         "excerpt": "A Roma si prende l'auto meno spesso, ma per viaggi più lunghi. E alla fine si passa più tempo alla guida: 62,1 minuti al giorno per veicolo, contro i 52,6..."
-      },
-      {
-        "title": "Il titolo Juventus crolla ai minimi da un decennio per l’aumento di capitale",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-juventus-crolla-ai-minimi-da-un-decennio-per-laumento-di-capitale-3568057",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T08:08:43.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Carburanti, i prezzi scendono ma anche le quotazioni internazionali",
-        "link": "https://www.ilsole24ore.com/art/carburanti-prezzi-scendono-ma-anche-quotazioni-internazionali-AJ7MuoTB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T08:05:00.000Z",
-        "excerpt": "L’effetto del “tetto” ai prezzi di benzina e gasolio introdotto da Eni e Ip (da domani anche da Q8, mentre questa mattina il primo “retista”, Costantin, ha annunciato..."
-      },
-      {
-        "title": "La banca centrale svedese avverte sui rischi inflazionistici legati all’offerta",
-        "link": "https://it.investing.com/news/stock-market-news/la-banca-centrale-svedese-avverte-sui-rischi-inflazionistici-legati-allofferta-93CH-3568038",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T08:04:21.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Azioni Tullow crollano del 36% dopo vittoria del Ghana in disputa fiscale da $196,5 mln",
-        "link": "https://it.investing.com/news/stock-market-news/azioni-tullow-crollano-del-36-dopo-vittoria-del-ghana-in-disputa-fiscale-da-1965-mln-3568034",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T07:57:26.000Z",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -695,6 +695,20 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Offerta mattutina: dubbi su ottobre",
+        "link": "https://www.investing.com/news/commodities-news/morning-bid-october-doubts-4924623",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-30T10:54:50.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Gaza, nuove testimonianze di soldati Idf dopo Naza: “Uccidere persone non sembrava più grave”",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/gaza_nuove_testimonianze_di_soldati_idf_dopo_naza_uccidere_persone_non_sembrava_piu_grave-425616711/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-09-30T10:53:49.000Z",
+        "excerpt": "Tre militari israeliani hanno raccontato al quotidiano spagnolo “El País” le esperienze vissute nella Striscia. Hanno deciso di parlare dopo le critiche al documentario esplose in Israele"
+      },
       {
         "title": "Harry e Meghan contro i paparazzi vicino a scuola dei figli, 'irresponsabili'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/30/harry-e-meghan-contro-i-paparazzi-vicino-a-scuola-dei-figli-irresponsabili_6f02831c-a2f8-44fa-b513-cf59b8065070.html",
@@ -1100,30 +1114,37 @@
         "source": "Repubblica Esteri",
         "pubDate": "2026-09-29T18:48:04.000Z",
         "excerpt": "La sindaca di Marrakech è stata scelta dopo la vittoria del suo partito alle elezioni parlamentari del 23 settembre scorso"
-      },
-      {
-        "title": "Trump con gli ad di big tech, 'siamo molto allineati'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/29/trump-con-gli-ad-di-big-tech-siamo-molto-allineati_abecac11-28f8-4d37-ba05-54329ec62761.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-29T18:44:04.000Z",
-        "excerpt": "'Un onore lavorare con persone così intelligenti'"
-      },
-      {
-        "title": "Spagna, prima vittoria degli Indignados: Maricarmen torna a casa e sfratti sospesi fino al 2030",
-        "link": "https://www.repubblica.it/esteri/2026/09/29/news/spagna_maricarmen_vittoria_indignados_sfratti_sospesi_2030_sanchez-425615172/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-29T18:18:27.000Z",
-        "excerpt": "Ma il decreto approvato oggi dal Consiglio dei ministri dovrà essere votato venerdì dal Congresso: manca l’ok di Junts. Intanto gli attivisti restano in Puerta del Sol. Anche Ada Colau vittima del caro affitti: l’ex sind"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Gaza, nuove testimonianze di soldati Idf dopo Naza: “Uccidere persone non sembrava più grave”",
+      "link": "https://www.repubblica.it/esteri/2026/09/30/news/gaza_nuove_testimonianze_di_soldati_idf_dopo_naza_uccidere_persone_non_sembrava_piu_grave-425616711/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T10:49:33.000Z",
+      "excerpt": "Tre militari israeliani hanno raccontato al quotidiano spagnolo “El País” le esperienze vissute nella Striscia. Hanno deciso di parlare dopo le critiche al documentario esplose in Israele"
+    },
+    {
+      "title": "Carburanti, prezzi in calo dopo gli sconti. Trump non esclude lo stop all'export di diesel",
+      "link": "https://www.repubblica.it/economia/2026/09/30/news/carburanti_prezzi_in_calo_dopo_gli_sconti_trump_export_diesel-425616671/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T10:38:04.000Z",
+      "excerpt": "Quotazioni medie in diminuzione ma dati a macchia di leopardo."
+    },
     {
       "title": "Incidenti sul lavoro: un morto e un ferito gravissimo alla Fincantieri Ancona, una vittima a Milano",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/30/incidenti-sul-lavoro-un-morto-e-un-ferito-gravissimo-alla-fincantieri-ancona-una_9e828bbf-0deb-4489-88e2-12246eb45353.html",
       "source": "ANSA",
       "pubDate": "2026-09-30T10:35:10.000Z",
       "excerpt": "La vittima padre di famiglia aveva 55 anni. Fiammata forse durante durante lavori taglio"
+    },
+    {
+      "title": "Il Financial Times: 'Colloqui tra Trump e consiglieri per valutare uno stop all'export di gasolio'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/ft-colloqui-tra-trump-e-consiglieri-per-valutare-uno-stop-allexport-di-gasolio_db3cf0fd-77f8-481c-a150-4ee7ceb12961.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-30T10:26:15.000Z",
+      "excerpt": "Consultazioni per misure su crisi carburanti e rischi per elezioni di midterm"
     },
     {
       "title": "Balneari, il bando per le gare: concessioni fino a 20 anni, canone variabile e indennizzi",
@@ -1515,13 +1536,6 @@
       "link": "https://www.corriere.it/lettere-al-direttore/12-05-2024/index.shtml",
       "source": "Corriere della Sera",
       "pubDate": "2024-05-13T05:13:14.000Z",
-      "excerpt": ""
-    },
-    {
-      "title": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-      "link": "https://www.corriere.it/dataroom-milena-gabanelli/codice-strada-ecco-cosa-cambia-perche-non-ridurra-numero-vittime/a9ec82f6-0fb3-11ef-a8f0-a1f7c0d711f2-va.shtml",
-      "source": "Corriere della Sera",
-      "pubDate": "2024-05-13T04:05:06.000Z",
       "excerpt": ""
     }
   ],
