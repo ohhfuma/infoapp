@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T22:40:55.072Z",
+  "lastUpdated": "2026-09-30T23:07:13.871Z",
   "finanza": {
     "italia": [
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Cuba, in carcere il giornalista indipendente Henry Constantín",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/cuba-in-carcere-il-giornalista-indipendente-henry-constantin_07829537-a662-4f1c-bd1e-74f1738f7326.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-30T22:47:18.000Z",
+        "excerpt": "Il direttore di La Hora de Cuba è in custodia cautelare dal 16 settembre"
+      },
+      {
         "title": "La Russia attacca la rete energetica ucraina, costringendo le interruzioni di corrente mentre l'inverno incombe",
         "link": "https://www.investing.com/news/commodities-news/russia-hits-power-plants-kills-four-leaves-kyiv-under-smoke-4924426",
         "source": "Investing.com Commodities",
@@ -499,13 +506,6 @@
         "excerpt": ""
       },
       {
-        "title": "Latam eletta compagnia aerea dell'anno da Air Transport World",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/latam-eletta-compagnia-aerea-dellanno-da-air-transport-world_952ca4d4-652e-4da5-8f21-c46ef0bf1fbe.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-30T20:35:36.000Z",
-        "excerpt": "È la prima compagnia latinoamericana a ricevere il riconoscimento"
-      },
-      {
         "title": "Base Raf, Londra accusa l’Iran ma l’attacco resta un mistero",
         "link": "https://www.repubblica.it/esteri/2026/09/30/news/base_militare_di_fairford_tutti_i_misteri_presunto_attentato-425617325/?rss",
         "source": "Repubblica Esteri",
@@ -572,6 +572,20 @@
   },
   "attualita": [
     {
+      "title": "Vittorio Sgarbi ricoverato in terapia intensiva al Gemelli di Roma",
+      "link": "https://www.ansa.it/sito/notizie/cultura/2026/10/01/vittorio-sgarbi-ricoverato-in-terapia-intensiva-al-gemelli-di-roma_6894d528-7aab-4afb-9082-4e0533d05c8a.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-30T22:42:57.000Z",
+      "excerpt": "Secondo il sito 'ilgraffio.net' sarebbe in gravi condizioni"
+    },
+    {
+      "title": "++ Vittorio Sgarbi ricoverato al Gemelli di Roma ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/01/-vittorio-sgarbi-ricoverato-al-gemelli-di-roma-_05143b32-86a9-4234-b329-adbd3c0efb71.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-30T22:38:07.000Z",
+      "excerpt": "Secondo il sito 'ilgraffio.net' sarebbe in gravi condizioni in terapia intensiva"
+    },
+    {
       "title": "Vittorio Sgarbi ricoverato al Gemelli in terapia intensiva",
       "link": "https://www.repubblica.it/politica/2026/10/01/news/vittorio_sgarbi_ricoverato_al_gemelli_in_terapia_intensiva_gravi_condizioni-425618311/",
       "source": "Repubblica",
@@ -612,20 +626,6 @@
       "source": "Repubblica",
       "pubDate": "2026-09-30T20:07:00.000Z",
       "excerpt": ""
-    },
-    {
-      "title": "La rotta del volo Flydubai, dalla picchiata alla ripresa verso Tabuk",
-      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/09/30/la-rotta-del-volo-flydubai-dalla-picchiata-alla-ripresa-verso-tabuk_20d084bd-1bc5-423d-bfb6-a8ac6fd3ed3c.html",
-      "source": "ANSA",
-      "pubDate": "2026-09-30T19:54:13.000Z",
-      "excerpt": "Attimi di terrore sull'FZ1073 diretto a Tel Aviv dopo l’accoltellamento del comandante"
-    },
-    {
-      "title": "Piloti fuori servizio e passeggeri, gli eroi del volo FZ1073",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/30/piloti-fuori-servizio-e-passeggeri-gli-eroi-del-volo-fz1073_ced653ec-5b52-4152-86ea-be02a6823156.html",
-      "source": "ANSA",
-      "pubDate": "2026-09-30T19:29:27.000Z",
-      "excerpt": "Hanno bloccato l'assalitore e portato in salvo il volo, 'un miracolo grazie a loro'"
     },
     {
       "title": "Mattarella emana il decreto legge sulla scuola",
