@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-30T22:08:03.502Z",
+  "lastUpdated": "2026-09-30T22:40:55.072Z",
   "finanza": {
     "italia": [
+      {
+        "title": "I dirigenti tech mettono sotto pressione il CEO di Anthropic sull’AI",
+        "link": "https://it.investing.com/news/stock-market-news/i-dirigenti-tech-mettono-sotto-pressione-il-ceo-di-anthropic-sullai-3569600",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-09-30T22:03:21.000Z",
+        "excerpt": ""
+      },
       {
         "title": "Moody’s declassa Skillsoft a Caa2 per l’elevato debito",
         "link": "https://it.investing.com/news/stock-market-news/moodys-declassa-skillsoft-a-caa2-per-lelevato-debito-3569579",
@@ -56,13 +63,6 @@
         "link": "https://it.investing.com/news/stock-market-news/bernstein-individua-i-migliori-titoli-nel-networking-celestica-in-testa-3569537",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-30T20:42:01.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Nu Holdings sale del 6% dopo aver smentito l’acquisizione di Monzo",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-nu-holdings-sale-del-6-dopo-aver-smentito-lacquisizione-di-monzo-3569530",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T20:37:46.000Z",
         "excerpt": ""
       },
       {
@@ -401,18 +401,25 @@
     ],
     "mondo": [
       {
-        "title": "Nicaragua, appello all'Organizzazione degli Stati americani per l'asilo a vescovo Mata",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/nicaragua-appello-allorganizzazione-degli-stati-americani-per-lasilo-a-vescovo-mata_18af27ff-e7d4-4c68-ba35-ce938f0d688b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-09-30T21:57:47.000Z",
-        "excerpt": "Il rappresentante del prelato chiede un trasferimento umanitario in un Paese terzo"
+        "title": "La Russia attacca la rete energetica ucraina, costringendo le interruzioni di corrente mentre l'inverno incombe",
+        "link": "https://www.investing.com/news/commodities-news/russia-hits-power-plants-kills-four-leaves-kyiv-under-smoke-4924426",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-09-30T22:19:59.000Z",
+        "excerpt": ""
       },
       {
         "title": "Trump svela 200 miliardi di $ di investimenti sudcoreani in progetti statunitensi",
         "link": "https://www.investing.com/news/commodities-news/trump-expected-to-announce-54-billion-south-korea-investment-in-alaska-lng-sources-say-4925265",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-09-30T21:49:20.000Z",
+        "pubDate": "2026-09-30T22:01:47.000Z",
         "excerpt": ""
+      },
+      {
+        "title": "Nicaragua, appello all'Organizzazione degli Stati americani per l'asilo a vescovo Mata",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/30/nicaragua-appello-allorganizzazione-degli-stati-americani-per-lasilo-a-vescovo-mata_18af27ff-e7d4-4c68-ba35-ce938f0d688b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-09-30T21:57:47.000Z",
+        "excerpt": "Il rappresentante del prelato chiede un trasferimento umanitario in un Paese terzo"
       },
       {
         "title": "Banca Sviluppo, in America Latina deficit di 630 miliardi di dollari nei trasporti",
@@ -513,13 +520,6 @@
         "excerpt": ""
       },
       {
-        "title": "Bobine WTI di petrolio greggio superiori a 200 SMA a $89,29: livelli live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-95609773-resistance-wall-live-levels-93CH-4919472",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-09-30T19:18:30.000Z",
-        "excerpt": ""
-      },
-      {
         "title": "Dalla strage di Fiumicino al raid di Entebbe fino all’11 settembre: quando il terrore sale in aereo",
         "link": "https://www.repubblica.it/esteri/2026/09/30/news/dirottamenti_storia_strage_fiumicino_raid_entebbe_11_settembre-425617511/?rss",
         "source": "Repubblica Esteri",
@@ -571,6 +571,13 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Vittorio Sgarbi ricoverato al Gemelli in terapia intensiva",
+      "link": "https://www.repubblica.it/politica/2026/10/01/news/vittorio_sgarbi_ricoverato_al_gemelli_in_terapia_intensiva_gravi_condizioni-425618311/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T22:09:38.000Z",
+      "excerpt": "Sarebbe in gravi condizioni"
+    },
     {
       "title": "Arriva il parental control su WhatsApp, serve un Pin per modificarlo ",
       "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/09/30/arriva-il-parental-control-per-i-teenager-su-whatsapp-anche-in-italia_127783fe-26f4-4b74-a9de-7962555b01ba.html",
@@ -661,13 +668,6 @@
       "source": "ANSA",
       "pubDate": "2026-09-30T16:41:38.000Z",
       "excerpt": "Tutti lo ricordano tra gli ignavi di Dante, ma dal film di Re emerge un papa coraggioso"
-    },
-    {
-      "title": "Dagli “eroi” ai motivi del dirottatore: i punti oscuri del dirottamento del volo Flydubai",
-      "link": "https://www.repubblica.it/esteri/2026/09/30/news/volo_flydubai_punti_oscuri_mistero-425617473/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T16:25:18.000Z",
-      "excerpt": "Perché l’aereo non ha puntato sullo Stato ebraico? Gli uomini che hanno sventato il presunto attentato erano agenti dei servizi di sicurezza israeliani in incognito? Sono alcune delle domande ancora senza risposta sul ca"
     },
     {
       "title": "Etna, 'macchina del tempo' ricostruisce 160 anni di vita dei crateri sommitali",
