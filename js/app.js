@@ -4,221 +4,6 @@ let weatherInitialized = false;
 const historyCache = {};
 
 async function loadJSON(path) {
-  const res = await fetch(`$${path}?_=$${Date.now()}`, { cache: 'no-store' });
-  if (!res.ok) throw new Error(`HTTP $${res.status} su $${path}`);
-  return res.json();
-}
-
-async function loadJSONWithRetry(path, retries = 2, delayMs = 800) {
-  let lastError;
-  for (let i = 0; i <= retries; i++) {
-    try {
-      return await loadJSON(path);
-    } catch (e) {
-      lastError = e;
-      console.warn(`Tentativo $${i + 1} fallito per $${path}:`, e.message);
-      if (i < retries) await new Promise(r => setTimeout(r, delayMs));
-    }
-  }
-  throw lastError;
-}
-
-function formatDate(dateStr) {
-  if (!dateStr) return '';
-  const d = new Date(dateStr);
-  return d.toLocaleString('it-IT', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
-}
-
-function getExcerptOrPlaceholder(excerpt) {
-  if (excerpt && excerpt.trim()) return excerpt;
-  return "📰 Clicca per leggere l'articolo completo";
-}
-
-function renderNewsList(items, containerId) {
-  const container = document.getElementById(containerId);
-  if (!container) return;
-  if (!items || !items.length) {
-    container.innerHTML = '<p class="empty">Nessuna notizia disponibile.</p>';
-    return;
-  }
-  container.innerHTML = items.map(item => `
-    <article class="news-card">
-      <span class="source-tag">${item.source}</span>
-      <h3><a href="$${item.link}" target="_blank" rel="noopener noreferrer">$${item.title}</a></h3>
-      <p class="$${item.excerpt && item.excerpt.trim() ? '' : 'placeholder-text'}">$${getExcerptOrPlaceholder(item.excerpt)}</p>
-      <time>${formatDate(item.pubDate)}</time>
-    </article>
-  `).join('');
-}
-
-function renderFinanzaRegions(finanzaData) {
-  const regions = ['italia', 'europa', 'usa', 'mondo'];
-  regions.forEach(region => {
-    renderNewsList(finanzaData ? finanzaData[region] : [], `finanza-${region}-list`);
-  });
-}
-
-function switchFinanzaRegion(region) {
-  currentFinanzaRegion = region;
-  document.querySelectorAll('.sub-tab-btn').forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.region === region);
-  });
-  document.querySelectorAll('.region-panel').forEach(panel => {
-    panel.classList.toggle('active', panel.id === `finanza-${region}-list`);
-  });
-}
-
-function renderCinema(data) {
-  const container = document.getElementById('cinema-list');
-  container.innerHTML = `
-    <div class="cinema-card">
-      <h2>🎬 UCI Cinemas Lissone</h2>
-      <p>La programmazione aggiornata (film, orari, prenotazioni) è disponibile direttamente sul sito ufficiale.</p>
-      <a href="${data.sourceUrl}" target="_blank" rel="noopener noreferrer" class="cinema-btn">
-        Vedi programmazione completa →
-      </a>
-    </div>
-    <div class="cinema-card">
-      <h2>🍿 Prossime uscite al cinema</h2>
-      <p>Scopri tutti i film in arrivo nelle sale italiane, trailer e recensioni su ComingSoon.it.</p>
-      <a href="https://www.comingsoon.it/film/al-cinema/" target="_blank" rel="noopener noreferrer" class="cinema-btn">
-        Vedi prossime uscite →
-      </a>
-    </div>
-  `;
-}
-
-function switchTab(tab) {
-  document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
-  document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
-  document.getElementById(tab).classList.add('active');
-  document.querySelector(`[data-tab="${tab}"]`).classList.add('active');
-
-  const sidebar = document.getElementById('history-sidebar');
-  if (tab === 'cinema' || tab === 'meteo') {
-    sidebar.classList.add('hidden');
-  } else {
-    sidebar.classList.remove('hidden');
-  }
-
-  if (tab === 'meteo' && !weatherInitialized) {
-    weatherInitialized = true;
-    initWeather();
-  }
-}
-
-async function loadAllData() {
-  currentHistoryDate = null;
-  try {
-    const news = await loadJSONWithRetry('data/news.json');
-    renderFinanzaRegions(news.finanza);
-    renderNewsList(news.attualita, 'attualita-list');
-    renderNewsList(news.sport, 'sport-list');
-    document.getElementById('last-update').textContent = 'Ultimo aggiornamento: ' + formatDate(news.lastUpdated);
-  } catch (e) {
-    console.error('Errore caricamento news.json:', e);
-    document.getElementById('last-update').textContent = 'Errore caricamento notizie (' + e.message + ')';
-  }
-
-  try {
-    const cinema = await loadJSONWithRetry('data/cinema.json');
-    renderCinema(cinema);
-  } catch (e) {
-    console.error('Errore caricamento cinema.json:', e);
-    document.getElementById('cinema-list').innerHTML = '<p class="empty">Errore caricamento cinema</p>';
-  }
-
-  updateHistoryActiveState();
-}
-
-async function loadHistoryIndex() {
-  try {
-    const idx = await loadJSONWithRetry('data/history/index.json');
-    renderHistorySidebar(idx.dates || []);
-  } catch (e) {
-    console.error('Errore caricamento history/index.json:', e);
-    document.getElementById('history-list').innerHTML = '<li class="empty-small">Storico non ancora disponibile</li>';
-  }
-}
-
-function renderHistorySidebar(dates) {
-  const list = document.getElementById('history-list');
-  let html = `<li><button class="history-btn" data-date="today">📌 Oggi</button></li>`;
-  html += dates
-    .filter(d => d.date !== getTodayKeyGuess())
-    .map(d => `<li><button class="history-btn" data-date="$${d.date}">$${d.label}</button></li>`)
-    .join('');
-  list.innerHTML = html;
-  list.querySelectorAll('.history-btn').forEach(btn => {
-    btn.addEventListener('click', () => selectHistoryDate(btn.dataset.date));
-  });
-  updateHistoryActiveState();
-}
-
-function getTodayKeyGuess() {
-  return new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Rome' }).format(new Date());
-}
-
-async function selectHistoryDate(dateKey) {
-  if (dateKey === 'today') {
-    await loadAllData();
-    return;
-  }
-
-  currentHistoryDate = dateKey;
-  try {
-    let data = historyCache[dateKey];
-    if (!data) {
-      data = await loadJSONWithRetry(`data/history/${dateKey}.json`);
-      historyCache[dateKey] = data;
-    }
-    renderFinanzaRegions(data.finanza);
-    renderNewsList(data.attualita, 'attualita-list');
-    renderNewsList(data.sport, 'sport-list');
-    document.getElementById('last-update').textContent = `📅 Notizie del: ${data.label || dateKey}`;
-  } catch (e) {
-    console.error('Errore caricamento storico:', e);
-    document.getElementById('last-update').textContent = 'Errore caricamento storico';
-  }
-  updateHistoryActiveState();
-}
-
-function updateHistoryActiveState() {
-  document.querySelectorAll('.history-btn').forEach(btn => {
-    const isToday = btn.dataset.date === 'today' && currentHistoryDate === null;
-    const isMatch = btn.dataset.date === currentHistoryDate;
-    btn.classList.toggle('active', isToday || isMatch);
-  });
-}
-
-async function handleRefresh() {
-  const btn = document.getElementById('refresh-btn');
-  btn.disabled = true;
-  btn.textContent = '⏳ Aggiornamento...';
-  await loadAllData();
-  await loadHistoryIndex();
-  btn.textContent = '✅ Fatto!';
-  setTimeout(() => {
-    btn.textContent = '🔄 Aggiorna';
-    btn.disabled = false;
-  }, 1500);
-}
-
-/* ========== MODULO METEO ========== */
-
-const WEATHER_STORAGE_KEY = 'infoapp_weather_location';
-const DEFAULT_LOCATION = { name: 'Lissone', admin1: 'Lombardia', country: 'Italia', latitude: 45.6153, longitude: 9.2373 };
-
-const WEATHER_CODES = {
-  0: { icon: '☀️', label: 'Sereno' },
-  1: { icon: '🌤️', label: 'Prevalentemente sere
-cat << 'EOF' > js/app.js
-let currentHistoryDate = null;
-let currentFinanzaRegion = 'italia';
-let weatherInitialized = false;
-const historyCache = {};
-
-async function loadJSON(path) {
   const res = await fetch(`${path}?_=${Date.now()}`, { cache: 'no-store' });
   if (!res.ok) throw new Error(`HTTP ${res.status} su ${path}`);
   return res.json();
@@ -557,8 +342,16 @@ async function handleWeatherSearch() {
   }
 }
 
+function handleWeatherReset() {
+  localStorage.removeItem(WEATHER_STORAGE_KEY);
+  document.getElementById('weather-results').innerHTML = '';
+  document.getElementById('weather-search-input').value = '';
+  loadForecastFor(DEFAULT_LOCATION);
+}
+
 function initWeather() {
   document.getElementById('weather-search-btn').addEventListener('click', handleWeatherSearch);
+  document.getElementById('weather-reset-btn').addEventListener('click', handleWeatherReset);
   document.getElementById('weather-search-input').addEventListener('keypress', (e) => {
     if (e.key === 'Enter') handleWeatherSearch();
   });
