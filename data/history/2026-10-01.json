@@ -4,6 +4,90 @@
   "finanza": {
     "italia": [
       {
+        "title": "Eurotech firma per acquisizione ramo d'azienda Vem Solutions",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/eurotech-firma-per-acquisizione-ramo-dazienda-vem-solutions_1da02c66-1578-44ba-af96-bbc620f12447.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T06:43:21.000Z",
+        "excerpt": "Operazione rafforzerà piattaforma industriale del Gruppo"
+      },
+      {
+        "title": "Borsa: l'Asia corre coi tecnologici, tregua sui bond con il petrolio",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-lasia-corre-coi-tecnologici-tregua-sui-bond-con-il-petrolio_9ad86e8e-7d46-4ecc-a1ef-2d58c79e4bc3.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T06:41:43.000Z",
+        "excerpt": "In rialzo i future Usa dopo i conti di Micron,"
+      },
+      {
+        "title": "Al via Polaris+, 25 milioni euro per formazione e orientamento scuole in ambito Stem",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/al-via-polaris-25-milioni-euro-per-formazione-e-orientamento-scuole-in-ambito-stem_69c21c8b-2e57-469a-a159-36385d85e609.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T06:40:47.000Z",
+        "excerpt": "Bando Fondo per la Repubblica Digitale per colmare carenza italiane"
+      },
+      {
+        "title": "Prezzo dell'oro in rialzo a 4191 dollari l'oncia",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/prezzo-delloro-in-rialzo-a-4191-dollari-loncia_b83ff8e3-a23c-4de5-a4bf-c9789a20496b.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T06:35:10.000Z",
+        "excerpt": "Aumento dello 0,81%"
+      },
+      {
+        "title": "Ottobre inizia con il tech in rialzo",
+        "link": "https://it.investing.com/news/stock-market-news/ottobre-inizia-con-il-tech-in-rialzo-3569769",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T06:35:07.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "L'euro apre stabile sul dollaro a 1,134",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/leuro-apre-stabile-sul-dollaro-a-1134_93ec49f5-2baa-4a98-be35-b886ed5f78df.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T06:33:10.000Z",
+        "excerpt": "Biglietto verde si rafforza rispetto allo yen"
+      },
+      {
+        "title": "PZ Cussons mantiene le previsioni di utile dopo una crescita delle vendite del 4,5% nel primo trimestre",
+        "link": "https://it.investing.com/news/stock-market-news/pz-cussons-mantiene-le-previsioni-di-utile-dopo-una-crescita-delle-vendite-del-45-nel-primo-trimestre-93CH-3569756",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T06:27:46.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Petrolio apre in calo, Wti sotto quota 90 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/petrolio-apre-in-calo-wti-sotto-quota-90-dollari_efe9ad4c-3529-4307-bc39-4e6af23c865e.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T06:23:58.000Z",
+        "excerpt": "Brent scende a 97,1"
+      },
+      {
+        "title": "Topps Tiles: utile annuale in linea con le attese, ricavi -1,3%",
+        "link": "https://it.investing.com/news/stock-market-news/topps-tiles-utile-annuale-in-linea-con-le-attese-ricavi-13-3569745",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T06:20:58.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Pandora: la domanda USA si stabilizza con l’inflazione che pesa sui consumatori",
+        "link": "https://it.investing.com/news/stock-market-news/pandora-la-domanda-usa-si-stabilizza-con-linflazione-che-pesa-sui-consumatori-93CH-3569738",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T06:15:35.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Perché il titolo Suncorp sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-suncorp-sta-scendendo-oggi-93CH-3569736",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T06:11:08.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Le azioni di Suncorp in calo dopo aver smentito trattative con Tokio Marina",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-suncorp-in-calo-dopo-aver-smentito-trattative-con-tokio-marina-3569734",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T06:09:36.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Rischio geopolitico delle imprese, la Luiss rilancia l’osservatorio per misurarlo",
         "link": "https://www.ilsole24ore.com/art/rischio-geopolitico-imprese-luiss-rilancia-l-osservatorio-misurarlo-AJre0jUB",
         "source": "Il Sole 24 Ore",
@@ -338,90 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-09-30T20:42:01.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Nu Holdings sale del 6% dopo aver smentito l’acquisizione di Monzo",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-nu-holdings-sale-del-6-dopo-aver-smentito-lacquisizione-di-monzo-3569530",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T20:37:46.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il governo tratta con Tamoil per il tetto ai carburanti. Incognita Trump sul diesel",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/il_governo_tratta_con_tamoil_per_il_tetto_ai_carburanti_incognita_trump_sul_diesel-425618172/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T20:07:00.000Z",
-        "excerpt": "Altro giorno di ribassi ma la Casa Bianca valuta lo stop all’export di gasolio. Bruxelles: vendite previste dall’accordo sui dazi"
-      },
-      {
-        "title": "Prezzi dei carburanti in calo, ma resta il divario col price cap",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/prezzi-dei-carburanti-in-calo-ma-resta-il-divario-col-price-cap_b7f3a082-a4bf-4216-9a3c-3bfbef441045.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T19:37:59.000Z",
-        "excerpt": "Pompe bianche: 'Noi danneggiati'. Pichetto: 'Serve responsabilità'. Pescatori in rivolta"
-      },
-      {
-        "title": "Decreto scuola firmato dal Quirinale, salta il fondo per i dipendenti del Ministero dell’Istruzione",
-        "link": "https://www.ilsole24ore.com/art/decreto-scuola-firmato-quirinale-salta-fondo-i-dipendenti-ministero-dell-istruzione-AJBSpfUB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T19:28:00.000Z",
-        "excerpt": "Dopo sei giorni di limature supplementari arriva la firma del Quirinale in calce al decreto scuola approvato dal Consiglio dei ministri giovedì 24 settembre. Il provvedimento in 15..."
-      },
-      {
-        "title": "Inflazione, Meloni scrive a Von der Leyen: serve più flessibilità. Carburanti, anche Tamoil verso il price cap",
-        "link": "https://www.ilsole24ore.com/art/inflazione-meloni-scrive-von-der-leyen-serve-piu-flessibilita-carburanti-anche-tamoil-il-price-cap-AJ7E4UUB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-09-30T19:21:10.000Z",
-        "excerpt": "Nel giorno in cui l’Istat certifica un’inflazione volata al +4,2% su base annua (da +3,3% di agosto) Giorgia Meloni prende di nuovo carta e penna e scrive a..."
-      },
-      {
-        "title": "Bf, nel semestre il valore della produzione supera 1,2 miliardi: +43% con il gruppo Martini",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/bf_spa_semestre_valore_produzione_gruppo_martini-425617847/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T18:44:07.000Z",
-        "excerpt": "La holding di partecipazioni attiva nella filiera agroindustriale ha visto l’utile salire da 2 a 24 milioni di euro: crescita “imputabile alla variazione del perimetro di consolidamento, oltre agli effetti di integrazion"
-      },
-      {
-        "title": "Pichetto, 'idrogeno fondamentale per la neutralità climatica dell'Italia al 2050'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/pichetto-idrogeno-fondamentale-per-la-neutralita-climatica-dellitalia-al-2050_8b43caa4-ee69-4c93-ac28-81719c9b4deb.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T18:30:23.000Z",
-        "excerpt": "Bilaterale del ministro ad Algeri con l'omologo Mourad Adjal"
-      },
-      {
-        "title": "Si allarga il caro prezzi, sale la spesa per le famiglie",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/si-allarga-il-caro-prezzi-sale-la-spesa-per-le-famiglie_24cda674-035f-4882-a714-928e1ea347de.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T18:09:48.000Z",
-        "excerpt": "Gas sul mercato tutelato +47,2%, diesel +34,9%. Alimentari freschi +5,5%"
-      },
-      {
-        "title": "Volkswagen cancella i contratti aziendali, a rischio bonus e 35 ore. IgMetall: “Battaglia feroce”",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/volkswagen_contratti_aziendali_rischio_bonus_35_ore_igmetall_battaglia-425617684/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T17:43:40.000Z",
-        "excerpt": "L’azienda punta a risparmiare intaccando anche il costo del personale e ha comunicato al consiglio di fabbrica la disdetta di dieci contratti su tredici, tra cui l’accordo-quadro (Haustarif). La leader del consiglio di f"
-      },
-      {
-        "title": "Autostrade per l’Italia, riorganizzazione del ramo ingegneria: Tecne confluirà in Amplia",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/aspi_riorganizzazione_ingengneria_costruzioni_tecne_amplia-425617691/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T17:43:31.000Z",
-        "excerpt": "Cinquecento tecnici e ingegneri si uniranno alla società del gruppo Aspi che si occupa di costruzione e manutenzione delle infrastrutture"
-      },
-      {
-        "title": "Meloni scrive a von der Leyen, a causa dell'inflazione serve più flessibilità",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/09/30/meloni-scrive-a-von-der-leyen-a-causa-dellinflazione-serve-piu-flessibilita_16970057-cbd6-4c38-a781-3e9ac3d61a14.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-09-30T17:42:23.000Z",
-        "excerpt": "\"Il tema va affrontato all'Ecofin e al Consiglio Ue, aiutiamo famiglie e imprese\""
-      },
-      {
-        "title": "Ddl Concorrenza, la lite sui bilanci fra commercialisti e consulenti spacca la maggioranza",
-        "link": "https://www.repubblica.it/economia/2026/09/30/news/ddl_concorrenza_la_lite_sui_bilanci_fra_commercialisti_e_consulenti_spacca_la_maggioranza-425617670/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-09-30T17:34:33.000Z",
-        "excerpt": "Da una parte il deputato della Lega, dall’altra la senatrice di FdI. Il testo della norma non è stato scritto dal ministero di Urso. Ed è arrivato a Chigi senza quella norma. Una manina l’ha inserita dopo"
       }
     ],
     "europa": [
@@ -604,6 +604,13 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Francia, si infiammano le proteste degli studenti: oltre 600 fermi e 80 agenti feriti",
+        "link": "https://www.repubblica.it/esteri/2026/10/01/news/francia_proteste_studenti_fermi_agenti_feriti-425618497/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-01T06:42:20.000Z",
+        "excerpt": "Partite dai liceali, le manifestazioni denunciano la mancanza di insegnanti, le classi sovraffollate, gli edifici degradati. Accesi scontri con le forze dell’ordine. Tensioni tra governo e sinistra radicale"
+      },
       {
         "title": "Una rissa tra piloti, poi una rapida discesa: i passeggeri raccontano il caos sul volo flydubai",
         "link": "https://www.investing.com/news/commodities-news/a-pilot-brawl-then-a-rapid-descent-passengers-recount-chaos-on-flydubai-flight-4925642",
@@ -895,6 +902,13 @@
   },
   "attualita": [
     {
+      "title": "Schiavitù e violenza sessuale, scoperta una setta nel Torinese",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/01/schiavitu-e-violenza-sessuale-scoperta-una-setta-nel-torinese_9d558b63-9912-4ebf-a731-3db030c575b4.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-01T06:31:25.000Z",
+      "excerpt": "Arrestato un uomo di 59 anni, indagine dei carabinieri"
+    },
+    {
       "title": "Fallita l'esecuzione capitale di Christa Pike in Tennessee",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/01/fallita-lesecuzione-capitale-di-christa-pike-in-tennessee_081e457a-3905-4351-9a1a-30686aaf1a9b.html",
       "source": "ANSA",
@@ -935,6 +949,13 @@
       "source": "Repubblica",
       "pubDate": "2026-10-01T04:00:00.000Z",
       "excerpt": "The company’s chairman and CEO explains why he decided to open its flagship store on Fifth Avenue, in the former home of the legendary FAO Schwarz toy store: “I used to go there with my father when I was a child. It’s th"
+    },
+    {
+      "title": "Roberto Vannacci: The General Who Flirts With Putin’s Russia — and Could Cost Meloni the Election",
+      "link": "https://europe.repubblica.it/en/news/2026/10/01/news/vannacci_italy_far_right_general_russia_meloni_putin-425617060/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T04:00:00.000Z",
+      "excerpt": "In just three years, the former special forces commander who has no qualms about echoing Mussolini has gone from obscurity to the European Parliament and the leadership of a new far-right party. Behind his rise is a netw"
     },
     {
       "title": "Il genetista Fabbri: “Noi consulenti di Stasi all’oscuro delle analisi: quei Ris vanno puniti”",
