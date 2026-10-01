@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-10-01T16:39:30.224Z",
+  "lastUpdated": "2026-10-01T16:41:04.732Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Perché il titolo Cars.com sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-carscom-sta-scendendo-oggi-93CH-3571233",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T16:32:36.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "OpenAI licenzia tre ricercatori per condivisione di dati sensibili",
+        "link": "https://it.investing.com/news/stock-market-news/openai-licenzia-tre-ricercatori-per-condivisione-di-dati-sensibili-3571234",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T16:31:44.000Z",
+        "excerpt": ""
+      },
       {
         "title": "Torna EurHop a Roma: 88 birrifici artigianali da 9 Paesi e 800 birre in degustazione",
         "link": "https://www.ilsole24ore.com/art/torna-eurhop-roma-88-birrifici-artigianali-9-paesi-e-800-birre-degustazione-AJKRIgVB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-01T16:28:58.000Z",
         "excerpt": "Ottantotto birrifici da nove Paesi stranieri e da quasi tutta l’Italia si ritroveranno a Roma dal 9 all’11 ottobre per “EurHop – Roma Beer Festival”, il Salone internazionale della birra..."
+      },
+      {
+        "title": "Il gas chiude in modesta crescita a 72,7 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/il-gas-chiude-in-modesta-crescita-a-727-euro_03b78eb2-4c6f-4a53-bc42-98f19ba7714f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T16:24:18.000Z",
+        "excerpt": "Ad Amsterdam Ttf +0,53%"
       },
       {
         "title": "Draghi: “L’Europa metta al centro la crescita. No a tassi troppo alti”",
@@ -136,13 +157,6 @@
         "excerpt": "Dal 1980 al 2025 quasi 500mila interventi sanitari nei grandi eventi. Di questi, oltre 22mila erano legati alle temperature estreme"
       },
       {
-        "title": "Lo spread Btp-Bund corre oltre 118 punti base",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lo-spread-btp-bund-corre-oltre-118-punti-base_d3bfe4ef-0973-42af-a1fe-6dc7f0b919be.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-01T15:38:17.000Z",
-        "excerpt": "Salgono i rendimenti"
-      },
-      {
         "title": "Barilla e Legambiente insieme per prendersi cura del territorio",
         "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/le-storie/2026/10/01/news/barilla_e_legambiente_insieme_per_prendersi_cura_del_territorio-425619723/?rss",
         "source": "Repubblica Economia",
@@ -169,20 +183,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-01T15:09:22.000Z",
         "excerpt": "L’occupazione ad agosto resta sui massimi (24 milioni e 352mila occupati), ma rallenta rispetto a luglio (-5mila): per il quarto mese di seguito l’Istat registra una frenata. Allo stesso tempo..."
-      },
-      {
-        "title": "Wells Fargo rialzista su BP, declassa Exxon Mobil per gap di valutazione",
-        "link": "https://it.investing.com/news/stock-market-news/wells-fargo-rialzista-su-bp-declassa-exxon-mobil-per-gap-di-valutazione-3571185",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T15:05:44.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo di Toronto-Dominion Bank scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-torontodominion-bank-scende-oggi-93CH-3571179",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T15:04:14.000Z",
-        "excerpt": ""
       },
       {
         "title": "Fisco e risparmio, Italia in fuorigioco su Pir e obbligazioni: la Ue apre le infrazioni",
@@ -396,6 +396,62 @@
         "link": "https://www.investing.com/news/economy-news/microns-aidriven-outlook-nike-to-report--whats-moving-markets-4926463",
         "source": "Investing.com USA",
         "pubDate": "2026-10-01T07:50:34.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Deutsche Bank prevede che l'S&P 500 raggiungerà i 7000 entro la fine del 2025",
+        "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-forecasts-sp-500-to-hit-7000-by-end-of-2025-3741586",
+        "source": "Investing.com USA",
+        "pubDate": "2024-11-26T10:47:35.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Le tariffe di Trump, i verbali della Fed, l'acquisto di Bitcoin di Rumble: cosa sta muovendo i mercati",
+        "link": "https://www.investing.com/news/economy/trumps-tariffs-fed-minutes-rumbles-bitcoin-buy--whats-moving-markets-3741453",
+        "source": "Investing.com USA",
+        "pubDate": "2024-11-26T08:55:17.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Le prospettive macroeconomiche per il 2025 per gli Stati Uniti sono \"oscure nella migliore delle ipotesi\", afferma Deutsche Bank",
+        "link": "https://www.investing.com/news/economy/2025-macro-outlook-for-the-us-is-murky-at-best-says-deutsche-bank-3741435",
+        "source": "Investing.com USA",
+        "pubDate": "2024-11-26T08:26:03.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Prezzo del bitcoin oggi: scivola a $94k mentre la propensione al rischio si inasprisce sulla minaccia tariffaria di Trump",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-to-94k-as-risk-appetite-sours-on-trump-tariff-threat-3741330",
+        "source": "Investing.com USA",
+        "pubDate": "2024-11-26T06:22:06.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Le azioni asiatiche diminuiscono dopo che Trump minaccia le tariffe, il Nikkei giapponese guida le perdite",
+        "link": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-after-trump-threatens-tariffs-japans-nikkei-leads-losses-3741249",
+        "source": "Investing.com USA",
+        "pubDate": "2024-11-26T03:31:51.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "I livelli di posizionamento dell'S&P 500 ai massimi storici, aumentano i rischi di pullback, avverte Citi",
+        "link": "https://www.investing.com/news/stock-market-news/sp-500-positioning-levels-at-record-highs-pullback-risks-rise-citi-warns-3741245",
+        "source": "Investing.com USA",
+        "pubDate": "2024-11-26T03:26:47.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Trump dice che imporrà ulteriori tariffe del 10% sulla Cina per l'afflusso di droga",
+        "link": "https://www.investing.com/news/politics/trump-says-he-will-impose-additional-10-tariffs-on-china-over-drug-inflow-3741069",
+        "source": "Investing.com USA",
+        "pubDate": "2024-11-26T00:01:07.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "L'analista chiama Bitcoin \"bolla globale\", potrebbe salire all'infinito",
+        "link": "https://www.investing.com/news/cryptocurrency-news/analyst-calls-bitcoin-global-bubble-could-soar-to-infinity-3740406",
+        "source": "Investing.com USA",
+        "pubDate": "2024-11-25T18:20:45.000Z",
         "excerpt": ""
       }
     ],
