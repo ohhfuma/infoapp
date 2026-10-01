@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "Borsa: Tokyo, apertura in aumento (+0,70%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-tokyo-apertura-in-aumento-070_f00c214c-c440-41c4-a563-3c36f9f93f18.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T00:42:25.000Z",
+        "excerpt": "Titoli tecnologici trainanti, yen più forte sul dollaro"
+      },
+      {
+        "title": "Transurban acquisisce quote autostradali a Sydney per 4,5 miliardi",
+        "link": "https://it.investing.com/news/stock-market-news/transurban-acquisisce-quote-autostradali-a-sydney-per-45-miliardi-3569632",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T00:25:38.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Paramount e Warner Bros. Discovery prevedono fusione per il 6 ottobre",
+        "link": "https://it.investing.com/news/stock-market-news/paramount-e-warner-bros-discovery-prevedono-fusione-per-il-6-ottobre-3569630",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T00:19:14.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Lettera di Lovaglio al cda Generali “Costruiamo un progetto comune”",
         "link": "https://www.repubblica.it/economia/2026/10/01/news/lettera_lovaglio_cda_generali_progetto_comune-425618309/?rss",
         "source": "Repubblica Economia",
@@ -451,6 +472,13 @@
     ],
     "mondo": [
       {
+        "title": "California, danni cerebrali per decine di persone: chiudono per sempre le montagne russe X2",
+        "link": "https://www.repubblica.it/esteri/2026/10/01/news/california_montagne_russe_danni_cerebrali-425618385/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-01T00:11:35.000Z",
+        "excerpt": "Quattro anni fa un ragazzo di 22 anni era morto dopo un giro su una delle giostre più spettacolari del mondo"
+      },
+      {
         "title": "Colombia, ripartono i lavori per il supercarcere Renacer",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/colombia-ripartono-i-lavori-per-il-supercarcere-renacer_6c0c9bb3-3e78-43d1-a584-c53fa6ff615c.html",
         "source": "ANSA Mondo",
@@ -692,6 +720,13 @@
   },
   "attualita": [
     {
+      "title": "“Con lo stipendio da autista ho rinunciato al sogno di far studiare mio figlio”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/01/news/piccoli_salari_autista_autobus-425618228/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T00:00:00.000Z",
+      "excerpt": "Mario Scolastico, 50 anni, guida i bus: “Guadagno 1780 euro.Lavoro rischioso, faccio gli straordinari e ho tagliato cene e vacanze”"
+    },
+    {
       "title": "“Giulio ha avuto giustizia, ora l’Italia non si pieghi ai ricatti dell’Egitto di al Sisi”",
       "link": "https://www.repubblica.it/politica/2026/10/01/news/genitori_regeni_giulio_giustizia_italia_ricatti_egitto_intervista-425618220/",
       "source": "Repubblica",
@@ -704,6 +739,27 @@
       "source": "Repubblica",
       "pubDate": "2026-09-30T23:00:00.000Z",
       "excerpt": "Apertura di Foti, costretto a precisare. Palazzo Chigi smentisce i media del Cairo: nessun incontro riservato prima dell’udienza finale"
+    },
+    {
+      "title": "Bollette, tante offerte anti-rincari. Ma vince la tariffa a costo fisso",
+      "link": "https://www.repubblica.it/economia/2026/10/01/news/bollette_offerte_rincari_prezzo_fisso-425618261/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T23:00:00.000Z",
+      "excerpt": "Dopo l’ultimo adeguamento indicato dall’Arera torna competitivo il mercato libero. Gli operatori propongono nuovi contratti scontati, però in linea con i prezzi di sei mesi fa"
+    },
+    {
+      "title": "Bollette, l’esperta Benedettini: “Ogni settimana le offerte vanno riviste. Il cliente sa informarsi”",
+      "link": "https://www.repubblica.it/economia/2026/10/01/news/bollette_esperta_simona_benedettini_offerte-425618267/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T23:00:00.000Z",
+      "excerpt": "La fondatrice di Race Consulting: “Per l’inverno saranno decisivi i consumi di gas, le temperature e la tenuta degli stoccaggi”"
+    },
+    {
+      "title": "Lusetti (Confcom): “Prossimi mesi difficili, aiutiamo le famiglie”",
+      "link": "https://www.repubblica.it/economia/2026/10/01/news/lusetti_confcom_prossimi_mesi_difficili_aiutiamo_le_famiglie-425618118/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T23:00:00.000Z",
+      "excerpt": "“L’esecutivo deve metterci in condizioni di investire sulle rinnovabili. Noi acceleriamo sul rinnovo dei contratti contro il carovita"
     },
     {
       "title": "Vittorio Sgarbi ricoverato in terapia intensiva al Gemelli di Roma",
