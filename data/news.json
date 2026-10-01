@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-01T00:48:16.494Z",
+  "lastUpdated": "2026-10-01T01:10:19.776Z",
   "finanza": {
     "italia": [
+      {
+        "title": "I futures azionari USA salgono dopo i risultati di Micron",
+        "link": "https://it.investing.com/news/stock-market-news/i-futures-azionari-usa-salgono-dopo-i-risultati-di-micron-3569636",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T00:43:51.000Z",
+        "excerpt": ""
+      },
       {
         "title": "Borsa: Tokyo, apertura in aumento (+0,70%)",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-tokyo-apertura-in-aumento-070_f00c214c-c440-41c4-a563-3c36f9f93f18.html",
@@ -105,13 +112,6 @@
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-nu-holdings-e-in-rialzo-nellafterhours-oggi-93CH-3569544",
         "source": "Investing.com Italia",
         "pubDate": "2026-09-30T20:48:10.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Movers after-hours: GOOGL, MU, CEG, NU",
-        "link": "https://it.investing.com/news/stock-market-news/movers-afterhours-googl-mu-ceg-nu-432SI-3569539",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T20:45:04.000Z",
         "excerpt": ""
       },
       {
@@ -401,6 +401,13 @@
     ],
     "mondo": [
       {
+        "title": "Usa, la Corte Suprema dà il via libera all’esecuzione di Christa Pike",
+        "link": "https://www.repubblica.it/esteri/2026/10/01/news/corte_suprema_usa_esecuzione_pena_morte_christa_pike-425618389/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-01T01:00:59.000Z",
+        "excerpt": "È la prima persona nella storia moderna americana a venire giustiziata per un crimine commesso quando aveva 18 anni"
+      },
+      {
         "title": "California, danni cerebrali per decine di persone: chiudono per sempre le montagne russe X2",
         "link": "https://www.repubblica.it/esteri/2026/10/01/news/california_montagne_russe_danni_cerebrali-425618385/?rss",
         "source": "Repubblica Esteri",
@@ -469,13 +476,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "2026-09-30T23:00:00.000Z",
         "excerpt": "Gli ultimi soldati degli Stati Uniti lasciano l’Iraq dopo 23 anni di guerre e operazioni anti-terrorismo. Ma il bilancio è amaro"
-      },
-      {
-        "title": "A Rio più gadget che passione per la sfida Lula-Bolsonaro. “Ma è in gioco la democrazia”",
-        "link": "https://www.repubblica.it/esteri/2026/10/01/news/brasile_elezioni_lula_bolsonaro_voto_democrazia-425618135/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-09-30T23:00:00.000Z",
-        "excerpt": "Domenica il primo turno delle presidenziali in Brasile. Quasi certo il ballottaggio tra Flavio, figlio dell’ex presidente golpista, e il vecchio leader della sinistra"
       },
       {
         "title": "Cuba, in carcere il giornalista indipendente Henry Constantín",
@@ -614,6 +614,20 @@
       "excerpt": "“L’esecutivo deve metterci in condizioni di investire sulle rinnovabili. Noi acceleriamo sul rinnovo dei contratti contro il carovita"
     },
     {
+      "title": "A Rio più gadget che passione per la sfida Lula-Bolsonaro. “Ma è in gioco la democrazia”",
+      "link": "https://www.repubblica.it/esteri/2026/10/01/news/brasile_elezioni_lula_bolsonaro_voto_democrazia-425618135/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T23:00:00.000Z",
+      "excerpt": "Domenica il primo turno delle presidenziali in Brasile. Quasi certo il ballottaggio tra Flavio, figlio dell’ex presidente golpista, e il vecchio leader della sinistra"
+    },
+    {
+      "title": "Missione incompiuta: Baghdad addio, l’America se ne va",
+      "link": "https://www.repubblica.it/esteri/2026/10/01/news/stati_uniti_via_iraq_addio_missione_baghdad-425618151/",
+      "source": "Repubblica",
+      "pubDate": "2026-09-30T23:00:00.000Z",
+      "excerpt": "Gli ultimi soldati degli Stati Uniti lasciano l’Iraq dopo 23 anni di guerre e operazioni anti-terrorismo. Ma il bilancio è amaro"
+    },
+    {
       "title": "Vittorio Sgarbi ricoverato in terapia intensiva al Gemelli di Roma",
       "link": "https://www.ansa.it/sito/notizie/cultura/2026/10/01/vittorio-sgarbi-ricoverato-in-terapia-intensiva-al-gemelli-di-roma_6894d528-7aab-4afb-9082-4e0533d05c8a.html",
       "source": "ANSA",
@@ -628,25 +642,11 @@
       "excerpt": "Secondo il sito 'ilgraffio.net' sarebbe in gravi condizioni in terapia intensiva"
     },
     {
-      "title": "Vittorio Sgarbi ricoverato al Gemelli in terapia intensiva",
-      "link": "https://www.repubblica.it/politica/2026/10/01/news/vittorio_sgarbi_ricoverato_al_gemelli_in_terapia_intensiva_gravi_condizioni-425618311/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T22:09:38.000Z",
-      "excerpt": "Sarebbe in gravi condizioni"
-    },
-    {
       "title": "Arriva il parental control su WhatsApp, serve un Pin per modificarlo ",
       "link": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/09/30/arriva-il-parental-control-per-i-teenager-su-whatsapp-anche-in-italia_127783fe-26f4-4b74-a9de-7962555b01ba.html",
       "source": "ANSA",
       "pubDate": "2026-09-30T21:26:00.000Z",
       "excerpt": "Controlli opzionali per account over 13. Chiamate e messaggi tra ragazzi rimangono privati"
-    },
-    {
-      "title": "Detenuti in rivolta a Pisa, hanno trovato microspie nelle celle",
-      "link": "https://firenze.repubblica.it/cronaca/2026/09/30/news/pisa_detenuti_rivolta_carcere_microspie_celle-425618240/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T20:33:50.000Z",
-      "excerpt": "La protesta sarebbe partita da un live su TikTok realizzata da un detenuto"
     },
     {
       "title": "Attacco sul volo Dubai-Tel Aviv, Israele evoca l'11 settembre ",
