@@ -4,11 +4,60 @@
   "finanza": {
     "italia": [
       {
+        "title": "Draghi: “L’Europa metta al centro la crescita. No a tassi troppo alti”",
+        "link": "https://www.repubblica.it/economia/2026/10/01/news/draghi_europa_metta_al_centro_crescita_tassi-425619922/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-01T16:24:04.000Z",
+        "excerpt": "L’ex presidente della Bce avverte: “Per la sostenibilità dei debiti non sarà sufficiente la disciplina fiscale, serve lo sviluppo”. Un messaggio ai politici europei: “Avanti con l’agenda comune”. E uno a Francoforte: “St"
+      },
+      {
+        "title": "Meloni: 'Inviata la lettera a von der Leyen'. L'Ue: 'Abbiamo già dato più flessibilità'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/meloni-inviata-la-lettera-a-von-der-leyen.-lue-abbiamo-gia-dato_c461cfeb-1f8a-498a-878e-2c5ebb6f7005.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T16:22:50.000Z",
+        "excerpt": "La premier: 'Valutare l'impatto dell'inflazione'. Asse Roma-Praga: 'Misure temporanee sull'Ets contro lo shock dei prezzi dell'energia'"
+      },
+      {
+        "title": "Lo spread Btp-Bund conclude la giornata in aumento a 118,5 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lo-spread-btp-bund-conclude-la-giornata-in-aumento-a-1185-punti_d1f1e887-e2b4-4e76-8174-cf9c9824f29f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T16:20:00.000Z",
+        "excerpt": "Sale al 4,69% il rendimento italiano, scende quello del titolo di Stato tedesco"
+      },
+      {
+        "title": "Borsa: Milano maglia nera in Europa, soffre con le banche",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-milano-maglia-nera-in-europa-soffre-con-le-banche_94ecf17e-5b6a-4e41-b569-3c5b58cda40e.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T16:13:05.000Z",
+        "excerpt": "In controtendenza Fincantieri e Stm"
+      },
+      {
+        "title": "Stellantis, crescita a doppia cifra a settembre e nei primi nove mesi dell'anno",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/stellantis-crescita-a-doppia-cifra-a-settembre-e-nei-primi-nove-mesi-dellanno_6618ff13-7a0c-4bdc-a09d-a142a5de8ee6.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T16:10:13.000Z",
+        "excerpt": "Pandina e il brand Fiat confermano la leadership del mercato auto"
+      },
+      {
+        "title": "Il mercato auto Italia cresce del 9,9% a settembre, Stellantis del 12,6%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/il-mercato-auto-italia-cresce-del-99-a-settembre-stellantis-del-126_97fafc30-b6dd-4626-ab50-b9cb09c15652.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T16:06:51.000Z",
+        "excerpt": "Nei nove mesi l'incremento è rispettivamente dell'8,7% e del 13,9%"
+      },
+      {
         "title": "Auto, crescita a doppia cifra per Stellantis a settembre nel mercato italiano",
         "link": "https://www.repubblica.it/economia/2026/10/01/news/auto_mercato_italiano_stellantis_immatricolazioni_classifica-425619889/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-01T16:00:00.000Z",
         "excerpt": "I volumi di vendita con Leapmotor sono aumentati del 12,6%, con 38.704 unità immatricolate: al primo posto sempre la Fiat Pandina"
+      },
+      {
+        "title": "I migliori titoli industriali da monitorare in vista della stagione degli utili del Q3",
+        "link": "https://it.investing.com/news/stock-market-news/i-migliori-titoli-industriali-da-monitorare-in-vista-della-stagione-degli-utili-del-q3-3571212",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T15:58:56.000Z",
+        "excerpt": ""
       },
       {
         "title": "Caffè: la filiera italiana vale 5,9 miliardi di euro e guarda all’Africa",
@@ -30,6 +79,13 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-01T15:57:17.000Z",
         "excerpt": "Ftse Mib a 50.237 punti"
+      },
+      {
+        "title": "KB Securities individua i migliori titoli solari con la domanda di energia in crescita",
+        "link": "https://it.investing.com/news/stock-market-news/kb-securities-individua-i-migliori-titoli-solari-con-la-domanda-di-energia-in-crescita-3571209",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T15:52:58.000Z",
+        "excerpt": ""
       },
       {
         "title": "A Roma il World Durum and Pasta Forum: dal Canada alla Turchia, i nuovi equilibri del grano duro",
@@ -366,65 +422,23 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-01T13:12:42.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "Misure per mitigare il prezzo dei carburanti anche da Tamoil. Fino al 31 ottobre ",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/tamoil-fino-al-31-ottobre-misure-per-mitigare-il-prezzo-dei-carburanti_57fd79a1-299c-4c18-8b3e-439327a7609e.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-01T13:09:42.000Z",
-        "excerpt": "Accolti appelli di istituzioni e consumatori. Iniziative sostenibili anche per la rete"
-      },
-      {
-        "title": "Enerflex balza in borsa con contratto da 450 MW per data center",
-        "link": "https://it.investing.com/news/stock-market-news/enerflex-balza-in-borsa-con-contratto-da-450-mw-per-data-center-3570904",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T13:09:35.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Carburanti, sconti anche da Tamoil: prezzi calmierati fino al 31 ottobre",
-        "link": "https://www.ilsole24ore.com/art/carburanti-sconti-anche-tamoil-prezzi-calmierati-fino-31-ottobre-AJ42CRVB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-01T13:08:00.000Z",
-        "excerpt": "Tamoil Italia, società appartenente al gruppo internazionale Oilinvest, ha deciso di adottare una serie di misure volte a mitigare il prezzo dei carburanti commercializzati presso la propria rete di distributori..."
-      },
-      {
-        "title": "Il lancio di Gemini 4 elimina un \"peso\" dalle azioni Google, dice Citi",
-        "link": "https://it.investing.com/news/stock-market-news/il-lancio-di-gemini-4-elimina-un-peso-dalle-azioni-google-dice-citi-3570879",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T13:03:47.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Enerflex sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-enerflex-sta-salendo-oggi-93CH-3570856",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T12:58:01.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo Agomab balza sui dati positivi dello studio clinico",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-agomab-balza-sui-dati-positivi-dello-studio-clinico-3570859",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T12:57:21.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Citi punta sui proprietari dei dati sull’AI, due titoli top da comprare",
-        "link": "https://it.investing.com/news/stock-market-news/citi-punta-sui-proprietari-dei-dati-sullai-due-titoli-preferiti-3570855",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T12:56:58.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il 26/11 la firma per l'investimento da 50 miliardi nel progetto Argentina Lng",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/il-2611-la-firma-per-linvestimento-da-50-miliardi-nel-progetto-argentina-lng_c7dc6cbd-7862-46aa-aac9-1a68c7aef605.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-01T12:55:44.000Z",
-        "excerpt": "Eni tra gli investitori, Descalzi: 'Siamo a buon punto su contratti e finanziamento'"
       }
     ],
     "europa": [
+      {
+        "title": "Ombre russe sul voto in Lettonia, tra sicurezza e  disinformazione",
+        "link": "https://www.ilsole24ore.com/art/ombre-russe-voto-lettonia-sicurezza-e-disinformazione-AJxJIAUB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-01T16:22:24.000Z",
+        "excerpt": "Con il confine con Russia e Bielorussia sorvegliato speciale e l’ombra costante della guerra ibrida di Mosca, la Lettonia si avvia alle urne nel momento più delicato della sua storia..."
+      },
+      {
+        "title": "Il consiglio di amministrazione di Shore Bancshares adotta un nuovo piano di retribuzione differita per gli amministratori",
+        "link": "https://www.investing.com/news/sec-filings/shore-bancshares-board-adopts-new-deferred-compensation-plan-for-directors-93CH-4927911",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-01T15:56:39.000Z",
+        "excerpt": ""
+      },
       {
         "title": "Alpha Modus Holdings completa la transazione del tubo bitcoin da $250 milioni, riacquista la conformità al Nasdaq",
         "link": "https://www.investing.com/news/sec-filings/alpha-modus-holdings-completes-250-million-bitcoin-pipe-transaction-regains-nasdaq-compliance-93CH-4927907",
@@ -668,6 +682,13 @@
     ],
     "mondo": [
       {
+        "title": "Cnn: 'i dati sul voto anticipato negli Usa indicano un vantaggio dei democratici'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/01/cnn-i-dati-sul-voto-anticipato-negli-usa-indicano-un-vantaggio-dei_35fa6829-419c-44b8-b1a2-fa475d8d3d80.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-01T16:08:08.000Z",
+        "excerpt": "Gli esperti avvertono: 'I repubblicani preferiscono andare alle urne'"
+      },
+      {
         "title": "Merz, 'siamo pronti a reagire a nuovi attacchi come a Lipsia'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/merz-siamo-pronti-a-reagire-a-nuovi-attacchi-come-a-lipsia_3de0d85c-456f-41ac-b738-1efcd91eaf39.html",
         "source": "ANSA Mondo",
@@ -680,6 +701,13 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-01T16:04:15.000Z",
         "excerpt": "Ad agosto estratti 4,615 milioni di barili al giorno, +18,4% sull'anno"
+      },
+      {
+        "title": "Incidente mortale alla miniera Radomiro Tomic, Codelco sospende parzialmente le operazioni",
+        "link": "https://www.investing.com/news/commodities-news/fatal-accident-at-radomiro-tomic-mine-codelco-partially-suspends-operations-4927916",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-01T16:02:24.000Z",
+        "excerpt": ""
       },
       {
         "title": "TotalEnergies annuncia progetto di investimento da 10 miliardi di dollari in Argentina",
@@ -799,6 +827,20 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-01T13:07:33.000Z",
         "excerpt": "Intervista a Fox News, 'l'Iran potrebbe colpire durante il periodo elettorale'"
+      },
+      {
+        "title": "L'oro si stabilizza tra dati di inflazione più morbidi, rendimenti elevati",
+        "link": "https://www.investing.com/news/commodities-news/gold-little-changed-after-6-september-slide-as-softer-us-pce-cuts-fed-hike-bets-4926166",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-01T13:04:57.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "I prezzi del petrolio salgono tra l'incertezza diplomatica, le speranze di ripresa dell'offerta del Golfo",
+        "link": "https://www.investing.com/news/commodities-news/oil-holds-gains-as-middle-east-supply-risks-persist-4926155",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-01T13:01:48.000Z",
+        "excerpt": ""
       },
       {
         "title": "A Kaliningrad il fronte della paura",
@@ -1057,34 +1099,6 @@
         "link": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-01T07:10:32.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Francia, si infiammano le proteste degli studenti: oltre 600 fermi e 80 agenti feriti",
-        "link": "https://www.repubblica.it/esteri/2026/10/01/news/francia_proteste_studenti_fermi_agenti_feriti-425618497/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-01T06:42:20.000Z",
-        "excerpt": "Partite dai liceali, le manifestazioni denunciano la mancanza di insegnanti, le classi sovraffollate, gli edifici degradati. Accesi scontri con le forze dell’ordine. Tensioni tra governo e sinistra radicale"
-      },
-      {
-        "title": "Una rissa tra piloti, poi una rapida discesa: i passeggeri raccontano il caos sul volo flydubai",
-        "link": "https://www.investing.com/news/commodities-news/a-pilot-brawl-then-a-rapid-descent-passengers-recount-chaos-on-flydubai-flight-4925642",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T06:00:35.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Flydubai: chi può aprire la porta della cabina di pilotaggio e perché solo in un caso è impossibile",
-        "link": "https://www.repubblica.it/esteri/2026/10/01/news/porta_cabina_pilotaggio_aereo_come_si_apre_flydubai-425618624/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-01T06:00:00.000Z",
-        "excerpt": "Chi guida l’aereo è protetto da una barriera quasi inviolabile. Il comandante deve sempre autorizzare l’ingresso all’assistente di volo. Ma se tutti i piloti svengono o sono impossibilitati a governare il mezzo, scatta u"
-      },
-      {
-        "title": "L'Iran dice di ricevere la risposta degli Stati Uniti all'ultima proposta mentre Washington si ritira dall'Iraq",
-        "link": "https://www.investing.com/news/commodities-news/iran-says-it-receives-us-response-to-latest-proposal-as-washington-pulls-out-of-iraq-4926259",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T05:24:58.000Z",
         "excerpt": ""
       }
     ]
