@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-10-01T20:42:13.828Z",
+  "lastUpdated": "2026-10-01T21:07:50.387Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Onsemi rivede l’accordo con Synaptics a $123 per azione in contanti",
+        "link": "https://it.investing.com/news/stock-market-news/onsemi-rivede-laccordo-con-synaptics-a-123-per-azione-in-contanti-3571546",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T20:52:27.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Moody’s migliora l’outlook di Carter’s a stabile con ripresa di vendite e margini",
+        "link": "https://it.investing.com/news/stock-market-news/moodys-migliora-loutlook-di-carters-a-stabile-con-ripresa-di-vendite-e-margini-3571538",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T20:48:07.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Goldman Sachs indica CVC, ICG e flatexDEGIRO tra i migliori titoli europei per il Q4",
+        "link": "https://it.investing.com/news/stock-market-news/goldman-sachs-indica-cvc-icg-e-flatexdegiro-tra-i-migliori-titoli-europei-per-il-q4-3571536",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T20:47:31.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Moody’s promuove Kaiser Aluminum a Ba3 grazie a flussi di cassa e debito",
+        "link": "https://it.investing.com/news/stock-market-news/moodys-promuove-kaiser-aluminum-a-ba3-grazie-a-flussi-di-cassa-e-debito-3571532",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T20:44:48.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Il titolo FICO crolla dopo la notizia sul cambiamento dei requisiti per i bureau creditizi",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-fico-crolla-dopo-la-notizia-sul-cambiamento-dei-requisiti-per-i-bureau-creditizi-3571526",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T20:41:22.000Z",
+        "excerpt": ""
+      },
       {
         "title": "IPO di ADARx raccoglie 602,5 milioni di dollari dopo l’esercizio dell’opzione",
         "link": "https://it.investing.com/news/stock-market-news/ipo-di-adarx-raccoglie-6025-milioni-di-dollari-dopo-lesercizio-dellopzione-432SI-3571497",
@@ -17,31 +52,10 @@
         "excerpt": ""
       },
       {
-        "title": "Anthropic pianifica un Investor Day pre-IPO per il 14 ottobre",
-        "link": "https://it.investing.com/news/stock-market-news/anthropic-pianifica-un-investor-day-preipo-per-il-14-ottobre-432SI-3571490",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T20:24:04.000Z",
-        "excerpt": ""
-      },
-      {
         "title": "Nike in calo: i ricavi deludenti oscurano l’utile migliore delle attese",
         "link": "https://it.investing.com/news/stock-market-news/nike-in-calo-i-ricavi-deludenti-oscurano-lutile-migliore-delle-attese-3571480",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-01T20:21:04.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "I lavoratori Airbus in Spagna votano per porre fine allo sciopero",
-        "link": "https://it.investing.com/news/stock-market-news/i-lavoratori-airbus-in-spagna-votano-per-porre-fine-allo-sciopero-93CH-3571460",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T20:18:55.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il FMI: i mercati obbligazionari funzionano in modo ordinato nonostante il rialzo dei rendimenti",
-        "link": "https://it.investing.com/news/stock-market-news/il-fmi-i-mercati-obbligazionari-funzionano-in-modo-ordinato-nonostante-il-rialzo-dei-rendimenti-93CH-3571456",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T20:17:56.000Z",
         "excerpt": ""
       },
       {
@@ -50,20 +64,6 @@
         "source": "Repubblica Economia",
         "pubDate": "2026-10-01T20:17:05.000Z",
         "excerpt": "La low cost irlandese scettica sulle possibilità di crescita di Fiumicino anche a causa degli alti prezzi che imporrebbe ai vettori. La società di gestione ribatte: “Nella stagione estiva 2026 sono entrate 3 nuove compag"
-      },
-      {
-        "title": "Pritzker Private Capital valuta la vendita del distributore di propano EDP",
-        "link": "https://it.investing.com/news/stock-market-news/pritzker-private-capital-valuta-la-vendita-del-distributore-di-propano-edp-3571385",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T20:02:24.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Raymond James aggiorna le migliori scelte nel settore sanitario per ottobre",
-        "link": "https://it.investing.com/news/stock-market-news/raymond-james-aggiorna-le-migliori-scelte-nel-settore-sanitario-per-ottobre-3571380",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T19:56:47.000Z",
-        "excerpt": ""
       },
       {
         "title": "Meloni in pressing: 'Flessibilità o misure restrittive'. Ma l'Ue è cauta",
@@ -94,7 +94,7 @@
         "excerpt": "L’ex presidente della Bce avverte: “Per la sostenibilità dei debiti non sarà sufficiente la disciplina fiscale, serve lo sviluppo”. Un messaggio ai politici europei: “Avanti con l’agenda comune”. E uno a Francoforte: “St"
       },
       {
-        "title": "Draghi: l’Ue investa 100 miliardi nell’Intelligenza artificiale",
+        "title": "Draghi: l’Ue investa 100 miliardi nell’intelligenza artificiale",
         "link": "https://www.ilsole24ore.com/art/draghi-l-ue-investa-100-miliardi-nell-intelligenza-artificiale-AJ9hanVB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-01T18:12:00.000Z",
@@ -229,6 +229,48 @@
     ],
     "europa": [
       {
+        "title": "Trump non esclude quote del governo in OpenAI e Anthropic: sull’esempio di Intel",
+        "link": "https://www.ilsole24ore.com/art/trump-non-esclude-quote-governo-openai-e-anthropic-sull-esempio-intel-AJbZ13VB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-01T20:57:44.000Z",
+        "excerpt": "Donald Trump non esclude quote azionarie del governo in OpenAi e Anthropic, i due colossi di punta Usa dell’intelligenza artificiale, sull’esempio di quanto fatto con Intel. In un’intervista a Time,..."
+      },
+      {
+        "title": "Crisi Corno d’Africa, l’Eritrea tronca i rapporti diplomatici con l’Etiopia",
+        "link": "https://www.ilsole24ore.com/art/crisi-corno-d-africa-l-eritrea-tronca-rapporti-diplomatici-l-etiopia-AJBEH2VB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-01T20:57:41.000Z",
+        "excerpt": "Lo strappo dopo la chiusura dell’ambasciata ad Asmara e la stretta sui suoi diplomatici"
+      },
+      {
+        "title": "National Bank Holdings annuncia $46,8 milioni di riaddebiti di prestiti e nuovi $40,1 milioni di riacquisto di azioni",
+        "link": "https://www.investing.com/news/sec-filings/national-bank-holdings-announces-468-million-in-loan-chargeoffs-and-new-401-million-stock-buyback-93CH-4928448",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-01T20:54:49.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Il direttore di NextDecade Giovanni Oddo si dimette dal consiglio di amministrazione, NIC per designare la sostituzione",
+        "link": "https://www.investing.com/news/sec-filings/nextdecade-director-giovanni-oddo-resigns-from-board-nic-to-designate-replacement-93CH-4928435",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-01T20:50:23.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "SmartStop Self Storage REIT annuncia un dividendo di ottobre di $0,13589041 per azione",
+        "link": "https://www.investing.com/news/sec-filings/smartstop-self-storage-reit-announces-october-dividend-of-013589041-per-share-93CH-4928429",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-01T20:46:29.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Goodyear Tire chiuderà impianti chimici a New York e in Texas, pianifica tagli di posti di lavoro",
+        "link": "https://www.investing.com/news/sec-filings/goodyear-tire-to-close-chemical-plants-in-new-york-and-texas-plans-job-cuts-93CH-4928413",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-01T20:42:37.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Gli azionisti di Smartbird approvano le elezioni del consiglio di amministrazione e le proposte chiave durante l'assemblea annuale",
         "link": "https://www.investing.com/news/sec-filings/smartbird-shareholders-approve-board-elections-and-key-proposals-at-annual-meeting-93CH-4928395",
         "source": "Investing.com Eurozona",
@@ -257,39 +299,11 @@
         "excerpt": ""
       },
       {
-        "title": "LandBridge completa l'offerta di note private upsized da $125 milioni",
-        "link": "https://www.investing.com/news/sec-filings/landbridge-completes-125-million-upsized-private-notes-offering-93CH-4928334",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-01T20:21:01.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "TransCode Therapeutics effettua un pagamento anticipato di $840.975 in base all'accordo sulle obbligazioni convertibili",
-        "link": "https://www.investing.com/news/sec-filings/transcode-therapeutics-makes-840975-prepayment-under-convertible-notes-agreement-93CH-4928288",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-01T20:16:50.000Z",
-        "excerpt": ""
-      },
-      {
         "title": "«Piano terroristico» contro la base Raf, arrestato un anglo-iraniano",
         "link": "https://www.ilsole24ore.com/art/piano-terroristico-contro-base-raf-arrestato-anglo-iraniano-AJD0F1VB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-01T20:16:36.000Z",
         "excerpt": "Si concretizza con un primo arrestato dai connotati iraniani il sospetto d’una pista legata a Teheran dietro il presunto piano di sabotaggio sventato domenica contro la base aerea della Raf..."
-      },
-      {
-        "title": "Gladstone Investment Corporation nomina presidente Erika Highland",
-        "link": "https://www.investing.com/news/sec-filings/gladstone-investment-corporation-appoints-erika-highland-as-president-93CH-4928274",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-01T20:12:55.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Lancio Due Acquisizioni converte azioni di Classe B e prevede accordi di non riscatto",
-        "link": "https://www.investing.com/news/sec-filings/launch-two-acquisition-converts-class-b-shares-and-plans-nonredemption-agreements-93CH-4928179",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-01T19:42:48.000Z",
-        "excerpt": ""
       },
       {
         "title": "A Londra focus sulle sfide delle imprese italiane: crescita, competitività, export",
@@ -325,20 +339,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-01T09:21:00.000Z",
         "excerpt": "Il Primo Ministro israeliano Benjamin Netanyahu ha rivelato nuovi dettagli in un’intervista a Fox News in relazione alle indagini sul tentato dirottamento del volo FlyDubai di ieri. “L’’attentatore è sotto..."
-      },
-      {
-        "title": "Proteste studentesche in Francia, quasi 2000 fermi. Attivata unità di crisi",
-        "link": "https://www.ilsole24ore.com/art/francia-bilancio-2026-nuove-misure-43-mld-riportare-deficitpil-5percento-AJ76z9UB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-01T09:03:00.000Z",
-        "excerpt": "Francia travolta dalle proteste e dalle violenze in varie regioni mentre il paese si ritrova a fare i conti con uno dei deficit e dei debiti pubblici (in rapporto al..."
-      },
-      {
-        "title": "Kasparov: «Avvisato dai servizi lituani e Usa che la mia vita è in pericolo»",
-        "link": "https://www.ilsole24ore.com/art/kasparov-avvisato-servizi-lituani-e-usa-che-mia-vita-e-pericolo-AJ99I4UB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-01T07:41:00.000Z",
-        "excerpt": "L’oppositore russo in esilio ed ex campione di scacchi Garry Kasparov afferma di essere stato avvertito dai servizi lituani e statunitensi che la sua vita è “in pericolo”. «La notizia..."
       }
     ],
     "usa": [
@@ -457,6 +457,27 @@
     ],
     "mondo": [
       {
+        "title": "Trump, 'potremmo chiedere all'Europa di rilasciare le riserve di diesel'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/trump-potremmo-chiedere-alleuropa-di-rilasciare-le-riserve-di-diesel_f455d378-fdbe-418d-9a1c-b5b8ce404da1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-01T20:57:03.000Z",
+        "excerpt": "Lo ha detto ai giornalisti in Texas"
+      },
+      {
+        "title": "Factbox: gli Stati Uniti adottano misure per ridurre i prezzi del gasolio e della benzina",
+        "link": "https://www.investing.com/news/commodities-news/factboxus-states-take-steps-to-curb-diesel-and-gasoline-prices-4928059",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-01T20:48:30.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Le sanzioni statunitensi colpiscono i settori automobilistico e ferroviario dell'Iran poiché il blocco soffoca le rotte delle navi",
+        "link": "https://www.investing.com/news/commodities-news/us-sanctions-target-irans-auto-rail-sectors-after-blockade-chokes-shipping-lanes-4928052",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-01T20:43:09.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Flydubai, Netanyahu: “Il co-pilota si era radicalizzato”. Times of Israel: “Sui social parlava di uccidere ebrei”",
         "link": "https://www.repubblica.it/esteri/2026/10/01/news/flydubai_netanyahu_copilota_radicalizzazione_islamista-425619388/?rss",
         "source": "Repubblica Esteri",
@@ -541,20 +562,6 @@
         "excerpt": ""
       },
       {
-        "title": "Il rame rimbalza a $6,578 ma gli orsi mantengono il controllo: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T19:18:32.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Battaglie d'argento 61,17$ Supporto Fibonacci su grafico 5h: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/silver-breaks-below-sma-200-and-ichimoku-cloud-live-levels-93CH-4919471",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T19:18:30.000Z",
-        "excerpt": ""
-      },
-      {
         "title": "Musk torna al governo: guiderà il Project Meridian per le guerre del futuro, con un occhio alla Luna",
         "link": "https://www.repubblica.it/esteri/2026/10/01/news/musk_torna_al_governo_project_meridian_guerre_del_futuro_luna-425620276/?rss",
         "source": "Repubblica Esteri",
@@ -574,13 +581,6 @@
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-01T17:57:09.000Z",
         "excerpt": "La lunga nota dell’esercito israeliano al film di Abraham e Szor che documenta il massacro a Gaza: “Fuorviante e scorretto, mai approvato alcun attacco nel quale fosse prevista la morte di 500 civili”. Ma nessuna spiegaz"
-      },
-      {
-        "title": "Merz ai minimi storici, solo il 10% è soddisfatto del cancelliere",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/merz-ai-minimi-storici-solo-il-10-e-soddisfatto-del-cancelliere_904b1920-7252-4cb4-93e7-05811d98e9bc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-01T17:56:55.000Z",
-        "excerpt": "Il Kanzler è reduce da un mese di settembre complicato a causa delle batoste elettorali"
       },
       {
         "title": "Merz ai minimi storici, solo il 10% è soddisfatto del cancelliere",
