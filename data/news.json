@@ -1,61 +1,103 @@
 {
-  "lastUpdated": "2026-10-01T10:41:30.214Z",
+  "lastUpdated": "2026-10-01T11:09:28.750Z",
   "finanza": {
     "italia": [
       {
-        "title": "Perché il titolo Synopsys è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-synopsys-e-in-rialzo-oggi-93CH-3570281",
+        "title": "L'Ue: 'Abbiamo già dato più flessibilità, la lettera di Meloni non è ancora arrivata'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lue-abbiamo-gia-dato-piu-flessibilita-la-lettera-di-meloni-non-e-ancora_c461cfeb-1f8a-498a-878e-2c5ebb6f7005.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T11:08:22.000Z",
+        "excerpt": "Asse Roma-Praga, 'misure temporanee sull'Ets contro lo shock dei prezzi dell'energia'"
+      },
+      {
+        "title": "Giorgetti, ovvia richiesta flessibilità, ora difficile per tutti rispettare i target",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/giorgetti-ovvia-richiesta-flessibilita-ora-difficile-per-tutti-rispettare-i-target_5b824d47-62bb-4d16-a76c-a43d4be422a1.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T11:04:43.000Z",
+        "excerpt": "Leo, sarà una legge di bilancio difficile, effetto di spread e inflazione"
+      },
+      {
+        "title": "L'Ue porta avanti l'infrazione contro l'Italia sulle case green",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lue-porta-avanti-linfrazione-contro-litalia-sulle-case-green_fa6b7f4c-3217-42eb-acc7-3cbc137c6a47.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T11:00:09.000Z",
+        "excerpt": "\"Manca un piano nazionale\", Bruxelles invia un parere motivato a nove capitali. Due mesi di tempo per rispondere"
+      },
+      {
+        "title": "Ue, 'contatti ad alto livello con Usa su scorte petrolio e diesel'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/ue-contatti-ad-alto-livello-con-usa-su-scorte-petrolio-e-diesel_6a2df2fa-a4a6-4773-980c-038181dadc3d.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T10:56:29.000Z",
+        "excerpt": "'Domani riunione dell'Aie' per valutare rilascio scorte"
+      },
+      {
+        "title": "Sondaggio BTIG: gli utenti di GLP-1 tagliano 500 calorie al giorno",
+        "link": "https://it.investing.com/news/stock-market-news/sondaggio-btig-gli-utenti-di-glp1-tagliano-500-calorie-al-giorno-93CH-3570378",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T10:32:14.000Z",
+        "pubDate": "2026-10-01T10:52:45.000Z",
         "excerpt": ""
       },
       {
-        "title": "Wells Fargo indica 13 titoli come idee tattiche sovrappesate",
-        "link": "https://it.investing.com/news/stock-market-news/wells-fargo-indica-13-titoli-come-idee-tattiche-sovrappesate-93CH-3570279",
+        "title": "BofA rialzista su Dassault: gli ordini Rafale estendono la visibilità del portafoglio",
+        "link": "https://it.investing.com/news/stock-market-news/bofa-rialzista-su-dassault-gli-ordini-rafale-estendono-la-visibilita-del-portafoglio-3570360",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T10:31:58.000Z",
+        "pubDate": "2026-10-01T10:50:10.000Z",
         "excerpt": ""
       },
       {
-        "title": "Perché il titolo Oracle è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-oracle-e-in-rialzo-oggi-93CH-3570276",
+        "title": "Perché il titolo Q32 Bio sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-q32-bio-sta-scendendo-oggi-93CH-3570317",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T10:31:12.000Z",
+        "pubDate": "2026-10-01T10:45:34.000Z",
         "excerpt": ""
       },
       {
-        "title": "Amazon e altri quattro titoli USA entrano nella lista di Goldman Sachs",
-        "link": "https://it.investing.com/news/stock-market-news/amazon-e-altri-quattro-titoli-usa-entrano-nella-lista-di-goldman-sachs-3570282",
+        "title": "I produttori auto USA perderanno quote di mercato a favore dei rivali asiatici",
+        "link": "https://it.investing.com/news/stock-market-news/i-produttori-auto-usa-perderanno-quote-di-mercato-a-favore-dei-rivali-asiatici-3570328",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T10:31:01.000Z",
+        "pubDate": "2026-10-01T10:45:14.000Z",
         "excerpt": ""
       },
       {
-        "title": "Mizuho prevede una crescita modesta della spesa petrolifera verso il 2027",
-        "link": "https://it.investing.com/news/stock-market-news/mizuho-prevede-una-crescita-modesta-della-spesa-petrolifera-verso-il-2027-93CH-3570270",
+        "title": "Groupama, sostegno alle giornate Fai d'Autunno, apre Torre Gioia 22 e Palazzo Carpegna",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/groupama-sostegno-alle-giornate-fai-dautunno-apre-torre-gioia-22-e-palazzo_3ce0f5ae-24c6-4b66-b51a-8416b5772f9d.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T10:44:15.000Z",
+        "excerpt": "Burlisson, 'proteggere è anche prendersi cura dei luoghi'"
+      },
+      {
+        "title": "Accordo Dubai Chambers e Assolombarda su commercio e investimenti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/accordo-dubai-chambers-e-assolombarda-su-commercio-e-investimenti_6c8eacab-d7ec-4e06-96fc-7b7c73c71c04.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T10:41:31.000Z",
+        "excerpt": "L'iniziativa per opportunità di cooperazione in diversi settori chiave"
+      },
+      {
+        "title": "Perché il titolo Nu Holdings è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-nu-holdings-e-in-rialzo-oggi-93CH-3570303",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T10:26:51.000Z",
+        "pubDate": "2026-10-01T10:39:07.000Z",
         "excerpt": ""
       },
       {
-        "title": "Anthropic potrebbe prendere in prestito fino a 42 miliardi da Broadcom",
-        "link": "https://it.investing.com/news/stock-market-news/anthropic-potrebbe-prendere-in-prestito-fino-a-42-miliardi-da-broadcom-3570269",
+        "title": "Perché il titolo Rocket Lab è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-rocket-lab-e-in-forte-rialzo-oggi-93CH-3570291",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T10:25:30.000Z",
+        "pubDate": "2026-10-01T10:35:14.000Z",
         "excerpt": ""
       },
       {
-        "title": "Perché il titolo di Constellation Energy sale del 4% oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-constellation-energy-sale-del-4-oggi-93CH-3570267",
+        "title": "BofA alza stime sul rame a 12.000$: l’IA ha selezionato NUOVE azioni per ottobre",
+        "link": "https://it.investing.com/news/stock-market-news/bofa-alza-stime-sul-rame-a-12000-lia-ha-selezionato-nuove-azioni-per-ottobre-3570290",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T10:23:40.000Z",
+        "pubDate": "2026-10-01T10:34:33.000Z",
         "excerpt": ""
       },
       {
-        "title": "Perché il titolo Liquidia è sceso del 5% oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-liquidia-e-sceso-del-5-oggi-93CH-3570258",
+        "title": "Perché il titolo Pandora è in calo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-pandora-e-in-calo-oggi-93CH-3570288",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T10:21:27.000Z",
+        "pubDate": "2026-10-01T10:34:00.000Z",
         "excerpt": ""
       },
       {
@@ -71,13 +113,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-01T10:11:00.000Z",
         "excerpt": "Sul risparmio energetico il ritorno all’ecobonus del 65% è qualcosa di più di un semplice dossier aperto. A confermare che l’intenzione è quella di tirare su l’asticella rispetto al 50%..."
-      },
-      {
-        "title": "Sì di Invitalia al finanziamento di Silicon Box a Novara",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/si-di-invitalia-al-finanziamento-di-silicon-box-a-novara_fa421b7f-86a0-411b-9685-d7cf04eedcb1.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-01T09:57:24.000Z",
-        "excerpt": "Sostegno pubblico da 1,3 miliardi per microchip, \"obiettivo avvio lavori in primavera\""
       },
       {
         "title": "Borsa: Europa riduce il calo coi bond, Brent sopra i 100 dollari",
@@ -101,46 +136,11 @@
         "excerpt": "Dagli involucri di frutta, verdura e bevande ai cosmetici usati dagli alberghi, sono numerosi i prodotti coinvolti dalla stretta sulla plastica usa e getta contenuta nel decreto imballaggi approvato in..."
       },
       {
-        "title": "Urso, Italia è sempre più piattaforma produttiva dell'economia digitale",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/urso-italia-e-sempre-piu-piattaforma-produttiva-delleconomia-digitale_0872ff57-20ed-420c-bc74-a3c3f724be50.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-01T09:44:12.000Z",
-        "excerpt": "\"Risultato importante il progetto Silicon Box a Novara\""
-      },
-      {
-        "title": "Rivera (Acea): 'raddoppio Peschiera, progetto idrico più rilevante in Europa'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/rivera-acea-raddoppio-peschiera-progetto-idrico-piu-rilevante-in-europa_cd505fae-729c-48d2-968c-c8143a7919ed.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-01T09:42:12.000Z",
-        "excerpt": "Il presidente, 'un modello esportabile in Italia e all'estero'"
-      },
-      {
-        "title": "Fava (Inps), sistema assolutamente solido",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/fava-inps-sistema-assolutamente-solido_a5ffde1f-d7cb-4bc8-a753-aa8c658b0deb.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-01T09:01:36.000Z",
-        "excerpt": "Perciò dobbiamo pensare oggi alle sfide di domani"
-      },
-      {
-        "title": "Reati ambientali in calo in Italia ma aumentano gli illeciti amministrativi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/reati-ambientali-in-calo-in-italia-ma-aumentano-gli-illeciti-amministrativi_e912caf1-988f-4e8e-ab57-21ac305674ca.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-01T09:01:04.000Z",
-        "excerpt": "Ecomafia 2026, business vola a 11,5 miliardi di euro. Mezzogiorno in top classifica"
-      },
-      {
         "title": "In agosto la disoccupazione risale al 6,2%, ai massimi da maggio 2025",
         "link": "https://www.repubblica.it/economia/2026/10/01/news/in_agosto_la_disoccupazione_risale_al_62_ai_massimi_da_maggio_2025-425618826/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-01T08:45:02.000Z",
         "excerpt": "Il mercato del lavoro rallenta: occupazione quasi ferma, crescono le persone in cerca di un impiego e calano gli inattivi. A sostenere il dato annuale restano soprattutto i contratti permanenti e gli over 50"
-      },
-      {
-        "title": "Tasso di inattività ad agosto scende al 32,7%, minimo storico dal 2004",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/tasso-di-inattivita-ad-agosto-scende-al-327-minimo-storico-dal-2004_4a7a63f7-c301-489e-a78b-490e66da4c84.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-01T08:44:37.000Z",
-        "excerpt": "Istat, -5mila occupati sul mese, +291mila sull'anno. Disoccupati, +48mila sul mese"
       },
       {
         "title": "Automotive, Ue sempre più dipendente dalle forniture cinesi. E l’occupazione ha perso il 9% dal 2019",
@@ -236,6 +236,13 @@
         "excerpt": "Il premier israeliano Benjamin Netanyahu ha dichiarato che i passeggeri e il capitano ferito del volo Flydubai, da Dubai a Tel Aviv, in Israele, hanno evitato una catastrofe che avrebbe..."
       },
       {
+        "title": "Proteste studenti in Francia, Lecornu convoca riunione di crisi",
+        "link": "https://www.ilsole24ore.com/art/francia-bilancio-2026-nuove-misure-43-mld-riportare-deficitpil-5percento-AJ76z9UB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-01T09:03:00.000Z",
+        "excerpt": "E mentre la Francia si ritrova a fare i conti con uno dei deficit e dei debiti pubblici (in rapporto al Pil) più elevati d’Europa – con i rendimenti dei..."
+      },
+      {
         "title": "Kasparov: «Avvisato dai servizi lituani e Usa che la mia vita è in pericolo»",
         "link": "https://www.ilsole24ore.com/art/kasparov-avvisato-servizi-lituani-e-usa-che-mia-vita-e-pericolo-AJ99I4UB",
         "source": "Il Sole 24 Ore Mondo",
@@ -276,13 +283,6 @@
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-09-30T10:40:51.000Z",
         "excerpt": "BRUXELLES – La Commissione europea ha presentato oggi, mercoledì 30 settembre, un nuovo sistema di comunicazione intraeuropea da usare in tutte le occasioni di primo intervento e di..."
-      },
-      {
-        "title": "Volo Dubai-Tel Aviv, Netanyahu: «Pilota voleva far precipitare aereo». Passeggeri rientrati a Tel Aviv",
-        "link": "https://www.ilsole24ore.com/art/allarme-volo-flydubai-copilota-accoltella-comandante-tentativo-far-schiantare-l-aereo-AJtl7tTB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-09-30T09:25:00.000Z",
-        "excerpt": "Torna l’incubo terrorismo nei cieli mediorientali. Questa mattina un aereo della Flydubai diretto a Tel Aviv ha dovuto effettuare un atterraggio di emergenza in territorio saudita dopo una violenta colluttazione..."
       },
       {
         "title": "Charles Phillips nominato nel consiglio di amministrazione di Verizon",
@@ -401,6 +401,20 @@
     ],
     "mondo": [
       {
+        "title": "A Pechino si celebra la fondazione della Repubblica popolare cinese",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/01/a-pechino-si-celebra-la-fondazione-della-repubblica-popolare-cinese_27a091a6-242c-402a-80b5-4f36f03604d7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-01T10:51:01.000Z",
+        "excerpt": "Oggi inizia anche la Golden week, previsti 2,13 miliardi di spostamenti interregionali"
+      },
+      {
+        "title": "Offerta mattutina: il livido del legame non guarirà",
+        "link": "https://www.investing.com/news/commodities-news/morning-bid-bond-bruise-wont-heal-4926971",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-01T10:50:28.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Francia, tensione alle proteste degli studenti: “Un preside cosparso di benzina a Marsiglia”",
         "link": "https://www.repubblica.it/esteri/2026/10/01/news/francia_proteste_studenti_fermi_agenti_feriti-425618497/?rss",
         "source": "Repubblica Esteri",
@@ -493,13 +507,6 @@
       },
       {
         "title": "Netanyahu a Fox News, Israele informò Londra di un imminente attentato voluto da Iran",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/01/netanyahu-a-fox-news-israele-informo-londra-di-un-imminente-attentato-voluto-da-iran_3c59a972-e711-4437-9908-5e8f2b912c0d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-01T08:39:07.000Z",
-        "excerpt": "'Prima del fallito attacco contro una base aerea della Royal Air Force (Raf)'"
-      },
-      {
-        "title": "Netanyahu a Fox News, Israele informò Londra di un imminente attentato voluto da Iran",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/01/netanyahu-a-fox-news-israele-informo-londra-di-un-imminente-attentato-voluto-da-iran_a1142017-c930-4b39-9e55-d35346abf181.html",
         "source": "ANSA Mondo",
         "pubDate": "2026-10-01T08:38:59.000Z",
@@ -541,13 +548,6 @@
         "excerpt": ""
       },
       {
-        "title": "Test del gas naturale Supporto Fib a $2,966 dopo il doppio top: Live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-in-30813203-range-live-levels-93CH-4919473",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T07:12:06.000Z",
-        "excerpt": ""
-      },
-      {
         "title": "Flydubai: chi può aprire la porta della cabina di pilotaggio e perché solo in un caso è impossibile",
         "link": "https://www.repubblica.it/esteri/2026/10/01/news/porta_cabina_pilotaggio_aereo_come_si_apre_flydubai-425618624/?rss",
         "source": "Repubblica Esteri",
@@ -572,6 +572,20 @@
   },
   "attualita": [
     {
+      "title": "L'Ue: 'Abbiamo già dato più flessibilità, la lettera di Meloni non è ancora arrivata'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lue-abbiamo-gia-dato-piu-flessibilita-la-lettera-di-meloni-non-e-ancora_c461cfeb-1f8a-498a-878e-2c5ebb6f7005.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-01T10:56:16.000Z",
+      "excerpt": "Asse Roma-Praga, 'misure temporanee sull'Ets contro lo shock dei prezzi dell'energia'"
+    },
+    {
+      "title": "Regeni, dalla commissione via odg su Memorandum con Egitto. “Relatore impossibilitato” ma è in aula",
+      "link": "https://www.repubblica.it/politica/2026/10/01/news/regeni_odg_memorandum_egitto_ogd_commissione_difesa_malaguti-425619128/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T10:34:03.000Z",
+      "excerpt": "L’ordine del giorno doveva essere discusso nell’organo di Difesa dopo la sentenza. Ieri il contrordine per messaggio e la convocazione per tutti i deputati della maggioranza a votare sulle pregiudiziali sulla legge elett"
+    },
+    {
       "title": "Proteste degli studenti in Francia, preside aggredito e cosparso di benzina a Marsiglia",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/01/proteste-studenti-in-francia-preside-aggredito-e-cosparso-di-benzina-a-marsiglia_e1f80173-ca9a-4a1e-8362-a8dc2efd4ee2.html",
       "source": "ANSA",
@@ -579,11 +593,11 @@
       "excerpt": "In fiamme una scuola di Nantes"
     },
     {
-      "title": "La strategia di Singapore contro la denatalità: un’app di incontri per i dipendenti pubblici under 35",
-      "link": "https://www.repubblica.it/esteri/2026/10/01/news/strategia_singapore_contro_denatalita_app_di_incontri_per_dipendenti_pubblici_under_35-425619062/",
+      "title": "Inaugurazione Salone Nautico, al taglio del nastro con Meloni c’è Bucci, esclusa la sindaca Salis",
+      "link": "https://genova.repubblica.it/cronaca/2026/10/01/news/inaugurazione_salone_nautico_al_taglio_del_nastro_con_meloni_c_e_bucci_esclusa_la_sindaca_salis-425619084/",
       "source": "Repubblica",
-      "pubDate": "2026-10-01T10:12:28.000Z",
-      "excerpt": "Con un tasso di fertilità pari a 0,87 figli per donna, il governo Wong le sta provando tutte e ora punta su FirstDate: la piattaforma, basata sull’algoritmo del Premio Nobel per l’economia Shapley, propone un abbinamento"
+      "pubDate": "2026-10-01T10:20:26.000Z",
+      "excerpt": "Gli organizzatori della kermesse avevano previsto la sua presenza sul palco. Imbarazzi e silenzi sull’episodio"
     },
     {
       "title": "Nuova aggressione omofoba, minacce e schiaffi a tre ragazzi: “Ci urlava froci, stranieri vi ammazzo”",
@@ -628,13 +642,6 @@
       "excerpt": "Un rapporto aggiornato a settembre mostra come l’esecutivo abbia sottratto al Parlamento gran parte dell’attività legislativa"
     },
     {
-      "title": "Legge elettorale alla prova dell'Aula, un solo voto segreto intorno alle 13.30 ",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/09/30/legge-elettorale-alla-prova-dellaula-voto-finale-segreto-tra-il-7-e-l8_afc2a0af-fc7e-4d3d-97eb-4fcafc26cbb0.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-01T08:56:18.000Z",
-      "excerpt": "Oggi le pregiudiziali su cui l'Assemblea si esprime una sola volta a scrutinio non palese"
-    },
-    {
       "title": "Cristiano Ronaldo rischia sei mesi di sospensione. L’amico: “Si è sentito tradito da Jorge Jesus”",
       "link": "https://www.repubblica.it/sport/calcio/2026/10/01/news/cristiano_ronaldo_rischio_sospensione_motivi-425618803/",
       "source": "Repubblica",
@@ -668,13 +675,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-01T07:02:47.000Z",
       "excerpt": "Iscriviti ora per ricevere la newsletter oggi"
-    },
-    {
-      "title": "Morte David Rossi, la famiglia pronta a chiedere i risarcimenti alla banca",
-      "link": "https://firenze.repubblica.it/cronaca/2026/10/01/news/morte_david_rossi_famiglia_risarcimenti-425618548/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-01T06:58:05.000Z",
-      "excerpt": "I legali preparano azioni verso il Monte dei Paschi di Siena e la controllata assicurativa, con cui il manager aveva una polizza vita da circa un milione di euro. Le mosse dopo le ultime rivelazioni della Commissione d’i"
     },
     {
       "title": "Prolungata del 25% la vita di animali, la chiave in un enzima ",
@@ -742,18 +742,39 @@
   ],
   "sport": [
     {
-      "title": "Malagò: \"L'entrata di Abodi su Bianchedi sgrammaticata e fuori luogo\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/malago-lentrata-di-abodi-su-bianchedi-sgrammaticata-e-fuori-luogo_05c9a478-2158-46bb-9ff0-2995b78b0859.html",
+      "title": "Esordio ok per Alcaraz a Tokyo, Nishikori dà l'addio al tennis",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/01/esordio-ok-per-alcaraz-a-tokyo-nishikori-da-laddio-al-tennis_009288f2-c7ae-44f8-adac-c8aca6df64bc.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-01T10:02:52.000Z",
-      "excerpt": "Il n.1 Figc: \"Impossibile dare torto a Diana\", che si è dimessa da capodelegazione Italia"
+      "pubDate": "2026-10-01T10:41:24.000Z",
+      "excerpt": "Lo spagnolo batte Michelsen in 3 set e troverà Arnaldi, il giapponese ko con Tiafoe"
     },
     {
       "title": "Premier: Klopp, 'nessuna festa per il titolo in caso di sanzioni al City'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/premier-klopp-nessuna-festa-per-il-titolo-in-caso-di-sanzioni-al-city_996f90ea-4ec2-4d41-9b63-3bb91c248a5a.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-01T10:01:02.000Z",
-      "excerpt": "L'ex tecnico del Liverpool: \"Processo lungo, ci vorrà ancora un'eternità\""
+      "pubDate": "2026-10-01T10:35:21.000Z",
+      "excerpt": "L'ex tecnico del Liverpool: 'Processo lungo, ci vorrà ancora un'eternità'"
+    },
+    {
+      "title": "Calcio: Leão veste la 7 di Cristiano Ronaldo stasera in Danimarca-Portogallo",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/01/calcio-leao-veste-la-7-di-cristiano-ronaldo-stasera-in-danimarca-portogallo_1e92a352-3689-4322-a61a-c2324ad532a1.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-01T10:34:08.000Z",
+      "excerpt": "Dal 2008 è stata ininterrottamente la maglia dell'attaccante"
+    },
+    {
+      "title": "Malagò: 'L'entrata di Abodi su Bianchedi sgrammaticata e fuori luogo'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/malago-lentrata-di-abodi-su-bianchedi-sgrammaticata-e-fuori-luogo_05c9a478-2158-46bb-9ff0-2995b78b0859.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-01T10:31:19.000Z",
+      "excerpt": "Il n.1 della Figc: 'Impossibile dare torto a Diana', che si è dimessa da capodelegazione Italia"
+    },
+    {
+      "title": "Nations League: da Romano a Cambiaghi, nove azzurri non partono per Parigi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/nations-league-da-romano-a-cambiaghi-nove-azzurri-non-partono-per-parigi_dee50f75-46c2-4ecf-a6ef-f98e4a50d521.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-01T10:30:31.000Z",
+      "excerpt": "Ancora fuori Inacio, allenamento in mattinata e poi volo per la Francia"
     },
     {
       "title": "F1: Russell, 'distacco notevole ma manca un terzo di campionato'",
@@ -770,32 +791,11 @@
       "excerpt": "Il leader del Mondiale: \"Ho corso sotto il limite, senza rischi, è stato strano\""
     },
     {
-      "title": "Nations League: da Romano a Cambiaghi, nove azzurri non partono per Parigi",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/nations-league-da-romano-a-cambiaghi-nove-azzurri-non-partono-per-parigi_dee50f75-46c2-4ecf-a6ef-f98e4a50d521.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-01T08:59:50.000Z",
-      "excerpt": "Ancora fuori Inacio, allenamento in mattinata e poi volo per la Francia"
-    },
-    {
       "title": "Doping: Schwazer rinuncia alla terza provetta e chiede le controanalisi",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/01/doping-schwazer-rinuncia-alla-terza-provetta-e-chiede-le-controanalisi_4aac59da-d345-436a-9d57-cd63fcf6ccca.html",
       "source": "ANSA Sport",
       "pubDate": "2026-10-01T08:02:06.000Z",
       "excerpt": "Ad aprile era stato trovato positivo durante i campionati tedeschi"
-    },
-    {
-      "title": "Wnba: le Valkyries di Zandalasini perdono a Dallas, sfida a gara-3",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/01/wnba-le-valkyries-di-zandalasini-perdono-a-dallas-sfida-a-gara-3_8fc3c587-a392-47ea-b884-5b8bbcdac2f5.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-01T07:59:48.000Z",
-      "excerpt": "Match deciso all'overtime, per le Wings 45 punti di Ogunbowale, record nei playoff"
-    },
-    {
-      "title": "Ko per Cobolli all'esordio a Pechino, vince Safiullin in 2 set",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/01/ko-per-cobolli-allesordio-a-pechino-vince-safiullin-in-2-set_039d8589-dc6c-48b6-a7b3-b905197c4224.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-01T07:47:23.000Z",
-      "excerpt": "L'azzurro cede al russo, numero 102 del mondo, per 6-3 6-2"
     },
     {
       "title": "Preso a zero, ora vale 70 milioni: i segreti di Thuram, l'oro dell'Inter  ",
