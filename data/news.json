@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-10-01T18:44:52.309Z",
+  "lastUpdated": "2026-10-01T19:08:49.197Z",
   "finanza": {
     "italia": [
       {
         "title": "Meloni all'Ue: 'L'alta inflazione pesa sulla spesa'. Bruxelles: 'Abbiamo già dato flessibilità'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/meloni-allue-lalta-inflazione-pesa-sulla-spesa.-bruxelles-abbiamo-gia_c461cfeb-1f8a-498a-878e-2c5ebb6f7005.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-01T18:41:39.000Z",
+        "pubDate": "2026-10-01T18:48:12.000Z",
         "excerpt": "Vertice a Palazzo Chigi sulla manovra. Asse Roma-Praga: 'Misure temporanee sull'Ets contro lo shock dei prezzi dell'energia'"
+      },
+      {
+        "title": "BofA Securities individua i migliori titoli minerari con le prospettive del rame in miglioramento",
+        "link": "https://it.investing.com/news/stock-market-news/bofa-securities-individua-i-migliori-titoli-minerari-con-le-prospettive-del-rame-in-miglioramento-3571325",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T18:34:37.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Il titolo Mattel balza del 23% per interesse di Authentic Brands",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-mattel-balza-su-interesse-di-acquisizione-da-authentic-brands-3571322",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T18:29:12.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Raymond James prevede un calo generalizzato dei titoli retail nel 3° trimestre 2026",
+        "link": "https://it.investing.com/news/stock-market-news/raymond-james-prevede-un-calo-generalizzato-dei-titoli-retail-nel-3-trimestre-2026-93CH-3571319",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T18:26:58.000Z",
+        "excerpt": ""
       },
       {
         "title": "Perché il titolo di Maple Leaf Foods scende oggi?",
@@ -71,27 +92,6 @@
         "source": "Repubblica Economia",
         "pubDate": "2026-10-01T17:53:08.000Z",
         "excerpt": "Dopo i test su Aston Martin, Pagani e McLaren, il gruppo della Bicocca punta a volumi di mercato più ampi. E a una guida autonoma sempre più sicura"
-      },
-      {
-        "title": "Anthropic punta a una mega-IPO prima del Giorno del Ringraziamento",
-        "link": "https://it.investing.com/news/stock-market-news/anthropic-punta-a-una-megaipo-prima-del-giorno-del-ringraziamento-432SI-3571285",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T17:40:02.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Xenon Pharmaceuticals è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-xenon-pharmaceuticals-e-in-rialzo-oggi-93CH-3571275",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T17:31:44.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Filtronic è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-filtronic-e-in-rialzo-oggi-93CH-3571274",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T17:31:33.000Z",
-        "excerpt": ""
       },
       {
         "title": "Lagarde sui rischi dell’IA nella finanza: “I modelli possono sfuggire al controllo umano”",
@@ -229,6 +229,13 @@
     ],
     "europa": [
       {
+        "title": "Chemung Canal Trust Company completa la conversione in banca nazionale",
+        "link": "https://www.investing.com/news/sec-filings/chemung-canal-trust-company-completes-conversion-to-national-bank-93CH-4928123",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-01T18:52:44.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "CNBX Pharmaceuticals nomina un nuovo revisore, sostituisce Elkana Amitai CPA",
         "link": "https://www.investing.com/news/sec-filings/cnbx-pharmaceuticals-appoints-new-auditor-replaces-elkana-amitai-cpa-93CH-4928075",
         "source": "Investing.com Eurozona",
@@ -331,13 +338,6 @@
         "link": "https://www.investing.com/news/sec-filings/stablecoin-development-corp-addresses-unusual-trading-activity-reports-no-new-developments-93CH-4923802",
         "source": "Investing.com Eurozona",
         "pubDate": "2026-09-29T22:32:03.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Avalanche Treasury completa la vendita di $15 milioni di token AVAX a Avalanche Foundation",
-        "link": "https://www.investing.com/news/sec-filings/avalanche-treasury-completes-15-million-avax-token-sale-to-avalanche-foundation-93CH-4923796",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-09-29T22:28:29.000Z",
         "excerpt": ""
       }
     ],
@@ -457,11 +457,32 @@
     ],
     "mondo": [
       {
+        "title": "Il segretario all'Energia degli Stati Uniti Wright è \"molto fiducioso\" che l'Europa rilascerà scorte",
+        "link": "https://www.investing.com/news/commodities-news/us-energy-secretary-wright-highly-confident-europe-will-release-diesel-stocks-4928140",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-01T19:00:27.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Argentina, ghiacciaio Perito Moreno in pericolo. Perso un km in 100 giorni",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/argentina-ghiacciaio-perito-moreno-in-pericolo.-perso-un-km-in-100-giorni_72bfb03a-4f2c-4021-8333-e4463468f2a6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-01T18:56:33.000Z",
+        "excerpt": "Recessione record, uno studio avverte sull'accelerazione in corso del fenomeno"
+      },
+      {
         "title": "Flydubai, Netanyahu: “Il co-pilota si era radicalizzato”. Times of Israel: “Sui social parlava di uccidere ebrei”",
         "link": "https://www.repubblica.it/esteri/2026/10/01/news/flydubai_netanyahu_copilota_radicalizzazione_islamista-425619388/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-10-01T18:41:58.000Z",
-        "excerpt": "Il primo ministro israeliano a “Fox News” ha dichiarato che nel giro di pochi giorni sarà in grado di dire se l’autore del gesto avesse legami con l’Iran. Intanto il sospetto, del quale Israele chiede l’estradizione, è d"
+        "pubDate": "2026-10-01T18:45:21.000Z",
+        "excerpt": "Il primo ministro israeliano a “Fox News” ha dichiarato che nel giro di pochi giorni sarà in grado di dire se l’autore del gesto avesse legami con l’Iran. Intanto il sospetto, del quale Israele chiede l’estradizione, è s"
+      },
+      {
+        "title": "I margini di raffinazione diesel europei scendono del 7% sulle trattative di riserva",
+        "link": "https://www.investing.com/news/commodities-news/european-diesel-refining-margins-drop-7-on-reserve-talks-93CH-4928107",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-01T18:37:55.000Z",
+        "excerpt": ""
       },
       {
         "title": "Il petrolio estende i guadagni mentre gli Stati Uniti hanno detto di inviare più truppe in Medio Oriente, riprendere a bombardare l'Iran",
@@ -548,13 +569,6 @@
         "excerpt": ""
       },
       {
-        "title": "Presunto attacco alla base Raf, arrestato un cittadino britannico-iraniano",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/presunto-attacco-alla-base-raf-arrestato-un-cittadino-britannico-iraniano_e066b7b2-61f7-473b-aa9a-c9565c07f727.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-01T16:57:18.000Z",
-        "excerpt": "E' accusato di preparazione di atti terroristici"
-      },
-      {
         "title": "Esclusiva: gli Stati Uniti dicono a Francia e Germania di rilasciare le scorte di diesel o affrontare il divieto di esportazione degli Stati Uniti, dicono le fonti",
         "link": "https://www.investing.com/news/commodities-news/exclusiveus-tells-france-and-germany-to-release-diesel-stocks-or-face-us-export-ban-sources-say-4926478",
         "source": "Investing.com Commodities",
@@ -566,20 +580,6 @@
         "link": "https://www.investing.com/news/commodities-news/fatal-accident-at-radomiro-tomic-mine-codelco-partially-suspends-operations-4927916",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-01T16:02:24.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Una rissa tra piloti, poi una rapida discesa: i passeggeri raccontano il caos sul volo flydubai",
-        "link": "https://www.investing.com/news/commodities-news/a-pilot-brawl-then-a-rapid-descent-passengers-recount-chaos-on-flydubai-flight-4925642",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T15:54:40.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Palladium Spot US Dollar sta scivolando oggi?",
-        "link": "https://www.investing.com/news/commodities-news/why-is-palladium-spot-us-dollar-stock-sliding-today-93CH-4927868",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T15:25:28.000Z",
         "excerpt": ""
       },
       {
@@ -628,25 +628,32 @@
   },
   "attualita": [
     {
-      "title": "Meloni all'Ue: 'L'alta inflazione pesa sulla spesa'. Bruxelles: 'Abbiamo già dato flessibilità'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/meloni-allue-lalta-inflazione-pesa-sulla-spesa.-bruxelles-abbiamo-gia_c461cfeb-1f8a-498a-878e-2c5ebb6f7005.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-01T18:41:39.000Z",
-      "excerpt": "Vertice a Palazzo Chigi sulla manovra. Asse Roma-Praga: 'Misure temporanee sull'Ets contro lo shock dei prezzi dell'energia'"
-    },
-    {
       "title": "Gli studenti incendiano la Francia, scuole date alle fiamme e duemila fermi",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/01/gli-studenti-incendiano-la-francia-scuole-date-alle-fiamme-e-duemila-fermi_494cceda-a85a-44bb-bbdd-0e67079d9ad1.html",
       "source": "ANSA",
-      "pubDate": "2026-10-01T18:29:24.000Z",
+      "pubDate": "2026-10-01T18:55:06.000Z",
       "excerpt": "Un preside cosparso di benzina a Marsiglia. Gabinetto di crisi, il governo accusa la France Insoumise"
     },
     {
-      "title": "Vittorio Sgarbi in terapia intensiva, 'condizioni critiche ma stabili'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/2026/10/01/vittorio-sgarbi-in-terapia-intensiva-condizioni-critiche-ma-stabili_6894d528-7aab-4afb-9082-4e0533d05c8a.html",
+      "title": "Meloni all'Ue: 'L'alta inflazione pesa sulla spesa'. Bruxelles: 'Abbiamo già dato flessibilità'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/meloni-allue-lalta-inflazione-pesa-sulla-spesa.-bruxelles-abbiamo-gia_c461cfeb-1f8a-498a-878e-2c5ebb6f7005.html",
       "source": "ANSA",
-      "pubDate": "2026-10-01T18:28:49.000Z",
-      "excerpt": "L'ex deputato e critico d'arte ricoverato da ieri per insufficienza respiratoria. La figlia Evelina va a trovarlo"
+      "pubDate": "2026-10-01T18:48:12.000Z",
+      "excerpt": "Vertice a Palazzo Chigi sulla manovra. Asse Roma-Praga: 'Misure temporanee sull'Ets contro lo shock dei prezzi dell'energia'"
+    },
+    {
+      "title": "Benigni da Vespa: “San Francesco, un ottimo leader del campo largo”",
+      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/10/01/news/benigni_da_vespa_san_francesco_un_ottimo_leader_del_campo_largo-425620216/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T18:40:36.000Z",
+      "excerpt": "Il premio Oscar ospite a “Cinque minuti” per parlare del monologo dedicato al poverello di Assisi in onda domenica 4 ottobre su Rai 1"
+    },
+    {
+      "title": "La legge elettorale supera il primo scoglio, la maggioranza compatta nel voto segreto",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/01/la-legge-elettorale-supera-il-primo-scoglio-la-maggioranza-compatta-nel-voto-segreto_afc2a0af-fc7e-4d3d-97eb-4fcafc26cbb0.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-01T17:24:26.000Z",
+      "excerpt": "Ora faro sull'8 ottobre. Sulle pregiudiziali FnV col centrodestra. Le opposizioni: 'Sarà battaglia'"
     },
     {
       "title": "'Viva la vida', a Cosenza una mostra immersiva dedicata a Frida Kahlo",
@@ -705,13 +712,6 @@
       "excerpt": "«È il mio ultimo anno di contratto. Mi sono detto: facciamo questo esperimento». E quindi ecco un nuovo appuntamento il mercoledì in prima serata oltre al classico Che tempo che fa della domenica. E la Rai? «Nessun rimpi"
     },
     {
-      "title": "Carburanti, anche Tamoil annuncia “misure per il contenimento dei prezzi” fino al 31 ottobre",
-      "link": "https://www.repubblica.it/economia/2026/10/01/news/carburanti_anche_tamoil_annuncia_misure_per_il_contenimento_dei_prezzi_fino_al_31_ottobre-425619445/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-01T13:11:39.000Z",
-      "excerpt": "Ieri Palazzo Chigi aveva anticipato le trattative con il gruppo petrolifero e il governo libico. Non viene comunicato alcun tetto alle tariffe"
-    },
-    {
       "title": "Renato Zero compie 76 anni, \"mi regalo un altro disco per Natale\"",
       "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/10/01/renato-zero-compie-76-anni-mi-regalo-un-altro-disco-per-natale_9a3245ef-bc99-407c-acbc-65d566f234f5.html",
       "source": "ANSA",
@@ -741,6 +741,13 @@
     }
   ],
   "sport": [
+    {
+      "title": "Mancini, 'squadra multietnica? Il mondo è cambiato da tanto, ora tocca all'Italia'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/mancini-squadra-multietnica-il-mondo-e-cambiato-da-tanto-ora-tocca-allitalia_2f85128e-aac0-4f41-9684-e532f9be0159.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-01T19:04:10.000Z",
+      "excerpt": "Bastoni, 'per me non cambia niente, nei club abbiamo già tanti stranieri'"
+    },
     {
       "title": "Mancini, 'ci dispiace tanto per Bianchedi, ci manca'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/mancini-ci-dispiace-tanto-per-bianchedi-ci-manca_b810d2b9-ec7e-4397-b7e1-a1fc4cfd41cd.html",
@@ -789,13 +796,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-01T16:39:23.000Z",
       "excerpt": "'Da Lippi e dagli altri allenatori italiani ho imparato tanto, soprattutto sulla tattica'"
-    },
-    {
-      "title": "Da triplete Inter a sogno essere allenato da Ancelotti, Wesley Sneijder si racconta",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/da-triplete-inter-a-sogno-essere-allenato-da-ancelotti-wesley-sneijder-si-racconta_9bd4b8ef-c2f9-49b7-b089-033ee334face.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-01T16:35:59.000Z",
-      "excerpt": "In nuovo contenuto Betsson.sport ex nazionale olandese fa viaggio tra ricordi indelebili"
     }
   ]
 }
