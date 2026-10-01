@@ -4,11 +4,25 @@
   "finanza": {
     "italia": [
       {
+        "title": "Torna EurHop a Roma: 88 birrifici artigianali da 9 Paesi e 800 birre in degustazione",
+        "link": "https://www.ilsole24ore.com/art/torna-eurhop-roma-88-birrifici-artigianali-9-paesi-e-800-birre-degustazione-AJKRIgVB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-01T16:28:58.000Z",
+        "excerpt": "Ottantotto birrifici da nove Paesi stranieri e da quasi tutta l’Italia si ritroveranno a Roma dal 9 all’11 ottobre per “EurHop – Roma Beer Festival”, il Salone internazionale della birra..."
+      },
+      {
         "title": "Draghi: “L’Europa metta al centro la crescita. No a tassi troppo alti”",
         "link": "https://www.repubblica.it/economia/2026/10/01/news/draghi_europa_metta_al_centro_crescita_tassi-425619922/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-01T16:24:04.000Z",
         "excerpt": "L’ex presidente della Bce avverte: “Per la sostenibilità dei debiti non sarà sufficiente la disciplina fiscale, serve lo sviluppo”. Un messaggio ai politici europei: “Avanti con l’agenda comune”. E uno a Francoforte: “St"
+      },
+      {
+        "title": "Cars.com crolla in borsa dopo la nomina del nuovo CFO",
+        "link": "https://it.investing.com/news/stock-market-news/carscom-crolla-in-borsa-dopo-la-nomina-del-nuovo-cfo-3571230",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T16:23:48.000Z",
+        "excerpt": ""
       },
       {
         "title": "Meloni: 'Inviata la lettera a von der Leyen'. L'Ue: 'Abbiamo già dato più flessibilità'",
@@ -18,11 +32,25 @@
         "excerpt": "La premier: 'Valutare l'impatto dell'inflazione'. Asse Roma-Praga: 'Misure temporanee sull'Ets contro lo shock dei prezzi dell'energia'"
       },
       {
+        "title": "Samsung alza i prezzi del Galaxy S26 di $100 per la carenza di chip",
+        "link": "https://it.investing.com/news/stock-market-news/samsung-alza-i-prezzi-del-galaxy-s26-di-100-per-la-carenza-di-chip-93CH-3571225",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T16:21:55.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Lo spread Btp-Bund conclude la giornata in aumento a 118,5 punti",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lo-spread-btp-bund-conclude-la-giornata-in-aumento-a-1185-punti_d1f1e887-e2b4-4e76-8174-cf9c9824f29f.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-01T16:20:00.000Z",
         "excerpt": "Sale al 4,69% il rendimento italiano, scende quello del titolo di Stato tedesco"
+      },
+      {
+        "title": "Lo stratega di Citadel Securities prevede un \"ricarico\" a ottobre dopo il reset di settembre",
+        "link": "https://it.investing.com/news/stock-market-news/lo-stratega-di-citadel-securities-prevede-un-ricarico-a-ottobre-dopo-il-reset-di-settembre-3571222",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-01T16:19:03.000Z",
+        "excerpt": ""
       },
       {
         "title": "Borsa: Milano maglia nera in Europa, soffre con le banche",
@@ -394,34 +422,6 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-01T13:35:58.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "Tesla, vendite in Europa in forte recupero a settembre",
-        "link": "https://it.investing.com/news/stock-market-news/tesla-vendite-in-europa-in-forte-recupero-a-settembre-3570993",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T13:35:07.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Cdp nel Golfo cerca investimenti per l’Italia: firmati due accordi a Riyadh",
-        "link": "https://www.repubblica.it/economia/2026/10/01/news/cdp_roadshow_golfo_investimenti_accordi_riyadh-425619509/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-01T13:34:16.000Z",
-        "excerpt": "Il roadshow ha toccato Doha, Abu Dhabi, Riyadh e Jeddah per rafforzare il legame con i Paesi arabi e sostenere l’internazionalizzazione delle imprese"
-      },
-      {
-        "title": "Carburanti, anche Tamoil annuncia “misure per il contenimento dei prezzi” fino al 31 ottobre",
-        "link": "https://www.repubblica.it/economia/2026/10/01/news/carburanti_anche_tamoil_annuncia_misure_per_il_contenimento_dei_prezzi_fino_al_31_ottobre-425619445/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-01T13:22:34.000Z",
-        "excerpt": "Ieri Palazzo Chigi aveva anticipato le trattative con il gruppo petrolifero e il governo libico. Non viene comunicato alcun tetto alle tariffe"
-      },
-      {
-        "title": "Berenberg declassa AG Barr: volumi deboli offuscano le prospettive",
-        "link": "https://it.investing.com/news/stock-market-news/berenberg-declassa-ag-barr-volumi-deboli-offuscano-le-prospettive-3570911",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T13:12:42.000Z",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -624,6 +624,62 @@
     ],
     "usa": [
       {
+        "title": "Wall Street in calo tra petrolio in aumento e obbligazioni volatili, i dati mostrano angoscia inflazionistica",
+        "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-following-upbeat-micron-earnings-4926147",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-01T15:11:40.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Questi 5 titoli di chip AI sono indispensabili nel quarto trimestre, afferma BofA",
+        "link": "https://www.investing.com/news/stock-market-news/these-5-ai-chip-stocks-are-mustown-into-q4-bofa-says-4927145",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-01T11:16:14.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Amazon e questi quattro titoli statunitensi sono le ultime aggiunte alla lista di punta di Goldman",
+        "link": "https://www.investing.com/news/stock-market-news/amazon-and-these-four-us-stocks-are-latest-additions-to-goldmans-flagship-list-4926888",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-01T10:31:01.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Micron prevede un primo trimestre più forte grazie alla forte domanda di IA",
+        "link": "https://www.investing.com/news/earnings/micron-beats-q4-estimates-on-aifueled-demand-gives-strong-fiscal-2027-outlook-4925841",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-01T09:00:19.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "ULTIMA ORA: ottieni InvestingPro per meno di $2 a settimana prima che i nostri saldi finiscano OGGI",
+        "link": "https://www.investing.com/news/stock-market-news/final-hour-get-investingpro-for-less-than-2-per-week-before-our-sale-ends-today-4926565",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-01T08:38:17.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Guadagni e conteggi del 212%: è ORA disponibile un nuovo elenco di titoli selezionati dall'IA per ottobre",
+        "link": "https://www.investing.com/news/stock-market-news/212-gains-and-counting-a-new-list-of-aipicked-stocks-for-october-is-now-live-4926427",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-01T08:31:38.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "GS aggiunge quattro titoli europei all'elenco delle condanne man mano che emergono i catalizzatori degli utili",
+        "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-adds-four-european-stocks-as-earnings-catalysts-emerge-4926517",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-01T08:08:08.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Prospettive guidate dall'intelligenza artificiale di Micron; Nike per segnalare - cosa sta muovendo i mercati",
+        "link": "https://www.investing.com/news/economy-news/microns-aidriven-outlook-nike-to-report--whats-moving-markets-4926463",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-01T07:50:34.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Deutsche Bank prevede che l'S&P 500 raggiungerà i 7000 entro la fine del 2025",
         "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-forecasts-sp-500-to-hit-7000-by-end-of-2025-3741586",
         "source": "Investing.com USA",
@@ -682,6 +738,13 @@
     ],
     "mondo": [
       {
+        "title": "Putin ribadisce, 'risponderemmo ad un attacco con ogni mezzo a disposizione'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/01/putin-ribadisce-risponderemmo-ad-un-attacco-con-ogni-mezzo-a-disposizione_2350099d-67b2-47f0-ab72-bdbc0e1c2ff1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-01T16:23:57.000Z",
+        "excerpt": "Ma il presidente precisa che ciò non significa automaticamente l'utilizzo di armi nucleari"
+      },
+      {
         "title": "Cnn: 'i dati sul voto anticipato negli Usa indicano un vantaggio dei democratici'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/01/cnn-i-dati-sul-voto-anticipato-negli-usa-indicano-un-vantaggio-dei_35fa6829-419c-44b8-b1a2-fa475d8d3d80.html",
         "source": "ANSA Mondo",
@@ -729,6 +792,13 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-01T15:55:28.000Z",
         "excerpt": "Il leader di Reform: 'Un secondo referendum dividerebbe il Paese'"
+      },
+      {
+        "title": "Una rissa tra piloti, poi una rapida discesa: i passeggeri raccontano il caos sul volo flydubai",
+        "link": "https://www.investing.com/news/commodities-news/a-pilot-brawl-then-a-rapid-descent-passengers-recount-chaos-on-flydubai-flight-4925642",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-01T15:54:40.000Z",
+        "excerpt": ""
       },
       {
         "title": "Il sottosegretario Dell'Utri visita il Museo nazionale dell'Emigrazione italiana",
@@ -1086,30 +1156,30 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-01T07:10:35.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "L'oro si blocca a $4.228 di resistenza alle nuvole in tendenza al ribasso: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/gold-breaks-below-4200-with-rsi-at-286-live-levels-93CH-4919469",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T07:10:33.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Test del rame 200 SMA e supporto Fib a $6,63: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T07:10:32.000Z",
-        "excerpt": ""
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Draghi: “L’Europa metta al centro la crescita. No a tassi troppo alti”",
+      "link": "https://www.repubblica.it/economia/2026/10/01/news/draghi_europa_metta_al_centro_crescita_tassi-425619922/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T16:13:20.000Z",
+      "excerpt": "L’ex presidente della Bce avverte: “Per la sostenibilità dei debiti non sarà sufficiente la disciplina fiscale, serve lo sviluppo”. Un messaggio ai politici europei: “Avanti con l’agenda comune”. E uno a Francoforte: “St"
+    },
     {
       "title": "Tamoil segue Eni, Ip e Q8: 'Fino al 31 ottobre misure per mitigare il prezzo dei carburanti'",
       "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/10/01/tamoil-fino-al-31-ottobre-misure-per-mitigare-il-prezzo-dei-carburanti_aeccd963-6814-4300-9b43-d37974b99c55.html",
       "source": "ANSA",
       "pubDate": "2026-10-01T15:38:38.000Z",
       "excerpt": "Accolti appelli di istituzioni e consumatori. Iniziative sostenibili anche per la rete"
+    },
+    {
+      "title": "Lagarde sui rischi dell’IA nella finanza: “I modelli possono sfuggire al controllo umano”",
+      "link": "https://www.repubblica.it/economia/2026/10/01/news/bce_lagarde_rischi_ia_finanza_possono_sfuggire_controllo-425619777/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T15:13:19.000Z",
+      "excerpt": "La presidente Bce, intervenendo al Comitato europeo per il rischio sistemico, mette in guardia: “L’Europa deve costruirsi un’autonomia sufficiente”"
     },
     {
       "title": "Sondaggi politici: Vannacci ferma la sua corsa, Pd frena al 20,4%",
@@ -1509,23 +1579,37 @@
       "source": "Repubblica",
       "pubDate": "2026-09-30T23:00:00.000Z",
       "excerpt": "Paola e Claudio Regeni, accompagnati dall’avvocata Alessandra Ballerini, parlano per la prima volta dopo la sentenza: “Costretti a questa reazione dalle incertezze dell’esecutivo. Non togliete gli striscioni. La dignità "
-    },
-    {
-      "title": "Regeni, tutti i dubbi del governo: “Richiesta di risarcimento solo dopo la Cassazione”",
-      "link": "https://www.repubblica.it/politica/2026/10/01/news/regeni_dubbi_governo_risarcimento_cassazione-425618234/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T23:00:00.000Z",
-      "excerpt": "Apertura di Foti, costretto a precisare. Palazzo Chigi smentisce i media del Cairo: nessun incontro riservato prima dell’udienza finale"
-    },
-    {
-      "title": "Bollette, tante offerte anti-rincari. Ma vince la tariffa a costo fisso",
-      "link": "https://www.repubblica.it/economia/2026/10/01/news/bollette_offerte_rincari_prezzo_fisso-425618261/",
-      "source": "Repubblica",
-      "pubDate": "2026-09-30T23:00:00.000Z",
-      "excerpt": "Dopo l’ultimo adeguamento indicato dall’Arera torna competitivo il mercato libero. Gli operatori propongono nuovi contratti scontati, però in linea con i prezzi di sei mesi fa"
     }
   ],
   "sport": [
+    {
+      "title": "Zidane e la testata, 'non sono fiero di quello che feci nella finale del 2006'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/01/zidane-e-la-testata-non-sono-fiero-di-quello-che-feci-nella-finale_06548fe3-2d0b-481b-b6c7-17f27ab2e894.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-01T16:35:19.000Z",
+      "excerpt": "'Ma non si possono fare solo cose belle. Materazzi? Mai più parlato con lui'"
+    },
+    {
+      "title": "Inter: Bisseck, vogliamo vincere la Champions",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/inter-bisseck-vogliamo-vincere-la-champions_499bff74-8899-433f-b799-c97d99b140a2.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-01T16:33:57.000Z",
+      "excerpt": "Sono molto felice a Milano, voglio crescere dentro e fuori dal campo"
+    },
+    {
+      "title": "Tiro a volo: Bacosi argento e squadre azzurre d'oro agli Europei di skeet",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/01/tiro-a-volo-bacosi-argento-e-squadre-azzurre-doro-agli-europei-di-skeet_d6f2edcd-abab-4a70-9855-2ff6adf7c3ee.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-01T16:30:08.000Z",
+      "excerpt": "Nella prova individuale maschile una penalità frena Rossetti e Cassandro"
+    },
+    {
+      "title": "Juve: Carnevali, dopo anni non positivi dobbiamo cambiare sotto tutti gli aspetti",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/juve-carnevali-dopo-anni-non-positivi-dobbiamo-cambiare-sotto-tutti_e30b2c18-a8b2-42f3-b932-9286749bb394.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-01T16:19:52.000Z",
+      "excerpt": "L'ad bianconero a Trento, nei confronti dei tifosi la cosa migliore è la trasparenza. La mia idea è quella di creare un po' più di italianità'"
+    },
     {
       "title": "Carnevali: \"La mia idea è quella di creare un po' più di italianità alla Juve\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/01/carnevali-la-mia-idea-e-quella-di-creare-un-po-piu-di-italianita-alla-juve_56d0cba6-8682-4eae-9972-f247405b8965.html",

@@ -41,6 +41,7 @@ const MAX_ITEMS_PER_DAY = 60;
 const HISTORY_DAYS_TO_KEEP = 7;
 const HISTORY_DIR = 'data/history';
 const TRANSLATE_DELAY_MS = 400;
+const MAX_AGE_DAYS = 30;
 
 function cleanExcerpt(text) {
   return (text || '').replace(/\s+/g, ' ').trim().slice(0, 220);
@@ -54,6 +55,13 @@ function getValidPubDate(item) {
     if (!isNaN(d.getTime())) return d.toISOString();
   }
   return new Date().toISOString();
+}
+
+function isTooOld(pubDateIso) {
+  const d = new Date(pubDateIso);
+  const ageMs = Date.now() - d.getTime();
+  const ageDays = ageMs / (1000 * 60 * 60 * 24);
+  return ageDays > MAX_AGE_DAYS;
 }
 
 function getRomeDateKey(date = new Date()) {
@@ -111,14 +119,20 @@ async function fetchCategory(feeds) {
         excerpt: cleanExcerpt(item.contentSnippet || item.summary || '')
       }));
 
-      if (feed.translate) {
+      const beforeFilter = feedItems.length;
+      feedItems = feedItems.filter(i => !isTooOld(i.pubDate));
+      const discarded = beforeFilter - feedItems.length;
+      if (discarded > 0) {
+        console.warn(`  ⚠️ ${feed.name}: scartate ${discarded} notizie più vecchie di ${MAX_AGE_DAYS} giorni (probabile fonte non aggiornata/cache stantia)`);
+      }
+
+      if (feed.translate && feedItems.length > 0) {
         console.log(`  🌍 Traduzione in corso per ${feed.name} (${feedItems.length} notizie)...`);
         feedItems = await translateItems(feedItems);
       }
 
       items = items.concat(feedItems);
-      const dateSample = feedItems[0] ? feedItems[0].pubDate : 'n/d';
-      console.log(`  ✓ ${feed.name}: ${feedItems.length} notizie (es. data: ${dateSample})`);
+      console.log(`  ✓ ${feed.name}: ${feedItems.length} notizie valide`);
     } catch (err) {
       console.error(`  ✗ Errore in ${feed.name} (${feed.url}): ${err.message}`);
     }
@@ -158,6 +172,47 @@ function mergeCategoryData(existing, fresh, maxItems) {
     merged[key] = mergeUnique((existing && existing[key]) || [], fresh[key], maxItems);
   }
   return merged;
+}
+
+// NUOVO: carica il file storico di oggi (se esiste) per usarlo come
+// "memoria" dell'ultimo ciclo riuscito, in caso di fallimento totale.
+function loadTodaySnapshot(todayKey) {
+  const todayFile = path.join(HISTORY_DIR, `${todayKey}.json`);
+  if (fs.existsSync(todayFile)) {
+    try {
+      return JSON.parse(fs.readFileSync(todayFile, 'utf-8'));
+    } catch (e) {
+      return null;
+    }
+  }
+  return null;
+}
+
+// NUOVO: se una categoria "semplice" (array) risulta vuota, recupera
+// l'ultimo dato noto dallo snapshot precedente invece di lasciarla vuota.
+function applyFallbackIfEmpty(category, freshValue, snapshot) {
+  if (!snapshot || !snapshot[category]) return freshValue;
+
+  if (Array.isArray(freshValue)) {
+    if (freshValue.length === 0 && Array.isArray(snapshot[category]) && snapshot[category].length > 0) {
+      console.warn(`  🛡️ Categoria "${category}" vuota dopo il fetch: ripristinati ${snapshot[category].length} elementi dal ciclo precedente.`);
+      return snapshot[category];
+    }
+    return freshValue;
+  }
+
+  // Categoria annidata (es. finanza per area)
+  const result = {};
+  for (const key of Object.keys(freshValue)) {
+    const prevRegionData = snapshot[category][key];
+    if (freshValue[key].length === 0 && Array.isArray(prevRegionData) && prevRegionData.length > 0) {
+      console.warn(`  🛡️ Area "${category}.${key}" vuota dopo il fetch: ripristinati ${prevRegionData.length} elementi dal ciclo precedente.`);
+      result[key] = prevRegionData;
+    } else {
+      result[key] = freshValue[key];
+    }
+  }
+  return result;
 }
 
 function updateTodayHistory(categoriesData, todayKey) {
@@ -213,17 +268,20 @@ function rebuildIndex() {
 
 async function main() {
   const todayKey = getRomeDateKey();
+  const snapshot = loadTodaySnapshot(todayKey);
   const output = { lastUpdated: new Date().toISOString() };
   const categoriesData = {};
 
   console.log('\n--- Categoria: finanza (per area) ---');
-  const finanzaData = await fetchRegionGroup(FEEDS.finanza);
+  let finanzaData = await fetchRegionGroup(FEEDS.finanza);
+  finanzaData = applyFallbackIfEmpty('finanza', finanzaData, snapshot);
   output.finanza = finanzaData;
   categoriesData.finanza = finanzaData;
 
   for (const category of ['attualita', 'sport']) {
     console.log(`\n--- Categoria: ${category} ---`);
-    const items = await fetchCategory(FEEDS[category]);
+    let items = await fetchCategory(FEEDS[category]);
+    items = applyFallbackIfEmpty(category, items, snapshot);
     output[category] = items;
     categoriesData[category] = items;
   }
