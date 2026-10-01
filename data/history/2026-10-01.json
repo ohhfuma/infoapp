@@ -4,6 +4,41 @@
   "finanza": {
     "italia": [
       {
+        "title": "Borsa: Milano apre in calo (-0,78%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/borsa-milano-apre-in-calo-078_d264d5b4-4d12-4759-99f7-fd41e6e33ca3.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T07:06:57.000Z",
+        "excerpt": "L'indice Ftse Mib scende a 50.971 punti"
+      },
+      {
+        "title": "ContourGlobal e Platte River completano il progetto solare Black Hollow Sun.",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/contourglobal-e-platte-river-completano-il-progetto-solare-black-hollow-sun._14706e07-5883-4880-b0ce-a8180c46a2d5.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T06:59:44.000Z",
+        "excerpt": "Complesso da 324 MWp (257 MWac), il più grande del Nord Colorado"
+      },
+      {
+        "title": "Una tassa sui lavoratori stranieri: la Svizzera vuole una clausola negli accordi con la Ue",
+        "link": "https://www.repubblica.it/economia/2026/10/01/news/una_tassa_sui_lavoratori_stranieri_la_svizzera_vuole_una_clausola_negli_accordi_con_la_ue-425618543/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-01T06:57:25.000Z",
+        "excerpt": "Il balzello passato al “Senato” elvetico va da 2mila a 4mila franchi, a seconda che si tratti di uno straniero che raggiunge i familiari o arriva per esercitare un’attività"
+      },
+      {
+        "title": "Il gas apre in calo sul mercato di Amsterdam (-0,8%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/il-gas-apre-in-calo-sul-mercato-di-amsterdam-08_c88b102f-c54e-4144-8697-a76ea12c9ded.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T06:50:52.000Z",
+        "excerpt": "I future Ttf scendono a 71,79 euro al megawattora"
+      },
+      {
+        "title": "Lo spread Btp-Bund apre in rialzo a 104, salgono i rendimenti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/lo-spread-btp-bund-apre-in-rialzo-a-104-salgono-i-rendimenti_a6797d6b-9d48-4c9e-b8aa-6ba373f52b25.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-01T06:48:31.000Z",
+        "excerpt": "Il decennale italiano al 4,63%, aggiorna i massimi da novembre 2023"
+      },
+      {
         "title": "Eurotech firma per acquisizione ramo d'azienda Vem Solutions",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/eurotech-firma-per-acquisizione-ramo-dazienda-vem-solutions_1da02c66-1578-44ba-af96-bbc620f12447.html",
         "source": "ANSA Economia",
@@ -387,41 +422,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-09-30T20:55:20.000Z",
         "excerpt": "Il ministro dell’Interno Piantedosi prolunga di altri 15 giorni i controlli alle frontiere aeree e marittime con la spagna dopo la crisi migratoria nell’exclave. Madrid verso una nuova proroga delle verifiche. Il dossier"
-      },
-      {
-        "title": "La valutazione di Kalshi potrebbe raggiungere 40 miliardi in vista dell’IPO",
-        "link": "https://it.investing.com/news/stock-market-news/la-valutazione-di-kalshi-potrebbe-raggiungere-40-miliardi-in-vista-dellipo-3569550",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T20:54:25.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Perché il titolo Nu Holdings è in rialzo nell’after-hours oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-nu-holdings-e-in-rialzo-nellafterhours-oggi-93CH-3569544",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T20:48:10.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Movers after-hours: GOOGL, MU, CEG, NU",
-        "link": "https://it.investing.com/news/stock-market-news/movers-afterhours-googl-mu-ceg-nu-432SI-3569539",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T20:45:04.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il consiglio di MSG Sports approva la separazione dei Rangers dai Knicks",
-        "link": "https://it.investing.com/news/stock-market-news/il-consiglio-di-msg-sports-approva-la-separazione-dei-rangers-dai-knicks-3569540",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T20:44:51.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Bernstein individua i migliori titoli nel networking, Celestica in testa",
-        "link": "https://it.investing.com/news/stock-market-news/bernstein-individua-i-migliori-titoli-nel-networking-celestica-in-testa-3569537",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-09-30T20:42:01.000Z",
-        "excerpt": ""
       }
     ],
     "europa": [
@@ -902,11 +902,25 @@
   },
   "attualita": [
     {
+      "title": "Paola Turci: 'Non cerco il successo ad ogni costo, preferisco far pensare'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/2026/09/30/paola-turci-non-cerco-il-successo-ad-ogni-costo-preferisco-far-pensare_a65cd270-001f-43e1-b759-9d1e6bff4a32.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-01T06:53:38.000Z",
+      "excerpt": "\"Abolire il femminicidio? Per me Vannacci non è un politico. Sanremo? Mi piace il rischio\""
+    },
+    {
       "title": "Schiavitù e violenza sessuale, scoperta una setta nel Torinese",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/01/schiavitu-e-violenza-sessuale-scoperta-una-setta-nel-torinese_9d558b63-9912-4ebf-a731-3db030c575b4.html",
       "source": "ANSA",
       "pubDate": "2026-10-01T06:31:25.000Z",
       "excerpt": "Arrestato un uomo di 59 anni, indagine dei carabinieri"
+    },
+    {
+      "title": "Artico, lo scioglimento del permafrost ha rilasciato metalli tossici nei fiumi ",
+      "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/10/01/artico-lo-scioglimento-del-permafrost-ha-rilasciato-metalli-tossici-nei-fiumi_88fabee7-ef64-4df2-806e-816fbab31bd6.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-01T06:03:14.000Z",
+      "excerpt": "Livelli di zinco 70 volte maggiori della norma, i solfati rendono l'acqua color ruggine"
     },
     {
       "title": "Fallita l'esecuzione capitale di Christa Pike in Tennessee",
@@ -1152,6 +1166,20 @@
       "source": "Repubblica",
       "pubDate": "2026-09-30T16:25:18.000Z",
       "excerpt": "Perché l’aereo non ha puntato sullo Stato ebraico? Gli uomini che hanno sventato il presunto attentato erano agenti dei servizi di sicurezza israeliani in incognito? Sono alcune delle domande ancora senza risposta sul ca"
+    },
+    {
+      "title": "Le mostre del weekend, dai Brueghel a Matisse e Bacon",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/30/le-mostre-del-weekend-dai-brueghel-a-matisse-e-bacon_b9005693-89cc-498c-ac7e-88456c228834.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-30T15:58:43.000Z",
+      "excerpt": "A Parma ritratti di donne, da van Gogh a Modigliani, a Cento c'è Provenzale"
+    },
+    {
+      "title": "Morta la moglie dello chef Giancarlo Perbellini, era malata da tempo",
+      "link": "https://www.ansa.it/canale_terraegusto/notizie/in_breve/2026/09/30/morta-la-moglie-dello-chef-giancarlo-perbellini-era-malata-da-tempo_b8de77ba-8db0-4d80-858b-988939d4f995.html",
+      "source": "ANSA",
+      "pubDate": "2026-09-30T15:28:15.000Z",
+      "excerpt": "Lo chef veronese le aveva dedicato la stella Michelin"
     },
     {
       "title": "Etna, 'macchina del tempo' ricostruisce 160 anni di vita dei crateri sommitali",
