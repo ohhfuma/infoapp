@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T22:40:26.277Z",
+  "lastUpdated": "2026-10-02T23:06:36.909Z",
   "finanza": {
     "italia": [
       {
@@ -16,7 +16,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T20:53:13.000Z",
         "excerpt": "",
-        "image": null
+        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
       },
       {
         "title": "Banche comunitarie fanno causa al regolatore per le licenze crypto",
@@ -32,7 +32,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T20:27:03.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
       },
       {
         "title": "Scostamento da 29 miliardi. Giorgetti: 'Più prudenza sulla manovra' ",
@@ -64,7 +64,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T19:46:39.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_S.jpg"
+        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
       },
       {
         "title": "Nscale assume l’ex Meta Justin Osofsky come COO prima dell’IPO",
@@ -80,7 +80,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T19:28:51.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg"
       },
       {
         "title": "Le azioni Vistra rimbalzano dai minimi su notizie di prestito nucleare da $4 miliardi",
@@ -261,6 +261,14 @@
     ],
     "europa": [
       {
+        "title": "Sanchez bocciato sul piano casa. Spagna verso elezioni anticipate",
+        "link": "https://www.ilsole24ore.com/art/sanchez-bocciato-piano-casa-spagna-elezioni-anticipate-AJSZd3WB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-02T22:55:00.000Z",
+        "excerpt": "Il premier socialista attacca le opposizioni: «La storia vi giudicherà molto presto». Il voto potrebbe essere il 29 novembre. Continuano le manifestazioni di piazza contro il caro affitti",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/2026-10-02T091751Z_1162046201_RC2XUNAZNB8Z_RTRMADP_5_SPAIN-HOUSING-PARLIAMENT-U00873424868Fis-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
         "title": "Sanchez battuto sui decreti casa, voto anticipato in vista. Nuove proteste in piazza",
         "link": "https://www.ilsole24ore.com/art/spagna-congresso-deputati-boccia-primo-decreto-sull-edilizia-abitativa-AJ2uZtWB",
         "source": "Il Sole 24 Ore Mondo",
@@ -379,14 +387,6 @@
         "pubDate": "2026-10-01T20:16:36.000Z",
         "excerpt": "Si concretizza con un primo arrestato dai connotati iraniani il sospetto d’una pista legata a Teheran dietro il presunto piano di sabotaggio sventato domenica contro la base aerea della Raf...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/02/Immagini/Ritagli/bdfec1e7231e8c8967765f09b3ff0a2c-U51875843334uGD-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "A Londra focus sulle sfide delle imprese italiane: crescita, competitività, export",
-        "link": "https://www.ilsole24ore.com/art/a-londra-focus-sfide-imprese-italiane-crescita-competitivita-export-AJbQ1wVB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-01T19:26:37.000Z",
-        "excerpt": "Stimolare la crescita, mantenere la competitività e sostenere l’export: queste le sfide che le imprese italiane hanno dimostrato di saper affrontare anche in questa fase di grande instabilità geopolitica. Il...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/02/Immagini/Ritagli/Evento-U55842751710DaJ-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "usa": [],
