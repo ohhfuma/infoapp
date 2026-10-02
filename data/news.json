@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T23:39:20.567Z",
+  "lastUpdated": "2026-10-02T00:11:36.140Z",
   "finanza": {
     "italia": [
       {
@@ -344,6 +344,34 @@
     "usa": [],
     "mondo": [
       {
+        "title": "OpenAI licenzia tre ricercatori per gestione impropria di informazioni sensibili",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/openai-licenzia-tre-ricercatori-per-gestione-impropria-di-informazioni-sensibili_356c93ae-93dc-4eb7-969a-7f66a99840b1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-01T23:59:06.000Z",
+        "excerpt": "Wsj e Bloomberg 'almeno due si occupavano di sicurezza e allineamento dei sistemi'"
+      },
+      {
+        "title": "Bolivia, governo annuncia l'arresto del nuovo procuratore generale ad interim Montaño",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/bolivia-governo-annuncia-larresto-del-nuovo-procuratore-generale-ad-interim-montano_bd75ae15-45da-45b1-a2b0-d106abdcd3ea.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-01T23:56:25.000Z",
+        "excerpt": "Si era insediato oggi dopo la detenzione per narcotraffico del suo predecessore"
+      },
+      {
+        "title": "Brasile, Flávio Bolsonaro rinuncia al dibattito della Globo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-flavio-bolsonaro-rinuncia-al-dibattito-della-globo_fe48c16e-d322-429c-ac6f-50be72129b82.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-01T23:55:35.000Z",
+        "excerpt": "Ultimo confronto prima del voto, ma senza i due candidati in testa ai sondaggi"
+      },
+      {
+        "title": "Una rissa tra piloti, poi una rapida discesa: i passeggeri raccontano il caos sul volo flydubai",
+        "link": "https://www.investing.com/news/commodities-news/a-pilot-brawl-then-a-rapid-descent-passengers-recount-chaos-on-flydubai-flight-4925642",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-01T23:42:29.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "L’accusa di Netanyahu: “Il copilota di Flydubai islamista radicalizzato”",
         "link": "https://www.repubblica.it/esteri/2026/10/02/news/accusa_netanyahu_copilota_flydubai_islamista_radicalizzato_trump_iran-425620491/?rss",
         "source": "Repubblica Esteri",
@@ -449,32 +477,11 @@
         "excerpt": "Sull'esempio di quanto fatto con Intel"
       },
       {
-        "title": "Media, 'il voto in Brasile può portare il 95% dell'Amazzonia ai governi di destra'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/media-il-voto-in-brasile-puo-portare-il-95-dellamazzonia-ai-governi-di-destra_11497f99-0e07-4c2c-ab4d-9c1ededeecc5.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-01T20:18:19.000Z",
-        "excerpt": "Le elezioni saranno decisive per gli equilibri ambientali della regione"
-      },
-      {
-        "title": "Meda, 'il voto in Brasile può portare il 95% dell'Amazzonia ai governi di destra'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/meda-il-voto-in-brasile-puo-portare-il-95-dellamazzonia-ai-governi-di-destra_3b4ad628-44b8-4a4b-8429-22b83983f448.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-01T20:14:55.000Z",
-        "excerpt": "Le elezioni saranno decisive per gli equilibri ambientali della regione"
-      },
-      {
         "title": "Le esportazioni di petrolio del Venezuela scendono a 1,08 milioni di barili al giorno a settembre",
         "link": "https://www.investing.com/news/commodities-news/venezuela-oil-exports-fall-to-108-million-bpd-in-september-93CH-4928281",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-01T20:14:26.000Z",
         "excerpt": ""
-      },
-      {
-        "title": "Brasile, Lula e Flávio Bolsonaro si concentrano sul voto del Sud-est",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/01/brasile-lula-e-flavio-bolsonaro-si-concentrano-sul-voto-del-sud-est_75d40b04-b409-4da8-bbe2-60165d6f3183.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-01T20:01:47.000Z",
-        "excerpt": "Gli ultimi appuntamenti dei due candidati a Rio de Janeiro e San Paolo"
       },
       {
         "title": "Brent in aumento del 4% mentre gli Stati Uniti hanno detto di inviare più truppe in Medio Oriente, riprendere a bombardare l'Iran",
@@ -488,13 +495,6 @@
         "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1400-support-in-distribution-range-live-93CH-4921028",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-01T19:18:41.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Petrolio greggio WTI intrappolato nella zona di taglio delle nuvole: livelli live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-95609773-resistance-wall-live-levels-93CH-4919472",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T19:18:36.000Z",
         "excerpt": ""
       },
       {
@@ -514,6 +514,34 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Tensione tra premier e Salvini prima dell’ok allo scostamento. Ma la difesa perde 8 miliardi",
+      "link": "https://www.repubblica.it/economia/2026/10/02/news/tensione_meloni_salvini_prima_ok_scostamento_difesa_energia-425620472/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T23:00:00.000Z",
+      "excerpt": "Vertice a Palazzo Chigi con i leader, la Lega per il rinvio. L’accordo arriva su 28 miliardi di spese extra per energia e armi"
+    },
+    {
+      "title": "Meloni scrive a von der Leyen: “L’inflazione fa salire la spesa”. Bruxelles: “Abbiamo già dato”",
+      "link": "https://www.repubblica.it/economia/2026/10/02/news/meloni_scrive_von_der_leyen_inflazione_spesa_ue-425620454/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T23:00:00.000Z",
+      "excerpt": "Grecia, Spagna e Francia potrebbero seguire la stessa strada. Il confronto rimandato all’Ecofin di giovedì prossimo"
+    },
+    {
+      "title": "Il caro energia incombe sulle spese condominiali: “Rincari sulle bollette fino al 40%”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/02/news/caro_energia_bollette_condomini_rincari_aumenti-425620246/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T23:00:00.000Z",
+      "excerpt": "Strategie anti-salasso allo studio. Gli amministratori: “Rate in più e caloriferi accesi più tardi se le temperature sono miti”"
+    },
+    {
+      "title": "“Vigile del fuoco a Milano, arrotondo la busta paga con turni extra agli eventi”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/02/news/piccoli_salari_stipendio_storia_pompieri-425620327/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T23:00:00.000Z",
+      "excerpt": "La quinta puntata della serie “Piccoli salari”. Antonio Rosato, 53 anni, è caposquadra esperto: “Città troppo cara per risparmiare, abito a Legnano e passo le vacanze a casa dei miei”"
+    },
     {
       "title": "Sgarbi in rianimazione, l’ira della figlia Evelina: “Colpa di chi lo ha esibito tutta l’estate”",
       "link": "https://www.repubblica.it/politica/2026/10/02/news/vittorio_sgarbi_rianimazione_ira_figlia_evelina-425620426/",
@@ -564,39 +592,11 @@
       "excerpt": "Un gol al 95' dell'attaccante del Milan consente ai ragazzi di Baldini di restare in corsa per il primo posto nel proprio girone di qualificazione. Il 5 ottobre a Pescara bisognerà vincere con 2 gol di scarto"
     },
     {
-      "title": "Musk torna al governo: guiderà il Project Meridian per le guerre del futuro, con un occhio alla Luna",
-      "link": "https://www.repubblica.it/esteri/2026/10/01/news/musk_torna_al_governo_project_meridian_guerre_del_futuro_luna-425620276/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-01T19:09:22.000Z",
-      "excerpt": "L’annuncio del capo del Pentagono Hegseth. Avrà lo scopo di anticipare gli scenari operativi e sviluppare tutte le armi e gli strumenti necessari a garantire la supremazia militare Usa"
-    },
-    {
-      "title": "Benigni da Vespa: “San Francesco, un ottimo leader del campo largo”",
-      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/10/01/news/benigni_da_vespa_san_francesco_un_ottimo_leader_del_campo_largo-425620216/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-01T18:40:36.000Z",
-      "excerpt": "Il premio Oscar ospite a “Cinque minuti” per parlare del monologo dedicato al poverello di Assisi in onda domenica 4 ottobre su Rai 1"
-    },
-    {
       "title": "'Viva la vida', a Cosenza una mostra immersiva dedicata a Frida Kahlo",
       "link": "https://www.ansa.it/donne/notizie/2026/09/30/viva-la-vida-a-cosenza-mostra-immersiva-dedicata-a-frida-kahlo_3de3a74f-9b75-4210-9a61-f71379d53efe.html",
       "source": "ANSA",
       "pubDate": "2026-10-01T17:23:15.000Z",
       "excerpt": "Al Museo multimediale un percorso artistico e simbolico incentrato sulla pittrice"
-    },
-    {
-      "title": "Zidane: “La testata a Materazzi? Non ne vado fiero, ma non ho rimpianti”",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/10/01/news/zidane_francia_italia_cosa_ha_detto-425620081/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-01T17:19:13.000Z",
-      "excerpt": "Vent’anni dopo la fine della carriera di calciatore, Zizou ritrova l’Italia nella prima in Francia da ct transalpino"
-    },
-    {
-      "title": "Meloni: “Inviata la lettera a von der Leyen, valutare l'impatto dell'inflazione”",
-      "link": "https://www.repubblica.it/politica/2026/10/01/news/meloni_von_der_leyen_valutare_impatto_inflazione-425619973/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-01T16:32:10.000Z",
-      "excerpt": "La premier alla Cna: “Non siamo gli unici a chiederlo”"
     },
     {
       "title": "Renato Zero compie 76 anni, \"mi regalo un altro disco per Natale\"",
