@@ -401,3 +401,39 @@ function init() {
 }
 
 init();
+
+/* ========== DARK MODE ========== */
+
+const THEME_STORAGE_KEY = 'infoapp_theme';
+
+function applyTheme(theme) {
+  if (theme === 'dark') {
+    document.body.classList.add('dark-mode');
+    document.getElementById('theme-toggle-btn').textContent = '☀️';
+  } else {
+    document.body.classList.remove('dark-mode');
+    document.getElementById('theme-toggle-btn').textContent = '🌙';
+  }
+}
+
+function getSavedTheme() {
+  const saved = localStorage.getItem(THEME_STORAGE_KEY);
+  if (saved) return saved;
+  // Se non c'è preferenza salvata, rispetta le impostazioni di sistema
+  const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  return prefersDark ? 'dark' : 'light';
+}
+
+function toggleTheme() {
+  const isDark = document.body.classList.contains('dark-mode');
+  const newTheme = isDark ? 'light' : 'dark';
+  localStorage.setItem(THEME_STORAGE_KEY, newTheme);
+  applyTheme(newTheme);
+}
+
+function initTheme() {
+  applyTheme(getSavedTheme());
+  document.getElementById('theme-toggle-btn').addEventListener('click', toggleTheme);
+}
+
+initTheme();
