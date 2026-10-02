@@ -1,14 +1,30 @@
 {
-  "lastUpdated": "2026-10-02T07:38:41.278Z",
+  "lastUpdated": "2026-10-02T07:41:16.111Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Eni, da oggi sconto del 20% a prezzi di gasolio e benzina a uso agricolo e motopesca",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/eni-da-oggi-sconto-del-20-a-prezzi-di-gasolio-e-benzina-a-uso-agricolo-e-motopesca_215ae8e9-77e4-4949-bb7e-839b434c5839.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-02T07:39:54.000Z",
+        "excerpt": "Fino alla fine di ottobre, con possibile estensione fino a fine anno",
+        "image": null
+      },
       {
         "title": "Lo spread tra Btp-Bund mette la retromarcia e scende a 118 punti base",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/lo-spread-tra-btp-bund-mette-la-retromarcia-e-scende-a-118-punti-base_4ffa336a-e5ef-488d-a1d2-32f0619e2c6b.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-02T07:28:44.000Z",
+        "pubDate": "2026-10-02T07:38:40.000Z",
         "excerpt": "Anche i rendimenti calano, il decennale è al 4,66%",
         "image": null
+      },
+      {
+        "title": "Stellantis supera il mercato italiano: vendite ancora in crescita a settembre",
+        "link": "https://it.investing.com/news/stock-market-news/stellantis-supera-il-mercato-italiano-vendite-ancora-in-crescita-a-settembre-3571850",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T07:35:07.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
       },
       {
         "title": "FTSE 100 oggi: titoli in lieve rimbalzo dopo il crollo dei gilt; focus sui dati occupazione USA",
@@ -123,14 +139,6 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/02/Immagini/Ritagli/datterini-U82416487534vUm-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "I profitti di JD Wetherspoon calano del 28% per l’aumento dei costi",
-        "link": "https://it.investing.com/news/stock-market-news/i-profitti-di-jd-wetherspoon-calano-del-28-per-laumento-dei-costi-3571783",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T06:42:13.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEBB30F5_M.jpg"
-      },
-      {
         "title": "Borsa: Asia contrastata, mercato guarda a dati chiave occupazione negli Usa",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/borsa-asia-contrastata-mercato-guarda-a-dati-chiave-occupazione-negli-usa_acf17bab-5173-4d03-a8d0-def8cc563435.html",
         "source": "ANSA Economia",
@@ -144,14 +152,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-02T06:16:35.000Z",
         "excerpt": "Moneta unica passa di mano a 177,4300 yen",
-        "image": null
-      },
-      {
-        "title": "Prezzo oro in rialzo, Spot scambiato a 4.184 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/prezzo-oro-in-rialzo-spot-scambiato-a-4.184-dollari_afe9b327-fbb6-4153-96fd-7c698f3f3e1b.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-02T06:13:01.000Z",
-        "excerpt": "Quotazione sale dello 0,17%",
         "image": null
       },
       {
@@ -481,12 +481,76 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/083010993-8ac9cc2c-38bc-48ed-90dc-cd239b34a394.jpg"
       },
       {
+        "title": "Il rame si aggrappa a $6,57 Supporto Fibonacci: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:11:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEHAL0HI_L.jpg"
+      },
+      {
+        "title": "Il petrolio Brent si blocca a $102,30 di resistenza: livelli live",
+        "link": "https://www.investing.com/news/commodities-news/brent-oil-breaks-10150-neckline-eyes-9749-support-live-93CH-4919470",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:11:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPECB601J_M.jpg"
+      },
+      {
+        "title": "Gasolio di Londra compresso tra $1.412-$1.450: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1400-support-in-distribution-range-live-93CH-4921028",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:11:16.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED1L0AU_M.jpg"
+      },
+      {
+        "title": "Il gas naturale si aggrappa al supporto 200 SMA a $2,914: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-in-30813203-range-live-levels-93CH-4919473",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:11:12.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPECBI0MG_M.jpg"
+      },
+      {
+        "title": "Bandiera dell'orso d'argento 80% completa vicino a $61,98 resistenza: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/silver-breaks-below-sma-200-and-ichimoku-cloud-live-levels-93CH-4919471",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:11:10.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/silver_M_1440048077.jpg"
+      },
+      {
+        "title": "Test dell'oro $4.210 con la bandiera dell'orso incombente: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/gold-breaks-below-4200-with-rsi-at-286-live-levels-93CH-4919469",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:10:53.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/Gold_800x533_L_1729784668.jpg"
+      },
+      {
         "title": "Sicurezza, chiesa, famiglia. Flávio Bolsonaro, nel nome del padre: “Se vinco concederò l’indulto”",
         "link": "https://www.repubblica.it/esteri/2026/10/02/news/chi_e_flavio_bolsonaro_figlio_jair_sfida_lula_elezioni_in_brasile-425620859/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-02T07:03:48.000Z",
         "excerpt": "Designato erede lo scorso mese di gennaio, il primogenito della famiglia prova a battere l’eterno rivale del padre, Lula da Silva, che corre per il terzo mandato",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/090321966-0f83a86a-aa19-44a0-b371-c97a81195718.jpg"
+      },
+      {
+        "title": "L'oro si stabilizza come dollaro più forte, pesano rendimenti più elevati; dati sull'occupazione negli Stati Uniti attesi",
+        "link": "https://www.investing.com/news/commodities-news/gold-steadies-as-stronger-dollar-higher-yields-weigh-us-jobs-data-awaited-4928890",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T06:53:08.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED180L9_M.jpg"
+      },
+      {
+        "title": "Evacuata in un'incubatrice, ora di nuovo a Gaza per conoscere la mamma",
+        "link": "https://www.investing.com/news/commodities-news/evacuated-in-an-incubator-now-back-in-gaza-getting-to-know-mama-4928891",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T06:42:40.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9108V_L.jpg"
       },
       {
         "title": "Trump, 'l'Iran è pronto a cedere e la questione si concluderà molto in fretta'",
@@ -587,6 +651,14 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Ballando con le stelle, i protagonisti della nuova edizione del programma",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/10/01/ballando-con-le-stelle-i-protagonisti-della-nuova-edizione-del-programma_76c6a65d-ebc6-49c3-86d8-e2a8f54ac4c9.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T07:34:31.000Z",
+      "excerpt": "Andy Diaz: \"Dopo aver vinto tutto, mi manca solo ballando\"",
+      "image": null
+    },
     {
       "title": "Proteste studentesche in Francia, feriti 65 dipendenti scolastici di cui 40 presidi",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/proteste-studentesche-in-francia-feriti-65-dipendenti-scolastici-di-cui-40-presidi_68da0559-2d19-4482-8729-6ff30c0ea713.html",
@@ -705,14 +777,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-01T16:42:06.000Z",
       "excerpt": "Cambiano design e alcune funzioni, sei milioni di articoli nel database",
-      "image": null
-    },
-    {
-      "title": "L'approfondimento ANSA sull'accordo UE-Mercosur&nbsp;",
-      "link": "https://www.ansa.it/native/ansacom/2026/10/01/lapprofondimento-ansa-sullaccordo-ue-mercosur_82a89cb0-43fd-4b7b-b81a-ba751a21982b.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-01T07:02:47.000Z",
-      "excerpt": "Iscriviti ora per ricevere la newsletter oggi",
       "image": null
     }
   ],

@@ -4,6 +4,22 @@
   "finanza": {
     "italia": [
       {
+        "title": "Eni, da oggi sconto del 20% a prezzi di gasolio e benzina a uso agricolo e motopesca",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/eni-da-oggi-sconto-del-20-a-prezzi-di-gasolio-e-benzina-a-uso-agricolo-e-motopesca_215ae8e9-77e4-4949-bb7e-839b434c5839.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-02T07:39:54.000Z",
+        "excerpt": "Fino alla fine di ottobre, con possibile estensione fino a fine anno",
+        "image": null
+      },
+      {
+        "title": "Stellantis supera il mercato italiano: vendite ancora in crescita a settembre",
+        "link": "https://it.investing.com/news/stock-market-news/stellantis-supera-il-mercato-italiano-vendite-ancora-in-crescita-a-settembre-3571850",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T07:35:07.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
+      },
+      {
         "title": "Lo spread tra Btp-Bund mette la retromarcia e scende a 118 punti base",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/lo-spread-tra-btp-bund-mette-la-retromarcia-e-scende-a-118-punti-base_4ffa336a-e5ef-488d-a1d2-32f0619e2c6b.html",
         "source": "ANSA Economia",
@@ -416,20 +432,6 @@
         "source": "Repubblica Economia",
         "pubDate": "2026-10-01T23:00:00.000Z",
         "excerpt": "Vertice a Palazzo Chigi con i leader, la Lega per il rinvio. L’accordo arriva su 28 miliardi di spese extra per energia e armi"
-      },
-      {
-        "title": "Titoli di Stato, tempesta globale. Draghi: “Cauti sul rialzo dei tassi”",
-        "link": "https://www.repubblica.it/economia/2026/10/02/news/allarme_bond_schizzano_rendimenti_spread_draghi-425620344/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-01T23:00:00.000Z",
-        "excerpt": "Su i rendimenti, lo spread vola ai massimi di gennaio 2025. L’ex presidente Bce: “Integrazione Ue e riforme, il faro sia la crescita”"
-      },
-      {
-        "title": "Ets, sulle quote di Co2 l’Italia trova un alleato nella Repubblica Ceca",
-        "link": "https://www.repubblica.it/economia/2026/10/02/news/ets_quote_co2_sospensione_richiesta_italia_repubblica_ceca-425620339/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-01T23:00:00.000Z",
-        "excerpt": "Praga si è unita a Roma nella richiesta alle istituzioni Ue di sospendere il sistema per venire incontro alle imprese"
       }
     ],
     "europa": [
@@ -713,6 +715,46 @@
         "pubDate": "2026-10-02T07:25:19.000Z",
         "excerpt": "Il ministro dell'Istruzione Geffray. Dicastero Giustizia: i danni li paghino i genitori",
         "image": null
+      },
+      {
+        "title": "Il rame si aggrappa a $6,57 Supporto Fibonacci: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:11:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEHAL0HI_L.jpg"
+      },
+      {
+        "title": "Il petrolio Brent si blocca a $102,30 di resistenza: livelli live",
+        "link": "https://www.investing.com/news/commodities-news/brent-oil-breaks-10150-neckline-eyes-9749-support-live-93CH-4919470",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:11:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPECB601J_M.jpg"
+      },
+      {
+        "title": "Il gas naturale si aggrappa al supporto 200 SMA a $2,914: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-in-30813203-range-live-levels-93CH-4919473",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:11:12.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPECBI0MG_M.jpg"
+      },
+      {
+        "title": "Bandiera dell'orso d'argento 80% completa vicino a $61,98 resistenza: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/silver-breaks-below-sma-200-and-ichimoku-cloud-live-levels-93CH-4919471",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:11:10.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/silver_M_1440048077.jpg"
+      },
+      {
+        "title": "Test dell'oro $4.210 con la bandiera dell'orso incombente: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/gold-breaks-below-4200-with-rsi-at-286-live-levels-93CH-4919469",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T07:10:53.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/Gold_800x533_L_1729784668.jpg"
       },
       {
         "title": "Sicurezza, chiesa, famiglia. Flávio Bolsonaro, nel nome del padre: “Se vinco concederò l’indulto”",
@@ -1039,6 +1081,14 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Ballando con le stelle, i protagonisti della nuova edizione del programma",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/10/01/ballando-con-le-stelle-i-protagonisti-della-nuova-edizione-del-programma_76c6a65d-ebc6-49c3-86d8-e2a8f54ac4c9.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T07:34:31.000Z",
+      "excerpt": "Andy Diaz: \"Dopo aver vinto tutto, mi manca solo ballando\"",
+      "image": null
+    },
     {
       "title": "Proteste studentesche in Francia, feriti 65 dipendenti scolastici di cui 40 presidi",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/proteste-studentesche-in-francia-feriti-65-dipendenti-scolastici-di-cui-40-presidi_68da0559-2d19-4482-8729-6ff30c0ea713.html",
