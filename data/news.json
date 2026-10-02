@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T22:07:26.726Z",
+  "lastUpdated": "2026-10-02T22:40:26.277Z",
   "finanza": {
     "italia": [
       {
@@ -16,7 +16,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T20:53:13.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+        "image": null
       },
       {
         "title": "Banche comunitarie fanno causa al regolatore per le licenze crypto",
@@ -32,7 +32,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T20:27:03.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_L.jpg"
       },
       {
         "title": "Scostamento da 29 miliardi. Giorgetti: 'Più prudenza sulla manovra' ",
@@ -64,7 +64,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T19:46:39.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_S.jpg"
       },
       {
         "title": "Nscale assume l’ex Meta Justin Osofsky come COO prima dell’IPO",
@@ -72,7 +72,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T19:43:26.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_small-LYNXMPEL2A0UA_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
       },
       {
         "title": "Bayer investirà 2,2 miliardi di dollari in un nuovo sito produttivo in Ohio",
@@ -80,7 +80,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T19:28:51.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_S.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_L.jpg"
       },
       {
         "title": "Le azioni Vistra rimbalzano dai minimi su notizie di prestito nucleare da $4 miliardi",
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Haiti, oltre 5.700 tra morti e feriti per la violenza delle gang",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/03/haiti-oltre-5.700-tra-morti-e-feriti-per-la-violenza-delle-gang_fffbb22c-2dfd-47f4-a154-23577de55575.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T22:35:31.000Z",
+        "excerpt": "Il bilancio dell'Onu dal primo gennaio all'11 settembre, oltre mille le donne violentate",
+        "image": null
+      },
+      {
+        "title": "Ecuador, espulso in Svezia il programmatore e attivista svedese Ola Bini",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/03/ecuador-espulso-in-svezia-il-programmatore-e-attivista-svedese-ola-bini_c9787f0d-1201-4e9c-9ef6-08e80670ba48.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T22:31:09.000Z",
+        "excerpt": "Legato ad Assange, le autorità lo hanno dichiarato una minaccia per la sicurezza nazionale",
+        "image": null
+      },
+      {
         "title": "'L'Oman aveva vietato il volo al co-pilota della FlyDubai per radicalizzazione'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/02/loman-aveva-vietato-il-volo-al-co-pilota-della-flydubai-per-radicalizzazione_3e8c4bfe-f4e9-4b82-ba01-57928bc68a4b.html",
         "source": "ANSA Mondo",
@@ -526,22 +542,6 @@
         "pubDate": "2026-10-02T18:29:52.000Z",
         "excerpt": "Il capitano indiano, ancora ricoverato in ospedale negli Emirati Arabi Uniti, racconta l’inferno sul volo di mercoledì da Dubai a Tel-Aviv: “Ero disteso sul pavimento, ferito, ma mi sono detto di fare un ultimo sforzo pe",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/191048607-4ebf6c60-96ac-4355-b540-ec181125f8fe.jpg"
-      },
-      {
-        "title": "Arcivescovo di Buenos Aires, 'il Papa troverà un'Argentina in crisi e ferita'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/arcivescovo-di-buenos-aires-il-papa-trovera-unargentina-in-crisi-e-ferita_cea428e7-5e6c-4478-a08a-80ad35b9ad6f.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T18:28:57.000Z",
-        "excerpt": "'Disprezzo e intolleranza all'ordine del giorno, ma Leone porta un messaggio di unità'",
-        "image": null
-      },
-      {
-        "title": "'Caso Rosario', la forza del diritto contro le mafie in Argentina",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/caso-rosario-la-forza-del-diritto-contro-le-mafie-in-argentina_26e63b62-7a17-4ca8-8587-5bf4cda3bba1.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T17:52:49.000Z",
-        "excerpt": "Alle Giornate dei pubblici ministeri l'esperienza antimafia italiana come riferimento",
-        "image": null
       },
       {
         "title": "Israele, la Corte annuncia che i partiti arabi possono prendere parte alle elezioni",
