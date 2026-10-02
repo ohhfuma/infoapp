@@ -528,3 +528,20 @@ footer { color: var(--text-muted); }
     margin-top: 10px;
   }
 }
+
+/* Bottone dark mode: sempre fissato in alto a destra */
+.theme-toggle-btn {
+  position: fixed !important;
+  top: 16px;
+  right: 16px;
+  z-index: 100;
+}
+
+@media (max-width: 480px) {
+  .theme-toggle-btn {
+    position: fixed !important;
+    top: 12px;
+    right: 12px;
+    margin-top: 0 !important;
+  }
+}
