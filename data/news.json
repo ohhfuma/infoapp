@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T01:09:29.938Z",
+  "lastUpdated": "2026-10-02T01:41:14.065Z",
   "finanza": {
     "italia": [
       {
@@ -8,6 +8,20 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-02T00:58:32.000Z",
         "excerpt": "Timori per aumento rendimenti obbligazionari e nuova impennata prezzo petrolio"
+      },
+      {
+        "title": "La Fed: lo sviluppo dell’IA è il principale rischio inflazione per il 2027",
+        "link": "https://it.investing.com/news/stock-market-news/la-fed-lo-sviluppo-dellia-e-il-principale-rischio-inflazione-per-il-2027-93CH-3571656",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T00:49:06.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "I futures azionari USA salgono in attesa dei dati sull’occupazione",
+        "link": "https://it.investing.com/news/stock-market-news/i-futures-azionari-usa-salgono-in-attesa-dei-dati-sulloccupazione-3571654",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T00:43:53.000Z",
+        "excerpt": ""
       },
       {
         "title": "McDonald’s vende un locale a Hong Kong per 15,3 milioni di dollari",
@@ -92,20 +106,6 @@
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-01T21:44:00.000Z",
         "excerpt": "L’ultima ad adeguarsi, in ordine temporale, è stata Tamoil. Il marchio appartenente al gruppo petrolifero Oilinvest - con sede nei Paesi Bassi e siti estrattivi in Libia - ha annunciato..."
-      },
-      {
-        "title": "Fondi statali cinesi finanziano acquisti di chip Nvidia soggetti a restrizioni",
-        "link": "https://it.investing.com/news/stock-market-news/fondi-statali-cinesi-finanziano-acquisti-di-chip-nvidia-soggetti-a-restrizioni-3571587",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T21:29:42.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Il titolo di Energy Services of America scende dopo l’annuncio dell’acquisizione",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-energy-services-of-america-scende-dopo-lannuncio-dellacquisizione-3571566",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-01T21:10:45.000Z",
-        "excerpt": ""
       },
       {
         "title": "Adr replica a Ryanair: “Investimenti per 3,6 miliardi, crescita continua, tariffe regolate”",
@@ -344,6 +344,13 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Il petrolio aumenta leggermente mentre il mercato pesa segnali di approvvigionamento misti",
+        "link": "https://www.investing.com/news/commodities-news/oil-rises-slightly-as-market-weighs-mixed-supply-signals-4928763",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T01:12:26.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Brasile, la tv Globo cancella il dibattito presidenziale",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-la-tv-globo-cancella-il-dibattito-presidenziale_3c244aaa-07d5-4f84-b299-9c728d3d540c.html",
         "source": "ANSA Mondo",
@@ -488,13 +495,6 @@
         "link": "https://www.investing.com/news/commodities-news/oil-holds-gains-as-middle-east-supply-risks-persist-4926155",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-01T19:51:50.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Gasolio di Londra intrappolato nell'intervallo $1.380- $1.491: livelli Live",
-        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1400-support-in-distribution-range-live-93CH-4921028",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-01T19:18:41.000Z",
         "excerpt": ""
       },
       {
