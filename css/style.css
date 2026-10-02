@@ -735,3 +735,42 @@ init();
   main { width: 100%; }
   .sub-tabs { display: flex; flex-wrap: wrap; justify-content: center; width: 100%; }
 }
+
+/* Storico: sidebar su desktop, select a tendina su mobile */
+.history-mobile-wrapper {
+  display: none;
+}
+
+.history-select {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 14px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  background: white;
+  display: block;
+}
+
+.history-mobile-wrapper.hidden,
+.history-sidebar.hidden {
+  display: none !important;
+}
+
+@media (max-width: 700px) {
+  .history-sidebar {
+    display: none;
+  }
+  .history-mobile-wrapper {
+    display: block;
+    padding: 0 12px;
+    margin-bottom: 12px;
+  }
+  .content-wrapper {
+    display: block;
+  }
+  main {
+    width: 100%;
+  }
+}

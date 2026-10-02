@@ -26,7 +26,7 @@ async function loadJSONWithRetry(path, retries = 2, delayMs = 800) {
 function formatDate(dateStr) {
   if (!dateStr) return '';
   const d = new Date(dateStr);
-  return d.toLocaleString('it-IT', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+  return d.toLocaleString('it-IT', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
 }
 
 function getExcerptOrPlaceholder(excerpt) {
@@ -95,10 +95,13 @@ function switchTab(tab) {
   document.querySelector(`[data-tab="${tab}"]`).classList.add('active');
 
   const sidebar = document.getElementById('history-sidebar');
+  const mobileWrapper = document.getElementById('history-mobile-wrapper');
   if (tab === 'cinema' || tab === 'meteo') {
     sidebar.classList.add('hidden');
+    mobileWrapper.classList.add('hidden');
   } else {
     sidebar.classList.remove('hidden');
+    mobileWrapper.classList.remove('hidden');
   }
 
   if (tab === 'meteo' && !weatherInitialized) {
@@ -135,6 +138,7 @@ async function loadHistoryIndex() {
   try {
     const idx = await loadJSONWithRetry('data/history/index.json');
     renderHistorySidebar(idx.dates || []);
+    renderHistorySelect(idx.dates || []);
   } catch (e) {
     console.error('Errore caricamento history/index.json:', e);
     document.getElementById('history-list').innerHTML = '<li class="empty-small">Storico non ancora disponibile</li>';
@@ -153,6 +157,16 @@ function renderHistorySidebar(dates) {
     btn.addEventListener('click', () => selectHistoryDate(btn.dataset.date));
   });
   updateHistoryActiveState();
+}
+
+function renderHistorySelect(dates) {
+  const select = document.getElementById('history-select');
+  let html = `<option value="today">📌 Oggi</option>`;
+  html += dates
+    .filter(d => d.date !== getTodayKeyGuess())
+    .map(d => `<option value="${d.date}">${d.label}</option>`)
+    .join('');
+  select.innerHTML = html;
 }
 
 function getTodayKeyGuess() {
@@ -189,6 +203,10 @@ function updateHistoryActiveState() {
     const isMatch = btn.dataset.date === currentHistoryDate;
     btn.classList.toggle('active', isToday || isMatch);
   });
+  const select = document.getElementById('history-select');
+  if (select) {
+    select.value = currentHistoryDate === null ? 'today' : currentHistoryDate;
+  }
 }
 
 async function handleRefresh() {
@@ -369,6 +387,9 @@ function init() {
     btn.addEventListener('click', () => switchFinanzaRegion(btn.dataset.region));
   });
   document.getElementById('refresh-btn').addEventListener('click', handleRefresh);
+  document.getElementById('history-select').addEventListener('change', (e) => {
+    selectHistoryDate(e.target.value);
+  });
   loadAllData();
   loadHistoryIndex();
 }
