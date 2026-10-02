@@ -1,14 +1,86 @@
 {
-  "lastUpdated": "2026-10-02T16:08:29.115Z",
+  "lastUpdated": "2026-10-02T16:43:13.614Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Bollette, per i vulnerabili rincara anche il gas. A settembre Arera alza i prezzi del 12,7%",
+        "link": "https://www.repubblica.it/economia/2026/10/02/news/bollette_vulnerabili_gas_rincari_arera-425622039/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-02T16:33:47.000Z",
+        "excerpt": "È quanto i 2,3 milioni di utenti più fragili hanno pagato in più per la sola componente energia",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/173233095-0d55243b-3408-40a2-8c55-c5e6cc82a05a.jpg"
+      },
+      {
+        "title": "Da Rai e Bankitalia la storia dell'economia in 100 interviste audiovideo sul sito",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/da-rai-e-bankitalia-la-storia-delleconomia-in-100-interviste-audiovideo-sul-sito_6a5ff891-e926-403d-859e-10f92cf578f2.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-02T16:27:41.000Z",
+        "excerpt": "Studiosi spiegano 52 grandi economisti del passato",
+        "image": null
+      },
+      {
+        "title": "Entrate, da Flp faro acceso su orario figli e banca ore da straordinari",
+        "link": "https://www.ilsole24ore.com/art/entrate-flp-faro-acceso-orario-figli-e-banca-ore-straordinari-AJ75xyWB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-02T16:15:31.000Z",
+        "excerpt": "Orario figli e banca ore accantonate con gli straordinari. Sono due punti su cui il sindacato Flp Ecofin Agenzie fiscali accende un faro in una comunicazione inviata alla direzione centrale...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/27/Immagini/Ritagli/pexels-clickerhappy-9346-U27705488458PDx-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Lo spread tra Btp e Bund tedeschi chiude in calo sotto 114,6 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-calo-sotto-1146-punti_81f003d7-3e2d-4b6e-b7b1-9fce1b1dd406.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-02T16:15:24.000Z",
+        "excerpt": "Il rendimento annuo italiano cede 8,6 punti al 4,6%, quello tedesco",
+        "image": null
+      },
+      {
+        "title": "Gli analisti: l’espansione HDD di Toshiba non risolverà la carenza globale",
+        "link": "https://it.investing.com/news/stock-market-news/gli-analisti-lespansione-hdd-di-toshiba-non-risolvera-la-carenza-globale-3572973",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T16:15:12.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM381B2_1200_L.jpg"
+      },
+      {
+        "title": "Perché il titolo Forgent Power Solutions è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-forgent-power-solutions-e-in-forte-rialzo-oggi-93CH-3572971",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T16:15:04.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/electric_power_lines_M_1440052019.jpg"
+      },
+      {
+        "title": "Perché il titolo Onto Innovation è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-onto-innovation-e-in-forte-rialzo-oggi-93CH-3572970",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T16:14:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg"
+      },
+      {
+        "title": "Perché il titolo WW International sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-ww-international-sta-salendo-oggi-93CH-3572968",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T16:14:41.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+      },
+      {
+        "title": "Gasolio, l’Ue cede al pressing di Trump. Macron: “Rilasceremo 100 milioni di barili dalle scorte”",
+        "link": "https://www.repubblica.it/economia/2026/10/02/news/gasolio_ue_cede_pressing_trump_macron_rilasceremo_barili_scorte-425621866/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-02T16:06:42.000Z",
+        "excerpt": "L’impegno dei Paesi del G7, nell’incontro voluto dal presidente francese, per “abbassare i prezzi dei carburanti” e scongiurare “misure restrittive sugli scambi”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/165654496-ee4129a0-248a-4d72-896d-e6ab10a4a260.jpg"
+      },
       {
         "title": "Wall Street punta sulla ripresa di WW International dopo la copertura di Northland",
         "link": "https://it.investing.com/news/stock-market-news/wall-street-punta-sulla-ripresa-di-ww-international-dopo-la-copertura-di-northland-3572964",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T15:57:36.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB9I1A7_M.jpg"
       },
       {
         "title": "Onto Innovation guadagna dopo l’avvio di copertura rialzista di RBC",
@@ -67,36 +139,12 @@
         "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
       },
       {
-        "title": "Bollette, per i vulnerabili rincara anche il gas. A settembre Arera alza i prezzi del 12,7%",
-        "link": "https://www.repubblica.it/economia/2026/10/02/news/bollette_vulnerabili_gas_rincari_arera-425622039/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-02T15:32:39.000Z",
-        "excerpt": "È quanto i 2,3 milioni di utenti più fragili hanno pagato in più per la sola componente energia",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/173233095-0d55243b-3408-40a2-8c55-c5e6cc82a05a.jpg"
-      },
-      {
-        "title": "Il titolo di Lennar crolla dopo le preoccupazioni sollevate da Hunterbrook",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-lennar-crolla-dopo-le-preoccupazioni-sollevate-da-hunterbrook-3572946",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T15:28:31.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED9T0RN_M.jpg"
-      },
-      {
         "title": "Covid, Pregliasco: aumentano i contagi ma la situazione è sotto controllo",
         "link": "https://www.ilsole24ore.com/art/covid-pregliasco-aumentano-contagi-ma-situazione-e-sotto-controllo-AJVmzwWB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-02T15:26:00.000Z",
         "excerpt": "«Non siamo di fronte a un ritorno alla pandemia né, allo stato attuale, a una nuova emergenza paragonabile a quella vissuta negli anni scorsi», rassicura il virologo",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/covid-U71446573140rvK-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Perché il titolo Allegro Microsystems è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-allegro-microsystems-e-in-forte-rialzo-oggi-93CH-3572938",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T15:18:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
       },
       {
         "title": "Made in Italy Summit 2026: crescita, competitività ed export al centro della settima edizione",
@@ -107,36 +155,12 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/CARD_1200x628-U12130317732rEO-1440x752@IlSole24Ore-Web.png"
       },
       {
-        "title": "Gasolio, l’Ue cede al pressing di Trump. Macron: “Rilasceremo 100 milioni di barili dalle scorte”",
-        "link": "https://www.repubblica.it/economia/2026/10/02/news/gasolio_ue_cede_pressing_trump_macron_rilasceremo_barili_scorte-425621866/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-02T15:08:25.000Z",
-        "excerpt": "L’impegno dei Paesi del G7, nell’incontro voluto dal presidente francese, per “abbassare i prezzi dei carburanti” e scongiurare “misure restrittive sugli scambi”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/165654496-ee4129a0-248a-4d72-896d-e6ab10a4a260.jpg"
-      },
-      {
-        "title": "Uranium Energy Corp. sale dopo che RBC evidenzia piani per la filiera domestica",
-        "link": "https://it.investing.com/news/stock-market-news/uranium-energy-corp-sale-dopo-che-rbc-evidenzia-piani-per-la-filiera-domestica-3572934",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T15:06:15.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg"
-      },
-      {
         "title": "Borsa: Milano accelera (+0,7%), balzo di Technoprobe, Stm e Stellantis",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/borsa-milano-accelera-07-balzo-di-technoprobe-stm-e-stellantis_1fde76ce-f198-4399-9e9f-2220fda0247a.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-02T14:57:43.000Z",
         "excerpt": "Lo spread scende a a 115,9 punti. Scivola Fincantieri, banche deboli",
         "image": null
-      },
-      {
-        "title": "Perché il titolo TNL Mediagene è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-tnl-mediagene-e-in-forte-rialzo-oggi-93CH-3572930",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T14:47:58.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
       },
       {
         "title": "Dl scuola, slitta il bonus libri: il contributo partirà nel 2027",
@@ -176,22 +200,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-02T14:07:59.000Z",
         "excerpt": "Libro di Tessa Gelisio e Marco Gisotti su opportunità del lavoro che cambia",
-        "image": null
-      },
-      {
-        "title": "Borsa: l'Europa allunga il passo con Wall Street, Milano +0,3%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/borsa-leuropa-allunga-il-passo-con-wall-street-milano-03_7cc4a723-d1c9-4ab5-a177-d612ed681bca.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-02T14:02:21.000Z",
-        "excerpt": "Lo spread italiano scende a quota 123 punti, Parigi sotto i 150",
-        "image": null
-      },
-      {
-        "title": "Forum Euromediterraneo Acqua chiude a Roma, oltre 5000 presenze",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/forum-euromediterraneo-acqua-chiude-a-roma-oltre-5000-presenze_c5751767-953e-477c-aa00-9caa61b4131b.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-02T13:52:17.000Z",
-        "excerpt": "Dal 29 settembre alla Nuvola discussi tutti i temi sulla risorsa idrica",
         "image": null
       },
       {
@@ -249,14 +257,6 @@
         "pubDate": "2026-10-02T09:36:00.000Z",
         "excerpt": "I magistrati, coordinati dal procuratore Maurizio de Lucia, hanno chiesto misure cautelari per altre 8 persone",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/1d74cb8f65d134c34e86221b85e7b9d7-U67206341531GQX-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Sigarette, ecco quanto dovranno pagare i produttori per smaltire i mozziconi",
-        "link": "https://www.ilsole24ore.com/art/sigarette-ecco-quanto-dovranno-pagare-produttori-smaltire-mozziconi-AJ6m1VWB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-02T09:26:03.000Z",
-        "excerpt": "Roma e Bruxelles dichiarano guerra ai mozziconi di sigaretta. È stato pubblicato nei giorni scorsi sul sito del ministero dell’Ambiente uno schema di regolamento che rappresenta un nuovo passo avanti...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/2026-08-31T000000Z_1960494974_MT1IMGOST000D0V480_RTRMADP_3_IMAGO-IMAGES-U77145653084TDR-1440x752@IlSole24Ore-Web.JPG"
       }
     ],
     "europa": [
@@ -457,11 +457,27 @@
     ],
     "mondo": [
       {
-        "title": ">ANSA-INTERVISTA/ 'Nè Lula, nè Bolsonaro hanno un progetto per il Brasile del futuro'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/ansa-intervista-ne-lula-ne-bolsonaro-hanno-un-progetto-per-il-brasile-del-futuro_f43cf4c5-4b07-4cc1-8cba-8ec6e183a47e.html",
+        "title": "Ceo Netflix, 'la piattaforma non sta crescendo come vorremmo'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/ceo-netflix-la-piattaforma-non-sta-crescendo-come-vorremmo_7df725cd-26ff-4e1f-9d7c-96c06ad3bcdb.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T15:43:42.000Z",
-        "excerpt": "Matarazzo, industriale e ex ambasciatore a Roma, 'cruciale il rapporto con l'Ue'",
+        "pubDate": "2026-10-02T16:20:33.000Z",
+        "excerpt": "Secondo Sarandos c'è stato solo un aumento del 2% delle visualizzazioni globali",
+        "image": null
+      },
+      {
+        "title": "Terza portaerei Usa verso il Medio Oriente con altri 10.000 militari. Trump valuta nuovi raid contro l'Iran",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/02/terza-portaerei-usa-verso-il-medio-oriente-con-altri-10.000-militari._4841915d-2326-4f25-90ac-eeb03cc56b4e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T16:14:52.000Z",
+        "excerpt": "Le navi, i caccia, i Marines e i marinai arriveranno nella regione entro la fine di novembre",
+        "image": null
+      },
+      {
+        "title": "Rivolta studentesca in Francia, oltre 560 licei oggetto di blocchi e disordini",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/rivolta-studentesca-in-francia-oltre-560-licei-oggetto-di-blocchi-e-disordini_3e4bc024-46f6-4fd6-a414-6d359c747098.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T16:04:23.000Z",
+        "excerpt": "Danni per milioni di euro. Il Mandela di Nantes non riaprirà prima di Ognissanti",
         "image": null
       },
       {
@@ -534,22 +550,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-02T14:31:37.000Z",
         "excerpt": "'Lavoro coordinato per contribuire a ridurre i prezzi dei prodotti petroliferi'",
-        "image": null
-      },
-      {
-        "title": "Caso Christa, crescono in Usa voci contro pena morte, soprattutto tra giovani",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/caso-christa-crescono-in-usa-voci-contro-pena-morte-soprattutto-tra_7636cf17-b2e3-4b37-8383-3040630ceadc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T14:28:14.000Z",
-        "excerpt": "Si unisce al coro suor Prejan, la religiosa al centro del film Dead Man Walking",
-        "image": null
-      },
-      {
-        "title": "Caso Cornell, Hochul per cambiare legge su assunzione alcol e consenso a sesso",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/caso-cornell-hochul-per-cambiare-legge-su-assunzione-alcol-e-consenso-a-sesso_1687e649-baed-4d6d-b49e-d50ff8e3ccdc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T14:22:43.000Z",
-        "excerpt": "Codici penali a NY distinguono tra chi indotto a bere e chi si è ubriacato volontariamente",
         "image": null
       },
       {
@@ -655,7 +655,7 @@
       "title": "Andrea Sempio: 'Non ci sono le prove per mandarmi a processo' ",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/02/andrea-sempio-non-ci-sono-le-prove-per-mandarmi-a-processo_0819d433-49a8-4d9d-bccf-874286a446d2.html",
       "source": "ANSA",
-      "pubDate": "2026-10-02T16:02:32.000Z",
+      "pubDate": "2026-10-02T16:05:08.000Z",
       "excerpt": "Intervista a 'Quarto grado': 'Ho sempre avuto il 44 di piede, sull'impronta non ci sono elementi'",
       "image": null
     },
@@ -692,14 +692,6 @@
       "image": null
     },
     {
-      "title": "La Roma antica si trasforma, ai Fori Imperiali 'un grande boulevard'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/02/la-roma-antica-si-trasforma-ai-fori-imperiali-un-grande-boulevard_fa5b800c-2570-44a3-b4bf-89d90d4fd75a.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-02T14:38:31.000Z",
-      "excerpt": "Il piano atteso per l'anno prossimo. L'annuncio di Gualtieri",
-      "image": null
-    },
-    {
       "title": "L’ingegnera palestinese: “A Gaza la prima emergenza è l’acqua”",
       "link": "https://www.repubblica.it/esteri/2026/10/02/news/ingegnera_palestinese_faidi_hadeel_gaza_prima_emergenza_acqua-425621827/",
       "source": "Repubblica",
@@ -721,6 +713,22 @@
       "source": "Repubblica",
       "pubDate": "2026-10-02T14:30:56.000Z",
       "excerpt": "L’ambasciata francese precisa però che non risultano richieste italiane di assistenza giudiziaria ancora pendenti e nega precedenti resistenze alla collaborazione. La Procura ritira la richiesta di archiviazione e il gip",
+      "image": null
+    },
+    {
+      "title": "Balenciaga by Piccioli sfila a Parigi tra coralli e couture",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/10/01/balenciaga-by-piccioli-sfila-a-parigi-tra-coralli-e-couture_0f166981-dcbd-4c53-a8d6-80b2bb1321bb.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T14:06:10.000Z",
+      "excerpt": "Al centro della scenografia Les Coraux de la Liberté dell'artista francese Aude Franjou",
+      "image": null
+    },
+    {
+      "title": "Al quinto set Sinner ce l'ha fatta, superato l'esame per la patente della moto",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/02/al-quinto-set-sinner-ce-lha-fatta-superato-lesame-per-la-patente-moto_ee8e1609-343e-4608-8c08-e5ab1bd5dd34.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T13:04:22.000Z",
+      "excerpt": "Dopo quattro bocciature il numero 1 del mondo ha superato l'ostacolo",
       "image": null
     },
     {
@@ -748,27 +756,19 @@
       "image": null
     },
     {
-      "title": "Zidane scaccia i fantasmi del 2006: 'Sono pronto, con i Bleus voglio vincere'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/01/zidane-e-la-testata-non-sono-fiero-di-quello-che-feci-nella-finale_06548fe3-2d0b-481b-b6c7-17f27ab2e894.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-02T08:36:43.000Z",
-      "excerpt": "'Berlino? Per me fu la fine, fu molto molto difficile. Ma credo nella vita, sono positivo'",
-      "image": null
-    },
-    {
-      "title": "Giappone, dashcam riprende un orso che si scaglia contro un'auto",
-      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/10/02/giappone-dashcam-riprende-un-orso-che-si-scaglia-contro-unauto_c57f3736-df4b-4c97-bda2-d0c4d4d5967d.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-02T07:34:20.000Z",
-      "excerpt": "L’episodio è avvenuto nella prefettura di Hokkaido",
-      "image": null
-    },
-    {
       "title": "Papiri di Ercolano, una nuova tecnica può leggere i testi perduti",
       "link": "https://www.ansa.it/canale_scienza/notizie/ragazzi/news/2026/10/02/papiri-di-ercolano-una-nuova-tecnica-puo-leggere-i-testi-perduti_99857ca6-96e3-4a04-b9f4-42819964883c.html",
       "source": "ANSA",
       "pubDate": "2026-10-02T06:39:46.000Z",
       "excerpt": "Raggi X e IA riescono a riconoscere il piombo nell'inchiostro dei rotoli carbonizzati",
+      "image": null
+    },
+    {
+      "title": "Scoperto un pianeta simile alla Terra primordiale ",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/02/scoperto-un-pianeta-simile-alla-terra-primordiale-_c49c0230-c1d4-409b-a570-3c470041d46b.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T06:09:45.000Z",
+      "excerpt": "È il più freddo 'mondo di lava' mai individuato e ha anche un'atmosfera",
       "image": null
     },
     {
@@ -781,6 +781,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Il Frosinone vince anche in amichevole, 2-1 al Benevento",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/il-frosinone-vince-anche-in-amichevole-2-1-al-benevento_fb1dbf78-aeef-4e34-9c66-90428bf9592b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T16:05:04.000Z",
+      "excerpt": "Per la squadra di Alvini a segno Cittadini e Calò, buon test verso il Napoli",
+      "image": null
+    },
     {
       "title": "Anac, 'niente conflitto di interessi Coni-Figc per Bianchedi'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/anac-niente-conflitto-di-interessi-coni-figc-per-bianchedi_303d45bf-5ade-4a04-b541-e7930a1d8907.html",
@@ -795,14 +803,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-02T15:34:27.000Z",
       "excerpt": "Da Coverciano arriva a Tirrenia Ahanor",
-      "image": null
-    },
-    {
-      "title": "Schwazer: 'Nella vita bisogna avere persone vere al proprio fianco'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/02/schwazer-nella-vita-bisogna-avere-persone-vere-al-proprio-fianco_f1b91ef8-1bfe-44b5-93e8-0859a19ef0de.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T15:16:23.000Z",
-      "excerpt": "'Non mi sono mai sentito solo solo'",
       "image": null
     },
     {
