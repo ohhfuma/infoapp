@@ -31,7 +31,7 @@ function formatDate(dateStr) {
 
 function getExcerptOrPlaceholder(excerpt) {
   if (excerpt && excerpt.trim()) return excerpt;
-  return "📰 Clicca per leggere l'articolo completo";
+  return "Clicca per leggere l'articolo completo";
 }
 
 function renderNewsList(items, containerId) {
@@ -43,10 +43,16 @@ function renderNewsList(items, containerId) {
   }
   container.innerHTML = items.map(item => `
     <article class="news-card">
-      <span class="source-tag">${item.source}</span>
-      <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
-      <p class="${item.excerpt && item.excerpt.trim() ? '' : 'placeholder-text'}">${getExcerptOrPlaceholder(item.excerpt)}</p>
-      <time>${formatDate(item.pubDate)}</time>
+      ${item.image
+        ? `<img class="news-thumb" src="${item.image}" alt="" loading="lazy" onerror="this.outerHTML='<div class=&quot;news-thumb news-thumb-placeholder&quot;>📰</div>'">`
+        : `<div class="news-thumb news-thumb-placeholder">📰</div>`
+      }
+      <div class="news-content">
+        <span class="source-tag">${item.source}</span>
+        <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
+        <time>${formatDate(item.pubDate)}</time>
+        <p class="${item.excerpt && item.excerpt.trim() ? '' : 'placeholder-text'}">${getExcerptOrPlaceholder(item.excerpt)}</p>
+      </div>
     </article>
   `).join('');
 }

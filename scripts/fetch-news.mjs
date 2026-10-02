@@ -2,7 +2,16 @@ import Parser from 'rss-parser';
 import fs from 'fs';
 import path from 'path';
 
-const parser = new Parser({ timeout: 10000 });
+const parser = new Parser({
+  timeout: 10000,
+  customFields: {
+    item: [
+      ['media:content', 'mediaContent', { keepArray: true }],
+      ['media:thumbnail', 'mediaThumbnail'],
+      ['enclosure', 'enclosure']
+    ]
+  }
+});
 
 const FEEDS = {
   finanza: {
@@ -64,6 +73,30 @@ function isTooOld(pubDateIso) {
   return ageDays > MAX_AGE_DAYS;
 }
 
+// NUOVO: estrae l'URL immagine da varie possibili posizioni nel feed RSS
+function getImageUrl(item) {
+  try {
+    if (item.mediaContent && item.mediaContent.length > 0) {
+      const withImage = item.mediaContent.find(m => m.$ && m.$.url);
+      if (withImage) return withImage.$.url;
+    }
+    if (item.mediaThumbnail && item.mediaThumbnail.$ && item.mediaThumbnail.$.url) {
+      return item.mediaThumbnail.$.url;
+    }
+    if (item.enclosure && item.enclosure.url) {
+      const type = item.enclosure.type || '';
+      if (type.startsWith('image') || !type) return item.enclosure.url;
+    }
+    // Fallback: cerca un tag <img> dentro il contenuto HTML della descrizione
+    const html = item.content || item['content:encoded'] || '';
+    const match = html.match(/<img[^>]+src="([^">]+)"/);
+    if (match) return match[1];
+  } catch (e) {
+    // nessuna immagine trovata, va bene così
+  }
+  return null;
+}
+
 function getRomeDateKey(date = new Date()) {
   return new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Rome' }).format(date);
 }
@@ -116,14 +149,15 @@ async function fetchCategory(feeds) {
         link: item.link,
         source: feed.name,
         pubDate: getValidPubDate(item),
-        excerpt: cleanExcerpt(item.contentSnippet || item.summary || '')
+        excerpt: cleanExcerpt(item.contentSnippet || item.summary || ''),
+        image: getImageUrl(item)
       }));
 
       const beforeFilter = feedItems.length;
       feedItems = feedItems.filter(i => !isTooOld(i.pubDate));
       const discarded = beforeFilter - feedItems.length;
       if (discarded > 0) {
-        console.warn(`  ⚠️ ${feed.name}: scartate ${discarded} notizie più vecchie di ${MAX_AGE_DAYS} giorni (probabile fonte non aggiornata/cache stantia)`);
+        console.warn(`  ⚠️ ${feed.name}: scartate ${discarded} notizie più vecchie di ${MAX_AGE_DAYS} giorni`);
       }
 
       if (feed.translate && feedItems.length > 0) {
@@ -132,7 +166,8 @@ async function fetchCategory(feeds) {
       }
 
       items = items.concat(feedItems);
-      console.log(`  ✓ ${feed.name}: ${feedItems.length} notizie valide`);
+      const withImages = feedItems.filter(i => i.image).length;
+      console.log(`  ✓ ${feed.name}: ${feedItems.length} notizie valide (${withImages} con immagine)`);
     } catch (err) {
       console.error(`  ✗ Errore in ${feed.name} (${feed.url}): ${err.message}`);
     }
@@ -174,8 +209,6 @@ function mergeCategoryData(existing, fresh, maxItems) {
   return merged;
 }
 
-// NUOVO: carica il file storico di oggi (se esiste) per usarlo come
-// "memoria" dell'ultimo ciclo riuscito, in caso di fallimento totale.
 function loadTodaySnapshot(todayKey) {
   const todayFile = path.join(HISTORY_DIR, `${todayKey}.json`);
   if (fs.existsSync(todayFile)) {
@@ -188,25 +221,22 @@ function loadTodaySnapshot(todayKey) {
   return null;
 }
 
-// NUOVO: se una categoria "semplice" (array) risulta vuota, recupera
-// l'ultimo dato noto dallo snapshot precedente invece di lasciarla vuota.
 function applyFallbackIfEmpty(category, freshValue, snapshot) {
   if (!snapshot || !snapshot[category]) return freshValue;
 
   if (Array.isArray(freshValue)) {
     if (freshValue.length === 0 && Array.isArray(snapshot[category]) && snapshot[category].length > 0) {
-      console.warn(`  🛡️ Categoria "${category}" vuota dopo il fetch: ripristinati ${snapshot[category].length} elementi dal ciclo precedente.`);
+      console.warn(`  🛡️ Categoria "${category}" vuota: ripristinati ${snapshot[category].length} elementi precedenti.`);
       return snapshot[category];
     }
     return freshValue;
   }
 
-  // Categoria annidata (es. finanza per area)
   const result = {};
   for (const key of Object.keys(freshValue)) {
     const prevRegionData = snapshot[category][key];
     if (freshValue[key].length === 0 && Array.isArray(prevRegionData) && prevRegionData.length > 0) {
-      console.warn(`  🛡️ Area "${category}.${key}" vuota dopo il fetch: ripristinati ${prevRegionData.length} elementi dal ciclo precedente.`);
+      console.warn(`  🛡️ Area "${category}.${key}" vuota: ripristinati ${prevRegionData.length} elementi precedenti.`);
       result[key] = prevRegionData;
     } else {
       result[key] = freshValue[key];
