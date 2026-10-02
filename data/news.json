@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-10-02T21:08:04.325Z",
+  "lastUpdated": "2026-10-02T21:41:09.180Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il G7 libera 100 milioni di barili dalle scorte per frenare i prezzi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/il-g7-libera-100-milioni-di-barili-dalle-scorte-per-frenare-i-prezzi_315d7d2d-4de9-4357-82a5-5f44cb8fea40.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-02T21:15:41.000Z",
+        "excerpt": "La mossa per scongiurare il blocco delle esportazioni verso l'Europa minacciato da Trump",
+        "image": null
+      },
+      {
+        "title": "Ellison di Paramount prepara la leadership per l’accordo con Warner Bros.",
+        "link": "https://it.investing.com/news/stock-market-news/ellison-di-paramount-prepara-la-leadership-per-laccordo-con-warner-bros-3573084",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T20:53:13.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+      },
       {
         "title": "Banche comunitarie fanno causa al regolatore per le licenze crypto",
         "link": "https://it.investing.com/news/stock-market-news/banche-comunitarie-fanno-causa-al-regolatore-per-le-licenze-crypto-93CH-3573080",
@@ -83,14 +99,6 @@
         "image": "https://content-media.investing.com/news/LYNXMPEM1B112_1200_L.jpg"
       },
       {
-        "title": "Il rating creditizio di Lineage abbassato a ’BBB’ da Fitch con outlook stabile",
-        "link": "https://it.investing.com/news/stock-market-news/il-rating-creditizio-di-lineage-abbassato-a-bbb-da-fitch-con-outlook-stabile-3573048",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T19:18:00.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM310T5_1200_L.jpg"
-      },
-      {
         "title": "Sogin, Stefano Grassi presidente, Lodovico Mazzolin amministratore delegato",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/sogin-stefano-grassi-presidente-lodovico-mazzolin-amministratore-delegato_cd6437eb-eef1-425f-b5dc-1009de8eb2f4.html",
         "source": "ANSA Economia",
@@ -113,14 +121,6 @@
         "pubDate": "2026-10-02T18:46:49.000Z",
         "excerpt": "Il Fisco tutor per le imprese continua lentamente ma inesorabilmente a guadagnare terreno. La dinamica numerica segna come dalle 111 adesioni del 2023 si sia passati alle 142 del 2024...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/01/Immagini/Ritagli/agenzie%20delle%20entrate-U67688331743Ozr-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Il G7 libera 100 milioni di barili dalle scorte per frenare i prezzi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/il-g7-libera-100-milioni-di-barili-dalle-scorte-per-frenare-i-prezzi_315d7d2d-4de9-4357-82a5-5f44cb8fea40.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-02T18:20:19.000Z",
-        "excerpt": "La mossa per scongiurare il blocco delle esportazioni verso l'Europa minacciato da Trump",
-        "image": null
       },
       {
         "title": "Occupati Usa sotto le attese, spread Btp/Bund giù a 114,6 punti",
@@ -457,6 +457,46 @@
     ],
     "mondo": [
       {
+        "title": "Brasile, Lula e Flávio Bolsonaro agli ultimi appelli prima del voto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-lula-e-flavio-bolsonaro-agli-ultimi-appelli-prima-del-voto_fb492489-8dc7-4d42-b149-65c3969b8992.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T21:25:05.000Z",
+        "excerpt": "Il presidente a Rio de Janeiro, il rivale nello Stato di San Paolo",
+        "image": null
+      },
+      {
+        "title": "Nicaragua, il governo di Ortega e Murillo nega il gradimento a nuova ambasciatrice Usa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/nicaragua-il-governo-di-ortega-e-murillo-nega-il-gradimento-a-nuova-ambasciatrice-usa_d3a7fc05-c68d-4c93-829b-c408681dd30f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T21:24:00.000Z",
+        "excerpt": "Natasha Franceschi era stata confermata dal Senato di Washington il 30 settembre",
+        "image": null
+      },
+      {
+        "title": "Trump, dietrofront su Meloni:“Lei mi è sempre piaciuta”",
+        "link": "https://www.repubblica.it/esteri/2026/10/02/news/trump_dietrofront_su_melonilei_mi_e_sempre_piaciuta-425622844/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T21:09:41.000Z",
+        "excerpt": "Superati gli attriti dei mesi scorsi, quando il presidente americano aveva criticato la premier italiana",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/230924740-1a8f72aa-b600-4b29-8ace-ecb1d234a538.jpg"
+      },
+      {
+        "title": "Trump dice di non aver \"saltato la pistola\" sull'annuncio di investimento in GNL della Corea del Sud Alaska",
+        "link": "https://www.investing.com/news/commodities-news/trump-says-he-did-not-jump-the-gun-on-south-korea-alaska-lng-investment-announcement-4930421",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T21:06:47.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM911NZ_L.jpg"
+      },
+      {
+        "title": "Set di olio per perdita settimanale sul recupero dell'approvvigionamento, rilascio di scorte di emergenza da parte del G7",
+        "link": "https://www.investing.com/news/commodities-news/oil-holds-gains-as-us-weighs-more-middle-east-military-presence-4928800",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T20:56:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEI0Q0Z9_L.jpg"
+      },
+      {
         "title": "Trump, 'il mio rapporto con Meloni è molto buono, mi è sempre piaciuta'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/trump-il-mio-rapporto-con-meloni-e-molto-buono-mi-e-sempre-piaciuta_24ddcb34-68af-450a-9b1a-96c4d2f67c9d.html",
         "source": "ANSA Mondo",
@@ -529,22 +569,6 @@
         "image": "https://content-media.investing.com/news/silver_M_1440048077.jpg"
       },
       {
-        "title": "Il rame si aggrappa al supporto di $6,53 nella tendenza dell'orso ipervenduto: livelli live",
-        "link": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-02T19:18:51.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEHAL0HI_L.jpg"
-      },
-      {
-        "title": "Ex membro del Congresso degli Stati Uniti condannato a 10 anni per aver segretamente esercitato pressioni per il Venezuela",
-        "link": "https://www.investing.com/news/commodities-news/former-us-congressman-sentenced-to-10-years-for-secretly-lobbying-for-venezuela-4930325",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-02T19:18:51.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM911LV_L.jpg"
-      },
-      {
         "title": "Pike mantenuta in vita con il respiratore artificiale l’Onu: “Adesso graziatela”",
         "link": "https://www.repubblica.it/esteri/2026/10/02/news/usa_pike_mantenuta_in_vita_con_respiratore_artificiale_onu_adesso_graziatela-425622579/?rss",
         "source": "Repubblica Esteri",
@@ -585,28 +609,12 @@
         "image": null
       },
       {
-        "title": "Trump pronto all'escalation, una terza portaerei verso l'Iran ",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/02/trump-pronto-allescalation-una-terza-portaerei-verso-liran-_4841915d-2326-4f25-90ac-eeb03cc56b4e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T17:35:42.000Z",
-        "excerpt": "In arrivo in Medio Oriente altri 10mila soldati, nuovi Patriot a difesa di Doha e Riad",
-        "image": null
-      },
-      {
         "title": "Israele, la Corte annuncia che i partiti arabi possono prendere parte alle elezioni",
         "link": "https://www.repubblica.it/esteri/2026/10/02/news/israele_partiti_arabi_elezioni_corte_ammessi-425621356/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-02T17:01:26.000Z",
         "excerpt": "Ribaltata la decisione della Commissione elettorale centrale: Lista unita e Ràam possono partecipare alle prossime elezioni della Knesset del 27 ottobre",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/124641107-42305e02-7ba7-4da5-9349-45ebbf2e8b36.jpg"
-      },
-      {
-        "title": "Ceo Netflix, 'la piattaforma non sta crescendo come vorremmo'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/ceo-netflix-la-piattaforma-non-sta-crescendo-come-vorremmo_7df725cd-26ff-4e1f-9d7c-96c06ad3bcdb.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T16:20:33.000Z",
-        "excerpt": "Secondo Sarandos c'è stato solo un aumento del 2% delle visualizzazioni globali",
-        "image": null
       },
       {
         "title": "“Licenziato dalla Fao per un rapporto sulla fame a Gaza e per aver partecipato a minuto di silenzio”: la denuncia di un dirigente",
@@ -639,23 +647,39 @@
         "pubDate": "2026-10-02T12:05:17.000Z",
         "excerpt": "Per il macabro delitto di Abby Choi, avvenuto tre anni fa, sono accusati l’ex marito, suo fratello e il loro padre. Per i giudici gli imputati hanno elaborato a lungo il crimine: giorni prima di smembrare e nascondere in",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/140507314-18112782-8657-4f1e-b814-f2f2e1f81ed5.jpg"
-      },
-      {
-        "title": "Dall’Ucraina all’Italia, la rivoluzione dei tank sul fronte dei droni",
-        "link": "https://www.repubblica.it/esteri/2026/10/02/news/tank_ucraina_carri_armati_ucraina_italia_rivoluzione-425621239/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-02T09:48:43.000Z",
-        "excerpt": "Le tattiche di Kiev riportano i carri armati in prima linea. Ed è in dirittura d’arrivo il contratto miliardario per i panzer del nostro Esercito",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/114719719-09c8d3c0-8495-4030-b179-eb5b9f6f18f5.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Italia a testa alta, pari in tutto con la Francia in casa di Zidane",
+      "title": "Italia da applausi a Saint-Denis: ora abbiamo un fuoriclasse e una squadra",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/10/02/news/italia_francia_fuoriclasse_squadra_commento-425622856/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T21:15:25.000Z",
+      "excerpt": "Al di là del risultato, è l’atteggiamento ad aver colpito positivamente",
+      "image": null
+    },
+    {
+      "title": "Trump, dietrofront su Meloni:“Lei mi è sempre piaciuta”",
+      "link": "https://www.repubblica.it/esteri/2026/10/02/news/trump_dietrofront_su_melonilei_mi_e_sempre_piaciuta-425622844/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T21:09:41.000Z",
+      "excerpt": "Superati gli attriti dei mesi scorsi, quando il presidente americano aveva criticato la premier italiana",
+      "image": null
+    },
+    {
+      "title": "Francia-Italia, le pagelle: Olise cambia passo nella ripresa, Donnarumma monumentale",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/10/02/news/francia_italia_pagelle_olise_donnarumma-425622841/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T21:06:40.000Z",
+      "excerpt": "Promossi e bocciati della gara di Saint-Denis",
+      "image": null
+    },
+    {
+      "title": "Italia a testa alta, pari in tutto con la Francia in casa Zidane",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-francia-italia-1-1_45a99c29-160e-4f2c-a176-241c67b445f3.html",
       "source": "ANSA",
-      "pubDate": "2026-10-02T20:54:58.000Z",
+      "pubDate": "2026-10-02T20:55:31.000Z",
       "excerpt": "Azzurri perfetti per 90': Olise segna su punizione, la pareggia Bastoni",
       "image": null
     },
@@ -665,14 +689,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-02T20:51:29.000Z",
       "excerpt": "Tutto facile a Liegi per i Diavoli rossi, trascinati dal centrocampista del Napoli. Alajbegovic salva la Bosnia contro la Svezia nel giorno dell'addio alla nazionale di Dzeko. Zielinski a segno con la Polonia nel 6-0 all",
-      "image": null
-    },
-    {
-      "title": "++ Trump, 'il mio rapporto con Meloni è molto buono, mi è sempre piaciuta' ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/02/trump-il-mio-rapporto-con-meloni-e-molto-buono-mi-e-sempre-piaciuta_e882dacf-b2af-4223-bdd3-9a6ef2b1c504.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-02T20:31:10.000Z",
-      "excerpt": "",
       "image": null
     },
     {
@@ -700,6 +716,14 @@
       "image": null
     },
     {
+      "title": "Affondo di Schlein a Meloni, 'hai fallito'. Si riaccende duello con la premier ",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/02/schlein-nel-programma-uno-non-vale-uno-il-pd-ha-il-doppio-dei-voti_fa1bb90e-f6eb-42a0-a88f-17f20a37e1c2.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T18:58:35.000Z",
+      "excerpt": "La replica, \"dieci giorni per rispondermi con dieci falsità\"",
+      "image": null
+    },
+    {
       "title": "'M - Il figlio del secolo' e 'Techegram', doppietta italiana al Prix Italia",
       "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/02/m-il-figlio-del-secolo-e-techegram-doppietta-italiana-al-prix-italia_24709ea6-9f47-4005-8a2f-9575699db006.html",
       "source": "ANSA",
@@ -724,35 +748,11 @@
       "image": null
     },
     {
-      "title": "Avvelenate a Campobasso, individuato computer dal quale sono state fatte le ricerche sulla ricina",
-      "link": "https://www.repubblica.it/cronaca/2026/10/02/news/avvelenate_ricina_campobasso_interrogatori_ultime_news-425622182/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T16:30:34.000Z",
-      "excerpt": "Negli Stati Uniti sarebbe stato individuato l'indirizzo IP del pc da cui qualcuno avrebbe preso informazioni sulle modalità di preparazione. La procura e la Mobile smentiscono. Interrogate due donne: sono parenti di un u",
-      "image": null
-    },
-    {
       "title": "Decreto scuola, slitta il bonus libri per il 2026",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/10/02/dl-scuola-slitta-il-bonus-libri-per-il-2026_01c07ec6-5fc8-4bfa-91f1-fe479eebee4c.html",
       "source": "ANSA",
       "pubDate": "2026-10-02T14:13:15.000Z",
       "excerpt": "Risorse ai Comuni per la gratuità dei volumi, 20 milioni dal 2027 con Isee a 40mila",
-      "image": null
-    },
-    {
-      "title": "Tom Cruise: “Ho sempre avuto uno smoking blu scuro. Me lo consigliò Giorgio Armani”",
-      "link": "https://d.repubblica.it/urep/2026/10/02/news/tom_cruise_digger_inarritu_intervista_esclusiva-425621597/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T12:58:18.000Z",
-      "excerpt": "Da bambino si sentiva a casa davanti al poster di un aereo da caccia, oggi ama cucinare i biscotti. In sala nel nuovo film di Iñárritu, Tom Cruise racconta che cosa ha imparato da quel padre “prepotente e codardo” e dall",
-      "image": null
-    },
-    {
-      "title": "Case green, piano casa e immobili bloccati: la risorsa invisibile",
-      "link": "https://www.repubblica.it/economia/2026/10/02/news/case_green_piano_casa_e_immobili_bloccati_la_risorsa_invisibile-425621547/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T12:37:36.000Z",
-      "excerpt": "Le società dedicate ad acquisire e valorizzare gli immobili posti a garanzia dei crediti deteriorati non possono operare su quelli ceduti dalle banche. Così il patrimonio si degrada, quando potrebbe concorrere ad affront",
       "image": null
     },
     {
@@ -781,6 +781,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: il Belgio batte 3-0 la Turchia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-il-belgio-batte-3-0-la-turchia_dc1bfca4-3f6c-4b51-a01b-629a5c54a769.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T21:14:00.000Z",
+      "excerpt": "La squadra di De Bruyne sale a sei punti, +2 sull'Italia nel Gruppo 1",
+      "image": null
+    },
     {
       "title": "La rivincita di Bastoni, 'ma io non ho mai perso la fiducia in me stesso'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/la-rivincita-di-bastoni-ma-io-non-ho-mai-perso-la-fiducia-in-me-stesso_d2e6a49a-73f5-4f55-8caa-55d4f3cd9676.html",
@@ -811,14 +819,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-02T18:20:51.000Z",
       "excerpt": "Presented by Generali. Alzabandiera alla Società velica BG. Già 1.300 iscrizioni",
-      "image": null
-    },
-    {
-      "title": "Atletica, Duplantis: 'Ho paura dell'altezza ma punto ai 6 metri e 40'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/02/atletica-duplantis-nel-2027-non-partecipero-alla-stagione-indoor_bdd5bfa7-149a-4b6f-92e6-ddc02fb9b389.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T18:03:56.000Z",
-      "excerpt": "L'astista svedese al Festival dello Sport: 'Ora guardo alla prossima stagione outdoor'",
       "image": null
     },
     {

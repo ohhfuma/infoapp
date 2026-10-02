@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Ellison di Paramount prepara la leadership per l’accordo con Warner Bros.",
+        "link": "https://it.investing.com/news/stock-market-news/ellison-di-paramount-prepara-la-leadership-per-laccordo-con-warner-bros-3573084",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T20:53:13.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+      },
+      {
         "title": "Banche comunitarie fanno causa al regolatore per le licenze crypto",
         "link": "https://it.investing.com/news/stock-market-news/banche-comunitarie-fanno-causa-al-regolatore-per-le-licenze-crypto-93CH-3573080",
         "source": "Investing.com Italia",
@@ -194,6 +202,14 @@
         "pubDate": "2026-10-02T17:58:08.000Z",
         "excerpt": "La mossa per scongiurare il blocco delle esportazioni verso l'Europa minacciato da Trump",
         "image": null
+      },
+      {
+        "title": "Bollette, per i vulnerabili rincara anche il gas. A settembre Arera alza i prezzi del 12,7%",
+        "link": "https://www.repubblica.it/economia/2026/10/02/news/bollette_vulnerabili_gas_rincari_arera-425622039/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-02T17:55:16.000Z",
+        "excerpt": "È quanto i 2,3 milioni di utenti più fragili hanno pagato in più per la sola componente energia",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/173233095-0d55243b-3408-40a2-8c55-c5e6cc82a05a.jpg"
       },
       {
         "title": "L’Italia chiede chiarezza sulle voci di dimissioni di Lagarde dalla BCE",
@@ -466,22 +482,6 @@
         "pubDate": "2026-10-02T15:38:44.000Z",
         "excerpt": "Indice Ftse Mib a quota 50.483 punti",
         "image": null
-      },
-      {
-        "title": "Borsa: Europa bene nel finale, dati Usa allontanano rialzo Fed, Milano +0,4%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/borsa-europa-bene-nel-finale-dati-usa-allontanano-rialzo-fed_45f510f2-0c33-4433-b5ab-7d9185e58dcf.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-02T15:36:03.000Z",
-        "excerpt": "Lo spread italiano scende sotto i 115 punti, Parigi sopra i 140",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo Lennar è in calo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-lennar-e-in-calo-oggi-93CH-3572952",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T15:35:21.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
       }
     ],
     "europa": [
@@ -790,6 +790,38 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Brasile, Lula e Flávio Bolsonaro agli ultimi appelli prima del voto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-lula-e-flavio-bolsonaro-agli-ultimi-appelli-prima-del-voto_fb492489-8dc7-4d42-b149-65c3969b8992.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T21:25:05.000Z",
+        "excerpt": "Il presidente a Rio de Janeiro, il rivale nello Stato di San Paolo",
+        "image": null
+      },
+      {
+        "title": "Nicaragua, il governo di Ortega e Murillo nega il gradimento a nuova ambasciatrice Usa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/nicaragua-il-governo-di-ortega-e-murillo-nega-il-gradimento-a-nuova-ambasciatrice-usa_d3a7fc05-c68d-4c93-829b-c408681dd30f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T21:24:00.000Z",
+        "excerpt": "Natasha Franceschi era stata confermata dal Senato di Washington il 30 settembre",
+        "image": null
+      },
+      {
+        "title": "Trump, dietrofront su Meloni:“Lei mi è sempre piaciuta”",
+        "link": "https://www.repubblica.it/esteri/2026/10/02/news/trump_dietrofront_su_melonilei_mi_e_sempre_piaciuta-425622844/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T21:09:41.000Z",
+        "excerpt": "Superati gli attriti dei mesi scorsi, quando il presidente americano aveva criticato la premier italiana",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/230924740-1a8f72aa-b600-4b29-8ace-ecb1d234a538.jpg"
+      },
+      {
+        "title": "Trump dice di non aver \"saltato la pistola\" sull'annuncio di investimento in GNL della Corea del Sud Alaska",
+        "link": "https://www.investing.com/news/commodities-news/trump-says-he-did-not-jump-the-gun-on-south-korea-alaska-lng-investment-announcement-4930421",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T21:06:47.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM911NZ_L.jpg"
+      },
       {
         "title": "Trump, 'il mio rapporto con Meloni è molto buono, mi è sempre piaciuta'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/trump-il-mio-rapporto-con-meloni-e-molto-buono-mi-e-sempre-piaciuta_24ddcb34-68af-450a-9b1a-96c4d2f67c9d.html",
@@ -1237,42 +1269,34 @@
         "pubDate": "2026-10-02T12:11:36.000Z",
         "excerpt": "Alle 14:30, annuncia l'Eliseo",
         "image": null
-      },
-      {
-        "title": "Hong Kong, processo per la modella fatta a pezzi: “I parenti comprarono prima il tritacarne”",
-        "link": "https://www.repubblica.it/esteri/2026/10/02/news/abby_choi_modella_fatta_pezzi_influencer_processo_hong_kong-425621496/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-02T12:05:17.000Z",
-        "excerpt": "Per il macabro delitto di Abby Choi, avvenuto tre anni fa, sono accusati l’ex marito, suo fratello e il loro padre. Per i giudici gli imputati hanno elaborato a lungo il crimine: giorni prima di smembrare e nascondere in",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/140507314-18112782-8657-4f1e-b814-f2f2e1f81ed5.jpg"
-      },
-      {
-        "title": "Chi sarebbe esposto se gli Stati Uniti vietassero le esportazioni di diesel? Goldman pesa",
-        "link": "https://www.investing.com/news/commodities-news/who-would-be-exposed-if-us-bans-diesel-exports-goldman-weighs-in-4929619",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-02T12:00:18.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEE9I0TQ_M.jpg"
-      },
-      {
-        "title": "La revisione delle quote dell'OPEC+ è stata ritardata durante la guerra in Iran - rapporto",
-        "link": "https://www.investing.com/news/commodities-news/opec-quotas-review-delayed-amid-iran-war--report-4929577",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-02T11:44:17.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S1E5_L.jpg"
-      },
-      {
-        "title": "La Russia pianifica la produzione di petrolio per il 2027 in uno scenario conservativo, afferma Novak",
-        "link": "https://www.investing.com/news/commodities-news/russia-plans-2027-oil-output-on-conservative-scenario-novak-says-93CH-4929560",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-02T11:40:57.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/CrudeOil_800x533_L_1758715558.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Italia da applausi a Saint-Denis: ora abbiamo un fuoriclasse e una squadra",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/10/02/news/italia_francia_fuoriclasse_squadra_commento-425622856/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T21:15:25.000Z",
+      "excerpt": "Al di là del risultato, è l’atteggiamento ad aver colpito positivamente",
+      "image": null
+    },
+    {
+      "title": "Trump, dietrofront su Meloni:“Lei mi è sempre piaciuta”",
+      "link": "https://www.repubblica.it/esteri/2026/10/02/news/trump_dietrofront_su_melonilei_mi_e_sempre_piaciuta-425622844/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T21:09:41.000Z",
+      "excerpt": "Superati gli attriti dei mesi scorsi, quando il presidente americano aveva criticato la premier italiana",
+      "image": null
+    },
+    {
+      "title": "Francia-Italia, le pagelle: Olise cambia passo nella ripresa, Donnarumma monumentale",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/10/02/news/francia_italia_pagelle_olise_donnarumma-425622841/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T21:06:40.000Z",
+      "excerpt": "Promossi e bocciati della gara di Saint-Denis",
+      "image": null
+    },
     {
       "title": "Italia a testa alta, pari in tutto con la Francia in casa di Zidane",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-francia-italia-1-1_45a99c29-160e-4f2c-a176-241c67b445f3.html",
@@ -1728,33 +1752,17 @@
       "pubDate": "2026-10-02T07:34:31.000Z",
       "excerpt": "Andy Diaz: \"Dopo aver vinto tutto, mi manca solo ballando\"",
       "image": null
-    },
-    {
-      "title": "Giappone, dashcam riprende un orso che si scaglia contro un'auto",
-      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/10/02/giappone-dashcam-riprende-un-orso-che-si-scaglia-contro-unauto_c57f3736-df4b-4c97-bda2-d0c4d4d5967d.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-02T07:34:20.000Z",
-      "excerpt": "L’episodio è avvenuto nella prefettura di Hokkaido",
-      "image": null
-    },
-    {
-      "title": "Dal Real 50.000 pagine per fare escludere il Barcellona dalla Champions: riecco il caso Negreira",
-      "link": "https://www.repubblica.it/sport/calcio/2026/10/02/news/real_dossier_a_uefa_contro_barcellona_champions_caso_negreira-425620927/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T07:25:03.000Z",
-      "excerpt": "A distanza di tempo tengono ancora banco i pagamenti fatti dal club catalano al vicepresidente del comitato tecnico degli arbitri. E le sanzioni eventuali sono pesanti",
-      "image": null
-    },
-    {
-      "title": "Proteste studentesche in Francia, feriti 65 dipendenti scolastici di cui 40 presidi",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/proteste-studentesche-in-francia-feriti-65-dipendenti-scolastici-di-cui-40-presidi_68da0559-2d19-4482-8729-6ff30c0ea713.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-02T07:11:00.000Z",
-      "excerpt": "Il ministro della Giustizia: 'I danni alle scuole li paghino i genitori'",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: il Belgio batte 3-0 la Turchia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-il-belgio-batte-3-0-la-turchia_dc1bfca4-3f6c-4b51-a01b-629a5c54a769.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T21:14:00.000Z",
+      "excerpt": "La squadra di De Bruyne sale a sei punti, +2 sull'Italia nel Gruppo 1",
+      "image": null
+    },
     {
       "title": "La rivincita di Bastoni, 'ma io non ho mai perso la fiducia in me stesso'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/la-rivincita-di-bastoni-ma-io-non-ho-mai-perso-la-fiducia-in-me-stesso_d2e6a49a-73f5-4f55-8caa-55d4f3cd9676.html",
