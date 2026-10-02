@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-10-02T20:41:27.109Z",
+  "lastUpdated": "2026-10-02T21:08:04.325Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Banche comunitarie fanno causa al regolatore per le licenze crypto",
+        "link": "https://it.investing.com/news/stock-market-news/banche-comunitarie-fanno-causa-al-regolatore-per-le-licenze-crypto-93CH-3573080",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T20:41:53.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/ProSharesBitcoinStrategyETFBITO_800x533_L_1637450616.jpg"
+      },
+      {
+        "title": "Southport Acquisition Corp. II raccoglie $210M nell’IPO al NYSE",
+        "link": "https://it.investing.com/news/stock-market-news/southport-acquisition-corp-ii-raccoglie-210m-nellipo-al-nyse-432SI-3573073",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T20:27:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
       {
         "title": "Scostamento da 29 miliardi. Giorgetti: 'Più prudenza sulla manovra' ",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/via-libera-del-consiglio-dei-ministri-al-dpfp-e-a-scostamento-per-energia_8463ed4f-c10a-459f-8be8-a56ee2f0b01a.html",
@@ -81,22 +97,6 @@
         "pubDate": "2026-10-02T19:17:36.000Z",
         "excerpt": "Via libera da assemblea della società controllata dal Mef",
         "image": null
-      },
-      {
-        "title": "Moody’s declassa Edgewell a B1, l’outlook diventa stabile",
-        "link": "https://it.investing.com/news/stock-market-news/moodys-declassa-edgewell-a-b1-loutlook-diventa-stabile-3573043",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T19:15:08.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3115H_1200_L.jpg"
-      },
-      {
-        "title": "Tesla sfida SMA 200 e Fibonacci 61,8%: livelli in tempo reale",
-        "link": "https://it.investing.com/news/stock-market-news/tesla-sotto-le-medie-chiave-con-rischio-breakdown-aggiornato-93CH-3565286",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T19:12:35.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
       },
       {
         "title": "Il petrolio chiude in brusco calo a New York, a -3,48%",
@@ -457,6 +457,22 @@
     ],
     "mondo": [
       {
+        "title": "Trump, 'il mio rapporto con Meloni è molto buono, mi è sempre piaciuta'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/trump-il-mio-rapporto-con-meloni-e-molto-buono-mi-e-sempre-piaciuta_24ddcb34-68af-450a-9b1a-96c4d2f67c9d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T20:42:43.000Z",
+        "excerpt": "Il tycoon risponde ad una domanda dei giornalisti",
+        "image": null
+      },
+      {
+        "title": "Brasile, allerta viaggi di Canada, Regno Unito e Nuova Zelanda",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-allerta-viaggi-di-canada-regno-unito-e-nuova-zelanda_4196cbf6-2654-4910-aa65-89bad43e0376.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T20:40:10.000Z",
+        "excerpt": "Indicazioni aggiornate a due giorni dalle elezioni generali di domenica 4 ottobre",
+        "image": null
+      },
+      {
         "title": "'Idearono attacco a comunità ebraica di Manchester', incriminati due iraniani",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/idearono-attacco-a-comunita-ebraica-di-manchester-incriminati-due-iraniani_148bb39b-3c61-4b6e-9cec-4030c7471ad9.html",
         "source": "ANSA Mondo",
@@ -593,22 +609,6 @@
         "image": null
       },
       {
-        "title": "Rivolta studentesca in Francia, oltre 560 licei oggetto di blocchi e disordini",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/rivolta-studentesca-in-francia-oltre-560-licei-oggetto-di-blocchi-e-disordini_3e4bc024-46f6-4fd6-a414-6d359c747098.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T16:04:23.000Z",
-        "excerpt": "Danni per milioni di euro. Il Mandela di Nantes non riaprirà prima di Ognissanti",
-        "image": null
-      },
-      {
-        "title": "Kiev, 'i russi hanno bombardato di nuovo il ponte sud della città'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/kiev-i-russi-hanno-bombardato-di-nuovo-il-ponte-sud-della-citta_85e8b1e0-a4c9-4076-a022-53dcdf360919.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T15:08:18.000Z",
-        "excerpt": "Lo conferma il sindaco della capitale Vitali Klitschko",
-        "image": null
-      },
-      {
         "title": "“Licenziato dalla Fao per un rapporto sulla fame a Gaza e per aver partecipato a minuto di silenzio”: la denuncia di un dirigente",
         "link": "https://www.repubblica.it/esteri/2026/10/02/news/benjamin_davis_licenziato_fao_onu_rapporto_fame_gaza-425621819/?rss",
         "source": "Repubblica Esteri",
@@ -652,27 +652,35 @@
   },
   "attualita": [
     {
-      "title": "Nations League: in campo Francia-Italia 1-1 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/02/nations-league-in-campo-francia-italia-diretta_45a99c29-160e-4f2c-a176-241c67b445f3.html",
+      "title": "Italia a testa alta, pari in tutto con la Francia in casa di Zidane",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-francia-italia-1-1_45a99c29-160e-4f2c-a176-241c67b445f3.html",
       "source": "ANSA",
-      "pubDate": "2026-10-02T20:16:59.000Z",
-      "excerpt": "Buon primo tempo per gli azzurri, due volte vicino al gol con Kean. Rete di Olise al 55', pari di Bastoni al 68'",
+      "pubDate": "2026-10-02T20:54:58.000Z",
+      "excerpt": "Azzurri perfetti per 90': Olise segna su punizione, la pareggia Bastoni",
+      "image": null
+    },
+    {
+      "title": "Doppio De Bruyne più Lukaku, il Belgio supera 3-0 la Turchia: Montella a rischio",
+      "link": "https://www.repubblica.it/sport/calcio/2026/10/02/news/belgio_turchia_de_bruyne_lukaku_nations_league_altre_partite-425622827/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T20:51:29.000Z",
+      "excerpt": "Tutto facile a Liegi per i Diavoli rossi, trascinati dal centrocampista del Napoli. Alajbegovic salva la Bosnia contro la Svezia nel giorno dell'addio alla nazionale di Dzeko. Zielinski a segno con la Polonia nel 6-0 all",
+      "image": null
+    },
+    {
+      "title": "++ Trump, 'il mio rapporto con Meloni è molto buono, mi è sempre piaciuta' ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/02/trump-il-mio-rapporto-con-meloni-e-molto-buono-mi-e-sempre-piaciuta_e882dacf-b2af-4223-bdd3-9a6ef2b1c504.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T20:31:10.000Z",
+      "excerpt": "",
       "image": null
     },
     {
       "title": "Scostamento da 29 miliardi. Giorgetti: 'Più prudenza sulla manovra' ",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/via-libera-del-consiglio-dei-ministri-al-dpfp-e-a-scostamento-per-energia_8463ed4f-c10a-459f-8be8-a56ee2f0b01a.html",
       "source": "ANSA",
-      "pubDate": "2026-10-02T20:15:58.000Z",
+      "pubDate": "2026-10-02T20:18:39.000Z",
       "excerpt": "Ridotto lo spazio per la difesa. Lega soddisfatta. Fi: 'Non sia restrittiva'",
-      "image": null
-    },
-    {
-      "title": "Sanchez battuto sui decreti casa, ipotesi elezioni anticipate",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/sanchez-battuto-sui-decreti-casa-ipotesi-elezioni-anticipate_4a3a0cd6-4b1a-41d6-ae21-9237c79a54a3.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-02T19:19:40.000Z",
-      "excerpt": "Parte della maggioranza vota con le destre, forse urne a novembre. Ripartono le proteste",
       "image": null
     },
     {
@@ -700,11 +708,11 @@
       "image": null
     },
     {
-      "title": "Conte risponde a Schlein sulla scelta del candidato premier: “Nessuna alternativa a primarie”",
+      "title": "Conte replica a Schlein: “Primarie inevitabili. Elly sia garante di Renzi”",
       "link": "https://www.repubblica.it/politica/2026/10/02/news/conte_risponde_a_schlein_sulla_scelta_del_candidato_premier_nessuna_alternativa_a_primarie-425622312/",
       "source": "Repubblica",
       "pubDate": "2026-10-02T17:43:20.000Z",
-      "excerpt": "Il presidente dei 5 stelle ribatte alla segretaria dem che aveva detto: “Il leader della coalizione sarà la guida del partito più votato oppure verrà scelto con i gazebo”",
+      "excerpt": "L’ex premier risponde alla segretaria: credo nell’uno vale uno e nei cittadini che chiedono meno armi e più scuola e sanità",
       "image": null
     },
     {
@@ -716,27 +724,11 @@
       "image": null
     },
     {
-      "title": "Caso Bianchedi, l’Anac: “Per il voto in Giunta su Malagò decida il Coni”",
-      "link": "https://www.repubblica.it/sport/calcio/2026/10/02/news/bianchedi_anac_voto_malago-425622199/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T16:34:58.000Z",
-      "excerpt": "Il parere all’autorità anticorruzione era stato richiesto ad agosto sulla compatibilità del doppio ruolo: vicepresidente Coni e capodelegazione Nazionale. “Non si riscontrano incompatibilità”. La Federcalcio: “Un motivo ",
-      "image": null
-    },
-    {
       "title": "Avvelenate a Campobasso, individuato computer dal quale sono state fatte le ricerche sulla ricina",
       "link": "https://www.repubblica.it/cronaca/2026/10/02/news/avvelenate_ricina_campobasso_interrogatori_ultime_news-425622182/",
       "source": "Repubblica",
       "pubDate": "2026-10-02T16:30:34.000Z",
       "excerpt": "Negli Stati Uniti sarebbe stato individuato l'indirizzo IP del pc da cui qualcuno avrebbe preso informazioni sulle modalità di preparazione. La procura e la Mobile smentiscono. Interrogate due donne: sono parenti di un u",
-      "image": null
-    },
-    {
-      "title": "Il City presenta ricorso: ecco come si difenderà dalle accuse di aver truffato la Premier League",
-      "link": "https://www.repubblica.it/sport/calcio/esteri/2026/10/02/news/manchester_city_accuse_truffa_premier-425621875/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T14:46:54.000Z",
-      "excerpt": "Il club di Manchester rischia una pesantissima sanzione, la retrocessione nella B inglese o l’espulsione dalle leghe professionistiche",
       "image": null
     },
     {
@@ -753,6 +745,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-02T12:58:18.000Z",
       "excerpt": "Da bambino si sentiva a casa davanti al poster di un aereo da caccia, oggi ama cucinare i biscotti. In sala nel nuovo film di Iñárritu, Tom Cruise racconta che cosa ha imparato da quel padre “prepotente e codardo” e dall",
+      "image": null
+    },
+    {
+      "title": "Case green, piano casa e immobili bloccati: la risorsa invisibile",
+      "link": "https://www.repubblica.it/economia/2026/10/02/news/case_green_piano_casa_e_immobili_bloccati_la_risorsa_invisibile-425621547/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T12:37:36.000Z",
+      "excerpt": "Le società dedicate ad acquisire e valorizzare gli immobili posti a garanzia dei crediti deteriorati non possono operare su quelli ceduti dalle banche. Così il patrimonio si degrada, quando potrebbe concorrere ad affront",
       "image": null
     },
     {
@@ -782,11 +782,27 @@
   ],
   "sport": [
     {
-      "title": "Nations League: in campo Francia-Italia 1-1 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/02/nations-league-in-campo-francia-italia-diretta_45a99c29-160e-4f2c-a176-241c67b445f3.html",
+      "title": "La rivincita di Bastoni, 'ma io non ho mai perso la fiducia in me stesso'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/la-rivincita-di-bastoni-ma-io-non-ho-mai-perso-la-fiducia-in-me-stesso_d2e6a49a-73f5-4f55-8caa-55d4f3cd9676.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-02T20:16:59.000Z",
-      "excerpt": "Buon primo tempo per gli azzurri, due volte vicino al gol con Kean. Rete di Olise al 55', pari di Bastoni al 68'",
+      "pubDate": "2026-10-02T21:01:49.000Z",
+      "excerpt": "\"Si deve andare oltre i brutti episodi e rialzarsi\"",
+      "image": null
+    },
+    {
+      "title": "Nations League: l'Italia rimonta con Bastoni e spaventa la Francia, 1-1 a Parigi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-litalia-rimonta-con-bastoni-e-spaventa-la-francia-1-1-a-parigi_0b9560c4-5f14-4a8a-bd50-8435fc3c5e93.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T21:01:16.000Z",
+      "excerpt": "Transalpini in vantaggio con Olise. Espulso Upamecano",
+      "image": null
+    },
+    {
+      "title": "Italia a testa alta, pari in tutto con la Francia in casa Zidane",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-francia-italia-1-1_45a99c29-160e-4f2c-a176-241c67b445f3.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T20:55:31.000Z",
+      "excerpt": "Azzurri perfetti per 90': Olise segna su punizione, la pareggia Bastoni",
       "image": null
     },
     {
@@ -827,22 +843,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-02T15:34:27.000Z",
       "excerpt": "Da Coverciano arriva a Tirrenia Ahanor",
-      "image": null
-    },
-    {
-      "title": "Capello: 'Non ho ancora visto in questa Nazionale la rabbia di recuperare palla'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/capello-non-ho-ancora-visto-in-questa-nazionale-la-rabbia-di-recuperare-palla_1e515a69-6798-42aa-96e4-f8094f58c5b1.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T15:06:03.000Z",
-      "excerpt": "'Franco Baresi era un uomo autentico che dava tutto in campo e fuori'",
-      "image": null
-    },
-    {
-      "title": "Tensione in aeroporto e insulti al ct, Portogallo scortato dalla polizia",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/tensione-in-aeroporto-e-insulti-al-ct-portogallo-scortato-dalla-polizia_69cdd6b2-2989-4128-8b64-cfbbfff3f94f.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T14:55:47.000Z",
-      "excerpt": "Tifosi contro Jesus difendono Ronaldo: 'Lui il più grande, tu non vali niente'",
       "image": null
     }
   ]
