@@ -4,6 +4,30 @@
   "finanza": {
     "italia": [
       {
+        "title": "Le azioni Boeing salgono dopo che la FAA esclude problemi di sicurezza",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-boeing-salgono-dopo-che-la-faa-esclude-problemi-di-sicurezza-3573031",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T18:52:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
+      },
+      {
+        "title": "Il petrolio chiude in brusco calo a New York, a -3,48%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/il-petrolio-chiude-in-brusco-calo-a-new-york-a-348_446f7af0-1881-418d-a6ef-998980e80a91.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-02T18:47:28.000Z",
+        "excerpt": "Il Wti cede a 89,64 dollari, il Brent perde il 2,55% a quota 99,70",
+        "image": null
+      },
+      {
+        "title": "Fisco tutor, altre 60 imprese pronte a entrare",
+        "link": "https://www.ilsole24ore.com/art/fisco-tutor-altre-60-imprese-pronte-entrare-AJxzvHXB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-02T18:46:49.000Z",
+        "excerpt": "Il Fisco tutor per le imprese continua lentamente ma inesorabilmente a guadagnare terreno. La dinamica numerica segna come dalle 111 adesioni del 2023 si sia passati alle 142 del 2024...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/01/Immagini/Ritagli/agenzie%20delle%20entrate-U67688331743Ozr-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
         "title": "Starbucks perde il ricorso per archiviare la causa sul marchio del sindacato",
         "link": "https://it.investing.com/news/stock-market-news/starbucks-perde-il-ricorso-per-archiviare-la-causa-sul-marchio-del-sindacato-93CH-3573023",
         "source": "Investing.com Italia",
@@ -458,30 +482,6 @@
         "pubDate": "2026-10-02T14:33:54.000Z",
         "excerpt": "Il rialzo delle quotazioni all’ingrosso si trasferisce sui 2,3 milioni di clienti vulnerabili. La materia prima sale a 78,80 euro/MWh, mentre il prezzo di riferimento complessivo raggiunge 1,62 euro al metro cubo",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/163344182-758ebb89-bd26-4886-898f-22945171e52e.jpg"
-      },
-      {
-        "title": "Spagna, decreto governo su edilizia abitativa bocciato dal Parlamento",
-        "link": "https://it.investing.com/news/stock-market-news/spagna-decreto-governo-su-edilizia-abitativa-bocciato-dal-parlamento-3572920",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T14:33:08.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9117I_L.jpg"
-      },
-      {
-        "title": "Contributo a missione navale Ue nel Mar Rosso ancora insufficiente - Crosetto",
-        "link": "https://it.investing.com/news/stock-market-news/contributo-a-missione-navale-ue-nel-mar-rosso-ancora-insufficiente--crosetto-3572919",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T14:32:51.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9117Q_L.jpg"
-      },
-      {
-        "title": "Tesla, consegne sopra le attese nel trimestre",
-        "link": "https://it.investing.com/news/stock-market-news/tesla-consegne-sopra-le-attese-nel-trimestre-3572918",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T14:32:36.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM91181_L.jpg"
       }
     ],
     "europa": [
@@ -790,6 +790,14 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Attacchi aerei russi soffocano i ponti sul fiume Dnipro a Kiev",
+        "link": "https://www.investing.com/news/commodities-news/russian-airstrikes-choke-bridges-across-dnipro-river-in-kyiv-4930294",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-02T18:48:59.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM91047_L.jpg"
+      },
       {
         "title": "Arcivescovo di Buenos Aires, 'il Papa troverà un'Argentina in crisi e ferita'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/arcivescovo-di-buenos-aires-il-papa-trovera-unargentina-in-crisi-e-ferita_cea428e7-5e6c-4478-a08a-80ad35b9ad6f.html",
@@ -1261,18 +1269,18 @@
         "pubDate": "2026-10-02T08:47:38.000Z",
         "excerpt": "Il candidato di destra punta a vincere al primo turno delle elezioni",
         "image": null
-      },
-      {
-        "title": "Spagna, sul decreto casa oggi voto decisivo per Sánchez: se non passa, ipotesi elezioni anticipate",
-        "link": "https://www.repubblica.it/esteri/2026/10/02/news/spagna_decreto_casa_voto_parlamento_proteste_elezioni_anticipate-425621029/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-02T08:40:03.000Z",
-        "excerpt": "Junts non voterà il provvedimento e gli indignados assediano le Corti. Dopo la crisi generata dallo sfratto di Maricarmen, il governo socialista senza maggioranza potrebbe convocare il voto già per il 29 novembre e tenta",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/103942589-a9890189-fbe6-43b4-bb7a-bccb46974d86.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Nations League: in campo Francia-Italia 0-0 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/02/nations-league-in-campo-francia-italia-diretta_45a99c29-160e-4f2c-a176-241c67b445f3.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T18:58:58.000Z",
+      "excerpt": "Conferma per Kayode e Sebastiano Esposito. Fuori Barella. A centrocampo Mancini schiera Frattesi e Fagioli con Tonali",
+      "image": null
+    },
     {
       "title": "'M - Il figlio del secolo' e 'Techegram', doppietta italiana al Prix Italia",
       "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/02/m-il-figlio-del-secolo-e-techegram-doppietta-italiana-al-prix-italia_24709ea6-9f47-4005-8a2f-9575699db006.html",
@@ -1744,16 +1752,17 @@
       "pubDate": "2026-10-02T06:00:00.000Z",
       "excerpt": "Assegnati i fondi a più di 6mila istituti: 3153,57 euro a ognuno. Ma alcuni hanno decine di classe e numerosi plessi",
       "image": null
-    },
-    {
-      "title": "La lotta di classe per Ronaldo",
-      "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/10/02/news/la_lotta_di_classe_per_ronaldo-425620692/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T04:58:09.000Z",
-      "excerpt": "Di solito un giovane imita il suo idolo per sentirsi un pochino come lui. Stavolta Hojlund è insorto contro chi ha stampato il broncio sulla faccia di CR7"
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: in campo Francia-Italia 0-0 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/02/nations-league-in-campo-francia-italia-diretta_45a99c29-160e-4f2c-a176-241c67b445f3.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T18:58:58.000Z",
+      "excerpt": "Conferma per Kayode e Sebastiano Esposito. Fuori Barella. A centrocampo Mancini schiera Frattesi e Fagioli con Tonali",
+      "image": null
+    },
     {
       "title": "Barcolana, via a edizione 58, in mare 318 giovani velisti",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/barcolana-via-a-edizione-58-in-mare-318-giovani-velisti_09b3836b-dba7-46dc-9ad9-8fb288a7bf2c.html",
