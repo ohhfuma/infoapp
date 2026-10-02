@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 
 const parser = new Parser({
-  timeout: 10000,
+  timeout: 15000,
   customFields: {
     item: [
       ['media:content', 'mediaContent', { keepArray: true }],
