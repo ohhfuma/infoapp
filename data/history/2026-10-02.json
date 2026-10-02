@@ -791,6 +791,14 @@
     ],
     "mondo": [
       {
+        "title": "Flydubai, Netanyhau avverte: “Se ci sono mandanti, pagheranno caro”. Modi chiama il pilota eroe",
+        "link": "https://www.repubblica.it/esteri/2026/10/02/news/flydubai_netanyhau_avverte_se_ci_sono_mandanti_pagheranno_caro_modi_chiama_pilota_eroe-425622252/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T17:13:16.000Z",
+        "excerpt": "Il capitano indiano, ancora ricoverato in ospedale negli Emirati Arabi Uniti, racconta l’inferno sul volo di mercoledì da Dubai a Tel-Aviv: “Ero disteso sul pavimento, ferito, ma mi sono detto di fare un ultimo sforzo pe",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/191048607-4ebf6c60-96ac-4355-b540-ec181125f8fe.jpg"
+      },
+      {
         "title": "L'AIE annuncia il rilascio di 100 milioni di barili di riserve petrolifere",
         "link": "https://www.investing.com/news/commodities-news/iea-announces-100-million-barrel-oil-reserve-release-93CH-4930203",
         "source": "Investing.com Commodities",
@@ -1261,18 +1269,18 @@
         "pubDate": "2026-10-02T07:11:42.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/moved_LYNXMPEHAL0HI_L.jpg"
-      },
-      {
-        "title": "Il petrolio Brent si blocca a $102,30 di resistenza: livelli live",
-        "link": "https://www.investing.com/news/commodities-news/brent-oil-breaks-10150-neckline-eyes-9749-support-live-93CH-4919470",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-02T07:11:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPECB601J_M.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Via libera al Dpfp. Giorgetti: “Sulla Manovra l’approccio sia più prudente”",
+      "link": "https://www.repubblica.it/economia/2026/10/02/news/via_libera_al_dpfb_giorgetti_contesto_complesso-425622240/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T17:03:18.000Z",
+      "excerpt": "Approvato il Documento Programmatico di Finanza Pubblica. Pil 2027 aggiornato all’1%",
+      "image": null
+    },
     {
       "title": "Via libera del Consiglio dei ministri al Dpfp e a scostamento per energia e difesa",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/il-cdm-alle-18-aggiornamento-dei-conti-e-relazione-sullo-scostamento_8463ed4f-c10a-459f-8be8-a56ee2f0b01a.html",
@@ -1375,6 +1383,14 @@
       "source": "ANSA",
       "pubDate": "2026-10-02T13:57:23.000Z",
       "excerpt": "Con 172 voti a favore e 178 contrari del Partito Popolare, di Vox e di Junts per Catalunya.",
+      "image": null
+    },
+    {
+      "title": "L'asilo nido a Belluno costa quasi 10 volte più che a Mantova. Lo studio della Uil",
+      "link": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/10/02/asilo-nido-iniquita-nei-costi-a-belluno-spesa-quasi-10-volte-mantova_ea954c46-9148-4235-8e28-1fd1124521e5.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T13:43:25.000Z",
+      "excerpt": "Chi ha un Isee fino a 15mila euro spende 553 euro contro i 60 della città lombarda",
       "image": null
     },
     {
@@ -1729,20 +1745,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-01T23:00:00.000Z",
       "excerpt": "Il critico d’arte ricoverato al Gemelli per insufficienza respiratoria: “Condizioni critiche ma stabili”"
-    },
-    {
-      "title": "Tensione tra premier e Salvini prima dell’ok allo scostamento. Ma la difesa perde 8 miliardi",
-      "link": "https://www.repubblica.it/economia/2026/10/02/news/tensione_meloni_salvini_prima_ok_scostamento_difesa_energia-425620472/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-01T23:00:00.000Z",
-      "excerpt": "Vertice a Palazzo Chigi con i leader, la Lega per il rinvio. L’accordo arriva su 28 miliardi di spese extra per energia e armi"
-    },
-    {
-      "title": "Meloni scrive a von der Leyen: “L’inflazione fa salire la spesa”. Bruxelles: “Abbiamo già dato”",
-      "link": "https://www.repubblica.it/economia/2026/10/02/news/meloni_scrive_von_der_leyen_inflazione_spesa_ue-425620454/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-01T23:00:00.000Z",
-      "excerpt": "Grecia, Spagna e Francia potrebbero seguire la stessa strada. Il confronto rimandato all’Ecofin di giovedì prossimo"
     }
   ],
   "sport": [

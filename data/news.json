@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-10-02T17:08:44.251Z",
+  "lastUpdated": "2026-10-02T17:40:24.633Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Via libera al Dpfp. Giorgetti: “Sulla Manovra l’approccio sia più prudente”",
+        "link": "https://www.repubblica.it/economia/2026/10/02/news/via_libera_al_dpfb_giorgetti_contesto_complesso-425622240/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-02T17:28:08.000Z",
+        "excerpt": "Approvato il Documento Programmatico di Finanza Pubblica. Pil 2027 aggiornato all’1%",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/190313169-9d2c1e33-1557-491d-ab1d-19287e4c884c.jpg"
+      },
+      {
+        "title": "Giorgetti, deficit sotto il 3% nel 2026, sale al 3,4% nel 2027",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/giorgetti-deficit-sotto-il-3-nel-2026-sale-al-35-nel-2027_623c3200-a7fe-40fd-9d88-577cf38b40fa.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-02T17:26:24.000Z",
+        "excerpt": "Debito al 138,1% nel 2026, cresce al 138,6% nel 2027",
+        "image": null
+      },
       {
         "title": "Webuild lascia invariata l'offerta su Trevi, 'valore superiore a Icop'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/webuild-lascia-invariata-lofferta-su-trevi-valore-superiore-a-icop_dd984718-1107-489d-92a5-f99e2d926569.html",
@@ -9,22 +25,6 @@
         "pubDate": "2026-10-02T17:05:57.000Z",
         "excerpt": "Presenta esposto alla Consob sul rilancio della società friulana",
         "image": null
-      },
-      {
-        "title": "Giorgetti, deficit sotto il 3% nel 2026, sale al 3,5% nel 2027",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/giorgetti-deficit-sotto-il-3-nel-2026-sale-al-35-nel-2027_623c3200-a7fe-40fd-9d88-577cf38b40fa.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-02T17:05:34.000Z",
-        "excerpt": "Debito al 138,1% nel 2026, cresce al 138,6% nel 2027",
-        "image": null
-      },
-      {
-        "title": "Via libera al Dpfb. Giorgetti: “Contesto complesso, difficile fare previsioni”",
-        "link": "https://www.repubblica.it/economia/2026/10/02/news/via_libera_al_dpfb_giorgetti_contesto_complesso-425622240/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-02T17:05:19.000Z",
-        "excerpt": "Approvato il Documento Programmatico di Finanza Pubblica. Pil 2027 aggiornato all’1%",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/190313169-9d2c1e33-1557-491d-ab1d-19287e4c884c.jpg"
       },
       {
         "title": "Perché il titolo HudBay Minerals è in rialzo oggi?",
@@ -35,11 +35,11 @@
         "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
       },
       {
-        "title": "Cdm, via libera al Dpfp e allo scostamento da 28 miliardi per energia e difesa. Giorgetti: sulla manovra approccio prudente",
+        "title": "Cdm, via libera al Dpfp e all’extradeficit da 28 miliardi per energia e difesa. Giorgetti: sulla manovra approccio prudente",
         "link": "https://www.ilsole24ore.com/art/cdm-via-libera-dpfp-e-scostamento-28-miliardi-energia-e-difesa-giorgetti-manovra-approccio-prudente-AJsqL7WB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-02T16:55:17.000Z",
-        "excerpt": "Via libera del Consiglio dei ministri, al Documento programmatico di finanza pubblica (Dpfp) e alla relazione sullo scostamento. L’intesa tra i leader della maggioranza sull’utilizzo parziale della clausola nazionale di.",
+        "pubDate": "2026-10-02T16:55:00.000Z",
+        "excerpt": "Via libera del Consiglio dei ministri al Documento programmatico di finanza pubblica (Dpfp) e alla relazione sullo scostamento. L’intesa tra i leader della maggioranza sull’utilizzo parziale della clausola nazionale di..",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/LP_24782715-U42454571544NBY-1440x752@IlSole24Ore-Web.jpg"
       },
       {
@@ -59,7 +59,7 @@
         "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
       },
       {
-        "title": "Webuild lascia invariata l’offerta su Trevi: «Valore superiore a Icop»",
+        "title": "Webuild rivede l’Opa su Trevi. Esposto a Consob contro Icop»",
         "link": "https://www.ilsole24ore.com/art/webuild-lascia-invariata-l-offerta-trevi-valore-superiore-icop-AJyXKAXB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-02T16:47:00.000Z",
@@ -457,6 +457,22 @@
     ],
     "mondo": [
       {
+        "title": "Flydubai, Netanyhau avverte: “Se ci sono mandanti, pagheranno caro”. Modi chiama il pilota eroe",
+        "link": "https://www.repubblica.it/esteri/2026/10/02/news/flydubai_netanyhau_avverte_se_ci_sono_mandanti_pagheranno_caro_modi_chiama_pilota_eroe-425622252/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T17:13:16.000Z",
+        "excerpt": "Il capitano indiano, ancora ricoverato in ospedale negli Emirati Arabi Uniti, racconta l’inferno sul volo di mercoledì da Dubai a Tel-Aviv: “Ero disteso sul pavimento, ferito, ma mi sono detto di fare un ultimo sforzo pe",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/191048607-4ebf6c60-96ac-4355-b540-ec181125f8fe.jpg"
+      },
+      {
+        "title": "Israele, la Corte annuncia che i partiti arabi possono prendere parte alle elezioni",
+        "link": "https://www.repubblica.it/esteri/2026/10/02/news/israele_partiti_arabi_elezioni_corte_ammessi-425621356/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T17:01:26.000Z",
+        "excerpt": "Ribaltata la decisione della Commissione elettorale centrale: Lista unita e Ràam possono partecipare alle prossime elezioni della Knesset del 27 ottobre",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/124641107-42305e02-7ba7-4da5-9349-45ebbf2e8b36.jpg"
+      },
+      {
         "title": "L'AIE annuncia il rilascio di 100 milioni di barili di riserve petrolifere",
         "link": "https://www.investing.com/news/commodities-news/iea-announces-100-million-barrel-oil-reserve-release-93CH-4930203",
         "source": "Investing.com Commodities",
@@ -497,6 +513,14 @@
         "image": null
       },
       {
+        "title": "“Licenziato dalla Fao per un rapporto sulla fame a Gaza e per aver partecipato a minuto di silenzio”: la denuncia di un dirigente",
+        "link": "https://www.repubblica.it/esteri/2026/10/02/news/benjamin_davis_licenziato_fao_onu_rapporto_fame_gaza-425621819/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T14:59:47.000Z",
+        "excerpt": "Benjamin Davis, fino al 30 settembre alla guida della Divisione per la trasformazione rurale e l’uguaglianza di genere, racconta a Repubblica di non aver ricevuto il rinnovo del suo contratto. Il caso apre una frattura a",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/163059956-fd7755ac-c827-4543-a094-34ad034b4427.jpg"
+      },
+      {
         "title": "Von der Leyen, 'bene G7, scongiurato divieto a export diesel'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/von-der-leyen-bene-g7-scongiurato-divieto-a-export-diesel_8b9ab0c9-c173-4cca-8235-dc0e69cb81db.html",
         "source": "ANSA Mondo",
@@ -527,6 +551,14 @@
         "pubDate": "2026-10-02T14:48:05.000Z",
         "excerpt": "Il personale dello Yankee Stadium ha dovuto bloccare il regista",
         "image": null
+      },
+      {
+        "title": "L’ingegnera palestinese: “A Gaza la prima emergenza è l’acqua”",
+        "link": "https://www.repubblica.it/esteri/2026/10/02/news/ingegnera_palestinese_faidi_hadeel_gaza_prima_emergenza_acqua-425621827/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T14:34:13.000Z",
+        "excerpt": "Faidi Hadeel è il capo dei progetti della Palestinian Water Authority: “Oltre l'85% degli impianti idrici e igienico-sanitari ha subito danni. Le persono hanno meno di 6 litri d’acqua al giorno”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/163401273-16382049-5227-4250-a6ef-36f84d19eca4.jpg"
       },
       {
         "title": "Macron, al G7 deciso il rilascio di 100 mln di barili in 4 mesi",
@@ -561,6 +593,14 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEI0Q0Z9_L.jpg"
       },
       {
+        "title": "Netanyahu: “L’attentatore del Flydubai voleva far schiantare l'aereo”",
+        "link": "https://www.repubblica.it/esteri/2026/10/02/news/volo_dubai_tel_aviv_netayahu_pilota_smit_machchhar_premier_modi-425621632/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T13:13:18.000Z",
+        "excerpt": "Il premier israeliano: “Se c’è qualcuno dietro, la pagherà cara”. Il pilota indiano ferito ha parlato con Nerendra Modi: “Non potevo permettere che i passeggeri morissero”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/151219392-37f6e939-5412-4626-a09e-ec49505a417e.jpg"
+      },
+      {
         "title": "Guadagno dei futures sul grano di Chicago sulla domanda di gara dell'Arabia Saudita",
         "link": "https://www.investing.com/news/commodities-news/chicago-wheat-futures-gain-on-saudi-arabia-tender-demand-93CH-4929858",
         "source": "Investing.com Commodities",
@@ -577,12 +617,36 @@
         "image": "https://content-media.investing.com/news/LYNXMPEB5F109_M.jpg"
       },
       {
+        "title": "Hong Kong, processo per la modella fatta a pezzi: “I parenti comprarono prima il tritacarne”",
+        "link": "https://www.repubblica.it/esteri/2026/10/02/news/abby_choi_modella_fatta_pezzi_influencer_processo_hong_kong-425621496/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T12:05:17.000Z",
+        "excerpt": "Per il macabro delitto di Abby Choi, avvenuto tre anni fa, sono accusati l’ex marito, suo fratello e il loro padre. Per i giudici gli imputati hanno elaborato a lungo il crimine: giorni prima di smembrare e nascondere in",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/140507314-18112782-8657-4f1e-b814-f2f2e1f81ed5.jpg"
+      },
+      {
         "title": "Chi sarebbe esposto se gli Stati Uniti vietassero le esportazioni di diesel? Goldman pesa",
         "link": "https://www.investing.com/news/commodities-news/who-would-be-exposed-if-us-bans-diesel-exports-goldman-weighs-in-4929619",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-02T12:00:18.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEE9I0TQ_M.jpg"
+      },
+      {
+        "title": "Dall’Ucraina all’Italia, la rivoluzione dei tank sul fronte dei droni",
+        "link": "https://www.repubblica.it/esteri/2026/10/02/news/tank_ucraina_carri_armati_ucraina_italia_rivoluzione-425621239/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T09:48:43.000Z",
+        "excerpt": "Le tattiche di Kiev riportano i carri armati in prima linea. Ed è in dirittura d’arrivo il contratto miliardario per i panzer del nostro Esercito",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/114719719-09c8d3c0-8495-4030-b179-eb5b9f6f18f5.jpg"
+      },
+      {
+        "title": "Gaza, nuove testimonianze di soldati Idf dopo Naza: “Uccidere persone non sembrava più grave”",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/gaza_nuove_testimonianze_di_soldati_idf_dopo_naza_uccidere_persone_non_sembrava_piu_grave-425616711/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-02T09:26:16.000Z",
+        "excerpt": "Tre militari israeliani hanno raccontato al quotidiano spagnolo “El País” le esperienze vissute nella Striscia. Hanno deciso di parlare dopo le critiche al documentario esplose in Israele",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/09/30/124845581-32eff3f0-169d-42a7-9e34-4db286ec4846.jpg"
       }
     ]
   },
@@ -591,8 +655,24 @@
       "title": "Via libera del Consiglio dei ministri al Dpfp e a scostamento per energia e difesa",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/il-cdm-alle-18-aggiornamento-dei-conti-e-relazione-sullo-scostamento_8463ed4f-c10a-459f-8be8-a56ee2f0b01a.html",
       "source": "ANSA",
-      "pubDate": "2026-10-02T16:44:54.000Z",
-      "excerpt": "Il governo chiederà lo 0,3% per l'energia e lo 0,3% per la difesa nel 2027 e nel 2028",
+      "pubDate": "2026-10-02T17:17:52.000Z",
+      "excerpt": "Il governo chiederà lo 0,3% per l'energia e lo 0,3% per la difesa nel 2027 e nel 2028. Giorgetti: ''Ridotto lo sforzo per la Difesa. Non chiediamo nuova flessibilità ma di valutare l'impatto dell'inflazione'",
+      "image": null
+    },
+    {
+      "title": "Via libera al Dpfp. Giorgetti: “Sulla Manovra l’approccio sia più prudente”",
+      "link": "https://www.repubblica.it/economia/2026/10/02/news/via_libera_al_dpfb_giorgetti_contesto_complesso-425622240/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T17:03:18.000Z",
+      "excerpt": "Approvato il Documento Programmatico di Finanza Pubblica. Pil 2027 aggiornato all’1%",
+      "image": null
+    },
+    {
+      "title": "Il Congresso spagnolo boccia il decreto di misure per la casa. Sanchez valuta il voto anticipato",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/il-congresso-spagnolo-boccia-il-decreto-di-misure-per-la-casa.-sanchez-valuta-il-voto_4a3a0cd6-4b1a-41d6-ae21-9237c79a54a3.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T16:52:13.000Z",
+      "excerpt": "Con 172 voti a favore e 178 contrari del Partito Popolare, di Vox e di Junts per Catalunya.",
       "image": null
     },
     {
@@ -609,14 +689,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-02T16:05:08.000Z",
       "excerpt": "Intervista a 'Quarto grado': 'Ho sempre avuto il 44 di piede, sull'impronta non ci sono elementi'",
-      "image": null
-    },
-    {
-      "title": "Il Congresso spagnolo boccia il decreto di misure per la casa. Sanchez valuta il voto anticipato",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/il-congresso-spagnolo-boccia-il-decreto-di-misure-per-la-casa.-sanchez-valuta-il-voto_4a3a0cd6-4b1a-41d6-ae21-9237c79a54a3.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-02T15:25:09.000Z",
-      "excerpt": "Con 172 voti a favore e 178 contrari del Partito Popolare, di Vox e di Junts per Catalunya.",
       "image": null
     },
     {
@@ -668,6 +740,14 @@
       "image": null
     },
     {
+      "title": "L'asilo nido a Belluno costa quasi 10 volte più che a Mantova. Lo studio della Uil",
+      "link": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/10/02/asilo-nido-iniquita-nei-costi-a-belluno-spesa-quasi-10-volte-mantova_ea954c46-9148-4235-8e28-1fd1124521e5.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T13:43:25.000Z",
+      "excerpt": "Chi ha un Isee fino a 15mila euro spende 553 euro contro i 60 della città lombarda",
+      "image": null
+    },
+    {
       "title": "Tom Cruise: “Ho sempre avuto uno smoking blu scuro. Me lo consigliò Giorgio Armani”",
       "link": "https://d.repubblica.it/urep/2026/10/02/news/tom_cruise_digger_inarritu_intervista_esclusiva-425621597/",
       "source": "Repubblica",
@@ -684,14 +764,6 @@
       "image": null
     },
     {
-      "title": "Cinque suore con papa Leone: bilingue e ottime cuoche. Vivranno nel Palazzo Apostolico",
-      "link": "https://www.repubblica.it/cronaca/2026/10/02/news/papa_suore_peru_leone_prevost-425621472/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T11:52:58.000Z",
-      "excerpt": "Sono arrivate in sordina e adesso fanno parte della famiglia pontificia di Prevost. Vengono da Usa e Perù, ora devono governare l’appartamento pontificio nel nome della riservatezza",
-      "image": null
-    },
-    {
       "title": "Papiri di Ercolano, una nuova tecnica può leggere i testi perduti",
       "link": "https://www.ansa.it/canale_scienza/notizie/ragazzi/news/2026/10/02/papiri-di-ercolano-una-nuova-tecnica-puo-leggere-i-testi-perduti_99857ca6-96e3-4a04-b9f4-42819964883c.html",
       "source": "ANSA",
@@ -705,14 +777,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-02T06:09:45.000Z",
       "excerpt": "È il più freddo 'mondo di lava' mai individuato e ha anche un'atmosfera",
-      "image": null
-    },
-    {
-      "title": "Woody Allen, 'il mondo attraversa una fase molto critica'",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/10/01/woody-allen-il-mondo-attraversa-una-fase-molto-critica_afe60ca8-10d3-46d3-81b2-15ee96894fdc.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-01T17:22:34.000Z",
-      "excerpt": "Il regista 90enne torna sul set a Madrid, il primo film dopo le accuse e il #MeToo",
       "image": null
     }
   ],
