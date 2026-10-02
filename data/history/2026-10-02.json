@@ -4,6 +4,27 @@
   "finanza": {
     "italia": [
       {
+        "title": "McDonald’s vende un locale a Hong Kong per 15,3 milioni di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/mcdonalds-vende-un-locale-a-hong-kong-per-153-milioni-di-dollari-93CH-3571650",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T00:24:39.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Netflix si allea con Filmin per contenuti selezionati in Spagna",
+        "link": "https://it.investing.com/news/stock-market-news/netflix-si-allea-con-filmin-per-contenuti-selezionati-in-spagna-93CH-3571649",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T00:20:15.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Moderna entra nel Nasdaq-100 il 9 ottobre, al posto di Warner Bros.",
+        "link": "https://it.investing.com/news/stock-market-news/moderna-entra-nel-nasdaq100-il-9-ottobre-al-posto-di-warner-bros-93CH-3571648",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T00:14:39.000Z",
+        "excerpt": ""
+      },
+      {
         "title": "Meloni scrive a von der Leyen: “L’inflazione fa salire la spesa”. Bruxelles: “Abbiamo già dato”",
         "link": "https://www.repubblica.it/economia/2026/10/02/news/meloni_scrive_von_der_leyen_inflazione_spesa_ue-425620454/?rss",
         "source": "Repubblica Economia",
@@ -457,6 +478,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Brasile, la tv Globo cancella il dibattito presidenziale",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-la-tv-globo-cancella-il-dibattito-presidenziale_3c244aaa-07d5-4f84-b299-9c728d3d540c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T00:39:28.000Z",
+        "excerpt": "Tribunali modificano le regole, 'troppa insicurezza giuridica'"
+      },
+      {
+        "title": "Brasile, lancia uno zaino vicino la Corte Suprema, scatta allarme bomba",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-lancia-uno-zaino-vicino-la-corte-suprema-scatta-allarme-bomba_0e298896-1372-43f5-9d3d-b8b6f8dae232.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T00:18:51.000Z",
+        "excerpt": "Arrestato un uomo, area isolata e traffico deviato"
+      },
+      {
         "title": "OpenAI licenzia tre ricercatori per gestione impropria di informazioni sensibili",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/openai-licenzia-tre-ricercatori-per-gestione-impropria-di-informazioni-sensibili_356c93ae-93dc-4eb7-969a-7f66a99840b1.html",
         "source": "ANSA Mondo",
@@ -738,6 +773,34 @@
       "source": "Repubblica",
       "pubDate": "2026-10-01T23:00:00.000Z",
       "excerpt": "La quinta puntata della serie “Piccoli salari”. Antonio Rosato, 53 anni, è caposquadra esperto: “Città troppo cara per risparmiare, abito a Legnano e passo le vacanze a casa dei miei”"
+    },
+    {
+      "title": "Saint Denis, il liceo dove è partita la rivolta degli studenti: “Qui più topi che insegnanti”",
+      "link": "https://www.repubblica.it/esteri/2026/10/02/news/st_denis_liceo_paul_eluard_dove_partita_protesta_studenti-425620308/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T23:00:00.000Z",
+      "excerpt": "E’ iniziato tutto in questo istituto che descrivono come il simbolo dell’abbandono della scuola pubblica nelle periferie. Muri che si sgretolano, servizi igienici degradati, insegnanti assenti e non sostituiti"
+    },
+    {
+      "title": "Proteste studenti a Parigi, Pascal: “Mélenchon sa di non poter vincere e così punta al caos”",
+      "link": "https://www.repubblica.it/esteri/2026/10/02/news/proteste_studenti_parigi_pascal_intervista_melenchon_punta_caos-425620271/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T23:00:00.000Z",
+      "excerpt": "Il filosofo e saggista francese: “Non riuscendo a imporsi politicamente, perché non riuscirà a vincere le presidenziali, punta sulla strategia della tensione, sull’idea che tutto debba diventare esplosivo. È una linea po"
+    },
+    {
+      "title": "Conte punge il Pd: “Ho aperto al federatore, mi hanno detto di no”",
+      "link": "https://www.repubblica.it/politica/2026/10/02/news/conte_pd_federatore_leader_campo_largo_primarie-425620446/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T23:00:00.000Z",
+      "excerpt": "Il presidente dei 5 stelle era pronto a una soluzione per evitare le primarie: “Ho dato la disponibilità, ma non ho trovato aperture”"
+    },
+    {
+      "title": "Campo largo, Schlein non cambia idea: “Leader chi vince ai gazebo o guida il partito più votato”",
+      "link": "https://www.repubblica.it/politica/2026/10/02/news/schlein_leader_campo_largo_chi_vince_primarie_o_partito_piu_votato-425620449/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-01T23:00:00.000Z",
+      "excerpt": "La segretaria ribadirà la linea oggi in direzione e invoca prudenza. Nei dem nessuna sorpresa: “Non bisogna cedere alle provocazioni”"
     },
     {
       "title": "Poker Portogallo, prima gioia per Klopp. Dublino, in campo palline con la bandiera della Palestina",
