@@ -545,3 +545,48 @@ footer { color: var(--text-muted); }
     margin-top: 0 !important;
   }
 }
+
+/* Bottoni header fissi in alto a destra: Aggiorna + Dark mode, affiancati */
+.refresh-btn,
+.theme-toggle-btn {
+  position: fixed !important;
+  top: 16px;
+  z-index: 100;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  padding: 0;
+}
+
+.refresh-btn {
+  right: 60px;
+  background: var(--accent);
+  color: white;
+  border: none;
+}
+
+.refresh-btn:hover { background: var(--accent-hover); }
+
+.theme-toggle-btn {
+  right: 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+}
+
+.theme-toggle-btn:hover { background: var(--border-color); }
+
+@media (max-width: 480px) {
+  .refresh-btn, .theme-toggle-btn {
+    top: 12px;
+    width: 32px;
+    height: 32px;
+    margin-top: 0 !important;
+  }
+  .refresh-btn { right: 54px; }
+  .theme-toggle-btn { right: 12px; }
+}

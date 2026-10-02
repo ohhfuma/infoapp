@@ -210,12 +210,12 @@ function updateHistoryActiveState() {
 async function handleRefresh() {
   const btn = document.getElementById('refresh-btn');
   btn.disabled = true;
-  btn.textContent = '⏳ Aggiornamento...';
+  btn.textContent = '⏳';
   await loadAllData();
   await loadHistoryIndex();
   btn.textContent = '✅ Fatto!';
   setTimeout(() => {
-    btn.textContent = '🔄 Aggiorna';
+    btn.textContent = '🔄';
     btn.disabled = false;
   }, 1500);
 }
