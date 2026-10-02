@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-02T03:09:20.080Z",
+  "lastUpdated": "2026-10-02T03:42:21.661Z",
   "finanza": {
     "italia": [
+      {
+        "title": "I titoli del settore raffinazione in rally: uno dei nomi scelti dall’AI segna +10,69%",
+        "link": "https://it.investing.com/news/stock-market-news/i-titoli-del-settore-raffinazione-in-rally-uno-dei-nomi-scelti-dallai-segna-1069-3571676",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T03:14:58.000Z",
+        "excerpt": ""
+      },
+      {
+        "title": "Incentivi differenziati a seconda dei lavori, sì ai pannelli solari: verso un nuovo ecobonus al 65%",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/casa/2026/10/02/news/incentivi_differenziati_pannelli_solari_ecobonus-425620150/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-02T03:00:00.000Z",
+        "excerpt": "Il ministro Leo conferma l’intervento, non con bonus a pioggia o aliquote uniche. Ecco come funzionava l’incentivo fino al 2024 e cosa potrebbe tornare"
+      },
+      {
+        "title": "Sciopero generale. Il 2 ottobre 2026 stop per treni, scuola e sanità, ecco orari e settori coinvolti",
+        "link": "https://www.repubblica.it/economia/2026/10/02/news/sciopero_generale_2_ottobre_treni_scuola_sanita_orari_settori-425620146/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-02T03:00:00.000Z",
+        "excerpt": "L’autunno si apre mettendo in difficoltà varie categorie. Attenzione ai dettagli delle proteste"
+      },
+      {
+        "title": "I mercati cedono sul dollaro, ma questo titolo IT guadagna il 10% oggi",
+        "link": "https://it.investing.com/news/stock-market-news/i-mercati-cedono-sul-dollaro-ma-questo-titolo-it-guadagna-il-10-oggi-3571674",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T02:50:33.000Z",
+        "excerpt": ""
+      },
       {
         "title": "Perché le azioni di Li Auto hanno toccato un minimo storico oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-le-azioni-di-li-auto-hanno-toccato-un-minimo-storico-oggi-93CH-3571672",
@@ -59,20 +87,6 @@
         "excerpt": ""
       },
       {
-        "title": "Netflix si allea con Filmin per contenuti selezionati in Spagna",
-        "link": "https://it.investing.com/news/stock-market-news/netflix-si-allea-con-filmin-per-contenuti-selezionati-in-spagna-93CH-3571649",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T00:20:15.000Z",
-        "excerpt": ""
-      },
-      {
-        "title": "Moderna entra nel Nasdaq-100 il 9 ottobre, al posto di Warner Bros.",
-        "link": "https://it.investing.com/news/stock-market-news/moderna-entra-nel-nasdaq100-il-9-ottobre-al-posto-di-warner-bros-93CH-3571648",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T00:14:39.000Z",
-        "excerpt": ""
-      },
-      {
         "title": "Meloni scrive a von der Leyen: “L’inflazione fa salire la spesa”. Bruxelles: “Abbiamo già dato”",
         "link": "https://www.repubblica.it/economia/2026/10/02/news/meloni_scrive_von_der_leyen_inflazione_spesa_ue-425620454/?rss",
         "source": "Repubblica Economia",
@@ -115,13 +129,6 @@
         "excerpt": "L’ultima ad adeguarsi, in ordine temporale, è stata Tamoil. Il marchio appartenente al gruppo petrolifero Oilinvest - con sede nei Paesi Bassi e siti estrattivi in Libia - ha annunciato..."
       },
       {
-        "title": "Adr replica a Ryanair: “Investimenti per 3,6 miliardi, crescita continua, tariffe regolate”",
-        "link": "https://www.repubblica.it/economia/2026/10/01/news/adr_ryanair_fiumicino_tariffe_rotte-425620134/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-01T20:17:05.000Z",
-        "excerpt": "La low cost irlandese scettica sulle possibilità di crescita di Fiumicino anche a causa degli alti prezzi che imporrebbe ai vettori. La società di gestione ribatte: “Nella stagione estiva 2026 sono entrate 3 nuove compag"
-      },
-      {
         "title": "Meloni in pressing: 'Flessibilità o misure restrittive'. Ma l'Ue è cauta",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/01/meloni-in-pressing-flessibilita-o-misure-restrittive.-ma-lue-e-cauta_c461cfeb-1f8a-498a-878e-2c5ebb6f7005.html",
         "source": "ANSA Economia",
@@ -141,13 +148,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-01T19:30:34.000Z",
         "excerpt": "Cristina Bombassei: 'Premiamo autentici testimoni del valore del tessuto imprenditoriale'"
-      },
-      {
-        "title": "Draghi: “L’Europa metta al centro la crescita. No a tassi troppo alti”",
-        "link": "https://www.repubblica.it/economia/2026/10/01/news/draghi_europa_metta_al_centro_crescita_tassi-425619922/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-01T19:11:52.000Z",
-        "excerpt": "L’ex presidente della Bce avverte: “Per la sostenibilità dei debiti non sarà sufficiente la disciplina fiscale, serve lo sviluppo”. Un messaggio ai politici europei: “Avanti con l’agenda comune”. E uno a Francoforte: “St"
       },
       {
         "title": "Draghi: l’Ue investa 100 miliardi nell’intelligenza artificiale",
@@ -522,6 +522,13 @@
       "excerpt": "L’autunno si apre mettendo in difficoltà varie categorie. Attenzione ai dettagli delle proteste"
     },
     {
+      "title": "Incentivi differenziati a seconda dei lavori, sì ai pannelli solari: verso un nuovo ecobonus al 65%",
+      "link": "https://www.repubblica.it/economia/diritti-e-consumi/casa/2026/10/02/news/incentivi_differenziati_pannelli_solari_ecobonus-425620150/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T03:00:00.000Z",
+      "excerpt": "Il ministro Leo conferma l’intervento, non con bonus a pioggia o aliquote uniche. Ecco come funzionava l’incentivo fino al 2024 e cosa potrebbe tornare"
+    },
+    {
       "title": "Tensione tra premier e Salvini prima dell’ok allo scostamento. Ma la difesa perde 8 miliardi",
       "link": "https://www.repubblica.it/economia/2026/10/02/news/tensione_meloni_salvini_prima_ok_scostamento_difesa_energia-425620472/",
       "source": "Repubblica",
@@ -562,13 +569,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-01T23:00:00.000Z",
       "excerpt": "Il filosofo e saggista francese: “Non riuscendo a imporsi politicamente, perché non riuscirà a vincere le presidenziali, punta sulla strategia della tensione, sull’idea che tutto debba diventare esplosivo. È una linea po"
-    },
-    {
-      "title": "Conte punge il Pd: “Ho aperto al federatore, mi hanno detto di no”",
-      "link": "https://www.repubblica.it/politica/2026/10/02/news/conte_pd_federatore_leader_campo_largo_primarie-425620446/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-01T23:00:00.000Z",
-      "excerpt": "Il presidente dei 5 stelle era pronto a una soluzione per evitare le primarie: “Ho dato la disponibilità, ma non ho trovato aperture”"
     },
     {
       "title": "La legge elettorale supera il primo scoglio, la maggioranza compatta nel voto segreto",
