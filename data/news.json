@@ -1,14 +1,62 @@
 {
-  "lastUpdated": "2026-10-02T15:09:57.573Z",
+  "lastUpdated": "2026-10-02T15:42:53.668Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Milano chiude in rialzo, +0,49%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/borsa-milano-chiude-in-rialzo-049_40d4abb5-cc57-43bf-b596-6648075e6574.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-02T15:38:44.000Z",
+        "excerpt": "Indice Ftse Mib a quota 50.483 punti",
+        "image": null
+      },
+      {
+        "title": "Borsa: Europa bene nel finale, dati Usa allontanano rialzo Fed, Milano +0,4%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/borsa-europa-bene-nel-finale-dati-usa-allontanano-rialzo-fed_45f510f2-0c33-4433-b5ab-7d9185e58dcf.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-02T15:36:03.000Z",
+        "excerpt": "Lo spread italiano scende sotto i 115 punti, Parigi sopra i 140",
+        "image": null
+      },
+      {
+        "title": "Bollette, per i vulnerabili rincara anche il gas. A settembre Arera alza i prezzi del 12,7%",
+        "link": "https://www.repubblica.it/economia/2026/10/02/news/bollette_vulnerabili_gas_rincari_arera-425622039/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-02T15:32:39.000Z",
+        "excerpt": "È quanto i 2,3 milioni di utenti più fragili hanno pagato in più per la sola componente energia",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/173233095-0d55243b-3408-40a2-8c55-c5e6cc82a05a.jpg"
+      },
+      {
+        "title": "Covid, Pregliasco: aumentano i contagi ma la situazione è sotto controllo",
+        "link": "https://www.ilsole24ore.com/art/covid-pregliasco-aumentano-contagi-ma-situazione-e-sotto-controllo-AJVmzwWB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-02T15:26:00.000Z",
+        "excerpt": "«Non siamo di fronte a un ritorno alla pandemia né, allo stato attuale, a una nuova emergenza paragonabile a quella vissuta negli anni scorsi», rassicura il virologo",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/covid-U71446573140rvK-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Made in Italy Summit 2026: crescita, competitività ed export al centro della settima edizione",
+        "link": "https://www.ilsole24ore.com/art/made-italy-summit-2026-crescita-competitivita-ed-export-centro-settima-edizione-AJSGh0WB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-02T15:16:41.000Z",
+        "excerpt": "Dal 6 all’8 ottobre 2026 torna il Made in Italy Summit, l’evento digitale l’evento digitale dedicato al brand Italia, promosso da tre delle realtà editoriali internazionali più autorevoli: Il Sole...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/CARD_1200x628-U12130317732rEO-1440x752@IlSole24Ore-Web.png"
+      },
       {
         "title": "Gasolio, l’Ue cede al pressing di Trump. Macron: “Rilasceremo 100 milioni di barili dalle scorte”",
         "link": "https://www.repubblica.it/economia/2026/10/02/news/gasolio_ue_cede_pressing_trump_macron_rilasceremo_barili_scorte-425621866/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "2026-10-02T15:05:09.000Z",
+        "pubDate": "2026-10-02T15:08:25.000Z",
         "excerpt": "L’impegno dei Paesi del G7, nell’incontro voluto dal presidente francese, per “abbassare i prezzi dei carburanti” e scongiurare “misure restrittive sugli scambi”",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/165654496-ee4129a0-248a-4d72-896d-e6ab10a4a260.jpg"
+      },
+      {
+        "title": "Uranium Energy Corp. sale dopo che RBC evidenzia piani per la filiera domestica",
+        "link": "https://it.investing.com/news/stock-market-news/uranium-energy-corp-sale-dopo-che-rbc-evidenzia-piani-per-la-filiera-domestica-3572934",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-02T15:06:15.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg"
       },
       {
         "title": "Borsa: Milano accelera (+0,7%), balzo di Technoprobe, Stm e Stellantis",
@@ -16,14 +64,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-02T14:57:43.000Z",
         "excerpt": "Lo spread scende a a 115,9 punti. Scivola Fincantieri, banche deboli",
-        "image": null
-      },
-      {
-        "title": "Occupati negli Usa usa sotto le attese, cala la tensione sui bond",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/leconomia-usa-crea-a-settembre-29.000-posti-di-lavoro-sotto-le-attese_bbaec089-3944-4503-9a1e-70d4689a718c.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-02T14:50:10.000Z",
-        "excerpt": "L'inflazione in Ue balza al 3,8% spinta dai costi dell'energia",
         "image": null
       },
       {
@@ -88,7 +128,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T14:32:51.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9117Q_L.jpg"
+        "image": null
       },
       {
         "title": "Tesla, consegne sopra le attese nel trimestre",
@@ -97,14 +137,6 @@
         "pubDate": "2026-10-02T14:32:36.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM91181_L.jpg"
-      },
-      {
-        "title": "Citadel Securities acquisisce una quota minoritaria in Wolfe Research",
-        "link": "https://it.investing.com/news/stock-market-news/citadel-securities-acquisisce-una-quota-minoritaria-in-wolfe-research-3572916",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-02T14:29:13.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
       },
       {
         "title": "Rete Comuni Sostenibili, Educational Goal e Pentapolis insieme per la sostenibilità",
@@ -163,14 +195,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/152951624-3747f7dd-e9f4-440e-af0b-ea6b81b12ca9.jpg"
       },
       {
-        "title": "Arera, a settembre il prezzo del gas aumenta del 12,7% per i vulnerabili",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/arera-a-settembre-il-prezzo-del-gas-aumenta-del-127-per-i-vulnerabili_38f23948-41cd-4e02-afc1-9f12535a5ddb.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-02T13:24:31.000Z",
-        "excerpt": "'Quotazioni all'ingrosso hanno subito un nuovo deciso rialzo'",
-        "image": null
-      },
-      {
         "title": "Case green, piano casa e immobili bloccati: la risorsa invisibile",
         "link": "https://www.repubblica.it/economia/2026/10/02/news/case_green_piano_casa_e_immobili_bloccati_la_risorsa_invisibile-425621547/?rss",
         "source": "Repubblica Economia",
@@ -203,14 +227,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/135825015-daaafc81-e729-4fe6-8982-8f177a96de69.jpg"
       },
       {
-        "title": "Sport e benessere: le rinunce degli italiani, tra impegni e attività quotidiane",
-        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/stili-di-vita/2026/10/02/news/sport_e_benessere_le_rinunce_degli_italiani_tra_impegni_e_attivita_quotidiane-425621400/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-02T11:09:24.000Z",
-        "excerpt": "Quasi un italiano su due (46%) disporrebbe di meno di tre ore a settimana da dedicare a svaghi, hobby ed esercizio fisico secondo un sondaggio di Swg",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/130918767-24b56650-a7ce-4c21-a8dd-cc65a1554da3.jpg"
-      },
-      {
         "title": "Torino, investimenti truffa in oro e cripto: sequestri per oltre 1,6 milioni",
         "link": "https://www.ilsole24ore.com/art/torino-investimenti-truffa-oro-e-cripto-sequestri-oltre-16-milioni-AJTs3ZWB",
         "source": "Il Sole 24 Ore",
@@ -241,22 +257,6 @@
         "pubDate": "2026-10-02T08:56:00.000Z",
         "excerpt": "Nel Lazio il gasolio self si ferma a 2,241 euro al litro, 12,8 centesimi sotto la media nazionale di lunedì mattina, mentre la benzina a 2,045 euro (-10,7 centesimi). È...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/sdg4110-1790683288173-U32510176661wZm-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "I rimpatri diminuiscono, ma crescono le spese e i periodi di detenzione nei Cpr",
-        "link": "https://www.ilsole24ore.com/art/i-rimpatri-diminuiscono-ma-crescono-spese-e-periodi-detenzione-cpr-AJHnhmVB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-02T08:05:00.000Z",
-        "excerpt": "La politica di rimpatrio è uno dei temi che più accende il dibattito pubblico italiano, come è successo di recente con il caso dei falsi certificati medici per dichiarare l’incompatibilità...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/01/Immagini/Ritagli/muipbn2dzsh0ktui2pb-U75114040684JZP-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Sciopero generale 2 ottobre: disagi per scuola, sanità e trasporti",
-        "link": "https://www.ilsole24ore.com/art/primo-sciopero-generale-ottobre-disagi-scuola-sanita-e-trasporti-AJRGHOWB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-02T06:50:00.000Z",
-        "excerpt": "Al via il primo sciopero di ottobre, mese di mobilitazioni che nelle prossime settimane interesseranno diversi settori. La prima giornata di agitazione generale è stata proclamata dalla Confederazione Sindacale Lavorator",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/cfe9ece8adb79e2eb127f8ca0465d8a8-U13346652534Ngn-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "europa": [
@@ -460,9 +460,17 @@
         "title": "Spagna, governo Sánchez battuto dalle destre sul decreto casa: ipotesi elezioni anticipate",
         "link": "https://www.repubblica.it/esteri/2026/10/02/news/spagna_decreto_casa_voto_parlamento_proteste_elezioni_anticipate-425621029/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-10-02T15:02:39.000Z",
+        "pubDate": "2026-10-02T15:18:34.000Z",
         "excerpt": "Partito Popolare, Vox e Junts bocciano i due provvedimenti. In piazza la rabbia dei manifestanti che invocano lo sciopero generale. Dopo la crisi nata con lo sfratto di Maricarmen, il premier socialista deciderà nel fine",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/155248850-181ef867-b63e-4cce-b795-fd19db5b7c6e.jpg"
+      },
+      {
+        "title": "Kiev, 'i russi hanno bombardato di nuovo il ponte sud della città'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/kiev-i-russi-hanno-bombardato-di-nuovo-il-ponte-sud-della-citta_85e8b1e0-a4c9-4076-a022-53dcdf360919.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T15:08:18.000Z",
+        "excerpt": "Lo conferma il sindaco della capitale Vitali Klitschko",
+        "image": null
       },
       {
         "title": "“Licenziato dalla Fao per un rapporto sulla fame a Gaza e per aver partecipato a minuto di silenzio”: la denuncia di un dirigente",
@@ -473,12 +481,36 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/163059956-fd7755ac-c827-4543-a094-34ad034b4427.jpg"
       },
       {
+        "title": "Von der Leyen, 'bene G7, scongiurato divieto a export diesel'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/von-der-leyen-bene-g7-scongiurato-divieto-a-export-diesel_8b9ab0c9-c173-4cca-8235-dc0e69cb81db.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T14:56:47.000Z",
+        "excerpt": "La presidente: 'Cittadini hanno bisogno e meritano energia a prezzi accessibili'",
+        "image": null
+      },
+      {
         "title": "Gruppo dei Sette paesi per rilasciare fino a 100 milioni di barili di scorte di emergenza",
         "link": "https://www.investing.com/news/commodities-news/trump-says-europe-to-release-massive-amount-of-diesel-stocks-4930069",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-02T14:49:14.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPED9115K_M.jpg"
+      },
+      {
+        "title": "Insulti alla Palestina, rissa sfiorata allo stadio tra Spike Lee e uno spettatore",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/02/insulti-alla-palestina-rissa-sfiorata-allo-stadio-tra-spike-lee_3e6df289-0b43-47d6-b115-2062b74eaf47.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T14:48:09.000Z",
+        "excerpt": "Il personale dello Yankee Stadium ha dovuto bloccare il regista",
+        "image": null
+      },
+      {
+        "title": "Insulti alla Palestina, rissa sfiorata allo stadio tra Spike Lee e uno spettatore",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/insulti-alla-palestina-rissa-sfiorata-allo-stadio-tra-spike-lee_eeb5b7ab-616b-4b69-96a9-c17fd0b807e8.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-02T14:48:05.000Z",
+        "excerpt": "Il personale dello Yankee Stadium ha dovuto bloccare il regista",
+        "image": null
       },
       {
         "title": "L’ingegnera palestinese: “A Gaza la prima emergenza è l’acqua”",
@@ -521,22 +553,6 @@
         "image": null
       },
       {
-        "title": "Trump, 'l'Europa ha accettato di rilasciare ingente quantità di diesel'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/trump-leuropa-ha-accettato-di-rilasciare-ingente-quantita-di-diesel_a2b79cbe-2c5b-4af1-a666-52cf9e883fe3.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T14:10:20.000Z",
-        "excerpt": "'L'iter inizierà subito'",
-        "image": null
-      },
-      {
-        "title": "Trump, 'l'Europa ha accettato di rilasciare ingente quantità di diesel'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/02/trump-leuropa-ha-accettato-di-rilasciare-ingente-quantita-di-diesel_316cc12b-5c66-40fc-8999-b24910037c7c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T14:10:20.000Z",
-        "excerpt": "'L'iter inizierà subito'",
-        "image": null
-      },
-      {
         "title": "L'indice del trasporto di rinfuse secche del Baltico si abbassa rispetto ai guadagni in termini di capi",
         "link": "https://www.investing.com/news/commodities-news/baltic-dry-bulk-freight-index-edges-up-on-capesize-gains-93CH-4930064",
         "source": "Investing.com Commodities",
@@ -559,22 +575,6 @@
         "pubDate": "2026-10-02T13:58:52.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/moved_LYNXMPEI0Q0Z9_L.jpg"
-      },
-      {
-        "title": "Il Congresso spagnolo boccia il decreto di misure per la casa",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/il-congresso-spagnolo-boccia-il-decreto-di-misure-per-la-casa_b91964b8-5383-4222-a315-43b16d254bab.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T13:58:47.000Z",
-        "excerpt": "Con 172 voti a favore e 178 contrari del Partito Popolare, di Vox e di Junts per Catalunya",
-        "image": null
-      },
-      {
-        "title": "Zelensky a El Paìs, 'Mosca vuole che gli ucraini lascino la capitale'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/02/zelensky-a-el-pais-mosca-vuole-che-gli-ucraini-lascino-la-capitale_eb55cd0d-5339-4ad5-94ca-b28f6ad804c7.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T13:34:04.000Z",
-        "excerpt": "Gli attacchi contro obiettivi civili si intensificano sempre di più",
-        "image": null
       },
       {
         "title": "Netanyahu: “L’attentatore del Flydubai voleva far schiantare l'aereo”",
@@ -655,8 +655,16 @@
       "title": "Il Congresso spagnolo boccia il decreto di misure per la casa. Sanchez valuta il voto anticipato",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/02/il-congresso-spagnolo-boccia-il-decreto-di-misure-per-la-casa.-sanchez-valuta-il-voto_4a3a0cd6-4b1a-41d6-ae21-9237c79a54a3.html",
       "source": "ANSA",
-      "pubDate": "2026-10-02T14:58:14.000Z",
+      "pubDate": "2026-10-02T15:25:09.000Z",
       "excerpt": "Con 172 voti a favore e 178 contrari del Partito Popolare, di Vox e di Junts per Catalunya.",
+      "image": null
+    },
+    {
+      "title": "La direzione del Pd approva la relazione di Schlein, i riformisti non votano. Scontro con Meloni",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/02/schlein-nel-programma-uno-non-vale-uno-il-pd-ha-il-doppio-dei-voti_fa1bb90e-f6eb-42a0-a88f-17f20a37e1c2.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T15:13:33.000Z",
+      "excerpt": "La segretaria dem agli alleati: 'Nel programma uno non vale uno, abbiamo il doppio dei voti. Affiniamo il programma comune, che sia un patto vincolante'. E alla premier: 'Vuole una critica vera? Gliene dico 10'. La repli",
       "image": null
     },
     {
@@ -676,6 +684,14 @@
       "image": null
     },
     {
+      "title": "Gasolio, l’Ue cede al pressing di Trump. Macron: “Rilasceremo 100 milioni di barili dalle scorte”",
+      "link": "https://www.repubblica.it/economia/2026/10/02/news/gasolio_ue_cede_pressing_trump_macron_rilasceremo_barili_scorte-425621866/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T14:42:30.000Z",
+      "excerpt": "L’impegno dei Paesi del G7, nell’incontro voluto dal presidente francese, per “abbassare i prezzi dei carburanti” e scongiurare “misure restrittive sugli scambi”",
+      "image": null
+    },
+    {
       "title": "La Roma antica si trasforma, ai Fori Imperiali 'un grande boulevard'",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/02/la-roma-antica-si-trasforma-ai-fori-imperiali-un-grande-boulevard_fa5b800c-2570-44a3-b4bf-89d90d4fd75a.html",
       "source": "ANSA",
@@ -684,19 +700,27 @@
       "image": null
     },
     {
+      "title": "L’ingegnera palestinese: “A Gaza la prima emergenza è l’acqua”",
+      "link": "https://www.repubblica.it/esteri/2026/10/02/news/ingegnera_palestinese_faidi_hadeel_gaza_prima_emergenza_acqua-425621827/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T14:34:13.000Z",
+      "excerpt": "Faidi Hadeel è il capo dei progetti della Palestinian Water Authority: “Oltre l'85% degli impianti idrici e igienico-sanitari ha subito danni. Le persono hanno meno di 6 litri d’acqua al giorno”",
+      "image": null
+    },
+    {
+      "title": "“Licenziato dalla Fao per un rapporto sulla fame a Gaza e per aver partecipato a minuto di silenzio”: la denuncia di un dirigente",
+      "link": "https://www.repubblica.it/esteri/2026/10/02/news/benjamin_davis_licenziato_fao_onu_rapporto_fame_gaza-425621819/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T14:31:20.000Z",
+      "excerpt": "Benjamin Davis, fino al 30 settembre alla guida della Divisione per la trasformazione rurale e l’uguaglianza di genere, racconta a Repubblica di non aver ricevuto il rinnovo del suo contratto. Il caso apre una frattura a",
+      "image": null
+    },
+    {
       "title": "Ustica, la Francia consegna nuovi documenti all’Italia: niente archiviazione, indagine va avanti",
       "link": "https://roma.repubblica.it/cronaca/2026/10/02/news/ustica_francia_documenti_gip_procura_indagine_va_avanti-425621813/",
       "source": "Repubblica",
       "pubDate": "2026-10-02T14:30:56.000Z",
       "excerpt": "Parigi mette a disposizione carte e file sulla strage del Dc9 Itavia. L’ambasciata francese precisa che non risultano richieste italiane di assistenza giudiziaria ancora pendenti e nega precedenti resistenze alla collabo",
-      "image": null
-    },
-    {
-      "title": "La direzione del Pd approva la relazione di Schlein, i riformisti non votano. Scontro con Meloni partecipano al votoScontro Schlein-Meloni. La leader dem: 'Vuole una critica vera? Gliene dico 10'. La replica: 'Solo falsità'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/02/schlein-nel-programma-uno-non-vale-uno-il-pd-ha-il-doppio-dei-voti_fa1bb90e-f6eb-42a0-a88f-17f20a37e1c2.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-02T14:20:34.000Z",
-      "excerpt": "La segretaria dem agli alleati: 'Nel programma uno non vale uno, abbiamo il doppio dei voti. Affiniamo il programma comune, che sia un patto vincolante'. E alla premier: 'Vuole una critica vera? Gliene dico 10'. La repli",
       "image": null
     },
     {
@@ -721,30 +745,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-02T11:52:58.000Z",
       "excerpt": "Sono arrivate in sordina e adesso fanno parte della famiglia pontificia di Prevost. Vengono da Usa e Perù, ora devono governare l’appartamento pontificio nel nome della riservatezza",
-      "image": null
-    },
-    {
-      "title": "Israele, la Corte annuncia che i partiti arabi possono prendere parte alle elezioni",
-      "link": "https://www.repubblica.it/esteri/2026/10/02/news/israele_partiti_arabi_elezioni_corte_ammessi-425621356/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T10:46:50.000Z",
-      "excerpt": "Ribaltata la decisione della Commissione elettorale centrale: Lista unita e Ràam possono partecipare alle prossime elezioni della Knesset del 27 ottobre",
-      "image": null
-    },
-    {
-      "title": "Schlein a Meloni: \"Avete fallito, andate a casa\". E a Conte: \"Pd primo partito, uno non vale uno\"",
-      "link": "https://www.repubblica.it/politica/2026/10/02/news/schlein_direzione_pd_unita_centrosinistra-425621262/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T09:55:43.000Z",
-      "excerpt": "La segretaria dem: “Abbiamo davanti dei mesi che decideranno il futuro dell'Italia e dell'Europa”. Approvata la relazione, riformisti non partecipano al voto",
-      "image": null
-    },
-    {
-      "title": "La fuga dei medici dagli ospedali, sono più le dimissioni dei pensionamenti: “Turni massacranti”",
-      "link": "https://www.repubblica.it/cronaca/2026/10/02/news/fuga_medici_ospedali_dimissioni_pensionamenti-425621231/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-02T09:44:41.000Z",
-      "excerpt": "I dati del sindacato Anaao sul 2025: “Colpa di condizioni di lavoro al limite del burnout e stipendi non allineati all'Europa”",
       "image": null
     },
     {
@@ -782,6 +782,54 @@
   ],
   "sport": [
     {
+      "title": "Calcio: verso Italia-Polonia, Favasuli e Fortini lasciano raduno dell'U.21",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/calcio-verso-italia-polonia-favasuli-e-fortini-lasciano-raduno-dellu.21_072f91cd-9a84-469a-a0c1-1df21e494cbe.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T15:34:27.000Z",
+      "excerpt": "Da Coverciano arriva a Tirrenia Ahanor",
+      "image": null
+    },
+    {
+      "title": "Schwazer: 'Nella vita bisogna avere persone vere al proprio fianco'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/02/schwazer-nella-vita-bisogna-avere-persone-vere-al-proprio-fianco_f1b91ef8-1bfe-44b5-93e8-0859a19ef0de.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T15:16:23.000Z",
+      "excerpt": "'Non mi sono mai sentito solo solo'",
+      "image": null
+    },
+    {
+      "title": "Atletica, Duplantis: 'Nel 2027 non parteciperò alla stagione indoor'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/02/atletica-duplantis-nel-2027-non-partecipero-alla-stagione-indoor_bdd5bfa7-149a-4b6f-92e6-ddc02fb9b389.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T15:07:46.000Z",
+      "excerpt": "La stella del salto con l'asta: 'Devo dare al mio corpo il tempo di recuperare'",
+      "image": null
+    },
+    {
+      "title": "Capello: 'Non ho ancora visto in questa Nazionale la rabbia di recuperare palla'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/capello-non-ho-ancora-visto-in-questa-nazionale-la-rabbia-di-recuperare-palla_1e515a69-6798-42aa-96e4-f8094f58c5b1.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T15:06:03.000Z",
+      "excerpt": "'Franco Baresi era un uomo autentico che dava tutto in campo e fuori'",
+      "image": null
+    },
+    {
+      "title": "Tensione in aeroporto e insulti al ct, Portogallo scortato dalla polizia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/tensione-in-aeroporto-e-insulti-al-ct-portogallo-scortato-dalla-polizia_69cdd6b2-2989-4128-8b64-cfbbfff3f94f.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T14:55:47.000Z",
+      "excerpt": "Tifosi contro Jesus difendono Ronaldo: 'Lui il più grande, tu non vali niente'",
+      "image": null
+    },
+    {
+      "title": "Il Manchester City fa ricorso e attacca: 'Errori giuridici evidenti'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/manchester-city-presentato-il-ricorso-contro-la-sentenza-errori-giuridici-evidenti_70fbea5c-0037-4343-b7cf-c50689d36c46.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-02T14:51:41.000Z",
+      "excerpt": "Il club ribalta le accuse: 'Prove inconfutabili'. La FA: 'Tutelare l'integrità del calcio'",
+      "image": null
+    },
+    {
       "title": "A Lisbona cartelloni per Ronaldo 'obrigado, sarai sempre il nostro capitano'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/a-lisbona-cartelloni-per-ronaldo-obrigado-sarai-sempre-il-nostro-capitano_fe5c8d78-f1db-48fc-aa58-00fa451a5c8c.html",
       "source": "ANSA Sport",
@@ -795,54 +843,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-02T14:18:50.000Z",
       "excerpt": "Svelato alla Camera progetto del Csi. Berruto: \"Cultura movimento tema di tutto il Paese\"",
-      "image": null
-    },
-    {
-      "title": "Manchester City, presentato il ricorso contro la sentenza 'errori giuridici evidenti'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/manchester-city-presentato-il-ricorso-contro-la-sentenza-errori-giuridici-evidenti_70fbea5c-0037-4343-b7cf-c50689d36c46.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T14:03:21.000Z",
-      "excerpt": "Club ribadisce innocenza e afferma aver depositato 'mole completa di prove inconfutabili'",
-      "image": null
-    },
-    {
-      "title": "Al quinto set Sinner ce l'ha fatta, superato l'esame per la patente della moto",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/02/al-quinto-set-sinner-ce-lha-fatta-superato-lesame-per-la-patente-moto_ee8e1609-343e-4608-8c08-e5ab1bd5dd34.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T13:04:22.000Z",
-      "excerpt": "Dopo quattro bocciature il numero 1 del mondo ha superato l'ostacolo",
-      "image": null
-    },
-    {
-      "title": "Ancelotti in Brasile Mr 10 milioni, è il ct più pagato al mondo",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/ancelotti-in-brasile-mr-10-milioni-e-il-ct-piu-pagato-al-mondo_a57d6a63-277b-4e64-bb63-d8e407dc1f60.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T12:47:11.000Z",
-      "excerpt": "Bild rivela gli stipendi dei commissari tecnici, Klopp e Pochettino sul podio",
-      "image": null
-    },
-    {
-      "title": "Darderi fuori al secondo turno a Tokyo, battuto dal francese Jacquet",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/02/tennis-darderi-fuori-al-secondo-turno-a-tokyo-battuto-dal-francese-jacquet_2a1e5dca-4df2-44f3-930c-017511222f5f.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T12:42:47.000Z",
-      "excerpt": "L'azzurro cede in due set 6-3, 7-6 in un'ora e 30 minuti di gioco",
-      "image": null
-    },
-    {
-      "title": "F1: Leclerc 'buona giornata a Sepang, valori in campo molto ravvicinati'",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/02/f1-leclerc-buona-giornata-a-sepang-valori-in-campo-molto-ravvicinati_9f49df86-2e19-4cec-8858-6adfb3b035c7.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T12:29:09.000Z",
-      "excerpt": "Monegasco Ferrari 'la nostra prestazione è stata incoraggiante'",
-      "image": null
-    },
-    {
-      "title": "Uno smash contro la leucemia, terza edizione di Ail Roma Padel Cup",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/02/uno-smash-contro-la-leucemia-terza-edizione-di-ail-roma-padel-cup_aed58dc8-df66-402f-9004-cec216895c07.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T11:54:03.000Z",
-      "excerpt": "Domani al Due Pont Sporting Club in tanti in campo contro i tumori del sangue",
       "image": null
     }
   ]
