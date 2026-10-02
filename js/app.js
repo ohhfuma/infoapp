@@ -16,7 +16,6 @@ async function loadJSONWithRetry(path, retries = 2, delayMs = 800) {
       return await loadJSON(path);
     } catch (e) {
       lastError = e;
-      console.warn(`Tentativo ${i + 1} fallito per ${path}:`, e.message);
       if (i < retries) await new Promise(r => setTimeout(r, delayMs));
     }
   }
@@ -125,7 +124,6 @@ async function loadAllData() {
     renderNewsList(news.sport, 'sport-list');
     document.getElementById('last-update').textContent = 'Ultimo aggiornamento: ' + formatDate(news.lastUpdated);
   } catch (e) {
-    console.error('Errore caricamento news.json:', e);
     document.getElementById('last-update').textContent = 'Errore caricamento notizie (' + e.message + ')';
   }
 
@@ -133,7 +131,6 @@ async function loadAllData() {
     const cinema = await loadJSONWithRetry('data/cinema.json');
     renderCinema(cinema);
   } catch (e) {
-    console.error('Errore caricamento cinema.json:', e);
     document.getElementById('cinema-list').innerHTML = '<p class="empty">Errore caricamento cinema</p>';
   }
 
@@ -146,8 +143,7 @@ async function loadHistoryIndex() {
     renderHistorySidebar(idx.dates || []);
     renderHistorySelect(idx.dates || []);
   } catch (e) {
-    console.error('Errore caricamento history/index.json:', e);
-    document.getElementById('history-list').innerHTML = '<li class="empty-small">Storico non ancora disponibile</li>';
+    document.getElementById('history-list').innerHTML = '<li class="empty-small">Storico non disponibile</li>';
   }
 }
 
@@ -184,7 +180,6 @@ async function selectHistoryDate(dateKey) {
     await loadAllData();
     return;
   }
-
   currentHistoryDate = dateKey;
   try {
     let data = historyCache[dateKey];
@@ -197,7 +192,6 @@ async function selectHistoryDate(dateKey) {
     renderNewsList(data.sport, 'sport-list');
     document.getElementById('last-update').textContent = `📅 Notizie del: ${data.label || dateKey}`;
   } catch (e) {
-    console.error('Errore caricamento storico:', e);
     document.getElementById('last-update').textContent = 'Errore caricamento storico';
   }
   updateHistoryActiveState();
@@ -210,9 +204,7 @@ function updateHistoryActiveState() {
     btn.classList.toggle('active', isToday || isMatch);
   });
   const select = document.getElementById('history-select');
-  if (select) {
-    select.value = currentHistoryDate === null ? 'today' : currentHistoryDate;
-  }
+  if (select) select.value = currentHistoryDate === null ? 'today' : currentHistoryDate;
 }
 
 async function handleRefresh() {
@@ -228,40 +220,26 @@ async function handleRefresh() {
   }, 1500);
 }
 
-/* ========== MODULO METEO ========== */
+/* ========== METEO ========== */
 
 const WEATHER_STORAGE_KEY = 'infoapp_weather_location';
 const DEFAULT_LOCATION = { name: 'Lissone', admin1: 'Lombardia', country: 'Italia', latitude: 45.6153, longitude: 9.2373 };
 
 const WEATHER_CODES = {
-  0: { icon: '☀️', label: 'Sereno' },
-  1: { icon: '🌤️', label: 'Prevalentemente sereno' },
-  2: { icon: '⛅', label: 'Parzialmente nuvoloso' },
-  3: { icon: '☁️', label: 'Nuvoloso' },
-  45: { icon: '🌫️', label: 'Nebbia' },
-  48: { icon: '🌫️', label: 'Nebbia con brina' },
-  51: { icon: '🌦️', label: 'Pioviggine leggera' },
-  53: { icon: '🌦️', label: 'Pioviggine' },
-  55: { icon: '🌦️', label: 'Pioviggine intensa' },
-  56: { icon: '🌧️', label: 'Pioviggine gelata' },
-  57: { icon: '🌧️', label: 'Pioviggine gelata intensa' },
-  61: { icon: '🌧️', label: 'Pioggia leggera' },
-  63: { icon: '🌧️', label: 'Pioggia' },
-  65: { icon: '🌧️', label: 'Pioggia intensa' },
-  66: { icon: '🌧️', label: 'Pioggia gelata' },
-  67: { icon: '🌧️', label: 'Pioggia gelata intensa' },
-  71: { icon: '❄️', label: 'Neve leggera' },
-  73: { icon: '❄️', label: 'Neve' },
-  75: { icon: '❄️', label: 'Neve intensa' },
-  77: { icon: '🌨️', label: 'Granelli di neve' },
-  80: { icon: '🌧️', label: 'Rovesci leggeri' },
-  81: { icon: '🌧️', label: 'Rovesci' },
-  82: { icon: '🌧️', label: 'Rovesci violenti' },
-  85: { icon: '🌨️', label: 'Rovesci di neve leggeri' },
-  86: { icon: '🌨️', label: 'Rovesci di neve intensi' },
-  95: { icon: '⛈️', label: 'Temporale' },
-  96: { icon: '⛈️', label: 'Temporale con grandine' },
-  99: { icon: '⛈️', label: 'Temporale con grandine intensa' }
+  0: { icon: '☀️', label: 'Sereno' }, 1: { icon: '🌤️', label: 'Prevalentemente sereno' },
+  2: { icon: '⛅', label: 'Parzialmente nuvoloso' }, 3: { icon: '☁️', label: 'Nuvoloso' },
+  45: { icon: '🌫️', label: 'Nebbia' }, 48: { icon: '🌫️', label: 'Nebbia con brina' },
+  51: { icon: '🌦️', label: 'Pioviggine leggera' }, 53: { icon: '🌦️', label: 'Pioviggine' },
+  55: { icon: '🌦️', label: 'Pioviggine intensa' }, 56: { icon: '🌧️', label: 'Pioviggine gelata' },
+  57: { icon: '🌧️', label: 'Pioviggine gelata intensa' }, 61: { icon: '🌧️', label: 'Pioggia leggera' },
+  63: { icon: '🌧️', label: 'Pioggia' }, 65: { icon: '🌧️', label: 'Pioggia intensa' },
+  66: { icon: '🌧️', label: 'Pioggia gelata' }, 67: { icon: '🌧️', label: 'Pioggia gelata intensa' },
+  71: { icon: '❄️', label: 'Neve leggera' }, 73: { icon: '❄️', label: 'Neve' },
+  75: { icon: '❄️', label: 'Neve intensa' }, 77: { icon: '🌨️', label: 'Granelli di neve' },
+  80: { icon: '🌧️', label: 'Rovesci leggeri' }, 81: { icon: '🌧️', label: 'Rovesci' },
+  82: { icon: '🌧️', label: 'Rovesci violenti' }, 85: { icon: '🌨️', label: 'Rovesci di neve leggeri' },
+  86: { icon: '🌨️', label: 'Rovesci di neve intensi' }, 95: { icon: '⛈️', label: 'Temporale' },
+  96: { icon: '⛈️', label: 'Temporale con grandine' }, 99: { icon: '⛈️', label: 'Temporale con grandine intensa' }
 };
 
 function getWeatherInfo(code) {
@@ -315,7 +293,6 @@ async function loadForecastFor(loc) {
   const nameLabel = `📍 ${loc.name}${loc.admin1 ? ', ' + loc.admin1 : ''}`;
   document.getElementById('weather-location-name').textContent = nameLabel;
   document.getElementById('weather-forecast').innerHTML = '<p class="empty">Caricamento previsioni...</p>';
-
   try {
     const url = `https://api.open-meteo.com/v1/forecast?latitude=${loc.latitude}&longitude=${loc.longitude}&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,weathercode&timezone=auto&forecast_days=7`;
     const res = await fetch(url);
@@ -323,7 +300,6 @@ async function loadForecastFor(loc) {
     const data = await res.json();
     renderForecast(data.daily);
   } catch (e) {
-    console.error('Errore meteo:', e);
     document.getElementById('weather-forecast').innerHTML = '<p class="empty">Errore nel caricamento delle previsioni.</p>';
   }
 }
@@ -361,7 +337,6 @@ async function handleWeatherSearch() {
     const results = await searchLocations(query);
     renderLocationResults(results);
   } catch (e) {
-    console.error('Errore ricerca meteo:', e);
     document.getElementById('weather-results').innerHTML = '<p class="empty-small">Errore nella ricerca.</p>';
   }
 }
@@ -379,47 +354,27 @@ function initWeather() {
   document.getElementById('weather-search-input').addEventListener('keypress', (e) => {
     if (e.key === 'Enter') handleWeatherSearch();
   });
-  const savedLoc = getSavedLocation();
-  loadForecastFor(savedLoc);
+  loadForecastFor(getSavedLocation());
 }
-
-/* ========== INIZIALIZZAZIONE ========== */
-
-function init() {
-  document.querySelectorAll('.tab-btn').forEach(btn => {
-    btn.addEventListener('click', () => switchTab(btn.dataset.tab));
-  });
-  document.querySelectorAll('.sub-tab-btn').forEach(btn => {
-    btn.addEventListener('click', () => switchFinanzaRegion(btn.dataset.region));
-  });
-  document.getElementById('refresh-btn').addEventListener('click', handleRefresh);
-  document.getElementById('history-select').addEventListener('change', (e) => {
-    selectHistoryDate(e.target.value);
-  });
-  loadAllData();
-  loadHistoryIndex();
-}
-
-init();
 
 /* ========== DARK MODE ========== */
 
 const THEME_STORAGE_KEY = 'infoapp_theme';
 
 function applyTheme(theme) {
+  const btn = document.getElementById('theme-toggle-btn');
   if (theme === 'dark') {
     document.body.classList.add('dark-mode');
-    document.getElementById('theme-toggle-btn').textContent = '☀️';
+    if (btn) btn.textContent = '☀️';
   } else {
     document.body.classList.remove('dark-mode');
-    document.getElementById('theme-toggle-btn').textContent = '🌙';
+    if (btn) btn.textContent = '🌙';
   }
 }
 
 function getSavedTheme() {
   const saved = localStorage.getItem(THEME_STORAGE_KEY);
   if (saved) return saved;
-  // Se non c'è preferenza salvata, rispetta le impostazioni di sistema
   const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
   return prefersDark ? 'dark' : 'light';
 }
@@ -433,7 +388,30 @@ function toggleTheme() {
 
 function initTheme() {
   applyTheme(getSavedTheme());
-  document.getElementById('theme-toggle-btn').addEventListener('click', toggleTheme);
+  const btn = document.getElementById('theme-toggle-btn');
+  if (btn) {
+    btn.addEventListener('click', toggleTheme);
+  } else {
+    console.error('theme-toggle-btn non trovato nel DOM');
+  }
 }
 
-initTheme();
+/* ========== INIT ========== */
+
+function init() {
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+  });
+  document.querySelectorAll('.sub-tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => switchFinanzaRegion(btn.dataset.region));
+  });
+  document.getElementById('refresh-btn').addEventListener('click', handleRefresh);
+  document.getElementById('history-select').addEventListener('change', (e) => {
+    selectHistoryDate(e.target.value);
+  });
+  initTheme();
+  loadAllData();
+  loadHistoryIndex();
+}
+
+init();
