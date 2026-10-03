@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T05:45:51.668Z",
+  "lastUpdated": "2026-10-03T06:15:40.613Z",
   "finanza": {
     "italia": [
       {
@@ -152,7 +152,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-02T19:20:47.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM1B112_1200_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEM1B112_150x108_S.jpg"
       },
       {
         "title": "Sogin, Stefano Grassi presidente, Lodovico Mazzolin amministratore delegato",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "'Immagini di matrice terroristica sui social media del sospettato della Flydubai'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/03/immagini-di-matrice-terroristica-sui-social-media-del-sospettato-della-flydubai_4c5d85de-cb8b-4233-bc1d-55d43049d696.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-03T06:03:51.000Z",
+        "excerpt": "Cnn, 'due post a poche ore dall'incidente, non chiaro chi li abbia pubblicati'",
+        "image": null
+      },
+      {
         "title": "Brasile, il Senato esamina martedì la fine della settimana lavorativa di sei giorni",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/03/brasile-il-senato-esamina-martedi-la-fine-della-settimana-lavorativa-di-sei-giorni_f5defd04-b3dd-4cbf-89f4-ae12c923f909.html",
         "source": "ANSA Mondo",
@@ -528,14 +536,6 @@
         "image": null
       },
       {
-        "title": "Brasile, allerta viaggi di Canada, Regno Unito e Nuova Zelanda",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/02/brasile-allerta-viaggi-di-canada-regno-unito-e-nuova-zelanda_4196cbf6-2654-4910-aa65-89bad43e0376.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-02T20:40:10.000Z",
-        "excerpt": "Indicazioni aggiornate a due giorni dalle elezioni generali di domenica 4 ottobre",
-        "image": null
-      },
-      {
         "title": "Oro impostato per la quinta settimana negativa in sei tra l'impennata del dollaro, la disfatta dei buoni del Tesoro",
         "link": "https://www.investing.com/news/commodities-news/gold-steadies-as-stronger-dollar-higher-yields-weigh-us-jobs-data-awaited-4928890",
         "source": "Investing.com Commodities",
@@ -587,27 +587,91 @@
   },
   "attualita": [
     {
-      "title": "Italia a testa alta, pari in tutto con la Francia in casa Zidane",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-francia-italia-1-1_45a99c29-160e-4f2c-a176-241c67b445f3.html",
+      "title": "Regole per bombe nel cellulare: arrestato anarchico, accusa di terrorismo",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/03/regole-per-bombe-nel-cellulare-arrestato-anarchico-accusa-di-terrorismo_40d7ce04-5f2c-48f3-bf87-140987574ae1.html",
       "source": "ANSA",
-      "pubDate": "2026-10-02T21:53:07.000Z",
-      "excerpt": "Azzurri perfetti per 90': Olise segna su punizione, la pareggia Bastoni",
+      "pubDate": "2026-10-03T06:11:49.000Z",
+      "excerpt": "Contestato anche il ferimento di un poliziotto durante un corteo pro Cospito",
       "image": null
     },
     {
-      "title": "Scostamento da 29 miliardi. Giorgetti: 'Più prudenza sulla manovra' ",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/02/via-libera-del-consiglio-dei-ministri-al-dpfp-e-a-scostamento-per-energia_8463ed4f-c10a-459f-8be8-a56ee2f0b01a.html",
+      "title": "'Immagini di matrice terroristica sui social del sospettato della FlyDubai'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/03/immagini-di-matrice-terroristica-sui-social-del-sospettato-della-flydubai_0e2f2a0a-fbfc-4cb5-8f90-04940a2f6b4a.html",
       "source": "ANSA",
-      "pubDate": "2026-10-02T20:18:39.000Z",
-      "excerpt": "Ridotto lo spazio per la difesa. Lega soddisfatta. Fi: 'Non sia restrittiva'",
+      "pubDate": "2026-10-03T06:00:14.000Z",
+      "excerpt": "Lo riporta la Cnn. Atterrato a Tel Aviv il primo volo dagli Emirati dopo lo stop",
       "image": null
     },
     {
-      "title": "Affondo di Schlein a Meloni, 'hai fallito'. Si riaccende duello con la premier ",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/02/schlein-nel-programma-uno-non-vale-uno-il-pd-ha-il-doppio-dei-voti_fa1bb90e-f6eb-42a0-a88f-17f20a37e1c2.html",
+      "title": "Trump: 'Il mio rapporto con Meloni è molto buono, mi è sempre piaciuta'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/02/trump-il-mio-rapporto-con-meloni-e-molto-buono-mi-e-sempre-piaciuta_98704d8c-e929-4685-9c35-d7a125b978ff.html",
       "source": "ANSA",
-      "pubDate": "2026-10-02T18:58:35.000Z",
-      "excerpt": "La replica, \"dieci giorni per rispondermi con dieci falsità\"",
+      "pubDate": "2026-10-03T05:48:21.000Z",
+      "excerpt": "Il presidente Usa risponde a una domanda dei giornalisti",
+      "image": null
+    },
+    {
+      "title": "Maurizio Cattelan: “My kneeling Hitler is now in Berlin, so we never forget”",
+      "link": "https://europe.repubblica.it/en/culture/2026/10/03/news/maurizio_cattelan_interview_kneeling_hitler_berlin_afd_germany-425621621/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T04:00:00.000Z",
+      "excerpt": "The Italian artist discusses his exhibition at the Neue Nationalgalerie, where his sculpture of the Führer is on show as Germany grapples with the rise of the far right",
+      "image": null
+    },
+    {
+      "title": "Beretta turns 500: from the Venetian Republic to the American market",
+      "link": "https://europe.repubblica.it/en/news/2026/10/03/news/beretta_500_years_history_italian_gunmaker-425621675/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T04:00:00.000Z",
+      "excerpt": "An almost unparalleled example in the history of industrial capitalism",
+      "image": null
+    },
+    {
+      "title": "Rodolfo Valentino and the difference between a playboy and a Latin lover",
+      "link": "https://europe.repubblica.it/en/culture/2026/10/03/news/rudolph_valentino_latin_lover-425621924/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T04:00:00.000Z",
+      "excerpt": "The Italian actor died a century ago, leaving behind an image that shaped generations of men. But the legend was built on a stereotype with little basis in reality. And as with all myths, it would be a mistake to assume ",
+      "image": null
+    },
+    {
+      "title": "San Francesco, il 4 ottobre è festa nazionale: quanto aumenta lo stipendio anche se cade di domenica",
+      "link": "https://www.repubblica.it/economia/2026/10/03/news/san_francesco_festa_nazionale_4_ottobre_aumento_stipendio-425622424/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T03:00:00.000Z",
+      "excerpt": "La “festività non goduta” verrà riconosciuta alla maggior parte dei lavoratori: le simulazioni in base ai diversi contratti collettivi",
+      "image": null
+    },
+    {
+      "title": "Taruffi (Pd): “Sul programma ormai l’intesa è sicura. Primarie? A inizio 2027”",
+      "link": "https://www.repubblica.it/politica/2026/10/03/news/igor_taruffi_pd_programma_intesa_primarie_inizio_2027-425622743/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T23:00:00.000Z",
+      "excerpt": "Il responsabile organizzazione dei dem: “La discussione sul federatore non è mai stata all’ordine del giorno. Ci sono tutte le condizioni per un accordo di coalizione per tutta la legislatura”",
+      "image": null
+    },
+    {
+      "title": "Strappo dei riformisti che non votano in direzione Pd:“Su regole e alleanze servono chiarimenti”",
+      "link": "https://www.repubblica.it/politica/2026/10/03/news/riformisti_non_votano_direzione_pd-425622837/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T23:00:00.000Z",
+      "excerpt": "Guerini: “Apprezzato lo scatto d’orgoglio, ma ancora non va”. Gori insiste sul doppio turno ai gazebo",
+      "image": null
+    },
+    {
+      "title": "Il Kraken lancia lo sceriffo, De Luca star alla Leopolda di Renzi: “Sinistra parli di sicurezza”",
+      "link": "https://www.repubblica.it/politica/2026/10/03/news/leopolda_2026_kraken_renzi_sceriffo_de_luca_sicurezza-425622663/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T23:00:00.000Z",
+      "excerpt": "Il sindaco di Salerno ospite d’onore alla kermesse di Firenze. L’ex premier: “Sogno un confronto tra lui e Salvini o Piantedosi”",
+      "image": null
+    },
+    {
+      "title": "Primarie, Fratoianni e Bonelli si smarcano: “Priorità a patrimoniale e fisco”",
+      "link": "https://www.repubblica.it/politica/2026/10/03/news/patrimoniale_fisco_primarie_fratoianni_bonelli_avs-425622651/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T23:00:00.000Z",
+      "excerpt": "Avs rivendica il suo peso nella coalizione e la necessità di portare “contributi al programma a prescindere dal consenso”",
       "image": null
     },
     {
@@ -652,6 +716,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "F1: a Sepang ultima sessione di libere ad Antonelli, secondo Verstappen",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/03/f1-a-sepang-ultima-sessione-di-libere-ad-antonelli-secondo-verstappen_4e03e810-6fa5-4fb7-b6f6-8432bfbb3374.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-03T06:13:33.000Z",
+      "excerpt": "Quinta e sesta posizione per le Ferrari di Leclerc e Hamilton",
+      "image": null
+    },
     {
       "title": "Italia a testa alta, pari in tutto con la Francia in casa Zidane",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-francia-italia-1-1_45a99c29-160e-4f2c-a176-241c67b445f3.html",
@@ -698,14 +770,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-02T18:20:51.000Z",
       "excerpt": "Presented by Generali. Alzabandiera alla Società velica BG. Già 1.300 iscrizioni",
-      "image": null
-    },
-    {
-      "title": "Figc, Anac: 'Per Bianchedi niente incompatibilità, sul voto decida il Coni'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/anac-niente-conflitto-di-interessi-coni-figc-per-bianchedi_303d45bf-5ade-4a04-b541-e7930a1d8907.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T18:01:31.000Z",
-      "excerpt": "Arriva il parere chiesto da Buonfiglio, ora fari puntati sul voto di Giunta",
       "image": null
     },
     {
