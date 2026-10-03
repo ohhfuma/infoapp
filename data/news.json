@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T06:55:09.312Z",
+  "lastUpdated": "2026-10-03T07:13:42.559Z",
   "finanza": {
     "italia": [
       {
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Il copilota di Flydubai ha attaccato il pilota con un'ascia, ha tentato un attacco \"terroristico\", dicono gli Emirati Arabi Uniti",
+        "link": "https://www.investing.com/news/commodities-news/flydubai-copilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-4930768",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-03T06:54:31.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM92049_L.jpg"
+      },
+      {
         "title": "'Immagini di matrice terroristica sui social media del sospettato della Flydubai'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/03/immagini-di-matrice-terroristica-sui-social-media-del-sospettato-della-flydubai_4c5d85de-cb8b-4233-bc1d-55d43049d696.html",
         "source": "ANSA Mondo",
@@ -574,26 +582,10 @@
         "pubDate": "2026-10-02T19:18:55.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPECB601J_M.jpg"
-      },
-      {
-        "title": "L'argento detiene un supporto di $60 con divergenza rialzista: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/silver-breaks-below-sma-200-and-ichimoku-cloud-live-levels-93CH-4919471",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-02T19:18:54.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/silver_M_1440048077.jpg"
       }
     ]
   },
   "attualita": [
-    {
-      "title": "Marc Marquez domina la Sprint in Giappone. Martin 2°, Bastianini sul podio",
-      "link": "https://www.repubblica.it/sport/moto-gp/2026/10/03/news/marc_marquez_vince_sprint_gp_giappone_motogp-425623023/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-03T06:23:55.000Z",
-      "excerpt": "Lo spagnolo vince a Motegi e accorcia sul pilota dell’Aprilia leader del Mondiale",
-      "image": null
-    },
     {
       "title": "Regole per bombe nel cellulare: arrestato anarchico, accusa di terrorismo",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/03/regole-per-bombe-nel-cellulare-arrestato-anarchico-accusa-di-terrorismo_40d7ce04-5f2c-48f3-bf87-140987574ae1.html",
@@ -675,6 +667,14 @@
       "image": null
     },
     {
+      "title": "Primarie, Fratoianni e Bonelli si smarcano: “Priorità a patrimoniale e fisco”",
+      "link": "https://www.repubblica.it/politica/2026/10/03/news/patrimoniale_fisco_primarie_fratoianni_bonelli_avs-425622651/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-02T23:00:00.000Z",
+      "excerpt": "Avs rivendica il suo peso nella coalizione e la necessità di portare “contributi al programma a prescindere dal consenso”",
+      "image": null
+    },
+    {
       "title": "'M - Il figlio del secolo' e 'Techegram', doppietta italiana al Prix Italia",
       "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/02/m-il-figlio-del-secolo-e-techegram-doppietta-italiana-al-prix-italia_24709ea6-9f47-4005-8a2f-9575699db006.html",
       "source": "ANSA",
@@ -717,6 +717,30 @@
   ],
   "sport": [
     {
+      "title": "Wnba: le Valkyries di Zandalasini in semifinale, Wings battute in gara-3",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/03/wnba-le-valkyries-di-zandalasini-in-semifinale-wings-battute-in-gara-3_3297b01f-7a06-4bde-8463-fa57fc3f1c1a.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-03T07:08:23.000Z",
+      "excerpt": "Golden State vince 77-73, 5 punti per l'azzurra. Ora le Las Vegas Aces",
+      "image": null
+    },
+    {
+      "title": "Alcaraz soffre e poi domina, battuto Arnaldi a Tokyo",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/03/alcaraz-soffre-e-poi-domina-battuto-arnaldi-a-tokyo_41f72a6e-09c1-4f5b-a543-a3ed5cc5c65c.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-03T06:59:54.000Z",
+      "excerpt": "L'azzurro non sfrutta 4 set point consecutivi nel tiebreak del primo",
+      "image": null
+    },
+    {
+      "title": "Alcaraz soffre e poi domina, battuto Arnaldi a Tokyo",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/03/alcaraz-soffre-e-poi-domina-battuto-arnaldi-a-tokyo_24b79ebe-dfce-4d6e-9aae-f03bc38f72ed.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-03T06:55:47.000Z",
+      "excerpt": "L'azzurro non sfrutta 4 set point consecutivi nel tiebreak del primo",
+      "image": null
+    },
+    {
       "title": "F1: Domenicali, 'ultimi due Gran Premi restano Qatar e Abu Dhabi'",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/03/f1-domenicali-ultimi-due-gran-premi-restano-qatar-e-abu-dhabi_ca561b72-1db2-48fb-a103-f05f453e585f.html",
       "source": "ANSA Sport",
@@ -730,14 +754,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-03T06:13:33.000Z",
       "excerpt": "Quinta e sesta posizione per le Ferrari di Leclerc e Hamilton",
-      "image": null
-    },
-    {
-      "title": "Italia a testa alta, pari in tutto con la Francia in casa Zidane",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-francia-italia-1-1_45a99c29-160e-4f2c-a176-241c67b445f3.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T21:53:07.000Z",
-      "excerpt": "Azzurri perfetti per 90': Olise segna su punizione, la pareggia Bastoni",
       "image": null
     },
     {
@@ -757,27 +773,11 @@
       "image": null
     },
     {
-      "title": "La rivincita di Bastoni, 'ma io non ho mai perso la fiducia in me stesso'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/la-rivincita-di-bastoni-ma-io-non-ho-mai-perso-la-fiducia-in-me-stesso_d2e6a49a-73f5-4f55-8caa-55d4f3cd9676.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T21:01:49.000Z",
-      "excerpt": "\"Si deve andare oltre i brutti episodi e rialzarsi\"",
-      "image": null
-    },
-    {
       "title": "Nations League: l'Italia rimonta con Bastoni e spaventa la Francia, 1-1 a Parigi",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/nations-league-litalia-rimonta-con-bastoni-e-spaventa-la-francia-1-1-a-parigi_0b9560c4-5f14-4a8a-bd50-8435fc3c5e93.html",
       "source": "ANSA Sport",
       "pubDate": "2026-10-02T21:01:16.000Z",
       "excerpt": "Transalpini in vantaggio con Olise. Espulso Upamecano",
-      "image": null
-    },
-    {
-      "title": "Barcolana, via a edizione 58, in mare 318 giovani velisti",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/02/barcolana-via-a-edizione-58-in-mare-318-giovani-velisti_09b3836b-dba7-46dc-9ad9-8fb288a7bf2c.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-02T18:20:51.000Z",
-      "excerpt": "Presented by Generali. Alzabandiera alla Società velica BG. Già 1.300 iscrizioni",
       "image": null
     }
   ]
