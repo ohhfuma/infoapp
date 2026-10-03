@@ -4,6 +4,22 @@
   "finanza": {
     "italia": [
       {
+        "title": "In chiaro i dati sanitari di un milione di pazienti, scatta multa da 7 milioni a Iqvia",
+        "link": "https://www.ilsole24ore.com/art/in-chiaro-dati-sanitari-un-milione-pazienti-scatta-multa-7-milioni-iqvia-AJpMIEXB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-03T08:07:41.000Z",
+        "excerpt": "Dall’anno di nascita al sesso, passando per diagnosi, sintomi, prescrizioni, esami, vaccinazioni e dati di localizzazione. Le informazioni sulla salute di un milione di pazienti di 800 medici...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/AdobeStock_126865677-U21441545525acr-1440x752@IlSole24Ore-Web.jpeg"
+      },
+      {
+        "title": "Le stime Istat, ecco perché i dati sul Pil si “rivedono” e quasi sempre in meglio",
+        "link": "https://www.repubblica.it/economia/2026/10/03/news/le_stime_istat_ecco_perche_i_dati_sul_pil_si_rivedono_e_quasi_sempre_in_meglio-425623236/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-03T08:02:30.000Z",
+        "excerpt": "Il 22 settembre l’Istat ha nuovamente rivisto verso l’alto le stime della crescita reale del Pil, sia per il 2025 (ora dello 0,6% invece dello 0,5% della prima stima) che per il 2024 (ora all’1,1%, a fronte dello 0,7% in",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/03/100219923-c9f7a5d2-3bd4-434d-995c-07024c1d6097.jpg"
+      },
+      {
         "title": "Trump, nuovo dietrofront su Meloni: «Mi è sempre piaciuta»",
         "link": "https://www.ilsole24ore.com/art/trump-nuovo-dietrofront-meloni-mi-e-sempre-piaciuta-AJEYqhXB",
         "source": "Il Sole 24 Ore",
@@ -374,6 +390,14 @@
     ],
     "europa": [
       {
+        "title": "Kiev sotto assedio: Mosca intensifica attacchi a ponti e centrali energetiche in vista dell’inverno",
+        "link": "https://www.ilsole24ore.com/art/kiev-sotto-assedio-mosca-intensifica-attacchi-ponti-e-centrali-energetiche-vista-dell-inverno-AJJwYKXB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-03T08:01:59.000Z",
+        "excerpt": "La paralisi del traffico di Kiev è l’ennesima prova imposta alla capitale ucraina dagli attacchi dei russi, che negli ultimi giorni hanno oltrepassato una nuova linea rossa accanendosi sul Pivdennyi,...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/2026-10-02T171530Z_269958921_RC22VNALLXER_RTRMADP_5_UKRAINE-CRISIS-ATTACK-KYIV-BRIDGE-U63630740804lyH-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
         "title": "Lituania, drone viola lo spazio aereo: popolazione in allerta",
         "link": "https://www.ilsole24ore.com/art/lituania-drone-viola-spazio-aereo-popolazione-allerta-AJ4EejXB",
         "source": "Il Sole 24 Ore Mondo",
@@ -528,6 +552,30 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Il procuratore degli Emirati: 'Il copilota del volo Flydubai pianificava un atto terroristico'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/03/il-procuratore-degli-emirati-il-copilota-del-volo-flydubai-pianificava-un-atto-terroristico_0e2f2a0a-fbfc-4cb5-8f90-04940a2f6b4a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-03T08:04:18.000Z",
+        "excerpt": "Atterrato a Tel Aviv il primo volo dal Paese mediorientale dopo lo stop",
+        "image": null
+      },
+      {
+        "title": "Kiev si prepara all’inverno più duro: Mosca ora punta a ponti e rete elettrica",
+        "link": "https://www.repubblica.it/esteri/2026/10/03/news/kiev_inverno_mosca_punta_ponti_rete_elettrica-425623225/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-03T08:01:54.000Z",
+        "excerpt": "I russi non avevano mai attaccato i grandi ponti urbani e il raid che ieri ha lesionato il Pivdennyi, imponendo il blocco del traffico, è stato colto dagli abitanti della capitale come l’esordio dei mesi invernali peggio",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/03/100140358-a9dad018-69ba-49e2-ade5-51d21ce41df5.jpg"
+      },
+      {
+        "title": "Drone viola lo spazio aereo lituano, rientrata l'allerta alla popolazione",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/drone-viola-lo-spazio-aereo-lituano-rientrata-lallerta-alla-popolazione_56200a97-785e-4e6d-b43a-d0b4c6b6621e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-03T07:50:31.000Z",
+        "excerpt": "La Russia colpisce un altro importante ponte di Kiev",
+        "image": null
+      },
       {
         "title": "Procuratore Emirati, 'copilota del volo FlyDubai pianificava un atto terroristico'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/03/procuratore-emirati-copilota-del-volo-flydubai-pianificava-un-atto-terroristico_3165a126-2a4a-4796-ae8f-0fc24247f736.html",
@@ -852,6 +900,22 @@
   },
   "attualita": [
     {
+      "title": "Drone viola lo spazio aereo lituano, rientrata l'allerta alla popolazione",
+      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/drone-viola-lo-spazio-aereo-lituano-rientrata-lallerta-alla-popolazione_56200a97-785e-4e6d-b43a-d0b4c6b6621e.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-03T07:50:31.000Z",
+      "excerpt": "La Russia colpisce un altro importante ponte di Kiev",
+      "image": null
+    },
+    {
+      "title": "Il procuratore degli Emirati: 'Il copilota del volo Flydubai pianificava un atto terroristico'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/03/il-procuratore-degli-emirati-il-copilota-del-volo-flydubai-pianificava-un-atto-terroristico_0e2f2a0a-fbfc-4cb5-8f90-04940a2f6b4a.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-03T07:35:53.000Z",
+      "excerpt": "Atterrato a Tel Aviv il primo volo dal Paese mediorientale dopo lo stop",
+      "image": null
+    },
+    {
       "title": "Drone viola lo spazio aereo lituano, allerta alla popolazione",
       "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/drone-viola-lo-spazio-aereo-lituano-allerta-alla-popolazione_56200a97-785e-4e6d-b43a-d0b4c6b6621e.html",
       "source": "ANSA",
@@ -865,6 +929,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-03T07:11:20.000Z",
       "excerpt": "Nel Paese baltico, tra i più filo-Kiev della Ue, il premier conservatore Kulbergs punta alla riconferma. La sorpresa può essere il tycoon Slesers, che apre a rapporti commerciali con Mosca e seduce la minoranza russofona",
+      "image": null
+    },
+    {
+      "title": "Donnarumma mai così numero uno, l’Italia ha trovato il suo leader",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/10/03/news/donnarumma_capitano_italia_leader-425623047/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T06:48:06.000Z",
+      "excerpt": "Superlativo contro la Francia con una serie di grandi interventi, il capitano della Nazionale sta diventando il simbolo della ripartenza azzurra",
       "image": null
     },
     {
