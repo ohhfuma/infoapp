@@ -4,6 +4,22 @@
   "finanza": {
     "italia": [
       {
+        "title": "Cgia, 'a ottobre oltre un miliardo in più rispetto al 2025 per i carburanti'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/03/cgia-a-ottobre-oltre-un-miliardo-in-piu-rispetto-al-2025-per-i-carburanti_ad441534-0fb8-40be-b44b-407165721780.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-03T08:18:13.000Z",
+        "excerpt": "'Nonostante il price cap, famiglie e imprese ne risentono'",
+        "image": null
+      },
+      {
+        "title": "Da Santos (Brasile) a Trieste per sviluppare traffici portuali",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/03/da-santos-brasile-a-trieste-per-sviluppare-traffici-portuali_9238fd98-5aeb-4c9a-825b-c086baee55c7.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-03T08:10:32.000Z",
+        "excerpt": "Primi contatti dopo intesa siglata l'anno scorso con il porto di Genova",
+        "image": null
+      },
+      {
         "title": "In chiaro i dati sanitari di un milione di pazienti, scatta multa da 7 milioni a Iqvia",
         "link": "https://www.ilsole24ore.com/art/in-chiaro-dati-sanitari-un-milione-pazienti-scatta-multa-7-milioni-iqvia-AJpMIEXB",
         "source": "Il Sole 24 Ore",
@@ -900,6 +916,14 @@
   },
   "attualita": [
     {
+      "title": "Kiev si prepara all’inverno più duro: Mosca ora punta a ponti e rete elettrica",
+      "link": "https://www.repubblica.it/esteri/2026/10/03/news/kiev_inverno_mosca_punta_ponti_rete_elettrica-425623225/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T08:01:54.000Z",
+      "excerpt": "I russi non avevano mai attaccato i grandi ponti urbani e il raid che ieri ha lesionato il Pivdennyi, imponendo il blocco del traffico, è stato colto dagli abitanti della capitale come l’esordio dei mesi invernali peggio",
+      "image": null
+    },
+    {
       "title": "Drone viola lo spazio aereo lituano, rientrata l'allerta alla popolazione",
       "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/drone-viola-lo-spazio-aereo-lituano-rientrata-lallerta-alla-popolazione_56200a97-785e-4e6d-b43a-d0b4c6b6621e.html",
       "source": "ANSA",
@@ -913,6 +937,14 @@
       "source": "ANSA",
       "pubDate": "2026-10-03T07:35:53.000Z",
       "excerpt": "Atterrato a Tel Aviv il primo volo dal Paese mediorientale dopo lo stop",
+      "image": null
+    },
+    {
+      "title": "Diretta qualifiche F1, caccia alla pole a Sepang",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/10/03/diretta/qualifiche_f1_gp_malesia_sepang_bahrain_oggi-425623162/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T07:26:27.000Z",
+      "excerpt": "Il circuito della Malesia ospita il Gp del Bahrain",
       "image": null
     },
     {
@@ -1180,11 +1212,43 @@
       "image": null
     },
     {
+      "title": "Sfila Schiaparelli, il surrealismo contagia il pret à porter",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/10/02/sfila-schiaparelli-il-surrealismo-contagia-il-pret-a-porter_964e5afb-689c-4145-81ee-50819ca020e2.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T17:42:21.000Z",
+      "excerpt": "Daniel Roseberry riflette sul tema dell'identità del marchio",
+      "image": null
+    },
+    {
+      "title": "Premio Campiello, tutto pronto per la prima finale al Lido di Venezia",
+      "link": "https://www.ansa.it/sito/notizie/cultura/libri/narrativa/2026/10/02/premio-campiello-tutto-pronto-per-la-prima-finale-al-lido-di-venezia_75883df3-bbf1-4c51-b77e-f4c67a8e46ef.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T16:00:30.000Z",
+      "excerpt": "Il 3 ottobre al Palazzo del Cinema, in corsa Parrella, Fois, Cavazzoni, Pierantozzi, Varvello",
+      "image": null
+    },
+    {
+      "title": "A Bologna il tesoro di Tutankhamon rivive a Palazzo Belloni",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/10/02/a-bologna-il-tesoro-di-tutankhamon-rivive-a-palazzo-belloni_901d0de9-b4ce-46cd-9eee-7c31a454c1f7.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T15:42:31.000Z",
+      "excerpt": "Un percorso fino al 2 maggio che accompagna il pubblico nei rituali dell'Antico Egitto",
+      "image": null
+    },
+    {
       "title": "Decreto scuola, slitta il bonus libri per il 2026",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/10/02/dl-scuola-slitta-il-bonus-libri-per-il-2026_01c07ec6-5fc8-4bfa-91f1-fe479eebee4c.html",
       "source": "ANSA",
       "pubDate": "2026-10-02T14:13:15.000Z",
       "excerpt": "Risorse ai Comuni per la gratuità dei volumi, 20 milioni dal 2027 con Isee a 40mila",
+      "image": null
+    },
+    {
+      "title": "Dal 2 dicembre stop in Ue alle app di nudificazione, 'non avranno posto in Europa'",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/01/ue-da-dicembre-stop-alle-nudifier-app-non-avranno-posto-in-europa_039c3c75-46cd-498b-8ce6-3931584b8cd0.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T13:04:13.000Z",
+      "excerpt": "Portavoce Ue conferma: 'Commissione pronta ad applicare la norma dal primo giorno'",
       "image": null
     },
     {
@@ -1204,6 +1268,14 @@
       "image": null
     },
     {
+      "title": "Giappone, dashcam riprende un orso che si scaglia contro un'auto",
+      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/10/02/giappone-dashcam-riprende-un-orso-che-si-scaglia-contro-unauto_c57f3736-df4b-4c97-bda2-d0c4d4d5967d.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-02T07:34:20.000Z",
+      "excerpt": "L’episodio è avvenuto nella prefettura di Hokkaido",
+      "image": null
+    },
+    {
       "title": "Scoperto un pianeta simile alla Terra primordiale ",
       "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/02/scoperto-un-pianeta-simile-alla-terra-primordiale-_c49c0230-c1d4-409b-a570-3c470041d46b.html",
       "source": "ANSA",
@@ -1213,6 +1285,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Gp storico F1, auto F.Ford tampona e si ribalta sul rettilineo del Mugello",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/03/gp-storico-f1-auto-f.ford-tampona-e-si-ribalta-sul-rettilineo-del-mugello_ffcfa556-bbf4-450c-a759-a6689dd0dee7.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-03T08:38:05.000Z",
+      "excerpt": "Il britannico John Slack si rovescia con la sua vettura dopo aver urtato l'avversario",
+      "image": null
+    },
     {
       "title": "Wnba: le Valkyries di Zandalasini in semifinale, Wings battute in gara-3",
       "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/03/wnba-le-valkyries-di-zandalasini-in-semifinale-wings-battute-in-gara-3_3297b01f-7a06-4bde-8463-fa57fc3f1c1a.html",
