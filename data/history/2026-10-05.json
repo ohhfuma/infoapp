@@ -393,6 +393,62 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Sánchez pronto alle elezioni cavalcando la piazza. La sfida alla destra spagnola",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/sanchez_pronto_elezioni_cavalcando_piazza_sfida_destra_spagnola-425625990/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "I partiti si preparano al voto: l’annuncio del capo della Moncloa atteso per oggi. La mossa del premier: far passare i decreti sugli alloggi dopo aver sciolto le Cortes",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/230155135-f87c2ffe-63b8-4d6c-8af0-820d52fff5a2.jpg"
+      },
+      {
+        "title": "Pizzaballa: “Tutti ancora sono fermi al 7 ottobre 2023, ora è necessario cambiare”",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/pizzaballa_intervista_7_ottobre_2023_gaza_elezioni_israele-425625954/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "Il cardinale: “Entrambe le popolazioni sono dentro questo trauma profondo. Ma non vogliamo che sia la nuova normalità”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/221937148-4d4a4145-4dae-4cf2-b813-4821d147da01.jpg"
+      },
+      {
+        "title": "Spagna, il leader della protesta delle chiavi: “Giovani esclusi dal mercato abitativo”",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/spagna_leader_protesta_casa_chiavi_javier_gil_intervista_crisi_abitativa_giovani-425625911/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "Javier Gil: “Anche chi era ragazzo 20 anni fa si è vista negata la possibilità di acquistare un immobile. Serve un intervento pubblico come in Austria”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/214801077-e4a8eaf7-4e32-4611-b092-9274ceb9d1e8.jpg"
+      },
+      {
+        "title": "Usa, un caso gli stupri alle ragazze dei college. “Ottomila in un anno”",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/usa_stupri_ragazze_college_dati_2024-425625761/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "I dati shock del 2024, quando il branco aggredì una studentessa alla Cornell University. Per la destra è estremismo woke. Il campus dello Utah al primo posto con 146 casi, di cui 122 avvenuti nei dormitori",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/205508393-8afbbfb0-83ed-4aa0-9ccd-0247b72a404a.jpg"
+      },
+      {
+        "title": "Tra i fantasmi di Nir Oz il futuro di Israele si decide sul 7 ottobre",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/kibbutz_nir_oz_israele_elezioni_7_ottobre_netanyahu-425625707/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "Viaggio nel kibbutz martoriato da Hamas: a 3 anni dal pogrom il ricordo del giorno più nero apre la campagna elettorale. Si vota a fine mese: sarà ancora un referendum su Netanyahu",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/204355375-04de7c8d-e17b-4569-a513-cfbfd2fe4487.jpg"
+      },
+      {
+        "title": "Javier Cercas: “In Spagna siamo al paradosso di un Paese che cresce ma non dà la casa ai deboli”",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/intervista_javier_cercas_spagna_crisi_abitativa_casa_deboli_sanchez-425625682/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "Lo scrittore spagnolo: “Sánchez in politica estera ha fatto bene, ma ha sbagliato a governare con i catalani, sono di destra”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/203929355-19316003-067b-4fc0-b33c-5e6e385e9ce9.jpg"
+      },
+      {
+        "title": "La strategia russa dei viadotti per spezzare Kiev in vista di nuovi attacchi",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/viadotti_centrali_obiettivi_russi_piegare_ucraina-425625676/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "Bombardamenti senza sosta e non solo di notte: la strategia per paralizzare la circolazione e preparare un inverno da incubo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/203558838-76bf84c3-5d64-416e-92ed-9c1d77d0eb05.jpg"
+      },
+      {
         "title": "Media, Lula e Bolsonaro andranno al ballottaggio il 25 ottobre",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/media-lula-e-bolsonaro-andranno-al-ballottaggio-il-25-ottobre_67647ec7-b482-4a8b-9f89-4dc50173087c.html",
         "source": "ANSA Mondo",
@@ -749,6 +805,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "'Cristiano Ronaldo puo' tornare nella nazionale, se vuole'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/cristiano-ronaldo-puo-tornare-nella-nazionale-se-vuole_563e7f7e-2498-4637-bf17-f58ee776c0f1.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-04T22:55:43.000Z",
+      "excerpt": "Commissario tecnico: 'Pronto ad un confronto prima della partita ma sarà lui a decidere'",
+      "image": null
+    },
     {
       "title": "Nations League: Portogallo, ct Jorge Jesus \"se Ronaldo vuole tornerà\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-portogallo-ct-jorge-jesus-se-ronaldo-vuole-tornera_697a2c9b-357a-4cb8-883b-c1a861560a06.html",
