@@ -4,6 +4,22 @@
   "finanza": {
     "italia": [
       {
+        "title": "Rc Auto, la riforma accelera. Dal bonus malus al risarcimento diretto: le novità in cantiere",
+        "link": "https://www.repubblica.it/economia/2026/10/04/news/rc_auto_la_riforma_accelera_dal_bonus_malus_al_risarcimento_diretto_le_novita_in_cantiere-425624271/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-04T03:00:00.000Z",
+        "excerpt": "Il Ddl Concorrenza ha ridotto da 9 a 4 mesi la delega a legiferare sul settore assicurativo: modifiche alle classi di merito e al calcolo dei forfait",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/03/202953540-4efe0c90-bacc-45e8-b7b2-681c9130b8f0.jpg"
+      },
+      {
+        "title": "Il boom dell’IA spinge la raccolta fondi di Hong Kong a un record estivo",
+        "link": "https://it.investing.com/news/stock-market-news/il-boom-dellia-spinge-la-raccolta-fondi-di-hong-kong-a-un-record-estivo-3573226",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-04T02:12:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEC030H2_M.jpg"
+      },
+      {
         "title": "“Servono più raffinerie. Breve effetto sui prezzi dal rilascio delle scorte”",
         "link": "https://www.repubblica.it/economia/2026/10/04/news/rilascio_scorte_petrolio_gasolio_murano_unem_raffinerie-425624436/?rss",
         "source": "Repubblica Economia",
@@ -587,6 +603,70 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Ballando con le stelle, standing ovation per Sciarelli. La prima puntata è una maratona notturna",
+      "link": "https://www.repubblica.it/spettacoli/2026/10/04/news/ballando_con_le_stelle_prima_puntata_sciarelli_ramazzotti-425624640/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T00:33:43.000Z",
+      "excerpt": "Monica Guerritore emoziona pubblico e giurati. Vince Aurora Ramazzotti. E il sipario cala all’01:40",
+      "image": null
+    },
+    {
+      "title": "Parolin: “Per fermare le guerre uscire dalla logica del dominio e porre fine alle disuguaglianze”",
+      "link": "https://www.repubblica.it/esteri/2026/10/04/news/parolin_intervista_papa_guerra_gaza_iran_ucraina-425624329/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T23:00:51.000Z",
+      "excerpt": "Il segretario di Stato della Santa Sede: “A Gaza, in Ucraina e in Iran la gente soffre. Kiev ha il diritto di difendersi, per la pace si torni ai valori umani fondamentali”",
+      "image": null
+    },
+    {
+      "title": "Mazzucato: “La casa è un diritto fondamentale, stop a fondi e speculatori”",
+      "link": "https://www.repubblica.it/esteri/2026/10/04/news/la_casa_e_un_diritto_fondamentale_mazzucato_spagna-425624258/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T23:00:23.000Z",
+      "excerpt": "L’economista: “Ci vuole un approccio basato sul bene comune rivolto alle persone e al diritto di restare nel proprio quartiere”",
+      "image": null
+    },
+    {
+      "title": "La strage che conferma il sistema Naza nella Striscia: “Colpirono 350 sfollati”",
+      "link": "https://www.repubblica.it/esteri/2026/10/04/news/la_strage_che_conferma_il_sistema_naza_nella_striscia_colpirono_350_sfollati-425624562/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T23:00:15.000Z",
+      "excerpt": "Il 22 novembre 2023 nel quartiere al-Sabra di Gaza City l’Idf bombardò due edifici. I testimoni: “C’erano molte donne e bambini”. Ad agosto estratti i resti di 112 corpi",
+      "image": null
+    },
+    {
+      "title": "Mosca attacca Kiev e minaccia: “Subito via diplomatici e stranieri”",
+      "link": "https://www.repubblica.it/esteri/2026/10/04/news/ucraina_guerra_russia_ponti_kiev_ue-425624288/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T23:00:11.000Z",
+      "excerpt": "Raid sui ponti e i segnali di un’escalation: “Continueremo a bombardare in modo massiccio”. Lituania, allarme per un drone. “Dall’Ue 70 miliardi in più nel 2027 per difendere l’Ucraina”",
+      "image": null
+    },
+    {
+      "title": "Il silenzio di Sánchez tiene sospesa la Spagna.Domani giorno decisivo",
+      "link": "https://www.repubblica.it/esteri/2026/10/04/news/sanchez_silenzio_attesa_ipotesi_dimissioni_elezioni-425624497/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T23:00:00.000Z",
+      "excerpt": "Se il premier si dimette elezioni il 29 novembre Junts in difficoltà chiede di trattare ancora sulle misure nei decreti sulla casa",
+      "image": null
+    },
+    {
+      "title": "Francia, i liceali non cedono. Martedì nuove proteste,Mélenchon dà il sostegno",
+      "link": "https://www.repubblica.it/esteri/2026/10/04/news/francia_nuove_proteste_liceali_martedi-425624518/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T23:00:00.000Z",
+      "excerpt": "Il leader della sinistra radicale vuole coinvolgere agricoltori e altre categorie di lavoratori. In meno di una settimana 5mila fermati",
+      "image": null
+    },
+    {
+      "title": "Lazar:“Parlare di sicurezza la sfida dei progressisti per tornare a convincere”",
+      "link": "https://www.repubblica.it/esteri/2026/10/04/news/intervista_marc_lazar_progressisti_sicurezza-425624506/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-03T23:00:00.000Z",
+      "excerpt": "Il politologo francese: “Bisogna tornare a suscitare emozioni. Il discorso politico non può essere solo razionale”",
+      "image": null
+    },
     {
       "title": "Inghilterra esagerata, Croazia mai così male: Tuchel vince 7-0. Spagna ok con qualche brivido",
       "link": "https://www.repubblica.it/sport/calcio/2026/10/03/news/inghilterra_croazia_risultato_spagna_repubblica_ceca-425624319/",
