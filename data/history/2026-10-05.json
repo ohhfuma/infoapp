@@ -393,6 +393,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Doppio attacco russo su Kharkiv con missili Banderol, un morto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/doppio-attacco-russo-su-kharkiv-con-missili-banderol-un-morto_34346129-cdff-4a84-bd71-615ca2ea8bb7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-04T23:15:51.000Z",
+        "excerpt": "Colpita una infrastruttura energetica nella regione di Poltava, 22 mila senza elettricità",
+        "image": null
+      },
+      {
         "title": "Sánchez pronto alle elezioni cavalcando la piazza. La sfida alla destra spagnola",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/sanchez_pronto_elezioni_cavalcando_piazza_sfida_destra_spagnola-425625990/?rss",
         "source": "Repubblica Esteri",
@@ -447,6 +455,14 @@
         "pubDate": "2026-10-04T23:00:00.000Z",
         "excerpt": "Bombardamenti senza sosta e non solo di notte: la strategia per paralizzare la circolazione e preparare un inverno da incubo",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/203558838-76bf84c3-5d64-416e-92ed-9c1d77d0eb05.jpg"
+      },
+      {
+        "title": "Brasile, l’esperto: “Il secondo turno gara tesa con colpi bassi, potrebbero spuntare altri scandali”",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/brasile_elezioni_lula_bolsonaro_risultati_intervista_esperto_pablo_ortellado-425625882/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "Pablo Ortellado, professore di Politiche Pubbliche all’Università di San Paolo: “Sarà una sfida combattuta. Trump potrebbe non riconoscere la vittoria del leader uscente”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/212820780-ad4af8a1-6af6-4f88-89f5-36fe5fc61788.jpg"
       },
       {
         "title": "Media, Lula e Bolsonaro andranno al ballottaggio il 25 ottobre",
@@ -667,6 +683,22 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Bolsonaro avanti su Lula, con l'85% dei voti scrutinati Bolsonaro al 48% e Lula al 43% ballottaggio il 25 ottobre",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/bolsonaro-avanti-su-lula-con-l85-dei-voti-scrutinati-bolsonaro-al-48-e-lula_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-04T23:17:42.000Z",
+      "excerpt": "Mancano i voti delle roccaforti di sinistra",
+      "image": null
+    },
+    {
+      "title": "Brasile, l’esperto: “Il secondo turno gara tesa con colpi bassi, potrebbero spuntare altri scandali”",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/brasile_elezioni_lula_bolsonaro_risultati_intervista_esperto_pablo_ortellado-425625882/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T23:00:00.000Z",
+      "excerpt": "Pablo Ortellado, professore di Politiche Pubbliche all’Università di San Paolo: “Sarà una sfida combattuta. Trump potrebbe non riconoscere la vittoria del leader uscente”",
+      "image": null
+    },
     {
       "title": "Bolsonaro avanti su Lula, ballottaggio il 25 ottobre",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/brasile-al-voto-scintille-ai-seggi-tra-lula-e-bolsonaro_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",

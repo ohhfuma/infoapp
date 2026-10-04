@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T23:06:32.789Z",
+  "lastUpdated": "2026-10-04T23:40:06.276Z",
   "finanza": {
     "italia": [
       {
@@ -16,7 +16,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-04T21:17:25.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_L.jpg"
       },
       {
         "title": "Un ex ricercatore di Anthropic testimonia all’udienza del Consiglio di NYC sull’IA",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Doppio attacco russo su Kharkiv con missili Banderol, un morto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/doppio-attacco-russo-su-kharkiv-con-missili-banderol-un-morto_34346129-cdff-4a84-bd71-615ca2ea8bb7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-04T23:15:51.000Z",
+        "excerpt": "Colpita una infrastruttura energetica nella regione di Poltava, 22 mila senza elettricità",
+        "image": null
+      },
+      {
         "title": "Sánchez pronto alle elezioni cavalcando la piazza. La sfida alla destra spagnola",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/sanchez_pronto_elezioni_cavalcando_piazza_sfida_destra_spagnola-425625990/?rss",
         "source": "Repubblica Esteri",
@@ -414,6 +422,14 @@
         "pubDate": "2026-10-04T23:00:00.000Z",
         "excerpt": "Javier Gil: “Anche chi era ragazzo 20 anni fa si è vista negata la possibilità di acquistare un immobile. Serve un intervento pubblico come in Austria”",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/214801077-e4a8eaf7-4e32-4611-b092-9274ceb9d1e8.jpg"
+      },
+      {
+        "title": "Brasile, l’esperto: “Il secondo turno gara tesa con colpi bassi, potrebbero spuntare altri scandali”",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/brasile_elezioni_lula_bolsonaro_risultati_intervista_esperto_pablo_ortellado-425625882/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "Pablo Ortellado, professore di Politiche Pubbliche all’Università di San Paolo: “Sarà una sfida combattuta. Trump potrebbe non riconoscere la vittoria del leader uscente”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/212820780-ad4af8a1-6af6-4f88-89f5-36fe5fc61788.jpg"
       },
       {
         "title": "Usa, un caso gli stupri alle ragazze dei college. “Ottomila in un anno”",
@@ -446,14 +462,6 @@
         "pubDate": "2026-10-04T23:00:00.000Z",
         "excerpt": "Bombardamenti senza sosta e non solo di notte: la strategia per paralizzare la circolazione e preparare un inverno da incubo",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/203558838-76bf84c3-5d64-416e-92ed-9c1d77d0eb05.jpg"
-      },
-      {
-        "title": "Elezioni in Brasile, i risultati: Bolsonaro in vantaggio con il 49%, Lula indietro. Si va verso il ballottaggio",
-        "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T22:55:56.000Z",
-        "excerpt": "I risultati sono una sorpresa: Lula era favorito al primo turno invece si trova a inseguire. Quasi 159 milioni di brasiliani sono stati chiamati alle urne per scegliere tra il presidente uscente Lula e il figlio del lead",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/224204688-9f501a33-3dcc-4ef0-ab51-23fb6b19e0b9.jpg"
       },
       {
         "title": "Media, Lula e Bolsonaro andranno al ballottaggio il 25 ottobre",
@@ -544,14 +552,6 @@
         "image": null
       },
       {
-        "title": "Zelensky, gli Usa vogliono colloqui trilaterali con la Russia entro fine ottobre",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/04/zelensky-gli-usa-vogliono-colloqui-trilaterali-con-la-russia-entro-fine_4e7a113a-98db-4df1-8145-8723ae67205a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-04T14:06:36.000Z",
-        "excerpt": "'A livello tecnico'",
-        "image": null
-      },
-      {
         "title": "Spiegatore: Chi sono gli Houthi, gli alleati dell'Iran nello Yemen?",
         "link": "https://www.investing.com/news/commodities-news/explainerwho-are-the-houthis-irans-allies-in-yemen-4930937",
         "source": "Investing.com Commodities",
@@ -587,11 +587,19 @@
   },
   "attualita": [
     {
-      "title": "Bolsonaro avanti su Lula, ballottaggio il 25 ottobre",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/brasile-al-voto-scintille-ai-seggi-tra-lula-e-bolsonaro_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
+      "title": "Bolsonaro avanti su Lula, con l'85% dei voti scrutinati Bolsonaro al 48% e Lula al 43% ballottaggio il 25 ottobre",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/bolsonaro-avanti-su-lula-con-l85-dei-voti-scrutinati-bolsonaro-al-48-e-lula_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
       "source": "ANSA",
-      "pubDate": "2026-10-04T22:34:17.000Z",
-      "excerpt": "A circa metà scrutinio il senatore è avanti, anche se mancano i voti delle roccaforti di sinistra",
+      "pubDate": "2026-10-04T23:17:42.000Z",
+      "excerpt": "Mancano i voti delle roccaforti di sinistra",
+      "image": null
+    },
+    {
+      "title": "Brasile, l’esperto: “Il secondo turno gara tesa con colpi bassi, potrebbero spuntare altri scandali”",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/brasile_elezioni_lula_bolsonaro_risultati_intervista_esperto_pablo_ortellado-425625882/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T23:00:00.000Z",
+      "excerpt": "Pablo Ortellado, professore di Politiche Pubbliche all’Università di San Paolo: “Sarà una sfida combattuta. Trump potrebbe non riconoscere la vittoria del leader uscente”",
       "image": null
     },
     {
@@ -611,7 +619,7 @@
       "image": null
     },
     {
-      "title": "Elezioni in Brasile, i risultati: Bolsonaro in vantaggio con il 49%, Lula indietro. Si va verso il ballottaggio",
+      "title": "Elezioni in Brasile, i risultati: Bolsonaro in vantaggio con il 48%, Lula indietro. Si va verso il ballottaggio",
       "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/",
       "source": "Repubblica",
       "pubDate": "2026-10-04T20:42:14.000Z",
@@ -672,14 +680,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-04T16:41:25.000Z",
       "excerpt": "Avrebbe compiuto cento anni tra due mesi. Fondò a Roma il famoso Collettivo casalinghe. Il 9 gennaio del 1979 mentre Nunni e le sue compagne parlavano alla radio furono assalite da un commando guidato da Giusva Fioravant",
-      "image": null
-    },
-    {
-      "title": "Settimana dei Nobel, si apre lunedì con Medicina. Per la Pace candidata la Stazione Spaziale",
-      "link": "https://www.repubblica.it/cronaca/2026/10/04/news/previsioni_premi_nobel_2026-425625429/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T15:53:40.000Z",
-      "excerpt": "Il riconoscimento potrebbe andare a una tecnica rivoluzionaria contro il cancro, al mantello dell’invisibilità o ai farmaci per perdere peso",
       "image": null
     },
     {
