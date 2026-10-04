@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T22:08:15.982Z",
+  "lastUpdated": "2026-10-04T22:39:48.288Z",
   "finanza": {
     "italia": [
       {
@@ -392,12 +392,36 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Elezioni in Brasile, i risultati: Bolsonaro oltre il 50%, Lula indietro",
+        "title": "Media, Lula e Bolsonaro andranno al ballottaggio il 25 ottobre",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/media-lula-e-bolsonaro-andranno-al-ballottaggio-il-25-ottobre_67647ec7-b482-4a8b-9f89-4dc50173087c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-04T22:25:32.000Z",
+        "excerpt": "A metà scrutinio Bolsonaro al 49%, Lula a 42%",
+        "image": null
+      },
+      {
+        "title": "A circa 40% dello scrutinio Bolsonaro avanti su Lula, favorito al ballottaggio",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/a-circa-40-dello-scrutinio-bolsonaro-avanti-su-lula-favorito-al-ballottaggio_dc25203e-11c5-4e1c-8c67-f13b317bb729.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-04T22:24:08.000Z",
+        "excerpt": "Flavio al 50,4% anche se mancano i voti delle roccaforti di sinistra",
+        "image": null
+      },
+      {
+        "title": "Elezioni in Brasile, i risultati: Bolsonaro al 49,58%, Lula indietro",
         "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T21:47:24.000Z",
+        "pubDate": "2026-10-04T22:22:51.000Z",
         "excerpt": "Possibile la vittoria al primo turno, ma in ogni caso i risultati sono una sorpresa: Lula era favorito al primo turno invece si trova a inseguire. Quasi 159 milioni di brasiliani sono stati chiamati alle urne per sceglie",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/224204688-9f501a33-3dcc-4ef0-ab51-23fb6b19e0b9.jpg"
+      },
+      {
+        "title": "Il petrolio sale dopo che gli Houthi yemeniti attaccano i siti sauditi di Aramco",
+        "link": "https://www.investing.com/news/commodities-news/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-4930963",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-04T22:18:32.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM930N0_L.jpg"
       },
       {
         "title": "Russia, ricercatrice di un istituto anti-peste muore per una polmonite: il timore di un incidente in laboratorio",
@@ -504,14 +528,6 @@
         "image": null
       },
       {
-        "title": "Houthi, colpisti impianti Aramco a Riad e nell'area di Khurais",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/houthi-colpisti-impianti-aramco-a-riad-e-nellarea-di-khurais_8f6cb6b3-b147-40e1-8750-9f2b2edfd9cc.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-04T14:04:19.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
         "title": "Ucraina, rapporto choc dell’Onu: 15mila civili uccisi o feriti dai russi nel 2026, +55% sul 2025",
         "link": "https://www.repubblica.it/esteri/2026/10/04/news/rapporto_onu_ucraina_vittime_civili_2026_torture_russi-425625188/?rss",
         "source": "Repubblica Esteri",
@@ -526,14 +542,6 @@
         "pubDate": "2026-10-04T13:36:33.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8711J_L.jpg"
-      },
-      {
-        "title": "Trump nomina il capo dell'intelligence 'zar dell'intelligenza artificiale'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/04/trump-nomina-il-capo-dellintelligence-zar-dellintelligenza-artificiale_e9df1d80-fe9c-470d-b7be-cb3297c9d844.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-04T13:12:20.000Z",
-        "excerpt": "Il tycoon annuncia la costituzione della 'Super Intelligence force'",
-        "image": null
       },
       {
         "title": "L'OPEC+ mantiene stabili gli obiettivi di produzione mentre il conflitto in Medio Oriente restringe l'offerta",
@@ -574,18 +582,18 @@
         "pubDate": "2026-10-04T01:12:30.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9209V_L.jpg"
-      },
-      {
-        "title": "La compagnia petroliera statale irachena trasporta greggio attraverso lo stretto di Hormuz",
-        "link": "https://www.investing.com/news/commodities-news/iraqs-state-tanker-firm-moves-crude-through-hormuz-strait-93CH-4930883",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-03T20:38:15.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Bolsonaro avanti su Lula, ballottaggio il 25 ottobre",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/brasile-al-voto-scintille-ai-seggi-tra-lula-e-bolsonaro_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-04T22:34:17.000Z",
+      "excerpt": "A circa metà scrutinio il senatore è avanti, anche se mancano i voti delle roccaforti di sinistra",
+      "image": null
+    },
     {
       "title": "Pressing del Psoe e del governo, Sanchez verso il voto anticipato",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/pressing-del-psoe-e-del-governo-sanchez-verso-il-voto-anticipato_0f102696-6238-428d-bf07-dcb94b23dee9.html",
@@ -603,7 +611,7 @@
       "image": null
     },
     {
-      "title": "Elezioni in Brasile, i risultati: Bolsonaro oltre il 50%, Lula nettamente indietro",
+      "title": "Elezioni in Brasile, i risultati: Bolsonaro al 49,58%, Lula indietro",
       "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/",
       "source": "Repubblica",
       "pubDate": "2026-10-04T20:42:14.000Z",
@@ -648,14 +656,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-04T18:18:24.000Z",
       "excerpt": "Il 4 ottobre festa per il dolce che è parte della tradizione del paese",
-      "image": null
-    },
-    {
-      "title": "L'appello di Renzi ai centristi e ai riformisti di Fi, 'venite con noi'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/renzi-appello-a-centristi-e-ai-riformisti-di-forza-italia-venite-con-noi_c456b782-516c-4c5e-b706-17e902aa68bd.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-04T17:58:26.000Z",
-      "excerpt": "Si chiude la Leopolda. A Conte: 'Chiedo io garanzie, mai più con Trump'",
       "image": null
     },
     {
