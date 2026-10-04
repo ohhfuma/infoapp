@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-04T03:54:17.715Z",
+  "lastUpdated": "2026-10-04T05:37:29.945Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Citi spiega perché i titoli del home improvement sono in ritardo nel 2026",
+        "link": "https://it.investing.com/news/stock-market-news/citi-spiega-perche-i-titoli-del-home-improvement-sono-in-ritardo-nel-2025-3573234",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-04T04:37:33.000Z",
+        "excerpt": "",
+        "image": null
+      },
       {
         "title": "Rc Auto, la riforma accelera. Dal bonus malus al risarcimento diretto: le novità in cantiere",
         "link": "https://www.repubblica.it/economia/2026/10/04/news/rc_auto_la_riforma_accelera_dal_bonus_malus_al_risarcimento_diretto_le_novita_in_cantiere-425624271/?rss",
@@ -16,7 +24,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-04T02:12:05.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEC030H2_M.jpg"
+        "image": null
       },
       {
         "title": "“Servono più raffinerie. Breve effetto sui prezzi dal rilascio delle scorte”",
@@ -203,14 +211,6 @@
         "image": null
       },
       {
-        "title": "Renault investirà oltre 10 miliardi di euro in Francia per i veicoli elettrici",
-        "link": "https://it.investing.com/news/stock-market-news/renault-investira-oltre-10-miliardi-di-euro-in-francia-per-i-veicoli-elettrici-93CH-3573195",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-03T12:05:46.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEL0S0U6_L.jpg"
-      },
-      {
         "title": "Pnrr, dal Mit 1,55 miliardi, 59 interventi per acqua",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/03/pnrr-dal-mit-155-miliardi-59-interventi-per-acqua_bfb56cbc-de74-477b-976e-1283fb2e9f1e.html",
         "source": "ANSA Economia",
@@ -392,6 +392,38 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump crea task force su superintelligenza: presenterà un rapporto entro 120 giorni su rischi e opportunità della Ia",
+        "link": "https://www.repubblica.it/esteri/2026/10/04/news/task_force_superintelligenza_trump_jay_clayton-425624723/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T05:21:06.000Z",
+        "excerpt": "Del gruppo guidato da Jay Clayton faranno parte il vicepresidente JD Vance, il segretario alla Difesa Pete Hegseth e il segretario al Tesoro Scott Bessent",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/070625871-5c2a0e86-261d-46ff-9cc3-f0c0d0e3f013.jpg"
+      },
+      {
+        "title": "La Bosnia vota domenica alle elezioni che potrebbero influire sull'offerta dell'UE",
+        "link": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-04T05:06:29.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9302W_L.jpg"
+      },
+      {
+        "title": "Nuovi raid tra Houthi e sauditi. Riunione segreta a Camp David ",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/03/nuovi-raid-tra-houthi-e-sauditi.-riunione-segreta-a-camp-david_eee90014-2dfd-406c-bd3f-983a6694294c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-04T03:56:55.000Z",
+        "excerpt": "Raid Idf su Gaza City, 5 morti. Vance riunisce i vertici Usa sulle mosse in Medio Oriente",
+        "image": null
+      },
+      {
+        "title": "Mosca martella Kiev, 'diplomatici e stranieri se ne vadano' ",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/ucraina-colpito-il-ponte-nord-di-kiev.-mosca-avverte-diplomatici-e-stranieri-lasciate_56200a97-785e-4e6d-b43a-d0b4c6b6621e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-04T03:53:07.000Z",
+        "excerpt": "Colpito anche il ponte nord. Zelensky, 'Putin autorizza raid per far lasciare le città'",
+        "image": null
+      },
+      {
         "title": "Gli Houthi dello Yemen dicono di aver attaccato la struttura Aramco a Riyadh con missili, droni",
         "link": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones-4930877",
         "source": "Investing.com Commodities",
@@ -456,28 +488,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/03/203459934-be8e4d78-febc-4b52-a02f-8644eb7a5a8d.jpg"
       },
       {
-        "title": "Francia, i liceali non cedono. Martedì nuove proteste,Mélenchon dà il sostegno",
-        "link": "https://www.repubblica.it/esteri/2026/10/04/news/francia_nuove_proteste_liceali_martedi-425624518/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-03T23:00:00.000Z",
-        "excerpt": "Il leader della sinistra radicale vuole coinvolgere agricoltori e altre categorie di lavoratori. In meno di una settimana 5mila fermati",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/03/223517281-9f23f68e-1787-43f8-9601-178304e0d946.jpg"
-      },
-      {
         "title": "La compagnia petroliera statale irachena trasporta greggio attraverso lo stretto di Hormuz",
         "link": "https://www.investing.com/news/commodities-news/iraqs-state-tanker-firm-moves-crude-through-hormuz-strait-93CH-4930883",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-03T20:38:15.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg"
-      },
-      {
-        "title": "Nuovi raid tra Houthi e sauditi. Riunione segreta a Camp David ",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/03/nuovi-raid-tra-houthi-e-sauditi.-riunione-segreta-a-camp-david_eee90014-2dfd-406c-bd3f-983a6694294c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-03T18:15:35.000Z",
-        "excerpt": "Raid Idf su Gaza City, 5 morti. Vance riunisce i vertici Usa sulle mosse in Medio Oriente",
-        "image": null
       },
       {
         "title": "Media, 'Israele ricevette in anticipo l'elenco dell'equipaggio del volo Flydubai'",
@@ -493,14 +509,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-03T17:38:56.000Z",
         "excerpt": "Crescono le sigle populiste. Grande sconfitto delle elezioni è l'Unione dei Verdi",
-        "image": null
-      },
-      {
-        "title": "Mosca martella Kiev, 'diplomatici e stranieri se ne vadano' ",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/ucraina-colpito-il-ponte-nord-di-kiev.-mosca-avverte-diplomatici-e-stranieri-lasciate_56200a97-785e-4e6d-b43a-d0b4c6b6621e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-03T17:21:36.000Z",
-        "excerpt": "Colpito anche il ponte nord. Zelensky, 'Putin autorizza raid per far lasciare le città'",
         "image": null
       },
       {
@@ -574,18 +582,50 @@
         "pubDate": "2026-10-02T20:56:20.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/moved_LYNXMPEI0Q0Z9_L.jpg"
-      },
-      {
-        "title": "Oro impostato per la quinta settimana negativa in sei tra l'impennata del dollaro, la disfatta dei buoni del Tesoro",
-        "link": "https://www.investing.com/news/commodities-news/gold-steadies-as-stronger-dollar-higher-yields-weigh-us-jobs-data-awaited-4928890",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-02T20:04:44.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED180L9_M.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "American money is flowing back to the Vatican. But at a price",
+      "link": "https://europe.repubblica.it/en/news/2026/10/04/news/vatican_money_us_donors_pope_leo_agenda-425623571/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T04:00:00.000Z",
+      "excerpt": "US donors hope Prevost will talk less about climate change and immigration and speak out more forcefully against abortion and homosexuality. But the Pope shows no sign of giving in to their demands",
+      "image": null
+    },
+    {
+      "title": "Nigel Farage: “We will never rejoin the EU: Burnham has made a very big political mistake and he’ll have to deal with Meloni…”",
+      "link": "https://europe.repubblica.it/en/news/2026/10/04/news/nigel_farage_uk_will_never_rejoin_eu_brexit_burnham-425623637/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T04:00:00.000Z",
+      "excerpt": "The Eurosceptic leader of Britain’s right speaks to La Repubblica: “The Prime Minister has really put me back in the debate, giving me the biggest boost in my career. A second referendum would spell disaster for Burnham.",
+      "image": null
+    },
+    {
+      "title": "Ridley Scott: “The Dolomites are the perfect backdrop for my dystopian world”",
+      "link": "https://europe.repubblica.it/en/culture/2026/10/04/news/ridley_scott_the_dog_stars_film_dolomites-425623777/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T04:00:00.000Z",
+      "excerpt": "Approaching his 89th birthday, the director returns to theaters with The Dog Stars, a post-apocalyptic drama shot almost entirely in Italy: “I wanted the landscape to feel completely authentic.” And now? “I’d love to do ",
+      "image": null
+    },
+    {
+      "title": "Attacco aereo saudita sullo Yemen, esplosioni vicino l'aeroporto di Riad",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/attacco-aereo-saudita-sullo-yemen-esplosioni-vicino-laeroporto-di-riad_4a6c6f1b-c4ed-42c5-be99-f58f7e297dce.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-04T03:58:06.000Z",
+      "excerpt": "Esplosioni sono state avvertite a Buqayq dopo il lancio di missili balistici dallo Yemen",
+      "image": null
+    },
+    {
+      "title": "Onu, 400 civili uccisi in Ucraina dall'inizio dell'anno, +55% rispetto al 2025",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/onu-400-civili-uccisi-in-ucraina-dallinizio-dellanno-55-rispetto-al-2025_a8e9c5df-c40c-44d9-9a57-96d74f777f68.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-04T03:53:45.000Z",
+      "excerpt": "Riscontrati livelli \"scioccanti\" di violenza sessuale su civili e prigionieri di guerra",
+      "image": null
+    },
     {
       "title": "Ballando con le stelle, standing ovation per Sciarelli. La prima puntata è una maratona notturna",
       "link": "https://www.repubblica.it/spettacoli/2026/10/04/news/ballando_con_le_stelle_prima_puntata_sciarelli_ramazzotti-425624640/",
@@ -627,35 +667,11 @@
       "image": null
     },
     {
-      "title": "Il silenzio di Sánchez tiene sospesa la Spagna.Domani giorno decisivo",
-      "link": "https://www.repubblica.it/esteri/2026/10/04/news/sanchez_silenzio_attesa_ipotesi_dimissioni_elezioni-425624497/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-03T23:00:00.000Z",
-      "excerpt": "Se il premier si dimette elezioni il 29 novembre Junts in difficoltà chiede di trattare ancora sulle misure nei decreti sulla casa",
-      "image": null
-    },
-    {
-      "title": "Francia, i liceali non cedono. Martedì nuove proteste,Mélenchon dà il sostegno",
-      "link": "https://www.repubblica.it/esteri/2026/10/04/news/francia_nuove_proteste_liceali_martedi-425624518/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-03T23:00:00.000Z",
-      "excerpt": "Il leader della sinistra radicale vuole coinvolgere agricoltori e altre categorie di lavoratori. In meno di una settimana 5mila fermati",
-      "image": null
-    },
-    {
-      "title": "Lazar:“Parlare di sicurezza la sfida dei progressisti per tornare a convincere”",
-      "link": "https://www.repubblica.it/esteri/2026/10/04/news/intervista_marc_lazar_progressisti_sicurezza-425624506/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-03T23:00:00.000Z",
-      "excerpt": "Il politologo francese: “Bisogna tornare a suscitare emozioni. Il discorso politico non può essere solo razionale”",
-      "image": null
-    },
-    {
-      "title": "Intesa rilancia sull'Opas Mps, aumenta la componente cash di 0,25 euro ",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/03/intesa-con-il-via-libera-alle-offerte-mps-lopas-diventera-inefficace_649702eb-a54c-46d5-a26b-869245b27bf1.html",
+      "title": "La routine d'amore tra noi e i nostri animali domestici",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/pets/2026/10/02/la-routine-damore-tra-noi-e-i-nostri-animali-domestici_c8851332-f768-4e0f-9172-9c8ca4ec39ba.html",
       "source": "ANSA",
-      "pubDate": "2026-10-03T18:25:05.000Z",
-      "excerpt": "L'offerta inefficace se l'assemblea di Siena approva progetto. 'Il loro progetto a sconto'",
+      "pubDate": "2026-10-03T19:15:46.000Z",
+      "excerpt": "Dal posto ceduto sul divano alla carezza prima di uscire di casa",
       "image": null
     },
     {
@@ -664,14 +680,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-03T18:04:56.000Z",
       "excerpt": "In migliaia con le chiavi dopo stop ai decreti. La sinistra frena Sanchez sul voto",
-      "image": null
-    },
-    {
-      "title": "Mosca martella Kiev, 'diplomatici e stranieri se ne vadano' ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/03/ucraina-colpito-il-ponte-nord-di-kiev.-mosca-avverte-diplomatici-e-stranieri-lasciate_56200a97-785e-4e6d-b43a-d0b4c6b6621e.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-03T17:21:36.000Z",
-      "excerpt": "Colpito anche il ponte nord. Zelensky, 'Putin autorizza raid per far lasciare le città'",
       "image": null
     },
     {
@@ -704,14 +712,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-03T11:24:05.000Z",
       "excerpt": "Dal film di Zeffirelli, Pranno e Borzak in Fratello Sole Sorella Luna",
-      "image": null
-    },
-    {
-      "title": "La routine d'amore tra noi e i nostri animali domestici",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/pets/2026/10/02/la-routine-damore-tra-noi-e-i-nostri-animali-domestici_c8851332-f768-4e0f-9172-9c8ca4ec39ba.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-02T17:38:44.000Z",
-      "excerpt": "Dal posto ceduto sul divano alla carezza prima di uscire di casa",
       "image": null
     }
   ],

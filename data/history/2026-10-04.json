@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Citi spiega perché i titoli del home improvement sono in ritardo nel 2026",
+        "link": "https://it.investing.com/news/stock-market-news/citi-spiega-perche-i-titoli-del-home-improvement-sono-in-ritardo-nel-2025-3573234",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-04T04:37:33.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
         "title": "Rc Auto, la riforma accelera. Dal bonus malus al risarcimento diretto: le novità in cantiere",
         "link": "https://www.repubblica.it/economia/2026/10/04/news/rc_auto_la_riforma_accelera_dal_bonus_malus_al_risarcimento_diretto_le_novita_in_cantiere-425624271/?rss",
         "source": "Repubblica Economia",
@@ -409,6 +417,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump crea task force su superintelligenza: presenterà un rapporto entro 120 giorni su rischi e opportunità della Ia",
+        "link": "https://www.repubblica.it/esteri/2026/10/04/news/task_force_superintelligenza_trump_jay_clayton-425624723/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T05:21:06.000Z",
+        "excerpt": "Del gruppo guidato da Jay Clayton faranno parte il vicepresidente JD Vance, il segretario alla Difesa Pete Hegseth e il segretario al Tesoro Scott Bessent",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/070625871-5c2a0e86-261d-46ff-9cc3-f0c0d0e3f013.jpg"
+      },
+      {
+        "title": "La Bosnia vota domenica alle elezioni che potrebbero influire sull'offerta dell'UE",
+        "link": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-04T05:06:29.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9302W_L.jpg"
+      },
+      {
         "title": "Parolin: “Per fermare le guerre uscire dalla logica del dominio e porre fine alle disuguaglianze”",
         "link": "https://www.repubblica.it/esteri/2026/10/04/news/parolin_intervista_papa_guerra_gaza_iran_ucraina-425624329/?rss",
         "source": "Repubblica Esteri",
@@ -603,6 +627,46 @@
     ]
   },
   "attualita": [
+    {
+      "title": "American money is flowing back to the Vatican. But at a price",
+      "link": "https://europe.repubblica.it/en/news/2026/10/04/news/vatican_money_us_donors_pope_leo_agenda-425623571/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T04:00:00.000Z",
+      "excerpt": "US donors hope Prevost will talk less about climate change and immigration and speak out more forcefully against abortion and homosexuality. But the Pope shows no sign of giving in to their demands",
+      "image": null
+    },
+    {
+      "title": "Nigel Farage: “We will never rejoin the EU: Burnham has made a very big political mistake and he’ll have to deal with Meloni…”",
+      "link": "https://europe.repubblica.it/en/news/2026/10/04/news/nigel_farage_uk_will_never_rejoin_eu_brexit_burnham-425623637/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T04:00:00.000Z",
+      "excerpt": "The Eurosceptic leader of Britain’s right speaks to La Repubblica: “The Prime Minister has really put me back in the debate, giving me the biggest boost in my career. A second referendum would spell disaster for Burnham.",
+      "image": null
+    },
+    {
+      "title": "Ridley Scott: “The Dolomites are the perfect backdrop for my dystopian world”",
+      "link": "https://europe.repubblica.it/en/culture/2026/10/04/news/ridley_scott_the_dog_stars_film_dolomites-425623777/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T04:00:00.000Z",
+      "excerpt": "Approaching his 89th birthday, the director returns to theaters with The Dog Stars, a post-apocalyptic drama shot almost entirely in Italy: “I wanted the landscape to feel completely authentic.” And now? “I’d love to do ",
+      "image": null
+    },
+    {
+      "title": "Attacco aereo saudita sullo Yemen, esplosioni vicino l'aeroporto di Riad",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/attacco-aereo-saudita-sullo-yemen-esplosioni-vicino-laeroporto-di-riad_4a6c6f1b-c4ed-42c5-be99-f58f7e297dce.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-04T03:58:06.000Z",
+      "excerpt": "Esplosioni sono state avvertite a Buqayq dopo il lancio di missili balistici dallo Yemen",
+      "image": null
+    },
+    {
+      "title": "Onu, 400 civili uccisi in Ucraina dall'inizio dell'anno, +55% rispetto al 2025",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/onu-400-civili-uccisi-in-ucraina-dallinizio-dellanno-55-rispetto-al-2025_a8e9c5df-c40c-44d9-9a57-96d74f777f68.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-04T03:53:45.000Z",
+      "excerpt": "Riscontrati livelli \"scioccanti\" di violenza sessuale su civili e prigionieri di guerra",
+      "image": null
+    },
     {
       "title": "Ballando con le stelle, standing ovation per Sciarelli. La prima puntata è una maratona notturna",
       "link": "https://www.repubblica.it/spettacoli/2026/10/04/news/ballando_con_le_stelle_prima_puntata_sciarelli_ramazzotti-425624640/",
