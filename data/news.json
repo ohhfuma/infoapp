@@ -1,22 +1,94 @@
 {
-  "lastUpdated": "2026-10-04T18:03:05.942Z",
+  "lastUpdated": "2026-10-04T21:17:55.658Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Un ex ricercatore di Anthropic testimonia all’udienza del Consiglio di NYC sull’IA",
+        "link": "https://it.investing.com/news/stock-market-news/un-ex-ricercatore-di-anthropic-testimonia-alludienza-del-consiglio-di-nyc-sullia-3573275",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-04T20:38:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
+        "title": "Schneider Electric vicina a un accordo da $20 mld per PTC",
+        "link": "https://it.investing.com/news/stock-market-news/schneider-electric-vicina-a-un-accordo-da-20-mld-per-ptc-3573273",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-04T20:28:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA890W0_M.jpg"
+      },
+      {
+        "title": "Delfin porterà l’intera quota del 17,6% in MPS nell’OPA di Intesa",
+        "link": "https://it.investing.com/news/stock-market-news/delfin-portera-lintera-quota-del-176-in-mps-nellopa-di-intesa-3573272",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-04T20:17:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
+      },
+      {
+        "title": "Offerta su Mps, la holding Delfin con Intesa: consegnerà la sua quota e voterà contro Lovaglio",
+        "link": "https://www.repubblica.it/economia/2026/10/04/news/offerta_su_mps_dopo_il_rilancio_di_messina_anche_delfin_va_verso_l_ok_a_intesa-425625904/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-04T20:06:49.000Z",
+        "excerpt": "La cassaforte della famiglia Del Vecchio porta alla Ca de Sass il 17,6% del capitale e rende più difficile per il banchiere ottenere il via libera al suo piano, nell’assemblea del 29 ottobre",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/214256352-82d1b5e0-c8a4-48ed-8c4e-219977b38305.jpg"
+      },
+      {
+        "title": "Intesa, da Delfin impegno di adesione all'Opas per Mps",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/intesa-da-delfin-impegno-di-adesione-allopas-per-mps_a8a94a7d-9c45-48a7-823c-5d4c9ca99d4c.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-04T20:02:47.000Z",
+        "excerpt": "All'offerta apporterà l'intera quota del 17,6 di Monte dei Paschi di Siena",
+        "image": null
+      },
+      {
+        "title": "Celata (Sapienza): “Per intere generazioni è svanita l’illusione della casa di proprietà”",
+        "link": "https://www.repubblica.it/economia/2026/10/04/news/celata_professore_sapienza_emergenza_casa-425625862/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-04T19:23:30.000Z",
+        "excerpt": "Il professore di Geografia economica: “Quello che vediamo in Spagna presto sarà chiaro anche in Italia. Costruire nuove case non è la soluzione, bisogna regolare il mercato per portare sul mercato residenziale quelle che",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/212318274-acd1a682-9127-49d2-adda-5fa3e2a5c771.jpg"
+      },
+      {
+        "title": "AkzoNobel vicina alla vendita della divisione vernici nel Sud-Est asiatico a Nippon Paint",
+        "link": "https://it.investing.com/news/stock-market-news/akzonobel-vicina-alla-vendita-della-divisione-vernici-nel-sudest-asiatico-a-nippon-paint-3573269",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-04T19:22:11.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED3I0B5_M.jpg"
+      },
+      {
+        "title": "La lente del mercato sull'affondo di Intesa Sanpaolo su Mps",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/la-lente-del-mercato-sullaffondo-di-intesa-sanpaolo-su-mps_362a0a54-bbfb-4cfa-b367-e4483904f2f7.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-04T19:06:22.000Z",
+        "excerpt": "Delfin verso l'appoggio all'Opas di Ca' de Sass. Attesa la reazione di Siena",
+        "image": null
+      },
+      {
+        "title": "Delfin verso l'appoggio all'offerta di Intesa Sanpaolo per Mps",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/delfin-verso-lappoggio-allofferta-di-intesa-sanpaolo-per-mps_63e7a8d8-f00b-437c-a9b9-c5ab2f640684.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-04T18:56:16.000Z",
+        "excerpt": "Il board della holding si è riunito dopo l'annuncio di Ca' de Sass",
+        "image": null
+      },
       {
         "title": "Anthropic, assegno da 100 milioni per formare 10 mila ingegneri. Claude mette un piede nelle aziende",
         "link": "https://www.repubblica.it/economia/2026/10/04/news/anthropic_assegno_da_100_milioni_per_formare_10_mila_ingegneri_claude_mette_un_piede_nelle_aziende-425625420/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "2026-10-04T17:58:46.000Z",
+        "pubDate": "2026-10-04T18:07:31.000Z",
         "excerpt": "Il big dell’IA lancia un’Accademia che punta su progetti reali e applicazioni operative. I professionisti – in teoria anche italiani – sono candidati dalle proprie imprese, partner del colosso dell’intelligenza artificia",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/174732378-fde3134f-c4ce-40b3-99bb-4552fee6a63b.jpg"
       },
       {
-        "title": "Mps, Delfin verso l’appoggio a Intesa Sanpaolo",
+        "title": "Mps, Delfin schierata con Intesa Sanpaolo",
         "link": "https://www.ilsole24ore.com/art/delfin-l-appoggio-intesa-sanpaolo-AJnnqzYB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-04T17:52:00.000Z",
-        "excerpt": "Il cda della holding Delfin riunitosi ieri avrebbe esaminato il dossier Mps. Secondo quanto risulta al Sole 24 Ore, il consiglio della società lussemburghese avrebbe deliberato di votare contro il...",
-        "image": null
+        "excerpt": "Svolta potenzialmente decisiva nella partita per il controllo di Mps. Delfin, holding della famiglia Del Vecchio azionista di Rocca Salimbeni con il 17,6% del capitale, si è impegnata ad aderire...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/05/Immagini/Ritagli/Imago-intesa-U66443382078NPD-1440x752@IlSole24Ore-Web.JPEG"
       },
       {
         "title": "Musk annuncia: SpaceX cambierà nome in \"SpaceXSI\"",
@@ -67,14 +139,6 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/05/Immagini/Ritagli/Imagoeconomica_1651537-U71334258431zfU-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Case più care in Ue, governo pensa a intervento in manovra per i giovani",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/case-piu-care-in-ue-governo-pensa-a-intervento-in-manovra-per-i-giovani_4f6606f5-5cea-4317-9cf9-7011e2bbd281.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-04T15:03:18.000Z",
-        "excerpt": "Eurostat, prezzi +4,7%, affitti +3%. Spagna guida la protesta per caro-casa",
-        "image": null
-      },
-      {
         "title": "La morosità spinge gli sfratti, 40 mila provvedimenti emessi in un anno",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/la-morosita-spinge-gli-sfratti-40-mila-provvedimenti-emessi-in-un-anno_cfb7d35c-b955-43ba-bacf-86d6aec3880c.html",
         "source": "ANSA Economia",
@@ -113,14 +177,6 @@
         "pubDate": "2026-10-04T13:05:46.000Z",
         "excerpt": "La decisione del cartello dei paesi produttori. A fine del prossimo mese il nuovo aggiornamento",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/150540949-493313ab-fc80-4a49-bf2c-83e65881e3fb.jpg"
-      },
-      {
-        "title": "Stop allo sconto per il gasolio, poi accise mobili",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/domani-scade-lo-sconto-sulle-accise-per-il-gasolio_664823dc-12a3-42e9-851b-f10f32a6c4dd.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-04T11:31:20.000Z",
-        "excerpt": "Il caro-carburanti è costato in 6 mesi 4,7 miliardi agli automobilisti",
-        "image": null
       },
       {
         "title": "Pescatori Lampedusa ancora fermi per il caro gasolio, domani tavolo a Palermo",
@@ -171,36 +227,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/03/201912864-92ecf0dc-de58-484b-85a0-2ddb40554629.jpg"
       },
       {
-        "title": "Il caro-carburanti è costato in 6 mesi 4,7 miliardi agli automobilisti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/il-caro-carburanti-e-costato-in-6-mesi-47-miliardi-agli-automobilisti_5aaba82b-e7f8-4b57-8307-9329a3e23e03.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-04T08:44:26.000Z",
-        "excerpt": "Adusbef, solo a luglio-agosto spesa per benzina e gasolio salita di +1,7 miliardi su 2025",
-        "image": null
-      },
-      {
         "title": "Benessere e giocattoli nel carrello degli italiani",
         "link": "https://www.repubblica.it/economia/2026/10/04/news/benessere_e_giocattoli_nel_carrello_degli_italiani-425621509/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-04T08:00:00.000Z",
         "excerpt": "Cautela sugli acquisti non food: spese più ragionate con l’aiuto dell’IA. Frena l’elettronica. Bene outlet e negozi periferici, rallenta il centro urbano",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/141254713-994bea85-2999-4bee-9e55-2dc5609ca01a.jpg"
-      },
-      {
-        "title": "Voli, cambiano i diritti dei passeggeri: dal trolley ai rimborsi, tutte le nuove regole Ue",
-        "link": "https://www.repubblica.it/economia/2026/10/04/news/voli_diritti_passeggeri_rimborsi_regolamento_ue-425624292/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-04T06:00:00.000Z",
-        "excerpt": "Va in Gazzetta Ufficiale il regolamento europeo che arriva dopo 13 anni di trattative tra le istituzioni. Le prerogative dei viaggiatori più deboli, come bambini e disabili. Gratuita la borsa personale, la valigia a paga",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/03/203732036-6350c3af-0a03-43ea-9205-eb69feb4e359.jpg"
-      },
-      {
-        "title": "Il piano del circo Nba per conquistare l’Europa",
-        "link": "https://www.repubblica.it/economia/2026/10/04/news/il_piano_del_circo_nba_per_conquistare_l_europa-425621948/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-04T06:00:00.000Z",
-        "excerpt": "I club continentali devono decidere se resistere o collaborare. Il modello Usa tra parquet e finanza",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/170937386-57162d15-92fd-4955-bb25-6736e859c191.jpg"
       },
       {
         "title": "Citi spiega perché i titoli del home improvement sono in ritardo nel 2026",
@@ -225,38 +257,6 @@
         "pubDate": "2026-10-03T22:24:00.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg"
-      },
-      {
-        "title": "Nestlé India: campione di prodotto dichiarato non sicuro dal regolatore alimentare",
-        "link": "https://it.investing.com/news/stock-market-news/nestle-india-campione-di-prodotto-dichiarato-non-sicuro-dal-regolatore-alimentare-93CH-3573216",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-03T21:52:51.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA7609U_M.jpg"
-      },
-      {
-        "title": "Elezioni di metà mandato USA: impatto atteso sui mercati azionari",
-        "link": "https://it.investing.com/news/stock-market-news/elezioni-di-meta-mandato-usa-impatto-atteso-sui-mercati-azionari-3573214",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-03T20:33:43.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM50182_1200_L.jpg"
-      },
-      {
-        "title": "Come gli investimenti nell’AI generano effetti moltiplicatori insolitamente ampi",
-        "link": "https://it.investing.com/news/stock-market-news/come-gli-investimenti-nellai-generano-effetti-moltiplicatori-insolitamente-ampi-3573211",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-03T20:21:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
-      },
-      {
-        "title": "La Turchia proroga i requisiti ridotti per il trading a margine al 30 ottobre",
-        "link": "https://it.investing.com/news/stock-market-news/la-turchia-proroga-i-requisiti-ridotti-per-il-trading-a-margine-al-30-ottobre-93CH-3573203",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-03T16:33:33.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
       }
     ],
     "europa": [
@@ -392,6 +392,70 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Elezioni in Brasile, i risultati: Bolsonaro al 51%, ma lo spoglio è all'inizio",
+        "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T21:07:12.000Z",
+        "excerpt": "Quasi 159 milioni di brasiliani sono stati chiamati alle urne per scegliere tra il presidente uscente Lula e il figlio del leader della destra Jair",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/224204688-9f501a33-3dcc-4ef0-ab51-23fb6b19e0b9.jpg"
+      },
+      {
+        "title": "Russia, ricercatrice di un istituto anti-peste muore per una polmonite: il timore di un incidente in laboratorio",
+        "link": "https://www.repubblica.it/esteri/2026/10/04/news/russia_ricercatrice_di_un_istituto_anti-peste_muore_per_una_polmonite_il_timore_di_un_incidente_in_laboratorio-425625840/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T21:00:17.000Z",
+        "excerpt": "Media locali ipotizzano un'esposizione accidentale al batterio della peste, ma le autorità russe parlano di una “polmonite di origine sconosciuta”. Circa 200 persone sono sotto osservazione. La Casa Bianca monitora",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/211743260-49b2c37a-5592-453b-b73f-b55688a1a1df.jpg"
+      },
+      {
+        "title": "Media, dopo bocciatura decreti casa Sanchez verso annuncio elezioni anticipate",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/04/media-dopo-bocciatura-decreti-casa-sanchez-verso-annuncio-elezioni-anticipate_d9d7b860-eb59-4139-9c43-6ba62aee32c4.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-04T20:48:13.000Z",
+        "excerpt": "El Pais: atteso domani, Moncloa studia anche il recupero dei provvedimenti",
+        "image": null
+      },
+      {
+        "title": "La sinistra e i nazionalisti guidano le elezioni per la presidenza tripartita della Bosnia",
+        "link": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-04T20:30:30.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9302W_L.jpg"
+      },
+      {
+        "title": "Flydubai, “il copilota voleva far schiantare il volo sull’aeroporto Ben Gurion”",
+        "link": "https://www.repubblica.it/esteri/2026/10/04/news/flydubai_copilota_voleva_far_schiantare_aereo_aeroporto_ben_gurion_tel_aviv-425625941/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T20:18:15.000Z",
+        "excerpt": "Secondo le prime indiscrezioni sull’interrogatorio di Hamam al-Hammami, il ragazzo aveva due piani: colpire lo scalo a Tel Aviv oppure una base americana in Giordania. Il 29enne avrebbe agito da solo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/221042610-dc2011c5-f72a-4adf-bc5d-61f543ef871e.jpg"
+      },
+      {
+        "title": "Il governo yemenita lancia un'offensiva per conquistare tutte le aree degli Houthi sostenuti dall'Iran",
+        "link": "https://www.investing.com/news/commodities-news/head-of-yemens-presidential-council-announces-military-operations-to-retake-territory-4930932",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-04T19:48:52.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM930BH_L.jpg"
+      },
+      {
+        "title": "Brasile alle urne, Bolsonaro sfida Lula. Inchiesta della polizia federale sulle ingerenze Usa",
+        "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_lula_e_bolsonaro_per_cosa_si_vota-425625309/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-04T18:36:15.000Z",
+        "excerpt": "Il voto è obbligatorio e si svolge in modo totalmente elettronico. Risultati attesi oggi poco dopo le 22 italiane. Secondo i sondaggi il presidente in testa contro il candidato della destra, 45% a 40%. Altamente probabil",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/155432647-0c6912a5-b5d6-4d7b-98c0-f7d341a08ec9.jpg"
+      },
+      {
+        "title": "Si dimette il ministro del petrolio iraniano",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/si-dimette-il-ministro-del-petrolio-iraniano_262d2f70-7cf5-48d6-ac5d-5e219a76cd56.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-04T18:10:26.000Z",
+        "excerpt": "Sostituito ad interim con il ceo della National Iranian Oil Company",
+        "image": null
+      },
+      {
         "title": "Merz svela nuovi aiuti militari a Kiev, afferma che la Germania non si lascerà intimidire",
         "link": "https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915",
         "source": "Investing.com Commodities",
@@ -422,22 +486,6 @@
         "pubDate": "2026-10-04T17:03:00.000Z",
         "excerpt": "",
         "image": null
-      },
-      {
-        "title": "Il governo yemenita lancia un'offensiva per conquistare tutte le aree degli Houthi sostenuti dall'Iran",
-        "link": "https://www.investing.com/news/commodities-news/head-of-yemens-presidential-council-announces-military-operations-to-retake-territory-4930932",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-04T16:36:56.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM930BH_L.jpg"
-      },
-      {
-        "title": "La Bosnia vota domenica alle elezioni che potrebbero influire sull'offerta dell'UE",
-        "link": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-04T15:54:27.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9302W_L.jpg"
       },
       {
         "title": "Presidente corte suprema Brasile, 'elezioni integre sono motore della democrazia'",
@@ -472,14 +520,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/132148318-b983ae72-3ceb-4490-b872-d4d003078461.jpg"
       },
       {
-        "title": "Brasile, 160 milioni alle urne. Lula e Bolsonaro hanno votato: in gioco il futuro del Sudamerica",
-        "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_lula_e_bolsonaro_per_cosa_si_vota-425625309/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T13:54:56.000Z",
-        "excerpt": "Il voto è obbligatorio e si svolge in modo totalmente elettronico. Risultati attesi oggi poco dopo le 22 italiane. Secondo i sondaggi il presidente in testa contro il candidato della destra, 45% a 40%. Altamente probabil",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/155432647-0c6912a5-b5d6-4d7b-98c0-f7d341a08ec9.jpg"
-      },
-      {
         "title": "Spiegatore: Chi sono gli Houthi, gli alleati dell'Iran nello Yemen?",
         "link": "https://www.investing.com/news/commodities-news/explainerwho-are-the-houthis-irans-allies-in-yemen-4930937",
         "source": "Investing.com Commodities",
@@ -493,14 +533,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-04T13:12:20.000Z",
         "excerpt": "Il tycoon annuncia la costituzione della 'Super Intelligence force'",
-        "image": null
-      },
-      {
-        "title": "Austria, top manager dei media Zeiler lancia la sfida per guidare i socialdemocratici",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/04/austria-top-manager-dei-media-zeiler-lancia-la-sfida-per-guidare_c1f2ce5d-4fe5-46fe-84f7-be888cf5be04.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-04T12:46:58.000Z",
-        "excerpt": "Il dirigente punta a scalzare il vice cancelliere Babler e a cambio di rotta del partito",
         "image": null
       },
       {
@@ -520,14 +552,6 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9304G_L.jpg"
       },
       {
-        "title": "Flavio Bolsonaro vota a Rio e attacca il governo Lula",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/04/flavio-bolsonaro-vota-a-rio-e-attacca-il-governo-lula_bdd5eef9-9b13-4ae5-bbf7-441f2e2c145c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-04T12:06:47.000Z",
-        "excerpt": "Il candidato invita i cittadini ad andare alle urne e invoca una svolta politica",
-        "image": null
-      },
-      {
         "title": "Elon Musk lascia la compagna. E Shivon Zilis, madre di 4 dei suoi 14 figli, racconta tutto su X",
         "link": "https://www.repubblica.it/esteri/2026/10/04/news/elon_musk_lascia_la_compagna_shivon_zilis_madre_di_4_dei_suoi_14_figli-425625154/?rss",
         "source": "Repubblica Esteri",
@@ -536,36 +560,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/125404117-567abf43-4631-4b5d-977d-970d935ee570.jpg"
       },
       {
-        "title": "Somalia, nel Paese dove l’onda lunga del conflitto con l’Iran uccide i bambini",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/10/04/news/somalia_effetto_guerra_iran_uccide_bambini_continental_breakfast-425625001/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T10:39:12.000Z",
-        "excerpt": "La chiusura di oltre 200 centri sanitari a causa dei tagli ai finanziamenti internazionali e l’aumento del costo delle forniture provocato dalla guerra, colpiscono una popolazione già stremata, racconta il quotidiano spa",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/123901363-dbf55f88-377a-449f-8a35-9293761a9a84.jpg"
-      },
-      {
         "title": "“In Spagna più della metà degli elettori di destra vuole nuove leggi anti-sfratto sulla casa”",
         "link": "https://www.repubblica.it/esteri/2026/10/04/news/in_spagna_elettori_di_destra_vuole_leggi_anti-sfratto_sulla_casa-425625081/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-04T10:27:25.000Z",
         "excerpt": "Intervista a Rodrido Amiro, analista spagnolo di Ateneo del Dato che nell’ultimo sondaggio per eldiario.es rileva come l’elettorato di Pp, Vox e Junts appoggi misure come le limitazioni ai fondi avvoltoio e lo sciopero g",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/115241215-9d5a4b19-bbcf-4abb-8142-ad39d85195b0.jpg"
-      },
-      {
-        "title": "Il piano Usa per Cuba: aspettare che crolli per farne poi una colonia di fatto",
-        "link": "https://www.repubblica.it/esteri/2026/10/04/news/il_piano_usa_per_cuba_colonia_di_fatto-425625051/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T09:22:10.000Z",
-        "excerpt": "Secondo gli analisti, Trump avrebbe rinunciato all’invasione. Mentre cresce la dipendenza economica dell’isola dagli Usa e a Miami un gruppo di imprenditori ha già delineato un governo provvisorio",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/112047997-e9e66a43-d921-4298-a329-17b795752eaa.jpg"
-      },
-      {
-        "title": "Londra, 15 anni di carcere a un attivista che ha fatto esplodere una telecamera stradale",
-        "link": "https://www.repubblica.it/esteri/2026/10/04/news/londra_attivista_contro_telecamere_stradali_15_anni_di_carcere-425624944/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T08:39:11.000Z",
-        "excerpt": "Clamorosa sentenza contro un ex ingegnere inglese, che faceva campagna contro la zona a traffico limitato “Ulez” della capitale. Ma per i giudici è una sentenza giustificata: ecco perché",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/103623331-0422614b-73b9-4f2b-9c87-08371c0c5d46.jpg"
       },
       {
         "title": "Gli Houthi dello Yemen dicono di aver attaccato la struttura Aramco a Riyadh con missili, droni",
@@ -587,6 +587,70 @@
   },
   "attualita": [
     {
+      "title": "Elezioni in Brasile, risultati: Bolsonaro vicino al 50% con i primi dati, ma lo spoglio è all'inizio",
+      "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T20:42:14.000Z",
+      "excerpt": "Si tratta di dati preliminari relativi ad appena l'1,70% delle schede scrutinate",
+      "image": null
+    },
+    {
+      "title": "Flydubai, “il copilota voleva far schiantare l’aereo sull’aeroporto Ben Gurion”",
+      "link": "https://www.repubblica.it/esteri/2026/10/04/news/flydubai_copilota_voleva_far_schiantare_aereo_aeroporto_ben_gurion_tel_aviv-425625941/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T20:10:53.000Z",
+      "excerpt": "Secondo le prime indiscrezioni sull’interrogatorio di Hamam al-Hammami, il ragazzo aveva due piani: colpire lo scalo a Tel Aviv oppure una base americana in Giordania. Il 29enne avrebbe agito da solo",
+      "image": null
+    },
+    {
+      "title": "Russia, ricercatrice di un istituto anti-peste muore per una polmonite: il timore di un incidente in laboratorio",
+      "link": "https://www.repubblica.it/esteri/2026/10/04/news/russia_ricercatrice_di_un_istituto_anti-peste_muore_per_una_polmonite_il_timore_di_un_incidente_in_laboratorio-425625840/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T19:17:48.000Z",
+      "excerpt": "Media locali ipotizzano un'esposizione accidentale al batterio della peste, ma le autorità russe parlano di una “polmonite di origine sconosciuta”. Circa 200 persone sono sotto osservazione. La Casa Bianca monitora",
+      "image": null
+    },
+    {
+      "title": "Roberto Benigni: “San Francesco è stato il primo nella storia a condannare la guerra”",
+      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/10/04/news/roberto_benigni_san_francesco_condanna_guerra_cantico_delle_creature-425625698/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T18:43:10.000Z",
+      "excerpt": "Il comico: “È l’uomo delle prime volte, ha inventato la diplomazia”. E sulle donne: “Gli uomini hanno paura della vita”",
+      "image": null
+    },
+    {
+      "title": "Tenta di uccidere la compagna, salva perché creduta morta",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/tenta-di-uccidere-la-compagna-poi-si-suicida-dopo-averle-fatto-perdere-i-sensi_ad11c40c-eee0-438a-a194-a23b73d8cc10.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-04T18:37:00.000Z",
+      "excerpt": "L'aggressione davanti alla bimba di un anno. L'uomo si è suicidato lanciandosi dal balcone",
+      "image": null
+    },
+    {
+      "title": "Mancini: “Mi sono divertito con i ragazzi, con la Turchia voglio chiudere in bellezza”",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/10/04/news/mancini_conferenza_italia_turchia-425625653/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T18:24:58.000Z",
+      "excerpt": "Il ct alla vigilia della sfida con Montella parla della rinascita azzurra: “Un tifoso deve fidarsi e noi dobbiamo fidarci di noi stessi”",
+      "image": null
+    },
+    {
+      "title": "Il Cinnamon bun, la girella alla cannella che fa impazzire gli svedesi (e non solo)",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/10/04/il-cinnamon-bun-la-girella-alla-cannella-che-fa-impazzire-gli-svedesi-e-non_c2ec0206-751a-4ca0-9c86-16a5075a5deb.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-04T18:18:24.000Z",
+      "excerpt": "Il 4 ottobre festa per il dolce che è parte della tradizione del paese",
+      "image": null
+    },
+    {
+      "title": "Garlasco, i genitori di Chiara: 'Se ci sarà un nuovo colpevole ne prenderemo atto'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/garlasco-genitori-di-chiara-poggi-prenderemo-atto-se-la-giustizia-dara-un-altro-colpevole_ebee0c95-ada8-4f77-9669-bc60564a79ed.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-04T18:03:56.000Z",
+      "excerpt": "'Basta circo mediatico, dopo 19 anni nostra figlia ha il diritto di riposare in pace'",
+      "image": null
+    },
+    {
       "title": "Ucraina: Merz a sorpresa a Kiev sotto le bombe, 'Putin fermi la guerra' ",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/ucraina-merz-a-sorpresa-a-kiev-sotto-le-bombe-putin-fermi-la-guerra_150970cb-bce6-4ca9-a327-1f55553bc772.html",
       "source": "ANSA",
@@ -603,19 +667,11 @@
       "image": null
     },
     {
-      "title": "Garlasco, i genitori: 'Chiara dopo 19 anni ha il diritto di riposare in pace'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/garlasco-genitori-di-chiara-poggi-prenderemo-atto-se-la-giustizia-dara-un-altro-colpevole_ebee0c95-ada8-4f77-9669-bc60564a79ed.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-04T16:49:20.000Z",
-      "excerpt": "Intervistati a Verissimo: 'Dolorosi attacchi social a noi e a chi ci aiuta, umiliati dalle intercettazioni pubblicate'. Il padre: 'Mai visto Sempio a casa mia'",
-      "image": null
-    },
-    {
       "title": "Addio alla femminista Nunni Miolli, sopravvissuta all’assalto fascista contro Radio Città Futura",
       "link": "https://www.repubblica.it/cronaca/2026/10/04/news/addio_alla_femminista_nunni_miolli_sopravvissuta_all_assalto_fascista_contro_radio_citta_futura-425625472/",
       "source": "Repubblica",
       "pubDate": "2026-10-04T16:41:25.000Z",
-      "excerpt": "Aveva cento anni. Fondò a Roma il famoso Collettivo casalinghe. Il 9 gennaio del 1979 mentre Nunni e le sue compagne parlavano alla radio furono assalite da un commando. Dopo anni di silenzio Nunni aveva raccontato la su",
+      "excerpt": "Avrebbe compiuto cento anni tra due mesi. Fondò a Roma il famoso Collettivo casalinghe. Il 9 gennaio del 1979 mentre Nunni e le sue compagne parlavano alla radio furono assalite da un commando guidato da Giusva Fioravant",
       "image": null
     },
     {
@@ -627,51 +683,11 @@
       "image": null
     },
     {
-      "title": "Garlasco, i Poggi in tv: “Fino a quando ci saranno le sentenze, il colpevole per noi resta Stasi”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/04/news/garlasco_poggi_intervista_verissimo_stasi_colpevole-425625405/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T15:37:37.000Z",
-      "excerpt": "Lo dicono i genitori di Chiara in un’intervista a Verissimo. “Ci sono stati cinque processi, ci sono stati ricorsi: se la giustizia non dirà un altro nome, non cambieremo posizione”",
-      "image": null
-    },
-    {
-      "title": "Europei, Evenepoel batte Ciccone al fotofinish. Scaroni 3°. Tra le juniores oro per Azzurra Ballan",
-      "link": "https://www.repubblica.it/sport/ciclismo/2026/10/04/news/evenepoel_batte_ciccone_fotofinish_scaroni_bronzo_europei_azzurra_ballan_oro_juniores-425625388/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T15:19:28.000Z",
-      "excerpt": "Finale incredibile in Slovenia: i due attaccano in salita e arrivano a giocarsi l’oro in volata. Dubbi in casa Italia sul verdetto",
-      "image": null
-    },
-    {
-      "title": "Zverev perde con Djokovic a Pechino, Sinner allunga il suo periodo da numero 1",
-      "link": "https://www.repubblica.it/sport/tennis/2026/10/04/news/zverev_djokovic_pechino_sconfitta-425625335/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T13:54:09.000Z",
-      "excerpt": "Il tedesco vincendo questo 500 e poi il Masters 1000 di Shanghai avrebbe tolto la vetta della classifica all’azzurro",
-      "image": null
-    },
-    {
-      "title": "Tenta di uccidere la compagna, lei scappa dai vicini con la bimba e si salva",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/tenta-di-uccidere-compagna-lei-scappa-dai-vicini-con-la-bimba-e-si-salva_ad11c40c-eee0-438a-a194-a23b73d8cc10.html",
+      "title": "La nuova mania del tycoon, 'l'ora legale per giocare a golf'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/la-nuova-mania-del-tycoon-lora-legale-per-giocare-a-golf_215ed2c8-cbe8-46f7-9686-dc23451b34b4.html",
       "source": "ANSA",
-      "pubDate": "2026-10-04T13:45:15.000Z",
-      "excerpt": "I vicini: 'Abbiamo sentito le urla, e poi un tonfo'",
-      "image": null
-    },
-    {
-      "title": "Brasile, 160 milioni alle urne. Lula e Bolsonaro hanno votato: in gioco il futuro del Sudamerica",
-      "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_lula_e_bolsonaro_per_cosa_si_vota-425625309/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T13:12:31.000Z",
-      "excerpt": "Il voto è obbligatorio e si svolge in modo totalmente elettronico. Risultati attesi oggi poco dopo le 22 italiane. Secondo i sondaggi il presidente in testa contro il candidato della destra, 45% a 40%. Altamente probabil",
-      "image": null
-    },
-    {
-      "title": "Tenta di strangolare la compagna: lei fugge con la bimba di un anno, lui si butta giù dal balcone",
-      "link": "https://torino.repubblica.it/cronaca/2026/10/04/news/violenza_donne_tentato_omicidio_suicidio_balcone_barriera_di_milano-425625284/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T12:53:38.000Z",
-      "excerpt": "È successo in Barriera di Milano. L’uomo si è gettato dal decimo piano",
+      "pubDate": "2026-10-04T15:37:31.000Z",
+      "excerpt": "La lobby dei club dietro la richiesta. Il presidente in pressing sul Congresso",
       "image": null
     },
     {
@@ -691,31 +707,55 @@
       "image": null
     },
     {
-      "title": "Arriva da Israele 'il contro documentario' in risposta a Naza",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/03/arriva-da-israele-il-contro-documentario-in-risposta-a-naza_e92ee824-ac82-44b7-8156-1f1d379bd127.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-03T14:55:28.000Z",
-      "excerpt": "Si intitola Naza: The real story e vuole confutare il film premiato a Venezia",
-      "image": null
-    },
-    {
       "title": "I robot umanoidi hanno nuove mani che possono usare come gli uomini",
       "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/10/02/i-robot-umanoidi-hanno-nuove-mani-che-possono-usare-come-gli_7ace3e33-b9f3-4f51-a125-deb3aaea4459.html",
       "source": "ANSA",
       "pubDate": "2026-10-02T12:49:45.000Z",
       "excerpt": "Atlas di Boston Dynamics può maneggiare gli utensili grazie a sensori tattili",
       "image": null
-    },
-    {
-      "title": "Il Cinnamon bun, la girella alla cannella che fa impazzire gli svedesi (e non solo)",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/09/29/il-cinnamon-bun-la-girella-alla-cannella-che-fa-impazzire-gli-svedesi-e-non_c2ec0206-751a-4ca0-9c86-16a5075a5deb.html",
-      "source": "ANSA",
-      "pubDate": "2026-09-30T09:55:16.000Z",
-      "excerpt": "Il 4 ottobre festa per il dolce che è parte della tradizione del paese",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: Portogallo fa 4 su 4, battuta anche la Norvegia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/04/nations-league-portogallo-fa-4-su-4-battuta-anche-la-norvegia_ec667bc8-3f07-4447-a74c-51f951dc698f.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-04T20:51:29.000Z",
+      "excerpt": "Vincono Olanda e Danimarca, Germania fermata sullo 0-0 in casa della Grecia",
+      "image": null
+    },
+    {
+      "title": "U.21: azzurri all'esame Polonia, Baldini: 'Comunque vada sono ragazzi speciali'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/u.21-azzurri-allesame-polonia-baldini-comunque-vada-sono-ragazzi-speciali_a95ac990-553e-4edc-8b15-12f19d97a580.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-04T18:29:05.000Z",
+      "excerpt": "L'Italia deve vincere. Il tecnico: 'Spero percepiscano la magia dello stadio di Pescara'",
+      "image": null
+    },
+    {
+      "title": "Figc: ecco i contropareri di Malago', e' battaglia sul voto al Coni",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/figc-ecco-i-contropareri-di-malago-e-battaglia-sul-voto-al-coni_5b2ded58-7b59-46c2-970f-e90906ea8122.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-04T18:26:53.000Z",
+      "excerpt": "Polemiche sempre alte in vista della Giunta di martedì sul commissariamento",
+      "image": null
+    },
+    {
+      "title": "Italia quarta partita in Nations, Mancini: 'Con la Turchia chiudiamo in bellezza'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/italia-quarta-partita-in-nations-mancini-con-la-turchia-chiudiamo-in-bellezza_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-04T18:24:54.000Z",
+      "excerpt": "Kean torna a casa, ct si prepara a un turn over piu' ampio",
+      "image": null
+    },
+    {
+      "title": "Gattuso, dopo Bosnia-Italia ho fatto fatica ad addormentarmi per mesi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/04/gattuso-dopo-bosnia-italia-ho-fatto-fatica-ad-addormentarmi-per-mesi_3c73e6f8-8788-4bfb-a534-af44f98dc787.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-04T18:01:18.000Z",
+      "excerpt": "\"Rimangono le cose buone che abbiamo fatto. Bastoni? L'ho ringraziato\"",
+      "image": null
+    },
     {
       "title": "Nations League: Mancini, domani dobbiamo chiudere in bellezza",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/04/nations-league-mancini-domani-dobbiamo-chiudere-in-bellezza_62f4d8f6-3586-428e-ba7b-5be804648b66.html",
@@ -738,46 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-04T17:00:44.000Z",
       "excerpt": "I cinque giuristi rispondono ai due quesiti del presidente della Federcalcio",
-      "image": null
-    },
-    {
-      "title": "Europei di ciclismo, Evenepoel beffa Ciccone allo sprint e succede a Pogacar ",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/04/europei-di-ciclismo-evenepoel-beffa-ciccone-allo-sprint-e-succede-a-pogacar_71642020-e6e4-4354-9e13-5c8077f47e30.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-04T16:53:46.000Z",
-      "excerpt": "Il nome del vincitore solo al fotofinish, sul podio anche l'altro azzurro Scaroni",
-      "image": null
-    },
-    {
-      "title": "Tennis: eterno Djokovic, batte Zverev e si regala la semifinale a Pechino ",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/04/tennis-riecco-djokovic-batte-zverev-e-va-in-semifinale-a-pechino_67e6b4b3-ad57-479d-8594-293cc5fb939c.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-04T15:24:24.000Z",
-      "excerpt": "\"Io ancora qui che sudo e faccio faticare i giovani\". Ora affronta Medvedev",
-      "image": null
-    },
-    {
-      "title": "Serie A: Nove gare in un mese, Roma ha più insidie dell'Inter",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/serie-a-nove-gare-in-un-mese-roma-ha-piu-insidie-dellinter_c9f6aa12-07c1-410b-8842-eab9bfb1ef91.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-04T15:10:02.000Z",
-      "excerpt": "Calendario duro per il Napoli, più facile per Milan e Atalanta. Otto big match",
-      "image": null
-    },
-    {
-      "title": "Atletica paralimpica,a Jesolo assegnati titoli Campionati Società e Coppa Italia Lanci",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/04/atletica-paralimpicaa-jesolo-assegnati-titoli-campionati-societa-e-coppa-italia-lanci_2fe06172-d067-4ecc-8be6-38717271d82b.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-04T14:38:25.000Z",
-      "excerpt": "Record del mondo per Calcagni negli 800 T72",
-      "image": null
-    },
-    {
-      "title": "Nba Europe al bivio, martedì l'incontro con Eurolega sul progetto Usa",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/nba-europe-al-bivio-martedi-lincontro-con-eurolega-sul-progetto-usa_97bc16fd-9405-453d-8c5a-7205ea3965f0.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-04T14:01:30.000Z",
-      "excerpt": "Tra dubbi e piani alternativi, a Cernobbio si decide: alleati o avversari",
       "image": null
     }
   ]
