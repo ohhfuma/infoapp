@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-04T21:17:55.658Z",
+  "lastUpdated": "2026-10-04T21:47:30.288Z",
   "finanza": {
     "italia": [
+      {
+        "title": "13 idee long ad alta convinzione e basate su catalizzatori per il 4° trimestre 2026",
+        "link": "https://it.investing.com/news/stock-market-news/13-idee-long-ad-alta-convinzione-e-basate-su-catalizzatori-per-il-4-trimestre-2026-3573279",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-04T21:17:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_L.jpg"
+      },
       {
         "title": "Un ex ricercatore di Anthropic testimonia all’udienza del Consiglio di NYC sull’IA",
         "link": "https://it.investing.com/news/stock-market-news/un-ex-ricercatore-di-anthropic-testimonia-alludienza-del-consiglio-di-nyc-sullia-3573275",
@@ -249,14 +257,6 @@
         "pubDate": "2026-10-04T02:12:05.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEC030H2_M.jpg"
-      },
-      {
-        "title": "Come si confronta Muse di Meta con Dots di OpenAI",
-        "link": "https://it.investing.com/news/stock-market-news/come-si-confronta-muse-di-meta-con-dots-di-openai-3573217",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-03T22:24:00.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg"
       }
     ],
     "europa": [
@@ -392,18 +392,18 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Elezioni in Brasile, i risultati: Bolsonaro al 51%, ma lo spoglio è all'inizio",
+        "title": "Elezioni in Brasile, i risultati: Bolsonaro oltre il 50%, Lula nettamente indietro",
         "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T21:07:12.000Z",
-        "excerpt": "Quasi 159 milioni di brasiliani sono stati chiamati alle urne per scegliere tra il presidente uscente Lula e il figlio del leader della destra Jair",
+        "pubDate": "2026-10-04T21:45:37.000Z",
+        "excerpt": "Possibile la vittoria al primo turno, ma in ogni caso i risultati sono una sorpresa: Lula era favorito al primo turno invece si trova a inseguire. Quasi 159 milioni di brasiliani sono stati chiamati alle urne per sceglie",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/224204688-9f501a33-3dcc-4ef0-ab51-23fb6b19e0b9.jpg"
       },
       {
         "title": "Russia, ricercatrice di un istituto anti-peste muore per una polmonite: il timore di un incidente in laboratorio",
         "link": "https://www.repubblica.it/esteri/2026/10/04/news/russia_ricercatrice_di_un_istituto_anti-peste_muore_per_una_polmonite_il_timore_di_un_incidente_in_laboratorio-425625840/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T21:00:17.000Z",
+        "pubDate": "2026-10-04T21:22:41.000Z",
         "excerpt": "Media locali ipotizzano un'esposizione accidentale al batterio della peste, ma le autorità russe parlano di una “polmonite di origine sconosciuta”. Circa 200 persone sono sotto osservazione. La Casa Bianca monitora",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/211743260-49b2c37a-5592-453b-b73f-b55688a1a1df.jpg"
       },
@@ -587,11 +587,11 @@
   },
   "attualita": [
     {
-      "title": "Elezioni in Brasile, risultati: Bolsonaro vicino al 50% con i primi dati, ma lo spoglio è all'inizio",
+      "title": "Elezioni in Brasile, Bolsonaro ora è oltre il 50%. Indietro lo spoglio dove Lula era favorito",
       "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/",
       "source": "Repubblica",
       "pubDate": "2026-10-04T20:42:14.000Z",
-      "excerpt": "Si tratta di dati preliminari relativi ad appena l'1,70% delle schede scrutinate",
+      "excerpt": "Quasi 159 milioni di brasiliani sono stati chiamati alle urne per scegliere tra il presidente uscente Lula e il figlio del leader della destra Jair",
       "image": null
     },
     {
@@ -611,19 +611,19 @@
       "image": null
     },
     {
+      "title": "Pressing dei socialisti sul voto, Sanchez tira le somme ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/il-psoe-spinge-sanchez-al-voto-proteste-per-la-casa-unopportunita_0f102696-6238-428d-bf07-dcb94b23dee9.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-04T19:03:15.000Z",
+      "excerpt": "Giornata di consultazioni per il premier, deve scegliere tra 3 scenari",
+      "image": null
+    },
+    {
       "title": "Roberto Benigni: “San Francesco è stato il primo nella storia a condannare la guerra”",
       "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/10/04/news/roberto_benigni_san_francesco_condanna_guerra_cantico_delle_creature-425625698/",
       "source": "Repubblica",
       "pubDate": "2026-10-04T18:43:10.000Z",
       "excerpt": "Il comico: “È l’uomo delle prime volte, ha inventato la diplomazia”. E sulle donne: “Gli uomini hanno paura della vita”",
-      "image": null
-    },
-    {
-      "title": "Tenta di uccidere la compagna, salva perché creduta morta",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/tenta-di-uccidere-la-compagna-poi-si-suicida-dopo-averle-fatto-perdere-i-sensi_ad11c40c-eee0-438a-a194-a23b73d8cc10.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-04T18:37:00.000Z",
-      "excerpt": "L'aggressione davanti alla bimba di un anno. L'uomo si è suicidato lanciandosi dal balcone",
       "image": null
     },
     {
@@ -643,11 +643,11 @@
       "image": null
     },
     {
-      "title": "Garlasco, i genitori di Chiara: 'Se ci sarà un nuovo colpevole ne prenderemo atto'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/garlasco-genitori-di-chiara-poggi-prenderemo-atto-se-la-giustizia-dara-un-altro-colpevole_ebee0c95-ada8-4f77-9669-bc60564a79ed.html",
+      "title": "L'appello di Renzi ai centristi e ai riformisti di Fi, 'venite con noi'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/04/renzi-appello-a-centristi-e-ai-riformisti-di-forza-italia-venite-con-noi_c456b782-516c-4c5e-b706-17e902aa68bd.html",
       "source": "ANSA",
-      "pubDate": "2026-10-04T18:03:56.000Z",
-      "excerpt": "'Basta circo mediatico, dopo 19 anni nostra figlia ha il diritto di riposare in pace'",
+      "pubDate": "2026-10-04T17:58:26.000Z",
+      "excerpt": "Si chiude la Leopolda. A Conte: 'Chiedo io garanzie, mai più con Trump'",
       "image": null
     },
     {
