@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-05T02:43:12.574Z",
+  "lastUpdated": "2026-10-05T03:09:38.490Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Le azioni asiatiche salgono dopo i dati deboli sul lavoro USA",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-asiatiche-salgono-dopo-i-dati-deboli-sul-lavoro-usa-3573299",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T02:36:29.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA7B05U_M.jpg"
+      },
       {
         "title": "Fino a 35 punti percentuali di vantaggio: le nostre strategie AI battono il mercato",
         "link": "https://it.investing.com/news/stock-market-news/fino-a-35-punti-percentuali-di-vantaggio-le-nostre-strategie-ai-battono-il-mercato-3573297",
@@ -89,14 +97,6 @@
         "pubDate": "2026-10-04T20:28:14.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEA890W0_M.jpg"
-      },
-      {
-        "title": "Delfin porterà l’intera quota del 17,6% in MPS nell’OPA di Intesa",
-        "link": "https://it.investing.com/news/stock-market-news/delfin-portera-lintera-quota-del-176-in-mps-nellopa-di-intesa-3573272",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-04T20:17:27.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
       },
       {
         "title": "Offerta su Mps, la holding Delfin con Intesa: consegnerà la sua quota e voterà contro Lovaglio",
@@ -389,7 +389,72 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
       }
     ],
-    "usa": [],
+    "usa": [
+      {
+        "title": "I prezzi del petrolio scendono mentre le esportazioni del Medio Oriente si riprendono, il G7 tocca le scorte di emergenza",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-middle-east-exports-recoverg7-taps-emergency-stocks-4930986",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-05T02:03:06.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEK4N0FY_L.jpg"
+      },
+      {
+        "title": "L'OPEC+ si impegna a mantenere stabili gli obiettivi di produzione petrolifera di novembre",
+        "link": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-05T02:00:52.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9304G_L.jpg"
+      },
+      {
+        "title": "Musk dice a SpaceX di cambiare nome in \"SpaceXSI\"",
+        "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-to-change-name-to-spacexsi-4930945",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-04T17:43:26.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM6M02C_L.jpg"
+      },
+      {
+        "title": "L'intelligenza artificiale sta accelerando l'energia pulita o il petrolio e il gas?",
+        "link": "https://www.investing.com/news/general-news/is-ai-accelerating-clean-energy-or-oil-and-gas-4930930",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-04T12:39:07.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM7H0WP_L.jpg"
+      },
+      {
+        "title": "Perché l'e-Commerce ha accelerato e chi sta guadagnando?",
+        "link": "https://www.investing.com/news/stock-market-news/why-has-ecommerce-accelerated-and-who-is-gaining-4930926",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-04T11:07:13.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
+      },
+      {
+        "title": "Gli agenti di intelligenza artificiale stanno rimodellando i viaggi online. Chi vince e chi perde?",
+        "link": "https://www.investing.com/news/general-news/ai-agents-are-reshaping-online-travel-who-wins-and-who-loses-4930917",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-04T09:21:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM54006_L.jpg"
+      },
+      {
+        "title": "Citi spiega perché le scorte di prodotti per la casa sono in ritardo nel 2026",
+        "link": "https://www.investing.com/news/stock-market-news/citi-explains-why-home-improvement-stocks-are-lagging-in-2026-4930904",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-04T04:37:33.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEH6S104-ORUBS_L.jpg"
+      },
+      {
+        "title": "Come Muse si accumula rispetto a OpenAI Dots",
+        "link": "https://www.investing.com/news/stock-market-news/how-muse-stacks-up-vs-openai-dots-4930890",
+        "source": "Investing.com USA",
+        "pubDate": "2026-10-03T22:24:00.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM8S0SY_L.jpg"
+      }
+    ],
     "mondo": [
       {
         "title": "I prezzi del petrolio scendono mentre le esportazioni del Medio Oriente si riprendono, il G7 tocca le scorte di emergenza",
@@ -587,6 +652,14 @@
   },
   "attualita": [
     {
+      "title": "Valeria Bruni Tedeschi: “Ho cambiato idea: se Hollywood chiama, ora rispondo”",
+      "link": "https://www.repubblica.it/spettacoli/cinema/2026/10/05/news/valeria_bruni_tedeschi_estranea_paolo_strippoli_intervista-425625382/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T03:00:00.000Z",
+      "excerpt": "L’attrice è protagonista de “L’estranea” il film di Paolo Strippoli che l’Italia ha scelto per la corsa agli Oscar",
+      "image": null
+    },
+    {
       "title": "Bolsonaro avanti su Lula, 47% contro il 45%, il 25 ottobre ci sarà il ballottaggio",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/bolsonaro-avanti-su-lula-47-contro-il-45-il-25-ottobre-ci-sara-il-ballottaggio_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
       "source": "ANSA",
@@ -648,14 +721,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-04T23:00:00.000Z",
       "excerpt": "Per il politologo l’errore è aver sposato le classi sociali medio-alte: “Muratori e idraulici oggi votano a destra”",
-      "image": null
-    },
-    {
-      "title": "“Ferroviere da vent’anni, guadagno più di prima eppure oggi vivo peggio”",
-      "link": "https://www.repubblica.it/cronaca/2026/10/05/news/piccoli_salari_ferroviere_guadagno_inflazione_udine-425625837/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T23:00:00.000Z",
-      "excerpt": "Decima e ultima puntata della serie “Piccoli salari”. Antonio Pittelli, 46 anni, è capotreno e ha una moglie e due figlie: “Anche se prendevo 400 euro meno di adesso, allora il potere d’acquisto era più alto”",
       "image": null
     },
     {
