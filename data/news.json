@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-10-05T03:09:38.490Z",
+  "lastUpdated": "2026-10-05T03:44:27.918Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Le azioni Nippon Paint salgono con l’accordo da 1,35 miliardi per i marchi Akzo",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-nippon-paint-salgono-con-laccordo-da-135-miliardi-per-i-marchi-akzo-3573300",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T03:04:15.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg"
+      },
+      {
+        "title": "Acconto Irpef di novembre, come evitare il salasso se i redditi sono scesi",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/10/05/news/account_irpef_novembre_come_evitare_salasso-425625474/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T03:00:00.000Z",
+        "excerpt": "Il Fisco calcola l’acconto sulla base di quanto guadagnato l’anno precedente. In caso però questo sia stato inferiore, o siano salite le spese, si può chiedere al datore di lavoro di pagare di meno. Ma se alla fine il co",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/184127712-6ccf111f-50fd-4bd7-91ed-a7426b5c8a40.jpg"
+      },
+      {
+        "title": "Garanzia oltre i due anni, arriva la nuova etichetta europea: cosa protegge e come funziona",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/garanzia_due_anni_consumatori_etichetta_ue-425625510/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T03:00:00.000Z",
+        "excerpt": "Si chiama Eu Garan e dal 27 settembre contrassegna i prodotti che alla protezione legale di due anni ne aggiunge una (a discrezione del produttore) di maggior durata",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/190123188-9a4d8fdc-f0af-46bb-8d7d-569d1ae2c470.jpg"
+      },
       {
         "title": "Le azioni asiatiche salgono dopo i dati deboli sul lavoro USA",
         "link": "https://it.investing.com/news/stock-market-news/le-azioni-asiatiche-salgono-dopo-i-dati-deboli-sul-lavoro-usa-3573299",
@@ -91,14 +115,6 @@
         "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
       },
       {
-        "title": "Schneider Electric vicina a un accordo da $20 mld per PTC",
-        "link": "https://it.investing.com/news/stock-market-news/schneider-electric-vicina-a-un-accordo-da-20-mld-per-ptc-3573273",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-04T20:28:14.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA890W0_M.jpg"
-      },
-      {
         "title": "Offerta su Mps, la holding Delfin con Intesa: consegnerà la sua quota e voterà contro Lovaglio",
         "link": "https://www.repubblica.it/economia/2026/10/04/news/offerta_su_mps_dopo_il_rilancio_di_messina_anche_delfin_va_verso_l_ok_a_intesa-425625904/?rss",
         "source": "Repubblica Economia",
@@ -137,14 +153,6 @@
         "pubDate": "2026-10-04T18:56:16.000Z",
         "excerpt": "Il board della holding si è riunito dopo l'annuncio di Ca' de Sass",
         "image": null
-      },
-      {
-        "title": "Anthropic, assegno da 100 milioni per formare 10 mila ingegneri. Claude mette un piede nelle aziende",
-        "link": "https://www.repubblica.it/economia/2026/10/04/news/anthropic_assegno_da_100_milioni_per_formare_10_mila_ingegneri_claude_mette_un_piede_nelle_aziende-425625420/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-04T18:07:31.000Z",
-        "excerpt": "Il big dell’IA lancia un’Accademia che punta su progetti reali e applicazioni operative. I professionisti – in teoria anche italiani – sono candidati dalle proprie imprese, partner del colosso dell’intelligenza artificia",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/174732378-fde3134f-c4ce-40b3-99bb-4552fee6a63b.jpg"
       },
       {
         "title": "Mps, Delfin schierata con Intesa Sanpaolo",
@@ -201,14 +209,6 @@
         "pubDate": "2026-10-04T15:02:55.000Z",
         "excerpt": "SoloAffitti sulla fragilità dell'abitare, crediti non incassati per il 74% dei proprietari",
         "image": null
-      },
-      {
-        "title": "Berlino si gioca la casa con una sindaca radicale",
-        "link": "https://www.repubblica.it/economia/2026/10/04/news/berlino_si_gioca_la_casa-425622029/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-04T15:00:00.000Z",
-        "excerpt": "La leader della Linke, Elif Eralp, ha vinto l e elezioni e potrebbe diventare la prima sindaca della sinistra radicale. Proponendo gli espropri",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/172710483-140fe0a4-05f2-4030-abf7-d37e86f4130a.jpg"
       },
       {
         "title": "Renzi chiude la Leopolda e lancia l’appello ai riformisti di Forza Italia. Tajani: il centro siamo noi",
@@ -457,6 +457,14 @@
     ],
     "mondo": [
       {
+        "title": "Doppio attacco russo su Kharkiv con missili Banderol, un morto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/doppio-attacco-russo-su-kharkiv-con-missili-banderol-un-morto_34346129-cdff-4a84-bd71-615ca2ea8bb7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-05T03:27:06.000Z",
+        "excerpt": "Colpita una infrastruttura energetica nella regione di Poltava, 22 mila senza elettricità",
+        "image": null
+      },
+      {
         "title": "I prezzi del petrolio scendono mentre le esportazioni del Medio Oriente si riprendono, il G7 tocca le scorte di emergenza",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-middle-east-exports-recoverg7-taps-emergency-stocks-4930986",
         "source": "Investing.com Commodities",
@@ -511,14 +519,6 @@
         "pubDate": "2026-10-05T00:38:40.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM93078_L.jpg"
-      },
-      {
-        "title": "Doppio attacco russo su Kharkiv con missili Banderol, un morto",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/doppio-attacco-russo-su-kharkiv-con-missili-banderol-un-morto_34346129-cdff-4a84-bd71-615ca2ea8bb7.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-04T23:15:51.000Z",
-        "excerpt": "Colpita una infrastruttura energetica nella regione di Poltava, 22 mila senza elettricità",
-        "image": null
       },
       {
         "title": "Sánchez pronto alle elezioni cavalcando la piazza. La sfida alla destra spagnola",
@@ -652,6 +652,22 @@
   },
   "attualita": [
     {
+      "title": "Doppio attacco russo su Kharkiv con missili Banderol, un morto",
+      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/doppio-attacco-russo-su-kharkiv-con-missili-banderol-un-morto_34346129-cdff-4a84-bd71-615ca2ea8bb7.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T03:27:06.000Z",
+      "excerpt": "Colpita una infrastruttura energetica nella regione di Poltava, 22 mila senza elettricità",
+      "image": null
+    },
+    {
+      "title": "I devoti del calcio",
+      "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/10/05/news/i_devoti_del_calcio-425626071/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T03:11:16.000Z",
+      "excerpt": "Fulvio Paglialunga firma un saggio narrativo sul tifo come appartenenza: riti, santi e reliquie del pallone, dal Brasile a Taranto",
+      "image": null
+    },
+    {
       "title": "Valeria Bruni Tedeschi: “Ho cambiato idea: se Hollywood chiama, ora rispondo”",
       "link": "https://www.repubblica.it/spettacoli/cinema/2026/10/05/news/valeria_bruni_tedeschi_estranea_paolo_strippoli_intervista-425625382/",
       "source": "Repubblica",
@@ -716,27 +732,11 @@
       "image": null
     },
     {
-      "title": "Mounk: “La sinistra superi il welfare state e riparta dai lavoratori impoveriti”",
-      "link": "https://www.repubblica.it/politica/2026/10/05/news/mounk_sinistra_welfare_state_intervista-425625924/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T23:00:00.000Z",
-      "excerpt": "Per il politologo l’errore è aver sposato le classi sociali medio-alte: “Muratori e idraulici oggi votano a destra”",
-      "image": null
-    },
-    {
       "title": "Pressing del Psoe e del governo, Sanchez verso il voto anticipato",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/pressing-del-psoe-e-del-governo-sanchez-verso-il-voto-anticipato_0f102696-6238-428d-bf07-dcb94b23dee9.html",
       "source": "ANSA",
       "pubDate": "2026-10-04T21:30:05.000Z",
       "excerpt": "Giornata di consultazioni per il premier, mentre si delineano i principali scenari",
-      "image": null
-    },
-    {
-      "title": "Ucraina: Merz a sorpresa a Kiev sotto le bombe, 'Putin fermi la guerra' ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/ucraina-merz-a-sorpresa-a-kiev-sotto-le-bombe-putin-fermi-la-guerra_150970cb-bce6-4ca9-a327-1f55553bc772.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-04T21:28:49.000Z",
-      "excerpt": "Mosca colpisce ancora il ponte nord. Zelensky: 'Gli Usa chiedono trilaterale entro ottobre'",
       "image": null
     },
     {
@@ -782,11 +782,11 @@
   ],
   "sport": [
     {
-      "title": "'Cristiano Ronaldo puo' tornare nella nazionale, se vuole'",
+      "title": "Il tecnico del Portogallo: 'Cristiano Ronaldo può tornare nella nazionale, se vuole'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/cristiano-ronaldo-puo-tornare-nella-nazionale-se-vuole_563e7f7e-2498-4637-bf17-f58ee776c0f1.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-04T22:55:43.000Z",
-      "excerpt": "Commissario tecnico: 'Pronto ad un confronto prima della partita ma sarà lui a decidere'",
+      "pubDate": "2026-10-05T03:30:17.000Z",
+      "excerpt": "'Pronto ad un confronto prima della partita ma sarà lui a decidere'",
       "image": null
     },
     {
