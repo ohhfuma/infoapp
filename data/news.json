@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-05T02:07:48.179Z",
+  "lastUpdated": "2026-10-05T02:43:12.574Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Fino a 35 punti percentuali di vantaggio: le nostre strategie AI battono il mercato",
+        "link": "https://it.investing.com/news/stock-market-news/fino-a-35-punti-percentuali-di-vantaggio-le-nostre-strategie-ai-battono-il-mercato-3573297",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T02:26:30.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB3R08Z_M.jpg"
+      },
       {
         "title": "Lo spread torna a salire e fa cadere l’unico successo rivendicato dalla Melonomics",
         "link": "https://www.repubblica.it/economia/rubriche/circo-massimo/2026/10/05/news/lo_spread_torna_a_salire_e_fa_cadere_l_unico_successo_rivendicato_dalla_melonomics-425621760/?rss",
@@ -113,14 +121,6 @@
         "pubDate": "2026-10-04T19:23:30.000Z",
         "excerpt": "Il professore di Geografia economica: “Quello che vediamo in Spagna presto sarà chiaro anche in Italia. Costruire nuove case non è la soluzione, bisogna regolare il mercato per portare sul mercato residenziale quelle che",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/212318274-acd1a682-9127-49d2-adda-5fa3e2a5c771.jpg"
-      },
-      {
-        "title": "AkzoNobel vicina alla vendita della divisione vernici nel Sud-Est asiatico a Nippon Paint",
-        "link": "https://it.investing.com/news/stock-market-news/akzonobel-vicina-alla-vendita-della-divisione-vernici-nel-sudest-asiatico-a-nippon-paint-3573269",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-04T19:22:11.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED3I0B5_M.jpg"
       },
       {
         "title": "La lente del mercato sull'affondo di Intesa Sanpaolo su Mps",
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "I prezzi del petrolio scendono mentre le esportazioni del Medio Oriente si riprendono, il G7 tocca le scorte di emergenza",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-middle-east-exports-recoverg7-taps-emergency-stocks-4930986",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T02:03:06.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEK4N0FY_L.jpg"
+      },
+      {
+        "title": "L'OPEC+ si impegna a mantenere stabili gli obiettivi di produzione petrolifera di novembre",
+        "link": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T02:00:52.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9304G_L.jpg"
+      },
+      {
         "title": "Le esportazioni di petrolio greggio del Medio Oriente superano i livelli prebellici, ma aumentano gli attacchi alle petroliere",
         "link": "https://www.investing.com/news/commodities-news/middle-east-crude-oil-exports-exceed-prewar-levels-but-tanker-attacks-increase-4930981",
         "source": "Investing.com Commodities",
@@ -406,14 +422,6 @@
         "pubDate": "2026-10-05T01:16:10.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/Gold_800x533_L_1778184938.jpg"
-      },
-      {
-        "title": "L'OPEC+ si impegna a mantenere stabili gli obiettivi di produzione petrolifera di novembre",
-        "link": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T01:07:34.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9304G_L.jpg"
       },
       {
         "title": "Il governo yemenita lancia un'offensiva per conquistare tutte le aree degli Houthi sostenuti dall'Iran",
@@ -544,14 +552,6 @@
         "image": null
       },
       {
-        "title": "La sinistra e i nazionalisti guidano le elezioni per la presidenza tripartita della Bosnia",
-        "link": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-04T20:30:30.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9302W_L.jpg"
-      },
-      {
         "title": "Si dimette il ministro del petrolio iraniano",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/si-dimette-il-ministro-del-petrolio-iraniano_262d2f70-7cf5-48d6-ac5d-5e219a76cd56.html",
         "source": "ANSA Mondo",
@@ -590,7 +590,7 @@
       "title": "Bolsonaro avanti su Lula, 47% contro il 45%, il 25 ottobre ci sarà il ballottaggio",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/bolsonaro-avanti-su-lula-47-contro-il-45-il-25-ottobre-ci-sara-il-ballottaggio_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
       "source": "ANSA",
-      "pubDate": "2026-10-05T01:27:29.000Z",
+      "pubDate": "2026-10-05T02:15:50.000Z",
       "excerpt": "Il Partito liberale (Pl), principale forza del campo bolsonarista, si avvia a essere protagonista del rinnovato Senato brasiliano",
       "image": null
     },
