@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-10-05T10:42:55.461Z",
+  "lastUpdated": "2026-10-05T11:09:40.477Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Deutsche Bank, Trentini nuovo Chief Risk Officer Italy",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/deutsche-bank-trentini-nuovo-chief-risk-officer-italy_6bc6995c-0353-4fa9-8d80-4024996697fe.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T10:50:45.000Z",
+        "excerpt": "Entra nel Consiglio di Gestione di Deutsche Bank SpA",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Zentalis Pharmaceuticals è salito del 4% oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-zentalis-pharmaceuticals-e-salito-del-4-oggi-93CH-3573982",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T10:49:17.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      },
+      {
+        "title": "Goldman rialzista su Stagwell, cauta su Havas per le prospettive di crescita",
+        "link": "https://it.investing.com/news/stock-market-news/goldman-rialzista-su-stagwell-cauta-su-havas-per-le-prospettive-di-crescita-3573980",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T10:47:43.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
+      },
+      {
+        "title": "Perché il titolo di Leslie’s crolla di oltre il 20% oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-leslies-crolla-di-oltre-il-20-oggi-93CH-3573968",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T10:46:59.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      },
+      {
+        "title": "TRex Bio presenta un’IPO da 8,33 milioni di azioni al Nasdaq",
+        "link": "https://it.investing.com/news/stock-market-news/trex-bio-presenta-unipo-da-833-milioni-di-azioni-al-nasdaq-432SI-3573967",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T10:46:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+      },
+      {
+        "title": "Il gas inverte la rotta e scende sotto i 75 euro sulla piazza Ttf di Amsterdam",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/il-gas-inverte-la-rotta-e-scende-sotto-i-75-euro-sulla-piazza-ttf-di-amsterdam_2d404732-404a-480d-912c-edb14dd54730.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T10:42:45.000Z",
+        "excerpt": "I contratti future sul mese di novembre cedono lo 0,4% a 74,45 euro al MWh",
+        "image": null
+      },
+      {
+        "title": "Il titolo di Intel scivola mentre TSMC esplora un accordo con Terafab",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-intel-scivola-mentre-tsmc-esplora-un-accordo-con-terafab-3573953",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T10:40:04.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+      },
+      {
+        "title": "Piazza Affari in saldo: 8 titoli con oltre +45% di margine al rialzo",
+        "link": "https://it.investing.com/news/stock-market-news/piazza-affari-in-saldo-8-titoli-con-oltre-45-di-margine-al-rialzo-3573952",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T10:39:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB950WI_M.jpg"
+      },
+      {
+        "title": "Stifel vede vincoli di offerta nell’AI prima degli utili tech del Q3",
+        "link": "https://it.investing.com/news/stock-market-news/stifel-vede-vincoli-di-offerta-nellai-prima-degli-utili-tech-del-q3-93CH-3573944",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T10:36:58.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg"
+      },
       {
         "title": "Verso la Manovra: dall’Istat a Giorgetti, le audizioni in programma in Parlamento",
         "link": "https://www.ilsole24ore.com/art/verso-manovra-dall-istat-giorgetti-audizioni-programma-parlamento-AJS4XWZB",
@@ -11,28 +83,12 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/Imagoeconomica_2447889-U70485553721Omw-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "SpaceX +10% e cambio di nome: il punto sui giganti da 1.000 miliardi",
-        "link": "https://it.investing.com/news/stock-market-news/spacex-10-e-cambio-di-nome-il-punto-sui-giganti-da-1000-miliardi-3573897",
+        "title": "BofA: il 44% dei fondi attivi large cap ha battuto i benchmark a settembre",
+        "link": "https://it.investing.com/news/stock-market-news/bofa-il-44-dei-fondi-attivi-large-cap-ha-battuto-i-benchmark-a-settembre-93CH-3573929",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T10:25:40.000Z",
+        "pubDate": "2026-10-05T10:32:36.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM6M02C_L.jpg"
-      },
-      {
-        "title": "CME Group lancerà i futures sul calcolo AI come nuova commodity",
-        "link": "https://it.investing.com/news/stock-market-news/cme-group-lancera-i-futures-sul-calcolo-ai-come-nuova-commodity-93CH-3573883",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T10:19:32.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg"
-      },
-      {
-        "title": "Carlsberg espande la partnership con PepsiCo in Georgia e Armenia",
-        "link": "https://it.investing.com/news/stock-market-news/carlsberg-espande-la-partnership-con-pepsico-in-georgia-e-armenia-93CH-3573881",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T10:16:46.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEE1C0VA_M.jpg"
+        "image": "https://content-media.investing.com/news/LisaSupresidentandCEOofAMD_800x533_L_1644852645.jpg"
       },
       {
         "title": "Borsa: Milano galleggia in parità, scivola Mediobanca, balza Unipol",
@@ -43,52 +99,12 @@
         "image": null
       },
       {
-        "title": "Morgan Stanley rialzista su Continental: margini pneumatici e ritorni di cassa in crescita",
-        "link": "https://it.investing.com/news/stock-market-news/morgan-stanley-rialzista-su-continental-margini-pneumatici-e-ritorni-di-cassa-in-crescita-3573858",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T10:08:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
-      },
-      {
         "title": "Urso, pronti a sostenere nuovo piano Electrolux con strumenti in manovra",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/urso-pronti-a-sostenere-nuovo-piano-electrolux-con-strumenti-in-manovra_e5ae6ebc-d55f-43d4-8296-049bbc6b252f.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-05T10:06:21.000Z",
         "excerpt": "'Anche straordinari'. Nuovo tavolo il 29 ottobre",
         "image": null
-      },
-      {
-        "title": "Perché il titolo di Group 1 Automotive è in calo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-group-1-automotive-e-in-calo-oggi-93CH-3573830",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T10:03:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_L.jpg"
-      },
-      {
-        "title": "Perché il titolo SVRN guadagna il 7% oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-svrn-guadagna-il-7-oggi-93CH-3573825",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T10:02:32.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
-      },
-      {
-        "title": "Perché il titolo XP sta salendo del 15% oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-xp-sta-salendo-del-15-oggi-93CH-3573824",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T10:02:04.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Perché il titolo Ryder System sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-ryder-system-sta-salendo-oggi-93CH-3573822",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T10:01:21.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
       },
       {
         "title": "Accordo illycaffè e Carabinieri per prevenire violenza contro donne",
@@ -131,28 +147,12 @@
         "image": null
       },
       {
-        "title": "Altimari (Bankitalia), anche oro soggetto a volatilità mercati e digitale",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/altimari-bankitalia-anche-oro-soggetto-a-volatilita-mercati-e-digitale_e8cadd1f-b6f0-4aed-abeb-0bf0dcbb1a6f.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T09:08:19.000Z",
-        "excerpt": "Vice dg, non fa eccezione a cambiamenti veloci e imprevedili",
-        "image": null
-      },
-      {
         "title": "Webuild sale al 18,9% del capitale di Trevi e rilancia: offerta in contanti per 5,165 euro",
         "link": "https://www.repubblica.it/economia/2026/10/05/news/webuild_offerta_trevi_rilancio_in_contanti-425626484/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-05T09:01:51.000Z",
         "excerpt": "È il prezzo pagato dal gruppo per i titoli della società di ingegneria romagnola acquisiti da altri azionisti. La cifra totale messa sul piatto è superiore a quella dell’Ops di Icop, ma inferiore al valore di mercato del",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/104308437-a5bad3f9-d1b2-4b39-bbc7-c25899e3715d.jpg"
-      },
-      {
-        "title": "L'indice Pmi dell'Eurozona sale a 53,1 punti, sui massimi da 41 mesi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/lindice-pmi-delleurozona-sale-a-531-punti-sui-massimi-da-41-mesi_66a14cbd-6f25-4513-b647-b89d178af8c4.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T08:52:54.000Z",
-        "excerpt": "In rialzo anche quelli di Germania, Francia e Spagna",
-        "image": null
       },
       {
         "title": "Istat, cala il potere di acquisto delle famiglie e aumenta la pressione fiscale",
@@ -457,6 +457,38 @@
     ],
     "mondo": [
       {
+        "title": "La ricostituzione delle scorte di greggio e carburante potrebbe richiedere due anni, afferma il CEO di Saudi Aramco",
+        "link": "https://www.investing.com/news/commodities-news/replenishing-crude-and-fuel-stocks-could-take-two-years-saudi-aramco-ceo-says-4931614",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T10:54:28.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM940L3_L.jpg"
+      },
+      {
+        "title": "Offerta mattutina: Francoprone",
+        "link": "https://www.investing.com/news/commodities-news/morning-bid-francoprone-4931561",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T10:49:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM940W7_L.jpg"
+      },
+      {
+        "title": "Astensione record in Brasile, il 21,08% non ha votato al primo turno",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/astensione-record-in-brasile-il-2108-non-ha-votato-al-primo-turno_115974e7-f2fb-484d-b738-4d01f900c493.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-05T10:46:37.000Z",
+        "excerpt": "Si tratta del livello più alto registrato dalle elezioni del 1998 (21,5%)",
+        "image": null
+      },
+      {
+        "title": "L'oro mantiene lo stato di riserva chiave nonostante l'aumento dei rendimenti obbligazionari, dicono i banchieri centrali",
+        "link": "https://www.investing.com/news/commodities-news/gold-retains-key-reserve-status-despite-surging-bond-yields-central-bankers-say-4931551",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T10:36:28.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM940UU_L.jpg"
+      },
+      {
         "title": "ConocoPhillips vede il prezzo del petrolio salire a $70 al barile, afferma il presidente",
         "link": "https://www.investing.com/news/commodities-news/conocophillips-sees-oil-price-floor-rising-to-70-a-barrel-chairman-says-4931490",
         "source": "Investing.com Commodities",
@@ -521,36 +553,12 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9403S_L.jpg"
       },
       {
-        "title": "Le forze governative yemenite si impadroniscono del distretto di Bab el-Mandeb, dicono fonti militari",
-        "link": "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T09:24:27.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM940GM_L.jpg"
-      },
-      {
-        "title": "Il governo yemenita lancia un'offensiva per conquistare tutte le aree degli Houthi sostenuti dall'Iran",
-        "link": "https://www.investing.com/news/commodities-news/head-of-yemens-presidential-council-announces-military-operations-to-retake-territory-4930932",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T09:13:49.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM930BH_L.jpg"
-      },
-      {
         "title": "La corsa delle superpotenze per portare reattori nucleari sulla Luna: sfida tra Usa e Russia-Cina",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/corsa_alla_luna_spazio_per_portare_reattori_nucleari_usa_russia_cina-425626530/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-05T09:07:10.000Z",
         "excerpt": "Washington punta al 2030. Mosca e Pechino ne stanno preparando uno per il 2036. Ma per gli scienziati affermano i rischi sono enormi",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/110640001-d9809f2e-f515-4051-83d0-f1e2fe2c23ae.jpg"
-      },
-      {
-        "title": "Il CEO di Aramco afferma che le scorte petrolifere globali sono \"scarsamente sottili\" tra i rischi di Hormuz",
-        "link": "https://www.investing.com/news/commodities-news/aramco-ceo-says-global-oil-stocks-are-scarily-thin-amid-hormuz-risks-93CH-4931270",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T08:44:06.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC7N12U_M.jpg"
       },
       {
         "title": "“Il sionismo è razzismo”: polemica per la mozione dei Verdi britannici. L’ira di Israele",
@@ -609,14 +617,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/090438328-b45f205c-223a-472c-877b-81ae934e7d15.jpg"
       },
       {
-        "title": "Brasile, l'ex giudice che condannò Lula eletto governatore",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/brasile-lex-giudice-che-condanno-lula-eletto-governatore_600834d9-5427-45d3-a224-ca560b8298b3.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T06:44:17.000Z",
-        "excerpt": "Sergio Moro guiderà l'esecutivo del suo stato natale, il Paranà",
-        "image": null
-      },
-      {
         "title": "Bolsonaro è un clan: 4 gli eletti. Occhi puntati su Michelle, paladina dei pentecostali",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/elezioni_brasile_michelle_bolsonaro_famiglia_eletti-425626113/?rss",
         "source": "Repubblica Esteri",
@@ -655,8 +655,8 @@
       "title": "Il Nobel per la Medicina a Deisseroth, Hegemann e Nagel",
       "link": "https://www.ansa.it/canale_scienza/notizie/ricerca_istituzioni/2026/10/05/il-nobel-per-la-medicina-a-deisseroth-hegemann-e-nagel_4532c5fb-2bed-4eb1-bfc9-0c596294f8f8.html",
       "source": "ANSA",
-      "pubDate": "2026-10-05T10:15:38.000Z",
-      "excerpt": "Hanno gettato le base dell'oprogenetica, la disciplina che combina genetica e ottica per studiare il comportamento delle cellule. Seguiranno gli altri premi scientifici: il 6 la Fisica e il 7 la Chimica",
+      "pubDate": "2026-10-05T10:47:57.000Z",
+      "excerpt": "Hanno gettato le base dell'optogenetica, la disciplina che combina genetica e ottica per studiare il comportamento delle cellule. Seguiranno gli altri premi scientifici: il 6 la Fisica e il 7 la Chimica",
       "image": null
     },
     {
@@ -676,11 +676,11 @@
       "image": null
     },
     {
-      "title": "Karl Deisseroth, Peter Hegemann e Georg Nagel i vincitori del Nobel per la Medicina 2026",
+      "title": "Nobel per la Medicina a Karl Deisseroth, Peter Hegemann e Georg Nagel sugli interruttori dei neuroni",
       "link": "https://www.repubblica.it/cronaca/2026/10/05/news/premio_nobel_medicina_2026_karl_deisseroth_peter_hegemann_georg_nagel-425626607/",
       "source": "Repubblica",
       "pubDate": "2026-10-05T09:34:37.000Z",
-      "excerpt": "Sono studiosi del cervello e si sono occupati di optogenetica. I premi sono arrivati alla 125esima edizione. L’anno scorso avevano vinto tre scienziati impegnati nello studio del sistema immunitario",
+      "excerpt": "Sono studiosi del cervello e si sono occupati di optogenetica, una tecnica che permette di accendere e spegnere i neuroni nelle cavie. I premi sono arrivati alla 125esima edizione",
       "image": null
     },
     {
@@ -782,6 +782,22 @@
   ],
   "sport": [
     {
+      "title": "Equitazione: torna a Roma il Longines Global Champions Tour, presenti 10 italiani",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/05/equitazione-torna-a-roma-il-longines-global-champions-tour-presenti-10-italiani_e4a5e822-f0e3-4009-afae-9371daa92bb5.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T10:53:06.000Z",
+      "excerpt": "Dal 9 all'11 ottobre i migliori binomi del mondo si sfidano nella Capitale",
+      "image": null
+    },
+    {
+      "title": "Tennis: Alcaraz rimonta Munar a Tokyo e torna in finale",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/05/tennis-alcaraz-rimonta-munar-a-tokyo-e-torna-in-finale_81b3e625-45ed-4ae4-9a46-8af2fd9b1409.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T10:51:08.000Z",
+      "excerpt": "Lo spagnolo sotto di un set di impone sul connazionale",
+      "image": null
+    },
+    {
       "title": "La filantropa e velista Wendy Schmidt torna in Barcolana",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/05/la-filantropa-e-velista-wendy-schmidt-torna-in-barcolana_757bc8d0-eea6-44c1-9489-1baa72395aa7.html",
       "source": "ANSA Sport",
@@ -827,22 +843,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-04T22:06:04.000Z",
       "excerpt": "\"La porta per lui é aperta, nella prossima finestra internazionale sarà convocato\"",
-      "image": null
-    },
-    {
-      "title": "U.21: azzurri all'esame Polonia, Baldini: 'Comunque vada sono ragazzi speciali'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/u.21-azzurri-allesame-polonia-baldini-comunque-vada-sono-ragazzi-speciali_a95ac990-553e-4edc-8b15-12f19d97a580.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-04T18:29:05.000Z",
-      "excerpt": "L'Italia deve vincere. Il tecnico: 'Spero percepiscano la magia dello stadio di Pescara'",
-      "image": null
-    },
-    {
-      "title": "Italia quarta partita in Nations, Mancini: 'Con la Turchia chiudiamo in bellezza'",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/italia-quarta-partita-in-nations-mancini-con-la-turchia-chiudiamo-in-bellezza_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-04T18:24:54.000Z",
-      "excerpt": "Kean torna a casa, ct si prepara a un turn over piu' ampio",
       "image": null
     }
   ]
