@@ -4,6 +4,30 @@
   "finanza": {
     "italia": [
       {
+        "title": "La Dama col liocorno di Raffaello in Brianza, le grandi opere dai musei al territorio",
+        "link": "https://www.ilsole24ore.com/art/la-dama-col-liocorno-raffaello-brianza-grandi-opere-musei-territorio-AJC6D3ZB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-05T18:05:00.000Z",
+        "excerpt": "Dal 29 ottobre all’11 dicembre visite gratuite tutti i giorni dalle ore 9.30 alle 19. Giuli: «Il patrimonio culturale acquisisce valore quando è accessibile a tutti»",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/muvc7sdhqrjbhs83x9g(1)-U08657726405RXC-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Perché il titolo di ACADIA Pharmaceuticals sale oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-acadia-pharmaceuticals-sale-oggi-93CH-3574983",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T17:51:01.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      },
+      {
+        "title": "La pressione del fisco sale al 43,5%, manovra a caccia di coperture",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/la-pressione-del-fisco-sale-al-435-manovra-a-caccia-di-coperture_31adbb47-c2df-4404-b116-80312bb4d811.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T17:43:56.000Z",
+        "excerpt": "Istat, giù il potere d'acquisto, migliora il deficit. Giorgetti in settimana a Bruxelles",
+        "image": null
+      },
+      {
         "title": "Gasolio, per ora niente accise mobili: non c’è il decreto in Gazzetta ufficiale",
         "link": "https://www.ilsole24ore.com/art/gasolio-ora-niente-accise-mobili-non-c-e-decreto-gazzetta-ufficiale-AJIyE2ZB",
         "source": "Il Sole 24 Ore",
@@ -458,33 +482,17 @@
         "pubDate": "2026-10-05T14:00:51.000Z",
         "excerpt": "\"L'obiettivo è la tutela dello stabilimento e della competitività di Cerreto\".",
         "image": null
-      },
-      {
-        "title": "Le azioni dei tanker nordici salgono sui noli record",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-dei-tanker-nordici-salgono-sui-noli-record-93CH-3574814",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T13:58:06.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg"
-      },
-      {
-        "title": "Goldman taglia Carl Zeiss Meditec: \"Valutazione scollegata dai fondamentali\"",
-        "link": "https://it.investing.com/news/stock-market-news/goldman-taglia-carl-zeiss-meditec-valutazione-scollegata-dai-fondamentali-3574811",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T13:54:16.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB2N09U_M.jpg"
-      },
-      {
-        "title": "Le vendite di settembre in Thailandia colpite dalle alluvioni, Tisco commenta",
-        "link": "https://it.investing.com/news/stock-market-news/le-vendite-di-settembre-in-thailandia-colpite-dalle-alluvioni-tisco-commenta-93CH-3574794",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T13:46:48.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
       }
     ],
     "europa": [
+      {
+        "title": "Francia, allarme governatore banca centrale: «Strozzati dai tassi»",
+        "link": "https://www.ilsole24ore.com/art/francia-allarme-governatore-banca-centrale-strozzati-tassi-AJMFP5ZB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-05T17:53:13.000Z",
+        "excerpt": "Se la Francia non adotta un piano di bilancio in grado di ridurre la spesa e il deficit rischia di vedersi “progressivamente strangolare dal rialzo dei tassi di interesse”. È...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/2026-09-25T165130Z_1837001388_RC2DQLA7HHLG_RTRMADP_5_FRANCE-CENBANK-U24320453167aMt-1440x752@IlSole24Ore-Web.JPG"
+      },
       {
         "title": "Russia, donna morta in Siberia per peste: in 200 sotto osservazione",
         "link": "https://www.ilsole24ore.com/art/russia-donna-morta-siberia-peste-200-sotto-osservazione-AJPn2TZB",
@@ -914,6 +922,22 @@
         "image": null
       },
       {
+        "title": "Il petrolio del Medio Oriente esporta i massimi livelli prebellici per parte di settembre, ma gli attacchi alle petroliere aumentano",
+        "link": "https://www.investing.com/news/commodities-news/middle-east-crude-oil-exports-exceed-prewar-levels-but-tanker-attacks-increase-4930981",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T14:01:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9403S_L.jpg"
+      },
+      {
+        "title": "I prezzi dell'oro sono stabili dopo la caduta settimanale mentre i dati sui lavori deboli facilitano le scommesse sull'aumento della Fed",
+        "link": "https://www.investing.com/news/commodities-news/gold-edges-higher-after-weekly-slide-as-weak-jobs-data-ease-fed-hike-bets-4930980",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T13:38:48.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/Gold_800x533_L_1778184938.jpg"
+      },
+      {
         "title": "Kiev, 'attacchi con bombe guidate in pieno giorno su Kharkiv, 3 morti'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/kiev-attacchi-con-bombe-guidate-in-pieno-giorno-su-kharkiv-3-morti_ba2bb0f4-679e-42dc-ba64-a5075d3cc59c.html",
         "source": "ANSA Mondo",
@@ -1200,22 +1224,6 @@
         "pubDate": "2026-10-05T07:04:49.000Z",
         "excerpt": "Il Wall Street Journal ha rivelato che il presidente cinese ha chiesto una stanza privata nell’ala Ovest per rilassarsi con la moglie fra un incontro e l’altro. Nella sua agenda c’è stato un vuoto di ben cinque ore",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/090438328-b45f205c-223a-472c-877b-81ae934e7d15.jpg"
-      },
-      {
-        "title": "Brasile, l'ex giudice che condannò Lula eletto governatore",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/brasile-lex-giudice-che-condanno-lula-eletto-governatore_600834d9-5427-45d3-a224-ca560b8298b3.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T06:44:17.000Z",
-        "excerpt": "Sergio Moro guiderà l'esecutivo del suo stato natale, il Paranà",
-        "image": null
-      },
-      {
-        "title": "Moncloa, alle 9 dichiarazione istituzionale del premier Sanchez",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/moncloa-alle-9-dichiarazione-istituzionale-del-premier-sanchez_5a5e88cf-d8cc-45ae-8477-d0c1e9c65b8e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T06:18:35.000Z",
-        "excerpt": "Parlerà dal palazzo presidenziale dopo un weekend di riflessioni",
-        "image": null
       }
     ]
   },
@@ -1229,11 +1237,35 @@
       "image": null
     },
     {
+      "title": "Ranucci sospeso per 10 giorni dalla Rai, il legale: 'Faremo ricorso'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/ranucci-sospeso-per-10-giorni-dalla-rai-il-legale-faremo-ricorso_2fef0e65-81ef-4744-85b5-1894f6d936a7.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T18:02:53.000Z",
+      "excerpt": "Attesa a breve la pronuncia sul reintegro. Corsini: 'Speriamo non torni a Report'",
+      "image": null
+    },
+    {
+      "title": "Nations League, Italia-Turchia in campo alle 20:45 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-italia-turchia-in-campo-alle-2045-diretta_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T18:01:10.000Z",
+      "excerpt": "Nove cambi per gli azzurri, torna Romano",
+      "image": null
+    },
+    {
       "title": "++ Figc: vicina una soluzione, commissariamento ma con Malagò ++",
       "link": "https://www.ansa.it/sito/notizie/flash/2026/10/05/-figc-vicina-una-soluzione-commissariamento-ma-con-malago-_0099362d-1a75-4bae-b9bb-9579ccb750f4.html",
       "source": "ANSA",
       "pubDate": "2026-10-05T17:29:33.000Z",
       "excerpt": "Mediazione per evitare spaccatura, domattina previsto incontro Buonfiglio- n.1 Federcalcio",
+      "image": null
+    },
+    {
+      "title": "Novi Ligure, corteo pro Gaza promosso sul registro elettronico del liceo: ispezione del ministero",
+      "link": "https://torino.repubblica.it/cronaca/2026/10/05/news/novi_ligure_corteo_gaza_liceo_amaldi_ispezione_ministero-425627710/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T17:01:12.000Z",
+      "excerpt": "La destra insorge contro l’istituto Amaldi, il preside spiega: “Errore di comunicazione, non è un evento istituzionale”",
       "image": null
     },
     {
@@ -1258,6 +1290,14 @@
       "source": "ANSA",
       "pubDate": "2026-10-05T16:24:00.000Z",
       "excerpt": "Un azione nell'ambito di Parma Capitale Europea dei Giovani 2027",
+      "image": null
+    },
+    {
+      "title": "Elezioni in Bosnia, vincono i nazionalisti e i serbi ringraziano Trump. L’Ue sempre più lontana",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/bosnia_elezioni_vincono_nazionalisti_dodik_ringrazia_trump_ue_sempre_piu_lontana-425627608/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T16:00:40.000Z",
+      "excerpt": "Dalle urne esce un Paese sempre più spaccato fra i diversi etnonazionalismi. E i serbi tornano a minacciare la secessione",
       "image": null
     },
     {
@@ -1667,41 +1707,41 @@
       "pubDate": "2026-10-05T03:11:16.000Z",
       "excerpt": "Fulvio Paglialunga firma un saggio narrativo sul tifo come appartenenza: riti, santi e reliquie del pallone, dal Brasile a Taranto",
       "image": null
-    },
-    {
-      "title": "Valeria Bruni Tedeschi: “Ho cambiato idea: se Hollywood chiama, ora rispondo”",
-      "link": "https://www.repubblica.it/spettacoli/cinema/2026/10/05/news/valeria_bruni_tedeschi_estranea_paolo_strippoli_intervista-425625382/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T03:00:00.000Z",
-      "excerpt": "L’attrice è protagonista de “L’estranea” il film di Paolo Strippoli che l’Italia ha scelto per la corsa agli Oscar",
-      "image": null
-    },
-    {
-      "title": "Bolsonaro avanti su Lula, 47% contro il 45%, il 25 ottobre ci sarà il ballottaggio",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/bolsonaro-avanti-su-lula-47-contro-il-45-il-25-ottobre-ci-sara-il-ballottaggio_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-05T01:27:29.000Z",
-      "excerpt": "Il Partito liberale (Pl), principale forza del campo bolsonarista, si avvia a essere protagonista del rinnovato Senato brasiliano",
-      "image": null
-    },
-    {
-      "title": "Tra inflazione e tassi un altro whatever it takes",
-      "link": "https://www.repubblica.it/economia/2026/10/05/news/tra_inflazione_e_tassi_un_altro_whatever_it_takes-425621723/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T01:00:00.000Z",
-      "excerpt": "Se la situazione dei debiti andasse fuori controllo, servirebbe un altro “whatever it takes”, in attesa che l’’Europa viri con forza verso la transizione per attutire gli impatti geopolitici",
-      "image": null
-    },
-    {
-      "title": "Lo spread torna a salire e fa cadere l’unico successo rivendicato dalla Melonomics",
-      "link": "https://www.repubblica.it/economia/rubriche/circo-massimo/2026/10/05/news/lo_spread_torna_a_salire_e_fa_cadere_l_unico_successo_rivendicato_dalla_melonomics-425621760/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T01:00:00.000Z",
-      "excerpt": "L’ecosistema finanziario sta peggiorando a gran velocità e il dibattito pubblico italiano avvelenato dalla campagna elettorale non se ne accorge",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Calcio: 6-2 alla Polonia, l'Italia Under 21 si qualifica agli Europei 2027",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/calcio-6-2-alla-polonia-litalia-under-21-si-qualifica-agli-europei-2027_7e7acac7-5fa5-4913-893c-d5ca7b49f1ed.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T18:08:55.000Z",
+      "excerpt": "Larga vittoria a Pescara degli azzurrini primi per differenza reti",
+      "image": null
+    },
+    {
+      "title": "Nations League, Italia-Turchia in campo alle 20:45 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-italia-turchia-in-campo-alle-2045-diretta_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T18:01:10.000Z",
+      "excerpt": "Nove cambi per gli azzurri, torna Romano",
+      "image": null
+    },
+    {
+      "title": "Nations League: Mancini fa nove cambi, torna Romano",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-mancini-fa-nove-cambi-torna-romano_e1b8e4f6-c26d-40d3-a2ce-8b8b5cbcd5ed.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T17:44:10.000Z",
+      "excerpt": "In attacco c'è Scamacca, esordio dal 1' per Doumbia",
+      "image": null
+    },
+    {
+      "title": "Figc: vicina una soluzione, commissariamento ma con Malagò",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/figc-vicina-una-soluzione-commissariamento-ma-con-malago_33a03618-124c-4095-9c6f-6d303b935ba9.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T17:42:06.000Z",
+      "excerpt": "Mediazione per evitare spaccatura, domattina previsto incontro tra Buonfiglio e il n.1 della federazione",
+      "image": null
+    },
     {
       "title": "Ciccone contesta 2/o posto agli Europei, voglio vedere il fotofinish su linea arrivo",
       "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/05/ciccone-contesta-2o-posto-agli-europei-voglio-vedere-il-fotofinish-su-linea-arrivo_ceffe3b0-f837-4e1d-b761-d0c462eb4a45.html",
