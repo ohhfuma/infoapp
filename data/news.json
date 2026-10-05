@@ -1,7 +1,103 @@
 {
-  "lastUpdated": "2026-10-05T16:09:40.298Z",
+  "lastUpdated": "2026-10-05T16:44:19.610Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Aifi Young, nuove generazioni protagoniste nel private equity e nel venture capital",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/aifi_young_nuove_generazioni_protagoniste_nel_private_equity_e_nel_venture_capital-425627688/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T16:41:58.000Z",
+        "excerpt": "Rinnovato il board del prossimo triennio: eletti 15 professionisti under 35. L’Associazione presieduta dal 2012 da Innocenzo Cipolletta ha esteso anche ai fondi di private debt l’opportunità di aderire",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/184152513-83f9ce90-733e-4ee0-bbd7-18f766d2a4d5.jpg"
+      },
+      {
+        "title": "Urso, bene che Ericsson ha accolto la richiesta della premier Meloni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/urso-bene-che-ericsson-ha-accolto-la-richiesta-della-premier-meloni_3ae1d293-1be7-4a0c-91e7-d742427619e7.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T16:27:03.000Z",
+        "excerpt": "'Ritiro dei licenziamenti e attivazione di procedure consensuali'",
+        "image": null
+      },
+      {
+        "title": "Gli stranieri in Italia spendono il 2% più degli italiani al supermercato",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/gli-stranieri-in-italia-spendono-il-2-piu-degli-italiani-al-supermercato_5922fde5-57e3-476d-8b69-0f39f90ef2b8.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T16:15:51.000Z",
+        "excerpt": "E' quanto emerge dalla ricerca \"Stranieri in Italia\" di YouGov",
+        "image": null
+      },
+      {
+        "title": "Autostrade, terminato lo scavo della galleria San Donato per l’ampliamento dell’A1",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/autostrade_galleria_san_donato_fine_scavo_ampliamento_a1-425627639/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T16:12:24.000Z",
+        "excerpt": "Il tunnel tra Firenze sud e Incisa. L’ad Aspi Arrigo Giana. “Infrastruttura strategica per il Paese”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/181218050-7157ef90-10a4-42e8-b003-eba060742449.jpg"
+      },
+      {
+        "title": "Il gas in calo (-2%) a 73 euro al Megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/il-gas-in-calo-2-a-73-euro-al-megawattora_9a11b6cd-5afd-450a-b5e8-72a4be0d0bfe.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T16:09:58.000Z",
+        "excerpt": "Sul mercato di Amsterdam di riferimento per l'Europa",
+        "image": null
+      },
+      {
+        "title": "Lo spread tra Btp e Bund chiude stabile a 113 punti base",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/lo-spread-tra-btp-e-bund-chiude-stabile-a-113-punti-base_af495925-ff74-4a37-97f3-0d782f2d1b1d.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T16:09:16.000Z",
+        "excerpt": "Il rendimento del prodotto del Tesoro è al 4,62%",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo MDA Space sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-mda-space-sta-scendendo-oggi-93CH-3574937",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T16:06:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Rezolve AI sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-rezolve-ai-sta-salendo-oggi-93CH-3574927",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T16:01:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Velo3D sta crollando oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-velo3d-sta-crollando-oggi-93CH-3574926",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T16:00:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Insmed sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-insmed-sta-scendendo-oggi-93CH-3574924",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T15:59:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+      },
+      {
+        "title": "Perché il titolo HeartBeam sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-heartbeam-sta-salendo-oggi-93CH-3574923",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T15:59:18.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+      },
+      {
+        "title": "Putin autorizza vendita controllata russa UniCredit",
+        "link": "https://it.investing.com/news/stock-market-news/putin-autorizza-vendita-controllata-russa-unicredit-3574921",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T15:56:18.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941F9_L.jpg"
+      },
       {
         "title": "Qualcomm e Arm avviano un nuovo processo sugli strumenti di test dei chip",
         "link": "https://it.investing.com/news/stock-market-news/qualcomm-e-arm-avviano-un-nuovo-processo-sugli-strumenti-di-test-dei-chip-3574919",
@@ -35,14 +131,6 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941ED_L.jpg"
       },
       {
-        "title": "È morta la giornalista dell'ANSA Alessandra Moneti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/e-morta-la-giornalista-dellansa-alessandra-moneti_6c075924-092b-467f-b77a-4ad797b4e2b0.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T15:31:56.000Z",
-        "excerpt": "Voce dell'agenzia per il settore agroalimentare, vino e food",
-        "image": null
-      },
-      {
         "title": "Paoletti (Cciaa VG), 'su energia serve ripensamento politico internazionale'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/paoletti-cciaa-vg-su-energia-serve-ripensamento-politico-internazionale_5ba49480-95b1-4022-8fb2-623474f33e29.html",
         "source": "ANSA Economia",
@@ -57,14 +145,6 @@
         "pubDate": "2026-10-05T15:28:48.000Z",
         "excerpt": "Atteso nel pomeriggio un decreto interministeriale di Economia e Ambiente",
         "image": null
-      },
-      {
-        "title": "Il regolatore statunitense ritira le norme sugli asset digitali per le banche",
-        "link": "https://it.investing.com/news/stock-market-news/il-regolatore-statunitense-ritira-le-norme-sugli-asset-digitali-per-le-banche-93CH-3574906",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T15:27:05.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
       },
       {
         "title": "Rai sospende Sigfrido Ranucci per 10 giorni. La replica: «Impugneremo»",
@@ -91,76 +171,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/104930740-6cff9334-e045-4d48-ba58-06e5bd3f5b89.jpg"
       },
       {
-        "title": "Sainsbury’s avrebbe avuto colloqui di fusione con Morrisons all’inizio dell’anno",
-        "link": "https://it.investing.com/news/stock-market-news/sainsburys-avrebbe-avuto-colloqui-di-fusione-con-morrisons-allinizio-dellanno-93CH-3574896",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T14:54:11.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg"
-      },
-      {
-        "title": "Azioni Alvotech in rialzo dopo l’approvazione FDA per la produzione",
-        "link": "https://it.investing.com/news/stock-market-news/azioni-alvotech-in-rialzo-dopo-lapprovazione-fda-per-la-produzione-3574895",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T14:51:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg"
-      },
-      {
-        "title": "Il titolo di Insmed crolla dopo le dimissioni della CFO Sara Bonstein",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-insmed-crolla-dopo-le-dimissioni-della-cfo-sara-bonstein-3574884",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T14:44:57.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg"
-      },
-      {
-        "title": "Il titolo di HeartBeam vola dopo la designazione FDA di dispositivo innovativo",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-heartbeam-vola-dopo-la-designazione-fda-di-dispositivo-innovativo-3574878",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T14:35:52.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg"
-      },
-      {
-        "title": "Cenovus crolla: l’accordo da 5,7 miliardi C$ su Athabasca pesa sul debito",
-        "link": "https://it.investing.com/news/stock-market-news/cenovus-crolla-laccordo-da-57-miliardi-c-su-athabasca-pesa-sul-debito-3574869",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T14:30:10.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA5P0K1_M.jpg"
-      },
-      {
-        "title": "Sindaco Cerreto, 'mantenimento temporaneo sito produttivo non è garanzia di futuro'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/sindaco-cerreto-mantenimento-temporaneo-sito-produttivo-non-e-garanzia-di-futuro_b16b9bd1-ee30-4d5e-9088-3130e52ed624.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T14:19:50.000Z",
-        "excerpt": "Grillini al tavolo Mimit, \"non abbiamo vinto, né perso: la lotta continua\"",
-        "image": null
-      },
-      {
         "title": "Decreto fiscale omnibus: i controlli da fare per allinearsi",
         "link": "https://www.ilsole24ore.com/art/decreto-fiscale-omnibus-controlli-fare-allinearsi-AJwQzWTB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-05T14:11:55.000Z",
         "excerpt": "In edicola giovedì 8 ottobre con Il Sole 24 Ore al prezzo complessivo di 3 euro",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/05/Immagini/Ritagli/focus_0810_1440-U14701373264vnM-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Pichetto, sul nucleare valutiamo impianti di piccola stazza",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/pichetto-sul-nucleare-valutiamo-impianti-di-piccola-stazza_6778b0d4-2da5-4b42-816d-7fad54efd475.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T14:01:43.000Z",
-        "excerpt": "I cosiddetti SMR o, più avanti, AMR. In Italia dalla metà del prossimo decennio",
-        "image": null
-      },
-      {
-        "title": "Electrolux, Acquaroli 'bene segnale di apertura ma la soluzione non soddisfa'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/electrolux-acquaroli-bene-segnale-di-apertura-ma-la-soluzione-non-soddisfa_cf08877f-9e41-4912-a37b-978db7e52149.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T14:00:51.000Z",
-        "excerpt": "\"L'obiettivo è la tutela dello stabilimento e della competitività di Cerreto\".",
-        "image": null
       },
       {
         "title": "«Io sono Giorgia Meloni»: la premier registra la sua voce all’ufficio marchi contro i fake",
@@ -219,22 +235,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/104308437-a5bad3f9-d1b2-4b39-bbc7-c25899e3715d.jpg"
       },
       {
-        "title": "Istat, cala il potere di acquisto delle famiglie e aumenta la pressione fiscale",
-        "link": "https://www.repubblica.it/economia/2026/10/05/news/istat_cala_il_potere_di_acquisto_delle_famiglie_e_aumenta_la_pressione_fiscale-425626451/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-05T08:37:12.000Z",
-        "excerpt": "Per quanto riguarda il saldo primario delle amministrazioni pubbliche (indebitamento al netto degli interessi passivi) è risultato positivo, con un'incidenza sul Pil del 3,0%",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/103701562-9f56e18c-50ff-4657-ac31-a4122c499b89.jpg"
-      },
-      {
-        "title": "Musk vuole cambiare il nome di SpaceXAI in SpaceXSI: un omaggio alla “superintelligenza” di Trump",
-        "link": "https://www.repubblica.it/economia/2026/10/05/news/musk_vuole_cambiare_il_nome_di_spacexai_in_spacexsi_un_omaggio_alla_superintelligenza_di_trump-425626437/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-05T08:32:56.000Z",
-        "excerpt": "\"Sì, apporteremo questa modifica\", ha risposto a un utente su X che gli chiedeva della possibilità di cambiare il nome da SpaceXAI a SpaceXSI",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/103245703-22b3c4f3-8e73-42ae-8f56-b23fba0844c9.jpg"
-      },
-      {
         "title": "Fisco, Istat: nel secondo trimestre pressione sale al 43,5%. Il deficit migliora al 2% del Pil",
         "link": "https://www.ilsole24ore.com/art/fisco-istat-secondo-trimestre-pressione-sale-435percento-pil-deficit-migliora-2percento-pil-AJ4YrNZB",
         "source": "Il Sole 24 Ore",
@@ -269,7 +269,7 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/LP_24781081-U42718245618yFU-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Guerra in Ucraina, Ft: «Estonia sposta truppe al confine con Russia». Cinque morti a Kharkiv",
+        "title": "Putin autorizza la riorganizzazione della divisione russa di UniCredit",
         "link": "https://www.ilsole24ore.com/art/guerra-ucraina-ft-estonia-sposta-truppe-confine-la-russia-AJwKANZB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-05T08:12:00.000Z",
@@ -457,6 +457,38 @@
     ],
     "mondo": [
       {
+        "title": "Usa, la Corte Suprema boccia le restrizioni sul voto postale. Trump: “Ha deluso l’America, si fa intimidire dai dem”",
+        "link": "https://www.repubblica.it/esteri/2026/09/15/news/usa_voto_per_posta_corte_suprema_boccia_ricorso_amministrazione_trump_per_introdurre_restrizioni-425585754/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T16:39:47.000Z",
+        "excerpt": "Con un ordine esecutivo, il presidente aveva imposto regole più rigide in vista delle cruciali elezioni di novembre. Il procedimento è stato bocciato sette a due",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/09/15/085747998-234c5c33-61b9-489d-8d9c-fce7f263b2a5.jpg"
+      },
+      {
+        "title": "Usa, la Corte Suprema riapre la strada alle deportazioni dei migranti verso Paesi terzi",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/usa_la_corte_suprema_riapre_la_strada_alle_deportazioni_dei_migranti_verso_paesi_terzi-425616169/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T16:39:41.000Z",
+        "excerpt": "I giudici sospendono i limiti imposti da un tribunale federale e consentono all’amministrazione Trump di riprendere i trasferimenti verso Stati diversi da quelli di origine. La questione sarà esaminatà nel merito a dicem",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/09/30/092521590-55db5c1f-6a46-4466-ab25-32c6946a344e.jpg"
+      },
+      {
+        "title": "Un volo Londra-Chicago rientrato a Heathrow in emergenza",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/volo_londra_chicago_emergenza-425627417/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T16:13:07.000Z",
+        "excerpt": "L’aereo ha \"segnalato il codice 7700 ed è sceso fino a circa 2.700 metri sopra l'Irlanda\". Al momento non risultano feriti a bordo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/171004555-0abc5cc0-2029-465e-801b-4b9609d4759c.jpg"
+      },
+      {
+        "title": "Esclusiva: gli Stati Uniti annunciano 150 milioni di $ per le linee elettriche dell'Alaska mentre Vance conduce campagne sul campo di battaglia del Senato",
+        "link": "https://www.investing.com/news/commodities-news/exclusiveus-to-announce-150-million-for-alaska-power-lines-as-vance-campaigns-in-senate-battleground-4932581",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T16:12:40.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941GJ_L.jpg"
+      },
+      {
         "title": "Elezioni in Bosnia, il nazionalista filorusso Dodik vince e ringrazia Trump. L’Ue sempre più lontana",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/bosnia_elezioni_vincono_nazionalisti_dodik_ringrazia_trump_ue_sempre_piu_lontana-425627608/?rss",
         "source": "Repubblica Esteri",
@@ -471,14 +503,6 @@
         "pubDate": "2026-10-05T16:04:40.000Z",
         "excerpt": "E' sceso di quota sull'Irlanda prima di fare inversione. Si pensa a un problema tecnico",
         "image": null
-      },
-      {
-        "title": "Un volo Londra-Chicago sta rientrando a Heathrow in emergenza",
-        "link": "https://www.repubblica.it/esteri/2026/10/05/news/volo_londra_chicago_emergenza-425627417/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-05T15:52:54.000Z",
-        "excerpt": "L’aereo ha \"segnalato il codice 7700 ed è sceso fino a circa 2.700 metri sopra l'Irlanda\". Al momento non risultano feriti a bordo",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/171004555-0abc5cc0-2029-465e-801b-4b9609d4759c.jpg"
       },
       {
         "title": "Le turbolenze del mercato petrolifero potrebbero durare per anni, dicono i dirigenti ",
@@ -593,14 +617,6 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEK4N0FY_L.jpg"
       },
       {
-        "title": "Sánchez: “Elezioni anticipate il 29 novembre. Spagna scelga tra avanzare o cedere all’ultradestra”",
-        "link": "https://www.repubblica.it/esteri/2026/10/05/news/sanchez_dimissioni_elezioni_spagna_novembre_2026-425626262/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-05T12:38:59.000Z",
-        "excerpt": "La decisione del leader socialista dopo la crisi sulla questione casa: “Ora serve una maggioranza progressista più ampia”. I sondaggi danno Vox unico partito in crescita",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/091520939-fe63310f-c5ef-4c0a-9563-57a1164f7cc3.jpg"
-      },
-      {
         "title": "L’Estonia avvicina le truppe al confine russo. Berlino: “Mosca conduce già una guerra-ombra”",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/estonia_russia_truppe_al_confine_germania_guerra_ombra-425626949/?rss",
         "source": "Repubblica Esteri",
@@ -625,28 +641,12 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM940W7_L.jpg"
       },
       {
-        "title": "L'oro mantiene lo stato di riserva chiave nonostante l'aumento dei rendimenti obbligazionari, dicono i banchieri centrali",
-        "link": "https://www.investing.com/news/commodities-news/gold-retains-key-reserve-status-despite-surging-bond-yields-central-bankers-say-4931551",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T10:36:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM940UU_L.jpg"
-      },
-      {
         "title": "La corsa delle superpotenze per portare reattori nucleari sulla Luna: sfida tra Usa e Russia-Cina",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/corsa_alla_luna_spazio_per_portare_reattori_nucleari_usa_russia_cina-425626530/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-05T09:07:10.000Z",
         "excerpt": "Washington punta al 2030. Mosca e Pechino ne stanno preparando uno per il 2036. Ma per gli scienziati affermano i rischi sono enormi",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/110640001-d9809f2e-f515-4051-83d0-f1e2fe2c23ae.jpg"
-      },
-      {
-        "title": "I “riposini” di Xi Jinping alla Casa Bianca riaccendono i timori per la sua salute",
-        "link": "https://www.repubblica.it/esteri/2026/10/05/news/xi_jinping_salute_leader_cinese_riposini_alla_casa_bianca-425626231/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-05T07:04:49.000Z",
-        "excerpt": "Il Wall Street Journal ha rivelato che il presidente cinese ha chiesto una stanza privata nell’ala Ovest per rilassarsi con la moglie fra un incontro e l’altro. Nella sua agenda c’è stato un vuoto di ben cinque ore",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/090438328-b45f205c-223a-472c-877b-81ae934e7d15.jpg"
       }
     ]
   },
@@ -668,11 +668,11 @@
       "image": null
     },
     {
-      "title": "Via Malagò, arriva Malagò: verso l’accordo per il commissariamento della Figc",
+      "title": "Via Malagò, arriva Malagò: la via d’uscita del Coni per il commissariamento della Figc",
       "link": "https://www.repubblica.it/sport/calcio/2026/10/05/news/malago_commissario_figc_giunta_coni-425627577/",
       "source": "Repubblica",
       "pubDate": "2026-10-05T15:53:33.000Z",
-      "excerpt": "Martedì la Giunta decisiva: questa soluzione eviterebbe un braccio di ferro ai voti scongiurando la spaccatura nella Giunta Coni",
+      "excerpt": "Domani la Giunta decisiva: questa soluzione eviterebbe un braccio di ferro ai voti scongiurando la spaccatura nel sistema",
       "image": null
     },
     {
@@ -700,11 +700,11 @@
       "image": null
     },
     {
-      "title": "Un volo Londra-Chicago sta rientrando a Heathrow in emergenza",
+      "title": "Un volo Londra-Chicago rientrato a Heathrow in emergenza",
       "link": "https://www.repubblica.it/esteri/2026/10/05/news/volo_londra_chicago_emergenza-425627417/",
       "source": "Repubblica",
       "pubDate": "2026-10-05T15:08:09.000Z",
-      "excerpt": "Non è ancora chiaro cosa è successo ma l’aereo sta sorvolando la Manica per tornare nella capitale inglese",
+      "excerpt": "L’aereo ha \"segnalato il codice 7700 ed è sceso fino a circa 2.700 metri sopra l'Irlanda\". Al momento non risultano feriti a bordo",
       "image": null
     },
     {
@@ -712,15 +712,7 @@
       "link": "https://www.repubblica.it/politica/2026/10/05/news/rai_sospende_ranucci_dieci_giorni-425627388/",
       "source": "Repubblica",
       "pubDate": "2026-10-05T15:00:52.000Z",
-      "excerpt": "La decisione dell’azienda nei confronti del giornalista ed ex conduttore di Report",
-      "image": null
-    },
-    {
-      "title": "Medvedev colpisce con una pallata uno spettatore: squalificato. Djokovic in finale a Pechino",
-      "link": "https://www.repubblica.it/sport/tennis/2026/10/05/news/medvedev_pallata_spettatore_squalificato_djokovic_finale_pechino-425627233/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T14:24:09.000Z",
-      "excerpt": "Il russo, sotto 7-5, 5-3 contro il fuoriclasse serbo, ha scagliato la pallina verso gli spalti e il giudice lo ha allontanato.",
+      "excerpt": "La decisione dell’azienda nei confronti del giornalista ed ex conduttore di Report che cita De Gregori",
       "image": null
     },
     {
@@ -756,6 +748,14 @@
       "image": null
     },
     {
+      "title": "L’Estonia avvicina le truppe al confine russo. Berlino: “Mosca conduce già una guerra-ombra”",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/estonia_russia_truppe_al_confine_germania_guerra_ombra-425626949/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T12:04:05.000Z",
+      "excerpt": "Il Paese baltico, rivela il Financial Times, si prepara a un eventuale confronto con le forze del Cremlino: per Tallinn “la deterrenza della Nato non sta funzionando”. E anche i Servizi di Berlino sono in allerta",
+      "image": null
+    },
+    {
       "title": " E' un caso Letterboxd, il social di recensioni cinema che vale milioni",
       "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/10/04/ansa-e-un-caso-letterboxd-social-di-recensioni-cinema-che-vale-milioni-dollari_b60536cf-d735-4084-8540-65524a935e88.html",
       "source": "ANSA",
@@ -781,6 +781,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Tennis: pallina contro un tifoso, Medvedev squalificato e Djokovic è in finale",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/05/tennis-pallina-contro-un-tifoso-medvedev-squalificato-e-djokovic-e-in-finale_1b37d7d3-9ab5-4d51-aa1f-832098329240.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T16:31:54.000Z",
+      "excerpt": "Gesto di stizza del russo, colpito uno spettatore a Pechino. A Tokyo Alcaraz per il titolo",
+      "image": null
+    },
     {
       "title": "Milan: accertamenti alla caviglia per Saelemaekers, la stessa già operata",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/milan-accertamenti-alla-caviglia-per-saelemaekers-la-stessa-gia-operata_78ad80cd-66ca-4972-b195-800079806db0.html",
@@ -827,14 +835,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-05T15:16:57.000Z",
       "excerpt": "Dopo tanta strada tornano Ganna e Milan, tre le donne assente per infortunio Venturelli",
-      "image": null
-    },
-    {
-      "title": "Tennis: pallina contro un tifoso, Medvedev squalificato e Djokovic è in finaleino",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/05/tennis-medvedev-squalificato-djokovic-e-in-finale-a-pechino_1b37d7d3-9ab5-4d51-aa1f-832098329240.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-05T15:16:32.000Z",
-      "excerpt": "Gesto di stizza del russo, colpito uno spettatore a Pechino. A Tokyo Alcaraz per il titolo",
       "image": null
     },
     {

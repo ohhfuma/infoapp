@@ -4,6 +4,102 @@
   "finanza": {
     "italia": [
       {
+        "title": "Aifi Young, nuove generazioni protagoniste nel private equity e nel venture capital",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/aifi_young_nuove_generazioni_protagoniste_nel_private_equity_e_nel_venture_capital-425627688/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T16:41:58.000Z",
+        "excerpt": "Rinnovato il board del prossimo triennio: eletti 15 professionisti under 35. L’Associazione presieduta dal 2012 da Innocenzo Cipolletta ha esteso anche ai fondi di private debt l’opportunità di aderire",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/184152513-83f9ce90-733e-4ee0-bbd7-18f766d2a4d5.jpg"
+      },
+      {
+        "title": "Urso, bene che Ericsson ha accolto la richiesta della premier Meloni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/urso-bene-che-ericsson-ha-accolto-la-richiesta-della-premier-meloni_3ae1d293-1be7-4a0c-91e7-d742427619e7.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T16:27:03.000Z",
+        "excerpt": "'Ritiro dei licenziamenti e attivazione di procedure consensuali'",
+        "image": null
+      },
+      {
+        "title": "Gli stranieri in Italia spendono il 2% più degli italiani al supermercato",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/gli-stranieri-in-italia-spendono-il-2-piu-degli-italiani-al-supermercato_5922fde5-57e3-476d-8b69-0f39f90ef2b8.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T16:15:51.000Z",
+        "excerpt": "E' quanto emerge dalla ricerca \"Stranieri in Italia\" di YouGov",
+        "image": null
+      },
+      {
+        "title": "Autostrade, terminato lo scavo della galleria San Donato per l’ampliamento dell’A1",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/autostrade_galleria_san_donato_fine_scavo_ampliamento_a1-425627639/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T16:12:24.000Z",
+        "excerpt": "Il tunnel tra Firenze sud e Incisa. L’ad Aspi Arrigo Giana. “Infrastruttura strategica per il Paese”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/181218050-7157ef90-10a4-42e8-b003-eba060742449.jpg"
+      },
+      {
+        "title": "Il gas in calo (-2%) a 73 euro al Megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/il-gas-in-calo-2-a-73-euro-al-megawattora_9a11b6cd-5afd-450a-b5e8-72a4be0d0bfe.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T16:09:58.000Z",
+        "excerpt": "Sul mercato di Amsterdam di riferimento per l'Europa",
+        "image": null
+      },
+      {
+        "title": "Lo spread tra Btp e Bund chiude stabile a 113 punti base",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/lo-spread-tra-btp-e-bund-chiude-stabile-a-113-punti-base_af495925-ff74-4a37-97f3-0d782f2d1b1d.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T16:09:16.000Z",
+        "excerpt": "Il rendimento del prodotto del Tesoro è al 4,62%",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo MDA Space sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-mda-space-sta-scendendo-oggi-93CH-3574937",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T16:06:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Rezolve AI sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-rezolve-ai-sta-salendo-oggi-93CH-3574927",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T16:01:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Velo3D sta crollando oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-velo3d-sta-crollando-oggi-93CH-3574926",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T16:00:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Insmed sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-insmed-sta-scendendo-oggi-93CH-3574924",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T15:59:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+      },
+      {
+        "title": "Perché il titolo HeartBeam sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-heartbeam-sta-salendo-oggi-93CH-3574923",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T15:59:18.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+      },
+      {
+        "title": "Putin autorizza vendita controllata russa UniCredit",
+        "link": "https://it.investing.com/news/stock-market-news/putin-autorizza-vendita-controllata-russa-unicredit-3574921",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T15:56:18.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941F9_L.jpg"
+      },
+      {
         "title": "Qualcomm e Arm avviano un nuovo processo sugli strumenti di test dei chip",
         "link": "https://it.investing.com/news/stock-market-news/qualcomm-e-arm-avviano-un-nuovo-processo-sugli-strumenti-di-test-dei-chip-3574919",
         "source": "Investing.com Italia",
@@ -386,102 +482,6 @@
         "pubDate": "2026-10-05T13:15:33.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEE0N1V4_M.jpg"
-      },
-      {
-        "title": "S&P declassa Nike a ’A’: pesano la Cina e il piano di rilancio",
-        "link": "https://it.investing.com/news/stock-market-news/sp-declassa-nike-a-a-pesano-la-cina-e-il-piano-di-rilancio-3574651",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T13:08:08.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEE7L0VW_M.jpg"
-      },
-      {
-        "title": "Morgan Stanley taglia AutoNation e Group 1 mentre crescono le pressioni sui dealer",
-        "link": "https://it.investing.com/news/stock-market-news/morgan-stanley-taglia-autonation-e-group-1-mentre-crescono-le-pressioni-sui-dealer-3574674",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T13:07:56.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg"
-      },
-      {
-        "title": "«Io sono Giorgia Meloni»: la premier registra la sua voce all’ufficio marchi contro i fake",
-        "link": "https://www.ilsole24ore.com/art/io-sono-giorgia-meloni-premier-registra-sua-voce-all-ufficio-marchi-contro-fake-AJ9kGfZB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-05T12:57:00.000Z",
-        "excerpt": "Quattro secondi in cui viene detto: «Io sono Giorgia Meloni». La presidente del Consiglio ha registrato oggi, 5 ottobre 2026, l’audio da sottoporre all’esame dell’Ufficio dell’Unione europea per la proprietà...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/736cacf93dafc435be8e5b890a20c27e-U65328468860uVI-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "I dati di un milione di pazienti usati per gli studi clinici: maxi-sanzione del Garante privacy",
-        "link": "https://www.repubblica.it/economia/2026/10/05/news/multa_iqvia_solutions_dati_pazienti_privacy_garante-425627059/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-05T12:48:28.000Z",
-        "excerpt": "L'autorità ha multato Iqvia Solutions Italy per una cifra record di 7 milioni di euro. I dati sanitari non erano abbastanza anonimi. La società collabora, ma valuta il ricorso e chiarisce che il dataset “non viene utiliz",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/144817364-2124a306-2581-46db-ba5d-57a47fa8bbe8.jpg"
-      },
-      {
-        "title": "Perché il titolo Critical Metals sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-critical-metals-sta-salendo-oggi-93CH-3574539",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T12:45:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
-      },
-      {
-        "title": "Le criptovalute si fanno spazio nei portafogli dei paperoni",
-        "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/10/05/news/le_criptovalute_si_fanno_spazio_nei_portafogli_dei_paperoni-425627055/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-05T12:44:06.000Z",
-        "excerpt": "Stivanello (CoinShares): “Tra finanza tradizionale e cripto è in corso una convergenza guidata dalla tecnologia e dalla regolamentazione”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/144353563-38a8a87f-4853-470d-8add-13defb2fc8d7.jpg"
-      },
-      {
-        "title": "Il titolo di Critical Metals balza del 13% dopo l’approvazione mineraria in Groenlandia",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-critical-metals-balza-del-13-dopo-lapprovazione-mineraria-in-groenlandia-3574524",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T12:38:56.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg"
-      },
-      {
-        "title": "Autostrade, terminato scavo della nuova galleria San Donato sulla A1",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/autostrade-terminato-scavo-della-nuova-galleria-san-donato-sulla-a1_75f01422-4945-4721-92f3-19fa891e51d7.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T12:36:30.000Z",
-        "excerpt": "Presente ministro Salvini. Dal 2028 disponibili nuovi tratti a tre corsie a sud di Firenze",
-        "image": null
-      },
-      {
-        "title": "UBS aggiorna il modello TPU di Broadcom in base alle modifiche del design v10",
-        "link": "https://it.investing.com/news/stock-market-news/ubs-aggiorna-il-modello-tpu-di-broadcom-in-base-alle-modifiche-del-design-v10-93CH-3574501",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T12:36:03.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/google_2_M_1440049078.jpg"
-      },
-      {
-        "title": "Perché il titolo Terawulf sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-terawulf-sta-salendo-oggi-93CH-3574490",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T12:35:12.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
-      },
-      {
-        "title": "Wall Street cauta prima dell’apertura, Fed vista tenere ferma i tassi",
-        "link": "https://it.investing.com/news/stock-market-news/wall-street-cauta-prima-dellapertura-fed-vista-tenere-ferma-i-tassi-3574488",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T12:35:04.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA6T034_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Aston Martin Lagonda sale oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-aston-martin-lagonda-sale-oggi-93CH-3574485",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T12:34:31.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
       }
     ],
     "europa": [
@@ -737,6 +737,30 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Usa, la Corte Suprema boccia le restrizioni sul voto postale. Trump: “Ha deluso l’America, si fa intimidire dai dem”",
+        "link": "https://www.repubblica.it/esteri/2026/09/15/news/usa_voto_per_posta_corte_suprema_boccia_ricorso_amministrazione_trump_per_introdurre_restrizioni-425585754/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T16:39:47.000Z",
+        "excerpt": "Con un ordine esecutivo, il presidente aveva imposto regole più rigide in vista delle cruciali elezioni di novembre. Il procedimento è stato bocciato sette a due",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/09/15/085747998-234c5c33-61b9-489d-8d9c-fce7f263b2a5.jpg"
+      },
+      {
+        "title": "Usa, la Corte Suprema riapre la strada alle deportazioni dei migranti verso Paesi terzi",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/usa_la_corte_suprema_riapre_la_strada_alle_deportazioni_dei_migranti_verso_paesi_terzi-425616169/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T16:39:41.000Z",
+        "excerpt": "I giudici sospendono i limiti imposti da un tribunale federale e consentono all’amministrazione Trump di riprendere i trasferimenti verso Stati diversi da quelli di origine. La questione sarà esaminatà nel merito a dicem",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/09/30/092521590-55db5c1f-6a46-4466-ab25-32c6946a344e.jpg"
+      },
+      {
+        "title": "Esclusiva: gli Stati Uniti annunciano 150 milioni di $ per le linee elettriche dell'Alaska mentre Vance conduce campagne sul campo di battaglia del Senato",
+        "link": "https://www.investing.com/news/commodities-news/exclusiveus-to-announce-150-million-for-alaska-power-lines-as-vance-campaigns-in-senate-battleground-4932581",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T16:12:40.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941GJ_L.jpg"
+      },
       {
         "title": "Elezioni in Bosnia, il nazionalista filorusso Dodik vince e ringrazia Trump. L’Ue sempre più lontana",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/bosnia_elezioni_vincono_nazionalisti_dodik_ringrazia_trump_ue_sempre_piu_lontana-425627608/?rss",
@@ -1192,30 +1216,6 @@
         "pubDate": "2026-10-04T23:00:00.000Z",
         "excerpt": "I partiti si preparano al voto: l’annuncio del capo della Moncloa atteso per oggi. La mossa del premier: far passare i decreti sugli alloggi dopo aver sciolto le Cortes",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/230155135-f87c2ffe-63b8-4d6c-8af0-820d52fff5a2.jpg"
-      },
-      {
-        "title": "Pizzaballa: “Tutti ancora sono fermi al 7 ottobre 2023, ora è necessario cambiare”",
-        "link": "https://www.repubblica.it/esteri/2026/10/05/news/pizzaballa_intervista_7_ottobre_2023_gaza_elezioni_israele-425625954/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T23:00:00.000Z",
-        "excerpt": "Il cardinale: “Entrambe le popolazioni sono dentro questo trauma profondo. Ma non vogliamo che sia la nuova normalità”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/221937148-4d4a4145-4dae-4cf2-b813-4821d147da01.jpg"
-      },
-      {
-        "title": "Spagna, il leader della protesta delle chiavi: “Giovani esclusi dal mercato abitativo”",
-        "link": "https://www.repubblica.it/esteri/2026/10/05/news/spagna_leader_protesta_casa_chiavi_javier_gil_intervista_crisi_abitativa_giovani-425625911/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T23:00:00.000Z",
-        "excerpt": "Javier Gil: “Anche chi era ragazzo 20 anni fa si è vista negata la possibilità di acquistare un immobile. Serve un intervento pubblico come in Austria”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/214801077-e4a8eaf7-4e32-4611-b092-9274ceb9d1e8.jpg"
-      },
-      {
-        "title": "Usa, un caso gli stupri alle ragazze dei college. “Ottomila in un anno”",
-        "link": "https://www.repubblica.it/esteri/2026/10/05/news/usa_stupri_ragazze_college_dati_2024-425625761/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T23:00:00.000Z",
-        "excerpt": "I dati shock del 2024, quando il branco aggredì una studentessa alla Cornell University. Per la destra è estremismo woke. Il campus dello Utah al primo posto con 146 casi, di cui 122 avvenuti nei dormitori",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/205508393-8afbbfb0-83ed-4aa0-9ccd-0247b72a404a.jpg"
       }
     ]
   },
@@ -1702,6 +1702,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Tennis: pallina contro un tifoso, Medvedev squalificato e Djokovic è in finale",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/05/tennis-pallina-contro-un-tifoso-medvedev-squalificato-e-djokovic-e-in-finale_1b37d7d3-9ab5-4d51-aa1f-832098329240.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T16:31:54.000Z",
+      "excerpt": "Gesto di stizza del russo, colpito uno spettatore a Pechino. A Tokyo Alcaraz per il titolo",
+      "image": null
+    },
     {
       "title": "Milan: accertamenti alla caviglia per Saelemaekers, la stessa già operata",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/milan-accertamenti-alla-caviglia-per-saelemaekers-la-stessa-gia-operata_78ad80cd-66ca-4972-b195-800079806db0.html",
