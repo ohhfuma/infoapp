@@ -1,7 +1,111 @@
 {
-  "lastUpdated": "2026-10-05T18:47:24.662Z",
+  "lastUpdated": "2026-10-05T21:42:14.298Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il titolo di Freshworks sale grazie all’ingresso nell’S&P SmallCap 600",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-freshworks-sale-grazie-allingresso-nellsp-smallcap-600-3575159",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T21:24:36.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM3917D_1200_L.jpg"
+      },
+      {
+        "title": "DayOne Data Centers presenta domanda per IPO negli Stati Uniti",
+        "link": "https://it.investing.com/news/stock-market-news/dayone-data-centers-presenta-domanda-per-ipo-negli-stati-uniti-93CH-3575157",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T21:21:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      },
+      {
+        "title": "Wall Street testa l’appetito dei creditori con l’accordo da $60 miliardi Broadcom-Anthropic",
+        "link": "https://it.investing.com/news/stock-market-news/wall-street-testa-lappetito-dei-creditori-con-laccordo-da-60-miliardi-broadcomanthropic-3575155",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T21:17:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM370ME_1200_L.jpg"
+      },
+      {
+        "title": "Il titolo NeoGenomics cala dopo l’annuncio del cambio di CEO",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-neogenomics-cala-dopo-lannuncio-del-cambio-di-ceo-3575145",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T21:04:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg"
+      },
+      {
+        "title": "Il titolo Vaxcyte scende con il lancio di un’offerta doppia da $1 miliardo",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-vaxcyte-scende-con-il-lancio-di-unofferta-doppia-da-1-miliardo-3575141",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T20:56:45.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg"
+      },
+      {
+        "title": "La Corte Suprema USA respinge il ricorso di Zillow nella causa degli investitori",
+        "link": "https://it.investing.com/news/stock-market-news/la-corte-suprema-usa-respinge-il-ricorso-di-zillow-nella-causa-degli-investitori-93CH-3575140",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T20:55:34.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+      },
+      {
+        "title": "Il Dipartimento dei Trasporti USA chiude revisione privacy sulle compagnie aeree senza sanzioni",
+        "link": "https://it.investing.com/news/stock-market-news/il-dipartimento-dei-trasporti-usa-chiude-revisione-privacy-sulle-compagnie-aeree-senza-sanzioni-93CH-3575138",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T20:53:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
+      },
+      {
+        "title": "Scattano accise sul gasolio più alte, nessun decreto in Gazzetta",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/scattano-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_664823dc-12a3-42e9-851b-f10f32a6c4dd.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T20:48:53.000Z",
+        "excerpt": "Non ci sono quelle mobili, per la prima volta da marzo nessun beneficio fiscale",
+        "image": null
+      },
+      {
+        "title": "Dayone Data Centers presenta domanda di IPO negli Stati Uniti",
+        "link": "https://it.investing.com/news/stock-market-news/dayone-data-centers-presenta-domanda-di-ipo-negli-stati-uniti-432SI-3575130",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T20:42:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg"
+      },
+      {
+        "title": "Accise, il governo ferma gli sconti. Le entrate extra in soccorso al bilancio",
+        "link": "https://www.repubblica.it/economia/2026/10/06/news/accise_sconti_diesel_governo-425628216/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T20:27:00.000Z",
+        "excerpt": "Scade il taglio sul diesel da 6,1 centesimi al litro. Palazzo Chigi punta sul tetto ai prezzi fino a fine anno, il nodo del deficit frena l’utilizzo del gettito Iva di settembre",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/223334366-83fd797b-9968-454f-ac3c-d4eafcfd3788.jpg"
+      },
+      {
+        "title": "Da domani accise sul gasolio più alte, nessun decreto in Gazzetta",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/da-domani-accise-sul-gasolio-piu-alte-nessun-decreto-in-gazzetta_18b8709d-c0ae-4e98-bf8d-fdc2ba8e357a.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T20:24:45.000Z",
+        "excerpt": "Non scattano le accise mobili. Per la prima volta da marzo nessun beneficio fiscale",
+        "image": null
+      },
+      {
+        "title": "Opa su Trevi, Webuild rilancia e sale al 26,8%",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/opa_su_trevi_webuild_rilancia_prezzo_sale_quota-425628067/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T19:44:28.000Z",
+        "excerpt": "Il gruppo guidato da Pietro Salini rileva le quote del socio Praude, compra sul mercato e sorpassa l’azionista storico Cdp Equity (21,3%) che è anche padrone del 16,4% del leader italiano delle costruzioni",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/214418393-177aeedb-a4d1-4eb8-b355-cae2fb061f57.jpg"
+      },
+      {
+        "title": "La produzione di uova vale 3,7 miliardi di euro",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/mercati/2026/10/05/news/la_produzione_di_uova_vale_37_miliardi_di_euro-425627885/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T18:33:46.000Z",
+        "excerpt": "Eurovo ha promosso un incontro per approfondire l’evoluzione di una filiera strategica dell’agroalimentare italiano. Benessere animale, biosicurezza e nuove tecnologie (sessaggio in ovo) sono le sfide che gli operatori d",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/203342452-3eb61bc9-9499-462c-a560-885d2f846378.jpg"
+      },
       {
         "title": "Nasce Giurify, piattaforma di IA per la consulenza legale",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/nasce-giurify-piattaforma-di-ia-per-la-consulenza-legale_f22cbfaf-91b5-4db7-8097-aeed9ba5a00c.html",
@@ -11,28 +115,12 @@
         "image": null
       },
       {
-        "title": "Meta e Microsoft riducono l’uso interno di Claude di Anthropic",
-        "link": "https://it.investing.com/news/stock-market-news/meta-e-microsoft-riducono-luso-interno-di-claude-di-anthropic-3574999",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T18:28:42.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB3R08Z_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Emergent Biosolutions è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-emergent-biosolutions-e-in-forte-rialzo-oggi-93CH-3574993",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T18:17:37.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
-      },
-      {
-        "title": "Goldman Sachs: gli investimenti in AI sosterranno la crescita europea nel 2026",
-        "link": "https://it.investing.com/news/stock-market-news/goldman-sachs-gli-investimenti-in-ai-sosterranno-la-crescita-europea-nel-2026-93CH-3574989",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T18:09:38.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/EuropeanCentralBankECB_800x533_L_1615574421.jpg"
+        "title": "Clima, geopolitica e governance alla prima Conferenza nazionale polare",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/sostenibilita/2026/10/05/news/clima_geopolitica_e_governance_alla_prima_conferenza_nazionale_polare-425627865/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T18:21:51.000Z",
+        "excerpt": "Promossa e coordinata dal Cnr in collaborazione con Enea, Ingv e Ogs l’iniziativa dedicata ad Artico, Antartide e Terzo Polo che si terrà fino a mercoledì 7 ottobre",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/202147332-63e92cb9-8fae-4b0a-8cac-7544553e3829.jpg"
       },
       {
         "title": "La Dama col liocorno di Raffaello in Brianza, le grandi opere dai musei al territorio",
@@ -41,14 +129,6 @@
         "pubDate": "2026-10-05T18:05:00.000Z",
         "excerpt": "Dal 29 ottobre all’11 dicembre visite gratuite tutti i giorni dalle ore 9.30 alle 19. Giuli: «Il patrimonio culturale acquisisce valore quando è accessibile a tutti»",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/muvc7sdhqrjbhs83x9g(1)-U08657726405RXC-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Perché il titolo di ACADIA Pharmaceuticals sale oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-acadia-pharmaceuticals-sale-oggi-93CH-3574983",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T17:51:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
       },
       {
         "title": "La pressione del fisco sale al 43,5%, manovra a caccia di coperture",
@@ -67,6 +147,22 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/sdg4110-1790683288173-U75865273862WxO-1440x752@IlSole24Ore-Web.jpg"
       },
       {
+        "title": "Frequenze telefonini, l’Antitrust frena sui rinnovi: “Si rischia mercato congelato per 8 anni”",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/frequenze_telefonini_gara_antitrust_segnalazione-425627712/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T17:23:44.000Z",
+        "excerpt": "Il Garante della concorrenza chiede di rimettere in gara una parte dello spettro per evitare vantaggi eccessivi agli operatori già più forti. La soluzione proposta prevede una quota assegnata agli attuali gestori e una q",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/190227576-c11009a2-4ade-4fcf-bb0a-213c8f3c635d.jpg"
+      },
+      {
+        "title": "Edison Energia, tre acquisizioni per crescere nell’efficienza energetica",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/storie/2026/10/05/news/edison_energia_tre_acquisizioni_per_crescere_nell_efficienza_energetica-425627746/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T17:16:07.000Z",
+        "excerpt": "Acquisite Ies Solare, Energy Solutions e Gruppo Energia: oltre 60 milioni di fatturato, 130 dipendenti e 32 negozi. L’obiettivo è quadruplicare entro il 2030 la quota di mercato nei servizi destinati a famiglie, condomin",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/191602207-0a5de1c8-e622-42bc-82f3-a3a2b8fe5c39.jpg"
+      },
+      {
         "title": "Fava (Inps), 'capire come il valore prodotto dall'IA possa tornare al welfare'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/fava-inps-capire-come-il-valore-prodotto-dallia-possa-tornare-al-welfare_75c6fa7e-bc4b-4090-abcd-25262e24771f.html",
         "source": "ANSA Economia",
@@ -75,36 +171,20 @@
         "image": null
       },
       {
-        "title": "Perché il titolo Whitecap Resources guadagna oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-whitecap-resources-guadagna-oggi-93CH-3574969",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T16:55:16.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+        "title": "Barilla vince la class action negli Usa sull’etichetta “Marchio n.1 in Italia”: non è ingannevole",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/barilla_class_action_usa_marchio_italia_non_ingannevole-425627727/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T17:08:04.000Z",
+        "excerpt": "Secondo il gruppo di consumatori la dicitura induceva a credere che il prodotto in vendita in America fosse realizzato con ingredienti italiani",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/190758881-df637b9d-bc9d-4d81-84b6-fb855806fd69.jpg"
       },
       {
-        "title": "Le azioni USA salgono in attesa della stagione degli utili",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-usa-salgono-in-attesa-della-stagione-degli-utili-93CH-3574968",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T16:54:12.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Putin autorizza riorganizzazione e vendita controllata russa di UniCredit",
-        "link": "https://it.investing.com/news/stock-market-news/putin-autorizza-vendita-controllata-russa-unicredit-3574921",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T16:48:19.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941F9_L.jpg"
-      },
-      {
-        "title": "La CFTC propone un quadro federale per le cripto con leva al dettaglio",
-        "link": "https://it.investing.com/news/stock-market-news/la-cftc-propone-un-quadro-federale-per-le-cripto-con-leva-al-dettaglio-3574965",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T16:45:58.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB660A4_M.jpg"
+        "title": "Aifi Young, nuove generazioni protagoniste nel private equity e nel venture capital",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/aifi_young_nuove_generazioni_protagoniste_nel_private_equity_e_nel_venture_capital-425627688/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T16:41:58.000Z",
+        "excerpt": "Rinnovato il board del prossimo triennio: eletti 15 professionisti under 35. L’Associazione presieduta dal 2012 da Innocenzo Cipolletta ha esteso anche ai fondi di private debt l’opportunità di aderire",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/184152513-83f9ce90-733e-4ee0-bbd7-18f766d2a4d5.jpg"
       },
       {
         "title": "Putin autorizza la riorganizzazione della divisione russa di UniCredit",
@@ -128,22 +208,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-05T16:27:03.000Z",
         "excerpt": "'Ritiro dei licenziamenti e attivazione di procedure consensuali'",
-        "image": null
-      },
-      {
-        "title": "Gli stranieri in Italia spendono il 2% più degli italiani al supermercato",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/gli-stranieri-in-italia-spendono-il-2-piu-degli-italiani-al-supermercato_5922fde5-57e3-476d-8b69-0f39f90ef2b8.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T16:15:51.000Z",
-        "excerpt": "E' quanto emerge dalla ricerca \"Stranieri in Italia\" di YouGov",
-        "image": null
-      },
-      {
-        "title": "Lo spread tra Btp e Bund chiude stabile a 113 punti base",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/lo-spread-tra-btp-e-bund-chiude-stabile-a-113-punti-base_af495925-ff74-4a37-97f3-0d782f2d1b1d.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T16:09:16.000Z",
-        "excerpt": "Il rendimento del prodotto del Tesoro è al 4,62%",
         "image": null
       },
       {
@@ -197,6 +261,22 @@
     ],
     "europa": [
       {
+        "title": "Israele divisa a tre anni dal massacro del 7 ottobre",
+        "link": "https://www.ilsole24ore.com/art/israele-divisa-tre-anni-massacro-7-ottobre-AJx4NGaB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-05T20:26:00.000Z",
+        "excerpt": "«Non hai protetto mio figlio il 7 ottobre. Non hai protetto 1.200 persone che sono state assassinate in un solo giorno. Vergogna!». L’urlo di un padre israeliano che da tre...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/CKM9J9AP-U18720651106ySI-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Sanchez sfida le destre: Spagna al voto anticipato",
+        "link": "https://www.ilsole24ore.com/art/sanchez-sfida-destre-spagna-voto-anticipato-AJkX7tZB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-05T19:05:55.000Z",
+        "excerpt": "Dopo la bocciatura sul piano casa, il premier socialista convoca le elezioni cavalcando le proteste di piazza: «Serve una maggioranza progressista per nuovi progressi sociali»",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/8f552b3625feebe65b956030f0f07e13-U47050762342IAR-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
         "title": "Maldive, consulenza procura Busto Arsizio: sub morti per mancanza ossigeno",
         "link": "https://www.ilsole24ore.com/art/maldive-consulenza-procura-busto-arsizio-sub-morti-mancanza-ossigeno-AJw0d7ZB",
         "source": "Il Sole 24 Ore Mondo",
@@ -243,22 +323,6 @@
         "pubDate": "2026-10-05T06:21:00.000Z",
         "excerpt": "«Serve una formazione di qualità, un lavoro sicuro e stabile, una retribuzione adeguata, una casa a un prezzo equo», ha detto di recente la premier Giorgia Meloni",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/05/Immagini/Ritagli/milano-U13470057365sey-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Israele, Shin Bet: Hamas pronto a colpire prima del voto",
-        "link": "https://www.ilsole24ore.com/art/iran-usa-ritirano-bombardieri-b-1-base-raf-gran-bretagna-AJKDJGZB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-05T05:25:00.000Z",
-        "excerpt": "",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/c5df807150392e8adb66fabe357287d3(1)-U77142587237Wjj-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Sanchez convoca elezioni anticipate: «La scelta è tra retrocedere con l’ultradestra o avanzare»",
-        "link": "https://www.ilsole24ore.com/art/pressing-psoe-e-governo-sanchez-il-voto-anticipato-AJpV5FZB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-05T05:16:00.000Z",
-        "excerpt": "Il premier spagnolo annuncia la convocazione di elezioni anticipate per domenica 29 novembre",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/2026-10-05T070242Z_829131008_RC2NVFAERL22_RTRMADP_5_SPAIN-ELECTION-U88131511831ZdD-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -393,20 +457,132 @@
     ],
     "mondo": [
       {
-        "title": "I margini della benzina dell'Europa nord-occidentale si mantengono stabili a $40,60",
-        "link": "https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-hold-steady-at-4060-93CH-4932707",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T18:23:10.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEI2N147_L.jpg"
+        "title": "Lo Yemen riconquista lo Stretto di Bab el-Mandeb, Houthi: colpito lo scalo di Riad",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/lo-yemen-riconquista-il-controllo-dello-stretto-di-bab-el-mandeb_c71b1ec7-3e28-462a-8e87-a033e3bf1c63.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-05T21:38:28.000Z",
+        "excerpt": "I pasdaran: 'Nessuna nave Usa a Hormuz, sono fuggite'",
+        "image": null
       },
       {
-        "title": "CFTC propone un quadro federale per gli scambi di criptovalute",
-        "link": "https://www.investing.com/news/commodities-news/cftc-proposes-federal-framework-for-crypto-exchanges-93CH-4932704",
+        "title": "Houthi, 'abbiamo colpito l'aeroporto di Riad e una raffineria di Aramco'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/houthi-abbiamo-colpito-laeroporto-di-riad-e-una-raffineria-di-aramco_385f7316-960b-4858-8ccb-e4499f6f98d5.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-05T21:33:41.000Z",
+        "excerpt": "Portavoce, 'nel mirino anche siti militari nel sud dell'Arabia Saudita'",
+        "image": null
+      },
+      {
+        "title": "Foto inedite di Sinwar diffuse dalle Brigate al Qassem alla vigilia del 7 ottobre",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/foto-inedite-di-sinwar-diffuse-dalle-brigate-al-qassem-alla-vigilia-del_9637cf00-436e-4898-a474-827aa4bfee5c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-05T21:32:02.000Z",
+        "excerpt": "L'ex capo di Hamas ucciso dalle Idf nel 2024",
+        "image": null
+      },
+      {
+        "title": "I prezzi dell'oro sono per lo più piatti poiché il dollaro più solido e la rotta dei titoli del Tesoro sono stati compensati dal calo del petrolio",
+        "link": "https://www.investing.com/news/commodities-news/gold-edges-higher-after-weekly-slide-as-weak-jobs-data-ease-fed-hike-bets-4930980",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T18:18:24.000Z",
+        "pubDate": "2026-10-05T21:21:08.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM2F16J_1200_L.jpg"
+        "image": "https://content-media.investing.com/news/Gold_800x533_L_1778184938.jpg"
+      },
+      {
+        "title": "Il gruppo di conservazione chiede una moratoria sui data center AI nei terreni pubblici degli Stati Uniti",
+        "link": "https://www.investing.com/news/commodities-news/conservation-group-calls-for-moratorium-on-ai-data-centers-on-us-public-lands-4932922",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T20:48:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941TG_L.jpg"
+      },
+      {
+        "title": "Esclusiva: gli Stati Uniti annunciano 150 milioni di $ per le linee elettriche dell'Alaska mentre Vance conduce campagne sul campo di battaglia del Senato",
+        "link": "https://www.investing.com/news/commodities-news/exclusiveus-to-announce-150-million-for-alaska-power-lines-as-vance-campaigns-in-senate-battleground-4932581",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T20:42:49.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941GJ_L.jpg"
+      },
+      {
+        "title": "Trump, il risultato di Bolsonaro in Brasile una 'grande vittoria'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/trump-il-risultato-di-bolsonaro-in-brasile-una-grande-vittoria_1bdb143c-ee82-4d2d-8517-ee26daee1309.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-05T20:21:21.000Z",
+        "excerpt": "'Combattuta, ma davvero enorme. Incredibile'",
+        "image": null
+      },
+      {
+        "title": "Caso Flydubai, la confessione del copilota: “Volevo il martirio per vendicare Gaza”",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/caso_flydubai_confessione_copilota_volevo_martirio_vendicare_gaza-425628179/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T20:09:10.000Z",
+        "excerpt": "La dichiarazione Hamam al-Hammami, il 29enne omanita che mercoledì scorso ha tentato di far precipitare il volo 1073 con 174 passeggeri a bordo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/220528277-7d9c32a5-daec-4c55-b9fd-9f9af30c83eb.jpg"
+      },
+      {
+        "title": "Le forze governative yemenite cacciano gli Houthi dallo stretto di Bab el-Mandeb",
+        "link": "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T19:48:30.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM940GM_L.jpg"
+      },
+      {
+        "title": "Brasile, la deputata transgender Erika Hilton è la donna più votata della storia alla Camera",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/brasile_deputata_transgender_erika_hilton_donna_piu_votata_storia_camera-425628040/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T19:40:18.000Z",
+        "excerpt": "La politica, 33 anni, del Partito socialismo e libertà (Psol) di San Paolo è stata rieletta a San Paolo con 1.596.472 voti. Nella graduatoria complessiva dei candidati, Hilton si è piazzata al secondo posto a livello naz",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/214005557-39435ba1-1a49-4426-808c-06281f1f7b3c.jpg"
+      },
+      {
+        "title": "Il petrolio greggio WTI testa il 50% di Fib a $88,76 in mezzo alla tendenza al ribasso: Live",
+        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-200-sma-after-hs-breakdown-live-levels-93CH-4931134",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T19:20:45.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB5605H_M.jpg"
+      },
+      {
+        "title": "L'argento si consolida vicino a $61,54 con la bandiera dell'orso completa all'80%: Live",
+        "link": "https://www.investing.com/news/commodities-news/silver-bounces-at-6165-but-macro-downtrend-looms-live-levels-93CH-4931129",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T19:20:41.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8T1CF_M.jpg"
+      },
+      {
+        "title": "Il gasolio di Londra si comprime al di sopra del supporto di $1.358: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1356-support-on-5h-chart-live-levels-93CH-4931131",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T19:20:41.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8015J_M.jpg"
+      },
+      {
+        "title": "Gas naturale bloccato a $3,08 resistenza al cloud: livelli Live",
+        "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-at-3016-with-bear-flag-forming-live-levels-93CH-4931132",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T19:20:41.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXNPEKAS0PN_L.jpg"
+      },
+      {
+        "title": "Turchia e Pakistan invieranno forze militari in Arabia Saudita",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/turchia-e-pakistan-invieranno-forze-militari-in-arabia-saudita_f54efd4a-31ad-4e15-ad18-992d3d960763.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-05T19:09:26.000Z",
+        "excerpt": "A sostegno del Regno, bersaglio degli attacchi degli Houthi",
+        "image": null
+      },
+      {
+        "title": "L’Estonia avvicina le truppe al confine russo. La Nato rivede i suoi piani",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/estonia_russia_truppe_al_confine_germania_guerra_ombra-425626949/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T18:33:50.000Z",
+        "excerpt": "Il Paese baltico, rivela il Financial Times, si prepara a un eventuale confronto con le forze del Cremlino: per Tallinn “la deterrenza della Nato non sta funzionando”. E anche i Servizi di Berlino sono in allerta",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/140337124-02b45734-d02a-4a3e-90cf-b65a286f329d.jpg"
       },
       {
         "title": "Il copilota, 'l'ho fatto per vendicare Gaza, volevo morire da martire'",
@@ -417,28 +593,20 @@
         "image": null
       },
       {
+        "title": "Elezioni in Bosnia, vincono i nazionalisti e i serbi ringraziano Trump. L’Ue sempre più lontana",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/bosnia_elezioni_vincono_nazionalisti_dodik_ringrazia_trump_ue_sempre_piu_lontana-425627608/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T17:36:57.000Z",
+        "excerpt": "Dalle urne esce un Paese sempre più spaccato fra i diversi etnonazionalismi. E i serbi tornano a minacciare la secessione",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/180036429-fcf63058-e5d2-4dd4-9cbe-d9a07f85fde2.jpg"
+      },
+      {
         "title": "Gli studenti tornano in piazza, la Francia teme il caos generale",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/gli-studenti-tornano-in-piazza-la-francia-teme-il-caos-generale_165e5e2d-a588-490e-a3ca-a745a8340512.html",
         "source": "ANSA Mondo",
         "pubDate": "2026-10-05T17:26:35.000Z",
         "excerpt": "Tensione alla vigilia delle proteste, 15enne perde la mano per una granata della polizia",
         "image": null
-      },
-      {
-        "title": "Lo Yemen riconquista il controllo dello Stretto di Bab el-Mandeb",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/lo-yemen-riconquista-il-controllo-dello-stretto-di-bab-el-mandeb_c71b1ec7-3e28-462a-8e87-a033e3bf1c63.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T17:10:18.000Z",
-        "excerpt": "Attacco agli Houthi sul Mar Rosso. I pasdaran: 'Nessuna nave Usa a Hormuz, sono fuggite'",
-        "image": null
-      },
-      {
-        "title": "Mentre la guerra in Iran fa salire i prezzi della benzina negli Stati Uniti, Trump incolpa l'Ucraina, i democratici",
-        "link": "https://www.investing.com/news/commodities-news/as-iran-war-drives-up-gasoline-prices-in-us-trump-blames-ukraine-democrats-4932639",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T17:07:02.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941J9_L.jpg"
       },
       {
         "title": "Brasile, Erika Hilton è la donna più votata della storia alla Camera",
@@ -449,102 +617,134 @@
         "image": null
       },
       {
-        "title": "Calano le maschere d'ossigeno durante il volo, aereo della British per Chicago torna a Londra",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/aereo-della-british-in-volo-per-chicago-dichiara-emergenza-e-torna-a-londra_ea190105-a55f-4c0a-86bd-ef196d9adb7a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T17:00:38.000Z",
-        "excerpt": "Problema di pressurizzazione in cabina, ma il vettore rassicura: 'Atterraggio sicuro e sbarco normale'",
-        "image": null
+        "title": "Un volo Londra-Chicago rientrato a Heathrow in emergenza: problema di depressurizzazione",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/volo_londra_chicago_emergenza-425627417/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T16:57:16.000Z",
+        "excerpt": "L’aereo ha \"segnalato il codice 7700 ed è sceso fino a circa 2.700 metri sopra l'Irlanda\". Al momento non risultano feriti a bordo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/171004555-0abc5cc0-2029-465e-801b-4b9609d4759c.jpg"
       },
       {
-        "title": "I margini del diesel europeo salgono di oltre l'8% in attesa del piano di riserva del G7",
-        "link": "https://www.investing.com/news/commodities-news/european-diesel-margins-climb-over-8-as-g7-reserve-plan-awaited-93CH-4932628",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T16:56:09.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
+        "title": "Usa, la Corte Suprema boccia le restrizioni sul voto postale. Trump: “Ha deluso l’America, si fa intimidire dai dem”",
+        "link": "https://www.repubblica.it/esteri/2026/09/15/news/usa_voto_per_posta_corte_suprema_boccia_ricorso_amministrazione_trump_per_introdurre_restrizioni-425585754/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T16:39:47.000Z",
+        "excerpt": "Con un ordine esecutivo, il presidente aveva imposto regole più rigide in vista delle cruciali elezioni di novembre. Il procedimento è stato bocciato sette a due",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/09/15/085747998-234c5c33-61b9-489d-8d9c-fce7f263b2a5.jpg"
       },
       {
-        "title": "Rabbia e voglia di riscatto, la serata da incubo dei lulistas",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/rabbia-e-voglia-di-riscatto-la-serata-da-incubo-dei-lulistas_7ed8ff8c-6d33-4b03-883c-5555166e7812.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T16:36:59.000Z",
-        "excerpt": "In un hotel di San Paolo la paura di vedere la fine di una icona della sinistra mondiale",
-        "image": null
+        "title": "Usa, la Corte Suprema riapre la strada alle deportazioni dei migranti verso Paesi terzi",
+        "link": "https://www.repubblica.it/esteri/2026/09/30/news/usa_la_corte_suprema_riapre_la_strada_alle_deportazioni_dei_migranti_verso_paesi_terzi-425616169/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T16:39:41.000Z",
+        "excerpt": "I giudici sospendono i limiti imposti da un tribunale federale e consentono all’amministrazione Trump di riprendere i trasferimenti verso Stati diversi da quelli di origine. La questione sarà esaminatà nel merito a dicem",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/09/30/092521590-55db5c1f-6a46-4466-ab25-32c6946a344e.jpg"
       },
       {
-        "title": "Esclusiva: gli Stati Uniti annunciano 150 milioni di $ per le linee elettriche dell'Alaska mentre Vance conduce campagne sul campo di battaglia del Senato",
-        "link": "https://www.investing.com/news/commodities-news/exclusiveus-to-announce-150-million-for-alaska-power-lines-as-vance-campaigns-in-senate-battleground-4932581",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T16:36:43.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941GJ_L.jpg"
-      },
-      {
-        "title": "Le forze governative yemenite cacciano gli Houthi dallo stretto di Bab el-Mandeb",
-        "link": "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T16:36:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM940GM_L.jpg"
-      },
-      {
-        "title": "Le turbolenze del mercato petrolifero potrebbero durare per anni, dicono i dirigenti ",
-        "link": "https://www.investing.com/news/commodities-news/replenishing-crude-and-fuel-stocks-could-take-two-years-saudi-aramco-ceo-says-4931614",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T15:42:44.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM940L3_L.jpg"
-      },
-      {
-        "title": "Il grano Euronext raggiunge il massimo di tre settimane su un euro debole e un accordo saudita",
-        "link": "https://www.investing.com/news/commodities-news/euronext-wheat-hits-threeweek-high-on-weak-euro-and-saudi-deal-93CH-4932532",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T15:29:10.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/wheat2_M_1440050208.jpg"
-      },
-      {
-        "title": "Gruppo sudafricano Sasol tra i migliori performer emergenti fuori dall'Asia",
-        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/05/gruppo-sudafricano-sasol-tra-i-migliori-performer-emergenti-fuori-dallasia_6c23509e-05d0-4c75-9fac-d088b7b7b032.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T15:19:29.000Z",
-        "excerpt": "Raffineria di Secunda produce carburanti sintetici utilizzando carbone non petrolio",
-        "image": null
-      },
-      {
-        "title": "'Shin Bet avverte il governo, Hamas pronto ad attacco a ridosso del voto'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/shin-bet-avverte-il-governo-hamas-pronto-ad-attacco-a-ridosso-del-voto_d7fbcc67-e771-4a12-9cde-a79a22ff7066.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T15:18:08.000Z",
-        "excerpt": "Media, 'Lo ha comunicato l'intelligence ieri sera durante il gabinetto politico'",
-        "image": null
+        "title": "Francia, 15enne perde una mano durante le proteste studentesche: indagine su granata della polizia",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/francia_perde_mano_durante_proteste_studenti_indagine_granata_polizia-425627510/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T15:31:03.000Z",
+        "excerpt": "Continuano gli scontri durante le manifestazioni degli studenti. L’incidente a Lens, nel nord del Paese. Il premier Lecornu la ripresa delle lezioni dove possibile e ha affidato ai ministri cinque cantieri sulle question",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/173053716-b5747a97-a393-478c-b323-5d30eae42da5.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Nations League, Italia-Turchia in campo alle 20:45 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-italia-turchia-in-campo-alle-2045-diretta_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-05T18:33:24.000Z",
-      "excerpt": "Nove cambi per gli azzurri, torna Romano",
+      "title": "Boxer Clemente Russo returns to the ring at 44: “I don’t want a retired athlete’s belly”",
+      "link": "https://europe.repubblica.it/en/sport/2026/10/05/news/clemente_russo_boxing_comeback_retired_athlete_s_belly-425625264/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T04:00:00.000Z",
+      "excerpt": "The Italian national boxing team’s technical director: “I don’t want to let myself go. And boxing is inside me, like another organ in my body.”",
       "image": null
     },
     {
-      "title": "Il comandante dei Carabinieri Luongo al Tg1: \"Se qualcuno dell'Arma ha sbagliato su Garlasco pagherà\"",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/garlasco-tempi-piu-lunghi-per-listanza-di-revisione-di-alberto-stasi_7744924d-7adc-40cf-85c8-9c465fe8d05b.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-05T18:06:00.000Z",
-      "excerpt": "Spunta una perizia psicologica del 2007 su Stasi, mai depositata. La criminologa smentisce",
+      "title": "Accise, il governo ferma gli sconti. Le entrate extra in soccorso al bilancio",
+      "link": "https://www.repubblica.it/economia/2026/10/06/news/accise_sconti_diesel_governo-425628216/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T23:00:00.000Z",
+      "excerpt": "Scade il taglio sul diesel da 6,1 centesimi al litro. Palazzo Chigi punta sul tetto ai prezzi fino a fine anno, il nodo del deficit frena l’utilizzo del gettito Iva di settembre",
       "image": null
     },
     {
-      "title": "Ranucci sospeso per 10 giorni dalla Rai, il legale: 'Faremo ricorso'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/ranucci-sospeso-per-10-giorni-dalla-rai-il-legale-faremo-ricorso_2fef0e65-81ef-4744-85b5-1894f6d936a7.html",
+      "title": "Il voto a maggio più vicino, e Meloni tutela la sua voce dai deepfake",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/il-voto-a-maggio-piu-vicino-e-meloni-tutela-la-sua-voce-dai-deepfake_166e0661-729d-445b-b106-17c3ea8888c6.html",
       "source": "ANSA",
-      "pubDate": "2026-10-05T18:02:53.000Z",
-      "excerpt": "Attesa a breve la pronuncia sul reintegro. Corsini: 'Speriamo non torni a Report'",
+      "pubDate": "2026-10-05T21:19:00.000Z",
+      "excerpt": "Malan si sbilancia sull'election day, poi puntualizza: 'Fatte salve prerogative del Colle'",
+      "image": null
+    },
+    {
+      "title": "La Francia soffre, ma il finale è da urlo: 4-1 al Belgio",
+      "link": "https://www.repubblica.it/sport/calcio/2026/10/05/news/francia_batte_belgio_nations_league-425628278/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T21:05:40.000Z",
+      "excerpt": "Grazie ai cambi, Zidane viene a capo (4-1) della squadra di Van Bommel, avanti fino al 77' grazie a una rete di Lukebakio. Grandi protagonisti Doué (un gol su suggerimento di Da Cunha e due assist) e Olise (due gol e un ",
+      "image": null
+    },
+    {
+      "title": "Per le donne il gender gap pesa anche sull'accesso all'abitare",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/10/05/per-le-donne-il-gender-gap-pesa-anche-sullaccesso-allabitare_e68af765-0617-407b-a838-4db5881b4058.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T21:05:11.000Z",
+      "excerpt": "Una ricerca promossa dalla Fondazione Torino Città per le Donne",
+      "image": null
+    },
+    {
+      "title": "Migranti, Salvini dopo il video di Richard Gere: “Fai l’attore, non dare lezioni agli italiani”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/05/news/richard_gere_matteo_salvini_video_migranti_lezioni_italiani-425628250/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T20:36:51.000Z",
+      "excerpt": "La stella di Hollywood aveva registrato un filmato a sostegno di ActionAid. “Difendiamo la comune umanità”",
+      "image": null
+    },
+    {
+      "title": "Caso Flydubai, la confessione del copilota: “Volevo il martirio per vendicare Gaza”",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/caso_flydubai_confessione_copilota_volevo_martirio_vendicare_gaza-425628179/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T20:05:38.000Z",
+      "excerpt": "La dichiarazione Hamam al-Hammami, il 29enne omanita che mercoledì scorso ha tentato di far precipitare il volo 1073 con 174 passeggeri a bordo",
+      "image": null
+    },
+    {
+      "title": "Brasile, la deputata transgender Erika Hilton è la donna più votata della storia alla Camera",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/brasile_deputata_transgender_erika_hilton_donna_piu_votata_storia_camera-425628040/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T19:38:18.000Z",
+      "excerpt": "La politica, 33 anni, del Partito socialismo e libertà (Psol) di San Paolo è stata rieletta a San Paolo con 1.596.472 voti. Nella graduatoria complessiva dei candidati, Hilton si è piazzata al secondo posto a livello naz",
+      "image": null
+    },
+    {
+      "title": "Nuovo allarme degli 007 tedeschi, l'Estonia sposta le truppe",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/financial-times-lestonia-sposta-le-truppe-piu-vicino-al-confine-con-la-russia_ba3b1d1a-ca86-47b7-904e-b7cdf2c99464.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T19:06:15.000Z",
+      "excerpt": "L'intelligence di Berlino: Mosca sta conducendo una 'guerra ombra' contro la Germania",
+      "image": null
+    },
+    {
+      "title": "Italia U21 straripante: 6-2 alla Polonia e pass diretto per gli Europei. Gol di Ndour da 70 metri",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/10/05/news/italia_polonia_u21_gol-425627874/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T18:25:51.000Z",
+      "excerpt": "Dominio degli azzurrini: sblocca Koleosho, poi doppietta di Ndour. Segnano anche Lipani, Fini e Cherubini",
+      "image": null
+    },
+    {
+      "title": "La scommessa di Sanchez, elezioni anticipate il 29 novembre",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/sanchez-ho-deciso-di-convocare-le-elezioni-anticipate-il-29-novembre_1a6ab6a9-c5ba-40c3-8694-65c484301904.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T18:10:17.000Z",
+      "excerpt": "Il premier cavalca la protesta per ribaltare i sondaggi e riapprova i decreti casa",
+      "image": null
+    },
+    {
+      "title": "Novi Ligure, corteo pro Gaza promosso sul registro elettronico del liceo: ispezione del ministero",
+      "link": "https://torino.repubblica.it/cronaca/2026/10/05/news/novi_ligure_corteo_gaza_liceo_amaldi_ispezione_ministero-425627710/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T17:01:12.000Z",
+      "excerpt": "La destra insorge contro l’istituto Amaldi, il preside spiega: “Errore di comunicazione, non è un evento istituzionale”",
       "image": null
     },
     {
@@ -572,14 +772,6 @@
       "image": null
     },
     {
-      "title": "Per le donne il gender gap pesa anche sull'accesso all'abitare",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/10/05/per-le-donne-il-gender-gap-pesa-anche-sullaccesso-allabitare_e68af765-0617-407b-a838-4db5881b4058.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-05T12:16:15.000Z",
-      "excerpt": "Una ricerca promossa dalla Fondazione Torino Città per le Donne",
-      "image": null
-    },
-    {
       "title": "Massicce il doppio di Giove le stelle mancate più piccole mai viste",
       "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/05/massicce-il-doppio-di-giove-le-stelle-mancate-piu-piccole-mai-viste_7f8fc73d-938b-4cba-b21d-257f8e5b5a7c.html",
       "source": "ANSA",
@@ -590,27 +782,43 @@
   ],
   "sport": [
     {
-      "title": "Nations League, in campo Italia-Turchia LIVE",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-italia-turchia-in-campo-alle-2045-diretta_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
+      "title": "Nations League: l'Italia chiude in bellezza, a Bologna è 3-1 alla Turchia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-litalia-chiude-in-bellezza-a-bologna-e-3-1-alla-turchia_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-05T18:42:58.000Z",
-      "excerpt": "Nove cambi per gli azzurri, torna Romano",
+      "pubDate": "2026-10-05T21:36:55.000Z",
+      "excerpt": "Prima vittoria in casa per Mancini, ora azzurri secondi del girone",
       "image": null
     },
     {
-      "title": "Italia U.21 show, travolge la Polonia 6-2 e va agli Europei",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/calcio-6-2-alla-polonia-litalia-under-21-si-qualifica-agli-europei-2027_5fac3fa3-750b-416c-b77b-caf39eacdfcd.html",
+      "title": "Mancini: 'Sto ritrovando l'Italia, ma mi manca Vialli'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/mancini-sto-ritrovando-litalia-ma-mi-manca-vialli_a83ee525-3338-441e-992c-ca5efb08dbf1.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-05T18:35:33.000Z",
-      "excerpt": "Apre Koleosho, doppio Ndour che segna da quasi 70 metri, chiudono Lipani, Fini e Cherubini",
+      "pubDate": "2026-10-05T21:35:58.000Z",
+      "excerpt": "Il ct azzurro: 'Felice della prestazione e del percorso. Pio ha fame, Calafiori leader'",
       "image": null
     },
     {
-      "title": "Figc: l'ora della verità al Coni, vicina soluzione con Malagò commissario",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/figc-vicina-una-soluzione-commissariamento-ma-con-malago_33a03618-124c-4095-9c6f-6d303b935ba9.html",
+      "title": "Nations League: Scamacca 'era importantissimo vincere'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-scamacca-era-importantissimo-vincere_2f1da7e6-a619-4e33-8aa0-be0fa9b3cbaf.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-05T18:33:10.000Z",
-      "excerpt": "Domani la Giunta e il Consiglio, mediazione per evitare la spaccatura totale",
+      "pubDate": "2026-10-05T20:52:00.000Z",
+      "excerpt": "L'azzurro'sapevamo che non sarebbe stato facile, perché Turchia è una squadra aggressiva'",
+      "image": null
+    },
+    {
+      "title": "Nations League: Mancini 'sofferto all'inizio ma bravi a riprendere la partita'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-mancini-sofferto-allinizio-ma-bravi-a-riprendere-la-partita_df7fa1dc-e750-45f2-bfef-fb77b0818853.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T20:50:34.000Z",
+      "excerpt": "Il ct azzurro: 'Dobbiamo continuare così, vediamo le partite di novembre'",
+      "image": null
+    },
+    {
+      "title": "Nations League: Francia-Belgio 4-1",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-francia-belgio-4-1_bfbe4f95-dc2f-44f3-be30-7e877909f898.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T20:41:53.000Z",
+      "excerpt": "Doué e Cherki ribaltano il vantaggio di Lukebakio",
       "image": null
     },
     {
@@ -635,22 +843,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-05T18:08:55.000Z",
       "excerpt": "Larga vittoria a Pescara degli azzurrini primi per differenza reti",
-      "image": null
-    },
-    {
-      "title": "Nations League: Mancini fa nove cambi, torna Romano",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/nations-league-mancini-fa-nove-cambi-torna-romano_e1b8e4f6-c26d-40d3-a2ce-8b8b5cbcd5ed.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-05T17:44:10.000Z",
-      "excerpt": "In attacco c'è Scamacca, esordio dal 1' per Doumbia",
-      "image": null
-    },
-    {
-      "title": "Ciccone contesta 2/o posto agli Europei, voglio vedere il fotofinish su linea arrivo",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/05/ciccone-contesta-2o-posto-agli-europei-voglio-vedere-il-fotofinish-su-linea-arrivo_ceffe3b0-f837-4e1d-b761-d0c462eb4a45.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-05T16:57:34.000Z",
-      "excerpt": "Il ciclista azzurro: \"Dalle immagini una dinamica non conciliabile con il verdetto\"",
       "image": null
     }
   ]
