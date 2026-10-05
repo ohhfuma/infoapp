@@ -4,12 +4,52 @@
   "finanza": {
     "italia": [
       {
+        "title": "Lo spread torna a salire e fa cadere l’unico successo rivendicato dalla Melonomics",
+        "link": "https://www.repubblica.it/economia/rubriche/circo-massimo/2026/10/05/news/lo_spread_torna_a_salire_e_fa_cadere_l_unico_successo_rivendicato_dalla_melonomics-425621760/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T01:00:00.000Z",
+        "excerpt": "L’ecosistema finanziario sta peggiorando a gran velocità e il dibattito pubblico italiano avvelenato dalla campagna elettorale non se ne accorge",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/161005113-3b34eba8-e6d0-4046-a797-359f287733ec.jpg"
+      },
+      {
+        "title": "Tra inflazione e tassi un altro whatever it takes",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/tra_inflazione_e_tassi_un_altro_whatever_it_takes-425621723/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T01:00:00.000Z",
+        "excerpt": "Se la situazione dei debiti andasse fuori controllo, servirebbe un altro “whatever it takes”, in attesa che l’’Europa viri con forza verso la transizione per attutire gli impatti geopolitici",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/02/155840519-f7ca5f6f-cc55-456b-ae1b-64aec58d6f32.jpg"
+      },
+      {
+        "title": "CSL pagherà fino a 1,6 miliardi per un farmaco per malattie rare; titolo in rialzo",
+        "link": "https://it.investing.com/news/stock-market-news/csl-paghera-fino-a-16-miliardi-per-un-farmaco-per-malattie-rare-titolo-in-rialzo-3573291",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T00:53:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEE33022_M.jpg"
+      },
+      {
         "title": "I futures azionari USA salgono dopo i dati deboli sull’occupazione",
         "link": "https://it.investing.com/news/stock-market-news/i-futures-azionari-usa-salgono-dopo-i-dati-deboli-sulloccupazione-3573287",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-05T00:19:24.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg"
+      },
+      {
+        "title": "Il Tfs per gli statali mina sui conti. Il governo prepara l’ennesima norma tampone da 600 milioni",
+        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/05/news/manovra_2027_tfs_statali_mina_sui_conti-425625994/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "La Consulta si aspetta che nel 2027 il trattamento di fine servizio, l’equivalente del Tfr ai privati, sia erogato senza ritardi. Secondo l’Inps servono almeno 4 miliardi",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/230726467-5e631dfd-4cb3-403b-81aa-bfdc20ab574b.jpg"
+      },
+      {
+        "title": "L’emergenza casa investe tutta Europa. In Italia 3 milioni in crisi",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/emergenza_casa_italia_europa_prezzi-425625809/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-04T23:00:00.000Z",
+        "excerpt": "Nella Ue le difficoltà interessano il 7,7% della popolazione. Da Berlino a New York l’impegno dei nuovi sindaci",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/210916006-8be18e7d-9951-44a2-99e5-0933297ba5dd.jpg"
       },
       {
         "title": "Titolo Adobe: 5 domande strategiche per la nuova leadership",
@@ -401,6 +441,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Le esportazioni di petrolio greggio del Medio Oriente superano i livelli prebellici, ma aumentano gli attacchi alle petroliere",
+        "link": "https://www.investing.com/news/commodities-news/middle-east-crude-oil-exports-exceed-prewar-levels-but-tanker-attacks-increase-4930981",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T01:18:35.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9403S_L.jpg"
+      },
+      {
+        "title": "Bordi d'oro più alti dopo la scivolata settimanale mentre i dati sui lavori deboli facilitano le scommesse sull'aumento della Fed",
+        "link": "https://www.investing.com/news/commodities-news/gold-edges-higher-after-weekly-slide-as-weak-jobs-data-ease-fed-hike-bets-4930980",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T01:16:10.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/Gold_800x533_L_1778184938.jpg"
+      },
+      {
         "title": "Nel rozzo discorso del rally dell'Ohio, Trump dice che potrebbe non aiutare se i democratici vincessero",
         "link": "https://www.investing.com/news/commodities-news/in-crude-ohio-rally-speech-trump-says-he-may-not-help-if-democrats-win-4930974",
         "source": "Investing.com Commodities",
@@ -699,6 +755,30 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Bolsonaro avanti su Lula, 47% contro il 45%, il 25 ottobre ci sarà il ballottaggio",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/bolsonaro-avanti-su-lula-47-contro-il-45-il-25-ottobre-ci-sara-il-ballottaggio_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T01:27:29.000Z",
+      "excerpt": "Il Partito liberale (Pl), principale forza del campo bolsonarista, si avvia a essere protagonista del rinnovato Senato brasiliano",
+      "image": null
+    },
+    {
+      "title": "Tra inflazione e tassi un altro whatever it takes",
+      "link": "https://www.repubblica.it/economia/2026/10/05/news/tra_inflazione_e_tassi_un_altro_whatever_it_takes-425621723/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T01:00:00.000Z",
+      "excerpt": "Se la situazione dei debiti andasse fuori controllo, servirebbe un altro “whatever it takes”, in attesa che l’’Europa viri con forza verso la transizione per attutire gli impatti geopolitici",
+      "image": null
+    },
+    {
+      "title": "Lo spread torna a salire e fa cadere l’unico successo rivendicato dalla Melonomics",
+      "link": "https://www.repubblica.it/economia/rubriche/circo-massimo/2026/10/05/news/lo_spread_torna_a_salire_e_fa_cadere_l_unico_successo_rivendicato_dalla_melonomics-425621760/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T01:00:00.000Z",
+      "excerpt": "L’ecosistema finanziario sta peggiorando a gran velocità e il dibattito pubblico italiano avvelenato dalla campagna elettorale non se ne accorge",
+      "image": null
+    },
     {
       "title": "Bolsonaro avanti su Lula, con l'85% dei voti scrutinati Bolsonaro al 48% e Lula al 43% ballottaggio il 25 ottobre",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/bolsonaro-avanti-su-lula-con-l85-dei-voti-scrutinati-bolsonaro-al-48-e-lula_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
