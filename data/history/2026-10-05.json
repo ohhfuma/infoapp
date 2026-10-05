@@ -4,6 +4,30 @@
   "finanza": {
     "italia": [
       {
+        "title": "Qualcomm e Arm avviano un nuovo processo sugli strumenti di test dei chip",
+        "link": "https://it.investing.com/news/stock-market-news/qualcomm-e-arm-avviano-un-nuovo-processo-sugli-strumenti-di-test-dei-chip-3574919",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T15:52:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
+      },
+      {
+        "title": "Borsa: l'Europa conclude in tenuta, Londra +0,3%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/borsa-leuropa-conclude-in-tenuta-londra-03_a75c87b3-f3c6-4549-81e1-770dcd3f4abc.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T15:47:03.000Z",
+        "excerpt": "Negativa solo Parigi con lo scivolone di Schneider Electric dopo l'acquisto di Ptc",
+        "image": null
+      },
+      {
+        "title": "Borsa: Milano chiude in rialzo, Ftse Mib +0,66%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/borsa-milano-chiude-in-rialzo-ftse-mib-066_f4b265ef-2256-4786-95ba-4ada19418bea.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T15:42:37.000Z",
+        "excerpt": "L'indice dei titoli principali di Piazza Affari a 50.818 punti",
+        "image": null
+      },
+      {
         "title": "Borsa Usa, S&P 500 in rialzo, Nasdaq ai massimi storici su ascesa titoli tech megacap",
         "link": "https://it.investing.com/news/stock-market-news/borsa-usa-sp-500-in-rialzo-nasdaq-ai-massimi-storici-su-ascesa-titoli-tech-megacap-3574909",
         "source": "Investing.com Italia",
@@ -458,30 +482,6 @@
         "pubDate": "2026-10-05T12:34:31.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Tullow Oil è salito del 17% oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-tullow-oil-e-salito-del-17-oggi-93CH-3574483",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T12:33:43.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/Crudeoil_800x533_L_1629278488.jpg"
-      },
-      {
-        "title": "Perché il titolo CMC Markets è in rialzo del 2% oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-cmc-markets-e-in-rialzo-del-2-oggi-93CH-3574482",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T12:33:42.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
-      },
-      {
-        "title": "Legge elettorale: il governo pone la fiducia sugli articoli 1, 2 e 3. Giovedì la maggioranza alla prova del voto",
-        "link": "https://www.ilsole24ore.com/art/legge-elettorale-governo-pone-fiducia-articoli-1-2-e-3-giovedi-maggioranza-prova-voto-AJGbjdZB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-05T12:32:00.000Z",
-        "excerpt": "Giovedì, 8 ottobre a partire dalle 10.30 si svolgeranno le dichiarazioni di voto finale sul provvedimento in diretta tv: la votazione finale è prevista non prima delle ore 12.30",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/d2b375a524efe0853c76adfc0506b905-U41841858227wUv-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "europa": [
@@ -737,6 +737,22 @@
       }
     ],
     "mondo": [
+      {
+        "title": "Elezioni in Bosnia, il nazionalista filorusso Dodik vince e ringrazia Trump. L’Ue sempre più lontana",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/bosnia_elezioni_vincono_nazionalisti_dodik_ringrazia_trump_ue_sempre_piu_lontana-425627608/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T16:06:23.000Z",
+        "excerpt": "Dalle urne esce un Paese sempre più spaccato fra i diversi etnonazionalismi. E i serbi tornano a minacciare la secessione",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/180036429-fcf63058-e5d2-4dd4-9cbe-d9a07f85fde2.jpg"
+      },
+      {
+        "title": "Aereo della British in volo per Chicago dichiara emergenza e torna a Londra",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/aereo-della-british-in-volo-per-chicago-dichiara-emergenza-e-torna-a-londra_ea190105-a55f-4c0a-86bd-ef196d9adb7a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-05T16:04:40.000Z",
+        "excerpt": "E' sceso di quota sull'Irlanda prima di fare inversione. Si pensa a un problema tecnico",
+        "image": null
+      },
       {
         "title": "Francia, 15enne perde una mano durante le proteste studentesche: indagine su granata della polizia",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/francia_perde_mano_durante_proteste_studenti_indagine_granata_polizia-425627510/?rss",
@@ -1200,22 +1216,6 @@
         "pubDate": "2026-10-04T23:00:00.000Z",
         "excerpt": "I dati shock del 2024, quando il branco aggredì una studentessa alla Cornell University. Per la destra è estremismo woke. Il campus dello Utah al primo posto con 146 casi, di cui 122 avvenuti nei dormitori",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/205508393-8afbbfb0-83ed-4aa0-9ccd-0247b72a404a.jpg"
-      },
-      {
-        "title": "Tra i fantasmi di Nir Oz il futuro di Israele si decide sul 7 ottobre",
-        "link": "https://www.repubblica.it/esteri/2026/10/05/news/kibbutz_nir_oz_israele_elezioni_7_ottobre_netanyahu-425625707/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T23:00:00.000Z",
-        "excerpt": "Viaggio nel kibbutz martoriato da Hamas: a 3 anni dal pogrom il ricordo del giorno più nero apre la campagna elettorale. Si vota a fine mese: sarà ancora un referendum su Netanyahu",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/204355375-04de7c8d-e17b-4569-a513-cfbfd2fe4487.jpg"
-      },
-      {
-        "title": "Javier Cercas: “In Spagna siamo al paradosso di un Paese che cresce ma non dà la casa ai deboli”",
-        "link": "https://www.repubblica.it/esteri/2026/10/05/news/intervista_javier_cercas_spagna_crisi_abitativa_casa_deboli_sanchez-425625682/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T23:00:00.000Z",
-        "excerpt": "Lo scrittore spagnolo: “Sánchez in politica estera ha fatto bene, ma ha sbagliato a governare con i catalani, sono di destra”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/203929355-19316003-067b-4fc0-b33c-5e6e385e9ce9.jpg"
       }
     ]
   },
@@ -1226,6 +1226,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-06T04:00:00.000Z",
       "excerpt": "The Italian national boxing team’s technical director: “I don’t want to let myself go. And boxing is inside me, like another organ in my body.”",
+      "image": null
+    },
+    {
+      "title": "Via Malagò, arriva Malagò: verso l’accordo per il commissariamento della Figc",
+      "link": "https://www.repubblica.it/sport/calcio/2026/10/05/news/malago_commissario_figc_giunta_coni-425627577/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T15:53:33.000Z",
+      "excerpt": "Martedì la Giunta decisiva: questa soluzione eviterebbe un braccio di ferro ai voti scongiurando la spaccatura nella Giunta Coni",
       "image": null
     },
     {
@@ -1242,6 +1250,22 @@
       "source": "ANSA",
       "pubDate": "2026-10-05T15:25:48.000Z",
       "excerpt": "Media: 'Lo ha comunicato l'intelligence ieri sera durante il gabinetto politico'",
+      "image": null
+    },
+    {
+      "title": "Valle dei Templi metropoli romana e poi cristiana: la scoperta grazie a 20 campagne di scavo",
+      "link": "https://palermo.repubblica.it/societa/2026/10/05/news/valle_templi_agrigento_scavi_metropoli_romana_cristiana_archeologia_sicilia-425627483/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T15:21:18.000Z",
+      "excerpt": "Agrigento riscopre la metropoli di 16 secoli fa, coinvolti nella ricerca atenei italiani e stranieri come quelli di Lisbona e Bordeaux",
+      "image": null
+    },
+    {
+      "title": "Un volo Londra-Chicago sta rientrando a Heathrow in emergenza",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/volo_londra_chicago_emergenza-425627417/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T15:08:09.000Z",
+      "excerpt": "Non è ancora chiaro cosa è successo ma l’aereo sta sorvolando la Manica per tornare nella capitale inglese",
       "image": null
     },
     {
@@ -1675,33 +1699,17 @@
       "pubDate": "2026-10-04T23:00:00.000Z",
       "excerpt": "Per il politologo l’errore è aver sposato le classi sociali medio-alte: “Muratori e idraulici oggi votano a destra”",
       "image": null
-    },
-    {
-      "title": "“Ferroviere da vent’anni, guadagno più di prima eppure oggi vivo peggio”",
-      "link": "https://www.repubblica.it/cronaca/2026/10/05/news/piccoli_salari_ferroviere_guadagno_inflazione_udine-425625837/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T23:00:00.000Z",
-      "excerpt": "Decima e ultima puntata della serie “Piccoli salari”. Antonio Pittelli, 46 anni, è capotreno e ha una moglie e due figlie: “Anche se prendevo 400 euro meno di adesso, allora il potere d’acquisto era più alto”",
-      "image": null
-    },
-    {
-      "title": "Bolsonaro avanti su Lula, ballottaggio il 25 ottobre",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/brasile-al-voto-scintille-ai-seggi-tra-lula-e-bolsonaro_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-04T22:34:17.000Z",
-      "excerpt": "A circa metà scrutinio il senatore è avanti, anche se mancano i voti delle roccaforti di sinistra",
-      "image": null
-    },
-    {
-      "title": "L’Europa in piazza per la casa mentre noi stiamo a guardare",
-      "link": "https://www.repubblica.it/commenti/2026/10/05/news/l_europa_in_piazza_per_la_casa_mentre_noi_stiamo_a_guardare-425625464/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T22:01:00.000Z",
-      "excerpt": "Cosa ci impedisce di essere altrettanto reattivi? Come mai siamo diventati buoni solo a scannarci sui social? Tutta questa rabbia perché non la mettiamo al servizio della protesta per le cose della vita: avere un’abitazi",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Milan: accertamenti alla caviglia per Saelemaekers, la stessa già operata",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/milan-accertamenti-alla-caviglia-per-saelemaekers-la-stessa-gia-operata_78ad80cd-66ca-4972-b195-800079806db0.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T15:53:27.000Z",
+      "excerpt": "Persa stabilità, in corso valutazione per definire terapie appropriate",
+      "image": null
+    },
     {
       "title": "Nations League: Italia-Turchia in campo alle 20.45 DIRETTA",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/10/05/nations-league-italia-turchia-in-campo-alle-20.45-diretta_294cb6a1-8a5b-4345-b401-d99a94eaf076.html",
