@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-10-05T05:00:37.398Z",
+  "lastUpdated": "2026-10-05T05:45:43.317Z",
   "finanza": {
     "italia": [
+      {
+        "title": "La Borsa della Thailandia punta sulle azioni dual-class per aumentare le quotazioni",
+        "link": "https://it.investing.com/news/stock-market-news/la-borsa-della-thailandia-punta-sulle-azioni-dualclass-per-aumentare-le-quotazioni-3573311",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T05:19:00.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg"
+      },
+      {
+        "title": "Stop allo sconto per il gasolio, poi accise mobili",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/stop-allo-sconto-per-il-gasolio-poi-accise-mobili_664823dc-12a3-42e9-851b-f10f32a6c4dd.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T05:11:48.000Z",
+        "excerpt": "Il caro-carburanti è costato in 6 mesi 4,7 miliardi agli automobilisti",
+        "image": null
+      },
       {
         "title": "Cosa hanno visto i nostri modelli su questo titolo prima del +14,83% settimanale?",
         "link": "https://it.investing.com/news/stock-market-news/cosa-hanno-visto-i-nostri-modelli-su-questo-titolo-prima-del-1483-settimanale-3573307",
@@ -32,7 +48,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-05T03:04:15.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB310J3_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg"
       },
       {
         "title": "Acconto Irpef di novembre, come evitare il salasso se i redditi sono scesi",
@@ -89,14 +105,6 @@
         "pubDate": "2026-10-05T00:53:05.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEE33022_M.jpg"
-      },
-      {
-        "title": "I futures azionari USA salgono dopo i dati deboli sull’occupazione",
-        "link": "https://it.investing.com/news/stock-market-news/i-futures-azionari-usa-salgono-dopo-i-dati-deboli-sulloccupazione-3573287",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T00:19:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg"
       },
       {
         "title": "Il Tfs per gli statali mina sui conti. Il governo prepara l’ennesima norma tampone da 600 milioni",
@@ -243,14 +251,6 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/05/Immagini/Ritagli/mutokpdzzsek1al1qmm-U75007743750YNq-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Pichetto, il nucleare arriverà fra 15 anni ma è la scelta del futuro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/04/pichetto-il-nucleare-arrivera-fra-15-anni-ma-e-la-scelta-del-futuro_d2a58542-7192-4365-8dc7-1677801ca8a0.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-04T11:05:22.000Z",
-        "excerpt": "'Entro fine anno arriveranno i decreti attuativi'",
-        "image": null
-      },
-      {
         "title": "Ad Assisi le celebrazioni per San Francesco. Zuppi: «La guerra non è un destino»",
         "link": "https://www.ilsole24ore.com/art/ad-assisi-celebrazioni-san-francesco-zuppi-la-guerra-non-e-destino-AJuqgiYB",
         "source": "Il Sole 24 Ore",
@@ -260,6 +260,30 @@
       }
     ],
     "europa": [
+      {
+        "title": "Iran, Usa ritirano i bombardieri B-1 dalla base Raf in Gran Bretagna",
+        "link": "https://www.ilsole24ore.com/art/iran-usa-ritirano-bombardieri-b-1-base-raf-gran-bretagna-AJKDJGZB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-05T05:25:00.000Z",
+        "excerpt": "",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/2026-10-04T211151Z_853467629_RC28SNA4H0MR_RTRMADP_5_BRITAIN-USA-FAIRFORD-U77142587237Wjj-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Pressing del Psoe e del governo, Sanchez verso il voto anticipato",
+        "link": "https://www.ilsole24ore.com/art/pressing-psoe-e-governo-sanchez-il-voto-anticipato-AJpV5FZB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-05T05:16:00.000Z",
+        "excerpt": "Il premier spagnolo potrebbe annunciare la convocazione di elezioni anticipate per il 29 novembre",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/02d7f98d0687d466f31fa35a750a01de-U88131511831ZdD-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Brasile, Bolsonaro vince al primo turno con 47%, Lula al 45%: ballotaggio il 25/10",
+        "link": "https://www.ilsole24ore.com/art/brasile-bolsonaro-vince-primo-turno-47percento-lula-45percento-si-va-ballotaggio-2510-AJqb0FZB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-05T05:14:00.000Z",
+        "excerpt": "Flavio Bolsonaro batte Lula al primo turno e si lancia come favorito nel ballottaggio del 25 ottobre che deciderà chi sarà il 40esimo presidente del Brasile. Il candidato trumpiano ha ottenuto il 47,14 % dei voti, il pre",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/2026-10-04T222548Z_1610363576_RC2MWNA1ZKF0_RTRMADP_5_BRAZIL-ELECTION-U10327333643fnw-1440x752@IlSole24Ore-Web.JPG"
+      },
       {
         "title": "Trump affida l’IA al capo dei Servizi: Clayton nuovo «zar» della Super Intelligence",
         "link": "https://www.ilsole24ore.com/art/trump-affida-l-ia-capo-dell-intelligence-dentro-strategia-usa-la-super-intelligence-AJww9oYB",
@@ -299,30 +323,6 @@
         "pubDate": "2026-10-03T19:14:13.000Z",
         "excerpt": "Il presidente promette di ampliare i reati punibili con la pena capitale. Il Tennessee sospende le esecuzioni dopo il caso Pike, mentre una sentenza della Corte Suprema del 2008 lascia aperto il nodo dei grandi narcotraf",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/04/Immagini/Ritagli/LP_24798443-U82076182224tJn-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Spagna, mezzo milione di inquilini in piazza alza le chiavi: «Ora sciopero generale»",
-        "link": "https://www.ilsole24ore.com/art/spagna-mezzo-milione-inquilini-piazza-alzano-chiavi-ora-sciopero-generale-AJbUPBYB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-03T17:48:00.000Z",
-        "excerpt": "Decine di migliaia di persone, circa 70mila secondo la delegazione del governo, sono scese in piazza nel centro della capitale spagnola Madrid in un fronte comune contro tutti i settori...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/04/Immagini/Ritagli/LP_24816576-U45267765681SCb-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Raid a Gaza City, il cordoglio di Pizzaballa per le vittime cristiane",
-        "link": "https://www.ilsole24ore.com/art/raid-gaza-city-cordoglio-pizzaballa-le-vittime-cristiane-AJIdyAYB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-03T17:07:54.000Z",
-        "excerpt": "“Con profondo dolore, il Cardinale Pierbattista Pizzaballa, patriarca latino di Gerusalemme, a nome del Patriarcato Latino di Gerusalemme e del suo clero, esprime le più sentite condoglianze alle famiglie di...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/04/Immagini/Ritagli/Imagoeconomica_2569797%20(1)-U83173227048WLz-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Ucraina, Nyt: nei negoziati Usa-Russia entra un affare miliardario sul petrolio di Lukoil",
-        "link": "https://www.ilsole24ore.com/art/ucraina-nyt-negoziati-usa-russia-entra-affare-miliardario-petrolio-lukoil-AJQgd2XB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-03T14:39:00.000Z",
-        "excerpt": "Secondo il New York Times, l’operazione riguarda gli asset internazionali di Lukoil e coinvolge investitori legati a Witkoff e Kushner. Putin avrebbe discusso l’affare con i due negoziatori Usa al Cremlino",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/04/Immagini/Ritagli/e899bfa67ce65eb1e3ae11f12a5be95c-U60653780316JGW-1440x752@IlSole24Ore-Web.jpg"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -660,6 +660,14 @@
       "image": null
     },
     {
+      "title": "Gli Usa ritirano i bombardieri B-1 dalla base RAF di Fairford",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/gli-usa-ritirano-i-bombardieri-b-1-dalla-base-raf-di-fairford_64a3a022-3551-4c3b-af5a-7e897ffb2f15.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T04:49:58.000Z",
+      "excerpt": "In seguito all'incidente che ha portato all'apertura di una indagine antiterrorismo",
+      "image": null
+    },
+    {
       "title": "Bolsonaro avanti su Lula, 47% contro il 45%, il 25 ottobre ci sarà il ballottaggio",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/bolsonaro-avanti-su-lula-47-contro-il-45-il-25-ottobre-ci-sara-il-ballottaggio_bef2f600-8fd3-4a6b-8402-5f40da9c9da1.html",
       "source": "ANSA",
@@ -668,11 +676,11 @@
       "image": null
     },
     {
-      "title": "Gli Usa ritirano i bombardieri B-1 dalla base RAF di Fairford",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/gli-usa-ritirano-i-bombardieri-b-1-dalla-base-raf-di-fairford_64a3a022-3551-4c3b-af5a-7e897ffb2f15.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-05T04:07:03.000Z",
-      "excerpt": "In seguito all'incidente che ha portato all'apertura di una indagine antiterrorismo",
+      "title": "Bolsonaro è un clan: 4 gli eletti. Occhi puntati su Michelle, paladina dei pentecostali",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/elezioni_brasile_michelle_bolsonaro_famiglia_eletti-425626113/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T04:40:13.000Z",
+      "excerpt": "Otto membri della famiglia erano candidati in tutto il Paese. Il risultato conferma che la base esiste oltre il fondatore. Protagonista è l’ex moglie del patriarca",
       "image": null
     },
     {
@@ -729,14 +737,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-05T01:00:00.000Z",
       "excerpt": "L’ecosistema finanziario sta peggiorando a gran velocità e il dibattito pubblico italiano avvelenato dalla campagna elettorale non se ne accorge",
-      "image": null
-    },
-    {
-      "title": "L’emergenza casa investe tutta Europa. In Italia 3 milioni in crisi",
-      "link": "https://www.repubblica.it/economia/2026/10/05/news/emergenza_casa_italia_europa_prezzi-425625809/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T23:00:00.000Z",
-      "excerpt": "Nella Ue le difficoltà interessano il 7,7% della popolazione. Da Berlino a New York l’impegno dei nuovi sindaci",
       "image": null
     },
     {
