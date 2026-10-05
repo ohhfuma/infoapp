@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T00:49:51.408Z",
+  "lastUpdated": "2026-10-05T01:10:16.286Z",
   "finanza": {
     "italia": [
       {
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Nel rozzo discorso del rally dell'Ohio, Trump dice che potrebbe non aiutare se i democratici vincessero",
+        "link": "https://www.investing.com/news/commodities-news/in-crude-ohio-rally-speech-trump-says-he-may-not-help-if-democrats-win-4930974",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T00:43:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM93072_L.jpg"
+      },
+      {
+        "title": "Merz svela nuovi aiuti militari a Kiev, afferma che la Germania non si lascerà intimidire",
+        "link": "https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T00:38:40.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM93078_L.jpg"
+      },
+      {
         "title": "L'OPEC+ si impegna a mantenere stabili gli obiettivi di produzione petrolifera di novembre",
         "link": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923",
         "source": "Investing.com Commodities",
@@ -528,14 +544,6 @@
         "image": null
       },
       {
-        "title": "Merz svela nuovi aiuti militari a Kiev, afferma che la Germania non si lascerà intimidire",
-        "link": "https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-04T18:00:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM93078_L.jpg"
-      },
-      {
         "title": "Media, copilota voleva schiantare volo FlyDubai su aeroporto Ben Gurion",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/media-copilota-voleva-schiantare-volo-flydubai-su-aeroporto-ben-gurion_4c47ccf8-7a8e-47f0-8603-25984b813f1a.html",
         "source": "ANSA Mondo",
@@ -574,14 +582,6 @@
         "pubDate": "2026-10-04T12:38:26.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEBA10TE_M.jpg"
-      },
-      {
-        "title": "Gli Houthi dello Yemen dicono di aver attaccato la struttura Aramco a Riyadh con missili, droni",
-        "link": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones-4930877",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-04T01:12:30.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9209V_L.jpg"
       }
     ]
   },
@@ -595,11 +595,67 @@
       "image": null
     },
     {
+      "title": "L’emergenza casa investe tutta Europa. In Italia 3 milioni in crisi",
+      "link": "https://www.repubblica.it/economia/2026/10/05/news/emergenza_casa_italia_europa_prezzi-425625809/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T23:00:00.000Z",
+      "excerpt": "Nella Ue le difficoltà interessano il 7,7% della popolazione. Da Berlino a New York l’impegno dei nuovi sindaci",
+      "image": null
+    },
+    {
+      "title": "Javier Cercas: “In Spagna siamo al paradosso di un Paese che cresce ma non dà la casa ai deboli”",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/intervista_javier_cercas_spagna_crisi_abitativa_casa_deboli_sanchez-425625682/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T23:00:00.000Z",
+      "excerpt": "Lo scrittore spagnolo: “Sánchez in politica estera ha fatto bene, ma ha sbagliato a governare con i catalani, sono di destra”",
+      "image": null
+    },
+    {
+      "title": "Sánchez pronto alle elezioni cavalcando la piazza. La sfida alla destra spagnola",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/sanchez_pronto_elezioni_cavalcando_piazza_sfida_destra_spagnola-425625990/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T23:00:00.000Z",
+      "excerpt": "I partiti si preparano al voto: l’annuncio del capo della Moncloa atteso per oggi. La mossa del premier: far passare i decreti sugli alloggi dopo aver sciolto le Cortes",
+      "image": null
+    },
+    {
+      "title": "Spagna, il leader della protesta delle chiavi: “Giovani esclusi dal mercato abitativo”",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/spagna_leader_protesta_casa_chiavi_javier_gil_intervista_crisi_abitativa_giovani-425625911/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T23:00:00.000Z",
+      "excerpt": "Javier Gil: “Anche chi era ragazzo 20 anni fa si è vista negata la possibilità di acquistare un immobile. Serve un intervento pubblico come in Austria”",
+      "image": null
+    },
+    {
+      "title": "Mounk: “La sinistra superi il welfare state e riparta dai lavoratori impoveriti”",
+      "link": "https://www.repubblica.it/politica/2026/10/05/news/mounk_sinistra_welfare_state_intervista-425625924/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T23:00:00.000Z",
+      "excerpt": "Per il politologo l’errore è aver sposato le classi sociali medio-alte: “Muratori e idraulici oggi votano a destra”",
+      "image": null
+    },
+    {
+      "title": "“Ferroviere da vent’anni, guadagno più di prima eppure oggi vivo peggio”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/05/news/piccoli_salari_ferroviere_guadagno_inflazione_udine-425625837/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T23:00:00.000Z",
+      "excerpt": "Decima e ultima puntata della serie “Piccoli salari”. Antonio Pittelli, 46 anni, è capotreno e ha una moglie e due figlie: “Anche se prendevo 400 euro meno di adesso, allora il potere d’acquisto era più alto”",
+      "image": null
+    },
+    {
       "title": "Brasile, l’esperto: “Il secondo turno gara tesa con colpi bassi, potrebbero spuntare altri scandali”",
       "link": "https://www.repubblica.it/esteri/2026/10/05/news/brasile_elezioni_lula_bolsonaro_risultati_intervista_esperto_pablo_ortellado-425625882/",
       "source": "Repubblica",
       "pubDate": "2026-10-04T23:00:00.000Z",
       "excerpt": "Pablo Ortellado, professore di Politiche Pubbliche all’Università di San Paolo: “Sarà una sfida combattuta. Trump potrebbe non riconoscere la vittoria del leader uscente”",
+      "image": null
+    },
+    {
+      "title": "L’Europa in piazza per la casa mentre noi stiamo a guardare",
+      "link": "https://www.repubblica.it/commenti/2026/10/05/news/l_europa_in_piazza_per_la_casa_mentre_noi_stiamo_a_guardare-425625464/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-04T22:01:00.000Z",
+      "excerpt": "Cosa ci impedisce di essere altrettanto reattivi? Come mai siamo diventati buoni solo a scannarci sui social? Tutta questa rabbia perché non la mettiamo al servizio della protesta per le cose della vita: avere un’abitazi",
       "image": null
     },
     {
@@ -619,67 +675,11 @@
       "image": null
     },
     {
-      "title": "Elezioni in Brasile, i risultati: Bolsonaro in vantaggio con il 47%, Lula al 45%. Si va al ballottaggio",
-      "link": "https://www.repubblica.it/esteri/2026/10/04/news/elezioni_brasile_chi_ha_vinto_lula_bolsonaro_risultati-425625972/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T20:42:14.000Z",
-      "excerpt": "I risultati sono una sorpresa: Lula era favorito al primo turno invece si trova a inseguire. Quasi 159 milioni di brasiliani alle urne per scegliere tra il presidente uscente Lula e il figlio del leader della destra Jair",
-      "image": null
-    },
-    {
-      "title": "Flydubai, “il copilota voleva far schiantare l’aereo sull’aeroporto Ben Gurion”",
-      "link": "https://www.repubblica.it/esteri/2026/10/04/news/flydubai_copilota_voleva_far_schiantare_aereo_aeroporto_ben_gurion_tel_aviv-425625941/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T20:10:53.000Z",
-      "excerpt": "Secondo le prime indiscrezioni sull’interrogatorio di Hamam al-Hammami, il ragazzo aveva due piani: colpire lo scalo a Tel Aviv oppure una base americana in Giordania. Il 29enne avrebbe agito da solo",
-      "image": null
-    },
-    {
-      "title": "Russia, ricercatrice di un istituto anti-peste muore per una polmonite: il timore di un incidente in laboratorio",
-      "link": "https://www.repubblica.it/esteri/2026/10/04/news/russia_ricercatrice_di_un_istituto_anti-peste_muore_per_una_polmonite_il_timore_di_un_incidente_in_laboratorio-425625840/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T19:17:48.000Z",
-      "excerpt": "Media locali ipotizzano un'esposizione accidentale al batterio della peste, ma le autorità russe parlano di una “polmonite di origine sconosciuta”. Circa 200 persone sono sotto osservazione. La Casa Bianca monitora",
-      "image": null
-    },
-    {
-      "title": "Roberto Benigni: “San Francesco è stato il primo nella storia a condannare la guerra”",
-      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/10/04/news/roberto_benigni_san_francesco_condanna_guerra_cantico_delle_creature-425625698/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T18:43:10.000Z",
-      "excerpt": "Il comico: “È l’uomo delle prime volte, ha inventato la diplomazia”. E sulle donne: “Gli uomini hanno paura della vita”",
-      "image": null
-    },
-    {
-      "title": "Mancini: “Mi sono divertito con i ragazzi, con la Turchia voglio chiudere in bellezza”",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/10/04/news/mancini_conferenza_italia_turchia-425625653/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T18:24:58.000Z",
-      "excerpt": "Il ct alla vigilia della sfida con Montella parla della rinascita azzurra: “Un tifoso deve fidarsi e noi dobbiamo fidarci di noi stessi”",
-      "image": null
-    },
-    {
       "title": "Il Cinnamon bun, la girella alla cannella che fa impazzire gli svedesi (e non solo)",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/10/04/il-cinnamon-bun-la-girella-alla-cannella-che-fa-impazzire-gli-svedesi-e-non_c2ec0206-751a-4ca0-9c86-16a5075a5deb.html",
       "source": "ANSA",
       "pubDate": "2026-10-04T18:18:24.000Z",
       "excerpt": "Il 4 ottobre festa per il dolce che è parte della tradizione del paese",
-      "image": null
-    },
-    {
-      "title": "Merz a Kiev accolto dai droni russi: colpito un altro ponte sul Dnipro",
-      "link": "https://www.repubblica.it/esteri/2026/10/04/news/merz_visita_kiev_droni_russi_colpito_ponte_dnipro-425625550/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T17:19:42.000Z",
-      "excerpt": "Visita a sorpresa del cancelliere: un miliardo di aiuti. Poi si rivolge a Putin: “Pronto al negoziato”. Ma Mosca bombarda",
-      "image": null
-    },
-    {
-      "title": "Addio alla femminista Nunni Miolli, sopravvissuta all’assalto fascista contro Radio Città Futura",
-      "link": "https://www.repubblica.it/cronaca/2026/10/04/news/addio_alla_femminista_nunni_miolli_sopravvissuta_all_assalto_fascista_contro_radio_citta_futura-425625472/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-04T16:41:25.000Z",
-      "excerpt": "Avrebbe compiuto cento anni tra due mesi. Fondò a Roma il famoso Collettivo casalinghe. Il 9 gennaio del 1979 mentre Nunni e le sue compagne parlavano alla radio furono assalite da un commando guidato da Giusva Fioravant",
       "image": null
     },
     {
