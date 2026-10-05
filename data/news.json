@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-10-05T09:10:58.248Z",
+  "lastUpdated": "2026-10-05T09:44:15.277Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Accordo illycaffè e Carabinieri per prevenire violenza contro donne",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/accordo-illycaffe-e-carabinieri-per-prevenire-violenza-contro-donne_9341da5c-febc-45f2-9083-2d561ab2d66d.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T09:27:52.000Z",
+        "excerpt": "Bar clienti illycaffè in Italia diffonderanno informazioni su segnali violenza",
+        "image": null
+      },
+      {
+        "title": "Ex Ilva, la Corte di Milano conferma il blocco degli altoforni",
+        "link": "https://www.repubblica.it/economia/2026/10/05/news/ex_ilva_la_corte_di_milano_conferma_il_blocco_degli_altoforni-425626498/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-05T09:27:08.000Z",
+        "excerpt": "Il legale dei cittadini di Taranto: “La salute vince ancora”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/104930740-6cff9334-e045-4d48-ba58-06e5bd3f5b89.jpg"
+      },
+      {
+        "title": "L'euro ai minimi da 17 mesi con elezioni in Spagna, poi risale a 1,12 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/leuro-ai-minimi-da-17-mesi-con-elezioni-in-spagna-poi-risale-a-112-dollari_d50fa13b-e7a4-4f1c-9bf8-ce95dbdc1ea1.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T09:19:35.000Z",
+        "excerpt": "La moneta unica soffre anche per la crisi francese",
+        "image": null
+      },
+      {
+        "title": "Borsa: Europa contrastata, euro sui minimi da maggio 2025, Milano +0,05%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/borsa-europa-contrastata-euro-sui-minimi-da-maggio-2025-milano-005_416efdd8-a84a-481f-ba7c-cfb4c7414019.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T09:17:58.000Z",
+        "excerpt": "Salgono i rendimenti dei titoli di stato di Italia e Francia",
+        "image": null
+      },
+      {
+        "title": "Istat conferma, Pil +0,2% nel secondo trimestre",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/istat-conferma-pil-02-nel-secondo-trimestre_3e0f36a2-4f70-433a-b5c8-30c5bc9473dc.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T09:15:28.000Z",
+        "excerpt": "+1% rispetto al 2025. Variazione acquisita per il 2026 +0,8%",
+        "image": null
+      },
+      {
+        "title": "L’Estonia sposta le truppe verso il confine con la Russia",
+        "link": "https://it.investing.com/news/stock-market-news/lestonia-sposta-le-truppe-verso-il-confine-con-la-russia-93CH-3573678",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T09:12:36.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg"
+      },
+      {
+        "title": "Altimari (Bankitalia), anche oro soggetto a volatilità mercati e digitale",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/altimari-bankitalia-anche-oro-soggetto-a-volatilita-mercati-e-digitale_e8cadd1f-b6f0-4aed-abeb-0bf0dcbb1a6f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T09:08:19.000Z",
+        "excerpt": "Vice dg, non fa eccezione a cambiamenti veloci e imprevedili",
+        "image": null
+      },
+      {
+        "title": "Mediobanca crolla dopo il rilancio di Intesa Sanpaolo su Mps: addio delisting?",
+        "link": "https://it.investing.com/news/stock-market-news/mediobanca-crolla-dopo-il-rilancio-di-intesa-sanpaolo-su-mps-addio-delisting-3573656",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T09:05:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+      },
+      {
+        "title": "Barclays vede un rimbalzo di Givaudan con la crescita di fragranze e aromi",
+        "link": "https://it.investing.com/news/stock-market-news/barclays-vede-un-rimbalzo-di-givaudan-con-la-crescita-di-fragranze-e-aromi-3573668",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T09:05:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
+      },
       {
         "title": "Webuild sale al 18,9% del capitale di Trevi e rilancia: offerta in contanti per 5,165 euro",
         "link": "https://www.repubblica.it/economia/2026/10/05/news/webuild_offerta_trevi_rilancio_in_contanti-425626484/?rss",
@@ -11,36 +83,44 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/104308437-a5bad3f9-d1b2-4b39-bbc7-c25899e3715d.jpg"
       },
       {
-        "title": "Ex Ilva, la Corte di Milano conferma il blocco degli altoforni",
-        "link": "https://www.repubblica.it/economia/2026/10/05/news/ex_ilva_la_corte_di_milano_conferma_il_blocco_degli_altoforni-425626498/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-05T09:01:45.000Z",
-        "excerpt": "Il legale dei cittadini di Taranto: “La salute vince ancora”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/104930740-6cff9334-e045-4d48-ba58-06e5bd3f5b89.jpg"
-      },
-      {
-        "title": "L'indice Pmi composito dell'Italia scende da 53,6 a 51 punti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/lindice-pmi-composito-dellitalia-scende-da-536-a-51-punti_15d85cc1-671f-4103-aef1-26fc6b80ccfa.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T08:55:45.000Z",
-        "excerpt": "In calo anche l'indice dei servizi da 55,2 a 51,7 punti",
-        "image": null
-      },
-      {
-        "title": "Fondi pensione, nel 2026 risorse a 273,2 miliardi e quasi 11 milioni di iscritti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/fondi-pensione-nel-2026-risorse-a-2732-miliardi-e-quasi-11-milioni-di-iscritti_a5638337-221b-4b17-9f2e-f5b9238c9610.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T08:54:55.000Z",
-        "excerpt": "Rapporto Deloitte: risorse in crescita del 4,3% rispetto alla fine del 2025",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo BT Group è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-bt-group-e-in-rialzo-oggi-93CH-3573622",
+        "title": "Metro Bank riceve rating Neutral da Citi con target a 183p",
+        "link": "https://it.investing.com/news/stock-market-news/metro-bank-riceve-rating-neutral-da-citi-con-target-a-183p-3573654",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T08:52:58.000Z",
+        "pubDate": "2026-10-05T09:01:31.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEB3L0B6_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Banco Bradesco è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-banco-bradesco-e-in-forte-rialzo-oggi-93CH-3573652",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T08:57:44.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
+      },
+      {
+        "title": "IndiGo aumenta i supplementi carburante dopo il rincaro del cherosene",
+        "link": "https://it.investing.com/news/stock-market-news/indigo-aumenta-i-supplementi-carburante-dopo-il-rincaro-del-cherosene-93CH-3573651",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T08:57:21.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7G0AX_M.jpg"
+      },
+      {
+        "title": "Perché il titolo di Nu Holdings è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-nu-holdings-e-in-forte-rialzo-oggi-93CH-3573650",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T08:57:12.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/MercadoLivre_800x533_L_1600509680.jpg"
+      },
+      {
+        "title": "Perché il titolo Petrobras sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-petrobras-sta-salendo-oggi-93CH-3573648",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T08:56:01.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
       },
       {
         "title": "L'indice Pmi dell'Eurozona sale a 53,1 punti, sui massimi da 41 mesi",
@@ -67,68 +147,12 @@
         "image": null
       },
       {
-        "title": "I titoli software europei salgono dopo l’accordo da 22,6 miliardi di Schneider per PTC",
-        "link": "https://it.investing.com/news/stock-market-news/i-titoli-software-europei-salgono-dopo-laccordo-da-226-miliardi-di-schneider-per-ptc-3573601",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T08:45:16.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB660A4_M.jpg"
-      },
-      {
-        "title": "Fondi pensione, nel 2026 risorse a 273,2 miliardi e quasi 11 milioni di iscritti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/fondi-pensione-nel-2026-risorse-a-2732-miliardi-e-quasi-11-milioni-di-iscritti_e903f8ae-af77-4611-9f49-0d15c1dff62b.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T08:44:32.000Z",
-        "excerpt": "Rapporto Deloitte: risorse in crescita del 4,3% rispetto alla fine del 2025",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo Z.AI (Zhipu) è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-zai-zhipu-e-in-rialzo-oggi-93CH-3573595",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T08:44:31.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
-      },
-      {
-        "title": "Goldman Sachs avvia copertura del lusso UE: Buy su 4 titoli",
-        "link": "https://it.investing.com/news/stock-market-news/goldman-sachs-avvia-copertura-del-lusso-europeo-4-titoli-con-rating-buy-3573599",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T08:42:40.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEE6O0QB_M.jpg"
-      },
-      {
-        "title": "Istat: 'Il deficit migliora al 2% del Pil nel secondo trimestre'",
-        "link": "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/05/istat-il-deficit-migliora-al-2-del-pil-nel-secondo-trimestre_31adbb47-c2df-4404-b116-80312bb4d811.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T08:42:05.000Z",
-        "excerpt": "Nel secondo trimestre il reddito delle famiglie sale meno dei consumi",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo Continental AG è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-continental-ag-e-in-rialzo-oggi-93CH-3573590",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T08:39:17.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-      },
-      {
         "title": "Istat, cala il potere di acquisto delle famiglie e aumenta la pressione fiscale",
         "link": "https://www.repubblica.it/economia/2026/10/05/news/istat_cala_il_potere_di_acquisto_delle_famiglie_e_aumenta_la_pressione_fiscale-425626451/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-05T08:37:12.000Z",
         "excerpt": "Per quanto riguarda il saldo primario delle amministrazioni pubbliche (indebitamento al netto degli interessi passivi) è risultato positivo, con un'incidenza sul Pil del 3,0%",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/103701562-9f56e18c-50ff-4657-ac31-a4122c499b89.jpg"
-      },
-      {
-        "title": "Nvidia ai massimi storici. IA sull’orlo della bolla?",
-        "link": "https://it.investing.com/news/stock-market-news/nvidia-ai-massimi-storici-ia-sullorlo-della-bolla-3573568",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T08:35:07.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg"
       },
       {
         "title": "Musk vuole cambiare il nome di SpaceXAI in SpaceXSI: un omaggio alla “superintelligenza” di Trump",
@@ -145,30 +169,6 @@
         "pubDate": "2026-10-05T08:32:26.000Z",
         "excerpt": "Gentile esperto, contrariamente a quanto letto nella risposta da voi pubblicata, nelle pratiche avviate tramite CAF della camera del lavoro, mia moglie ha ricevuto un trattamento differente…",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/103216764-b859154e-540a-4641-bd55-d652dddd23fc.jpg"
-      },
-      {
-        "title": "Perché il titolo Genmab è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-genmab-e-in-rialzo-oggi-93CH-3573543",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T08:32:16.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-      },
-      {
-        "title": "Il posizionamento degli investitori discrezionali scende sotto la neutralità",
-        "link": "https://it.investing.com/news/stock-market-news/il-posizionamento-degli-investitori-discrezionali-scende-sotto-la-neutralita-93CH-3573542",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T08:31:41.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg"
-      },
-      {
-        "title": "Istat, il deficit migliora al 2% del Pil nel secondo trimestre",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/istat-il-deficit-migliora-al-2-del-pil-nel-secondo-trimestre_15ffe450-a2dc-4663-83f4-6f0eed7cd9be.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T08:25:01.000Z",
-        "excerpt": "Saldo primario positivo al 3%",
-        "image": null
       },
       {
         "title": "Fisco, Istat: nel secondo trimestre pressione sale al 43,5%. Il deficit migliora al 2% del Pil",
@@ -206,7 +206,7 @@
         "title": "Sfratti, oltre 40mila provvedimenti in un anno: tre su quattro per morosità",
         "link": "https://www.ilsole24ore.com/art/sfratti-oltre-40mila-provvedimenti-un-anno-tre-quattro-morosita-AJgDayYB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-05T06:23:59.000Z",
+        "pubDate": "2026-10-05T06:23:00.000Z",
         "excerpt": "Lo sfratto non è l’unico esito. Nella gestione della morosità rilevata dalla società, il 43% delle risposte indica l’avvio della procedura di sfratto",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/05/Immagini/Ritagli/Imagoeconomica_2514147-U33571201574lZy-1440x752@IlSole24Ore-Web.jpg"
       },
@@ -285,7 +285,7 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/05/Immagini/Ritagli/milano-U13470057365sey-1440x752@IlSole24Ore-Web.jpeg"
       },
       {
-        "title": "Iran, Usa ritirano i bombardieri B-1 dalla base Raf in Gran Bretagna",
+        "title": "Yemen, forze governative attaccano gli Houthi vicino a Bab el Mandeb",
         "link": "https://www.ilsole24ore.com/art/iran-usa-ritirano-bombardieri-b-1-base-raf-gran-bretagna-AJKDJGZB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-05T05:25:00.000Z",
@@ -457,6 +457,22 @@
     ],
     "mondo": [
       {
+        "title": "Il governo yemenita lancia un'offensiva per conquistare tutte le aree degli Houthi sostenuti dall'Iran",
+        "link": "https://www.investing.com/news/commodities-news/head-of-yemens-presidential-council-announces-military-operations-to-retake-territory-4930932",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T09:13:49.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM930BH_L.jpg"
+      },
+      {
+        "title": "Doppio attacco russo su Kharkiv con missili Banderol, un morto",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/doppio-attacco-russo-su-kharkiv-con-missili-banderol-un-morto_34346129-cdff-4a84-bd71-615ca2ea8bb7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-05T09:10:42.000Z",
+        "excerpt": "Colpita una infrastruttura energetica nella regione di Poltava, 22 mila senza elettricità",
+        "image": null
+      },
+      {
         "title": "La corsa delle superpotenze per portare reattori nucleari sulla Luna: sfida tra Usa e Russia-Cina",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/corsa_alla_luna_spazio_per_portare_reattori_nucleari_usa_russia_cina-425626530/?rss",
         "source": "Repubblica Esteri",
@@ -569,14 +585,6 @@
         "image": "https://content-media.investing.com/news/LYNXNPEB8T1CF_M.jpg"
       },
       {
-        "title": "Brent Oil stalls inside Ichimoku cloud at $101.57: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/brent-oil-stalls-inside-ichimoku-cloud-at-10157-live-levels-93CH-4931127",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T07:11:13.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEL670TG_L.jpg"
-      },
-      {
         "title": "I “riposini” di Xi Jinping alla Casa Bianca riaccendono i timori per la sua salute",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/xi_jinping_salute_leader_cinese_riposini_alla_casa_bianca-425626231/?rss",
         "source": "Repubblica Esteri",
@@ -607,14 +615,6 @@
         "pubDate": "2026-10-05T04:40:13.000Z",
         "excerpt": "Otto membri della famiglia erano candidati in tutto il Paese. Il risultato conferma che la base esiste oltre il fondatore. Protagonista è l’ex moglie del patriarca",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/063947088-1ee81904-c2de-442c-a6d3-3072ecf37a62.jpg"
-      },
-      {
-        "title": "Doppio attacco russo su Kharkiv con missili Banderol, un morto",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/doppio-attacco-russo-su-kharkiv-con-missili-banderol-un-morto_34346129-cdff-4a84-bd71-615ca2ea8bb7.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T03:27:06.000Z",
-        "excerpt": "Colpita una infrastruttura energetica nella regione di Poltava, 22 mila senza elettricità",
-        "image": null
       },
       {
         "title": "Sánchez pronto alle elezioni cavalcando la piazza. La sfida alla destra spagnola",
@@ -652,19 +652,51 @@
   },
   "attualita": [
     {
-      "title": "Boxer Clemente Russo returns to the ring at 44: “I don’t want a retired athlete’s belly”",
-      "link": "https://europe.repubblica.it/en/sport/2026/10/05/news/clemente_russo_boxing_comeback_retired_athlete_s_belly-425625264/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-06T04:00:00.000Z",
-      "excerpt": "The Italian national boxing team’s technical director: “I don’t want to let myself go. And boxing is inside me, like another organ in my body.”",
+      "title": "++ Nobel Medicina a Delsseroth, Hegemann e Nagel ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/05/-nobel-medicina-a-delsseroth-hegemann-e-nagel-_fcb284a3-7467-429e-b828-8d2f72e26040.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T09:36:39.000Z",
+      "excerpt": "Per avere gettato le basi dell'optogenetica",
       "image": null
     },
     {
-      "title": "Ex Ilva, la Corte di Milano conferma il blocco degli altoforni",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/ex-ilva-la-corte-di-milano-conferma-il-blocco-degli-altoforni_28015c26-3e0b-46fa-9ba8-dff95a0f51ee.html",
+      "title": "Valentino sfila a Parigi con l'antibiblioteca, la moda come possibilità / LA SFILATA",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/10/05/valentino-sfila-a-parigi-con-lantibiblioteca-la-moda-come-possibilita-la-sfilata_8f566e10-9e55-4d6d-88bb-4b7a364d3522.html",
       "source": "ANSA",
-      "pubDate": "2026-10-05T09:01:50.000Z",
-      "excerpt": "Giudici respingono anche seconda istanza sospensiva. Udienza in Cassazione il 20 ottobre",
+      "pubDate": "2026-10-05T09:25:53.000Z",
+      "excerpt": "La collezione di Alessandro Michele nella Bibliothéque Sainte-Geneviève, colori e mix pura gioia",
+      "image": null
+    },
+    {
+      "title": "Bombola di gas sotto il David a piazzale Michelangelo a Firenze: 'Inoffensiva', concluso l' intervento ",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/trovata-bombola-di-gas-sotto-il-david-a-piazzale-michelangelo-a-firenze_56fe9149-9c4d-4d95-ae1d-c01ed749181d.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T09:22:03.000Z",
+      "excerpt": "Presentava sull'esterno un oggetto tondo e dei fili sporgenti",
+      "image": null
+    },
+    {
+      "title": "Sanchez: 'Ho deciso di convocare le elezioni anticipate il 29 novembre'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/sanchez-ho-deciso-di-convocare-le-elezioni-anticipate-il-29-novembre_1a6ab6a9-c5ba-40c3-8694-65c484301904.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T09:16:50.000Z",
+      "excerpt": "Il premier in una dichiarazione istituzionale",
+      "image": null
+    },
+    {
+      "title": "\"Io sono Giorgia Meloni\". La premier registra il suo marchio vocale contro i cloni IA e i deepfake",
+      "link": "https://www.repubblica.it/politica/2026/10/05/news/giorgia_meloni_registra_suo_marchio_vocale_contro_cloni_ia_deepfake-425626542/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T09:10:01.000Z",
+      "excerpt": "La presidente del Consiglio si rivolge all'Ufficio dell'Unione europea per la proprietà intellettuale e deposita il suo timbro",
+      "image": null
+    },
+    {
+      "title": "Femminicidio Pamela Genini, Soncin: “Chiedo scusa alla famiglia, mi assumo le mie responsabilità”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/05/news/femminicidio_pamela_genini_gianluca_soncin_scuse_famiglia_processo-425626512/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T08:55:27.000Z",
+      "excerpt": "L’ex compagno della donna, uccisa a Milano un anno fa: “Non mi resta che assumermi fino in fondo le conseguenze del dolore che ho causato”",
       "image": null
     },
     {
@@ -676,14 +708,6 @@
       "image": null
     },
     {
-      "title": "Sanchez: 'Ho deciso di convocare le elezioni anticipate il 29 novembre'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/sanchez-ho-deciso-di-convocare-le-elezioni-anticipate-il-29-novembre_1a6ab6a9-c5ba-40c3-8694-65c484301904.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-05T08:38:36.000Z",
-      "excerpt": "Il premier in una dichiarazione istituzionale",
-      "image": null
-    },
-    {
       "title": "Istat, cala il potere di acquisto delle famiglie e aumenta la pressione fiscale",
       "link": "https://www.repubblica.it/economia/2026/10/05/news/istat_cala_il_potere_di_acquisto_delle_famiglie_e_aumenta_la_pressione_fiscale-425626451/",
       "source": "Repubblica",
@@ -692,19 +716,11 @@
       "image": null
     },
     {
-      "title": "Trovata bombola di gas sotto il David a piazzale Michelangelo a Firenze",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/05/trovata-bombola-di-gas-sotto-il-david-a-piazzale-michelangelo-a-firenze_56fe9149-9c4d-4d95-ae1d-c01ed749181d.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-05T08:31:49.000Z",
-      "excerpt": "Intervengono artificieri, La bombola del gas presenta sull'esterno un oggetto tondo e dei fili sporgenti",
-      "image": null
-    },
-    {
       "title": "Firenze, allarme rientrato al piazzale dopo la bombola di gas trovata sotto la copia del David",
       "link": "https://firenze.repubblica.it/cronaca/2026/10/05/news/firenze_allarme_bombola_piazzale_michelangelo_david_stauta-425626292/",
       "source": "Repubblica",
       "pubDate": "2026-10-05T07:26:12.000Z",
-      "excerpt": "A trovarla questa mattina una dipendente di Alia. Gli artificieri stanno controllando la bombola: turisti allontanati e strada chiusa al traffico, tutto riaperto intorno alle 10",
+      "excerpt": "A trovarla questa mattina una dipendente di Alia: turisti allontanati e strada chiusa al traffico, tutto riaperto intorno alle 10. Terminati i controlli degli artificieri: “La bombola era inoffensiva”",
       "image": null
     },
     {
@@ -748,22 +764,6 @@
       "image": null
     },
     {
-      "title": "Bolsonaro è un clan: 4 gli eletti. Occhi puntati su Michelle, paladina dei pentecostali",
-      "link": "https://www.repubblica.it/esteri/2026/10/05/news/elezioni_brasile_michelle_bolsonaro_famiglia_eletti-425626113/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T04:40:13.000Z",
-      "excerpt": "Otto membri della famiglia erano candidati in tutto il Paese. Il risultato conferma che la base esiste oltre il fondatore. Protagonista è l’ex moglie del patriarca",
-      "image": null
-    },
-    {
-      "title": "Valentino sfila a Parigi con l'antibiblioteca, la moda come possibilità",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/10/04/valentino-sfila-a-parigi-con-lantibiblioteca_8f566e10-9e55-4d6d-88bb-4b7a364d3522.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-04T18:17:48.000Z",
-      "excerpt": "La collezione di Alessandro Michele nella Bibliothéque Sainte-Geneviève, colori e mix pura gioia",
-      "image": null
-    },
-    {
       "title": "Norman Foster, 'Agravitas, la nuova vita di un museo'",
       "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/10/04/norman-foster-agravitas-la-nuova-vita-di-un-museo_9ecf769e-dcd6-4cc5-a937-8cd8f7d71ee7.html",
       "source": "ANSA",
@@ -782,27 +782,43 @@
   ],
   "sport": [
     {
-      "title": "Fifa: Boban, \"Infantino non avrà problemi ad essere rieletto\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/fifa-boban-infantino-non-avra-problemi-ad-essere-rieletto_bb9b343e-578d-4cad-9847-ef360706c84b.html",
+      "title": "La filantropa e velista Wendy Schmidt torna in Barcolana",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/05/la-filantropa-e-velista-wendy-schmidt-torna-in-barcolana_757bc8d0-eea6-44c1-9489-1baa72395aa7.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-05T08:36:01.000Z",
-      "excerpt": "\"Tanti errori ma non va buttato via neanche quanto ha fatto di buono\"",
-      "image": null
-    },
-    {
-      "title": "Tennis: Masters Shanghai, Cobolli e Berrettini nel quarto di Zverev",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/05/tennis-masters-shanghai-cobolli-e-berrettini-nel-quarto-di-zverev_b559721e-83e3-4263-ae16-b050683d329f.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-05T07:42:51.000Z",
-      "excerpt": "Cinque gli italiani. Musetti nel quarto di Shelton. Darderi e Arnaldi in quello di Alcaraz",
+      "pubDate": "2026-10-05T09:29:36.000Z",
+      "excerpt": "'Lady Google' sostiene programma di iniziative sulla conservazione dell'oceano",
       "image": null
     },
     {
       "title": "Il tecnico del Portogallo: 'Cristiano Ronaldo può tornare nella nazionale, se vuole'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/cristiano-ronaldo-puo-tornare-nella-nazionale-se-vuole_563e7f7e-2498-4637-bf17-f58ee776c0f1.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-05T03:30:17.000Z",
+      "pubDate": "2026-10-05T09:24:22.000Z",
       "excerpt": "'Pronto ad un confronto prima della partita ma sarà lui a decidere'",
+      "image": null
+    },
+    {
+      "title": "Tennis: Masters Shanghai, Cobolli e Berrettini nel quarto di Zverev",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/05/tennis-masters-shanghai-cobolli-e-berrettini-nel-quarto-di-zverev_b559721e-83e3-4263-ae16-b050683d329f.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T09:23:34.000Z",
+      "excerpt": "Cinque gli italiani. Musetti nel quarto di Shelton. Darderi e Arnaldi in quello di Alcaraz",
+      "image": null
+    },
+    {
+      "title": "Nations League: Portogallo fa 4 su 4, battuta anche la Norvegia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/04/nations-league-portogallo-fa-4-su-4-battuta-anche-la-norvegia_ec667bc8-3f07-4447-a74c-51f951dc698f.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T09:22:03.000Z",
+      "excerpt": "Vincono Olanda e Danimarca, Germania fermata sullo 0-0 in casa della Grecia",
+      "image": null
+    },
+    {
+      "title": "Fifa: Boban, \"Infantino non avrà problemi ad essere rieletto\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/05/fifa-boban-infantino-non-avra-problemi-ad-essere-rieletto_bb9b343e-578d-4cad-9847-ef360706c84b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-05T08:36:01.000Z",
+      "excerpt": "\"Tanti errori ma non va buttato via neanche quanto ha fatto di buono\"",
       "image": null
     },
     {
@@ -814,27 +830,11 @@
       "image": null
     },
     {
-      "title": "Nations League: Portogallo fa 4 su 4, battuta anche la Norvegia",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/04/nations-league-portogallo-fa-4-su-4-battuta-anche-la-norvegia_ec667bc8-3f07-4447-a74c-51f951dc698f.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-04T20:51:29.000Z",
-      "excerpt": "Vincono Olanda e Danimarca, Germania fermata sullo 0-0 in casa della Grecia",
-      "image": null
-    },
-    {
       "title": "U.21: azzurri all'esame Polonia, Baldini: 'Comunque vada sono ragazzi speciali'",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/u.21-azzurri-allesame-polonia-baldini-comunque-vada-sono-ragazzi-speciali_a95ac990-553e-4edc-8b15-12f19d97a580.html",
       "source": "ANSA Sport",
       "pubDate": "2026-10-04T18:29:05.000Z",
       "excerpt": "L'Italia deve vincere. Il tecnico: 'Spero percepiscano la magia dello stadio di Pescara'",
-      "image": null
-    },
-    {
-      "title": "Figc: ecco i contropareri di Malago', e' battaglia sul voto al Coni",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/04/figc-ecco-i-contropareri-di-malago-e-battaglia-sul-voto-al-coni_5b2ded58-7b59-46c2-970f-e90906ea8122.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-04T18:26:53.000Z",
-      "excerpt": "Polemiche sempre alte in vista della Giunta di martedì sul commissariamento",
       "image": null
     },
     {
