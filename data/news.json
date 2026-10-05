@@ -1,7 +1,39 @@
 {
-  "lastUpdated": "2026-10-05T07:14:11.185Z",
+  "lastUpdated": "2026-10-05T07:44:23.563Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Europa cauta in apertura, Parigi invariata, Londra +0,31%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/borsa-europa-cauta-in-apertura-parigi-invariata-londra-031_651ca729-5e0f-4c8c-9873-44bbeb85ff4b.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T07:26:25.000Z",
+        "excerpt": "Lieve rialzo di Francoforte (+0,08%), fa meglio Madrid (+0,52%)",
+        "image": null
+      },
+      {
+        "title": "Mps sale in Borsa (+0,85%) dopo il rilancio di Intesa (+0,8%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/mps-sale-in-borsa-085-dopo-il-rilancio-di-intesa-08_39c4ea85-f84b-43bb-8bdb-26ae8a1d9b54.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-05T07:20:53.000Z",
+        "excerpt": "Poco mossa Banco Bpm, corre Unipol, scivola Mediobanca",
+        "image": null
+      },
+      {
+        "title": "FTSE 100 oggi: i titoli salgono dopo i dati deboli sul lavoro USA",
+        "link": "https://it.investing.com/news/stock-market-news/ftse-100-oggi-i-titoli-salgono-dopo-i-dati-deboli-sul-lavoro-usa-3573458",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T07:16:09.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
+        "title": "Il sell-off obbligazionario è eccessivo? JPMorgan vede spazio per un rimbalzo azionario",
+        "link": "https://it.investing.com/news/stock-market-news/il-selloff-obbligazionario-e-eccessivo-jpmorgan-vede-spazio-per-un-rimbalzo-azionario-3573456",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T07:11:29.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
+      },
       {
         "title": "Borsa: Milano apre poco mossa, +0,05%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/borsa-milano-apre-poco-mossa-005_fb034e7b-0eb1-4ab9-bbb1-e479facbb1fd.html",
@@ -11,12 +43,20 @@
         "image": null
       },
       {
-        "title": "Prezzo del petrolio in calo, Wti scambiato a 90,22 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/prezzo-del-petrolio-in-calo-wti-scambiato-a-9022-dollari_aab9e1e1-3663-430a-86cb-3957c280321d.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T06:58:24.000Z",
-        "excerpt": "Brent passa di mano a 101,76 dollari",
-        "image": null
+        "title": "Le borse europee rimbalzano grazie al sollievo sui tassi USA; attesi i PMI",
+        "link": "https://it.investing.com/news/stock-market-news/le-borse-europee-rimbalzano-grazie-al-sollievo-sui-tassi-usa-attesi-i-pmi-3573447",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T07:05:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA8E0M2_M.jpg"
+      },
+      {
+        "title": "Francia in crisi, Spagna al voto, euro ai minimi",
+        "link": "https://it.investing.com/news/stock-market-news/francia-in-crisi-spagna-al-voto-euro-ai-minimi-3573443",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-05T07:05:07.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/7-Eleven_800x533_L_1673420630.jpg"
       },
       {
         "title": "Webuild acquista azioni Trevi e sale al 18,91% del capitale",
@@ -83,14 +123,6 @@
         "image": "https://content-media.investing.com/news/LYNXMPECA216N_M.jpg"
       },
       {
-        "title": "Sei titoli AI in rialzo dal 34% al 95%: la lista di ottobre è disponibile",
-        "link": "https://it.investing.com/news/stock-market-news/sei-titoli-ai-in-rialzo-dal-34-al-95-la-lista-di-ottobre-e-disponibile-3573395",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T06:28:33.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM1H1CM_1200_L.jpg"
-      },
-      {
         "title": "Euro in calo, scambiato a 1,1197 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/euro-in-calo-scambiato-a-11197-dollari_0a561f1c-b6ec-43c8-b65a-3704fc0b4024.html",
         "source": "ANSA Economia",
@@ -105,38 +137,6 @@
         "pubDate": "2026-10-05T06:23:59.000Z",
         "excerpt": "Lo sfratto non è l’unico esito. Nella gestione della morosità rilevata dalla società, il 43% delle risposte indica l’avvio della procedura di sfratto",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/05/Immagini/Ritagli/Imagoeconomica_2514147-U33571201574lZy-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Il titolo IT solutions con un guadagno del 34,10% da luglio è solo all’inizio?",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-it-solutions-con-un-guadagno-del-3410-da-luglio-e-solo-allinizio-3573392",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T06:22:48.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3115H_1200_L.jpg"
-      },
-      {
-        "title": "Cinque titoli AI su del 43%+ dalla selezione, chip in rialzo dell’11,77%",
-        "link": "https://it.investing.com/news/stock-market-news/cinque-titoli-ai-su-del-43-dalla-selezione-chip-stock-1177-questa-settimana-3573399",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T06:16:47.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg"
-      },
-      {
-        "title": "Prezzo oro poco mosso, Spot scambiato a 4.139 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/05/prezzo-oro-poco-mosso-spot-scambiato-a-4.139-dollari_7b3a97af-7a44-416f-88b2-d5e09235f1fc.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-05T06:07:09.000Z",
-        "excerpt": "Quotazione scende dello 0,03%",
-        "image": null
-      },
-      {
-        "title": "METLEN firma un accordo di fornitura di gallio con un gruppo chimico giapponese",
-        "link": "https://it.investing.com/news/stock-market-news/metlen-firma-un-accordo-di-fornitura-di-gallio-con-un-gruppo-chimico-giapponese-3573363",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T06:00:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0K09P_M.jpg"
       },
       {
         "title": "Se la frontiera può complicare una rottura",
@@ -272,7 +272,7 @@
         "title": "Caro casa, prezzi e affitti salgono nell’Ue. Il Governo studia le misure per giovani e locazioni",
         "link": "https://www.ilsole24ore.com/art/caro-casa-prezzi-e-affitti-salgono-nell-ue-governo-studia-misure-giovani-e-locazioni-AJC1FyYB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-05T06:21:56.000Z",
+        "pubDate": "2026-10-05T06:21:00.000Z",
         "excerpt": "«Serve una formazione di qualità, un lavoro sicuro e stabile, una retribuzione adeguata, una casa a un prezzo equo», ha detto di recente la premier Giorgia Meloni",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/05/Immagini/Ritagli/milano-U13470057365sey-1440x752@IlSole24Ore-Web.jpeg"
       },
@@ -285,11 +285,11 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/2026-10-04T211151Z_853467629_RC28SNA4H0MR_RTRMADP_5_BRITAIN-USA-FAIRFORD-U77142587237Wjj-1440x752@IlSole24Ore-Web.JPG"
       },
       {
-        "title": "Spagna, Sanchez conferma: si va a elezioni domenica 29 novembre",
+        "title": "Sanchez convoca elezioni anticipate: «La scelta è tra retrocedere con l’ultradestra o avanzare»",
         "link": "https://www.ilsole24ore.com/art/pressing-psoe-e-governo-sanchez-il-voto-anticipato-AJpV5FZB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-05T05:16:00.000Z",
-        "excerpt": "Il premier spagnolo annuncia la convocazione di elezioni anticipate per il 29 novembre",
+        "excerpt": "Il premier spagnolo annuncia la convocazione di elezioni anticipate per domenica 29 novembre",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/02d7f98d0687d466f31fa35a750a01de-U88131511831ZdD-1440x752@IlSole24Ore-Web.jpg"
       },
       {
@@ -457,6 +457,86 @@
     ],
     "mondo": [
       {
+        "title": "Sánchez: “Elezioni anticipate il 29 novembre. Spagna scelga tra avanzare o cedere all’ultradestra”",
+        "link": "https://www.repubblica.it/esteri/2026/10/05/news/sanchez_dimissioni_elezioni_spagna_novembre_2026-425626262/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-05T07:43:03.000Z",
+        "excerpt": "La decisione del leader socialista dopo la crisi sulla questione casa: “Ora serve una maggioranza progressista più ampia”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/091520939-fe63310f-c5ef-4c0a-9563-57a1164f7cc3.jpg"
+      },
+      {
+        "title": "Sanchez, 'ho deciso di convocare le elezioni il 29 novembre'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/sanchez-ho-deciso-di-convocare-le-elezioni-il-29-novembre_064d9e60-561d-4a3a-b5e0-57f7a22c33c8.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-05T07:29:06.000Z",
+        "excerpt": "Il premier in una dichiarazione istituzionale",
+        "image": null
+      },
+      {
+        "title": "I prezzi del petrolio scendono mentre le esportazioni del Medio Oriente si riprendono, il G7 tocca le scorte di emergenza",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-middle-east-exports-recoverg7-taps-emergency-stocks-4930986",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T07:14:10.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEK4N0FY_L.jpg"
+      },
+      {
+        "title": "Il WTI del petrolio greggio testa 200 SMA dopo la ripartizione H&S: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-200-sma-after-hs-breakdown-live-levels-93CH-4931134",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T07:12:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB5605H_M.jpg"
+      },
+      {
+        "title": "Gas naturale intrappolato a $3,016 con formazione di bandiere a forma di orso: Livelli vivi",
+        "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-at-3016-with-bear-flag-forming-live-levels-93CH-4931132",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T07:11:56.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXNPEKAS0PN_L.jpg"
+      },
+      {
+        "title": "London Gas Oil test $1.356 supporto su grafico 5h: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1356-support-on-5h-chart-live-levels-93CH-4931131",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T07:11:34.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8015J_M.jpg"
+      },
+      {
+        "title": "L'argento rimbalza a $61,65 ma incombe la tendenza al ribasso macro: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/silver-bounces-at-6165-but-macro-downtrend-looms-live-levels-93CH-4931129",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T07:11:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8T1CF_M.jpg"
+      },
+      {
+        "title": "Brent Oil stalls inside Ichimoku cloud at $101.57: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/brent-oil-stalls-inside-ichimoku-cloud-at-10157-live-levels-93CH-4931127",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T07:11:13.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEL670TG_L.jpg"
+      },
+      {
+        "title": "Il rame rimbalza dal supporto di $6,568 con mfi ipervenduto: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/copper-rebounds-off-6568-support-with-oversold-mfi-live-levels-93CH-4931128",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T07:11:13.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED1K1IU_M.jpg"
+      },
+      {
+        "title": "L'oro si consolida vicino al supporto di $4.143: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/gold-consolidates-near-4143-support-live-levels-93CH-4931126",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-05T07:10:59.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg"
+      },
+      {
         "title": "I “riposini” di Xi Jinping alla Casa Bianca riaccendono i timori per la sua salute",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/xi_jinping_salute_leader_cinese_riposini_alla_casa_bianca-425626231/?rss",
         "source": "Repubblica Esteri",
@@ -481,22 +561,6 @@
         "image": null
       },
       {
-        "title": "I prezzi dell'oro sono stabili dopo la caduta settimanale mentre i dati sui lavori deboli facilitano le scommesse sull'aumento della Fed",
-        "link": "https://www.investing.com/news/commodities-news/gold-edges-higher-after-weekly-slide-as-weak-jobs-data-ease-fed-hike-bets-4930980",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T06:16:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/Gold_800x533_L_1778184938.jpg"
-      },
-      {
-        "title": "Di sinistra, nazionalisti destinati a vincere le elezioni per la presidenza tripartita della Bosnia",
-        "link": "https://www.investing.com/news/commodities-news/bosnia-votes-sunday-in-election-that-could-affect-eu-bid-4930905",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T06:07:58.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9302W_L.jpg"
-      },
-      {
         "title": "Bolsonaro è un clan: 4 gli eletti. Occhi puntati su Michelle, paladina dei pentecostali",
         "link": "https://www.repubblica.it/esteri/2026/10/05/news/elezioni_brasile_michelle_bolsonaro_famiglia_eletti-425626113/?rss",
         "source": "Repubblica Esteri",
@@ -505,60 +569,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/063947088-1ee81904-c2de-442c-a6d3-3072ecf37a62.jpg"
       },
       {
-        "title": "Il governo yemenita lancia un'offensiva per conquistare tutte le aree degli Houthi sostenuti dall'Iran",
-        "link": "https://www.investing.com/news/commodities-news/head-of-yemens-presidential-council-announces-military-operations-to-retake-territory-4930932",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T04:30:41.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM930BH_L.jpg"
-      },
-      {
         "title": "Doppio attacco russo su Kharkiv con missili Banderol, un morto",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/05/doppio-attacco-russo-su-kharkiv-con-missili-banderol-un-morto_34346129-cdff-4a84-bd71-615ca2ea8bb7.html",
         "source": "ANSA Mondo",
         "pubDate": "2026-10-05T03:27:06.000Z",
         "excerpt": "Colpita una infrastruttura energetica nella regione di Poltava, 22 mila senza elettricità",
         "image": null
-      },
-      {
-        "title": "I prezzi del petrolio scendono mentre le esportazioni del Medio Oriente si riprendono, il G7 tocca le scorte di emergenza",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-middle-east-exports-recoverg7-taps-emergency-stocks-4930986",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T02:03:06.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEK4N0FY_L.jpg"
-      },
-      {
-        "title": "L'OPEC+ si impegna a mantenere stabili gli obiettivi di produzione petrolifera di novembre",
-        "link": "https://www.investing.com/news/commodities-news/opec-agrees-in-principle-to-keep-november-oil-output-targets-steady-sources-say-4930923",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T02:00:52.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9304G_L.jpg"
-      },
-      {
-        "title": "Le esportazioni di petrolio greggio del Medio Oriente superano i livelli prebellici, ma aumentano gli attacchi alle petroliere",
-        "link": "https://www.investing.com/news/commodities-news/middle-east-crude-oil-exports-exceed-prewar-levels-but-tanker-attacks-increase-4930981",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T01:18:35.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9403S_L.jpg"
-      },
-      {
-        "title": "Nel rozzo discorso del rally dell'Ohio, Trump dice che potrebbe non aiutare se i democratici vincessero",
-        "link": "https://www.investing.com/news/commodities-news/in-crude-ohio-rally-speech-trump-says-he-may-not-help-if-democrats-win-4930974",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T00:43:42.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM93072_L.jpg"
-      },
-      {
-        "title": "Merz svela nuovi aiuti militari a Kiev, afferma che la Germania non si lascerà intimidire",
-        "link": "https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T00:38:40.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM93078_L.jpg"
       },
       {
         "title": "Sánchez pronto alle elezioni cavalcando la piazza. La sfida alla destra spagnola",
@@ -601,14 +617,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/205508393-8afbbfb0-83ed-4aa0-9ccd-0247b72a404a.jpg"
       },
       {
-        "title": "Tra i fantasmi di Nir Oz il futuro di Israele si decide sul 7 ottobre",
-        "link": "https://www.repubblica.it/esteri/2026/10/05/news/kibbutz_nir_oz_israele_elezioni_7_ottobre_netanyahu-425625707/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-04T23:00:00.000Z",
-        "excerpt": "Viaggio nel kibbutz martoriato da Hamas: a 3 anni dal pogrom il ricordo del giorno più nero apre la campagna elettorale. Si vota a fine mese: sarà ancora un referendum su Netanyahu",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/04/204355375-04de7c8d-e17b-4569-a513-cfbfd2fe4487.jpg"
-      },
-      {
         "title": "Media, Lula e Bolsonaro andranno al ballottaggio il 25 ottobre",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/media-lula-e-bolsonaro-andranno-al-ballottaggio-il-25-ottobre_67647ec7-b482-4a8b-9f89-4dc50173087c.html",
         "source": "ANSA Mondo",
@@ -639,14 +647,6 @@
         "pubDate": "2026-10-04T18:10:26.000Z",
         "excerpt": "Sostituito ad interim con il ceo della National Iranian Oil Company",
         "image": null
-      },
-      {
-        "title": "Media, copilota voleva schiantare volo FlyDubai su aeroporto Ben Gurion",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/04/media-copilota-voleva-schiantare-volo-flydubai-su-aeroporto-ben-gurion_4c47ccf8-7a8e-47f0-8603-25984b813f1a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-04T17:37:49.000Z",
-        "excerpt": "",
-        "image": null
       }
     ]
   },
@@ -660,19 +660,35 @@
       "image": null
     },
     {
+      "title": "Sanchez: 'Ho deciso di convocare le elezioni anticipate il 29 novembre'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/sanchez-ho-deciso-di-convocare-le-elezioni-anticipate-il-29-novembre_1a6ab6a9-c5ba-40c3-8694-65c484301904.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-05T07:19:43.000Z",
+      "excerpt": "Il premier in una dichiarazione istituzionale",
+      "image": null
+    },
+    {
+      "title": "Sánchez: “Elezioni anticipate in Spagna il 29 novembre”",
+      "link": "https://www.repubblica.it/esteri/2026/10/05/news/sanchez_dimissioni_elezioni_spagna_novembre_2026-425626262/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T07:15:27.000Z",
+      "excerpt": "La decisione del leader socialista dopo la crisi sulla questione casa: “Ora serve una maggioranza progressista più ampia”",
+      "image": null
+    },
+    {
+      "title": "Gianmarco Tognazzi: “Mio padre Ugo? Ho fatto di tutto per non imitarlo”",
+      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/10/05/news/gianmarco_tognazzi_mio_padre_ugo_ho_fatto_di_tutto_per_non_imitarlo-425626220/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T06:58:50.000Z",
+      "excerpt": "Una lunghissima carriera iniziata sul set con il papà Ugo da bambino, il lavoro come operatore alla macchina, la popolarità della tv, la scelta di impegnarsi nella recitazione. E poi la moglie, i figli, l’amico Alessandr",
+      "image": null
+    },
+    {
       "title": "Lula insegue a sorpresa. La sfida ora si gioca sul futuro",
       "link": "https://www.repubblica.it/politica/rubriche/spin-off/2026/10/05/news/lula_insegue_bolsonaro_presidenziali_brasile_elezioni-425626167/",
       "source": "Repubblica",
       "pubDate": "2026-10-05T06:35:38.000Z",
       "excerpt": "Flavio ha ereditato orgogliosamente dal padre il bolsonarismo, conservandone il cuore elettorale, fatto in prevalenza di uomini ed evangelici, ma ne ha allo stesso tempo normalizzato i tratti, limitandone le asperità",
-      "image": null
-    },
-    {
-      "title": "Moncloa: 'Alle 9 una dichiarazione istituzionale del premier Sanchez'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/moncloa-alle-9-dichiarazione-istituzionale-del-premier-sanchez_1a6ab6a9-c5ba-40c3-8694-65c484301904.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-05T06:32:27.000Z",
-      "excerpt": "Parlerà dal palazzo presidenziale dopo un weekend di riflessioni",
       "image": null
     },
     {
@@ -721,22 +737,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-05T03:11:16.000Z",
       "excerpt": "Fulvio Paglialunga firma un saggio narrativo sul tifo come appartenenza: riti, santi e reliquie del pallone, dal Brasile a Taranto",
-      "image": null
-    },
-    {
-      "title": "Valeria Bruni Tedeschi: “Ho cambiato idea: se Hollywood chiama, ora rispondo”",
-      "link": "https://www.repubblica.it/spettacoli/cinema/2026/10/05/news/valeria_bruni_tedeschi_estranea_paolo_strippoli_intervista-425625382/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T03:00:00.000Z",
-      "excerpt": "L’attrice è protagonista de “L’estranea” il film di Paolo Strippoli che l’Italia ha scelto per la corsa agli Oscar",
-      "image": null
-    },
-    {
-      "title": "Tra inflazione e tassi un altro whatever it takes",
-      "link": "https://www.repubblica.it/economia/2026/10/05/news/tra_inflazione_e_tassi_un_altro_whatever_it_takes-425621723/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T01:00:00.000Z",
-      "excerpt": "Se la situazione dei debiti andasse fuori controllo, servirebbe un altro “whatever it takes”, in attesa che l’’Europa viri con forza verso la transizione per attutire gli impatti geopolitici",
       "image": null
     },
     {
