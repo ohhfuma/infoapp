@@ -1,14 +1,22 @@
 {
-  "lastUpdated": "2026-10-06T02:08:38.173Z",
+  "lastUpdated": "2026-10-06T02:42:31.188Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Su del 57% da giugno: questo titolo farmaceutico scelto dall’IA continua a salire",
+        "link": "https://it.investing.com/news/stock-market-news/su-del-57-da-giugno-questo-titolo-farmaceutico-scelto-dallia-continua-a-salire-3575248",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T02:16:28.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg"
+      },
       {
         "title": "Perché il titolo SoftBank è in calo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-softbank-e-in-calo-oggi-93CH-3575240",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T01:46:17.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_L.jpg"
       },
       {
         "title": "KKR acquisisce Gen II Fund Services per 5,1 miliardi di dollari",
@@ -113,14 +121,6 @@
         "pubDate": "2026-10-05T21:44:54.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Option Care Health è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-option-care-health-e-in-forte-rialzo-oggi-93CH-3575169",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-05T21:44:42.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
       },
       {
         "title": "Scattano accise sul gasolio più alte, nessun decreto in Gazzetta",
@@ -392,10 +392,18 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Fmi stima in rialzo debito e inflazione in El Salvador",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/fmi-stima-in-rialzo-debito-e-inflazione-in-el-salvador_3ebc9f65-31e3-47f7-9384-1cdcc7d67387.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T02:27:49.000Z",
+        "excerpt": "Pesano gli interessi sulle pensioni, rincari spinti dal clima",
+        "image": null
+      },
+      {
         "title": "Jeffrey Archer, è morto lo scrittore inglese re dei bestseller. Aveva 86 anni. Oggi esce il suo ultimo romanzo",
         "link": "https://www.repubblica.it/cultura/2026/10/06/news/jeffrey_archer_morto_scrittore_bestseller_caino_e_abele-425628363/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-10-06T01:58:43.000Z",
+        "pubDate": "2026-10-06T02:16:57.000Z",
         "excerpt": "Una vita inimitabile e a tratti scandalosa, romanziere da 300 milioni di copie, meno di 24 ore prima di spirare aveva entusiasmato il pubblico a Londra. Mentre oggi esce il suo “testamento” Adam & Eve",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/035645250-74a86089-effc-4da7-92e4-0625a907ac23.jpg"
       },
@@ -432,7 +440,7 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9501B_L.jpg"
       },
       {
-        "title": "I prezzi del petrolio scendono man mano che i mercati soppesano i tagli dei prezzi di Aramco, le forniture di M.East",
+        "title": "I prezzi del petrolio sono stabili mentre i mercati soppesano i tagli dei prezzi di Aramco, le forniture di M.East",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-markets-weigh-aramco-price-cuts-meast-supplies-4933124",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-06T00:09:03.000Z",
@@ -568,14 +576,6 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM941GJ_L.jpg"
       },
       {
-        "title": "Trump, il risultato di Bolsonaro in Brasile una 'grande vittoria'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/05/trump-il-risultato-di-bolsonaro-in-brasile-una-grande-vittoria_1bdb143c-ee82-4d2d-8517-ee26daee1309.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T20:21:21.000Z",
-        "excerpt": "'Combattuta, ma davvero enorme. Incredibile'",
-        "image": null
-      },
-      {
         "title": "Il petrolio greggio WTI testa il 50% di Fib a $88,76 in mezzo alla tendenza al ribasso: Live",
         "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-200-sma-after-hs-breakdown-live-levels-93CH-4931134",
         "source": "Investing.com Commodities",
@@ -592,6 +592,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-06T04:00:00.000Z",
       "excerpt": "The Italian national boxing team’s technical director: “I don’t want to let myself go. And boxing is inside me, like another organ in my body.”",
+      "image": null
+    },
+    {
+      "title": "Jeffrey Archer, è morto lo scrittore inglese re dei bestseller. Aveva 86 anni. Oggi esce il suo ultimo romanzo",
+      "link": "https://www.repubblica.it/cultura/2026/10/06/news/jeffrey_archer_morto_scrittore_bestseller_caino_e_abele-425628363/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T01:57:00.000Z",
+      "excerpt": "Una vita inimitabile e a tratti scandalosa, romanziere da 300 milioni di copie, meno di 24 ore prima di spirare aveva entusiasmato il pubblico a Londra. Mentre oggi esce il suo “testamento” Adam & Eve",
       "image": null
     },
     {
@@ -640,14 +648,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-05T23:00:00.000Z",
       "excerpt": "Ieri la cerimonia ufficiale a Gerusalemme, dal premier neanche un cenno di scuse",
-      "image": null
-    },
-    {
-      "title": "Postfranchisti e ultradestra, l’alleanza tra Pp e Vox già si prepara al governo in Spagna",
-      "link": "https://www.repubblica.it/esteri/2026/10/06/news/spagna_elezioni_anticipate_postfranchisti_ultradestra_pp_vox-425628126/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T23:00:00.000Z",
-      "excerpt": "ll leader dei popolari Feijóo già sente la vittoria in tasca, ma per andare alla Moncloa deve fare un patto con gli estremisti di Abascal",
       "image": null
     },
     {
