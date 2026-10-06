@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T22:40:47.025Z",
+  "lastUpdated": "2026-10-06T23:07:17.975Z",
   "finanza": {
     "italia": [
       {
@@ -8,7 +8,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T22:07:54.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM451CX_1200_L.jpg"
+        "image": null
       },
       {
         "title": "JetBlue ottiene l’approvazione definitiva della FAA per i slot di Spirit a LaGuardia",
@@ -16,7 +16,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T21:55:58.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA60270_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEA60270_S.jpg"
       },
       {
         "title": "Il titolo di Black Hills sale del 5% grazie a un accordo da 1,8 miliardi con Google",
@@ -32,7 +32,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T21:21:26.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEK7S0PR_L.jpg"
       },
       {
         "title": "Caribou Biosciences crolla del 40% dopo la sospensione dei programmi CAR-T",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Gli Stati Uniti prevedono un uragano alla fine di questa settimana nel Golfo del Messico",
+        "link": "https://www.investing.com/news/commodities-news/us-forecasts-hurricane-later-this-week-in-gulf-of-mexico-4935386",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-06T22:48:40.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/oil_2_M_1440047844.jpg"
+      },
+      {
         "title": "Christa Pike, sopravvissuta a due iniezioni letali negli Usa, è cosciente e parla",
         "link": "https://www.repubblica.it/esteri/2026/10/06/news/christa_pike_cosciente_parla_condanna_morte_tennessee_sopravvissuta_usa-425630676/?rss",
         "source": "Repubblica Esteri",
@@ -534,14 +542,6 @@
         "pubDate": "2026-10-06T19:20:11.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB8015J_M.jpg"
-      },
-      {
-        "title": "Il WTI del petrolio greggio si ferma al di sotto della resistenza a $91,50: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-200-sma-after-hs-breakdown-live-levels-93CH-4931134",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-06T19:20:10.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB5605H_M.jpg"
       },
       {
         "title": "Banca Mondiale, l'America Latina nel 2026 cresce al 2,2% al di sotto del potenziale",
