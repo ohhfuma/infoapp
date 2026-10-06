@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T03:43:05.179Z",
+  "lastUpdated": "2026-10-06T04:09:50.925Z",
   "finanza": {
     "italia": [
       {
@@ -8,7 +8,15 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T03:34:01.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg"
+      },
+      {
+        "title": "Il titolo IT scelto dall’AI guadagna il 9,85% questa settimana nonostante l’instabilità del dollaro",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-it-scelto-dallai-guadagna-il-985-questa-settimana-nonostante-linstabilita-del-dollaro-3575267",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T03:21:47.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
       },
       {
         "title": "Perché il titolo Mattel è salito del 5% oggi?",
@@ -80,15 +88,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T01:37:26.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/KKR_800x533_L_1598024929.jpg"
-      },
-      {
-        "title": "I futures USA stabili dopo il record del NASDAQ Composite",
-        "link": "https://it.investing.com/news/stock-market-news/i-futures-usa-stabili-dopo-il-record-del-nasdaq-composite-3575236",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T01:33:50.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
       },
       {
         "title": "I salari vanno indietro. L’inflazione se li mangia. Italia, 35 anni perduti",
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Ok di Trump alla fucilazione per l’autore della strage di Fort Hood. E sugli spot “patriottici” dice: “Li pago io”",
+        "link": "https://www.repubblica.it/esteri/2026/10/06/news/trump_fucilazione_strage_fort_hood_spot-425628419/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-06T04:00:39.000Z",
+        "excerpt": "Nidal Hansan nel 2009 uccise 13 persone e ne ferì 32: è la sparatoria di massa più sanguinosa in una base militare statunitense. La mossa sui video per rispondere all’accusa di \"propaganda illegale”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/055820013-e4673635-8e6c-4f1f-a6fc-ce466611e5c1.jpg"
+      },
+      {
+        "title": "Messico e Usa negoziano l'accordo commerciale 'senza tensioni politiche'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/messico-e-usa-negoziano-laccordo-commerciale-senza-tensioni-politiche_6c5686ec-1f90-45fb-862d-9c4014d15a36.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T03:45:02.000Z",
+        "excerpt": "Il ministro Ebrard annuncia la revisione del trattato Usmca per il 2027",
+        "image": null
+      },
+      {
         "title": "Le forze governative yemenite cacciano gli Houthi dallo stretto di Bab el-Mandeb",
         "link": "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376",
         "source": "Investing.com Commodities",
@@ -512,14 +528,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/214801381-11c91d06-9e69-4d15-8c79-79fea56aa399.jpg"
       },
       {
-        "title": "Brasile, Bolsonaro vede la vittoria: “Pronti a cambiare il Paese”",
-        "link": "https://www.repubblica.it/esteri/2026/10/06/news/brasile_elezioni_bolsonaro_lula_vittoria_primo_turno-425627993/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-05T23:00:00.000Z",
-        "excerpt": "Lula staccato di 2 punti ma le forze escluse dal ballottaggio appoggeranno il suo sfidante: rimonta legata ai milioni di astenuti. Trump: grande risultato",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/212620141-a7dcaca7-3fb3-4a75-b8d2-3e7095287456.jpg"
-      },
-      {
         "title": "Bolivia, il presidente Paz riconosce Urioste come procuratore generale ad interim",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/bolivia-il-presidente-paz-riconosce-urioste-come-procuratore-generale-ad-interim_a40d8342-03a3-45ea-8687-3194cb98bcb0.html",
         "source": "ANSA Mondo",
@@ -549,14 +557,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-05T21:33:41.000Z",
         "excerpt": "Portavoce, 'nel mirino anche siti militari nel sud dell'Arabia Saudita'",
-        "image": null
-      },
-      {
-        "title": "Foto inedite di Sinwar diffuse dalle Brigate al Qassem alla vigilia del 7 ottobre",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/foto-inedite-di-sinwar-diffuse-dalle-brigate-al-qassem-alla-vigilia-del_9637cf00-436e-4898-a474-827aa4bfee5c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-05T21:32:02.000Z",
-        "excerpt": "L'ex capo di Hamas ucciso dalle Idf nel 2024",
         "image": null
       },
       {
@@ -592,6 +592,30 @@
       "source": "Repubblica",
       "pubDate": "2026-10-06T04:00:00.000Z",
       "excerpt": "The Italian national boxing team’s technical director: “I don’t want to let myself go. And boxing is inside me, like another organ in my body.”",
+      "image": null
+    },
+    {
+      "title": "Ok di Trump alla fucilazione per l’autore della strage di Fort Hood. E sugli spot “patriottici” dice: “Li pago io”",
+      "link": "https://www.repubblica.it/esteri/2026/10/06/news/trump_fucilazione_strage_fort_hood_spot-425628419/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T03:58:24.000Z",
+      "excerpt": "Nidal Hansan nel 2009 uccise 13 persone e ne ferì 32: è la sparatoria di massa più sanguinosa in una base militare statunitense. La mossa sui video per rispondere all’accusa di \"propaganda illegale”",
+      "image": null
+    },
+    {
+      "title": "Droni ucraini hanno colpito la regione di Mosca",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/droni-ucraini-hanno-colpito-la-regione-di-mosca_0231200e-b392-4867-969d-b60d3337c436.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-06T03:56:06.000Z",
+      "excerpt": "I velivoli sono entrati in territorio russo in diverse ondate",
+      "image": null
+    },
+    {
+      "title": "Trump approva la fucilazione per l'autore della strage nella base di Fort Hood",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/trump-approva-la-fucilazione-per-lautore-della-strage-nella-base-di-fort_7ee2f639-c35c-40c0-b66c-5e43c79301d7.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-06T02:12:07.000Z",
+      "excerpt": "Nidal Hasan nel 2009 uccise 13 persone e ne ferì 32",
       "image": null
     },
     {
@@ -643,14 +667,6 @@
       "image": null
     },
     {
-      "title": "Netanyahu contestato dai parenti delle vittime del 7 ottobre: “Morti per colpa tua”",
-      "link": "https://www.repubblica.it/esteri/2026/10/06/news/netanyahu_contestato_parenti_vittime_7_ottobre_2023_israele_cerimonia-425628203/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T23:00:00.000Z",
-      "excerpt": "Ieri la cerimonia ufficiale a Gerusalemme, dal premier neanche un cenno di scuse",
-      "image": null
-    },
-    {
       "title": "Il voto a maggio più vicino, e Meloni tutela la sua voce dai deepfake",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/10/05/il-voto-a-maggio-piu-vicino-e-meloni-tutela-la-sua-voce-dai-deepfake_166e0661-729d-445b-b106-17c3ea8888c6.html",
       "source": "ANSA",
@@ -664,22 +680,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-05T21:05:11.000Z",
       "excerpt": "Una ricerca promossa dalla Fondazione Torino Città per le Donne",
-      "image": null
-    },
-    {
-      "title": "Nuovo allarme degli 007 tedeschi, l'Estonia sposta le truppe",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/financial-times-lestonia-sposta-le-truppe-piu-vicino-al-confine-con-la-russia_ba3b1d1a-ca86-47b7-904e-b7cdf2c99464.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-05T19:06:15.000Z",
-      "excerpt": "L'intelligence di Berlino: Mosca sta conducendo una 'guerra ombra' contro la Germania",
-      "image": null
-    },
-    {
-      "title": "La scommessa di Sanchez, elezioni anticipate il 29 novembre",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/05/sanchez-ho-deciso-di-convocare-le-elezioni-anticipate-il-29-novembre_1a6ab6a9-c5ba-40c3-8694-65c484301904.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-05T18:10:17.000Z",
-      "excerpt": "Il premier cavalca la protesta per ribaltare i sondaggi e riapprova i decreti casa",
       "image": null
     },
     {
