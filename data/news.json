@@ -1,14 +1,30 @@
 {
-  "lastUpdated": "2026-10-06T22:07:46.259Z",
+  "lastUpdated": "2026-10-06T22:40:47.025Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Boston Dynamics nomina l’ex dirigente Amazon Rohit Prasad come CEO",
+        "link": "https://it.investing.com/news/stock-market-news/boston-dynamics-nomina-lex-dirigente-amazon-rohit-prasad-come-ceo-3577117",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T22:07:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM451CX_1200_L.jpg"
+      },
+      {
+        "title": "JetBlue ottiene l’approvazione definitiva della FAA per i slot di Spirit a LaGuardia",
+        "link": "https://it.investing.com/news/stock-market-news/jetblue-ottiene-lapprovazione-definitiva-della-faa-per-i-slot-di-spirit-a-laguardia-3577110",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T21:55:58.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA60270_M.jpg"
+      },
       {
         "title": "Il titolo di Black Hills sale del 5% grazie a un accordo da 1,8 miliardi con Google",
         "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-black-hills-sale-del-5-grazie-a-un-accordo-da-18-miliardi-con-google-3577101",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T21:29:12.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM431CY_150x108_S.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg"
       },
       {
         "title": "Il titolo di Sigma Lithium sale dopo la conferma delle licenze minerarie",
@@ -24,7 +40,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T20:47:14.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM5F12L_150x108_S.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg"
       },
       {
         "title": "I rendimenti dei bond canadesi scendono con l’allentamento delle pressioni globali",
@@ -40,7 +56,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T20:46:03.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
       },
       {
         "title": "Goldman Sachs indica SalMar come miglior scelta nel settore del salmone",
@@ -57,22 +73,6 @@
         "pubDate": "2026-10-06T20:06:21.000Z",
         "excerpt": "Il cortocircuito tra l’Unione europea e via XX Settembre va in scena alla vigilia del doppio appuntamento che giovedì 9 e venerdì 10 vedrà prima i ministri del Tesoro dell’area euro e poi tutti quelli di Ventisette intor",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/193551030-a0884e06-31d2-41ed-b95b-f66a5da33185.jpg"
-      },
-      {
-        "title": "Morgan Stanley ripristina Nvidia come prima scelta nei semiconduttori",
-        "link": "https://it.investing.com/news/stock-market-news/morgan-stanley-ripristina-nvidia-come-prima-scelta-nei-semiconduttori-3576964",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T19:55:17.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
-      },
-      {
-        "title": "Waymo aumenta il suo primo prestito privato a 5 miliardi di dollari",
-        "link": "https://it.investing.com/news/stock-market-news/waymo-aumenta-il-suo-primo-prestito-privato-a-5-miliardi-di-dollari-3576961",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T19:54:09.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg"
       },
       {
         "title": "Il petrolio chiude poco mosso a New York a 89,44 dollari",
@@ -392,20 +392,36 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Christa Pike, sopravvissuta a due iniezioni letali negli Usa, è cosciente e parla",
+        "link": "https://www.repubblica.it/esteri/2026/10/06/news/christa_pike_cosciente_parla_condanna_morte_tennessee_sopravvissuta_usa-425630676/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-06T22:12:53.000Z",
+        "excerpt": "La donna, condannata a morte, ha ripreso conoscenza ed è in grado di parlare. I suoi legali definiscono il caso “senza precedenti”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/231633585-ba110cee-dd78-4972-9bea-f9740f7ccecd.jpg"
+      },
+      {
+        "title": "Messico, arrestato leader regionale del Cártel Jalisco Nueva Generación",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/messico-arrestato-leader-regionale-del-cartel-jalisco-nueva-generacion_c5c23332-15ec-4357-8295-e4612e63f8bc.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T22:07:35.000Z",
+        "excerpt": "Iván Cazarín Molina, detto \"El Tanque\", è stato catturato nello Stato di Jalisco",
+        "image": null
+      },
+      {
+        "title": "I prezzi del petrolio sono stabili mentre il mercato pesa sui rischi di approvvigionamento, aumentando le esportazioni in Medio Oriente",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-stable-as-market-weighs-supply-risks-rising-middle-east-exports-4935024",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-06T22:06:22.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM951ML_L.jpg"
+      },
+      {
         "title": "Anche il reclamo delle Malvinas al centro dell'omaggio a Messi",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/anche-il-reclamo-delle-malvinas-al-centro-dellomaggio-a-messi_58161172-3b8a-44e6-a60a-74baaba25d58.html",
         "source": "ANSA Mondo",
         "pubDate": "2026-10-06T22:02:05.000Z",
         "excerpt": "L'inno cantato da un veterano della guerra e verrà spiegato lo striscione del mondiale",
         "image": null
-      },
-      {
-        "title": "Christa Pike, sopravvissuta a due iniezioni letali negli Usa, è cosciente e parla",
-        "link": "https://www.repubblica.it/esteri/2026/10/06/news/christa_pike_cosciente_parla_condanna_morte_tennessee_sopravvissuta_usa-425630676/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-06T21:57:52.000Z",
-        "excerpt": "La donna, condannata a morte, ha ripreso conoscenza ed è in grado di parlare. I suoi legali definiscono il caso “senza precedenti”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/231633585-ba110cee-dd78-4972-9bea-f9740f7ccecd.jpg"
       },
       {
         "title": "Bolivia, trovati oltre 2,5 milioni di dollari nella casa dell'ex procuratore generale",
@@ -496,14 +512,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/112811271-37ec52aa-eda5-496c-9779-b53ff9ef0774.jpg"
       },
       {
-        "title": "I prezzi del petrolio sono stabili mentre il mercato pesa sui rischi di approvvigionamento, aumentando le esportazioni in Medio Oriente",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-stable-as-market-weighs-supply-risks-rising-middle-east-exports-4935024",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-06T19:24:46.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM951ML_L.jpg"
-      },
-      {
         "title": "Rame intrappolato nella gamma $6,60-$6,74: Breakout guarda dal vivo",
         "link": "https://www.investing.com/news/commodities-news/copper-rebounds-off-6568-support-with-oversold-mfi-live-levels-93CH-4931128",
         "source": "Investing.com Commodities",
@@ -541,14 +549,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-06T18:58:27.000Z",
         "excerpt": "Ostacoli persistenti allo sviluppo, Brasile e Messico non decollano",
-        "image": null
-      },
-      {
-        "title": "Lula chiude 11mila siti di scommesse online in Brasile",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/lula-chiude-11mila-siti-di-scommesse-online-in-brasile_5fdbb7c9-cfa4-4ea3-adda-687ffa672311.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T18:34:36.000Z",
-        "excerpt": "Entra in vigore il divieto e rimangono da ritirare circa 240 milioni di euro",
         "image": null
       },
       {
