@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T00:12:11.139Z",
+  "lastUpdated": "2026-10-06T00:49:33.615Z",
   "finanza": {
     "italia": [
       {
@@ -96,7 +96,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-05T21:44:42.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
+        "image": null
       },
       {
         "title": "DayOne Data Centers presenta domanda di IPO al Nasdaq con ticker DODC",
@@ -104,7 +104,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-05T21:38:06.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
+        "image": null
       },
       {
         "title": "Il titolo di Freshworks sale grazie all’ingresso nell’S&P SmallCap 600",
@@ -112,7 +112,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-05T21:24:36.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3917D_1200_L.jpg"
+        "image": null
       },
       {
         "title": "DayOne Data Centers presenta domanda per IPO negli Stati Uniti",
@@ -120,7 +120,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-05T21:21:25.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_L.jpg"
       },
       {
         "title": "Scattano accise sul gasolio più alte, nessun decreto in Gazzetta",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "I prezzi del petrolio scendono man mano che i mercati soppesano i tagli dei prezzi di Aramco, le forniture di M.East",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-markets-weigh-aramco-price-cuts-meast-supplies-4933124",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-06T00:09:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3N196_1200_L.jpg"
+      },
+      {
         "title": "Le forze governative yemenite cacciano gli Houthi dallo stretto di Bab el-Mandeb",
         "link": "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376",
         "source": "Investing.com Commodities",
@@ -560,14 +568,6 @@
         "image": "https://content-media.investing.com/news/LYNXNPEB8015J_M.jpg"
       },
       {
-        "title": "Gas naturale bloccato a $3,08 resistenza al cloud: livelli Live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-at-3016-with-bear-flag-forming-live-levels-93CH-4931132",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-05T19:20:41.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEKAS0PN_L.jpg"
-      },
-      {
         "title": "Turchia e Pakistan invieranno forze militari in Arabia Saudita",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/05/turchia-e-pakistan-invieranno-forze-militari-in-arabia-saudita_f54efd4a-31ad-4e15-ad18-992d3d960763.html",
         "source": "ANSA Mondo",
@@ -619,11 +619,35 @@
       "image": null
     },
     {
-      "title": "Accise, il governo ferma gli sconti. Le entrate extra in soccorso al bilancio",
-      "link": "https://www.repubblica.it/economia/2026/10/06/news/accise_sconti_diesel_governo-425628216/",
+      "title": "“Pensavamo che a Sinwar bastassero soldi e potere”: così Israele ignorò gli allarmi del 7 Ottobre",
+      "link": "https://www.repubblica.it/esteri/2026/10/06/news/allarmi_ignorati_hamas_7_ottobre_ecco_perche-425628276/",
       "source": "Repubblica",
       "pubDate": "2026-10-05T23:00:00.000Z",
-      "excerpt": "Scade il taglio sul diesel da 6,1 centesimi al litro. Palazzo Chigi punta sul tetto ai prezzi fino a fine anno, il nodo del deficit frena l’utilizzo del gettito Iva di settembre",
+      "excerpt": "L’intelligence era sicura che Hamas non volesse lo scontro diretto a Gaza, perciò sottovalutò 13 segnali raccolti nelle ore precedenti all’attacco. “Nella Striscia attivarono 45 sim israeliane”. Ma già dal 2021 era stato",
+      "image": null
+    },
+    {
+      "title": "Netanyahu contestato dai parenti delle vittime del 7 ottobre: “Morti per colpa tua”",
+      "link": "https://www.repubblica.it/esteri/2026/10/06/news/netanyahu_contestato_parenti_vittime_7_ottobre_2023_israele_cerimonia-425628203/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T23:00:00.000Z",
+      "excerpt": "Ieri la cerimonia ufficiale a Gerusalemme, dal premier neanche un cenno di scuse",
+      "image": null
+    },
+    {
+      "title": "Postfranchisti e ultradestra, l’alleanza tra Pp e Vox già si prepara al governo in Spagna",
+      "link": "https://www.repubblica.it/esteri/2026/10/06/news/spagna_elezioni_anticipate_postfranchisti_ultradestra_pp_vox-425628126/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T23:00:00.000Z",
+      "excerpt": "ll leader dei popolari Feijóo già sente la vittoria in tasca, ma per andare alla Moncloa deve fare un patto con gli estremisti di Abascal",
+      "image": null
+    },
+    {
+      "title": "Spagna, l’ex leader di Podemos Iglesias: “La casa può mobilitare, alle urne possibile una sorpresa”",
+      "link": "https://www.repubblica.it/esteri/2026/10/06/news/spagna_ex_leader_podemos_iglesias_intervista_progressisti_indietro_uniti_tema_casa_possiamo_vincere-425627788/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-05T23:00:00.000Z",
+      "excerpt": "L’ex vicepremier: “Se la mobilitazione continua, magari con uno sciopero generale, potrebbero esserci delle sorprese: servono primarie aperte”",
       "image": null
     },
     {
@@ -635,35 +659,11 @@
       "image": null
     },
     {
-      "title": "La Francia soffre, ma il finale è da urlo: 4-1 al Belgio",
-      "link": "https://www.repubblica.it/sport/calcio/2026/10/05/news/francia_batte_belgio_nations_league-425628278/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T21:05:40.000Z",
-      "excerpt": "Grazie ai cambi, Zidane viene a capo (4-1) della squadra di Van Bommel, avanti fino al 77' grazie a una rete di Lukebakio. Grandi protagonisti Doué (un gol su suggerimento di Da Cunha e due assist) e Olise (due gol e un ",
-      "image": null
-    },
-    {
       "title": "Per le donne il gender gap pesa anche sull'accesso all'abitare",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/10/05/per-le-donne-il-gender-gap-pesa-anche-sullaccesso-allabitare_e68af765-0617-407b-a838-4db5881b4058.html",
       "source": "ANSA",
       "pubDate": "2026-10-05T21:05:11.000Z",
       "excerpt": "Una ricerca promossa dalla Fondazione Torino Città per le Donne",
-      "image": null
-    },
-    {
-      "title": "Migranti, Salvini dopo il video di Richard Gere: “Fai l’attore, non dare lezioni agli italiani”",
-      "link": "https://www.repubblica.it/cronaca/2026/10/05/news/richard_gere_matteo_salvini_video_migranti_lezioni_italiani-425628250/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T20:36:51.000Z",
-      "excerpt": "La stella di Hollywood aveva registrato un filmato a sostegno di ActionAid. “Difendiamo la comune umanità”",
-      "image": null
-    },
-    {
-      "title": "Caso Flydubai, la confessione del copilota: “Volevo il martirio per vendicare Gaza”",
-      "link": "https://www.repubblica.it/esteri/2026/10/05/news/caso_flydubai_confessione_copilota_volevo_martirio_vendicare_gaza-425628179/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T20:05:38.000Z",
-      "excerpt": "La dichiarazione Hamam al-Hammami, il 29enne omanita che mercoledì scorso ha tentato di far precipitare il volo 1073 con 174 passeggeri a bordo",
       "image": null
     },
     {
