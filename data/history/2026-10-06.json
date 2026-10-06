@@ -4,6 +4,38 @@
   "finanza": {
     "italia": [
       {
+        "title": "Caribou Biosciences crolla del 40% dopo la sospensione dei programmi CAR-T",
+        "link": "https://it.investing.com/news/stock-market-news/caribou-biosciences-crolla-del-40-dopo-la-sospensione-dei-programmi-cart-3577080",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T20:47:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg"
+      },
+      {
+        "title": "I rendimenti dei bond canadesi scendono con l’allentamento delle pressioni globali",
+        "link": "https://it.investing.com/news/stock-market-news/i-rendimenti-dei-bond-canadesi-scendono-con-lallentamento-delle-pressioni-globali-3577079",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T20:46:10.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg"
+      },
+      {
+        "title": "Movimenti after-hours: PENG, STZ, NEOG",
+        "link": "https://it.investing.com/news/stock-market-news/movimenti-afterhours-peng-stz-neog-432SI-3577070",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T20:46:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+      },
+      {
+        "title": "Goldman Sachs indica SalMar come miglior scelta nel settore del salmone",
+        "link": "https://it.investing.com/news/stock-market-news/goldman-sachs-indica-salmar-come-miglior-scelta-nel-settore-del-salmone-3577068",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T20:43:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8F0QL_M.jpg"
+      },
+      {
         "title": "Morgan Stanley ripristina Nvidia come prima scelta nei semiconduttori",
         "link": "https://it.investing.com/news/stock-market-news/morgan-stanley-ripristina-nvidia-come-prima-scelta-nei-semiconduttori-3576964",
         "source": "Investing.com Italia",
@@ -450,38 +482,6 @@
         "pubDate": "2026-10-06T15:44:04.000Z",
         "excerpt": "Energia più cara, tassi e fine della spinta del Pnrr pesano sulle prospettive di crescita. Per l’economista Paolo Pizzoli l’uscita dalla procedura per deficit eccessivo cambierebbe poco i margini di bilancio, ma potrebbe",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/174352468-150203b5-5e34-4ccf-93e9-bb283c53524e.jpg"
-      },
-      {
-        "title": "Nuovo incontro sull'ex Ilva l'8 ottobre a Palazzo Chigi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/nuovo-incontro-sullex-ilva-l8-ottobre-a-palazzo-chigi_a9c0fdcb-fcdd-4319-9c0e-6405432e9a36.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-06T15:36:35.000Z",
-        "excerpt": "La convocazione del governo alle sigle dei metalmeccanici",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo di Xanadu Quantum Technologies è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-xanadu-quantum-technologies-e-in-forte-rialzo-oggi-93CH-3576839",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T15:30:49.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Perché il titolo di BWX Technologies è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-bwx-technologies-e-in-forte-rialzo-oggi-93CH-3576838",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T15:30:38.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Perché il titolo Applied Digital sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-applied-digital-sta-salendo-oggi-93CH-3576837",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T15:30:08.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
       }
     ],
     "europa": [
@@ -1220,6 +1220,14 @@
   },
   "attualita": [
     {
+      "title": "Attentato di Modena, El Koudri tenta il suicidio in carcere",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/attentato-di-modena-el-koudri-tenta-il-suicidio-in-carcere_dc8802dc-c3f5-4b75-822e-36576ccf9789.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-06T20:56:53.000Z",
+      "excerpt": "Ha ingerito farmaci, sarebbe fuori pericolo di vita",
+      "image": null
+    },
+    {
       "title": "Auto sulla folla a Modena, El Koudri ha tentato il suicidio in carcere",
       "link": "https://bologna.repubblica.it/cronaca/2026/10/06/news/el_koudri_tentato_suicidio_modena-425630550/",
       "source": "Repubblica",
@@ -1690,17 +1698,17 @@
       "pubDate": "2026-10-06T01:06:41.000Z",
       "excerpt": "Il Benin affronterà Messi nella partita d'addio alla Selección. Il suo portiere, Marcel Soukè Dandjinou, ha un destino segnato: o l'ultima vittima di Leo, o quello che gli ha negato l'ultimo gol",
       "image": null
-    },
-    {
-      "title": "Manfredi: “Quello di Scampia è un modello esportabile. La crisi abitativa va governata”",
-      "link": "https://napoli.repubblica.it/cronaca/2026/10/05/news/manfredi_napoli_scampia_modello_esportabile_crisi_casa_va_governata-425628078/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-05T23:01:00.000Z",
-      "excerpt": "Il sindaco di Napoli: “Tocca siglare un patto tra centro e periferia e la sinistra deve farsene promotrice”",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: Inghilterra-Repubblica Ceca 3-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/nations-league-inghilterra-repubblica-ceca-3-0_c42828a3-c1d4-442f-89eb-3bd923667673.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-06T21:01:53.000Z",
+      "excerpt": "Doppietta di Kane, festeggiato per la 125/a presenza in nazionale",
+      "image": null
+    },
     {
       "title": "Cristiano Ronaldo chiede scusa e si dice disponibile a tornare in Nazionale",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/cristiano-ronaldo-chiede-scusa-e-si-dice-disponibile-a-tornare-in-nazionale_4105c13f-ac75-4caa-91db-1c8157e2a421.html",

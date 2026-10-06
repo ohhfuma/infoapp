@@ -1,7 +1,39 @@
 {
-  "lastUpdated": "2026-10-06T20:42:29.191Z",
+  "lastUpdated": "2026-10-06T21:07:27.854Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Caribou Biosciences crolla del 40% dopo la sospensione dei programmi CAR-T",
+        "link": "https://it.investing.com/news/stock-market-news/caribou-biosciences-crolla-del-40-dopo-la-sospensione-dei-programmi-cart-3577080",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T20:47:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg"
+      },
+      {
+        "title": "I rendimenti dei bond canadesi scendono con l’allentamento delle pressioni globali",
+        "link": "https://it.investing.com/news/stock-market-news/i-rendimenti-dei-bond-canadesi-scendono-con-lallentamento-delle-pressioni-globali-3577079",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T20:46:10.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg"
+      },
+      {
+        "title": "Movimenti after-hours: PENG, STZ, NEOG",
+        "link": "https://it.investing.com/news/stock-market-news/movimenti-afterhours-peng-stz-neog-432SI-3577070",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T20:46:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+      },
+      {
+        "title": "Goldman Sachs indica SalMar come miglior scelta nel settore del salmone",
+        "link": "https://it.investing.com/news/stock-market-news/goldman-sachs-indica-salmar-come-miglior-scelta-nel-settore-del-salmone-3577068",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T20:43:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8F0QL_M.jpg"
+      },
       {
         "title": "Inflazione, botta e risposta Ue-Tesoro: “All’Ecofin non si parla di flessibilità”. “Ne discuteremo”",
         "link": "https://www.repubblica.it/economia/2026/10/06/news/inflazione_europa_ue_tesoro_ecofin_riunione_flessibilita-425630102/?rss",
@@ -41,38 +73,6 @@
         "pubDate": "2026-10-06T19:12:59.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg"
-      },
-      {
-        "title": "Microsoft esaurita vicino a 535,63 $: livelli in tempo reale",
-        "link": "https://it.investing.com/news/stock-market-news/microsoft-a-52629-breakout-debole-pullback-in-agguato--live-93CH-3574845",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T19:12:33.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB2N09U_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Centerra Gold è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-centerra-gold-e-in-rialzo-oggi-93CH-3576945",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T19:05:21.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/gold_2_M_1440047838.jpg"
-      },
-      {
-        "title": "Perché il titolo Quebecor è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-quebecor-e-in-rialzo-oggi-93CH-3576943",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T19:00:46.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Perché il titolo Denison Mines è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-denison-mines-e-in-rialzo-oggi-93CH-3576941",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T18:58:44.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
       },
       {
         "title": "Il petrolio chiude poco mosso a New York a 89,44 dollari",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Amnistia per Puigdemont: può tornare in Spagna. Sánchez vara i decreti casa",
+        "link": "https://www.repubblica.it/esteri/2026/10/06/news/spagna_revocato_mandatoarresto_puigdemont_sanchez_approvati_due_nuovi_decreti_casa-425629242/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-06T20:45:30.000Z",
+        "excerpt": "Dopo nove anni di esilio, il leader dei separatisti catalani è libero: “Finita la repressione politica”. Il peso di Junts nel voto di novembre",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/131731695-a37d6e34-4ec7-4610-a81c-c2312e6aa23c.jpg"
+      },
+      {
         "title": "Germania, l’ex capo dell’intelligence arrestato per spionaggio per agenti stranieri",
         "link": "https://www.repubblica.it/esteri/2026/10/06/news/germania_ex_capo_intelligence_arrestato_spionaggio_agenti_stranieri-425629184/?rss",
         "source": "Repubblica Esteri",
@@ -414,14 +422,6 @@
         "pubDate": "2026-10-06T19:55:39.000Z",
         "excerpt": "Ordina al governo Milei di applicare la legge sul finanziamento degli atenei",
         "image": null
-      },
-      {
-        "title": "Amnistia per Puigdemont: può tornare in Spagna. Sánchez vara i decreti casa",
-        "link": "https://www.repubblica.it/esteri/2026/10/06/news/spagna_revocato_mandatoarresto_puigdemont_sanchez_approvati_due_nuovi_decreti_casa-425629242/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-06T19:46:46.000Z",
-        "excerpt": "Dopo nove anni di esilio, il leader dei separatisti catalani è libero: “Finita la repressione politica”. Il peso di Junts nel voto di novembre",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/131731695-a37d6e34-4ec7-4610-a81c-c2312e6aa23c.jpg"
       },
       {
         "title": "Trump dice che la sua amministrazione sta pensando di sospendere la tassa federale sul gas",
@@ -587,11 +587,11 @@
   },
   "attualita": [
     {
-      "title": "Auto sulla folla a Modena, El Koudri ha tentato il suicidio in carcere",
-      "link": "https://bologna.repubblica.it/cronaca/2026/10/06/news/el_koudri_tentato_suicidio_modena-425630550/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-06T20:19:24.000Z",
-      "excerpt": "Il 31enne il 16 maggio scorso ha investito 8 persone: una è morta dopo due mesi",
+      "title": "Attentato di Modena, El Koudri tenta il suicidio in carcere",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/attentato-di-modena-el-koudri-tenta-il-suicidio-in-carcere_dc8802dc-c3f5-4b75-822e-36576ccf9789.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-06T20:56:53.000Z",
+      "excerpt": "Ha ingerito farmaci, sarebbe fuori pericolo di vita",
       "image": null
     },
     {
@@ -600,14 +600,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-06T19:23:52.000Z",
       "excerpt": "Da Parigi a Lione la protesta pacifica rovinata dai black bloc. Macron convoca i ministri",
-      "image": null
-    },
-    {
-      "title": "'Cerno ha gusti invertiti', scontro Vannacci-Rai",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/nuovo-attacco-di-vannacci-a-cerno-il-cda-rai-parole-inaccettabili_ceba8625-7aa5-4e59-8bbd-b7a0d5f52fea.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-06T19:13:32.000Z",
-      "excerpt": "Interviene il Cda: 'Parole inaccettabili'. Il generale: 'Vogliono censurarmi?'",
       "image": null
     },
     {
@@ -707,6 +699,14 @@
       "image": null
     },
     {
+      "title": "Crans-Montana, Jessica Moretti chiede un’indennità per l’infortunio nell’incendio al Constellation",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/06/news/crans_montana_jessica_moretti_indennita_infortunio_incendio_constellation-425629295/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T11:43:31.000Z",
+      "excerpt": "La proprietaria del locale e la pratica per “perdita di guadagno causata da danni alla salute”",
+      "image": null
+    },
+    {
       "title": "Dodici Fondazioni e Acri lanciano 20 Cammini d'Italia 'per fare comunità'",
       "link": "https://www.ansa.it/responsabilmente/notizie/territori_virtuosi/2026/10/05/dodici-fondazioni-e-acri-lanciano-20-cammini-ditalia-per-fare-comunita_be410380-c23b-45a4-b066-779cabab10f8.html",
       "source": "ANSA",
@@ -717,11 +717,19 @@
   ],
   "sport": [
     {
-      "title": "Cristiano Ronaldo chiede scusa e si dice disponibile a tornare in Nazionale",
+      "title": "Nations League: Inghilterra-Repubblica Ceca 3-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/nations-league-inghilterra-repubblica-ceca-3-0_c42828a3-c1d4-442f-89eb-3bd923667673.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-06T21:01:53.000Z",
+      "excerpt": "Doppietta di Kane, festeggiato per la 125/a presenza in nazionale",
+      "image": null
+    },
+    {
+      "title": "Cristiano Ronaldo apre al ritorno in Nazionale e fa mea culpa",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/cristiano-ronaldo-chiede-scusa-e-si-dice-disponibile-a-tornare-in-nazionale_4105c13f-ac75-4caa-91db-1c8157e2a421.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-06T19:49:35.000Z",
-      "excerpt": "In una lettera diffusa dai media portoghesi su cui però insiste sullo scontro col ct Jesus",
+      "pubDate": "2026-10-06T20:44:16.000Z",
+      "excerpt": "Lettera di Cr7 ai tifosi: 'Pronto a subire le giuste sanzioni', ma resta la ruggine con Jesus",
       "image": null
     },
     {
@@ -746,14 +754,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-06T18:22:42.000Z",
       "excerpt": "L'ex compagno a Barcellona e Psg: \"Un onore aver scritto la storia al tuo fianco\"",
-      "image": null
-    },
-    {
-      "title": "Tennis: le Finals di Torino perdono il re, l'Italia punta su Cobolli",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/06/tennis-le-finals-di-torino-perdono-il-re-litalia-punta-su-cobolli_406236e0-6ef3-423e-9af9-863baf59aa0d.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-06T18:00:49.000Z",
-      "excerpt": "Anche senza Sinner la città si prepara a un'edizione con numeri record",
       "image": null
     },
     {
