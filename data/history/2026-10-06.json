@@ -4,6 +4,22 @@
   "finanza": {
     "italia": [
       {
+        "title": "Il titolo di Black Hills sale del 5% grazie a un accordo da 1,8 miliardi con Google",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-black-hills-sale-del-5-grazie-a-un-accordo-da-18-miliardi-con-google-3577101",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T21:29:12.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg"
+      },
+      {
+        "title": "Il titolo di Sigma Lithium sale dopo la conferma delle licenze minerarie",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-sigma-lithium-sale-dopo-la-conferma-delle-licenze-minerarie-3577099",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T21:21:26.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+      },
+      {
         "title": "Caribou Biosciences crolla del 40% dopo la sospensione dei programmi CAR-T",
         "link": "https://it.investing.com/news/stock-market-news/caribou-biosciences-crolla-del-40-dopo-la-sospensione-dei-programmi-cart-3577080",
         "source": "Investing.com Italia",
@@ -466,22 +482,6 @@
         "pubDate": "2026-10-06T15:54:16.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
-      },
-      {
-        "title": "Borsa: Milano chiude in rialzo, Ftse Mib +0,87%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/borsa-milano-chiude-in-rialzo-ftse-mib-087_0aedb5a3-00b8-422d-b054-56223133cbd0.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-06T15:44:43.000Z",
-        "excerpt": "Sugli scudi Inwit +3,5%, bene Mps +2,34%. Tonfo Tim -3,6%, debole Eni -1,16%",
-        "image": null
-      },
-      {
-        "title": "Italia, Ing vede il Pil in frenata. Bene l’attenzione ai conti pubblici",
-        "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/10/06/news/italia_ing_vede_il_pil_in_frenata_bene_l_attenzione_ai_conti_pubblici-425629846/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-06T15:44:04.000Z",
-        "excerpt": "Energia più cara, tassi e fine della spinta del Pnrr pesano sulle prospettive di crescita. Per l’economista Paolo Pizzoli l’uscita dalla procedura per deficit eccessivo cambierebbe poco i margini di bilancio, ma potrebbe",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/174352468-150203b5-5e34-4ccf-93e9-bb283c53524e.jpg"
       }
     ],
     "europa": [
@@ -736,6 +736,46 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Christa Pike, sopravvissuta a due iniezioni letali negli Usa, è cosciente e parla",
+        "link": "https://www.repubblica.it/esteri/2026/10/06/news/christa_pike_cosciente_parla_condanna_morte_tennessee_sopravvissuta_usa-425630676/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-06T21:32:07.000Z",
+        "excerpt": "La donna, condannata a morte in Tennessee, ha ripreso conoscenza ed è in grado di parlare. I suoi legali definiscono il caso “senza precedenti”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/231633585-ba110cee-dd78-4972-9bea-f9740f7ccecd.jpg"
+      },
+      {
+        "title": "Venezuela, quattro detenuti tra i 63 e i 72 anni morti in carcere in appena 12 giorni",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/venezuela-quattro-detenuti-tra-i-63-e-i-72-anni-morti-in-carcere-in-appena-12-giorni_eb06b85f-5acf-4f55-acd9-ee78efee92cb.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T21:28:13.000Z",
+        "excerpt": "L'Osservatorio delle prigioni denuncia carenze sanitarie e chiede verifiche sui decessi",
+        "image": null
+      },
+      {
+        "title": "L'oro sale leggermente mentre il dollaro si allenta e le obbligazioni raccolgono un'offerta, ma i guadagni sono limitati dal petrolio",
+        "link": "https://www.investing.com/news/commodities-news/gold-holds-near-4140-as-dollar-yields-offset-lower-fed-hike-expectations-4933176",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-06T21:27:45.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB880JW_M.jpg"
+      },
+      {
+        "title": "Due iniezioni letali, Christa Pike ha ripreso conoscenza e parla",
+        "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/due-iniezioni-letali-christa-pike-ha-ripreso-conoscenza-e-parla_bce4583f-1380-494d-b431-921fe2f8c54a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T21:21:56.000Z",
+        "excerpt": "Il legali della condannata a morte in Tennessee: uno sviluppo \"senza precedenti\"",
+        "image": null
+      },
+      {
+        "title": "Christa Pike ha ripreso conoscenza e parla",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/christa-pike-ha-ripreso-conoscenza-e-parla_dec8773c-4ac1-4497-a2fb-91e2941d0b81.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T21:19:50.000Z",
+        "excerpt": "Amanettata in ospedale, per gli avvocati un caso \"senza precedenti\"",
+        "image": null
+      },
       {
         "title": "I prezzi del petrolio salgono mentre il miglioramento dei flussi in Medio Oriente viene contrastato dagli attacchi di Hormuz",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-markets-weigh-aramco-price-cuts-meast-supplies-4933124",
@@ -1175,50 +1215,26 @@
         "pubDate": "2026-10-06T07:26:07.000Z",
         "excerpt": "\"Prima puntiamo a rafforzare il candidato del Pp, poi le coalizioni\"",
         "image": null
-      },
-      {
-        "title": "Bulgaria, 'droni hanno colpito due navi sulle coste del Mar Nero'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/bulgaria-droni-hanno-colpito-due-navi-sulle-coste-del-mar_500b727b-5838-45b6-b3b3-f5958b32703d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T07:20:37.000Z",
-        "excerpt": "Una delle navi affondata e equipaggio è disperso",
-        "image": null
-      },
-      {
-        "title": "Il greggio WTI rompe il supporto 200MA a $88: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-200-sma-after-hs-breakdown-live-levels-93CH-4931134",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-06T07:12:32.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB5605H_M.jpg"
-      },
-      {
-        "title": "Gas naturale ipercomprato a $3,11 di resistenza: livelli Live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-at-3016-with-bear-flag-forming-live-levels-93CH-4931132",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-06T07:12:21.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEKAS0PN_L.jpg"
-      },
-      {
-        "title": "L'oro vacilla su un supporto di $4.133 nel triangolo ribassista: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/gold-consolidates-near-4143-support-live-levels-93CH-4931126",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-06T07:12:14.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg"
-      },
-      {
-        "title": "Brent Oil bloccato vicino a $99,58 a distanza ravvicinata: livelli Live",
-        "link": "https://www.investing.com/news/commodities-news/brent-oil-stalls-inside-ichimoku-cloud-at-10157-live-levels-93CH-4931127",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-06T07:11:55.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEL670TG_L.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Due iniezioni letali, Christa Pike ha ripreso conoscenza e parla",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/due-iniezioni-letali-christa-pike-ha-ripreso-conoscenza-e-parla_bce4583f-1380-494d-b431-921fe2f8c54a.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-06T21:21:56.000Z",
+      "excerpt": "Il legali della condannata a morte in Tennessee: uno sviluppo \"senza precedenti\"",
+      "image": null
+    },
+    {
+      "title": "Christa Pike, sopravvissuta a due iniezioni letali negli Usa, è cosciente e parla",
+      "link": "https://www.repubblica.it/esteri/2026/10/06/news/christa_pike_cosciente_parla_condanna_morte_tennessee_sopravvissuta_usa-425630676/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T21:16:38.000Z",
+      "excerpt": "La donna, condannata a morte in Tennessee, ha ripreso conoscenza ed è in grado di parlare. I suoi legali definiscono il caso “senza precedenti”",
+      "image": null
+    },
     {
       "title": "Attentato di Modena, El Koudri tenta il suicidio in carcere",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/attentato-di-modena-el-koudri-tenta-il-suicidio-in-carcere_dc8802dc-c3f5-4b75-822e-36576ccf9789.html",
@@ -1682,25 +1698,17 @@
       "pubDate": "2026-10-06T02:12:07.000Z",
       "excerpt": "Nidal Hasan nel 2009 uccise 13 persone e ne ferì 32",
       "image": null
-    },
-    {
-      "title": "Jeffrey Archer, è morto lo scrittore inglese re dei bestseller. Aveva 86 anni. Oggi esce il suo ultimo romanzo",
-      "link": "https://www.repubblica.it/cultura/2026/10/06/news/jeffrey_archer_morto_scrittore_bestseller_caino_e_abele-425628363/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-06T01:57:00.000Z",
-      "excerpt": "Una vita inimitabile e a tratti scandalosa, romanziere da 300 milioni di copie, meno di 24 ore prima di spirare aveva entusiasmato il pubblico a Londra. Mentre oggi esce il suo “testamento” Adam & Eve",
-      "image": null
-    },
-    {
-      "title": "L'ultimo portiere di fronte a Messi",
-      "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/10/06/news/ultimo_portiere_messi-425628353/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-06T01:06:41.000Z",
-      "excerpt": "Il Benin affronterà Messi nella partita d'addio alla Selección. Il suo portiere, Marcel Soukè Dandjinou, ha un destino segnato: o l'ultima vittima di Leo, o quello che gli ha negato l'ultimo gol",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Nations League: Croazia-Spagna 1-2",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/nations-league-croazia-spagna-1-2_94e71d6f-11a1-4ded-b105-5e76c83be983.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-06T21:19:46.000Z",
+      "excerpt": "Doppietta di Merino firma la rimonta, iberici ai quarti",
+      "image": null
+    },
     {
       "title": "Nations League: Inghilterra-Repubblica Ceca 3-0",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/nations-league-inghilterra-repubblica-ceca-3-0_c42828a3-c1d4-442f-89eb-3bd923667673.html",
