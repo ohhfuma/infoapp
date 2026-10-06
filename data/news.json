@@ -1,14 +1,78 @@
 {
-  "lastUpdated": "2026-10-06T16:10:30.738Z",
+  "lastUpdated": "2026-10-06T16:43:06.910Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Milano in rialzo, banche sempre sotto i riflettori",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/borsa-milano-in-rialzo-banche-sempre-sotto-i-riflettori_7f81a32d-5e57-4ff2-bf44-d2d3250f8404.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-06T16:29:14.000Z",
+        "excerpt": "Bene Europa con petrolio in calo e rendimenti stabili. Madrid indifferente alle elezioni",
+        "image": null
+      },
+      {
+        "title": "Alla Bocconi una cattedra intitolata a Francesco Merloni per studiare le nuove imprese",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/alla-bocconi-una-cattedra-intitolata-a-francesco-merloni-per-studiare-le-nuove_b6b1697b-9334-4708-bbfc-4a424325faed.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-06T16:22:40.000Z",
+        "excerpt": "Billari, 'uniamo memoria e futuro'",
+        "image": null
+      },
+      {
+        "title": "Accenture, sempre più Ia nelle assicurazioni, l'80% dei clienti si fida dei consigli",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/accenture-sempre-piu-ia-nelle-assicurazioni-l80-dei-clienti-si-fida-dei_2ff992fd-a890-43ce-b3e1-4ed10dfafc76.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-06T16:14:40.000Z",
+        "excerpt": "Rapporto, il 49% delle compagnie sta sviluppando casi d'uso",
+        "image": null
+      },
       {
         "title": "Ion, ricavi in crescita a 643 milioni di dollari per il gruppo di Pignataro",
         "link": "https://www.repubblica.it/economia/2026/10/06/news/ion_platform_risultati_terzo_trimestre_ricavi_indebitamento-425629889/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "2026-10-06T16:07:56.000Z",
+        "pubDate": "2026-10-06T16:13:41.000Z",
         "excerpt": "Nel terzo trimestre crescono tutte e tre le divisioni Analytics, Corporates e Markets: cala il rapporto tra debito e guadagni",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/180751425-14fc51ee-11d0-41fd-a456-e5e879fbfce7.jpg"
+      },
+      {
+        "title": "Una grande mostra e un museo aziendale per i 90 anni, l'Eur guarda al futuro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/una-grande-mostra-e-un-museo-aziendale-per-i-90-anni-leur-guarda-al-futuro_905a6767-aba2-4725-b660-f8e3d5efe0c8.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-06T16:06:58.000Z",
+        "excerpt": "Dal 6 novembre al 7 febbraio a Palazzo Uffici foto, documenti, progetti e chicche inedite",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Personalis sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-personalis-sta-scendendo-oggi-93CH-3576853",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T16:05:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
+        "title": "Fonti, 'a Ecofin non atteso confronto su flessibilità, punto su extraprofitti'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/fonti-a-ecofin-non-atteso-confronto-su-flessibilita-punto-su-extraprofitti_02cb5e87-564e-4b7f-a4ac-88e329166d24.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-06T16:03:26.000Z",
+        "excerpt": "Diplomatico: 'Scambio informale tra ministri su proventi straordinari con il caro-energia'",
+        "image": null
+      },
+      {
+        "title": "I futures su gas stabili a 75,5 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/i-futures-su-gas-stabili-a-755-euro-al-megawattora_7ac4bc23-3596-4123-b4bd-6b5c336cee45.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-06T16:02:32.000Z",
+        "excerpt": "Ad Amsterdam prosegue il rialzo, +2,8%",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo di Chain Bridge Bancorp è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-chain-bridge-bancorp-e-in-forte-rialzo-oggi-93CH-3576849",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T16:01:07.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
       },
       {
         "title": "Il governo spiazzato dagli aumenti del gasolio, il taglio delle accise torna sul tavolo",
@@ -19,12 +83,20 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/142437233-5ec22b28-6fa1-4262-97b6-17f1f9b947a3.jpg"
       },
       {
+        "title": "Lo spread Btp-Bund a 105,3 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/lo-spread-btp-bund-a-1053-punti_7d5ab101-c0b1-4fde-b364-434908c3535f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-06T15:57:27.000Z",
+        "excerpt": "Il titolo italiano rende il 4,52% e quello tedesco il 3,47%",
+        "image": null
+      },
+      {
         "title": "Raymond James promuove Chain Bridge Bancorp a Outperform sui tassi",
         "link": "https://it.investing.com/news/stock-market-news/raymond-james-promuove-chain-bridge-bancorp-a-outperform-sui-tassi-3576846",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T15:54:16.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEM211DX_1200_L.jpg"
       },
       {
         "title": "Borsa: Milano chiude in rialzo, Ftse Mib +0,87%",
@@ -41,14 +113,6 @@
         "pubDate": "2026-10-06T15:44:04.000Z",
         "excerpt": "Energia più cara, tassi e fine della spinta del Pnrr pesano sulle prospettive di crescita. Per l’economista Paolo Pizzoli l’uscita dalla procedura per deficit eccessivo cambierebbe poco i margini di bilancio, ma potrebbe",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/174352468-150203b5-5e34-4ccf-93e9-bb283c53524e.jpg"
-      },
-      {
-        "title": "Nuovo incontro sull'ex Ilva l'8 ottobre a Palazzo Chigi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/nuovo-incontro-sullex-ilva-l8-ottobre-a-palazzo-chigi_a9c0fdcb-fcdd-4319-9c0e-6405432e9a36.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-06T15:36:35.000Z",
-        "excerpt": "La convocazione del governo alle sigle dei metalmeccanici",
-        "image": null
       },
       {
         "title": "Perché il titolo di Xanadu Quantum Technologies è in forte rialzo oggi?",
@@ -91,44 +155,12 @@
         "image": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg"
       },
       {
-        "title": "Citadel: Rubner vede un Q4 più favorevole per le azioni USA",
-        "link": "https://it.investing.com/news/stock-market-news/citadel-rubner-vede-un-q4-piu-favorevole-per-le-azioni-usa-93CH-3576822",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T15:15:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Le azioni di BWX Technologies salgono dopo la selezione del reattore nel New Brunswick",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-bwx-technologies-salgono-dopo-la-selezione-del-reattore-nel-new-brunswick-3576820",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T15:04:48.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3917D_1200_L.jpg"
-      },
-      {
-        "title": "Paramount chiude l'acquisizione da 110 miliardi di Warner, nasce colosso media",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/paramount-chiude-lacquisizione-da-110-miliardi-di-warner-nasce-colosso-media_52340119-d0e5-4c86-b152-15bc6a5df1ee.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-06T14:52:19.000Z",
-        "excerpt": "L'operazione destinata a ridisegnare Hollywood e il panorama del settore",
-        "image": null
-      },
-      {
         "title": "Perturbazione atlantica in arrivo: piogge diffuse e calo termico fino a 20°C al Nord e 24°C al Sud",
         "link": "https://www.ilsole24ore.com/art/perturbazione-atlantica-arrivo-piogge-diffuse-e-calo-termico-fino-20c-nord-e-24c-sud-AJCLI0aB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-06T14:48:00.000Z",
         "excerpt": "“Dopo l’estate più calda della storia, e un mese di settembre caldo e sopra la media del periodo, ecco che una perturbazione nordatlantica porterà un primo calo delle temperature su...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/1fab4b1debe8faf02fa3ce8d0c12ba07-U15651452247DSE-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "A Wall Street S 500 tocca nuovi massimi storici con titoli tech e calo del petrolio",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/a-wall-street-s-500-tocca-nuovi-massimi-storici-con-titoli-tech_f7af4b5e-6300-4f4a-ba36-fa77afe58d4c.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-06T14:42:31.000Z",
-        "excerpt": "Il Dow Jones a +0,47%, il Nasdaq a +0,61% a ridosso dei nuovi record",
-        "image": null
       },
       {
         "title": "Fibra ottica, da Pitigliano un modello di borgo digitale per i piccoli Comuni",
@@ -145,38 +177,6 @@
         "pubDate": "2026-10-06T14:31:23.000Z",
         "excerpt": "Una ordinanza del Tribunale di Milano accoglie le richieste dell’associazione Algopolio. Chi ricorre ha il diritto di motivare la sollecitazione con una documentazione. Il motore di ricerca giustificherà il rifiuto di “d",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/151218272-1a612140-2f50-4dc2-8b34-c4d44d291812.jpg"
-      },
-      {
-        "title": "Uniport, porti resistono ma servono infrastrutture, semplificazione e regole certe",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/uniport-porti-resistono-ma-servono-infrastrutture-semplificazione-e-regole-certe_4a94afcd-0965-4d36-855f-e1e79cf42994.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-06T14:16:26.000Z",
-        "excerpt": "Presidente Legora, traffico in ripresa nonostante guerre e pressioni commercio",
-        "image": null
-      },
-      {
-        "title": "Borsa: Europa in rialzo con banche e media, frenano tlc ed energia",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/borsa-europa-in-rialzo-con-banche-e-media-frenano-tlc-ed-energia_ff39becb-174a-4870-841e-37d7e17a7784.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-06T14:14:20.000Z",
-        "excerpt": "Londra +0,28%, Parigi +0,39%, Francoforte +0,6%",
-        "image": null
-      },
-      {
-        "title": "Bankitalia, tra italiani prevale ancora il contante, ma il 24% non lo usa più",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/bankitalia-tra-italiani-prevale-ancora-il-contante-ma-il-24-non-lo-usa-piu_e999132a-50d9-4fdc-ae9c-e667e53d8f9e.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-06T13:58:16.000Z",
-        "excerpt": "Transizione verso i pagamenti digitali non è uniforme",
-        "image": null
-      },
-      {
-        "title": "Da Bankitalia una proposta per una definizione unica di prestiti 'verdi' per edilizia",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/da-bankitalia-una-proposta-per-una-definizione-unica-di-prestiti-verdi-per_6d63a47e-c144-4bf6-92ea-50830be0fd82.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-06T13:52:17.000Z",
-        "excerpt": "Per istituto centrale occorre favorire lo sviluppo del mercato",
-        "image": null
       },
       {
         "title": "Minerali critici, Tajani: «Al lavoro per un accordo con la Repubblica Democratica Congo»",
@@ -261,6 +261,14 @@
     ],
     "europa": [
       {
+        "title": "Il cardinale Pizzaballa: 7 ottobre spartiacque, futuro da ricostruire. Terra Santa in situazione gravissima",
+        "link": "https://www.ilsole24ore.com/art/il-cardinale-pizzaballa-7-ottobre-spartiacque-futuro-ricostruire-terra-santa-situazione-gravissima-AJ2le9aB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-06T16:17:35.000Z",
+        "excerpt": "“Il 7 ottobre è stato, ed è ancora, un dramma gravissimo. Quello che è successo nel sud di Israele 3 anni fa, certamente ha segnato uno spartiacque nella vita di...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/ilsolematera_20260924171416571_e15a0d7a45a150a22fb36d35840eecb5-U78744854012lWi-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
         "title": "Settimana dei Premi Nobel 2026: il calendario  degli annunci fino al 12 ottobre",
         "link": "https://www.ilsole24ore.com/art/nobel-fino-12-ottobre-settimana-premi-2026-AJH5RvaB",
         "source": "Il Sole 24 Ore Mondo",
@@ -315,14 +323,6 @@
         "pubDate": "2026-10-06T09:02:00.000Z",
         "excerpt": "Il balzo del Pil a +4,3% nel 2026 non si traduce in condizioni migliori. Pesano inflazione e debito, sullo sfondo della maxi-sfida digitale",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/immagini_FBF_interne22-U30171263224kiB-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Francia: scontri ai cortei, lancio di lacrimogeni. Lecornu: lezioni sospese nei licei fino a fine settimana",
-        "link": "https://www.ilsole24ore.com/art/francia-oggi-nuove-proteste-studentesche-piazza-anche-sindacati-AJ0x4baB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-06T08:15:00.000Z",
-        "excerpt": "Continua in Francia la mobilitazione studentesca, con il cosiddetto ’terzo atto’ della protesta dei licei (una citazione della terminologia utilizzata dal movimento dei “gilet gialli” nel 2018 per scandire le...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/2026-10-06T073959Z_1661401214_RC2JXNALODN9_RTRMADP_5_FRANCE-PROTEST-U20300438871GEP-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -391,6 +391,46 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Stupro alla Cornell, migliaia di studenti protestano contro i vertici dell'ateneo Usa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/stupro-alla-cornell-migliaia-di-studenti-protestano-contro-i-vertici-dellateneo-usa_2fa58a45-dfe6-47b4-8f0e-03d2644b73a7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T16:25:11.000Z",
+        "excerpt": "Il Senato accademico si prepara a votare la sfiducia al presidente Kotlikoff",
+        "image": null
+      },
+      {
+        "title": "Trump, 'Islam e immigrazione responsabili di quanto accade in Francia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/trump-islam-e-immigrazione-responsabili-di-quanto-accade-in-francia_ab6404b4-e619-4f46-95cc-8974b26f67dd.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T16:18:30.000Z",
+        "excerpt": "'Non è una questione di scuole'",
+        "image": null
+      },
+      {
+        "title": "Scontri al corteo degli studenti, barricate e lacrimogeni a Strasburgo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/scontri-al-corteo-degli-studenti-barricate-e-lacrimogeni-a-strasburgo_8ce1e678-b7b7-42f0-8164-d014c7fd2f51.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T16:17:28.000Z",
+        "excerpt": "Momenti di tensione nella zona universitaria dopo il lungo corteo con gli eurodeputati",
+        "image": null
+      },
+      {
+        "title": "Governatrice New York dichiara lo stato di emergenza per il morbillo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/governatrice-new-york-dichiara-lo-stato-di-emergenza-per-il-morbillo_2a59f487-90fe-41d5-bf31-f7aaf606153b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T16:17:03.000Z",
+        "excerpt": "Circa 108 casi confermati nelle zone rurali e 7 nella città di New York",
+        "image": null
+      },
+      {
+        "title": "L'EIA degli Stati Uniti aumenta di nuovo le previsioni sul prezzo del petrolio mentre la guerra in Iran prosciuga le scorte globali",
+        "link": "https://www.investing.com/news/commodities-news/us-eia-hikes-oil-price-forecasts-again-as-iran-war-drains-global-stockpile-4934987",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-06T16:12:46.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM951J8_L.jpg"
+      },
       {
         "title": "Francia, gli studenti tornano in piazza: scontri a Parigi e Strasburgo. Trump: “Colpa dell’Islam”",
         "link": "https://www.repubblica.it/esteri/2026/10/06/news/francia_proteste_studenti_parigi-425628929/?rss",
@@ -512,51 +552,11 @@
         "image": null
       },
       {
-        "title": "Trump tiene una manifestazione in Nebraska nel tentativo di mantenere lo stato rosso profondo nella colonna repubblicana",
-        "link": "https://www.investing.com/news/commodities-news/trump-holds-nebraska-rally-in-bid-to-keep-deepred-state-in-republican-column-4934200",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-06T11:54:25.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9501P_L.jpg"
-      },
-      {
-        "title": "Rubio, Mosca condivida le informazioni sulla Siberia",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/rubio-mosca-condivida-le-informazioni-sulla-siberia_bf726be6-6cd4-4808-aef9-8613b826d50d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T11:48:39.000Z",
-        "excerpt": "'Qualsiasi caso di infezione in laboratorio desta preoccupazione dopo pandemia'",
-        "image": null
-      },
-      {
         "title": "Rubio, Mosca condivida le informazioni sulla Siberia",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/rubio-mosca-condivida-le-informazioni-sulla-siberia_b0536a50-6e6b-4ef2-a73e-89a627c1573e.html",
         "source": "ANSA Mondo",
         "pubDate": "2026-10-06T11:48:36.000Z",
         "excerpt": "'Qualsiasi caso di infezione in laboratorio desta preoccupazione dopo pandemia'",
-        "image": null
-      },
-      {
-        "title": "Il Tribunale Supremo ha revocato l'ordine di arresto per Puigdemont",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/il-tribunale-supremo-ha-revocato-lordine-di-arresto-per-puigdemont_51dcbcc6-d455-4e92-8793-504a9158580a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T11:20:18.000Z",
-        "excerpt": "L'ex presidente indipendentista può tornare oggi stesso in Spagna senza essere fermato",
-        "image": null
-      },
-      {
-        "title": "In Brasile torna l'ipotesi di scarcerare Jair Bolsonaro, decisione dopo ballottaggio",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/in-brasile-torna-lipotesi-di-scarcerare-jair-bolsonaro-decisione-dopo-ballottaggio_a7142021-8cff-4d30-8a27-092789151add.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T10:44:06.000Z",
-        "excerpt": "Un giudice della Corte suprema si pronuncerà sull'istanza",
-        "image": null
-      },
-      {
-        "title": "La Corte costituzionale spagnola apre la strada all'amnistia per Puigdemont",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/la-corte-costituzionale-spagnola-apre-la-strada-allamnistia-per-puigdemont_85751950-067b-4434-8bab-a7b8e62fc86d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T10:33:16.000Z",
-        "excerpt": "L'Alta Corte ordine alla Corte Suprema di concedere il perdono ai leader independentisti",
         "image": null
       },
       {
@@ -635,14 +635,6 @@
       "image": null
     },
     {
-      "title": "La strage di giovanissimi a Crans-Montana: dal rogo alle indagini, cosa sappiamo",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/21/la-strage-di-giovanissimi-a-crans-montana-dal-rogo-alle-indagini-cosa-sappiamo_b14e6931-3ccd-4d46-a83b-9a90b3fdfb4e.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-06T13:52:04.000Z",
-      "excerpt": "Quarantuno morti, anche sei ragazzi italiani. Diciassette gli indagati. I video e le testimonianze. Lo speciale",
-      "image": null
-    },
-    {
       "title": "Vannacci, attacco omofobo contro Cerno: “Ha gusti invertiti, spazi in tv uguali per tutti”",
       "link": "https://www.repubblica.it/politica/2026/10/06/news/rai_vannacci_attacca_cerno_gusti_invertiti-425629497/",
       "source": "Repubblica",
@@ -664,6 +656,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-06T13:09:27.000Z",
       "excerpt": "Il ministero dell’Istruzione: “Nessun taglio”. La deputata De Biase attacca: \"Arrivati a questo punto, una domanda alla presidente del Consiglio appare urgente: ha un problema con la lotta alla violenza sulle donne?\"",
+      "image": null
+    },
+    {
+      "title": "A Roma proiezione speciale di Profumo di Pizzi, per ricordare il celebre fotografo",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/06/a-roma-proiezione-speciale-di-profumo-di-pizzi-per-ricordare-il-celebre-fotografo_98fd6e4a-3d46-41ba-bbef-613e426cc271.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-06T13:00:59.000Z",
+      "excerpt": "Il 7 ottobre al cinema Adriano, giorno in cui avrebbe compiuto 89 anni",
       "image": null
     },
     {
