@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Anthropic amplia l’accesso ai modelli AI per difesa e governo",
+        "link": "https://it.investing.com/news/stock-market-news/anthropic-amplia-laccesso-ai-modelli-ai-per-difesa-e-governo-3576956",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-06T19:48:07.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
         "title": "Tesla compressa a $385: bull trap in agguato? Aggiornato ogni ora",
         "link": "https://it.investing.com/news/stock-market-news/tesla-si-avvicina-alla-resistenza-386389-livelli-in-tempo-reale-93CH-3574846",
         "source": "Investing.com Italia",
@@ -474,17 +482,17 @@
         "pubDate": "2026-10-06T15:17:43.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg"
-      },
-      {
-        "title": "Citadel: Rubner vede un Q4 più favorevole per le azioni USA",
-        "link": "https://it.investing.com/news/stock-market-news/citadel-rubner-vede-un-q4-piu-favorevole-per-le-azioni-usa-93CH-3576822",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-06T15:15:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
       }
     ],
     "europa": [
+      {
+        "title": "Traumi infantili, l’allarme dell’Oms: colpiscono 2 giovani su 3 e pesano su salute ed economia",
+        "link": "https://www.ilsole24ore.com/art/traumi-infantili-l-allarme-dell-oms-colpiscono-2-giovani-3-e-pesano-salute-ed-economia-AJAAI9aB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-06T19:52:04.000Z",
+        "excerpt": "L’ufficio regionale europeo dell’Organizzazione mondiale della sanità (Oms) ha condotto uno studio – in collaborazione con la Liverpool John Moores University – sul fenomeno delle esperienze avverse vissute in età...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/AdobeStock_36656420-U44018600448uHF-1440x752@IlSole24Ore-Web.jpeg"
+      },
       {
         "title": "Il cardinale Pizzaballa: 7 ottobre spartiacque, futuro da ricostruire. Terra Santa in situazione gravissima",
         "link": "https://www.ilsole24ore.com/art/il-cardinale-pizzaballa-7-ottobre-spartiacque-futuro-ricostruire-terra-santa-situazione-gravissima-AJ2le9aB",
@@ -720,6 +728,14 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Nuova sentenza della giustizia argentina a favore delle università pubbliche",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/nuova-sentenza-della-giustizia-argentina-a-favore-delle-universita-pubbliche_476a81de-b462-4b63-b1d6-2b6127b564ae.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T19:55:39.000Z",
+        "excerpt": "Ordina al governo Milei di applicare la legge sul finanziamento degli atenei",
+        "image": null
+      },
       {
         "title": "Trump dice che la sua amministrazione sta pensando di sospendere la tassa federale sul gas",
         "link": "https://www.investing.com/news/commodities-news/trump-says-his-administration-is-thinking-about-suspending-federal-gas-tax-4935121",
@@ -1191,14 +1207,6 @@
         "pubDate": "2026-10-06T07:03:01.000Z",
         "excerpt": "Ieri la cerimonia al Piccolo Teatro Grassi di Milano per il riconoscimento giornalistico più antico d’Italia",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/090251262-d4ad8529-845f-427a-903f-48a61e254565.jpg"
-      },
-      {
-        "title": "Russia, 'sale a 2 morti il bilancio del maxi attacco droni ucraini su regione Mosca'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/russia-sale-a-2-morti-il-bilancio-del-maxi-attacco-droni-ucraini-su-regione_0058fc58-2c0b-40f6-8fab-1b51a83bc8e3.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T06:31:54.000Z",
-        "excerpt": "'Un ventenne ucciso in un altro villaggio, 9 i feriti'",
-        "image": null
       }
     ]
   },
@@ -1685,6 +1693,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Cristiano Ronaldo chiede scusa e si dice disponibile a tornare in Nazionale",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/cristiano-ronaldo-chiede-scusa-e-si-dice-disponibile-a-tornare-in-nazionale_4105c13f-ac75-4caa-91db-1c8157e2a421.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-06T19:49:35.000Z",
+      "excerpt": "In una lettera diffusa dai media portoghesi su cui però insiste sullo scontro col ct Jesus",
+      "image": null
+    },
     {
       "title": "Calcio: Mancini, un onore essere compagno e amico di Vialli",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/calcio-mancini-un-onore-essere-compagno-e-amico-di-vialli_0657abd3-9012-4cbf-ad07-fcb978a94b51.html",
