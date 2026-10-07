@@ -1,14 +1,78 @@
 {
-  "lastUpdated": "2026-10-07T13:42:27.870Z",
+  "lastUpdated": "2026-10-07T14:09:56.037Z",
   "finanza": {
     "italia": [
       {
-        "title": "Eni, il prezzo del diesel scende a 2,21. Meloni: “Spero ritorni price cap”",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/eni_prezzo_diesel_scende_a_221_resta_tetto-425631742/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T13:34:47.000Z",
-        "excerpt": "Il prezzo del gasolio consigliato ai distributori torna a scendere in scia al calo delle quotazioni dei prodotti raffinati",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/130741000-1c49f6ae-9c87-4719-af6b-effc177d8e3c.jpg"
+        "title": "Meloni, sulla richiesta di flessibilità per l'inflazione c'è interesse in Ue",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/meloni-sulla-richiesta-di-flessibilita-per-linflazione-ce-interesse-in-ue_68301e67-b9fd-4589-9ebe-6e367e62e8af.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T13:55:53.000Z",
+        "excerpt": "\"Ne ho parlato con von der Leyen, è un dibattito ancora lungo\"",
+        "image": null
+      },
+      {
+        "title": "Carburanti, Meloni: «Pronti a intervenire sulle accise, sulla flessibilità c’è interesse dell’Ue»",
+        "link": "https://www.ilsole24ore.com/art/carburanti-meloni-pronti-intervenire-accise-flessibilita-c-e-interesse-dell-ue-AJ16HBcB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-07T13:49:00.000Z",
+        "excerpt": "La flessibilità richiesta dall’Italia sulla regola di spesa alla luce dell’aumento dell’inflazione? “Ho parlato con von der Leyen e con gli altri partner Ue del Mediterraneo, c’è interesse ad ascoltare”....",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/2026-10-07T134355Z_1437187400_RC2DYNARFIWM_RTRMADP_5_EU-CROATIA-MED-9-SUMMIT-U87703528588NRl-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Borsa: Milano sotto i 50.000 punti dopo l'avvio di Wall Street, spread oltre 117",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-milano-sotto-i-50.000-punti-dopo-lavvio-di-wall-street-spread_6282b39c-61a5-42c0-8322-5f894b76c985.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T13:46:46.000Z",
+        "excerpt": "Perdite superiori al 4% per Stm, Prysmian, Unicredit e Intesa",
+        "image": null
+      },
+      {
+        "title": "Dal +16% al +40%: 5 titoli al centro del rally bancario in forte guadagno",
+        "link": "https://it.investing.com/news/stock-market-news/dal-16-al-40-5-titoli-al-centro-del-rally-bancario-in-forte-guadagno-3578541",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T13:46:35.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/BancaMontedeiPaschidiSiena_800x533_L_1607011788.jpg"
+      },
+      {
+        "title": "Wall Street apre in calo, Dj -0,64%, Nasdaq -0,52%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/wall-street-apre-in-calo-dj-064-nasdaq-052_beaa9b3a-15e7-47e8-96fa-5e6f48440713.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T13:36:36.000Z",
+        "excerpt": "S 500 perde lo 0,41%",
+        "image": null
+      },
+      {
+        "title": "Saipem ‘top pick’ di BofA, Eni sale nonostante downgrade di BNP",
+        "link": "https://it.investing.com/news/stock-market-news/saipem-top-pick-di-bofa-eni-sale-nonostante-downgrade-di-bnp-3578507",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T13:35:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
+      },
+      {
+        "title": "Ponte Stretto, Ciucci 'delibera Cipess entro ottobre previsione realistica'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/ponte-stretto-ciucci-delibera-cipess-entro-ottobre-previsione-realistica_4e00b505-4035-4c21-ab99-6635a35d5e5a.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T13:34:21.000Z",
+        "excerpt": "\"Abbiamo cercato di fare tutto quello che la Corte dei conti ha eccepito\"",
+        "image": null
+      },
+      {
+        "title": "Il titolo di Coffee Holding balza dopo un piano di riacquisto da 2,5 milioni di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-coffee-holding-balza-dopo-un-piano-di-riacquisto-da-25-milioni-di-dollari-3578509",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T13:34:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM350U8_1200_L.jpg"
+      },
+      {
+        "title": "Perché il titolo ADR di SK Hynix sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-adr-di-sk-hynix-sta-scendendo-oggi-93CH-3578481",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T13:29:37.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
       },
       {
         "title": "Brookfield investe 444 milioni per i magazzini di ESR India",
@@ -16,7 +80,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-07T13:24:52.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
       },
       {
         "title": "Pfizer conferma 330 esuberi e chiusura reparto penicilline a Catania - sindacati",
@@ -67,59 +131,11 @@
         "image": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg"
       },
       {
-        "title": "Su del +60% e in crescita: questo titolo tech scelto dall’IA continua ad aggiudicarsi contratti miliardari",
-        "link": "https://it.investing.com/news/stock-market-news/60-e-in-crescita-questo-titolo-tech-scelto-dallia-continua-a-chiudere-miliardi-3578458",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T13:14:45.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM310T5_1200_L.jpg"
-      },
-      {
         "title": "Il petrolio è in rialzo a New York a 90,05 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/il-petrolio-e-in-rialzo-a-new-york-a-9005-dollari_0d2e5b28-29dc-489f-8a26-540043824751.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-07T13:13:45.000Z",
         "excerpt": "Quotazioni salgono dello 0,66%",
-        "image": null
-      },
-      {
-        "title": "Le azioni Micron scendono dopo il voto per lo sciopero a Taiwan",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-micron-scendono-dopo-il-voto-per-lo-sciopero-a-taiwan-3578448",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T13:13:33.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg"
-      },
-      {
-        "title": "Perché il prezzo spot dell’argento in dollari USA sale oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-prezzo-spot-dellargento-in-dollari-usa-sale-oggi-93CH-3578443",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T13:12:18.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
-        "title": "Enphase Energy sotto pressione: Deutsche Bank pessimista per il 2027",
-        "link": "https://it.investing.com/news/stock-market-news/enphase-energy-sotto-pressione-deutsche-bank-pessimista-per-il-2027-3578444",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T13:11:25.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
-        "title": "Pa, firmato il contratto di medici e dirigenti della sanità. Aumenti lordi fino a 560 euro al mese",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/pa_firmato_il_contratto_di_medici_e_dirigenti_della_sanita_aumenti_lordi_fino_a_560_euro_al_mese-425631719/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T13:10:05.000Z",
-        "excerpt": "Il rinnovo concluso oggi all’Aran vale per il triennio 2025-2027. Arretrati tra i 4.000 e i 6.000 euro",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/130048335-6e0eeb96-e6d3-4cf8-9b54-9dc62d917dcb.jpg"
-      },
-      {
-        "title": "L'euro scivola sul dollaro, timori contagio dalla Francia e rally rendimenti dei bond",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/leuro-scivola-sul-dollaro-timori-contagio-dalla-francia-e-rally-rendimenti_95d62cf4-4ebd-499d-a37f-a3313a3fba2c.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T12:58:42.000Z",
-        "excerpt": "Preoccupano anche le elezioni in Spagna",
         "image": null
       },
       {
@@ -131,30 +147,6 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/06/Immagini/Ritagli/m-patterso-U86348277000kwY-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "I rendimenti dei Treasury a 10 anni volano ai massimi dal 2002",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/i-rendimenti-dei-treasury-a-10-anni-volano-ai-massimi-dal-2002_8681cdb4-1ef8-4074-b57c-6884c7d99f4e.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T12:51:52.000Z",
-        "excerpt": "Sono saliti di 0,08 punti percentuali al 5,72%",
-        "image": null
-      },
-      {
-        "title": "A Padova dal 14 ottobre la quarta edizione di Green Logistics Expo",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/a-padova-dal-14-ottobre-la-quarta-edizione-di-green-logistics-expo_4bef5c1c-5815-436b-bc6c-22b0e505af33.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T12:34:33.000Z",
-        "excerpt": "Oltre 300 espositori per il salone della logistica sostenibile",
-        "image": null
-      },
-      {
-        "title": "Piepoli, '61% italiani non ha riscaldato o raffrescato per motivi economici'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/piepoli-61-italiani-non-ha-riscaldato-o-raffrescato-per-motivi-economici_5b837988-18b4-4553-8742-98d60ed30301.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T12:33:44.000Z",
-        "excerpt": "Per 88% costi energia pesano molto o abbastanza su bilancio famigliare",
-        "image": null
-      },
-      {
         "title": "La Blue zone sarda cresce, ora si studiano le centenarie di Bolotana",
         "link": "https://www.ilsole24ore.com/art/la-blue-zone-sarda-cresce-ora-si-studiano-centenarie-bolotana-AJelYGbB",
         "source": "Il Sole 24 Ore",
@@ -163,60 +155,12 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/AdobeStock_1971415339-U47523112382Vkz-1440x752@IlSole24Ore-Web.jpeg"
       },
       {
-        "title": "Emirates cerca tra gli italiani, al via le selezioni per piloti e personale di cabina",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/emirates_cerca_tra_gli_italiani_al_via_le_selezioni_per_piloti_e_personale_di_cabina-425631850/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T12:12:46.000Z",
-        "excerpt": "Nuovi open day dedicati a Milano l’8 e 9 ottobre e a Roma il 10 e 11 ottobre e ancora a Palermo, Roma, Milano e Bari dal 9 ottobre al 23 ottobre",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/141228288-4fa883d4-fa5d-426f-b35a-0949e8f4c135.jpg"
-      },
-      {
-        "title": "L’IA poco usata nelle pmi, solo il 19% ci lavora. La richiesta di un Buono digitale al governo",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/ia_poco_usata_nelle_pmi-425631628/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T12:01:11.000Z",
-        "excerpt": "L’indagine dell’Istituto Piepoli con Assosoftware: troppa burocrazia e costi elevati allontanano le imprese dagli investimenti tecnologici",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/123137541-892da835-763a-4789-8eeb-64c73ffac7bd.jpg"
-      },
-      {
-        "title": "Camion e bus, Salvini apre al lavoro fino a 70 anni: “Ma controlli medici su autisti ogni 24 mesi”",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/camion_e_bus_salvini_apre_al_lavoro_fino_a_70_anni_ma_controlli_medici_su_autisti_ogni_24_mesi-425631826/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T11:54:03.000Z",
-        "excerpt": "Il ministro dei Trasporti annuncia una misura volontaria per consentire ai conducenti di merci e passeggeri di restare in servizio più a lungo. Giorgetti: “Caro energia sottrarrà punti di Pil per lo 0,2%. Cantieri per fe",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/135337291-d58d9762-1120-45e8-a432-d4391011d897.jpg"
-      },
-      {
         "title": "È morta Barbara Spinelli: la giornalista ed ex europarlamentare aveva 80 anni",
         "link": "https://www.ilsole24ore.com/art/e-morta-barbara-spinelli-giornalista-ed-ex-europarlamentare-aveva-80-anni-AJRPe1bB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-07T11:30:07.000Z",
         "excerpt": "Giornalista, saggista ed ex europarlamentare italiana. Barbara Spinelli è morta oggi, 7 ottobre 2026, a Roma, all’età di 80 anni. Nata nel 1946 nella capitale, era la figlia di Altiero...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/d5fc880fee6971b8ec83abfc6aac32b5-U80487036744hhh-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Banca Generali, a settembre la raccolta netta supera il mezzo miliardo",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/banca_generali_settembre_raccolta_netta-425631765/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T11:13:18.000Z",
-        "excerpt": "«Il risultato riflette la nostra capacità di attrarre nuova clientela, in particolare nel segmento degli imprenditori, e la forza di un posizionamento distintivo che continua a richiamare professionisti di elevata qualit",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/131308184-5ce7d5e0-19dd-4e35-a989-a76396a3403b.jpg"
-      },
-      {
-        "title": "Federproprietà, cedolare secca e affitti più bassi, salvare il commercio di quartiere",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/federproprieta_cedolare_secca_e_affitti_piu_bassi_salvare_il_commercio_di_quartiere-425631652/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T10:44:21.000Z",
-        "excerpt": "Bardanzellu e Pedrizzi: “La manovra introduca l'agevolazione sulle locazioni commerciali”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/124415699-0e10f061-fb86-4846-9c2d-f0e77441b8f0.jpg"
-      },
-      {
-        "title": "Millenial e Zoomer alla ricerca di relazioni sociali, tra incontri e conversazioni autentiche",
-        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/10/07/news/millenial_e_zoomer_alla_ricerca_di_relazioni_sociali_tra_incontri_e_conversazioni_autentiche-425631650/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T10:44:15.000Z",
-        "excerpt": "Mettono da parte smartphone e social network a favore di dialogo e connessioni reali. I dati dell’indagine di Sanbitter",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/124409329-1e814449-6e7b-4e39-b574-ead59041b0a8.jpg"
       },
       {
         "title": "Bonus affitti per genitori separati, partono le domande",
@@ -249,24 +193,16 @@
         "pubDate": "2026-10-07T07:08:01.000Z",
         "excerpt": "Ufficialmente vale quel che Giorgia Meloni ha ripetuto nelle ultime occasioni pubbliche: si arriva a ottobre 2027, la scadenza naturale della legislatura. Ma in pochissimi ci credono. Perché la data...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/Imagoeconomica_2815397-U60741283018ShC-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Manifestazioni del 7 ottobre, intelligence al lavoro su possibili tensioni in Italia",
-        "link": "https://www.ilsole24ore.com/art/manifestazioni-7-ottobre-intelligence-lavoro-possibili-tensioni-italia-AJjwcjbB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-07T06:12:00.000Z",
-        "excerpt": "Il Viminale rafforza la sicurezza, l’intelligence valuta le tensioni nel Paese. Le manifestazioni del 7 ottobre arrivano in un clima segnato dalla guerra di Israele: a differenza degli anni passati,...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/ilsolematera_20261007081127195_338e6a6e790459b8b93de1f785f21926-U45783636748eEt-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "europa": [
       {
-        "title": "Guerra ultime notizie. Raid Idf in Cisgiordania: arresti e interrogatori. Rubio: «Iran ha perso il controllo di Hormuz»",
+        "title": "Guerra ultime notizie. Rubio: «Iran ha perso il controllo di Hormuz». Ma Teheran smentisce",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-raid-idf-cisgiordania-arresti-e-interrogatori-rubio-iran-ha-perso-controllo-hormuz-AJThAubB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-07T09:33:00.000Z",
         "excerpt": "Durante la notte l’Idf ha lanciato diverse operazioni in tutta la Cisgiordania durante la notte, arrestando e interrogando decine di sospettati ricercati, accusati di coinvolgimento in attività terroristiche e incitament",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/2026-10-07T061657Z_232577676_RC25YNA2XG4D_RTRMADP_5_ISRAEL-PALESTINIANS-NABLUS-RAID-U64580787303qBH-1440x752@IlSole24Ore-Web.JPG"
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/2026-10-03T100610Z_1568669572_RC2TINAD02GW_RTRMADP_5_IRAN-CRISIS-AIRCRAFT-CARRIER-U64580787303qBH-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "Ucraina in fiamme per il compleanno di Putin: 15 morti. Nato in visita a Kiev",
@@ -392,6 +328,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Offerta mattutina: Storm Brewing",
+        "link": "https://www.investing.com/news/commodities-news/morning-bid-storm-brewing-4936121",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-07T13:36:53.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM960WX_L.jpg"
+      },
+      {
         "title": "L'oro si estende in calo mentre le aziende in dollari; si attendono i minuti della Fed",
         "link": "https://www.investing.com/news/commodities-news/gold-holds-gains-as-oil-flows-recover-treasury-yields-ease-4935492",
         "source": "Investing.com Commodities",
@@ -424,14 +368,6 @@
         "image": "https://content-media.investing.com/news/LYNXMPEM4B0TB_1200_L.jpg"
       },
       {
-        "title": "Offerta mattutina: Storm Brewing",
-        "link": "https://www.investing.com/news/commodities-news/morning-bid-storm-brewing-4936121",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-07T12:37:04.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM960WX_L.jpg"
-      },
-      {
         "title": "Lula, 'Bolsonaro è contro la settimana corta, non vuole il bene dei brasiliani'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/lula-bolsonaro-e-contro-la-settimana-corta-non-vuole-il-bene-dei-brasiliani_eb33287a-9dd1-4c14-81b0-318adee49462.html",
         "source": "ANSA Mondo",
@@ -446,14 +382,6 @@
         "pubDate": "2026-10-07T11:55:38.000Z",
         "excerpt": "'Infranto il mito dell'esercito invincibile'",
         "image": null
-      },
-      {
-        "title": "Okinawa, marine Usa accusato di aver derubato e ucciso una donna: coprifuoco nella base e stop alcol",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/giappone_okinawa_marine_usa_uccide_donna_proteste_coprifuoco_base_stop_alcol-425631764/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-07T11:13:18.000Z",
-        "excerpt": "Devin Ballard, 20 anni, arrestato con l’accusa di aver rapinato e assassinato Anna Yagi, 39 anni, sabato in un hotel della città di Naha. Il caso ha scatenato proteste dei residenti locali e del governo giapponese",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/131153588-65e0744a-6893-4da4-9812-872503f50b22.jpg"
       },
       {
         "title": "Salgono a 14 i morti a Chernihiv, quattro sono bambini",
@@ -520,142 +448,30 @@
         "image": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg"
       },
       {
-        "title": "Usa, l’ombra di Epstein sulla campagna elettorale, citato in almeno 35 spot di candidati dem",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/usa_epstein_campagna_elettorale_35_spot_i_candidati_dem-425631499/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-07T09:53:28.000Z",
-        "excerpt": "Nei video accusano duramente gli avversari che hanno votato contro la diffusione dei file o avevano legami con figure vicine al miliardario pedofilo. Fra i testimonial, anche il fratello di Virginia Giuffre, l’accusatric",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/114826899-22a4852a-5604-4106-afec-b188b4f3b063.jpg"
-      },
-      {
-        "title": "America Latina, la svolta a destra",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/america_latina_svolta_destra_mappa-425631377/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-07T09:02:28.000Z",
-        "excerpt": "Dal Venezuela al Brasile, passando per Argentina, Honduras e Colombia: la mappa è una colata di blu. La strategia di Trump e Rubio ha spinto Washington a rafforzare la propria influenza sulla regione",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/110216484-4c378a7c-7fbd-4a8a-9be4-bc4f3efdf9e9.jpg"
-      },
-      {
         "title": "I prezzi europei del gas aumentano man mano che le previsioni più fredde compensano l'iniezione di stoccaggio",
         "link": "https://www.investing.com/news/commodities-news/european-gas-prices-edge-higher-as-cooler-forecasts-offset-storage-injection-4935893",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-07T08:57:28.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPED340BA_M.jpg"
-      },
-      {
-        "title": "Anna Politkovskaja, 20 anni dall’omicidio della giornalista che sfidò Putin",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/anna_politkovskaja_20_anni_omicidio_giornalista_sfido_putin_chi_era-425630953/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-07T06:46:40.000Z",
-        "excerpt": "Dalle inchieste sulla Cecenia ai numerosi atti di intimidazione: la storia della giornalista di Novaja Gazeta uccisa il 7 ottobre 2006, nel giorno del 54esimo compleanno di Vladimir Putin",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/084622733-676420a0-7214-4099-a890-3bc36f0e7768.jpg"
-      },
-      {
-        "title": "Francia, la rabbia degli studenti: “Aule, sostegno, insegnanti, a scuola manca tutto”",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/francia_che_cosa_chiedono_gli_studenti-425630681/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-06T23:06:10.000Z",
-        "excerpt": "“I media parlano degli incidenti, non di quello che chiediamo. E i politici promettono ascolto ma non fanno niente”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/232043393-e658ed08-fcc8-4f48-972a-f75ad37e6975.jpg"
-      },
-      {
-        "title": "Mar Nero, Putin provoca l’Europa: colpite navi al largo della Bulgaria",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/mar_nero_ucraina_russia_colpite_navi_al_largo_della_bulgaria-425630596/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-06T23:01:37.000Z",
-        "excerpt": "Da lunedì raid con droni contro tre cargo, disperso equipaggio di 15 persone. Un mercantile era diretto al porto di Ravenna",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/224229151-5b975cf6-12ce-4b8b-b594-02812c2705fe.jpg"
-      },
-      {
-        "title": "Vera Politkovskaja: “Se mia madre fosse viva oggi sarebbe in galera in Russia”",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/vera_politkovskaja_mia_madre_anna_russia_ucraina_putin-425630673/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-06T23:00:54.000Z",
-        "excerpt": "Vent’anni fa l’omicidio di Anna, la giornalista che indagava su Putin. Il ricordo di sua figlia: “Iniziata la guerra in Ucraina, sarebbe andata là a raccontarla. E tornata a casa sarebbe stata arrestata. Vivo in Europa, ",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/231303929-1fc5f44f-8b48-4d6b-b152-2a2119a01aa1.jpg"
-      },
-      {
-        "title": "Israele spaccato a metà ricorda il 7 ottobre. Gli allarmi del governo",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/israele_spaccato_a_meta_ricorda_il_7_ottobre_gli_allarmi_del_governo-425630635/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-06T23:00:34.000Z",
-        "excerpt": "I ministri avvertono di possibili attacchi terroristici per l’anniversario. Il leader dell’opposizione Eisenkot, che ha perso un figlio, accusa Netanyahu",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/225530352-392860a5-9146-404e-a3a6-be10cc55cc0c.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Il Nobel per la Chimica a Kagan e Soai, registi delle molecole-specchio",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/10/07/il-nobel-per-la-chimica-a-kagan-e-soai-registi-delle-molecole-specchio_f8f2b9cf-0b31-40e4-a001-c9e5a57670a5.html",
+      "title": "Israele ricorda il 7 ottobre, Netanyahu: 'Faremo i conti con tutti gli assassini'. Hamas: 'Un giorno glorioso'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/07/israele-ricorda-il-7-ottobre-netanyahu-faremo-i-conti-con-tutti-gli-assassini._514950f2-d75c-4343-925e-b96c77b04ce8.html",
       "source": "ANSA",
-      "pubDate": "2026-10-07T13:08:54.000Z",
-      "excerpt": "Premiati per la scoperta dell'effetto non lineare dell'autocatalisi nella sintesi organica: 'Hanno fornito una soluzione a un mistero chimico vecchio di oltre un secolo'",
+      "pubDate": "2026-10-07T14:03:38.000Z",
+      "excerpt": "Commemorazioni, ma anche proteste contro il governo: il Paese si è spostato a destra, pochi credono che il terrorismo sia sconfitto. Operazione militare antiterrorismo in Cisgiordania",
       "image": null
     },
     {
-      "title": "Israele ricorda il 7 ottobre, operazione militare in Cisgiordania. Hamas: 'Un giorno glorioso'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/israele-ricorda-il-7-ottobre-il-fallimento-al-centro-delle-elezioni_514950f2-d75c-4343-925e-b96c77b04ce8.html",
+      "title": "Meloni: 'Valutiamo accise mobili, ma spero si ripristini pienamente il price cap'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/07/meloni-valutiamo-accise-mobili-ma-spero-si-ripristini-pienamente-il-price-cap_46fbd961-ef1b-4cd5-901a-9b66b19ca22d.html",
       "source": "ANSA",
-      "pubDate": "2026-10-07T12:58:55.000Z",
-      "excerpt": "Commemorazioni, ma anche proteste contro il governo: il Paese si è spostato a destra, pochi credono che il terrorismo sia sconfitto",
-      "image": null
-    },
-    {
-      "title": "Evenepoel-Ciccone e non solo: gli arrivi al fotofinish e tre ex-aequo che hanno fatto storia",
-      "link": "https://www.repubblica.it/sport/ciclismo/2026/10/07/news/evenepoel_ciccone_fotofinish_storia-425631859/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T12:14:58.000Z",
-      "excerpt": "Bugno Coppi e gli altri casi famosi nella storia",
-      "image": null
-    },
-    {
-      "title": "Camion e bus, Salvini apre al lavoro fino a 70 anni: “Ma controlli medici su autisti ogni 24 mesi”",
-      "link": "https://www.repubblica.it/economia/2026/10/07/news/camion_e_bus_salvini_apre_al_lavoro_fino_a_70_anni_ma_controlli_medici_su_autisti_ogni_24_mesi-425631826/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T11:54:03.000Z",
-      "excerpt": "Il ministro dei Trasporti annuncia una misura volontaria per consentire ai conducenti di merci e passeggeri di restare in servizio più a lungo. Giorgetti: “Caro energia sottrarrà punti di Pil per lo 0,2%. Cantieri per fe",
-      "image": null
-    },
-    {
-      "title": "Michael Douglas, le memorie del “bad guy” tra amori e eccessi: “Per molti è solo gossip”",
-      "link": "https://www.repubblica.it/spettacoli/cinema/2026/10/07/news/michael_douglas_autobiografia_one_helluva_ride-425631787/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T11:26:53.000Z",
-      "excerpt": "L’attore, 82 anni, racconta vita e carriera nell’autobiografia “One Helluva Ride” tra relazioni segrete sul set, abusi di alcol e cocaina",
-      "image": null
-    },
-    {
-      "title": "Okinawa, marine Usa accusato di aver derubato e ucciso una donna: coprifuoco nella base e stop alcol",
-      "link": "https://www.repubblica.it/esteri/2026/10/07/news/giappone_okinawa_marine_usa_uccide_donna_proteste_coprifuoco_base_stop_alcol-425631764/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T11:13:18.000Z",
-      "excerpt": "Devin Ballard, 20 anni, arrestato con l’accusa di aver rapinato e assassinato Anna Yagi, 39 anni, sabato in un hotel della città di Naha. Il caso ha scatenato proteste dei residenti locali e del governo giapponese",
-      "image": null
-    },
-    {
-      "title": "È morta Barbara Spinelli, giornalista ed europarlamentare. Fu tra i fondatori di Repubblica",
-      "link": "https://www.repubblica.it/cultura/2026/10/07/news/barbara_spinelli_morta_giornalista_ed_europarlamentare-425631687/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T10:52:44.000Z",
-      "excerpt": "Figlia di Altiero Spinelli, padre ispiratore dell’Unione europea, aveva ottant’anni. Una carriera brillante come cronista ed editorialista, poi il passaggio in politica",
-      "image": null
-    },
-    {
-      "title": "Kagan e Soai Nobel per la Chimica. Hanno svelato i misteri delle molecole specchio",
-      "link": "https://www.repubblica.it/cronaca/2026/10/07/news/premio_nobel_chimica_2026_henri_kagan_kenso_soai-425631505/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T09:50:30.000Z",
-      "excerpt": "Le molecole possono avere due forme simmetriche: come le mani destra e sinistra. Nei viventi, misteriosamente, si ritrovano però molecole di una forma sola. Anche i farmaci devono rispettare questa simmetria, come insegn",
-      "image": null
-    },
-    {
-      "title": "Usa, l’ombra di Epstein sulla campagna elettorale, citato in almeno 35 spot di candidati dem",
-      "link": "https://www.repubblica.it/esteri/2026/10/07/news/usa_epstein_campagna_elettorale_35_spot_i_candidati_dem-425631499/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T09:48:37.000Z",
-      "excerpt": "Nei video accusano duramente gli avversari che hanno votato contro la diffusione dei file o avevano legami con figure vicine al miliardario pedofilo. Fra i testimonial, anche il fratello di Virginia Giuffre, l’accusatric",
+      "pubDate": "2026-10-07T13:51:06.000Z",
+      "excerpt": "La premier al vertice Med9 di Spalato: 'Sulla richiesta di flessibilità per l'inflazione c'è interesse in Ue. Per l'inflazione miliardi di spese in più che i governi non hanno deciso'",
       "image": null
     },
     {
@@ -672,14 +488,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-07T08:57:33.000Z",
       "excerpt": "Fermare la spirale di violenza nella prospettiva di 'due popoli due Stati'. Atti di terrorismo non potranno mai essere giustificati né archiviati",
-      "image": null
-    },
-    {
-      "title": "Legge elettorale al rush finale, ok alla fiducia sull'articolo 3. Passa anche il voto fuorisede",
-      "link": "https://www.repubblica.it/politica/2026/10/07/news/legge_elettorale_oggi_voto_fiducia_articolo_3-425631347/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T08:55:08.000Z",
-      "excerpt": "La votazione nell’aula di Montecitorio con 228 sì, 144 no e 3 astenuti, domani l’approvazione definitiva a scrutinio segreto",
       "image": null
     },
     {
@@ -716,6 +524,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: c'è Fabbri per Como-Roma, Bonacina arbitrerà Inter-Parma",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/07/serie-a-ce-fabbri-per-como-roma-bonacina-arbitrera-inter-parma_0897f8a8-e57c-4e7b-93b1-ba6d12ab86e3.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-07T13:58:42.000Z",
+      "excerpt": "A Feliciani la direzione di Napoli-Frosinone",
+      "image": null
+    },
     {
       "title": "Incontro Inps-Serie C su previdenza e adempimenti contributivi nel professionismo",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/07/incontro-inps-serie-c-su-previdenza-e-adempimenti-contributivi-nel-professionismo_eda2d7e8-9ecc-4bbe-9460-0dd53582a898.html",
@@ -770,14 +586,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-07T12:39:54.000Z",
       "excerpt": "La Ferrari è appena tornata sul podio, ora cerca una vittoria",
-      "image": null
-    },
-    {
-      "title": "Calcio: a Venezia variante al progetto stadio, costi su di un milione",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/07/calcio-a-venezia-variante-al-progetto-stadio-costi-su-di-un-milione_78746068-7814-4f8f-8248-17a95b2e5cf3.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-07T12:08:55.000Z",
-      "excerpt": "Via libera in Comune per alcune opere strutturali del settore ovest",
       "image": null
     }
   ]
