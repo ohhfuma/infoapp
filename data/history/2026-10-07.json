@@ -473,6 +473,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Costa Rica, il Parlamento approva legge contro l'estrazione mineraria illegale",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/costa-rica-il-parlamento-approva-legge-contro-lestrazione-mineraria-illegale_d55746b3-d0ff-4625-b0fb-9291f4b8d445.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T23:45:26.000Z",
+        "excerpt": "Pene fino a 8 anni, per entrata in vigore manca solo la firma della presidente Fernández",
+        "image": null
+      },
+      {
+        "title": "Il giudice degli Stati Uniti autorizza il fondo a citare in giudizio la Fed di New York per i documenti relativi a Radiant World",
+        "link": "https://www.investing.com/news/commodities-news/us-judge-authorizes-fund-to-subpoena-new-york-fed-for-documents-related-to-radiant-world-4935428",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-06T23:36:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9523S_L.jpg"
+      },
+      {
         "title": "Gli Stati Uniti prevedono un uragano alla fine di questa settimana nel Golfo del Messico",
         "link": "https://www.investing.com/news/commodities-news/us-forecasts-hurricane-later-this-week-in-gulf-of-mexico-4935386",
         "source": "Investing.com Commodities",
@@ -684,6 +700,14 @@
   },
   "attualita": [
     {
+      "title": "Francia, la rabbia degli studenti: “Aule, sostegno, insegnanti, a scuola manca tutto”",
+      "link": "https://www.repubblica.it/esteri/2026/10/07/news/francia_che_cosa_chiedono_gli_studenti-425630681/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:06:10.000Z",
+      "excerpt": "“I media parlano degli incidenti, non di quello che chiediamo. E i politici promettono ascolto ma non fanno niente”",
+      "image": null
+    },
+    {
       "title": "L’incubo di Lega e FI per il voto in primavera. FdI: “Hanno problemi”",
       "link": "https://www.repubblica.it/politica/2026/10/07/news/voto_primavera_incubo_lega_fi_fdi-425630581/",
       "source": "Repubblica",
@@ -705,6 +729,38 @@
       "source": "Repubblica",
       "pubDate": "2026-10-06T23:00:00.000Z",
       "excerpt": "Proseguono alla Camera le votazioni della riforma elettorale. Passa la modifica bocciata dai franchi tiratori a luglio. Domani l’ultimo passaggio. Il leghista Molinari: “Sarà tutto tranquillo”. Sorte, FI: “Non bisogna ab",
+      "image": null
+    },
+    {
+      "title": "Il pressing di Conte sulla data delle primarie: “Dobbiamo affrettarci”",
+      "link": "https://www.repubblica.it/politica/2026/10/07/news/primarie_pressing_conte_schlein-425630546/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:00:00.000Z",
+      "excerpt": "Il clima teso con la segretaria Schlein e la disputa sul voto online. Nel fine settimana tutti i leader saranno insieme sullo stesso palco",
+      "image": null
+    },
+    {
+      "title": "Bonelli: “Prioritario il programma questa non è una contesa a due. Un candidato Avs? Ci penseremo”",
+      "link": "https://www.repubblica.it/politica/2026/10/07/news/angelo_avs_bonelli_primarie_programma_ucraina_intervista-425630270/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:00:00.000Z",
+      "excerpt": "“Le primarie sono pericolose ma visto che sono state decise vanno fatte in fretta. Scioglieremo il nodo sull’Ucraina”",
+      "image": null
+    },
+    {
+      "title": "Tabacci presta il simbolo a Ruffini. A Onorato soccorso 5S per le firme",
+      "link": "https://www.repubblica.it/politica/2026/10/07/news/tabacci_simbolo_ruffini_onorato_5s_firme-425630616/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:00:00.000Z",
+      "excerpt": "La nuova legge elettorale mette in moto il risiko dei piccoli partiti. Divisioni in +Europa, il Psi si spinge per una lista unica di centro",
+      "image": null
+    },
+    {
+      "title": "Popolari e destra contro Bruxelles. In bilico la stretta sugli affitti brevi",
+      "link": "https://www.repubblica.it/economia/2026/10/07/news/popolari_e_destra_contro_bruxelles_in_bilico_la_stretta_sugli_affitti_brevi-425630416/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:00:00.000Z",
+      "excerpt": "Pd e socialisti sostengono il piano della Commissione. Jørgensen: “Tuteliamo i vulnerabili e contrastiamo la speculazione”",
       "image": null
     },
     {

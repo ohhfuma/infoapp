@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T23:40:16.524Z",
+  "lastUpdated": "2026-10-07T00:12:33.401Z",
   "finanza": {
     "italia": [
       {
@@ -96,7 +96,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T21:21:26.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEK7S0PR_L.jpg"
       },
       {
         "title": "Caribou Biosciences crolla del 40% dopo la sospensione dei programmi CAR-T",
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Costa Rica, il Parlamento approva legge contro l'estrazione mineraria illegale",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/costa-rica-il-parlamento-approva-legge-contro-lestrazione-mineraria-illegale_d55746b3-d0ff-4625-b0fb-9291f4b8d445.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-06T23:45:26.000Z",
+        "excerpt": "Pene fino a 8 anni, per entrata in vigore manca solo la firma della presidente Fernández",
+        "image": null
+      },
+      {
+        "title": "Il giudice degli Stati Uniti autorizza il fondo a citare in giudizio la Fed di New York per i documenti relativi a Radiant World",
+        "link": "https://www.investing.com/news/commodities-news/us-judge-authorizes-fund-to-subpoena-new-york-fed-for-documents-related-to-radiant-world-4935428",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-06T23:36:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9523S_L.jpg"
+      },
+      {
         "title": "Gli Stati Uniti prevedono un uragano alla fine di questa settimana nel Golfo del Messico",
         "link": "https://www.investing.com/news/commodities-news/us-forecasts-hurricane-later-this-week-in-gulf-of-mexico-4935386",
         "source": "Investing.com Commodities",
@@ -536,22 +552,6 @@
         "image": "https://content-media.investing.com/news/moved_LYNXNPEKAS0PN_L.jpg"
       },
       {
-        "title": "London Gas Oil: Bullish engulfing in downtrend a $1.373 - Live",
-        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1356-support-on-5h-chart-live-levels-93CH-4931131",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-06T19:20:11.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8015J_M.jpg"
-      },
-      {
-        "title": "Banca Mondiale, l'America Latina nel 2026 cresce al 2,2% al di sotto del potenziale",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/banca-mondiale-lamerica-latina-nel-2026-cresce-al-22-al-di-sotto-del-potenziale_0e417f25-40bb-4a61-9f76-4fa2879b0008.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T18:58:27.000Z",
-        "excerpt": "Ostacoli persistenti allo sviluppo, Brasile e Messico non decollano",
-        "image": null
-      },
-      {
         "title": "Germania, per la prima volta un estremista di destra a capo di un parlamento locale",
         "link": "https://www.repubblica.it/esteri/2026/10/06/news/germania_per_la_prima_volta_un_estremista_di_destra_a_capo_di_un_parlamento-425630190/?rss",
         "source": "Repubblica Esteri",
@@ -587,6 +587,14 @@
   },
   "attualita": [
     {
+      "title": "Francia, la rabbia degli studenti: “Aule, sostegno, insegnanti, a scuola manca tutto”",
+      "link": "https://www.repubblica.it/esteri/2026/10/07/news/francia_che_cosa_chiedono_gli_studenti-425630681/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:06:10.000Z",
+      "excerpt": "“I media parlano degli incidenti, non di quello che chiediamo. E i politici promettono ascolto ma non fanno niente”",
+      "image": null
+    },
+    {
       "title": "L’incubo di Lega e FI per il voto in primavera. FdI: “Hanno problemi”",
       "link": "https://www.repubblica.it/politica/2026/10/07/news/voto_primavera_incubo_lega_fi_fdi-425630581/",
       "source": "Repubblica",
@@ -611,27 +619,43 @@
       "image": null
     },
     {
+      "title": "Il pressing di Conte sulla data delle primarie: “Dobbiamo affrettarci”",
+      "link": "https://www.repubblica.it/politica/2026/10/07/news/primarie_pressing_conte_schlein-425630546/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:00:00.000Z",
+      "excerpt": "Il clima teso con la segretaria Schlein e la disputa sul voto online. Nel fine settimana tutti i leader saranno insieme sullo stesso palco",
+      "image": null
+    },
+    {
+      "title": "Bonelli: “Prioritario il programma questa non è una contesa a due. Un candidato Avs? Ci penseremo”",
+      "link": "https://www.repubblica.it/politica/2026/10/07/news/angelo_avs_bonelli_primarie_programma_ucraina_intervista-425630270/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:00:00.000Z",
+      "excerpt": "“Le primarie sono pericolose ma visto che sono state decise vanno fatte in fretta. Scioglieremo il nodo sull’Ucraina”",
+      "image": null
+    },
+    {
+      "title": "Tabacci presta il simbolo a Ruffini. A Onorato soccorso 5S per le firme",
+      "link": "https://www.repubblica.it/politica/2026/10/07/news/tabacci_simbolo_ruffini_onorato_5s_firme-425630616/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:00:00.000Z",
+      "excerpt": "La nuova legge elettorale mette in moto il risiko dei piccoli partiti. Divisioni in +Europa, il Psi si spinge per una lista unica di centro",
+      "image": null
+    },
+    {
+      "title": "Popolari e destra contro Bruxelles. In bilico la stretta sugli affitti brevi",
+      "link": "https://www.repubblica.it/economia/2026/10/07/news/popolari_e_destra_contro_bruxelles_in_bilico_la_stretta_sugli_affitti_brevi-425630416/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:00:00.000Z",
+      "excerpt": "Pd e socialisti sostengono il piano della Commissione. Jørgensen: “Tuteliamo i vulnerabili e contrastiamo la speculazione”",
+      "image": null
+    },
+    {
       "title": "Due iniezioni letali, Christa Pike ha ripreso conoscenza e parla",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/due-iniezioni-letali-christa-pike-ha-ripreso-conoscenza-e-parla_bce4583f-1380-494d-b431-921fe2f8c54a.html",
       "source": "ANSA",
       "pubDate": "2026-10-06T21:21:56.000Z",
       "excerpt": "Il legali della condannata a morte in Tennessee: uno sviluppo \"senza precedenti\"",
-      "image": null
-    },
-    {
-      "title": "Christa Pike, sopravvissuta a due iniezioni letali negli Usa, è cosciente e parla",
-      "link": "https://www.repubblica.it/esteri/2026/10/06/news/christa_pike_cosciente_parla_condanna_morte_tennessee_sopravvissuta_usa-425630676/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-06T21:16:38.000Z",
-      "excerpt": "La donna, condannata a morte, ha ripreso conoscenza ed è in grado di parlare. I suoi legali definiscono il caso “senza precedenti”",
-      "image": null
-    },
-    {
-      "title": "Auto sulla folla a Modena, El Koudri ha tentato il suicidio in carcere",
-      "link": "https://bologna.repubblica.it/cronaca/2026/10/06/news/el_koudri_tentato_suicidio_modena-425630550/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-06T20:19:24.000Z",
-      "excerpt": "Il 31enne il 16 maggio scorso ha investito 8 persone: una è morta dopo due mesi",
       "image": null
     },
     {
@@ -651,35 +675,11 @@
       "image": null
     },
     {
-      "title": "Inflazione, botta e risposta Ue-Tesoro: “All’Ecofin non si parla di flessibilità”. “Ne discuteremo”",
-      "link": "https://www.repubblica.it/economia/2026/10/06/news/inflazione_europa_ue_tesoro_ecofin_riunione_flessibilita-425630102/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-06T17:36:01.000Z",
-      "excerpt": "Il cortocircuito tra l’Unione europea e via XX Settembre va in scena alla vigilia del doppio appuntamento che giovedì 9 e venerdì 10 vedrà prima i ministri del Tesoro dell’area euro e poi tutti quelli di Ventisette intor",
-      "image": null
-    },
-    {
-      "title": "Andrea Sempio: “Chiuso in casa, ho paura. La macchia di assassino che se l’è cavata non si leva mai”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/06/news/andrea_sempio_porta_a_porta_garlasco-425630074/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-06T17:27:52.000Z",
-      "excerpt": "L’indagato a Porta a Porta: “Il pensiero del carcere c’è, ma per me la condanna di Stasi è giusta. L’impronta non è mia, ho sempre portato scarpe 44”",
-      "image": null
-    },
-    {
       "title": "Curva dei rendimenti: cosa significa quando si irripidisce o si appiattisce",
       "link": "https://www.ansa.it/native/ansacom/2026/10/06/curva-dei-rendimenti-cosa-significa-quando-si-irripidisce-o-si-appiattisce_48c61c9d-684a-4e29-a6c6-659a28cb7ca3.html",
       "source": "ANSA",
       "pubDate": "2026-10-06T17:21:00.000Z",
       "excerpt": "",
-      "image": null
-    },
-    {
-      "title": "Garlasco, tutte le falle dei Ris: errori e omissioni di un’indagine contestata",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/06/news/garlasco_ris_errori_omissioni_indagine_omicidio_chiara_poggi-425630008/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-06T17:00:43.000Z",
-      "excerpt": "Da quel 13 agosto 2007, quando viene trovato il cadavere di Chiara Poggi, le scelte investigative ora sotto osservazione, tra capelli dimenticati, impronte sulle porte e un’autopsia senza dna",
       "image": null
     },
     {
