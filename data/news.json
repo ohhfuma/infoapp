@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-10-07T05:42:10.399Z",
+  "lastUpdated": "2026-10-07T06:10:10.630Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Prezzo del petrolio in aumento, Wti scambiato a 89,97 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/prezzo-del-petrolio-in-aumento-wti-scambiato-a-8997-dollari_9a9f5490-2033-49cb-83b5-15398c0bd400.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T06:06:47.000Z",
+        "excerpt": "Brent passa di mano a 101,32 dollari",
+        "image": null
+      },
+      {
+        "title": "Intel continuerà a lavorare su Terafab di Musk nonostante i colloqui con TSMC",
+        "link": "https://it.investing.com/news/stock-market-news/intel-continuera-a-lavorare-su-terafab-di-musk-nonostante-i-colloqui-con-tsmc-3577212",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T05:51:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+      },
+      {
+        "title": "Le azioni indiane scendono dopo il rialzo dei tassi della RBI",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-indiane-scendono-dopo-il-rialzo-dei-tassi-della-rbi-3577210",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T05:45:08.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA890W0_M.jpg"
+      },
       {
         "title": "Medici, oggi l’accordo sul contratto: aumenti medi da 560 euro al mese",
         "link": "https://www.ilsole24ore.com/art/medici-oggi-l-accordo-contratto-aumenti-medi-560-euro-mese-AJZjZJbB",
@@ -15,7 +39,7 @@
         "link": "https://www.ilsole24ore.com/art/diesel-torna-taglio-accise-flessibilita-tavolo-ecofin-AJvHxUbB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-07T05:23:00.000Z",
-        "excerpt": "La decisione di interrompere la lunga catena delle proroghe al taglio delle accise sui carburanti ha retto meno di 24 ore. Il ripensamento è maturato fin dalle prime ore del...",
+        "excerpt": "Governo al lavoro sul ritorno allo sconto per il gasolio. Un funzionario Ue esclude la richiesta italiana di flessibilità nel confronto in Lussemburgo. Il ministero dell’Economia replica: «Sarà discussa»",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/LP_21287182-U15504241087ycj-1440x752@IlSole24Ore-Web.jpg"
       },
       {
@@ -32,7 +56,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-07T04:58:01.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
       },
       {
         "title": "Le azioni di Regis Resources scendono ai minimi di due mesi",
@@ -65,22 +89,6 @@
         "pubDate": "2026-10-07T03:53:42.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
-      },
-      {
-        "title": "Perché il titolo LG Electronics sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-lg-electronics-sta-scendendo-oggi-93CH-3577185",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T03:50:59.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LGElectronics_800x533_L_1648194103.jpg"
-      },
-      {
-        "title": "Zscaler: Stifel alza il target sulla cybersecurity basata sull’AI",
-        "link": "https://it.investing.com/news/stock-market-news/zscaler-stifel-alza-il-target-sulla-cybersecurity-basata-sullai-3577184",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T03:31:21.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
       },
       {
         "title": "Offerte luce decennali, come funzionano i contratti a lunga scadenza. Convengono o no?",
@@ -219,14 +227,6 @@
         "image": null
       },
       {
-        "title": "Alla Bocconi una cattedra intitolata a Francesco Merloni per studiare le nuove imprese",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/06/alla-bocconi-una-cattedra-intitolata-a-francesco-merloni-per-studiare-le-nuove_b6b1697b-9334-4708-bbfc-4a424325faed.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-06T16:22:40.000Z",
-        "excerpt": "Billari, 'uniamo memoria e futuro'",
-        "image": null
-      },
-      {
         "title": "Perturbazione atlantica in arrivo: piogge diffuse e calo termico fino a 20°C al Nord e 24°C al Sud",
         "link": "https://www.ilsole24ore.com/art/perturbazione-atlantica-arrivo-piogge-diffuse-e-calo-termico-fino-20c-nord-e-24c-sud-AJCLI0aB",
         "source": "Il Sole 24 Ore",
@@ -261,7 +261,23 @@
     ],
     "europa": [
       {
-        "title": "Allarme peste in Russia, Trump: «A breve parlerò con Putin». Pressione Usa su Mosca",
+        "title": "Dall’Fmi allarme sul debito pubblico: «Livelli record, non si può più rimandare»",
+        "link": "https://www.ilsole24ore.com/art/dall-fmi-allarme-debito-pubblico-livelli-record-non-si-puo-piu-rimandare-AJ1enEbB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-07T06:00:00.000Z",
+        "excerpt": "Rimandare il risanamento dei conti pubblici non è più possibile, soprattutto nelle economie avanzate e ad alto indebitamento. La numero uno dell’Fmi, Kristalina Georgieva, avvisa che tutte le...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/2026-10-06T130007Z_833189031_RC2SBBAKRRYH_RTRMADP_5_IMF-WORLDBANK-CRISES-U20240073816FwA-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Pena di morte, Christa Pike riprende conoscenza e parla",
+        "link": "https://www.ilsole24ore.com/art/pena-morte-christa-pike-riprende-conoscenza-e-parla-AJ0KcibB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-07T05:47:00.000Z",
+        "excerpt": "La 50enne del Tennessee si sveglia dopo la mancata esecuzione del 30 settembre",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/2026-10-06T220818Z_71220444_RC2PTNAKF4UE_RTRMADP_5_TENNESSEE-EXECUTION-U12641641831tWd-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Allarme peste in Russia, Trump: «A breve parlerò con Putin». Capo dell’Oms: «Forse un secondo caso»",
         "link": "https://www.ilsole24ore.com/art/allarme-peste-russia-trump-a-breve-parlero-putin-pressione-usa-mosca-AJowdhbB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-07T05:28:00.000Z",
@@ -307,22 +323,6 @@
         "pubDate": "2026-10-06T11:57:00.000Z",
         "excerpt": "L’ex capo dei servizi segreti tedeschi, August Hanning, è stato arrestato perché sospettato di spionaggio di segreti di Stato, tradimento e spionaggio a favore di una potenza straniera. Hanning, che...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/77df7046f50a458711d33506abbea013-U47375682073rtF-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Spagna, il Tribunale Supremo revoca l’ordine di arresto per Puigdemont",
-        "link": "https://www.ilsole24ore.com/art/spagna-tribunale-supremo-revoca-l-ordine-arresto-puigdemont-AJcFYoaB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-06T11:34:43.000Z",
-        "excerpt": "Il leader dell’indipendentismo catalano Carles Puigdemont può tornare oggi stesso in Spagna, otto anni dopo la fuga in Belgio seguita al referendum indipendentista unilaterale del primo ottobre 2017, senza timore...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/76eeae9ca69c0abe69621d3118eb1f44-U18821027474fRX-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Crans-Montana, Jessica Moretti chiede indennità per infortunio nell’incendio",
-        "link": "https://www.ilsole24ore.com/art/crans-montana-jessica-moretti-chiede-indennita-infortunio-nell-incendio-AJ1k2oaB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-06T11:26:00.000Z",
-        "excerpt": "Jessica Moretti, proprietaria del Constellation, potrebbe percepire un’indennità giornaliera per la «perdita di guadagno causata dai danni alla salute» conseguenti al rogo di Capodanno nel suo discobar di Crans-Montana. ",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/jessica_moretti-U54774630054Fzd-1440x752@IlSole24Ore-Web.jpg"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -587,19 +587,27 @@
   },
   "attualita": [
     {
+      "title": "Il Governo incassa la doppia fiducia sulla legge elettorale, occhi puntati su giovedì",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/legge-elettorale-ok-della-camera-alla-fiducia-sullarticolo-2-227-si_3b6319fb-ba23-405a-8f6e-c67558a8a218.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-07T05:25:15.000Z",
+      "excerpt": "Magi prosegue lo sciopero della fame, Meloni gli scrive. Appello di Bonetti alle donne della maggioranza",
+      "image": null
+    },
+    {
+      "title": "Israele ricorda il 7 ottobre, il fallimento al centro delle elezioni",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/israele-ricorda-il-7-ottobre-il-fallimento-al-centro-delle-elezioni_514950f2-d75c-4343-925e-b96c77b04ce8.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-07T05:16:45.000Z",
+      "excerpt": "Il Paese si è spostato a destra, pochi credono che il terrorismo sia sconfitto",
+      "image": null
+    },
+    {
       "title": "Duemila parole contro 600: il discorso dei Re",
       "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/10/07/news/messi_cristiano_ronaldo_discorso-425630856/",
       "source": "Repubblica",
       "pubDate": "2026-10-07T04:57:13.000Z",
       "excerpt": "Messi e Cristiano Ronaldo parlano di addio nello stesso giorno: uno vulnerabile, l'altro rivendicativo",
-      "image": null
-    },
-    {
-      "title": "Rome is doing far more for Ukraine than it admits",
-      "link": "https://europe.repubblica.it/en/news/2026/10/07/news/italy_ukraine_real_aid_military_support_kiev-425629236/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T04:00:00.000Z",
-      "excerpt": "Italy’s military aid to Ukraine has been shrouded in secrecy since 2022, when Mario Draghi’s government imposed a strict veil of silence that Giorgia Meloni has maintained. Official statements focus on humanitarian assis",
       "image": null
     },
     {
@@ -651,27 +659,19 @@
       "image": null
     },
     {
+      "title": "Il ministro Bustinduy: “Sulla casa non un’operazione elettorale, così congeliamo sfratti e affitti”",
+      "link": "https://www.repubblica.it/esteri/2026/10/07/news/ministro_bustinduy_spagna_casa_sfratti_e_affitti_elezioni-425630458/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-06T23:00:06.000Z",
+      "excerpt": "Intervista con il responsabile spagnolo del dicastero degli Affari sociali del governo Sánchez: “I sondaggi dicono che anche una netta maggioranza degli elettori di destra sostiene questo provvedimento”",
+      "image": null
+    },
+    {
       "title": "Due iniezioni letali, Christa Pike ha ripreso conoscenza e parla",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/due-iniezioni-letali-christa-pike-ha-ripreso-conoscenza-e-parla_bce4583f-1380-494d-b431-921fe2f8c54a.html",
       "source": "ANSA",
       "pubDate": "2026-10-06T21:21:56.000Z",
       "excerpt": "Il legali della condannata a morte in Tennessee: uno sviluppo \"senza precedenti\"",
-      "image": null
-    },
-    {
-      "title": "Cortei e scontri, torna l'onda degli studenti in tutta la Francia",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/cortei-e-scontri-torna-londa-degli-studenti-in-tutta-la-francia_61be088a-aa44-46d7-8df7-fb0d51c1e14e.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-06T19:23:52.000Z",
-      "excerpt": "Da Parigi a Lione la protesta pacifica rovinata dai black bloc. Macron convoca i ministri",
-      "image": null
-    },
-    {
-      "title": "Garlasco, Sempio: 'Non vivo più. La condanna di Alberto Stasi è giusta'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/garlasco-andrea-sempio-io-non-sto-vivendo_9a664235-97ae-475c-809f-34a949ed181d.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-06T18:51:38.000Z",
-      "excerpt": "Negli atti i timori legali dell'ex capo del Ris, Lago e le mail di Garofano",
       "image": null
     },
     {

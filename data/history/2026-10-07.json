@@ -4,6 +4,30 @@
   "finanza": {
     "italia": [
       {
+        "title": "Prezzo del petrolio in aumento, Wti scambiato a 89,97 dollari",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/prezzo-del-petrolio-in-aumento-wti-scambiato-a-8997-dollari_9a9f5490-2033-49cb-83b5-15398c0bd400.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T06:06:47.000Z",
+        "excerpt": "Brent passa di mano a 101,32 dollari",
+        "image": null
+      },
+      {
+        "title": "Intel continuerà a lavorare su Terafab di Musk nonostante i colloqui con TSMC",
+        "link": "https://it.investing.com/news/stock-market-news/intel-continuera-a-lavorare-su-terafab-di-musk-nonostante-i-colloqui-con-tsmc-3577212",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T05:51:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+      },
+      {
+        "title": "Le azioni indiane scendono dopo il rialzo dei tassi della RBI",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-indiane-scendono-dopo-il-rialzo-dei-tassi-della-rbi-3577210",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T05:45:08.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA890W0_M.jpg"
+      },
+      {
         "title": "Medici, oggi l’accordo sul contratto: aumenti medi da 560 euro al mese",
         "link": "https://www.ilsole24ore.com/art/medici-oggi-l-accordo-contratto-aumenti-medi-560-euro-mese-AJZjZJbB",
         "source": "Il Sole 24 Ore",
@@ -458,33 +482,25 @@
         "pubDate": "2026-10-06T16:14:40.000Z",
         "excerpt": "Rapporto, il 49% delle compagnie sta sviluppando casi d'uso",
         "image": null
-      },
-      {
-        "title": "Ion, ricavi in crescita a 643 milioni di dollari per il gruppo di Pignataro",
-        "link": "https://www.repubblica.it/economia/2026/10/06/news/ion_platform_risultati_terzo_trimestre_ricavi_indebitamento-425629889/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-06T16:13:41.000Z",
-        "excerpt": "Nel terzo trimestre crescono tutte e tre le divisioni Analytics, Corporates e Markets: cala il rapporto tra debito e guadagni",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/180751425-14fc51ee-11d0-41fd-a456-e5e879fbfce7.jpg"
-      },
-      {
-        "title": "Italia, Ing vede il Pil in frenata. Bene l’attenzione ai conti pubblici",
-        "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/10/06/news/italia_ing_vede_il_pil_in_frenata_bene_l_attenzione_ai_conti_pubblici-425629846/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-06T15:44:04.000Z",
-        "excerpt": "Energia più cara, tassi e fine della spinta del Pnrr pesano sulle prospettive di crescita. Per l’economista Paolo Pizzoli l’uscita dalla procedura per deficit eccessivo cambierebbe poco i margini di bilancio, ma potrebbe",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/174352468-150203b5-5e34-4ccf-93e9-bb283c53524e.jpg"
-      },
-      {
-        "title": "Perturbazione atlantica in arrivo: piogge diffuse e calo termico fino a 20°C al Nord e 24°C al Sud",
-        "link": "https://www.ilsole24ore.com/art/perturbazione-atlantica-arrivo-piogge-diffuse-e-calo-termico-fino-20c-nord-e-24c-sud-AJCLI0aB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-06T14:48:00.000Z",
-        "excerpt": "“Dopo l’estate più calda della storia, e un mese di settembre caldo e sopra la media del periodo, ecco che una perturbazione nordatlantica porterà un primo calo delle temperature su...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/1fab4b1debe8faf02fa3ce8d0c12ba07-U15651452247DSE-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "europa": [
+      {
+        "title": "Dall’Fmi allarme sul debito pubblico: «Livelli record, non si può più rimandare»",
+        "link": "https://www.ilsole24ore.com/art/dall-fmi-allarme-debito-pubblico-livelli-record-non-si-puo-piu-rimandare-AJ1enEbB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-07T06:00:00.000Z",
+        "excerpt": "Rimandare il risanamento dei conti pubblici non è più possibile, soprattutto nelle economie avanzate e ad alto indebitamento. La numero uno dell’Fmi, Kristalina Georgieva, avvisa che tutte le...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/2026-10-06T130007Z_833189031_RC2SBBAKRRYH_RTRMADP_5_IMF-WORLDBANK-CRISES-U20240073816FwA-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Pena di morte, Christa Pike riprende conoscenza e parla",
+        "link": "https://www.ilsole24ore.com/art/pena-morte-christa-pike-riprende-conoscenza-e-parla-AJ0KcibB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-07T05:47:00.000Z",
+        "excerpt": "La 50enne del Tennessee si sveglia dopo la mancata esecuzione del 30 settembre",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/2026-10-06T220818Z_71220444_RC2PTNAKF4UE_RTRMADP_5_TENNESSEE-EXECUTION-U12641641831tWd-1440x752@IlSole24Ore-Web.JPG"
+      },
       {
         "title": "Allarme peste in Russia, Trump: «A breve parlerò con Putin». Pressione Usa su Mosca",
         "link": "https://www.ilsole24ore.com/art/allarme-peste-russia-trump-a-breve-parlero-putin-pressione-usa-mosca-AJowdhbB",
@@ -979,6 +995,22 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Il Governo incassa la doppia fiducia sulla legge elettorale, occhi puntati su giovedì",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/legge-elettorale-ok-della-camera-alla-fiducia-sullarticolo-2-227-si_3b6319fb-ba23-405a-8f6e-c67558a8a218.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-07T05:25:15.000Z",
+      "excerpt": "Magi prosegue lo sciopero della fame, Meloni gli scrive. Appello di Bonetti alle donne della maggioranza",
+      "image": null
+    },
+    {
+      "title": "Israele ricorda il 7 ottobre, il fallimento al centro delle elezioni",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/israele-ricorda-il-7-ottobre-il-fallimento-al-centro-delle-elezioni_514950f2-d75c-4343-925e-b96c77b04ce8.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-07T05:16:45.000Z",
+      "excerpt": "Il Paese si è spostato a destra, pochi credono che il terrorismo sia sconfitto",
+      "image": null
+    },
     {
       "title": "Duemila parole contro 600: il discorso dei Re",
       "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/10/07/news/messi_cristiano_ronaldo_discorso-425630856/",
