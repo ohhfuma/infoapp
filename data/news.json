@@ -1,21 +1,125 @@
 {
-  "lastUpdated": "2026-10-07T09:43:35.430Z",
+  "lastUpdated": "2026-10-07T10:10:17.490Z",
   "finanza": {
     "italia": [
       {
-        "title": "Aci, a settembre ogni 100 auto nuove vendute 213 usate",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/aci-a-settembre-ogni-100-auto-nuove-vendute-213-usate_bf799612-61a7-42b5-a280-82a6b93636c2.html",
+        "title": "Strisciuglio, con limitazioni dei treni in estate rispettati tutti gli impegni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/strisciuglio-con-limitazioni-dei-treni-in-estate-rispettati-tutti-gli-impegni_f94f31bd-cdf9-43b8-9ad8-b68ddca8ec3c.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-07T09:36:01.000Z",
-        "excerpt": "In 9 mesi i passaggi di proprietà risultano in lieve calo per le autovetture",
+        "pubDate": "2026-10-07T09:56:19.000Z",
+        "excerpt": "'Per Firenze sarà forse l'opera più importante dal punto di vista dello sbottigliamento'",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Intel è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-intel-e-in-rialzo-oggi-93CH-3577668",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:51:08.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+      },
+      {
+        "title": "Patuelli, no a nuovo contributo in Manovra, c'è accordo triennale",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/patuelli-no-a-nuovo-contributo-in-manovra-ce-accordo-triennale_8c6f8afb-02e0-482f-ac9b-b18b01719939.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T09:51:06.000Z",
+        "excerpt": "Presidente Abi, gli accordi si rispettano",
+        "image": null
+      },
+      {
+        "title": "L’allarme del Fmi: “Economia mondiale incerta tra shock energia e IA. Servono azioni sul debito”",
+        "link": "https://www.repubblica.it/economia/2026/10/07/news/fmi_rischi_energia_ia_debito-425631207/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-07T09:50:50.000Z",
+        "excerpt": "La direttrice Georgieva: “Servono piani di risanamento credibili”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/103023924-07b2eaf3-0df6-41aa-bf4c-74fef2346b11.jpg"
+      },
+      {
+        "title": "Assaeroporti, preoccupa il jet fuel, rischio rincari e voli soppressi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/assaeroporti-preoccupa-il-jet-fuel-rischio-rincari-e-voli-soppressi_b933a5c1-546a-4a63-b5e2-b69dd25776f1.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T09:48:37.000Z",
+        "excerpt": "Se la situazione non migliora. Incrementi da capogiro, il carburante vale il 31% dei costi",
+        "image": null
+      },
+      {
+        "title": "Il rally del rame affronta rischi a breve termine nonostante i guadagni a lungo termine",
+        "link": "https://it.investing.com/news/stock-market-news/il-rally-del-rame-affronta-rischi-a-breve-termine-nonostante-i-guadagni-a-lungo-termine-93CH-3577660",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:45:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
+      },
+      {
+        "title": "Al via la piattaforma online per il contributo affitto per genitori separati",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/al-via-la-piattaforma-online-per-il-contributo-affitto-per-genitori-separati_270441e8-3acb-498f-89b2-a235e4275a78.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T09:44:09.000Z",
+        "excerpt": "Attiva dalle 12. Risorse per 20 milioni di euro",
         "image": null
       },
       {
         "title": "Salvini, 'obiettivo mobilitare circa 10 miliardi per il Piano casa'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/salvini-obiettivo-mobilitare-circa-10-miliardi-per-il-piano-casa_270df5ef-1f43-4f34-b235-008e621f4549.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-07T09:35:37.000Z",
+        "pubDate": "2026-10-07T09:44:03.000Z",
         "excerpt": "'Il piano lo si attendava da 50 anni'",
+        "image": null
+      },
+      {
+        "title": "Perché Barclays dice che il mercato toro \"opera con margini più ridotti\"",
+        "link": "https://it.investing.com/news/stock-market-news/perche-barclays-dice-che-il-mercato-toro-opera-con-margini-piu-ridotti-3577662",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:42:55.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB2N09U_M.jpg"
+      },
+      {
+        "title": "Capitani di petroliere guadagnano $100.000 al mese per il transito di Hormuz",
+        "link": "https://it.investing.com/news/stock-market-news/capitani-di-petroliere-guadagnano-100000-al-mese-per-il-transito-di-hormuz-93CH-3577651",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:42:44.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
+      },
+      {
+        "title": "Morgan Stanley vede valore selettivo nelle utility francesi dopo l’allargamento degli spread obbligazionari",
+        "link": "https://it.investing.com/news/stock-market-news/morgan-stanley-vede-valore-selettivo-nelle-utility-francesi-dopo-lallargamento-degli-spread-obbligazionari-3577652",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:41:18.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC8I0KV_M.jpg"
+      },
+      {
+        "title": "Perché il titolo di Caribou Biosciences sta crollando oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-caribou-biosciences-sta-crollando-oggi-93CH-3577650",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:41:16.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
+      },
+      {
+        "title": "SpaceX cerca 40 miliardi di dollari per acquistare chip Nvidia",
+        "link": "https://it.investing.com/news/stock-market-news/spacex-cerca-40-miliardi-di-dollari-per-acquistare-chip-nvidia-93CH-3577649",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:41:08.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg"
+      },
+      {
+        "title": "Perché il titolo ZIM Integrated Shipping è salito del 4% oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-zim-integrated-shipping-e-salito-del-4-oggi-93CH-3577644",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:36:09.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/Zim_800x533_L_1637101293.jpg"
+      },
+      {
+        "title": "Aci, a settembre ogni 100 auto nuove vendute 213 usate",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/aci-a-settembre-ogni-100-auto-nuove-vendute-213-usate_bf799612-61a7-42b5-a280-82a6b93636c2.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T09:36:01.000Z",
+        "excerpt": "In 9 mesi i passaggi di proprietà risultano in lieve calo per le autovetture",
         "image": null
       },
       {
@@ -27,76 +131,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/112636981-41bc9885-853c-4884-b435-17c174064e4b.jpg"
       },
       {
-        "title": "Azioni Remy Cointreau in rialzo del 3,7% grazie alle vendite USA",
-        "link": "https://it.investing.com/news/stock-market-news/azioni-remy-cointreau-in-rialzo-del-37-grazie-alle-vendite-usa-93CH-3577627",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T09:22:05.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
-      },
-      {
         "title": "Federalberghi all'attacco sugli affitti brevi, 'ecco i numeri della Shadow Economy'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/federalberghi-allattacco-sugli-affitti-brevi-ecco-i-numeri-della-shadow-economy_072749b6-0be5-4e86-b9bf-68a0b2f6090c.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-07T09:21:00.000Z",
         "excerpt": "'Non è vero che sono dove c'è carenza offerta, la maggior parte a Roma, Milano, Firenze'",
         "image": null
-      },
-      {
-        "title": "Le azioni dei costruttori auto UE salgono: Bruxelles prepara un tetto alle importazioni di ibridi cinesi",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-dei-costruttori-auto-ue-salgono-bruxelles-prepara-un-tetto-alle-importazioni-di-ibridi-cinesi-3577618",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T09:15:27.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC720M6_M.jpg"
-      },
-      {
-        "title": "Citi: la spesa nel lusso USA cala del 6% a settembre",
-        "link": "https://it.investing.com/news/stock-market-news/citi-la-spesa-nel-lusso-usa-cala-del-6-a-settembre-93CH-3577578",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T09:12:42.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
-      },
-      {
-        "title": "Musk esclude TSMC da Terafab; Intel guadagna terreno",
-        "link": "https://it.investing.com/news/stock-market-news/musk-esclude-tsmc-da-terafab-intel-guadagna-terreno-3577574",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T09:10:34.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
-      },
-      {
-        "title": "Borsa Milano, in calo con Europa con rialzo greggio e rendimenti bond, giù banche e tech",
-        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-in-calo-con-europa-con-rialzo-greggio-e-rendimenti-bond-giu-banche-e-tech-3577568",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T09:08:57.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM960OT_L.jpg"
-      },
-      {
-        "title": "Borse europa in calo dopo tre giorni di rialzo su aumento prezzi greggio, rendimenti",
-        "link": "https://it.investing.com/news/stock-market-news/borse-europa-in-calo-dopo-tre-giorni-di-rialzo-su-aumento-prezzi-greggio-rendimenti-3577567",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T09:08:41.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM960OU_L.jpg"
-      },
-      {
-        "title": "Borsa Milano, Ieg cede 15% dopo Abb, titolo si riallinea al prezzo del placement",
-        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-ieg-cede-15-dopo-abb-titolo-si-riallinea-al-prezzo-del-placement-3577566",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T09:08:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM960OZ_L.jpg"
-      },
-      {
-        "title": "Le azioni di Novavax e Moderna scendono dopo i timori sulla peste",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-novavax-e-moderna-scendono-dopo-i-timori-sulla-peste-93CH-3577564",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T09:07:38.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
       },
       {
         "title": "Codacons, in due giorni pieno gasolio rincara di 1 euro",
@@ -115,52 +155,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/105405768-cf430c1b-df2b-4394-bdbb-eb49092585ff.jpg"
       },
       {
-        "title": "Al via la piattaforma online per il contributo affitto per genitori separati",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/al-via-la-piattaforma-online-per-il-contributo-affitto-per-genitori-separati_270441e8-3acb-498f-89b2-a235e4275a78.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T08:53:57.000Z",
-        "excerpt": "Attiva dalle 12. Risorse per 20 milioni di euro",
-        "image": null
-      },
-      {
         "title": "Bonus affitti per genitori separati, partono le domande",
         "link": "https://www.ilsole24ore.com/art/bonus-genitori-separati-partono-domande-AJ4GPpbB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-07T08:50:00.000Z",
         "excerpt": "Pubblicato il bando del Mit che disciplina il nuovo contributo: avrà un tetto di 6mila euro all’anno",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/AdobeStock_488547171-U56144818025onw-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Confcommercio, Misery index settembre sale a 12,2, valore più alto dal 2024",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/confcommercio-misery-index-settembre-sale-a-122-valore-piu-alto-dal_9374be75-f7a4-495b-8bd9-32c0380b998d.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T08:40:37.000Z",
-        "excerpt": "Sale di 0,4 punti su agosto per l'accelerazione dei prezzi",
-        "image": null
-      },
-      {
-        "title": "Urso, nuova intesa tra Italia ed Emirati su industria e tecnologie",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/urso-nuova-intesa-tra-italia-ed-emirati-su-industria-e-tecnologie_f12ed35f-d8d9-4617-9d80-d1f7ee632425.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T08:39:27.000Z",
-        "excerpt": "Il ministro nei Paesi del Golfo, 'costruiamo insieme nostra autonomia strategica'",
-        "image": null
-      },
-      {
-        "title": "Verso l'Ecofin, 'meno gettito oggi con un nuovo contributo extraprofitti'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/verso-lecofin-meno-gettito-oggi-con-un-nuovo-contributo-extraprofitti_ac4b185e-08e8-437c-a17c-1e881bd00a15.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T08:38:17.000Z",
-        "excerpt": "Presidenza Ue ipotizza però 'una piattaforma per un ulteriore confronto costruttivo'",
-        "image": null
-      },
-      {
-        "title": "L’allarme del Fmi: “Economia mondiale incerta tra shock energia e IA. Servono azioni sul debito”",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/fmi_rischi_energia_ia_debito-425631207/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T08:30:47.000Z",
-        "excerpt": "La direttrice Georgieva: “Servono piani di risanamento credibili”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/103023924-07b2eaf3-0df6-41aa-bf4c-74fef2346b11.jpg"
       },
       {
         "title": "McDonald’s sotto accusa: “Usa l’IA per modificare i prezzi”. E parte la class action",
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Missione di monitoraggio del progetto di aiuto Tadamun dell'Aics in Libano",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/07/missione-di-monitoraggio-del-progetto-di-aiuto-tadamun-dellaics-in-libano_b9c58c71-c502-40da-a1bb-262b601e2781.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-07T09:56:55.000Z",
+        "excerpt": "A Gemmayzeh, una cucina comunitaria distribuisce pasti alle persone colpite dal conflitto",
+        "image": null
+      },
+      {
+        "title": "Usa, l’ombra di Epstein sulla campagna elettorale, citato in almeno 35 spot di candidati dem",
+        "link": "https://www.repubblica.it/esteri/2026/10/07/news/usa_epstein_campagna_elettorale_35_spot_i_candidati_dem-425631499/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-07T09:53:28.000Z",
+        "excerpt": "Nei video accusano duramente gli avversari che hanno votato contro la diffusione dei file o avevano legami con figure vicine al miliardario pedofilo. Fra i testimonial, anche il fratello di Virginia Giuffre, l’accusatric",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/114826899-22a4852a-5604-4106-afec-b188b4f3b063.jpg"
+      },
+      {
         "title": "America Latina, la svolta a destra",
         "link": "https://www.repubblica.it/esteri/2026/10/07/news/america_latina_svolta_destra_mappa-425631377/?rss",
         "source": "Repubblica Esteri",
@@ -528,14 +544,6 @@
         "image": null
       },
       {
-        "title": "Bolivia, dalla Caf 224 milioni di dollari per la rete stradale",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/bolivia-dalla-caf-224-milioni-di-dollari-per-la-rete-stradale_2101d3af-b352-416d-aff8-b12b3a008d2d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-07T01:08:50.000Z",
-        "excerpt": "La Banca di sviluppo dell'America Latina e dei Caraibi punta a riattivare 469 km",
-        "image": null
-      },
-      {
         "title": "Francia, la rabbia degli studenti: “Aule, sostegno, insegnanti, a scuola manca tutto”",
         "link": "https://www.repubblica.it/esteri/2026/10/07/news/francia_che_cosa_chiedono_gli_studenti-425630681/?rss",
         "source": "Repubblica Esteri",
@@ -574,18 +582,34 @@
         "pubDate": "2026-10-06T23:00:18.000Z",
         "excerpt": "Yaakov Godo è il padre di Tom, ammazzato per errore dall’Idf. Lunedì ha interrotto il discorso del premier durante le commemorazioni",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/202730504-6cbd5c3a-77ec-4d8b-9c30-b9c16a780947.jpg"
-      },
-      {
-        "title": "Peste, i timori dei ricercatori Usa: “Potrebbe essere un’arma russa”",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/peste_siberia_timori_usa_potrebbe_essere_arma_russa-425630613/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-06T23:00:12.000Z",
-        "excerpt": "Un biologo del Mit mette in dubbio la versione di Mosca: “L’allarme non è compatibile con un lieve incidente di laboratorio”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/224754712-d91bee0e-5b5b-49fc-8bdb-4fe900580e08.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Il Nobel per la Chimica a Kagan e Soar",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/10/07/il-nobel-per-la-chimica-a-kagan-e-soar_f8f2b9cf-0b31-40e4-a001-c9e5a57670a5.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-07T09:56:53.000Z",
+      "excerpt": "Premiati per la scoperta dell'effetto non lineare dell'autocatalisi nella sintesi organica",
+      "image": null
+    },
+    {
+      "title": "Henri Kagan e Kenso Soai hanno vinto il Nobel per la Chimica 2026",
+      "link": "https://www.repubblica.it/cronaca/2026/10/07/news/premio_nobel_chimica_2026_henri_kagan_kenso_soai-425631505/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T09:50:30.000Z",
+      "excerpt": "Il premio è accompagnato da 1,1 milioni di euro. L’anno scorso il riconoscimento era andato agli scopritori di nuovi materiali porosi, con una grande superficie interna, capaci di comportarsi “come la borsa di Harry Pott",
+      "image": null
+    },
+    {
+      "title": "Usa, l’ombra di Epstein sulla campagna elettorale, citato in almeno 35 spot di candidati dem",
+      "link": "https://www.repubblica.it/esteri/2026/10/07/news/usa_epstein_campagna_elettorale_35_spot_i_candidati_dem-425631499/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T09:48:37.000Z",
+      "excerpt": "Nei video accusano duramente gli avversari che hanno votato contro la diffusione dei file o avevano legami con figure vicine al miliardario pedofilo. Fra i testimonial, anche il fratello di Virginia Giuffre, l’accusatric",
+      "image": null
+    },
     {
       "title": "Israele ricorda il 7 ottobre, il fallimento al centro delle elezioni",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/israele-ricorda-il-7-ottobre-il-fallimento-al-centro-delle-elezioni_514950f2-d75c-4343-925e-b96c77b04ce8.html",
@@ -600,14 +624,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-07T09:25:29.000Z",
       "excerpt": "Sempre più concentrati su qualità del riposo tra smartwatch, mascherine e rituali serali",
-      "image": null
-    },
-    {
-      "title": "Oggi i vincitori del Nobel per la Chimica",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/10/05/oggi-i-vincitori-del-nobel-per-la-chimica_f8f2b9cf-0b31-40e4-a001-c9e5a57670a5.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-07T09:03:47.000Z",
-      "excerpt": "",
       "image": null
     },
     {
@@ -627,11 +643,11 @@
       "image": null
     },
     {
-      "title": "Legge elettorale al rush finale, oggi alla Camera il voto sulla fiducia all'articolo 3",
+      "title": "Legge elettorale al rush finale, ok dalla Camera alla fiducia sull'articolo 3",
       "link": "https://www.repubblica.it/politica/2026/10/07/news/legge_elettorale_oggi_voto_fiducia_articolo_3-425631347/",
       "source": "Repubblica",
       "pubDate": "2026-10-07T08:55:08.000Z",
-      "excerpt": "La votazione nell’aula di Montecitorio, domani l’approvazione finale a scrutinio segreto",
+      "excerpt": "La votazione nell’aula di Montecitorio, domani l’approvazione definitiva a scrutinio segreto",
       "image": null
     },
     {
@@ -680,22 +696,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-07T07:37:38.000Z",
       "excerpt": "Lo spettacolo dei droni nel cielo per salutare Leo macchiato nel finale",
-      "image": null
-    },
-    {
-      "title": "Il timing della Consulta sulla legge elettorale, possibile decisione già a febbraio",
-      "link": "https://www.repubblica.it/politica/2026/10/07/news/consulta_legge_elettorale_decisione_febbraio-425631049/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T07:35:43.000Z",
-      "excerpt": "I ricorsi dovrebbero essere presentati in una trentina di Tribunali civili italiani dopo l'entrata in vigore della riforma",
-      "image": null
-    },
-    {
-      "title": "Anna Politkovskaja, 20 anni dall’omicidio della giornalista che sfidò Putin",
-      "link": "https://www.repubblica.it/esteri/2026/10/07/news/anna_politkovskaja_20_anni_omicidio_giornalista_sfido_putin_chi_era-425630953/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T06:46:40.000Z",
-      "excerpt": "Dalle inchieste sulla Cecenia ai numerosi atti di intimidazione: la storia della giornalista di Novaja Gazeta uccisa il 7 ottobre 2006, nel giorno del 54esimo compleanno di Vladimir Putin",
       "image": null
     },
     {
