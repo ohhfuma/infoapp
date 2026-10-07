@@ -4,12 +4,76 @@
   "finanza": {
     "italia": [
       {
+        "title": "Il prezzo del gasolio Eni scende di 4 centesimi a 2,21 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/il-prezzo-del-gasolio-eni-scende-di-4-centesimi-a-221-euro_4e394ff8-f11c-4880-a80b-e0e526dfd1f9.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T10:34:47.000Z",
+        "excerpt": "Dati elaborati da Staffetta Quotidiana, calo in scia a quello de prodotti raffinati",
+        "image": null
+      },
+      {
+        "title": "L’IA poco usata nelle pmi, solo il 19% ci lavora. La richiesta di un Buono digitale al governo",
+        "link": "https://www.repubblica.it/economia/2026/10/07/news/ia_poco_usata_nelle_pmi-425631628/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-07T10:32:06.000Z",
+        "excerpt": "L’indagine dell’Istituto Piepoli con Assosoftware: troppa burocrazia e costi allevati allontanano le imprese dagli investimenti tecnologici",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/123137541-892da835-763a-4789-8eeb-64c73ffac7bd.jpg"
+      },
+      {
+        "title": "UBS declassa Inchcape: utili Asia-Pacifico in calo nel secondo semestre",
+        "link": "https://it.investing.com/news/stock-market-news/ubs-declassa-inchcape-utili-asiapacifico-in-calo-nel-secondo-semestre-3577727",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T10:12:57.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      },
+      {
+        "title": "Vuoi fare il ribassista? BCA dice di guardare agli aumenti fiscali USA",
+        "link": "https://it.investing.com/news/stock-market-news/vuoi-fare-il-ribassista-bca-dice-di-guardare-agli-aumenti-fiscali-usa-3577731",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T10:12:11.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg"
+      },
+      {
+        "title": "Northland Power completa l’installazione delle turbine nel parco eolico in Polonia",
+        "link": "https://it.investing.com/news/stock-market-news/northland-power-completa-linstallazione-delle-turbine-nel-parco-eolico-in-polonia-93CH-3577720",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T10:11:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB1O095_M.jpg"
+      },
+      {
+        "title": "Perché il titolo JetBlue Airways è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-jetblue-airways-e-in-rialzo-oggi-93CH-3577690",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T10:02:49.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEE6A0CU_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Mohawk Industries sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-mohawk-industries-sta-scendendo-oggi-93CH-3577674",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:57:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      },
+      {
         "title": "Strisciuglio, con limitazioni dei treni in estate rispettati tutti gli impegni",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/strisciuglio-con-limitazioni-dei-treni-in-estate-rispettati-tutti-gli-impegni_f94f31bd-cdf9-43b8-9ad8-b68ddca8ec3c.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-07T09:56:19.000Z",
         "excerpt": "'Per Firenze sarà forse l'opera più importante dal punto di vista dello sbottigliamento'",
         "image": null
+      },
+      {
+        "title": "Perché il titolo Renault è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-renault-e-in-rialzo-oggi-93CH-3577670",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:55:56.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC720M6_M.jpg"
       },
       {
         "title": "Perché il titolo Intel è in rialzo oggi?",
@@ -418,70 +482,6 @@
         "pubDate": "2026-10-07T07:55:34.000Z",
         "excerpt": "Al via alle Ogr di Torino la tech conference Wave by Vento",
         "image": null
-      },
-      {
-        "title": "Borse oggi | FTSE MIB | Piazza Affari in calo, petrolio sopra 100 dollari",
-        "link": "https://it.investing.com/news/stock-market-news/borse-oggi--ftse-mib--piazza-affari-in-calo-petrolio-sopra-100-dollari-3577355",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T07:54:03.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEBB70GL_M.jpg"
-      },
-      {
-        "title": "Manovra, allo studio bonus 5.0 fino al 2029 e voucher per l’AI nelle Pmi",
-        "link": "https://www.ilsole24ore.com/art/manovra-studio-bonus-50-fino-2029-e-voucher-l-ai-pmi-AJ8sH8aB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-07T07:51:26.000Z",
-        "excerpt": "La prudenza invocata dal ministro dell’Economia Giancarlo Giorgetti in vista della stesura finale della manovra, scolpita anche nelle pagine del Documento programmatico di finanza pubblica inviato dal Governo alle Camere",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/ai-U02123764556iZD-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Il titolo Forvia balza in borsa grazie a una joint venture in India con Anand Group",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-forvia-balza-in-borsa-grazie-a-una-joint-venture-in-india-con-anand-group-3577356",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T07:51:02.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEEAD0OJ_M.jpg"
-      },
-      {
-        "title": "Borsa: Milano scivola (-1%) coi Btp, lo spread risale a 111",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-milano-scivola-1-coi-btp-lo-spread-risale-a-111_d03e2c2e-81ac-42c7-854b-9e5a2273cb40.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T07:42:18.000Z",
-        "excerpt": "Male tecnologici e banche con Technoprobe, Prysmian, Stm e Bper, bene Tim e Inwit",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo Stellantis sale oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-stellantis-sale-oggi-93CH-3577339",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T07:41:45.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
-      },
-      {
-        "title": "McDonald’s sotto accusa: “Usa l’Ia per modificare i prezzi”. E parte la class action",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/mcdonald_s_ia_prezzi_class_action-425631047/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T07:34:05.000Z",
-        "excerpt": "Secondo l’inchiesta condotta da Reuters il colosso del fast food applicherebbe prezzi personalizzati a seconda dei ristoranti tenendo conto dei comportamenti medi dei clienti in quella zona. L’azienda smentisce: “Informa",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/093359326-49740db2-165e-4108-b498-43c633d9ef2b.jpg"
-      },
-      {
-        "title": "Perché il titolo NCC è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-ncc-e-in-forte-rialzo-oggi-93CH-3577335",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T07:32:35.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
-        "title": "Eusider nella cordata per l'ex Ilva \"per contribuire a una soluzione industriale\"",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/eusider-nella-cordata-per-lex-ilva-per-contribuire-a-una-soluzione_09a51e6b-6c19-4c2e-b88d-1c2942e8e197.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T07:31:56.000Z",
-        "excerpt": "Eufrasio Anghileri: \"Strategico preservare in Italia una capacità produttiva siderurgica'",
-        "image": null
       }
     ],
     "europa": [
@@ -672,6 +672,54 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Offerta mattutina: Storm Brewing",
+        "link": "https://www.investing.com/news/commodities-news/morning-bid-storm-brewing-4936121",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-07T10:36:43.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM960WX_L.jpg"
+      },
+      {
+        "title": "Il Nord Dakota cavalca il boom della soia, alimentato dai biocarburanti e dalla Cina",
+        "link": "https://www.investing.com/news/commodities-news/north-dakota-rides-soy-boom-fueled-by-biofuels-and-china-4936113",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-07T10:36:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM960WQ_L.jpg"
+      },
+      {
+        "title": "Cremlino, 'non abbiamo informazioni su richiesta Usa per presunto caso di peste'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/cremlino-non-abbiamo-informazioni-su-richiesta-usa-per-presunto-caso-di-peste_d0afe8a9-1690-441f-92c1-0a8888f531ff.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-07T10:35:01.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "La Polonia è pronta a rilasciare le scorte petrolifere in attesa di un accordo",
+        "link": "https://www.investing.com/news/commodities-news/poland-ready-to-release-oil-stocks-pending-group-agreement-93CH-4936086",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-07T10:22:34.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg"
+      },
+      {
+        "title": "Wafa, palestinese ucciso durante attacco di coloni estremisti in Cisgiordania",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/07/wafa-palestinese-ucciso-durante-attacco-di-coloni-estremisti-in-cisgiordania_bbfe014d-aeee-4533-a51c-f7264a8dce22.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-07T10:13:47.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "Bolsonaro, 'Brasile da redemocratizzare, se vinco cambio la Costituzione'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/bolsonaro-brasile-da-redemocratizzare-se-vinco-cambio-la-costituzione_e0de6de3-6b94-4335-bd42-72fd1118f695.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-07T10:12:16.000Z",
+        "excerpt": "Il candidato di destra punta ad allargare le alleanze nel Congresso",
+        "image": null
+      },
       {
         "title": "Missione di monitoraggio del progetto di aiuto Tadamun dell'Aics in Libano",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/07/missione-di-monitoraggio-del-progetto-di-aiuto-tadamun-dellaics-in-libano_b9c58c71-c502-40da-a1bb-262b601e2781.html",
@@ -1103,22 +1151,6 @@
         "pubDate": "2026-10-06T17:36:24.000Z",
         "excerpt": "La battuta detta in un comizio in Nebraska, con un riferimento anche a San Diego, è suonata come una frecciata all’odiato Stato liberal. Il governatore Newsom: “E’ uno squilibrato”",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/192459576-46730609-dd44-4b4d-8a05-76ac9d9b629c.jpg"
-      },
-      {
-        "title": "Suor Prejean: “In Usa usano la pena di morte per guadagnare voti. Questa barbarie deve finire”",
-        "link": "https://www.repubblica.it/esteri/2026/10/06/news/suor_prejean_caso_pike_usa_pena_di_morte-425629672/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-06T14:33:44.000Z",
-        "excerpt": "La religiosa americana e nota attivista contro le esecuzioni al centro del film “Dead Man Walking” sul caso Pike: “E’ l’ennesimo esempio di cosa succede quando si affida allo Stato il potere di uccidere le persone. La Co",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/163333897-64297b99-53b0-48b0-b33f-87cd96620488.jpg"
-      },
-      {
-        "title": "Canada, gli indipendentisti vincono in Québec: “Un giorno saremo un Paese\"",
-        "link": "https://www.repubblica.it/esteri/2026/10/06/news/canada_indipendentisti_vincono_quebec-425629371/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-06T12:21:29.000Z",
-        "excerpt": "Un problema in più per il primo ministro Mark Carney , a due settimane dal referendum sull’indipendenza in programma in un’altra regione, Alberta. Il Parti Québécois ha vinto 60 seggi sui 127 del parlamento locale, manca",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/142119130-7bdb8c83-3ca4-4ad2-a2e2-b12168bc7143.jpg"
       }
     ]
   },
@@ -1605,6 +1637,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Manchester City, il fisco britannico indagò sui conti del club",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/07/manchester-city-il-fisco-britannico-indago-sui-conti-del-club_ff8a6374-a161-4903-97bb-2c4c352f904c.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-07T10:28:49.000Z",
+      "excerpt": "L'inchiesta, rivela il Ft, partì nel 2018 dopo pubblicazioni sui media tedeschi",
+      "image": null
+    },
     {
       "title": "Alcaraz scrive a Sinner, 'testa alta, tornerai più forte'",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/07/alcaraz-scrive-a-sinner-testa-alta-tornerai-piu-forte_1662a94f-8313-43ee-a6d1-fce3e9526519.html",
