@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T22:08:35.267Z",
+  "lastUpdated": "2026-10-07T22:41:24.701Z",
   "finanza": {
     "italia": [
       {
@@ -64,7 +64,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-07T21:03:00.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_L.jpg"
       },
       {
         "title": "Perché il titolo Microvision sta scendendo oggi?",
@@ -72,7 +72,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-07T21:02:58.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_L.jpg"
+        "image": null
       },
       {
         "title": "Mps, Benetton si schiera con l’offerta di Intesa: “Edizione conferirà le sue quote”",
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "È morta Maricarmen, il volto delle proteste per il diritto alla casa in Spagna",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/e-morta-maricarmen-il-volto-delle-proteste-per-il-diritto-alla-casa-in-spagna_cc495f85-22e2-404c-9b69-d2091b0ff22a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-07T22:23:44.000Z",
+        "excerpt": "L'87enne è deceduta nell'ospedale dov'era ricoverata dopo essere stata sfrattata dall'appartamento in cui viveva da 70 anni. Sanchez: 'Sentiamo questa perdita come nostra'. In migliaia manifestano in Puerta del Sol",
+        "image": null
+      },
+      {
+        "title": "La tempesta tropicale Isaias prevede di colpire la costa del Golfo degli Stati Uniti come uragano all'inizio di sabato",
+        "link": "https://www.investing.com/news/commodities-news/tropical-stormisaias-forecast-to-hit-us-gulf-coast-as-hurricane-early-saturday-4937254",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-07T22:18:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/oil_2_M_1440047844.jpg"
+      },
+      {
         "title": "El Salvador, stato di emergenza nazionale per la siccità",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/el-salvador-stato-di-emergenza-nazionale-per-la-siccita_b77a28eb-8fbc-4101-a3f1-20755f950a9d.html",
         "source": "ANSA Mondo",
@@ -405,14 +421,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-07T21:23:15.000Z",
         "excerpt": "Stop ai carichi nel secondo trimestre, dopo i 900 barili al giorno di inizio 2026",
-        "image": null
-      },
-      {
-        "title": "È morta Maricarmen, il volto delle proteste per il diritto alla casa in Spagna",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/e-morta-maricarmen-il-volto-delle-proteste-per-il-diritto-alla-casa-in-spagna_cc495f85-22e2-404c-9b69-d2091b0ff22a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-07T21:17:25.000Z",
-        "excerpt": "L'87enne è deceduta nell'ospedale dov'era ricoverata dopo essere stata sfrattata dall'appartamento in cui viveva da 70 anni. Sanchez: 'Sentiamo questa perdita come nostra'. In migliaia manifestano in Puerta del Sol",
         "image": null
       },
       {
@@ -446,14 +454,6 @@
         "pubDate": "2026-10-07T21:05:16.000Z",
         "excerpt": "Temperature fino a -17 gradi sopra i 4.000 metri in sette regioni del sud",
         "image": null
-      },
-      {
-        "title": "La tempesta tropicale Isaias prevede di colpire la costa del Golfo degli Stati Uniti come uragano all'inizio di sabato",
-        "link": "https://www.investing.com/news/commodities-news/tropical-stormisaias-forecast-to-hit-us-gulf-coast-as-hurricane-early-saturday-4937254",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-07T20:36:35.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/oil_2_M_1440047844.jpg"
       },
       {
         "title": "I margini del diesel europeo salgono di oltre il 10% sulle trattative per il rilascio delle scorte",
@@ -590,7 +590,7 @@
       "title": "È morta Maricarmen, il volto delle proteste per il diritto alla casa in Spagna",
       "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/e-morta-maricarmen-il-volto-delle-proteste-per-il-diritto-alla-casa-in-spagna_cc495f85-22e2-404c-9b69-d2091b0ff22a.html",
       "source": "ANSA",
-      "pubDate": "2026-10-07T21:17:25.000Z",
+      "pubDate": "2026-10-07T22:23:44.000Z",
       "excerpt": "L'87enne è deceduta nell'ospedale dov'era ricoverata dopo essere stata sfrattata dall'appartamento in cui viveva da 70 anni. Sanchez: 'Sentiamo questa perdita come nostra'. In migliaia manifestano in Puerta del Sol",
       "image": null
     },
