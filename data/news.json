@@ -1,14 +1,102 @@
 {
-  "lastUpdated": "2026-10-07T11:42:05.207Z",
+  "lastUpdated": "2026-10-07T12:12:27.769Z",
   "finanza": {
     "italia": [
+      {
+        "title": "L’IA poco usata nelle pmi, solo il 19% ci lavora. La richiesta di un Buono digitale al governo",
+        "link": "https://www.repubblica.it/economia/2026/10/07/news/ia_poco_usata_nelle_pmi-425631628/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-07T12:01:11.000Z",
+        "excerpt": "L’indagine dell’Istituto Piepoli con Assosoftware: troppa burocrazia e costi elevati allontanano le imprese dagli investimenti tecnologici",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/123137541-892da835-763a-4789-8eeb-64c73ffac7bd.jpg"
+      },
+      {
+        "title": "Mercedes chiude un 'trimestre record' per i veicoli elettrici, +61%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/mercedes-chiude-un-trimestre-record-per-i-veicoli-elettrici-61_d5bd3231-a89c-47cd-8da5-9c70e86a45e2.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T11:54:13.000Z",
+        "excerpt": "Ordini esauriti per tutto il 2026 per Cla, Glc, Glb e Gla, estesi fino al 2027 inoltrato",
+        "image": null
+      },
+      {
+        "title": "Camion e bus, Salvini apre al lavoro fino a 70 anni: “Ma controlli medici su autisti ogni 24 mesi”",
+        "link": "https://www.repubblica.it/economia/2026/10/07/news/camion_e_bus_salvini_apre_al_lavoro_fino_a_70_anni_ma_controlli_medici_su_autisti_ogni_24_mesi-425631826/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-07T11:54:03.000Z",
+        "excerpt": "Il ministro dei Trasporti annuncia una misura volontaria per consentire ai conducenti di merci e passeggeri di restare in servizio più a lungo. Giorgetti: “Caro energia sottrarrà punti di Pil per lo 0,2%. Cantieri per fe",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/135337291-d58d9762-1120-45e8-a432-d4391011d897.jpg"
+      },
+      {
+        "title": "Borsa: l'Europa affonda coi bond, Milano -2,4% con le banche",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-leuropa-affonda-coi-bond-milano-24-con-le-banche_531773bc-be8b-4a91-a9de-1fd6cd16d66b.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T11:53:21.000Z",
+        "excerpt": "I Btp salgono al 4,67%, lo spread a 116 punti. Corre il petrolio",
+        "image": null
+      },
+      {
+        "title": "CoreWeave si espande in India con un data center in partnership con Adani",
+        "link": "https://it.investing.com/news/stock-market-news/coreweave-si-espande-in-india-con-un-data-center-in-partnership-con-adani-3578080",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T11:50:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      },
+      {
+        "title": "Truist prevede una crescita nel settore multi-industriale grazie agli ordini",
+        "link": "https://it.investing.com/news/stock-market-news/truist-prevede-una-crescita-nel-settore-multiindustriale-grazie-agli-ordini-93CH-3578063",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T11:45:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+      },
+      {
+        "title": "Susquehanna taglia i target delle compagnie aeree per i costi del carburante",
+        "link": "https://it.investing.com/news/stock-market-news/susquehanna-taglia-i-target-delle-compagnie-aeree-per-i-costi-del-carburante-93CH-3578061",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T11:45:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA6M0HI_M.jpg"
+      },
+      {
+        "title": "Georgieva (Fmi), allarme sul debito, i governi davanti a scelte 'molto dure'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/georgieva-fmi-allarme-sul-debito-i-governi-davanti-a-scelte-molto-dure_378b3937-9d42-420f-94f6-e223fa892a27.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T11:40:46.000Z",
+        "excerpt": "Urgente ricostituire spazio fiscali con lo shock energetico che gonfia i rendimenti",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Webull sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-webull-sta-scendendo-oggi-93CH-3578049",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T11:38:32.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+      },
+      {
+        "title": "Il titolo del chip potrebbe salire del 200%, analista: \"Se non lo comprate, lo faranno loro\"",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-del-chip-potrebbe-salire-del-200-analista-se-non-lo-comprate-lo-faranno-loro-3578058",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T11:38:29.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7R05V_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Coinbase sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-coinbase-sta-scendendo-oggi-93CH-3578040",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T11:37:50.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      },
       {
         "title": "Perché il titolo Robinhood Markets sta scendendo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-robinhood-markets-sta-scendendo-oggi-93CH-3578032",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-07T11:37:10.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
       },
       {
         "title": "Perché il titolo Neogen è in forte rialzo oggi?",
@@ -35,36 +123,12 @@
         "image": null
       },
       {
-        "title": "Citi diventa rialzista su Kone: il calo del titolo rende l’accordo con TKE non prezzato",
-        "link": "https://it.investing.com/news/stock-market-news/citi-diventa-rialzista-su-kone-il-calo-del-titolo-rende-laccordo-con-tke-non-prezzato-3578006",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T11:23:07.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg"
-      },
-      {
-        "title": "Banche giù oggi? Questa è a +44% di guadagno da maggio e non solo lei...",
-        "link": "https://it.investing.com/news/stock-market-news/banche-giu-oggi-questa-e-a-44-di-guadagno-da-maggio-e-non-solo-lei-3577974",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T11:18:10.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB1M0IJ_M.jpg"
-      },
-      {
         "title": "Giorgetti, 'legittima la nostra richiesta all'Ue di tener conto della realtà'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/giorgetti-legittima-la-nostra-richiesta-allue-di-tener-conto-della-realta_96fe67b3-983b-4063-85d7-af79d119f09c.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-07T11:17:07.000Z",
         "excerpt": "Abbiamo dimostrato di essere rigorosi",
         "image": null
-      },
-      {
-        "title": "Il titolo di Webull crolla per timori sulla sicurezza nazionale",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-webull-crolla-per-timori-sulla-sicurezza-nazionale-3577976",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T11:16:55.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3D0VW_1200_L.jpg"
       },
       {
         "title": "Borsa: Milano -2,1% con tecnologici e banche, Btp vola al 4,67%",
@@ -75,36 +139,12 @@
         "image": null
       },
       {
-        "title": "I prezzi dei chip di memoria salgono di quasi il 20% nel T3: carenze in corso",
-        "link": "https://it.investing.com/news/stock-market-news/i-prezzi-dei-chip-di-memoria-salgono-di-quasi-il-20-nel-t3-carenze-in-corso-93CH-3577944",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T11:16:00.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/Micron_800x533_L_1634733965.jpg"
-      },
-      {
-        "title": "Rare Earths Americas avvia la valutazione iniziale del progetto Constellation",
-        "link": "https://it.investing.com/news/stock-market-news/rare-earths-americas-avvia-la-valutazione-iniziale-del-progetto-constellation-93CH-3577941",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T11:15:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg"
-      },
-      {
         "title": "Banca Generali, a settembre la raccolta netta supera il mezzo miliardo",
         "link": "https://www.repubblica.it/economia/2026/10/07/news/banca_generali_settembre_raccolta_netta-425631765/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-07T11:13:18.000Z",
         "excerpt": "«Il risultato riflette la nostra capacità di attrarre nuova clientela, in particolare nel segmento degli imprenditori, e la forza di un posizionamento distintivo che continua a richiamare professionisti di elevata qualit",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/131308184-5ce7d5e0-19dd-4e35-a989-a76396a3403b.jpg"
-      },
-      {
-        "title": "UBS: i volumi di sigarette calano in Spagna e Francia ad agosto",
-        "link": "https://it.investing.com/news/stock-market-news/ubs-i-volumi-di-sigarette-calano-in-spagna-e-francia-ad-agosto-93CH-3577911",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T11:07:59.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/phillip_morris_x_M_1440050322.jpg"
       },
       {
         "title": "Eni, il prezzo del diesel scende a 2,21 euro ma resta il tetto a 2,25",
@@ -121,22 +161,6 @@
         "pubDate": "2026-10-07T11:00:58.000Z",
         "excerpt": "Il rinnovo concluso oggi all’Aran vale per il triennio 2025-2027. Arretrati tra i 4.000 e i 6.000 euro",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/130048335-6e0eeb96-e6d3-4cf8-9b54-9dc62d917dcb.jpg"
-      },
-      {
-        "title": "Strisciuglio, con limitazioni dei treni in estate rispettati tutti gli impegni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/strisciuglio-con-limitazioni-dei-treni-in-estate-rispettati-tutti-gli-impegni_f94f31bd-cdf9-43b8-9ad8-b68ddca8ec3c.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T11:00:48.000Z",
-        "excerpt": "'Per Firenze sarà forse l'opera più importante dal punto di vista dello sbottigliamento'",
-        "image": null
-      },
-      {
-        "title": "Borsa: l'Europa scivola coi bond, Milano -1,8% e spread a 116",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-leuropa-scivola-coi-bond-milano-18-e-spread-a-116_c41af50f-0386-497a-b239-b9c078933418.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T11:00:26.000Z",
-        "excerpt": "Sotto pressione i titoli di Italia, Francia e Grecia. Il petrolio riprende a correre",
-        "image": null
       },
       {
         "title": "Presidenza Ue, 'necessaria tassazione extra-profitti delle società energetiche'",
@@ -171,36 +195,12 @@
         "image": null
       },
       {
-        "title": "Il prezzo del gasolio Eni scende di 4 centesimi a 2,21 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/il-prezzo-del-gasolio-eni-scende-di-4-centesimi-a-221-euro_4e394ff8-f11c-4880-a80b-e0e526dfd1f9.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T10:34:47.000Z",
-        "excerpt": "Dati elaborati da Staffetta Quotidiana, calo in scia a quello de prodotti raffinati",
-        "image": null
-      },
-      {
-        "title": "L’IA poco usata nelle pmi, solo il 19% ci lavora. La richiesta di un Buono digitale al governo",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/ia_poco_usata_nelle_pmi-425631628/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T10:32:06.000Z",
-        "excerpt": "L’indagine dell’Istituto Piepoli con Assosoftware: troppa burocrazia e costi allevati allontanano le imprese dagli investimenti tecnologici",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/123137541-892da835-763a-4789-8eeb-64c73ffac7bd.jpg"
-      },
-      {
         "title": "Edison Energia punta su efficienza e autoconsumo per ridurre la bolletta",
         "link": "https://www.repubblica.it/economia/rapporti/energitalia/storie/2026/10/07/news/edison_energia_punta_su_efficienza_e_autoconsumo_per_ridurre_la_bolletta-425631426/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-07T09:26:42.000Z",
         "excerpt": "Dalle offerte a prezzo fisso alle comunità energetiche, il gruppo rafforza le soluzioni per le famiglie. L’ad Quaglini: “Circa il 60% della bolletta è legato ai consumi”. Con fotovoltaico e accumulo l’autoconsumo può sup",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/112636981-41bc9885-853c-4884-b435-17c174064e4b.jpg"
-      },
-      {
-        "title": "“Trasporti e logistica, la filiera vale il 19% del Pil e attiva 4,67 milioni di occupati”",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/federtrasporto_trasporti_logistica_studio_pil_occupazione-425631346/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-07T08:55:49.000Z",
-        "excerpt": "Lo studio di Federtrasporto stima in 341 miliardi di euro il valore aggiunto generato direttamente, indirettamente e dai consumi collegati. Le statistiche ufficiali fotografano soltanto una parte del sistema. Colombo: “N",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/105405768-cf430c1b-df2b-4394-bdbb-eb49092585ff.jpg"
       },
       {
         "title": "Bonus affitti per genitori separati, partono le domande",
@@ -313,7 +313,7 @@
         "link": "https://www.ilsole24ore.com/art/allarme-peste-russia-trump-a-breve-parlero-putin-pressione-usa-mosca-AJowdhbB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-07T05:28:00.000Z",
-        "excerpt": "Non si chiude il caso del grave incidente accaduto in Siberia dove una ricercatrice ventottenne è morta di peste polmonare pochi giorni dopo aver rotto una provetta contenente il batterio.<a...",
+        "excerpt": "Non si chiude il caso del grave incidente accaduto il 2 ottobre in Siberia dove una ricercatrice ventottenne è morta di peste polmonare pochi giorni dopo aver rotto una provetta...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/2026-10-06T130717Z_592516802_RC2XWNA0RYGP_RTRMADP_5_RUSSIA-SIBERIA-PLAGUE-FACTS-U27000026370LUZ-1440x752@IlSole24Ore-Web.JPG"
       },
       {
@@ -391,6 +391,14 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Hamas, '7 ottobre giornata gloriosa per la storia del nostro popolo'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/07/hamas-7-ottobre-giornata-gloriosa-per-la-storia-del-nostro-popolo_2756ed18-671b-42b7-b027-f3bc20eea652.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-07T11:55:38.000Z",
+        "excerpt": "'Infranto il mito dell'esercito invincibile'",
+        "image": null
+      },
       {
         "title": "Okinawa, marine Usa accusato di aver derubato e ucciso una donna: coprifuoco nella base e stop alcol",
         "link": "https://www.repubblica.it/esteri/2026/10/07/news/giappone_okinawa_marine_usa_uccide_donna_proteste_coprifuoco_base_stop_alcol-425631764/?rss",
@@ -477,14 +485,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-07T10:13:47.000Z",
         "excerpt": "",
-        "image": null
-      },
-      {
-        "title": "Bolsonaro, 'Brasile da redemocratizzare, se vinco cambio la Costituzione'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/bolsonaro-brasile-da-redemocratizzare-se-vinco-cambio-la-costituzione_e0de6de3-6b94-4335-bd42-72fd1118f695.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-07T10:12:16.000Z",
-        "excerpt": "Il candidato di destra punta ad allargare le alleanze nel Congresso",
         "image": null
       },
       {
@@ -587,6 +587,14 @@
   },
   "attualita": [
     {
+      "title": "Camion e bus, Salvini apre al lavoro fino a 70 anni: “Ma controlli medici su autisti ogni 24 mesi”",
+      "link": "https://www.repubblica.it/economia/2026/10/07/news/camion_e_bus_salvini_apre_al_lavoro_fino_a_70_anni_ma_controlli_medici_su_autisti_ogni_24_mesi-425631826/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T11:54:03.000Z",
+      "excerpt": "Il ministro dei Trasporti annuncia una misura volontaria per consentire ai conducenti di merci e passeggeri di restare in servizio più a lungo. Giorgetti: “Caro energia sottrarrà punti di Pil per lo 0,2%. Cantieri per fe",
+      "image": null
+    },
+    {
       "title": "Presidenza Ue: 'Necessaria la tassazione degli extra-profitti delle società energetiche'",
       "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/10/07/presidenza-ue-necessaria-la-tassazione-degli-extra-profitti-delle-societa-energetiche_aec3d289-d012-499b-932a-079473f2c4b3.html",
       "source": "ANSA",
@@ -619,11 +627,11 @@
       "image": null
     },
     {
-      "title": "È morta Barbara Spinelli, giornalista ed europarlamentare",
+      "title": "È morta Barbara Spinelli, giornalista ed europarlamentare. Fu tra i fondatori di Repubblica",
       "link": "https://www.repubblica.it/cultura/2026/10/07/news/barbara_spinelli_morta_giornalista_ed_europarlamentare-425631687/",
       "source": "Repubblica",
       "pubDate": "2026-10-07T10:52:44.000Z",
-      "excerpt": "Figlia di Altiero Spinelli, padre ispiratore dell’Unione europea, è stata tra i fondatori di Repubblica. Aveva 80 anni",
+      "excerpt": "Figlia di Altiero Spinelli, padre ispiratore dell’Unione europea, aveva ottant’anni. Una carriera brillante come cronista ed editorialista, poi il passaggio in politica",
       "image": null
     },
     {
@@ -631,7 +639,7 @@
       "link": "https://www.repubblica.it/cronaca/2026/10/07/news/premio_nobel_chimica_2026_henri_kagan_kenso_soai-425631505/",
       "source": "Repubblica",
       "pubDate": "2026-10-07T09:50:30.000Z",
-      "excerpt": "Le molecole hanno sempre due forme simmetriche: come le mani destra e sinistra. Nei viventi, misteriosamente, si ritrovano però molecole di una forma sola. Anche i farmaci devono rispettare questa simmetria, per non esse",
+      "excerpt": "Le molecole possono avere due forme simmetriche: come le mani destra e sinistra. Nei viventi, misteriosamente, si ritrovano però molecole di una forma sola. Anche i farmaci devono rispettare questa simmetria, come insegn",
       "image": null
     },
     {
@@ -680,14 +688,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-07T08:17:51.000Z",
       "excerpt": "",
-      "image": null
-    },
-    {
-      "title": "L’Erasmus calcistico, il Psg e la Fiorentina. Chi è Ndour, diventato stella con il gol da 75 metri",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/10/07/news/ndour_gol_ritratto-425631117/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T08:10:45.000Z",
-      "excerpt": "Adocchiato fin da adolescente dalle big di mezza Europa, torna sotto i riflettori dopo il gol prodezza contro la Polonia U21",
       "image": null
     },
     {
