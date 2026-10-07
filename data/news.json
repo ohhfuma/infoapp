@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T01:11:17.331Z",
+  "lastUpdated": "2026-10-07T01:42:26.932Z",
   "finanza": {
     "italia": [
       {
@@ -128,7 +128,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-06T21:29:12.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM431CY_150x108_S.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg"
       },
       {
         "title": "Inflazione, botta e risposta Ue-Tesoro: “All’Ecofin non si parla di flessibilità”. “Ne discuteremo”",
@@ -392,12 +392,52 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Wsj: 'Washington preme su Mosca, serve nota ufficiale sul decesso legato alla peste'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/07/wsj-washington-preme-su-mosca-serve-nota-ufficiale-sul-decesso-legato_fc6f0fe5-5e6b-47ad-aad5-f3d5dc975c24.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-07T01:23:23.000Z",
+        "excerpt": "La Russia ha fornito finora 'scarse informazioni sul misterioso episodio'",
+        "image": null
+      },
+      {
+        "title": "Wsj: 'Washington preme su Mosca, serve nota ufficiale sul decesso legato alla peste'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/wsj-washington-preme-su-mosca-serve-nota-ufficiale-sul-decesso-legato_9f0c1fdb-23f4-4ee2-a793-09b293c17a98.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-07T01:23:10.000Z",
+        "excerpt": "La Russia ha fornito finora 'scarse informazioni sul misterioso episodio'",
+        "image": null
+      },
+      {
+        "title": "Record del Messico nelle importazioni Usa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/record-del-messico-nelle-importazioni-usa_d15836c1-cee5-42cd-9cf2-54680eab4c1c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-07T01:11:10.000Z",
+        "excerpt": "Raddoppiata la quota della Cina nei primi otto mesi del 2026",
+        "image": null
+      },
+      {
         "title": "Bolivia, dalla Caf 224 milioni di dollari per la rete stradale",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/bolivia-dalla-caf-224-milioni-di-dollari-per-la-rete-stradale_2101d3af-b352-416d-aff8-b12b3a008d2d.html",
         "source": "ANSA Mondo",
         "pubDate": "2026-10-07T01:08:50.000Z",
         "excerpt": "La Banca di sviluppo dell'America Latina e dei Caraibi punta a riattivare 469 km",
         "image": null
+      },
+      {
+        "title": "L'oro trattiene i guadagni man mano che i flussi di petrolio si riprendono, i rendimenti del Tesoro",
+        "link": "https://www.investing.com/news/commodities-news/gold-holds-gains-as-oil-flows-recover-treasury-yields-ease-4935492",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-07T01:00:12.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/Gold_800x533_L_1609947477.jpg"
+      },
+      {
+        "title": "I prezzi del petrolio aumentano mentre tempeste e attacchi aerei minacciano l'offerta",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-storms-and-air-strikes-threaten-supply-4935487",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-07T00:54:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9601U_L.jpg"
       },
       {
         "title": "I prezzi del petrolio aumentano mentre persistono i nervosismi dell'offerta di M.East",
@@ -528,14 +568,6 @@
         "image": null
       },
       {
-        "title": "Venezuela, quattro detenuti tra i 63 e i 72 anni morti in carcere in appena 12 giorni",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/06/venezuela-quattro-detenuti-tra-i-63-e-i-72-anni-morti-in-carcere-in-appena-12-giorni_eb06b85f-5acf-4f55-acd9-ee78efee92cb.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T21:28:13.000Z",
-        "excerpt": "L'Osservatorio delle prigioni denuncia carenze sanitarie e chiede verifiche sui decessi",
-        "image": null
-      },
-      {
         "title": "L'oro sale leggermente mentre il dollaro si allenta e le obbligazioni raccolgono un'offerta, ma i guadagni sono limitati dal petrolio",
         "link": "https://www.investing.com/news/commodities-news/gold-holds-near-4140-as-dollar-yields-offset-lower-fed-hike-expectations-4933176",
         "source": "Investing.com Commodities",
@@ -544,44 +576,12 @@
         "image": "https://content-media.investing.com/news/LYNXNPEB880JW_M.jpg"
       },
       {
-        "title": "Due iniezioni letali, Christa Pike ha ripreso conoscenza e parla",
-        "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/06/due-iniezioni-letali-christa-pike-ha-ripreso-conoscenza-e-parla_bce4583f-1380-494d-b431-921fe2f8c54a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T21:21:56.000Z",
-        "excerpt": "Il legali della condannata a morte in Tennessee: uno sviluppo \"senza precedenti\"",
-        "image": null
-      },
-      {
-        "title": "Christa Pike ha ripreso conoscenza e parla",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/06/christa-pike-ha-ripreso-conoscenza-e-parla_dec8773c-4ac1-4497-a2fb-91e2941d0b81.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-06T21:19:50.000Z",
-        "excerpt": "Amanettata in ospedale, per gli avvocati un caso \"senza precedenti\"",
-        "image": null
-      },
-      {
         "title": "I prezzi del petrolio salgono mentre il miglioramento dei flussi in Medio Oriente viene contrastato dagli attacchi di Hormuz",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-markets-weigh-aramco-price-cuts-meast-supplies-4933124",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-06T19:56:59.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM3N196_1200_L.jpg"
-      },
-      {
-        "title": "Trump dice che la sua amministrazione sta pensando di sospendere la tassa federale sul gas",
-        "link": "https://www.investing.com/news/commodities-news/trump-says-his-administration-is-thinking-about-suspending-federal-gas-tax-4935121",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-06T19:30:12.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB1P0P1_M.jpg"
-      },
-      {
-        "title": "Rame intrappolato nella gamma $6,60-$6,74: Breakout guarda dal vivo",
-        "link": "https://www.investing.com/news/commodities-news/copper-rebounds-off-6568-support-with-oversold-mfi-live-levels-93CH-4931128",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-06T19:20:29.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED1K1IU_M.jpg"
       }
     ]
   },
