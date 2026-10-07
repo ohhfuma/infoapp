@@ -1,7 +1,103 @@
 {
-  "lastUpdated": "2026-10-07T09:10:13.939Z",
+  "lastUpdated": "2026-10-07T09:43:35.430Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Aci, a settembre ogni 100 auto nuove vendute 213 usate",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/aci-a-settembre-ogni-100-auto-nuove-vendute-213-usate_bf799612-61a7-42b5-a280-82a6b93636c2.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T09:36:01.000Z",
+        "excerpt": "In 9 mesi i passaggi di proprietà risultano in lieve calo per le autovetture",
+        "image": null
+      },
+      {
+        "title": "Salvini, 'obiettivo mobilitare circa 10 miliardi per il Piano casa'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/salvini-obiettivo-mobilitare-circa-10-miliardi-per-il-piano-casa_270df5ef-1f43-4f34-b235-008e621f4549.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T09:35:37.000Z",
+        "excerpt": "'Il piano lo si attendava da 50 anni'",
+        "image": null
+      },
+      {
+        "title": "Edison Energia punta su efficienza e autoconsumo per ridurre la bolletta",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/storie/2026/10/07/news/edison_energia_punta_su_efficienza_e_autoconsumo_per_ridurre_la_bolletta-425631426/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-07T09:26:42.000Z",
+        "excerpt": "Dalle offerte a prezzo fisso alle comunità energetiche, il gruppo rafforza le soluzioni per le famiglie. L’ad Quaglini: “Circa il 60% della bolletta è legato ai consumi”. Con fotovoltaico e accumulo l’autoconsumo può sup",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/112636981-41bc9885-853c-4884-b435-17c174064e4b.jpg"
+      },
+      {
+        "title": "Azioni Remy Cointreau in rialzo del 3,7% grazie alle vendite USA",
+        "link": "https://it.investing.com/news/stock-market-news/azioni-remy-cointreau-in-rialzo-del-37-grazie-alle-vendite-usa-93CH-3577627",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:22:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+      },
+      {
+        "title": "Federalberghi all'attacco sugli affitti brevi, 'ecco i numeri della Shadow Economy'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/federalberghi-allattacco-sugli-affitti-brevi-ecco-i-numeri-della-shadow-economy_072749b6-0be5-4e86-b9bf-68a0b2f6090c.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-07T09:21:00.000Z",
+        "excerpt": "'Non è vero che sono dove c'è carenza offerta, la maggior parte a Roma, Milano, Firenze'",
+        "image": null
+      },
+      {
+        "title": "Le azioni dei costruttori auto UE salgono: Bruxelles prepara un tetto alle importazioni di ibridi cinesi",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-dei-costruttori-auto-ue-salgono-bruxelles-prepara-un-tetto-alle-importazioni-di-ibridi-cinesi-3577618",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:15:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC720M6_M.jpg"
+      },
+      {
+        "title": "Citi: la spesa nel lusso USA cala del 6% a settembre",
+        "link": "https://it.investing.com/news/stock-market-news/citi-la-spesa-nel-lusso-usa-cala-del-6-a-settembre-93CH-3577578",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:12:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
+      },
+      {
+        "title": "Musk esclude TSMC da Terafab; Intel guadagna terreno",
+        "link": "https://it.investing.com/news/stock-market-news/musk-esclude-tsmc-da-terafab-intel-guadagna-terreno-3577574",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:10:34.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
+        "title": "Borsa Milano, in calo con Europa con rialzo greggio e rendimenti bond, giù banche e tech",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-in-calo-con-europa-con-rialzo-greggio-e-rendimenti-bond-giu-banche-e-tech-3577568",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:08:57.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM960OT_L.jpg"
+      },
+      {
+        "title": "Borse europa in calo dopo tre giorni di rialzo su aumento prezzi greggio, rendimenti",
+        "link": "https://it.investing.com/news/stock-market-news/borse-europa-in-calo-dopo-tre-giorni-di-rialzo-su-aumento-prezzi-greggio-rendimenti-3577567",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:08:41.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM960OU_L.jpg"
+      },
+      {
+        "title": "Borsa Milano, Ieg cede 15% dopo Abb, titolo si riallinea al prezzo del placement",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-ieg-cede-15-dopo-abb-titolo-si-riallinea-al-prezzo-del-placement-3577566",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:08:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM960OZ_L.jpg"
+      },
+      {
+        "title": "Le azioni di Novavax e Moderna scendono dopo i timori sulla peste",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-novavax-e-moderna-scendono-dopo-i-timori-sulla-peste-93CH-3577564",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-07T09:07:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      },
       {
         "title": "Codacons, in due giorni pieno gasolio rincara di 1 euro",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/codacons-in-due-giorni-pieno-gasolio-rincara-di-1-euro_81cb8566-de66-474e-be54-f1f34d50ab9d.html",
@@ -35,35 +131,11 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/AdobeStock_488547171-U56144818025onw-1440x752@IlSole24Ore-Web.jpeg"
       },
       {
-        "title": "Goldman promuove Reckitt: mercati emergenti e nuovi prodotti trainano la crescita",
-        "link": "https://it.investing.com/news/stock-market-news/goldman-promuove-reckitt-mercati-emergenti-e-nuovi-prodotti-trainano-la-crescita-3577519",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T08:48:43.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB1Q06W_M.jpg"
-      },
-      {
-        "title": "Federtrasporto, trasporti e logistica pilastro, valgono 19% del Pil",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/federtrasporto-trasporti-e-logistica-pilastro-valgono-19-del-pil_9f2a5b0e-232e-4340-a023-042ad0879cce.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T08:43:05.000Z",
-        "excerpt": "Il valore aggiunto attivato dal macro-settore è di 341 miliardi",
-        "image": null
-      },
-      {
         "title": "Confcommercio, Misery index settembre sale a 12,2, valore più alto dal 2024",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/confcommercio-misery-index-settembre-sale-a-122-valore-piu-alto-dal_9374be75-f7a4-495b-8bd9-32c0380b998d.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-07T08:40:37.000Z",
         "excerpt": "Sale di 0,4 punti su agosto per l'accelerazione dei prezzi",
-        "image": null
-      },
-      {
-        "title": "Mimit, prezzo benzina self scende a 2,040 euro, gasolio sale a 2,261",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/mimit-prezzo-benzina-self-scende-a-2040-euro-gasolio-sale-a-2261_04b342ac-ab89-4c5a-ae2f-6d7ba8192c6a.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T08:39:35.000Z",
-        "excerpt": "In autostrada gasolio venduto in media a 2,287 euro",
         "image": null
       },
       {
@@ -83,38 +155,6 @@
         "image": null
       },
       {
-        "title": "Transsion cerca fino a 428 milioni di dollari con un’offerta azionaria a Hong Kong",
-        "link": "https://it.investing.com/news/stock-market-news/transsion-cerca-fino-a-428-milioni-di-dollari-con-unofferta-azionaria-a-hong-kong-3577486",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T08:36:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB660A4_M.jpg"
-      },
-      {
-        "title": "Perché il titolo di Space Exploration Technologies scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-space-exploration-technologies-scende-oggi-93CH-3577484",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T08:35:45.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Brent oltre i 102 dollari con i nuovi attacchi nello Stretto di Hormuz",
-        "link": "https://it.investing.com/news/stock-market-news/brent-oltre-i-102-dollari-con-i-nuovi-attacchi-nello-stretto-di-hormuz-3577483",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T08:35:04.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
-      },
-      {
-        "title": "UBS prevede ulteriori guadagni per le azioni europee nonostante tassi e prezzi energetici più alti",
-        "link": "https://it.investing.com/news/stock-market-news/ubs-prevede-ulteriori-guadagni-per-le-azioni-europee-nonostante-tassi-e-prezzi-energetici-piu-alti-3577493",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T08:32:41.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
-      },
-      {
         "title": "L’allarme del Fmi: “Economia mondiale incerta tra shock energia e IA. Servono azioni sul debito”",
         "link": "https://www.repubblica.it/economia/2026/10/07/news/fmi_rischi_energia_ia_debito-425631207/?rss",
         "source": "Repubblica Economia",
@@ -131,44 +171,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/093359326-49740db2-165e-4108-b498-43c633d9ef2b.jpg"
       },
       {
-        "title": "Lo Stato olandese ridurrà la quota in ABN Amro dal 20,7% al 10,5%",
-        "link": "https://it.investing.com/news/stock-market-news/lo-stato-olandese-ridurra-la-quota-in-abn-amro-dal-207-al-105-93CH-3577455",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T08:27:08.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
-      },
-      {
-        "title": "Perché il titolo di BE Semiconductor Industries crolla oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-be-semiconductor-industries-crolla-oggi-93CH-3577451",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T08:22:33.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
-      },
-      {
-        "title": "La Malesia presenterà il budget 2027 venerdì tra voci di elezioni anticipate",
-        "link": "https://it.investing.com/news/stock-market-news/la-malesia-presentera-il-budget-2027-venerdi-tra-voci-di-elezioni-anticipate-93CH-3577450",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T08:22:29.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
-      },
-      {
         "title": "Mattarella: il 7 ottobre monito contro l’odio su base etnica e religiosa",
         "link": "https://www.ilsole24ore.com/art/mattarella-7-ottobre-monito-contro-l-odio-base-etnica-o-religiosa-AJzMFpbB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-07T08:20:00.000Z",
         "excerpt": "In coincidenza con l’anniversario degli attentati del 7 ottobre 2023 compiuti da Hamas il Capo dello Stato, Sergio Mattarella, lancia un monito «affinché siano per sempre condannate e respinte con...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/ilsolematera_20261007101645498_f82eb4380d8b9201eeef81c19c0330ca-U83012210682lgX-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Borsa: l'Europa in rosso con i bond, Milano maglia nera (-1,4%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-leuropa-in-rosso-con-i-bond-milano-maglia-nera-14_d2c28757-20e6-459e-80e3-17394dbd9d66.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T08:16:43.000Z",
-        "excerpt": "Il rendimento del Btp al 4,61%, lo spread risale a 113. Avanza il petrolio",
-        "image": null
       },
       {
         "title": "Far crescere il Pil non basta più. Contro la povertà, un’economia diversamente competitiva",
@@ -243,14 +251,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/213816451-8369f1fb-3820-482d-908d-9d1b2b2173a0.jpg"
       },
       {
-        "title": "Cedole crescenti in tre tappe per il nuovo Btp valore, addio al premio fedeltà",
-        "link": "https://www.repubblica.it/economia/2026/10/07/news/btp_valore_cedole_crescenti_premio_fedelta-425630688/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-06T23:00:00.000Z",
-        "excerpt": "Il Tesoro comunica i primi dettagli. Il titolo gemello “Insieme” invece distribuirà gli interessi in un’unica soluzione",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/06/234529452-7f2d7b0b-496d-4186-80c8-e020454b40ee.jpg"
-      },
-      {
         "title": "Pensioni dei militari, l’Usmia: «Dal 2032 è allarme per i  contributivi puri». Ecco il perché e le simulazioni   ",
         "link": "https://www.ilsole24ore.com/art/pensioni-militari-l-usmia-dal-2032-e-allarme-i-contributivi-puri-ecco-perche-e-simulazioni-AJ5VxjaB",
         "source": "Il Sole 24 Ore",
@@ -261,12 +261,20 @@
     ],
     "europa": [
       {
-        "title": "Ucraina in fiamme per il compleanno di Putin: 11 morti. Nato in visita a Kiev",
+        "title": "Guerra ultime notizie. Raid Idf in Cisgiordania: arresti e interrogatori. Rubio: «Iran ha perso il controllo di Hormuz»",
+        "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-raid-idf-cisgiordania-arresti-e-interrogatori-rubio-iran-ha-perso-controllo-hormuz-AJThAubB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-07T09:33:00.000Z",
+        "excerpt": "Durante la notte l’Idf ha lanciato diverse operazioni in tutta la Cisgiordania durante la notte, arrestando e interrogando decine di sospettati ricercati, accusati di coinvolgimento in attività terroristiche e incitament",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/2026-10-07T061657Z_232577676_RC25YNA2XG4D_RTRMADP_5_ISRAEL-PALESTINIANS-NABLUS-RAID-U64580787303qBH-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Ucraina in fiamme per il compleanno di Putin: 15 morti. Nato in visita a Kiev",
         "link": "https://www.ilsole24ore.com/art/ucraina-fiamme-il-compleanno-putin-11-morti-nato-visita-kiev-AJLf9mbB",
         "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-07T07:59:02.000Z",
+        "pubDate": "2026-10-07T07:59:00.000Z",
         "excerpt": "Attacchi con missili e droni da Kiev a Chernihiv. Il Comitato Militare dell’Alleanza Atlantica, intanto, arriva nella Capitale",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/2026-10-07T070158Z_1481665815_RC26YNABKFCM_RTRMADP_5_UKRAINE-CRISIS-ATTACK-KYIV-U72854818787FJV-1440x752@IlSole24Ore-Web.JPG"
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/2026-10-07T090521Z_249833632_RC28YNABWKGL_RTRMADP_5_UKRAINE-CRISIS-ATTACK-PRYLUKY-U72854818787FJV-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "SpaceX punta a raccogliere 40 miliardi per comprare chip Nvidia",
@@ -315,14 +323,6 @@
         "pubDate": "2026-10-06T20:18:23.000Z",
         "excerpt": "Il Parlamento è stato sciolto ma il governo insiste sui decreti per bloccare affitti e sfratti. Sulle elezioni piomba la questione catalana:via libera dei giudici al ritorno in patria di Puigdemont",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/2026-10-03T173455Z_1717174846_RC2SVNAN6SPE_RTRMADP_5_SPAIN-HOUSING-PROTEST-U70757233008Eng-1440x752@IlSole24Ore-Web.JPG"
-      },
-      {
-        "title": "Traumi infantili, l’allarme dell’Oms: colpiscono 2 giovani su 3 e pesano su salute ed economia",
-        "link": "https://www.ilsole24ore.com/art/traumi-infantili-l-allarme-dell-oms-colpiscono-2-giovani-3-e-pesano-salute-ed-economia-AJAAI9aB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-06T19:52:04.000Z",
-        "excerpt": "L’ufficio regionale europeo dell’Organizzazione mondiale della sanità (Oms) ha condotto uno studio – in collaborazione con la Liverpool John Moores University – sul fenomeno delle esperienze avverse vissute in età...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/07/Immagini/Ritagli/AdobeStock_36656420-U44018600448uHF-1440x752@IlSole24Ore-Web.jpeg"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -590,8 +590,32 @@
       "title": "Israele ricorda il 7 ottobre, il fallimento al centro delle elezioni",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/04/israele-ricorda-il-7-ottobre-il-fallimento-al-centro-delle-elezioni_514950f2-d75c-4343-925e-b96c77b04ce8.html",
       "source": "ANSA",
-      "pubDate": "2026-10-07T08:58:00.000Z",
+      "pubDate": "2026-10-07T09:26:04.000Z",
       "excerpt": "Il Paese si è spostato a destra, pochi credono che il terrorismo sia sconfitto",
+      "image": null
+    },
+    {
+      "title": "La nuova tendenza in Corea del Sud è lo sleep maxxing",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/10/07/la-nuova-tendenza-in-corea-del-sud-e-lo-sleep-maxxing_17d93d54-3762-4f12-b4ae-a55c38913ab0.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-07T09:25:29.000Z",
+      "excerpt": "Sempre più concentrati su qualità del riposo tra smartwatch, mascherine e rituali serali",
+      "image": null
+    },
+    {
+      "title": "Oggi i vincitori del Nobel per la Chimica",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/10/05/oggi-i-vincitori-del-nobel-per-la-chimica_f8f2b9cf-0b31-40e4-a001-c9e5a57670a5.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-07T09:03:47.000Z",
+      "excerpt": "",
+      "image": null
+    },
+    {
+      "title": "America Latina, la svolta a destra",
+      "link": "https://www.repubblica.it/esteri/2026/10/07/news/america_latina_svolta_destra_mappa-425631377/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T09:02:28.000Z",
+      "excerpt": "Dal Venezuela al Brasile, passando per Argentina, Honduras e Colombia: la mappa è una colata di blu. La strategia di Trump e Rubio ha spinto Washington a rafforzare la propria influenza sulla regione",
       "image": null
     },
     {
@@ -611,19 +635,11 @@
       "image": null
     },
     {
-      "title": "++ Gimbe, 18,8 miliardi di tagli invisibili alla sanità tra 2023 e 2026 ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/07/gimbe-188-miliardi-di-tagli-invisibili-alla-sanita-tra-2023-e-2026_f6df953e-7566-4227-9137-70e5a0db51aa.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-07T08:54:54.000Z",
-      "excerpt": "Per prossimo triennio servono 32 miliardi, Cartabellotta: \"rischiano di pagare cittadini\"",
-      "image": null
-    },
-    {
       "title": "Gimbe, la sanità pubblica perde 18,8 miliardi: crescono costi, assicurazioni e rinunce alle cure",
       "link": "https://www.repubblica.it/cronaca/2026/10/07/news/sanita-gimbe-tagli-miliardi-mancati-finanziamenti-425631314/",
       "source": "Repubblica",
       "pubDate": "2026-10-07T08:44:50.000Z",
-      "excerpt": "Le cifre disegnano un sistema sotto pressione: aumentano i costi dell'assistenza, le Regioni faticano a coprire la spesa e milioni di italiani rinunciano a visite ed esami, mentre il personale sanitario resta insufficien",
+      "excerpt": "Le cifre disegnano un sistema sotto pressione: aumentano i costi dell'assistenza, le Regioni faticano a coprire la spesa e milioni di italiani non fanno visite ed esami, mentre il personale sanitario resta insufficiente",
       "image": null
     },
     {
@@ -648,14 +664,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-07T08:10:45.000Z",
       "excerpt": "Adocchiato fin da adolescente dalle big di mezza Europa, torna sotto i riflettori dopo il gol prodezza contro la Polonia U21",
-      "image": null
-    },
-    {
-      "title": "La nuova tendenza in Corea del Sud è lo sleep maxxing",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/10/07/la-nuova-tendenza-in-corea-del-sud-e-lo-sleep-maxxing_17d93d54-3762-4f12-b4ae-a55c38913ab0.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-07T07:57:38.000Z",
-      "excerpt": "Sempre più concentrati su qualità del riposo tra smartwatch, mascherine e rituali serali",
       "image": null
     },
     {
@@ -691,14 +699,6 @@
       "image": null
     },
     {
-      "title": "Inchiesta sulla morte di David Rossi: due verità, dopo 13 anni torna l'ombra dell'omicidio",
-      "link": "https://firenze.repubblica.it/cronaca/2026/10/07/news/david_rossi_inchiesta_caduta_siena_mps_commissione-425630203/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T05:01:00.000Z",
-      "excerpt": "2013, il corpo del capo della comunicazione di Mps viene trovato sotto la sede della banca a Siena. Per la magistratura fu suicidio, adesso la Commissione parlamentare punta a riscrivere la storia: tesi contrapposte che ",
-      "image": null
-    },
-    {
       "title": "Nel nuovo album 'le inedite eccedenze' di Mina",
       "link": "https://www.ansa.it/sito/notizie/cultura/2026/10/06/nel-nuovo-album-le-inedite-eccedenze-di-mina_0794112b-438d-47e9-bdcd-35fb3c4e0238.html",
       "source": "ANSA",
@@ -716,6 +716,22 @@
     }
   ],
   "sport": [
+    {
+      "title": "Alcaraz scrive a Sinner, 'testa alta, tornerai più forte'",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/07/alcaraz-scrive-a-sinner-testa-alta-tornerai-piu-forte_1662a94f-8313-43ee-a6d1-fce3e9526519.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-07T09:10:42.000Z",
+      "excerpt": "Oltre al commento dello spagnolo sui social, gli auguri tra gli altri di Cobolli e Vonn",
+      "image": null
+    },
+    {
+      "title": "Nazionali: media turchi, 'esonero in arrivo per Montella'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/07/nazionali-media-turchi-esonero-in-arrivo-per-montella_55d1ec00-4c53-4e7d-a3cd-af5cc67c20c8.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-07T09:03:31.000Z",
+      "excerpt": "Dopo le due sconfitte contro l'Italia e i modesti risultati ai Mondiali",
+      "image": null
+    },
     {
       "title": "Andrea Cassarà nominato ct della nazionale russa di fioretto",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/07/andrea-cassara-nominato-ct-della-nazionale-russa-di-fioretto_f7892b9c-f47e-4b14-9bc4-e543cd021779.html",
@@ -762,22 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-06T21:01:53.000Z",
       "excerpt": "Doppietta di Kane, festeggiato per la 125/a presenza in nazionale",
-      "image": null
-    },
-    {
-      "title": "Cristiano Ronaldo apre al ritorno in Nazionale e fa mea culpa",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/cristiano-ronaldo-chiede-scusa-e-si-dice-disponibile-a-tornare-in-nazionale_4105c13f-ac75-4caa-91db-1c8157e2a421.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-06T20:44:16.000Z",
-      "excerpt": "Lettera di Cr7 ai tifosi: 'Pronto a subire le giuste sanzioni', ma resta la ruggine con Jesus",
-      "image": null
-    },
-    {
-      "title": "Calcio: Mancini, un onore essere compagno e amico di Vialli",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/06/calcio-mancini-un-onore-essere-compagno-e-amico-di-vialli_0657abd3-9012-4cbf-ad07-fcb978a94b51.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-06T19:08:50.000Z",
-      "excerpt": "Il ct presente a Rimini al premio dedicato all'ex azzurro",
       "image": null
     }
   ]
