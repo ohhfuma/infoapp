@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T23:39:56.800Z",
+  "lastUpdated": "2026-10-08T00:11:27.173Z",
   "finanza": {
     "italia": [
       {
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Messico, vietata la doppia nazionalità per candidati alla presidenza della Repubblica",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/messico-vietata-la-doppia-nazionalita-per-candidati-alla-presidenza-della-repubblica_186fcb2c-808a-4567-859d-01a72301b138.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-07T23:57:28.000Z",
+        "excerpt": "La presidente Sheinbaum ha firmato il decreto di riforma costituzionale",
+        "image": null
+      },
+      {
         "title": "Brasile, la Polizia federale archivia l'indagine sulle presunte ingerenze Usa nel voto",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/brasile-la-polizia-federale-archivia-lindagine-sulle-presunte-ingerenze-usa-nel_96d3631e-a043-4a61-ac7b-bf01af62e78f.html",
         "source": "ANSA Mondo",
@@ -528,14 +536,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/184732058-7690c354-72b6-45d8-9800-d273a9011074.jpg"
       },
       {
-        "title": "Ex giudice Corte Suprema Venezuela, 'costretta a firmare l'interdizione di Machado'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/ex-giudice-corte-suprema-venezuela-costretta-a-firmare-linterdizione-di-machado_dd60df49-2bbe-49c3-81ec-a635d81faedb.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-07T18:33:11.000Z",
-        "excerpt": "Denuncia di Bárbara César Siero, 'hanno arrestato i miei familiari per obbligarmi'",
-        "image": null
-      },
-      {
         "title": "Sospetto secondo caso di morte per peste polmonare in Russia, il Cremlino smentisce. Trump: “Non pensiamo sia un’arma biologica”",
         "link": "https://www.repubblica.it/esteri/2026/10/07/news/secondo_caso_di_morte_peste_polmonare_in_russia_cremlino_smentisce_trump_non_pensiamo_sia_un_arma_biologica-425632727/?rss",
         "source": "Repubblica Esteri",
@@ -587,35 +587,67 @@
   },
   "attualita": [
     {
+      "title": "Timori sul premio al Senato.Rischio stop dalla Consulta. Il governo lavora al piano B",
+      "link": "https://www.repubblica.it/politica/2026/10/08/news/premio_di_maggioranza_meloni_consulta_governo-425633220/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T23:00:00.000Z",
+      "excerpt": "L’attuale listone di 35 senatori potrebbe ledere il principio sancito dall’articolo 57 della Carta",
+      "image": null
+    },
+    {
+      "title": "Melonellum, la destra tiene. Oggi il voto finale alla Camera, la premier pensa al blitz",
+      "link": "https://www.repubblica.it/politica/2026/10/08/news/legge_elettorale_melonellum_oggi_voto_finale_camera-425633193/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T23:00:00.000Z",
+      "excerpt": "Alle 12,30 attesa la conclusione della riforma in mattinata le dichiarazioni dei leader tensioni nella maggioranza, torneranno le vedette per controllare i deputati. Ieri bagarre sul caso Scarpinato tra FdI e i 5S che ac",
+      "image": null
+    },
+    {
+      "title": "Il partito trasversale del pareggio: “Il proporzionale riapre i giochi”",
+      "link": "https://www.repubblica.it/politica/2026/10/08/news/melonellum_consulta_partito_proporzionale_pareggio_giochi_riaperti-425633094/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T23:00:00.000Z",
+      "excerpt": "In Transatlantico cresce l’ala di chi spera in un intervento della Consulta per alzare o eliminare la cifra del 42 per cento",
+      "image": null
+    },
+    {
+      "title": "Magi: “Deputati controllati. Usiamo le palline nell’urna per garantire la segretezza”",
+      "link": "https://www.repubblica.it/politica/2026/10/08/news/riccardo_magi_legge_elettorale_fiducia_intervista-425633200/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T23:00:00.000Z",
+      "excerpt": "Il segretario di +Europa: “Svilità la dignità degli eletti. La premier ha chiesto della mia salute, a me interessa quella della democrazia. Oggi interrompo il digiuno”",
+      "image": null
+    },
+    {
+      "title": "Grosso: “Melonellum incostituzionale, trasforma una minoranza di voti in una maggioranza di seggi”",
+      "link": "https://www.repubblica.it/politica/2026/10/08/news/enrico_grosso_melonellum_incostituzionale_intervista-425633100/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T23:00:00.000Z",
+      "excerpt": "Il costituzionalista: “Con un’alta astensione, chi arriva al 42% rischiadi rappresentare poco più del 25% degli elettori: così si affida a chi vince una rappresentanza del 56%”",
+      "image": null
+    },
+    {
+      "title": "Il trilaterale in mensa tra Conte e i leader di Avs: le primarie nel menu",
+      "link": "https://www.repubblica.it/politica/2026/10/08/news/trilaterale_conte_bonelli_fratoianni_primarie-425633226/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T23:00:00.000Z",
+      "excerpt": "Pranzo alla Camera per il capo del M5s con Fratoianni e Bonelli. Sul tavolo la scelta del candidato premier e i tempi per i gazebo",
+      "image": null
+    },
+    {
+      "title": "Mancini: “Primarie, sfida evitabile. Serve una leadership forte. Gualtieri? Corre a Roma, per ora”",
+      "link": "https://www.repubblica.it/politica/2026/10/08/news/claudio_mancini_primarie_gualtieri_intervista-425633244/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-07T23:00:00.000Z",
+      "excerpt": "Il deputato dem: “Con il Melonellum sarà da superare il 42%. Adesso il blocco Pd-M5S-Avs è stimato tra il 36 e il 39. Occorre mobilitare i nostri e attrarre indecisi”",
+      "image": null
+    },
+    {
       "title": "Nuova tempesta sui titoli di Stato. L’Fmi: per i governi scelte difficili",
       "link": "https://www.repubblica.it/economia/2026/10/08/news/nuova_tempesta_sui_titoli_di_stato_l_fmi_per_i_governi_scelte_difficili-425633248/",
       "source": "Repubblica",
       "pubDate": "2026-10-07T23:00:00.000Z",
       "excerpt": "Effetto negativo anche sulle Borse. Milano è la peggiore in Europa, il Ftse Mib sotto 50mila punti",
-      "image": null
-    },
-    {
-      "title": "Gasolio, pressing di palazzo Chigi per tornare al tetto Eni ed evitare il taglio accise",
-      "link": "https://www.repubblica.it/economia/2026/10/08/news/gasolio_tetto_eni_governo_taglio_accise-425633153/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T23:00:00.000Z",
-      "excerpt": "Contatti tra il governo e il colosso petrolifero per il ripristino dei 2,19 euro del diesel. Forti rincari specie tra i piccoli distributori",
-      "image": null
-    },
-    {
-      "title": "La premier Meloni vede Ursula: “Spiragli sulla flessibilità ma il percorso è lungo”",
-      "link": "https://www.repubblica.it/economia/2026/10/08/news/meloni_vede_von_der_leyen_flessibilita_trattativa_ue-425633125/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T23:00:00.000Z",
-      "excerpt": "A Spalato la leader italiana cerca anche la sponda di Macron contro il muro dei frugali. Via libera alla clausola su energia e difesa",
-      "image": null
-    },
-    {
-      "title": "L’economista Nicolazzi: “Pochi margini per le raffinerie per aumentare la produzione”",
-      "link": "https://www.repubblica.it/economia/2026/10/08/news/intervista_massimo_nicolazzi_petrolio_raffinerie_diesel-425632802/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T23:00:00.000Z",
-      "excerpt": "Parla l’ex manager di Eni e Lukoil: “Se anche gli impianti italiani riuscissero a lavorare il 10% in più di greggio l’impatto sui prezzi sarebbe ininfluente”",
       "image": null
     },
     {
@@ -635,14 +667,6 @@
       "image": null
     },
     {
-      "title": "A Padova il ‘tribunale islamico’: “Giudicheremo con la Sharia”. Insorgono Lega e Fn",
-      "link": "https://www.repubblica.it/cronaca/2026/10/07/news/camera_arbitrale_islamica_padova_polemiche_lega_fn-425633007/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T19:29:21.000Z",
-      "excerpt": "La camera arbitraria islamica è nata il 3 marzo e serve a “risolvere controversie civili e commerciali in conformità con i principi della Sharia”",
-      "image": null
-    },
-    {
       "title": "Per Vasco a Salerno il dottorato honoris causa: 'Le parole arma potente' ",
       "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/10/07/per-vasco-rossi-dottorato-honoris-causa-delluniversita-di-salerno_0bc893dd-3097-4691-9aa2-6c68b16bbf67.html",
       "source": "ANSA",
@@ -656,30 +680,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-07T18:55:38.000Z",
       "excerpt": "L'Eni abbassa il prezzo del diesel. Il governo valuta l'intervento",
-      "image": null
-    },
-    {
-      "title": "“Io, autore del falso Eco: ecco perché l’ho fatto. Insegno, creare fake coi ragazzi li aiuta”",
-      "link": "https://bologna.repubblica.it/cronaca/2026/10/07/news/bustina_minerva_eco_fake_ciro_ascione-425632908/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T18:53:12.000Z",
-      "excerpt": "La “bustina di Minerva” attribuita al celebre prof che insegnava a Bologna, apparsa in rete il primo ottobre e diventata virale, è stata realizzata da Ciro Ascione in dialogo con ChatGpt. Lui è citato anche su Wikipedia:",
-      "image": null
-    },
-    {
-      "title": "Spagna, è morta Maricarmen: simbolo della protesta per la casa",
-      "link": "https://www.repubblica.it/esteri/2026/10/07/news/spagna_maricarmen_morta_sfratto_simbolo_lotta_casa-425632884/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T18:39:51.000Z",
-      "excerpt": "Le condoglianze del premier Sánchez: “Sentiamo la sua perdita come nostra”. La donna, 87 anni, invalida, era stata sfrattata dalla sua abitazione a Madrid il 23 settembre. Per lei il Paese è sceso in piazza e le pression",
-      "image": null
-    },
-    {
-      "title": "Sospetto secondo caso di morte per peste polmonare in Russia, il Cremlino smentisce. Trump: “Non pensiamo sia un’arma biologica”",
-      "link": "https://www.repubblica.it/esteri/2026/10/07/news/secondo_caso_di_morte_peste_polmonare_in_russia_cremlino_smentisce_trump_non_pensiamo_sia_un_arma_biologica-425632727/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T17:49:05.000Z",
-      "excerpt": "Il presidente Usa: “A sentire loro la situazione è sotto controllo”. L’Oms chiede chiarimenti a Mosca: “La condivisione tempestiva, completa e trasparente delle informazioni, è fondamentale per chiarire notizie contrasta",
       "image": null
     },
     {
