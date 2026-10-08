@@ -4,6 +4,38 @@
   "finanza": {
     "italia": [
       {
+        "title": "BORSA MILANO - Indice FTSE Mib cede 1,35% in chiusura",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano--indice-ftse-mib-cede-135-in-chiusura-3580801",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T15:56:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM971LJ_L.jpg"
+      },
+      {
+        "title": "L'Eurogruppo avvia l'iter per il dopo Schnabel in Bce, candidature entro il 28 ottobre",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/leurogruppo-avvia-liter-per-il-dopo-schnabel-in-bce-candidature-entro-il-28-ottobre_db9a643d-9b72-4b07-bd31-86273fc421e8.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T15:56:19.000Z",
+        "excerpt": "Ministri torneranno sul dossier il 9 novembre. Sullo fondo il negoziato sui 'top job'",
+        "image": null
+      },
+      {
+        "title": "Borsa: l'Europa conclude debole, Francoforte -1,2%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-leuropa-conclude-debole-francoforte-12_ee895f8a-096b-4b2b-9942-5e28532ad99a.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T15:46:06.000Z",
+        "excerpt": "Giù Madrid (-1%), Parigi (-0,5%) e Londra (-0,2%). Amsterdam in lieve rialzo",
+        "image": null
+      },
+      {
+        "title": "Borsa: Milano chiude in ampio calo, Ftse Mib -1,35%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-milano-chiude-in-ampio-calo-ftse-mib-135_a42d9029-3255-4c37-8f5c-199f27ccf6fb.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T15:42:31.000Z",
+        "excerpt": "L'indice dei titoli principali di Piazza Affari a 49.297 punti",
+        "image": null
+      },
+      {
         "title": "Legge elettorale, il plauso di Meloni e la strategia: preparare il voto in primavera senza dirlo",
         "link": "https://www.ilsole24ore.com/art/il-plauso-meloni-e-strategia-preparare-voto-primavera-senza-dirlo-AJGkIXdB",
         "source": "Il Sole 24 Ore",
@@ -450,38 +482,6 @@
         "pubDate": "2026-10-08T12:44:00.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
-      },
-      {
-        "title": "Il titolo di Haemonetics balza del 17% grazie all’accordo con CSL Plasma",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-haemonetics-balza-del-17-grazie-allaccordo-con-csl-plasma-3580466",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T12:43:42.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3G1AZ_150x108_S.jpg"
-      },
-      {
-        "title": "Le azioni di Alphabet salgono mentre Google spinge Gemini nell’AI enterprise",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-alphabet-salgono-mentre-google-spinge-gemini-nellai-enterprise-3580454",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T12:41:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg"
-      },
-      {
-        "title": "Italia pronta a nuovi rilasci scorte petrolio se Paesi Ue rispettano impegni",
-        "link": "https://it.investing.com/news/stock-market-news/italia-pronta-a-nuovi-rilasci-scorte-petrolio-se-paesi-ue-rispettano-impegni-3580449",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T12:40:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9716K_L.jpg"
-      },
-      {
-        "title": "Vistra +15% in due sedute su nucleare e IA: 7 titoli USA con più margine",
-        "link": "https://it.investing.com/news/stock-market-news/vistra-15-in-due-sedute-su-nucleare-e-ia-7-titoli-usa-con-piu-margine-3580447",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T12:39:17.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM1118Q_1200_L.jpg"
       }
     ],
     "europa": [
@@ -1148,6 +1148,14 @@
   },
   "attualita": [
     {
+      "title": "Ceferin cambia idea. Tutte le federazioni lo sostengono e lui si ricandida a presidente dell’Uefa",
+      "link": "https://www.repubblica.it/sport/calcio/2026/10/08/news/ceferin_annuncio_candidatura_presidente_uefa-425634900/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T15:33:08.000Z",
+      "excerpt": "L’annuncio a Berlino. La rielezione il prossimo 22 aprile ad Astana",
+      "image": null
+    },
+    {
       "title": "Claudio Baglioni, sette concerti a Roma e il Grand Tour. “Ma ho avuto paura di non poter tornare”",
       "link": "https://www.repubblica.it/spettacoli/musica/2026/10/08/news/claudio_baglioni_concerti_roma-425634885/",
       "source": "Repubblica",
@@ -1618,17 +1626,33 @@
       "pubDate": "2026-10-08T04:00:00.000Z",
       "excerpt": "Cars will be removed, improving visitors’ access to the site. Ancient squares, such as Trajan’s Forum, will once again be accessible on foot",
       "image": null
-    },
-    {
-      "title": "Keith Haring: chalk, colour and the pulse of New York",
-      "link": "https://europe.repubblica.it/en/culture/2026/10/08/news/keith_haring_exhibition_rome-425632634/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-08T04:00:00.000Z",
-      "excerpt": "A major exhibition at the Museo di Roma celebrates the pop artist, on view until 11 April 2027",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: il Bologna ufficializza l'acquisto dello svincolato Darmian",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/serie-a-il-bologna-ufficializza-lacquisto-dello-svincolato-darmian_afedbfdc-6e8e-4ab3-8adc-fb4f6aa61079.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-08T15:56:27.000Z",
+      "excerpt": "Prenderà il posto in lista dell'infortunato Holm, contratto fino a 30 giugno",
+      "image": null
+    },
+    {
+      "title": "ParaTaekwondo: Bossolo non si ferma, terza medaglia di fila nel Grand Prix",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/08/parataekwondo-bossolo-non-si-ferma-terza-medaglia-di-fila-nel-grand-prix_5838ec9c-6cfa-47bd-beee-b2ddc9cd0f25.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-08T15:51:59.000Z",
+      "excerpt": "L'azzurro bronzo a Parigi, dove era salito sul podio olimpico",
+      "image": null
+    },
+    {
+      "title": "Serie A: McTominay, Spinazzola e Meret in gruppo, buone notizie per Allegri",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/serie-a-mctominay-spinazzola-e-meret-in-gruppo-buone-notizie-per-allegri_becc77cc-b0ea-4ea2-840c-38f626b45a59.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-08T15:39:49.000Z",
+      "excerpt": "Con la rivelazione Frosinone non escluso assetto tattico diverso dal 4-3-3",
+      "image": null
+    },
     {
       "title": "Hamilton: \"Singapore con la Sprint è una doppia sfida\"",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/08/hamilton-singapore-con-la-sprint-e-una-doppia-sfida_6cc98029-6464-4693-a0e0-35024f746a80.html",
