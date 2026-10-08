@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T23:08:37.262Z",
+  "lastUpdated": "2026-10-08T23:41:13.979Z",
   "finanza": {
     "italia": [
       {
@@ -24,7 +24,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-08T21:58:36.000Z",
         "excerpt": "",
-        "image": null
+        "image": "https://content-media.investing.com/news/LYNXMPEA6S0OV_M.jpg"
       },
       {
         "title": "Perché il titolo AT&T è crollato oggi?",
@@ -56,7 +56,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-08T21:54:07.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
       },
       {
         "title": "Perché il titolo di Alignment Healthcare crolla oggi?",
@@ -96,7 +96,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-08T21:07:59.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC6J1LC_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEC6J1LC_L.jpg"
       },
       {
         "title": "Kopin balza in borsa con contratto Army da 18,6 milioni",
@@ -392,6 +392,46 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Rabbia a Khan al Ahmar, dove muore la speranza dello Stato palestinese",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/cisgiordania_khan_al_ahmar_progetto_e1_colonie_stato_palestinese-425635563/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-08T23:00:00.000Z",
+        "excerpt": "Alla vigilia delle elezioni il governo spinge il progetto E1, il più avanzato per collegare le colonie a Gerusalemme. Rendendo difficile tornare indietro a chiunque verrà dopo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/214629378-ba7adc66-4b4e-461c-8698-66de20dd1c38.jpg"
+      },
+      {
+        "title": "L’ex segretario militare di Netanyahu: “Sul 7 ottobre fece una relazione falsa”",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/ex_segretario_militare_netanyahu_7_ottobre_relazione_falsa-425635373/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-08T23:00:00.000Z",
+        "excerpt": "Intervistato da un giornale israeliano, il generale Avi Gil conferma le accuse: “Aveva letto i rapporti dei servizi prima della strage”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/210544609-9fe469c4-7a05-4677-95a5-94681c294cee.jpg"
+      },
+      {
+        "title": "Missili degli Houthi su Riad. Colpito l’aeroporto, voli sospesi",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/missili_houthi_su_riad_colpito_aeroporto_voli_sospesi-425635367/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-08T23:00:00.000Z",
+        "excerpt": "Gli attacchi hanno fatto tre vittime e decine di feriti Turchia e Pakistan pronti a inviare aiuti difensivi alla monarchia sunnita",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/210518905-a1bc8cd0-a2b3-4f36-8026-af517abf6aa1.jpg"
+      },
+      {
+        "title": "Progetto del super jet, Londra invita Berlino",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/progetto_super_jet_gcap_regno_unito_italia_giappone_londra_invita_berlino-425635296/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-08T23:00:00.000Z",
+        "excerpt": "la proposta di Burnham a Merz. Al progetto Gcap per un caccia di sesta generazione partecipano anche Italia e Giappone",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/203234056-85b8f401-7418-4d3c-9c84-c9755aaec946.jpg"
+      },
+      {
+        "title": "Spagna, l’avvocata di Maricarmen: “La sua salute critica da subito, chiaro l’impatto dello sfratto”",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/spagna_avvocata_beatriz_duro_intervista_maricarmen_morta_impatto_sfratto_salute-425635148/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-08T23:00:00.000Z",
+        "excerpt": "Beatriz Duro, legale dell’anziana sfrattata a Madrid e morta mercoledì sera in ospedale: “Era venuta a conoscenza dell’accordo che le avrebbe permesso di tornare a casa e il rammarico è che questo non sia stato possibile",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/191443376-4ebcb251-e7d4-4b97-955e-30ff2fbe8b70.jpg"
+      },
+      {
         "title": "Il capo del Pentagono Hegseth: “La fucilazione dell'autore della strage di Fort Hood sarà in streaming”",
         "link": "https://www.repubblica.it/esteri/2026/10/09/news/fucilazione_diretta_streaming_pena_di_morte_usa_strage_fort_hood-425635750/?rss",
         "source": "Repubblica Esteri",
@@ -438,14 +478,6 @@
         "pubDate": "2026-10-08T20:59:55.000Z",
         "excerpt": "Diverse opzioni per un'operazione di tre giorni, in arrivo portaerei",
         "image": null
-      },
-      {
-        "title": "Raid russo a Kramatorsk su due bus, oltre 30 morti. “Volevano uccidere civili”",
-        "link": "https://www.repubblica.it/esteri/2026/10/08/news/raid_russo_kramatorsk_morti_strage_guerra_russia_ucraina-425634442/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-08T20:34:16.000Z",
-        "excerpt": "La strage nel Donbass ancora ucraino. Le autorità ai residenti rimasti: “Lasciate la città, andate in posti più sicuri”. Peskov a Rubio: “Conflitto in stallo”. Europei con gli ucraini a Miami per i colloqui",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/140349152-bcf9d302-9dd8-4982-8e75-632e201f2ade.jpg"
       },
       {
         "title": "L'oro sale di qualche centimetro tra il dollaro più debole e l'arresto della rotta obbligazionaria, ma i tappi di sovratensione petrolifera",
@@ -520,14 +552,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/212525175-b4955c7a-6440-492b-b634-43e4668cd0c9.jpg"
       },
       {
-        "title": "In Francia la proteste degli studenti, scontri alla Bastiglia: “In arrivo 3000 insegnanti”",
-        "link": "https://www.repubblica.it/esteri/2026/10/08/news/proteste_studenti_parigi_polizia_lacrimogeni_bastiglia-425635022/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-08T19:24:32.000Z",
-        "excerpt": "Allarme Unicef per la repressione della polizia sui minori: 215 i feriti. E il governo promette misure contro la crisi",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/182642832-9f65d8a2-f3cd-4994-9309-bfce82770f13.jpg"
-      },
-      {
         "title": "Il gas naturale si ritira da $3,30 double top: Livelli live",
         "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-at-3016-with-bear-flag-forming-live-levels-93CH-4931132",
         "source": "Investing.com Commodities",
@@ -558,30 +582,6 @@
         "pubDate": "2026-10-08T17:31:01.000Z",
         "excerpt": "I sospetti hanno 36 e 32 anni, sono entrambi residenti nel Paese.Si teme che i due volessero commettere un reato contro la sicurezza nazionale. Le indagini sono coordinate dall’antiterrorismo",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/192954936-a92e72bb-b697-4720-b7cb-c7237bd20db9.jpg"
-      },
-      {
-        "title": "Più uomini che droni, così Vivaldi rivoluziona la guerra",
-        "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/10/08/news/vivaldi_offensiva_ucraina_russia-425634994/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-08T16:14:44.000Z",
-        "excerpt": "L’offensiva ucraina non è il trionfo della tecnologia ma della capacità umana di gestirla in modo innovativo e integrarla negli eserciti",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/181419574-278add10-4ded-435a-9c79-4e95584f1356.jpg"
-      },
-      {
-        "title": "La morte lenta della gente di Gaza: come viviamo da tre anni dentro a una guerra che non finisce",
-        "link": "https://www.repubblica.it/esteri/2026/10/08/news/gaza_guerra_israele_tregua-425634216/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-08T14:51:01.000Z",
-        "excerpt": "Due milioni di persone sono come in una prigione, con i raid israeliani che continuano a uccidere nonostante la tregua. Con le persone che muoiono anche per la mancanza di medicine, perché a molti viene negata la possibi",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/124127048-162baa73-cc0c-49f5-8db1-abb5690d7336.jpg"
-      },
-      {
-        "title": "El-Sayed, la nuova stella dem che piace anche ai Maga. E che ora spaventa Trump",
-        "link": "https://www.repubblica.it/esteri/2026/10/08/news/el-sayed_la_nuova_stella_dem_che_piace_anche_ai_maga_e_che_ora_spaventa_trump-425633914/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-08T13:31:59.000Z",
-        "excerpt": "Secondo un sondaggio la base repubblicana sta voltando le spalle al tycoon, per appoggiare il medico di origini egiziane: è candidato nel determinante seggio del Michigan, decisivo per il controllo del Senato. Tanto che ",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/105839997-bb987069-7292-4ad1-a7ea-77b1cafe0642.jpg"
       }
     ]
   },
