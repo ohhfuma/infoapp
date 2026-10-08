@@ -1,14 +1,46 @@
 {
-  "lastUpdated": "2026-10-08T06:49:30.654Z",
+  "lastUpdated": "2026-10-08T07:12:06.442Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Milano apre in calo dell'1,41%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-milano-apre-in-calo-dell141_8e51506a-e034-4dba-bf81-39f8dd82960f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T07:06:04.000Z",
+        "excerpt": "Il primo indice Ftse Mib a 49.269 punti",
+        "image": null
+      },
+      {
+        "title": "Borsa: l'Asia chiude in calo con rialzo petrolio e titoli di Stato",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-lasia-chiude-in-calo-con-rialzo-petrolio-e-titoli-di-stato_d8466e17-d266-4130-a462-0bb973e7106e.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T07:03:39.000Z",
+        "excerpt": "Giù Tokyo e la Cina, scivola Seul. Lo yen si apprezza sul dollaro",
+        "image": null
+      },
       {
         "title": "Mps, Caltagirone voterà contro il piano di Lovaglio in assemblea",
         "link": "https://www.repubblica.it/economia/2026/10/08/news/mps_caltagirone_vota_contro_piano_lovaglio_assemblea_unipol_intesa-425633576/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "2026-10-08T06:44:50.000Z",
+        "pubDate": "2026-10-08T06:54:41.000Z",
         "excerpt": "Intesa incassa anche il via libera del cda di Unipol all’aumento di capitale da 2,5 miliardi per rilevare le filiali dell’istituto senese al termine dell’opas di Ca’ de Sass",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/084441434-f8144200-983d-4004-a494-349c46ea7834.jpg"
+      },
+      {
+        "title": "Il data center di Yandex colpito da un drone nella regione di Ryazan",
+        "link": "https://it.investing.com/news/stock-market-news/il-data-center-di-yandex-colpito-da-un-drone-nella-regione-di-ryazan-93CH-3579353",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T06:53:06.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+      },
+      {
+        "title": "Le azioni Tencent scendono mentre la società valuta un’emissione obbligazionaria fino a 5 miliardi di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-tencent-scendono-mentre-la-societa-valuta-unemissione-obbligazionaria-fino-a-5-miliardi-di-dollari-3579352",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T06:47:37.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
       },
       {
         "title": "DoValue nel piano punta ad un margine lordo tra 330-350 milioni al 2029",
@@ -19,12 +51,20 @@
         "image": null
       },
       {
+        "title": "Forvia riceve ordini per €500 milioni per le soluzioni EnergyCore",
+        "link": "https://it.investing.com/news/stock-market-news/forvia-riceve-ordini-per-500-milioni-per-le-soluzioni-energycore-93CH-3579348",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T06:40:32.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+      },
+      {
         "title": "Sesterce pianifica un data center da €10 miliardi in Finlandia",
         "link": "https://it.investing.com/news/stock-market-news/sesterce-pianifica-un-data-center-da-10-miliardi-in-finlandia-93CH-3579346",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-08T06:38:26.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
       },
       {
         "title": "Lo spread tra Btp e Bund apre stabile a 115 punti",
@@ -99,44 +139,12 @@
         "image": null
       },
       {
-        "title": "Ricavi Fagron nel Q3 in linea con le stime; confermato outlook 2026",
-        "link": "https://it.investing.com/news/stock-market-news/ricavi-fagron-nel-q3-in-linea-con-le-stime-confermato-outlook-2026-3579303",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T06:02:32.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
-      },
-      {
         "title": "L’Italia arruola gli hacker etici: caccia aperta alle vulnerabilità invisibili",
         "link": "https://www.repubblica.it/economia/2026/10/08/news/italia_arruola_hacker_etici_vulnerabilita_invisibili_segnalazioni-425632840/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-08T06:00:00.000Z",
         "excerpt": "L’Autorità per la cybersicurezza apre un canale ufficiale per permettere di segnalare le falle ancora sconosciute e accelerare l’arrivo di soluzioni, prima che siano sfruttate dai cybercriminali. Le segnalazioni potranno",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/202634979-c079700f-a2b7-4293-87d9-3d221a248261.jpg"
-      },
-      {
-        "title": "Le vendite di TSMC nel Q3 superano le stime grazie alla domanda di chip AI",
-        "link": "https://it.investing.com/news/stock-market-news/le-vendite-di-tsmc-nel-q3-superano-le-stime-grazie-alla-domanda-di-chip-ai-3579292",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T05:55:09.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB65083_M.jpg"
-      },
-      {
-        "title": "Azioni Paytm e MobiKwik in calo per possibile ritardo sull’MDR UPI",
-        "link": "https://it.investing.com/news/stock-market-news/azioni-paytm-e-mobikwik-in-calo-per-possibile-ritardo-sullmdr-upi-3579287",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T05:50:15.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
-        "title": "Il prezzo del gas sale oltre 80 euro al megawattora",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/il-prezzo-del-gas-sale-oltre-80-euro-al-megawattora_36d902f3-3ed9-4688-a397-ad5e4682c758.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T05:49:27.000Z",
-        "excerpt": "Ad Amsterdam le quotazioni sono in aumento del 2,4%",
-        "image": null
       },
       {
         "title": "Maltempo: allerta arancione in Toscana, gialla in altre 11 regioni",
@@ -185,14 +193,6 @@
         "pubDate": "2026-10-08T03:00:00.000Z",
         "excerpt": "Gentile esperto, con le norme attuali, il requisito anagrafico per la pensione di vecchiaia è di 67 anni e un mese nel 2027 e 67 anni e 3 mesi nel 2028. Compirò 67 anni e 3 mesi il 14 dicembre 2028 e dovrei ricevere la p",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/05/103702830-df25d842-1439-4095-9fc6-3888faf873a2.jpg"
-      },
-      {
-        "title": "Borsa: Tokyo, apertura in leggero ribasso (-0,26%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-tokyo-apertura-in-leggero-ribasso-026_9bc977c9-5fcd-4ca9-aa1b-57520868ea83.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T00:50:59.000Z",
-        "excerpt": "Nikkei sotto 70mila, Wall Street e debito Ai affondano la tecnologia",
-        "image": null
       },
       {
         "title": "Gasolio, pressing di palazzo Chigi per tornare al tetto Eni ed evitare il taglio accise",
@@ -587,11 +587,19 @@
   },
   "attualita": [
     {
-      "title": "++ Malore in campo in oratorio, morto il 13enne ricoverato ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/08/-malore-in-campo-in-oratorio-morto-il-13enne-ricoverato-_35c7daa5-292d-4766-95b1-9b2b2135d166.html",
+      "title": "Malore in campo in oratorio, morto il tredicenne ricoverato",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/malore-in-campo-in-oratorio-morto-il-13enne-ricoverato_81e3b589-11b6-4460-87f7-06d722d92e30.html",
       "source": "ANSA",
-      "pubDate": "2026-10-08T06:40:31.000Z",
+      "pubDate": "2026-10-08T06:49:05.000Z",
       "excerpt": "All'ospedale Papa Giovanni XXIII di Bergamo. Il malore nel Bresciano",
+      "image": null
+    },
+    {
+      "title": "Cremezzano, morto il ragazzino di 13 anni che ha avuto un malore in oratorio mentre giocava a calcio",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/08/news/cremezzano_morto_ragazzino_oratorio_malore_giocava_calcio-425633582/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T06:47:18.000Z",
+      "excerpt": "Il ragazzino si era improvvisamente accasciato mentre stava giocando all’oratorio del paesino in provincia di Brescia",
       "image": null
     },
     {
@@ -667,14 +675,6 @@
       "image": null
     },
     {
-      "title": "Melonellum, la destra tiene. Oggi il voto finale alla Camera, la premier pensa al blitz",
-      "link": "https://www.repubblica.it/politica/2026/10/08/news/legge_elettorale_melonellum_oggi_voto_finale_camera-425633193/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T23:00:00.000Z",
-      "excerpt": "Alle 12,30 attesa la conclusione della riforma in mattinata le dichiarazioni dei leader tensioni nella maggioranza, torneranno le vedette per controllare i deputati. Ieri bagarre sul caso Scarpinato tra FdI e i 5S che ac",
-      "image": null
-    },
-    {
       "title": "Per Vasco a Salerno il dottorato honoris causa: 'Le parole arma potente' ",
       "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/10/07/per-vasco-rossi-dottorato-honoris-causa-delluniversita-di-salerno_0bc893dd-3097-4691-9aa2-6c68b16bbf67.html",
       "source": "ANSA",
@@ -716,6 +716,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Tennis: Shanghai, Arnaldi domina Tomic e vola al secondo turno",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/08/tennis-shanghai-arnaldi-domina-tomic-e-vola-al-secondo-turno_d1db1a94-cb77-4fa0-9cb5-4068979332c9.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-08T07:01:46.000Z",
+      "excerpt": "Ora il ligure se la vedrà quindi con lo statunitense Taylor Fritz",
+      "image": null
+    },
     {
       "title": "Fifa: Ramon Vega annuncia candidatura, sfida Infantino per la presidenza",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/10/07/fifa-ramon-vega-annuncia-candidatura-sfida-infantino-per-la-presidenza_6d0009fd-396e-49de-b81e-4d15ba7a90bb.html",
@@ -770,14 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-07T18:21:47.000Z",
       "excerpt": "L'olandese della Red Bull: \"Ho molto rispetto per il marchio, ma io voglio vincere\"",
-      "image": null
-    },
-    {
-      "title": "Nuovo ranking Fifa, Spagna sempre leader e l'Italia resta 15/a",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/07/nuovo-ranking-fifa-spagna-sempre-leader-e-litalia-resta-15a_e2fc1dff-9c0d-4953-8f8e-c8f862a0f593.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-07T17:18:53.000Z",
-      "excerpt": "Il Portogallo sale al quinto, perdono una posizione Brasile, Marocco, Germania e Croazia",
       "image": null
     }
   ]
