@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-08T02:08:46.588Z",
+  "lastUpdated": "2026-10-08T02:41:14.632Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Amazon taglia meno di 1.000 posti di lavoro in vari team",
+        "link": "https://it.investing.com/news/stock-market-news/amazon-taglia-meno-di-1000-posti-di-lavoro-in-vari-team-3579226",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T02:18:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg"
+      },
       {
         "title": "L’oro vicino ai minimi di nove settimane, tensioni su Hormuz alimentano attese Fed",
         "link": "https://it.investing.com/news/stock-market-news/loro-vicino-ai-minimi-di-nove-settimane-tensioni-su-hormuz-alimentano-attese-fed-3579221",
@@ -105,14 +113,6 @@
         "pubDate": "2026-10-07T21:32:49.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg"
-      },
-      {
-        "title": "Broadcom, Oracle e SpaceX puntano su maxi-prestiti per l’AI",
-        "link": "https://it.investing.com/news/stock-market-news/broadcom-oracle-e-spacex-puntano-su-maxiprestiti-per-lai-3579134",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T21:28:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/general-use-news-image3_M_1440049476.jpg"
       },
       {
         "title": "Mps, Benetton si schiera con l’offerta di Intesa: “Edizione conferirà le sue quote”",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Giustiziato in Texas con iniezione letale, prima esecuzione dopo il caso Pike",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/giustiziato-in-texas-con-iniezione-letale-prima-esecuzione-dopo-il-caso-pike_e256d75a-08ca-41e5-b4e5-87b4c879cf1b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-08T02:09:45.000Z",
+        "excerpt": "Jamaal Howard condannato per l'uccisione di un addetto alle vendite in una rapina del 2000",
+        "image": null
+      },
+      {
         "title": "Brasile, migliaia di studenti in piazza a Rio per Lula",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/brasile-migliaia-di-studenti-in-piazza-a-rio-per-lula_d16bc845-2d13-48b4-8233-ca2b5c66b23f.html",
         "source": "ANSA Mondo",
@@ -528,14 +536,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/195750105-68939b16-0ff8-4dbe-9126-6040dcd91dea.jpg"
       },
       {
-        "title": "El Salvador, stato di emergenza nazionale per la siccità",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/el-salvador-stato-di-emergenza-nazionale-per-la-siccita_b77a28eb-8fbc-4101-a3f1-20755f950a9d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-07T21:58:57.000Z",
-        "excerpt": "Misura di sei mesi per affrontare gli effetti del fenomeno del 'Super Niño'",
-        "image": null
-      },
-      {
         "title": "L'oro scivola mentre il dollaro si rafforza sui minuti della Fed, i prezzi del petrolio aumentano in una sessione volatile",
         "link": "https://www.investing.com/news/commodities-news/gold-holds-gains-as-oil-flows-recover-treasury-yields-ease-4935492",
         "source": "Investing.com Commodities",
@@ -586,6 +586,14 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Il rischio di Guardiola",
+      "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/10/08/news/il_rischio_di_guardiola-425633364/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T02:22:30.000Z",
+      "excerpt": "Il messaggio di solidarietà al Manchester City del tecnico che sarà in tribuna per la prossima notte di Champions contro il PSG",
+      "image": null
+    },
     {
       "title": "Max Parisi negli Usa per il farmaco che ruba tempo al cancro. “Portatelo anche in Italia”",
       "link": "https://www.repubblica.it/cronaca/2026/10/08/news/max_parisi_tumore_pancreas_stati_uniti_farmaco-425633353/",
@@ -640,14 +648,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-07T23:00:00.000Z",
       "excerpt": "Pranzo alla Camera per il capo del M5s con Fratoianni e Bonelli. Sul tavolo la scelta del candidato premier e i tempi per i gazebo",
-      "image": null
-    },
-    {
-      "title": "Mancini: “Primarie, sfida evitabile. Serve una leadership forte. Gualtieri? Corre a Roma, per ora”",
-      "link": "https://www.repubblica.it/politica/2026/10/08/news/claudio_mancini_primarie_gualtieri_intervista-425633244/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-07T23:00:00.000Z",
-      "excerpt": "Il deputato dem: “Con il Melonellum sarà da superare il 42%. Adesso il blocco Pd-M5S-Avs è stimato tra il 36 e il 39. Occorre mobilitare i nostri e attrarre indecisi”",
       "image": null
     },
     {
