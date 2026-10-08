@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-10-08T00:51:17.609Z",
+  "lastUpdated": "2026-10-08T01:11:24.044Z",
   "finanza": {
     "italia": [
+      {
+        "title": "IPO di Blue Origin ancora lontana, ma ha senso, dice Bezos",
+        "link": "https://it.investing.com/news/stock-market-news/ipo-di-blue-origin-ancora-lontana-ma-ha-senso-dice-bezos-3579212",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T00:53:01.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg"
+      },
+      {
+        "title": "Perché il titolo LG Energy Solution è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-lg-energy-solution-e-in-forte-rialzo-oggi-93CH-3579210",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T00:52:56.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB2T0ER_M.jpg"
+      },
+      {
+        "title": "Borsa: Tokyo, apertura in leggero ribasso (-0,26%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-tokyo-apertura-in-leggero-ribasso-026_9bc977c9-5fcd-4ca9-aa1b-57520868ea83.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T00:50:59.000Z",
+        "excerpt": "Nikkei sotto 70mila, Wall Street e debito Ai affondano la tecnologia",
+        "image": null
+      },
       {
         "title": "Gasolio, pressing di palazzo Chigi per tornare al tetto Eni ed evitare il taglio accise",
         "link": "https://www.repubblica.it/economia/2026/10/08/news/gasolio_tetto_eni_governo_taglio_accise-425633153/?rss",
@@ -89,22 +113,6 @@
         "pubDate": "2026-10-07T21:05:57.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Perché il titolo Valneva guadagna oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-valneva-guadagna-oggi-93CH-3579121",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T21:03:00.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Microvision sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-microvision-sta-scendendo-oggi-93CH-3579120",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-07T21:02:58.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg"
       },
       {
         "title": "Mps, Benetton si schiera con l’offerta di Intesa: “Edizione conferirà le sue quote”",
@@ -217,14 +225,6 @@
         "pubDate": "2026-10-07T15:54:00.000Z",
         "excerpt": "Un aspetto importante della nuova legge elettorale è la reintroduzione dopo 23 anni delle preferenze per la scelta degli eletti. Ma si tratta a ben vedere di preferenze a metà,...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/scheda-2-U63132374613bgD-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Fonti Ue: 'Atteso domani l'ok della Commissione alla clausola dell'Italia per energia e difesa'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/07/fonti-ue-atteso-domani-lok-della-commissione-alla-clausola-dellitalia-per_a508bd90-abe3-4284-a2f7-59aea35c0d02.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-07T15:51:02.000Z",
-        "excerpt": "Proporrà al Consiglio dell'Ue l'attivazione della salvaguardia nazionale",
-        "image": null
       },
       {
         "title": "Fringe benefit, così ogni euro di welfare genera sull’economia un effetto 4 volte superiore a un taglio Irpef",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Cuba, L'Avana accusa gli Usa per il sequestro di carburante",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/cuba-lavana-accusa-gli-usa-per-il-sequestro-di-carburante_d148d59e-185c-4a49-9dc0-2e927f0dfd92.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-08T00:51:28.000Z",
+        "excerpt": "Il viceministro degli Esteri Fernández de Cossío: 'pirateria e saccheggio sono illegali'",
+        "image": null
+      },
+      {
         "title": "I prezzi del petrolio aumentano mentre i mercati si preparano alle interruzioni dell'approvvigionamento della costa del Golfo degli Stati Uniti",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
         "source": "Investing.com Commodities",
@@ -422,6 +430,54 @@
         "pubDate": "2026-10-07T23:12:47.000Z",
         "excerpt": "Mancano elementi sufficienti per aprire un'inchiesta formale dopo la denuncia del Guardian",
         "image": null
+      },
+      {
+        "title": "Gli ostaggi e i testimoni: “I bimbi sono segnati dal quel giorno d’orrore”",
+        "link": "https://www.repubblica.it/esteri/2026/10/08/news/israele_7_ottobre_ostaggi_e_testimoni_bambini_sotto_shock-425633235/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-07T23:00:00.000Z",
+        "excerpt": "I bambini portati a Gaza o che hanno visto morire i genitori. I racconti della generazione del pogrom: “Lo shock non passerà”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/230406642-b7f1ec06-0137-4257-9105-94715703c442.jpg"
+      },
+      {
+        "title": "Francia, il governo cambia linea: dialogo e inchieste sulla polizia",
+        "link": "https://www.repubblica.it/esteri/2026/10/08/news/francia_governo_cambia_linea_protesta_studenti_dialogo_inchieste_su_polizia-425633135/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-07T23:00:00.000Z",
+        "excerpt": "Il premier Lecornu tende la mano: “La parola dei ragazzi è preziosa e deve essere ascoltata”. Stop all’uso di granate stordenti da parte degli agenti. Ma la protesta si allarga agli atenei",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/222417573-23470ba3-bbcc-498e-94a5-162ce2133be5.jpg"
+      },
+      {
+        "title": "Cohn-Bendit: “Nel Sessantotto sognavamo la rivoluzione, i giovani di oggi scuole migliori”",
+        "link": "https://www.repubblica.it/esteri/2026/10/08/news/intervista_cohn-bendit_francia_proteste_nel_sessantotto_sognavamo_rivoluzione_giovani_oggi_scuole_migliori-425633045/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-07T23:00:00.000Z",
+        "excerpt": "L’ex leader della Contestazione: “I ragazzi che stanno protestando temono che non ci sia un futuro per loro”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/214436494-cc20766c-af23-4ec8-a2f7-ad2a0f5a6b8f.jpg"
+      },
+      {
+        "title": "Israele, i parenti delle vittime del 7 ottobre scelgono l’opposizione: “Fattore decisivo per il voto”",
+        "link": "https://www.repubblica.it/esteri/2026/10/08/news/israele_i_parenti_delle_vittime_del_7_ottobre_scelgono_l_opposizione_fattore_decisivo_per_il_voto-425632980/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-07T23:00:00.000Z",
+        "excerpt": "Secondo un sondaggio dell’Israel Democracy Institute, per oltre il 60 per cento degli israeliani la percezione del massacro di tre anni fa è un elemento determinante per le elezioni del 27 ottobre",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/212127169-20ec3e9f-7989-4b23-a5a9-f5ae00a38db8.jpg"
+      },
+      {
+        "title": "Sulle lapidi dei giovani massacrati da Hamas: “Il 7 ottobre è infinito”",
+        "link": "https://www.repubblica.it/esteri/2026/10/08/news/con_le_famiglie_delle_vittime_di_hamas_il_7_ottobre_e_infinito-425632837/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-07T23:00:00.000Z",
+        "excerpt": "A Re’im il ricordo del massacro del 2023: qui durante il rave furono uccisi 373 giovani. “Aspettiamo ancora una spiegazione”. Molti incolpano con Netanyahu e, in vista delle elezioni, si schierano con i suoi sfidanti",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/202536561-e26755ec-bdb2-41ea-841e-5bd42eea23e8.jpg"
+      },
+      {
+        "title": "La purga elettorale di Modi: taglia 130 milioni di votanti. In India esplode la protesta",
+        "link": "https://www.repubblica.it/esteri/2026/10/08/news/india_guerra_agli_infiltrati_modi_toglie_il_diritto_di_voto_a_130_milioni_di_cittadini-425632751/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-07T23:00:00.000Z",
+        "excerpt": "Eliminati dalle liste musulmani e oppositori scomodi. Insorgono gli “scarafaggi” della Gen Z. Fermato Rahul Gandhi",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/195750105-68939b16-0ff8-4dbe-9126-6040dcd91dea.jpg"
       },
       {
         "title": "È morta Maricarmen, il volto delle proteste per il diritto alla casa in Spagna",
@@ -512,14 +568,6 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM4D1DG_L.jpg"
       },
       {
-        "title": "Bachelet non esclude una sua candidatura alle prossime presidenziali in Cile",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/bachelet-non-esclude-una-sua-candidatura-alle-prossime-presidenziali-in-cile_3e113ae4-82c1-43ef-9b75-976b0e807aea.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-07T19:22:56.000Z",
-        "excerpt": "L'ex presidente arriverebbe al terzo mandato. 'Preoccupata per la perdita di diritti'",
-        "image": null
-      },
-      {
         "title": "Test gas naturale $3.317 resistenza con ipercomprato RSI: Livelli live",
         "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-at-3016-with-bear-flag-forming-live-levels-93CH-4931132",
         "source": "Investing.com Commodities",
@@ -528,60 +576,12 @@
         "image": "https://content-media.investing.com/news/moved_LYNXNPEKAS0PN_L.jpg"
       },
       {
-        "title": "Apocalisse nucleare, parte l’esercitazione Nato in Italia. La protesta di Avs",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/steadfast_noon_apocalisse_nucleare_esercitazione_nato_in_italia_protesta_dei_verdi-425632599/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-07T18:33:54.000Z",
-        "excerpt": "Il 13 ottobre iniziano le simulazioni di “Steadfast Noon” nei nostri cieli, con simulacri delle bombe tattiche americane. L’interrogazione di Bonelli: “Nessuna comunicazione dal governo. Via le testate Usa dal nostro Pae",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/184732058-7690c354-72b6-45d8-9800-d273a9011074.jpg"
-      },
-      {
         "title": "Sospetto secondo caso di morte per peste polmonare in Russia, il Cremlino smentisce. Trump: “Non pensiamo sia un’arma biologica”",
         "link": "https://www.repubblica.it/esteri/2026/10/07/news/secondo_caso_di_morte_peste_polmonare_in_russia_cremlino_smentisce_trump_non_pensiamo_sia_un_arma_biologica-425632727/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-07T17:49:56.000Z",
         "excerpt": "Il presidente Usa: “A sentire loro la situazione è sotto controllo”. L’Oms chiede chiarimenti a Mosca: “La condivisione tempestiva, completa e trasparente delle informazioni, è fondamentale per chiarire notizie contrasta",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/194110761-2cd52ee5-79c5-429a-92ae-df93fc5d2fcf.jpg"
-      },
-      {
-        "title": "L’ex 007 israeliano: “Il 7 ottobre fallimento della sicurezza, ma è Bibi ad aver rafforzato Hamas”",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/ex_007_israeliano_7_ottobre_fallimento_della_sicurezza_ma_e_netanyahu_ad_aver_rafforzato_hamas-425632437/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-07T17:23:04.000Z",
-        "excerpt": "Danny Citrinowicz, per 25 anni nell’intelligence militare israeliana: “I segnali non furono considerati l’indicazione di un’offensiva imminente, ma un’esercitazione o, al massimo, un’azione limitata. A Netanyahu la divis",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/175109670-486c354d-ebb5-438c-bb3f-3f35e334c275.jpg"
-      },
-      {
-        "title": "Okinawa, marine Usa accusato di aver derubato e ucciso una donna: coprifuoco nella base e stop alcol",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/giappone_okinawa_marine_usa_uccide_donna_proteste_coprifuoco_base_stop_alcol-425631764/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-07T14:02:39.000Z",
-        "excerpt": "Devin Ballard, 20 anni, arrestato con l’accusa di aver rapinato e assassinato Anna Yagi, 39 anni, sabato in un hotel della città di Naha. Il caso ha scatenato proteste dei residenti locali e del governo giapponese",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/131153588-65e0744a-6893-4da4-9812-872503f50b22.jpg"
-      },
-      {
-        "title": "Usa, l’ombra di Epstein sulla campagna elettorale, citato in almeno 35 spot di candidati dem",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/usa_epstein_campagna_elettorale_35_spot_i_candidati_dem-425631499/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-07T09:53:28.000Z",
-        "excerpt": "Nei video accusano duramente gli avversari che hanno votato contro la diffusione dei file o avevano legami con figure vicine al miliardario pedofilo. Fra i testimonial, anche il fratello di Virginia Giuffre, l’accusatric",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/114826899-22a4852a-5604-4106-afec-b188b4f3b063.jpg"
-      },
-      {
-        "title": "America Latina, la svolta a destra",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/america_latina_svolta_destra_mappa-425631377/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-07T09:02:28.000Z",
-        "excerpt": "Dal Venezuela al Brasile, passando per Argentina, Honduras e Colombia: la mappa è una colata di blu. La strategia di Trump e Rubio ha spinto Washington a rafforzare la propria influenza sulla regione",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/110216484-4c378a7c-7fbd-4a8a-9be4-bc4f3efdf9e9.jpg"
-      },
-      {
-        "title": "Anna Politkovskaja, 20 anni dall’omicidio della giornalista che sfidò Putin",
-        "link": "https://www.repubblica.it/esteri/2026/10/07/news/anna_politkovskaja_20_anni_omicidio_giornalista_sfido_putin_chi_era-425630953/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-07T06:46:40.000Z",
-        "excerpt": "Dalle inchieste sulla Cecenia ai numerosi atti di intimidazione: la storia della giornalista di Novaja Gazeta uccisa il 7 ottobre 2006, nel giorno del 54esimo compleanno di Vladimir Putin",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/07/084622733-676420a0-7214-4099-a890-3bc36f0e7768.jpg"
       }
     ]
   },
