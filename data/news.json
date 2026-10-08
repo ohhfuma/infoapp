@@ -1,14 +1,102 @@
 {
-  "lastUpdated": "2026-10-08T16:45:39.360Z",
+  "lastUpdated": "2026-10-08T17:09:35.769Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Moles (Au), 'indipendenza energetica fondamentale per sicurezza Paese, serve nucleare'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/moles-au-indipendenza-energetica-fondamentale-per-sicurezza-paese-serve-nucleare_ff692d4f-f24c-4f3f-b6df-f28aa972b0f4.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T16:59:58.000Z",
+        "excerpt": "'Acquisti elettricità a lungo periodo ora dannosi per prezzi alti, difendiamo consumatori'",
+        "image": null
+      },
+      {
+        "title": "Lagarde all'Eurogruppo, 'il rialzo dei rendimenti è legato a fattori globali'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/lagarde-alleurogruppo-il-rialzo-dei-rendimenti-e-legato-a-fattori-globali_b80a371c-82bb-472d-98e1-a300dae0c3b0.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T16:58:40.000Z",
+        "excerpt": "Fonti: 'su inflazione non ci sono segnali di contagio da energia a altri settori'",
+        "image": null
+      },
+      {
+        "title": "Esperti Ue gas, 'stoccaggi bassi ma sistema flessibile, inverno in sicurezza'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/esperti-ue-gas-stoccaggi-bassi-ma-sistema-flessibile-inverno-in-sicurezza_e53be2a8-4b6e-4a74-80eb-e8bc058706c5.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T16:57:16.000Z",
+        "excerpt": "Emerge dal report della Rete europea dei gestori dei sistemi di trasporto del gas",
+        "image": null
+      },
+      {
+        "title": "Sindacati, 'per Electrolux Cerreto serve impegno a mantenere la produzione'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/sindacati-per-electrolux-cerreto-serve-impegno-a-mantenere-la-produzione_b0e7d66c-dcb0-4c49-a7d1-4f5edf2ca161.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T16:55:56.000Z",
+        "excerpt": "Assemblea con i tre segretari nazionali Fim-Fiom-Uilm a Cerreto il 12 ottobre",
+        "image": null
+      },
+      {
+        "title": "Acquisti più frequenti ma con importi ridotti: così cambia il carrello della spesa degli italiani",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/mercati/2026/10/08/news/acquisti_piu_frequenti_ma_con_importi_ridotti_cosi_cambia_il_carrello_della_spesa_degli_italiani-425635085/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-08T16:55:37.000Z",
+        "excerpt": "Attenzione ai prezzi e alle promozioni e crescente attenzione a salute e benessere",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/185531433-e873831b-c845-42ec-9a64-e71d99b30eff.jpg"
+      },
+      {
+        "title": "American Airlines equipaggerà oltre 1.000 aerei con il Wi-Fi Starlink di SpaceX",
+        "link": "https://it.investing.com/news/stock-market-news/american-airlines-equipaggera-oltre-1000-aerei-con-il-wifi-starlink-di-spacex-3580837",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T16:42:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB4B0W9_M.jpg"
+      },
+      {
+        "title": "Il rover Rosalind Franklin di ExoMars si prepara ai suoi primi passi su Marte",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/il-rover-rosalind-franklin-di-exomars-si-prepara-ai-suoi-primi-passi-su-marte_b04c06bd-b296-48b1-89c7-f1198dcb7e2d.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T16:41:51.000Z",
+        "excerpt": "A Torino ad Altec simulazione in vista della missione del 2028",
+        "image": null
+      },
+      {
+        "title": "Borsa: Milano e Francoforte scivolano, Europa incerta. Scende lo spread",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-milano-e-francoforte-scivolano-europa-incerta.-scende-lo-spread_688a229e-308c-42a4-a912-5dfe556b0d2a.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T16:41:34.000Z",
+        "excerpt": "Male le banche: Unicredit -3%, Intesa -2,9%, Mps -2,8%. In rialzo Eni con il petrolio",
+        "image": null
+      },
+      {
+        "title": "Milei incassa 340 milioni di dollari dalla privatizzazione dell'acqua",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/milei-incassa-340-milioni-di-dollari-dalla-privatizzazione-dellacqua-di-buenos-aires_697866d6-d3c9-4be2-980f-58acf8f56c14.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-08T16:37:59.000Z",
+        "excerpt": "La statale Aysa finisce in mano a un consorzio misto olandese-brasiliano-argentino",
+        "image": null
+      },
+      {
+        "title": "Moody’s migliora l’outlook di Sony a positivo, confermato rating A2",
+        "link": "https://it.investing.com/news/stock-market-news/moodys-migliora-loutlook-di-sony-a-positivo-confermato-rating-a2-3580833",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T16:37:15.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC6S0BS_M.jpg"
+      },
       {
         "title": "Mps, Caltagirone e l'Agricole bocciano il piano Lovaglio",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/mps-caltagirone-e-lagricole-bocciano-il-piano-lovaglio_bff7d8bf-0c00-4385-a4a6-01e6d7b1abc0.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-08T16:28:26.000Z",
+        "pubDate": "2026-10-08T16:35:45.000Z",
         "excerpt": "I no oltre il 33%, anche Praud per Intesa. Aumento Unipol da 2,5 miliardi",
         "image": null
+      },
+      {
+        "title": "Jefferies individua i migliori titoli tech e telecom MENA",
+        "link": "https://it.investing.com/news/stock-market-news/jefferies-individua-i-migliori-titoli-tech-e-telecom-mena-3580832",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T16:35:43.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg"
       },
       {
         "title": "Ex Ilva, a Genova e Novi stabilimenti fermi dal 15 novembre, i sindaci: “Serrata insostenibile”",
@@ -17,22 +105,6 @@
         "pubDate": "2026-10-08T16:25:38.000Z",
         "excerpt": "In una nota congiunta i sindaci Silvia Salis e Rocchino Muliere annunciano di aver ricevuto la comunicazione dalla società",
         "image": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/10/08/165115157-bf26f6c0-7750-4912-ae41-9056f81de67e.jpg"
-      },
-      {
-        "title": "Milei incassa 340 milioni di dollari dalla privatizzazione dell'acqua di Buenos Aires",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/milei-incassa-340-milioni-di-dollari-dalla-privatizzazione-dellacqua-di-buenos-aires_697866d6-d3c9-4be2-980f-58acf8f56c14.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T16:25:31.000Z",
-        "excerpt": "La statale Aysa finisce in mano a un consorzio misto olandese-brasiliano-argentino",
-        "image": null
-      },
-      {
-        "title": "Beko, i sindacati: “Rispettare il piano industriale”. Urso: da Leonardo disponibilità su Siena",
-        "link": "https://www.repubblica.it/economia/2026/10/08/news/beko_i_sindacati_rispettare_piano_industriale-425634621/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-08T16:24:39.000Z",
-        "excerpt": "Al tavolo Mimit accuse alla multinazionale per i mancati investimenti, il rallentamento della produzione e il “pesante ricorso alla cassa integrazione”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/151115840-6ef71884-8b61-4126-8a2a-9acc2958ad66.jpg"
       },
       {
         "title": "Cura di barba e capelli tra le spese più importanti per gli italiani",
@@ -51,14 +123,6 @@
         "image": "https://content-media.investing.com/news/CrudeOil_800x533_L_1598346223.jpg"
       },
       {
-        "title": "Il gas è in rialzo (+1,8%) a 79,5 euro al Megawattora",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/il-gas-e-in-rialzo-18-a-795-euro-al-megawattora_91f491be-a7cb-4418-a10c-0d27ae3e246e.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T16:10:18.000Z",
-        "excerpt": "Sul mercato di Amsterdam di riferimento per l'Europa",
-        "image": null
-      },
-      {
         "title": "Perché il titolo Haemonetics è in forte rialzo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-haemonetics-e-in-forte-rialzo-oggi-93CH-3580812",
         "source": "Investing.com Italia",
@@ -67,20 +131,12 @@
         "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg"
       },
       {
-        "title": "Lo spread tra Btp e Bund chiude in calo a 111 punti base",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/lo-spread-tra-btp-e-bund-chiude-in-calo-a-111-punti-base_7775e4bf-6886-447f-8d8c-cdcec6cf9f4e.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T16:09:56.000Z",
-        "excerpt": "Il rendimento del prodotto del Tesoro è al 4,6%",
-        "image": null
-      },
-      {
         "title": "Apple annuncia un evento di lancio prodotti il 13 ottobre a New York",
         "link": "https://it.investing.com/news/stock-market-news/apple-annuncia-un-evento-di-lancio-prodotti-il-13-ottobre-a-new-york-93CH-3580811",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-08T16:08:39.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB3L16U_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEB3L16U_M.jpg"
       },
       {
         "title": "Perché il titolo Glaukos sta scendendo oggi?",
@@ -91,44 +147,12 @@
         "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
       },
       {
-        "title": "Uniqlo supera H&M e diventa il secondo gruppo mondiale dell'abbigliamento",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/uniqlo-supera-hm-e-diventa-il-secondo-gruppo-mondiale-dellabbigliamento_2419bb52-022c-429f-8823-d6a44e22518a.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T15:56:33.000Z",
-        "excerpt": "Utili record e ricavi annuali a oltre 22 miliardi di euro, spinti dai mercati esteri",
-        "image": null
-      },
-      {
         "title": "BORSA MILANO - Indice FTSE Mib cede 1,35% in chiusura",
         "link": "https://it.investing.com/news/stock-market-news/borsa-milano--indice-ftse-mib-cede-135-in-chiusura-3580801",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-08T15:56:25.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM971LJ_L.jpg"
-      },
-      {
-        "title": "L'Eurogruppo avvia l'iter per il dopo Schnabel in Bce, candidature entro il 28 ottobre",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/leurogruppo-avvia-liter-per-il-dopo-schnabel-in-bce-candidature-entro-il-28-ottobre_db9a643d-9b72-4b07-bd31-86273fc421e8.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T15:56:19.000Z",
-        "excerpt": "Ministri torneranno sul dossier il 9 novembre. Sullo fondo il negoziato sui 'top job'",
-        "image": null
-      },
-      {
-        "title": "Borsa: l'Europa conclude debole, Francoforte -1,2%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-leuropa-conclude-debole-francoforte-12_ee895f8a-096b-4b2b-9942-5e28532ad99a.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T15:46:06.000Z",
-        "excerpt": "Giù Madrid (-1%), Parigi (-0,5%) e Londra (-0,2%). Amsterdam in lieve rialzo",
-        "image": null
-      },
-      {
-        "title": "Borsa: Milano chiude in ampio calo, Ftse Mib -1,35%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-milano-chiude-in-ampio-calo-ftse-mib-135_a42d9029-3255-4c37-8f5c-199f27ccf6fb.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T15:42:31.000Z",
-        "excerpt": "L'indice dei titoli principali di Piazza Affari a 49.297 punti",
-        "image": null
       },
       {
         "title": "Legge elettorale, il plauso di Meloni e la strategia: preparare il voto in primavera senza dirlo",
@@ -145,30 +169,6 @@
         "pubDate": "2026-10-08T15:32:00.000Z",
         "excerpt": "La mappa degli immobili valorizzabili viene presentata da una ricerca realizzata da Nomisma per Cna Costruzioni",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/AdobeStock_185035872-U78630013602vCi-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Seviora Group fonde tre unità di Asset Management in un’unica piattaforma",
-        "link": "https://it.investing.com/news/stock-market-news/seviora-group-fonde-tre-unita-di-asset-management-in-ununica-piattaforma-93CH-3580779",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T15:17:41.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
-      },
-      {
-        "title": "Perché il titolo di Cognizant Technology Solutions scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-cognizant-technology-solutions-scende-oggi-93CH-3580775",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T15:13:29.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEE2Q23E_M.jpg"
-      },
-      {
-        "title": "Borsa Usa in calo, rialzo rendimenti e petrolio alimenta timori inflazione",
-        "link": "https://it.investing.com/news/stock-market-news/borsa-usa-in-calo-rialzo-rendimenti-e-petrolio-alimenta-timori-inflazione-3580770",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T15:08:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM971ID_L.jpg"
       },
       {
         "title": "Fondazione Crt compra Palazzo Perrone, la storica sede di Torino",
@@ -392,12 +392,36 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Trump dice che non attaccherà prima delle elezioni americane di novembre",
+        "title": "L'Unicef richiama la Francia, 'basta violenze proteggere, i minorenni'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/08/lunicef-richiama-la-francia-basta-violenze-proteggere-i-minorenni_ca694542-4322-4c3e-9101-239079bdbcae.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-08T16:50:02.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "I dati mostrano che Hormuz transita al minimo da oltre due mesi dopo gli attacchi",
+        "link": "https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-08T16:42:51.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9706S_L.jpg"
+      },
+      {
+        "title": "Trump dice che gli Stati Uniti non attaccheranno l'Iran prima delle elezioni di medio termine di novembre",
         "link": "https://www.investing.com/news/commodities-news/trump-us-having-productive-talks-with-iran-will-not-attack-before-us-elections-in-november-4939501",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-10-08T16:30:32.000Z",
+        "pubDate": "2026-10-08T16:42:25.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM971NV_L.jpg"
+      },
+      {
+        "title": "Il petrolio taglia i guadagni dopo che Trump dice che non attaccherà l'Iran prima delle elezioni di medio termine degli Stati Uniti",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-08T16:40:04.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA5T0D5_M.jpg"
       },
       {
         "title": "Proteste degli studenti a Parigi, polizia usa lacrimogeni per disperdere la folla alla Bastiglia",
@@ -504,28 +528,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/105839997-bb987069-7292-4ad1-a7ea-77b1cafe0642.jpg"
       },
       {
-        "title": "I prezzi del petrolio aumentano tra gli attacchi di spedizione in Medio Oriente, le interruzioni della costa del Golfo degli Stati Uniti",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-08T13:31:48.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA5T0D5_M.jpg"
-      },
-      {
         "title": "I rischi di attacco aumentano per le petroliere mentre l'Iran promette di bloccare più rotte di Hormuz",
         "link": "https://www.investing.com/news/commodities-news/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes-4939159",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-08T13:18:50.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9719Y_L.jpg"
-      },
-      {
-        "title": "Wsj, 'l'ambasciatrice in Grecia chiese 100mila dollari a un donatore Maga'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/08/wsj-lambasciatrice-in-grecia-chiese-100mila-dollari-a-un-donatore-maga_e281d0d5-1046-4d30-94ac-ea81bb538548.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-08T13:14:59.000Z",
-        "excerpt": "Guilfoyle è l'ex di Don Jr. ad Atene mentre lui si legava a Anderson",
-        "image": null
       },
       {
         "title": "Offerta mattutina: Wall Street sussulta alla compressione delle obbligazioni",
@@ -550,14 +558,6 @@
         "pubDate": "2026-10-08T12:15:20.000Z",
         "excerpt": "La strage nel Donbass ancora ucraino. Le autorità ai residenti rimasti: “Lasciate la città, andate in posti più sicuri”. Mosca stringe nella morsa la città assediata da droni e militari. Zelensky: “Questo atto non rester",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/140349152-bcf9d302-9dd8-4982-8e75-632e201f2ade.jpg"
-      },
-      {
-        "title": "USTR Greer afferma che gli Stati Uniti \"tengono duro\" sulla posizione commerciale con il Canada",
-        "link": "https://www.investing.com/news/commodities-news/ustr-greer-says-us-holding-fast-on-trade-stance-with-canada-4938801",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-08T12:06:27.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9713J_L.jpg"
       },
       {
         "title": "Giustiziato in Texas con un’iniezione letale, prima esecuzione dopo caso Pike",
@@ -587,19 +587,35 @@
   },
   "attualita": [
     {
+      "title": "Proteste degli studenti a Parigi, polizia usa lacrimogeni per disperdere la folla alla Bastiglia",
+      "link": "https://www.repubblica.it/esteri/2026/10/08/news/proteste_studenti_parigi_polizia_lacrimogeni_bastiglia-425635022/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T16:26:59.000Z",
+      "excerpt": "Scontri nella capitale francese, ma anche a Nantes e Strasburgo. Geffray annuncerà “prime misure concrete” al tg delle 20",
+      "image": null
+    },
+    {
+      "title": "Massimo Ranieri, esce l'inedito 'Il giorno prima'",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/10/08/massimo-ranieri-esce-linedito-il-giorno-prima_aed6c3bb-e9c5-4b36-a872-f00088942a27.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-08T16:21:18.000Z",
+      "excerpt": "In anteprima il videoclip ufficiale firmato dalla regista Roberta Torre",
+      "image": null
+    },
+    {
+      "title": "La Nato: 'In Italia un'esercitazione nucleare, senza armi reali'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/aeronautica-esercitazione-nato-in-italia-senza-armi-reali_e7f75d1f-0425-4383-972d-4f88770bdd85.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-08T16:13:50.000Z",
+      "excerpt": "Prenderà il via il 13 ottobre. L'Aeronautica: \"Non è legata a crisi o sviluppi del momento\"",
+      "image": null
+    },
+    {
       "title": "Aggressione a Iacopini, parla Francesco Montanari: “Eravamo insieme prima dell’attacco, sono shockato”",
       "link": "https://roma.repubblica.it/cronaca/2026/10/08/news/aggressione_iacopini_francesco_montanari_amico_vittima_shock-425634961/",
       "source": "Repubblica",
       "pubDate": "2026-10-08T16:02:35.000Z",
       "excerpt": "L’attore di “Romanzo Criminale” ha ricostruito le ore precedenti all’agguato all’amico e collega. Intanto continua la caccia della banda della minicar",
-      "image": null
-    },
-    {
-      "title": "Nato: 'La Steadfast Noon in Italia è un'esercitazione nucleare'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/aeronautica-esercitazione-nato-in-italia-senza-armi-reali_e7f75d1f-0425-4383-972d-4f88770bdd85.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-08T15:44:33.000Z",
-      "excerpt": "'Non sono previste armi atomiche reali ma fondamentali standard di addestramento elevati'",
       "image": null
     },
     {
@@ -632,14 +648,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-08T15:08:07.000Z",
       "excerpt": "La maggioranza tiene sul voto segreto, 164 i no. Conte e Schlein attaccano in Aula. La premier: 'Risposta a chi ci credeva divisi'",
-      "image": null
-    },
-    {
-      "title": "Ex Ilva, a Genova e Novi stabilimenti chiusi dal 15 novembre, i sindaci: “Serrata insostenibile”",
-      "link": "https://genova.repubblica.it/cronaca/2026/10/08/news/acciaierie_ha_annunciato_la_fermata_di_genova_e_novi_il_15_novembre_serrata_insostenibile-425634822/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-08T14:51:20.000Z",
-      "excerpt": "In una nota congiunta i sindaci Silvia Salis e Rocchino Muliere annunciano di aver ricevuto la comunicazione dalla società",
       "image": null
     },
     {
@@ -691,14 +699,6 @@
       "image": null
     },
     {
-      "title": "Massimo Ranieri, esce l'inedito 'Il giorno prima'",
-      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/10/08/massimo-ranieri-esce-linedito-il-giorno-prima_aed6c3bb-e9c5-4b36-a872-f00088942a27.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-08T09:19:53.000Z",
-      "excerpt": "In anteprima il videoclip ufficiale firmato dalla regista Roberta Torre",
-      "image": null
-    },
-    {
       "title": "Distillare whisky in orbita, l'esperimento verso il lancio nel 2028 ",
       "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/08/distillare-whisky-in-orbita-lesperimento-verso-il-lancio-nel-2028-_2116b216-c1f1-4c80-b1d6-6828223f8c89.html",
       "source": "ANSA",
@@ -717,11 +717,27 @@
   ],
   "sport": [
     {
-      "title": "Serie A: Cagliari-Juventus in campo domenica alle 20.45 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/serie-a-cagliari-juventus-in-campo-domenica-alle-20.45-diretta_cb4a2a0c-9ece-40a7-b7b8-5c181c9966f6.html",
+      "title": "Genoa: contro la Fiorentina out anche Sow per lesione muscolare",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/genoa-contro-la-fiorentina-out-anche-sow-per-lesione-muscolare_2383b52f-589c-4f2a-ade3-79656993a4a2.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-08T16:36:56.000Z",
-      "excerpt": "Spalletti studia l'undici migliore, caccia ai punti per riprendere quota",
+      "pubDate": "2026-10-08T16:51:48.000Z",
+      "excerpt": "De Rossi fa i conti con l'infermeria: sei gli assenti sabato nell'anticipo",
+      "image": null
+    },
+    {
+      "title": "Premier League: appello di Haaland dopo la bufera, 'il City resti unito'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/premier-appello-di-haaland-dopo-la-bufera-il-city-resti-unito_3e014aa8-e12d-4966-af2b-dac2a0960ad0.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-08T16:41:55.000Z",
+      "excerpt": "Il norvegese pensa al campo: \"Dobbiamo guardare avanti e vincere le partite\"",
+      "image": null
+    },
+    {
+      "title": "Serie A: Inter-Parma in campo sabato alle 18 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/serie-a-inter-parma-in-campo-sabato-alle-18-diretta_3de142c7-04e2-4b64-b000-cc44ad95cfcf.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-08T16:40:27.000Z",
+      "excerpt": "Infortunio per l'inglese, 20 giorni ko. Contro Parma probabile Provedel fra i pali",
       "image": null
     },
     {
@@ -730,14 +746,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-08T16:34:04.000Z",
       "excerpt": "Rivelazione di campionato, Gattuso non guarda classifica: 'Confermiamoci gara dopo gara\"",
-      "image": null
-    },
-    {
-      "title": "Premier: appello di Haaland dopo la bufera, 'il City resti unito'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/premier-appello-di-haaland-dopo-la-bufera-il-city-resti-unito_3e014aa8-e12d-4966-af2b-dac2a0960ad0.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-08T16:33:53.000Z",
-      "excerpt": "Il norvegese pensa al campo: \"Dobbiamo guardare avanti e vincere le partite\"",
       "image": null
     },
     {
@@ -770,14 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-08T15:39:49.000Z",
       "excerpt": "Con la rivelazione Frosinone non escluso assetto tattico diverso dal 4-3-3",
-      "image": null
-    },
-    {
-      "title": "Hamilton: \"Singapore con la Sprint è una doppia sfida\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/08/hamilton-singapore-con-la-sprint-e-una-doppia-sfida_6cc98029-6464-4693-a0e0-35024f746a80.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-08T15:29:12.000Z",
-      "excerpt": "Leclerc: \"Nessuna aspettativa, dobbiamo trovare in fretta la competitività\"",
       "image": null
     }
   ]
