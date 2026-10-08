@@ -4,12 +4,28 @@
   "finanza": {
     "italia": [
       {
+        "title": "Apple nomina il veterano Steve Smith nuovo responsabile M&A",
+        "link": "https://it.investing.com/news/stock-market-news/apple-nomina-il-veterano-steve-smith-nuovo-responsabile-ma-3580881",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T17:49:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
+      },
+      {
         "title": "Ex Ilva, da domani stop all'area a caldo e avvio procedure cig",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/ex-ilva-da-domani-stop-allarea-a-caldo-e-avvio-procedure-cig_df14583b-44b1-4574-a8f3-c6ab01e5526e.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-08T17:37:42.000Z",
         "excerpt": "Acciaierie d'Italia in As comunica la sospensione delle attività produttive",
         "image": null
+      },
+      {
+        "title": "Firmus Grid, sostenuta da Nvidia, rinvia la IPO in Australia",
+        "link": "https://it.investing.com/news/stock-market-news/firmus-grid-sostenuta-da-nvidia-rinvia-la-ipo-in-australia-3580875",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T17:37:11.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/general-use-news-image3_M_1440049476.jpg"
       },
       {
         "title": "Dombrovskis: 'Non possiamo continuare a introdurre flessibilità, esamineremo le richieste dell'Italia'",
@@ -466,22 +482,6 @@
         "pubDate": "2026-10-08T14:46:21.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
-      },
-      {
-        "title": "Interactive Brokers potrebbe muoversi del 4,5% con gli utili del 15 ottobre",
-        "link": "https://it.investing.com/news/stock-market-news/interactive-brokers-potrebbe-muoversi-del-45-con-gli-utili-del-15-ottobre-93CH-3580735",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T14:45:04.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg"
-      },
-      {
-        "title": "Le azioni di Charles Schwab potrebbero muoversi del 3,6% con i risultati",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-charles-schwab-potrebbero-muoversi-del-36-con-i-risultati-93CH-3580730",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T14:43:03.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED2D06G_M.jpg"
       }
     ],
     "europa": [
@@ -672,6 +672,46 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Spagna, l’addio degli Indignados: “Hasta siempre Maricarmen”",
+        "link": "https://www.repubblica.it/esteri/2026/10/08/news/spagna_addio_indignados_maricarmen_fiaccolata_madrid_proteste_crisi_casa-425635214/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-08T18:06:15.000Z",
+        "excerpt": "Fiaccolata a Madrid questa sera e manifestazioni in tutto il Paese per la morte della donna 87enne cacciata dal suo appartamento, dopo una lunga resistenza. E il caso atterra sulla campagna elettorale",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/195059375-e80543ee-31a7-43b9-9024-aa78dc38609e.jpg"
+      },
+      {
+        "title": "Attacco cyber alla Farnesina, autori gli hacker russi Noname",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/08/attacco-cyber-alla-farnesina-autori-gli-hacker-russi-noname_d9bca9ac-9230-4a3b-85bd-c34cbbd51a3b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-08T17:55:41.000Z",
+        "excerpt": "La Polizia postale indaga",
+        "image": null
+      },
+      {
+        "title": "Houthi rivendicano il terzo raid della giornata sull'aeroporto di Riad",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/08/houthi-rivendicano-il-terzo-raid-della-giornata-sullaeroporto-di-riad_028ba96a-62a9-4d11-9aaf-04579020cb0d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-08T17:53:41.000Z",
+        "excerpt": "'Colpito lo scalo Re Khalid, quello di Najran e la base aerea di Khamis Mushait'",
+        "image": null
+      },
+      {
+        "title": "Trump, 'non attaccheremo Iran prima delle midterm, colloqui produttivi con Teheran'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/trump-non-attaccheremo-iran-prima-delle-midterm-colloqui-produttivi-con_003aafbc-0d5f-4648-923e-e1f486abf42a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-08T17:52:45.000Z",
+        "excerpt": "Il presidente sul suo social Truth",
+        "image": null
+      },
+      {
+        "title": "Vance accusa Microsoft di frode sui visti, stop ai programmi sulle green card",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/vance-accusa-microsoft-di-frode-sui-visti-stop-ai-programmi-sulle-green_a972cbbe-077d-4a5f-8265-bc06b35f9485.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-08T17:52:23.000Z",
+        "excerpt": "'Per ogni lavoratore Usa licenziato, ne ha assunti uno e mezzo stranieri'",
+        "image": null
+      },
       {
         "title": "Regno Unito, arrestati due cittadini lettoni: oltrepassate recinzioni della base Raf di Molesworth",
         "link": "https://www.repubblica.it/esteri/2026/10/08/news/regno_unito_arrestati_due_cittadini_lettoni_oltrepassate_recinzioni_base_raf_molesworth-425635183/?rss",
@@ -1111,56 +1151,32 @@
         "pubDate": "2026-10-08T05:06:26.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9709C_L.jpg"
-      },
-      {
-        "title": "L'invasione dell'energia, le concessioni minerarie minacciano gli ecosistemi protetti, la ricerca mostra",
-        "link": "https://www.investing.com/news/commodities-news/encroaching-energy-mine-concessions-threaten-protected-ecosystems-research-shows-4937868",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-08T04:18:37.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9707L_L.jpg"
-      },
-      {
-        "title": "US NHC dice che Isaias è diventato un uragano",
-        "link": "https://www.investing.com/news/commodities-news/us-nhc-says-isaias-has-become-a-hurricane-4937857",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-08T04:06:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM97073_L.jpg"
-      },
-      {
-        "title": "I dati mostrano che Hormuz transita al minimo da oltre due mesi dopo gli attacchi",
-        "link": "https://www.investing.com/news/commodities-news/hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows-4937851",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-08T03:42:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9706S_L.jpg"
-      },
-      {
-        "title": "Giustiziato in Texas con un’iniezione letale, prima esecuzione dopo caso Pike",
-        "link": "https://www.repubblica.it/esteri/2026/10/08/news/pena_di_morte_texas_iniezione_farmaco_pike-425633375/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-08T03:08:13.000Z",
-        "excerpt": "Jamaal Howard, 46 anni, ucciso nel carcere di Huntsville con una dose di pentobarbital. I suoi legali avevano provato, senza successo, a fermare l'esecuzione contestando il farmaco e sostenendo la sua disabilità intellet",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/050808563-8c8b4b59-74c2-4f21-a4b0-4b0f06f694aa.jpg"
-      },
-      {
-        "title": "Giustiziato in Texas con iniezione letale, prima esecuzione dopo il caso Pike",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/giustiziato-in-texas-con-iniezione-letale-prima-esecuzione-dopo-il-caso-pike_e256d75a-08ca-41e5-b4e5-87b4c879cf1b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-08T02:09:45.000Z",
-        "excerpt": "Jamaal Howard condannato per l'uccisione di un addetto alle vendite in una rapina del 2000",
-        "image": null
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Ancora piogge al Centro-Sud: venerdì allerta arancione su Lazio e Campania, gialla in 14 regione",
+      "link": "https://www.repubblica.it/cronaca/2026/10/08/news/allerta_meteo_venerdi_9_ottobre_maltempo-425635217/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T17:53:05.000Z",
+      "excerpt": "Temporali anche di forte intensità, su Basilicata, settori tirrenici e ionici, e su Calabria e Sicilia",
+      "image": null
+    },
     {
       "title": "Dombrovskis: 'Non possiamo continuare a introdurre flessibilità, esamineremo le richieste dell'Italia'",
       "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/dombrovskis-non-possiamo-continuare-a-introdurre-nuove-forme-di-flessibilita_acc6e3b4-48a3-4d6f-a6fe-45f9ceadf81b.html",
       "source": "ANSA",
       "pubDate": "2026-10-08T17:30:56.000Z",
       "excerpt": "'Le regole fiscali contengono già elementi che tengono conto dell'inflazione'. Giorgetti: 'Fiduciosi che l'Ue seguirà una corretta interpretazione'. Primo via libera alla clausola di salvaguardia",
+      "image": null
+    },
+    {
+      "title": "Regno Unito, arrestati due cittadini lettoni: oltrepassate recinzioni della base Raf di Molesworth",
+      "link": "https://www.repubblica.it/esteri/2026/10/08/news/regno_unito_arrestati_due_cittadini_lettoni_oltrepassate_recinzioni_base_raf_molesworth-425635183/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T17:30:05.000Z",
+      "excerpt": "I sospetti hanno 36 e 32 anni, sono entrambi residenti nel Paese.Si teme che i due volessero commettere un reato contro la sicurezza nazionale. Le indagini sono coordinate dall’antiterrorismo",
       "image": null
     },
     {
@@ -1177,6 +1193,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-08T16:26:59.000Z",
       "excerpt": "Scontri nella capitale francese, ma anche a Nantes e Strasburgo. Geffray annuncerà “prime misure concrete” al tg delle 20",
+      "image": null
+    },
+    {
+      "title": "Più uomini che droni, così Vivaldi rivoluziona la guerra",
+      "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/10/08/news/vivaldi_offensiva_ucraina_russia-425634994/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T16:14:44.000Z",
+      "excerpt": "L’offensiva ucraina non è il trionfo della tecnologia ma della capacità umana di gestirla in modo innovativo e integrarla negli eserciti",
       "image": null
     },
     {
@@ -1610,33 +1634,17 @@
       "pubDate": "2026-10-08T06:40:31.000Z",
       "excerpt": "All'ospedale Papa Giovanni XXIII di Bergamo. Il malore nel Bresciano",
       "image": null
-    },
-    {
-      "title": "Legge elettorale alla sfida finale, oggi il voto decisivo a scrutinio segreto",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/08/legge-elettorale-alla-sfida-finale-oggi-il-voto-decisivo-a-scrutinio-segreto_3b6319fb-ba23-405a-8f6e-c67558a8a218.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-08T05:52:03.000Z",
-      "excerpt": "Le opposizioni a Fontana: 'Garantire l'effettivo voto segreto'. Magi prosegue lo sciopero",
-      "image": null
-    },
-    {
-      "title": "Legge elettorale alla sfida finale, la Camera approva la fiducia sull'articolo 3",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/06/legge-elettorale-ok-della-camera-alla-fiducia-sullarticolo-2-227-si_3b6319fb-ba23-405a-8f6e-c67558a8a218.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-08T05:24:31.000Z",
-      "excerpt": "Le opposizioni a Fontana: 'Garantire l'effettivo voto segreto'. Magi prosegue lo sciopero",
-      "image": null
-    },
-    {
-      "title": "Trump attacca El-Sayed, 'un estremista e simpatizzante dei terroristi' ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/08/trump-attacca-el-sayed-un-estremista-e-simpatizzante-dei-terroristi-_25e083ad-2f63-4ff1-9121-235186100267.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-08T05:17:09.000Z",
-      "excerpt": "'Candidato pessimo per i dem in Michigan. Il suo avversario Mike Rogers è eccellente'",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Universiadi invernali: a Torino accesa la fiaccola di Changchun 2027",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/universiadi-invernali-a-torino-accesa-la-fiaccola-di-changchun-2027_bb73b3b2-38ab-4a0d-9af2-b2b3a1d415e8.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-08T17:53:05.000Z",
+      "excerpt": "La cerimonia ha dato il via al viaggio della fiamma verso la Cina",
+      "image": null
+    },
     {
       "title": "Soncin, 'le ragazze stanno bene, pronte a lottare per il Mondiale'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/soncin-le-ragazze-stanno-bene-pronte-a-lottare-per-il-mondiale_63a5975e-bc71-4405-acea-65b9b3ec0282.html",
