@@ -4,6 +4,30 @@
   "finanza": {
     "italia": [
       {
+        "title": "Canone Rai, aumentano i morosi anche se è in bolletta",
+        "link": "https://www.ilsole24ore.com/art/canone-rai-aumentano-morosi-anche-se-e-bolletta-AJRkeacB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-08T04:42:07.000Z",
+        "excerpt": "Nell’Italia dei controsensi tributari non manca all’appello il canone Rai. L’inserimento nella bolletta elettrica ha contribuito a ridurre l’area degli evasori, ma c’è un problema che emerge: l’aumento delle morosità....",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/06/Immagini/Ritagli/pexels-karola-g-5202927-U21237465882htn-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Le azioni asiatiche scendono per il rialzo del petrolio e dei rendimenti; Samsung cede nonostante i profitti record",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-asiatiche-scendono-per-il-rialzo-del-petrolio-e-dei-rendimenti-samsung-cede-nonostante-i-profitti-record-3579247",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T04:14:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
+        "title": "Perché il titolo SK Hynix è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-sk-hynix-e-in-rialzo-oggi-93CH-3579244",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-08T04:04:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+      },
+      {
         "title": "Perché il titolo di Standard Chartered scende oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-standard-chartered-e-in-calo-oggi-93CH-3579239",
         "source": "Investing.com Italia",
@@ -545,6 +569,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "L'invasione dell'energia, le concessioni minerarie minacciano gli ecosistemi protetti, la ricerca mostra",
+        "link": "https://www.investing.com/news/commodities-news/encroaching-energy-mine-concessions-threaten-protected-ecosystems-research-shows-4937868",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-08T04:18:37.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9707L_L.jpg"
+      },
+      {
         "title": "US NHC dice che Isaias è diventato un uragano",
         "link": "https://www.investing.com/news/commodities-news/us-nhc-says-isaias-has-become-a-hurricane-4937857",
         "source": "Investing.com Commodities",
@@ -899,6 +931,38 @@
     ]
   },
   "attualita": [
+    {
+      "title": "The Barcolana, the world’s most pop sailing race",
+      "link": "https://europe.repubblica.it/en/food-travel/2026/10/08/news/barcolana_trieste_2026_italy_biggest_sailing_race-425631448/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T04:00:00.000Z",
+      "excerpt": "Europe’s biggest celebration of the sea returns to Trieste. Already a Guinness World Record holder, it brings together 500 events, a packed programme of races and a sailing village in the heart of the city",
+      "image": null
+    },
+    {
+      "title": "Via dei Fori Imperiali in Rome gets a makeover: a pedestrian boulevard just steps from the Roman ruins",
+      "link": "https://europe.repubblica.it/en/news/2026/10/07/news/rome_fori_imperiali_pedestrian_friendly-425631963/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T04:00:00.000Z",
+      "excerpt": "Cars will be removed, improving visitors’ access to the site. Ancient squares, such as Trajan’s Forum, will once again be accessible on foot",
+      "image": null
+    },
+    {
+      "title": "Keith Haring: chalk, colour and the pulse of New York",
+      "link": "https://europe.repubblica.it/en/culture/2026/10/08/news/keith_haring_exhibition_rome-425632634/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T04:00:00.000Z",
+      "excerpt": "A major exhibition at the Museo di Roma celebrates the pop artist, on view until 11 April 2027",
+      "image": null
+    },
+    {
+      "title": "Luca Marinelli: “I’m not afraid of disappearing”",
+      "link": "https://europe.repubblica.it/en/culture/2026/10/08/news/luca_marinelli_actor_interview_cinema_latest_role-425632447/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T04:00:00.000Z",
+      "excerpt": "Now starring in The Echo Chamber, based on the last story written by Bernardo Bertolucci, the Italian actor talks about vulnerability, solitude — including that of prime numbers — and freedom on a sunny day in Berlin, th",
+      "image": null
+    },
     {
       "title": "Il rischio di Guardiola",
       "link": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/10/08/news/il_rischio_di_guardiola-425633364/",
