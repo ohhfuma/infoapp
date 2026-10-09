@@ -4,12 +4,108 @@
   "finanza": {
     "italia": [
       {
+        "title": "Bankitalia: 'Ad agosto il tasso sui mutui a un passo dal 4%, ai massimi dal 2024'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/bankitalia-ad-agosto-il-tasso-sui-mutui-a-un-passo-dal-4-ai-massimi-dal-2024_99bf60c4-fe92-4392-b91c-82574ecbe916.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T08:39:37.000Z",
+        "excerpt": "Il Taeg sale al 3,99%, dal 3,81 di luglio",
+        "image": null
+      },
+      {
+        "title": "Istat, produzione industriale agosto -1,3% su mese, invariata su anno",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/istat-produzione-industriale-agosto-13-su-mese-invariata-su-anno_41764f6d-7f24-4b5d-af76-bc4e47d90074.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T08:34:03.000Z",
+        "excerpt": "Tra i principali raggruppamenti, dinamica mensile positiva solo per l'energia",
+        "image": null
+      },
+      {
+        "title": "Prestiti, continua lo sprint delle imprese: +4,2% ad agosto",
+        "link": "https://www.ilsole24ore.com/art/prestiti-continua-sprint-imprese-42percento-ad-agosto-AJxkEQeB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T08:33:00.000Z",
+        "excerpt": "In crescita anche i finanziamenti alle famiglie (+3,7%). I tassi sui mutui salgono al 3,99% (3,81% di luglio)",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_1306441-U81806012785Wya-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Citi promuove Bureau Veritas, margine 2027 sopra consensus; titolo +2%",
+        "link": "https://it.investing.com/news/stock-market-news/citi-promuove-bureau-veritas-margine-2027-sopra-consensus-titolo-2-3581449",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:16:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB660A4_M.jpg"
+      },
+      {
+        "title": "Gasolio, Eni taglia il prezzo consigliato: scende a 2,19 euro al litro",
+        "link": "https://www.ilsole24ore.com/art/gasolio-eni-taglia-prezzo-consigliato-scende-219-euro-litro-AJ4a3PeB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T08:15:00.000Z",
+        "excerpt": "Eni taglia ancora il prezzo del gasolio consigliato ai distributori. Con una riduzione di 2 centesimi, il listino scende da 2,21 a 2,19 euro al litro (lo stesso livello del...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_2782678-U84144643207okP-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Perché il titolo ArcelorMittal è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-arcelormittal-e-in-rialzo-oggi-93CH-3581438",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:14:17.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
+      },
+      {
+        "title": "Askatasuna, 14 perquisizioni per gli scontri di gennaio. Il pm chiede 19 misure cautelari",
+        "link": "https://www.ilsole24ore.com/art/askatasuna-14-perquisizioni-gli-scontri-gennaio-pm-chiede-19-misure-cautelari-AJWhwNeB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T08:13:24.000Z",
+        "excerpt": "Quattordici perquisizioni domiciliari in diverse parti d’Italia, a otto mesi dal corteo che aveva trasformato corso Regina Margherita in un campo di scontri. Dalle prime ore di questa mattina la...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/9f24a97acb67874443765fae9b529a87-U85677002087AnG-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Perché il titolo Evonik Industries sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-evonik-industries-sta-salendo-oggi-93CH-3581436",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:12:44.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      },
+      {
+        "title": "Auto, record marchi cinesi al Salone di Parigi aumenta pressione sui costruttori Ue",
+        "link": "https://it.investing.com/news/stock-market-news/auto-record-marchi-cinesi-al-salone-di-parigi-aumenta-pressione-sui-costruttoriue-3581430",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:08:16.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980J8_L.jpg"
+      },
+      {
+        "title": "Borsa Milano positiva in avvio, bene banche, corre Banca Generali, debole Eni",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-positiva-in-avvio-bene-banche-corre-banca-generali-debole-eni-3581396",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:56:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980IT_L.jpg"
+      },
+      {
         "title": "Gasolio a 2,19 nei distributori Eni: la compagnia abbassa ancora il prezzo consigliato",
         "link": "https://www.repubblica.it/economia/2026/10/09/news/gasolio_eni_prezzo_consigliato_price_cap-425636234/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-09T07:56:18.000Z",
         "excerpt": "Il tetto rimane a 2,25 euro per litro, dopo aver incorporato la fine dello sconto sulle accise: quello fissato è il prezzo a cui la compagnia suggerisce oggi di rivendere il diesel",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/094643219-4295e42b-fac4-4046-837a-58e2754e5379.jpg"
+      },
+      {
+        "title": "Perché il titolo Telefonica scende oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-telefonica-scende-oggi-93CH-3581395",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:56:06.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      },
+      {
+        "title": "Il titolo di Rheinmetall scivola dopo il downgrade di Berenberg a Hold",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-rheinmetall-scivola-dopo-il-downgrade-di-berenberg-a-hold-3581402",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:55:35.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEEB30F6_M.jpg"
       },
       {
         "title": "Perché il titolo Trainline è in rialzo oggi?",
@@ -386,105 +482,25 @@
         "pubDate": "2026-10-09T04:08:11.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
-      },
-      {
-        "title": "Las Vegas Sands punta ad ampliare l’offerta non-gaming a Macao",
-        "link": "https://it.investing.com/news/stock-market-news/las-vegas-sands-punta-ad-ampliare-lofferta-nongaming-a-macao-93CH-3581184",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T03:20:49.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
-      },
-      {
-        "title": "Sussidiaria di Lite-On firma contratto da 348 milioni di dollari in Texas",
-        "link": "https://it.investing.com/news/stock-market-news/sussidiaria-di-liteon-firma-contratto-da-348-milioni-di-dollari-in-texas-93CH-3581183",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T03:20:34.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
-      },
-      {
-        "title": "Tempesta sui bond: come gestire il portafoglio con gli investimenti obbligazionari in calo",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/risparmio/2026/10/09/news/bond_come_gestire_portafoglio_investimenti_obbligazioni_calo-425634858/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-09T03:00:00.000Z",
-        "excerpt": "Il reddito fisso solitamente costituisce la componente difensiva del portafoglio, ma negli ultimi tempi è sotto pressione. Ecco i criteri da considerare per valutare se vendere, attendere tempi migliori o rafforzare le p",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/170030258-2d456f7f-3792-409d-a5e0-939c3461cb94.jpg"
-      },
-      {
-        "title": "I mercati vacillano sul dollaro, un titolo energetico guadagna il 71%",
-        "link": "https://it.investing.com/news/stock-market-news/i-mercati-vacillano-sul-dollaro-un-titolo-energetico-guadagna-il-71-3581180",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T02:42:52.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
-      },
-      {
-        "title": "Flock Safety taglia il 18% del personale tra preoccupazioni sulla privacy",
-        "link": "https://it.investing.com/news/stock-market-news/flock-safety-taglia-il-18-del-personale-tra-preoccupazioni-sulla-privacy-93CH-3581177",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T02:19:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg"
-      },
-      {
-        "title": "Un terzo delle famiglie risparmia sul cibo, gli anziani i più colpiti",
-        "link": "https://www.repubblica.it/economia/2026/10/09/news/istat_famiglie_consumi_cibo-425635817/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-09T02:08:18.000Z",
-        "excerpt": "L’Istat descrive come gli italiani stringono la cinghia. Bankitalia: “Le imprese si attendono ulteriori rincari nei prossimi 12 mesi”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/040814371-01283d64-9f27-4140-aab0-d9a5cab3212f.jpg"
-      },
-      {
-        "title": "Perché il titolo di Lifestyle Communities sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-lifestyle-communities-sta-scendendo-oggi-93CH-3581174",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T02:06:09.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Fast Retailing sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-fast-retailing-sta-scendendo-oggi-93CH-3581173",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T02:06:05.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
-      },
-      {
-        "title": "Perché il titolo di SoftBank Group crolla oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-softbank-group-crolla-oggi-93CH-3581172",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T01:54:44.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-      },
-      {
-        "title": "Retension Pharmaceuticals fissa il prezzo dell’IPO a $12 per azione sul Nasdaq",
-        "link": "https://it.investing.com/news/stock-market-news/retension-pharmaceuticals-fissa-il-prezzo-dellipo-a-12-per-azione-sul-nasdaq-432SI-3581171",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T01:48:02.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
-      },
-      {
-        "title": "Retension Pharmaceuticals fissa il prezzo dell’IPO a $12 per azione sul Nasdaq",
-        "link": "https://it.investing.com/news/stock-market-news/retension-pharmaceuticals-fissa-il-prezzo-dellipo-a-12-per-azione-sul-nasdaq-432SI-3581170",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T01:47:02.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
-      },
-      {
-        "title": "TRexBio fissa il prezzo dell’IPO a 14 dollari per azione sul Nasdaq",
-        "link": "https://it.investing.com/news/stock-market-news/trexbio-fissa-il-prezzo-dellipo-a-14-dollari-per-azione-sul-nasdaq-432SI-3581168",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T01:41:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
       }
     ],
     "europa": [
+      {
+        "title": "Nuove incursioni israeliane in Cisgiordania. Ieri otto morti nella Striscia di Gaza",
+        "link": "https://www.ilsole24ore.com/art/nuove-incursioni-israeliane-cisgiordania-ieri-otto-morti-striscia-gaza-AJYzxPeB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-09T08:41:00.000Z",
+        "excerpt": "Continuano le incursioni e gli attacchi dell’esercito e dei coloni israeliani in Palestina. Negli ultimi giorni i raid si sono intensificati sia in Cisgiordania che nella Striscia di Gaza, dove...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/eea09061a1f9c1610f022f7b4a4fbee2-U28320704321Rsh-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Materie prime critiche, piano Ue per ridurre la dipendenza dall’estero",
+        "link": "https://www.ilsole24ore.com/art/materie-prime-strategiche-piano-ue-ridurre-dipendenza-dall-estero-AJ8vHMeB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-09T08:15:00.000Z",
+        "excerpt": "La Commissione europea punta a concentrare sul proprio territorio entro il 2030 il 10% dell’estrazione, il 40% della raffinazione e il 25% del riciclo",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/MATERIE%20PRIME%20STRATEGICHE-U86378035808Mmi-1440x752@IlSole24Ore-Web.jpg"
+      },
       {
         "title": "Ucraina: «Mosca ha attaccato mercantile nel porto di Mykolaiv»",
         "link": "https://www.ilsole24ore.com/art/ucraina-mosca-ha-attaccato-mercantile-porto-mykolaiv-AJPmAOeB",
@@ -632,6 +648,30 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Regno Unito, Polanski perde il seggio di Starmer: la crisi dei Verdi dopo la mozione sul sionismo",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/regno_unito_polanski_leader_verdi_perde_seggio_starmer_crisi_dopo_mozione_sionismo_razzismo-425636330/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-09T08:41:29.000Z",
+        "excerpt": "Sei mesi fa pareva perfino in grado di minacciare il partito laburista alle prossime elezioni, ma ora è stato battuto dalla consigliera comunale Labour Sagal Abdi-Wali per sostituire l’ex primo ministro inglese alla came",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/104116939-28405e9b-6677-4e3e-ae37-77cd47b45874.jpg"
+      },
+      {
+        "title": "Scambio di denunce agli organi elettorali tra Bolsonaro e Lula",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/scambio-di-denunce-agli-organi-elettorali-tra-bolsonaro-e-lula_df0df034-0128-47d7-b1c3-c4d77f1a37a3.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T08:22:42.000Z",
+        "excerpt": "Si inasprisce il duello tra i due candidati presidenti in vista del ballottaggio",
+        "image": null
+      },
+      {
+        "title": "UBS vede un aumento del deficit di rame nel 2027, sostiene le posizioni lunghe",
+        "link": "https://www.investing.com/news/commodities-news/ubs-sees-copper-deficit-widening-in-2027-backs-long-positions-93CH-4940398",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T08:20:31.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/Copper_800x533_L_1762262220.jpg"
+      },
       {
         "title": "Maltempo in Cile, distretto di Santiago dichiarato 'zona di catastrofe'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/maltempo-in-cile-distretto-di-santiago-dichiarato-zona-di-catastrofe_8a5b89c4-96c2-4613-b471-6cdfd266c48c.html",
@@ -1060,6 +1100,22 @@
   },
   "attualita": [
     {
+      "title": "Doppia tromba marina nel Trapanese, danni e feriti",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/doppia-tromba-marina-nel-trapanese-danni-e-feriti_8a1fb1c3-e77d-44de-ad4a-f0d636c72330.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T08:32:02.000Z",
+      "excerpt": "Un'auto colpita è caduta in un burrone, due persone in ospedale",
+      "image": null
+    },
+    {
+      "title": "Da Jonathan la tartaruga il segreto per vivere 194 anni",
+      "link": "https://www.ansa.it/canale_scienza/notizie/natura/2026/10/09/da-jonathan-la-tartaruga-gigante-il-segreto-per-vivere-194-anni_3a86e216-a13d-488b-b212-7520ce40831c.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T07:58:11.000Z",
+      "excerpt": "I suoi geni non si sono deteriorati l'con l'età",
+      "image": null
+    },
+    {
       "title": "Gasolio a 2,19 nei distributori Eni: la compagnia abbassa ancora il prezzo consigliato",
       "link": "https://www.repubblica.it/economia/2026/10/09/news/gasolio_eni_prezzo_consigliato_price_cap-425636234/",
       "source": "Repubblica",
@@ -1436,6 +1492,14 @@
       "image": null
     },
     {
+      "title": "'Altrementi chef', all'esposizione Fao concorso culinario per l'inclusione",
+      "link": "https://www.ansa.it/responsabilmente/notizie/valori_condivisi/2026/10/08/altrementi-chef-allesposizione-fao-concorso-culinario-per-linclusione_925c818d-3480-4be2-abdc-9dadf00225d5.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-08T13:32:40.000Z",
+      "excerpt": "Terza edizione promossa dall'Istituto Diplomatico Internazionale",
+      "image": null
+    },
+    {
       "title": "Le mostre del weekend, da Pontormo a Picabia e Avedon",
       "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/10/07/le-mostre-del-weekend-da-pontormo-a-picabia-e-avedon_566b7994-8a65-40e9-8271-786329dba263.html",
       "source": "ANSA",
@@ -1469,6 +1533,22 @@
     }
   ],
   "sport": [
+    {
+      "title": "Arbitri: Rocchi diventa opinionista su Dazn, domenica il debutto",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/09/arbitri-rocchi-diventa-opinionista-su-dazn-domenica-il-debutto_e0e3b02f-8eb8-48b3-bef9-25a6458056e4.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T08:32:22.000Z",
+      "excerpt": "L'ex responsabile Can per Serie A e B: \"Non vedo l'ora di mettermi alla prova\"",
+      "image": null
+    },
+    {
+      "title": "Nba: esordio per LeBron con Philadelphia, è già al centro del gioco",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/09/nba-esordio-per-lebron-con-philadelphia-e-gia-al-centro-del-gioco_7683b91d-3e3f-4a89-b465-053f5682134c.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T08:10:57.000Z",
+      "excerpt": "10 punti e soprattutto 5 assist nei primi minuti con la nuova maglia",
+      "image": null
+    },
     {
       "title": "Anche Berrettini ko a Shanghai, cede a Nakashima in 2 set",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/09/anche-berrettini-ko-a-shanghai-cede-a-nakashima-in-2-set_09ca41f3-05a5-4793-8a0f-8481f52c8a9b.html",

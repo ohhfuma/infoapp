@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-10-09T08:10:31.510Z",
+  "lastUpdated": "2026-10-09T08:43:50.654Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Bankitalia: 'Ad agosto il tasso sui mutui a un passo dal 4%, ai massimi dal 2024'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/bankitalia-ad-agosto-il-tasso-sui-mutui-a-un-passo-dal-4-ai-massimi-dal-2024_99bf60c4-fe92-4392-b91c-82574ecbe916.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T08:39:37.000Z",
+        "excerpt": "Il Taeg sale al 3,99%, dal 3,81 di luglio",
+        "image": null
+      },
+      {
+        "title": "Istat, produzione industriale agosto -1,3% su mese, invariata su anno",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/istat-produzione-industriale-agosto-13-su-mese-invariata-su-anno_41764f6d-7f24-4b5d-af76-bc4e47d90074.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T08:34:03.000Z",
+        "excerpt": "Tra i principali raggruppamenti, dinamica mensile positiva solo per l'energia",
+        "image": null
+      },
+      {
+        "title": "Prestiti, continua lo sprint delle imprese: +4,2% ad agosto",
+        "link": "https://www.ilsole24ore.com/art/prestiti-continua-sprint-imprese-42percento-ad-agosto-AJxkEQeB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T08:33:00.000Z",
+        "excerpt": "In crescita anche i finanziamenti alle famiglie (+3,7%). I tassi sui mutui salgono al 3,99% (3,81% di luglio)",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_1306441-U81806012785Wya-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Citi promuove Bureau Veritas, margine 2027 sopra consensus; titolo +2%",
+        "link": "https://it.investing.com/news/stock-market-news/citi-promuove-bureau-veritas-margine-2027-sopra-consensus-titolo-2-3581449",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:16:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB660A4_M.jpg"
+      },
+      {
+        "title": "Gasolio, Eni taglia il prezzo consigliato: scende a 2,19 euro al litro",
+        "link": "https://www.ilsole24ore.com/art/gasolio-eni-taglia-prezzo-consigliato-scende-219-euro-litro-AJ4a3PeB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T08:15:00.000Z",
+        "excerpt": "Eni taglia ancora il prezzo del gasolio consigliato ai distributori. Con una riduzione di 2 centesimi, il listino scende da 2,21 a 2,19 euro al litro (lo stesso livello del...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_2782678-U84144643207okP-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Perché il titolo ArcelorMittal è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-arcelormittal-e-in-rialzo-oggi-93CH-3581438",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:14:17.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
+      },
+      {
+        "title": "Askatasuna, 14 perquisizioni per gli scontri di gennaio. Il pm chiede 19 misure cautelari",
+        "link": "https://www.ilsole24ore.com/art/askatasuna-14-perquisizioni-gli-scontri-gennaio-pm-chiede-19-misure-cautelari-AJWhwNeB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T08:13:24.000Z",
+        "excerpt": "Quattordici perquisizioni domiciliari in diverse parti d’Italia, a otto mesi dal corteo che aveva trasformato corso Regina Margherita in un campo di scontri. Dalle prime ore di questa mattina la...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/9f24a97acb67874443765fae9b529a87-U85677002087AnG-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Perché il titolo Evonik Industries sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-evonik-industries-sta-salendo-oggi-93CH-3581436",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:12:44.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      },
+      {
+        "title": "Auto, record marchi cinesi al Salone di Parigi aumenta pressione sui costruttori Ue",
+        "link": "https://it.investing.com/news/stock-market-news/auto-record-marchi-cinesi-al-salone-di-parigi-aumenta-pressione-sui-costruttoriue-3581430",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:08:16.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980J8_L.jpg"
+      },
       {
         "title": "OpenAI stima fatturato annuale di 70 miliardi, futures su Wall Street positivi",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/bloomberg-openai-prevede-un-fatturato-annuale-di-70-miliardi_64d3ac27-8233-4053-a917-4df7d29fe27b.html",
@@ -9,6 +81,14 @@
         "pubDate": "2026-10-09T08:03:16.000Z",
         "excerpt": "Fonti correggono il tiro dopo le stime riportate dal Ft che ieri hanno pesato sul Nasdaq",
         "image": null
+      },
+      {
+        "title": "Borsa Milano positiva in avvio, bene banche, corre Banca Generali, debole Eni",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-positiva-in-avvio-bene-banche-corre-banca-generali-debole-eni-3581396",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:56:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980IT_L.jpg"
       },
       {
         "title": "Gasolio a 2,19 nei distributori Eni: la compagnia abbassa ancora il prezzo consigliato",
@@ -19,28 +99,28 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/094643219-4295e42b-fac4-4046-837a-58e2754e5379.jpg"
       },
       {
+        "title": "Perché il titolo Telefonica scende oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-telefonica-scende-oggi-93CH-3581395",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:56:06.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      },
+      {
+        "title": "Il titolo di Rheinmetall scivola dopo il downgrade di Berenberg a Hold",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-rheinmetall-scivola-dopo-il-downgrade-di-berenberg-a-hold-3581402",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:55:35.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEEB30F6_M.jpg"
+      },
+      {
         "title": "Perché il titolo Trainline è in rialzo oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-trainline-e-in-rialzo-oggi-93CH-3581390",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T07:52:34.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Perché il titolo Heidelberg Materials è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-heidelberg-materials-e-in-rialzo-oggi-93CH-3581388",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T07:52:04.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg"
-      },
-      {
-        "title": "Azioni Evonik in rialzo su possibile nuova offerta BASF; Citi analizza i numeri",
-        "link": "https://it.investing.com/news/stock-market-news/azioni-evonik-in-rialzo-su-possibile-nuova-offerta-basf-citi-analizza-i-numeri-3581386",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T07:47:09.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC4N0BI_M.jpg"
       },
       {
         "title": "Pronti i ricorsi contro il Melonellum: dalle firme alle quote di genere, dal premio al «senatore del mondo»",
@@ -59,52 +139,12 @@
         "image": null
       },
       {
-        "title": "Perché il titolo Banca Generali è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-banca-generali-e-in-forte-rialzo-oggi-93CH-3581382",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T07:44:44.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
-      },
-      {
-        "title": "Le azioni SIG salgono dell’8,4% dopo la nomina di Kesterton come CEO",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-sig-salgono-dell84-dopo-la-nomina-di-kesterton-come-ceo-93CH-3581378",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T07:41:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
-      },
-      {
-        "title": "Perché il titolo di The Beauty Tech Group scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-the-beauty-tech-group-scende-oggi-93CH-3581377",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T07:41:26.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
-      },
-      {
-        "title": "Jefferies indica il suo titolo preferito nel Settore Internet cinese",
-        "link": "https://it.investing.com/news/stock-market-news/jefferies-indica-il-suo-titolo-preferito-nel-settore-internet-cinese-3581376",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T07:40:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB65083_M.jpg"
-      },
-      {
         "title": "Il gas è in leggero ribasso ad Amsterdam a 78 euro",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/il-gas-e-in-leggero-ribasso-ad-amsterdam-a-78-euro_27e7d7c1-6c9a-4749-a577-d77c67f4dd99.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-09T07:38:16.000Z",
         "excerpt": "",
         "image": null
-      },
-      {
-        "title": "Perché il titolo di CD Projekt Red è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-cd-projekt-red-e-in-rialzo-oggi-93CH-3581373",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T07:37:56.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg"
       },
       {
         "title": "Borsa: Milano sale con l'Europa (+0,9%), Eni cede col greggio, corre Banca Generali",
@@ -153,22 +193,6 @@
         "pubDate": "2026-10-09T06:47:37.000Z",
         "excerpt": "Dopo la crisi in Ucraina, l’Europa si è trovata più pronta a gestire lo shock del conflitto nel Golfo. Ora è indispensabile liberarsi quanto prima dell’importazione di combustibili fossili",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/084731751-539de6ae-4252-4999-bf5e-b6c54d64c64b.jpg"
-      },
-      {
-        "title": "Lo spread Btp-Bund parte in flessione a 108 punti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/lo-spread-btp-bund-parte-in-flessione-a-108-punti_ec064600-81c8-4c06-b7e9-445b87884722.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T06:41:19.000Z",
-        "excerpt": "Rendimento decennale italiano scende al 4,53%",
-        "image": null
-      },
-      {
-        "title": "Borsa: Asia positiva con previsioni OpenAi e petrolio in calo",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-asia-positiva-con-previsioni-openai-e-petrolio-in-calo_21629782-eeda-45b2-adb9-85162f19e9e6.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T06:31:28.000Z",
-        "excerpt": "Brilla Hong Kong, poco mossa Tokyo",
-        "image": null
       },
       {
         "title": "Zebra in pista, aereo diretto a Zanzibar la travolge al decollo: paura per i 30 a bordo",
@@ -233,33 +257,25 @@
         "pubDate": "2026-10-08T23:00:00.000Z",
         "excerpt": "Il viceministro dell’Economia Leo: “Dialogo avviato”. L’idea di alzare le imposte anche alle big dell’energia. L’Abi: “La crisi rischia di colpirci”",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/221258059-7c143c17-a935-422a-a695-168e37220da0.jpg"
-      },
-      {
-        "title": "Ex Ilva, lunedì sciopero di 24 ore in tutte le sedi ",
-        "link": "https://www.ilsole24ore.com/art/ex-ilva-si-e-concluso-tre-ore-confronto-governo-sindacati-palazzo-chigi-AJD9b2dB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-08T20:29:00.000Z",
-        "excerpt": "La mossa dei sindacati dopo l’incontro di tre ore con il Governo. Sul tavolo il decreto con le tutele sociali per i lavoratori",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/7975b075ec5223eb3c7bbbb47537d81e-U82441047121Xla-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Pensioni, in Italia solo il 21% di chi ha un patrimonio sotto i 250mila euro si sente preparato sul tema",
-        "link": "https://www.ilsole24ore.com/art/pensioni-italia-solo-21percento-chi-ha-patrimonio-sotto-250mila-euro-si-sente-preparato-tema-AJSVu9bB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-08T19:14:13.000Z",
-        "excerpt": "Focus realizzato da Boston Consulting Group: anche nel segmento di risparmiatori più promettente per i prodotti pensionistici privati, solo il 54% sa che queste soluzioni esistono e meno del 60% di chi lo sa possiede eff",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/08/Immagini/Ritagli/AdobeStock_364573126-U60784401341say-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Farnesina sotto attacco hacker dopo le accuse di Mosca a Tajani",
-        "link": "https://www.ilsole24ore.com/art/farnesina-sotto-attacco-hacker-le-accuse-mosca-tajani-AJqknudB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-08T19:03:38.000Z",
-        "excerpt": "L’Agenzia per la cybersicurezza nazionale ha intercettato il blitz di No Name: secondo la Farnesina, nessun disservizio. La Procura di Roma attende il deposito di una informativa. Il collettivo filorusso è al centro di n",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/16d96989a6368e805a60e2873a6c5218-U36078407016BKL-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "europa": [
+      {
+        "title": "Nuove incursioni israeliane in Cisgiordania. Ieri otto morti nella Striscia di Gaza",
+        "link": "https://www.ilsole24ore.com/art/nuove-incursioni-israeliane-cisgiordania-ieri-otto-morti-striscia-gaza-AJYzxPeB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-09T08:41:00.000Z",
+        "excerpt": "Continuano le incursioni e gli attacchi dell’esercito e dei coloni israeliani in Palestina. Negli ultimi giorni i raid si sono intensificati sia in Cisgiordania che nella Striscia di Gaza, dove...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/eea09061a1f9c1610f022f7b4a4fbee2-U28320704321Rsh-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Materie prime critiche, piano Ue per ridurre la dipendenza dall’estero",
+        "link": "https://www.ilsole24ore.com/art/materie-prime-strategiche-piano-ue-ridurre-dipendenza-dall-estero-AJ8vHMeB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-09T08:15:00.000Z",
+        "excerpt": "La Commissione europea punta a concentrare sul proprio territorio entro il 2030 il 10% dell’estrazione, il 40% della raffinazione e il 25% del riciclo",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/MATERIE%20PRIME%20STRATEGICHE-U86378035808Mmi-1440x752@IlSole24Ore-Web.jpg"
+      },
       {
         "title": "Ucraina: «Mosca ha attaccato mercantile nel porto di Mykolaiv»",
         "link": "https://www.ilsole24ore.com/art/ucraina-mosca-ha-attaccato-mercantile-porto-mykolaiv-AJPmAOeB",
@@ -307,22 +323,6 @@
         "pubDate": "2026-10-08T14:18:00.000Z",
         "excerpt": "Washington ha inviato a Mosca una nota ufficiale per chiedere informazioni su quanto accaduto nella città siberiana di Irkutsk. Trump: «Presto avrò una telefonata con Putin»",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/LP_24813543-U33817667364dzO-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Ue: «Valutazione positiva su clausola di salvaguardia per l’Italia, nessun rischio»",
-        "link": "https://www.ilsole24ore.com/art/ue-valutazione-positiva-clausola-salvaguardia-l-italia-nessun-rischio-AJDkXIdB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-08T11:06:00.000Z",
-        "excerpt": "Ora il fascicolo passa al Consiglio, che avrà un mese di tempo per dare il via libera definitivo. Solo allora la clausola potrà essere ufficialmente attivata per l’Italia",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/ue-italia-AdobeStock_244404633-U37435126761pVX-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Polonia, quindicenne uccide una persona e ne ferisce altre due in una scuola elementare",
-        "link": "https://www.ilsole24ore.com/art/polonia-quindicenne-uccide-persona-e-ne-ferisce-altre-due-una-scuola-elementare-AJxr8EdB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-08T10:31:01.000Z",
-        "excerpt": "È successo questa mattina. Il primo ministro Donald Tusk ha convocato per le 13 una riunione urgente per fronteggiare il problema della violenza nelle scuole",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/AdobeStock_114701813-U61150702305yBI-1440x752@IlSole24Ore-Web.jpeg"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -391,6 +391,30 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Regno Unito, Polanski perde il seggio di Starmer: la crisi dei Verdi dopo la mozione sul sionismo",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/regno_unito_polanski_leader_verdi_perde_seggio_starmer_crisi_dopo_mozione_sionismo_razzismo-425636330/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-09T08:41:29.000Z",
+        "excerpt": "Sei mesi fa pareva perfino in grado di minacciare il partito laburista alle prossime elezioni, ma ora è stato battuto dalla consigliera comunale Labour Sagal Abdi-Wali per sostituire l’ex primo ministro inglese alla came",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/104116939-28405e9b-6677-4e3e-ae37-77cd47b45874.jpg"
+      },
+      {
+        "title": "Scambio di denunce agli organi elettorali tra Bolsonaro e Lula",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/scambio-di-denunce-agli-organi-elettorali-tra-bolsonaro-e-lula_df0df034-0128-47d7-b1c3-c4d77f1a37a3.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T08:22:42.000Z",
+        "excerpt": "Si inasprisce il duello tra i due candidati presidenti in vista del ballottaggio",
+        "image": null
+      },
+      {
+        "title": "UBS vede un aumento del deficit di rame nel 2027, sostiene le posizioni lunghe",
+        "link": "https://www.investing.com/news/commodities-news/ubs-sees-copper-deficit-widening-in-2027-backs-long-positions-93CH-4940398",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T08:20:31.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/Copper_800x533_L_1762262220.jpg"
+      },
       {
         "title": "Maltempo in Cile, distretto di Santiago dichiarato 'zona di catastrofe'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/maltempo-in-cile-distretto-di-santiago-dichiarato-zona-di-catastrofe_8a5b89c4-96c2-4613-b471-6cdfd266c48c.html",
@@ -472,14 +496,6 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980CL_L.jpg"
       },
       {
-        "title": "L'impennata delle tariffe di trasporto minaccia l'appetito dell'Asia per il greggio statunitense",
-        "link": "https://www.investing.com/news/commodities-news/soaring-freight-rates-threaten-asias-appetite-for-us-crude-4940191",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T05:54:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980A9_L.jpg"
-      },
-      {
         "title": "New York, un agente dell’Ice spara e ferisce un uomo. Proteste e arresti, Mamdani a Trump: “Stop ai raid”",
         "link": "https://www.repubblica.it/esteri/2026/10/09/news/new_york_ice_spara_uomo_arresto_mamdani-425635828/?rss",
         "source": "Repubblica Esteri",
@@ -536,14 +552,6 @@
         "image": null
       },
       {
-        "title": "Messico, dieci morti in una rivolta in carcere a Mazatlán",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/messico-dieci-morti-in-una-rivolta-in-carcere-a-mazatlan_61d668a5-473b-4829-9933-ba411f328ae0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T01:21:18.000Z",
-        "excerpt": "Tra le vittime un bambino in visita, 16 i detenuti feriti",
-        "image": null
-      },
-      {
         "title": "Rabbia a Khan al Ahmar, dove muore la speranza dello Stato palestinese",
         "link": "https://www.repubblica.it/esteri/2026/10/09/news/cisgiordania_khan_al_ahmar_progetto_e1_colonie_stato_palestinese-425635563/?rss",
         "source": "Repubblica Esteri",
@@ -560,11 +568,11 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/210544609-9fe469c4-7a05-4677-95a5-94681c294cee.jpg"
       },
       {
-        "title": "Missili degli Houthi su Riad. Colpito l’aeroporto, voli sospesi",
+        "title": "Missili degli Houthi su Riad. Colpito l’aeroporto, voli sospesi: 3 morti",
         "link": "https://www.repubblica.it/esteri/2026/10/09/news/missili_houthi_su_riad_colpito_aeroporto_voli_sospesi-425635367/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-08T23:00:00.000Z",
-        "excerpt": "Gli attacchi hanno fatto tre vittime e decine di feriti Turchia e Pakistan pronti a inviare aiuti difensivi alla monarchia sunnita",
+        "excerpt": "Gli attacchi hanno fatto vittime e decine di feriti. Turchia e Pakistan pronti a inviare aiuti difensivi alla monarchia sunnita",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/210518905-a1bc8cd0-a2b3-4f36-8026-af517abf6aa1.jpg"
       },
       {
@@ -574,18 +582,26 @@
         "pubDate": "2026-10-08T23:00:00.000Z",
         "excerpt": "la proposta di Burnham a Merz. Al progetto Gcap per un caccia di sesta generazione partecipano anche Italia e Giappone",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/203234056-85b8f401-7418-4d3c-9c84-c9755aaec946.jpg"
-      },
-      {
-        "title": "Spagna, l’avvocata di Maricarmen: “La sua salute critica da subito, chiaro l’impatto dello sfratto”",
-        "link": "https://www.repubblica.it/esteri/2026/10/09/news/spagna_avvocata_beatriz_duro_intervista_maricarmen_morta_impatto_sfratto_salute-425635148/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-08T23:00:00.000Z",
-        "excerpt": "Beatriz Duro, legale dell’anziana sfrattata a Madrid e morta mercoledì sera in ospedale: “Era venuta a conoscenza dell’accordo che le avrebbe permesso di tornare a casa e il rammarico è che questo non sia stato possibile",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/191443376-4ebcb251-e7d4-4b97-955e-30ff2fbe8b70.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Doppia tromba marina nel Trapanese, danni e feriti",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/doppia-tromba-marina-nel-trapanese-danni-e-feriti_8a1fb1c3-e77d-44de-ad4a-f0d636c72330.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T08:32:02.000Z",
+      "excerpt": "Un'auto colpita è caduta in un burrone, due persone in ospedale",
+      "image": null
+    },
+    {
+      "title": "Da Jonathan la tartaruga il segreto per vivere 194 anni",
+      "link": "https://www.ansa.it/canale_scienza/notizie/natura/2026/10/09/da-jonathan-la-tartaruga-gigante-il-segreto-per-vivere-194-anni_3a86e216-a13d-488b-b212-7520ce40831c.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T07:58:11.000Z",
+      "excerpt": "I suoi geni non si sono deteriorati l'con l'età",
+      "image": null
+    },
     {
       "title": "Gasolio a 2,19 nei distributori Eni: la compagnia abbassa ancora il prezzo consigliato",
       "link": "https://www.repubblica.it/economia/2026/10/09/news/gasolio_eni_prezzo_consigliato_price_cap-425636234/",
@@ -603,22 +619,6 @@
       "image": null
     },
     {
-      "title": "Scontri Askatasuna: perquisizioni in tutta Italia, chieste 19 misure ",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/scontri-per-askatasuna-perquisizioni-in-tutta-italia-chieste-19-misure-_02c8a240-8e7c-4810-83f1-2e4a74eab9c4.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T07:37:16.000Z",
-      "excerpt": "Operazione della polizia per i fatti del corteo del 31 gennaio",
-      "image": null
-    },
-    {
-      "title": "L’ambasciatrice Usa in Grecia e quel debito saldato da un donatore Maga prima della nomina",
-      "link": "https://www.repubblica.it/esteri/2026/10/09/news/ambasciatrice_usa_kimberly_guilfoyle_grecia_debito_donatore_maga-425636199/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T07:36:35.000Z",
-      "excerpt": "Continuano le polemiche su Kimberly Guilfoyle, ex fidanzata del figlio maggiore del presidente americano. Dopo aver attirato l’attenzione per i suoi rapporti con un lobbista e per aver evocato la caduta del governo greco",
-      "image": null
-    },
-    {
       "title": "Legge elettorale, gli italiani non la conoscono: tre su quattro ignorano la riforma",
       "link": "https://www.repubblica.it/politica/2026/10/09/news/legge_elettorale_italiani_ignorano_riforma-425636194/",
       "source": "Repubblica",
@@ -627,11 +627,11 @@
       "image": null
     },
     {
-      "title": "++ Eni taglia ancora il prezzo del gasolio, torna a 2,19 euro ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/09/eni-taglia-ancora-il-prezzo-del-gasolio-torna-a-219-euro_326d3197-4933-4d5d-b2a4-83c873655b66.html",
+      "title": "La fucilazione dell'autore della strage di Fort Hood sarà pubblica e in streaming",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/08/la-fucilazione-dellautore-della-strage-di-fort-hood-sara-pubblica-e-in-streaming_82f5ecaf-fec1-4ee7-8e0f-507effc31551.html",
       "source": "ANSA",
-      "pubDate": "2026-10-09T07:32:07.000Z",
-      "excerpt": "Il price cap resta a 2,25 euro al litro",
+      "pubDate": "2026-10-09T07:23:32.000Z",
+      "excerpt": "Sarebbe la prima in 90 anni",
       "image": null
     },
     {
@@ -675,6 +675,14 @@
       "image": null
     },
     {
+      "title": "The NBA’s plan to conquer Europe",
+      "link": "https://europe.repubblica.it/en/sport/2026/10/09/news/nba_fiba_european_basketball_league_euroleague_opposition-425634615/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T04:00:00.000Z",
+      "excerpt": "European basketball clubs face a choice: resist or join forces. The US model promises to transform the game both on the court and in the boardroom",
+      "image": null
+    },
+    {
       "title": "Recommerce, gli italiani avanti sul vendere e comprare prodotti usati ",
       "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/10/08/recommerce-gli-italiani-avanti-sul-vendere-e-comprare-prodotti-usati-_169cdbe7-289f-4db7-9790-713078123e07.html",
       "source": "ANSA",
@@ -691,19 +699,11 @@
       "image": null
     },
     {
-      "title": "'Email tracking', dal 29 ottobre scattano le linee guida del Garante Privacy",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/08/email-marketing-in-vigore-le-linee-guida-del-garante-sui-tracking-pixel_6f5eb39e-fcce-4ea4-9454-3d2b9db3d9a7.html",
+      "title": "'Altrementi chef', all'esposizione Fao concorso culinario per l'inclusione",
+      "link": "https://www.ansa.it/responsabilmente/notizie/valori_condivisi/2026/10/08/altrementi-chef-allesposizione-fao-concorso-culinario-per-linclusione_925c818d-3480-4be2-abdc-9dadf00225d5.html",
       "source": "ANSA",
-      "pubDate": "2026-10-08T13:54:52.000Z",
-      "excerpt": "Sui tracking pixel, immagini che rilevano apertura della posta. Aziende e piattaforme devono adeguarsi",
-      "image": null
-    },
-    {
-      "title": "Le mostre del weekend, da Pontormo a Picabia e Avedon",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/10/07/le-mostre-del-weekend-da-pontormo-a-picabia-e-avedon_566b7994-8a65-40e9-8271-786329dba263.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-08T12:36:33.000Z",
-      "excerpt": "A Bologna spazio a Gaudí, Picasso e Miró, a Torino ci sono le foto di Jessica Lange",
+      "pubDate": "2026-10-08T13:32:40.000Z",
+      "excerpt": "Terza edizione promossa dall'Istituto Diplomatico Internazionale",
       "image": null
     },
     {
@@ -716,6 +716,22 @@
     }
   ],
   "sport": [
+    {
+      "title": "Arbitri: Rocchi diventa opinionista su Dazn, domenica il debutto",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/09/arbitri-rocchi-diventa-opinionista-su-dazn-domenica-il-debutto_e0e3b02f-8eb8-48b3-bef9-25a6458056e4.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T08:32:22.000Z",
+      "excerpt": "L'ex responsabile Can per Serie A e B: \"Non vedo l'ora di mettermi alla prova\"",
+      "image": null
+    },
+    {
+      "title": "Nba: esordio per LeBron con Philadelphia, è già al centro del gioco",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/09/nba-esordio-per-lebron-con-philadelphia-e-gia-al-centro-del-gioco_7683b91d-3e3f-4a89-b465-053f5682134c.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T08:10:57.000Z",
+      "excerpt": "10 punti e soprattutto 5 assist nei primi minuti con la nuova maglia",
+      "image": null
+    },
     {
       "title": "Cobolli subito fuori a Shanghai, vince Mannarino in 3 set",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/09/cobolli-subito-fuori-a-shanghai-vince-mannarino-in-3-set_9a89faeb-f945-4175-a95e-cb9b7a3a95ba.html",
@@ -762,22 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-08T20:17:26.000Z",
       "excerpt": "Dopo i 2 ko iniziali, le V Nere riportano il bilancio in parità",
-      "image": null
-    },
-    {
-      "title": "Gilgeous-Alexander, mvp della Nba, diventa azionista dell'Atletico Madrid",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/08/gilgeous-alexander-mvp-della-nba-diventa-azionista-dellatletico-madrid_d85a8eef-c5f4-4fc6-b442-86e3009d89ab.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-08T19:54:01.000Z",
-      "excerpt": "Dopo Lebron e Durant, anche la stella di Oklahoma investe nel calcio europeo",
-      "image": null
-    },
-    {
-      "title": "Gilgeous-Alexander, mvp della Nba, diventa azionista dell'Atletico Madrid",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/gilgeous-alexander-mvp-della-nba-diventa-azionista-dellatletico-madrid_2d684923-bb36-40be-9e4b-795736bcc493.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-08T19:53:57.000Z",
-      "excerpt": "Dopo Lebron e Durant, anche la stella di Oklahoma investe nel calcio europeo",
       "image": null
     }
   ]
