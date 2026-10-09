@@ -4,6 +4,22 @@
   "finanza": {
     "italia": [
       {
+        "title": "Borsa: Tokyo, apertura in calo (-0,61%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-tokyo-apertura-in-calo-061_4e44641c-402d-4385-b138-6c52971e62e5.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T00:25:45.000Z",
+        "excerpt": "Vendite sui titoli hi-tech, nuovi timori da instabilità geopolitica",
+        "image": null
+      },
+      {
+        "title": "Nvidia pianifica un investimento nel rivale di chip AI d-Matrix",
+        "link": "https://it.investing.com/news/stock-market-news/nvidia-pianifica-un-investimento-nel-rivale-di-chip-ai-dmatrix-93CH-3581153",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T00:11:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4Q092_L.jpg"
+      },
+      {
         "title": "Valtènesi, la Provenza sul Garda",
         "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/10/09/news/valtenesi_la_provenza_sul_garda-425635731/?rss",
         "source": "Repubblica Economia",
@@ -433,6 +449,30 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Brasile, Flávio Bolsonaro attacca Moraes dopo il mandato d'arresto per il fratello",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/brasile-flavio-bolsonaro-attacca-moraes-dopo-il-mandato-darresto-per-il-fratello_1615cc6f-4ee0-4a07-9030-6c5304ed9e57.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T00:38:09.000Z",
+        "excerpt": "Il senatore accusa il giudice di persecuzione e invoca l'intervento del Senato",
+        "image": null
+      },
+      {
+        "title": "Brasile, Cury appoggia Flávio Bolsonaro al ballottaggio, ma pone 8 condizioni",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/brasile-cury-appoggia-flavio-bolsonaro-al-ballottaggio-ma-pone-8-condizioni_7976a63c-00ef-477b-a493-86e7ba405198.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T00:35:52.000Z",
+        "excerpt": "Lo scrittore, terzo al primo turno con il 2,89% dei voti, esclude di entrare nel governo",
+        "image": null
+      },
+      {
+        "title": "Gli Stati Uniti hanno citato in giudizio il piano per far saltare il canyon dello Utah inscritto dai \"Buffalo Soldiers\" del XIX secolo, pionieri europei",
+        "link": "https://www.investing.com/news/commodities-news/us-sued-over-plan-to-blast-utah-canyon-inscribedby-19th-century-buffalo-soldiers-europeanpioneers-4940046",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T00:24:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9800I_L.jpg"
+      },
+      {
         "title": "Il petrolio scende leggermente dopo che Trump ha detto che nessun attacco all'Iran prima delle elezioni di medio termine",
         "link": "https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
         "source": "Investing.com Commodities",
@@ -684,11 +724,59 @@
   },
   "attualita": [
     {
+      "title": "Ipotesi elezioni a maggio, anche Salvini disponibile in cambio dell’autonomia",
+      "link": "https://www.repubblica.it/politica/2026/10/09/news/ipotesi_elezioni_maggio_salvini_autonomia_retroscena-425635594/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T23:00:00.000Z",
+      "excerpt": "Il governo teme una bocciatura della Corte. E oggi Mattarella va alla Consulta per il libro di un giudice",
+      "image": null
+    },
+    {
+      "title": "Liste di centro da federare e politica estera condivisa: il campo largo accelera",
+      "link": "https://www.repubblica.it/politica/2026/10/09/news/campo_largo_primarie_giuseppe_conte_accelerazione-425635682/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T23:00:00.000Z",
+      "excerpt": "Dopo il via libera alla nuova legge elettorale, il centrosinistra accelera per definire programma e alleanze. Conte: “Il 18 Avs presenterà il suo programma e Schlein ha l’assemblea del Pd. Un attimo dopo, veramente un at",
+      "image": null
+    },
+    {
+      "title": "La legge elettorale: sulla scheda le coalizioni non il nome del premier. E tornano le preferenze",
+      "link": "https://www.repubblica.it/politica/2026/10/09/news/legge_elettorale_come_funziona_premio_maggioranza_preferenze_fuorisede-425635433/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T23:00:00.000Z",
+      "excerpt": "Dal premio di maggioranza alle soglie di sbarramento cambiano le regole per partiti e candidati. E per chi studia lavora o assiste un familiare sarà possibile votare nel Comune in cui si trova",
+      "image": null
+    },
+    {
+      "title": "Premio al 42% e scelta del leader, i paletti del Quirinale sulla riforma elettorale",
+      "link": "https://www.repubblica.it/politica/2026/10/09/news/paletti_quirinale_riforma_elettorale-425635503/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T23:00:00.000Z",
+      "excerpt": "Cambia l’asticella per la maggioranza e viene fissato un tetto ai seggi assegnabili. Sul candidato presidente del Consiglio resta il richiamo alla Costituzione, mentre ora la parola passa alla Consulta",
+      "image": null
+    },
+    {
+      "title": "Giorgia Meloni fa festa in piazza e congela la data del voto: “Un dibattito surreale”",
+      "link": "https://www.repubblica.it/politica/2026/10/09/news/giorgia_meloni_ascoli_piceno_legge_elettorale-425635630/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T23:00:00.000Z",
+      "excerpt": "La premier ad Ascoli per l’inaugurazione del palazzo Saladini Pilastri “Approvata una legge che rimette più potere nelle mani dei cittadini”",
+      "image": null
+    },
+    {
       "title": "Il capo del Pentagono Hegseth: “La fucilazione dell'autore della strage di Fort Hood sarà in streaming”",
       "link": "https://www.repubblica.it/esteri/2026/10/09/news/fucilazione_diretta_streaming_pena_di_morte_usa_strage_fort_hood-425635750/",
       "source": "Repubblica",
       "pubDate": "2026-10-08T22:49:31.000Z",
       "excerpt": "Nidal Malik Hasan verrà giustiziato il 3 dicembre. Dopo la drammatica vicenda di Christa Pike sopravvissuta a due iniezioni letali, l’America ora vedrà anche l’esecuzione in diretta di un condannato",
+      "image": null
+    },
+    {
+      "title": "Legge elettorale, l’ultimo tradimento",
+      "link": "https://www.repubblica.it/commenti/2026/10/09/news/legge_elettorale_l_ultimo_tradimento-425635716/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-08T22:01:00.000Z",
+      "excerpt": "L’unica stabilità che il Melonellum ricerca è quella del potere di chi lo ha voluto. L’unica scelta che rimette nelle mani degli elettori è quella di una quota minoritaria di preferenze. E non c’è nemmeno la garanzia di ",
       "image": null
     },
     {
