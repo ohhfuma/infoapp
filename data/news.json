@@ -1,14 +1,30 @@
 {
-  "lastUpdated": "2026-10-09T01:13:15.534Z",
+  "lastUpdated": "2026-10-09T01:43:51.566Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Toyota e big cinesi dell'auto: alleanza per l'elettrificazione",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/toyota-e-big-cinesi-dellauto-alleanza-per-lelettrificazione_2252ea58-8602-4198-8944-503e21273f9b.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T01:32:00.000Z",
+        "excerpt": "Intesa quadro con FAW e GAC per accelerare veicoli elettrici e intelligenti",
+        "image": null
+      },
+      {
+        "title": "Le azioni SoftBank scivolano dopo il report sui ricavi di OpenAI",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-softbank-scivolano-dopo-il-report-sui-ricavi-di-openai-3581164",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T01:04:36.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPECB60AR_M.jpg"
+      },
       {
         "title": "Hitachi entra nel programma Cybersecurity di Anthropic per le infrastrutture critiche",
         "link": "https://it.investing.com/news/stock-market-news/hitachi-entra-nel-programma-cybersecurity-di-anthropic-per-le-infrastrutture-critiche-3581161",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T00:48:31.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEB1N03X_M.jpg"
       },
       {
         "title": "I futures USA stabili dopo il calo del Nasdaq per i timori sui ricavi di OpenAI",
@@ -131,14 +147,6 @@
         "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
       },
       {
-        "title": "Perché il titolo di Alignment Healthcare crolla oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-alignment-healthcare-crolla-oggi-93CH-3581104",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-08T21:53:57.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
-      },
-      {
         "title": "I sindacati: 'Da lunedì sciopero nazionale ex Ilva di 24 ore'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/i-sindacati-da-lunedi-sciopero-nazionale-ex-ilva-di-24-ore_df14583b-44b1-4574-a8f3-c6ab01e5526e.html",
         "source": "ANSA Economia",
@@ -225,14 +233,6 @@
         "pubDate": "2026-10-08T18:19:00.000Z",
         "excerpt": "L’Italia incassa il primo via libera di Bruxelles alla clausola di salvaguardia nazionale per energia e difesa. E sulla flessibilità per contenere il caro prezzi il commissario Ue Valdis Dombrovskis...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/AdobeStock_15436975-U34875321723JLC-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Giorgetti, fiduciosi che l'Ue seguirà una corretta interpretazione della flessibilità",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/giorgetti-fiduciosi-che-lue-seguira-una-corretta-interpretazione-della-flessibilita_88a71559-e8a5-4737-bf45-085995cfc74a.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T17:25:34.000Z",
-        "excerpt": "Il ministro, 'ampio dibattito' e 'numerose adesioni' alla proposta italiana",
-        "image": null
       },
       {
         "title": "Chi è Daniele Moretti, il commercialista influencer accusato di una frode da 14 milioni di euro",
@@ -392,6 +392,38 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Cuba, 'Agli Usa manca l'autorità morale per decidere chi commercia con noi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/cuba-agli-usa-manca-lautorita-morale-per-decidere-chi-commercia_b31055ed-5875-4cb0-bfe8-6bb73031215b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T01:25:23.000Z",
+        "excerpt": "Lo ha dichiarato il ministro Rodríguez dopo il sequestro di 90 carichi di carburante",
+        "image": null
+      },
+      {
+        "title": "Perù, il Papa incontrerà i giovani allo Stadio nazionale di Lima",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/peru-il-papa-incontrera-i-giovani-allo-stadio-nazionale-di-lima_48fb78a8-e0ff-4831-a8ce-3d649e8301da.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T01:24:31.000Z",
+        "excerpt": "L'appuntamento con Leone XIV è fissato per il 12 novembre durante la visita nel Paese",
+        "image": null
+      },
+      {
+        "title": "Stretto di Magellano, il traffico marittimo cresce del 70%",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/stretto-di-magellano-il-traffico-marittimo-cresce-del-70_c4aa3fb0-ca4a-403f-b1b5-817cdd1f6578.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T01:23:23.000Z",
+        "excerpt": "Pesano la siccità a Panama e le tensioni in Medio Oriente",
+        "image": null
+      },
+      {
+        "title": "Messico, dieci morti in una rivolta in carcere a Mazatlán",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/messico-dieci-morti-in-una-rivolta-in-carcere-a-mazatlan_61d668a5-473b-4829-9933-ba411f328ae0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T01:21:18.000Z",
+        "excerpt": "Tra le vittime un bambino in visita, 16 i detenuti feriti",
+        "image": null
+      },
+      {
         "title": "Brasile, Flávio Bolsonaro attacca Moraes dopo il mandato d'arresto per il fratello",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/brasile-flavio-bolsonaro-attacca-moraes-dopo-il-mandato-darresto-per-il-fratello_1615cc6f-4ee0-4a07-9030-6c5304ed9e57.html",
         "source": "ANSA Mondo",
@@ -496,44 +528,12 @@
         "image": "https://content-media.investing.com/news/LYNXMPEA5T0D5_M.jpg"
       },
       {
-        "title": "Hegseth, la fucilazione dell'autore della strage di Fort Hood sarà pubblica",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/hegseth-la-fucilazione-dellautore-della-strage-di-fort-hood-sara-pubblica_c0f60778-3f3b-4b13-9800-850b7d9e748f.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-08T21:04:30.000Z",
-        "excerpt": "Sarebbe la prima in 90 anni",
-        "image": null
-      },
-      {
-        "title": "Nyt, 'Pentagono elabora nuovi piani di attacco contro l'Iran'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/nyt-pentagono-elabora-nuovi-piani-di-attacco-contro-liran_fca2230c-c590-4025-bb25-8b71e91b1195.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-08T20:59:55.000Z",
-        "excerpt": "Diverse opzioni per un'operazione di tre giorni, in arrivo portaerei",
-        "image": null
-      },
-      {
         "title": "L'oro sale di qualche centimetro tra il dollaro più debole e l'arresto della rotta obbligazionaria, ma i tappi di sovratensione petrolifera",
         "link": "https://www.investing.com/news/stock-market-news/gold-holds-near-nineweek-low-as-hormuz-tensions-raise-fed-hike-bets-4937808",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-08T20:29:27.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEC140H9_M.jpg"
-      },
-      {
-        "title": "Venezuela, crescita del Pil del 6,5% nel terzo trimestre",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/venezuela-crescita-del-pil-del-65-nel-terzo-trimestre_86cc13ed-44db-4c71-a46a-10a4726b4e11.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-08T20:24:29.000Z",
-        "excerpt": "La presidente ad interim Delcy Rodríguez: 'Attesi 12 miliardi di dollari di finanziamenti'",
-        "image": null
-      },
-      {
-        "title": "L'Uruguay pagherà direttamente i medici cubani della brigata sanitaria",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/luruguay-paghera-direttamente-i-medici-cubani-della-brigata-sanitaria_4b864754-ffcc-4424-adfe-53accfb74a58.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-08T20:12:04.000Z",
-        "excerpt": "Montevideo modifica l'accordo dopo i colloqui con Stati Uniti e Cuba",
-        "image": null
       },
       {
         "title": "Il grano Euronext aumenta mentre l'euro debole solleva le prospettive di esportazione",
