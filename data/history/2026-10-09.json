@@ -4,6 +4,22 @@
   "finanza": {
     "italia": [
       {
+        "title": "Perché il titolo di Deere & Company crolla oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-deere--company-crolla-oggi-93CH-3582612",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T19:49:00.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+      },
+      {
+        "title": "Moody’s rivede al rialzo l’outlook di Crescent Energy dopo l’accordo Eagle Ford",
+        "link": "https://it.investing.com/news/stock-market-news/moodys-rivede-al-rialzo-loutlook-di-crescent-energy-dopo-laccordo-eagle-ford-3582604",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T19:31:09.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM4C131_1200_L.jpg"
+      },
+      {
         "title": "Titoli del settore agricolo in calo per indagine e prezzi delle colture",
         "link": "https://it.investing.com/news/stock-market-news/titoli-del-settore-agricolo-in-calo-per-indagine-e-prezzi-delle-colture-3582601",
         "source": "Investing.com Italia",
@@ -466,25 +482,17 @@
         "pubDate": "2026-10-09T13:56:54.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM98176_L.jpg"
-      },
-      {
-        "title": "Borsa: l'Europa prosegue in rialzo dopo Wall Street, Milano +1,2%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-leuropa-prosegue-in-rialzo-dopo-wall-street-milano-12_836f427c-00c1-4eb6-9db5-9e93adaefa32.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T13:56:34.000Z",
-        "excerpt": "A Piazza Affari corrono Fincantieri e Amplifon. Spread Btp-Bund a 109 punti",
-        "image": null
-      },
-      {
-        "title": "Vacanze, estate meglio del previsto, ma chiude in calo per due terzi delle agenzie",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/vacanze-estate-meglio-del-previsto-ma-chiude-in-calo-per-due-terzi_98bbfa03-660b-42ef-8b22-375c825cbda5.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T13:56:04.000Z",
-        "excerpt": "Osservatorio Aidit, anche il caldo estremo entra tra le emergenze",
-        "image": null
       }
     ],
     "europa": [
+      {
+        "title": "Hegseth: «Esecuzione in diretta del terrorista Hasan». Vance: non la guarderò",
+        "link": "https://www.ilsole24ore.com/art/hegseth-esecuzione-diretta-terrorista-hasan-AJAD6peB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-09T19:50:00.000Z",
+        "excerpt": "Bufera sul Pentagono per lo streaming sulla uccisione del detenuto. Il maggiore radicalizzato dall’estremismo islamico, uccise 13 militari a Fort Hood. Il dissenso del vicepresidente JD Vance: se verrà trasmessa non cred",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/2026-10-06T201125Z_1088660123_RC2WXNA5E73P_RTRMADP_5_USA-TRUMP-U73105400652Ojc-1440x752@IlSole24Ore-Web.JPG"
+      },
       {
         "title": "Katie Zacharia, 42 anni, è la nuova portavoce della Casa Bianca",
         "link": "https://www.ilsole24ore.com/art/katie-zacharia-42-anni-e-nuova-portavoce-casa-bianca-AJOOyDfB",
@@ -712,6 +720,38 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Axios, Ucraina sorpresa dall'annuncio di Trump per il diesel russo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/09/axios-ucraina-sorpresa-dallannuncio-di-trump-per-il-diesel-russo_9c842210-c7d8-47e5-a1e3-db6f94ee9848.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T19:46:42.000Z",
+        "excerpt": "In queste ore negoziatori ucraini sono a Miami per incontrare Witkoff e Kushner",
+        "image": null
+      },
+      {
+        "title": "Axios, Ucraina sorpresa dall'annuncio di Trump per il diesel russo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/axios-ucraina-sorpresa-dallannuncio-di-trump-per-il-diesel-russo_62de278a-f236-45ca-b58c-7ffa54b67fb4.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T19:46:25.000Z",
+        "excerpt": "In queste ore negoziatori ucraini sono a Miami per incontrare Witkoff e Kushner",
+        "image": null
+      },
+      {
+        "title": "Zelensky, 'revoca delle sanzioni è debolezza, Putin ripagherà diesel con terrore'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/09/zelensky-revoca-delle-sanzioni-e-debolezza-putin-ripaghera-diesel-con-terrore_a262474e-903d-41e1-9d52-b39a0868ddbb.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T19:40:57.000Z",
+        "excerpt": "'Gioca a favore della Russia, permettendole di uccidere di più'",
+        "image": null
+      },
+      {
+        "title": "Zelensky, 'revoca delle sanzioni è debolezza, Putin ripagherà diesel con terrore'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/zelensky-revoca-delle-sanzioni-e-debolezza-putin-ripaghera-diesel-con-terrore_5049f139-6b53-4f7a-b6ca-9ca15d5158c6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T19:40:41.000Z",
+        "excerpt": "'Gioca a favore della Russia, permettendole di uccidere di più'",
+        "image": null
+      },
       {
         "title": "Secondo quanto riferito, Saudi Aramco ripristina la fornitura completa di petrolio greggio in Europa per novembre",
         "link": "https://www.investing.com/news/commodities-news/saudi-aramco-reportedly-restores-full-crude-oil-supply-to-europe-for-november-4941614",
@@ -1159,42 +1199,26 @@
         "pubDate": "2026-10-09T12:04:56.000Z",
         "excerpt": "La foto di Guevara sulle magliette degli studenti che protestano in Francia",
         "image": null
-      },
-      {
-        "title": "Israele, 'Goebbels applaude dall'inferno per il Nobel per la Pace a Pillay'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/09/israele-goebbels-applaude-dallinferno-per-il-nobel-per-la-pace-a-pillay_086928a8-dab6-44f5-a0a8-71efea788060.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T11:31:13.000Z",
-        "excerpt": "'Premiata la più grande menzogna del secolo'",
-        "image": null
-      },
-      {
-        "title": "Offerta mattutina: obbligazioni, bombe e barricate",
-        "link": "https://www.investing.com/news/commodities-news/morning-bid-bonds-bombs-and-barricades-4940727",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T10:48:34.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980TG_L.jpg"
-      },
-      {
-        "title": "Schroeder da Putin per il compleanno, Merz 'profondamente indignato'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/schroeder-da-putin-per-il-compleanno-merz-profondamente-indignato_59e1e0ef-8232-411f-b63e-8ffbe82a6c24.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T10:35:22.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
-        "title": "Le nuove regole di Trump renderanno più difficile per gli agricoltori accedere ai fondi statunitensi per i progetti energetici",
-        "link": "https://www.investing.com/news/commodities-news/new-trump-rules-will-make-it-harder-for-farmers-to-access-us-funds-for-energy-projects-4940607",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T10:32:17.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980PQ_L.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Trump: 'Colloquio di successo con Putin, la Russia fornirà 300.000 tonnellate di gasolio'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/trump-colloquio-di-successo-con-putin-la-russia-fornira-300.000-tonnellate-di-gasolio_5069bc7b-1078-4767-b47e-c09f4ae8c960.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T19:50:34.000Z",
+      "excerpt": "La Casa Bianca sospende temporaneamente le sanzioni sul diesel russo. Zelensky: 'Un'evidente debolezza, gioca a favore della Russia, permettendole di uccidere di più, di prolungare la guerra'. Ucraini e europei a Miami, ",
+      "image": null
+    },
+    {
+      "title": "Terremoto di magnitudo 7.6 a Panama, gli Usa escludono il rischio tsunami",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/terremoto-di-magnitudo-7.6-a-panama-gli-usa-escludono-il-rischio-tsunami_29887a85-8ecb-4253-8ce2-1c781863256c.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T19:44:59.000Z",
+      "excerpt": "Sospesa l'attività dell'aeroporto, chiuse le scuole. Scene di panico nella capitale. Al momento non si hanno notizie di vittime. Seconda scossa di magnitudo 6",
+      "image": null
+    },
     {
       "title": "Trump: 'Colloquio di successo con Putin, la Russia fornirà 300.000 tonnellate di gasolio'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/ucraini-e-europei-a-miami-si-lavora-a-una-proposta-di-tregua.-trump-colloquio-di-successo_5069bc7b-1078-4767-b47e-c09f4ae8c960.html",
@@ -1657,22 +1681,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-09T07:36:35.000Z",
       "excerpt": "Continuano le polemiche su Kimberly Guilfoyle, ex fidanzata del figlio maggiore del presidente americano. Dopo aver attirato l’attenzione per i suoi rapporti con un lobbista e per aver evocato la caduta del governo greco",
-      "image": null
-    },
-    {
-      "title": "Legge elettorale, gli italiani non la conoscono: tre su quattro ignorano la riforma",
-      "link": "https://www.repubblica.it/politica/2026/10/09/news/legge_elettorale_italiani_ignorano_riforma-425636194/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T07:35:55.000Z",
-      "excerpt": "Secondo Youtrend dopo aver letto le principali misure il 41% la promuove. Piace soprattutto il voto per i fuorisede, con l’83% di giudizi positivi. Sul premio di maggioranza resta invece una forte divisione politica",
-      "image": null
-    },
-    {
-      "title": "++ Eni taglia ancora il prezzo del gasolio, torna a 2,19 euro ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/09/eni-taglia-ancora-il-prezzo-del-gasolio-torna-a-219-euro_326d3197-4933-4d5d-b2a4-83c873655b66.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T07:32:07.000Z",
-      "excerpt": "Il price cap resta a 2,25 euro al litro",
       "image": null
     }
   ],
