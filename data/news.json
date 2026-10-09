@@ -1,7 +1,87 @@
 {
-  "lastUpdated": "2026-10-09T09:10:45.832Z",
+  "lastUpdated": "2026-10-09T09:43:43.445Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Slot in calo, gioco in crescita: la domanda migra verso altri canali",
+        "link": "https://www.ilsole24ore.com/art/slot-calo-gioco-crescita-domanda-migra-altri-canali-AJ92gUeB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T09:34:46.000Z",
+        "excerpt": "Tra il 2018 e il 2025 la raccolta complessiva del gioco in Italia è passata da 106,8 a 165,4 miliardi di euro. Nello stesso periodo quella degli apparecchi è scesa...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_1457288-U53205274438Rnq-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "I tassi dei mutui ai massimi da due anni: ad agosto sfiorano il 4%",
+        "link": "https://www.repubblica.it/economia/2026/10/09/news/tassi_mutui_taeg_4_per_cento_agosto_bankitalia-425636463/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-09T09:20:58.000Z",
+        "excerpt": "I dati di Bankitalia: il costo del denaro per i presti alle famiglie cresce dal 3,81% di luglio a 3,99%",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/112017586-54e0ae06-451c-4e43-8602-a59f088b690e.jpg"
+      },
+      {
+        "title": "Perché il titolo Apple è in calo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-apple-e-in-calo-oggi-93CH-3581543",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T09:19:34.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEK5K0P8_L.jpg"
+      },
+      {
+        "title": "Oracle verso +25% e altri 6 titoli nelle scelte top: l’IA ne ha 2, UNH già a +18%",
+        "link": "https://it.investing.com/news/stock-market-news/oracle-verso-25-e-altri-6-titoli-nelle-scelte-top-lia-ne-ha-2-unh-gia-a-18-3581542",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T09:18:29.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_small-LYNXNPEL3A10R_L.jpg"
+      },
+      {
+        "title": "Gasolio a 2,19 nei distributori Eni: la compagnia abbassa ancora il prezzo consigliato",
+        "link": "https://www.repubblica.it/economia/2026/10/09/news/gasolio_eni_prezzo_consigliato_price_cap-425636234/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-09T09:17:37.000Z",
+        "excerpt": "Il tetto rimane a 2,25 euro per litro, dopo aver incorporato la fine dello sconto sulle accise: quello fissato è il prezzo a cui la compagnia suggerisce oggi di rivendere il diesel",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/094643219-4295e42b-fac4-4046-837a-58e2754e5379.jpg"
+      },
+      {
+        "title": "Citi evidenzia la crescita delle energy drink nonostante la debolezza nei distributori automatici",
+        "link": "https://it.investing.com/news/stock-market-news/citi-evidenzia-la-crescita-delle-energy-drink-nonostante-la-debolezza-nei-distributori-automatici-93CH-3581539",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T09:16:34.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC1N0KH_M.jpg"
+      },
+      {
+        "title": "Citi vede potenziale in un’acquisizione di Chipotle da parte di Starbucks",
+        "link": "https://it.investing.com/news/stock-market-news/citi-vede-potenziale-in-unacquisizione-di-chipotle-da-parte-di-starbucks-93CH-3581536",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T09:14:32.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/starbucks_M_1440048876.jpg"
+      },
+      {
+        "title": "Bankitalia, ad agosto tasso sui mutui a un passo dal 4%, massimi dal 2024",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/bankitalia-ad-agosto-tasso-sui-mutui-a-un-passo-dal-4-massimi-dal-2024_4b883cea-7dee-44e6-af0d-5df7067adf41.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T09:10:10.000Z",
+        "excerpt": "Taeg sale al 3,99%, dal 3,81 di luglio. Accelerano i prestiti al settore privato",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo di Space Exploration Technologies sale oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-space-exploration-technologies-sale-oggi-93CH-3581503",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T09:06:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
+      },
+      {
+        "title": "RBC promuove Rational dopo che il premio di valutazione scende al 10%",
+        "link": "https://it.investing.com/news/stock-market-news/rbc-promuove-rational-dopo-che-il-premio-di-valutazione-scende-al-10-3581504",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T09:04:45.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+      },
       {
         "title": "Al Sud un esodo da 116 miliardi: rilancio in sei mosse dopo il Pnrr",
         "link": "https://www.ilsole24ore.com/art/al-sud-esodo-116-miliardi-rilancio-sei-mosse-il-pnrr-AJpDeLeB",
@@ -67,22 +147,6 @@
         "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
       },
       {
-        "title": "4 titoli dell’acciaio da comprare: UBS vede un’opportunità nel calo",
-        "link": "https://it.investing.com/news/stock-market-news/4-titoli-dellacciaio-da-comprare-ubs-vede-unopportunita-nel-calo-3581462",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T08:38:03.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
-      },
-      {
-        "title": "Borse oggi | FTSE MIB | Trump frena sull’Iran, petrolio giù e banche in rialzo",
-        "link": "https://it.investing.com/news/stock-market-news/borse-oggi--ftse-mib--trump-frena-sulliran-petrolio-giu-e-banche-in-rialzo-3581457",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T08:37:39.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEBB70GL_M.jpg"
-      },
-      {
         "title": "Istat, produzione industriale agosto -1,3% su mese, invariata su anno",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/istat-produzione-industriale-agosto-13-su-mese-invariata-su-anno_41764f6d-7f24-4b5d-af76-bc4e47d90074.html",
         "source": "ANSA Economia",
@@ -99,30 +163,6 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_1306441-U81806012785Wya-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "RBC declassa Pennon Group per le difficili prospettive AMP8",
-        "link": "https://it.investing.com/news/stock-market-news/rbc-declassa-pennon-group-per-le-difficili-prospettive-amp8-3581456",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T08:32:48.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB5I0FW_M.jpg"
-      },
-      {
-        "title": "Borse Europa in rialzo su calo prezzo greggio, debole settore telecom",
-        "link": "https://it.investing.com/news/stock-market-news/borse-europa-in-rialzo-su-calo-prezzo-greggio-debole-settore-telecom-3581454",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T08:32:16.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980K4_L.jpg"
-      },
-      {
-        "title": "Citi promuove Bureau Veritas, margine 2027 sopra consensus; titolo +2%",
-        "link": "https://it.investing.com/news/stock-market-news/citi-promuove-bureau-veritas-margine-2027-sopra-consensus-titolo-2-3581449",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T08:16:05.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-      },
-      {
         "title": "Gasolio, Eni taglia il prezzo consigliato: scende a 2,19 euro al litro",
         "link": "https://www.ilsole24ore.com/art/gasolio-eni-taglia-prezzo-consigliato-scende-219-euro-litro-AJ4a3PeB",
         "source": "Il Sole 24 Ore",
@@ -131,28 +171,12 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_2782678-U84144643207okP-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Perché il titolo ArcelorMittal è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-arcelormittal-e-in-rialzo-oggi-93CH-3581438",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T08:14:17.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
-      },
-      {
-        "title": "Askatasuna, 14 perquisizioni per gli scontri di gennaio. Il pm chiede 19 misure cautelari",
+        "title": "Scontri Askatasuna,  chieste 19 misure cautelari. Contestato anche il tentato omicidio",
         "link": "https://www.ilsole24ore.com/art/askatasuna-14-perquisizioni-gli-scontri-gennaio-pm-chiede-19-misure-cautelari-AJWhwNeB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-09T08:13:24.000Z",
+        "pubDate": "2026-10-09T08:13:00.000Z",
         "excerpt": "Quattordici perquisizioni domiciliari in diverse parti d’Italia, a otto mesi dal corteo che aveva trasformato corso Regina Margherita in un campo di scontri. Dalle prime ore di questa mattina la...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/9f24a97acb67874443765fae9b529a87-U85677002087AnG-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Gasolio a 2,19 nei distributori Eni: la compagnia abbassa ancora il prezzo consigliato",
-        "link": "https://www.repubblica.it/economia/2026/10/09/news/gasolio_eni_prezzo_consigliato_price_cap-425636234/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-09T07:56:18.000Z",
-        "excerpt": "Il tetto rimane a 2,25 euro per litro, dopo aver incorporato la fine dello sconto sulle accise: quello fissato è il prezzo a cui la compagnia suggerisce oggi di rivendere il diesel",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/094643219-4295e42b-fac4-4046-837a-58e2754e5379.jpg"
       },
       {
         "title": "Pronti i ricorsi contro il Melonellum: dalle firme alle quote di genere, dal premio al «senatore del mondo»",
@@ -185,22 +209,6 @@
         "pubDate": "2026-10-09T07:12:36.000Z",
         "excerpt": "Francoforte guadagna lo 0,69%",
         "image": null
-      },
-      {
-        "title": "Borsa: Milano apre in rialzo dello 0,82%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-milano-apre-in-rialzo-dello-082_3c66a80f-2dbd-495e-b5b2-4997784ce14a.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T07:10:29.000Z",
-        "excerpt": "Ftse Mib a 49.704 punti",
-        "image": null
-      },
-      {
-        "title": "Comunicato sindacale ",
-        "link": "https://www.ilsole24ore.com/art/comunicato-sindacale-AJKMLMeB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-09T07:09:02.000Z",
-        "excerpt": "La lettura delle carte, per ora il decreto di sequestro probatorio, dell’inchiesta della Procura di Napoli sulla vicenda Multiversity solleva, a nostro parere, un duplice ordine di problemi, uno specifico...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/ddc644503d9d0c3df89529889b1fb7e0-U71854428650TEJ-1440x752@IlSole24Ore-Web.jpg"
       },
       {
         "title": "Per diventare indipendenti abbiamo bisogno di più energia \"made in Europe\"",
@@ -249,17 +257,17 @@
         "pubDate": "2026-10-08T23:00:00.000Z",
         "excerpt": "Il commissario: “Al vaglio la proposta italiana, parlato con Giorgetti”. Scontro fra frugali e paesi del Sud. Ok alla clausola di salvaguardia",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/222956076-6cd4de4c-b8f1-4f49-ba32-d692bbf5212d.jpg"
-      },
-      {
-        "title": "Manovra, sul tavolo del governo un contributo a carico delle banche. Ma gli istituti fanno muro",
-        "link": "https://www.repubblica.it/economia/2026/10/09/news/contributo_banche_manovra_leo-425635646/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-08T23:00:00.000Z",
-        "excerpt": "Il viceministro dell’Economia Leo: “Dialogo avviato”. L’idea di alzare le imposte anche alle big dell’energia. L’Abi: “La crisi rischia di colpirci”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/221258059-7c143c17-a935-422a-a695-168e37220da0.jpg"
       }
     ],
     "europa": [
+      {
+        "title": "Londra, Sagal Abdi-Wali vince  a Holborn &amp; St Pancras: il Labour resiste alla sfida dei Verdi",
+        "link": "https://www.ilsole24ore.com/art/londra-sagal-abdi-wali-vince-holborn-st-pancras-labour-resiste-sfida-verdi-AJLayUeB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-09T09:35:00.000Z",
+        "excerpt": "La neo-deputata, rifugiata somala e leader locale, conferma il dominio laburista in un’elezione segnata da tensioni interne e da un’affluenza storicamente bassa",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/2026-10-09T030403Z_1714450563_RC2EZNAGJ4UU_RTRMADP_5_BRITAIN-POLITICS-BYELECTION-RESULT-U32462556353rbr-1440x752@IlSole24Ore-Web.JPG"
+      },
       {
         "title": "Nuove incursioni israeliane in Cisgiordania. Ieri otto morti nella Striscia di Gaza",
         "link": "https://www.ilsole24ore.com/art/nuove-incursioni-israeliane-cisgiordania-ieri-otto-morti-striscia-gaza-AJYzxPeB",
@@ -315,14 +323,6 @@
         "pubDate": "2026-10-08T15:51:00.000Z",
         "excerpt": "La polizia britannica ha ammesso oggi l’illegittimità delle perquisizioni compiute a febbraio in due residenze dell’ex principe Andrea che condussero anche a un’umiliante arresto temporaneo lo...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/2026-10-08T142049Z_1370675070_RC20TGAP7REC_RTRMADP_5_BRITAIN-ROYALS-MOUNTBATTENWINDSOR-U22753664826IEL-1440x752@IlSole24Ore-Web.JPG"
-      },
-      {
-        "title": "Peste in Siberia, la madre della ricercatrice: «Hanno lasciato morire mia figlia»",
-        "link": "https://www.ilsole24ore.com/art/peste-siberia-russia-smentisce-secondo-caso-madre-ricercatrice-hanno-lasciato-morire-mia-figlia-AJCnBVdB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-08T14:18:00.000Z",
-        "excerpt": "Washington ha inviato a Mosca una nota ufficiale per chiedere informazioni su quanto accaduto nella città siberiana di Irkutsk. Trump: «Presto avrò una telefonata con Putin»",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/LP_24813543-U33817667364dzO-1440x752@IlSole24Ore-Web.jpg"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -392,12 +392,52 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Premio Nobel per la Pace 2026 a Navanethem Pillay",
+        "title": "Premio Nobel per la Pace 2026 alla giudice della Cpi Navanethem Pillay",
         "link": "https://www.repubblica.it/esteri/2026/10/09/news/premio_nobel_pace_2026_navanethem_pillay-425636395/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-10-09T09:03:06.000Z",
-        "excerpt": "Il nome del vincitore annunciato presso l'Istituto Nobel di Oslo. In un mondo flagellato da conflitti e crisi, quest'anno sono state 287 le persone e le organizzazioni candidate al più prestigioso riconoscimento diplomat",
+        "pubDate": "2026-10-09T09:36:39.000Z",
+        "excerpt": "Il nome del vincitore annunciato presso l'Istituto Nobel di Oslo. Il riconoscimento: “Coraggio e integrità contro crimini di guerra”. Il comitato non riesce a contattarla: “Se vede un numero norvegese, per favore rispond",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/110300958-66be8c23-91b0-4bb3-a845-bbb05cf89442.jpg"
+      },
+      {
+        "title": "Gli attacchi degli Houthi all'aeroporto di Riyadh hanno ucciso tre sauditi mentre la guerra si intensifica",
+        "link": "https://www.investing.com/news/commodities-news/houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates-4940497",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T09:24:41.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980MU_L.jpg"
+      },
+      {
+        "title": "Dentro lo stallo del principale organismo mondiale di scienze del clima",
+        "link": "https://www.investing.com/news/commodities-news/inside-the-deadlock-at-the-worlds-top-climate-science-body-4940254",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T09:24:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980CL_L.jpg"
+      },
+      {
+        "title": "I prezzi del petrolio scendono dopo che Trump esclude l'attacco iraniano pre-medio termine, allentando i timori sull'offerta",
+        "link": "https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T09:22:52.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC2U0WF_M.jpg"
+      },
+      {
+        "title": "Brasile, passa alla destra anche lo stato chiave di Rio de Janeiro",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/brasile-passa-alla-destra-anche-lo-stato-chiave-di-rio-de-janeiro_21b85f7c-7953-481c-a4c0-790edd7d3531.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T09:19:49.000Z",
+        "excerpt": "Virtualmente eletto il bolsonarista Ruas. Sconfitto Paes, alleato di Lula",
+        "image": null
+      },
+      {
+        "title": "La rivelazione del principe Harry: “Dopo aver lasciato il Regno Unito sono caduto in depressione”",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/principe_harry_depressione_regno_unito-425636404/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-09T09:04:44.000Z",
+        "excerpt": "Il duca di Sussex è intervenuto durante una masterclass su come affrontare il lutto. E ha spiegato la sua regola di benessere: avere una regola: non allontanarsi mai dalla sua famiglia per più di 10 giorni",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/110433575-87ed04b7-6993-470a-9d54-aabe27d2003d.jpg"
       },
       {
         "title": "UBS segnala il livello dei prezzi dell'oro in cui probabilmente emergeranno acquirenti DIP",
@@ -472,30 +512,6 @@
         "image": "https://content-media.investing.com/news/LYNXMPED1M0ED_M.jpg"
       },
       {
-        "title": "Petrolio greggio WTI intrappolato nella zona di taglio $89-$92: livelli Live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-200-sma-after-hs-breakdown-live-levels-93CH-4931134",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T07:11:48.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB5605H_M.jpg"
-      },
-      {
-        "title": "I tori del gasolio di Londra si fermano a $1.510- $1.530 massimale: livelli live",
-        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1356-support-on-5h-chart-live-levels-93CH-4931131",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T07:11:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8015J_M.jpg"
-      },
-      {
-        "title": "Gas naturale bloccato a un supporto di $3,105: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-at-3016-with-bear-flag-forming-live-levels-93CH-4931132",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T07:11:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEKAS0PN_L.jpg"
-      },
-      {
         "title": "Il partito di Machado, 'si annulli subito la sua ineleggibilità'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/il-partito-di-machado-si-annulli-subito-la-sua-ineleggibilita_0e2ae966-c3c9-4800-ab21-3f1c697fd620.html",
         "source": "ANSA Mondo",
@@ -552,14 +568,6 @@
         "image": null
       },
       {
-        "title": "Stretto di Magellano, il traffico marittimo cresce del 70%",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/stretto-di-magellano-il-traffico-marittimo-cresce-del-70_c4aa3fb0-ca4a-403f-b1b5-817cdd1f6578.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T01:23:23.000Z",
-        "excerpt": "Pesano la siccità a Panama e le tensioni in Medio Oriente",
-        "image": null
-      },
-      {
         "title": "Rabbia a Khan al Ahmar, dove muore la speranza dello Stato palestinese",
         "link": "https://www.repubblica.it/esteri/2026/10/09/news/cisgiordania_khan_al_ahmar_progetto_e1_colonie_stato_palestinese-425635563/?rss",
         "source": "Repubblica Esteri",
@@ -574,40 +582,32 @@
         "pubDate": "2026-10-08T23:00:00.000Z",
         "excerpt": "Intervistato da un giornale israeliano, il generale Avi Gil conferma le accuse: “Aveva letto i rapporti dei servizi prima della strage”",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/210544609-9fe469c4-7a05-4677-95a5-94681c294cee.jpg"
-      },
-      {
-        "title": "Missili degli Houthi su Riad. Colpito l’aeroporto, voli sospesi: 3 morti",
-        "link": "https://www.repubblica.it/esteri/2026/10/09/news/missili_houthi_su_riad_colpito_aeroporto_voli_sospesi-425635367/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-08T23:00:00.000Z",
-        "excerpt": "Gli attacchi hanno fatto vittime e decine di feriti. Turchia e Pakistan pronti a inviare aiuti difensivi alla monarchia sunnita",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/210518905-a1bc8cd0-a2b3-4f36-8026-af517abf6aa1.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Oggi il Premio Nobel per la Pace",
+      "title": "Il Nobel per la pace alla giurista sudafricana Navanethem 'Navi' Pillay",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/oggi-il-premio-nobel-per-la-pace_1a002ce2-cdbd-4b9c-aebc-21767cd04154.html",
       "source": "ANSA",
-      "pubDate": "2026-10-09T09:02:37.000Z",
-      "excerpt": "La diretta",
-      "image": null
-    },
-    {
-      "title": "Doppia tromba marina nel Trapanese, danni e feriti",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/doppia-tromba-marina-nel-trapanese-danni-e-feriti_8a1fb1c3-e77d-44de-ad4a-f0d636c72330.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T09:01:08.000Z",
-      "excerpt": "Un'auto colpita è caduta in un burrone, due persone in ospedale",
+      "pubDate": "2026-10-09T09:29:39.000Z",
+      "excerpt": "La giurista sudafricana ha dimostrato 'eccezionale coraggio e integrità' nel suo lavoro contro 'i crimini di guerra'. E' stata giudice della Corte penale internazionale e presidente del Tribunale penale internazionale pe",
       "image": null
     },
     {
       "title": "La fucilazione dell'autore della strage di Fort Hood sarà pubblica e in streaming",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/08/la-fucilazione-dellautore-della-strage-di-fort-hood-sara-pubblica-e-in-streaming_82f5ecaf-fec1-4ee7-8e0f-507effc31551.html",
       "source": "ANSA",
-      "pubDate": "2026-10-09T08:56:25.000Z",
-      "excerpt": "Sarebbe la prima in 90 anni",
+      "pubDate": "2026-10-09T09:29:28.000Z",
+      "excerpt": "Sarebbe la prima in 90 anni. L'Onu: 'L'esecuzione pubblica costituirebbe tortura'",
+      "image": null
+    },
+    {
+      "title": "++ Sci: Goggia salta Soelden 'devo tornare a stare bene come persona' ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/09/sci-goggia-salta-soelden-devo-tornare-a-stare-bene-come-persona_beee3940-dd71-4133-9d07-7a8452031da2.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T09:28:52.000Z",
+      "excerpt": "Dopo il virus 'dolori invalidanti e tremori, ora stanca ma sto meglio'",
       "image": null
     },
     {
@@ -616,6 +616,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-09T08:33:36.000Z",
       "excerpt": "A maggio il presidente Parmelin aveva promesso a Meloni che avrebbe risolto il caso fatture, ma si attende ancora la decisione",
+      "image": null
+    },
+    {
+      "title": "La regina della Thailandia alla guida di un caccia",
+      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/10/09/la-regina-della-thailandia-alla-guida-di-un-caccia_5b4b362a-4ed6-41bb-8474-9cbf6bfc54e4.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T08:24:38.000Z",
+      "excerpt": "Il volo in solitaria di Suthida, il video diffuso dalla Casa Reale",
       "image": null
     },
     {
@@ -696,14 +704,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-08T16:58:26.000Z",
       "excerpt": "Al via il 9 ottobre la prima monografica, prestiti da Firenze e dai musei del mondo",
-      "image": null
-    },
-    {
-      "title": "'Altrementi chef', all'esposizione Fao concorso culinario per l'inclusione",
-      "link": "https://www.ansa.it/responsabilmente/notizie/valori_condivisi/2026/10/08/altrementi-chef-allesposizione-fao-concorso-culinario-per-linclusione_925c818d-3480-4be2-abdc-9dadf00225d5.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-08T13:32:40.000Z",
-      "excerpt": "Terza edizione promossa dall'Istituto Diplomatico Internazionale",
       "image": null
     },
     {
