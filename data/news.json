@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-09T04:09:33.249Z",
+  "lastUpdated": "2026-10-09T04:43:30.285Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Mercati asiatici misti; i produttori di chip cedono sui timori legati ai ricavi di OpenAI",
+        "link": "https://it.investing.com/news/stock-market-news/mercati-asiatici-misti-i-produttori-di-chip-cedono-sui-timori-legati-ai-ricavi-di-openai-3581192",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T04:08:11.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
+      },
       {
         "title": "Las Vegas Sands punta ad ampliare l’offerta non-gaming a Macao",
         "link": "https://it.investing.com/news/stock-market-news/las-vegas-sands-punta-ad-ampliare-lofferta-nongaming-a-macao-93CH-3581184",
@@ -73,14 +81,6 @@
         "pubDate": "2026-10-09T01:54:44.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-      },
-      {
-        "title": "Retension Pharmaceuticals fissa il prezzo dell’IPO a $12 per azione sul Nasdaq",
-        "link": "https://it.investing.com/news/stock-market-news/retension-pharmaceuticals-fissa-il-prezzo-dellipo-a-12-per-azione-sul-nasdaq-432SI-3581171",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T01:48:02.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
       },
       {
         "title": "Toyota e big cinesi dell'auto: alleanza per l'elettrificazione",
@@ -587,6 +587,22 @@
   },
   "attualita": [
     {
+      "title": "The NBA’s plan to conquer Europe",
+      "link": "https://europe.repubblica.it/en/sport/2026/10/09/news/nba_fiba_european_basketball_league_euroleague_opposition-425634615/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T04:00:00.000Z",
+      "excerpt": "European basketball clubs face a choice: resist or join forces. The US model promises to transform the game both on the court and in the boardroom",
+      "image": null
+    },
+    {
+      "title": "The Prevost method: smiles and a cool head, but firm on Francis’ reforms",
+      "link": "https://europe.repubblica.it/en/news/2026/10/09/news/pope_leo_xiv_prevost_method_francis_reforms-425634785/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T04:00:00.000Z",
+      "excerpt": "The Argentine pontiff had predicted it: “My job was to break things open, and I did. Whoever comes after me will have to stitch them back together.” And so the Chicago-born Pope’s spoils system is proceeding at a measure",
+      "image": null
+    },
+    {
       "title": "New York, un agente dell’Ice spara e ferisce un uomo. Proteste e arresti, Mamdani a Trump: “Stop ai raid”",
       "link": "https://www.repubblica.it/esteri/2026/10/09/news/new_york_ice_spara_uomo_arresto_mamdani-425635828/",
       "source": "Repubblica",
@@ -632,22 +648,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-08T23:00:00.000Z",
       "excerpt": "Dopo il via libera alla nuova legge elettorale, il centrosinistra accelera per definire programma e alleanze. Conte: “Il 18 Avs presenterà il suo programma e Schlein ha l’assemblea del Pd. Un attimo dopo, veramente un at",
-      "image": null
-    },
-    {
-      "title": "La legge elettorale: sulla scheda le coalizioni non il nome del premier. E tornano le preferenze",
-      "link": "https://www.repubblica.it/politica/2026/10/09/news/legge_elettorale_come_funziona_premio_maggioranza_preferenze_fuorisede-425635433/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-08T23:00:00.000Z",
-      "excerpt": "Dal premio di maggioranza alle soglie di sbarramento cambiano le regole per partiti e candidati. E per chi studia lavora o assiste un familiare sarà possibile votare nel Comune in cui si trova",
-      "image": null
-    },
-    {
-      "title": "Premio al 42% e scelta del leader, i paletti del Quirinale sulla riforma elettorale",
-      "link": "https://www.repubblica.it/politica/2026/10/09/news/paletti_quirinale_riforma_elettorale-425635503/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-08T23:00:00.000Z",
-      "excerpt": "Cambia l’asticella per la maggioranza e viene fissato un tetto ai seggi assegnabili. Sul candidato presidente del Consiglio resta il richiamo alla Costituzione, mentre ora la parola passa alla Consulta",
       "image": null
     },
     {
