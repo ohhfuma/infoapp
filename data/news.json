@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-10-09T16:43:35.863Z",
+  "lastUpdated": "2026-10-09T17:09:02.927Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il prezzo del gas sale a 80,33 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/il-prezzo-del-gas-sale-a-8033-euro-al-megawattora_da08aa4f-6e42-41e4-9375-94878debabd7.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T16:43:09.000Z",
+        "excerpt": "Ad Amsterdam le quotazioni registrano un incremento dell'1,8%",
+        "image": null
+      },
+      {
+        "title": "Geely Auto entra nel mercato canadese con il lancio di veicoli nel 2027",
+        "link": "https://it.investing.com/news/stock-market-news/geely-auto-entra-nel-mercato-canadese-con-il-lancio-di-veicoli-nel-2027-93CH-3582526",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T16:36:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      },
       {
         "title": "Iveco, Tata Motors alza l'offerta di 30 centesimi a 14,40 euro per azione",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/iveco-tata-motors-alza-lofferta-di-30-centesimi-a-1440-euro-per-azione_45a94060-4035-4339-9928-a81716e25354.html",
@@ -131,14 +147,6 @@
         "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
       },
       {
-        "title": "Securitize rally: Wall Street vede potenziale strategico nel lancio di azioni tokenizzate",
-        "link": "https://it.investing.com/news/stock-market-news/securitize-rally-wall-street-vede-potenziale-strategico-nel-lancio-di-azioni-tokenizzate-3582493",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T15:10:37.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
         "title": "A Milano la nuova vita dell’ex Macello passa dal recupero del passato",
         "link": "https://www.ilsole24ore.com/art/a-milano-nuova-vita-dell-ex-macello-passa-recupero-passato-AJtROqeB",
         "source": "Il Sole 24 Ore",
@@ -160,14 +168,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-09T14:39:39.000Z",
         "excerpt": "'Passo importante per difendere l'eccellenza dell'extravergine italiano'",
-        "image": null
-      },
-      {
-        "title": "Distribuzione Moderna specializzata, mercato consumi fuori casa supera i 100 miliardi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/distribuzione-moderna-specializzata-mercato-consumi-fuori-casa-supera-i-100-miliardi_a8022347-795a-4ebd-8125-42e2debe1697.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T14:15:10.000Z",
-        "excerpt": "Cresce la ristorazione di fascia medio-alta",
         "image": null
       },
       {
@@ -392,6 +392,30 @@
     "usa": [],
     "mondo": [
       {
+        "title": "I futures malesi sull'olio di palma scendono dopo l'assenza di esenzione dai dazi all'esportazione",
+        "link": "https://www.investing.com/news/commodities-news/malaysian-palm-oil-futures-fall-after-no-export-duty-waiver-93CH-4941499",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T16:48:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA6807X_M.jpg"
+      },
+      {
+        "title": "I prezzi del petrolio scendono dopo che Trump esclude l'attacco iraniano pre-medio termine, allentando i timori sull'offerta",
+        "link": "https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T16:46:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC2U0WF_M.jpg"
+      },
+      {
+        "title": "Gli Usa annunciano sanzioni contro la Cpi: “Minaccia gli americani”. Sdegno Ue. L’Italia: “Incrollabile sostegno alla Corte”",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/sanzioni_usa_cpi_nobel_pillay_reazione_ue_italia_contraria-425637628/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-09T16:46:48.000Z",
+        "excerpt": "La decisione dopo il Nobel per la pace a Navanthem Pillay. L’Unione Europea: “Deplorevole, pronti a garantire il lavoro dei giudici”. Nota congiunta dei ministri degli Esteri di Canada, Danimarca, Germania, Francia, Ital",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/181959643-4cf2c827-516e-4b97-8fe3-0f77e57190ca.jpg"
+      },
+      {
         "title": "I prezzi del diesel negli Stati Uniti rimangono elevati nonostante le mosse di Trump per aumentare le forniture",
         "link": "https://www.investing.com/news/commodities-news/trumps-moves-to-boost-diesel-supplies-have-not-yet-lowered-prices-4940588",
         "source": "Investing.com Commodities",
@@ -406,14 +430,6 @@
         "pubDate": "2026-10-09T16:24:32.000Z",
         "excerpt": "'Chi odia il nostro paese vuole cancellare la comunità italiana'",
         "image": null
-      },
-      {
-        "title": "Sanzioni Usa alla Cpi dopo il Nobel per la pace a Pillay. L’Italia contraria: “Piena fiducia”",
-        "link": "https://www.repubblica.it/esteri/2026/10/09/news/sanzioni_usa_cpi_nobel_pillay_reazione_ue_italia_contraria-425637628/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-09T16:20:43.000Z",
-        "excerpt": "L’Ue: “Decisione deplorevole, pronti a garantire il lavoro dei giudici”. Nota congiunta dei ministri degli Esteri di Canada, Danimarca, Germania, Francia, Italia, Giappone, Paesi Bassi, Regno Unito: “Sostegno incrollabil",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/181959643-4cf2c827-516e-4b97-8fe3-0f77e57190ca.jpg"
       },
       {
         "title": "Marcia indietro della Corte Suprema in Argentina sulla vendita di terre a stranieri",
@@ -520,14 +536,6 @@
         "image": "https://content-media.investing.com/news/LYNXMPED1M0ED_M.jpg"
       },
       {
-        "title": "I prezzi del petrolio scendono dopo che Trump esclude l'attacco iraniano pre-medio termine, allentando i timori sull'offerta",
-        "link": "https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T13:50:47.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC2U0WF_M.jpg"
-      },
-      {
         "title": "Elezioni Brasile, critiche a Janja Lula dopo la sconfitta. I candidati minori appoggiano Bolsonaro",
         "link": "https://www.repubblica.it/esteri/2026/10/09/news/elezioni_brasile_critiche_janja_lula_sconfitta_candidati_minori_appoggiano_bolsonaro-425637038/?rss",
         "source": "Repubblica Esteri",
@@ -560,14 +568,6 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980TG_L.jpg"
       },
       {
-        "title": "Le nuove regole di Trump renderanno più difficile per gli agricoltori accedere ai fondi statunitensi per i progetti energetici",
-        "link": "https://www.investing.com/news/commodities-news/new-trump-rules-will-make-it-harder-for-farmers-to-access-us-funds-for-energy-projects-4940607",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T10:32:17.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980PQ_L.jpg"
-      },
-      {
         "title": "“La conclusione della mia commissione Onu: Israele sta commettendo un genocidio a Gaza”",
         "link": "https://www.repubblica.it/esteri/2026/10/09/news/navi_pillay_genocidio_gaza_nobel_pace_commissione_onu-425636690/?rss",
         "source": "Repubblica Esteri",
@@ -592,6 +592,22 @@
       "source": "ANSA",
       "pubDate": "2026-10-09T16:36:21.000Z",
       "excerpt": "Sarebbe la prima in 90 anni. L'Onu: 'Costituirebbe tortura'",
+      "image": null
+    },
+    {
+      "title": "Cobolli, messaggi di morte dopo la sconfitta di Shanghai: il padre li pubblica e denuncia",
+      "link": "https://www.repubblica.it/sport/tennis/2026/10/09/news/cobolli_messaggi_morte_social-425637647/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T16:28:36.000Z",
+      "excerpt": "Stefano, padre e coach del tennista azzurro, ha mostrato un post in cui al figlio veniva augurato il cancro",
+      "image": null
+    },
+    {
+      "title": "Gli Usa annunciano sanzioni contro la Cpi: “Minaccia gli americani”. Sdegno Ue. L’Italia: “Incrollabile sostegno alla Corte”",
+      "link": "https://www.repubblica.it/esteri/2026/10/09/news/sanzioni_usa_cpi_nobel_pillay_reazione_ue_italia_contraria-425637628/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T16:20:43.000Z",
+      "excerpt": "L’Unione Europea: “Decisione deplorevole, pronti a garantire il lavoro dei giudici”. Nota congiunta dei ministri degli Esteri di Canada, Danimarca, Germania, Francia, Italia, Giappone, Paesi Bassi, Regno Unito: “Piena fi",
       "image": null
     },
     {
@@ -643,27 +659,11 @@
       "image": null
     },
     {
-      "title": "Senatore 5S passa al gruppo misto: mossa anti-firme per Onorato e Maraio",
-      "link": "https://www.repubblica.it/politica/2026/10/09/news/senatore_5s_passa_gruppo_misto_mossa_anti-firme_onorato_maraio-425637182/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T13:56:23.000Z",
-      "excerpt": "Il soccorso dell’esponente del Movimento Luigi Nave alla nuova formazione di Progetto Civico Italia e al Psi contro la legge elettorale definita “liberticida”",
-      "image": null
-    },
-    {
       "title": "Gp Singapore, Verstappen conquista la pole della Sprint: per lui nessuna penalità",
       "link": "https://www.repubblica.it/sport/formulauno/2026/10/09/news/gp_singapore_verstappen_sprint_ferrari_antonelli-425637175/",
       "source": "Repubblica",
       "pubDate": "2026-10-09T13:52:49.000Z",
       "excerpt": "Sull’olandese pendeva una possibile sanzione per non aver rispettato una bandiera gialla in SQ1",
-      "image": null
-    },
-    {
-      "title": "Crans, il nodo fatture dei feriti italiani: la Svizzera potrebbe pagare \"per pragmatismo umano”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/09/news/crans_fatture_feriti_italiani_scontro_diplomatico-425637151/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T13:32:55.000Z",
-      "excerpt": "Due ipotesi allo studio per il conto da oltre un milione e mezzo di franchi chiesto anche a chi era stato per poche ore negli ospedali svizzeri dopo l’incendio al Constellation",
       "image": null
     },
     {

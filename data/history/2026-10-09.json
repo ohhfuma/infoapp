@@ -4,6 +4,22 @@
   "finanza": {
     "italia": [
       {
+        "title": "Il prezzo del gas sale a 80,33 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/il-prezzo-del-gas-sale-a-8033-euro-al-megawattora_da08aa4f-6e42-41e4-9375-94878debabd7.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T16:43:09.000Z",
+        "excerpt": "Ad Amsterdam le quotazioni registrano un incremento dell'1,8%",
+        "image": null
+      },
+      {
+        "title": "Geely Auto entra nel mercato canadese con il lancio di veicoli nel 2027",
+        "link": "https://it.investing.com/news/stock-market-news/geely-auto-entra-nel-mercato-canadese-con-il-lancio-di-veicoli-nel-2027-93CH-3582526",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T16:36:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      },
+      {
         "title": "Iveco, Tata Motors alza l'offerta di 30 centesimi a 14,40 euro per azione",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/iveco-tata-motors-alza-lofferta-di-30-centesimi-a-1440-euro-per-azione_45a94060-4035-4339-9928-a81716e25354.html",
         "source": "ANSA Economia",
@@ -466,22 +482,6 @@
         "pubDate": "2026-10-09T12:51:16.000Z",
         "excerpt": "L’annuncio del ministero del Commercio di Pechino",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/144705283-67cbc593-a887-4fed-870b-42c5a84dbe05.jpg"
-      },
-      {
-        "title": "Perché il titolo SCHOTT Pharma sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-schott-pharma-sta-scendendo-oggi-93CH-3582216",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T12:47:58.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
-      },
-      {
-        "title": "Perché il titolo di Cboe Global Markets è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-cboe-global-markets-e-in-rialzo-oggi-93CH-3582212",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T12:46:12.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/CboeGlobalMarkets_800x533_L_1675583597.jpg"
       }
     ],
     "europa": [
@@ -696,6 +696,14 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "I futures malesi sull'olio di palma scendono dopo l'assenza di esenzione dai dazi all'esportazione",
+        "link": "https://www.investing.com/news/commodities-news/malaysian-palm-oil-futures-fall-after-no-export-duty-waiver-93CH-4941499",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T16:48:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA6807X_M.jpg"
+      },
       {
         "title": "Trump, 'mappa New York senza Little Italy una vergogna', minaccia taglio fondi",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/09/trump-mappa-new-york-senza-little-italy-una-vergogna-minaccia_5ae716db-ce32-4687-9ec8-1c06cb0761c9.html",
@@ -1167,14 +1175,6 @@
         "pubDate": "2026-10-09T08:20:31.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/Copper_800x533_L_1762262220.jpg"
-      },
-      {
-        "title": "Maltempo in Cile, distretto di Santiago dichiarato 'zona di catastrofe'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/maltempo-in-cile-distretto-di-santiago-dichiarato-zona-di-catastrofe_8a5b89c4-96c2-4613-b471-6cdfd266c48c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T07:44:01.000Z",
-        "excerpt": "Insolita colata di fango invade le strade di Las Condes. Almeno 6 feriti",
-        "image": null
       }
     ]
   },
@@ -1185,6 +1185,22 @@
       "source": "ANSA",
       "pubDate": "2026-10-09T16:36:21.000Z",
       "excerpt": "Sarebbe la prima in 90 anni. L'Onu: 'Costituirebbe tortura'",
+      "image": null
+    },
+    {
+      "title": "Cobolli, messaggi di morte dopo la sconfitta di Shanghai: il padre li pubblica e denuncia",
+      "link": "https://www.repubblica.it/sport/tennis/2026/10/09/news/cobolli_messaggi_morte_social-425637647/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T16:28:36.000Z",
+      "excerpt": "Stefano, padre e coach del tennista azzurro, ha mostrato un post in cui al figlio veniva augurato il cancro",
+      "image": null
+    },
+    {
+      "title": "Gli Usa annunciano sanzioni contro la Cpi: “Minaccia gli americani”. Sdegno Ue. L’Italia: “Incrollabile sostegno alla Corte”",
+      "link": "https://www.repubblica.it/esteri/2026/10/09/news/sanzioni_usa_cpi_nobel_pillay_reazione_ue_italia_contraria-425637628/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T16:20:43.000Z",
+      "excerpt": "L’Unione Europea: “Decisione deplorevole, pronti a garantire il lavoro dei giudici”. Nota congiunta dei ministri degli Esteri di Canada, Danimarca, Germania, Francia, Italia, Giappone, Paesi Bassi, Regno Unito: “Piena fi",
       "image": null
     },
     {
@@ -1641,22 +1657,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-08T23:00:00.000Z",
       "excerpt": "La premier ad Ascoli per l’inaugurazione del palazzo Saladini Pilastri “Approvata una legge che rimette più potere nelle mani dei cittadini”",
-      "image": null
-    },
-    {
-      "title": "Napoli, affitti annuali contro chi non paga: anche la casa è precaria",
-      "link": "https://napoli.repubblica.it/cronaca/2026/10/09/news/casa_affitti_napoli_emergenza-425635691/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-08T23:00:00.000Z",
-      "excerpt": "È la formula preferita: contratti brevi al posto del tradizionale 4+4 Prezzi aumentati del 43% in 10 anni, le famiglie fuggono in provincia",
-      "image": null
-    },
-    {
-      "title": "Napoli, emergenza casa: “Noi, con un figlio disabile in attesa da 17 anni di alloggio popolare”",
-      "link": "https://napoli.repubblica.it/cronaca/2026/10/09/news/casa_popolare_napoli_disabile_assegnazione_graduatorie-425635701/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-08T23:00:00.000Z",
-      "excerpt": "A Napoli 42mila case di edilizia pubblica già occupate. La storia della famiglia Fernandez: “Per comprare questa abitazione servono 140 mila euro. Chi me li presta con la sola pensione sociale?”",
       "image": null
     }
   ],
