@@ -4,6 +4,30 @@
   "finanza": {
     "italia": [
       {
+        "title": "Made in Italy, più Pmi sui mercati esteri: il piano",
+        "link": "https://www.ilsole24ore.com/art/made-italy-piu-pmi-mercati-esteri-piano-AJ6qqueB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T15:38:00.000Z",
+        "excerpt": "Presentato a Roma un programma per la tutela e la promozione del marchio italiano all’estero. L’iniziativa di Tesori d’Italia e Tesori d’Europa con il patrocinio della Città Metropolitana di Roma Capitale",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/AdobeStock_315646776-U55010738505yXd-1440x752@IlSole24Ore-Web.jpeg"
+      },
+      {
+        "title": "Securitize rally: Wall Street vede potenziale strategico nel lancio di azioni tokenizzate",
+        "link": "https://it.investing.com/news/stock-market-news/securitize-rally-wall-street-vede-potenziale-strategico-nel-lancio-di-azioni-tokenizzate-3582493",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T15:10:37.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM350U8_1200_L.jpg"
+      },
+      {
+        "title": "S&P 500 in rialzo 18 volte su 19 in questa fase: i 4 segnali che decidono il rally",
+        "link": "https://it.investing.com/news/stock-market-news/sp-500-in-rialzo-18-volte-su-19-in-questa-fase-i-4-segnali-che-decidono-il-rally-3582489",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T15:08:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM3D0VW_1200_L.jpg"
+      },
+      {
         "title": "A Milano la nuova vita dell’ex Macello passa dal recupero del passato",
         "link": "https://www.ilsole24ore.com/art/a-milano-nuova-vita-dell-ex-macello-passa-recupero-passato-AJtROqeB",
         "source": "Il Sole 24 Ore",
@@ -458,30 +482,6 @@
         "pubDate": "2026-10-09T11:56:35.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
-      },
-      {
-        "title": "Ue-Cina: Pechino, raggiunto accordo sul commercio di veicoli ibridi",
-        "link": "https://www.ilsole24ore.com/art/ue-cina-pechino-raggiunto-accordo-commercio-veicoli-ibridi-AJWqFfeB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-09T11:54:12.000Z",
-        "excerpt": "La Cina e l’Unione europea hanno raggiunto un accordo sul commercio dei veicoli ibridi. Lo ha annunciato il Ministero cinese del Commercio, citando un comunicato congiunto al termine dei colloqui...",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo Fastly è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-fastly-e-in-rialzo-oggi-93CH-3582046",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T11:53:26.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "6 titoli crollati oltre il 25% in un mese: il Fair Value indica un +59% di rialzi",
-        "link": "https://it.investing.com/news/stock-market-news/6-titoli-crollati-oltre-il-25-in-un-mese-il-fair-value-indica-un-59-di-rialzi-3582045",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T11:53:10.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/c0a36bee43464b44ced5c794e9b884d9_M.jpg"
       }
     ],
     "europa": [
@@ -688,6 +688,14 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Dalla lotta all'apartheid all'Onu, le battaglie di Navi Pillay ",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/09/dalla-lotta-allapartheid-allonu-le-battaglie-di-navi-pillay-_fa26e7ee-8126-4c11-811d-d749fbac0303.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T15:14:44.000Z",
+        "excerpt": "Di origine indiana, nata in Sudafrica, da sempre impegnata per i diritti umani",
+        "image": null
+      },
       {
         "title": "'Rubio, Cpi corte canaglia, vieteremo le transazioni'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/09/rubio-cpi-corte-canaglia-vieteremo-le-transazioni_d9005006-5892-45b1-b690-2dbec719b36a.html",
@@ -1159,14 +1167,6 @@
         "pubDate": "2026-10-09T02:30:20.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9804P_L.jpg"
-      },
-      {
-        "title": "Cuba, 'Agli Usa manca l'autorità morale per decidere chi commercia con noi'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/cuba-agli-usa-manca-lautorita-morale-per-decidere-chi-commercia_b31055ed-5875-4cb0-bfe8-6bb73031215b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T01:25:23.000Z",
-        "excerpt": "Lo ha dichiarato il ministro Rodríguez dopo il sequestro di 90 carichi di carburante",
-        "image": null
       }
     ]
   },
@@ -1249,6 +1249,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-09T11:00:00.000Z",
       "excerpt": "Con il suo lavoro alla guida di Gucci e poi di Valentino, lo stilista è un simbolo della stagione in cui la moda ha imparato ad abbattere steccati. E dice: “Il woke è stato una presa di coscienza collettiva, poi è divent",
+      "image": null
+    },
+    {
+      "title": "\"Vespucci e Barcolana sono due eccellenze italiane\"",
+      "link": "https://www.ansa.it/sito/videogallery/italia/2026/10/09/vespucci-e-barcolana-sono-due-eccellenze-italiane_4224b580-ba80-40d9-b3ac-a60b89ec3b21.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T10:41:24.000Z",
+      "excerpt": "Berutti Bergotto: \"La nostra nave scuola fa lo stesso lavoro da 95 anni\"",
       "image": null
     },
     {
@@ -1369,6 +1377,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-09T08:15:20.000Z",
       "excerpt": "Francesca Fantuzzi ha un patentino Dae ed è intervenuta in attesa del 118. Il giocatore del Sassuolo la scorsa estate aveva prestato aiuto a un ciclista in Toscana",
+      "image": null
+    },
+    {
+      "title": "Dormire col proprio cane non disturba il sonno ",
+      "link": "https://www.ansa.it/canale_scienza/notizie/ragazzi/news/2026/10/09/dormire-col-proprio-cane-non-compromette-il-sonno-_9f2f97c5-9b17-41f2-a1ef-5793c95312a9.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T07:59:06.000Z",
+      "excerpt": "Spesso sono gli umani a disturbare per primi il riposo degli animali",
       "image": null
     },
     {
@@ -1634,25 +1650,41 @@
       "pubDate": "2026-10-08T21:19:41.000Z",
       "excerpt": "Dopo l'incontro a Palazzo Chigi",
       "image": null
-    },
-    {
-      "title": "Processo Maradona, il pm chiede 12 anni di reclusione per il neurochirurgo Luque",
-      "link": "https://www.repubblica.it/sport/calcio/2026/10/09/news/processo_maradona_pm_chiede_12_anni_neurochirurgo_luque-425635540/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-08T20:10:00.000Z",
-      "excerpt": "Dura arringa di Patricio Ferrari contro lo staff medico incaricato di vegliare sulla salute dell'ex fuoriclasse argentino: \"Fu curato da gruppo di improvvisati che abbandonarono Diego alla sua sorte\". Chiesti, inoltre, 2",
-      "image": null
-    },
-    {
-      "title": "Raid russo sui bus fa strage a Kramatorsk, almeno 33 morti",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/08/raid-russo-sui-bus-fa-strage-a-kramatorsk-almeno-33-morti_018897e4-3f1d-4038-ae12-ebd2df011b00.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-08T20:04:19.000Z",
-      "excerpt": "Axios: 'Negoziatori Kiev attesi a Miami, invitati Gb, Francia, Germania, Nato e Ue'",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Curling: Constantini sconfitta, niente Europei con il team azzurro",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/09/curling-constantini-sconfitta-niente-europei-con-il-team-azzurro_3306e60d-e1b7-4741-ac7b-1395a115839a.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T15:25:44.000Z",
+      "excerpt": "La squadra della campionessa olimpica battuta dal Team Dolomiti,",
+      "image": null
+    },
+    {
+      "title": "Juve: Nico Gonzalez firma il rinnovo fino al 2030",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/09/juve-nico-gonzalez-firma-il-rinnovo-fino-al-2030_d052e436-e919-474e-98aa-23f2d0d6ec02.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T15:23:54.000Z",
+      "excerpt": "L'argentino ha messo sottoscritto l'accordo per il nuovo contratto",
+      "image": null
+    },
+    {
+      "title": "Fiorentina: Vanoli 'a Genova sarà step importante'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/09/fiorentina-vanoli-a-genova-sara-step-importante_bbee01be-b3e2-44c0-a643-30e0ce63c92d.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T15:13:20.000Z",
+      "excerpt": "I Viola senza Atta, i nazionali carichi dopo la sosta",
+      "image": null
+    },
+    {
+      "title": "Serie A: riflettori su Como-Roma, Inter e Lazio favorite",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/09/serie-a-riflettori-su-como-roma-inter-e-lazio-favorite_ef8ed56d-21f4-4db6-8b75-86b7e26887e0.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T15:05:41.000Z",
+      "excerpt": "Per Napoli, Juve e Milan trappole insidiose con Frosinone, Cagliari e Sassuolo",
+      "image": null
+    },
     {
       "title": "Tennis: Musetti subito fuori a Shanghai, eliminato dal n.277 Zhou",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/09/tennis-musetti-subito-fuori-a-shanghai-eliminato-dal-n.277-zhou_77a85cf3-59dc-406a-946c-4d095501ec09.html",
