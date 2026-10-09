@@ -4,6 +4,38 @@
   "finanza": {
     "italia": [
       {
+        "title": "Tata alza il prezzo su Iveco: l’offerta finale a 14,40 euro",
+        "link": "https://www.repubblica.it/economia/2026/10/09/news/tata_rilancia_offerta_iveco-425638123/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-09T20:11:37.000Z",
+        "excerpt": "",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/221132867-ddaf2580-f6a3-4471-b452-a1149a855118.jpg"
+      },
+      {
+        "title": "Hunterbrook scopre posizione short su Meta mentre i dati alternativi segnalano un raffreddamento di Muse",
+        "link": "https://it.investing.com/news/stock-market-news/hunterbrook-scopre-posizione-short-su-meta-mentre-i-dati-alternativi-segnalano-un-raffreddamento-di-muse-3582625",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T20:08:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
+        "title": "Perché il titolo AGCO sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-agco-sta-scendendo-oggi-93CH-3582614",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T20:00:43.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      },
+      {
+        "title": "Perché il titolo CNH Industrial è in calo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-cnh-industrial-e-in-calo-oggi-93CH-3582613",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T19:55:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      },
+      {
         "title": "Perché il titolo di Deere & Company crolla oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-deere--company-crolla-oggi-93CH-3582612",
         "source": "Investing.com Italia",
@@ -450,38 +482,6 @@
         "pubDate": "2026-10-09T14:13:18.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/NIO_800x533_L_1596454554.jpg"
-      },
-      {
-        "title": "Bcc Lombardia in crescita, raccolta primo semestre supera 36,5 miliardi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/bcc-lombardia-in-crescita-raccolta-primo-semestre-supera-365-miliardi_000a9d19-f95c-457b-b1e0-ce119b48691b.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T14:02:00.000Z",
-        "excerpt": "Azzi, abbiamo strumenti per supportare pmi in transizione digitale e sostenibile",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo di Definium Therapeutics sale oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-definium-therapeutics-sale-oggi-93CH-3582408",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T13:58:54.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB660A4_M.jpg"
-      },
-      {
-        "title": "Perché il titolo di Li Auto è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-li-auto-e-in-forte-rialzo-oggi-93CH-3582403",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T13:56:59.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg"
-      },
-      {
-        "title": "Stellantis, accordo con Wayve può ridurre costi e tempi sviluppo guida autonoma - AD",
-        "link": "https://it.investing.com/news/stock-market-news/stellantis-accordo-con-wayve-puo-ridurre-costi-e-tempi-sviluppo-guida-autonoma--ad-3582402",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T13:56:54.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM98176_L.jpg"
       }
     ],
     "europa": [
@@ -720,6 +720,22 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Zelensky, 'dagli Usa una decisione indegna e disonesta'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/zelensky-dagli-usa-una-decisione-indegna-e-disonesta_c8efa85d-8f1c-4fbe-a427-32d6468a82ea.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T20:40:38.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "Trump cancella il viaggio alla partita di football dell'Alabama in mezzo all'incombente uragano",
+        "link": "https://www.investing.com/news/commodities-news/trump-cancels-trip-to-alabama-football-game-amid-looming-hurricane-4941687",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T20:30:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM981SW_L.jpg"
+      },
       {
         "title": "Axios, Ucraina sorpresa dall'annuncio di Trump per il diesel russo",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/09/axios-ucraina-sorpresa-dallannuncio-di-trump-per-il-diesel-russo_9c842210-c7d8-47e5-a1e3-db6f94ee9848.html",
@@ -1183,26 +1199,18 @@
         "pubDate": "2026-10-09T12:54:55.000Z",
         "excerpt": "Esponenti storici del partito del presidente ritengono che sua moglie sia diventata una sorta di filtro, rendendo più difficile per i vecchi alleati e i dirigenti arrivare direttamente a lui. Mentre altri l’accusano di o",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/145413961-e53e7d7d-5745-46d4-831f-482a78358ca2.jpg"
-      },
-      {
-        "title": "La Germania libererà 15 milioni di barili dalle riserve petrolifere",
-        "link": "https://www.investing.com/news/commodities-news/germany-to-release-15-million-barrels-from-oil-reserves-93CH-4941051",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T12:16:08.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/Crudeoil_800x533_L_1629278494.jpg"
-      },
-      {
-        "title": "A 59 anni dalla morte il mito del Che resiste e risorge nelle piazze",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/a-59-anni-dalla-morte-il-mito-del-che-resiste-e-risorge-nelle-piazze_9e93e73f-f6b0-4b39-8a14-b8bbd36181b5.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T12:04:56.000Z",
-        "excerpt": "La foto di Guevara sulle magliette degli studenti che protestano in Francia",
-        "image": null
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Ucraina, Trump si assicura il diesel da Putin. Zelensky, 'lo pagherà con altro terrore'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/ucraina-trump-si-assicura-il-diesel-da-putin.-zelensky-lo-paghera-con-altro-terrore_5069bc7b-1078-4767-b47e-c09f4ae8c960.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T20:33:06.000Z",
+      "excerpt": "La Casa Bianca sospende le sanzioni fino ad aprile. Il tycoon: 'Ribassi record dei prezzi'. Putin conferma l'accordo: 'Avrà un impatto positivo sull'intera economia globale'",
+      "image": null
+    },
     {
       "title": "Trump: 'Colloquio di successo con Putin, la Russia fornirà 300.000 tonnellate di gasolio'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/trump-colloquio-di-successo-con-putin-la-russia-fornira-300.000-tonnellate-di-gasolio_5069bc7b-1078-4767-b47e-c09f4ae8c960.html",
@@ -1673,14 +1681,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-09T07:37:16.000Z",
       "excerpt": "Operazione della polizia per i fatti del corteo del 31 gennaio",
-      "image": null
-    },
-    {
-      "title": "L’ambasciatrice Usa in Grecia e quel debito saldato da un donatore Maga prima della nomina",
-      "link": "https://www.repubblica.it/esteri/2026/10/09/news/ambasciatrice_usa_kimberly_guilfoyle_grecia_debito_donatore_maga-425636199/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T07:36:35.000Z",
-      "excerpt": "Continuano le polemiche su Kimberly Guilfoyle, ex fidanzata del figlio maggiore del presidente americano. Dopo aver attirato l’attenzione per i suoi rapporti con un lobbista e per aver evocato la caduta del governo greco",
       "image": null
     }
   ],

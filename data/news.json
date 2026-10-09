@@ -1,7 +1,39 @@
 {
-  "lastUpdated": "2026-10-09T20:07:33.515Z",
+  "lastUpdated": "2026-10-09T20:43:24.736Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Tata alza il prezzo su Iveco: l’offerta finale a 14,40 euro",
+        "link": "https://www.repubblica.it/economia/2026/10/09/news/tata_rilancia_offerta_iveco-425638123/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-09T20:11:37.000Z",
+        "excerpt": "",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/221132867-ddaf2580-f6a3-4471-b452-a1149a855118.jpg"
+      },
+      {
+        "title": "Hunterbrook scopre posizione short su Meta mentre i dati alternativi segnalano un raffreddamento di Muse",
+        "link": "https://it.investing.com/news/stock-market-news/hunterbrook-scopre-posizione-short-su-meta-mentre-i-dati-alternativi-segnalano-un-raffreddamento-di-muse-3582625",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T20:08:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
+        "title": "Perché il titolo AGCO sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-agco-sta-scendendo-oggi-93CH-3582614",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T20:00:43.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      },
+      {
+        "title": "Perché il titolo CNH Industrial è in calo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-cnh-industrial-e-in-calo-oggi-93CH-3582613",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T19:55:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      },
       {
         "title": "Perché il titolo di Deere & Company crolla oggi?",
         "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-deere--company-crolla-oggi-93CH-3582612",
@@ -43,44 +75,12 @@
         "image": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg"
       },
       {
-        "title": "Perché il titolo Cirrus Logic sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-cirrus-logic-sta-scendendo-oggi-93CH-3582589",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T19:15:54.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Perché il titolo Charter Communications tocca un nuovo minimo a 52 settimane?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-charter-communications-tocca-un-nuovo-minimo-a-52-settimane-93CH-3582588",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T19:14:15.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
-      },
-      {
-        "title": "Tesla testa resistenza 386-388 $: aggiornamento in tempo reale",
-        "link": "https://it.investing.com/news/stock-market-news/tesla-si-avvicina-alla-resistenza-386389-livelli-in-tempo-reale-93CH-3574846",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T19:11:57.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg"
-      },
-      {
         "title": "Il petrolio chiude in rialzo a New York a 91,85 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/il-petrolio-chiude-in-rialzo-a-new-york-a-9185-dollari_e2184b45-2d05-460d-bf94-5eba155cc675.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-09T18:40:10.000Z",
         "excerpt": "Quotazioni salgono dello 0,39%",
         "image": null
-      },
-      {
-        "title": "Cina-Ue, intesa sul commercio di auto ibride “in linea con le regole del Wto”",
-        "link": "https://www.repubblica.it/economia/2026/10/09/news/cina-ue_intesa_sul_commercio_di_auto_ibride_in_linea_con_le_regole_del_wto-425637023/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-09T18:14:02.000Z",
-        "excerpt": "“È la prima volta che la Cina accetta di moderare le proprie esportazioni, senza prima passare da tensioni commerciali”, festeggia il commissario Ue al commercio Šefčovič. Pechino parla di colloqui “pragmatici e produtti",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/144705283-67cbc593-a887-4fed-870b-42c5a84dbe05.jpg"
       },
       {
         "title": "Conapi chiude l’annata con una produzione di miele di 2mila tonnellate",
@@ -392,12 +392,52 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Zelensky, 'dagli Usa una decisione indegna e disonesta'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/zelensky-dagli-usa-una-decisione-indegna-e-disonesta_c8efa85d-8f1c-4fbe-a427-32d6468a82ea.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-09T20:40:38.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "I prezzi dell'oro hanno toccato il massimo di una settimana, gli investitori guardano alla traiettoria dei tassi della Fed",
+        "link": "https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T20:34:53.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED1M0ED_M.jpg"
+      },
+      {
+        "title": "I prezzi del petrolio scendono dopo che Trump esclude l'attacco iraniano pre-medio termine, allentando i timori sull'offerta",
+        "link": "https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T20:32:13.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC2U0WF_M.jpg"
+      },
+      {
+        "title": "Trump cancella il viaggio alla partita di football dell'Alabama in mezzo all'incombente uragano",
+        "link": "https://www.investing.com/news/commodities-news/trump-cancels-trip-to-alabama-football-game-amid-looming-hurricane-4941687",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T20:30:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM981SW_L.jpg"
+      },
+      {
         "title": "Trump dice che la Russia fornirà gasolio agli Stati Uniti e al mercato globale",
         "link": "https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T19:48:38.000Z",
+        "pubDate": "2026-10-09T20:24:44.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM981ES_L.jpg"
+      },
+      {
+        "title": "Panama, scossa di magnitudo 7,6: allerta tsunami. Scene di panico nella capitale",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/panama_terremoto_allerta_tsunami-425637859/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-09T20:10:14.000Z",
+        "excerpt": "Un sisma ha colpito la zona di Petaloza Arriba, rischio maremoti lungo le coste di Costa Rica, Ecuador, Perù, Nicaragua, Guatemala, El Salvador e Messico. Sospese le attività all’aeroporto, chiuse le scuole",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/202439284-1aa1d987-582e-4a4f-8c83-a0ba2e3f3d8a.jpg"
       },
       {
         "title": "Axios, Ucraina sorpresa dall'annuncio di Trump per il diesel russo",
@@ -430,14 +470,6 @@
         "pubDate": "2026-10-09T19:40:41.000Z",
         "excerpt": "'Gioca a favore della Russia, permettendole di uccidere di più'",
         "image": null
-      },
-      {
-        "title": "Panama, scossa di magnitudo 7,6: allerta tsunami. Scene di panico nella capitale",
-        "link": "https://www.repubblica.it/esteri/2026/10/09/news/panama_terremoto_allerta_tsunami-425637859/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-09T19:39:40.000Z",
-        "excerpt": "Un sisma ha colpito la zona di Petaloza Arriba, rischio maremoti lungo le coste di Costa Rica, Ecuador, Perù, Nicaragua, Guatemala, El Salvador e Messico. Sospese le attività all’aeroporto, chiuse le scuole",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/202439284-1aa1d987-582e-4a4f-8c83-a0ba2e3f3d8a.jpg"
       },
       {
         "title": "Secondo quanto riferito, Saudi Aramco ripristina la fornitura completa di petrolio greggio in Europa per novembre",
@@ -480,30 +512,6 @@
         "image": "https://content-media.investing.com/news/LYNXNPEB8015J_M.jpg"
       },
       {
-        "title": "Petrolio greggio WTI bloccato in un intervallo ristretto, AdX alle 11.48: livelli live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-200-sma-after-hs-breakdown-live-levels-93CH-4931134",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T19:18:39.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB5605H_M.jpg"
-      },
-      {
-        "title": "Test del rame 61,8% Fibonacci a $6,71: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/copper-rebounds-off-6568-support-with-oversold-mfi-live-levels-93CH-4931128",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T19:18:31.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED1K1IU_M.jpg"
-      },
-      {
-        "title": "Test dell'oro $4.242 resistenza con rischio di trappola per tori: livelli live",
-        "link": "https://www.investing.com/news/commodities-news/gold-consolidates-near-4143-support-live-levels-93CH-4931126",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T19:18:30.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg"
-      },
-      {
         "title": "Casa Bianca sospende temporaneamente le sanzioni sul diesel russo",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/09/casa-bianca-sospende-temporaneamente-le-sanzioni-sul-diesel-russo_a4f8ba75-916d-4d98-9cab-fe7dc37c9b4b.html",
         "source": "ANSA Mondo",
@@ -525,14 +533,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-09T18:57:20.000Z",
         "excerpt": "Previste subito oltre 300.000 tonnellate da Mosca al mercato Usa e globale",
-        "image": null
-      },
-      {
-        "title": "Sisma a Panama, agenzia Usa dirama allerta tsunami per l'est Pacifico",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/sisma-a-panama-agenzia-usa-dirama-allerta-tsunami-per-lest-pacifico_2ad982d6-e1bf-4890-99c9-97c1b5f52754.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T18:34:52.000Z",
-        "excerpt": "Usgs rivede la magnitudo a 7.6",
         "image": null
       },
       {
@@ -587,18 +587,18 @@
   },
   "attualita": [
     {
-      "title": "Trump: 'Colloquio di successo con Putin, la Russia fornirà 300.000 tonnellate di gasolio'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/trump-colloquio-di-successo-con-putin-la-russia-fornira-300.000-tonnellate-di-gasolio_5069bc7b-1078-4767-b47e-c09f4ae8c960.html",
+      "title": "Ucraina, Trump si assicura il diesel da Putin. Zelensky, 'lo pagherà con altro terrore'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/ucraina-trump-si-assicura-il-diesel-da-putin.-zelensky-lo-paghera-con-altro-terrore_5069bc7b-1078-4767-b47e-c09f4ae8c960.html",
       "source": "ANSA",
-      "pubDate": "2026-10-09T19:50:34.000Z",
-      "excerpt": "La Casa Bianca sospende temporaneamente le sanzioni sul diesel russo. Zelensky: 'Un'evidente debolezza, gioca a favore della Russia, permettendole di uccidere di più, di prolungare la guerra'. Ucraini e europei a Miami, ",
+      "pubDate": "2026-10-09T20:33:06.000Z",
+      "excerpt": "La Casa Bianca sospende le sanzioni fino ad aprile. Il tycoon: 'Ribassi record dei prezzi'. Putin conferma l'accordo: 'Avrà un impatto positivo sull'intera economia globale'",
       "image": null
     },
     {
       "title": "Terremoto di magnitudo 7.6 a Panama, gli Usa escludono il rischio tsunami",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/terremoto-di-magnitudo-7.6-a-panama-gli-usa-escludono-il-rischio-tsunami_29887a85-8ecb-4253-8ce2-1c781863256c.html",
       "source": "ANSA",
-      "pubDate": "2026-10-09T19:44:59.000Z",
+      "pubDate": "2026-10-09T20:29:53.000Z",
       "excerpt": "Sospesa l'attività dell'aeroporto, chiuse le scuole. Scene di panico nella capitale. Al momento non si hanno notizie di vittime. Seconda scossa di magnitudo 6",
       "image": null
     },
