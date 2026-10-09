@@ -4,12 +4,76 @@
   "finanza": {
     "italia": [
       {
+        "title": "Al Sud un esodo da 116 miliardi: rilancio in sei mosse dopo il Pnrr",
+        "link": "https://www.ilsole24ore.com/art/al-sud-esodo-116-miliardi-rilancio-sei-mosse-il-pnrr-AJpDeLeB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T08:52:54.000Z",
+        "excerpt": "Nel Paese più duale d’Europa, il Pnrr ha posto la coesione fra gli obiettivi «trasversali», comuni a tutte le missioni e gli interventi. E ha ottenuto più di un successo,...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_1372787-U82076123751tIl-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "«Più voce ai territori nella costruzione del nuovo bilancio Ue»",
+        "link": "https://www.ilsole24ore.com/art/piu-voce-territori-costruzione-nuovo-bilancio-ue-AJHIeLeB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T08:51:38.000Z",
+        "excerpt": "Quando si parla di Mezzogiorno, il rischio è di utilizzare parole che abbiamo già ascoltato: divari, ritardi, infrastrutture, occupazione, giovani che lasciano la propria terra. Parole vere, ma non più...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_2818183-U58066320424iGP-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "«Istituzioni più efficaci per superare questa fase di “convergenza fragile”»",
+        "link": "https://www.ilsole24ore.com/art/istituzioni-piu-efficaci-superare-questa-fase-convergenza-fragile-AJLZJMeB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-09T08:50:50.000Z",
+        "excerpt": "Il rapporto «Le leve per la crescita», curato da Roberto Garofoli su impulso dell’Anci, ha il merito di tenere insieme due verità che di solito si raccontano separatamente. La prima...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_2813839-U06723821428sLa-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Borsa: l'Europa allunga il passo, Milano +0,98% e spread in discesa a 105 punti",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-leuropa-allunga-il-passo-milano-098-e-spread-in-discesa-a-105-punti_bd573e50-fbde-4e19-bfdf-41a051a08276.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T08:50:23.000Z",
+        "excerpt": "In discesa il Brent e i rendimenti dei bond statali europei",
+        "image": null
+      },
+      {
+        "title": "Borsa Milano, strappa Banca Generali promossa da Kepler a ’buy’, speculazioni delisting",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-strappa-banca-generali-promossa-da-kepler-a-buy-speculazioni-delisting-3581469",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:48:21.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980KQ_L.jpg"
+      },
+      {
         "title": "Bankitalia: 'Ad agosto il tasso sui mutui a un passo dal 4%, ai massimi dal 2024'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/bankitalia-ad-agosto-il-tasso-sui-mutui-a-un-passo-dal-4-ai-massimi-dal-2024_99bf60c4-fe92-4392-b91c-82574ecbe916.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-09T08:39:37.000Z",
         "excerpt": "Il Taeg sale al 3,99%, dal 3,81 di luglio",
         "image": null
+      },
+      {
+        "title": "Perché il titolo Rheinmetall scende oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-rheinmetall-scende-oggi-93CH-3581461",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:39:23.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+      },
+      {
+        "title": "4 titoli dell’acciaio da comprare: UBS vede un’opportunità nel calo",
+        "link": "https://it.investing.com/news/stock-market-news/4-titoli-dellacciaio-da-comprare-ubs-vede-unopportunita-nel-calo-3581462",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:38:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
+      },
+      {
+        "title": "Borse oggi | FTSE MIB | Trump frena sull’Iran, petrolio giù e banche in rialzo",
+        "link": "https://it.investing.com/news/stock-market-news/borse-oggi--ftse-mib--trump-frena-sulliran-petrolio-giu-e-banche-in-rialzo-3581457",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:37:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEBB70GL_M.jpg"
       },
       {
         "title": "Istat, produzione industriale agosto -1,3% su mese, invariata su anno",
@@ -26,6 +90,22 @@
         "pubDate": "2026-10-09T08:33:00.000Z",
         "excerpt": "In crescita anche i finanziamenti alle famiglie (+3,7%). I tassi sui mutui salgono al 3,99% (3,81% di luglio)",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/Imagoeconomica_1306441-U81806012785Wya-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "RBC declassa Pennon Group per le difficili prospettive AMP8",
+        "link": "https://it.investing.com/news/stock-market-news/rbc-declassa-pennon-group-per-le-difficili-prospettive-amp8-3581456",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:32:48.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB5I0FW_M.jpg"
+      },
+      {
+        "title": "Borse Europa in rialzo su calo prezzo greggio, debole settore telecom",
+        "link": "https://it.investing.com/news/stock-market-news/borse-europa-in-rialzo-su-calo-prezzo-greggio-debole-settore-telecom-3581454",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T08:32:16.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980K4_L.jpg"
       },
       {
         "title": "Citi promuove Bureau Veritas, margine 2027 sopra consensus; titolo +2%",
@@ -402,86 +482,6 @@
         "pubDate": "2026-10-09T06:00:00.000Z",
         "excerpt": "Il carrello del velivolo (un bimotore modello Embraer) impatta l’animale nel Parco nazionale del Serengeti. Atterraggio d’emergenza 50 minuti dopo. Nessun ferito tra i 26 turisti e i 4 membri dell’equipaggio. Tutti i pre",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/092554569-560b3cf5-6f5d-4e22-8a46-efdcdd1e3b50.jpg"
-      },
-      {
-        "title": "Perché il titolo di Anhui Jianghuai Automobile scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-anhui-jianghuai-automobile-scende-oggi-93CH-3581264",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T05:53:03.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
-      },
-      {
-        "title": "Vino, furto da 5 milioni alle cantine Antinori di Cortona",
-        "link": "https://www.ilsole24ore.com/art/vino-furto-5-milioni-cantine-antinori-cortona-AJTjFJeB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-09T05:52:00.000Z",
-        "excerpt": "Secondo Ft, sabato scorso sette ladri hanno portato via 30mila bottiglie dai magazzini dell’azienda fiorentina",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/ANTINORI-U57472345205xda-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Il gruppo australiano Maas Group estende il calo dopo che Firmus cancella l’IPO da 5 miliardi",
-        "link": "https://it.investing.com/news/stock-market-news/il-gruppo-australiano-maas-group-estende-il-calo-dopo-che-firmus-cancella-lipo-da-5-miliardi-3581258",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T05:50:04.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
-      },
-      {
-        "title": "Manovra, da banche e assicurazioni ipotesi contributo fino a 3 miliardi",
-        "link": "https://www.ilsole24ore.com/art/manovra-banche-e-assicurazioni-ipotesi-contributo-fino-3-miliardi-AJFSazdB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-09T05:46:52.000Z",
-        "excerpt": "Il viceministro Leo: Dialogo aperto, come l’anno scorso. Ma Patuelli (Abi) frena: C’è già in atto un accordo triennale",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/Imagoeconomica_1225602-U15136585183grH-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Le azioni Xiaomi volano grazie agli ordini record della linea EV SkyNomad",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-xiaomi-volano-grazie-agli-ordini-record-della-linea-ev-skynomad-3581223",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T05:39:40.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/Xiaomi_800x533_L_1628868788.jpg"
-      },
-      {
-        "title": "SoftBank cerca fino a 100 miliardi di dollari dagli investitori del Golfo per l’IA",
-        "link": "https://it.investing.com/news/stock-market-news/softbank-cerca-fino-a-100-miliardi-di-dollari-dagli-investitori-del-golfo-per-lia-3581213",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T05:18:39.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
-      },
-      {
-        "title": "Perché il titolo di Tata Consultancy Services è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-tata-consultancy-services-e-in-forte-rialzo-oggi-93CH-3581211",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T05:17:12.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
-      },
-      {
-        "title": "Le azioni TCS salgono grazie ai ricavi AI, trascinando i titoli IT indiani",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-tcs-salgono-grazie-ai-ricavi-ai-trascinando-i-titoli-it-indiani-3581203",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T04:59:11.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC130S3_M.jpg"
-      },
-      {
-        "title": "La Cina riprenderà le esportazioni di carburante a ottobre dopo la pausa festiva",
-        "link": "https://it.investing.com/news/stock-market-news/la-cina-riprendera-le-esportazioni-di-carburante-a-ottobre-dopo-la-pausa-festiva-93CH-3581193",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T04:23:02.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
-      },
-      {
-        "title": "Mercati asiatici misti; i produttori di chip cedono sui timori legati ai ricavi di OpenAI",
-        "link": "https://it.investing.com/news/stock-market-news/mercati-asiatici-misti-i-produttori-di-chip-cedono-sui-timori-legati-ai-ricavi-di-openai-3581192",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T04:08:11.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
       }
     ],
     "europa": [
@@ -649,12 +649,44 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Premio Nobel per la Pace 2026 a Navanethem Pillay",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/premio_nobel_pace_2026_navanethem_pillay-425636395/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-09T09:03:06.000Z",
+        "excerpt": "Il nome del vincitore annunciato presso l'Istituto Nobel di Oslo. In un mondo flagellato da conflitti e crisi, quest'anno sono state 287 le persone e le organizzazioni candidate al più prestigioso riconoscimento diplomat",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/110300958-66be8c23-91b0-4bb3-a845-bbb05cf89442.jpg"
+      },
+      {
+        "title": "UBS segnala il livello dei prezzi dell'oro in cui probabilmente emergeranno acquirenti DIP",
+        "link": "https://www.investing.com/news/commodities-news/ubs-flags-level-in-gold-prices-where-dip-buyers-will-likely-emerge-4940414",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T08:46:51.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg"
+      },
+      {
+        "title": "Tre cittadini sauditi uccisi negli attacchi all'aeroporto di Riad, dice l'autorità aeronautica",
+        "link": "https://www.investing.com/news/commodities-news/three-saudi-nationals-killed-in-attacks-on-riyadh-airport-aviation-authority-says-4940411",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T08:42:22.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM4D0U1_1200_L.jpg"
+      },
+      {
         "title": "Regno Unito, Polanski perde il seggio di Starmer: la crisi dei Verdi dopo la mozione sul sionismo",
         "link": "https://www.repubblica.it/esteri/2026/10/09/news/regno_unito_polanski_leader_verdi_perde_seggio_starmer_crisi_dopo_mozione_sionismo_razzismo-425636330/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-09T08:41:29.000Z",
         "excerpt": "Sei mesi fa pareva perfino in grado di minacciare il partito laburista alle prossime elezioni, ma ora è stato battuto dalla consigliera comunale Labour Sagal Abdi-Wali per sostituire l’ex primo ministro inglese alla came",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/104116939-28405e9b-6677-4e3e-ae37-77cd47b45874.jpg"
+      },
+      {
+        "title": "I prezzi del gas in Europa diminuiscono i massimi di 2 settimane poiché Trump esclude gli scioperi pre-medio termine",
+        "link": "https://www.investing.com/news/commodities-news/europe-gas-prices-ease-off-2week-highs-as-trump-rules-out-premidterm--strikes-4940397",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T08:36:12.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7H0TW_M.jpg"
       },
       {
         "title": "Scambio di denunce agli organi elettorali tra Bolsonaro e Lula",
@@ -1100,11 +1132,35 @@
   },
   "attualita": [
     {
+      "title": "Oggi il Premio Nobel per la Pace",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/oggi-il-premio-nobel-per-la-pace_1a002ce2-cdbd-4b9c-aebc-21767cd04154.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T09:02:37.000Z",
+      "excerpt": "La diretta",
+      "image": null
+    },
+    {
+      "title": "Crans, il conto degli ospedali svizzeri per le famiglie italiane è di 1,6 milioni di euro",
+      "link": "https://www.repubblica.it/cronaca/2026/10/09/news/crans_fatture_ospedali_svizzeri_risarcimento_famiglie_feriti_italiani-425636312/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T08:33:36.000Z",
+      "excerpt": "A maggio il presidente Parmelin aveva promesso a Meloni che avrebbe risolto il caso fatture, ma si attende ancora la decisione",
+      "image": null
+    },
+    {
       "title": "Doppia tromba marina nel Trapanese, danni e feriti",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/doppia-tromba-marina-nel-trapanese-danni-e-feriti_8a1fb1c3-e77d-44de-ad4a-f0d636c72330.html",
       "source": "ANSA",
       "pubDate": "2026-10-09T08:32:02.000Z",
       "excerpt": "Un'auto colpita è caduta in un burrone, due persone in ospedale",
+      "image": null
+    },
+    {
+      "title": "Il calciatore Berardi e la moglie soccorrono uno studente colto da malore sul bus",
+      "link": "https://bologna.repubblica.it/cronaca/2026/10/09/news/berdardi_sassuolo_moglie_soccorso_studente_malore_bus-425636271/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T08:15:20.000Z",
+      "excerpt": "Francesca Fantuzzi ha un patentino Dae ed è intervenuta in attesa del 118. Il giocatore del Sassuolo la scorsa estate aveva prestato aiuto a un ciclista in Toscana",
       "image": null
     },
     {
@@ -1533,6 +1589,22 @@
     }
   ],
   "sport": [
+    {
+      "title": "Isak sfida Haaland, in Premier il clou è Liverpool-Manchester City",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/09/isak-sfida-haaland-in-premier-il-clou-e-liverpool-manchester-city_2d7947cc-0421-4435-a51a-073aa932389f.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T09:05:38.000Z",
+      "excerpt": "Bayern e Psg a caccia di Dortmund e Monaco, in Liga spicca Real-Villarreal",
+      "image": null
+    },
+    {
+      "title": "Premier: i Friedkin valutano di vendere l'Everton, acquistato due anni fa",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/09/premier-i-friedkin-valutano-di-vendere-leverton-acquistato-due-anni-fa_3ce722b7-2e6a-40d7-bd73-872904402f3d.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T09:04:28.000Z",
+      "excerpt": "I proprietari della Roma in uscita, c'è tensione con parte della tifoseria",
+      "image": null
+    },
     {
       "title": "Arbitri: Rocchi diventa opinionista su Dazn, domenica il debutto",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/09/arbitri-rocchi-diventa-opinionista-su-dazn-domenica-il-debutto_e0e3b02f-8eb8-48b3-bef9-25a6458056e4.html",
