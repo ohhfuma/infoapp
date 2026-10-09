@@ -1,7 +1,111 @@
 {
-  "lastUpdated": "2026-10-09T07:11:50.285Z",
+  "lastUpdated": "2026-10-09T07:43:41.424Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il gas è in leggero ribasso ad Amsterdam a 78 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/il-gas-e-in-leggero-ribasso-ad-amsterdam-a-78-euro_27e7d7c1-6c9a-4749-a577-d77c67f4dd99.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T07:38:16.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo argenx è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-argenx-e-in-rialzo-oggi-93CH-3581367",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:34:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+      },
+      {
+        "title": "Borsa: Milano sale con l'Europa (+0,9%), Eni cede col greggio, corre Banca Generali",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-milano-sale-con-leuropa-09-eni-cede-col-greggio-corre_340044e5-9c44-4aa8-a7d4-9745e8742b93.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T07:33:07.000Z",
+        "excerpt": "Lo spread scende sotto 108 punti",
+        "image": null
+      },
+      {
+        "title": "Saint Laurent, Vaccarello lascia direzione creativa dopo dieci anni - Kering",
+        "link": "https://it.investing.com/news/stock-market-news/saint-laurent-vaccarello-lascia-direzione-creativa-dopo-dieci-annikering-3581363",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:32:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980H5_L.jpg"
+      },
+      {
+        "title": "Eni taglia ancora il prezzo del gasolio, torna a 2,19 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/eni-taglia-ancora-il-prezzo-del-gasolio-torna-a-219-euro_cc56f5dc-725f-4ea1-af5d-0c97334f95a9.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T07:32:01.000Z",
+        "excerpt": "Il price cap resta a 2,25 euro al litro",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Salzgitter è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-salzgitter-e-in-rialzo-oggi-93CH-3581355",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:26:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      },
+      {
+        "title": "I titoli telecom europei crollano dopo la mossa di SpaceX nel settore wireless",
+        "link": "https://it.investing.com/news/stock-market-news/i-titoli-telecom-europei-crollano-dopo-la-mossa-di-spacex-nel-settore-wireless-3581364",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:26:07.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA890W0_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Tryg è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-tryg-e-in-forte-rialzo-oggi-93CH-3581353",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:24:36.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Orange è in calo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-orange-e-in-calo-oggi-93CH-3581352",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:24:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
+      },
+      {
+        "title": "Perché il titolo SSP crolla oggi in borsa?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-ssp-crolla-oggi-in-borsa-93CH-3581351",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:23:31.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+      },
+      {
+        "title": "Renault conferma le previsioni nella parte bassa del target di margine",
+        "link": "https://it.investing.com/news/stock-market-news/renault-conferma-le-previsioni-nella-parte-bassa-del-target-di-margine-93CH-3581348",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-09T07:21:17.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB37052_M.jpg"
+      },
+      {
+        "title": "Borsa per l'Europa avvio in crescita, Parigi +0,8%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-per-leuropa-avvio-in-crescita-parigi-08_fe0330b2-def1-409b-a1fa-aac35086d261.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T07:12:36.000Z",
+        "excerpt": "Francoforte guadagna lo 0,69%",
+        "image": null
+      },
+      {
+        "title": "Borsa: Milano apre in rialzo dello 0,82%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-milano-apre-in-rialzo-dello-082_3c66a80f-2dbd-495e-b5b2-4997784ce14a.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-09T07:10:29.000Z",
+        "excerpt": "Ftse Mib a 49.704 punti",
+        "image": null
+      },
       {
         "title": "Comunicato sindacale ",
         "link": "https://www.ilsole24ore.com/art/comunicato-sindacale-AJKMLMeB",
@@ -43,14 +147,6 @@
         "image": null
       },
       {
-        "title": "DCC Energy vende la divisione Nexora per 725 milioni di dollari",
-        "link": "https://it.investing.com/news/stock-market-news/dcc-energy-vende-la-divisione-nexora-per-725-milioni-di-dollari-3581310",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T06:36:08.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
-      },
-      {
         "title": "Borsa: Asia positiva con previsioni OpenAi e petrolio in calo",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-asia-positiva-con-previsioni-openai-e-petrolio-in-calo_21629782-eeda-45b2-adb9-85162f19e9e6.html",
         "source": "ANSA Economia",
@@ -59,68 +155,12 @@
         "image": null
       },
       {
-        "title": "L'euro è in rialzo sul dollaro a 1,1227 in avvio di giornata",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/leuro-e-in-rialzo-sul-dollaro-a-11227-in-avvio-di-giornata_894fcb75-e825-4f5f-ab7a-7be0fad0bc87.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T06:30:41.000Z",
-        "excerpt": "La moneta unica sale anche rispetto allo yen",
-        "image": null
-      },
-      {
-        "title": "SSP in linea con gli utili FY26 nonostante il conflitto in Medio Oriente e il buyback da £50 mln",
-        "link": "https://it.investing.com/news/stock-market-news/ssp-in-linea-con-gli-utili-fy26-nonostante-il-conflitto-in-medio-oriente-e-il-buyback-da-50-mln-3581301",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T06:25:43.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
-      },
-      {
-        "title": "Apple taglia gli ordini di componenti per iPhone 18 Pro per domanda debole",
-        "link": "https://it.investing.com/news/stock-market-news/apple-taglia-gli-ordini-di-componenti-per-iphone-18-pro-per-domanda-debole-3581297",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T06:21:18.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
-      },
-      {
-        "title": "Il petrolio ritraccia, Brent scende sotto 103 dollari (-1,2%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/il-petrolio-ritraccia-brent-scende-sotto-103-dollari-12_910028ff-9164-4709-bf13-f5772d8ba25f.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T06:18:45.000Z",
-        "excerpt": "In calo dell'1,3% anche il Wti americano",
-        "image": null
-      },
-      {
-        "title": "Citi taglia il target su Novo Nordisk per mancanza di crescita dei margini",
-        "link": "https://it.investing.com/news/stock-market-news/citi-taglia-il-target-su-novo-nordisk-per-mancanza-di-crescita-dei-margini-3581279",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T06:06:13.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Xiaomi è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-xiaomi-e-in-forte-rialzo-oggi-93CH-3581275",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T06:05:50.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA7A0FH_M.jpg"
-      },
-      {
-        "title": "Sika acquisisce Azpects Group, produttore britannico di prodotti per pavimentazione",
-        "link": "https://it.investing.com/news/stock-market-news/sika-acquisisce-azpects-group-produttore-britannico-di-prodotti-per-pavimentazione-93CH-3581271",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T06:00:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
-      },
-      {
-        "title": "Perché il titolo di Anhui Jianghuai Automobile scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-anhui-jianghuai-automobile-scende-oggi-93CH-3581264",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T05:53:03.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+        "title": "Zebra in pista, aereo diretto a Zanzibar la travolge al decollo: salvi i 30 a bordo",
+        "link": "https://www.repubblica.it/economia/2026/10/09/news/zebra_incidente_aereo_zanzibar_tanzania_decollo-425636157/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-09T06:00:00.000Z",
+        "excerpt": "Il carrello del velivolo (un bimotore modello Embraer) impatta l’animale nel Parco nazionale del Serengeti. Atterraggio d’emergenza 50 minuti dopo. Nessun ferito tra i 26 turisti e i 4 membri dell’equipaggio. Tutti i pre",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/092554569-560b3cf5-6f5d-4e22-8a46-efdcdd1e3b50.jpg"
       },
       {
         "title": "Vino, furto da 5 milioni alle cantine Antinori di Cortona",
@@ -129,14 +169,6 @@
         "pubDate": "2026-10-09T05:52:00.000Z",
         "excerpt": "Secondo Ft, sabato scorso sette ladri hanno portato via 30mila bottiglie dai magazzini dell’azienda fiorentina",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/ANTINORI-U57472345205xda-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Il gruppo australiano Maas Group estende il calo dopo che Firmus cancella l’IPO da 5 miliardi",
-        "link": "https://it.investing.com/news/stock-market-news/il-gruppo-australiano-maas-group-estende-il-calo-dopo-che-firmus-cancella-lipo-da-5-miliardi-3581258",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T05:50:04.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
       },
       {
         "title": "Manovra, da banche e assicurazioni ipotesi contributo fino a 3 miliardi",
@@ -163,22 +195,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/040814371-01283d64-9f27-4140-aab0-d9a5cab3212f.jpg"
       },
       {
-        "title": "Toyota e big cinesi dell'auto: alleanza per l'elettrificazione",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/toyota-e-big-cinesi-dellauto-alleanza-per-lelettrificazione_2252ea58-8602-4198-8944-503e21273f9b.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T01:32:00.000Z",
-        "excerpt": "Intesa quadro con FAW e GAC per accelerare veicoli elettrici e intelligenti",
-        "image": null
-      },
-      {
-        "title": "Borsa: Tokyo, apertura in calo (-0,61%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-tokyo-apertura-in-calo-061_4e44641c-402d-4385-b138-6c52971e62e5.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T00:25:45.000Z",
-        "excerpt": "Vendite sui titoli hi-tech, nuovi timori da instabilità geopolitica",
-        "image": null
-      },
-      {
         "title": "Caltagirone e Agricole bocciano Lovaglio. Altri due no al piano Mps",
         "link": "https://www.repubblica.it/economia/2026/10/09/news/caltagirone_agricole_bocciano_lovaglio_no_piano_mps-425635738/?rss",
         "source": "Repubblica Economia",
@@ -203,28 +219,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/221258059-7c143c17-a935-422a-a695-168e37220da0.jpg"
       },
       {
-        "title": "Stop a tutti gli impianti ex Ilva già pronta la cassa integrazione",
+        "title": "Stop a tutti gli impianti ex Ilva,già pronta la cassa integrazione",
         "link": "https://www.repubblica.it/economia/2026/10/09/news/stop_a_tutti_gli_impianti_ex_ilva_gia_pronta_la_cassa_integrazione-425635583/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-10-08T23:00:00.000Z",
         "excerpt": "Stabilimenti fermi anche a Genova e Novi Ligure. Allo studio una norma per evitare lo spegnimento definitivo dell’altoforno di Taranto fino alla Cassazione",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/215053107-7a196b5c-268f-4a84-9b65-75c6c49a4bf0.jpg"
-      },
-      {
-        "title": "Bff Bank, il faro dei piccoli soci sui crediti ceduti a Pollen Street",
-        "link": "https://www.repubblica.it/economia/2026/10/09/news/bff_bank_cessione_crediti_pollen_danno-425635562/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-08T23:00:00.000Z",
-        "excerpt": "Per gli azionisti, che nei mesi scorsi avevano inviato già due lettere alla società, il portafoglio è stato venduto a un prezzo troppo basso, con un possibile danno di 90 milioni",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/214625291-233e09e6-bb34-4ff7-8001-d61823bb2ec5.jpg"
-      },
-      {
-        "title": "I sindacati: 'Da lunedì sciopero nazionale ex Ilva di 24 ore'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/i-sindacati-da-lunedi-sciopero-nazionale-ex-ilva-di-24-ore_df14583b-44b1-4574-a8f3-c6ab01e5526e.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-08T21:19:41.000Z",
-        "excerpt": "Dopo l'incontro a Palazzo Chigi",
-        "image": null
       },
       {
         "title": "Ex Ilva, lunedì sciopero di 24 ore in tutte le sedi ",
@@ -260,6 +260,14 @@
       }
     ],
     "europa": [
+      {
+        "title": "Ucraina: «Mosca ha attaccato mercantile nel porto di Mykolaiv»",
+        "link": "https://www.ilsole24ore.com/art/ucraina-mosca-ha-attaccato-mercantile-porto-mykolaiv-AJPmAOeB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-09T07:38:00.000Z",
+        "excerpt": "La Russia ha attaccato una nave mercantile nel porto di Mykolaiv, in Ucraina, al largo della costa del Mar Nero. Lo ha riferito l’agenzia di stampa russa Ria Novosti, citando...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/10/Immagini/Ritagli/2026-10-09T062245Z_696993438_RC2GZNA7428H_RTRMADP_5_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-U43260267733SEE-1440x752@IlSole24Ore-Web.JPG"
+      },
       {
         "title": "Pentagono: «La fucilazione dell’autore della strage di Fort Hood sarà in diretta streaming»",
         "link": "https://www.ilsole24ore.com/art/pentagono-fucilazione-dell-autore-strage-fort-hood-sara-diretta-streaming-AJ1AuHeB",
@@ -315,14 +323,6 @@
         "pubDate": "2026-10-08T10:31:01.000Z",
         "excerpt": "È successo questa mattina. Il primo ministro Donald Tusk ha convocato per le 13 una riunione urgente per fronteggiare il problema della violenza nelle scuole",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/AdobeStock_114701813-U61150702305yBI-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Negoziatori Kiev a Miami: invitati Gb, Francia, Germania, Nato e Ue. Raid russo a Kramatorsk: 33 morti",
-        "link": "https://www.ilsole24ore.com/art/ucraina-30-morti-raid-russo-kramatorsk-rubio-preoccupati-che-conflitto-si-estenda-AJAGoCdB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-08T10:04:00.000Z",
-        "excerpt": "I negoziatori ucraini incontreranno Steve Witkoff e Jared Kushner a Miami domani per discutere di “nuove idee e proposte” che gli Stati Uniti hanno iniziato a mettere a punto “con...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/2026-10-08T105931Z_342772368_RC2YYNAZV9YK_RTRMADP_5_UKRAINE-CRISIS-ATTACK-KRAMATORSK(1)-U64146867642Zdk-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -392,6 +392,62 @@
     "usa": [],
     "mondo": [
       {
+        "title": "L’ambasciatrice Usa in Grecia e quel debito saldato da un donatore Maga prima della nomina",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/ambasciatrice_usa_kimberly_guilfoyle_grecia_debito_donatore_maga-425636199/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-09T07:37:28.000Z",
+        "excerpt": "Continuano le polemiche su Kimberly Guilfoyle, ex fidanzata del figlio maggiore del presidente americano. Dopo aver attirato l’attenzione per i suoi rapporti con un lobbista e per aver evocato la caduta del governo greco",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/093612980-57f4ca58-3026-4677-b05c-7754c56ef918.jpg"
+      },
+      {
+        "title": "L'oro sale di oltre l'1% quando il dollaro, i rendimenti del Tesoro si allentano; impostato per guadagni settimanali",
+        "link": "https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T07:21:10.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED1M0ED_M.jpg"
+      },
+      {
+        "title": "Petrolio greggio WTI intrappolato nella zona di taglio $89-$92: livelli Live",
+        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-200-sma-after-hs-breakdown-live-levels-93CH-4931134",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T07:11:48.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB5605H_M.jpg"
+      },
+      {
+        "title": "I tori del gasolio di Londra si fermano a $1.510- $1.530 massimale: livelli live",
+        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1356-support-on-5h-chart-live-levels-93CH-4931131",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T07:11:22.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8015J_M.jpg"
+      },
+      {
+        "title": "Gas naturale bloccato a un supporto di $3,105: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/natural-gas-trapped-at-3016-with-bear-flag-forming-live-levels-93CH-4931132",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T07:11:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXNPEKAS0PN_L.jpg"
+      },
+      {
+        "title": "L'argento testa la resistenza a $61,94 in downtrend: Livelli live",
+        "link": "https://www.investing.com/news/commodities-news/silver-bounces-at-6165-but-macro-downtrend-looms-live-levels-93CH-4931129",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T07:11:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8T1CF_M.jpg"
+      },
+      {
+        "title": "L'oro rimbalza a $4.219, colpisce il muro di resistenza: livelli live",
+        "link": "https://www.investing.com/news/commodities-news/gold-consolidates-near-4143-support-live-levels-93CH-4931126",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-09T07:10:51.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg"
+      },
+      {
         "title": "Il partito di Machado, 'si annulli subito la sua ineleggibilità'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/il-partito-di-machado-si-annulli-subito-la-sua-ineleggibilita_0e2ae966-c3c9-4800-ab21-3f1c697fd620.html",
         "source": "ANSA Mondo",
@@ -414,30 +470,6 @@
         "pubDate": "2026-10-09T05:54:20.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM980A9_L.jpg"
-      },
-      {
-        "title": "Trump dice che gli Stati Uniti non attaccheranno l'Iran prima delle elezioni di medio termine di novembre",
-        "link": "https://www.investing.com/news/commodities-news/trump-us-having-productive-talks-with-iran-will-not-attack-before-us-elections-in-november-4939501",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T05:06:57.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM971NV_L.jpg"
-      },
-      {
-        "title": "Hegseth: “La fucilazione dell'autore della strage di Fort Hood pubblica”. Sarà in streaming",
-        "link": "https://www.repubblica.it/esteri/2026/10/09/news/fucilazione_diretta_streaming_pena_di_morte_usa_strage_fort_hood-425635750/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-09T03:54:04.000Z",
-        "excerpt": "Nidal Malik Hasan verrà giustiziato il 3 dicembre. Dopo la drammatica vicenda di Christa Pike sopravvissuta a due iniezioni letali, l’America ora assisterà anche all’esecuzione di un condannato",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/004920445-585ec191-093a-43cf-8210-a3f71b712ebd.jpg"
-      },
-      {
-        "title": "La Cina riprenderà le esportazioni di carburante di ottobre dopo una breve pausa, dicono quattro fonti commerciali",
-        "link": "https://www.investing.com/news/commodities-news/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say-4940140",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T03:30:19.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9806I_L.jpg"
       },
       {
         "title": "New York, un agente dell’Ice spara e ferisce un uomo. Proteste e arresti, Mamdani a Trump: “Stop ai raid”",
@@ -470,22 +502,6 @@
         "pubDate": "2026-10-09T03:10:10.000Z",
         "excerpt": "Rimossi i capi militari dopo una sparatoria a Huité",
         "image": null
-      },
-      {
-        "title": "L'oro sale oltre l'1% man mano che il dollaro si indebolisce, i rendimenti del Tesoro si ritirano",
-        "link": "https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T02:56:31.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED1M0ED_M.jpg"
-      },
-      {
-        "title": "Il petrolio cade mentre i commenti di Trump sui colloqui con l'Iran alleviano le preoccupazioni sull'offerta",
-        "link": "https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T02:30:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9804P_L.jpg"
       },
       {
         "title": "Cuba, 'Agli Usa manca l'autorità morale per decidere chi commercia con noi'",
@@ -526,22 +542,6 @@
         "pubDate": "2026-10-09T00:38:09.000Z",
         "excerpt": "Il senatore accusa il giudice di persecuzione e invoca l'intervento del Senato",
         "image": null
-      },
-      {
-        "title": "Gli Stati Uniti hanno citato in giudizio il piano per far saltare il canyon dello Utah inscritto dai \"Buffalo Soldiers\" del XIX secolo, pionieri europei",
-        "link": "https://www.investing.com/news/commodities-news/us-sued-over-plan-to-blast-utah-canyon-inscribedby-19th-century-buffalo-soldiers-europeanpioneers-4940046",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T00:24:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9800I_L.jpg"
-      },
-      {
-        "title": "I prezzi del petrolio scendono dopo che Trump ha detto che nessun attacco all'Iran prima delle elezioni di medio termine",
-        "link": "https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-08T23:46:15.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC2U0WF_M.jpg"
       },
       {
         "title": "Rabbia a Khan al Ahmar, dove muore la speranza dello Stato palestinese",
@@ -587,11 +587,35 @@
   },
   "attualita": [
     {
+      "title": "Scontri Askatasuna: perquisizioni in tutta Italia, chieste 19 misure ",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/scontri-per-askatasuna-perquisizioni-in-tutta-italia-chieste-19-misure-_02c8a240-8e7c-4810-83f1-2e4a74eab9c4.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T07:37:16.000Z",
+      "excerpt": "Operazione della polizia per i fatti del corteo del 31 gennaio",
+      "image": null
+    },
+    {
+      "title": "++ Eni taglia ancora il prezzo del gasolio, torna a 2,19 euro ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/09/eni-taglia-ancora-il-prezzo-del-gasolio-torna-a-219-euro_326d3197-4933-4d5d-b2a4-83c873655b66.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-09T07:32:07.000Z",
+      "excerpt": "Il price cap resta a 2,25 euro al litro",
+      "image": null
+    },
+    {
       "title": "La fucilazione dell'autore della strage di Fort Hood sarà pubblica e in streaming",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/08/la-fucilazione-dellautore-della-strage-di-fort-hood-sara-pubblica-e-in-streaming_82f5ecaf-fec1-4ee7-8e0f-507effc31551.html",
       "source": "ANSA",
-      "pubDate": "2026-10-09T06:50:19.000Z",
+      "pubDate": "2026-10-09T07:23:32.000Z",
       "excerpt": "Sarebbe la prima in 90 anni",
+      "image": null
+    },
+    {
+      "title": "Per diventare indipendenti abbiamo bisogno di più energia \"made in Europe\"",
+      "link": "https://www.repubblica.it/economia/2026/10/09/news/energia_sovranita_rinnovabili_europa_jorgensen_russia_gas_medio_oriente-425636064/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T06:47:37.000Z",
+      "excerpt": "Dopo la crisi in Ucraina, l’Europa si è trovata più pronta a gestire lo shock del conflitto nel Golfo. Ora è indispensabile liberarsi quanto prima dell’importazione di combustibili fossili",
       "image": null
     },
     {
@@ -603,19 +627,11 @@
       "image": null
     },
     {
-      "title": "La riforma elettorale è legge, l'opposizione: 'Una truffa'. Meloni: 'Centrodestra unito, avanti così' ",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/08/la-riforma-elettorale-e-legge-lopposizione-una-truffa.-meloni-centrodestra-unito-avanti_356b6a03-efcc-4966-982f-f363b3c3c7fc.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T06:16:10.000Z",
-      "excerpt": "La maggioranza tiene sul voto segreto, 227 sìe 164 i no. Schlein: 'Meloni teme il voto ma la novità siamo noi e vinceremo'",
-      "image": null
-    },
-    {
-      "title": "Il Nyt: 'Il Pentagono elabora nuovi piani di attacco contro l'Iran'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/08/nyt-pentagono-elabora-nuovi-piani-di-attacco-contro-liran_18454653-f562-41e2-8f4d-9208b2f74f8b.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T06:15:06.000Z",
-      "excerpt": "Diverse opzioni per un'operazione di tre giorni, in arrivo una portaerei",
+      "title": "Miss Germania sul ring. La campionessa italiana: “La bellezza non è qualità, serve altro nella boxe”",
+      "link": "https://www.repubblica.it/sport/vari/2026/10/09/news/miss_germania_genrich_boxe_bellezza_annalisa_brozzi-425635968/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-09T06:20:35.000Z",
+      "excerpt": "Tatjana Genrich esordirà il 14 novembre tra i professionisti a Magdeburgo. Annalisa Brozzi: “I complimenti fanno piacere anche a me, ma il nostro sport passa attraverso duro lavoro”",
       "image": null
     },
     {
@@ -651,14 +667,6 @@
       "image": null
     },
     {
-      "title": "The grand overture: Italy’s new opera season",
-      "link": "https://europe.repubblica.it/en/culture/2026/10/09/news/italy_opera_season_la_scala_guide_2026-425634554/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T04:00:00.000Z",
-      "excerpt": "Here are the highlights of the season just around the corner. From Palermo to Verona, there are plenty of performances not to be missed. But the main event is La Scala’s season opener, Verdi’s Otello",
-      "image": null
-    },
-    {
       "title": "New York, un agente dell’Ice spara e ferisce un uomo. Proteste e arresti, Mamdani a Trump: “Stop ai raid”",
       "link": "https://www.repubblica.it/esteri/2026/10/09/news/new_york_ice_spara_uomo_arresto_mamdani-425635828/",
       "source": "Repubblica",
@@ -667,27 +675,27 @@
       "image": null
     },
     {
-      "title": "Un terzo delle famiglie risparmia sul cibo, gli anziani i più colpiti",
-      "link": "https://www.repubblica.it/economia/2026/10/09/news/istat_famiglie_consumi_cibo-425635817/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T02:08:18.000Z",
-      "excerpt": "L’Istat descrive come gli italiani stringono la cinghia. Bankitalia: “Le imprese si attendono ulteriori rincari nei prossimi 12 mesi”",
+      "title": "Recommerce, gli italiani avanti sul vendere e comprare prodotti usati ",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/societa_diritti/2026/10/08/recommerce-gli-italiani-avanti-sul-vendere-e-comprare-prodotti-usati-_169cdbe7-289f-4db7-9790-713078123e07.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-08T18:20:05.000Z",
+      "excerpt": "Report globale sul second hand, sempre più digitale e internazionale. Trend live shopping",
       "image": null
     },
     {
-      "title": "I sindacati: 'Da lunedì sciopero nazionale ex Ilva di 24 ore'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/08/i-sindacati-da-lunedi-sciopero-nazionale-ex-ilva-di-24-ore_df14583b-44b1-4574-a8f3-c6ab01e5526e.html",
+      "title": "Alle Scuderie del Quirinale la mostra su Pontormo, maestro del 500",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/10/08/alle-scuderie-del-quirinale-la-mostra-su-pontormo-maestro-del-500_bcc23425-ac63-426c-933c-de0b75fe68b6.html",
       "source": "ANSA",
-      "pubDate": "2026-10-08T21:19:41.000Z",
-      "excerpt": "Dopo l'incontro a Palazzo Chigi",
+      "pubDate": "2026-10-08T16:58:26.000Z",
+      "excerpt": "Al via il 9 ottobre la prima monografica, prestiti da Firenze e dai musei del mondo",
       "image": null
     },
     {
-      "title": "Massimo Ranieri, esce l'inedito 'Il giorno prima'",
-      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/10/08/massimo-ranieri-esce-linedito-il-giorno-prima_aed6c3bb-e9c5-4b36-a872-f00088942a27.html",
+      "title": "'Email tracking', dal 29 ottobre scattano le linee guida del Garante Privacy",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/08/email-marketing-in-vigore-le-linee-guida-del-garante-sui-tracking-pixel_6f5eb39e-fcce-4ea4-9454-3d2b9db3d9a7.html",
       "source": "ANSA",
-      "pubDate": "2026-10-08T16:21:18.000Z",
-      "excerpt": "In anteprima il videoclip ufficiale firmato dalla regista Roberta Torre",
+      "pubDate": "2026-10-08T13:54:52.000Z",
+      "excerpt": "Sui tracking pixel, immagini che rilevano apertura della posta. Aziende e piattaforme devono adeguarsi",
       "image": null
     },
     {
@@ -696,14 +704,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-08T12:36:33.000Z",
       "excerpt": "A Bologna spazio a Gaudí, Picasso e Miró, a Torino ci sono le foto di Jessica Lange",
-      "image": null
-    },
-    {
-      "title": "SpaceX punta a raccogliere 40 miliardi per l'acquisto dei chip Nvidia",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/10/08/spacex-punta-a-raccogliere-40-miliardi-per-lacquisto-dei-chip-nvidia_60ff8e51-445e-4755-bef2-8d00fbba7697.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-08T12:21:50.000Z",
-      "excerpt": "L'operazione guidata da Apollo Global Management, la chiusura attesa per il 2027",
       "image": null
     },
     {
@@ -716,6 +716,22 @@
     }
   ],
   "sport": [
+    {
+      "title": "Wembanyama si schiera con gli studenti francesi, 'li ascolto e li sostengo'",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/09/wembanyama-si-schiera-con-gli-studenti-francesi-li-ascolto-e-li-sostengo_889fcb77-5fba-4577-9045-d7f563bfee93.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T07:35:48.000Z",
+      "excerpt": "La stella Nba: 'Diseguaglianze sistemiche, bene che i giovani si facciano sentire'",
+      "image": null
+    },
+    {
+      "title": "Cobolli subito fuori a Shanghai, vince Mannarino in 3 set",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/09/cobolli-subito-fuori-a-shanghai-vince-mannarino-in-3-set_9a89faeb-f945-4175-a95e-cb9b7a3a95ba.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-09T07:21:18.000Z",
+      "excerpt": "Per l'azzurro è la quarta sconfitta consecutiva in singolare",
+      "image": null
+    },
     {
       "title": "Baseball: l'Italia inizia domani il cammino verso i Giochi di Los Angeles",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/08/baseball-litalia-inizia-domani-il-cammino-verso-i-giochi-di-los-angeles_59f395f5-deb8-4200-9ea1-fd420d6aaf62.html",
@@ -762,22 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-08T18:35:07.000Z",
       "excerpt": "L'attaccante, cercato all'estero in estate, è stato tra gli artefici della promozione",
-      "image": null
-    },
-    {
-      "title": "Eurolega: l'Olimpia Milano perde ancora, ko 97-79 con il Maccabi Tel Aviv",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/08/eurolega-lolimpia-milano-perde-ancora-ko-97-79-con-il-maccabi-tel-aviv_f8c881e1-318a-4358-a94c-d190bf9d888c.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-08T18:13:45.000Z",
-      "excerpt": "Per la squadra di Poeta terza sconfitta in 6 giorni nonostante 23 punti di Wright",
-      "image": null
-    },
-    {
-      "title": "Universiadi invernali: a Torino accesa la fiaccola di Changchun 2027",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/08/universiadi-invernali-a-torino-accesa-la-fiaccola-di-changchun-2027_bb73b3b2-38ab-4a0d-9af2-b2b3a1d415e8.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-08T17:53:05.000Z",
-      "excerpt": "La cerimonia ha dato il via al viaggio della fiamma verso la Cina",
       "image": null
     }
   ]
