@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T03:45:02.626Z",
+  "lastUpdated": "2026-10-09T04:09:33.249Z",
   "finanza": {
     "italia": [
       {
@@ -72,7 +72,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T01:54:44.000Z",
         "excerpt": "",
-        "image": null
+        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
       },
       {
         "title": "Retension Pharmaceuticals fissa il prezzo dell’IPO a $12 per azione sul Nasdaq",
@@ -80,7 +80,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T01:48:02.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_S.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
       },
       {
         "title": "Toyota e big cinesi dell'auto: alleanza per l'elettrificazione",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Hegseth: “La fucilazione dell'autore della strage di Fort Hood pubblica”. Sarà in streaming",
+        "link": "https://www.repubblica.it/esteri/2026/10/09/news/fucilazione_diretta_streaming_pena_di_morte_usa_strage_fort_hood-425635750/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-09T03:54:04.000Z",
+        "excerpt": "Nidal Malik Hasan verrà giustiziato il 3 dicembre. Dopo la drammatica vicenda di Christa Pike sopravvissuta a due iniezioni letali, l’America ora assisterà anche all’esecuzione di un condannato",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/004920445-585ec191-093a-43cf-8210-a3f71b712ebd.jpg"
+      },
+      {
         "title": "La Cina riprenderà le esportazioni di carburante di ottobre dopo una breve pausa, dicono quattro fonti commerciali",
         "link": "https://www.investing.com/news/commodities-news/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say-4940140",
         "source": "Investing.com Commodities",
@@ -550,14 +558,6 @@
         "pubDate": "2026-10-08T23:00:00.000Z",
         "excerpt": "Beatriz Duro, legale dell’anziana sfrattata a Madrid e morta mercoledì sera in ospedale: “Era venuta a conoscenza dell’accordo che le avrebbe permesso di tornare a casa e il rammarico è che questo non sia stato possibile",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/08/191443376-4ebcb251-e7d4-4b97-955e-30ff2fbe8b70.jpg"
-      },
-      {
-        "title": "Il capo del Pentagono Hegseth: “La fucilazione dell'autore della strage di Fort Hood sarà in streaming”",
-        "link": "https://www.repubblica.it/esteri/2026/10/09/news/fucilazione_diretta_streaming_pena_di_morte_usa_strage_fort_hood-425635750/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-08T22:49:31.000Z",
-        "excerpt": "Nidal Malik Hasan verrà giustiziato il 3 dicembre. Dopo la drammatica vicenda di Christa Pike sopravvissuta a due iniezioni letali, l’America ora vedrà anche l’esecuzione in diretta di un condannato",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/004920445-585ec191-093a-43cf-8210-a3f71b712ebd.jpg"
       },
       {
         "title": "Il petrolio si assesta sotto il massimo della sessione dopo che Trump ha detto che nessun attacco all'Iran prima delle elezioni di medio termine",
