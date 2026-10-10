@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T15:07:06.022Z",
+  "lastUpdated": "2026-10-10T15:41:26.398Z",
   "finanza": {
     "italia": [
       {
@@ -240,7 +240,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T05:58:41.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/ShanghaiStockExchange_150x108_S_1615895556.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
       },
       {
         "title": "Servizio clienti nelle tlc, basta opzioni infinite. Ora c’è il diritto a “parlare con l’operatore”",
@@ -309,7 +309,7 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/LP_24832616-U80583633008rsm-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Guerra ultime notizie. Abu Mazen posticipa elezioni palestinesi all’11 settembre 2027. Iran, Pasdaran: «Attacchi a navi non solo a Hormuz»",
+        "title": "Guerra ultime notizie. Houthi colpiscono aeroporto di Riad con un missile, 5 feriti. Abu Mazen posticipa elezioni palestinesi all’11 settembre 2027",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-iran-pasdaran-minacciano-attacchi-navi-non-autorizzate-tutta-regione-non-solo-hormuz-AJc2ycfB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-10T07:13:00.000Z",
@@ -391,6 +391,14 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Ong, 'in Venezuela 322 prigionieri politici ancora non scarcerati'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/10/ong-in-venezuela-322-prigionieri-politici-ancora-non-scarcerati_1b1f0731-f5c2-4fea-9536-046761ac291c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T15:11:50.000Z",
+        "excerpt": "Secondo Foro Penal, tra questi reclusi ci sono 31 stranieri",
+        "image": null
+      },
       {
         "title": ">ANSA-INTERVISTA/ 'La rivolta degli studenti iraniani oltre la protesta delle mense'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/ansa-intervista-la-rivolta-degli-studenti-iraniani-oltre-la-protesta-delle-mense_53bb413c-87a6-4435-9d19-b8f80a4a24c6.html",
@@ -477,14 +485,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-10T13:10:09.000Z",
         "excerpt": "Sud colpito da ingenti danni nel 2024 , chiesto un risarcimento milionario",
-        "image": null
-      },
-      {
-        "title": "'Dopo critiche Zelensky, Usa minacciano stop a condivisione intelligence con Kiev'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/dopo-critiche-zelensky-usa-minacciano-stop-a-condivisione-intelligence-con-kiev_1a066540-274c-45ab-9b4e-5c0930b9d192.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T12:59:27.000Z",
-        "excerpt": "'Stati Uniti chiedono all'Ucraina di non bombardare più le raffinerie russe'",
         "image": null
       },
       {
@@ -587,27 +587,35 @@
   },
   "attualita": [
     {
-      "title": "Il Papa, 'la pena di morte è inammissibile'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/10/il-papa-la-pena-di-morte-e-inammissibile_0f1d163f-6d14-4d85-97d3-741cbd0ae978.html",
+      "title": "'Gli Usa minacciano lo stop alla condivisione di informazione di intelligence con Kiev'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/gli-usa-minacciano-lo-stop-alla-condivisione-di-informazione-di-intelligence-con-kiev_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
       "source": "ANSA",
-      "pubDate": "2026-10-10T14:56:32.000Z",
-      "excerpt": "\"Il bene comune può essere tutelato senza ricorrere alla pena capitale\"",
+      "pubDate": "2026-10-10T15:20:16.000Z",
+      "excerpt": "Dopo le critiche di Zelensky per la decisione Usa di revocare le sanzioni sul diesel russo. Il Cremlino: 'Putin comprensivo verso alcune proposte Usa sulla de-escalation'. Il leader ucraino: 'Il raid su Zaporizhzhia sono",
+      "image": null
+    },
+    {
+      "title": "Paul Seixas conquista il Lombardia a 20 anni: il francese è il più giovane vincitore di sempre",
+      "link": "https://www.repubblica.it/sport/ciclismo/2026/10/10/news/paul_seixas_vince_lombardia_20_anni_piu_giovane_vincitore_di_sempre_gerbi_diavolo_rosso-425639420/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T15:10:29.000Z",
+      "excerpt": "Battuto il record di precocità del “Diavolo Rosso” Giovanni Gerbi. Ciccone è terzo sul traguardo di Como",
       "image": null
     },
     {
       "title": "Nubifragi, allagamenti e frane. Il maltempo sferza il Sud. A Lipari esondati i torrenti, fango e case allagate. Criticità in Calabria",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/temporale-a-lipari-esondati-torrenti-fango-in-strade-e-case-allagate_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
       "source": "ANSA",
-      "pubDate": "2026-10-10T14:24:56.000Z",
+      "pubDate": "2026-10-10T14:57:46.000Z",
       "excerpt": "A Bari allagata la cripta della basilica di San Nicola. A Napoli una vettura sprofonda in una voragine",
       "image": null
     },
     {
-      "title": "'Gli Usa minacciano lo stop alla condivisione di informazione di intelligence con Kiev'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/gli-usa-minacciano-lo-stop-alla-condivisione-di-informazione-di-intelligence-con-kiev_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
+      "title": "Il Papa, 'la pena di morte è inammissibile'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/10/il-papa-la-pena-di-morte-e-inammissibile_0f1d163f-6d14-4d85-97d3-741cbd0ae978.html",
       "source": "ANSA",
-      "pubDate": "2026-10-10T14:12:16.000Z",
-      "excerpt": "Dopo le critiche di Zelensky per la decisione Usa di revocare le sanzioni sul diesel russo. Il Cremlino: 'Putin comprensivo verso alcune proposte Usa sulla de-escalation'. Il leader ucraino: 'Il raid su Zaporizhzhia sono",
+      "pubDate": "2026-10-10T14:56:32.000Z",
+      "excerpt": "\"Il bene comune può essere tutelato senza ricorrere alla pena capitale\"",
       "image": null
     },
     {
@@ -667,14 +675,6 @@
       "image": null
     },
     {
-      "title": "Spirit Airlines fallisce, Google compra 100 milioni di email: rivolta tra i parlamentari Usa",
-      "link": "https://www.repubblica.it/economia/2026/10/10/news/spirit_airlines_fallisce_google_compra_100_milioni_di_email_rivolta_tra_i_parlamentari_usa-425638929/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T10:38:47.000Z",
-      "excerpt": "Il colosso tecnologico offre 10 milioni di dollari per gli archivi digitali della compagnia aerea fallita. Le informazioni addestreranno i sistemi di intelligenza artificiale. Oltre 120 politici contestano la vendita: i ",
-      "image": null
-    },
-    {
       "title": "John Malkovich: 'Ho riscritto l'80% dei film che ho fatto'",
       "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/10/john-malkovich-ho-riscritto-l80-dei-film-che-ho-fatto_4c39ddd3-e736-4084-ac31-0e395b43e1d7.html",
       "source": "ANSA",
@@ -716,6 +716,22 @@
     }
   ],
   "sport": [
+    {
+      "title": "F1: Singapore; Antonelli punta al podio, 'il potenziale c'è'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/10/f1-singapore-antonelli-punta-al-podio-il-potenziale-ce_14181d96-464e-4973-89a2-1b2faccfe9eb.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T15:16:03.000Z",
+      "excerpt": "Il leader del Mondiale quarto in qualifica: 'cerchiamo la quadra'",
+      "image": null
+    },
+    {
+      "title": "Seixas vince il Giro di Lombardia, è la sua prima Monumento",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/10/seixas-vince-il-giro-di-lombardia-e-la-sua-prima-monumento_3674473b-d478-43b2-afaf-fad67b3f0cf4.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T15:07:45.000Z",
+      "excerpt": "A 20 anni il francese arriva in solitaria. Sul podio Mas e Ciccone",
+      "image": null
+    },
     {
       "title": "Il Genoa batte 2-1 la Fiorentina, prima vittoria per i rossoblù",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-genoa-batte-2-1-la-fiorentina-prima-vittoria-per-i-rossoblu_7f7e6489-a874-45a1-9565-19e2f2114c4b.html",
@@ -762,22 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-10T14:27:00.000Z",
       "excerpt": "Tecnico bianconero: \"Dovremo essere bravi, decisi e intensi\"",
-      "image": null
-    },
-    {
-      "title": "Il Bayern incassa un gol dopo 8\", il più veloce della Bundesliga",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-bayern-incassa-un-gol-dopo-8-il-piu-veloce-della-bundesliga_9136be67-33fa-434d-9349-96be9739ee0a.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T14:14:50.000Z",
-      "excerpt": "A causarlo un errore in disimpegno del portiere Neuer",
-      "image": null
-    },
-    {
-      "title": "Calcio: Fabregas 'Kean 10 giorni ko, Federazioni dovrebbero comunicare meglio'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/calcio-fabregas-kean-10-giorni-ko-federazioni-dovrebbero-comunicare-meglio_731fe9c6-fa02-4711-b7f0-b0bdebdd0ac5.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T14:02:11.000Z",
-      "excerpt": "Tecnico Como: \"Contro la Roma partita importantissima\"",
       "image": null
     }
   ]

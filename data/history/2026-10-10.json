@@ -705,6 +705,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Ong, 'in Venezuela 322 prigionieri politici ancora non scarcerati'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/10/ong-in-venezuela-322-prigionieri-politici-ancora-non-scarcerati_1b1f0731-f5c2-4fea-9536-046761ac291c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T15:11:50.000Z",
+        "excerpt": "Secondo Foro Penal, tra questi reclusi ci sono 31 stranieri",
+        "image": null
+      },
+      {
         "title": ">ANSA-INTERVISTA/ 'La rivolta degli studenti iraniani oltre la protesta delle mense'",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/ansa-intervista-la-rivolta-degli-studenti-iraniani-oltre-la-protesta-delle-mense_53bb413c-87a6-4435-9d19-b8f80a4a24c6.html",
         "source": "ANSA Mondo",
@@ -1175,18 +1183,18 @@
         "pubDate": "2026-10-09T20:10:14.000Z",
         "excerpt": "Un sisma ha colpito la zona di Petaloza Arriba, rischio maremoti lungo le coste di Costa Rica, Ecuador, Perù, Nicaragua, Guatemala, El Salvador e Messico. Sospese le attività all’aeroporto, chiuse le scuole",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/202439284-1aa1d987-582e-4a4f-8c83-a0ba2e3f3d8a.jpg"
-      },
-      {
-        "title": "Axios, Ucraina sorpresa dall'annuncio di Trump per il diesel russo",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/09/axios-ucraina-sorpresa-dallannuncio-di-trump-per-il-diesel-russo_9c842210-c7d8-47e5-a1e3-db6f94ee9848.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T19:46:42.000Z",
-        "excerpt": "In queste ore negoziatori ucraini sono a Miami per incontrare Witkoff e Kushner",
-        "image": null
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Paul Seixas conquista il Lombardia a 20 anni: il francese è il più giovane vincitore di sempre",
+      "link": "https://www.repubblica.it/sport/ciclismo/2026/10/10/news/paul_seixas_vince_lombardia_20_anni_piu_giovane_vincitore_di_sempre_gerbi_diavolo_rosso-425639420/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T15:10:29.000Z",
+      "excerpt": "Battuto il record di precocità del “Diavolo Rosso” Giovanni Gerbi. Ciccone è terzo sul traguardo di Como",
+      "image": null
+    },
     {
       "title": "Fabregas punge l'Italia e Mancini: \"Kean ha giocato da infortunato, serve più comunicazione”",
       "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/10/news/fabregas_como_roma_kean_nazionale-425639238/",
@@ -1658,17 +1666,25 @@
       "pubDate": "2026-10-09T16:05:10.000Z",
       "excerpt": "Tra loro Malala, ma anche l'Ue e l'Onu. Lo scorso anno Maria Corina Machado",
       "image": null
-    },
-    {
-      "title": "I Friedkin vendono l’Everton e a Roma i tifosi si spaventano",
-      "link": "https://www.repubblica.it/sport/calcio/esteri/2026/10/09/news/friedkin_everton_roma_vendita-425637559/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T15:48:54.000Z",
-      "excerpt": "Il club inglese era stato acquistato solo due anni fa, ora i proprietari sono pronti alla cessione",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "F1: Singapore; Antonelli punta al podio, 'il potenziale c'è'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/10/f1-singapore-antonelli-punta-al-podio-il-potenziale-ce_14181d96-464e-4973-89a2-1b2faccfe9eb.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T15:16:03.000Z",
+      "excerpt": "Il leader del Mondiale quarto in qualifica: 'cerchiamo la quadra'",
+      "image": null
+    },
+    {
+      "title": "Seixas vince il Giro di Lombardia, è la sua prima Monumento",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/10/seixas-vince-il-giro-di-lombardia-e-la-sua-prima-monumento_3674473b-d478-43b2-afaf-fad67b3f0cf4.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T15:07:45.000Z",
+      "excerpt": "A 20 anni il francese arriva in solitaria. Sul podio Mas e Ciccone",
+      "image": null
+    },
     {
       "title": "Il Genoa batte 2-1 la Fiorentina, prima vittoria per i rossoblù",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-genoa-batte-2-1-la-fiorentina-prima-vittoria-per-i-rossoblu_7f7e6489-a874-45a1-9565-19e2f2114c4b.html",
