@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-10-10T19:08:43.100Z",
+  "lastUpdated": "2026-10-10T19:39:29.436Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Cala il prezzo del diesel, sfuma l'ipotesi di accise mobili",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/cala-il-prezzo-del-diesel-sfuma-lipotesi-di-accise-mobili_fc9a51b0-f59b-4d39-9e1c-c4e3ba502521.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-10T19:33:07.000Z",
+        "excerpt": "La settimana prossima in Parlamento il voto sullo scostamento di bilancio",
+        "image": null
+      },
+      {
+        "title": "Analisti: 'La revoca delle sanzioni su diesel non risolve, il problema è il Medio Oriente'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/analisti-la-revoca-delle-sanzioni-su-diesel-non-risolve-il-problema-e-il-medio-oriente_6f93021c-b53e-47c0-bee8-f232437e9145.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-10T19:16:44.000Z",
+        "excerpt": "'Incremento modesto, solo gli Usa consumano 3,7 milioni di barili al giorno'",
+        "image": null
+      },
       {
         "title": "Cala il prezzo del diesel, si allontana l’ipotesi delle accise mobili",
         "link": "https://www.ilsole24ore.com/art/cala-prezzo-diesel-si-allontana-l-ipotesi-accise-mobili-AJxQg4fB",
@@ -88,7 +104,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T12:47:48.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEI170B3_L.jpg"
       },
       {
         "title": "Lombardi,da Cse investimenti su innovazione e digitale banche,siamo partner affidabile",
@@ -201,22 +217,6 @@
         "pubDate": "2026-10-10T08:26:30.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
-      },
-      {
-        "title": "Presidenza del Consiglio Ue propone taglio 141 miliardi al futuro Bilancio",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/presidenza-del-consiglio-ue-propone-taglio-141-miliardi-al-futuro-bilancio_5c35731f-42dc-486b-bd36-f8280c9a60f8.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-10T08:19:36.000Z",
-        "excerpt": "Bozza da 1.622 miliardi, circa 308 miliardi sotto la richiesta dell'Eurocamera",
-        "image": null
-      },
-      {
-        "title": "Mimit, prezzi gasolio in leggero calo, benzina self a 2,035",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/mimit-prezzi-gasolio-in-leggero-calo-benzina-self-a-2035_5ca745eb-4118-4f4a-9ed9-4667a2216e2b.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-10T08:10:45.000Z",
-        "excerpt": "Sulle autostrade 2,045 per la benzina e 2,271 per il gasolio",
-        "image": null
       },
       {
         "title": "Goldman vota Europa: “Fiducia dagli investitori, ma ora riforme”",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Burnham, 'piena solidarietà a Zelensky dopo le parole di Trump'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/burnham-piena-solidarieta-a-zelensky-dopo-le-parole-di-trump_29735a09-c82c-4373-83a8-f4bf67bc7e1e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T19:29:56.000Z",
+        "excerpt": "Telefonata tra i due leader",
+        "image": null
+      },
+      {
         "title": "Kiev, 'dichiarazioni dall'estero confermano che Zelensky svolge bene il suo lavoro'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/kiev-dichiarazioni-dallestero-confermano-che-zelensky-svolge-bene-il-suo-lavoro_d8793157-a810-468c-9886-6f7c125aab1e.html",
         "source": "ANSA Mondo",
@@ -461,14 +469,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-10T17:06:17.000Z",
         "excerpt": "'Gli avevamo detto che poteva fare quello che voleva ma di non colpirle'",
-        "image": null
-      },
-      {
-        "title": "Sospese le operazioni all'aeroporto di Riad dopo l'attacco degli Houthi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/sospese-le-operazioni-allaeroporto-di-riad-dopo-lattacco-degli-houthi_0c2163f5-302e-400c-84c1-68c58f31a687.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T17:05:23.000Z",
-        "excerpt": "Lo comunica l'autorità per l'aviazione civile saudita",
         "image": null
       },
       {
@@ -587,27 +587,35 @@
   },
   "attualita": [
     {
+      "title": "L'Ue agli Usa: 'Ritirare le sanzioni alla Cpi, pronti a difenderla'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/lue-agli-usa-ritirare-le-sanzioni-alla-cpi-pronti-a-difenderla_26dac987-1d6b-4687-be63-a67170be2055.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-10T19:18:54.000Z",
+      "excerpt": "Trump minaccia Oslo sul Nobel: 'Non dimentichiamo'. E boccia i candidati per l'Onu",
+      "image": null
+    },
+    {
       "title": "Trump scarica Zelensky: 'Serve un nuovo presidente a Kiev per un accordo'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/trump-scarica-zelensky-serve-un-nuovo-presidente-a-kiev-per-un-accordo_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
       "source": "ANSA",
-      "pubDate": "2026-10-10T18:27:05.000Z",
+      "pubDate": "2026-10-10T19:17:34.000Z",
       "excerpt": "Duro attacco dopo lo scontro sul diesel russo. Mosca esulta. L'Ue con Kiev: 'La revoca delle sanzioni aiuta Putin'. La delegazione ucraina lascia Miami in anticipo. Bombardamenti russi su Zaporizhzhia: 20 morti, tra cui ",
       "image": null
     },
     {
-      "title": "Nubifragi, allagamenti e frane, il maltempo sferza il Sud",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-sferza-il-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T18:24:11.000Z",
-      "excerpt": "A Lipari esondati i torrenti, bomba d'acqua nel Reggino. Acqua nella basilica di S.Nicola",
+      "title": "Comunali a Milano, la destra va in tilt. Forza Italia attacca la Lega: “Possono correre da soli”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/comunali_milano_centrodestra_scontro_forza_italia_lega_primarie-425639942/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T19:14:34.000Z",
+      "excerpt": "Salvini per il dopo Sala insiste sull’eurodeputata Sardone e rilancia le primarie. Gli azzurri: “Allora facciamole ovunque”. La Russa media",
       "image": null
     },
     {
-      "title": "L'Ue agli Usa: 'Ritirare le sanzioni alla Cpi, pronti a difenderla'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/lue-agli-usa-ritirare-le-sanzioni-alla-cpi-pronti-a-difenderla_26dac987-1d6b-4687-be63-a67170be2055.html",
+      "title": "Nubifragi, allagamenti e frane: il maltempo fa paura al Sud",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-fa-paura-al-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
       "source": "ANSA",
-      "pubDate": "2026-10-10T18:22:31.000Z",
-      "excerpt": "Trump minaccia Oslo sul Nobel: 'Non dimentichiamo'. E boccia i candidati per l'Onu",
+      "pubDate": "2026-10-10T18:39:40.000Z",
+      "excerpt": "A Lipari esondati i torrenti, bomba d'acqua nel Reggino. Acqua nella basilica di S.Nicola a Bari",
       "image": null
     },
     {
@@ -656,14 +664,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-10T15:33:21.000Z",
       "excerpt": "Le critiche alla legge regionale lombarda approvata a giugno: “Parliamo di industrie pesanti, impattanti ed energivore che non possono essere collocate in mezzo ai centri abitati”",
-      "image": null
-    },
-    {
-      "title": "India, proteste a Nuova Delhi contro la riforma delle liste elettorali: oltre mille fermati, tra cui i leader degli scarafaggi",
-      "link": "https://www.repubblica.it/esteri/2026/10/10/news/india_proteste_a_nuova_delhi_blindata_fermati_leader_scarafaggi-425639231/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T13:55:21.000Z",
-      "excerpt": "La polizia ha blindato la capitale nel giorno della manifestazione indetta dal Cockroach Janta Party contro le nuove norme elettorali volute dal premier Modi. Rahul Gandhi: “Continuate a scendere in piazza, orgoglioso di",
       "image": null
     },
     {
@@ -717,6 +717,14 @@
   ],
   "sport": [
     {
+      "title": "Serie A: Napoli-Frosinone 2-0 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-napoli-frosinone-2-0-diretta-e-foto_57206b56-039f-4610-9ef4-7db201bb9b37.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T19:21:38.000Z",
+      "excerpt": "Al Maradona la sfida per la sesta giornata di campionato",
+      "image": null
+    },
+    {
       "title": "Serie A: Chivu, 'era un'incognita, sono contento della qualità dell'Inter'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-chivu-era-unincognita-sono-contento-della-qualita-dellinter_e07635e3-20b9-4fd5-b654-38d399a2323c.html",
       "source": "ANSA Sport",
@@ -730,14 +738,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-10T18:39:45.000Z",
       "excerpt": "Il neotecnico del Parma: \"Dobbiamo crescere e capire i momenti della partita\"",
-      "image": null
-    },
-    {
-      "title": "Serie A: Napoli-Frosinone DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-napoli-frosinone-diretta-e-foto_57206b56-039f-4610-9ef4-7db201bb9b37.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T18:32:23.000Z",
-      "excerpt": "Al Maradona la sfida per la sesta giornata di campionato",
       "image": null
     },
     {
