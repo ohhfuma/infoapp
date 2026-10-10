@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T01:42:49.881Z",
+  "lastUpdated": "2026-10-10T02:08:51.695Z",
   "finanza": {
     "italia": [
       {
@@ -56,7 +56,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T20:00:43.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+        "image": null
       },
       {
         "title": "Perché il titolo CNH Industrial è in calo oggi?",
@@ -64,7 +64,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T19:55:39.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+        "image": null
       },
       {
         "title": "Perché il titolo di Deere & Company crolla oggi?",
@@ -80,7 +80,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T19:31:09.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4C131_1200_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEM4C131_150x108_S.jpg"
       },
       {
         "title": "Titoli del settore agricolo in calo per indagine e prezzi delle colture",
@@ -88,7 +88,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T19:28:45.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA7E0LA_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEA7E0LA_L.jpg"
       },
       {
         "title": "S&P Global promuove United Rentals a Grado di investimento",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "L'uragano Isaias tocca terra in Florida come categoria 2, migliaia senza elettricità",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/luragano-isaias-tocca-terra-in-florida-come-categoria-2-migliaia-senza-elettricita_e5fa177c-af4e-4cf0-9f98-ae4b8a1be79a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T01:51:21.000Z",
+        "excerpt": "Allerta alta negli stati che si affacciano sul Golfo del Messico",
+        "image": null
+      },
+      {
         "title": "Trump attacca la Norvegia sul Nobel: 'E' una macchia indelebile, non dimenticheremo'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-attacca-la-norvegia-sul-nobel-e-una-macchia-indelebile-non-dimenticheremo_ce60d4a1-3283-4888-aa0e-f3409e6e4aa9.html",
         "source": "ANSA Mondo",
@@ -517,14 +525,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-09T22:47:44.000Z",
         "excerpt": "Dopo quasi 30 anni il gruppo esce dalla società, venduta per 25 milioni di dollari",
-        "image": null
-      },
-      {
-        "title": "La rimonta di Lula online, exploit di contatti per battere Bolsonaro",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/10/la-rimonta-di-lula-online-exploit-di-contatti-per-battere-bolsonaro_f4992622-f7ce-42d3-85b2-f5678bac4b3e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T22:46:10.000Z",
-        "excerpt": "I nuovi video diretti sono un successo: mercoledì il record con 10 milioni di like",
         "image": null
       },
       {
