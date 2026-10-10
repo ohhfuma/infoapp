@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-10T01:11:31.984Z",
+  "lastUpdated": "2026-10-10T01:42:49.881Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Nuvacore, sostenuta da Sequoia, punta a una valutazione di 2,5 miliardi",
+        "link": "https://it.investing.com/news/stock-market-news/nuvacore-sostenuta-da-sequoia-punta-a-una-valutazione-di-25-miliardi-3582728",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-10T01:08:34.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg"
+      },
       {
         "title": "La lettera pro-Intesa di Delfin: \"Impegno a dare le azioni Mps”",
         "link": "https://www.repubblica.it/economia/2026/10/10/news/delfin_intesa_sanpaolo_lettera_mps-425638084/?rss",
@@ -64,7 +72,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T19:49:00.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_L.jpg"
+        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
       },
       {
         "title": "Moody’s rivede al rialzo l’outlook di Crescent Energy dopo l’accordo Eagle Ford",
@@ -88,15 +96,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T19:27:28.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_150x108_S.jpg"
-      },
-      {
-        "title": "Repole acquista l’1,4% di Churchill Downs, titolo su del 6%",
-        "link": "https://it.investing.com/news/stock-market-news/repole-acquista-l14-di-churchill-downs-titolo-su-del-6-3582595",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-09T19:21:12.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg"
       },
       {
         "title": "Il petrolio chiude in rialzo a New York a 91,85 dollari",
@@ -392,6 +392,30 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump attacca la Norvegia sul Nobel: 'E' una macchia indelebile, non dimenticheremo'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-attacca-la-norvegia-sul-nobel-e-una-macchia-indelebile-non-dimenticheremo_ce60d4a1-3283-4888-aa0e-f3409e6e4aa9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T01:36:06.000Z",
+        "excerpt": "'Ho risolto 8 guerre, ce ne voleva uno per ognuna'",
+        "image": null
+      },
+      {
+        "title": "Messico, altri due morti nel carcere di Mazatlán, 12 in due giorni",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/10/messico-altri-due-morti-nel-carcere-di-mazatlan-12-in-due-giorni_ebd3618f-4420-4fe7-bb26-ac2af4c09894.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T01:17:18.000Z",
+        "excerpt": "Nuova rissa nel penitenziario di El Castillo dopo i dieci decessi di giovedì",
+        "image": null
+      },
+      {
+        "title": "'Trump si è accordato con Putin dopo che Zelensky ha ignorato le sue richieste'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-si-e-accordato-con-putin-dopo-che-zelensky-ha-ignorato-le-sue-richieste_a35e6e0e-af53-4758-81f2-64e7d0b42a00.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T01:10:15.000Z",
+        "excerpt": "Axios, sugli attacchi alle raffinerie, voleva lo stop unilaterale",
+        "image": null
+      },
+      {
         "title": "Trump dice che la Russia fornirà gasolio agli Stati Uniti e ai mercati globali",
         "link": "https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
         "source": "Investing.com Commodities",
@@ -501,30 +525,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-09T22:46:10.000Z",
         "excerpt": "I nuovi video diretti sono un successo: mercoledì il record con 10 milioni di like",
-        "image": null
-      },
-      {
-        "title": "Panama, onde fino a tre metri minacciano il sud dopo il sisma",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/panama-onde-fino-a-tre-metri-minacciano-il-sud-dopo-il-sisma_d29ce8df-5b8d-4c61-849e-13c57d78a54c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T22:00:35.000Z",
-        "excerpt": "Acqua già entrata in alcune case a Isla Cañas, registrate 86 repliche",
-        "image": null
-      },
-      {
-        "title": "Venezuela, terzo round di dialogo dal 14 ottobre su Corte suprema e partiti",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/venezuela-terzo-round-di-dialogo-dal-14-ottobre-su-corte-suprema-e-partiti_2c1ce62d-a210-4bcc-b3c5-1e2b29347b65.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T21:55:15.000Z",
-        "excerpt": "Obiettivo garanzie per presidenziali credibili e riforma del sistema elettorale",
-        "image": null
-      },
-      {
-        "title": "Trump, 'grande rapporto con Meloni, andiamo d'accordo'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/trump-grande-rapporto-con-meloni-andiamo-daccordo_b670410c-fe1d-4fb6-84e5-c6354bb761ae.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T21:42:08.000Z",
-        "excerpt": "'Probabilmente la incontrerò al G20'",
         "image": null
       },
       {
