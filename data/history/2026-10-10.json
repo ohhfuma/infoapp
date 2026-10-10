@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Alla base di Luna rossa di Cagliari la mostra scientifica Ocean&amp;Climate Village",
+        "link": "https://www.ilsole24ore.com/art/alla-base-luna-rossa-cagliari-mostra-scientifica-oceanclimate-village-AJbpLvfB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-10T15:57:01.000Z",
+        "excerpt": "La mostra scientifica itinerante Ocean&Climate Village fa tappa alla base di Luna Rossa a Cagliari. L’iniziativa itinerante, sviluppata dalla Commissione Oceanografica Intergovernativa (COI) dell’Unesco e supportata dal ",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/m10486_crop169014_1024x1024_proportional_17915644590232-U60073283052yBC-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
         "title": "Gli agenti AI potrebbero rivoluzionare lo shopping online: chi vince?",
         "link": "https://it.investing.com/news/stock-market-news/gli-agenti-ai-potrebbero-rivoluzionare-lo-shopping-online-chi-vince-3582793",
         "source": "Investing.com Italia",
@@ -474,14 +482,6 @@
         "pubDate": "2026-10-09T16:32:54.000Z",
         "excerpt": "Esborso massimo complessivo di 3,91 miliardi",
         "image": null
-      },
-      {
-        "title": "Mazzotta (Fincantieri), la nave del futuro sarà green e digitale",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/mazzotta-fincantieri-la-nave-del-futuro-sara-green-e-digitale_17b60d1b-4458-4ace-a46a-5ddee1effa46.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T16:25:46.000Z",
-        "excerpt": "Aumenterà anche il livello di automazione",
-        "image": null
       }
     ],
     "europa": [
@@ -704,6 +704,14 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Stati Uniti, Christa Pike è stata dimessa dall'ospedale",
+        "link": "https://www.repubblica.it/esteri/2026/10/10/news/christa_pike_uscita_ospedale_iniezione_letale_tennessee-425639484/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-10T15:41:02.000Z",
+        "excerpt": "La 50enne, sopravvissuta al tentativo di esecuzione in Tennessee, è tornata nel carcere femminile dove era stata detenuta per 30 anni",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/174052823-9d29fa62-5b65-4843-b9e2-2919142f35b6.jpg"
+      },
       {
         "title": "Ong, 'in Venezuela 322 prigionieri politici ancora non scarcerati'",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/10/ong-in-venezuela-322-prigionieri-politici-ancora-non-scarcerati_1b1f0731-f5c2-4fea-9536-046761ac291c.html",
@@ -1175,18 +1183,34 @@
         "pubDate": "2026-10-09T20:30:27.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM981SW_L.jpg"
-      },
-      {
-        "title": "Panama, scossa di magnitudo 7,6: allerta tsunami. Scene di panico nella capitale",
-        "link": "https://www.repubblica.it/esteri/2026/10/09/news/panama_terremoto_allerta_tsunami-425637859/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-09T20:10:14.000Z",
-        "excerpt": "Un sisma ha colpito la zona di Petaloza Arriba, rischio maremoti lungo le coste di Costa Rica, Ecuador, Perù, Nicaragua, Guatemala, El Salvador e Messico. Sospese le attività all’aeroporto, chiuse le scuole",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/202439284-1aa1d987-582e-4a4f-8c83-a0ba2e3f3d8a.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Stati Uniti, Christa Pike è stata dimessa dall'ospedale",
+      "link": "https://www.repubblica.it/esteri/2026/10/10/news/christa_pike_uscita_ospedale_iniezione_letale_tennessee-425639484/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T15:41:02.000Z",
+      "excerpt": "La 50enne, sopravvissuta al tentativo di esecuzione in Tennessee, è tornata nel carcere femminile dove era stata detenuta per 30 anni",
+      "image": null
+    },
+    {
+      "title": "Verstappen è tornato: pole a Singapore, ma Leclerc e Hamilton sono vicinissimi",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/10/10/news/verstappen_pole_singapore_leclerc_hamilton_vicini-425639481/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T15:40:14.000Z",
+      "excerpt": "Dopo aver vinto la Sprint, l’olandese è il più veloce nelle qualifiche. Quarto tempo per Antonelli, che limita i danni su una Mercedes difficile da guidare",
+      "image": null
+    },
+    {
+      "title": "Presidio Stop Data Center a Milano, centinaia in piazza Scala: “No alla colonizzazione digitale”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/presidio_stop_data_center_milano_centinaia_piazza_scala-425639470/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T15:33:21.000Z",
+      "excerpt": "Le critiche alla legge regionale lombarda approvata a giugno: “Parliamo di industrie pesanti, impattanti ed energivore che non possono essere collocate in mezzo ai centri abitati”",
+      "image": null
+    },
     {
       "title": "Paul Seixas conquista il Lombardia a 20 anni: il francese è il più giovane vincitore di sempre",
       "link": "https://www.repubblica.it/sport/ciclismo/2026/10/10/news/paul_seixas_vince_lombardia_20_anni_piu_giovane_vincitore_di_sempre_gerbi_diavolo_rosso-425639420/",
@@ -1642,33 +1666,33 @@
       "pubDate": "2026-10-09T16:28:36.000Z",
       "excerpt": "Stefano, padre e coach del tennista azzurro, ha mostrato un post in cui al figlio veniva augurato il cancro",
       "image": null
-    },
-    {
-      "title": "Ritorsione Usa: sanzioni alla Cpi. Ma Italia e Occidente dicono no",
-      "link": "https://www.repubblica.it/esteri/2026/10/09/news/sanzioni_usa_cpi_nobel_pillay_reazione_ue_italia_contraria-425637628/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T16:20:43.000Z",
-      "excerpt": "Rubio: “Tribunale canaglia, lo bloccheremo”. L’Onu: “Inaccettabile”. La lettera congiunta di otto Stati: “Sostegno incrollabile”. La Ue ha sei mesi per trovare una mediazione",
-      "image": null
-    },
-    {
-      "title": "Goggia: “Dolori lancinanti provocati dai virus: salto l’apertura della Coppa del mondo, a Soelden”",
-      "link": "https://www.repubblica.it/sport/sci/2026/10/09/news/goggia_dolori_lancinanti_virus_forfait_soelden-425637616/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T16:15:29.000Z",
-      "excerpt": "Intervista alla campionessa olimpica di discesa, colpita da due virus molto aggressivi mentre si allenava in Argentina",
-      "image": null
-    },
-    {
-      "title": "Da Kofi Annan a Obama, i Nobel per la Pace dall'inizio del secolo",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/09/da-kofi-annan-a-obama-i-nobel-per-la-pace-dallinizio-del-secolo_e6101795-f102-46a2-80dc-3b013e6c192c.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T16:05:10.000Z",
-      "excerpt": "Tra loro Malala, ma anche l'Ue e l'Onu. Lo scorso anno Maria Corina Machado",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "F1: Singapore; Leclerc 'Red Bull piu' avanti, vediamo per la vittoria'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/10/f1-singapore-leclerc-red-bull-piu-avanti-vediamo-per-la-vittoria_394f9883-9348-4019-b796-c92900149fed.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T15:57:18.000Z",
+      "excerpt": "\"Ho faticato molto in Q1 e Q2, in Q3 ho staccato il cervello e sono andato..\"",
+      "image": null
+    },
+    {
+      "title": "Massini è il nuovo presidente dell'AIA, vince al ballottaggio contro Pacifici",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/massini-e-il-nuovo-presidente-dellaia-vince-al-ballottaggio-contro-pacifici_3a3cef3a-7f45-4a63-9f1c-053615f81321.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T15:56:44.000Z",
+      "excerpt": "Ottiene 461 delle preferenze su 912 votanti",
+      "image": null
+    },
+    {
+      "title": "Serie A: De Rossi risolleva il suo Genoa, la prima vittoria è sulla Fiorentina",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-de-rossi-risolleva-il-suo-genoa-la-prima-vittoria-e-sulla-fiorentina_6b3c5b2d-1626-4cf1-bc1b-916e13a49e97.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T15:43:54.000Z",
+      "excerpt": "Osmajic e Messias portano i rossoblù sul 2-0, un'autorete di Vasquez illude i Viola",
+      "image": null
+    },
     {
       "title": "F1: Singapore; Antonelli punta al podio, 'il potenziale c'è'",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/10/f1-singapore-antonelli-punta-al-podio-il-potenziale-ce_14181d96-464e-4973-89a2-1b2faccfe9eb.html",
