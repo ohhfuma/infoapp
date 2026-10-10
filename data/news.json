@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T19:39:29.436Z",
+  "lastUpdated": "2026-10-10T20:07:08.246Z",
   "finanza": {
     "italia": [
       {
@@ -104,7 +104,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T12:47:48.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEI170B3_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
       },
       {
         "title": "Lombardi,da Cse investimenti su innovazione e digitale banche,siamo partner affidabile",
@@ -160,7 +160,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T11:01:18.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4D1J3_1200_L.jpg"
+        "image": null
       },
       {
         "title": "Mazzi, 'a settembre l'Italia prima in Europa per saturazione'",
@@ -240,7 +240,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T06:33:42.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8K0QP_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB8K0QP_S.jpg"
       },
       {
         "title": "Servizio clienti nelle tlc, basta opzioni infinite. Ora c’è il diritto a “parlare con l’operatore”",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Sale a quattro il bilancio dei morti per l'uragano Isaias",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/sale-a-quattro-il-bilancio-dei-morti-per-luragano-isaias_3c7f1dbd-f3f3-4c14-8ffb-9d57b73787e0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T19:50:38.000Z",
+        "excerpt": "Più di 900.000 persone al buio",
+        "image": null
+      },
+      {
         "title": "Burnham, 'piena solidarietà a Zelensky dopo le parole di Trump'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/burnham-piena-solidarieta-a-zelensky-dopo-le-parole-di-trump_29735a09-c82c-4373-83a8-f4bf67bc7e1e.html",
         "source": "ANSA Mondo",
@@ -453,14 +461,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-10T17:10:59.000Z",
         "excerpt": "Le parole del tycoon dopo l'attacco all'aeroporto di Riad",
-        "image": null
-      },
-      {
-        "title": "Trump, Zelensky la smetta di colpire le raffinerie russe",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-zelensky-la-smetta-di-colpire-le-raffinerie-russe_3ead9fc0-48dd-4d01-a158-7e69e2e35f87.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T17:06:19.000Z",
-        "excerpt": "'Gli avevamo detto che poteva fare quello che voleva ma di non colpirle'",
         "image": null
       },
       {
@@ -587,6 +587,14 @@
   },
   "attualita": [
     {
+      "title": "Crans, inchiesta per fuga di notizie. E gli indagati puntano allo sconto di pena: “Gogna mediatica”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/crans_inchiesta_fuga_notizie_avvocati_giornalisti-425639972/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T19:32:01.000Z",
+      "excerpt": "Fascicolo dei pm, nel mirino avvocati e giornalisti. La denuncia dei difensori dei Moretti: “Incosciente la pubblicazione di atti”. Ecco perché i legali potrebbero chiedere pene più lievi in caso di condanna",
+      "image": null
+    },
+    {
       "title": "L'Ue agli Usa: 'Ritirare le sanzioni alla Cpi, pronti a difenderla'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/lue-agli-usa-ritirare-le-sanzioni-alla-cpi-pronti-a-difenderla_26dac987-1d6b-4687-be63-a67170be2055.html",
       "source": "ANSA",
@@ -675,14 +683,6 @@
       "image": null
     },
     {
-      "title": "Leone XIV dopo l’annuncio del Pentagono sull’esecuzione in streaming: “Pena di morte inammissibile”",
-      "link": "https://www.repubblica.it/cronaca/2026/10/10/news/papa_leone_xiv_pena_di_morte-425639202/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T13:41:39.000Z",
-      "excerpt": "Prevost scrive un messaggio su X in occasione della giornata contro la pena capitale. Ieri la condanna dei vescovi Usa",
-      "image": null
-    },
-    {
       "title": "John Malkovich: 'Ho riscritto l'80% dei film che ho fatto'",
       "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/10/john-malkovich-ho-riscritto-l80-dei-film-che-ho-fatto_4c39ddd3-e736-4084-ac31-0e395b43e1d7.html",
       "source": "ANSA",
@@ -720,7 +720,7 @@
       "title": "Serie A: Napoli-Frosinone 2-0 DIRETTA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-napoli-frosinone-2-0-diretta-e-foto_57206b56-039f-4610-9ef4-7db201bb9b37.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-10T19:21:38.000Z",
+      "pubDate": "2026-10-10T19:48:26.000Z",
       "excerpt": "Al Maradona la sfida per la sesta giornata di campionato",
       "image": null
     },
