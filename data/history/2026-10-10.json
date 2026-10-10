@@ -721,6 +721,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Nyt, 'almeno 12 morti nell'attacco degli houthi all'aeroporto di Riad'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/nyt-almeno-12-morti-nellattacco-degli-houthi-allaeroporto-di-riad_7cff0445-1b45-412f-b938-a3a1fb44e687.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T20:59:14.000Z",
+        "excerpt": "I feriti sono almeno 50",
+        "image": null
+      },
+      {
+        "title": "Per il Columbus Day Mamdani evoca il deputato socialista Vito Marcantonio",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/per-il-columbus-day-mamdani-evoca-il-deputato-socialista-vito-marcantonio_1d7bfc93-3364-4de1-b7f0-8902047549ff.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T20:56:23.000Z",
+        "excerpt": "'Idee come le sue non solo possibili ma popolari',il sindaco replica al Colombo di Trump",
+        "image": null
+      },
+      {
         "title": "Raid Houthi sull’Arabia Saudita: è strage all’aeroporto di Riad",
         "link": "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/?rss",
         "source": "Repubblica Esteri",
@@ -1183,26 +1199,18 @@
         "pubDate": "2026-10-09T23:00:00.000Z",
         "excerpt": "In vista di midterm gli Usa sospendono le misure contro la guerra: “Così i prezzi scenderanno”. Zelensky: “Un segno di debolezza”",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/225324730-260f5457-7052-4138-ba10-bd031d70dd25.jpg"
-      },
-      {
-        "title": "“Colombo un eroe”, Trump lo festeggia e difende Little Italy. E su Meloni: “Rapporti ottimi, la incontrerò al G20”",
-        "link": "https://www.repubblica.it/esteri/2026/10/10/news/trump_festeggia_columbus_day_difende_little_italy-425638156/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-09T23:00:00.000Z",
-        "excerpt": "Il presidente Usa celebra il navigatore genovese: “Lo abbiamo resuscitato”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/222544567-f6208a07-00d3-4a46-9e92-3247ee6616c2.jpg"
-      },
-      {
-        "title": "Francia, la sinistra sceglie il leader: cyberattacco rallenta le primarie",
-        "link": "https://www.repubblica.it/esteri/2026/10/10/news/francia_sinistra_sceglie_leader_cyberattacco_primarie-425638153/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-09T23:00:00.000Z",
-        "excerpt": "Ondata di connessioni fittizie generate da bot: si voterà un giorno in più, fino a domani sera Favorito Glucksmann",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/222449188-1f96829b-dab5-4a0f-aa25-52eac0bd47f1.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Raid Houthi sull’Arabia Saudita: è strage all’aeroporto di Riad",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T20:37:00.000Z",
+      "excerpt": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid: secondo il “New York Times” ci sarebbero 12 morti e decine di feriti",
+      "image": null
+    },
     {
       "title": "Crans, inchiesta per fuga di notizie. E gli indagati puntano allo sconto di pena: “Gogna mediatica”",
       "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/crans_inchiesta_fuga_notizie_avvocati_giornalisti-425639972/",
@@ -1674,17 +1682,25 @@
       "pubDate": "2026-10-09T23:00:00.000Z",
       "excerpt": "In vista di midterm gli Usa sospendono le misure contro la guerra: “Così i prezzi scenderanno”. Zelensky: “Un segno di debolezza”",
       "image": null
-    },
-    {
-      "title": "Cavo Dragone: “La Nato è pronta a vincere, così la guerra sarà evitata”",
-      "link": "https://www.repubblica.it/esteri/2026/10/10/news/intervista_cavo_dragone_nato_pronta_a_vincere_cosi_guerra_sara_evitata-425637788/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T23:00:00.000Z",
-      "excerpt": "Il presidente del Comitato militare: “La nuova Theory of Victory non è una provocazione alla Russia, dissuaderà dagli attacchi”",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Il Barcellona non si ferma più, Diomandé regala tre punti al Real",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-barcellona-non-si-ferma-piu-diomande-regala-tre-punti-al-real_b8e3041b-aa71-42ad-9b2b-ab292251660e.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T21:04:41.000Z",
+      "excerpt": "I blaugrana fanno 8 su 8 in Liga, i blancos vincono anche in 10 uomini",
+      "image": null
+    },
+    {
+      "title": "Doppietta di De Bruyne e il Napoli torna a vincere, 3-0 al Frosinone",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/doppietta-di-de-bruyne-e-il-napoli-torna-a-vincere-3-0-al-frosinone_57206b56-039f-4610-9ef4-7db201bb9b37.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T21:03:42.000Z",
+      "excerpt": "In gol anche Lang, gli azzurri ritrovano McTominay. Vincono anche Inter e Genoa negli anticipi della sesta giornata",
+      "image": null
+    },
     {
       "title": "Serie A: doppio De Bruyne e Lang, il Napoli stende il Frosinone al Maradona",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-doppio-de-bruyne-e-lang-il-napoli-stende-il-frosinone-al-maradona_9e1d193f-332a-4eb7-914c-73dbe779c287.html",

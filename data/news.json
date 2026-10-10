@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-10T20:41:32.045Z",
+  "lastUpdated": "2026-10-10T21:07:05.952Z",
   "finanza": {
     "italia": [
       {
-        "title": "Infosys: nessun impatto significativo dalla sospensione del programma PERM USA",
+        "title": "Infosys: nessun impatto significativo dalla sospensione PERM negli USA",
         "link": "https://it.investing.com/news/stock-market-news/infosys-nessun-impatto-significativo-dalla-sospensione-del-programma-perm-usa-3582813",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T20:14:06.000Z",
@@ -392,11 +392,27 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Raid Houthi sull’Arabia Saudita: è strage all’aeroporto di Riad",
+        "title": "Nyt, 'almeno 12 morti nell'attacco degli houthi all'aeroporto di Riad'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/nyt-almeno-12-morti-nellattacco-degli-houthi-allaeroporto-di-riad_7cff0445-1b45-412f-b938-a3a1fb44e687.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T20:59:14.000Z",
+        "excerpt": "I feriti sono almeno 50",
+        "image": null
+      },
+      {
+        "title": "Per il Columbus Day Mamdani evoca il deputato socialista Vito Marcantonio",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/per-il-columbus-day-mamdani-evoca-il-deputato-socialista-vito-marcantonio_1d7bfc93-3364-4de1-b7f0-8902047549ff.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T20:56:23.000Z",
+        "excerpt": "'Idee come le sue non solo possibili ma popolari',il sindaco replica al Colombo di Trump",
+        "image": null
+      },
+      {
+        "title": "Raid Houthi sull’Arabia Saudita, strage all’aeroporto di Riad: 12 morti",
         "link": "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-10T20:37:00.000Z",
-        "excerpt": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid: secondo il “New York Times” ci sarebbero 12 morti",
+        "excerpt": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid: secondo il “New York Times” ci sarebbero anche decine di feriti",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/223507037-95392cd2-efaf-45dc-b01b-727b47f341fb.jpg"
       },
       {
@@ -462,22 +478,6 @@
         "pubDate": "2026-10-10T17:15:21.000Z",
         "excerpt": "La 50enne, sopravvissuta al tentativo di esecuzione in Tennessee, è tornata nel carcere femminile dove era stata detenuta per 30 anni",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/174052823-9d29fa62-5b65-4843-b9e2-2919142f35b6.jpg"
-      },
-      {
-        "title": "Trump non esclude di unirsi ai raid sauditi, 'decideremo'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-non-esclude-di-unirsi-ai-raid-sauditi-decideremo_0e4fdc34-5ccf-43c8-a502-d698c11116ff.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T17:10:59.000Z",
-        "excerpt": "Le parole del tycoon dopo l'attacco all'aeroporto di Riad",
-        "image": null
-      },
-      {
-        "title": "Trump non esclude di unirsi ai raid sauditi, 'decideremo'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/trump-non-esclude-di-unirsi-ai-raid-sauditi-decideremo_8eaf7259-d934-45e0-8e78-a1635119431a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T17:10:59.000Z",
-        "excerpt": "Le parole del tycoon dopo l'attacco all'aeroporto di Riad",
-        "image": null
       },
       {
         "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
@@ -587,6 +587,14 @@
   },
   "attualita": [
     {
+      "title": "Raid Houthi sull’Arabia Saudita: è strage all’aeroporto di Riad",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T20:37:00.000Z",
+      "excerpt": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid: secondo il “New York Times” ci sarebbero 12 morti e decine di feriti",
+      "image": null
+    },
+    {
       "title": "Crans, inchiesta per fuga di notizie. E gli indagati puntano allo sconto di pena: “Gogna mediatica”",
       "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/crans_inchiesta_fuga_notizie_avvocati_giornalisti-425639972/",
       "source": "Repubblica",
@@ -675,14 +683,6 @@
       "image": null
     },
     {
-      "title": "A Napoli Greta Thunberg per Gaza: “Governo fascista, Cpr campi di concentramento”",
-      "link": "https://napoli.repubblica.it/cronaca/2026/10/10/news/greta_thunberg_napoli_corteo_gaza-425639220/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T13:52:57.000Z",
-      "excerpt": "L'attivista svedese ha partecipato alla manifestazione pro Palestina",
-      "image": null
-    },
-    {
       "title": "John Malkovich: 'Ho riscritto l'80% dei film che ho fatto'",
       "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/10/john-malkovich-ho-riscritto-l80-dei-film-che-ho-fatto_4c39ddd3-e736-4084-ac31-0e395b43e1d7.html",
       "source": "ANSA",
@@ -717,19 +717,35 @@
   ],
   "sport": [
     {
+      "title": "Il Barcellona non si ferma più, Diomandé regala tre punti al Real",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-barcellona-non-si-ferma-piu-diomande-regala-tre-punti-al-real_b8e3041b-aa71-42ad-9b2b-ab292251660e.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T21:04:41.000Z",
+      "excerpt": "I blaugrana fanno 8 su 8 in Liga, i blancos vincono anche in 10 uomini",
+      "image": null
+    },
+    {
+      "title": "Doppietta di De Bruyne e il Napoli torna a vincere, 3-0 al Frosinone",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/doppietta-di-de-bruyne-e-il-napoli-torna-a-vincere-3-0-al-frosinone_57206b56-039f-4610-9ef4-7db201bb9b37.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T21:03:42.000Z",
+      "excerpt": "In gol anche Lang, gli azzurri ritrovano McTominay. Vincono anche Inter e Genoa negli anticipi della sesta giornata",
+      "image": null
+    },
+    {
+      "title": "All'Inter bastano 30 minuti, Parma travolto 3-0 a S.Siro",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/allinter-bastano-30-minuti-parma-travolto-3-0-a-s.siro_3de142c7-04e2-4b64-b000-cc44ad95cfcf.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T21:00:22.000Z",
+      "excerpt": "In gol Sucic, rigore di Calhanoglu e Thuram, poi solo gestione nella ripresa",
+      "image": null
+    },
+    {
       "title": "Serie A: doppio De Bruyne e Lang, il Napoli stende il Frosinone al Maradona",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-doppio-de-bruyne-e-lang-il-napoli-stende-il-frosinone-al-maradona_9e1d193f-332a-4eb7-914c-73dbe779c287.html",
       "source": "ANSA Sport",
       "pubDate": "2026-10-10T20:39:27.000Z",
       "excerpt": "La squadra di Allegri aggancia quella di Alvini in classifica",
-      "image": null
-    },
-    {
-      "title": "Serie A: Napoli-Frosinone 2-0 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-napoli-frosinone-2-0-diretta-e-foto_57206b56-039f-4610-9ef4-7db201bb9b37.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T19:48:26.000Z",
-      "excerpt": "Al Maradona la sfida per la sesta giornata di campionato",
       "image": null
     },
     {
@@ -757,27 +773,11 @@
       "image": null
     },
     {
-      "title": "All'Inter bastano 30 minuti, Parma travolto 3-0 a S.Siro",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/allinter-bastano-30-minuti-parma-travolto-3-0-a-s.siro_3de142c7-04e2-4b64-b000-cc44ad95cfcf.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T18:17:29.000Z",
-      "excerpt": "In gol Sucic, rigore di Calhanoglu e Thuram, poi solo gestione nella ripresa",
-      "image": null
-    },
-    {
       "title": "Arbitri: Simonelli a Massini, 'auspico lavoro di squadra con Messina e Orsato'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/arbitri-simonelli-a-massini-auspico-lavoro-di-squadra-con-messina-e-orsato_50a0f64e-5a70-4fea-804e-cb4c792f7d4a.html",
       "source": "ANSA Sport",
       "pubDate": "2026-10-10T18:03:17.000Z",
       "excerpt": "Il presidente della A al nuovo n.1 Aia: \"Auguri per il prestigioso incarico\"",
-      "image": null
-    },
-    {
-      "title": "Serie A: tutto facile per l'Inter di Chivu, 3-0 casalingo al Parma",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-tutto-facile-per-linter-di-chivu-3-0-casalingo-al-parma_412ff82e-6491-48a0-9f68-804395acd909.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T17:55:10.000Z",
-      "excerpt": "In gol Sucic, Calhanoglu al rientro e Thuram, Gilardino al debutto non può nulla",
       "image": null
     }
   ]
