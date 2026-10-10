@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T10:41:01.843Z",
+  "lastUpdated": "2026-10-10T11:07:20.689Z",
   "finanza": {
     "italia": [
       {
@@ -277,7 +277,7 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/2026-10-10T084335Z_1823954758_RC260OAKN752_RTRMADP_5_INDIA-POLITICS-GEN-Z-U28581284205EoO-1440x752@IlSole24Ore-Web.JPG"
       },
       {
-        "title": "La Presidenza del Consiglio Ue propone tagli per 141 miliardi al bilancio",
+        "title": "Bilancio Ue, la Presidenza del Consiglio  propone tagli per 141 miliardi al bilancio",
         "link": "https://www.ilsole24ore.com/art/presidenza-consiglio-ue-propone-taglio-141-miliardi-futuro-bilancio-AJKCNhfB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-10T08:46:00.000Z",
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "L'Ue chiede agli Usa ritiro sanzioni a Cpi, 'pronti a ogni misura necessaria'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/lue-chiede-agli-usa-ritiro-sanzioni-a-cpi-pronti-a-ogni-misura_4e0535a6-8468-46d6-940c-041fa2a8cb8b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T11:04:30.000Z",
+        "excerpt": "I 27 accolgono con favore la disponibilità americana al dialogo",
+        "image": null
+      },
+      {
+        "title": "Kiev, 'saliti a 15 i morti nell'attacco russo a Zaporizhzhia, tra cui 3 bambini'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/kiev-saliti-a-15-i-morti-nellattacco-russo-a-zaporizhzhia-tra-cui-3-bambini_2bf58d0a-1428-4cdc-ae47-fefc1c9c70e2.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T11:02:53.000Z",
+        "excerpt": "Mosca ha sganciato cinque bombe aeree su quartieri residenziali della città",
+        "image": null
+      },
+      {
         "title": "Katie Zacharia, chi è la fedelissima di Trump che prende il posto di Leavitt come portavoce della Casa Bianca",
         "link": "https://www.repubblica.it/esteri/2026/10/10/news/katie_zacharia_chi_e_portavoce_trump_casa_bianca-425638275/?rss",
         "source": "Repubblica Esteri",
@@ -478,22 +494,6 @@
         "pubDate": "2026-10-10T06:58:45.000Z",
         "excerpt": "I due leader si confronteranno il 16 novembre. Intanto la sinistra alternativa cerca ancora il candidato per il suo Frente Amplio",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/085835363-214e2dd1-9b35-4933-b1ae-296b152e5291.jpg"
-      },
-      {
-        "title": "Trump attacca la Norvegia sul Nobel: 'E' una macchia indelebile, non dimenticheremo'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-attacca-la-norvegia-sul-nobel-e-una-macchia-indelebile-non-dimenticheremo_ce60d4a1-3283-4888-aa0e-f3409e6e4aa9.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T01:36:06.000Z",
-        "excerpt": "'Ho risolto 8 guerre, ce ne voleva uno per ognuna'",
-        "image": null
-      },
-      {
-        "title": "Messico, altri due morti nel carcere di Mazatlán, 12 in due giorni",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/10/messico-altri-due-morti-nel-carcere-di-mazatlan-12-in-due-giorni_ebd3618f-4420-4fe7-bb26-ac2af4c09894.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T01:17:18.000Z",
-        "excerpt": "Nuova rissa nel penitenziario di El Castillo dopo i dieci decessi di giovedì",
-        "image": null
       },
       {
         "title": "Trump dice che la Russia fornirà gasolio agli Stati Uniti e ai mercati globali",
@@ -587,19 +587,19 @@
   },
   "attualita": [
     {
-      "title": "F1: Verstappen vince la sprint a Singapore, due Ferrari sul podio",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/10/f1-verstappen-vince-la-sprint-a-singapore-due-ferrari-sul-podio_f4ec28a3-aeaa-4ba7-9b04-90adf472ebf4.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T10:25:01.000Z",
-      "excerpt": "L'olandese ha preceduto le rosse di Hamilton e Leclerc, quarto posto per il leader del Mondiale Kimi Antonelli",
-      "image": null
-    },
-    {
       "title": "Il Cremlino: 'Da Putin molta comprensione verso alcune proposte Usa sulla de-escalation in Ucraina' ",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/il-cremlino-da-putin-molta-comprensione-verso-alcune-proposte-usa-sulla-de-escalation_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
       "source": "ANSA",
-      "pubDate": "2026-10-10T10:04:19.000Z",
+      "pubDate": "2026-10-10T10:49:10.000Z",
       "excerpt": "Axios: 'L'accordo di Trump con Putin sul diesel dopo che Zelensky ha ignorato le sue richieste'. Trump attacca ancora sul Nobel",
+      "image": null
+    },
+    {
+      "title": "F1: Verstappen vince la sprint a Singapore, due Ferrari sul podio",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/10/f1-verstappen-vince-la-sprint-a-singapore-due-ferrari-sul-podio_f4ec28a3-aeaa-4ba7-9b04-90adf472ebf4.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-10T10:32:53.000Z",
+      "excerpt": "L'olandese ha preceduto le rosse di Hamilton e Leclerc, quarto posto per il leader del Mondiale Kimi Antonelli",
       "image": null
     },
     {
@@ -651,7 +651,7 @@
       "image": null
     },
     {
-      "title": "Nubifragio a Lipari, esondati torrenti: fango in strade e case allagate",
+      "title": "Nubifragio a Lipari, esondati torrenti: fango nelle strade e case allagate",
       "link": "https://palermo.repubblica.it/cronaca/2026/10/10/news/forte_temporale_a_lipari_esondati_torrenti_fango_in_strade_e_case_allagate-425638645/",
       "source": "Repubblica",
       "pubDate": "2026-10-10T08:11:01.000Z",
@@ -683,19 +683,19 @@
       "image": null
     },
     {
+      "title": "Katie Zacharia, chi è la fedelissima di Trump che prende il posto di Leavitt come portavoce della Casa Bianca",
+      "link": "https://www.repubblica.it/esteri/2026/10/10/news/katie_zacharia_chi_e_portavoce_trump_casa_bianca-425638275/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T04:05:45.000Z",
+      "excerpt": "Il presidente Usa nomina l’avvocata ed ex commentatrice di Fox News come responsabile della sua comunicazione",
+      "image": null
+    },
+    {
       "title": "Norman Foster: “Housing has shifted from public to private. We need a better balance”",
       "link": "https://europe.repubblica.it/en/special/lena/2026/10/08/news/norman_foster_interview_housing_crisis_governments_must_do_more-425634424/",
       "source": "Repubblica",
       "pubDate": "2026-10-10T04:00:00.000Z",
       "excerpt": "The renowned architect calls for innovation in affordable housing and lower land costs, arguing that public authorities used to “take bolder initiatives”",
-      "image": null
-    },
-    {
-      "title": "Pontormo: the eccentric genius",
-      "link": "https://europe.repubblica.it/en/culture/2026/10/15/news/pontormo_exhibition_scuderie_quirinale_rome-425634924/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T04:00:00.000Z",
-      "excerpt": "Known for his eccentric personality, the Tuscan painter and his fellow Mannerists built on the legacy of the great Renaissance masters. But a new exhibition in Rome reveals just how modern his art could be",
       "image": null
     },
     {
