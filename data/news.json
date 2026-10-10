@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-10T20:07:08.246Z",
+  "lastUpdated": "2026-10-10T20:41:32.045Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Infosys: nessun impatto significativo dalla sospensione del programma PERM USA",
+        "link": "https://it.investing.com/news/stock-market-news/infosys-nessun-impatto-significativo-dalla-sospensione-del-programma-perm-usa-3582813",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-10T20:14:06.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEDB10AU_M.jpg"
+      },
       {
         "title": "Cala il prezzo del diesel, sfuma l'ipotesi di accise mobili",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/cala-il-prezzo-del-diesel-sfuma-lipotesi-di-accise-mobili_fc9a51b0-f59b-4d39-9e1c-c4e3ba502521.html",
@@ -160,7 +168,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T11:01:18.000Z",
         "excerpt": "",
-        "image": null
+        "image": "https://content-media.investing.com/news/LYNXMPEM4D1J3_1200_L.jpg"
       },
       {
         "title": "Mazzi, 'a settembre l'Italia prima in Europa per saturazione'",
@@ -233,14 +241,6 @@
         "pubDate": "2026-10-10T08:00:00.000Z",
         "excerpt": "Intermonte indica le società di Piazza Affari che beneficiano del dollaro forte: Prysmian, Interpump, Leonardo e Buzzi tra gli industriali, Campari e Diasorin ma anche Amplifon con il lusso",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/09/17/163918669-41a6dd78-35cf-48a6-a70e-5f0363c5dd40.jpg"
-      },
-      {
-        "title": "I titoli bancari europei scivolano mentre i rendimenti obbligazionari frenano gli investitori",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-delle-banche-europee-scendono-dell8-per-i-rendimenti-obbligazionari-3582754",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-10T06:33:42.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8K0QP_S.jpg"
       },
       {
         "title": "Servizio clienti nelle tlc, basta opzioni infinite. Ora c’è il diritto a “parlare con l’operatore”",
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Raid Houthi sull’Arabia Saudita: è strage all’aeroporto di Riad",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-10T20:37:00.000Z",
+        "excerpt": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid: secondo il “New York Times” ci sarebbero 12 morti",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/223507037-95392cd2-efaf-45dc-b01b-727b47f341fb.jpg"
+      },
+      {
+        "title": "'Almeno due morti in attacco Houthi su scalo Riad, anche un'assistente di volo'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/almeno-due-morti-in-attacco-houthi-su-scalo-riad-anche-unassistente-di-volo_d75ff486-7e1c-488f-b8bf-07f4539b0e35.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T20:31:02.000Z",
+        "excerpt": "Lo riferiscono due fonti",
+        "image": null
+      },
+      {
         "title": "Sale a quattro il bilancio dei morti per l'uragano Isaias",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/sale-a-quattro-il-bilancio-dei-morti-per-luragano-isaias_3c7f1dbd-f3f3-4c14-8ffb-9d57b73787e0.html",
         "source": "ANSA Mondo",
@@ -464,14 +480,6 @@
         "image": null
       },
       {
-        "title": "Trump, Zelensky la smetta di colpire le raffinerie russe",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/trump-zelensky-la-smetta-di-colpire-le-raffinerie-russe_eed901eb-db40-4fd2-89b1-a4a29b71c25b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T17:06:17.000Z",
-        "excerpt": "'Gli avevamo detto che poteva fare quello che voleva ma di non colpirle'",
-        "image": null
-      },
-      {
         "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
         "link": "https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
         "source": "Investing.com Commodities",
@@ -534,14 +542,6 @@
         "pubDate": "2026-10-10T08:16:32.000Z",
         "excerpt": "A un anno dalla firma della tregua, si continua a morire sotto i bombardamenti, mentre milioni di persone vivono tra macerie, tende e aiuti insufficienti. Rossella Miccio racconta le condizioni estreme in cui lavorano me",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/101447643-ae7eefb8-2c16-4c24-b15a-1d91908121e1.jpg"
-      },
-      {
-        "title": "Spagna, i primi sondaggi post-Maricarmen confermano le destre in avanti. Duello tv Feijóo-Sánchez",
-        "link": "https://www.repubblica.it/esteri/2026/10/10/news/spagna_i_primi_sondaggi_post-maricarmen_confermano_le_destre_in_avanti_duello_tv_feijoo-sanchez-425638473/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-10T06:58:45.000Z",
-        "excerpt": "I due leader si confronteranno il 16 novembre. Intanto la sinistra alternativa cerca ancora il candidato per il suo Frente Amplio",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/085835363-214e2dd1-9b35-4933-b1ae-296b152e5291.jpg"
       },
       {
         "title": "Trump dice che la Russia fornirà gasolio agli Stati Uniti e ai mercati globali",
@@ -717,6 +717,14 @@
   ],
   "sport": [
     {
+      "title": "Serie A: doppio De Bruyne e Lang, il Napoli stende il Frosinone al Maradona",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-doppio-de-bruyne-e-lang-il-napoli-stende-il-frosinone-al-maradona_9e1d193f-332a-4eb7-914c-73dbe779c287.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T20:39:27.000Z",
+      "excerpt": "La squadra di Allegri aggancia quella di Alvini in classifica",
+      "image": null
+    },
+    {
       "title": "Serie A: Napoli-Frosinone 2-0 DIRETTA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-napoli-frosinone-2-0-diretta-e-foto_57206b56-039f-4610-9ef4-7db201bb9b37.html",
       "source": "ANSA Sport",
@@ -770,14 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-10T17:55:10.000Z",
       "excerpt": "In gol Sucic, Calhanoglu al rientro e Thuram, Gilardino al debutto non può nulla",
-      "image": null
-    },
-    {
-      "title": "Sono 1.858 le barche iscritte alla Barcolana58",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/10/sono-1.858-le-barche-iscritte-alla-barcolana58_81dbc9b5-48e9-4537-8e67-6b2129466bea.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T17:46:26.000Z",
-      "excerpt": "La regata si svolgerà domattina nel golfo di Trieste con tempo buono",
       "image": null
     }
   ]

@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Infosys: nessun impatto significativo dalla sospensione del programma PERM USA",
+        "link": "https://it.investing.com/news/stock-market-news/infosys-nessun-impatto-significativo-dalla-sospensione-del-programma-perm-usa-3582813",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-10T20:14:06.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEDB10AU_M.jpg"
+      },
+      {
         "title": "Cala il prezzo del diesel, sfuma l'ipotesi di accise mobili",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/cala-il-prezzo-del-diesel-sfuma-lipotesi-di-accise-mobili_fc9a51b0-f59b-4d39-9e1c-c4e3ba502521.html",
         "source": "ANSA Economia",
@@ -474,14 +482,6 @@
         "pubDate": "2026-10-09T17:57:48.000Z",
         "excerpt": "Il Fisco ora presenta il conto dell’Iva dovuta a chi ha emesso fatture o trasmesso scontrini elettronici (corrispettivi) per operazioni rilevanti ma, essendone obbligato, non ha presentato la dichiarazione sull’imposta..",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/04/Immagini/Ritagli/pexels-mohamed-hamdi-510308652-16282306-U30200085613GlI-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Legge elettorale, la partita di Vannacci con le nuove regole",
-        "link": "https://www.ilsole24ore.com/art/legge-elettorale-partita-vannacci-le-nuove-regole-AJaNNXdB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-09T17:53:41.000Z",
-        "excerpt": "Il partito del generale Roberto Vannacci, con la nuova legge elettorale, si può iscrivere d’ufficio, al momento, nello schieramento dei tifosi del “pareggio”. Futuro Nazionale (al 7-8% in...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/09/Immagini/Ritagli/b522889d4ba5597342ac764830e47b70-U30647307161ETp-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "europa": [
@@ -720,6 +720,22 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Raid Houthi sull’Arabia Saudita: è strage all’aeroporto di Riad",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-10T20:37:00.000Z",
+        "excerpt": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid: secondo il “New York Times” ci sarebbero 12 morti",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/223507037-95392cd2-efaf-45dc-b01b-727b47f341fb.jpg"
+      },
+      {
+        "title": "'Almeno due morti in attacco Houthi su scalo Riad, anche un'assistente di volo'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/almeno-due-morti-in-attacco-houthi-su-scalo-riad-anche-unassistente-di-volo_d75ff486-7e1c-488f-b8bf-07f4539b0e35.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T20:31:02.000Z",
+        "excerpt": "Lo riferiscono due fonti",
+        "image": null
+      },
       {
         "title": "Sale a quattro il bilancio dei morti per l'uragano Isaias",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/sale-a-quattro-il-bilancio-dei-morti-per-luragano-isaias_3c7f1dbd-f3f3-4c14-8ffb-9d57b73787e0.html",
@@ -1183,22 +1199,6 @@
         "pubDate": "2026-10-09T23:00:00.000Z",
         "excerpt": "Ondata di connessioni fittizie generate da bot: si voterà un giorno in più, fino a domani sera Favorito Glucksmann",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/222449188-1f96829b-dab5-4a0f-aa25-52eac0bd47f1.jpg"
-      },
-      {
-        "title": "La fucilazione in tv spacca gli Usa, Vance: “Non guarderò la diretta”",
-        "link": "https://www.repubblica.it/esteri/2026/10/10/news/fucilazione_in_diretta_tv_spacca_gli_us_vance_non_guardero_diretta-425638117/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-09T23:00:00.000Z",
-        "excerpt": "Il vicepresidente contro la decisione di Hegseth appoggiato da Trump. La denuncia delle Nazioni Unite: “Violato il divieto alla tortura”. I dem: “Scelta medioevale”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/221053590-2830dc19-5d21-4002-ae8a-26b020138f3f.jpg"
-      },
-      {
-        "title": "La strage di Fort Hood, l’ufficiale dei marines radicalizzato che uccise i compagni in caserma",
-        "link": "https://www.repubblica.it/esteri/2026/10/10/news/usa_strage_fort_hood_ufficiale_marines_radicalizzato_che_uccise_compagni_in_caserma-425638071/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-09T23:00:00.000Z",
-        "excerpt": "Nel 2009 il maggiore Nidal Malik Hasan ha ammazzato 13 commilitoni al centro medico della base militare in Texas dove prestava servizio come psichiatra: era contrario alla guerra in Afghanistan",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/214137404-9ca2cf58-6feb-4bc4-ad2e-f607d19cb992.jpg"
       }
     ]
   },
@@ -1685,6 +1685,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: doppio De Bruyne e Lang, il Napoli stende il Frosinone al Maradona",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-doppio-de-bruyne-e-lang-il-napoli-stende-il-frosinone-al-maradona_9e1d193f-332a-4eb7-914c-73dbe779c287.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T20:39:27.000Z",
+      "excerpt": "La squadra di Allegri aggancia quella di Alvini in classifica",
+      "image": null
+    },
     {
       "title": "Serie A: Napoli-Frosinone 2-0 DIRETTA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-napoli-frosinone-2-0-diretta-e-foto_57206b56-039f-4610-9ef4-7db201bb9b37.html",
