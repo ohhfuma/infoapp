@@ -4,12 +4,28 @@
   "finanza": {
     "italia": [
       {
+        "title": "Spirit Airlines fallisce, Google compra 100 milioni di email: rivolta tra i parlamentari Usa",
+        "link": "https://www.repubblica.it/economia/2026/10/10/news/spirit_airlines_fallisce_google_compra_100_milioni_di_email_rivolta_tra_i_parlamentari_usa-425638929/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-10T10:38:47.000Z",
+        "excerpt": "Il colosso tecnologico offre 10 milioni di dollari per gli archivi digitali della compagnia aerea fallita. Le informazioni addestreranno i sistemi di intelligenza artificiale. Oltre 120 politici contestano la vendita: i ",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/123825387-3d25e768-7c76-4347-bca2-35a35926e9ad.jpg"
+      },
+      {
         "title": "Mazzi, 'a settembre l'Italia prima in Europa per saturazione'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/mazzi-a-settembre-litalia-prima-in-europa-per-saturazione_c8346b88-1b51-4b51-a11a-0f6ca91db33a.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-10T10:00:01.000Z",
         "excerpt": "\"2025 da record, il 2026 consolida la tendenza positiva, spesa stranieri a 16,2 miliardi\"",
         "image": null
+      },
+      {
+        "title": "Italo, Sindacati: “Verso lo sciopero senza svolta sul rinnovo del contratto”",
+        "link": "https://www.repubblica.it/economia/2026/10/10/news/italo_sindacati_verso_lo_sciopero_senza_svolta_sul_rinnovo_del_contratto-425638830/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-10T09:49:49.000Z",
+        "excerpt": "Le proteste sindacali sono riferite a un gruppo che si espande, macina utili e distribuisce dividendi e invece ai lavoratori riserva un contratto scaduto da quasi due anni",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/114940479-e676269a-f544-496e-9313-aa9e7ddf9031.jpg"
       },
       {
         "title": "Dal 2019 al 2025 scomparse 111mila imprese al dettaglio nei comuni",
@@ -461,6 +477,14 @@
       }
     ],
     "europa": [
+      {
+        "title": "L’Ue chiede agli Usa di ritirare le sanzioni alla Cpi: «Pronti a ogni misura»",
+        "link": "https://www.ilsole24ore.com/art/l-ue-chiede-usa-ritirare-sanzioni-cpi-pronti-ogni-misura-AJ0mmmfB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-10T10:27:00.000Z",
+        "excerpt": "L’Ue esorta gli Usa a ritirare le nuove sanzioni alla Corte penale internazionale (Cpi) e si dice “pronta ad adottare tutte le misure necessarie per garantire che la...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/778341269adc3c2526b3b4e03fc0de21-U16260311125iel-1440x752@IlSole24Ore-Web.jpg"
+      },
       {
         "title": "India: fermati i leader degli “Scarafaggi” per impedire le proteste contro Modi",
         "link": "https://www.ilsole24ore.com/art/india-fermati-leader-scarafaggi-impedire-proteste-contro-modi-AJrLWhfB",
@@ -1100,6 +1124,22 @@
   },
   "attualita": [
     {
+      "title": "F1: Verstappen vince la sprint a Singapore, due Ferrari sul podio",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/10/f1-verstappen-vince-la-sprint-a-singapore-due-ferrari-sul-podio_f4ec28a3-aeaa-4ba7-9b04-90adf472ebf4.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-10T10:25:01.000Z",
+      "excerpt": "L'olandese ha preceduto le rosse di Hamilton e Leclerc, quarto posto per il leader del Mondiale Kimi Antonelli",
+      "image": null
+    },
+    {
+      "title": "Il Cremlino: 'Da Putin molta comprensione verso alcune proposte Usa sulla de-escalation in Ucraina' ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/il-cremlino-da-putin-molta-comprensione-verso-alcune-proposte-usa-sulla-de-escalation_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-10T10:04:19.000Z",
+      "excerpt": "Axios: 'L'accordo di Trump con Putin sul diesel dopo che Zelensky ha ignorato le sue richieste'. Trump attacca ancora sul Nobel",
+      "image": null
+    },
+    {
       "title": "John Malkovich: 'Ho riscritto l'80% dei film che ho fatto'",
       "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/10/john-malkovich-ho-riscritto-l80-dei-film-che-ho-fatto_4c39ddd3-e736-4084-ac31-0e395b43e1d7.html",
       "source": "ANSA",
@@ -1153,6 +1193,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-10T08:15:55.000Z",
       "excerpt": "Sul circuito di Marina Bay l’ultima mini gara della stagione",
+      "image": null
+    },
+    {
+      "title": "Nubifragio a Lipari, esondati torrenti: fango in strade e case allagate",
+      "link": "https://palermo.repubblica.it/cronaca/2026/10/10/news/forte_temporale_a_lipari_esondati_torrenti_fango_in_strade_e_case_allagate-425638645/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T08:11:01.000Z",
+      "excerpt": "Nella notte numerosi interventi dei vigili del fuoco. Detriti in spiaggia e in mare",
       "image": null
     },
     {
@@ -1477,6 +1525,22 @@
     }
   ],
   "sport": [
+    {
+      "title": "F1: Verstappen vince la sprint a Singapore, due Ferrari sul podio",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/10/f1-verstappen-vince-la-sprint-a-singapore-due-ferrari-sul-podio_f4ec28a3-aeaa-4ba7-9b04-90adf472ebf4.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T10:32:53.000Z",
+      "excerpt": "L'olandese ha preceduto le rosse di Hamilton e Leclerc, quarto posto per il leader del Mondiale Kimi Antonelli",
+      "image": null
+    },
+    {
+      "title": "Singapore: Verstappen vince la sprint davanti ad Hamilton e Leclerc",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/10/singapore-verstappen-vince-la-sprint-davanti-ad-hamilton-e-leclerc_3b2d9d51-55d5-4b9e-b88e-1b3c6f3615b9.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T10:22:33.000Z",
+      "excerpt": "Quarto posto per la Mercedes di Antonelli",
+      "image": null
+    },
     {
       "title": "Sprint a Singapore, Russell a muro al 2/o giro mentre era in testa",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/10/sprint-a-singapore-russell-a-muro-al-2o-giro-mentre-era-in-testa_524602d3-b81c-4f7e-bacf-13e311829a31.html",
