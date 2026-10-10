@@ -486,6 +486,14 @@
     ],
     "europa": [
       {
+        "title": "Fine vita, l’Europa procede in ordine sparso: dall’eutanasia in Spagna al rebus italiano",
+        "link": "https://www.ilsole24ore.com/art/fine-vita-l-europa-procede-ordine-sparso-dall-eutanasia-spagna-rebus-italiano-AJ71bJXB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-10T16:29:07.000Z",
+        "excerpt": "Il diritto di scegliere come e quando morire resta una delle questioni più controverse nei sistemi sanitari e giuridici europei. E anche tra Paesi geograficamente vicini le differenze sono profonde....",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/CIAO-U46557431386Erm-1440x752@IlSole24Ore-Web.png"
+      },
+      {
         "title": "L’Ue chiede agli Usa di ritirare le sanzioni alla Cpi: «Pronti a ogni misura»",
         "link": "https://www.ilsole24ore.com/art/l-ue-chiede-usa-ritirare-sanzioni-cpi-pronti-ogni-misura-AJ0mmmfB",
         "source": "Il Sole 24 Ore Mondo",
@@ -704,6 +712,14 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
+        "link": "https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-10T15:54:23.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM990BK_L.jpg"
+      },
       {
         "title": "Stati Uniti, Christa Pike è stata dimessa dall'ospedale",
         "link": "https://www.repubblica.it/esteri/2026/10/10/news/christa_pike_uscita_ospedale_iniezione_letale_tennessee-425639484/?rss",
@@ -1175,18 +1191,18 @@
         "pubDate": "2026-10-09T20:32:13.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEC2U0WF_M.jpg"
-      },
-      {
-        "title": "Trump cancella il viaggio alla partita di football dell'Alabama in mezzo all'incombente uragano",
-        "link": "https://www.investing.com/news/commodities-news/trump-cancels-trip-to-alabama-football-game-amid-looming-hurricane-4941687",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T20:30:27.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM981SW_L.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Corteo pro Pal, a Roma spunta lo striscione sul 7 ottobre: “Giornata della Resistenza”",
+      "link": "https://roma.repubblica.it/cronaca/2026/10/10/news/corteo_pro_palestina_gaza_roma_striscione_7_ottobre_giornata_resistenza-425639531/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T16:15:15.000Z",
+      "excerpt": "La scritta è apparsa nel mezzo del corteo che ha pacificamente attraversato il centro di Roma fino alla Sapienza",
+      "image": null
+    },
     {
       "title": "Stati Uniti, Christa Pike è stata dimessa dall'ospedale",
       "link": "https://www.repubblica.it/esteri/2026/10/10/news/christa_pike_uscita_ospedale_iniezione_letale_tennessee-425639484/",
@@ -1658,17 +1674,25 @@
       "pubDate": "2026-10-09T17:15:03.000Z",
       "excerpt": "Dopo il via libera di giovedì a Montecitorio, arriva anche quello del Quirinale. Durante l’iter alle Camere introdotti correttivi grazie alla moral suasion del Colle",
       "image": null
-    },
-    {
-      "title": "Cobolli, messaggi di morte dopo la sconfitta di Shanghai: il padre li pubblica e denuncia",
-      "link": "https://www.repubblica.it/sport/tennis/2026/10/09/news/cobolli_messaggi_morte_social-425637647/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T16:28:36.000Z",
-      "excerpt": "Stefano, padre e coach del tennista azzurro, ha mostrato un post in cui al figlio veniva augurato il cancro",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: Inter-Parma 3-0 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-inter-parma-3-0-diretta-e-foto_3de142c7-04e2-4b64-b000-cc44ad95cfcf.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T16:37:23.000Z",
+      "excerpt": "A San Siro il match valido per la sesta giornata di campionato",
+      "image": null
+    },
+    {
+      "title": "Arbitri: Malagò a Massini, 'si apre una nuova fase, stabilità e dialogo'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/arbitri-malago-a-massini-si-apre-una-nuova-fase-stabilita-e-dialogo_2978a9ce-f562-4124-9bb3-0b059a3eac5e.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T16:34:52.000Z",
+      "excerpt": "Dal commissario Figc gli auguri al neoeletto presidente dell'Aia",
+      "image": null
+    },
     {
       "title": "F1: Singapore; Leclerc 'Red Bull piu' avanti, vediamo per la vittoria'",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/10/f1-singapore-leclerc-red-bull-piu-avanti-vediamo-per-la-vittoria_394f9883-9348-4019-b796-c92900149fed.html",
