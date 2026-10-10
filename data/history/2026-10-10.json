@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Gli agenti AI potrebbero rivoluzionare lo shopping online: chi vince?",
+        "link": "https://it.investing.com/news/stock-market-news/gli-agenti-ai-potrebbero-rivoluzionare-lo-shopping-online-chi-vince-3582793",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-10T14:41:00.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
+      },
+      {
         "title": "Philips vince in tribunale contro gli azionisti sul ritiro dei dispositivi",
         "link": "https://it.investing.com/news/stock-market-news/philips-vince-in-tribunale-contro-gli-azionisti-sul-ritiro-dei-dispositivi-3582790",
         "source": "Investing.com Italia",
@@ -473,14 +481,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-09T16:25:46.000Z",
         "excerpt": "Aumenterà anche il livello di automazione",
-        "image": null
-      },
-      {
-        "title": "Borsa: Milano chiude in rialzo, balzo di Fincantieri e Amplifon",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-milano-chiude-in-rialzo-balzo-di-fincantieri-e-amplifon_ef2bab49-f0ac-4703-90fe-511bd35b3723.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T16:08:09.000Z",
-        "excerpt": "Corre Banca Generali, scivola Stm. Lo spread tra Btp e Bund a 109",
         "image": null
       }
     ],
@@ -1669,6 +1669,30 @@
     }
   ],
   "sport": [
+    {
+      "title": "Il Genoa batte 2-1 la Fiorentina, prima vittoria per i rossoblù",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-genoa-batte-2-1-la-fiorentina-prima-vittoria-per-i-rossoblu_7f7e6489-a874-45a1-9565-19e2f2114c4b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T14:59:17.000Z",
+      "excerpt": "Partenza veloce, colpiscono Osmaijc e Messias in 15'. Poi autorete Vazquez",
+      "image": null
+    },
+    {
+      "title": "Calcio: Pisacane, 'la nostra fame per fermare una Juve che vorrà vincere'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/calcio-pisacane-la-nostra-fame-per-fermare-una-juve-che-vorra_a35b1766-1c2b-4c56-bf82-29993f991942.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T14:51:31.000Z",
+      "excerpt": "Tecnico Cagliari: 'Noi da salvezza, loro da scudetto: troviamo le loro debolezze'",
+      "image": null
+    },
+    {
+      "title": "Calcio: Spalletti, 'Juve condannata a vincere, alziamo l'asticella'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/calcio-spalletti-juve-condannata-a-vincere-alziamo-lasticella_e92258bb-fa9f-4406-b4a3-8a7c1dcb2880.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T14:38:28.000Z",
+      "excerpt": "Tecnico bianconeri: \"ambizioni forti, non ci interessano giudizi altrui\"",
+      "image": null
+    },
     {
       "title": "F1: Verstappen in pole a Singapore, poi le Ferrari",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/10/f1-verstappen-in-pole-a-singapore-poi-le-ferrari_e57560fe-debd-4c4e-83a8-ca735f80137d.html",

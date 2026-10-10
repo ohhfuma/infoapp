@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-10T14:41:24.948Z",
+  "lastUpdated": "2026-10-10T15:07:06.022Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Gli agenti AI potrebbero rivoluzionare lo shopping online: chi vince?",
+        "link": "https://it.investing.com/news/stock-market-news/gli-agenti-ai-potrebbero-rivoluzionare-lo-shopping-online-chi-vince-3582793",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-10T14:41:00.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
+      },
       {
         "title": "Philips vince in tribunale contro gli azionisti sul ritiro dei dispositivi",
         "link": "https://it.investing.com/news/stock-market-news/philips-vince-in-tribunale-contro-gli-azionisti-sul-ritiro-dei-dispositivi-3582790",
@@ -232,7 +240,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T05:58:41.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "image": "https://content-media.investing.com/news/ShanghaiStockExchange_150x108_S_1615895556.jpg"
       },
       {
         "title": "Servizio clienti nelle tlc, basta opzioni infinite. Ora c’è il diritto a “parlare con l’operatore”",
@@ -249,14 +257,6 @@
         "pubDate": "2026-10-10T03:00:00.000Z",
         "excerpt": "Tra sconti e prezzo della componente energia ribassato rispetto al Pun, sul Portale offerte di Arera si possono trovare alcune opportunità prima dei rialzi invernali. L’offerta di Plenitude scontata del 30% è in 26esima ",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/193503644-35e08822-c24e-4464-8e71-cdb510f00ef5.jpg"
-      },
-      {
-        "title": "Nuvacore, sostenuta da Sequoia, punta a una valutazione di 2,5 miliardi",
-        "link": "https://it.investing.com/news/stock-market-news/nuvacore-sostenuta-da-sequoia-punta-a-una-valutazione-di-25-miliardi-3582728",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-10T01:08:34.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg"
       }
     ],
     "europa": [
@@ -587,6 +587,14 @@
   },
   "attualita": [
     {
+      "title": "Il Papa, 'la pena di morte è inammissibile'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/10/il-papa-la-pena-di-morte-e-inammissibile_0f1d163f-6d14-4d85-97d3-741cbd0ae978.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-10T14:56:32.000Z",
+      "excerpt": "\"Il bene comune può essere tutelato senza ricorrere alla pena capitale\"",
+      "image": null
+    },
+    {
       "title": "Nubifragi, allagamenti e frane. Il maltempo sferza il Sud. A Lipari esondati i torrenti, fango e case allagate. Criticità in Calabria",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/temporale-a-lipari-esondati-torrenti-fango-in-strade-e-case-allagate_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
       "source": "ANSA",
@@ -624,14 +632,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-10T13:41:39.000Z",
       "excerpt": "Prevost scrive un messaggio su X in occasione della giornata contro la pena capitale. Ieri la condanna dei vescovi Usa",
-      "image": null
-    },
-    {
-      "title": "Il Papa, 'la pena di morte è inammissibile'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/10/il-papa-la-pena-di-morte-e-inammissibile_0f1d163f-6d14-4d85-97d3-741cbd0ae978.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T13:31:51.000Z",
-      "excerpt": "\"Il bene comune può essere tutelato senza ricorrere alla pena capitale\"",
       "image": null
     },
     {
@@ -717,6 +717,30 @@
   ],
   "sport": [
     {
+      "title": "Il Genoa batte 2-1 la Fiorentina, prima vittoria per i rossoblù",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-genoa-batte-2-1-la-fiorentina-prima-vittoria-per-i-rossoblu_7f7e6489-a874-45a1-9565-19e2f2114c4b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T14:59:17.000Z",
+      "excerpt": "Partenza veloce, colpiscono Osmaijc e Messias in 15'. Poi autorete Vazquez",
+      "image": null
+    },
+    {
+      "title": "Calcio: Pisacane, 'la nostra fame per fermare una Juve che vorrà vincere'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/calcio-pisacane-la-nostra-fame-per-fermare-una-juve-che-vorra_a35b1766-1c2b-4c56-bf82-29993f991942.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T14:51:31.000Z",
+      "excerpt": "Tecnico Cagliari: 'Noi da salvezza, loro da scudetto: troviamo le loro debolezze'",
+      "image": null
+    },
+    {
+      "title": "Calcio: Spalletti, 'Juve condannata a vincere, alziamo l'asticella'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/calcio-spalletti-juve-condannata-a-vincere-alziamo-lasticella_e92258bb-fa9f-4406-b4a3-8a7c1dcb2880.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T14:38:28.000Z",
+      "excerpt": "Tecnico bianconeri: \"ambizioni forti, non ci interessano giudizi altrui\"",
+      "image": null
+    },
+    {
       "title": "F1: Verstappen in pole a Singapore, poi le Ferrari",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/10/f1-verstappen-in-pole-a-singapore-poi-le-ferrari_e57560fe-debd-4c4e-83a8-ca735f80137d.html",
       "source": "ANSA Sport",
@@ -754,30 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-10T14:02:11.000Z",
       "excerpt": "Tecnico Como: \"Contro la Roma partita importantissima\"",
-      "image": null
-    },
-    {
-      "title": "Tennis: Shanghai, Tsitsipas elimina Darderi e va al 3/o turno",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/10/tennis-shanghai-tsitsipas-elimina-darderi-e-va-al-3o-turno_324890fc-8e57-4ed7-a8be-283203b8ad9a.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T13:45:56.000Z",
-      "excerpt": "Il greco si impone 6-3, 6-4 in un match condotto dall'inizio alla fine",
-      "image": null
-    },
-    {
-      "title": "La Federcalcio portoghese apre un procedimento contro Cristiano Ronaldo",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/la-federcalcio-portoghese-apre-un-procedimento-contro-cristiano-ronaldo_c1caf31e-64e0-4bca-9218-e775790a17c0.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T13:10:39.000Z",
-      "excerpt": "Dopo l'abbandono del ritiro in polemica con il ct Jorge Jesus",
-      "image": null
-    },
-    {
-      "title": "China Open: la cinese Zheng sfida Andreeva in finale",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/10/china-open-la-cinese-zheng-sfida-andreeva-in-finale_4e40b1d7-85d0-4a20-917d-e48cb7db3882.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T13:05:09.000Z",
-      "excerpt": "La tennista di casa ha battuto in due set la belga Mertens",
       "image": null
     }
   ]
