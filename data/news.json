@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T22:07:14.284Z",
+  "lastUpdated": "2026-10-10T22:40:36.994Z",
   "finanza": {
     "italia": [
       {
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Autorità, almeno 309 i feriti nell'attacco degli Houthi all'aeroporto di Riad",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/autorita-almeno-309-i-feriti-nellattacco-degli-houthi-allaeroporto-di-riad_8c3ae725-d7d5-428f-931e-df25e09934de.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T22:09:09.000Z",
+        "excerpt": "Lo riferisce l'ente dell'Aviazione civile",
+        "image": null
+      },
+      {
+        "title": "Trump, Putin e il gasolio: la vignetta di Ellekappa",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/trump_putin_gasolio_vignetta_ellekappa-425639383/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-10T22:01:00.000Z",
+        "excerpt": "",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/164207698-f2824d3c-b4c9-4497-84aa-dd803d68ac06.jpg"
+      },
+      {
         "title": "Coalizione saudita, attaccato l'aeroporto di Dammam",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/coalizione-saudita-attaccato-laeroporto-di-dammam_dfac05c8-acad-4d4c-9bdd-467581924686.html",
         "source": "ANSA Mondo",
@@ -420,7 +436,7 @@
         "link": "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-10T20:37:00.000Z",
-        "excerpt": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid: secondo il “New York Times” ci sarebbero anche decine di feriti",
+        "excerpt": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid. Più di trecento i feriti",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/223507037-95392cd2-efaf-45dc-b01b-727b47f341fb.jpg"
       },
       {
@@ -453,14 +469,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-10T19:02:53.000Z",
         "excerpt": "Ministro Esteri Sybiha: 'Ha il sostegno del popolo ucraino'",
-        "image": null
-      },
-      {
-        "title": "Dmitriev, 'Trump vuole una leadership di pace in Ucraina, è iconico e storico'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/dmitriev-trump-vuole-una-leadership-di-pace-in-ucraina-e-iconico-e-storico_98a3fa58-34eb-4628-8c2d-0047a7d9b875.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T18:01:11.000Z",
-        "excerpt": "'La diplomazia del diesel ha smascherato Zelensky'",
         "image": null
       },
       {
@@ -536,14 +544,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/111700404-dd0b05b6-404a-4f81-abd8-27996880a1dc.jpg"
       },
       {
-        "title": "Gaza, la presidente di Emergency: “Il cessate il fuoco non c’è. La Striscia è una gabbia a cielo aperto”",
-        "link": "https://www.repubblica.it/esteri/2026/10/10/news/gaza_intervista_miccio_presidente_emergency_cessate_il_fuoco_non_c_e_e_una_gabbia_a_cielo_aperto-425638672/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-10T08:16:32.000Z",
-        "excerpt": "A un anno dalla firma della tregua, si continua a morire sotto i bombardamenti, mentre milioni di persone vivono tra macerie, tende e aiuti insufficienti. Rossella Miccio racconta le condizioni estreme in cui lavorano me",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/101447643-ae7eefb8-2c16-4c24-b15a-1d91908121e1.jpg"
-      },
-      {
         "title": "Trump dice che la Russia fornirà gasolio agli Stati Uniti e ai mercati globali",
         "link": "https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
         "source": "Investing.com Commodities",
@@ -587,11 +587,19 @@
   },
   "attualita": [
     {
+      "title": "Missile Houthi sull'aeroporto di Riad, almeno 12 morti e oltre 300 feriti",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/missile-houthi-sullaeroporto-di-riad-almeno-12-morti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-10T22:18:20.000Z",
+      "excerpt": "Evacuazioni per il nuovo raid che ha provocato anche 50 feriti. Paesi sconsigliano voli",
+      "image": null
+    },
+    {
       "title": "Raid Houthi sull’Arabia Saudita, strage all’aeroporto di Riad: 12 morti",
       "link": "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/",
       "source": "Repubblica",
       "pubDate": "2026-10-10T20:37:00.000Z",
-      "excerpt": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid: secondo il “New York Times” ci sarebbero anche decine di feriti",
+      "excerpt": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid. Più di trecento i feriti",
       "image": null
     },
     {
@@ -600,14 +608,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-10T19:32:01.000Z",
       "excerpt": "Fascicolo dei pm, nel mirino avvocati e giornalisti. La denuncia dei difensori dei Moretti: “Incosciente la pubblicazione di atti”. Ecco perché i legali potrebbero chiedere pene più lievi in caso di condanna",
-      "image": null
-    },
-    {
-      "title": "L'Ue agli Usa: 'Ritirare le sanzioni alla Cpi, pronti a difenderla'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/lue-agli-usa-ritirare-le-sanzioni-alla-cpi-pronti-a-difenderla_26dac987-1d6b-4687-be63-a67170be2055.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T19:18:54.000Z",
-      "excerpt": "Trump minaccia Oslo sul Nobel: 'Non dimentichiamo'. E boccia i candidati per l'Onu",
       "image": null
     },
     {
