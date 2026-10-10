@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Sigarette, allarme svapo tra i giovani. I pediatri: screening già dagli 11 anni",
+        "link": "https://www.ilsole24ore.com/art/sigarette-allarme-svapo-i-giovani-pediatri-screening-gia-11-anni-AJtds2fB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-10T16:48:42.000Z",
+        "excerpt": "Secondo gli ultimi dati dell’Istituto superiore di sanità, più di uno studente su tre tra i 14 e i 17 anni (il 37,1%, circa 851mila ragazzi) ha utilizzato, nel corso...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/Imagoeconomica_651569-U05172460380cyM-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
         "title": "Alla base di Luna rossa di Cagliari la mostra scientifica Ocean&amp;Climate Village",
         "link": "https://www.ilsole24ore.com/art/alla-base-luna-rossa-cagliari-mostra-scientifica-oceanclimate-village-AJbpLvfB",
         "source": "Il Sole 24 Ore",
@@ -474,14 +482,6 @@
         "pubDate": "2026-10-09T16:43:09.000Z",
         "excerpt": "Ad Amsterdam le quotazioni registrano un incremento dell'1,8%",
         "image": null
-      },
-      {
-        "title": "Iveco, Tata Motors alza l'offerta di 30 centesimi a 14,40 euro per azione",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/09/iveco-tata-motors-alza-lofferta-di-30-centesimi-a-1440-euro-per-azione_45a94060-4035-4339-9928-a81716e25354.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-09T16:32:54.000Z",
-        "excerpt": "Esborso massimo complessivo di 3,91 miliardi",
-        "image": null
       }
     ],
     "europa": [
@@ -712,6 +712,38 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Trump, Zelensky vuole creare problemi al mondo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-zelensky-vuole-creare-problemi-al-mondo_03eaa56a-7a3d-4baf-ad54-f304772ebea6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T16:55:30.000Z",
+        "excerpt": "'Poteva mettere fine a questa guerra in molte occasioni'",
+        "image": null
+      },
+      {
+        "title": "Trump, Zelensky vuole creare problemi al mondo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/trump-zelensky-vuole-creare-problemi-al-mondo_bfb30b07-c34b-4941-9383-d2fdf3b76ffe.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T16:55:16.000Z",
+        "excerpt": "'Poteva mettere fine a questa guerra in molte occasioni'",
+        "image": null
+      },
+      {
+        "title": "Trump, 'è il momento di un nuovo presidente per l'Ucraina'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-e-il-momento-di-un-nuovo-presidente-per-lucraina_f0c062ae-2c54-403a-918c-ae140bc1a869.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T16:54:01.000Z",
+        "excerpt": "'Kiev trovi un nuovo leader in grado di raggiungere un accordo'",
+        "image": null
+      },
+      {
+        "title": "Trump, 'è il momento di un nuovo presidente per l'Ucraina'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/trump-e-il-momento-di-un-nuovo-presidente-per-lucraina_39c320a3-c835-43fa-b867-46384a1fe765.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T16:53:58.000Z",
+        "excerpt": "'Kiev trovi un nuovo leader in grado di raggiungere un accordo'",
+        "image": null
+      },
       {
         "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
         "link": "https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
@@ -1159,42 +1191,26 @@
         "pubDate": "2026-10-09T20:48:36.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM981TF_L.jpg"
-      },
-      {
-        "title": "Trump dice che la Russia fornirà gasolio agli Stati Uniti e al mercato globale",
-        "link": "https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T20:42:19.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM981ES_L.jpg"
-      },
-      {
-        "title": "Zelensky, 'dagli Usa una decisione indegna e disonesta'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/zelensky-dagli-usa-una-decisione-indegna-e-disonesta_c8efa85d-8f1c-4fbe-a427-32d6468a82ea.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-09T20:40:38.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
-        "title": "I prezzi dell'oro hanno toccato il massimo di una settimana, gli investitori guardano alla traiettoria dei tassi della Fed",
-        "link": "https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T20:34:53.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED1M0ED_M.jpg"
-      },
-      {
-        "title": "I prezzi del petrolio scendono dopo che Trump esclude l'attacco iraniano pre-medio termine, allentando i timori sull'offerta",
-        "link": "https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T20:32:13.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC2U0WF_M.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Nubifragi, allagamenti e frane, il maltempo sferza il Sud",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-sferza-il-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-10T17:00:00.000Z",
+      "excerpt": "A Lipari esondati i torrenti, bomba d'acqua nel Reggino. Acqua nella basilica di S.Nicola",
+      "image": null
+    },
+    {
+      "title": "Rai, la squadra di Report: “Mai sfiduciato Ranucci né chiesta la sua rimozione”",
+      "link": "https://www.repubblica.it/politica/2026/10/10/news/rai_report_redazione_mai_sfiduciato_ranucci-425639555/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T16:30:56.000Z",
+      "excerpt": "Lo redazione ricostruisce quanto accaduto all'indomani della decisione del giudice del lavoro che ha respinto l'istanza dell’ex conduttore per il reintegro alla guida del programma",
+      "image": null
+    },
     {
       "title": "Corteo pro Pal, a Roma spunta lo striscione sul 7 ottobre: “Giornata della Resistenza”",
       "link": "https://roma.repubblica.it/cronaca/2026/10/10/news/corteo_pro_palestina_gaza_roma_striscione_7_ottobre_giornata_resistenza-425639531/",
@@ -1658,25 +1674,25 @@
       "pubDate": "2026-10-09T17:37:19.000Z",
       "excerpt": "Oltre 700 luoghi aperti in 350 città il 10 e 11 ottobre per la 15/a edizione",
       "image": null
-    },
-    {
-      "title": "John Malkovich, 'ho riscritto l'80% dei film che ho fatto'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/09/john-malkovich-ho-riscritto-l80-dei-film-che-ho-fatto_4c39ddd3-e736-4084-ac31-0e395b43e1d7.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T17:15:47.000Z",
-      "excerpt": "Coppa Volpi a Venezia, potrebbe vincere il suo primo Oscar con Wild horse nine",
-      "image": null
-    },
-    {
-      "title": "Mattarella firma la riforma, il Melonellum diventa legge: ultima parola alla Consulta",
-      "link": "https://www.repubblica.it/politica/2026/10/09/news/mattarella_firma_legge_elettorale-425637713/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-09T17:15:03.000Z",
-      "excerpt": "Dopo il via libera di giovedì a Montecitorio, arriva anche quello del Quirinale. Durante l’iter alle Camere introdotti correttivi grazie alla moral suasion del Colle",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Calcio: De Rossi 'al settimo cielo. Grazie al club che ha avuto fiducia in me'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/calcio-de-rossi-al-settimo-cielo.-grazie-al-club-che-ha-avuto-fiducia-in-me_70965206-3c65-441e-980e-288bf4d19275.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T16:59:55.000Z",
+      "excerpt": "\"Primo tempo eccezionale. Il modulo? dipende soprattutto dall'avversario\"",
+      "image": null
+    },
+    {
+      "title": "Atalanta: Raspadori verso la convocazione col Venezia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/atalanta-raspadori-verso-la-convocazione-col-venezia_86eda489-a566-4f54-9daf-e9566f4b1518.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T16:54:35.000Z",
+      "excerpt": "L'attaccante infortunatosi in Nazionale è tornato in gruppo: domani sessione decisiva",
+      "image": null
+    },
     {
       "title": "Serie A: Inter-Parma 3-0 DIRETTA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-inter-parma-3-0-diretta-e-foto_3de142c7-04e2-4b64-b000-cc44ad95cfcf.html",

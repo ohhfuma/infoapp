@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-10T16:42:11.669Z",
+  "lastUpdated": "2026-10-10T17:06:47.073Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Sigarette, allarme svapo tra i giovani. I pediatri: screening già dagli 11 anni",
+        "link": "https://www.ilsole24ore.com/art/sigarette-allarme-svapo-i-giovani-pediatri-screening-gia-11-anni-AJtds2fB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-10T16:48:42.000Z",
+        "excerpt": "Secondo gli ultimi dati dell’Istituto superiore di sanità, più di uno studente su tre tra i 14 e i 17 anni (il 37,1%, circa 851mila ragazzi) ha utilizzato, nel corso...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/Imagoeconomica_651569-U05172460380cyM-1440x752@IlSole24Ore-Web.jpg"
+      },
       {
         "title": "Spirit Airlines fallisce, Google compra 100 milioni di email: rivolta tra i parlamentari Usa",
         "link": "https://www.repubblica.it/economia/2026/10/10/news/spirit_airlines_fallisce_google_compra_100_milioni_di_email_rivolta_tra_i_parlamentari_usa-425638929/?rss",
@@ -64,7 +72,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T12:47:48.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEI170B3_L.jpg"
       },
       {
         "title": "Lombardi,da Cse investimenti su innovazione e digitale banche,siamo partner affidabile",
@@ -120,7 +128,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T11:01:18.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4D1J3_1200_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEM4D1J3_150x108_S.jpg"
       },
       {
         "title": "Mazzi, 'a settembre l'Italia prima in Europa per saturazione'",
@@ -171,14 +179,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/104207756-130cf0ab-ac1e-45ad-8061-97e79375c52c.jpg"
       },
       {
-        "title": "Confindustria Catania: autotrasporto siciliano fermo dal 16 al 22 ottobre",
-        "link": "https://www.ilsole24ore.com/art/confindustria-catania-autotrasporto-siciliano-fermo-16-22-ottobre-AJrnkhfB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-10T08:58:26.000Z",
-        "excerpt": "Le imprese dell’autotrasporto siciliane fermeranno i mezzi dalle 00.01 del 16 ottobre alla mezzanotte del 22 ottobre. La decisione, rende noto la sezione Trasporti di Confindustria Catania, è stata «assunta...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/AdobeStock_831855420-U44317503088Ksp-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
         "title": "Confindustria etnea, autotrasporto siciliano fermo dal 16 al 22 ottobre",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/confindustria-etnea-autotrasporto-siciliano-fermo-dal-16-al-22-ottobre_6f45a6df-ddde-45d7-a014-74b5abdaf398.html",
         "source": "ANSA Economia",
@@ -192,7 +192,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T08:26:30.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM7C1HU_L.jpg"
       },
       {
         "title": "Presidenza del Consiglio Ue propone taglio 141 miliardi al futuro Bilancio",
@@ -392,10 +392,42 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump, Zelensky vuole creare problemi al mondo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-zelensky-vuole-creare-problemi-al-mondo_03eaa56a-7a3d-4baf-ad54-f304772ebea6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T16:55:30.000Z",
+        "excerpt": "'Poteva mettere fine a questa guerra in molte occasioni'",
+        "image": null
+      },
+      {
+        "title": "Trump, Zelensky vuole creare problemi al mondo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/trump-zelensky-vuole-creare-problemi-al-mondo_bfb30b07-c34b-4941-9383-d2fdf3b76ffe.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T16:55:16.000Z",
+        "excerpt": "'Poteva mettere fine a questa guerra in molte occasioni'",
+        "image": null
+      },
+      {
+        "title": "Trump, 'è il momento di un nuovo presidente per l'Ucraina'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/trump-e-il-momento-di-un-nuovo-presidente-per-lucraina_f0c062ae-2c54-403a-918c-ae140bc1a869.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T16:54:01.000Z",
+        "excerpt": "'Kiev trovi un nuovo leader in grado di raggiungere un accordo'",
+        "image": null
+      },
+      {
+        "title": "Trump, 'è il momento di un nuovo presidente per l'Ucraina'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/trump-e-il-momento-di-un-nuovo-presidente-per-lucraina_39c320a3-c835-43fa-b867-46384a1fe765.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-10T16:53:58.000Z",
+        "excerpt": "'Kiev trovi un nuovo leader in grado di raggiungere un accordo'",
+        "image": null
+      },
+      {
         "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
         "link": "https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-10-10T15:54:23.000Z",
+        "pubDate": "2026-10-10T16:36:19.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM990BK_L.jpg"
       },
@@ -432,22 +464,6 @@
         "image": null
       },
       {
-        "title": "Kallas, 'lo stop alle sanzioni sul gasolio russo finanzia la guerra di Mosca'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/kallas-lo-stop-alle-sanzioni-sul-gasolio-russo-finanzia-la-guerra-di-mosca_88e77e08-15ce-46b5-8ba1-91408141eff0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T13:58:27.000Z",
-        "excerpt": "'L'Ue non allenterà pressione, lunedì nuove sanzioni contro macchina bellica della Russia'",
-        "image": null
-      },
-      {
-        "title": "Premio Nobel Pillay, 'inaccettabili le sanzioni Usa alla Cpi'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/premio-nobel-pillay-inaccettabili-le-sanzioni-usa-alla-cpi_52d0649e-7c2e-4a4e-8af2-029380260ce1.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T13:58:12.000Z",
-        "excerpt": "'Apprensione riguardo alla sopravvivenza dei tribunali internazionali'",
-        "image": null
-      },
-      {
         "title": "Premio Nobel Pillay, 'inaccettabili le sanzioni Usa alla Cpi'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/premio-nobel-pillay-inaccettabili-le-sanzioni-usa-alla-cpi_3cecb633-9f9e-462f-83af-226d2082d75e.html",
         "source": "ANSA Mondo",
@@ -462,14 +478,6 @@
         "pubDate": "2026-10-10T13:55:21.000Z",
         "excerpt": "La polizia ha blindato la capitale nel giorno della manifestazione indetta dal Cockroach Janta Party contro le nuove norme elettorali volute dal premier Modi. Rahul Gandhi: “Continuate a scendere in piazza, orgoglioso di",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/155433355-2df326c1-783e-4ba8-a066-c80354622626.jpg"
-      },
-      {
-        "title": "Media, udita forte esplosione all'aeroporto di Riad, evacuazione in corso",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/media-udita-forte-esplosione-allaeroporto-di-riad-evacuazione-in-corso_9ab46c97-985a-4a5a-9ed4-346efd17bb11.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T13:44:10.000Z",
-        "excerpt": "Poco prima, lo scalo aveva invitato i viaggiatori a verificare stato dei voli",
-        "image": null
       },
       {
         "title": "La risposta di Kiev ai raid russi: sciame di droni ucraini impedisce l’atterraggio di Putin a Mosca",
@@ -494,14 +502,6 @@
         "pubDate": "2026-10-10T13:18:26.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM990BU_L.jpg"
-      },
-      {
-        "title": "Il Brasile fa causa a Shell per l'impatto climatico sulle inondazioni",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/10/il-brasile-fa-causa-a-shell-per-limpatto-climatico-sulle-inondazioni_979e20b0-2a8e-47d0-a7fd-4541655f9757.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T13:10:09.000Z",
-        "excerpt": "Sud colpito da ingenti danni nel 2024 , chiesto un risarcimento milionario",
-        "image": null
       },
       {
         "title": "Le principali conferenze saudite procedono, dicono gli organizzatori, nonostante l'attacco mortale all'aeroporto",
@@ -587,6 +587,22 @@
   },
   "attualita": [
     {
+      "title": "Nubifragi, allagamenti e frane, il maltempo sferza il Sud",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-sferza-il-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-10T17:00:00.000Z",
+      "excerpt": "A Lipari esondati i torrenti, bomba d'acqua nel Reggino. Acqua nella basilica di S.Nicola",
+      "image": null
+    },
+    {
+      "title": "Rai, la squadra di Report: “Mai sfiduciato Ranucci né chiesta la sua rimozione”",
+      "link": "https://www.repubblica.it/politica/2026/10/10/news/rai_report_redazione_mai_sfiduciato_ranucci-425639555/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T16:30:56.000Z",
+      "excerpt": "Lo redazione ricostruisce quanto accaduto all'indomani della decisione del giudice del lavoro che ha respinto l'istanza dell’ex conduttore per il reintegro alla guida del programma",
+      "image": null
+    },
+    {
       "title": "Corteo pro Pal, a Roma spunta lo striscione sul 7 ottobre: “Giornata della Resistenza”",
       "link": "https://roma.repubblica.it/cronaca/2026/10/10/news/corteo_pro_palestina_gaza_roma_striscione_7_ottobre_giornata_resistenza-425639531/",
       "source": "Repubblica",
@@ -635,14 +651,6 @@
       "image": null
     },
     {
-      "title": "Nubifragi, allagamenti e frane. Il maltempo sferza il Sud. A Lipari esondati i torrenti, fango e case allagate. Criticità in Calabria",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/temporale-a-lipari-esondati-torrenti-fango-in-strade-e-case-allagate_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T14:57:46.000Z",
-      "excerpt": "A Bari allagata la cripta della basilica di San Nicola. A Napoli una vettura sprofonda in una voragine",
-      "image": null
-    },
-    {
       "title": "Il Papa, 'la pena di morte è inammissibile'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/10/10/il-papa-la-pena-di-morte-e-inammissibile_0f1d163f-6d14-4d85-97d3-741cbd0ae978.html",
       "source": "ANSA",
@@ -664,14 +672,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-10T13:41:39.000Z",
       "excerpt": "Prevost scrive un messaggio su X in occasione della giornata contro la pena capitale. Ieri la condanna dei vescovi Usa",
-      "image": null
-    },
-    {
-      "title": "Maltempo, emergenza al Sud: esondazioni a Lipari, danni nel Reggino, scuole chiuse nel Salento",
-      "link": "https://www.repubblica.it/cronaca/2026/10/10/news/meteo_maltempo_italia_temporali_oggi-425639138/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T13:07:52.000Z",
-      "excerpt": "Nuovi allagamenti tra Sicilia e Calabria, ancora temporali in Campania. Nel Trapanese si assistono le famiglie sfollate dopo il tornado di ieri",
       "image": null
     },
     {
@@ -716,6 +716,22 @@
     }
   ],
   "sport": [
+    {
+      "title": "Calcio: De Rossi 'al settimo cielo. Grazie al club che ha avuto fiducia in me'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/calcio-de-rossi-al-settimo-cielo.-grazie-al-club-che-ha-avuto-fiducia-in-me_70965206-3c65-441e-980e-288bf4d19275.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T16:59:55.000Z",
+      "excerpt": "\"Primo tempo eccezionale. Il modulo? dipende soprattutto dall'avversario\"",
+      "image": null
+    },
+    {
+      "title": "Atalanta: Raspadori verso la convocazione col Venezia",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/atalanta-raspadori-verso-la-convocazione-col-venezia_86eda489-a566-4f54-9daf-e9566f4b1518.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-10T16:54:35.000Z",
+      "excerpt": "L'attaccante infortunatosi in Nazionale è tornato in gruppo: domani sessione decisiva",
+      "image": null
+    },
     {
       "title": "Serie A: Inter-Parma 3-0 DIRETTA e FOTO",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-inter-parma-3-0-diretta-e-foto_3de142c7-04e2-4b64-b000-cc44ad95cfcf.html",
@@ -762,22 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-10T15:16:03.000Z",
       "excerpt": "Il leader del Mondiale quarto in qualifica: 'cerchiamo la quadra'",
-      "image": null
-    },
-    {
-      "title": "Seixas vince il Giro di Lombardia, è la sua prima Monumento",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/10/seixas-vince-il-giro-di-lombardia-e-la-sua-prima-monumento_3674473b-d478-43b2-afaf-fad67b3f0cf4.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T15:07:45.000Z",
-      "excerpt": "A 20 anni il francese arriva in solitaria. Sul podio Mas e Ciccone",
-      "image": null
-    },
-    {
-      "title": "Il Genoa batte 2-1 la Fiorentina, prima vittoria per i rossoblù",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-genoa-batte-2-1-la-fiorentina-prima-vittoria-per-i-rossoblu_7f7e6489-a874-45a1-9565-19e2f2114c4b.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T14:59:17.000Z",
-      "excerpt": "Partenza veloce, colpiscono Osmaijc e Messias in 15'. Poi autorete Vazquez",
       "image": null
     }
   ]
