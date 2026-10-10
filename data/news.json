@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T00:51:48.910Z",
+  "lastUpdated": "2026-10-10T01:11:31.984Z",
   "finanza": {
     "italia": [
       {
@@ -64,7 +64,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T19:49:00.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_L.jpg"
       },
       {
         "title": "Moody’s rivede al rialzo l’outlook di Crescent Energy dopo l’accordo Eagle Ford",
@@ -88,7 +88,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-09T19:27:28.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_150x108_S.jpg"
       },
       {
         "title": "Repole acquista l’1,4% di Churchill Downs, titolo su del 6%",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump dice che la Russia fornirà gasolio agli Stati Uniti e ai mercati globali",
+        "link": "https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-10T00:54:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM981ES_L.jpg"
+      },
+      {
         "title": "'Il marito di Kamala Harris confida, preferirei non si candidasse alla Casa Bianca'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/il-marito-di-kamala-harris-confida-preferirei-non-si-candidasse-alla-casa-bianca_353dc1ae-5a4f-4cce-b2a4-4a10d6f9e06e.html",
         "source": "ANSA Mondo",
@@ -414,14 +422,6 @@
         "pubDate": "2026-10-10T00:24:44.000Z",
         "excerpt": "L'emittente cita incompatibilità di agenda, il confronto era previsto domenica",
         "image": null
-      },
-      {
-        "title": "Trump dice che la Russia fornirà gasolio agli Stati Uniti e ai mercati globali",
-        "link": "https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T23:30:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM981ES_L.jpg"
       },
       {
         "title": "Trump sente Putin e leva le sanzioni a Mosca: “Ci venderà il suo diesel”",
