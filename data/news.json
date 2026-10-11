@@ -1,12 +1,20 @@
 {
-  "lastUpdated": "2026-10-11T15:41:55.396Z",
+  "lastUpdated": "2026-10-11T16:07:50.069Z",
   "finanza": {
     "italia": [
+      {
+        "title": "L'Ue limiterà a 350mila l'anno le importazioni di auto ibride cinesi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/lue-limitera-a-350mila-lanno-le-importazioni-di-auto-ibride-cinesi_d192d7fd-5ed8-45ec-9170-cbfd95b72c4b.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-11T15:45:15.000Z",
+        "excerpt": "Misura possibile dal primo dicembre, tetto crescerà del 6% annuo",
+        "image": null
+      },
       {
         "title": "Milano, sale nelle coalizioni lo scontro per il candidato sindaco: ecco tutti i nomi in corsa",
         "link": "https://www.ilsole24ore.com/art/milano-sale-coalizioni-scontro-il-candidato-sindaco-ecco-tutti-nomi-corsa-AJVizlgB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-11T15:37:56.000Z",
+        "pubDate": "2026-10-11T15:37:00.000Z",
         "excerpt": "A Milano la corsa a sindaco per la successione a Giuseppe Sala, in vista delle elezioni della prossima primavera, è già accesa. Nel centrosinistra si discute tra primarie e figure...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/Consiglio-comunale-palazzo-marino-U41888105556QYo-1440x752@IlSole24Ore-Web.jpg"
       },
@@ -248,7 +256,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T12:47:48.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEI170B3_L.jpg"
       }
     ],
     "europa": [
@@ -384,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Tusk, arrestato presunto attentatore che voleva colpire me e ministro difesa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/tusk-arrestato-presunto-attentatore-che-voleva-colpire-me-e-ministro-difesa_7cbda26b-20e2-4990-b8b3-85e1db59b553.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T16:04:25.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "Von der Leyen, 'pieno sostegno a Zelensky, guerra in una fase più cupa'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/von-der-leyen-pieno-sostegno-a-zelensky-guerra-in-una-fase-piu_bac9f0f8-75e2-49e9-bea6-6e67762f2b20.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T16:01:44.000Z",
+        "excerpt": "'Appoggio alla richiesta di cessate il fuoco, Russia in stallo sul campo'",
+        "image": null
+      },
+      {
         "title": "Polonia, la polizia sventa un attentato per uccidere il premier Donald Tusk. Arrestato un uomo",
         "link": "https://www.repubblica.it/esteri/2026/10/11/news/polonia_attentato_premier_donald_tusk_sventato-425640668/?rss",
         "source": "Repubblica Esteri",
@@ -456,14 +480,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/110342137-42f35094-009c-468f-8e62-7d8d05cf7e5e.jpg"
       },
       {
-        "title": "Droga su voli militari, sotto accusa l'ex 'first lady' colombiana",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/11/droga-su-voli-militari-sotto-accusa-lex-first-lady-colombiana_9a90f489-4b28-4842-9550-6ab910378825.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-11T12:20:42.000Z",
-        "excerpt": "La stampa pubblica denunce shock contro la moglie dell'ex presidente Petro",
-        "image": null
-      },
-      {
         "title": "Quando dobbiamo preoccuparci se non ricordiamo un nome o un titolo",
         "link": "https://www.repubblica.it/esteri/dossier/lena/2026/10/11/news/dimenticare_nomi_titoli_film_riconoscere_declino_cognitivo_continental_breakfast-425640812/?rss",
         "source": "Repubblica Esteri",
@@ -486,14 +502,6 @@
         "pubDate": "2026-10-11T11:48:23.000Z",
         "excerpt": "Contare i film visti, dare voti ai libri letti, confrontare gli ascolti musicali: diverse “hobby app” – scrive il quotidiano belga Le Soir – hanno fatto diventare le attività culturali una questione di statistiche, con i",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/134813397-dda74525-78bc-4f31-bf9d-fc5611ff1621.jpg"
-      },
-      {
-        "title": "Un'altra alluvione lampo colpisce il Nepal, case spazzate via e villaggi evacuati",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/11/unaltra-alluvione-lampo-colpisce-il-nepal-case-spazzate-via-e-villaggi-evacuati_0ed39339-60dc-48d0-93dd-cc1d8ce18322.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-11T11:28:52.000Z",
-        "excerpt": "Salvate 49 persone dalle zone colpite, cinque dispersi",
-        "image": null
       },
       {
         "title": "La sostanza che trasforma in serial killer",
@@ -579,11 +587,19 @@
   },
   "attualita": [
     {
-      "title": "++ Tusk, arrestato presunto attentatore che voleva colpire me e ministro difesa ++",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/11/tusk-arrestato-presunto-attentatore-che-voleva-colpire-me-e-ministro-difesa_14bb8ae4-d2c3-4c98-a50c-1abb6fc95073.html",
+      "title": "Il Papa: 'Ho un nodulo al polmone, ho deciso di operarmi'",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/10/11/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi_9bf07f99-d56c-4e01-8712-23974b08fc29.html",
       "source": "ANSA",
-      "pubDate": "2026-10-11T15:35:24.000Z",
-      "excerpt": "",
+      "pubDate": "2026-10-11T15:49:48.000Z",
+      "excerpt": "'L'intervento è già programmato nei prossimi giorni'. Leone conferma però la sua visita in Perù, prevista dal 6 al 17 novembre",
+      "image": null
+    },
+    {
+      "title": "Nuovo attacco colpisce l'aeroporto di Riad, incendio in un terminal ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/esplosione-udita-nel-centro-di-riad.-gli-houthi-attacco-allaeroporto-di-sanaa_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T14:56:25.000Z",
+      "excerpt": "Ieri l'attacco allo scalo: almeno 12 morti e oltre 300 feriti. L'ambasciata Usa alza il livello di allerta In Arabia Saudita. Meloni: ferma condanna degli attacchi",
       "image": null
     },
     {
@@ -592,14 +608,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-11T14:54:43.000Z",
       "excerpt": "L'esperto: 'Non equivale a diagnosi di tumore. Tecniche mininvasive e percorsi di cura'",
-      "image": null
-    },
-    {
-      "title": "Il Papa: 'Ho un nodulo al polmone, ho deciso di operarmi'",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/10/11/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi_9bf07f99-d56c-4e01-8712-23974b08fc29.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-11T14:43:13.000Z",
-      "excerpt": "'L'intervento è già programmato nei prossimi giorni'. Leone conferma però la sua visita in Perù, prevista dal 6 al 17 novembre",
       "image": null
     },
     {
@@ -709,6 +717,30 @@
   ],
   "sport": [
     {
+      "title": "Serie A: in campo Sassuolo-Milan 0-0 DIRETTA ",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-in-campo-sassuolo-milan-0-0-diretta-_c2ba2fc3-f638-488d-b401-ef95330b5393.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T16:01:45.000Z",
+      "excerpt": "'Amrim: 'Vogliamo vincere titoli ma abbiamo anche bisogno di tempo e tappe'",
+      "image": null
+    },
+    {
+      "title": "Monza: Juric 'niente da salvare nel primo tempo, mi tengo la reazione nella ripresa'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/monza-juric-niente-da-salvare-nel-primo-tempo-mi-tengo-la-reazione-nella_2393d8fa-d584-457e-8cf5-54bcb661466a.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T15:54:33.000Z",
+      "excerpt": "Tecnico lombardi: \"Trovato grande portiere, peccato per le tante palle gol sprecate\"",
+      "image": null
+    },
+    {
+      "title": "Montella 'c'è una fine a ogni bella storia, Turchia sempre nel mio cuore'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/montella-ce-una-fine-a-ogni-bella-storia-turchia-sempre-nel-mio_4608f04d-6f89-4559-a0d8-2547b0766fe1.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T15:43:51.000Z",
+      "excerpt": "L'ex ct saluta squadra e Paese: 'Alcuni viaggi lasciano il segno oltre il calcio'",
+      "image": null
+    },
+    {
       "title": "Serie A: La Lazio cala il tris al Monza, Gattuso resta in vetta ",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-la-lazio-cala-il-tris-al-monza-gattuso-resta-in-vetta_ab7d0c1b-f7f6-4096-ac21-1b7d9a3aedfc.html",
       "source": "ANSA Sport",
@@ -746,30 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T14:48:46.000Z",
       "excerpt": "Il francese 20enne consacrato in Lombardia: da Doualla a Finn, la carica dei giovanissimi",
-      "image": null
-    },
-    {
-      "title": "Gp Singapore: Antonelli \"campione già ad Austin? L'importante è fare il meglio possibile\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/11/gp-singapore-antonelli-campione-gia-ad-austin-limportante-e-fare-il-meglio-possibile_253de58b-1fe7-4d4c-9ab7-707e5adaccb9.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T14:47:56.000Z",
-      "excerpt": "Il leader del mondiale \"qui una gara molto dura, sono felice del terzo posto\"",
-      "image": null
-    },
-    {
-      "title": "Gp Singapore: Leclerc \"di più oggi non si poteva fare, non ho rimpianti\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/11/gp-singapore-leclerc-di-piu-oggi-non-si-poteva-fare-non-ho-rimpianti_ff43f510-9166-4c83-8570-fcbdfda763b6.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T14:41:44.000Z",
-      "excerpt": "Il ferrarista \"abbiamo iniziato bene la gara, poi siamo un po' calati\"",
-      "image": null
-    },
-    {
-      "title": "Azzurre a caccia dei mondiali \"il 'Franchi' l'arma in più'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/azzurre-a-caccia-dei-mondiali-il-franchi-larma-in-piu_f36756b8-2324-4eae-be4a-a884bc8478d1.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T14:08:55.000Z",
-      "excerpt": "Martedì la sfida bis con la Bielorussia: Giugliano 'lavoriamo per l'obiettivo iridato'",
       "image": null
     }
   ]

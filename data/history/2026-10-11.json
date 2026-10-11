@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "L'Ue limiterà a 350mila l'anno le importazioni di auto ibride cinesi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/lue-limitera-a-350mila-lanno-le-importazioni-di-auto-ibride-cinesi_d192d7fd-5ed8-45ec-9170-cbfd95b72c4b.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-11T15:45:15.000Z",
+        "excerpt": "Misura possibile dal primo dicembre, tetto crescerà del 6% annuo",
+        "image": null
+      },
+      {
         "title": "Milano, sale nelle coalizioni lo scontro per il candidato sindaco: ecco tutti i nomi in corsa",
         "link": "https://www.ilsole24ore.com/art/milano-sale-coalizioni-scontro-il-candidato-sindaco-ecco-tutti-nomi-corsa-AJVizlgB",
         "source": "Il Sole 24 Ore",
@@ -474,14 +482,6 @@
         "pubDate": "2026-10-10T08:00:00.000Z",
         "excerpt": "Parla Anthony Gutman, co-ceo di Goldman Sachs International: “La sua resilienza ha sorpreso, opportunità in tutti i settori. I ritardi nell’IA possono essere recuperati nell’adozione”",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/121259491-89cb8141-6baa-4630-bc38-284b8a03d7c3.jpg"
-      },
-      {
-        "title": "Treasury, Francia e caro-petrolio pesano sull’euro. Le aziende quotate che “vincono” lo stesso",
-        "link": "https://www.repubblica.it/economia/2026/10/10/news/treasury_francia_e_caro-petrolio_pesanosull_euro_le_aziende_quotate_che_vincono_lo_stesso-425636615/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T08:00:00.000Z",
-        "excerpt": "Intermonte indica le società di Piazza Affari che beneficiano del dollaro forte: Prysmian, Interpump, Leonardo e Buzzi tra gli industriali, Campari e Diasorin ma anche Amplifon con il lusso",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/09/17/163918669-41a6dd78-35cf-48a6-a70e-5f0363c5dd40.jpg"
       }
     ],
     "europa": [
@@ -672,6 +672,22 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Tusk, arrestato presunto attentatore che voleva colpire me e ministro difesa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/tusk-arrestato-presunto-attentatore-che-voleva-colpire-me-e-ministro-difesa_7cbda26b-20e2-4990-b8b3-85e1db59b553.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T16:04:25.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "Von der Leyen, 'pieno sostegno a Zelensky, guerra in una fase più cupa'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/von-der-leyen-pieno-sostegno-a-zelensky-guerra-in-una-fase-piu_bac9f0f8-75e2-49e9-bea6-6e67762f2b20.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T16:01:44.000Z",
+        "excerpt": "'Appoggio alla richiesta di cessate il fuoco, Russia in stallo sul campo'",
+        "image": null
+      },
       {
         "title": "'Zelensky, non sapevo della tregua, diteci quando inizia'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/zelensky-non-sapevo-della-tregua-diteci-quando-inizia_f6fb6e94-3045-43cb-b120-4bbf0d301d23.html",
@@ -1135,22 +1151,6 @@
         "pubDate": "2026-10-10T13:55:21.000Z",
         "excerpt": "La polizia ha blindato la capitale nel giorno della manifestazione indetta dal Cockroach Janta Party contro le nuove norme elettorali volute dal premier Modi. Rahul Gandhi: “Continuate a scendere in piazza, orgoglioso di",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/155433355-2df326c1-783e-4ba8-a066-c80354622626.jpg"
-      },
-      {
-        "title": "La risposta di Kiev ai raid russi: sciame di droni ucraini impedisce l’atterraggio di Putin a Mosca",
-        "link": "https://www.repubblica.it/esteri/2026/10/10/news/droni_ucraini_fermano_rientro_a_mosca_di_putin-425639105/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-10T13:29:44.000Z",
-        "excerpt": "L’attacco la scorsa notte, mentre il presidente russo rientrava dal vertice degli ex Stati sovietici in Turkmenistan",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/145330071-2240c3e1-ce0b-4e5a-a383-4d9a8215cf49.jpg"
-      },
-      {
-        "title": "Né Putin né Trump volevano riagganciare per primi, dice l'aiutante del Cremlino dopo una chiamata \"molto amichevole\"",
-        "link": "https://www.investing.com/news/commodities-news/neither-putin-nor-trump-wanted-to-hang-up-first-kremlin-aide-says-after-very-friendly-call-4942108",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-10T13:18:26.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM990BU_L.jpg"
       }
     ]
   },
@@ -1169,6 +1169,14 @@
       "source": "ANSA",
       "pubDate": "2026-10-11T14:58:10.000Z",
       "excerpt": "Barak Ravid di Axios riferisce di una conversazione con il presidente ucraino",
+      "image": null
+    },
+    {
+      "title": "Nuovo attacco colpisce l'aeroporto di Riad, incendio in un terminal ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/esplosione-udita-nel-centro-di-riad.-gli-houthi-attacco-allaeroporto-di-sanaa_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T14:56:25.000Z",
+      "excerpt": "Ieri l'attacco allo scalo: almeno 12 morti e oltre 300 feriti. L'ambasciata Usa alza il livello di allerta In Arabia Saudita. Meloni: ferma condanna degli attacchi",
       "image": null
     },
     {
@@ -1626,17 +1634,33 @@
       "pubDate": "2026-10-10T18:00:25.000Z",
       "excerpt": "L'esposizione negli studi si arricchisce di abiti e racconti, fino al 15 febbraio",
       "image": null
-    },
-    {
-      "title": "A Genova Book Pride, fiera dell'editoria indipendente",
-      "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/10/10/a-genova-book-pride-fiera-delleditoria-indipendente_8ff6aaf3-c00f-40ed-81cd-2f366bdfffa5.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T17:56:51.000Z",
-      "excerpt": "Fino a domenica 100 editori e 150 appuntamenti",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: in campo Sassuolo-Milan 0-0 DIRETTA ",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-in-campo-sassuolo-milan-0-0-diretta-_c2ba2fc3-f638-488d-b401-ef95330b5393.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T16:01:45.000Z",
+      "excerpt": "'Amrim: 'Vogliamo vincere titoli ma abbiamo anche bisogno di tempo e tappe'",
+      "image": null
+    },
+    {
+      "title": "Monza: Juric 'niente da salvare nel primo tempo, mi tengo la reazione nella ripresa'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/monza-juric-niente-da-salvare-nel-primo-tempo-mi-tengo-la-reazione-nella_2393d8fa-d584-457e-8cf5-54bcb661466a.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T15:54:33.000Z",
+      "excerpt": "Tecnico lombardi: \"Trovato grande portiere, peccato per le tante palle gol sprecate\"",
+      "image": null
+    },
+    {
+      "title": "Montella 'c'è una fine a ogni bella storia, Turchia sempre nel mio cuore'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/montella-ce-una-fine-a-ogni-bella-storia-turchia-sempre-nel-mio_4608f04d-6f89-4559-a0d8-2547b0766fe1.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T15:43:51.000Z",
+      "excerpt": "L'ex ct saluta squadra e Paese: 'Alcuni viaggi lasciano il segno oltre il calcio'",
+      "image": null
+    },
     {
       "title": "Serie A: La Lazio cala il tris al Monza, Gattuso resta in vetta ",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-la-lazio-cala-il-tris-al-monza-gattuso-resta-in-vetta_ab7d0c1b-f7f6-4096-ac21-1b7d9a3aedfc.html",
