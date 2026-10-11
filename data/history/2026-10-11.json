@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Milano, sale nelle coalizioni lo scontro per il candidato sindaco: ecco tutti i nomi in corsa",
+        "link": "https://www.ilsole24ore.com/art/milano-sale-coalizioni-scontro-il-candidato-sindaco-ecco-tutti-nomi-corsa-AJVizlgB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-11T15:37:56.000Z",
+        "excerpt": "A Milano la corsa a sindaco per la successione a Giuseppe Sala, in vista delle elezioni della prossima primavera, è già accesa. Nel centrosinistra si discute tra primarie e figure...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/Consiglio-comunale-palazzo-marino-U41888105556QYo-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
         "title": "Reggio Children, insegnanti ebrei rinunciano a partecipare. «Metodi da Terzo Reich»",
         "link": "https://www.ilsole24ore.com/art/reggio-children-insegnanti-ebrei-rinunciano-partecipare-metodi-terzo-reich-AJkhmggB",
         "source": "Il Sole 24 Ore",
@@ -474,14 +482,6 @@
         "pubDate": "2026-10-10T08:00:00.000Z",
         "excerpt": "Intermonte indica le società di Piazza Affari che beneficiano del dollaro forte: Prysmian, Interpump, Leonardo e Buzzi tra gli industriali, Campari e Diasorin ma anche Amplifon con il lusso",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/09/17/163918669-41a6dd78-35cf-48a6-a70e-5f0363c5dd40.jpg"
-      },
-      {
-        "title": "Servizio clienti nelle tlc, basta opzioni infinite. Ora c’è il diritto a “parlare con l’operatore”",
-        "link": "https://www.repubblica.it/economia/2026/10/10/news/servizio_clienti_tlc_diritto_a_parlare_con_operatore-425637806/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T03:00:00.000Z",
-        "excerpt": "Confermate le regole dell’Agcom che garantiscono agli utenti il diritto di raggiungere direttamente un operatore umano, nell’ambito delle tlc. Fissati standard di qualità: tempo medio di risposta non oltre due minuti e m",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/195826081-305b17ca-c2ad-4fdb-90dc-dabbe62e7adb.jpg"
       }
     ],
     "europa": [
@@ -1156,6 +1156,14 @@
   },
   "attualita": [
     {
+      "title": "++ Tusk, arrestato presunto attentatore che voleva colpire me e ministro difesa ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/11/tusk-arrestato-presunto-attentatore-che-voleva-colpire-me-e-ministro-difesa_14bb8ae4-d2c3-4c98-a50c-1abb6fc95073.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T15:35:24.000Z",
+      "excerpt": "",
+      "image": null
+    },
+    {
       "title": "++ 'Zelensky, non sapevo della tregua, diteci quando inizia' ++",
       "link": "https://www.ansa.it/sito/notizie/flash/2026/10/11/-zelensky-non-sapevo-della-tregua-diteci-quando-inizia-_3efc0d7c-e613-470d-bad6-3e2f217b992e.html",
       "source": "ANSA",
@@ -1626,17 +1634,33 @@
       "pubDate": "2026-10-10T17:56:51.000Z",
       "excerpt": "Fino a domenica 100 editori e 150 appuntamenti",
       "image": null
-    },
-    {
-      "title": "Dalla Gran Bretagna alla Norvegia, gli occhiali smart nuova frontiera dei divieti tecnologici",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/10/10/da-gran-bretagna-a-norvegia-occhiali-smart-nuova-frontiera-dei-divieti-tecnologici_b78ad570-4ca7-44e1-9dfd-4c9c4d0c50cb.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T17:54:52.000Z",
-      "excerpt": "Il nodo è il consenso nello spazio pubblico. Esperto: \"Le regole vanno aggiornate\"",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: La Lazio cala il tris al Monza, Gattuso resta in vetta ",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-la-lazio-cala-il-tris-al-monza-gattuso-resta-in-vetta_ab7d0c1b-f7f6-4096-ac21-1b7d9a3aedfc.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T15:17:44.000Z",
+      "excerpt": "All'Olimpico la vittoria per 3-1 sui lombardi è la quinta in sei gare, record",
+      "image": null
+    },
+    {
+      "title": "Serie A: in campo Lecce-Bologna 1-2 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-in-campo-lecce-bologna-1-2-diretta_ffafc366-d863-40fc-90a6-59f9234222e1.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T15:11:23.000Z",
+      "excerpt": "Ospiti in vantaggio al 17' con Orsolini, pareggia Fatah al 64', nuovo vantaggio rossoblu con Enem al 75'",
+      "image": null
+    },
+    {
+      "title": "Prima vittoria per il Bologna, 2-1 al Lecce",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/prima-vittoria-per-il-bologna-2-1-al-lecce_fbb079dc-0e00-45a6-af9d-f66bf286cd43.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T15:10:05.000Z",
+      "excerpt": "Con Orsolini ed Enem arrivano i tre punti, Palladino sorride",
+      "image": null
+    },
     {
       "title": "Serie A: Lazio-Monza 3-1",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-lazio-monza-3-1_ab7d0c1b-f7f6-4096-ac21-1b7d9a3aedfc.html",
