@@ -1,14 +1,22 @@
 {
-  "lastUpdated": "2026-10-11T20:42:13.164Z",
+  "lastUpdated": "2026-10-11T21:07:44.196Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Gli investitori puntano sui traguardi tecnici di Starship, non sui risultati",
+        "link": "https://it.investing.com/news/stock-market-news/gli-investitori-puntano-sui-traguardi-tecnici-di-starship-non-sui-risultati-3582962",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-11T20:28:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
+      },
       {
         "title": "Di quanta energia avrà bisogno gli Stati Uniti fino al 2030?",
         "link": "https://it.investing.com/news/stock-market-news/di-quanta-energia-avra-bisogno-gli-stati-uniti-fino-al-2030-3582959",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-11T19:53:58.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEDAN118_M.jpg"
+        "image": null
       },
       {
         "title": "Stellantis rilancia in Europa: 50 nuovi modelli entro il 2030 e più produzione",
@@ -240,7 +248,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T16:52:37.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3O0LG_1200_L.jpg"
       },
       {
         "title": "Gli agenti AI potrebbero rivoluzionare lo shopping online: chi vince?",
@@ -249,14 +257,6 @@
         "pubDate": "2026-10-10T14:41:00.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
-      },
-      {
-        "title": "Philips vince in tribunale contro gli azionisti sul ritiro dei dispositivi",
-        "link": "https://it.investing.com/news/stock-market-news/philips-vince-in-tribunale-contro-gli-azionisti-sul-ritiro-dei-dispositivi-3582790",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-10T14:05:05.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEE9L0RH_M.jpg"
       }
     ],
     "europa": [
@@ -392,20 +392,20 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Repubblicani e democratici statunitensi vogliono che Trump inverta la rotta sul diesel russo",
+        "link": "https://www.investing.com/news/commodities-news/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-4942755",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-11T20:36:22.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9A0F8_L.jpg"
+      },
+      {
         "title": "L'Arabia Saudita riporta ferite in un nuovo attacco all'aeroporto di Riyadh, il giorno dopo lo sciopero uccide 13 persone",
         "link": "https://www.investing.com/news/commodities-news/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-4942575",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-11T20:06:24.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9A04Q_L.jpg"
-      },
-      {
-        "title": "Un eminente senatore repubblicano afferma che l'accordo sul diesel russo di Trump potrebbe essere illegale",
-        "link": "https://www.investing.com/news/commodities-news/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-4942755",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-11T19:12:26.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9A0F8_L.jpg"
       },
       {
         "title": "Zelensky, Mosca ha colpito centrale elettrica dopo annuncio Trump su tregua",
@@ -587,7 +587,7 @@
   },
   "attualita": [
     {
-      "title": "Salis ospite di Fazio: “Primarie divisive, ma noi sindaci possiamo dare una mano al centrosinistra”",
+      "title": "Salis da Fazio: “Le primarie sono divisive, ma noi sindaci possiamo dare una mano al centrosinistra”",
       "link": "https://genova.repubblica.it/cronaca/2026/10/11/news/salis_nove_fazio_primarie_divisive_sindaci_centrosinistra-425641640/",
       "source": "Repubblica",
       "pubDate": "2026-10-11T20:29:47.000Z",
@@ -717,11 +717,19 @@
   ],
   "sport": [
     {
-      "title": "Cagliari-Juventus 1-1 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/cagliari-juventus-1-1-diretta-e-foto_cb4a2a0c-9ece-40a7-b7b8-5c181c9966f6.html",
+      "title": "Cagliari-Juventus termina 1-1, a Maldini risponde Kolo Muani&nbsp;CRONACA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/cagliari-juventus-termina-1-1-a-maldini-risponde-kolo-muanicronaca-e-foto_cb4a2a0c-9ece-40a7-b7b8-5c181c9966f6.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-11T20:27:23.000Z",
-      "excerpt": "Trasferta insidiosa per i bianconeri nella sesta giornata di campionato",
+      "pubDate": "2026-10-11T20:49:30.000Z",
+      "excerpt": "Gli isolani di Pisacane confermano il quarto posto in classifica davanti al Milan",
+      "image": null
+    },
+    {
+      "title": "Serie A: Kolo Muani si sblocca e salva la Juve, 1-1 a Cagliari",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-kolo-muani-si-sblocca-e-salva-la-juve-1-1-a-cagliari_7f6c1ab2-d469-4ba6-8984-478450eb42bc.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T20:40:42.000Z",
+      "excerpt": "Maldini porta avanti i rossoblù, primo importante centro del francese",
       "image": null
     },
     {
@@ -770,14 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T17:57:57.000Z",
       "excerpt": "A guidare delegazione, composta da atleti e creator, la leggenda della vela Spithill",
-      "image": null
-    },
-    {
-      "title": "Premier: lo scandalo non frena il City, vittoria per 3-0 a Liverpool",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/premier-lo-scandalo-non-frena-il-city-vittoria-per-3-0-a-liverpool_c5b53fd1-60b0-4ca8-8c0b-59bc629f5cfd.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T17:51:55.000Z",
-      "excerpt": "Reds restano in 10 nella ripresa e la squadra di Maresca si scatena",
       "image": null
     }
   ]
