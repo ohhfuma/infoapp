@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T20:07:25.471Z",
+  "lastUpdated": "2026-10-11T20:42:13.164Z",
   "finanza": {
     "italia": [
       {
@@ -8,7 +8,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-11T19:53:58.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEDAN118_M.jpg"
       },
       {
         "title": "Stellantis rilancia in Europa: 50 nuovi modelli entro il 2030 e più produzione",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "L'Arabia Saudita riporta ferite in un nuovo attacco all'aeroporto di Riyadh, il giorno dopo lo sciopero uccide 13 persone",
+        "link": "https://www.investing.com/news/commodities-news/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-4942575",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-11T20:06:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9A04Q_L.jpg"
+      },
+      {
         "title": "Un eminente senatore repubblicano afferma che l'accordo sul diesel russo di Trump potrebbe essere illegale",
         "link": "https://www.investing.com/news/commodities-news/prominent-republican-senator-says-trumps-russian-diesel-deal-may-be-illegal-4942755",
         "source": "Investing.com Commodities",
@@ -406,14 +414,6 @@
         "pubDate": "2026-10-11T18:10:01.000Z",
         "excerpt": "A Kiev, con un drone Shahed",
         "image": null
-      },
-      {
-        "title": "L'Arabia Saudita riporta ferite in un nuovo attacco all'aeroporto di Riyadh, il giorno dopo lo sciopero uccide 13 persone",
-        "link": "https://www.investing.com/news/commodities-news/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-4942575",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-11T18:00:29.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9A04Q_L.jpg"
       },
       {
         "title": "'Trump minaccia blocco delle armi a Kiev per gli attacchi alla raffinerie russe'",
@@ -587,6 +587,22 @@
   },
   "attualita": [
     {
+      "title": "Salis ospite di Fazio: “Primarie divisive, ma noi sindaci possiamo dare una mano al centrosinistra”",
+      "link": "https://genova.repubblica.it/cronaca/2026/10/11/news/salis_nove_fazio_primarie_divisive_sindaci_centrosinistra-425641640/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T20:29:47.000Z",
+      "excerpt": "La sindaca di Genova in diretta sul Nove annuncia la sua presenza al fianco degli operai di Cornigliano in lotta contro la chiusura della fabbrica, e commenta lo stallo nel centrosinistra",
+      "image": null
+    },
+    {
+      "title": "Sardegna, crolla la volta della grotta: giovane intrappolato a 10 metri. Ricerche in corso",
+      "link": "https://www.repubblica.it/cronaca/2026/10/11/news/speleologo_intrappolato_grotta_sardegna-425641594/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T19:59:40.000Z",
+      "excerpt": "Il recupero è complesso: il materiale roccioso franato ostruisce l'ingresso della grotta e la roccia è friabile. Secondo fonti locali, i tecnici starebbero rimuovendo a mano i detriti",
+      "image": null
+    },
+    {
       "title": "Ucraina, Trump annuncia tregua energetica ma nessuno conferma",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/ucraina-trump-annuncia-tregua-energetica-ma-nessuno-conferma_2822374d-dfd0-4b0b-9768-eb9f9b6f6578.html",
       "source": "ANSA",
@@ -651,22 +667,6 @@
       "image": null
     },
     {
-      "title": "Hamilton, malessere dopo il gran premio di Singapore. E si scusa con la Ferrari: “Vi ho deluso”",
-      "link": "https://www.repubblica.it/sport/formulauno/2026/10/11/news/lewis_hamilton_ferrari_malessere_singapore-425641134/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T16:03:39.000Z",
-      "excerpt": "Errore del britannico nella strategia. Al team radio lo ammette: “Colpa mia”",
-      "image": null
-    },
-    {
-      "title": "Lazio, il volo continua: batte 3-1 il Monza e resta in testa con l’Inter",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/lazio_monza_gol-425641100/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T15:42:54.000Z",
-      "excerpt": "La squadra di Gattuso continua a stupire, in gol Tavares, Isaksen e Pinamonti",
-      "image": null
-    },
-    {
       "title": "Il Papa e il nodulo polmonare, ecco come si diagnostica e quando si interviene",
       "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/10/11/il-papa-e-il-nodulo-polmonare-ecco-come-si-diagnostica-e-quando-si-interviene_1f66d3c3-a3cd-45c1-8f4e-6473d191f995.html",
       "source": "ANSA",
@@ -717,10 +717,10 @@
   ],
   "sport": [
     {
-      "title": "Cagliari-Juventus 1-0 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/cagliari-juventus-1-0-diretta-e-foto_cb4a2a0c-9ece-40a7-b7b8-5c181c9966f6.html",
+      "title": "Cagliari-Juventus 1-1 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/cagliari-juventus-1-1-diretta-e-foto_cb4a2a0c-9ece-40a7-b7b8-5c181c9966f6.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-11T19:40:11.000Z",
+      "pubDate": "2026-10-11T20:27:23.000Z",
       "excerpt": "Trasferta insidiosa per i bianconeri nella sesta giornata di campionato",
       "image": null
     },
