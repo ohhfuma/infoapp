@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Stellantis a Parigi con 60 prodotti e 9 concept car, 'il piano sta diventando realtà'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/stellantis-a-parigi-con-60-prodotti-e-9-concept-car-il-piano-sta-diventando-realta_d0563f36-4a90-439d-a594-f615c0100aef.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-11T17:02:16.000Z",
+        "excerpt": "Filosa e Cappellano, 'fiducia nel futuro, 50 nuovi modelli entro il 2030'.",
+        "image": null
+      },
+      {
         "title": "Noduli polmonari: diagnosi, rischi e trattamenti tra benignità e tumore",
         "link": "https://www.ilsole24ore.com/art/noduli-polmonari-diagnosi-rischi-e-trattamenti-benignita-e-tumore-AJgR4mgB",
         "source": "Il Sole 24 Ore",
@@ -474,14 +482,6 @@
         "pubDate": "2026-10-10T09:02:14.000Z",
         "excerpt": "La banca centrale prova a rianimare l’economia ma i pessimisti vedono la stagflazione muoversi al rallentatore",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/104207756-130cf0ab-ac1e-45ad-8061-97e79375c52c.jpg"
-      },
-      {
-        "title": "Confindustria etnea, autotrasporto siciliano fermo dal 16 al 22 ottobre",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/confindustria-etnea-autotrasporto-siciliano-fermo-dal-16-al-22-ottobre_6f45a6df-ddde-45d7-a014-74b5abdaf398.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-10T08:30:13.000Z",
-        "excerpt": "'Il comparto è allo stremo per caro gasolio e oneri sistema Ets'",
-        "image": null
       }
     ],
     "europa": [
@@ -680,6 +680,22 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Guerra in Yemen, perché è ripresa ora e come rischia di allargarsi a conflitto regionale",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/guerra_in_yemen_houthi_arabia_saudita_perche_e_ripresa_e_come_rischia_allargarsi-425641208/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T16:55:14.000Z",
+        "excerpt": "Undici anni dopo il primo intervento di Riad, i sauditi sono tornati a bombardare gli Houthi, appoggiati dall’Iran. Chi sono gli attori in gioco e in che modo il coinvolgimento di Bin Salman a fianco delle forze governat",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/184827319-4debe1b0-43bd-4804-9f6a-518eade9e00a.jpg"
+      },
+      {
+        "title": "Brexit, la rivelazione di Burnham: “Sì, la Russia ha interferito nel referendum”",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/burnham_brexit_interferenze_russe-425641190/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T16:46:26.000Z",
+        "excerpt": "Per la prima volta un premier britannico riconosce che ci fu un’interferenza di Mosca nel processo democratico del 2016",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/184159391-757ef6b1-b099-4548-aa14-c10c47874c1e.jpg"
+      },
       {
         "title": "In Francia Glucksmann conquista le primarie socialdemocratiche già dal primo turno",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/in-francia-glucksmann-conquista-le-primarie-socialdemocratiche-gia-dal-primo-turno_b3594e02-7910-4f51-9456-b05185093593.html",
@@ -1143,26 +1159,26 @@
         "pubDate": "2026-10-10T19:02:53.000Z",
         "excerpt": "Ministro Esteri Sybiha: 'Ha il sostegno del popolo ucraino'",
         "image": null
-      },
-      {
-        "title": "Dmitriev, 'Trump vuole una leadership di pace in Ucraina, è iconico e storico'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/dmitriev-trump-vuole-una-leadership-di-pace-in-ucraina-e-iconico-e-storico_98a3fa58-34eb-4628-8c2d-0047a7d9b875.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T18:01:11.000Z",
-        "excerpt": "'La diplomazia del diesel ha smascherato Zelensky'",
-        "image": null
-      },
-      {
-        "title": "La Ue: “Gli Usa ritirino subito le sanzioni contro la Cpi”. Pillay: “Sono misure inaudite”",
-        "link": "https://www.repubblica.it/esteri/2026/10/10/news/ue_usa_sanzioni_cpi_navi_pillay_nobel_pace-425639647/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-10T17:28:05.000Z",
-        "excerpt": "L’indomani della consegna del Premio Nobel per la pace alla giurista pro Gaza Kallas promette: “Pronti a ogni intervento necessario a difesa della Corte”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/192725181-5cb43221-2a1f-4aca-a2f7-b369705852b7.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Brexit, la rivelazione di Burnham: “Sì, la russia ha interferito nel referendum”",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/burnham_brexit_interferenze_russe-425641190/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T16:42:12.000Z",
+      "excerpt": "Per la prima volta un premier britannico riconosce che ci fu un’interferenza di Mosca nel processo democratico del 2016",
+      "image": null
+    },
+    {
+      "title": "Gp Singapore, pagelle: Verstappen perfetto. Antonelli formichina, Leclerc tenace, Hamilton sbaglia",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/10/11/news/pagelle_gp_singapore_antonelli_verstappen_leclerc-425641149/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T16:18:26.000Z",
+      "excerpt": "Promossi e bocciati della gara di Marina Bay vinta dal pilota olandese della Red Bull",
+      "image": null
+    },
     {
       "title": "Hamilton, malessere dopo il gran premio di Singapore. E si scusa con la Ferrari: “Vi ho deluso”",
       "link": "https://www.repubblica.it/sport/formulauno/2026/10/11/news/lewis_hamilton_ferrari_malessere_singapore-425641134/",
@@ -1185,6 +1201,14 @@
       "source": "ANSA",
       "pubDate": "2026-10-11T15:35:24.000Z",
       "excerpt": "",
+      "image": null
+    },
+    {
+      "title": "Femminicidio di Melissa Echevarria, si suicida in carcere l’assassino",
+      "link": "https://palermo.repubblica.it/cronaca/2026/10/11/news/messina_suicida_in_carcere_22enne_accusato_di_femminicidio-425641070/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T15:21:06.000Z",
+      "excerpt": "Il 22 enne tunisino aveva confessato di aver ucciso la quarantenne argentina ad agosto",
       "image": null
     },
     {
@@ -1618,33 +1642,33 @@
       "pubDate": "2026-10-10T19:32:01.000Z",
       "excerpt": "Fascicolo dei pm, nel mirino avvocati e giornalisti. La denuncia dei difensori dei Moretti: “Incosciente la pubblicazione di atti”. Ecco perché i legali potrebbero chiedere pene più lievi in caso di condanna",
       "image": null
-    },
-    {
-      "title": "L'Ue agli Usa: 'Ritirare le sanzioni alla Cpi, pronti a difenderla'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/lue-agli-usa-ritirare-le-sanzioni-alla-cpi-pronti-a-difenderla_26dac987-1d6b-4687-be63-a67170be2055.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T19:18:54.000Z",
-      "excerpt": "Trump minaccia Oslo sul Nobel: 'Non dimentichiamo'. E boccia i candidati per l'Onu",
-      "image": null
-    },
-    {
-      "title": "Trump scarica Zelensky: 'Serve un nuovo presidente a Kiev per un accordo'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/trump-scarica-zelensky-serve-un-nuovo-presidente-a-kiev-per-un-accordo_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T19:17:34.000Z",
-      "excerpt": "Duro attacco dopo lo scontro sul diesel russo. Mosca esulta. L'Ue con Kiev: 'La revoca delle sanzioni aiuta Putin'. La delegazione ucraina lascia Miami in anticipo. Bombardamenti russi su Zaporizhzhia: 20 morti, tra cui ",
-      "image": null
-    },
-    {
-      "title": "Comunali a Milano, la destra va in tilt. Forza Italia attacca la Lega: “Possono correre da soli”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/comunali_milano_centrodestra_scontro_forza_italia_lega_primarie-425639942/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T19:14:34.000Z",
-      "excerpt": "Salvini per il dopo Sala insiste sull’eurodeputata Sardone e rilancia le primarie. Gli azzurri: “Allora facciamole ovunque”. La Russa media",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "La Granfondo del Montefeltro emoziona Gubbio tra ciclismo, bellezza territorio e vip",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/11/la-granfondo-del-montefeltro-emoziona-gubbio-tra-ciclismo-bellezza-territorio-e-vip_30f16d91-cd8e-483f-a6ef-e714936f7bf9.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T17:03:44.000Z",
+      "excerpt": "Nella festa del podio a premiare i vincitori l'olimpionico Masala e l'attrice Mita Medici",
+      "image": null
+    },
+    {
+      "title": "Bolelli-Vavassori, si separa la coppia d'oro del tennis azzurro",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/11/bolelli-vavassori-si-separa-la-coppia-doro-del-tennis-azzurro_2703fb28-4acc-4e2a-819a-28c680157555.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T16:46:03.000Z",
+      "excerpt": "Il doppio verso l'addio a fine stagione: ultimo obiettivo le Finals",
+      "image": null
+    },
+    {
+      "title": "Il Bologna passa 2-1 a Lecce, primi tre punti per i rossoblù",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/il-bologna-passa-2-1-a-lecce-primi-tre-punti-per-i-rossoblu_ffafc366-d863-40fc-90a6-59f9234222e1.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T16:41:13.000Z",
+      "excerpt": "Ospiti in vantaggio al 17' con Orsolini, pareggia Fatah al 64', nuovo vantaggio rossoblu con Enem al 75'",
+      "image": null
+    },
     {
       "title": "Equitazione: a Said il Grand Prix al Global Champions Tour, Grimaldi 13/o",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/11/equitazione-a-said-il-grand-prix-al-global-champions-tour-grimaldi-13o_19ffcbfd-98fc-4bf7-b5c6-0382bf3a0069.html",

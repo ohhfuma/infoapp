@@ -1,14 +1,22 @@
 {
-  "lastUpdated": "2026-10-11T16:42:52.223Z",
+  "lastUpdated": "2026-10-11T17:07:44.020Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Stellantis a Parigi con 60 prodotti e 9 concept car, 'il piano sta diventando realtà'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/stellantis-a-parigi-con-60-prodotti-e-9-concept-car-il-piano-sta-diventando-realta_d0563f36-4a90-439d-a594-f615c0100aef.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-11T17:02:16.000Z",
+        "excerpt": "Filosa e Cappellano, 'fiducia nel futuro, 50 nuovi modelli entro il 2030'.",
+        "image": null
+      },
       {
         "title": "Noduli polmonari: diagnosi, rischi e trattamenti tra benignità e tumore",
         "link": "https://www.ilsole24ore.com/art/noduli-polmonari-diagnosi-rischi-e-trattamenti-benignita-e-tumore-AJgR4mgB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-11T16:20:07.000Z",
+        "pubDate": "2026-10-11T16:20:00.000Z",
         "excerpt": "«La presenza di un nodulo polmonare richiede una valutazione medica attenta, ma non deve essere automaticamente associato a una patologia maligna e non permette, da sola, di formulare una diagnosi...",
-        "image": null
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/Diapositiva4-U17511774175WKP-1440x752@IlSole24Ore-Web.jpg"
       },
       {
         "title": "Limiti Ue alle ibride cinesi dal primo dicembre, import a 350mila l'anno",
@@ -152,14 +160,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-11T07:51:23.000Z",
         "excerpt": "L'a.d. Fincantieri, 'un laboratorio di team building', a Barcolana58",
-        "image": null
-      },
-      {
-        "title": "Il prezzo dei carburanti torna lievemente a salire, +1 millesimo per benzina e diesel",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/il-prezzo-dei-carburanti-torna-lievemente-a-salire-1-millesimo-per-benzina-e-diesel_b90b1139-399c-4e20-b69c-4a792f4259e5.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-11T07:50:49.000Z",
-        "excerpt": "Mimit, 2,036 euro per la verde e 2,253 euro al litro per il gasolio",
         "image": null
       },
       {
@@ -317,11 +317,11 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/2026-10-05T060547Z_718110941_RC2JVT95AWYI_RTRMADP_5_UKRAINE-CRISIS-BUDGET-U53803837511JZQ-1440x752@IlSole24Ore-Web.JPG"
       },
       {
-        "title": "Guerra ultime notizie. Yemen, Houthi: «Evitate aeroporti e spazio aereo sauditi, pronti a nuovi attacchi»",
+        "title": "Guerra ultime notizie. Houthi rivendicano ondata di raid su aeroporto di Riad e impianti energetici sauditi",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-missile-houti-sull-aeroporto-riad-12-morti-e-300-feriti-arabia-saudita-risponderemo-AJksKOgB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-11T06:20:00.000Z",
-        "excerpt": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
+        "excerpt": "I miliziani dello Yemen finora non avevano rivendicato i raid. Von der Leyen: «Attacco Houthi all’aeroporto di Riad una pericolosa escalation». Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudi",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/1cd52c539b57ed59e72db78456c21d03-U83683380256RDC-1440x752@IlSole24Ore-Web.jpg"
       },
       {
@@ -392,6 +392,30 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Francia, primarie della sinistra: valanga di voti per Glucksmann che vince già al primo turno",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/primarie_sinistra_francia_eliseo_glucksmann-425640757/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T16:59:15.000Z",
+        "excerpt": "Giornata decisiva per la sinistra chiamata a scegliere il suo candidato all’Eliseo: l’eurodeputato di Place Publique con il 66% delle preferenze trionfa contro il 14% del rivale socialista Olivier Faure. Sotto il 10% Roy",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/124733218-8235b8a7-2031-4d6e-bf33-0858c34b96cf.jpg"
+      },
+      {
+        "title": "Guerra in Yemen, perché è ripresa ora e come rischia di allargarsi a conflitto regionale",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/guerra_in_yemen_houthi_arabia_saudita_perche_e_ripresa_e_come_rischia_allargarsi-425641208/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T16:55:14.000Z",
+        "excerpt": "Undici anni dopo il primo intervento di Riad, i sauditi sono tornati a bombardare gli Houthi, appoggiati dall’Iran. Chi sono gli attori in gioco e in che modo il coinvolgimento di Bin Salman a fianco delle forze governat",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/184827319-4debe1b0-43bd-4804-9f6a-518eade9e00a.jpg"
+      },
+      {
+        "title": "Brexit, la rivelazione di Burnham: “Sì, la Russia ha interferito nel referendum”",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/burnham_brexit_interferenze_russe-425641190/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T16:46:26.000Z",
+        "excerpt": "Per la prima volta un premier britannico riconosce che ci fu un’interferenza di Mosca nel processo democratico del 2016",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/184159391-757ef6b1-b099-4548-aa14-c10c47874c1e.jpg"
+      },
+      {
         "title": "In Francia Glucksmann conquista le primarie socialdemocratiche già dal primo turno",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/in-francia-glucksmann-conquista-le-primarie-socialdemocratiche-gia-dal-primo-turno_b3594e02-7910-4f51-9456-b05185093593.html",
         "source": "ANSA Mondo",
@@ -406,14 +430,6 @@
         "pubDate": "2026-10-11T16:36:50.000Z",
         "excerpt": "'Diffonde contenuti falsi e di odio'. Accolta la richiesta di Bolsonaro Jr.",
         "image": null
-      },
-      {
-        "title": "Francia, primarie della sinistra: valanga di voti per Glucksmann che vince già al primo turno",
-        "link": "https://www.repubblica.it/esteri/2026/10/11/news/primarie_sinistra_francia_eliseo_glucksmann-425640757/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-11T16:34:26.000Z",
-        "excerpt": "Giornata decisiva per la sinistra chiamata a scegliere il suo candidato all’Eliseo: l’eurodeputato di Place Publique trionfa contro il rivale Olivier Faure con il 66,13% delle preferenze",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/124733218-8235b8a7-2031-4d6e-bf33-0858c34b96cf.jpg"
       },
       {
         "title": "Tusk, arrestato presunto attentatore che voleva colpire me e ministro difesa",
@@ -488,14 +504,6 @@
         "image": null
       },
       {
-        "title": "L’allarme degli 007: “Mosca vuole uccidere i manager delle aziende militari europee”",
-        "link": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-11T12:28:45.000Z",
-        "excerpt": "Secondo indiscrezioni raccolte dal Financial Times presso cinque servizi segreti europei, il Gru, lo spionaggio militare di Mosca, ha avviato piani per assassinare dirigenti dell'industria bellica che forniscono armi all",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/110342137-42f35094-009c-468f-8e62-7d8d05cf7e5e.jpg"
-      },
-      {
         "title": "Quando dobbiamo preoccuparci se non ricordiamo un nome o un titolo",
         "link": "https://www.repubblica.it/esteri/dossier/lena/2026/10/11/news/dimenticare_nomi_titoli_film_riconoscere_declino_cognitivo_continental_breakfast-425640812/?rss",
         "source": "Repubblica Esteri",
@@ -534,14 +542,6 @@
         "pubDate": "2026-10-11T10:15:49.000Z",
         "excerpt": "I droni ucraini hanno centrato l’infrastruttura di Vladimir, nella Russia centrale, causando un crollo nel traffico internet e disservizi online",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/121528940-67d49711-c810-47ae-91c6-47e58cf42cd8.jpg"
-      },
-      {
-        "title": "Riad, la vetrina del sogno di bin Salman toccata dalla guerra",
-        "link": "https://www.repubblica.it/esteri/2026/10/11/news/riad_aeroporto_guerra_mohammed_bin_salman-425640552/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-11T08:50:55.000Z",
-        "excerpt": "L’aeroporto Kig Khaled, dove almeno 12 persone sono morte ieri in seguito a un attacco degli Houthi yemeneti, è la porta di ingresso di una metropoli nel deserto lanciata verso la modernità",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/104957237-afb209a3-a96b-4b09-95cd-629aee6de801.jpg"
       },
       {
         "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
@@ -587,6 +587,30 @@
   },
   "attualita": [
     {
+      "title": "Gli Houthi rivendicano l'ondata di raid contro l'aeroporto di Riad e impianti energetici sauditi",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/esplosione-udita-nel-centro-di-riad.-gli-houthi-attacco-allaeroporto-di-sanaa_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T17:01:01.000Z",
+      "excerpt": "Ieri l'attacco allo scalo: almeno 12 morti e oltre 300 feriti. L'ambasciata Usa alza il livello di allerta In Arabia Saudita. Meloni: ferma condanna degli attacchi",
+      "image": null
+    },
+    {
+      "title": "Brexit, la rivelazione di Burnham: “Sì, la russia ha interferito nel referendum”",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/burnham_brexit_interferenze_russe-425641190/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T16:42:12.000Z",
+      "excerpt": "Per la prima volta un premier britannico riconosce che ci fu un’interferenza di Mosca nel processo democratico del 2016",
+      "image": null
+    },
+    {
+      "title": "Gp Singapore, pagelle: Verstappen perfetto. Antonelli formichina, Leclerc tenace, Hamilton sbaglia",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/10/11/news/pagelle_gp_singapore_antonelli_verstappen_leclerc-425641149/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T16:18:26.000Z",
+      "excerpt": "Promossi e bocciati della gara di Marina Bay vinta dal pilota olandese della Red Bull",
+      "image": null
+    },
+    {
       "title": "Hamilton, malessere dopo il gran premio di Singapore. E si scusa con la Ferrari: “Vi ho deluso”",
       "link": "https://www.repubblica.it/sport/formulauno/2026/10/11/news/lewis_hamilton_ferrari_malessere_singapore-425641134/",
       "source": "Repubblica",
@@ -611,19 +635,19 @@
       "image": null
     },
     {
+      "title": "Femminicidio di Melissa Echevarria, si suicida in carcere l’assassino",
+      "link": "https://palermo.repubblica.it/cronaca/2026/10/11/news/messina_suicida_in_carcere_22enne_accusato_di_femminicidio-425641070/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T15:21:06.000Z",
+      "excerpt": "Il 22 enne tunisino aveva confessato di aver ucciso la quarantenne argentina ad agosto",
+      "image": null
+    },
+    {
       "title": "Bologna, finalmente una vittoria: a Lecce capolavoro di Orsolini, Enem mette il sigillo finale",
       "link": "https://bologna.repubblica.it/sport/2026/10/11/news/lecce_bologna_risultato-425641054/",
       "source": "Repubblica",
       "pubDate": "2026-10-11T15:10:36.000Z",
       "excerpt": "Il 2-1 dei rossoblù in trasferta. Palladino fa debuttare Darmian. Grave errore di Pessina che consente il pareggio momentaneo dei salentini, poi si fa perdonare",
-      "image": null
-    },
-    {
-      "title": "Nuovo attacco colpisce l'aeroporto di Riad, incendio in un terminal ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/esplosione-udita-nel-centro-di-riad.-gli-houthi-attacco-allaeroporto-di-sanaa_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-11T14:56:25.000Z",
-      "excerpt": "Ieri l'attacco allo scalo: almeno 12 morti e oltre 300 feriti. L'ambasciata Usa alza il livello di allerta In Arabia Saudita. Meloni: ferma condanna degli attacchi",
       "image": null
     },
     {
@@ -643,35 +667,11 @@
       "image": null
     },
     {
-      "title": "Antonelli, il Mondiale è vicinissimo: quando può vincere il titolo di F1",
-      "link": "https://www.repubblica.it/sport/formulauno/2026/10/11/news/kimi_antonelli_mondiale_quando_puo_vincere_titolo-425641015/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T14:24:38.000Z",
-      "excerpt": "Con il terzo posto a Singapore, a sei gare dalla fine il pilota italiano già a Austin ha il primo match point della stagione",
-      "image": null
-    },
-    {
       "title": "Come si scoprono i noduli polmonari, quando è necessario operare e come si svolge l’intervento",
       "link": "https://www.repubblica.it/cronaca/2026/10/11/news/papa_nodulo_polmonare_protocolli_intervento-425640958/",
       "source": "Repubblica",
       "pubDate": "2026-10-11T13:46:00.000Z",
       "excerpt": "Claudio Micheletto, direttore del reparto di pneumologia di Verona, spiega quali sono i protocolli di cura e quanto dura la degenza dopo l’annuncio del Papa",
-      "image": null
-    },
-    {
-      "title": "Leone XIV, i messaggi dopo l’annuncio dell’intervento. Mattarella: “Il popolo italiano le è vicino”",
-      "link": "https://www.repubblica.it/cronaca/2026/10/11/news/leone_xiv_i_messaggi_dopo_l_annuncio_dell_intervento_mattarella_il_popolo_italiano_le_e_vicino-425640899/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T13:01:13.000Z",
-      "excerpt": "La vicinanza delle istituzioni e la preghiera della Chiesa dopo le parole del Papa all’Angelus. Meloni sottolinea la serenità del Pontefice, Zuppi gli assicura il sostegno delle comunità",
-      "image": null
-    },
-    {
-      "title": "Malen espulso, la Roma resiste al Como: 0-0, è il primo del campionato",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/como_roma_primo_0_a_0_campionato-425640897/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T12:59:38.000Z",
-      "excerpt": "Dopo un inizio frizzante, con buone occasioni da una parte e dall’altra, le due squadre frenano. L’olandese si fa cacciare nella ripresa, ma i padroni di casa non trovano lo spunto",
       "image": null
     },
     {
@@ -717,6 +717,30 @@
   ],
   "sport": [
     {
+      "title": "La Granfondo del Montefeltro emoziona Gubbio tra ciclismo, bellezza territorio e vip",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/11/la-granfondo-del-montefeltro-emoziona-gubbio-tra-ciclismo-bellezza-territorio-e-vip_30f16d91-cd8e-483f-a6ef-e714936f7bf9.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T17:03:44.000Z",
+      "excerpt": "Nella festa del podio a premiare i vincitori l'olimpionico Masala e l'attrice Mita Medici",
+      "image": null
+    },
+    {
+      "title": "Bolelli-Vavassori, si separa la coppia d'oro del tennis azzurro",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/11/bolelli-vavassori-si-separa-la-coppia-doro-del-tennis-azzurro_2703fb28-4acc-4e2a-819a-28c680157555.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T16:46:03.000Z",
+      "excerpt": "Il doppio verso l'addio a fine stagione: ultimo obiettivo le Finals",
+      "image": null
+    },
+    {
+      "title": "Il Bologna passa 2-1 a Lecce, primi tre punti per i rossoblù",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/il-bologna-passa-2-1-a-lecce-primi-tre-punti-per-i-rossoblu_ffafc366-d863-40fc-90a6-59f9234222e1.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T16:41:13.000Z",
+      "excerpt": "Ospiti in vantaggio al 17' con Orsolini, pareggia Fatah al 64', nuovo vantaggio rossoblu con Enem al 75'",
+      "image": null
+    },
+    {
       "title": "Equitazione: a Said il Grand Prix al Global Champions Tour, Grimaldi 13/o",
       "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/11/equitazione-a-said-il-grand-prix-al-global-champions-tour-grimaldi-13o_19ffcbfd-98fc-4bf7-b5c6-0382bf3a0069.html",
       "source": "ANSA Sport",
@@ -730,14 +754,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T16:36:01.000Z",
       "excerpt": "Il tecnico della Lazio: \"Con il Monza è andata bene, non dobbiamo avere paura\"",
-      "image": null
-    },
-    {
-      "title": "Bolelli-Vavassori, si separa la coppia d'oro del tennis",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/11/bolelli-vavassori-si-separa-la-coppia-doro-del-tennis_2703fb28-4acc-4e2a-819a-28c680157555.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T16:34:56.000Z",
-      "excerpt": "Il doppio azzurro verso l'addio a fine stagione: ultimo obiettivo le Finals",
       "image": null
     },
     {
@@ -762,22 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T15:54:33.000Z",
       "excerpt": "Tecnico lombardi: \"Trovato grande portiere, peccato per le tante palle gol sprecate\"",
-      "image": null
-    },
-    {
-      "title": "Montella 'c'è una fine a ogni bella storia, Turchia sempre nel mio cuore'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/montella-ce-una-fine-a-ogni-bella-storia-turchia-sempre-nel-mio_4608f04d-6f89-4559-a0d8-2547b0766fe1.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T15:43:51.000Z",
-      "excerpt": "L'ex ct saluta squadra e Paese: 'Alcuni viaggi lasciano il segno oltre il calcio'",
-      "image": null
-    },
-    {
-      "title": "Serie A: La Lazio cala il tris al Monza, Gattuso resta in vetta ",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-la-lazio-cala-il-tris-al-monza-gattuso-resta-in-vetta_ab7d0c1b-f7f6-4096-ac21-1b7d9a3aedfc.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T15:17:44.000Z",
-      "excerpt": "All'Olimpico la vittoria per 3-1 sui lombardi è la quinta in sei gare, record",
       "image": null
     }
   ]
