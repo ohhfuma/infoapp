@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-10-11T12:47:37.958Z",
+  "lastUpdated": "2026-10-11T13:09:54.696Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Mps convoca cda straordinario lunedì, in vista dell’assemblea",
+        "link": "https://www.repubblica.it/economia/2026/10/11/news/mps_convoca_cda_straordinario_lunedi_in_vista_dell_assemblea-425640906/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-11T13:04:08.000Z",
+        "excerpt": "Per inizio settimana anche i Proxy advisor avranno suggerito ai fondi esteri cosa fare in vista dell’assise del 29 ottobre, sul dividendo da 4 miliardi e le due offerte per Bpm e Bnaca Generali",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/150357574-1a5e0f12-0180-480e-afc8-80782c4c3289.jpg"
+      },
+      {
+        "title": "Più robot sui campi contro il calo addetti: così l'automazione cambia l’agricoltura",
+        "link": "https://www.repubblica.it/economia/2026/10/11/news/piu_robot_sui_campi_contro_il_calo_addetti_cosi_l_automazione_cambia_l_agricoltura-425636670/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-11T13:00:00.000Z",
+        "excerpt": "La scarsità di personale spinge alla diffusione delle soluzioni tecnologiche. Le grandi società in caccia di tecnologie dalle startup",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/122252952-3006018a-4d46-4c1f-a5af-0d8aca675ad8.jpg"
+      },
+      {
+        "title": "La settimana finanziaria, riflettori sulla manovra e l’inflazione Usa",
+        "link": "https://www.repubblica.it/economia/2026/10/11/news/la_settimana_finanziaria_riflettori_sulla_manovra_e_l_inflazione_usa-425640870/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-11T12:47:38.000Z",
+        "excerpt": "Giorni decisivi per i conti italiani. Intanto a Bangkok si apre il Meeting Annuale 2026 del Fondo Monetario Internazionale e della Banca Mondiale",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/144728127-5e5f02fe-43c1-464d-9e8c-fe89b9d108fb.jpg"
+      },
       {
         "title": "Perché i \"titoli internet\" calano nonostante i guadagni del Nasdaq",
         "link": "https://it.investing.com/news/stock-market-news/perche-i-titoli-internet-calano-nonostante-i-guadagni-del-nasdaq-3582919",
@@ -145,30 +169,6 @@
         "pubDate": "2026-10-11T02:23:04.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg"
-      },
-      {
-        "title": "Manovra, caccia a 10 miliardi. Il governo guarda alle pensioni",
-        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/10/news/manovra_coperture_caccia_a_10_miliardi_taglio_pensioni-425640057/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T23:00:00.000Z",
-        "excerpt": "Il tempo stringe per le coperture, martedì va presentata la cornice della legge di bilancio. Sul tavolo c’è anche l’ipotesi di una stretta sulla rivalutazione degli assegni medio-alti",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/223350850-41eff940-da27-43af-bbef-709c72858eed.jpg"
-      },
-      {
-        "title": "La battaglia dei fondi di previdenza. Federmeccanica alle aziende: “Non pagate il contributo”",
-        "link": "https://www.repubblica.it/economia/2026/10/11/news/fondi_previdenza_complementare_federmeccanica_contro_governo-425640112/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T23:00:00.000Z",
-        "excerpt": "A fine mese in vigore la norma che consente ai lavoratori di portarsi dietro la quota del datore in caso di passaggio a banche o assicurazioni",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/225655406-525787cf-0092-404c-9840-999fec214510.jpg"
-      },
-      {
-        "title": "A rate anche la spesa: “Single e giovani coppie non ce la fanno più”",
-        "link": "https://www.repubblica.it/economia/2026/10/11/news/spesa_rate_pewex-425640054/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T23:00:00.000Z",
-        "excerpt": "La catena Pewex permette di pagare a uno o tre mesi senza interessi con un’app direttamente in cassa. “Per ora la usano le famiglie più smart”. Gli anziani sono più prudenti",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/223052750-9ceb363d-d740-41df-ac58-3a8bbc5ffa64.jpg"
       },
       {
         "title": "Infosys: nessun impatto significativo dalla sospensione PERM negli USA",
@@ -717,6 +717,22 @@
   ],
   "sport": [
     {
+      "title": "Serie A: in campo Lazio-Monza 1-0 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-alle-15-in-campo-lazio-monza-0-0-diretta_ab7d0c1b-f7f6-4096-ac21-1b7d9a3aedfc.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T13:06:25.000Z",
+      "excerpt": "Nuno Tavares la sblocca a2' con un tiro sotto la traversa dal limite dell'area",
+      "image": null
+    },
+    {
+      "title": "Serie A: Como-Roma 0-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-como-roma-0-0_7acf84ca-df1b-4d88-88fc-77b302036f0f.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T12:46:23.000Z",
+      "excerpt": "I giallorossi dominano a tratti ma non sfondano, nella ripresa rosso diretto a Malen",
+      "image": null
+    },
+    {
       "title": "Como e Roma danno spettacolo, ma al Sinigaglia finisce 0-0",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/como-e-roma-danno-spettacolo-ma-al-sinigaglia-finisce-0-0_ac4dedd6-870f-4a92-8146-d075a9ffc7ec.html",
       "source": "ANSA Sport",
@@ -762,22 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T09:29:41.000Z",
       "excerpt": "La gara si terrà sulla pista Maierl del comprensorio sciistico Latemar Dolomites",
-      "image": null
-    },
-    {
-      "title": "Tennis: Shelton fuori a Shanghai, de Minaur agli ottavi",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/11/tennis-shelton-fuori-a-shanghai-de-minaur-agli-ottavi_962dcc67-8816-452b-93e0-120adf2fa659.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T09:22:32.000Z",
-      "excerpt": "Lo statunitense è in corsa per un posto le Atp Finals di Torino",
-      "image": null
-    },
-    {
-      "title": "Bezzecchi vince il Gp d'Indonesia",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/11/bezzecchi-vince-il-gp-dindonesia_e47e047a-bf0c-4fa7-b2a8-f131a2fb764e.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T07:57:29.000Z",
-      "excerpt": "L'italiano precede Fernandez e Martin. Tripletta Aprilia",
       "image": null
     }
   ]
