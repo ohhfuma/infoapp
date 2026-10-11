@@ -673,6 +673,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Esplosione udita nel centro di Riad",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/esplosione-udita-nel-centro-di-riad_7712707c-31ee-4ca7-8916-c3159bd47563.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T14:07:11.000Z",
+        "excerpt": "La causa al momento non è stata ancora chiarita.",
+        "image": null
+      },
+      {
         "title": "Zelensky a Trump, 'spetta agli ucraini scegliere il proprio leader'",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/zelensky-a-trump-spetta-agli-ucraini-scegliere-il-proprio-leader_93d4e9c5-29a8-45f2-a27c-24e0a6d02cae.html",
         "source": "ANSA Mondo",
@@ -1143,18 +1151,18 @@
         "pubDate": "2026-10-10T10:13:52.000Z",
         "excerpt": "Buckingam Palace parla di “un prestito”. A febbraio scorso era stato proprio il sovrano a cacciare “la pecora nera” della royal family dalla lussuosa magione nel parco di Windsor, dove aveva vissuto gratuitamente per ann",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/121339884-ac1a031d-68a9-43a9-a259-a147f63b3890.jpg"
-      },
-      {
-        "title": "Regno Unito, danni milionari al Royal Lodge dell’ex principe Andrea: a pagare ora è il fratello Carlo",
-        "link": "https://www.repubblica.it/esteri/2026/10/10/news/regno_unito_danni_milionari_al_royal_lodge_dell_ex_principe_andrea_a_pagare_ora_e_il_fratello_carlo-425638763/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-10T09:17:12.000Z",
-        "excerpt": "Buckingam Palace parla di “un prestito”. A febbraio scorso era stato proprio il sovrano a cacciare “la pecora nera” della royal family dalla lussuosa magione nel parco di Windsor, dove aveva vissuto gratuitamente per ann",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/111700404-dd0b05b6-404a-4f81-abd8-27996880a1dc.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Trump: 'E' in vigore una tregua energetica nella guerra fra Russia e Ucraina'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/trump-e-in-vigore-una-tregua-energetica-nella-guerra-fra-russia-e-ucraina_2822374d-dfd0-4b0b-9768-eb9f9b6f6578.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T14:39:38.000Z",
+      "excerpt": "Il presidente Usa: 'L'Ucraina dovrebbe tenere elezioni'. Zelensky: 'Spetta agli ucraini scegliere il proprio leader'. Solidarietà di Berlino e Varsavia al leader ucraino",
+      "image": null
+    },
     {
       "title": "Zelensky replica a Trump: 'Spetta agli ucraini scegliere il proprio leader' ",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/zelensky-replica-a-trump-spetta-agli-ucraini-scegliere-il-proprio-leader_2822374d-dfd0-4b0b-9768-eb9f9b6f6578.html",
@@ -1172,11 +1180,51 @@
       "image": null
     },
     {
+      "title": "Papa: come si scoprono i noduli polmonari, quando è necessario operare e come si svolge l’intervento",
+      "link": "https://www.repubblica.it/cronaca/2026/10/11/news/papa_nodulo_polmonare_protocolli_intervento-425640958/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T13:46:00.000Z",
+      "excerpt": "Claudio Micheletto, direttore del reparto di pneumologia di Verona, spiega quali sono i protocolli di cura e quanto dura la degenza",
+      "image": null
+    },
+    {
+      "title": "Messner e il cuore imperfetto: un’imperfezione congenita scoperta dopo quattordici Ottomila",
+      "link": "https://www.repubblica.it/cronaca/2026/10/11/news/messner_malattia_difetto_congenito_cuore-425640948/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T13:33:57.000Z",
+      "excerpt": "L’alpinista altoatesino racconta a Der Spiegel un’insufficienza valvolare presente dalla nascita e mai sospettata. Venerdì i quarant’anni dal Lhotse, l’ultima vetta della sua collezione",
+      "image": null
+    },
+    {
       "title": "Trump: 'Kiev dovrebbe tenere elezioni'. Il Cremlino: 'Zelensky isterico'. Solidarietà di Merz e Tusk al leader ucraino",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/trump-lucraina-dovrebbe-tenere-elezioni.-il-cremlino-zelensky-isterico.-solidarieta-di-merz_2822374d-dfd0-4b0b-9768-eb9f9b6f6578.html",
       "source": "ANSA",
       "pubDate": "2026-10-11T13:29:06.000Z",
       "excerpt": "Zelensky: 'Fermeremo i raid su raffinerie se Mosca smetterà di colpire siti energetici'",
+      "image": null
+    },
+    {
+      "title": "Elezioni, Tajani tira dritto: “Non vogliamo dividere, ma vogliamo governare Milano”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/11/news/comunali_milano_tajani_forza_italia_candidato_perego-425640913/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T13:07:27.000Z",
+      "excerpt": "Il vicepremier e segretario degli azzurri ai dissidenti interni: “Io do la linea, per chi non si riconosce ci sono congressi”. La Lega: “Scegliamo il candidato con le primarie”",
+      "image": null
+    },
+    {
+      "title": "Leone XIV, i messaggi dopo l’annuncio dell’intervento. Mattarella: “Il popolo italiano le è vicino”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/11/news/leone_xiv_i_messaggi_dopo_l_annuncio_dell_intervento_mattarella_il_popolo_italiano_le_e_vicino-425640899/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T13:01:13.000Z",
+      "excerpt": "La vicinanza delle istituzioni e la preghiera della Chiesa dopo le parole del Papa all’Angelus. Meloni sottolinea la serenità del Pontefice, Zuppi gli assicura il sostegno delle comunità",
+      "image": null
+    },
+    {
+      "title": "Malen espulso, la Roma resiste al Como: 0-0, è il primo del campionato",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/como_roma_primo_0_a_0_campionato-425640897/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T12:59:38.000Z",
+      "excerpt": "Dopo un inizio frizzante, con buone occasioni da una parte e dall’altra, le due squadre frenano. L’olandese si fa cacciare nella ripresa, ma i padroni di casa non trovano lo spunto",
       "image": null
     },
     {
@@ -1586,57 +1634,17 @@
       "pubDate": "2026-10-10T16:15:15.000Z",
       "excerpt": "La scritta è apparsa nel mezzo del corteo che ha pacificamente attraversato il centro di Roma fino alla Sapienza",
       "image": null
-    },
-    {
-      "title": "Stati Uniti, Christa Pike è stata dimessa dall'ospedale",
-      "link": "https://www.repubblica.it/esteri/2026/10/10/news/christa_pike_uscita_ospedale_iniezione_letale_tennessee-425639484/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T15:41:02.000Z",
-      "excerpt": "La 50enne, sopravvissuta al tentativo di esecuzione in Tennessee, è tornata nel carcere femminile dove era stata detenuta per 30 anni",
-      "image": null
-    },
-    {
-      "title": "Presidio Stop Data Center a Milano, centinaia in piazza Scala: “No alla colonizzazione digitale”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/presidio_stop_data_center_milano_centinaia_piazza_scala-425639470/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T15:33:21.000Z",
-      "excerpt": "Le critiche alla legge regionale lombarda approvata a giugno: “Parliamo di industrie pesanti, impattanti ed energivore che non possono essere collocate in mezzo ai centri abitati”",
-      "image": null
-    },
-    {
-      "title": "John Malkovich: 'Ho riscritto l'80% dei film che ho fatto'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/10/john-malkovich-ho-riscritto-l80-dei-film-che-ho-fatto_4c39ddd3-e736-4084-ac31-0e395b43e1d7.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T09:30:24.000Z",
-      "excerpt": "Coppa Volpi a Venezia, potrebbe vincere il suo primo Oscar con Wild horse nine",
-      "image": null
-    },
-    {
-      "title": "SpaceX prepara il debutto come operatore tlc con Starlink Mobile",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/10/09/spacex-prepara-il-debutto-come-operatore-di-telecomunicazioni-con-starlink-mobile_fdff7706-c644-404e-bf6b-abc02d846a76.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T09:16:42.000Z",
-      "excerpt": "L'acquisto di nuove frequenze permetterà di fornire una migliore connessione dallo Spazio",
-      "image": null
-    },
-    {
-      "title": "Quando la Nobel per la pace Pillay disse: \"C'è un genocidio a Gaza\"",
-      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/10/09/quando-la-nobel-per-la-pace-pillay-disse-ce-un-genocidio-a-gaza_c1ee1e37-f1c4-4cd0-80cf-9da1fda61c23.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T18:32:13.000Z",
-      "excerpt": "L’ex alta commissaria Onu nel 2025 ad Afp: “Prove pubblicate dai soldati israeliani”",
-      "image": null
-    },
-    {
-      "title": "Da Palazzo Piacentini alla Villa La Tesoriera, tornano le giornate Fai d'Autunno",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/30/da-palazzo-dugnani-alla-villa-la-tesoriera-tornano-le-giornate-fai-dautunno_6d4da01c-5961-427f-a9e2-a15c44bbfef2.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T17:37:19.000Z",
-      "excerpt": "Oltre 700 luoghi aperti in 350 città il 10 e 11 ottobre per la 15/a edizione",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Azzurre a caccia dei mondiali \"il 'Franchi' l'arma in più'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/azzurre-a-caccia-dei-mondiali-il-franchi-larma-in-piu_f36756b8-2324-4eae-be4a-a884bc8478d1.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T14:08:55.000Z",
+      "excerpt": "Martedì la sfida bis con la Bielorussia: Giugliano 'lavoriamo per l'obiettivo iridato'",
+      "image": null
+    },
     {
       "title": "F1: Verstappen vince a Singapore davanti a Leclerc, Kimi terzo",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/10/11/f1-verstappen-vince-a-singapore-davanti-a-leclerc-kimi-terzo_edacdce0-88fa-4309-ba9e-4c1b533c7334.html",
