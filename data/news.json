@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-11T02:07:56.123Z",
+  "lastUpdated": "2026-10-11T02:43:09.770Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Gli investitori stranieri fuggono dalle azioni sudcoreane con il boom dell’IA in calo",
+        "link": "https://it.investing.com/news/stock-market-news/gli-investitori-stranieri-fuggono-dalle-azioni-sudcoreane-con-il-boom-dellia-in-calo-3582864",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-11T02:23:04.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg"
+      },
       {
         "title": "Manovra, caccia a 10 miliardi. Il governo guarda alle pensioni",
         "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/10/news/manovra_coperture_caccia_a_10_miliardi_taglio_pensioni-425640057/?rss",
@@ -64,7 +72,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T20:14:06.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEDB10AU_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEDB10AU_M.jpg"
       },
       {
         "title": "Cala il prezzo del diesel, sfuma l'ipotesi di accise mobili",
@@ -176,7 +184,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T12:18:32.000Z",
         "excerpt": "",
-        "image": null
+        "image": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg"
       },
       {
         "title": "Le imprese del Centro Italia: Regioni fondamentali per la nuova programmazione dei fondi Ue",
@@ -216,7 +224,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T11:01:18.000Z",
         "excerpt": "",
-        "image": null
+        "image": "https://content-media.investing.com/news/LYNXMPEM4D1J3_1200_L.jpg"
       },
       {
         "title": "Mazzi, 'a settembre l'Italia prima in Europa per saturazione'",
@@ -249,14 +257,6 @@
         "pubDate": "2026-10-10T08:30:13.000Z",
         "excerpt": "'Il comparto è allo stremo per caro gasolio e oneri sistema Ets'",
         "image": null
-      },
-      {
-        "title": "5 grandi mosse degli analisti sull’AI: Google confermata top pick dopo il lancio dell’agente Gemini",
-        "link": "https://it.investing.com/news/stock-market-news/5-grandi-mosse-degli-analisti-sullai-google-confermata-top-pick-dopo-il-lancio-dellagente-gemini-3582762",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-10T08:26:30.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
       }
     ],
     "europa": [
@@ -587,6 +587,14 @@
   },
   "attualita": [
     {
+      "title": "Missile Houthi sull'aeroporto di Riad, almeno 12 morti e oltre 300 feriti",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/missile-houthi-sullaeroporto-di-riad-almeno-12-morti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T02:15:17.000Z",
+      "excerpt": "Evacuazioni per il nuovo raid che ha provocato oltre 300 feriti. Paesi sconsigliano voli",
+      "image": null
+    },
+    {
       "title": "I bambini ucraini rapiti e le urla dal silenzio soffocate dall’indifferenza",
       "link": "https://www.repubblica.it/esteri/2026/10/11/news/i_bambini_ucraini_rapiti-425640173/",
       "source": "Repubblica",
@@ -648,14 +656,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-10T23:00:00.000Z",
       "excerpt": "Il senatore: “Costruiamo una critica al neoliberismo: sono necessarie proposte radicali. In questi anni non abbiamo messo veti contro nessuno”",
-      "image": null
-    },
-    {
-      "title": "Missile Houthi sull'aeroporto di Riad, almeno 12 morti e oltre 300 feriti",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/missile-houthi-sullaeroporto-di-riad-almeno-12-morti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T22:18:20.000Z",
-      "excerpt": "Evacuazioni per il nuovo raid che ha provocato anche 50 feriti. Paesi sconsigliano voli",
       "image": null
     },
     {
