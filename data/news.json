@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T00:12:13.297Z",
+  "lastUpdated": "2026-10-11T00:50:49.327Z",
   "finanza": {
     "italia": [
       {
@@ -120,7 +120,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T14:41:00.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM7H0WP_L.jpg"
       },
       {
         "title": "Philips vince in tribunale contro gli azionisti sul ritiro dei dispositivi",
@@ -216,7 +216,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T11:01:18.000Z",
         "excerpt": "",
-        "image": null
+        "image": "https://content-media.investing.com/news/LYNXMPEM4D1J3_1200_L.jpg"
       },
       {
         "title": "Mazzi, 'a settembre l'Italia prima in Europa per saturazione'",
@@ -256,7 +256,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T08:26:30.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM7C1HU_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
       }
     ],
     "europa": [
@@ -587,14 +587,6 @@
   },
   "attualita": [
     {
-      "title": "Guerra in Iran, le news di oggi. Almeno 12 morti e più di 300 feriti nell’attacco all’aeroporto di Riad",
-      "link": "https://www.repubblica.it/esteri/2026/10/11/diretta/guerra_iran_usa_israele_news_oggi-425640149/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T22:19:29.000Z",
-      "excerpt": "L'autorità saudita per l'aviazione civile: tra le vittime quattro sauditi e otto stranieri, tra cui un cittadino statunitense",
-      "image": null
-    },
-    {
       "title": "Missile Houthi sull'aeroporto di Riad, almeno 12 morti e oltre 300 feriti",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/missile-houthi-sullaeroporto-di-riad-almeno-12-morti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
       "source": "ANSA",
@@ -680,6 +672,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-10T15:41:02.000Z",
       "excerpt": "La 50enne, sopravvissuta al tentativo di esecuzione in Tennessee, è tornata nel carcere femminile dove era stata detenuta per 30 anni",
+      "image": null
+    },
+    {
+      "title": "Presidio Stop Data Center a Milano, centinaia in piazza Scala: “No alla colonizzazione digitale”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/presidio_stop_data_center_milano_centinaia_piazza_scala-425639470/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T15:33:21.000Z",
+      "excerpt": "Le critiche alla legge regionale lombarda approvata a giugno: “Parliamo di industrie pesanti, impattanti ed energivore che non possono essere collocate in mezzo ai centri abitati”",
       "image": null
     },
     {
