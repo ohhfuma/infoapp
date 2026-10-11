@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T00:50:49.327Z",
+  "lastUpdated": "2026-10-11T01:10:27.395Z",
   "finanza": {
     "italia": [
       {
@@ -120,7 +120,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T14:41:00.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM7H0WP_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
       },
       {
         "title": "Philips vince in tribunale contro gli azionisti sul ritiro dei dispositivi",
@@ -128,7 +128,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T14:05:05.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEE9L0RH_M.jpg"
+        "image": null
       },
       {
         "title": "Cateno De Luca e la sfida elettorale del 2027: il ruolo chiave in Sicilia e l’alleanza con Fratelli d’Italia",
@@ -160,7 +160,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T12:47:48.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "image": null
       },
       {
         "title": "Lombardi,da Cse investimenti su innovazione e digitale banche,siamo partner affidabile",
@@ -176,7 +176,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T12:18:32.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg"
+        "image": null
       },
       {
         "title": "Le imprese del Centro Italia: Regioni fondamentali per la nuova programmazione dei fondi Ue",
@@ -587,11 +587,51 @@
   },
   "attualita": [
     {
+      "title": "I bambini ucraini rapiti e le urla dal silenzio soffocate dall’indifferenza",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/i_bambini_ucraini_rapiti-425640173/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T23:28:29.000Z",
+      "excerpt": "Dal febbraio 2022 almeno ventimila minori sono stati deportati in Russia eppure la tragedia sembra interessare solo il Vaticano",
+      "image": null
+    },
+    {
+      "title": "La trattativa con Putin per ottenere la tregua sulla pelle degli alleati",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/trump_diesel_putin_esportazione_tregua_sanzioni-425639878/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T23:00:00.000Z",
+      "excerpt": "Il deal economico tra la Casa Bianca e il Cremlino offre al russo una via di uscita. Ma in gioco ci sono le democrazie europee",
+      "image": null
+    },
+    {
+      "title": "Dal diesel agli assegni: così Trump vuole comprare il voto degli americani",
+      "link": "https://www.repubblica.it/economia/2026/10/11/news/trump_diesel_elezioni_midterm-425639908/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T23:00:00.000Z",
+      "excerpt": "Il presidente è in calo di consensi a meno di un mese dalle elezioni di midterm. E per rimontare rispolvera anche i rimborsi sanitari",
+      "image": null
+    },
+    {
+      "title": "Fesenko: “L’accordo sul diesel è una pugnalata alle spalle”",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/volodymyr_fesenko_intervista_accordo_diesel_trump_putin-425640086/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T23:00:00.000Z",
+      "excerpt": "Intervista al politologo ucraino, presidente del centro studi Penta. “Il problema principale è la superiorità del nemico nei cieli. Ma ormai anche loro ammettono che la guerra è arrivata a un punto morto”",
+      "image": null
+    },
+    {
       "title": "Missile Houthi sull'aeroporto di Riad, almeno 12 morti e oltre 300 feriti",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/missile-houthi-sullaeroporto-di-riad-almeno-12-morti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
       "source": "ANSA",
       "pubDate": "2026-10-10T22:18:20.000Z",
       "excerpt": "Evacuazioni per il nuovo raid che ha provocato anche 50 feriti. Paesi sconsigliano voli",
+      "image": null
+    },
+    {
+      "title": "Guerra Ucraina - Russia, le news di oggi. Trump: “L'Ucraina dovrebbe andare al voto, Putin mi ha detto che vuole un accordo”",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/diretta/guerra_ucraina_russia_news_oggi-425640146/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-10T22:05:50.000Z",
+      "excerpt": "Il presidente Usa attacca di nuovo Zelensky: “All’Ucraina serve un nuovo leader”",
       "image": null
     },
     {
@@ -640,46 +680,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-10T17:56:51.000Z",
       "excerpt": "Fino a domenica 100 editori e 150 appuntamenti",
-      "image": null
-    },
-    {
-      "title": "La Ue: “Gli Usa ritirino subito le sanzioni contro la Cpi”. Pillay: “Sono misure inaudite”",
-      "link": "https://www.repubblica.it/esteri/2026/10/10/news/ue_usa_sanzioni_cpi_navi_pillay_nobel_pace-425639647/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T17:28:05.000Z",
-      "excerpt": "L’indomani della consegna del Premio Nobel per la pace alla giurista pro Gaza Kallas promette: “Pronti a ogni intervento necessario a difesa della Corte”",
-      "image": null
-    },
-    {
-      "title": "Rai, la squadra di Report: “Mai sfiduciato Ranucci né chiesta la sua rimozione”",
-      "link": "https://www.repubblica.it/politica/2026/10/10/news/rai_report_redazione_mai_sfiduciato_ranucci-425639555/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T16:30:56.000Z",
-      "excerpt": "Lo redazione ricostruisce quanto accaduto all'indomani della decisione del giudice del lavoro che ha respinto l'istanza dell’ex conduttore per il reintegro alla guida del programma",
-      "image": null
-    },
-    {
-      "title": "Corteo pro Pal, a Roma spunta lo striscione sul 7 ottobre: “Giornata della Resistenza”",
-      "link": "https://roma.repubblica.it/cronaca/2026/10/10/news/corteo_pro_palestina_gaza_roma_striscione_7_ottobre_giornata_resistenza-425639531/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T16:15:15.000Z",
-      "excerpt": "La scritta è apparsa nel mezzo del corteo che ha pacificamente attraversato il centro di Roma fino alla Sapienza",
-      "image": null
-    },
-    {
-      "title": "Stati Uniti, Christa Pike è stata dimessa dall'ospedale",
-      "link": "https://www.repubblica.it/esteri/2026/10/10/news/christa_pike_uscita_ospedale_iniezione_letale_tennessee-425639484/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T15:41:02.000Z",
-      "excerpt": "La 50enne, sopravvissuta al tentativo di esecuzione in Tennessee, è tornata nel carcere femminile dove era stata detenuta per 30 anni",
-      "image": null
-    },
-    {
-      "title": "Presidio Stop Data Center a Milano, centinaia in piazza Scala: “No alla colonizzazione digitale”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/presidio_stop_data_center_milano_centinaia_piazza_scala-425639470/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T15:33:21.000Z",
-      "excerpt": "Le critiche alla legge regionale lombarda approvata a giugno: “Parliamo di industrie pesanti, impattanti ed energivore che non possono essere collocate in mezzo ai centri abitati”",
       "image": null
     },
     {
