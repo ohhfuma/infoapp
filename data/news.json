@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-11T07:09:46.959Z",
+  "lastUpdated": "2026-10-11T07:41:50.211Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Casini: lascio il Parlamento dopo 44 anni, non mi ricandido",
+        "link": "https://www.ilsole24ore.com/art/casini-lascio-parlamento-44-anni-non-mi-ricandido-AJWSiQgB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-11T07:38:31.000Z",
+        "excerpt": "«È giusto che il mio cammino si fermi qui». Pier Ferdinando Casini conferma la decisione di non ricandidarsi alle prossime elezioni politiche in una lettera su Quotidiano Nazionale...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/Imagoeconomica_2797704-U15278476863FIK-1440x752@IlSole24Ore-Web.jpg"
+      },
       {
         "title": "8 mercati emergenti da considerare nel 2027 secondo HSBC",
         "link": "https://it.investing.com/news/stock-market-news/8-mercati-emergenti-da-considerare-nel-2027-secondo-hsbc-3582881",
@@ -9,6 +17,14 @@
         "pubDate": "2026-10-11T06:09:53.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEB58057_M.jpg"
+      },
+      {
+        "title": "La riforma che divide: gli artigiani contro tutti",
+        "link": "https://www.repubblica.it/economia/2026/10/11/news/la_riforma_che_divide_gli_artigiani_contro_tutti-425637110/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-11T06:00:00.000Z",
+        "excerpt": "Confindustria, Confcom e sindacati allarmati dalla salita dei limiti dimensionali. La difesa: “La differenza la fa il titolare”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/09/152227497-8421401a-527a-4a97-b408-b3822907452a.jpg"
       },
       {
         "title": "Trasporto pubblico, cambiano i bonus. Dal 2027 voucher per le famiglie fino a 20 mila euro di Isee",
@@ -73,14 +89,6 @@
         "pubDate": "2026-10-10T23:00:00.000Z",
         "excerpt": "",
         "image": null
-      },
-      {
-        "title": "Tagli al bilancio europeo ma a Berlino non basta: “Sono ancora insufficienti”",
-        "link": "https://www.repubblica.it/economia/2026/10/11/news/tagli_bilancio_europeo_pac-425640002/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T23:00:00.000Z",
-        "excerpt": "La proposta del Consiglio prevede 141 miliardi in meno. Previste nuove tasse su grandi imprese, rifiuti elettronici e tabacchi. Dall’Olanda alla Germania il fronte dei paesi frugali è compatto nel chiedere un’ulteriore s",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/215552422-3c88c6a1-7587-408e-a5c0-a89a27681d1f.jpg"
       },
       {
         "title": "Infosys: nessun impatto significativo dalla sospensione PERM negli USA",
@@ -219,14 +227,6 @@
         "image": null
       },
       {
-        "title": "Il Vaticano: alt investiture in chiesa da ordini equestri non riconosciuti",
-        "link": "https://www.ilsole24ore.com/art/il-vaticano-alt-investiture-chiesa-ordini-equestri-non-riconosciuti-AJEJtnfB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-10T11:16:58.000Z",
-        "excerpt": "Titoli di studio di nessun valore per la Santa Sede e cerimonie in chiese inopportune. Il richiamo sugli ordini equestri arriva dal Vaticano che ricorda come oltre ai propri cinque...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/muy1iw3krse2hb81f0o-U13673402088wfQ-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
         "title": "Mazzi, 'a settembre l'Italia prima in Europa per saturazione'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/mazzi-a-settembre-litalia-prima-in-europa-per-saturazione_c8346b88-1b51-4b51-a11a-0f6ca91db33a.html",
         "source": "ANSA Economia",
@@ -261,7 +261,15 @@
     ],
     "europa": [
       {
-        "title": "Guerra ultime notizie. Missile Houti sull’aeroporto di Riad: 12 morti e 300 feriti. Arabia Saudita: risponderemo",
+        "title": "Ucraina, data center di Yandex in Russia colpito da droni. Mosca risponde con raid su Dnipro",
+        "link": "https://www.ilsole24ore.com/art/ucraina-data-center-yandex-russia-colpito-droni-mosca-risponde-raid-dnipro-AJF47PgB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-11T07:13:00.000Z",
+        "excerpt": "Un attacco con droni sospende l’operatività di un importante data center russo, mentre i raid russi in Ucraina provocano vittime e danni significativi nelle regioni di Dnipropetrovsk e Zaporizhzhia",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/2026-10-05T060547Z_718110941_RC2JVT95AWYI_RTRMADP_5_UKRAINE-CRISIS-BUDGET-U53803837511JZQ-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Guerra ultime notizie. Missile Houti sull’aeroporto di Riad: 12 morti e 300 feriti. Ambasciata Usa alza l’allerta",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-missile-houti-sull-aeroporto-riad-12-morti-e-300-feriti-arabia-saudita-risponderemo-AJksKOgB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-11T06:20:00.000Z",
@@ -315,14 +323,6 @@
         "pubDate": "2026-10-10T08:19:00.000Z",
         "excerpt": "Durante test interni, modelli IA di Anthropic hanno compiuto operazioni non autorizzate su portali federali e statali, spingendo l’azienda a sospendere l’accesso a Internet",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/2026-10-03T050010Z_198201597_RC29LNAI17QO_RTRMADP_5_GLOBAL-ECONOMY-AI-U00587255557Kyi-1440x752@IlSole24Ore-Web.JPG"
-      },
-      {
-        "title": "Pete Hegseth, chi è il capo del Pentagono che ha deciso l’esecuzione in diretta streaming",
-        "link": "https://www.ilsole24ore.com/art/pete-hegseth-chi-e-capo-pentagono-che-ha-deciso-l-esecuzione-diretta-streaming-AJC8hffB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-10T08:07:00.000Z",
-        "excerpt": "Dall’esecuzione per fucilazione da trasmettere in streaming alla riduzione dei generali, passando per il blocco a sorpresa delle armi dirette in Ucraina, l’espulsione dei transgender dalle forze armate,...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/2026-10-09T183802Z_237594324_RC2GYNA12EF2_RTRMADP_5_USA-MILITARY-CONDITIONS-USS-LINCOLN-U72186016165Zye-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -391,6 +391,14 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/ambasciata-usa-alza-il-livello-di-allerta-per-i-connazionali-in-arabia-saudita_18d95069-9a9b-4d03-96c3-da02a935a3f5.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T07:10:51.000Z",
+        "excerpt": "Limitato l'accesso del suo personale agli scali di Gedda e Dammam",
+        "image": null
+      },
       {
         "title": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/ambasciata-usa-alza-il-livello-di-allerta-per-i-connazionali-in-arabia-saudita_6d0fc3de-ff9f-4de1-89d3-aa1889b07814.html",
@@ -512,14 +520,6 @@
         "image": null
       },
       {
-        "title": "Per il Columbus Day Mamdani evoca il deputato socialista Vito Marcantonio",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/per-il-columbus-day-mamdani-evoca-il-deputato-socialista-vito-marcantonio_1d7bfc93-3364-4de1-b7f0-8902047549ff.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T20:56:23.000Z",
-        "excerpt": "'Idee come le sue non solo possibili ma popolari',il sindaco replica al Colombo di Trump",
-        "image": null
-      },
-      {
         "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
         "link": "https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
         "source": "Investing.com Commodities",
@@ -587,19 +587,43 @@
   },
   "attualita": [
     {
-      "title": "L’annuncio di Casini: “Dopo 44 anni dirò addio al Parlamento”",
-      "link": "https://www.repubblica.it/politica/2026/10/11/news/casini_lascia_parlamento_intervista-425640357/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T06:18:56.000Z",
-      "excerpt": "L'ex presidente della Camera racconta il suo l'addio alla politica ricordando i più momenti più belli della sua carriera",
+      "title": "Trump: 'L'Ucraina dovrebbe tenere elezioni, Putin mi ha detto che vuole un accordo'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/trump-lucraina-dovrebbe-tenere-elezioni-putin-mi-ha-detto-che-vuole-un-accordo_2822374d-dfd0-4b0b-9768-eb9f9b6f6578.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T07:28:34.000Z",
+      "excerpt": "'Se avesse fatto un accordo due anni fa sarebbe stato meglio per lui, avrebbe potuto fare un accordo migliore'. Lo riporta Bloomberg",
+      "image": null
+    },
+    {
+      "title": "Torna Paolo Jannacci: 'Ridere dei guai per affrontare il dolore'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/2026/10/10/torna-paolo-jannacci-ridere-dei-guai-per-affrontare-il-dolore_2df72508-59c2-40d7-bc39-39e9658aff4d.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T07:19:22.000Z",
+      "excerpt": "Il 16 ottobre esce 'Scimmie ovunque'. Il cantautore: 'Mi piacerebbe andare a Sanremo'",
+      "image": null
+    },
+    {
+      "title": "De Martino: 'Non farò un Sanremo populista ma popolare, mi ispiro a Baudo'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/10/10/de-martino-non-faro-un-sanremo-populista-ma-popolare-mi-ispiro-a-baudo_ca35948b-b106-4e4c-9b16-23b48e08f71b.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T07:10:33.000Z",
+      "excerpt": "'Festival pre-elettorale? Il palco aperto a tutti. Ho accettato perché ho sentito la Rai compatta'",
       "image": null
     },
     {
       "title": "Missile Houthi sull'aeroporto di Riad, almeno 12 morti e oltre 300 feriti",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/missile-houthi-sullaeroporto-di-riad-almeno-12-morti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
       "source": "ANSA",
-      "pubDate": "2026-10-11T06:15:41.000Z",
+      "pubDate": "2026-10-11T06:56:35.000Z",
       "excerpt": "Evacuazioni per il nuovo raid che ha provocato oltre 300 feriti. Paesi sconsigliano voli. Ambasciata Usa alza il livello di allerta In Arabia Saudita",
+      "image": null
+    },
+    {
+      "title": "L’annuncio di Casini: “Dopo 44 anni dirò addio al Parlamento”",
+      "link": "https://www.repubblica.it/politica/2026/10/11/news/casini_lascia_parlamento_intervista-425640357/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T06:18:56.000Z",
+      "excerpt": "L'ex presidente della Camera racconta il suo l'addio alla politica ricordando i più momenti più belli della sua carriera",
       "image": null
     },
     {
@@ -667,51 +691,27 @@
       "image": null
     },
     {
-      "title": "Trump scarica Zelensky: 'Serve un nuovo presidente a Kiev per un accordo'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/trump-scarica-zelensky-serve-un-nuovo-presidente-a-kiev-per-un-accordo_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
+      "title": "Ragione e Sentimento, torna un classico dal cuore femminista",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/10/ragione-e-sentimento-torna-un-classico-dal-cuore-femminista_19b2ecc8-a866-48dc-a4cf-596799e3abd1.html",
       "source": "ANSA",
-      "pubDate": "2026-10-10T19:17:34.000Z",
-      "excerpt": "Duro attacco dopo lo scontro sul diesel russo. Mosca esulta. L'Ue con Kiev: 'La revoca delle sanzioni aiuta Putin'. La delegazione ucraina lascia Miami in anticipo. Bombardamenti russi su Zaporizhzhia: 20 morti, tra cui ",
+      "pubDate": "2026-10-10T18:04:54.000Z",
+      "excerpt": "La regista: \"Racconto lo struggimento della Generazione Z\"",
       "image": null
     },
     {
-      "title": "A Genova Book Pride, fiera dell'editoria indipendente",
-      "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/10/10/a-genova-book-pride-fiera-delleditoria-indipendente_8ff6aaf3-c00f-40ed-81cd-2f366bdfffa5.html",
+      "title": "Da Il diavolo veste Prada 2 a Barbarella, a Cinecittà in mostra i costumi di scena",
+      "link": "https://www.ansa.it/canale_viaggi/regione/lazio/2026/10/10/da-il-diavolo-veste-prada-2-a-barbarella-a-cinecitta-in-mostra-i-costumi-di-scena_d0bed006-c3ff-4497-a944-03da35385627.html",
       "source": "ANSA",
-      "pubDate": "2026-10-10T17:56:51.000Z",
-      "excerpt": "Fino a domenica 100 editori e 150 appuntamenti",
+      "pubDate": "2026-10-10T18:00:25.000Z",
+      "excerpt": "L'esposizione negli studi si arricchisce di abiti e racconti, fino al 15 febbraio",
       "image": null
     },
     {
-      "title": "John Malkovich: 'Ho riscritto l'80% dei film che ho fatto'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/10/john-malkovich-ho-riscritto-l80-dei-film-che-ho-fatto_4c39ddd3-e736-4084-ac31-0e395b43e1d7.html",
+      "title": "Dalla Gran Bretagna alla Norvegia, gli occhiali smart nuova frontiera dei divieti tecnologici",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/10/10/da-gran-bretagna-a-norvegia-occhiali-smart-nuova-frontiera-dei-divieti-tecnologici_b78ad570-4ca7-44e1-9dfd-4c9c4d0c50cb.html",
       "source": "ANSA",
-      "pubDate": "2026-10-10T09:30:24.000Z",
-      "excerpt": "Coppa Volpi a Venezia, potrebbe vincere il suo primo Oscar con Wild horse nine",
-      "image": null
-    },
-    {
-      "title": "SpaceX prepara il debutto come operatore tlc con Starlink Mobile",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tlc/2026/10/09/spacex-prepara-il-debutto-come-operatore-di-telecomunicazioni-con-starlink-mobile_fdff7706-c644-404e-bf6b-abc02d846a76.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T09:16:42.000Z",
-      "excerpt": "L'acquisto di nuove frequenze permetterà di fornire una migliore connessione dallo Spazio",
-      "image": null
-    },
-    {
-      "title": "Quando la Nobel per la pace Pillay disse: \"C'è un genocidio a Gaza\"",
-      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/10/09/quando-la-nobel-per-la-pace-pillay-disse-ce-un-genocidio-a-gaza_c1ee1e37-f1c4-4cd0-80cf-9da1fda61c23.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T18:32:13.000Z",
-      "excerpt": "L’ex alta commissaria Onu nel 2025 ad Afp: “Prove pubblicate dai soldati israeliani”",
-      "image": null
-    },
-    {
-      "title": "Da Palazzo Piacentini alla Villa La Tesoriera, tornano le giornate Fai d'Autunno",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/09/30/da-palazzo-dugnani-alla-villa-la-tesoriera-tornano-le-giornate-fai-dautunno_6d4da01c-5961-427f-a9e2-a15c44bbfef2.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-09T17:37:19.000Z",
-      "excerpt": "Oltre 700 luoghi aperti in 350 città il 10 e 11 ottobre per la 15/a edizione",
+      "pubDate": "2026-10-10T17:54:52.000Z",
+      "excerpt": "Il nodo è il consenso nello spazio pubblico. Esperto: \"Le regole vanno aggiornate\"",
       "image": null
     }
   ],
