@@ -1,14 +1,30 @@
 {
-  "lastUpdated": "2026-10-11T03:09:09.532Z",
+  "lastUpdated": "2026-10-11T03:43:52.585Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Trasporto pubblico, cambiano i bonus. Dal 2027 voucher per le famiglie fino a 20 mila euro di Isee",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/10/11/news/trasporto_pubblico_cambiano_i_bonus_dal_2027_voucher_per_le_famiglie_fino_a_20_mila_euro_di_isee-425639703/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-11T03:00:00.000Z",
+        "excerpt": "Niente più agevolazioni per tutti. Il contributo variabile in importi da 100, 200 e 400 euro a seconda della fascia di reddito familiare e dalla distanza tra casa e lavoro",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/194422935-3e60c679-957b-499a-8618-1d2d24639e84.jpg"
+      },
+      {
+        "title": "Abbonamenti app e streaming, come sopravvivere alla marea. Il caso del bottone di recesso nascosto",
+        "link": "https://www.repubblica.it/economia/2026/10/11/news/abbonamenti_app_e_streaming_come_sopravvivere_alla_marea_il_caso_del_bottone_di_recesso_nascosto-425639693/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-11T03:00:00.000Z",
+        "excerpt": "I servizi che richiedono una sottoscrizione sono onnipresenti e controllare la spesa mensile complessiva non è semplice. Ancora più difficile può essere la disdetta",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/194248247-64d3d0b6-36ed-4dd3-a5cd-4b620be7b045.jpg"
+      },
       {
         "title": "Gli investitori stranieri fuggono dalle azioni sudcoreane con il boom dell’IA in calo",
         "link": "https://it.investing.com/news/stock-market-news/gli-investitori-stranieri-fuggono-dalle-azioni-sudcoreane-con-il-boom-dellia-in-calo-3582864",
         "source": "Investing.com Italia",
         "pubDate": "2026-10-11T02:23:04.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEG2M04Z_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg"
       },
       {
         "title": "Manovra, caccia a 10 miliardi. Il governo guarda alle pensioni",
@@ -57,14 +73,6 @@
         "pubDate": "2026-10-10T23:00:00.000Z",
         "excerpt": "La proposta del Consiglio prevede 141 miliardi in meno. Previste nuove tasse su grandi imprese, rifiuti elettronici e tabacchi. Dall’Olanda alla Germania il fronte dei paesi frugali è compatto nel chiedere un’ulteriore s",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/215552422-3c88c6a1-7587-408e-a5c0-a89a27681d1f.jpg"
-      },
-      {
-        "title": "Dal diesel agli assegni: così Trump vuole comprare il voto degli americani",
-        "link": "https://www.repubblica.it/economia/2026/10/11/news/trump_diesel_elezioni_midterm-425639908/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T23:00:00.000Z",
-        "excerpt": "Il presidente è in calo di consensi a meno di un mese dalle elezioni di midterm. E per rimontare rispolvera anche i rimborsi sanitari",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/210406910-14a054da-1c37-4e7c-973f-18c59ed6110c.jpg"
       },
       {
         "title": "Infosys: nessun impatto significativo dalla sospensione PERM negli USA",
@@ -209,14 +217,6 @@
         "pubDate": "2026-10-10T11:16:58.000Z",
         "excerpt": "Titoli di studio di nessun valore per la Santa Sede e cerimonie in chiese inopportune. Il richiamo sugli ordini equestri arriva dal Vaticano che ricorda come oltre ai propri cinque...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/muy1iw3krse2hb81f0o-U13673402088wfQ-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "L’analisi. Ecco cosa sta succedendo nel mondo ai tassi a lungo termine",
-        "link": "https://www.repubblica.it/economia/2026/10/10/news/l_analisi_ecco_cosa_sta_succedendo_nel_mondo_ai_tassi_a_lungo_termine-425638973/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T11:13:46.000Z",
-        "excerpt": "Il commento dell’”Osservatorio conti pubblici” sui cambiamenti avvenuti in tutte le principali economie avanzate",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/131336462-52155f1d-5c47-4227-bba6-41fbf31dc9bc.jpg"
       },
       {
         "title": "Dove potrebbero collidere azioni e obbligazioni? Cosa monitorare",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump: 'L'attacco all'aeroporto di Riad non è accettabile'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/trump-lattacco-allaeroporto-di-riad-non-e-accettabile_3a17a438-0eb1-4c46-b001-7a2f32b30325.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T03:26:40.000Z",
+        "excerpt": "'Comunicazioni con gli Houthi, vediamo cosa succede'",
+        "image": null
+      },
+      {
         "title": "I bambini ucraini rapiti e le urla dal silenzio soffocate dall’indifferenza",
         "link": "https://www.repubblica.it/esteri/2026/10/11/news/i_bambini_ucraini_rapiti-425640173/?rss",
         "source": "Repubblica Esteri",
@@ -509,14 +517,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-10T19:50:38.000Z",
         "excerpt": "Più di 900.000 persone al buio",
-        "image": null
-      },
-      {
-        "title": "Burnham, 'piena solidarietà a Zelensky dopo le parole di Trump'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/10/burnham-piena-solidarieta-a-zelensky-dopo-le-parole-di-trump_29735a09-c82c-4373-83a8-f4bf67bc7e1e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T19:29:56.000Z",
-        "excerpt": "Telefonata tra i due leader",
         "image": null
       },
       {
