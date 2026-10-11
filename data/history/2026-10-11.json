@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Stellantis svela l'auto del futuro, da Citroën 2 CV elettrica a Alfa Cuorerosso",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/stellantis-svela-auto-del-futuro-da-citroen-2-cv-elettrica-a-alfa-cuorerosso_90226951-0829-428b-acbd-373cee5a3112.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-11T17:57:07.000Z",
+        "excerpt": "Elkann, Filosa e Cappellano delineano a Parigi la strategia: 'Puntiamo sull'Europa'",
+        "image": null
+      },
+      {
         "title": "Addio a Wilma De Angelis, la cantante è morta a 96 anni",
         "link": "https://www.ilsole24ore.com/art/addio-wilma-de-angelis-cantante-e-morta-96-anni-AJT2rsgB",
         "source": "Il Sole 24 Ore",
@@ -474,14 +482,6 @@
         "pubDate": "2026-10-10T10:00:01.000Z",
         "excerpt": "\"2025 da record, il 2026 consolida la tendenza positiva, spesa stranieri a 16,2 miliardi\"",
         "image": null
-      },
-      {
-        "title": "Italo, Sindacati: “Verso lo sciopero senza svolta sul rinnovo del contratto”",
-        "link": "https://www.repubblica.it/economia/2026/10/10/news/italo_sindacati_verso_lo_sciopero_senza_svolta_sul_rinnovo_del_contratto-425638830/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T09:49:49.000Z",
-        "excerpt": "Le proteste sindacali sono riferite a un gruppo che si espande, macina utili e distribuisce dividendi e invece ai lavoratori riserva un contratto scaduto da quasi due anni",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/114940479-e676269a-f544-496e-9313-aa9e7ddf9031.jpg"
       }
     ],
     "europa": [
@@ -680,6 +680,14 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "'Trump minaccia blocco delle armi a Kiev per gli attacchi alla raffinerie russe'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/trump-minaccia-blocco-delle-armi-a-kiev-per-gli-attacchi-alla_ef96713a-6c12-42af-a294-a539341f6406.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T17:39:19.000Z",
+        "excerpt": "Ft cita funzionari europei",
+        "image": null
+      },
       {
         "title": "Usa, nuovo affondo di Trump contro la stampa: sotto inchiesta cinque tv",
         "link": "https://www.repubblica.it/esteri/2026/10/11/news/usa_nuovo_affondo_trump_contro_la_stampa_sotto_inchiesta_cinque_tv_anti_trust-425641268/?rss",
@@ -1151,24 +1159,32 @@
         "pubDate": "2026-10-10T20:31:02.000Z",
         "excerpt": "Lo riferiscono due fonti",
         "image": null
-      },
-      {
-        "title": "Sale a quattro il bilancio dei morti per l'uragano Isaias",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/sale-a-quattro-il-bilancio-dei-morti-per-luragano-isaias_3c7f1dbd-f3f3-4c14-8ffb-9d57b73787e0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T19:50:38.000Z",
-        "excerpt": "Più di 900.000 persone al buio",
-        "image": null
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Francesca e Sofia, Leo e Kean: i ragazzi di Crans si raccontano. “Vogliamo sapere la verità”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/11/news/crans_francesca_sofia_leo_kean_interviste_verissimo_domenica_in-425641292/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T17:50:38.000Z",
+      "excerpt": "A Domenica In e Verissimo quattro degli studenti milanesi rimasti gravemente ustionati nel rogo di Capodanno: gli attimi di terrore, la lunga riabilitazione, il ritorno a scuola",
+      "image": null
+    },
     {
       "title": "++ 'Trump minaccia blocco delle armi a Kiev per gli attacchi alla raffinerie russe' ++",
       "link": "https://www.ansa.it/sito/notizie/flash/2026/10/11/trump-minaccia-blocco-delle-armi-a-kiev-per-gli-attacchi-alla_d9367759-7e18-493c-8174-d1d7e0fd8239.html",
       "source": "ANSA",
       "pubDate": "2026-10-11T17:37:11.000Z",
       "excerpt": "Ft cita funzionari europei",
+      "image": null
+    },
+    {
+      "title": "Usa, nuovo affondo di Trump contro la stampa: sotto inchiesta cinque tv",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/usa_nuovo_affondo_trump_contro_la_stampa_sotto_inchiesta_cinque_tv_anti_trust-425641268/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T17:21:27.000Z",
+      "excerpt": "Abc, Cnn, Cbs, Nbc e anche Fox News sono accusate di aver violato le leggi antitrust per aver sospeso la copertura del vertice con Xi",
       "image": null
     },
     {
@@ -1626,25 +1642,57 @@
       "pubDate": "2026-10-10T22:19:29.000Z",
       "excerpt": "L'autorità saudita per l'aviazione civile: tra le vittime quattro sauditi e otto stranieri, tra cui un cittadino statunitense",
       "image": null
-    },
-    {
-      "title": "Missile Houthi sull'aeroporto di Riad, almeno 12 morti e oltre 300 feriti",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/missile-houthi-sullaeroporto-di-riad-almeno-12-morti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-10T22:18:20.000Z",
-      "excerpt": "Evacuazioni per il nuovo raid che ha provocato anche 50 feriti. Paesi sconsigliano voli",
-      "image": null
-    },
-    {
-      "title": "Guerra Ucraina - Russia, le news di oggi. Trump: “L'Ucraina dovrebbe andare al voto, Putin mi ha detto che vuole un accordo”",
-      "link": "https://www.repubblica.it/esteri/2026/10/11/diretta/guerra_ucraina_russia_news_oggi-425640146/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T22:05:50.000Z",
-      "excerpt": "Il presidente Usa attacca di nuovo Zelensky: “All’Ucraina serve un nuovo leader”",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: il Sassuolo rallenta il Milan, 1-1 al Mapei",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-il-sassuolo-rallenta-il-milan-1-1-al-mapei_24ab420d-9f0a-4e5b-9577-a5daa5185b98.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T18:04:16.000Z",
+      "excerpt": "Rabiot e Odenthal in gol, rossoneri scivolano indietro in classifica",
+      "image": null
+    },
+    {
+      "title": "Sassuolo - Milan termina 1-1, a Rabiot risponde Odenthal CRONACA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/sassuolo-milan-termina-1-1-a-rabiot-risponde-odenthal-cronaca-e-foto_c2ba2fc3-f638-488d-b401-ef95330b5393.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T18:02:50.000Z",
+      "excerpt": "Match valido per la sesta giornata di campionato",
+      "image": null
+    },
+    {
+      "title": "Red Bull protagonista alla Barcolana 58 con sua imbarcazione e equipaggio d'eccezione",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/11/red-bull-protagonista-alla-barcolana-58-con-sua-imbarcazione-e-equipaggio-deccezione_b3b53812-6fbc-49a3-98ea-362dfb35f025.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T17:57:57.000Z",
+      "excerpt": "A guidare delegazione, composta da atleti e creator, la leggenda della vela Spithill",
+      "image": null
+    },
+    {
+      "title": "Premier: lo scandalo non frena il City, vittoria per 3-0 a Liverpool",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/premier-lo-scandalo-non-frena-il-city-vittoria-per-3-0-a-liverpool_c5b53fd1-60b0-4ca8-8c0b-59bc629f5cfd.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T17:51:55.000Z",
+      "excerpt": "Reds restano in 10 nella ripresa e la squadra di Maresca si scatena",
+      "image": null
+    },
+    {
+      "title": "Furio Benussi ancora re della Barcolana, quarta vittoria di fila",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/11/furio-benussi-ancora-re-della-barcolana-quarta-vittoria-di-fila_1e0a6c93-eaa7-4f39-8544-700da8007e06.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T17:47:08.000Z",
+      "excerpt": "Arca Sgr in trionfo, 1.858 barche iscritte alla regata più affollata al mondo",
+      "image": null
+    },
+    {
+      "title": "Gattuso: 'Non guardiamo la classifica altrimenti ci gira la testa'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/gattuso-non-guardiamo-la-classifica-altrimenti-ci-gira-la-testa_76843c98-8821-4ee5-9ea4-412064400e5b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T17:39:16.000Z",
+      "excerpt": "Il tecnico della Lazio: \"Con il Monza è andata bene, non dobbiamo avere paura\"",
+      "image": null
+    },
     {
       "title": "Serie A: in campo Sassuolo-Milan 1-1 DIRETTA ",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-in-campo-sassuolo-milan-0-1-diretta-_c2ba2fc3-f638-488d-b401-ef95330b5393.html",
