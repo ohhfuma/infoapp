@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T21:07:44.196Z",
+  "lastUpdated": "2026-10-11T21:42:13.502Z",
   "finanza": {
     "italia": [
       {
@@ -16,7 +16,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-11T19:53:58.000Z",
         "excerpt": "",
-        "image": null
+        "image": "https://content-media.investing.com/news/LYNXMPEDAN118_M.jpg"
       },
       {
         "title": "Stellantis rilancia in Europa: 50 nuovi modelli entro il 2030 e più produzione",
@@ -248,7 +248,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T16:52:37.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3O0LG_1200_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
       },
       {
         "title": "Gli agenti AI potrebbero rivoluzionare lo shopping online: chi vince?",
@@ -587,6 +587,22 @@
   },
   "attualita": [
     {
+      "title": "Kolo Muani tiene a galla la Juventus: 1-1 a Cagliari",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/cagliari_juventus_gol-425641711/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T21:24:55.000Z",
+      "excerpt": "Il francese, nonostante parecchi errori sotto porta, trova il guizzo che permette ai bianconeri di pareggiare il gol di Maldini. A fine gara screzio tra Spalletti e Pisacane",
+      "image": null
+    },
+    {
+      "title": "Spalletti-Pisacane, rissa sfiorata: cosa è successo",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/juventus/2026/10/11/news/spalletti_pisacane_rissa_sfiorata_cosa_e_successo-425641708/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T21:21:55.000Z",
+      "excerpt": "I due allenatori a muso duro dopo il triplice fischio. Entrambi espulsi",
+      "image": null
+    },
+    {
       "title": "Salis da Fazio: “Le primarie sono divisive, ma noi sindaci possiamo dare una mano al centrosinistra”",
       "link": "https://genova.repubblica.it/cronaca/2026/10/11/news/salis_nove_fazio_primarie_divisive_sindaci_centrosinistra-425641640/",
       "source": "Repubblica",
@@ -651,22 +667,6 @@
       "image": null
     },
     {
-      "title": "Guerra in Yemen, perché è ripresa ora e come rischia di allargarsi a conflitto regionale",
-      "link": "https://www.repubblica.it/esteri/2026/10/11/news/guerra_in_yemen_houthi_arabia_saudita_perche_e_ripresa_e_come_rischia_allargarsi-425641208/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T16:48:53.000Z",
-      "excerpt": "Undici anni dopo il primo intervento di Riad, i sauditi sono tornati a bombardare gli Houthi, appoggiati dall’Iran. Chi sono gli attori in gioco e in che modo il coinvolgimento di Bin Salman a fianco delle forze governat",
-      "image": null
-    },
-    {
-      "title": "Brexit, la rivelazione di Burnham: “Sì, la russia ha interferito nel referendum”",
-      "link": "https://www.repubblica.it/esteri/2026/10/11/news/burnham_brexit_interferenze_russe-425641190/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T16:42:12.000Z",
-      "excerpt": "Per la prima volta un premier britannico riconosce che ci fu un’interferenza di Mosca nel processo democratico del 2016",
-      "image": null
-    },
-    {
       "title": "Il Papa e il nodulo polmonare, ecco come si diagnostica e quando si interviene",
       "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/10/11/il-papa-e-il-nodulo-polmonare-ecco-come-si-diagnostica-e-quando-si-interviene_1f66d3c3-a3cd-45c1-8f4e-6473d191f995.html",
       "source": "ANSA",
@@ -717,11 +717,43 @@
   ],
   "sport": [
     {
-      "title": "Cagliari-Juventus termina 1-1, a Maldini risponde Kolo Muani&nbsp;CRONACA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/cagliari-juventus-termina-1-1-a-maldini-risponde-kolo-muanicronaca-e-foto_cb4a2a0c-9ece-40a7-b7b8-5c181c9966f6.html",
+      "title": "Juve: Spalletti, grande gara ma bisognava vincerla",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/juve-spalletti-grande-gara-ma-bisognava-vincerla_077facf7-5585-4501-a1d4-9a07ab315af9.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-11T20:49:30.000Z",
-      "excerpt": "Gli isolani di Pisacane confermano il quarto posto in classifica davanti al Milan",
+      "pubDate": "2026-10-11T21:37:49.000Z",
+      "excerpt": "\"Con Pisacane non è successo nulla, gli ho detto: bravi anche a perdere tempo\"",
+      "image": null
+    },
+    {
+      "title": "Il Mapei resta tabù per il Milan, è 1-1 col Sassuolo",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/il-mapei-resta-tabu-per-il-milan-e-1-1-col-sassuolo_c2ba2fc3-f638-488d-b401-ef95330b5393.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T21:35:24.000Z",
+      "excerpt": "Ramos non si sblocca, a Rabiot risponde Odenthal e i rossoneri perdono terreno",
+      "image": null
+    },
+    {
+      "title": "La Lazio sogna in testa con l'Inter, la Roma frena a Como",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/la-lazio-sogna-in-testa-con-linter-la-roma-frena-a-como_21745bf3-445d-4509-b342-ba2a41ea71d7.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T21:35:17.000Z",
+      "excerpt": "La Juve frenata a Cagliari, anche il Milan fa 1-1 col Sassuolo; riparte il Bologna",
+      "image": null
+    },
+    {
+      "title": "Il Cagliari fa tremare la Juve, Kolo Muani salva i bianconeri",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/il-cagliari-fa-tremare-la-juve-kolo-muani-salva-i-bianconeri_cb4a2a0c-9ece-40a7-b7b8-5c181c9966f6.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T21:21:14.000Z",
+      "excerpt": "Ancora a segno Maldini. Finale nervoso, espulsi Spalletti e Pisacane",
+      "image": null
+    },
+    {
+      "title": "Cagliari-Juve: finale a muso duro tra Pisacane e Spalletti, espulsi",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/cagliari-juve-finale-a-muso-duro-tra-pisacane-e-spalletti-espulsi_35ce24ab-80d1-4bdf-b04c-0473ea0c0103.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T21:04:59.000Z",
+      "excerpt": "Rissa sfiorata tra i tecnici a bordo campo dopo il triplice fischio",
       "image": null
     },
     {
@@ -730,14 +762,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T20:40:42.000Z",
       "excerpt": "Maldini porta avanti i rossoblù, primo importante centro del francese",
-      "image": null
-    },
-    {
-      "title": "Verstappen bis a Singapore, Antonelli può diventare campione ad Austin",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/11/verstappen-bis-a-singapore-antonelli-puo-diventare-campione-ad-austin_edacdce0-88fa-4309-ba9e-4c1b533c7334.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T18:58:38.000Z",
-      "excerpt": "Kimi terzi dietro Leclerc, vola a +102 in classifica. Hamilton sbaglia strategia e si scusa",
       "image": null
     },
     {
@@ -754,30 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T18:54:08.000Z",
       "excerpt": "Il pilota Ferrari sbaglia strategia: 'Colpa mia'. Vasseur 'evitiamo che si ripeta'",
-      "image": null
-    },
-    {
-      "title": "Il Mapei resta tabù per il Milan, è 1-1 col Sassuolo",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/il-mapei-resta-tabu-per-il-milan-e-1-1-col-sassuolo_c2ba2fc3-f638-488d-b401-ef95330b5393.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T18:46:50.000Z",
-      "excerpt": "Ramos non si sblocca, a Rabiot risponde Odenthal e i rossoneri perdono terreno",
-      "image": null
-    },
-    {
-      "title": "Serie A: il Sassuolo rallenta il Milan, 1-1 al Mapei",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-il-sassuolo-rallenta-il-milan-1-1-al-mapei_24ab420d-9f0a-4e5b-9577-a5daa5185b98.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T18:04:16.000Z",
-      "excerpt": "Rabiot e Odenthal in gol, rossoneri scivolano indietro in classifica",
-      "image": null
-    },
-    {
-      "title": "Red Bull protagonista alla Barcolana 58 con sua imbarcazione e equipaggio d'eccezione",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/11/red-bull-protagonista-alla-barcolana-58-con-sua-imbarcazione-e-equipaggio-deccezione_b3b53812-6fbc-49a3-98ea-362dfb35f025.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T17:57:57.000Z",
-      "excerpt": "A guidare delegazione, composta da atleti e creator, la leggenda della vela Spithill",
       "image": null
     }
   ]
