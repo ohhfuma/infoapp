@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-10-11T10:41:40.071Z",
+  "lastUpdated": "2026-10-11T11:07:15.566Z",
   "finanza": {
     "italia": [
       {
-        "title": "Carrello sempre più vuoto, dal 2019 la spesa reale è diminuita del 9%",
+        "title": "Il carrello sempre più vuoto, dal 2019 la spesa reale è diminuita del 9%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/carrello-sempre-piu-vuoto-dal-2019-la-spesa-reale-e-diminuita-del_0c92267f-d50e-4ce7-abb4-5ced27dca6ec.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-11T10:23:00.000Z",
-        "excerpt": "Crc, 1 famiglia su 3 taglia acquisti alimentari, quasi la metà ridimensiona i viaggi",
+        "pubDate": "2026-10-11T10:50:36.000Z",
+        "excerpt": "Il Crc: 'Una famiglia su 3 taglia acquisti alimentari, quasi la metà ridimensiona i viaggi'",
+        "image": null
+      },
+      {
+        "title": "Anmil, da gennaio ad oggi oltre 700 morti sul lavoro, istituire reato di omicidio",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/anmil-da-gennaio-ad-oggi-oltre-700-morti-sul-lavoro-istituire-reato_cf73ab34-468f-42d1-9268-b01d5af2b0da.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-11T10:40:11.000Z",
+        "excerpt": "Nei primi otto mesi dell'anno 405.000 denunce totali di infortuni",
         "image": null
       },
       {
@@ -15,8 +23,16 @@
         "link": "https://www.ilsole24ore.com/art/il-papa-ho-nodulo-polmone-ho-deciso-operarmi-AJGSmZgB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-11T10:21:00.000Z",
-        "excerpt": "«I medici mi hanno trovato un nodulo al polmone allo stato iniziale e ben localizzato. I medici ritengono opportuno intervenire e allora seguendo i loro consigli ho deciso di operarmi...",
+        "excerpt": "L’annuncio durante l’Angelus: l’intervento nei prossimi giorni, poi una settimana di degenza",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/84bf0066c7d458666abb838714147800-U78502773146xuD-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Una donna di acciaio per guidare il cambiamento e la parità di genere",
+        "link": "https://www.repubblica.it/economia/2026/10/11/news/una_donna_di_acciaio_per_guidare_il_cambiamento_e_la_parita_di_genere-425640685/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-11T10:15:12.000Z",
+        "excerpt": "Maria Anghileri, chief operating officer, direttore operativo, del gruppo Eusider racconta la storia di un’azienda in cui le decisioni si condividono in famiglia",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/121500949-f5f39305-c949-4aab-b1f6-749c8c384f90.jpg"
       },
       {
         "title": "Cambia la spesa degli italiani, cala quella culturale, boom dei piatti pronti",
@@ -139,14 +155,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/223052750-9ceb363d-d740-41df-ac58-3a8bbc5ffa64.jpg"
       },
       {
-        "title": "Diego Galli (Inwit) “Sulle torri pronti a parlare con Poste. Investiamo sui data center”",
-        "link": "https://www.repubblica.it/economia/2026/10/11/news/diego_galli_inwit_sulle_torri_pronti_a_parlare_con_poste_investiamo_sui_data_center-425640024/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T23:00:00.000Z",
-        "excerpt": "“Vogliamo trovare una soluzione condivisa con il primo azionista di Tim”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/221221208-7e96da96-ec94-4b14-ace2-55e572b768b1.jpg"
-      },
-      {
         "title": "Infosys: nessun impatto significativo dalla sospensione PERM negli USA",
         "link": "https://it.investing.com/news/stock-market-news/infosys-nessun-impatto-significativo-dalla-sospensione-del-programma-perm-usa-3582813",
         "source": "Investing.com Italia",
@@ -241,14 +249,6 @@
         "pubDate": "2026-10-10T12:47:48.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
-      },
-      {
-        "title": "Lombardi,da Cse investimenti su innovazione e digitale banche,siamo partner affidabile",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/lombardida-cse-investimenti-su-innovazione-e-digitale-banchesiamo-partner-affidabile_bbbee4ba-2df1-43d2-b6cb-69fab9c1ba3c.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-10T12:39:15.000Z",
-        "excerpt": "L'ad, consorzio si prepara anche all'arrivo dell'euro digitale",
-        "image": null
       },
       {
         "title": "L’aumento degli spread sui bond francesi minaccia il rally azionario europeo?",
@@ -395,9 +395,17 @@
         "title": "Gli Houthi dello Yemen rinnovano l'allarme sugli aeroporti sauditi dopo l'attacco mortale di Riyadh",
         "link": "https://www.investing.com/news/commodities-news/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-4942575",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-10-11T10:24:17.000Z",
+        "pubDate": "2026-10-11T10:48:26.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9A04Q_L.jpg"
+      },
+      {
+        "title": "Oggi primarie socialdemocratiche in Francia: Glucksmann spera di farcela al primo turno",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/primarie_sinistra_francia_eliseo_glucksmann-425640757/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T10:47:43.000Z",
+        "excerpt": "Giornata decisiva per la sinistra chiamata a scegliere il suo candidato all’Eliseo: in testa ai sondaggi c’è l’eurodeputato di Place Publique. Possibile ballottaggio con il principale rivale, Olivier Faure",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/124733218-8235b8a7-2031-4d6e-bf33-0858c34b96cf.jpg"
       },
       {
         "title": "Polonia, riunione di emergenza per possibili attentati a premier e ministro Difesa",
@@ -406,6 +414,22 @@
         "pubDate": "2026-10-11T10:17:08.000Z",
         "excerpt": "Lo ha scritto su X la portavoce del ministero dell'Interno, Karolina Galecka",
         "image": null
+      },
+      {
+        "title": "Colpito il terzo data center della “Google russa” Yandex: web in tilt a Mosca",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/yandex_google_russia_ucraina_data_center-425640691/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T10:15:49.000Z",
+        "excerpt": "I droni ucraini hanno centrato l’infrastruttura di Vladimir, nella Russia centrale, causando un crollo nel traffico internet e disservizi online",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/121528940-67d49711-c810-47ae-91c6-47e58cf42cd8.jpg"
+      },
+      {
+        "title": "Polonia, la polizia sventa un attentato per uccidere il premier Donald Tusk",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/polonia_attentato_premier_donald_tusk_sventato-425640668/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T10:11:26.000Z",
+        "excerpt": "Lo riferisce la portavoce del ministero dell'Interno. Il governo ha convocato una riunione del consiglio di sicurezza",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/121116644-99479f53-c0c1-483c-82a9-b3890b0c9b96.jpg"
       },
       {
         "title": "Sondaggio Ft, 'Trump ancora giù e al 34% nei consensi, pesa l'economia' (2)",
@@ -448,6 +472,22 @@
         "image": null
       },
       {
+        "title": "L’allarme degli 007: “Mosca vuole uccidere i leader della Difesa europei”",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T09:03:51.000Z",
+        "excerpt": "Secondo indiscrezioni raccolte dal Financial Times presso cinque servizi segreti europei, il Gru, lo spionaggio militare di Mosca, ha avviato piani per assassinare dirigenti dell'industria bellica nel continente",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/110342137-42f35094-009c-468f-8e62-7d8d05cf7e5e.jpg"
+      },
+      {
+        "title": "Riad, la vetrina del sogno di bin Salman toccata dalla guerra",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/riad_aeroporto_guerra_mohammed_bin_salman-425640552/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T08:50:55.000Z",
+        "excerpt": "L’aeroporto Kig Khaled, dove almeno 12 persone sono morte ieri in seguito a un attacco degli Houthi yemeneti, è la porta di ingresso di una metropoli nel deserto lanciata verso la modernità",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/104957237-afb209a3-a96b-4b09-95cd-629aee6de801.jpg"
+      },
+      {
         "title": "Il Messico costruirà una nuova prigione nello stato di Sinaloa",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/11/il-messico-costruira-una-nuova-prigione-nello-stato-di-sinaloa_797dc21c-044c-459a-93e2-4d7ecf32fc2a.html",
         "source": "ANSA Mondo",
@@ -462,6 +502,30 @@
         "pubDate": "2026-10-11T08:38:47.000Z",
         "excerpt": "Ft: 'Aumentate le misure di sicurezza attorno ai dirigenti di alto livello'",
         "image": null
+      },
+      {
+        "title": "Mistero peste: dopo una settimana Mosca non ha ancora spiegato cosa ha ucciso la ricercatrice",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/peste_siberia_laboratorio_ricercatrice_morta-425640481/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T08:09:12.000Z",
+        "excerpt": "Il timore è che il Cremlino abbia imposto il silenzio per nascondere un programma di sviluppo di armi biologiche nel laboratorio in Siberia dove è morta la 28enne",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/100901993-3a5fc8f5-704d-40bc-91c6-5df6dbbf85d4.jpg"
+      },
+      {
+        "title": "I bambini ucraini rapiti e le urla dal silenzio soffocate dall’indifferenza",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/i_bambini_ucraini_rapiti-425640173/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-10T23:28:29.000Z",
+        "excerpt": "Dal febbraio 2022 almeno ventimila minori sono stati deportati in Russia eppure la tragedia sembra interessare solo il Vaticano",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/012537667-5f682ab6-0839-4026-bab1-2536af797aa3.jpg"
+      },
+      {
+        "title": "I bambini ucraini rapiti e le urla dal silenzio soffocate dall’indifferenza",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/i_bambini_ucraini_rapiti-425640172/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-10T23:25:49.000Z",
+        "excerpt": "Dal febbraio 2022 almeno ventimila minori sono stati deportati in Russia eppure la tragedia sembra interessare solo il Vaticano",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/012537667-5f682ab6-0839-4026-bab1-2536af797aa3.jpg"
       },
       {
         "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
@@ -523,6 +587,14 @@
   },
   "attualita": [
     {
+      "title": "Il Papa: 'Ho un nodulo al polmone, ho deciso di operarmi'",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/10/11/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi_9bf07f99-d56c-4e01-8712-23974b08fc29.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T10:43:44.000Z",
+      "excerpt": "'L'intervento è già programmato nei prossimi giorni'. Leone conferma però la sua visita in Perù, prevista dal 6 al 17 novembre",
+      "image": null
+    },
+    {
       "title": "L'allarme degli 007: 'Mosca intensifica i tentativi di assassinare i vertici della difesa europea'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/lallarme-degli-007-mosca-intensifica-i-tentativi-di-assassinare-i-vertici-della-difesa_aff1e77d-6140-4ab2-91ff-7e2cc737cd8a.html",
       "source": "ANSA",
@@ -539,19 +611,19 @@
       "image": null
     },
     {
-      "title": "Il Papa: 'Ho un nodulo al polmone, ho deciso di operarmi'",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/10/11/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi_9bf07f99-d56c-4e01-8712-23974b08fc29.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-11T10:27:55.000Z",
-      "excerpt": "'L'intervento è già programmato nei prossimi giorni'. Leone conferma però la sua visita in Perù, prevista dal 6 al 17 novembre",
-      "image": null
-    },
-    {
       "title": "Leone XIV: “Ho un nodulo al polmone, mi opereranno nei prossimi giorni”",
       "link": "https://www.repubblica.it/cronaca/2026/10/11/news/leone_xiv_ho_un_nodulo_al_polmone_mi_opereranno_nei_prossimi_giorni-425640695/",
       "source": "Repubblica",
       "pubDate": "2026-10-11T10:16:24.000Z",
-      "excerpt": "L’annuncio all’Angelus: “E’ stato individuato in una fase molto iniziale e ben localizzato”",
+      "excerpt": "L’annuncio all’Angelus: “E’ stato individuato in una fase molto iniziale e ben localizzato”. Il ricovero al Gemelli nei primi giorni della prossima settimana ma non domani",
+      "image": null
+    },
+    {
+      "title": "Colpito il terzo data center della “Google russa” Yandex: web in tilt a Mosca",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/yandex_google_russia_ucraina_data_center-425640691/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T10:15:49.000Z",
+      "excerpt": "I droni ucraini hanno centrato l’infrastruttura di Vladimir, nella Russia centrale, causando un crollo nel traffico internet e disservizi online",
       "image": null
     },
     {
@@ -600,14 +672,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-11T08:16:23.000Z",
       "excerpt": "Poker dell’Aprilia sul circuito di Mandalika. Il riminese torna al successo davanti a Fernandez e Martin, che si riprende la vetta della classifica piloti, con due punti di vantaggio sul campione della Ducati",
-      "image": null
-    },
-    {
-      "title": "Fabrizio Corona aggredito e picchiato da sei persone sotto casa: “Era una spedizione punitiva”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/11/news/fabrizio_corona_aggredito_picchiato_sotto_casa_spedizione_punitiva_imprenditore-425640490/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T08:14:01.000Z",
-      "excerpt": "A raccontare l’episodio ai carabinieri è stato l’ex re dei paparazzi che ha detto di aver riconosciuto uno degli aggressori, un imprenditore con cui aveva collaborato",
       "image": null
     },
     {
