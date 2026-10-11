@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-10-11T12:10:13.631Z",
+  "lastUpdated": "2026-10-11T12:47:37.958Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Perché i \"titoli internet\" calano nonostante i guadagni del Nasdaq",
+        "link": "https://it.investing.com/news/stock-market-news/perche-i-titoli-internet-calano-nonostante-i-guadagni-del-nasdaq-3582919",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-11T12:32:13.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      },
+      {
+        "title": "Da gennaio oltre 700 morti sul lavoro. Mattarella: 'La Carta tutela la sicurezza, serve prevenzione'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/anmil-da-gennaio-ad-oggi-oltre-700-morti-sul-lavoro-istituire-reato_cf73ab34-468f-42d1-9268-b01d5af2b0da.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-11T12:28:14.000Z",
+        "excerpt": "L'Anmil: 'Nei primi otto mesi +5,4% di denunce totali di infortunio. L'omicidio sul lavoro sia un reato autonomo'",
+        "image": null
+      },
       {
         "title": "Milano, la Lega insiste:  primarie per il candidato. Il no di Forza Italia",
         "link": "https://www.ilsole24ore.com/art/milano-lega-insiste-primarie-il-candidato-no-forza-italia-AJzlTdgB",
@@ -16,14 +32,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-11T11:30:16.000Z",
         "excerpt": "Il Crc: 'Una famiglia su 3 taglia acquisti alimentari, quasi la metà ridimensiona i viaggi'",
-        "image": null
-      },
-      {
-        "title": "Da gennaio oltre 700 morti sul lavoro. Mattarella: 'La Carta tutela la sicurezza, serve prevenzione'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/anmil-da-gennaio-ad-oggi-oltre-700-morti-sul-lavoro-istituire-reato_cf73ab34-468f-42d1-9268-b01d5af2b0da.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-11T11:21:13.000Z",
-        "excerpt": "L'Anmil: 'Nei primi otto mesi +5,4% di denunce totali di infortunio. L'omicidio sul lavoro sia un reato autonomo'",
         "image": null
       },
       {
@@ -249,14 +257,6 @@
         "pubDate": "2026-10-10T12:47:48.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
-      },
-      {
-        "title": "L’aumento degli spread sui bond francesi minaccia il rally azionario europeo?",
-        "link": "https://it.investing.com/news/stock-market-news/laumento-degli-spread-sui-bond-francesi-minaccia-il-rally-azionario-europeo-3582783",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-10T12:18:32.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg"
       }
     ],
     "europa": [
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "L’allarme degli 007: “Mosca vuole uccidere i manager delle aziende militari europee”",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T12:28:45.000Z",
+        "excerpt": "Secondo indiscrezioni raccolte dal Financial Times presso cinque servizi segreti europei, il Gru, lo spionaggio militare di Mosca, ha avviato piani per assassinare dirigenti dell'industria bellica che forniscono armi all",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/110342137-42f35094-009c-468f-8e62-7d8d05cf7e5e.jpg"
+      },
+      {
+        "title": "Droga su voli militari, sotto accusa l'ex 'first lady' colombiana",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/11/droga-su-voli-militari-sotto-accusa-lex-first-lady-colombiana_9a90f489-4b28-4842-9550-6ab910378825.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T12:20:42.000Z",
+        "excerpt": "La stampa pubblica denunce shock contro la moglie dell'ex presidente Petro",
+        "image": null
+      },
+      {
         "title": "Quando dobbiamo preoccuparci se non ricordiamo un nome o un titolo",
         "link": "https://www.repubblica.it/esteri/dossier/lena/2026/10/11/news/dimenticare_nomi_titoli_film_riconoscere_declino_cognitivo_continental_breakfast-425640812/?rss",
         "source": "Repubblica Esteri",
@@ -406,14 +422,6 @@
         "pubDate": "2026-10-11T11:54:22.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9A08A_L.jpg"
-      },
-      {
-        "title": "L’allarme degli 007: “Mosca vuole uccidere i manager delle aziende militari europee”",
-        "link": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-11T11:53:10.000Z",
-        "excerpt": "Secondo indiscrezioni raccolte dal Financial Times presso cinque servizi segreti europei, il Gru, lo spionaggio militare di Mosca, ha avviato piani per assassinare dirigenti dell'industria bellica che forniscono armi all",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/110342137-42f35094-009c-468f-8e62-7d8d05cf7e5e.jpg"
       },
       {
         "title": "Perché trasformiamo la cultura in una gara",
@@ -528,14 +536,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/104957237-afb209a3-a96b-4b09-95cd-629aee6de801.jpg"
       },
       {
-        "title": "Il Messico costruirà una nuova prigione nello stato di Sinaloa",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/11/il-messico-costruira-una-nuova-prigione-nello-stato-di-sinaloa_797dc21c-044c-459a-93e2-4d7ecf32fc2a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-11T08:46:03.000Z",
-        "excerpt": "Dopo gli scontri con 12 morti e 16 feriti nel carcere di Mazatlán",
-        "image": null
-      },
-      {
         "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
         "link": "https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
         "source": "Investing.com Commodities",
@@ -587,6 +587,22 @@
   },
   "attualita": [
     {
+      "title": "Il Papa: 'Ho un nodulo al polmone, ho deciso di operarmi'",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/10/11/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi_9bf07f99-d56c-4e01-8712-23974b08fc29.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T12:39:03.000Z",
+      "excerpt": "'L'intervento è già programmato nei prossimi giorni'. Leone conferma però la sua visita in Perù, prevista dal 6 al 17 novembre",
+      "image": null
+    },
+    {
+      "title": "Bolelli-Vavassori, la coppia azzurra del doppio si divide",
+      "link": "https://www.repubblica.it/sport/tennis/2026/10/11/news/bolelli_vavassori_doppio_perche_si_separano-425640841/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T12:05:58.000Z",
+      "excerpt": "L’annuncio di Simone dopo il ko a Shanghai: “Credo che ci separeremo”. Andrea giocherà con Arevalo",
+      "image": null
+    },
+    {
       "title": "Gli Houthi rinnovano le loro minacce contro aeroporti e spazio aereo sauditi. Ieri l'attacco allo scalo di Riad, almeno 12 morti e oltre 300 feriti",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/missile-houthi-sullaeroporto-di-riad-almeno-12-morti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
       "source": "ANSA",
@@ -595,11 +611,19 @@
       "image": null
     },
     {
-      "title": "Il Papa: 'Ho un nodulo al polmone, ho deciso di operarmi'",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/10/11/il-papa-ho-un-nodulo-al-polmone-ho-deciso-di-operarmi_9bf07f99-d56c-4e01-8712-23974b08fc29.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-11T11:22:15.000Z",
-      "excerpt": "'L'intervento è già programmato nei prossimi giorni'. Leone conferma però la sua visita in Perù, prevista dal 6 al 17 novembre",
+      "title": "Conte: “Renzi? Mi depotenzia. Ho chiesto garanzie a Schlein”. La leader Pd: mai più errore del 2022",
+      "link": "https://www.repubblica.it/politica/2026/10/11/news/campo_largo_primarie_conte_renzi_schlein-425640801/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T11:20:40.000Z",
+      "excerpt": "I leader del campo largo alla festa di fanpage. Il presidente del M5S sulla presenza in coalizione dell’ex premier: “Prima il programma poi le primarie, se no diventa uno sfascio. Terzo nome? Ma quale moderato. Tema chiu",
+      "image": null
+    },
+    {
+      "title": "Signa, auto contro ciclisti: otto feriti, tre sono gravi",
+      "link": "https://firenze.repubblica.it/cronaca/2026/10/11/news/signa_auto_abbatte_otto_ciclisti_tre_gravi-425640788/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T11:12:07.000Z",
+      "excerpt": "E’ accaduto questa mattina, 11 ottobre. Ancora da chiarire con precisione la dinamica. Sul posto il 118 con l’elisoccorso",
       "image": null
     },
     {
@@ -651,30 +675,6 @@
       "image": null
     },
     {
-      "title": "Vinicius, notte folle: tira i capelli a un avversario, viene espulso, tenta di aggredire l’arbitro",
-      "link": "https://www.repubblica.it/sport/calcio/esteri/2026/10/11/news/vinicius_capelli_tirati_espulsione_aggressione_arbitro-425640626/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T09:20:43.000Z",
-      "excerpt": "L’episodio nella partita poi vinta 1-0 dal Real Madrid sul Villareal. La scorrettezza del brasiliano, entrato nella ripresa, all’inizio dell’azione che lui stesso aveva concluso con una rete, poi annullata",
-      "image": null
-    },
-    {
-      "title": "L’allarme degli 007: “Mosca vuole uccidere i leader della Difesa europei”",
-      "link": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T09:03:51.000Z",
-      "excerpt": "Secondo indiscrezioni raccolte dal Financial Times presso cinque servizi segreti europei, il Gru, lo spionaggio militare di Mosca, ha avviato piani per assassinare dirigenti dell'industria bellica nel continente",
-      "image": null
-    },
-    {
-      "title": "Riad, la vetrina del sogno di bin Salman toccata dalla guerra",
-      "link": "https://www.repubblica.it/esteri/2026/10/11/news/riad_aeroporto_guerra_mohammed_bin_salman-425640552/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T08:46:44.000Z",
-      "excerpt": "L’aeroporto Kig Khaled, dove almeno 12 persone sono morte ieri in seguito a un attacco degli Houthi yemeneti, è la porta di ingresso di una metropoli nel deserto lanciata verso la modernità",
-      "image": null
-    },
-    {
       "title": "Torna Paolo Jannacci: 'Ridere dei guai per affrontare il dolore'",
       "link": "https://www.ansa.it/sito/notizie/cultura/2026/10/10/torna-paolo-jannacci-ridere-dei-guai-per-affrontare-il-dolore_2df72508-59c2-40d7-bc39-39e9658aff4d.html",
       "source": "ANSA",
@@ -717,6 +717,30 @@
   ],
   "sport": [
     {
+      "title": "Como e Roma danno spettacolo, ma al Sinigaglia finisce 0-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/como-e-roma-danno-spettacolo-ma-al-sinigaglia-finisce-0-0_ac4dedd6-870f-4a92-8146-d075a9ffc7ec.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T12:43:10.000Z",
+      "excerpt": "Tante occasioni nel big match di giornata. Rosso a Mallen al 53'",
+      "image": null
+    },
+    {
+      "title": "Champions: il norvegese Saggi arbitra Inter-Bruges",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/champions-il-norvegese-saggi-arbitra-inter-bruges_441e18f8-1183-42a7-88a3-0551b3934b5c.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T12:14:50.000Z",
+      "excerpt": "Villareal-Napoli è stata affidata al tedesco Siebert",
+      "image": null
+    },
+    {
+      "title": "Calcio: infortunio a Fabbri, cambia l'arbitro durante Como-Roma",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/calcio-infortunio-a-fabbri-cambia-larbitro-durante-como-roma_b2a330fd-0c84-47d4-a635-07359f07cc79.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T12:14:33.000Z",
+      "excerpt": "Partita sospesa per tre minuti, a dirigere entra il quarto uomo Sozza",
+      "image": null
+    },
+    {
       "title": "Calcio: Zanetti ai ragazzi della Winners Cup, 'siete tutti vincitori'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/calcio-zanetti-ai-ragazzi-della-winners-cup-siete-tutti-vincitori_89582af4-7562-44e7-801c-a1fec48b8e55.html",
       "source": "ANSA Sport",
@@ -754,30 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T07:57:29.000Z",
       "excerpt": "L'italiano precede Fernandez e Martin. Tripletta Aprilia",
-      "image": null
-    },
-    {
-      "title": "Moto:  Quiles campione del mondo della Moto3",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/11/moto-quiles-campione-del-mondo-della-moto3_f783fcbf-0d95-4f10-972d-a3a154356fb7.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T07:45:12.000Z",
-      "excerpt": "Lo spagnolo si aggiudica il titolo con cinque gare di anticipo",
-      "image": null
-    },
-    {
-      "title": "Serie A: Alvini, 'vittoria Napoli meritata, rigore morbido ma passiamo oltre'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-alvini-vittoria-napoli-meritata-rigore-morbido-ma-passiamo-oltre_e8bde1a6-d39c-4b6a-8758-ee563ecb19ed.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T21:47:10.000Z",
-      "excerpt": "Il tecnico del Frosinone dopo il ko: \"Gara che lascia spunti per migliorare\"",
-      "image": null
-    },
-    {
-      "title": "Baseball: Italia ko con la Spagna, domani match decisivo per il Premier 12",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/10/baseball-italia-ko-con-la-spagna-domani-match-decisivo-per-il-premier-12_ffe3f280-ff1a-4724-a56e-501ffa5bf5a7.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T21:44:23.000Z",
-      "excerpt": "Gli azzurri perdono 5-2, con la Germania spareggio per l'accesso al torneo",
       "image": null
     }
   ]

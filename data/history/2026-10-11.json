@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Perché i \"titoli internet\" calano nonostante i guadagni del Nasdaq",
+        "link": "https://it.investing.com/news/stock-market-news/perche-i-titoli-internet-calano-nonostante-i-guadagni-del-nasdaq-3582919",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-11T12:32:13.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+      },
+      {
         "title": "Milano, la Lega insiste:  primarie per il candidato. Il no di Forza Italia",
         "link": "https://www.ilsole24ore.com/art/milano-lega-insiste-primarie-il-candidato-no-forza-italia-AJzlTdgB",
         "source": "Il Sole 24 Ore",
@@ -633,6 +641,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Droga su voli militari, sotto accusa l'ex 'first lady' colombiana",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/11/droga-su-voli-militari-sotto-accusa-lex-first-lady-colombiana_9a90f489-4b28-4842-9550-6ab910378825.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T12:20:42.000Z",
+        "excerpt": "La stampa pubblica denunce shock contro la moglie dell'ex presidente Petro",
+        "image": null
+      },
+      {
         "title": "Le principali conferenze saudite procedono, dicono gli organizzatori, nonostante l'attacco mortale all'aeroporto",
         "link": "https://www.investing.com/news/commodities-news/major-saudi-conferences-to-proceed-organisers-say-despite-deadly-airport-attack-4942618",
         "source": "Investing.com Commodities",
@@ -1103,18 +1119,34 @@
         "pubDate": "2026-10-09T20:48:36.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM981TF_L.jpg"
-      },
-      {
-        "title": "I prezzi dell'oro hanno toccato il massimo di una settimana, gli investitori guardano alla traiettoria dei tassi della Fed",
-        "link": "https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-09T20:34:53.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED1M0ED_M.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Bolelli-Vavassori, la coppia azzurra del doppio si divide",
+      "link": "https://www.repubblica.it/sport/tennis/2026/10/11/news/bolelli_vavassori_doppio_perche_si_separano-425640841/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T12:05:58.000Z",
+      "excerpt": "L’annuncio di Simone dopo il ko a Shanghai: “Credo che ci separeremo”. Andrea giocherà con Arevalo",
+      "image": null
+    },
+    {
+      "title": "Conte: “Renzi? Mi depotenzia. Ho chiesto garanzie a Schlein”. La leader Pd: mai più errore del 2022",
+      "link": "https://www.repubblica.it/politica/2026/10/11/news/campo_largo_primarie_conte_renzi_schlein-425640801/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T11:20:40.000Z",
+      "excerpt": "I leader del campo largo alla festa di fanpage. Il presidente del M5S sulla presenza in coalizione dell’ex premier: “Prima il programma poi le primarie, se no diventa uno sfascio. Terzo nome? Ma quale moderato. Tema chiu",
+      "image": null
+    },
+    {
+      "title": "Signa, auto contro ciclisti: otto feriti, tre sono gravi",
+      "link": "https://firenze.repubblica.it/cronaca/2026/10/11/news/signa_auto_abbatte_otto_ciclisti_tre_gravi-425640788/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T11:12:07.000Z",
+      "excerpt": "E’ accaduto questa mattina, 11 ottobre. Ancora da chiarire con precisione la dinamica. Sul posto il 118 con l’elisoccorso",
+      "image": null
+    },
     {
       "title": "Oggi primarie socialdemocratiche in Francia: Glucksmann spera di farcela al primo turno",
       "link": "https://www.repubblica.it/esteri/2026/10/11/news/primarie_sinistra_francia_eliseo_glucksmann-425640757/",
@@ -1549,6 +1581,30 @@
     }
   ],
   "sport": [
+    {
+      "title": "Como e Roma danno spettacolo, ma al Sinigaglia finisce 0-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/como-e-roma-danno-spettacolo-ma-al-sinigaglia-finisce-0-0_ac4dedd6-870f-4a92-8146-d075a9ffc7ec.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T12:43:10.000Z",
+      "excerpt": "Tante occasioni nel big match di giornata. Rosso a Mallen al 53'",
+      "image": null
+    },
+    {
+      "title": "Champions: il norvegese Saggi arbitra Inter-Bruges",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/champions-il-norvegese-saggi-arbitra-inter-bruges_441e18f8-1183-42a7-88a3-0551b3934b5c.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T12:14:50.000Z",
+      "excerpt": "Villareal-Napoli è stata affidata al tedesco Siebert",
+      "image": null
+    },
+    {
+      "title": "Calcio: infortunio a Fabbri, cambia l'arbitro durante Como-Roma",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/calcio-infortunio-a-fabbri-cambia-larbitro-durante-como-roma_b2a330fd-0c84-47d4-a635-07359f07cc79.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T12:14:33.000Z",
+      "excerpt": "Partita sospesa per tre minuti, a dirigere entra il quarto uomo Sozza",
+      "image": null
+    },
     {
       "title": "Calcio: Zanetti ai ragazzi della Winners Cup, 'siete tutti vincitori'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/calcio-zanetti-ai-ragazzi-della-winners-cup-siete-tutti-vincitori_89582af4-7562-44e7-801c-a1fec48b8e55.html",
