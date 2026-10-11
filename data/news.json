@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-10-11T07:41:50.211Z",
+  "lastUpdated": "2026-10-11T08:09:03.041Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Folgiero, 'Preparazione e responsabilità, valori comuni in azienda e in barca'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/folgiero-preparazione-e-responsabilita-valori-comuni-in-azienda-e-in-barca_5274b0c1-9e45-49d0-95fe-312434b79195.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-11T07:51:23.000Z",
+        "excerpt": "L'a.d. Fincantieri, 'un laboratorio di team building', a Barcolana58",
+        "image": null
+      },
+      {
+        "title": "Il prezzo dei carburanti torna lievemente a salire, +1 millesimo per benzina e diesel",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/il-prezzo-dei-carburanti-torna-lievemente-a-salire-1-millesimo-per-benzina-e-diesel_b90b1139-399c-4e20-b69c-4a792f4259e5.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-11T07:50:49.000Z",
+        "excerpt": "Mimit, 2,036 euro per la verde e 2,253 euro al litro per il gasolio",
+        "image": null
+      },
       {
         "title": "Casini: lascio il Parlamento dopo 44 anni, non mi ricandido",
         "link": "https://www.ilsole24ore.com/art/casini-lascio-parlamento-44-anni-non-mi-ricandido-AJWSiQgB",
@@ -241,22 +257,6 @@
         "pubDate": "2026-10-10T09:33:26.000Z",
         "excerpt": "Confesercenti, allarme desertificazione commerciale soprattutto nei piccoli centri",
         "image": null
-      },
-      {
-        "title": "Oltre 50mila firme per proposta di legge sul commercio di prossimità",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/oltre-50mila-firme-per-proposta-di-legge-sul-commercio-di-prossimita_2c3b6108-6b5f-45c3-a5b3-e827d2f98bb7.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-10T09:32:41.000Z",
-        "excerpt": "Confesercenti, 'vittoria di imprese e territori, fermare la desertificazione commerciale'",
-        "image": null
-      },
-      {
-        "title": "Confindustria etnea, autotrasporto siciliano fermo dal 16 al 22 ottobre",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/10/confindustria-etnea-autotrasporto-siciliano-fermo-dal-16-al-22-ottobre_6f45a6df-ddde-45d7-a014-74b5abdaf398.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-10T08:30:13.000Z",
-        "excerpt": "'Il comparto è allo stremo per caro gasolio e oneri sistema Ets'",
-        "image": null
       }
     ],
     "europa": [
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Gli Houthi avvertono i viaggiatori, non usate gli aeroporti sauditi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/gli-houthi-avvertono-i-viaggiatori-non-usate-gli-aeroporti-sauditi_2206252c-b51f-49c3-9d1a-c058e79df178.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T07:58:38.000Z",
+        "excerpt": "Il giorno dopo l'attacco allo scalo di Riad che ha provocato 12 morti",
+        "image": null
+      },
+      {
         "title": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/ambasciata-usa-alza-il-livello-di-allerta-per-i-connazionali-in-arabia-saudita_18d95069-9a9b-4d03-96c3-da02a935a3f5.html",
         "source": "ANSA Mondo",
@@ -512,14 +520,6 @@
         "image": null
       },
       {
-        "title": "Nyt, 'almeno 12 morti nell'attacco degli houthi all'aeroporto di Riad'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/nyt-almeno-12-morti-nellattacco-degli-houthi-allaeroporto-di-riad_7cff0445-1b45-412f-b938-a3a1fb44e687.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T20:59:14.000Z",
-        "excerpt": "I feriti sono almeno 50",
-        "image": null
-      },
-      {
         "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
         "link": "https://www.investing.com/news/commodities-news/abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027-4942138",
         "source": "Investing.com Commodities",
@@ -587,6 +587,22 @@
   },
   "attualita": [
     {
+      "title": "MotoGP: Marco Bezzecchi vince il Gp d'Indonesia",
+      "link": "https://www.ansa.it/sito/notizie/sport/moto/2026/10/11/motogp-marco-bezzecchi-vince-il-gp-dindonesia_5cf08714-e0b8-49e1-82fa-ee92ad6db0f5.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T07:51:27.000Z",
+      "excerpt": "L'italiano precede Fernandez e Martin. Tripletta per l'Aprilia",
+      "image": null
+    },
+    {
+      "title": "Missile Houthi sull'aeroporto di Riad, almeno 12 morti e oltre 300 feriti",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/missile-houthi-sullaeroporto-di-riad-almeno-12-morti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T07:50:27.000Z",
+      "excerpt": "Evacuazioni per il nuovo raid che ha provocato oltre 300 feriti. Paesi sconsigliano voli. Ambasciata Usa alza il livello di allerta In Arabia Saudita",
+      "image": null
+    },
+    {
       "title": "Trump: 'L'Ucraina dovrebbe tenere elezioni, Putin mi ha detto che vuole un accordo'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/trump-lucraina-dovrebbe-tenere-elezioni-putin-mi-ha-detto-che-vuole-un-accordo_2822374d-dfd0-4b0b-9768-eb9f9b6f6578.html",
       "source": "ANSA",
@@ -611,27 +627,11 @@
       "image": null
     },
     {
-      "title": "Missile Houthi sull'aeroporto di Riad, almeno 12 morti e oltre 300 feriti",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/missile-houthi-sullaeroporto-di-riad-almeno-12-morti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-11T06:56:35.000Z",
-      "excerpt": "Evacuazioni per il nuovo raid che ha provocato oltre 300 feriti. Paesi sconsigliano voli. Ambasciata Usa alza il livello di allerta In Arabia Saudita",
-      "image": null
-    },
-    {
       "title": "L’annuncio di Casini: “Dopo 44 anni dirò addio al Parlamento”",
       "link": "https://www.repubblica.it/politica/2026/10/11/news/casini_lascia_parlamento_intervista-425640357/",
       "source": "Repubblica",
       "pubDate": "2026-10-11T06:18:56.000Z",
-      "excerpt": "L'ex presidente della Camera racconta il suo l'addio alla politica ricordando i più momenti più belli della sua carriera",
-      "image": null
-    },
-    {
-      "title": "Nubifragi, allagamenti e frane: il maltempo fa paura al Sud",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-fa-paura-al-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-11T04:57:50.000Z",
-      "excerpt": "A Lipari esondati i torrenti, bomba d'acqua nel Reggino. Acqua nella basilica di S.Nicola a Bari",
+      "excerpt": "L'ex presidente della Camera racconta il suo l'addio alla politica",
       "image": null
     },
     {
@@ -717,6 +717,22 @@
   ],
   "sport": [
     {
+      "title": "Bezzecchi vince il Gp d'Indonesia",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/11/bezzecchi-vince-il-gp-dindonesia_e47e047a-bf0c-4fa7-b2a8-f131a2fb764e.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T07:57:29.000Z",
+      "excerpt": "L'italiano precede Fernandez e Martin. Tripletta Aprilia",
+      "image": null
+    },
+    {
+      "title": "Moto:  Quiles campione del mondo della Moto3",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/11/moto-quiles-campione-del-mondo-della-moto3_f783fcbf-0d95-4f10-972d-a3a154356fb7.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T07:45:12.000Z",
+      "excerpt": "Lo spagnolo si aggiudica il titolo con cinque gare di anticipo",
+      "image": null
+    },
+    {
       "title": "Serie A: Alvini, 'vittoria Napoli meritata, rigore morbido ma passiamo oltre'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-alvini-vittoria-napoli-meritata-rigore-morbido-ma-passiamo-oltre_e8bde1a6-d39c-4b6a-8758-ee563ecb19ed.html",
       "source": "ANSA Sport",
@@ -762,22 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-10T20:39:27.000Z",
       "excerpt": "La squadra di Allegri aggancia quella di Alvini in classifica",
-      "image": null
-    },
-    {
-      "title": "Serie A: Chivu, 'era un'incognita, sono contento della qualità dell'Inter'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-chivu-era-unincognita-sono-contento-della-qualita-dellinter_e07635e3-20b9-4fd5-b654-38d399a2323c.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T18:51:33.000Z",
-      "excerpt": "'Felice di aver concesso minuti a molti, Pio Esposito un generoso e ci aiuterà'",
-      "image": null
-    },
-    {
-      "title": "Serie A: Gilardino, 'se commetti ingenuità a San Siro diventa difficile'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-gilardino-se-commetti-ingenuita-a-san-siro-diventa-difficile_28bd24fd-c26b-4902-a220-88ca5bbd27ca.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T18:39:45.000Z",
-      "excerpt": "Il neotecnico del Parma: \"Dobbiamo crescere e capire i momenti della partita\"",
       "image": null
     }
   ]
