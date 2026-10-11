@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T21:42:13.502Z",
+  "lastUpdated": "2026-10-11T22:07:49.963Z",
   "finanza": {
     "italia": [
       {
@@ -587,6 +587,14 @@
   },
   "attualita": [
     {
+      "title": "Le pagelle di Cagliari-Juventus: Mina un gigante, Woltemade disarmante",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/pagelle_cagliari_juventus-425641715/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T21:39:59.000Z",
+      "excerpt": "Promossi e bocciati della sfida tra rossoblù e bianconeri",
+      "image": null
+    },
+    {
       "title": "Kolo Muani tiene a galla la Juventus: 1-1 a Cagliari",
       "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/cagliari_juventus_gol-425641711/",
       "source": "Repubblica",
@@ -595,19 +603,11 @@
       "image": null
     },
     {
-      "title": "Spalletti-Pisacane, rissa sfiorata: cosa è successo",
+      "title": "Spalletti-Pisacane, rissa sfiorata e cartellini rossi: cosa è successo",
       "link": "https://www.repubblica.it/sport/calcio/serie-a/juventus/2026/10/11/news/spalletti_pisacane_rissa_sfiorata_cosa_e_successo-425641708/",
       "source": "Repubblica",
       "pubDate": "2026-10-11T21:21:55.000Z",
-      "excerpt": "I due allenatori a muso duro dopo il triplice fischio. Entrambi espulsi",
-      "image": null
-    },
-    {
-      "title": "Salis da Fazio: “Le primarie sono divisive, ma noi sindaci possiamo dare una mano al centrosinistra”",
-      "link": "https://genova.repubblica.it/cronaca/2026/10/11/news/salis_nove_fazio_primarie_divisive_sindaci_centrosinistra-425641640/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T20:29:47.000Z",
-      "excerpt": "La sindaca di Genova in diretta sul Nove annuncia la sua presenza al fianco degli operai di Cornigliano in lotta contro la chiusura della fabbrica, e commenta lo stallo nel centrosinistra",
+      "excerpt": "I due allenatori a muso duro dopo il triplice fischio, entrambi espulsi",
       "image": null
     },
     {
@@ -717,27 +717,35 @@
   ],
   "sport": [
     {
+      "title": "Brasile: il Corinthians in crisi sceglie Seerdorf come allenatore",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/brasile-il-corinthians-in-crisi-sceglie-seerdorf-come-allenatore_396ae108-2bf7-4df6-b1df-7d8826928547.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T22:01:48.000Z",
+      "excerpt": "Il club paulista si affida alla stella olandese per evitare la retrocessione",
+      "image": null
+    },
+    {
+      "title": "Lazio in testa con l'Inter, la Roma in 10 resiste al Como e il Cagliari si gode il quarto posto",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/la-lazio-sogna-in-testa-con-linter-la-roma-frena-a-como-e-il-cagliari-si-gode_21745bf3-445d-4509-b342-ba2a41ea71d7.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T21:55:40.000Z",
+      "excerpt": "La Juventus bloccata a Cagliari, anche il Milan fa 1-1 col Sassuolo. Prima vittoria per il Bologna",
+      "image": null
+    },
+    {
+      "title": "Cagliari: Pisacane \"con Spalletti doveva finire in un abbraccio, peccato\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/cagliari-pisacane-con-spalletti-doveva-finire-in-un-abbraccio-peccato_ccebfc99-392f-4181-afeb-444654182743.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T21:46:33.000Z",
+      "excerpt": "'Prova di grande spirito, bene il pari perchè la Juve poteva vincere'",
+      "image": null
+    },
+    {
       "title": "Juve: Spalletti, grande gara ma bisognava vincerla",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/juve-spalletti-grande-gara-ma-bisognava-vincerla_077facf7-5585-4501-a1d4-9a07ab315af9.html",
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T21:37:49.000Z",
       "excerpt": "\"Con Pisacane non è successo nulla, gli ho detto: bravi anche a perdere tempo\"",
-      "image": null
-    },
-    {
-      "title": "Il Mapei resta tabù per il Milan, è 1-1 col Sassuolo",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/il-mapei-resta-tabu-per-il-milan-e-1-1-col-sassuolo_c2ba2fc3-f638-488d-b401-ef95330b5393.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T21:35:24.000Z",
-      "excerpt": "Ramos non si sblocca, a Rabiot risponde Odenthal e i rossoneri perdono terreno",
-      "image": null
-    },
-    {
-      "title": "La Lazio sogna in testa con l'Inter, la Roma frena a Como",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/la-lazio-sogna-in-testa-con-linter-la-roma-frena-a-como_21745bf3-445d-4509-b342-ba2a41ea71d7.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T21:35:17.000Z",
-      "excerpt": "La Juve frenata a Cagliari, anche il Milan fa 1-1 col Sassuolo; riparte il Bologna",
       "image": null
     },
     {
@@ -770,14 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T18:54:35.000Z",
       "excerpt": "Reds restano in 10 nella ripresa e la squadra di Maresca si scatena",
-      "image": null
-    },
-    {
-      "title": "Hamilton gp da dimenticare, malessere e scuse 'una dura lezione'",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/11/hamilton-gp-da-dimenticare-malessere-e-scuse-una-dura-lezione_01fd361e-2765-465d-b595-664ea6142b6d.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T18:54:08.000Z",
-      "excerpt": "Il pilota Ferrari sbaglia strategia: 'Colpa mia'. Vasseur 'evitiamo che si ripeta'",
       "image": null
     }
   ]
