@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T09:08:27.321Z",
+  "lastUpdated": "2026-10-11T09:42:43.441Z",
   "finanza": {
     "italia": [
       {
@@ -144,7 +144,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-10T16:52:37.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3O0LG_1200_L.jpg"
       },
       {
         "title": "Sigarette, allarme svapo tra i giovani. I pediatri: screening già dagli 11 anni",
@@ -261,6 +261,22 @@
     ],
     "europa": [
       {
+        "title": "Naufragio al largo di Gibuti: almeno 109 migranti morti e 116 dispersi",
+        "link": "https://www.ilsole24ore.com/art/naufragio-largo-gibuti-almeno-109-migranti-morti-e-116-dispersi-AJBZlWgB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-11T09:38:40.000Z",
+        "excerpt": "Almeno 109 migranti, tra cui 15 bambini, hanno perso la vita e almeno 116 risultano dispersi in seguito al naufragio di un’imbarcazione avvenuto nella notte tra l’8 e il 9...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/f15185389fe8de4f6d847fd06fd2cd53-U37448061800OeK-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Bilancio Ue, proposto taglio dell’8% alle spese «frugali». Critiche da Olanda e Germania",
+        "link": "https://www.ilsole24ore.com/art/bilancio-ue-proposto-taglio-dell-8percento-spese-frugali-critiche-olanda-e-germania-AJuWpTgB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-11T09:23:00.000Z",
+        "excerpt": "L’ipotesi della presidenza irlandese prevede riduzioni orizzontali dei capitoli. Troppo poco per Olanda e Germania. Merz: intesa ancora lontana",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/AdobeStock_158258819-U27157010180xKU-1440x752@IlSole24Ore-Web.jpeg"
+      },
+      {
         "title": "Trump ancora giù nei consensi, pesa l’economia: gradimento al 34%",
         "link": "https://www.ilsole24ore.com/art/trump-ancora-giu-consensi-pesa-l-economia-gradimento-34percento-AJZddUgB",
         "source": "Il Sole 24 Ore Mondo",
@@ -307,22 +323,6 @@
         "pubDate": "2026-10-10T16:29:07.000Z",
         "excerpt": "In Europa non esiste un modello unico sul fine vita. Spagna e altri Paesi hanno legalizzato, con modalità diverse, eutanasia o suicidio assistito; Francia e Italia riconoscono forme più limitate di autodeterminazione, me",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/03/Immagini/Ritagli/CIAO-U46557431386Erm-1440x752@IlSole24Ore-Web.png"
-      },
-      {
-        "title": "L’Ue chiede agli Usa di ritirare le sanzioni alla Cpi: «Pronti a ogni misura». Nobel Pillay: «Senza precedenti»",
-        "link": "https://www.ilsole24ore.com/art/l-ue-chiede-usa-ritirare-sanzioni-cpi-pronti-ogni-misura-AJ0mmmfB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-10T10:27:00.000Z",
-        "excerpt": "L’Ue esorta gli Usa a ritirare le nuove sanzioni alla Corte penale internazionale (Cpi) e si dice “pronta ad adottare tutte le misure necessarie per garantire che la...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/778341269adc3c2526b3b4e03fc0de21-U16260311125iel-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "India: fermati i leader degli “Scarafaggi” per impedire le proteste contro Modi",
-        "link": "https://www.ilsole24ore.com/art/india-fermati-leader-scarafaggi-impedire-proteste-contro-modi-AJrLWhfB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-10T08:56:00.000Z",
-        "excerpt": "Il movimento giovanile di protesta si sta battendo contro l’esclusione di decine di milioni di cittadini dalle liste elettorali",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/2026-10-10T084335Z_1823954758_RC260OAKN752_RTRMADP_5_INDIA-POLITICS-GEN-Z-U28581284205EoO-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -392,6 +392,30 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Zelensky, fermeremo raid su raffinerie se Mosca smetterà di colpire siti energetici",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/zelensky-fermeremo-raid-su-raffinerie-se-mosca-smettera-di-colpire-siti-energetici_c172aa7b-e4b0-43f9-afcb-fc25b091c35f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T09:21:39.000Z",
+        "excerpt": "'Qualsiasi misura di de-escalation deve essere reciproca e sostenuta da garanzie concrete'",
+        "image": null
+      },
+      {
+        "title": "Almeno 109 migranti morti in un naufragio al largo di Gibuti, oltre 116 i dispersi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/11/almeno-109-migranti-morti-in-un-naufragio-al-largo-di-gibuti-oltre-116-i-dispersi_f6785185-c5d5-4de2-b6f8-14f83d20b40c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T09:19:32.000Z",
+        "excerpt": "Il bilancio è destinato a salire, anche 15 bambini tra le vittime",
+        "image": null
+      },
+      {
+        "title": "Terremoto a Panama, il governo decreta lo stato di emergenza",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/11/terremoto-a-panama-il-governo-decreta-lo-stato-di-emergenza_e9fdfd0d-5dfd-4f3d-84c3-920f5aa95f89.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T09:13:01.000Z",
+        "excerpt": "Una commissione coordinerà gli interventi di assistenza e la risposta ai danni",
+        "image": null
+      },
+      {
         "title": "L’allarme degli 007: “Mosca vuole uccidere i leader della Difesa europei”",
         "link": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/?rss",
         "source": "Repubblica Esteri",
@@ -453,30 +477,6 @@
         "source": "ANSA Mondo",
         "pubDate": "2026-10-11T07:58:38.000Z",
         "excerpt": "Il giorno dopo l'attacco allo scalo di Riad che ha provocato 12 morti",
-        "image": null
-      },
-      {
-        "title": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/ambasciata-usa-alza-il-livello-di-allerta-per-i-connazionali-in-arabia-saudita_18d95069-9a9b-4d03-96c3-da02a935a3f5.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-11T07:10:51.000Z",
-        "excerpt": "Limitato l'accesso del suo personale agli scali di Gedda e Dammam",
-        "image": null
-      },
-      {
-        "title": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/ambasciata-usa-alza-il-livello-di-allerta-per-i-connazionali-in-arabia-saudita_6d0fc3de-ff9f-4de1-89d3-aa1889b07814.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-11T06:10:16.000Z",
-        "excerpt": "Limitato l'accesso del suo personale agli scali di Gedda e Dammam",
-        "image": null
-      },
-      {
-        "title": "Ambasciata Usa alza il livello di allerta per i connazionali in Arabia Saudita",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/ambasciata-usa-alza-il-livello-di-allerta-per-i-connazionali-in-arabia-saudita_ae5f2e7b-0e40-457a-8f5c-297a10385f1b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-11T06:10:16.000Z",
-        "excerpt": "Limitato l'accesso del suo personale agli scali di Gedda e Dammam",
         "image": null
       },
       {
@@ -587,19 +587,27 @@
   },
   "attualita": [
     {
+      "title": "L'allarme degli 007: 'Mosca intensifica i tentativi di assassinare i vertici della difesa europea'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/lallarme-degli-007-mosca-intensifica-i-tentativi-di-assassinare-i-vertici-della-difesa_aff1e77d-6140-4ab2-91ff-7e2cc737cd8a.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T09:05:11.000Z",
+      "excerpt": "Il Ft rivela: 'Aumentate le misure di sicurezza attorno ai dirigenti di alto livello'",
+      "image": null
+    },
+    {
+      "title": "L’allarme degli 007: “Mosca vuole uccidere i leader della Difesa europei”",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/allarme_007russia_uccidere_leader_difesa_europa-425640597/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T09:03:51.000Z",
+      "excerpt": "Secondo indiscrezioni raccolte dal Financial Times presso cinque servizi segreti europei, il Gru, lo spionaggio militare di Mosca, ha avviato piani per assassinare dirigenti dell'industria bellica nel continente",
+      "image": null
+    },
+    {
       "title": "Riad, la vetrina del sogno di bin Salman toccata dalla guerra",
       "link": "https://www.repubblica.it/esteri/2026/10/11/news/riad_aeroporto_guerra_mohammed_bin_salman-425640552/",
       "source": "Repubblica",
       "pubDate": "2026-10-11T08:46:44.000Z",
       "excerpt": "L’aeroporto Kig Khaled, dove almeno 12 persone sono morte ieri in seguito a un attacco degli Houthi yemeneti, è la porta di ingresso di una metropoli nel deserto lanciata verso la modernità",
-      "image": null
-    },
-    {
-      "title": "L'allarme degli 007: 'Mosca intensifica i tentativi di assassinare i vertici della difesa europea'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/lallarme-degli-007-mosca-intensifica-i-tentativi-di-assassinare-i-vertici-della-difesa_aff1e77d-6140-4ab2-91ff-7e2cc737cd8a.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-11T08:43:59.000Z",
-      "excerpt": "Il Ft rivela: 'Aumentate le misure di sicurezza attorno ai dirigenti di alto livello'",
       "image": null
     },
     {
@@ -655,7 +663,15 @@
       "link": "https://www.repubblica.it/politica/2026/10/11/news/casini_lascia_parlamento_intervista-425640357/",
       "source": "Repubblica",
       "pubDate": "2026-10-11T06:18:56.000Z",
-      "excerpt": "L'ex presidente della Camera rivela il suo l'addio alla politica: “Lasciare è al cosa più difficile ma l’importante è farlo sulle proprie gambe”",
+      "excerpt": "L'ex presidente della Camera spiega: “Lasciare è la cosa più difficile ma l’importante è farlo sulle proprie gambe”. Da tanto si parla di lui come di un possibile candidato per il Quirinale",
+      "image": null
+    },
+    {
+      "title": "Ranucci dopo lo stop a Report: “Voglio fare il giornalista, ma sono a disposizione della società”",
+      "link": "https://roma.repubblica.it/cronaca/2026/10/11/news/sigfrido_ranucci_dopo_lo_stop_a_report_ricorsi_rai_inchiesta_lavitola-425639962/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T06:00:00.000Z",
+      "excerpt": "Dopo il no al reintegro, il conduttore prepara con i suoi legali le prossime mosse contro la Rai. Sullo sfondo la sospensione disciplinare, la testimonianza sull’attentato e il caso Lavitola. La redazione: «Nessuno lo ha",
       "image": null
     },
     {
@@ -672,22 +688,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-11T04:00:00.000Z",
       "excerpt": "Green homes will replace Naples’ decaying housing blocks, made notorious by Roberto Saviano’s portrayal of the Camorra",
-      "image": null
-    },
-    {
-      "title": "George Clooney to open an Italian Restaurant in southern France",
-      "link": "https://europe.repubblica.it/en/food-travel/2026/10/11/news/george_clooney_to_open_an_italian_restaurant_in_southern_france-425639070/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T04:00:00.000Z",
-      "excerpt": "The Hollywood star's venue will be located in Cotignac, Provence. The opening is scheduled for spring 2027",
-      "image": null
-    },
-    {
-      "title": "I bambini ucraini rapiti e le urla dal silenzio soffocate dall’indifferenza",
-      "link": "https://www.repubblica.it/esteri/2026/10/11/news/i_bambini_ucraini_rapiti-425640173/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T23:28:29.000Z",
-      "excerpt": "Dal febbraio 2022 almeno ventimila minori sono stati deportati in Russia eppure la tragedia sembra interessare solo il Vaticano",
       "image": null
     },
     {
@@ -717,10 +717,26 @@
   ],
   "sport": [
     {
+      "title": "Sci: lo slalom di Coppa Europa a Obereggen il 18 dicembre 2026",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/11/sci-lo-slalom-di-coppa-europa-a-obereggen-il-18-dicembre-2026_55c7e135-dcc8-49e4-837d-880fecbcff05.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T09:29:41.000Z",
+      "excerpt": "La gara si terrà sulla pista Maierl del comprensorio sciistico Latemar Dolomites",
+      "image": null
+    },
+    {
+      "title": "Tennis: Shelton fuori a Shanghai, de Minaur agli ottavi",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/11/tennis-shelton-fuori-a-shanghai-de-minaur-agli-ottavi_962dcc67-8816-452b-93e0-120adf2fa659.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T09:22:32.000Z",
+      "excerpt": "Lo statunitense è in corsa per un posto le Atp Finals di Torino",
+      "image": null
+    },
+    {
       "title": "Il Barcellona non si ferma più, Diomandé regala tre punti al Real",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-barcellona-non-si-ferma-piu-diomande-regala-tre-punti-al-real_b8e3041b-aa71-42ad-9b2b-ab292251660e.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-11T08:36:32.000Z",
+      "pubDate": "2026-10-11T09:21:32.000Z",
       "excerpt": "I blaugrana fanno 8 su 8 in Liga, i blancos vincono anche in 10 uomini",
       "image": null
     },
@@ -762,22 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-10T21:31:06.000Z",
       "excerpt": "Il tecnico del Napoli: \"Buon approccio ma tante situazioni non sfruttate\"",
-      "image": null
-    },
-    {
-      "title": "Doppietta di De Bruyne e il Napoli torna a vincere, 3-0 al Frosinone",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/doppietta-di-de-bruyne-e-il-napoli-torna-a-vincere-3-0-al-frosinone_57206b56-039f-4610-9ef4-7db201bb9b37.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T21:06:57.000Z",
-      "excerpt": "In gol anche Lang, gli azzurri ritrovano McTominay. Vincono anche Inter e Genoa negli anticipi della sesta giornata",
-      "image": null
-    },
-    {
-      "title": "Serie A: doppio De Bruyne e Lang, il Napoli stende il Frosinone al Maradona",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-doppio-de-bruyne-e-lang-il-napoli-stende-il-frosinone-al-maradona_9e1d193f-332a-4eb7-914c-73dbe779c287.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T20:39:27.000Z",
-      "excerpt": "La squadra di Allegri aggancia quella di Alvini in classifica",
       "image": null
     }
   ]
