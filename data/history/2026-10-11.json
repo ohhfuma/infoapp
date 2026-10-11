@@ -673,6 +673,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "'Zelensky, non sapevo della tregua, diteci quando inizia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/zelensky-non-sapevo-della-tregua-diteci-quando-inizia_f6fb6e94-3045-43cb-b120-4bbf0d301d23.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T15:00:29.000Z",
+        "excerpt": "Barak Ravid di Axios riferisce di una conversazione con il presidente ucraino",
+        "image": null
+      },
+      {
+        "title": "Nuovo attacco colpisce l'aeroporto di Riad, incendio a terminal",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/nuovo-attacco-colpisce-laeroporto-di-riad-incendio-a-terminal_bf5011f6-da02-4151-8917-d43bd0f893ee.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T14:58:08.000Z",
+        "excerpt": "'Colpito da proiettile sconosciuto. Intercettato un missile da crociera verso lo scalo'",
+        "image": null
+      },
+      {
         "title": "Esplosione udita nel centro di Riad",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/esplosione-udita-nel-centro-di-riad_7712707c-31ee-4ca7-8916-c3159bd47563.html",
         "source": "ANSA Mondo",
@@ -1135,32 +1151,40 @@
         "pubDate": "2026-10-10T13:18:26.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM990BU_L.jpg"
-      },
-      {
-        "title": "Le principali conferenze saudite procedono, dicono gli organizzatori, nonostante l'attacco mortale all'aeroporto",
-        "link": "https://www.investing.com/news/commodities-news/major-saudi-conferences-to-proceed-organisers-say-despite-deadly-airport-attack-4942088",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-10T11:36:21.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM990AA_L.jpg"
-      },
-      {
-        "title": "Regno Unito, danni milionari al Royal Lodge dell’ex principe Andrea: a pagare ora è il fratello Carlo",
-        "link": "https://www.repubblica.it/esteri/2026/10/10/news/regno_unito_danni_milionari_al_royal_lodge_dell_ex_principe_andrea_a_pagare_ora_e_il_fratello_carlo-425638774/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-10T10:13:52.000Z",
-        "excerpt": "Buckingam Palace parla di “un prestito”. A febbraio scorso era stato proprio il sovrano a cacciare “la pecora nera” della royal family dalla lussuosa magione nel parco di Windsor, dove aveva vissuto gratuitamente per ann",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/121339884-ac1a031d-68a9-43a9-a259-a147f63b3890.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "++ 'Zelensky, non sapevo della tregua, diteci quando inizia' ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/11/-zelensky-non-sapevo-della-tregua-diteci-quando-inizia-_3efc0d7c-e613-470d-bad6-3e2f217b992e.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T14:58:10.000Z",
+      "excerpt": "Barak Ravid di Axios riferisce di una conversazione con il presidente ucraino",
+      "image": null
+    },
     {
       "title": "Trump: 'E' in vigore una tregua energetica nella guerra fra Russia e Ucraina'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/trump-e-in-vigore-una-tregua-energetica-nella-guerra-fra-russia-e-ucraina_2822374d-dfd0-4b0b-9768-eb9f9b6f6578.html",
       "source": "ANSA",
       "pubDate": "2026-10-11T14:39:38.000Z",
       "excerpt": "Il presidente Usa: 'L'Ucraina dovrebbe tenere elezioni'. Zelensky: 'Spetta agli ucraini scegliere il proprio leader'. Solidarietà di Berlino e Varsavia al leader ucraino",
+      "image": null
+    },
+    {
+      "title": "Verstappen vola a Singapore, Leclerc è 2°. Per Antonelli (3°) a Austin il primo match point mondiale",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/10/11/news/verstappen_successo_singapore_antonelli_match_point_mondiale-425641039/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T14:38:49.000Z",
+      "excerpt": "Secondo successo di fila per Max, davanti a Charles e Kimi che si porta a +102 su Russell. Hamilton soltanto sesto, si scusa con il team per la strategia che ha scelto: “Vi ho deluso”",
+      "image": null
+    },
+    {
+      "title": "Antonelli, il Mondiale è vicinissimo: quando può vincere il titolo",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/10/11/news/kimi_antonelli_mondiale_quando_puo_vincere_titolo-425641015/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T14:24:38.000Z",
+      "excerpt": "Con il terzo posto a Singapore a sei gare dalla fine il pilota italiano già a Austin ha il primo match point della stagione",
       "image": null
     },
     {
@@ -1610,33 +1634,49 @@
       "pubDate": "2026-10-10T17:54:52.000Z",
       "excerpt": "Il nodo è il consenso nello spazio pubblico. Esperto: \"Le regole vanno aggiornate\"",
       "image": null
-    },
-    {
-      "title": "La Ue: “Gli Usa ritirino subito le sanzioni contro la Cpi”. Pillay: “Sono misure inaudite”",
-      "link": "https://www.repubblica.it/esteri/2026/10/10/news/ue_usa_sanzioni_cpi_navi_pillay_nobel_pace-425639647/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T17:28:05.000Z",
-      "excerpt": "L’indomani della consegna del Premio Nobel per la pace alla giurista pro Gaza Kallas promette: “Pronti a ogni intervento necessario a difesa della Corte”",
-      "image": null
-    },
-    {
-      "title": "Rai, la squadra di Report: “Mai sfiduciato Ranucci né chiesta la sua rimozione”",
-      "link": "https://www.repubblica.it/politica/2026/10/10/news/rai_report_redazione_mai_sfiduciato_ranucci-425639555/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T16:30:56.000Z",
-      "excerpt": "Lo redazione ricostruisce quanto accaduto all'indomani della decisione del giudice del lavoro che ha respinto l'istanza dell’ex conduttore per il reintegro alla guida del programma",
-      "image": null
-    },
-    {
-      "title": "Corteo pro Pal, a Roma spunta lo striscione sul 7 ottobre: “Giornata della Resistenza”",
-      "link": "https://roma.repubblica.it/cronaca/2026/10/10/news/corteo_pro_palestina_gaza_roma_striscione_7_ottobre_giornata_resistenza-425639531/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T16:15:15.000Z",
-      "excerpt": "La scritta è apparsa nel mezzo del corteo che ha pacificamente attraversato il centro di Roma fino alla Sapienza",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: Lazio-Monza 3-1",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/serie-a-lazio-monza-3-1_ab7d0c1b-f7f6-4096-ac21-1b7d9a3aedfc.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T15:01:23.000Z",
+      "excerpt": "Nuno Tavares la sblocca al 2' con un tiro sotto la traversa dal limite dell'area, raddoppia Isaksen al 23 con un tiro a incrociare di sinistro. Accorcia Goglichidze, tris di Pinamonti",
+      "image": null
+    },
+    {
+      "title": "Continua il sogno della Lazio, 3-1 al Monza e primato in classifica",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/continua-il-sogno-della-lazio-3-1-al-monza-e-primato-in-classifica_893ee4b4-7bb1-4952-8989-b0c192e24e4b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T14:59:37.000Z",
+      "excerpt": "La squadra di Gattuso aggancia l'Inter. In rete Tavares e Isaksen, accorcia Goglichidze",
+      "image": null
+    },
+    {
+      "title": "Fenomeno Seixas, il mondo ai piedi del predestinato ",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/11/fenomeno-seixas-il-mondo-ai-piedi-del-predestinato-_729f84cc-81dc-4ec5-b288-d6dee2c9bd69.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T14:48:46.000Z",
+      "excerpt": "Il francese 20enne consacrato in Lombardia: da Doualla a Finn, la carica dei giovanissimi",
+      "image": null
+    },
+    {
+      "title": "Gp Singapore: Antonelli \"campione già ad Austin? L'importante è fare il meglio possibile\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/11/gp-singapore-antonelli-campione-gia-ad-austin-limportante-e-fare-il-meglio-possibile_253de58b-1fe7-4d4c-9ab7-707e5adaccb9.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T14:47:56.000Z",
+      "excerpt": "Il leader del mondiale \"qui una gara molto dura, sono felice del terzo posto\"",
+      "image": null
+    },
+    {
+      "title": "Gp Singapore: Leclerc \"di più oggi non si poteva fare, non ho rimpianti\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/11/gp-singapore-leclerc-di-piu-oggi-non-si-poteva-fare-non-ho-rimpianti_ff43f510-9166-4c83-8570-fcbdfda763b6.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T14:41:44.000Z",
+      "excerpt": "Il ferrarista \"abbiamo iniziato bene la gara, poi siamo un po' calati\"",
+      "image": null
+    },
     {
       "title": "Azzurre a caccia dei mondiali \"il 'Franchi' l'arma in più'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/azzurre-a-caccia-dei-mondiali-il-franchi-larma-in-piu_f36756b8-2324-4eae-be4a-a884bc8478d1.html",
