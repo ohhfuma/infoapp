@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-11T08:09:03.041Z",
+  "lastUpdated": "2026-10-11T08:42:56.700Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Cabine telefoniche. La missione per salvarle, tra 52 chiamate al giorno e gli accordi tra nostalgici",
+        "link": "https://www.repubblica.it/economia/2026/10/11/news/cabine_telefoniche_la_missione_per_salvarle_tra_52_chiamate_al_giorno_e_gli_accordi_tra_nostalgici-425640518/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-11T08:28:07.000Z",
+        "excerpt": "In Scozia gli abitanti si sono organizzati per usare la vecchia postazione in modo da non farla dismettere. Ma anche altri estimatori sono pronti a tutto per garantire una second life al “gettone”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/102516265-464530e8-ffe9-4727-bbc3-70229728e4af.jpg"
+      },
       {
         "title": "Folgiero, 'Preparazione e responsabilità, valori comuni in azienda e in barca'",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/folgiero-preparazione-e-responsabilita-valori-comuni-in-azienda-e-in-barca_5274b0c1-9e45-49d0-95fe-312434b79195.html",
@@ -99,14 +107,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/221221208-7e96da96-ec94-4b14-ace2-55e572b768b1.jpg"
       },
       {
-        "title": "Comunicato del Cdr",
-        "link": "https://www.repubblica.it/economia/2026/10/11/news/comunicato_del_cdr-425640009/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-10T23:00:00.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
         "title": "Infosys: nessun impatto significativo dalla sospensione PERM negli USA",
         "link": "https://it.investing.com/news/stock-market-news/infosys-nessun-impatto-significativo-dalla-sospensione-del-programma-perm-usa-3582813",
         "source": "Investing.com Italia",
@@ -135,7 +135,7 @@
         "link": "https://www.ilsole24ore.com/art/cala-prezzo-diesel-si-allontana-l-ipotesi-accise-mobili-AJxQg4fB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-10T17:54:00.000Z",
-        "excerpt": "Per le accise mobili c’è ancora tempo. Il ritorno dei prezzi consigliati dell’Eni per il gasolio a 2,19 euro al litro, annunciato venerdì, rende meno urgente un intervento del governo...",
+        "excerpt": "Il recente ribasso del gasolio riduce la pressione sul governo, che valuta l’uso delle accise mobili solo in caso di nuovi aumenti entro fine anno.",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/LP_24799970-U04348681666KDw-1440x752@IlSole24Ore-Web.jpg"
       },
       {
@@ -261,15 +261,23 @@
     ],
     "europa": [
       {
-        "title": "Ucraina, data center di Yandex in Russia colpito da droni. Mosca risponde con raid su Dnipro",
+        "title": "Cnn, Nbc, Fox News, Abc e Cbs sotto indagine per mancata copertura su Trump",
+        "link": "https://www.ilsole24ore.com/art/cnn-nbc-fox-news-abc-e-cbs-sotto-indagine-mancata-copertura-trump-AJ2MWSgB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-11T08:13:44.000Z",
+        "excerpt": "L’indagine del Dipartimento di Giustizia riguarda una possibile violazione delle leggi antitrust a causa della mancata copertura congiunta del presidente nelle elezioni di Midterm",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/2026-10-10T221421Z_125871834_RC2L0OAB9JOV_RTRMADP_5_USA-TRUMP-U52524004012QAJ-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Allarme 007, Mosca intensifica tentativi di assassinare vertici della difesa europea",
         "link": "https://www.ilsole24ore.com/art/ucraina-data-center-yandex-russia-colpito-droni-mosca-risponde-raid-dnipro-AJF47PgB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-11T07:13:00.000Z",
-        "excerpt": "Un attacco con droni sospende l’operatività di un importante data center russo, mentre i raid russi in Ucraina provocano vittime e danni significativi nelle regioni di Dnipropetrovsk e Zaporizhzhia",
+        "excerpt": "Gli assassinii di obiettivi civili europei - un tempo considerati un tabù persino dalle agenzie di spionaggio russe - stanno assumendo un ruolo sempre più rilevante in questi piani. Secondo il Financial Times, che ha par",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/12/Immagini/Ritagli/2026-10-05T060547Z_718110941_RC2JVT95AWYI_RTRMADP_5_UKRAINE-CRISIS-BUDGET-U53803837511JZQ-1440x752@IlSole24Ore-Web.JPG"
       },
       {
-        "title": "Guerra ultime notizie. Missile Houti sull’aeroporto di Riad: 12 morti e 300 feriti. Ambasciata Usa alza l’allerta",
+        "title": "Guerra ultime notizie. Yemen, Houthi: «Evitate aeroporti e spazio aereo sauditi, pronti a nuovi attacchi»",
         "link": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-missile-houti-sull-aeroporto-riad-12-morti-e-300-feriti-arabia-saudita-risponderemo-AJksKOgB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-11T06:20:00.000Z",
@@ -315,14 +323,6 @@
         "pubDate": "2026-10-10T08:46:00.000Z",
         "excerpt": "La presidenza irlandese del Consiglio Ue mantiene sul tavolo tutte e cinque le nuove risorse proprie (le entrate al Bilancio diverse dai contributi degli Stati) proposte dalla Commissione europea per finanziare il Quadro",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/4916226d1b061a857b190243daf4ed2a-U61283847655GaX-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Anthropic: sistemi IA hanno compiuto azioni «non intenzionali» su siti governativi",
-        "link": "https://www.ilsole24ore.com/art/anthropic-sistemi-ia-hanno-compiuto-azioni-non-intenzionali-siti-governativi-AJfWnffB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-10T08:19:00.000Z",
-        "excerpt": "Durante test interni, modelli IA di Anthropic hanno compiuto operazioni non autorizzate su portali federali e statali, spingendo l’azienda a sospendere l’accesso a Internet",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/11/Immagini/Ritagli/2026-10-03T050010Z_198201597_RC29LNAI17QO_RTRMADP_5_GLOBAL-ECONOMY-AI-U00587255557Kyi-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -392,6 +392,38 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Allarme 007, Mosca intensifica tentativi di assassinare vertici della difesa europea",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/allarme-007-mosca-intensifica-tentativi-di-assassinare-vertici-della-difesa-europea_b7fbc3b6-1266-4600-8636-08282fd2c5f9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T08:38:47.000Z",
+        "excerpt": "Ft: 'Aumentate le misure di sicurezza attorno ai dirigenti di alto livello'",
+        "image": null
+      },
+      {
+        "title": "Sondaggio Ft, 'Trump ancora giù e al 34% nei consensi, pesa l'economia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/sondaggio-ft-trump-ancora-giu-e-al-34-nei-consensi-pesa-leconomia_ec6c808e-f0ee-4e4b-a871-e2787659256b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T08:26:23.000Z",
+        "excerpt": "Solo un elettore su quattro approva la sua gestione. Democratici avanti in vista del voto",
+        "image": null
+      },
+      {
+        "title": "La Slovenia al voto per quattro referendum",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/la-slovenia-al-voto-per-quattro-referendum_755c5bd2-acb4-4cac-a8c9-606347debc04.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-11T08:23:37.000Z",
+        "excerpt": "Banco di prova per il governo a meno di sei mesi dal suo insediamento",
+        "image": null
+      },
+      {
+        "title": "Mistero peste: dopo una settimana Mosca non ha ancora spiegato cosa ha ucciso la ricercatrice",
+        "link": "https://www.repubblica.it/esteri/2026/10/11/news/peste_siberia_laboratorio_ricercatrice_morta-425640481/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-11T08:09:12.000Z",
+        "excerpt": "Il timore è che il Cremlino abbia imposto il silenzio per nascondere un programma di sviluppo di armi biologiche nel laboratorio in Siberia dove è morta la 28enne",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/100901993-3a5fc8f5-704d-40bc-91c6-5df6dbbf85d4.jpg"
+      },
+      {
         "title": "Gli Houthi avvertono i viaggiatori, non usate gli aeroporti sauditi",
         "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/gli-houthi-avvertono-i-viaggiatori-non-usate-gli-aeroporti-sauditi_2206252c-b51f-49c3-9d1a-c058e79df178.html",
         "source": "ANSA Mondo",
@@ -448,14 +480,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/012537667-5f682ab6-0839-4026-bab1-2536af797aa3.jpg"
       },
       {
-        "title": "'Il Dipartimento di Giustizia Usa indaga sui network tv per la copertura del presidente'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/11/il-dipartimento-di-giustizia-usa-indaga-sui-network-tv-per-la-copertura-del-presidente_12074e43-7f9a-4c1d-9616-bf327eeedb70.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T23:24:28.000Z",
-        "excerpt": "Nyt, dopo stop temporaneo deciso in seguito al divieto di accesso di Cnn alla Casa Bianca",
-        "image": null
-      },
-      {
         "title": "Fesenko: “L’accordo sul diesel è una pugnalata alle spalle”",
         "link": "https://www.repubblica.it/esteri/2026/10/11/news/volodymyr_fesenko_intervista_accordo_diesel_trump_putin-425640086/?rss",
         "source": "Repubblica Esteri",
@@ -494,30 +518,6 @@
         "pubDate": "2026-10-10T23:00:00.000Z",
         "excerpt": "Intervista al giurista australiano che ha lavorato con la premio Nobel per la Pace al report sulla Striscia: “Il riconoscimento per meriti professionali”",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/200158280-394a8ff5-cd0a-4d14-b911-a01723510573.jpg"
-      },
-      {
-        "title": "Lansdale: “Vogliono fare un reality dell’esecuzione è una barbarie da Colosseo”",
-        "link": "https://www.repubblica.it/esteri/2026/10/11/news/joe_lansdale_intervista_pena_morte_streaming_hegseth-425639671/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-10T23:00:00.000Z",
-        "excerpt": "Sulla trasmissione in diretta della pena di morte negli Usa, parla lo scrittore texano autore tra gli altri della “Trilogia del drive-in”. “Forse pensano di dimostrare in questo modo quanto sono duri e conservatori”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/193640879-0a5bde35-0253-4ddb-8eef-bf8362f3e8f2.jpg"
-      },
-      {
-        "title": "Autorità, almeno 309 i feriti nell'attacco degli Houthi all'aeroporto di Riad",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/autorita-almeno-309-i-feriti-nellattacco-degli-houthi-allaeroporto-di-riad_8c3ae725-d7d5-428f-931e-df25e09934de.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T22:09:09.000Z",
-        "excerpt": "Lo riferisce l'ente dell'Aviazione civile",
-        "image": null
-      },
-      {
-        "title": "Coalizione saudita, attaccato l'aeroporto di Dammam",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/coalizione-saudita-attaccato-laeroporto-di-dammam_dfac05c8-acad-4d4c-9bdd-467581924686.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-10T21:33:11.000Z",
-        "excerpt": "Un proiettile è caduto vicino allo scalo, nell'est del regno",
-        "image": null
       },
       {
         "title": "Abbas rinvia le elezioni palestinesi, fissando le elezioni presidenziali per settembre 2027",
@@ -565,7 +565,7 @@
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-09T20:34:53.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED1M0ED_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPED1M0ED_L.jpg"
       },
       {
         "title": "I prezzi del petrolio scendono dopo che Trump esclude l'attacco iraniano pre-medio termine, allentando i timori sull'offerta",
@@ -590,8 +590,40 @@
       "title": "MotoGP: Marco Bezzecchi vince il Gp d'Indonesia",
       "link": "https://www.ansa.it/sito/notizie/sport/moto/2026/10/11/motogp-marco-bezzecchi-vince-il-gp-dindonesia_5cf08714-e0b8-49e1-82fa-ee92ad6db0f5.html",
       "source": "ANSA",
-      "pubDate": "2026-10-11T07:51:27.000Z",
-      "excerpt": "L'italiano precede Fernandez e Martin. Tripletta per l'Aprilia",
+      "pubDate": "2026-10-11T08:25:07.000Z",
+      "excerpt": "L'italiano precede Fernandez e Martin, tripletta per l'Aprilia: 'Bellissimo tornare in cima al podio, meritavamo un risultato così'",
+      "image": null
+    },
+    {
+      "title": "L'allarme degli 007: 'Mosca intensifica i tentativi di assassinare i vertici della difesa europea'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/lallarme-degli-007-mosca-intensifica-i-tentativi-di-assassinare-i-vertici-della-difesa_aff1e77d-6140-4ab2-91ff-7e2cc737cd8a.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T08:24:19.000Z",
+      "excerpt": "Il Ft: 'Aumentate le misure di sicurezza attorno ai dirigenti di alto livello'",
+      "image": null
+    },
+    {
+      "title": "Bezzecchi domina in Indonesia, Martin di nuovo leader mondiale, Marc Marquez solo sesto",
+      "link": "https://www.repubblica.it/sport/moto-gp/2026/10/11/news/bezzecchi_vittoria_indonesia_marquez_sesto-425640503/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T08:16:23.000Z",
+      "excerpt": "Poker dell’Aprilia sul circuito di Mandalika. Il riminese torna al successo davanti a Fernandez e Martin, che si riprende la vetta della classifica piloti, con due punti di vantaggio sul campione della Ducati",
+      "image": null
+    },
+    {
+      "title": "Mistero peste: dopo una settimana Mosca non ha ancora spiegato cosa ha ucciso la ricercatrice",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/peste_siberia_laboratorio_ricercatrice_morta-425640481/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T08:09:12.000Z",
+      "excerpt": "Il timore è che il Cremlino abbia imposto il silenzio per nascondere un programma di sviluppo di armi biologiche nel laboratorio in Siberia dove è morta la 28enne",
+      "image": null
+    },
+    {
+      "title": "Torna Paolo Jannacci: 'Ridere dei guai per affrontare il dolore'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/2026/10/10/torna-paolo-jannacci-ridere-dei-guai-per-affrontare-il-dolore_2df72508-59c2-40d7-bc39-39e9658aff4d.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-11T08:08:08.000Z",
+      "excerpt": "Il 16 ottobre esce 'Scimmie ovunque'. Il cantautore: 'Mi piacerebbe andare a Sanremo'",
       "image": null
     },
     {
@@ -600,22 +632,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-11T07:50:27.000Z",
       "excerpt": "Evacuazioni per il nuovo raid che ha provocato oltre 300 feriti. Paesi sconsigliano voli. Ambasciata Usa alza il livello di allerta In Arabia Saudita",
-      "image": null
-    },
-    {
-      "title": "Trump: 'L'Ucraina dovrebbe tenere elezioni, Putin mi ha detto che vuole un accordo'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/trump-lucraina-dovrebbe-tenere-elezioni-putin-mi-ha-detto-che-vuole-un-accordo_2822374d-dfd0-4b0b-9768-eb9f9b6f6578.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-11T07:28:34.000Z",
-      "excerpt": "'Se avesse fatto un accordo due anni fa sarebbe stato meglio per lui, avrebbe potuto fare un accordo migliore'. Lo riporta Bloomberg",
-      "image": null
-    },
-    {
-      "title": "Torna Paolo Jannacci: 'Ridere dei guai per affrontare il dolore'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/2026/10/10/torna-paolo-jannacci-ridere-dei-guai-per-affrontare-il-dolore_2df72508-59c2-40d7-bc39-39e9658aff4d.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-11T07:19:22.000Z",
-      "excerpt": "Il 16 ottobre esce 'Scimmie ovunque'. Il cantautore: 'Mi piacerebbe andare a Sanremo'",
       "image": null
     },
     {
@@ -631,7 +647,7 @@
       "link": "https://www.repubblica.it/politica/2026/10/11/news/casini_lascia_parlamento_intervista-425640357/",
       "source": "Repubblica",
       "pubDate": "2026-10-11T06:18:56.000Z",
-      "excerpt": "L'ex presidente della Camera racconta il suo l'addio alla politica",
+      "excerpt": "L'ex presidente della Camera rivela il suo l'addio alla politica: “Lasciare è al cosa più difficile ma l’importante è farlo sulle proprie gambe”",
       "image": null
     },
     {
@@ -675,22 +691,6 @@
       "image": null
     },
     {
-      "title": "Dal diesel agli assegni: così Trump vuole comprare il voto degli americani",
-      "link": "https://www.repubblica.it/economia/2026/10/11/news/trump_diesel_elezioni_midterm-425639908/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T23:00:00.000Z",
-      "excerpt": "Il presidente è in calo di consensi a meno di un mese dalle elezioni di midterm. E per rimontare rispolvera anche i rimborsi sanitari",
-      "image": null
-    },
-    {
-      "title": "Fesenko: “L’accordo sul diesel è una pugnalata alle spalle”",
-      "link": "https://www.repubblica.it/esteri/2026/10/11/news/volodymyr_fesenko_intervista_accordo_diesel_trump_putin-425640086/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-10T23:00:00.000Z",
-      "excerpt": "Intervista al politologo ucraino, presidente del centro studi Penta. “Il problema principale è la superiorità del nemico nei cieli. Ma ormai anche loro ammettono che la guerra è arrivata a un punto morto”",
-      "image": null
-    },
-    {
       "title": "Ragione e Sentimento, torna un classico dal cuore femminista",
       "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/10/ragione-e-sentimento-torna-un-classico-dal-cuore-femminista_19b2ecc8-a866-48dc-a4cf-596799e3abd1.html",
       "source": "ANSA",
@@ -716,6 +716,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Il Barcellona non si ferma più, Diomandé regala tre punti al Real",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-barcellona-non-si-ferma-piu-diomande-regala-tre-punti-al-real_b8e3041b-aa71-42ad-9b2b-ab292251660e.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T08:36:32.000Z",
+      "excerpt": "I blaugrana fanno 8 su 8 in Liga, i blancos vincono anche in 10 uomini",
+      "image": null
+    },
     {
       "title": "Bezzecchi vince il Gp d'Indonesia",
       "link": "https://www.ansa.it/sito/notizie/sport/2026/10/11/bezzecchi-vince-il-gp-dindonesia_e47e047a-bf0c-4fa7-b2a8-f131a2fb764e.html",
@@ -762,14 +770,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-10T21:06:57.000Z",
       "excerpt": "In gol anche Lang, gli azzurri ritrovano McTominay. Vincono anche Inter e Genoa negli anticipi della sesta giornata",
-      "image": null
-    },
-    {
-      "title": "Il Barcellona non si ferma più, Diomandé regala tre punti al Real",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/il-barcellona-non-si-ferma-piu-diomande-regala-tre-punti-al-real_b8e3041b-aa71-42ad-9b2b-ab292251660e.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-10T21:04:41.000Z",
-      "excerpt": "I blaugrana fanno 8 su 8 in Liga, i blancos vincono anche in 10 uomini",
       "image": null
     },
     {
