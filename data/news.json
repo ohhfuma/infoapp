@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2026-10-11T18:45:34.153Z",
+  "lastUpdated": "2026-10-11T19:08:13.059Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Stellantis rilancia in Europa: 50 nuovi modelli entro il 2030 e più produzione",
+        "link": "https://www.repubblica.it/economia/2026/10/11/news/stellantis_rilancia_in_europa_50_nuovi_modelli_entro_il_2030_e_piu_produzione-425641462/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-11T18:48:12.000Z",
+        "excerpt": "Riconversioni, accordi con partner e nuove motorizzazioni. La nuova 2CV prima e-car prodotta nel Vecchio continente",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/204801707-d7a629c4-5601-4163-a092-c137165459e4.jpg"
+      },
       {
         "title": "Stellantis svela l'auto del futuro, da Citroën 2 CV elettrica a Alfa Cuorerosso",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/11/stellantis-svela-auto-del-futuro-da-citroen-2-cv-elettrica-a-alfa-cuorerosso_90226951-0829-428b-acbd-373cee5a3112.html",
@@ -201,14 +209,6 @@
         "pubDate": "2026-10-11T03:00:00.000Z",
         "excerpt": "Niente più agevolazioni per tutti. Il contributo variabile in importi da 100, 200 e 400 euro a seconda della fascia di reddito familiare e dalla distanza tra casa e lavoro",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/194422935-3e60c679-957b-499a-8618-1d2d24639e84.jpg"
-      },
-      {
-        "title": "Abbonamenti app e streaming, come sopravvivere alla marea. Il caso del bottone di recesso nascosto",
-        "link": "https://www.repubblica.it/economia/2026/10/11/news/abbonamenti_app_e_streaming_come_sopravvivere_alla_marea_il_caso_del_bottone_di_recesso_nascosto-425639693/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-11T03:00:00.000Z",
-        "excerpt": "I servizi che richiedono una sottoscrizione sono onnipresenti e controllare la spesa mensile complessiva non è semplice. Ancora più difficile può essere la disdetta",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/10/194248247-64d3d0b6-36ed-4dd3-a5cd-4b620be7b045.jpg"
       },
       {
         "title": "Gli investitori stranieri fuggono dalle azioni sudcoreane con il boom dell’IA in calo",
@@ -587,6 +587,22 @@
   },
   "attualita": [
     {
+      "title": "Rabiot segna, Odenthal risponde: Sassuolo-Milan 1-1, i rossoneri non decollano",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/sassuolo_milan_gol-425641423/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T18:32:32.000Z",
+      "excerpt": "La squadra di Amorim manca l’aggancio alla Roma",
+      "image": null
+    },
+    {
+      "title": "Roma è Maxima: 96-95 alla BC nel derby della Capitale. Esulta anche Totti",
+      "link": "https://www.repubblica.it/sport/basket/2026/10/11/news/roma_maxima_vince_derby_96-95_bc_totti_esulta-425641397/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T18:23:14.000Z",
+      "excerpt": "Partita vibrante al PalaEur finita punto a punto. L’ex 10 giallorosso, advisor del club di Paul Matiasic, sorride e ricambia i cori della curva",
+      "image": null
+    },
+    {
       "title": "Gli Houthi tengono sotto scacco l'aeroporto di Riad, nuovo attacco ",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/11/gli-houthi-tengono-sotto-scacco-laeroporto-di-riad-nuovo-attacco-_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
       "source": "ANSA",
@@ -600,14 +616,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-11T18:15:17.000Z",
       "excerpt": "'L'intervento al Gemelli già in settimana. Mattarella, 'il popolo italiano le è vicino'",
-      "image": null
-    },
-    {
-      "title": "Francesca e Sofia, Leo e Kean: i ragazzi di Crans si raccontano. “Vogliamo sapere la verità”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/11/news/crans_francesca_sofia_leo_kean_interviste_verissimo_domenica_in-425641292/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T17:50:38.000Z",
-      "excerpt": "A Domenica In e Verissimo quattro degli studenti milanesi rimasti gravemente ustionati nel rogo di Capodanno: gli attimi di terrore, la lunga riabilitazione, il ritorno a scuola",
       "image": null
     },
     {
@@ -640,14 +648,6 @@
       "source": "Repubblica",
       "pubDate": "2026-10-11T16:42:12.000Z",
       "excerpt": "Per la prima volta un premier britannico riconosce che ci fu un’interferenza di Mosca nel processo democratico del 2016",
-      "image": null
-    },
-    {
-      "title": "Gp Singapore, pagelle: Verstappen perfetto. Antonelli formichina, Leclerc tenace, Hamilton sbaglia",
-      "link": "https://www.repubblica.it/sport/formulauno/2026/10/11/news/pagelle_gp_singapore_antonelli_verstappen_leclerc-425641149/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T16:18:26.000Z",
-      "excerpt": "Promossi e bocciati della gara di Marina Bay vinta dal pilota olandese della Red Bull",
       "image": null
     },
     {
@@ -720,8 +720,40 @@
       "title": "Verstappen bis a Singapore, Antonelli può diventare campione ad Austin",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/11/verstappen-bis-a-singapore-antonelli-puo-diventare-campione-ad-austin_edacdce0-88fa-4309-ba9e-4c1b533c7334.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-11T18:20:27.000Z",
+      "pubDate": "2026-10-11T18:58:38.000Z",
       "excerpt": "Kimi terzi dietro Leclerc, vola a +102 in classifica. Hamilton sbaglia strategia e si scusa",
+      "image": null
+    },
+    {
+      "title": "Premier: lo scandalo non frena il City, vittoria per 3-0 a Liverpool&nbsp;",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/premier-lo-scandalo-non-frena-il-city-vittoria-per-3-0-a-liverpool_1b1f4ab4-081b-46ad-846c-8f4d0f53ef4d.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T18:54:35.000Z",
+      "excerpt": "Reds restano in 10 nella ripresa e la squadra di Maresca si scatena",
+      "image": null
+    },
+    {
+      "title": "Hamilton gp da dimenticare, malessere e scuse 'una dura lezione'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/11/hamilton-gp-da-dimenticare-malessere-e-scuse-una-dura-lezione_01fd361e-2765-465d-b595-664ea6142b6d.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T18:54:08.000Z",
+      "excerpt": "Il pilota Ferrari sbaglia strategia: 'Colpa mia'. Vasseur 'evitiamo che si ripeta'",
+      "image": null
+    },
+    {
+      "title": "Cagliari-Juventus 0-0 DIRETTA e FOTO",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/cagliari-juventus-0-0-diretta-e-foto_cb4a2a0c-9ece-40a7-b7b8-5c181c9966f6.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T18:49:08.000Z",
+      "excerpt": "Trasferta insidiosa per i bianconeri nella sesta giornata di campionato",
+      "image": null
+    },
+    {
+      "title": "Il Mapei resta tabù per il Milan, è 1-1 col Sassuolo",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/il-mapei-resta-tabu-per-il-milan-e-1-1-col-sassuolo_c2ba2fc3-f638-488d-b401-ef95330b5393.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-11T18:46:50.000Z",
+      "excerpt": "Ramos non si sblocca, a Rabiot risponde Odenthal e i rossoneri perdono terreno",
       "image": null
     },
     {
@@ -730,14 +762,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T18:04:16.000Z",
       "excerpt": "Rabiot e Odenthal in gol, rossoneri scivolano indietro in classifica",
-      "image": null
-    },
-    {
-      "title": "Sassuolo - Milan termina 1-1, a Rabiot risponde Odenthal CRONACA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/sassuolo-milan-termina-1-1-a-rabiot-risponde-odenthal-cronaca-e-foto_c2ba2fc3-f638-488d-b401-ef95330b5393.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T18:02:50.000Z",
-      "excerpt": "Match valido per la sesta giornata di campionato",
       "image": null
     },
     {
@@ -754,30 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-11T17:51:55.000Z",
       "excerpt": "Reds restano in 10 nella ripresa e la squadra di Maresca si scatena",
-      "image": null
-    },
-    {
-      "title": "Furio Benussi ancora re della Barcolana, quarta vittoria di fila",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/11/furio-benussi-ancora-re-della-barcolana-quarta-vittoria-di-fila_1e0a6c93-eaa7-4f39-8544-700da8007e06.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T17:47:08.000Z",
-      "excerpt": "Arca Sgr in trionfo, 1.858 barche iscritte alla regata più affollata al mondo",
-      "image": null
-    },
-    {
-      "title": "Gattuso: 'Non guardiamo la classifica altrimenti ci gira la testa'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/11/gattuso-non-guardiamo-la-classifica-altrimenti-ci-gira-la-testa_76843c98-8821-4ee5-9ea4-412064400e5b.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T17:39:16.000Z",
-      "excerpt": "Il tecnico della Lazio: \"Con il Monza è andata bene, non dobbiamo avere paura\"",
-      "image": null
-    },
-    {
-      "title": "La Granfondo del Montefeltro emoziona Gubbio tra ciclismo, bellezza territorio e vip",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/11/la-granfondo-del-montefeltro-emoziona-gubbio-tra-ciclismo-bellezza-territorio-e-vip_30f16d91-cd8e-483f-a6ef-e714936f7bf9.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-11T17:03:44.000Z",
-      "excerpt": "Nella festa del podio a premiare i vincitori l'olimpionico Masala e l'attrice Mita Medici",
       "image": null
     }
   ]
