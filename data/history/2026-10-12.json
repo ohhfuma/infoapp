@@ -4,6 +4,22 @@
   "finanza": {
     "italia": [
       {
+        "title": "Perché il titolo di MAAS Group sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-maas-group-sta-scendendo-oggi-93CH-3582993",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-12T01:34:50.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+      },
+      {
+        "title": "I futures azionari USA salgono con il calo del petrolio; in arrivo gli utili del terzo trimestre",
+        "link": "https://it.investing.com/news/stock-market-news/i-futures-azionari-usa-salgono-con-il-calo-del-petrolio-in-arrivo-gli-utili-del-terzo-trimestre-3582991",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-12T01:25:59.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg"
+      },
+      {
         "title": "Amazon tratta l’acquisizione della startup AI Decart per 7 miliardi",
         "link": "https://it.investing.com/news/stock-market-news/amazon-tratta-lacquisizione-della-startup-ai-decart-per-7-miliardi-3582976",
         "source": "Investing.com Italia",
@@ -401,6 +417,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Fujimori al Congresso peruviano, 'diteci se state con la violenza o con la pace'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/fujimori-al-congresso-peruviano-diteci-se-state-con-la-violenza-o-con-la-pace_97cdbdab-508b-4be1-98e8-25db25d07b9f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-12T01:42:52.000Z",
+        "excerpt": "Duro scontro tra sinistra e governo sui poteri contro la criminalità",
+        "image": null
+      },
+      {
+        "title": "Bordi d'oro più alti vicino a $4.200 mentre i trader soppesano la tregua energetica, rischi del Medio Oriente",
+        "link": "https://www.investing.com/news/commodities-news/gold-edges-higher-near-4200-as-traders-weigh-energy-truce-mideast-risks-4942969",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-12T01:17:28.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA5N0EK_M.jpg"
+      },
+      {
         "title": "Messico colpito da due cicloni, scatta l'allarme",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/messico-colpito-da-due-cicloni-scatta-lallarme_c0a48ad9-25d4-412e-92c0-03dc53ef6994.html",
         "source": "ANSA Mondo",
@@ -708,6 +740,14 @@
   },
   "attualita": [
     {
+      "title": "Papa, il chirurgo: “Solo dopo gli esami si saprà se serve una terapia. Niente aereo per 20 giorni”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/12/news/papa_nodulo_intervista_chirurgo_lorenzo_spaggiari-425641678/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-12T00:00:00.000Z",
+      "excerpt": "Intervista a Lorenzo Spaggiari, direttore del Programma polmone dello Ieo. “Dalle sue parole si capisce che non ci sono metastasi. Se andrà tutto bene in sei o sette giorni sarà a casa”",
+      "image": null
+    },
+    {
       "title": "Scacco Houthi al terminal di Riad, rappresaglia saudita sullo Yemen",
       "link": "https://www.repubblica.it/esteri/2026/10/12/news/attacco_houthi_aeroporto_riad_rappresaglia_saudita_yemen-425641618/",
       "source": "Repubblica",
@@ -825,6 +865,30 @@
       "source": "Repubblica",
       "pubDate": "2026-10-11T23:00:00.000Z",
       "excerpt": "La rubrica “Schermaglie”",
+      "image": null
+    },
+    {
+      "title": "Leone, l’infiammazione, i controlli, la decisione di accelerare: “Il viaggio in Perù non slitta”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/12/news/moral_anton_intervista_salute_papa_viaggio_peru-425641532/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "excerpt": "L’amico agostiniano Alejandro Moral Anton: “Penso che voglia fare questa operazione subito per non cancellare la trasferta di novembre”",
+      "image": null
+    },
+    {
+      "title": "Cardinale Semeraro: “Scelta trasparente, il Papa ha agito da padre di famiglia”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/12/news/semeraro_intervista_salute_papa-425641526/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "excerpt": "“Si è comportato come un genitore che deve dire ai figli che è insorto un problema. Mi conforta che non abbia usato toni allarmistici”",
+      "image": null
+    },
+    {
+      "title": "Da Pio XII a Francesco: così è caduto il segreto sulla salute dei pontefici",
+      "link": "https://www.repubblica.it/cronaca/2026/10/12/news/salute_pontefici_papa_leone_francesco_pio_xii_gemelli-425641584/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "excerpt": "Storia di un tabu. Un tempo si pensava che diffondere notizie sanitarie sul Santo padre incrinasse la sacralità della sua figura. La rivoluzione con Wojtyla",
       "image": null
     },
     {
