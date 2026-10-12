@@ -4,6 +4,30 @@
   "finanza": {
     "italia": [
       {
+        "title": "Stop alle tutele graduali per l'energia dal 31 marzo 2027, governo valuta proroga",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/stop-alle-tutele-graduali-per-lenergia-dal-31-marzo-2027-governo_25f22650-27e3-4307-9680-67faebdd8827.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-12T17:57:32.000Z",
+        "excerpt": "Il Mase studia la possibilità di rimandare la scadenza al 31 dicembre",
+        "image": null
+      },
+      {
+        "title": "Lega: Salvini si dimette da segretario, passo necessario per ricandidarsi",
+        "link": "https://www.ilsole24ore.com/art/lega-salvini-si-dimette-segretario-passo-necessario-ricandidarsi-AJR1MvhB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-12T17:51:00.000Z",
+        "excerpt": "Il leader della Lega Matteo Salvini si è dimesso dal ruolo di segretario, passaggio formale ma necessario, a livello regolamentare, per potersi ripresentare al congresso straordinario di Milano del 24...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/13/Immagini/Ritagli/lem0006-1791821453379-U43531228635HLI-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "AI, il Capo di Stato Maggiore dell’Aeronautica Conserva: «Possibile influenza sulle professionalità, ma l’elemento umano non verrà sostituito»",
+        "link": "https://www.ilsole24ore.com/art/ai-capo-stato-maggiore-dell-aeronautica-conserva-possibile-influenza-professionalita-ma-l-elemento-umano-non-verra-sostituito-AJKfsXhB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-12T17:44:03.000Z",
+        "excerpt": "Convegno a Roma. Mariani (Leonardo): «C’è un tema di tecnologie, vitale. Io l’ho tirato fuori fuori parlando di rete satellitare piuttosto che di sensori da radar o di processing, ma è solo per dire che non si tratta sol",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/13/Immagini/Ritagli/conserva-uno-U37281360616lat-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
         "title": "Albertsons chiede a Kroger oltre 9 miliardi di dollari per la fusione fallita",
         "link": "https://it.investing.com/news/stock-market-news/albertsons-chiede-a-kroger-oltre-9-miliardi-di-dollari-per-la-fusione-fallita-3584746",
         "source": "Investing.com Italia",
@@ -458,30 +482,6 @@
         "pubDate": "2026-10-12T14:00:16.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/moved_LYNXMPEL401XD_L.jpg"
-      },
-      {
-        "title": "Premio Nobel per l’Economia agli americani Hall e Woodford: “Sono modelli per affrontare gli shock”",
-        "link": "https://www.repubblica.it/economia/2026/10/12/news/premio_nobel_economia_2026_robert_hall_michael_woodford-425642462/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-12T13:58:53.000Z",
-        "excerpt": "I due studiosi analizzano come le scelte delle singole famiglie e imprese influiscono sulla macroeconomia. Altrettanto se non più importanti sono le linee-guida impresse dalle banche centrali, “che hanno la possibilità d",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/12/120549759-d7b8210a-6116-4b9b-9c90-da9e0e3f5d0f.jpg"
-      },
-      {
-        "title": "Perché il titolo C3.ai sta salendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-c3ai-sta-salendo-oggi-93CH-3584577",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-12T13:58:25.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
-      },
-      {
-        "title": "Borsa Milano positiva ma sotto i massimi dopo avvio piatto di Wall Street",
-        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-positiva-ma-sotto-i-massimi-dopo-avvio-piatto-di-wall-street-3584574",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-12T13:56:19.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9B16G_L.jpg"
       }
     ],
     "europa": [
@@ -1156,6 +1156,14 @@
   },
   "attualita": [
     {
+      "title": "Avvelenate ricina: la prof, il tecnico, la cugina. Il timbro della procura sul nome dei sospettati",
+      "link": "https://www.repubblica.it/cronaca/2026/10/12/news/avvelenate_ricina_pc_ricerca_scuole_indagini_news-425643561/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-12T17:26:21.000Z",
+      "excerpt": "Gli investigatori sono a caccia del computer dal quale potrebbe essere partita la ricerca di notizie sugli effetti del veleno nei mesi antecedenti e subito dopo la morte di Antonella Di Ielsi e Sara Di Vita",
+      "image": null
+    },
+    {
       "title": "Lega, Salvini si dimette da segretario: “Ora pronto a ricandidarmi”. E chiede di azzerare i vice",
       "link": "https://www.repubblica.it/politica/2026/10/12/news/salvini_dimissioni_segretario_lega_congresso-425643535/",
       "source": "Repubblica",
@@ -1626,17 +1634,17 @@
       "pubDate": "2026-10-12T04:01:46.000Z",
       "excerpt": "",
       "image": null
-    },
-    {
-      "title": "Columbus Day is about more than Columbus. It’s about Italian Americans",
-      "link": "https://europe.repubblica.it/en/news/2026/10/12/news/columbus_day_more_than_columbus_it_is_about_italian_americans-425640889/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-12T04:00:00.000Z",
-      "excerpt": "For Italians, Columbus is a navigator from a history textbook. For earlier generations of Italian Americans, he was a champion who defended their cause. The celebration is not about a controversial mariner, but about a c",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Champions: Sommer 'speciale essere qui, San Siro mi ha fatto un effetto strano'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/champions-sommer-speciale-essere-qui-san-siro-mi-ha-fatto-un-effetto-strano_bda506a4-a269-4d39-8161-b36fdf358216.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-12T18:00:09.000Z",
+      "excerpt": "'Inter favorita, noi dobbiamo essere coraggiosi e sarà gara interessante'",
+      "image": null
+    },
     {
       "title": "Champions: l'ex Giroud torna all'Emirates, \"speravo proprio di affrontare l'Arsenal\"",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/champions-lex-giroud-torna-allemirates-speravo-proprio-di-affrontare-larsenal_017df74d-5064-4bcc-ab4a-f77e540970ff.html",
