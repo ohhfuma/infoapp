@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T04:46:37.219Z",
+  "lastUpdated": "2026-10-12T05:11:16.719Z",
   "finanza": {
     "italia": [
       {
@@ -8,7 +8,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-12T04:33:38.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED9U0NH_M.jpg"
+        "image": null
       },
       {
         "title": "Perché il titolo di Foxconn Industrial Internet scende oggi?",
@@ -16,7 +16,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-12T04:33:37.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
+        "image": null
       },
       {
         "title": "Perché il titolo Samsung Electronics sta scendendo oggi?",
@@ -24,7 +24,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-12T04:19:07.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
+        "image": "https://content-media.investing.com/news/OilwellinColorado_150x108_S_1645345712.jpg"
       },
       {
         "title": "Perché il titolo SK Hynix sta scendendo oggi?",
@@ -392,6 +392,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Bordi d'oro più alti vicino a $4.200 mentre i trader soppesano la tregua energetica, rischi del Medio Oriente",
+        "link": "https://www.investing.com/news/commodities-news/gold-edges-higher-near-4200-as-traders-weigh-energy-truce-mideast-risks-4942969",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-12T04:36:59.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA5N0EK_M.jpg"
+      },
+      {
         "title": "Il petrolio cade nella speranza che il cessate il fuoco energetico Russia-Ucraina aumenti le forniture",
         "link": "https://www.investing.com/news/commodities-news/oil-climbs-as-mideast-conflict-tanker-attacks-persist-4942900",
         "source": "Investing.com Commodities",
@@ -438,14 +446,6 @@
         "pubDate": "2026-10-12T01:42:52.000Z",
         "excerpt": "Duro scontro tra sinistra e governo sui poteri contro la criminalità",
         "image": null
-      },
-      {
-        "title": "Bordi d'oro più alti vicino a $4.200 mentre i trader soppesano la tregua energetica, rischi del Medio Oriente",
-        "link": "https://www.investing.com/news/commodities-news/gold-edges-higher-near-4200-as-traders-weigh-energy-truce-mideast-risks-4942969",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-12T01:17:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA5N0EK_M.jpg"
       },
       {
         "title": "Repubblicani e democratici statunitensi vogliono che Trump inverta la rotta sul diesel russo",
