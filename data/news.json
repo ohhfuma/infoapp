@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-10-12T18:48:48.493Z",
+  "lastUpdated": "2026-10-12T19:10:13.543Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Giorgetti: 'Nuova flessibilità per aiutare le famiglie, se l'Ue dice no sbaglia'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/giorgetti-litalia-dimostra-di-saper-mantenere-impegni-percorso-conti-e-sostenibile_07500243-a9f1-4192-8a50-6781953f4c0f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-12T19:03:39.000Z",
+        "excerpt": "Incognita clausola di salvaguardia nazionale sui tempi della manovra. Il ministro dell'Economia: 'Chi può contribuisca'",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Verizon sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-verizon-sta-salendo-oggi-93CH-3584772",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-12T18:56:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEL4F0JY_L.jpg"
+      },
       {
         "title": "Il petrolio chiude in rialzo a New York a 93,74 dollari",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/il-petrolio-chiude-in-rialzo-a-new-york-a-9374-dollari_2f2b20a4-854a-449d-b611-71a6aee33d49.html",
@@ -99,14 +115,6 @@
         "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
       },
       {
-        "title": "Perché il titolo 10X Genomics è sceso del 10% oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-10x-genomics-e-sceso-del-10-oggi-93CH-3584733",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-12T17:14:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg"
-      },
-      {
         "title": "Lvmh: conti in lieve crescita con champagne e gioielli, cala la divisione fashion",
         "link": "https://www.repubblica.it/economia/2026/10/12/news/lvmh_trimestrale_conti_champagne_cognac_fashion_cina-425643513/?rss",
         "source": "Repubblica Economia",
@@ -128,14 +136,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-10-12T16:58:59.000Z",
         "excerpt": "'Lavoriamo a stretto contatto con i Paesi membri'",
-        "image": null
-      },
-      {
-        "title": "Giorgetti, l'Italia dimostra di saper mantenere impegni, percorso conti è sostenibile",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/giorgetti-litalia-dimostra-di-saper-mantenere-impegni-percorso-conti-e-sostenibile_07500243-a9f1-4192-8a50-6781953f4c0f.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-12T16:53:41.000Z",
-        "excerpt": "'La manovra sarà definita dopo chiusura procedura Ue sulla Nec'",
         "image": null
       },
       {
@@ -392,6 +392,22 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Zelensky, almeno due morti questa sera in attacchi russi a Kiev",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/zelensky-almeno-due-morti-questa-sera-in-attacchi-russi-a-kiev_a17bd30e-697d-4c49-b1e6-83eb02a3e3c0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-12T19:06:37.000Z",
+        "excerpt": "Leader ucraino, 'continua la campagna di terrore di Mosca'",
+        "image": null
+      },
+      {
+        "title": "I futures europei sul grano aumentano mentre l'Algeria emette una gara d'acquisto",
+        "link": "https://www.investing.com/news/commodities-news/european-wheat-futures-rise-as-algeria-issues-purchase-tender-93CH-4945066",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-12T18:48:49.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEBAN14A_M.jpg"
+      },
+      {
         "title": "Sospese operazioni nella principale miniera di rame in Cile dopo morte di due operai",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/sospese-operazioni-nella-principale-miniera-di-rame-in-cile-dopo-morte-di-due_7a6b6c37-d951-47c0-aac1-9dc159ef118a.html",
         "source": "ANSA Mondo",
@@ -520,14 +536,6 @@
         "image": null
       },
       {
-        "title": "Banca Centrale di Mauritius vede inflazione superare il target entro fine anno",
-        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/12/banca-centrale-di-mauritius-vede-inflazione-superare-il-target-entro-fine-anno_bf659e7e-46bd-4f19-967c-bd99e07698ea.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-12T13:32:05.000Z",
-        "excerpt": "Governatrice Thakoor teme effetti duraturi del caro energia",
-        "image": null
-      },
-      {
         "title": "Cina, condannato a 14 anni l’ex sindaco di Wuhan. Ma non per la gestione del Covid",
         "link": "https://www.repubblica.it/esteri/2026/10/12/news/cina_condannato_a_14_anni_l_ex_sindaco_di_wuhan_ma_non_per_la_gestione_del_covid-425642786/?rss",
         "source": "Repubblica Esteri",
@@ -542,14 +550,6 @@
         "pubDate": "2026-10-12T12:04:27.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEA5N0EK_M.jpg"
-      },
-      {
-        "title": "Il petrolio sale mentre l'attacco all'aeroporto di Riyad compensa l'affermazione del cessate il fuoco energetico di Trump",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-12T11:56:35.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEL670TG_L.jpg"
       },
       {
         "title": "Francia, preside e insegnante feriti a colpi di fucile da caccia da uno studente di 14 anni vicino Marsiglia",
@@ -587,6 +587,14 @@
   },
   "attualita": [
     {
+      "title": "Estratto vivo lo speleologo bloccato nella grotta in Sardegna",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/estratto-vivo-lo-speleologo-bloccato-nella-grotta-in-sardegna_988b1426-26b0-444c-8a90-394563d38022.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-12T18:50:55.000Z",
+      "excerpt": "Luca Olmetto è salvo. I soccorritori sono stati impegnati per 27 ore per rimuovere la frana che l'ha intrappolato",
+      "image": null
+    },
+    {
       "title": "Domani il ricovero del Papa al Gemelli, annullate tutte le udienze fino al 20 ottobre",
       "link": "https://www.ansa.it/vaticano/notizie/2026/10/12/il-nodulo-del-papa-e-emerso-da-controlli-di-routine_2fe7f4bb-01da-4a62-b0b9-14cf1f9e808f.html",
       "source": "ANSA",
@@ -600,14 +608,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-12T18:41:34.000Z",
       "excerpt": "E annuncia la segreteria politica e modifiche nel simbolo",
-      "image": null
-    },
-    {
-      "title": "Estratto vivo lo speleologo bloccato nella grotta in Sardegna",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/raggiunto-dai-soccorritori-speleologo-intrappolato-in-grotta-in-sardegna-_988b1426-26b0-444c-8a90-394563d38022.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-12T17:32:21.000Z",
-      "excerpt": "Luca Olmetto è salvo. I soccorritori sono stati impegnati per 27 ore per rimuovere la frana che l'ha intrappolato",
       "image": null
     },
     {
@@ -717,19 +717,19 @@
   ],
   "sport": [
     {
-      "title": "Serie A, in campo Torino-Udinese DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/serie-a-in-campo-torino-udinese-diretta_08421611-f5e0-4980-94bc-3aef161342e2.html",
+      "title": "Serie A, l'Atalanta cambia modulo e vince, ma col Venezia soffre",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/serie-a-atalanta-venezia-3-1_3d5ee077-f4fc-4c18-9745-518c2c7291bb.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-12T18:37:45.000Z",
-      "excerpt": "Si gioca la sesta giornata di campionato",
+      "pubDate": "2026-10-12T18:56:51.000Z",
+      "excerpt": "Kessie e due volte Krstovic, poi accorcia Hainaut. Due pali e gol annullato per i veneti",
       "image": null
     },
     {
-      "title": "Serie A: Atalanta-Venezia 3-1",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/serie-a-atalanta-venezia-3-1_3d5ee077-f4fc-4c18-9745-518c2c7291bb.html",
+      "title": "Serie A, in campo Torino-Udinese DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/serie-a-in-campo-torino-udinese-diretta_08421611-f5e0-4980-94bc-3aef161342e2.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-12T18:29:18.000Z",
-      "excerpt": "La cronaca e le foto",
+      "pubDate": "2026-10-12T18:52:00.000Z",
+      "excerpt": "Si gioca la sesta giornata di campionato",
       "image": null
     },
     {
