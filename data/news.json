@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T00:13:21.029Z",
+  "lastUpdated": "2026-10-12T00:53:59.526Z",
   "finanza": {
     "italia": [
       {
@@ -392,6 +392,30 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Un morto in un nuovo attacco all'aeroporto saudita, un giorno dopo che l'attacco degli Houthi ha ucciso 13 persone",
+        "link": "https://www.investing.com/news/commodities-news/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-4942575",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-12T00:36:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9A04Q_L.jpg"
+      },
+      {
+        "title": "Messico colpito da due cicloni, scatta l'allarme",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/messico-colpito-da-due-cicloni-scatta-lallarme_c0a48ad9-25d4-412e-92c0-03dc53ef6994.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-12T00:23:47.000Z",
+        "excerpt": "Simon sfiora Jalisco, alluvioni in Bassa California",
+        "image": null
+      },
+      {
+        "title": "I prezzi del petrolio scendono dopo che Trump annuncia il cessate il fuoco energetico Russia-Ucraina",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-12T00:19:46.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEL670TG_L.jpg"
+      },
+      {
         "title": "Interscambio Italia-Messico in crescita, nonostante la frenata ad agosto",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/interscambio-italia-messico-in-crescita-nonostante-la-frenata-ad-agosto_d11a9264-b161-4ad5-8140-c78d1cf71c8a.html",
         "source": "ANSA Mondo",
@@ -480,14 +504,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/204826562-d4a4d598-ee89-4add-b427-6c7398ba23bc.jpg"
       },
       {
-        "title": "L'Arabia Saudita riporta ferite in un nuovo attacco all'aeroporto di Riyadh, il giorno dopo lo sciopero uccide 13 persone",
-        "link": "https://www.investing.com/news/commodities-news/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-4942575",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-11T22:48:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9A04Q_L.jpg"
-      },
-      {
         "title": "La FAA dice alle compagnie aeree statunitensi di prestare attenzione ai voli in Arabia Saudita, citando i rischi per la sicurezza",
         "link": "https://www.investing.com/news/commodities-news/faa-tells-us-airlines-to-exercise-caution-in-saudi-arabia-flights-citing-safety-risks-4942859",
         "source": "Investing.com Commodities",
@@ -544,14 +560,6 @@
         "image": null
       },
       {
-        "title": "Tusk, arrestato presunto attentatore che voleva colpire me e ministro difesa",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/tusk-arrestato-presunto-attentatore-che-voleva-colpire-me-e-ministro-difesa_7cbda26b-20e2-4990-b8b3-85e1db59b553.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-11T16:04:25.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
         "title": "Le principali conferenze saudite procedono, dicono gli organizzatori, nonostante l'attacco mortale all'aeroporto",
         "link": "https://www.investing.com/news/commodities-news/major-saudi-conferences-to-proceed-organisers-say-despite-deadly-airport-attack-4942618",
         "source": "Investing.com Commodities",
@@ -574,80 +582,72 @@
         "pubDate": "2026-10-10T13:18:26.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM990BU_L.jpg"
-      },
-      {
-        "title": "Le principali conferenze saudite procedono, dicono gli organizzatori, nonostante l'attacco mortale all'aeroporto",
-        "link": "https://www.investing.com/news/commodities-news/major-saudi-conferences-to-proceed-organisers-say-despite-deadly-airport-attack-4942088",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-10T11:36:21.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM990AA_L.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "La sfida di Zelensky a Trump: “Elezioni se Putin si ferma”. Giallo sulla tregua energetica",
+      "link": "https://www.repubblica.it/esteri/2026/10/12/news/la_sfida_di_zelensky_a_trump_elezioni_se_putin_si_ferma_giallo_sulla_tregua_energetica-425641548/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "excerpt": "Il tycoon proclama il cessate il fuoco sugli obbiettivi energetici mentre Mosca tace. Il leader ucraino dice di non saperne niente e informa di un raid russo su una raffineria",
+      "image": null
+    },
+    {
+      "title": "Nasr: “Donald tratta con lo zar per vincere in Iran mollando l’Ucraina”",
+      "link": "https://www.repubblica.it/esteri/2026/10/12/news/nasr_intervista_trump_vuole_diesel_russo_per_sconfiggere_iran_pronto_a_mollare_kiev-425641249/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "excerpt": "Per l’esperto di Iran l’accordo tra Washington e Mosca ha un obiettivo chiaro: porre le basi per una ripresa della campagna contro Teheran",
+      "image": null
+    },
+    {
+      "title": "Everett: “Fumo negli occhi per vincere alle midterm, ecco la strategia del caos”",
+      "link": "https://www.repubblica.it/esteri/2026/10/12/news/everett_intervista_trump_ha_messo_in_atto_la_strategia_del_caos_per_vincere_alle_midterm-425641488/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "excerpt": "Il premio Pulitzer traccia un collegamento tra le ultime boutade del presidente: dalla fucilazione alla Russia",
+      "image": null
+    },
+    {
+      "title": "Fisco, salari e no al riarmo: le intese sul programma già trovate dal campo largo",
+      "link": "https://www.repubblica.it/politica/2026/10/12/news/programma_campo_largo_fisco_salari_no_riarmo-425641610/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "excerpt": "Su diversi temi i partiti del centrosinistra hanno trovato una sintesi: resta da sciogliere il nodo Ucraina in politica estera",
+      "image": null
+    },
+    {
+      "title": "Boschi: “Per battere le destre non basta la radicalità di Pd e Avs, serve un ampio fronte moderato”",
+      "link": "https://www.repubblica.it/politica/2026/10/12/news/boschi_battere_destre_serve_fronte_moderato_intervista-425641613/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "excerpt": "Intervista alla deputata e vicepresidente di Italia viva: “Casa riformista al voto ci sarà. Onorato sta lavorando a una sua lista noi però non possiamo stare con Ingroia”",
+      "image": null
+    },
+    {
+      "title": "Ricina, la trappola delle ricerche web. Le domande cambiate dopo il delitto",
+      "link": "https://www.repubblica.it/cronaca/2026/10/12/news/ricina_ricerche_web_reddit_pc_scuole-425641495/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "excerpt": "Prima della morte di madre e figlia le richieste su come usare il veleno. Dopo i quesiti virarono su quanto durano le sue tracce. Da domani, in tre scuole tra Riccia e Campobasso, caccia al pc da cui potrebbe aver scritt",
+      "image": null
+    },
+    {
+      "title": "Il Var ritrovato al Palio degli asini",
+      "link": "https://www.repubblica.it/sport/calcio/2026/10/12/news/var_ritrovato_palio_asini-425641703/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "excerpt": "La rubrica “Schermaglie”",
+      "image": null
+    },
     {
       "title": "Scacco Houthi al terminal di Riad, rappresaglia saudita sullo Yemen",
       "link": "https://www.repubblica.it/esteri/2026/10/12/news/attacco_houthi_aeroporto_riad_rappresaglia_saudita_yemen-425641618/",
       "source": "Repubblica",
       "pubDate": "2026-10-11T23:00:00.000Z",
       "excerpt": "Ieri nuovo attacco dopo la strage all’aeroporto di sabato. Colpito anche lo scalo di Dammam. Immediata risposta su Sana’a, ma il rischio è che entrino nel conflitto Pakistan e Turchia",
-      "image": null
-    },
-    {
-      "title": "Abdul Malik al Houthi, il leader invisibile dei ribelli che vuole ridisegnare il Medio Oriente",
-      "link": "https://www.repubblica.it/esteri/2026/10/12/news/yemen_abdul_malik_leader_invisibile_degli_houthi_che_vuole_ridisegnare_il_medio_oriente-425641469/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T23:00:00.000Z",
-      "excerpt": "Non appare in pubblico da vent’anni e governa lo Yemen con una rete segreta di fedelissimi. Il suo obiettivo sul piano politico è accrescere la sua influenza sul Paese e sull’intera regione del Mar Rosso",
-      "image": null
-    },
-    {
-      "title": "Glucksmann vince le primarie: “Batterò la destra di Le Pen”",
-      "link": "https://www.repubblica.it/esteri/2026/10/12/news/glucksmann_vince_primarie_socialisti_francia-425641621/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T23:00:00.000Z",
-      "excerpt": "Francia, l’eurodeputato batte il candidato socialista. Correrà alle presidenziali: “Fermeremo putiniani e trumpiani",
-      "image": null
-    },
-    {
-      "title": "Glucksmann, il figlio del filosofo ex maoista che detesta Mélenchon e sogna un’altra sinistra",
-      "link": "https://www.repubblica.it/esteri/2026/10/12/news/chi_e_glucksmann_candidato_vinto_primarie_socialisti_francia-425641630/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T23:00:00.000Z",
-      "excerpt": "Anticomunista ed europeista, cresciuto in una famiglia di intellettuali ha lavorato in Georgia con Saakashvili",
-      "image": null
-    },
-    {
-      "title": "Tajani lancia l’opa di Forza Italia su Milano. Ma la Lega insiste: “Allora primarie”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/12/news/forza_italia_comunali_milano_tajani_perego_lega-425641542/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T23:00:00.000Z",
-      "excerpt": "Il vicepremier agli alleati: “Proposta non aggressiva” E sul partito: “La linea la do io”. Ipotesi consultazioni interne sul programma",
-      "image": null
-    },
-    {
-      "title": "Perego: “Se la Lega vuole i gazebo vanno usati non solo a Milano ma per tutte le grandi città”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/12/news/matteo_perego_cremnago_candidato_forza_italia_milano_intervista-425641563/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T23:00:00.000Z",
-      "excerpt": "Il sottosegretario di Forza Italia indicato da Tajani come candidato sindaco: “Il tema della mia popolarità è un falso problema”",
-      "image": null
-    },
-    {
-      "title": "Prof ebrei contro Reggio Children “Vogliono abiure”. “No, è falso”",
-      "link": "https://bologna.repubblica.it/cronaca/2026/10/12/news/reggio_children_insegnanti_ebrei-425641691/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T23:00:00.000Z",
-      "excerpt": "Insegnanti Usa denunciano: “Siamo stati invitati a firmare un documento anti-Idf”. Poi disertano il viaggio studio. Scoppia la polemica",
-      "image": null
-    },
-    {
-      "title": "Massari “Mai citato Gaza o Israele a tutti i partecipanti chiediamo di rifiutare ogni tipo di genocidio”",
-      "link": "https://bologna.repubblica.it/cronaca/2026/10/12/news/carta_valori_reggio_children_massari_intervista-425641706/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T23:00:00.000Z",
-      "excerpt": "Il sindaco di Reggio Emilia sulle polemiche per la rinuncia di una delegazione di ebrei americani a visitare Reggio Children, dopo aspre proteste in città",
       "image": null
     },
     {
