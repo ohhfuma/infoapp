@@ -4,6 +4,38 @@
   "finanza": {
     "italia": [
       {
+        "title": "Caro energia, la bolletta si difende con un consumo minore",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/10/12/news/caro_energia_la_bolletta_si_difende_con_un_consumo_minore-425642644/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-12T11:01:48.000Z",
+        "excerpt": "Il mercato libero non garantisce da solo prezzi più convenienti. Efficienza, pompe di calore, fotovoltaico e autoconsumo possono ridurre l'esposizione",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/12/130141473-9946f7e5-bf47-4fcb-8f29-d825e388d39d.jpg"
+      },
+      {
+        "title": "Il gas sale ancora e supera gli 83 euro sulla piazza Ttf di Amsterdam",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/il-gas-sale-ancora-e-supera-gli-83-euro-sulla-piazza-ttf-di-amsterdam_103a720a-b495-4d6c-a146-6cfd9e8a0f04.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-12T10:55:51.000Z",
+        "excerpt": "I contratti future sul mese di novembre guadagnano il 2,2% a 83,2 euro",
+        "image": null
+      },
+      {
+        "title": "Influenza, gli esperti: quando vaccinarsi e chi deve farlo",
+        "link": "https://www.ilsole24ore.com/art/influenza-esperti-quando-vaccinarsi-e-chi-deve-farlo-AJnDPOhB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-12T10:45:00.000Z",
+        "excerpt": "L’autunno è la stagione dei virus respiratori e dell’influenza. E come ogni anno, la prassi rimane la stessa: vaccinarsi. Perché sì, è vero, le temperature sono ancora miti,...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/13/Immagini/Ritagli/influenza-vaccino-U10581874345mqj-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "La crescita degli utili può sostenere il rialzo azionario? JPM risponde",
+        "link": "https://it.investing.com/news/stock-market-news/la-crescita-degli-utili-puo-sostenere-il-rialzo-azionario-jpm-risponde-3583810",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-12T10:39:39.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
         "title": "Georgieva (Fmi), dall'Ia uno shock di investimento che tiene la crescita mondiale al 3%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/12/georgieva-fmi-dallia-uno-shock-di-investimento-che-tiene-la-crescita-mondiale_a4d636b6-b639-4a74-ac61-2dfd31ea8327.html",
         "source": "ANSA Economia",
@@ -450,38 +482,6 @@
         "pubDate": "2026-10-12T08:32:27.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9B0KI_L.jpg"
-      },
-      {
-        "title": "JPMorgan aprirà una merchant bank in Nigeria entro fine anno",
-        "link": "https://it.investing.com/news/stock-market-news/jpmorgan-aprira-una-merchant-bank-in-nigeria-entro-fine-anno-93CH-3583360",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-12T08:32:06.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEK9R0N7_L.jpg"
-      },
-      {
-        "title": "Le azioni telecom di Australia e Nuova Zelanda crollano per l’accordo SpaceX sullo spettro",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-telecom-di-australia-e-nuova-zelanda-crollano-per-laccordo-spacex-sullo-spettro-3583364",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-12T08:29:25.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Stellantis è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-stellantis-e-in-rialzo-oggi-93CH-3583339",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-12T08:27:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Renault è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-renault-e-in-rialzo-oggi-93CH-3583338",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-12T08:25:12.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB4E0K6_M.jpg"
       }
     ],
     "europa": [
@@ -656,6 +656,30 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Il gas europeo aumenta mentre gli attacchi delle petroliere del Medio Oriente e lo scatto freddo superano il cessate il fuoco",
+        "link": "https://www.investing.com/news/commodities-news/european-gas-rises-as-middle-east-tanker-attacks-and-cold-snap-outweigh-ceasefire-4943911",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-12T10:41:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB1P0P1_M.jpg"
+      },
+      {
+        "title": "Crisi dell'Spd, entro gennaio congresso per eleggere nuovi vertici",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/crisi-dellspd-entro-gennaio-congresso-per-eleggere-nuovi-vertici_506be4e5-37fd-4d39-b342-558bcb1c5869.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-12T10:37:09.000Z",
+        "excerpt": "L'annuncio di Klingbeil dopo le dimissioni di Bas",
+        "image": null
+      },
+      {
+        "title": "Offerta mattutina: diplomazia diesel",
+        "link": "https://www.investing.com/news/commodities-news/morning-bid-diesel-diplomacy-4943888",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-12T10:36:32.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9B0TS_L.jpg"
+      },
       {
         "title": "World Steel taglia le previsioni della domanda per il 2026 sulla Cina, sconvolgimenti bellici",
         "link": "https://www.investing.com/news/commodities-news/world-steel-cuts-2026-demand-forecast-on-china-war-disruption-93CH-4943870",
@@ -1111,40 +1135,32 @@
         "pubDate": "2026-10-11T17:08:08.000Z",
         "excerpt": "Barak Ravid di Axios riferisce di una conversazione con il presidente ucraino",
         "image": null
-      },
-      {
-        "title": "Von der Leyen, 'pieno sostegno a Zelensky, guerra in una fase più cupa'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/von-der-leyen-pieno-sostegno-a-zelensky-guerra-in-una-fase-piu_bac9f0f8-75e2-49e9-bea6-6e67762f2b20.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-11T17:07:48.000Z",
-        "excerpt": "'Appoggio alla richiesta di cessate il fuoco, Russia in stallo sul campo'",
-        "image": null
-      },
-      {
-        "title": "In Francia Glucksmann conquista le primarie socialdemocratiche già dal primo turno",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/11/in-francia-glucksmann-conquista-le-primarie-socialdemocratiche-gia-dal-primo-turno_b3594e02-7910-4f51-9456-b05185093593.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-11T17:07:16.000Z",
-        "excerpt": "In vista delle elezioni presidenziali del 2027",
-        "image": null
-      },
-      {
-        "title": "Francia, primarie della sinistra: valanga di voti per Glucksmann che vince già al primo turno",
-        "link": "https://www.repubblica.it/esteri/2026/10/11/news/primarie_sinistra_francia_eliseo_glucksmann-425640757/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-11T16:59:15.000Z",
-        "excerpt": "Giornata decisiva per la sinistra chiamata a scegliere il suo candidato all’Eliseo: l’eurodeputato di Place Publique con il 66% delle preferenze trionfa contro il 14% del rivale socialista Olivier Faure. Sotto il 10% Roy",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/11/124733218-8235b8a7-2031-4d6e-bf33-0858c34b96cf.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Militari del Qatar all’Olimpico per Lazio-Monza: ecco cosa c’è dietro",
+      "link": "https://www.repubblica.it/sport/calcio/2026/10/12/news/militari_qatar_olimpico_lazio_monza-425642580/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-12T10:33:12.000Z",
+      "excerpt": "La presenza di due agenti della Lekhwiya, il corpo d'élite delle forze di sicurezza interna dello stato arabo, per approfondire le modalità italiane di gestione dell’ordine pubblico",
+      "image": null
+    },
     {
       "title": "Meloni: 'Sull'energia servono risposte strutturali e di lungo periodo' ",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/10/12/meloni-sullenergia-servono-risposte-strutturali-e-di-lungo-periodo-_be052d8b-2d07-46d4-9113-56cefd85e6a2.html",
       "source": "ANSA",
       "pubDate": "2026-10-12T10:32:45.000Z",
       "excerpt": "Intervento della premier all'assemblea di Assolombarda: ''La crescita italiana debole ma l'economia ha retto, nel 2026 si può arrivare a +1%'",
+      "image": null
+    },
+    {
+      "title": "Da Puerta del Sol a Porto: la protesta per la casa si estende in Portogallo",
+      "link": "https://www.repubblica.it/esteri/2026/10/12/news/portogallo_crisi_case_affitti_proteste_porto_lisbona-425642554/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-12T10:28:42.000Z",
+      "excerpt": "Tende e manifestazioni da Lisbona a Braga. Per Eurostat il Paese ha registrato il maggiore aumento del costo delle case in Europa: tra il 2015 e il 2025 l’incremento è stato del 180%. E la crescita non si interrompe: +16",
       "image": null
     },
     {
@@ -1196,11 +1212,27 @@
       "image": null
     },
     {
+      "title": "Meloni all’assemblea di Assolombarda: “Al lavoro per incentivare investimenti software”",
+      "link": "https://www.repubblica.it/economia/2026/10/12/news/energia_case_e_incentivi_le_richieste_delle_imprese_al_governo-425642415/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-12T09:43:29.000Z",
+      "excerpt": "La premier: “Crescita 2026 all’1%, non soddisfa ma è segnale importante”. Con l’Europa riapre il dossier Ets e la flessibilità nelle spese dovute all’inflazione. Orsini: “Iperammortamento ha funzionato, continuare”. Biff",
+      "image": null
+    },
+    {
       "title": "'Il nodulo del Papa è emerso da controlli di routine'",
       "link": "https://www.ansa.it/vaticano/notizie/2026/10/12/il-nodulo-del-papa-e-emerso-da-controlli-di-routine_2fe7f4bb-01da-4a62-b0b9-14cf1f9e808f.html",
       "source": "ANSA",
       "pubDate": "2026-10-12T09:35:02.000Z",
       "excerpt": "La precisazione della Sala stampa vaticana",
+      "image": null
+    },
+    {
+      "title": "Fmi, l’economia del mondo è in crescita del 3% e dobbiamo ringraziare l’IA",
+      "link": "https://www.repubblica.it/economia/2026/10/12/news/fmi_l_economia_del_mondo_e_in_crescita_del_3_e_dobbiamo_ringraziare_l_ia-425642393/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-12T09:32:49.000Z",
+      "excerpt": "La spinta è distribuita in modo diseguale, e premia chi sviluppa la tecnologia o fornisce semiconduttori e macchinari. Nelle stime di luglio gli Stati Uniti crescevano del 2,3%, l’area euro dello 0,9%, l’Italia dello 0,5",
       "image": null
     },
     {
@@ -1586,41 +1618,17 @@
       "pubDate": "2026-10-11T22:05:40.000Z",
       "excerpt": "Trump: “Potremmo unirci agli attacchi contro gli Houthi. Parlerò con bin Salman”",
       "image": null
-    },
-    {
-      "title": "Guerra Ucraina - Russia, le news di oggi. Axios: la Russia non accetta la tregua",
-      "link": "https://www.repubblica.it/esteri/2026/10/12/diretta/guerra_ucraina_russia_news_oggi-425641721/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T22:05:26.000Z",
-      "excerpt": "Sospeso viaggio a Mosca degli inviati Usa. Ft: Trump minaccia il blocco delle armi a Kiev per gli attacchi alle raffinerie russe",
-      "image": null
-    },
-    {
-      "title": "Le pagelle di Cagliari-Juventus: Mina un gigante, Woltemade disarmante",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/pagelle_cagliari_juventus-425641715/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T21:39:59.000Z",
-      "excerpt": "Promossi e bocciati della sfida tra rossoblù e bianconeri",
-      "image": null
-    },
-    {
-      "title": "Kolo Muani tiene a galla la Juventus: 1-1 a Cagliari",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/11/news/cagliari_juventus_gol-425641711/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T21:24:55.000Z",
-      "excerpt": "Il francese, nonostante parecchi errori sotto porta, trova il guizzo che permette ai bianconeri di pareggiare il gol di Maldini. A fine gara screzio tra Spalletti e Pisacane",
-      "image": null
-    },
-    {
-      "title": "Spalletti-Pisacane, rissa sfiorata e cartellini rossi: cosa è successo",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/juventus/2026/10/11/news/spalletti_pisacane_rissa_sfiorata_cosa_e_successo-425641708/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-11T21:21:55.000Z",
-      "excerpt": "I due allenatori a muso duro dopo il triplice fischio, entrambi espulsi",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Ginnastica artistica: l'Italia parte per i Mondiali e punta a Los Angeles",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/12/ginnastica-artistica-litalia-parte-per-i-mondiali-e-punta-a-los-angeles_e3b1c44f-8653-43d3-9d80-b09aeaf651cd.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-12T10:38:08.000Z",
+      "excerpt": "Esposito guida la spedizione, l'evento dal 17 al 25 ottobre con i primi pass olimpici",
+      "image": null
+    },
     {
       "title": "Calcio: Dybala 'spero fine carriera a Roma, ma presto per parlarne'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/calcio-dybala-spero-fine-carriera-a-roma-ma-presto-per-parlarne_99ef7dcc-d912-43e4-885e-71841e7faf6f.html",
