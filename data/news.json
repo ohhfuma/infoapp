@@ -1,62 +1,134 @@
 {
-  "lastUpdated": "2026-10-13T21:55:18.828Z",
+  "lastUpdated": "2026-10-14T00:49:56.031Z",
   "finanza": {
     "italia": [
       {
-        "title": "Da Iss un altro colpo a Lovaglio: “All’assemblea Mps votate contro le due Ops”",
-        "link": "https://www.repubblica.it/economia/2026/10/13/news/assemblea_mps_il_parere_di_iss_votate_contro_le_due_ops_di_lovaglio-425645532/?rss",
+        "title": "Galderma acquisisce Zo Skin da Blackstone per 1,5 miliardi di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/galderma-acquisisce-zo-skin-da-blackstone-per-15-miliardi-di-dollari-3586946",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-14T00:25:06.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
+      },
+      {
+        "title": "Borsa: Tokyo, apertura in lieve rialzo (+0,28%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/14/borsa-tokyo-apertura-in-lieve-rialzo-028_bb2f43a4-14cf-4666-a0df-0236d56ec298.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-14T00:18:17.000Z",
+        "excerpt": "Occhi puntati su inflazione Usa e indicazioni trimestrali societarie",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Enovix è in rialzo nel dopo-borsa oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-enovix-e-in-rialzo-nel-dopoborsa-oggi-93CH-3586922",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-13T23:26:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+      },
+      {
+        "title": "Manovra, ok allo scostamento. Giorgetti avverte i partiti: “Vedo nuvoloni all’orizzonte”",
+        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/14/news/manovra_slitta_ok_scostamento_giorgetti_nuvoloni-425646209/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "2026-10-13T21:31:42.000Z",
-        "excerpt": "Anche il consulente dei fondi, che hanno un terzo del capitale a Siena, si schiera contro le due scalate a Banco Bpm e Banca Generali, e considera l’Opas di Intesa “una possibile alternativa”. Parere a favore sull’integr",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/184503647-5dbab186-3731-4d71-b390-03f89d099c57.jpg"
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "Approvato anche il Documento programmatico di bilancio, ma l’esecutivo non comunica i numeri. Pasticcio sull’ordine del giorno del Cdm",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/224405998-e7390c37-9ec8-403f-b36e-697bcd71cd83.jpg"
       },
       {
-        "title": "Oracle chiede alla FERC di accelerare il gasdotto nel Nuovo Messico per il Progetto Jupiter",
-        "link": "https://it.investing.com/news/stock-market-news/oracle-chiede-alla-ferc-di-accelerare-il-gasdotto-nel-nuovo-messico-per-il-progetto-jupiter-3586879",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-13T21:22:37.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        "title": "L’Fmi smonta i tagli alle accise: “Favoriscono i più ricchi”",
+        "link": "https://www.repubblica.it/economia/2026/10/14/news/l_fmi_smonta_i_tagli_alle_accise_favoriscono_i_piu_ricchi-425646256/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "La ricerca dell’economista Maggi descrive “l’effetto Suv”: chi ha redditi elevati consuma di più e beneficia degli interventi generalizzati sui prezzi",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/231401135-603d7927-4be5-4d31-ba0e-1afe9cc203b7.jpg"
       },
       {
-        "title": "Harbour Island Acquisition raccoglie 100 milioni di dollari con IPO sul Nasdaq",
-        "link": "https://it.investing.com/news/stock-market-news/harbour-island-acquisition-raccoglie-100-milioni-di-dollari-con-ipo-sul-nasdaq-432SI-3586876",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-13T21:12:03.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
+        "title": "Manovra, Meloni rallenta l’iter e attende il sì dell’Europa. Ira di Tajani per l’Irpef",
+        "link": "https://www.repubblica.it/economia/2026/10/14/news/manovra_meloni_taglio_irpef_tajani-425646242/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "La premier: “Partita complessa ma con la flessibilità più margini”. Il vice azzurro: “Taglio delle tasse per noi imprescindibile”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/230822306-d5746de5-0f5b-4361-aa21-fc932096a8f5.jpg"
       },
       {
-        "title": "La sede di Aramco colpita da attacco Houthi: incendio spento a Dhahran",
-        "link": "https://it.investing.com/news/stock-market-news/la-sede-di-aramco-colpita-da-attacco-houthi-incendio-spento-a-dhahran-3586868",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-13T21:02:17.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg"
+        "title": "Ex Ilva, un decreto per tenerla accesa",
+        "link": "https://www.repubblica.it/economia/2026/10/14/news/ilva_taranto_decreto_governo_sciopero-425646186/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "La norma approvata martedì permette agli altiforni di restare in caldo qualche giorno in più in attesa della Cassazione. Incentivi per chi assume ex dipendenti. Ma i sindacati proclamano altre 48 ore di sciopero: “Voglia",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/223518911-59681c8b-beda-4efd-8b55-8a7b96113728.jpg"
       },
       {
-        "title": "TRexBio raccoglie 116,7 milioni di dollari con l’IPO al Nasdaq a 14 dollari per azione",
-        "link": "https://it.investing.com/news/stock-market-news/trexbio-raccoglie-1167-milioni-di-dollari-con-lipo-al-nasdaq-a-14-dollari-per-azione-432SI-3586864",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-13T21:00:02.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+        "title": "Lavori qualificati, il nuovo muro per gli stranieri",
+        "link": "https://www.repubblica.it/economia/2026/10/14/news/lavori_qualificati_il_nuovo_muro_per_gli_stranieri-425646064/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "Il Rapporto 2026 sull’economia dell’immigrazione della Fondazione Leone Moressa: le imprese non riescono a fare arrivare i dipendenti di cui avrebbero bisogno per via delle difficoltà burocratiche e dei tempi lunghissimi",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/220028811-b409b853-35a8-441b-9138-35d1dac1524a.jpg"
       },
       {
-        "title": "Strive pianifica IPO di azioni privilegiate al 15% per acquistare bitcoin",
-        "link": "https://it.investing.com/news/stock-market-news/strive-pianifica-ipo-di-azioni-privilegiate-al-15-per-acquistare-bitcoin-432SI-3586850",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-13T20:47:05.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg"
+        "title": "Stmicroelectronics conferma l’ad Chery per un anno in più. Ed è pace fra Italia e Francia",
+        "link": "https://www.repubblica.it/economia/2026/10/14/news/stmicroelectronics_chery_st_italia_francia_mef-425645988/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "La decisione avallata anche dai rappresentanti del Mef nel consiglio di sorveglianza",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/213107644-b50ba433-86e3-4698-95a5-09fcbd57c2c4.jpg"
       },
       {
-        "title": "La Fed di Collins segnala ulteriori rialzi dei tassi per l’inflazione",
-        "link": "https://it.investing.com/news/stock-market-news/la-fed-di-collins-segnala-ulteriori-rialzi-dei-tassi-per-linflazione-3586847",
+        "title": "Perché il titolo di Grupo Televisa è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-grupo-televisa-e-in-forte-rialzo-oggi-93CH-3586903",
         "source": "Investing.com Italia",
-        "pubDate": "2026-10-13T20:40:10.000Z",
+        "pubDate": "2026-10-13T22:02:32.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
+      },
+      {
+        "title": "Perché il titolo di Bank of America scende oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-bank-of-america-scende-oggi-93CH-3586902",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-13T22:02:31.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM2917P_L.jpg"
+      },
+      {
+        "title": "Perché il titolo GameStop sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-gamestop-sta-salendo-oggi-93CH-3586900",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-13T22:01:10.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/Gamestop_800x533_L_1614009395.jpg"
+      },
+      {
+        "title": "Sportwashing e conti falsi: tutti i guai del Manchester City",
+        "link": "https://www.repubblica.it/economia/rubriche/outlook/2026/10/14/news/sportwashing_e_conti_falsi_tutti_i_guai_del_manchester_city-425645690/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-13T22:00:00.000Z",
+        "excerpt": "Outlook del 14 ottobre. Iscriviti alla Newsletter",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/194154259-56cd7e4d-1874-4c8e-b56c-37970418f831.jpg"
+      },
+      {
+        "title": "Liquidia balza del 40% dopo accordo da 380,7 milioni con UTHR",
+        "link": "https://it.investing.com/news/stock-market-news/liquidia-balza-del-40-dopo-accordo-da-3807-milioni-con-uthr-3586899",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-13T21:56:58.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM5F12L_1200_L.jpg"
+      },
+      {
+        "title": "S&P rivede l’outlook di Brinker a positivo per crescita e debito",
+        "link": "https://it.investing.com/news/stock-market-news/sp-rivede-loutlook-di-brinker-a-positivo-per-crescita-e-debito-3586893",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-13T21:47:53.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
+      },
+      {
+        "title": "AT&T vende la sua divisione messicana a Televisa e Fintech Holdings per 2 miliardi di dollari",
+        "link": "https://it.investing.com/news/stock-market-news/att-vende-la-sua-divisione-messicana-a-televisa-e-fintech-holdings-per-2-miliardi-di-dollari-3586889",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-13T21:34:53.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA5N0R8_M.jpg"
       },
       {
         "title": "Auto, accordo franco-tedesco su motori termici e ibride cinesi",
@@ -65,22 +137,6 @@
         "pubDate": "2026-10-13T20:39:23.000Z",
         "excerpt": "Intesa più vicina sul percorso che porterà alla transizione green nel 2035 e sui criteri per definire le vetture made in Europe. Bruxelles: i dazi americani costano 10 miliardi",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/223911781-0f1e91b6-a119-49d1-be13-c6a04e026d19.jpg"
-      },
-      {
-        "title": "Contour Underwriting lancia una divisione cyber con £15 mln di capacità",
-        "link": "https://it.investing.com/news/stock-market-news/contour-underwriting-lancia-una-divisione-cyber-con-15-mln-di-capacita-93CH-3586818",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-13T20:24:10.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg"
-      },
-      {
-        "title": "Le azioni GameStop salgono dopo nuovi acquisti del CEO Ryan Cohen",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-gamestop-salgono-dopo-nuovi-acquisti-del-ceo-ryan-cohen-3586821",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-13T20:24:10.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
       },
       {
         "title": "Nel nuovo codice multe più leggere, tolleranza zero, stop a patenti",
@@ -105,14 +161,6 @@
         "pubDate": "2026-10-13T19:19:12.000Z",
         "excerpt": "Con nuovo Codice potrà essere verificata telematicamente. Notifiche entro 45 giorni",
         "image": null
-      },
-      {
-        "title": "Ex Ilva, il governo tiene accesa acciaieria di Taranto fino alla pronuncia della Cassazione",
-        "link": "https://bari.repubblica.it/cronaca/2026/10/13/news/ex_ilva_il_governo_tiene_accesa_acciaieria_di_taranto_fino_alla_pronuncia_della_cassazione-425645919/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-13T18:59:32.000Z",
-        "excerpt": "Il consiglio dei ministri ha dato il via libera al decreto legge: tra le misure è prevista il mantenimento della funzionalità degli impianti pugliesi e la concessione di ulteriori 40 milioni",
-        "image": "https://www.repstatic.it/content/localirep/img/rep-bari/2026/10/13/205927800-4c19c91b-ebb8-4bb9-a254-cd46219b32e6.jpg"
       },
       {
         "title": "Innalzato a 70 anni il limite di età per guidare camion e autobus",
@@ -171,51 +219,11 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/14/Immagini/Ritagli/AdobeStock_420994336-U07510620180eUa-1440x752@IlSole24Ore-Web.jpeg"
       },
       {
-        "title": "Credem tratta in esclusiva per Bdm. Mcc sceglie Banco Desio per cedere Cr Orvieto",
-        "link": "https://www.repubblica.it/economia/2026/10/13/news/bdm_esclusiva_credem_banco_desio_orvieto_mcc-425645717/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-13T17:52:31.000Z",
-        "excerpt": "L'istituto di Reggio Emilia: l'acquisizione \"darebbe vita a un player bancario di riferimento per il sud Italia, con quote di mercato comprese tra l’8% e il 12 per cento\"",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/195151857-5cc7a8a5-a416-4c42-9a8e-7a9c1d0fc52e.jpg"
-      },
-      {
-        "title": "Editoria, SoFiGraf completa le acquisizioni di CPI Books e CPI Antony Rowe",
-        "link": "https://www.repubblica.it/economia/2026/10/13/news/editoria_sofigraf_completa_le_acquisizioni_di_cpi_books_e_cpi_antony_rowe-425645540/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-13T17:47:42.000Z",
-        "excerpt": "L’operazione attraverso la controllata Gv Group, che così raddoppia le sue dimensioni e si consolida al primo posto in Europa per la stampa di libri",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/185509655-d2bc5ccb-833b-4c19-b86a-bc2724d6c5b9.jpg"
-      },
-      {
-        "title": "Da palazzi storici ad alberghi di lusso, Radisson annuncia quattro aperture in Italia",
-        "link": "https://www.repubblica.it/economia/2026/10/13/news/palazzi_storici_alberghi_lusso_radisson_hotel_italia-425645640/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-13T17:31:59.000Z",
-        "excerpt": "La catena punta su una proposta più “autentica” per soddisfare i gusti dei viaggiatori, soprattutto quelli internazionali",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/193119870-39cd8006-9e93-4e9f-afff-d33461d21340.jpg"
-      },
-      {
         "title": "Iss, bocciare le offerte di Mps e la cedola da 4 miliardi",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/iss-bocciare-le-offerte-di-mps-e-la-cedola-da-4-miliardi_8425852b-f31f-43f4-8c60-e09cffca37f5.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-13T17:30:39.000Z",
         "excerpt": "Ai soci Mps, per gestire 3-4 fusioni serve un cda unito",
-        "image": null
-      },
-      {
-        "title": "Risultati delle banche Usa in crescita, parte bene la stagione delle trimestrali a Wall Street",
-        "link": "https://www.repubblica.it/economia/2026/10/13/news/risultati_delle_banche_usa_in_crescita_parte_bene_la_stagione_delle_trimestrali_a_wall_street-425645594/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-13T17:19:51.000Z",
-        "excerpt": "Jp Morgan, Citigroup, Goldman Sachs e Wells Fargo aumentano gli utili. Dimon avverte: “Attenzione a deficit pubblico, inflazione e crisi geopolitiche”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/191945902-534865fe-dcf5-4ca9-bc28-1aee7235f08c.jpg"
-      },
-      {
-        "title": "Confindustria: 'Serve un Pnrr 2.0, sbloccare il risparmio privato'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/13/confindustria-serve-un-pnrr-2.0-sbloccare-il-risparmio-privato_d99412e1-7d59-472c-85e0-3c3a8b24aa9d.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-13T16:46:16.000Z",
-        "excerpt": "Il dg Tarquini: 'Incentivi in manovra. Il sostegno alla crescita non può fermarsi'",
         "image": null
       },
       {
@@ -225,14 +233,6 @@
         "pubDate": "2026-10-13T16:18:06.000Z",
         "excerpt": "«Come deve adattarsi il diritto alla nuova economia dello spazio?». È proprio per rispondere a questa domanda, secondo Paola Severino, presidente della Luiss School of Law, che nasce il progetto...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/14/Immagini/Ritagli/aerospazio-1-U85263560705CIe-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Da Hera energia verde per il supercomputer Leonardo di Bologna",
-        "link": "https://www.repubblica.it/economia/2026/10/13/news/hera_energia_rinnovabile_supercomputer_leonardo_bologna-425645391/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-13T15:45:14.000Z",
-        "excerpt": "Il nuovo Energy Park della multiutility bolognese su 90 ettari, a regime produrrà 30 gigawattora all’anno",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/174501987-1bc25acf-506d-4f51-8da5-482bac179837.jpg"
       },
       {
         "title": "Oggi consiglio dei ministri per il sì al documento di bilancio al decreto ex Ilva e all’autonomia differenziata",
@@ -392,12 +392,164 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Sánchez risponde a Littizzetto: “Grazie Luciana ma devo rimanere qui a cucinare paella altri 4 anni”",
-        "link": "https://www.repubblica.it/esteri/2026/10/13/news/pedro_sanchez_risponde_littizzetto_lettera_schlein-425646175/?rss",
+        "title": "Uruguay, Sturla non esclude rinvio visita del Papa dopo intervento chirurgico",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/uruguay-sturla-non-esclude-rinvio-visita-del-papa-dopo-intervento_87a42a94-3dc6-4122-abbe-b8d81a0c13c5.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-14T00:19:35.000Z",
+        "excerpt": "Il cardinale attende la decisione della Santa Sede sul viaggio previsto dal 6 novembre",
+        "image": null
+      },
+      {
+        "title": "L'Iran cambia tattica per intensificare gli attacchi alle spedizioni prima del voto degli Stati Uniti, dicono i funzionari",
+        "link": "https://www.investing.com/news/commodities-news/iran-shifting-tactics-to-step-up-attacks-on-shipping-before-usvote-officials-say-4947753",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-14T00:18:22.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9D000_L.jpg"
+      },
+      {
+        "title": "Il massimo diplomatico statunitense Marco Rubio in visita in India e Uzbekistan",
+        "link": "https://www.investing.com/news/commodities-news/us-top-diplomat-marco-rubio-to-visit-india-and-uzbekistan-this-month-4947652",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-14T00:12:21.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9C1Z1_L.jpg"
+      },
+      {
+        "title": "I prezzi del petrolio aumentano mentre gli attacchi Houthi-Arabia Saudita stimolano l'incertezza dell'offerta",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-houthisaudi-attacks-spur-supply-uncertainty-4947751",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-14T00:01:18.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEK4N0FY_L.jpg"
+      },
+      {
+        "title": "Amministrazione Trump per espandere una raffineria Delek Texas utilizzando Defense ​Production ⁠Act",
+        "link": "https://www.investing.com/news/commodities-news/trump-administration-to-expand-a-delek-texas-refinery-using-defense-productionact-4947737",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-14T00:00:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9C21S_L.jpg"
+      },
+      {
+        "title": "Perù, la Chiesa è costernata per la diagnosi del Papa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/peru-la-chiesa-e-costernata-per-la-diagnosi-del-papa_b52b282b-55da-469f-917a-15e148aeb1c1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-13T23:52:00.000Z",
+        "excerpt": "L'arcidiocesi di Lima invita alla prudenza sulla visita prevista a novembre",
+        "image": null
+      },
+      {
+        "title": "Messico, i vescovi pregano per la pronta guarigione di Leone XIV",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/messico-i-vescovi-pregano-per-la-pronta-guarigione-di-leone-xiv_5b6f7e5b-eef0-4fa1-a592-1b94764f778f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-13T23:51:13.000Z",
+        "excerpt": "La Conferenza episcopale affida il Papa all'intercessione della Vergine di Guadalupe",
+        "image": null
+      },
+      {
+        "title": "Cile, il governo augura al Papa una pronta e completa guarigione",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/cile-il-governo-augura-al-papa-una-pronta-e-completa-guarigione_7ca10c77-331a-4e40-b0d3-eadf22dacc51.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-13T23:31:40.000Z",
+        "excerpt": "Vicinanza a Leone XIV nel segno degli storici legami con la Santa Sede",
+        "image": null
+      },
+      {
+        "title": "Meloni: 'Tra l'Italia e gli Usa un'amicizia fondata su libertà e democrazia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/14/meloni-tra-litalia-e-gli-usa-unamicizia-fondata-su-liberta-e-democrazia_dcd331a8-302e-4fbd-8974-be755fb91615.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-13T23:03:56.000Z",
+        "excerpt": "Il video messaggio della premier in occasione del lancio de 'La Stampa Usa'",
+        "image": null
+      },
+      {
+        "title": "La Polonia lancia l’allarme: “Mosca vuole sferrare un attacco ibrido letale”",
+        "link": "https://www.repubblica.it/esteri/2026/10/14/news/la_polonia_lancia_l_allarme_mosca_e_pronta_a_sferrare_un_attacco_ibrido_letale-425646106/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-10-13T21:25:03.000Z",
-        "excerpt": "Il presidente del governo spagnolo si è rivolto alla comica italiana che durante l’ultima puntata di “Che tempo che fa” gli aveva dedicato una ironica lettera. E poi rilancia la richiesta sulla guida del campo largo: “Pe",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/223327886-aaae730f-861b-4959-bf22-e51a077f2039.jpg"
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "Il ministro degli Esteri Sikorski pone la questione della reazione e il premier Tusk invoca nuovi strumenti in vista del Consiglio Ue",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/221556383-c8dcdb9f-fde9-4d2e-8fe4-5d5f1c181c8e.jpg"
+      },
+      {
+        "title": "Israele, la chance degli arabi: il futuro di Netanyahu dipende anche dal loro voto",
+        "link": "https://www.repubblica.it/esteri/2026/10/14/news/israele_chance_degli_arabi_futuro_netanyahu_dipende_anche_dal_loro_voto-425646045/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "Sono il 20% del Paese e, stando ai sondaggi, saranno l’ago della bilancia delle elezioni. Ma dopo il trauma del 7 ottobre quasi nessuno vuole allearsi con loro",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/214835437-f5e40ffd-edd6-44e9-bc15-1f81a5aa9d32.jpg"
+      },
+      {
+        "title": "Criminalità informatica, servizi internet sospesi e blackout totali: le minacce ai cittadini",
+        "link": "https://www.repubblica.it/esteri/2026/10/14/news/criminalita_informatica_servizi_internet_sospesi_e_blackout_totali_le_minacce_ai_cittadini-425645979/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "Gianni Cuozzo, fondatore e Ceo di Exein, azienda nel settore della cybersecurity industriale: “Quanto accaduto in Francia, con l’attacco hacker ai frigoriferi dei supermercati, è un’anticipazione di dove si sposterà la g",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/212652242-fd452477-25b4-4689-a563-be8402ddfadd.jpg"
+      },
+      {
+        "title": "Francia, frigoriferi spenti dagli hacker. Parigi ora sospetta di Mosca",
+        "link": "https://www.repubblica.it/esteri/2026/10/14/news/francia_frigoriferi_spenti_dagli_hacker_parigi_ora_sospetta_di_mosca-425645924/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "Colpiti simultaneamente 350 supermercati, enormi quantità di cibo buttate via. Nessuna rivendicazione, ma le indagini guardano alla Russia",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/210103795-b44e7413-74ac-4093-9c00-f23cbdc52b77.jpg"
+      },
+      {
+        "title": "Minaccia attacchi cyber, password elementari e sistemi obsoleti: ecco i rischi per l’Italia",
+        "link": "https://www.repubblica.it/esteri/2026/10/14/news/attacchi_cyber_password_1234_sistemi_obsoleti_rischi_per_l_italia-425645879/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "Nel 2026 registrati 3.271 eventi cyber, contro i 2.729 dell’intero 2025. L’Italia si esercita a difendere reti e infrastrutture",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/204109300-a9bc2538-ebbb-4eda-85eb-425880241a57.jpg"
+      },
+      {
+        "title": "Yemen, bombe saudite colpiscono la capitale. Assedio Houthi a Taiz",
+        "link": "https://www.repubblica.it/esteri/2026/10/14/news/yemen_bombe_saudite_colpiscono_capitale_sanaa_assedio_houthi_taiz-425645827/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "Erdogan promette sostegno ai sauditi. L’Egitto valuta di unirsi all’alleanza. Rischio dell’avanzata verso Bab el Mandeb",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/202022251-b9e4c57c-9024-4fdb-bc41-ad416d1740c1.jpg"
+      },
+      {
+        "title": "Il dilemma Nato sull’articolo 5 per scatenare la risposta cyber",
+        "link": "https://www.repubblica.it/esteri/2026/10/14/news/il_dilemma_nato_sull_articolo_5_per_scatenare_la_risposta_cyber-425645760/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "Le linee guida dell’Alleanza prevedono che le ritorsioni siano proporzionali ai danni subiti. Ma quale sia la linea rossa è un segreto",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/200026888-8a9176d2-c420-4b65-a700-46faa7a8dd63.jpg"
+      },
+      {
+        "title": "Usa, l’uomo che rischia di far perdere il Texas a Trump: spunta un video di Paxton con due latitanti a Dubai",
+        "link": "https://www.repubblica.it/esteri/2026/10/14/news/usa_uomo_che_rischia_di_far_perdere_texas_a_trump_video_paxton_latitanti_dubai-425645720/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-13T23:00:00.000Z",
+        "excerpt": "Dopo il burrascoso passato con la giustizia, il filmato, in cui festeggia con l’amante e due incriminati per frode, mette di nuovo nei guai il candidato conservatore al Senato. A rischio la fortezza repubblicana dove i d",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/195310814-004fd734-93ee-49f3-856d-12806d9d231a.jpg"
+      },
+      {
+        "title": "Venezuela, insulti a Montevideo dal viceministro William Castillo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/venezuela-insulti-a-montevideo-dal-viceministro-william-castillo_eec082f6-7fb7-45ac-a426-d39778418768.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-13T22:56:20.000Z",
+        "excerpt": "'L'Uruguay una provincia argentina con un governo woke', dopo le critiche a Rodríguez",
+        "image": null
+      },
+      {
+        "title": "Colombia, imputati 10 ex capi Farc per crimini contro gli indigeni",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/14/colombia-imputati-10-ex-capi-farc-per-crimini-contro-gli-indigeni_109fddbb-ee6a-4eac-8e10-6dc37d00693e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-13T22:40:59.000Z",
+        "excerpt": "Accuse per fatti commessi tra il 1996 e il 2016",
+        "image": null
+      },
+      {
+        "title": "I prezzi dell'oro si sono mescolati tra dollaro più debole e petrolio sottotono, concentrati ora sui dati CPI degli Stati Uniti",
+        "link": "https://www.investing.com/news/commodities-news/gold-slips-near-4160-as-middle-east-tensions-fuel-ratehike-concerns-4945298",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-13T21:31:30.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXNPEI3O02P_L.jpg"
       },
       {
         "title": "Delcy Rodríguez prega per la pronta guarigione di Leone XIV",
@@ -406,46 +558,6 @@
         "pubDate": "2026-10-13T21:02:01.000Z",
         "excerpt": "La leader ad interim esprime la solidarietà del popolo venezuelano al Pontefice",
         "image": null
-      },
-      {
-        "title": "Argentina, indetto il primo appalto per la costruzione della base militare di Ushuaia",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/argentina-indetto-il-primo-appalto-per-la-costruzione-della-base-militare-di-ushuaia_2f625b53-1e68-4c26-8daa-9d6f153bf3a8.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-13T20:46:07.000Z",
-        "excerpt": "Gara per il molo militare 'pubblica e nazionale' con un costo di 122 milioni di euro",
-        "image": null
-      },
-      {
-        "title": "Zelensky, 'raid su centrale termoelettrica a Kiev, gli alleati non ci hanno avvertito'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/13/zelensky-raid-su-centrale-termoelettrica-a-kiev-gli-alleati-non-ci-hanno-avvertito_e64632a6-f6ce-4aa3-bbf6-0bff74fbee49.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-13T20:38:42.000Z",
-        "excerpt": "Colpito anche un palazzo di nove piani",
-        "image": null
-      },
-      {
-        "title": "Condanna al mandante dell’omicidio di Tupac Shakur: 40 anni all’ex capo gang Duane “Keffe D” Davis",
-        "link": "https://www.repubblica.it/esteri/2026/10/13/news/tupac_shakur_40_anni_condanna_omicidio_ex_capo_gan_duane_keffe_d_davis-425646118/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-13T20:18:17.000Z",
-        "excerpt": "La sentenza a trent’anni dalla morte della leggenda del rap, ucciso a colpi di arma da fuoco a Las Vegas. “Non si può strappare un uomo alla sua famiglia. Non si può togliergli la vita stessa, il suo intero futuro, e poi",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/221748333-b06a1610-b259-4a43-bda5-5d8561561cac.jpg"
-      },
-      {
-        "title": "L'Argentina celebra primi risultati accordo Ue-Mercosur, export in aumento del 21%",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/largentina-celebra-primi-risultati-accordo-ue-mercosur-export-in-aumento-del-21_adc04c34-1e0d-43c2-94e2-753577c8cf68.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-13T20:16:36.000Z",
-        "excerpt": "'Incremento del 44% per le vendite di prodotti con riduzioni tariffarie'",
-        "image": null
-      },
-      {
-        "title": "La Nobel per la Pace Pillay: “Il raid in clinica a Gaza per distruggere gli embrioni mi ha fatto pensare al Ruanda”",
-        "link": "https://www.repubblica.it/esteri/2026/10/13/news/navi_pillay_premio_nobel_pace_intervista_corte_penale_internazionale_sanzioni_usa_attacchi_israele-425644669/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-13T20:13:54.000Z",
-        "excerpt": "L’intervista alla giurista sudafricana: “Non è una coincidenza l’annuncio poco dopo l’assegnazione del premio. All’Italia e all’Europa, vorrei ricordare che l'Unione europea ha ricevuto il premio. Sono questi i principi ",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/123851148-c21204c6-8427-4be0-9636-810c8e5478c6.jpg"
       },
       {
         "title": "\"Regalo al nostro avversario\": più repubblicani criticano l'accordo sul diesel di Trump in Russia",
@@ -470,136 +582,80 @@
         "pubDate": "2026-10-13T19:30:22.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9C00W_L.jpg"
-      },
-      {
-        "title": "Bobine di petrolio Brent in un intervallo ristretto a $105,90: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/brent-oil-stuck-in-1025010600-range-live-levels-93CH-4943298",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-13T19:18:54.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA7P09F_M.jpg"
-      },
-      {
-        "title": "Test del gas naturale double top a $3.317: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-coils-in-bull-flag-at-3172-live-levels-93CH-4943302",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-13T19:18:44.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0N3_M.jpg"
-      },
-      {
-        "title": "Compresse d'argento a $59,50 con supporto chiave a $58,70: Live",
-        "link": "https://www.investing.com/news/commodities-news/silver-tests-61706220-resistance-in-macro-downtrend-live-levels-93CH-4943300",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-13T19:18:43.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8T1CF_M.jpg"
-      },
-      {
-        "title": "Il gasolio di Londra si avvicina a $1.473 di resistenza con RSI ipercomprato: Live",
-        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-200sma-support-after-double-top-live-93CH-4943301",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-13T19:18:37.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEAA50PT_M.jpg"
-      },
-      {
-        "title": "Test WTI del petrolio greggio $94,66 Resistenza Fib: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-stuck-in-tight-range-near-91-live-levels-93CH-4943297",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-13T19:18:26.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB4I0Z8_M.jpg"
-      },
-      {
-        "title": "Fujimori propone 'ordine e disciplina' nelle scuole in Perù",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/13/fujimori-propone-ordine-e-disciplina-nelle-scuole-in-peru_577bd4b4-b2be-452c-819d-caf8af2a9284.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-13T19:15:46.000Z",
-        "excerpt": "Annunciata una nuova legge che vieta i capelli lunghi ai ragazzi e il trucco alle ragazze",
-        "image": null
-      },
-      {
-        "title": "Forti esplosioni udite a Riad e nei pressi di un impianto Aramco nell'est",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/13/forti-esplosioni-udite-a-riad-e-nei-pressi-di-un-impianto-aramco-nellest_d1cad3c2-1e4c-48b8-b509-4c2ae94da918.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-13T19:07:54.000Z",
-        "excerpt": "\"La città è interessata da una minaccia aerea ostile\"",
-        "image": null
-      },
-      {
-        "title": "Dal Canada all’Alaska a piedi in compagnia del suo cane: 29enne norvegese muore a un passo dalla meta",
-        "link": "https://www.repubblica.it/esteri/2026/10/13/news/dal_canada_all_alaska_a_piedi_in_compagnia_del_suo_cane_29enne_norvegese_muore_a_un_passo_dalla_meta-425645311/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-13T18:54:08.000Z",
-        "excerpt": "Il viaggio prevedeva di attraversare il lato più selvaggio del continente lontano da città e sentieri conosciuti. Il corpo del giovane è stato trovato a valle di un fiume ghiacciato, mentre Togo è sopravvissuto al padron",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/170159996-30a9bf8e-1b53-4611-9bd8-b906984e7d40.jpg"
-      },
-      {
-        "title": "Media, 'Netanyahu ha parlato con Trump di riprendere guerra contro l'Iran'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/13/media-netanyahu-ha-parlato-con-trump-di-riprendere-guerra-contro-liran_732073a7-b49a-4e59-beb7-b31e3b835b35.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-13T18:11:27.000Z",
-        "excerpt": "Lo riferisce Channel 12",
-        "image": null
-      },
-      {
-        "title": "Media, 'Netanyahu ha parlato con Trump di riprendere guerra contro l'Iran'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/13/media-netanyahu-ha-parlato-con-trump-di-riprendere-guerra-contro-liran_77113865-6e34-4717-b23f-769c968979aa.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-13T18:11:10.000Z",
-        "excerpt": "Lo riferisce Channel 12",
-        "image": null
-      },
-      {
-        "title": "Si dimette l’ambasciatrice Usa in Grecia Guilfoyle dopo la richiesta di Trump",
-        "link": "https://www.repubblica.it/esteri/2026/10/13/news/trump_ambasciatrice_grecia_kimberly_guilfoyledimissioni-425645176/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-13T15:39:16.000Z",
-        "excerpt": "Prima l’annuncio da parte della nuova portavoce della Casa Bianca Zacharia. Poi l’ex fidanzata del figlio travolta dagli scandali lascia ma si difende: “Accuse false”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/162305229-af51cdff-2cc6-4fbf-8e10-ed79fbf3accd.jpg"
-      },
-      {
-        "title": "Tutti i complotti di Katie Zacharia, la nuova portavoce di Trump",
-        "link": "https://www.repubblica.it/esteri/2026/10/13/news/katie_zacharia_portavoce_trump_complottista-425645010/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-13T14:46:31.000Z",
-        "excerpt": "Oggi alla Casa Bianca il primo briefing dell’avvocata californiana, 42 anni e quattro figli, che dovrà dimostrarsi all’altezza della predecessora Karoline Leavitt. Su di lei pesa l’ombra di post cospirazionisti ispirati ",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/150143271-9c948052-282b-40a2-a13b-edd0cb4b198a.jpg"
-      },
-      {
-        "title": "Corea del Nord, Kim Jong-un tra missili e droni inaugura il suo museo delle armi",
-        "link": "https://www.repubblica.it/esteri/2026/10/13/news/corea_del_nord_kim_jong_un_inaugura_museo_delle_armi_trump_messaggio_usa_arma_nucleare-425644916/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-13T12:41:36.000Z",
-        "excerpt": "C’è anche lo Hwasong-20 che la propaganda di Pyongyang sostiene essere in grado di raggiungere gli Stati Uniti. Mentre Trump ribadisce la sua volontà di incontrarlo il mese prossimo in occasione dell’Apec",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/141025464-19aa658c-5efb-478f-9f97-a96563355eb4.jpg"
-      },
-      {
-        "title": "Ue, ok alla richiesta dell’Italia dei fondi Safe per oltre 8 miliardi",
-        "link": "https://www.repubblica.it/esteri/2026/10/13/news/ue_ok_richiesta_fondi_safe_italia_8_miliardi-425644574/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-13T10:45:10.000Z",
-        "excerpt": "Si tratta di un prestito conveniente, con tassi di interesse bassissimi, che permette a Roma di rinnovare l’apparato militare indebitandosi senza pagare alti rendimenti",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/13/121633344-70c78f74-a3c6-4917-a374-8b4fd06c7bed.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Il Papa operato al Gemelli, asportato un tumore maligno al polmone ",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/10/13/il-papa-operato-al-gemelli-asportato-un-tumore-maligno-al-polmone_ae07b5c7-45af-4044-bbb2-72bf323e8929.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-13T21:20:54.000Z",
-      "excerpt": "Tolto il lobo destro. Il Vaticano: 'Intervento per un adenocarcinoma concluso positivamente'",
+      "title": "Papa, il chirurgo: “Esame dei linfonodi, due settimane per sapere quali terapie adottare”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/14/news/papa_tumore_polmone_intervista_luca_voltolini-425646310/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-14T00:04:57.000Z",
+      "excerpt": "Intervista a Luca Voltolini, primario al Careggi di Firenze: “Bisogna aspettare l’esame istologico prima di decidere come procedere. Intanto, il ricovero durerà 4-5 giorni”",
       "image": null
     },
     {
-      "title": "Carmen Gallo vince il Premio Strega Poesia",
-      "link": "https://www.repubblica.it/cultura/2026/10/13/news/carmen_gallo_vince_il_premio_strega_poesia_2026-425646220/",
+      "title": "Il Papa tre ore in sala operatoria: “Tumore maligno al polmone rimosso il lobo inferiore destro”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/14/news/papa_tumore_maligno_polmone_rimosso_lobo-425646322/",
       "source": "Repubblica",
-      "pubDate": "2026-10-13T21:00:00.000Z",
-      "excerpt": "L’autrice di “Procne Machine” (Einaudi) trionfa raccontando i miti dentro la contemporaneità",
+      "pubDate": "2026-10-13T23:00:00.000Z",
+      "excerpt": "I medici: “È un adenocarcinoma. Intervento riuscito, nessuna complicanza”. Prevost novanta minuti sotto i ferri, poi è tornato al decimo piano del Gemelli",
+      "image": null
+    },
+    {
+      "title": "Il Vaticano tra stordimento e prudenza deve riconsiderare agenda e viaggi",
+      "link": "https://www.repubblica.it/cronaca/2026/10/13/news/vaticano_stordimento_papa_operazione_viaggio_america_latina-425646326/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-13T23:00:00.000Z",
+      "excerpt": "Shock in Curia di fronte alla conferma della gravità della patologia. E adesso non si escludono cambiamenti di programma",
+      "image": null
+    },
+    {
+      "title": "Papa operato. “Massima riservatezza sui referti, consegnati a mano al suo team”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/14/news/papa_gemelli_campioni_biologici_protetti_intervista_biologa-425646074/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-13T23:00:00.000Z",
+      "excerpt": "“I dati non passano dai computer: così ci tuteliamo dai furti perché i campioni biologici possono essere reliquie”",
+      "image": null
+    },
+    {
+      "title": "La fragilità dei pontefici: se la salute diventa specchio della Chiesa",
+      "link": "https://www.repubblica.it/cronaca/2026/10/14/news/leone_xiv_operato_fragilita_pontefici_salute_chiesa-425646057/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-13T23:00:00.000Z",
+      "excerpt": "Da Giovanni Paolo II a Benedetto XVI, fino a Leone XIV: tre approcci diversi tra discrezione, dimissioni e apertura",
+      "image": null
+    },
+    {
+      "title": "“Sos inflazione, Bruxelles agisca”. La destra cambia la risoluzione",
+      "link": "https://www.repubblica.it/politica/2026/10/14/news/inflazione_flessibilita_bruxelles_risoluzione_destra-425646144/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-13T23:00:00.000Z",
+      "excerpt": "Oggi Meloni parlerà alle Camere alla vigilia del consiglio europeo: rispetto alla prima bozza focus su energia e pressing sull’Ue per maggiore flessibilità. Nessun riferimento al gas russo",
+      "image": null
+    },
+    {
+      "title": "Il campo largo si compatta su economia e riarmo. Ma sull’Ucraina restano le divisioni",
+      "link": "https://www.repubblica.it/politica/2026/10/14/news/campo_largo_economia_riarmo_ucraina_divisioni-425646013/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-13T23:00:00.000Z",
+      "excerpt": "Oggi risoluzioni separate. La bozza dei 5S: “Le armi allontanano la pace”. Il testo del Pd: “Sostegno militare per l’autodifesa”",
+      "image": null
+    },
+    {
+      "title": "Alfieri (Pd): “L’unità non s’improvvisa. Serve tempo, ma Kiev va aiutata”",
+      "link": "https://www.repubblica.it/politica/2026/10/14/news/alfieri_pd_risoluzioni_kiev_unita_campo_largo_intervista-425646014/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-13T23:00:00.000Z",
+      "excerpt": "Il senatore dem: “Non possiamo smettere di inviare armamenti difensivi. Giusto avere posizioni e sensibilità diverse per parlare a un elettorato più ampio”",
+      "image": null
+    },
+    {
+      "title": "Il Papa operato al Gemelli, asportato un tumore maligno al polmone ",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/10/13/il-papa-operato-al-gemelli-asportato-un-tumore-maligno-al-polmone_ae07b5c7-45af-4044-bbb2-72bf323e8929.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-13T21:31:07.000Z",
+      "excerpt": "Tolto il lobo destro. Il Vaticano: 'Intervento per un adenocarcinoma concluso positivamente'",
       "image": null
     },
     {
@@ -611,14 +667,6 @@
       "image": null
     },
     {
-      "title": "Condanna al mandante dell’omicidio di Tupac Shakur: 40 anni all’ex capo gang Duane “Keffe D” Davis",
-      "link": "https://www.repubblica.it/esteri/2026/10/13/news/tupac_shakur_40_anni_condanna_omicidio_ex_capo_gan_duane_keffe_d_davis-425646118/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-13T20:18:17.000Z",
-      "excerpt": "La sentenza a trent’anni dalla morte della leggenda del rap, ucciso a colpi di arma da fuoco a Las Vegas. “Non si può strappare un uomo alla sua famiglia. Non si può togliergli la vita stessa, il suo intero futuro, e poi",
-      "image": null
-    },
-    {
       "title": "Slittano i tempi della manovra. Tensione sul taglio dell'Irpef",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/10/13/slittano-i-tempi-della-manovra.-tensione-sul-taglio-dellirpef_5bd42336-64a7-46bf-b4e1-fda7a507461a.html",
       "source": "ANSA",
@@ -627,59 +675,11 @@
       "image": null
     },
     {
-      "title": "Tredici giorni, 150 film, un mare di star. A Roma inizia la Festa del cinema",
-      "link": "https://www.repubblica.it/spettacoli/dossier/festa-del-cinema-di-roma/2026/10/13/news/festa_cinema_roma_inizio_red_carpet_genovese-425645851/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-13T18:32:27.000Z",
-      "excerpt": "All’Auditorium dedicato a Ennio Morricone il via alla kermesse con “Il rumore delle cose nuove” di Paolo Genovese",
-      "image": null
-    },
-    {
       "title": "Sui vestiti di Liliana Resinovich il Dna di un uomo sconosciuto",
       "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/sui-vestiti-di-liliana-resinovich-il-dna-di-un-uomo-sconosciuto_566d7511-267b-4379-bf25-45c4740b4829.html",
       "source": "ANSA",
       "pubDate": "2026-10-13T18:26:54.000Z",
       "excerpt": "I periti del gip: 'Sulle suole delle scarpe non c'è il terreno del luogo dove è stata trovata'",
-      "image": null
-    },
-    {
-      "title": "Codice della strada, multe più basse per eccesso di velocità. Patente e libretto, salta l’obbligo",
-      "link": "https://www.repubblica.it/cronaca/2026/10/13/news/codice_strada_bozza_cdm_novita-425645771/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-13T18:04:32.000Z",
-      "excerpt": "Via libera del cdm. Le sanzioni saranno di 10 euro per ogni chilometro oltre i limiti. Documenti controllati con le banche dati",
-      "image": null
-    },
-    {
-      "title": "Splendente Fanelli, Ranieri in camicia bianca: le pagelle dei look della serata di inaugurazione",
-      "link": "https://d.repubblica.it/fashion/look-delle-star/2026/10/13/news/susan_sarandon_in_rosso_ema_stokholma_dark_le_pagelle_dei_look_della_serata_di_inaugurazione-425645751/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-13T17:57:56.000Z",
-      "excerpt": "Apre i battenti la Festa del Cinema di Roma, all’Auditorium sfilano i protagonisti del film di Paolo Genovese. Susan Sarandon in rosso ad Alice nella Città",
-      "image": null
-    },
-    {
-      "title": "Mondiali ginnastica, caso Melnikova: le autorità olandesi negano il visto alla fuoriclasse putiniana",
-      "link": "https://www.repubblica.it/sport/vari/2026/10/13/news/melnikova_ginnastica_putin_mondiali_no_visto_olanda-425645695/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-13T17:43:23.000Z",
-      "excerpt": "Niente permesso d’ingresso anche per Listunova e Kalmykova. La rassegna iridata al via da sabato prossimo",
-      "image": null
-    },
-    {
-      "title": "Sul vestito di Liliana Resinovich trovato il dna di un uomo sconosciuto",
-      "link": "https://www.repubblica.it/cronaca/2026/10/13/news/liliana_resinovich_dna_vestito_uomo_sconosciuto-425645583/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-13T17:12:10.000Z",
-      "excerpt": "I periti del gip: sulle suole delle scarpe non c'è il terreno del luogo dove è stata trovata",
-      "image": null
-    },
-    {
-      "title": "La Lega rilancia: “Niente cittadinanza ai minori stranieri che commettono reati”",
-      "link": "https://www.repubblica.it/politica/2026/10/13/news/lega_pdl_cittadinanza_norma_anti_maranza-425645432/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-13T16:02:12.000Z",
-      "excerpt": "Il deputato leghista Iezzi: “Per la prima volta in Italia vengono introdotti una seria di reati che precludono l'ottenimento della cittadinanza per chi nasce nel nostro paese al compimento dei 18 anni”. Dalla sanzione pe",
       "image": null
     },
     {
