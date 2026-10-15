@@ -1,7 +1,231 @@
 {
-  "lastUpdated": "2026-10-15T11:52:42.178Z",
+  "lastUpdated": "2026-10-15T16:12:11.778Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Visit Italy racconta le terre del Parmigiano Reggiano",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/osserva-viaggi/2026/10/15/news/visit_italy_racconta_le_terre_del_parmigiano_reggiano-425650504/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-15T16:11:24.000Z",
+        "excerpt": "Attraverso la partnership con la piattaforma di promozione turistica Visit Italy, il Consorzio di tutela punta a dare al territorio la stessa riconoscibilità che il prodotto ha già in tutto il mondo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/181119703-7d0ac59c-0a88-4dfd-b836-1b0210d83d85.jpg"
+      },
+      {
+        "title": "Manovra da 23,5 miliardi, contributo dalle banche. Ma l’Abi: “Misura non negoziata, siamo contrari”",
+        "link": "https://www.repubblica.it/economia/2026/10/15/news/manovra_aiuti_famiglie_imprese_banche_giochi-425649024/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-15T16:10:46.000Z",
+        "excerpt": "Il governo anticipa l’impatto delle misure della legge di bilancio nel Dpb trasmesso a Bruxelles e al Parlamento. Spending review per i ministeri",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/074337803-c30adfa6-aadd-4097-8ab3-ed6506284cbc.jpg"
+      },
+      {
+        "title": "S&P rivede l’outlook di Prudential a negativo per i venti contrari in Giappone",
+        "link": "https://it.investing.com/news/stock-market-news/sp-rivede-loutlook-di-prudential-a-negativo-per-i-venti-contrari-in-giappone-3590782",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-15T16:03:28.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg"
+      },
+      {
+        "title": "Tatuaggi e piercing: le imprese sono 9.600, in dieci anni più che raddoppiate",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/10/15/news/tatuaggi_e_piercing_le_imprese_sono_9600_in_dieci_anni_piu_che_raddoppiate-425650487/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-15T15:59:53.000Z",
+        "excerpt": "Roma è la prima città con 440 attività. Quasi una impresa su due è femminile. La Sardegna è la regione con la crescita più forte: +293%",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/175948398-1749fc5d-95b0-4d6f-a6d6-4b120f50733b.jpg"
+      },
+      {
+        "title": "Il CEO di Nvidia: CoreWeave non ha bisogno di garanzie",
+        "link": "https://it.investing.com/news/stock-market-news/il-ceo-di-nvidia-coreweave-non-ha-bisogno-di-garanzie-3590776",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-15T15:57:23.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB3R08Z_M.jpg"
+      },
+      {
+        "title": "Tesla si prepara a svelare la Roadster volante in Texas per rilanciare le vendite",
+        "link": "https://it.investing.com/news/stock-market-news/tesla-si-prepara-a-svelare-la-roadster-volante-in-texas-per-rilanciare-le-vendite-3590774",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-15T15:55:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/tesla_x_M_1440050319.jpg"
+      },
+      {
+        "title": "Borsa: l'Europa strappa il rialzo, Parigi chiude a +0,78%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/borsa-leuropa-strappa-il-rialzo-parigi-chiude-a-078_7915a908-5419-479c-b1a2-9e7580e57d32.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-15T15:51:52.000Z",
+        "excerpt": "Francoforte +0,33%, Londra +1,08%",
+        "image": null
+      },
+      {
+        "title": "Borsa: Milano chiude a -0,72%, pesano i tecnologici",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/borsa-milano-chiude-a-072-pesano-i-tecnologici_43703b43-4e50-4f7e-ba4f-b5060175a5c9.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-15T15:42:16.000Z",
+        "excerpt": "Ftse Mib a 49.397 punti. Technoprobe lascia oltre il 10%",
+        "image": null
+      },
+      {
+        "title": "Manovra da 23,5 miliardi nel 2027, dalle banche 5 miliardi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-da-235-miliardi-nel-2027-dalle-banche-5-miliardi_c3055dc9-ff3a-429b-ace4-53b8b73047e2.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-15T15:33:18.000Z",
+        "excerpt": "Gli istituti: 'Misura non concordata, attendiamo i dettagli'. Nel Dpb deficit al 3,4%, confronto con Bruxelles sulla clausola per difesa ed energia",
+        "image": null
+      },
+      {
+        "title": "Fiat Topolino nominata da Time tra le migliori invenzioni del 2026",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/fiat-topolino-nominata-da-time-tra-le-migliori-invenzioni-del-2026_8aafc567-484e-46df-b591-f142dbce62fb.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-15T15:27:26.000Z",
+        "excerpt": "La microcar elettrica di Fiat premiata per il suo stile italiano e la praticità urbana",
+        "image": null
+      },
+      {
+        "title": "Fitch migliora l’outlook di Equinix a positivo per disciplina e scala",
+        "link": "https://it.investing.com/news/stock-market-news/fitch-migliora-loutlook-di-equinix-a-positivo-per-disciplina-e-scala-3590736",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-15T15:19:30.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM141FD_150x108_S.jpg"
+      },
+      {
+        "title": "Volkswagen, il Future Plan 2030: un monito e una lezione per il mercato del lavoro italiano",
+        "link": "https://www.repubblica.it/economia/2026/10/15/news/volkswagen_il_future_plan_2030_un_monito_e_una_lezione_per_il_mercato_del_lavoro_italiano-425650417/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-15T15:17:38.000Z",
+        "excerpt": "Per gestire la riconversione industriale bisogna andare oltre l’emergenza: attingere sin da subito al Fondo nuove competenze, ai fondi interprofessionali, coinvolgendo e supportando i lavoratori nel processo di riqualifi",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/171727282-f547c593-3ed3-47d2-8815-aa4d8313ce47.jpg"
+      },
+      {
+        "title": "Le azioni di Quest Diagnostics potrebbero muoversi del 4,4% il 22 ottobre",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-quest-diagnostics-potrebbero-muoversi-del-44-il-22-ottobre-93CH-3590728",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-15T15:08:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
+      },
+      {
+        "title": "Le opzioni di PulteGroup suggeriscono un movimento del 4,4% dopo gli utili",
+        "link": "https://it.investing.com/news/stock-market-news/le-opzioni-di-pultegroup-suggeriscono-un-movimento-del-44-dopo-gli-utili-93CH-3590723",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-15T15:04:37.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
+      },
+      {
+        "title": "Le azioni Union Pacific potrebbero muoversi del 4,1% con gli utili del 22 ottobre",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-union-pacific-potrebbero-muoversi-del-41-con-gli-utili-del-22-ottobre-93CH-3590721",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-15T15:03:17.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+      },
+      {
+        "title": "Il titolo di Tractor Supply potrebbe muoversi del 7,9% con gli utili del 22 ottobre",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-tractor-supply-potrebbe-muoversi-del-79-con-gli-utili-del-22-ottobre-93CH-3590719",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-15T15:02:17.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
+      },
+      {
+        "title": "Intelligenza artificiale, Usa e Cina dominano. Mantovano chiede «un cambio di passo a livello Ue»",
+        "link": "https://www.ilsole24ore.com/art/intelligenza-artificiale-usa-e-cina-dominano-mantovano-chiede-un-cambio-passo-livello-ue-AJb5tukB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-15T15:01:03.000Z",
+        "excerpt": "L’intervento del sottosegretario e Autorità delegata alla sicurezza della Repubblica al Digital innovation forum 2026. In Italia investimenti per circa un miliardo per le imprese dell’IA. A Bologna il supercomputer da ol",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/Imagoeconomica_2664391-U57424317814zfu-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "«Dialogo pubblico-privato per vincere la sfida di innovazione, crescita e sostenibilità»",
+        "link": "https://www.ilsole24ore.com/art/dialogo-pubblico-privato-vincere-sfida-innovazione-crescita-e-sostenibilita-AJI4mlkB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-15T15:01:00.000Z",
+        "excerpt": "Il confronto sulla competitività tra Governo, istituzioni europee, imprese e rappresentanti dei settori produttivi al Forum di Remind",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/Imagoeconomica_2758796-U16008043252YLB-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Tunnel subportuale Genova, firmato il contratto da 800 milioni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/tunnel-subportuale-genova-firmato-il-contratto-da-800-milioni_c3328cc1-ac99-48d3-a96c-82025ce5322b.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-15T14:54:47.000Z",
+        "excerpt": "Tra Aspi e Webuild per realizzare la prima galleria sottomarina in Italia",
+        "image": null
+      },
+      {
+        "title": "Gli autotrasportatori verso lo sciopero: “Prezzi del carburante troppo alti, il governo intervenga”",
+        "link": "https://www.repubblica.it/economia/2026/10/15/news/autotrasportatori_sciopero_nazionale_proteste_spontanee_governo-425650227/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-15T14:45:42.000Z",
+        "excerpt": "Dopo i blocchi spontanei in Puglia, Calabria e Sicilia, Unatras e Conftrasporto chiedono una convocazione a Palazzo Chigi: “Si rischia il fermo nazionale”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/155403961-787998c3-2167-4077-b67d-e153dea628b4.jpg"
+      },
+      {
+        "title": "Zecca dello Stato, da Magna Grecia a sapori di oggi: la Calabria diventa moneta",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/zecca-dello-stato-da-magna-grecia-a-sapori-di-oggi-la-calabria-diventa-moneta_ecb555a0-09cd-4f0c-9c51-943d98d175cf.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-15T14:34:57.000Z",
+        "excerpt": "Celebra il Cirò e la Cipolla Rossa di Tropea",
+        "image": null
+      },
+      {
+        "title": "Italo, debutto in Germania nel 2028: manager tedeschi per treni e gestione",
+        "link": "https://www.repubblica.it/economia/2026/10/15/news/italo_germania_nomina_manager_tedeschi-425650258/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-15T14:29:37.000Z",
+        "excerpt": "Marc Giesen ed Eva Kreienkamp assumono la guida delle due società del gruppo ferroviario italiano. Le operazioni saranno affidate a esperti del settore ferroviario che conoscono il concorrente pubblico ed hanno esperienz",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/161402768-7205f72e-f790-4fdb-8c4d-535a747c100b.jpg"
+      },
+      {
+        "title": "Smartphone e rasoi a fine vita, in Italia se ne raccoglie solo il 17%. Il ritiro nei negozi è obbligatorio ma resta poco usato",
+        "link": "https://www.ilsole24ore.com/art/smartphone-e-rasoi-fine-vita-italia-se-ne-raccoglie-solo-17percento-ritiro-negozi-e-obbligatorio-ma-resta-poco-usato-AJ0AwckB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-15T14:10:00.000Z",
+        "excerpt": "Smartphone, auricolari, rasoi elettrici, cavi. A fine vita restano nei cassetti di casa o finiscono nel sacco dell’indifferenziato. Per i piccoli rifiuti di apparecchiature elettriche ed elettroniche (Raee) il tasso...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/_DAR7902-U13777280451duO-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Stellantis, tra le richieste della piattaforma Fiom 1.000 euro una tantum",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/stellantis-tra-le-richieste-della-piattaforma-fiom-1.000-euro-una-tantum_da9fda53-3f2b-4acd-b499-0112885298a4.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-15T14:09:41.000Z",
+        "excerpt": "A Roma l'incontro tra l'azienda e i sindacati metalmeccanici",
+        "image": null
+      },
+      {
+        "title": "Borsa: l'Europa avanti mista con il tech sotto pressione, Milano -0,98%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/borsa-leuropa-avanti-mista-con-il-tech-sotto-pressione-milano-098_53dcefd0-ce8d-4668-ba60-7a680163abb1.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-15T13:58:20.000Z",
+        "excerpt": "Il petrolio è contrastato, giù i rendimenti dei titoli di Stato",
+        "image": null
+      },
+      {
+        "title": "Cdp cala l’asso dei mercati: a Milano il primo Investor Day con oltre 150 big della finanza",
+        "link": "https://www.ilsole24ore.com/art/cdp-cala-l-asso-mercati-milano-primo-investor-day-oltre-150-big-finanza-AJ1cgmkB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-15T13:54:00.000Z",
+        "excerpt": "Nel capoluogo lombardo l’appuntamento per fare il punto sullo stato dell’arte dell’economia italiana e aprire le porte delle partecipate strategiche del gruppo",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/Imagoeconomica_1922302-U77247520254OFu-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Mattarella promulga la «giornata della carta» ma avverte: «Giornate nazionali vertiginosamente aumentate, esorto a contenerle»",
+        "link": "https://www.ilsole24ore.com/art/mattarella-promulga-giornata-carta-ma-avverte-giornate-nazionali-vertiginosamente-aumentate-esorto-contenerle-AJi5wokB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-15T13:23:00.000Z",
+        "excerpt": "Il Presidente della Repubblica Sergio Mattarella, ha promulgato la legge recante “Istituzione della giornata nazionale del riciclo della Carta”, allegando ai presidenti delle Camere una lettera in cui - in...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/mutpi31mwkkw701hmh-U57272415007BHV-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Ue, Orsini: è arbitro tra gli Usa e la Cina ma noi vogliamo giocare la partita",
+        "link": "https://www.ilsole24ore.com/art/ue-orsini-e-arbitro-gli-usa-e-cina-ma-noi-vogliamo-giocare-partita-AJ1njikB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-15T12:27:00.000Z",
+        "excerpt": "Così il presidente di Confindustria in conferenza stampa al termine degli incontri con Maros Sefcovic, commissario europeo per il Commercio e la sicurezza economica, e Raffaele Fitto, vicepresidente esecutivo dell’Ue per",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/07d0e3c70c9adbc3708e8179caea6c50-U06781734340Ott-1440x752@IlSole24Ore-Web.jpg"
+      },
       {
         "title": "Carburanti, ok del Senato al decreto. Estesi i poteri al commissario per le trivelle",
         "link": "https://www.ilsole24ore.com/art/carburanti-ok-senato-decreto-estesi-poteri-commissario-le-trivelle-AJfCrckB",
@@ -11,206 +235,62 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/imagoeconomica-22027-1761227204-U25431262860kLY-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "KeyBanc declassa Cirrus Logic dopo viaggio in Asia, memoria e analog in forza",
-        "link": "https://it.investing.com/news/stock-market-news/keybanc-declassa-cirrus-logic-dopo-viaggio-in-asia-memoria-e-analog-in-forza-3589884",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-15T11:28:40.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
-      },
-      {
-        "title": "Russo (Conftrasporto), senza risposte governo rischio fermo nazionale",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/russo-conftrasporto-senza-risposte-governo-rischio-fermo-nazionale_828016eb-ea4d-4edc-86a0-14dbb5671bba.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-15T11:28:28.000Z",
-        "excerpt": "\"Le proteste spontanee nel paese si stanno allargando\"",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo di Commercial Metals è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-commercial-metals-e-in-forte-rialzo-oggi-93CH-3589872",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-15T11:24:51.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg"
-      },
-      {
-        "title": "Le azioni di Kimberly-Clark salgono dopo i risultati preliminari del Q3",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-kimberlyclark-salgono-dopo-i-risultati-preliminari-del-q3-3589851",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-15T11:19:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC7119Z_M.jpg"
-      },
-      {
-        "title": "RBC segnala la valutazione di Kuehne + Nagel mentre i noli si invertono",
-        "link": "https://it.investing.com/news/stock-market-news/rbc-segnala-la-valutazione-di-kuehne--nagel-mentre-i-noli-marittimi-rischiano-uninversione-3589841",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-15T11:17:00.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
-      },
-      {
-        "title": "Borsa Milano estende perdite su attese calo Nasdaq, crollano Technoprobe, Stm e Prysmian",
-        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-estende-perdite-su-attese-calo-nasdaq-crollano-technoprobe-stm-e-prysmian-3589810",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-15T11:16:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9E12X_L.jpg"
-      },
-      {
-        "title": "Borsa: l'Europa in ordine sparso, Milano -0,8%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/borsa-leuropa-in-ordine-sparso-milano-08_a0cefb5e-deb2-4093-a74e-74022ef810df.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-15T11:16:05.000Z",
-        "excerpt": "In forte calo i tassi dei titoli di Stato. L'euro si rafforza sul dollaro",
-        "image": null
+        "title": "I 25 anni del Diario del Lavoro, lo spazio di informazione e dibattito sulle relazioni industriali",
+        "link": "https://www.repubblica.it/economia/2026/10/15/news/i_25_anni_del_diario_del_lavoro-425649919/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-15T11:20:11.000Z",
+        "excerpt": "Il quotidiano online festeggia un quarto di secolo. Landini all’iniziativa per l’anniversario: “Molto determinati ad un accordo su rappresentanza e contratti”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/131819168-0cf0f6e6-38a2-42a0-b97b-fa4d22335615.jpg"
       },
       {
         "title": "Restrizioni su stufe e camini, dal 15 ottobre multe fino a 5mila euro",
         "link": "https://www.ilsole24ore.com/art/restrizioni-stufe-e-camini-15-ottobre-multe-fino-5mila-euro-AJbnvckB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-15T11:16:00.000Z",
-        "excerpt": "Con l’arrivo dell’inverno, si iniziano a bramare i pomeriggi di freddo da passare davanti al camino. Ma attenzione perché ci sono delle norme da rispettare, la cui violazione può trasformare...",
+        "excerpt": "In Lombardia diventano applicabili nuovi requisiti emissivi ed impiantistici per camini e stufe con potenza superiore a 35 kW",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/15/Immagini/Ritagli/AdobeStock_525581668-U15422634553rIv-1440x752@IlSole24Ore-Web.jpeg"
       },
       {
-        "title": "Perché il titolo Penske Automotive è in rialzo dell’8% oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-penske-automotive-e-in-rialzo-dell8-oggi-93CH-3589763",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-15T11:09:02.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg"
-      },
-      {
-        "title": "Mazzi, il 22 ottobre Salvini presenta a Stato-Regioni il bando tipo per i balneari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/mazzi-il-22-ottobre-salvini-presenta-a-stato-regioni-il-bando-tipo-per-i-balneari_d4b1d27d-e047-4284-a93f-14f20d9becff.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-15T11:07:31.000Z",
-        "excerpt": "'La questione è attenzionata dal Governo, nostri ministeri in costante contatto'",
-        "image": null
-      },
-      {
-        "title": "Walmart: Deutsche Bank diventa rialzista grazie ai venti favorevoli sui prezzi",
-        "link": "https://it.investing.com/news/stock-market-news/walmart-deutsche-bank-diventa-rialzista-grazie-ai-venti-favorevoli-sui-prezzi-3589686",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-15T10:53:47.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED0H13H_M.jpg"
-      },
-      {
-        "title": "Yardeni prevede ulteriori cali delle valutazioni con il risk-off persistente",
-        "link": "https://it.investing.com/news/stock-market-news/yardeni-prevede-ulteriori-cali-delle-valutazioni-con-il-riskoff-persistente-3589746",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-15T10:52:39.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB3R08Z_M.jpg"
-      },
-      {
-        "title": "Nel Mezzogiorno il 22,5% dei pensionati percepisce tra 500 e mille euro mensili",
-        "link": "https://www.ilsole24ore.com/art/nel-mezzogiorno-225percento-pensionati-percepisce-500-e-mille-euro-mensili-AJZveXkB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-15T10:21:00.000Z",
-        "excerpt": "Nel Mezzogiorno si concentra la quota più elevata di pensionati con redditi più bassi: il 22,5% percepisce un importo nella fascia tra 500 e mille euro mensili, contro il 16,5%...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/AdobeStock_244431058-U55404824002gjk-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Inps, oltre 4,5 milioni di pensionati con trattamenti inferiori a 1000 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/inps-oltre-45-milioni-di-pensionati-con-trattamenti-inferiori-a-1000-euro_12c12dd0-45bb-429b-a21f-e12f5529053f.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-15T10:09:38.000Z",
-        "excerpt": "Il 27,5% del totale. OLtre 2,8 milioni sono donne",
-        "image": null
-      },
-      {
-        "title": "Iperammortamento, al via le comunicazioni di completamento",
-        "link": "https://www.ilsole24ore.com/art/iperammortamento-via-comunicazioni-completamento-AJJciWkB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-15T10:06:14.000Z",
-        "excerpt": "Parte la fase decisiva dei progetti del nuovo piano Transizione 5.0. Dalle 12 di giovedì 15 ottobre le imprese possono trasmettere le comunicazioni di completamento degli investimenti, attraverso la piattaforma...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/AdobeStock_499125928-U67846278231Dwj-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Unatras, senza un incontro con il governo pronti al fermo nazionale",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/unatras-senza-un-incontro-con-il-governo-pronti-al-fermo-nazionale_6cbe41f3-23bb-4afa-b342-a59d29a6e4ab.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-15T10:04:59.000Z",
-        "excerpt": "Responsabilità dell'esecutivo non consegnare il settore alla paralisi totale",
-        "image": null
-      },
-      {
-        "title": "Inps, la spesa per le pensioni nel 2025 sale a 372,4 miliardi, +2,3%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/inps-la-spesa-per-le-pensioni-nel-2025-sale-a-3724-miliardi-23_9d04d992-2df2-4eab-a922-c853cccf5439.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-15T09:34:48.000Z",
-        "excerpt": "I pensionati sono 16.405.073. Per gli uomini redditi superiori del 33% a donne",
-        "image": null
-      },
-      {
-        "title": "Istat, 5,4 milioni di persone in povertà assoluta nel 2025, sono il 9,3%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/istat-54-milioni-di-persone-in-poverta-assoluta-nel-2025-sono-il-93_0a76bc02-eac0-4bc3-98f1-6640ff6b2542.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-15T09:34:42.000Z",
-        "excerpt": "Tra operai incidenza povertà scende ma è doppia rispetto a media occupati",
-        "image": null
-      },
-      {
-        "title": "Manovra da 23,5 miliardi, coperture anche da banche, tagli ministeri e giochi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-da-235-miliardi-coperture-anche-da-banche-tagli-ministeri-e-giochi_e7a6ae80-f361-44a7-9bbc-8710961c5728.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-15T09:32:47.000Z",
-        "excerpt": "Famiglie al centro, nel 2027 risorse per 5 miliardi",
-        "image": null
-      },
-      {
-        "title": "Codice della strada, pugno di ferro sull’Rc auto: multe fino a 4mila euro per chi circola senza polizza",
-        "link": "https://www.ilsole24ore.com/art/codice-strada-pugno-ferro-sull-rc-auto-multe-fino-4mila-euro-chi-circola-senza-polizza-AJRl3fjB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-15T09:30:00.000Z",
-        "excerpt": "Verifiche mensili sulle banche dati, trenta giorni per regolarizzare la posizione e divieto di marcia a tempo indeterminato per chi non provvede. La revisione del Codice della strada...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/15/Immagini/Ritagli/Imagoeconomica_1551496-U07713714657dTs-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Istat: 5,4 milioni di persone in povertà assoluta nel 2025, sono il 9,3%",
-        "link": "https://www.ilsole24ore.com/art/istat-54-milioni-persone-poverta-assoluta-2025-sono-93percento-AJyP9SkB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-15T08:28:00.000Z",
-        "excerpt": "L’incidenza della povertà assoluta per le famiglie composte solamente da italiani è pari al 5,9%, sale al 26,7% tra quelle con almeno uno straniero",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/italy-photo-press-698870-1666965358-carrello-spesa-supermercato-acquisti-prezzi--U61408628758HVk-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Art Bonus, l’edizione speciale per i dieci anni del concorso apre al welfare culturale",
-        "link": "https://www.ilsole24ore.com/art/art-bonus-l-edizione-speciale-i-dieci-anni-concorso-apre-welfare-culturale-AJFU71jB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-15T08:02:39.000Z",
-        "excerpt": "La premiazione avverrà nel corso di un evento pubblico organizzato dai promotori",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/15/Immagini/Ritagli/Art-Bonus-logo-U54222272887dwR-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Tragedia sul lavoro, operaio muore al porto di Cagliari schiacciato da tubi",
-        "link": "https://www.ilsole24ore.com/art/tragedia-lavoro-operaio-muore-porto-cagliari-schiacciato-tubi-AJRDaRkB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-15T07:45:00.000Z",
-        "excerpt": "Tragedia al porto canale di Cagliari, dove nella mattina del 15 ottobre, un operaio è morto sul lavoro. Secondo una prima ricostruzione l’uomo sarebbe stato travolto e schiacciato da grossi...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/15/Immagini/Ritagli/AdobeStock_147148875-U88610074127aHv-1440x752@IlSole24Ore-Web.jpeg"
+        "title": "Carburante, allarme a Francoforte. Lufthansa ai piloti: rifornitevi in altri aeroporti",
+        "link": "https://www.repubblica.it/economia/2026/10/15/news/carburante_allarme_francoforte_lufthansa_aeroporti-425649353/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-15T08:23:52.000Z",
+        "excerpt": "Il basso livello del Reno e la manutenzione di un oleodotto mettono sotto pressione le forniture. I velivoli diretti all’hub tedesco imbarcano più cherosene alla partenza. La compagnia adotta il “tankering” per ridurre l",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/102341158-d2effc9a-17d7-43c3-be9d-fdb1a80a214c.jpg"
       }
     ],
     "europa": [
       {
-        "title": "Consiglio europeo, cronaca in diretta. Italia lavora a piattaforma bilancio con Amici della Coesione. Metsola: «Compromesso difficile»",
+        "title": "Trump: «La fucilazione del killer di Fort Hood non sarà in streaming»",
+        "link": "https://www.ilsole24ore.com/art/trump-la-fucilazione-killer-fort-hood-non-sara-streaming-AJpzsukB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-15T14:46:00.000Z",
+        "excerpt": "L’esecuzione dell’autore della strage di Fort Hood, Nidal Malik Hasan, non sarà trasmessa in diretta streaming, come invece era stato annunciato dal segretario alla Difesa Pete Hegseth. ...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/LP_24849063-U04147616417tWn-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Fondi Ue: le regioni contro la “doppia centralizzazione”",
+        "link": "https://www.ilsole24ore.com/art/fondi-ue-regioni-contro-doppia-centralizzazione-AJf4bdkB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-15T12:57:01.000Z",
+        "excerpt": "BRUXELLES - “Se questa è la strada, presto potremo chiudere una parte dei nostri uffici regionali”. Attilio Fontana, presidente della Regione Lombardia, in missione a Bruxelles come molti altri suoi...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/15/Immagini/Ritagli/Tutto-Fontana%20ottobre%202026-U88501185334Kwg-1440x752@IlSole24Ore-Web.jpeg"
+      },
+      {
+        "title": "Consiglio Ue, sull’energia resta nodo Ets. Al via discussione su nuovo bilancio",
         "link": "https://www.ilsole24ore.com/art/consiglio-europeo-cronaca-diretta-ets-lettera-finlandia-danimarca-e-svezia-no-all-indebolimento-AJlqFSkB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-15T08:13:00.000Z",
-        "excerpt": "L’Italia lavora alla creazione di una piattaforma comune con gli Amici della Coesione con la quale affrontare le fasi decisive del negoziato sul bilancio pluriennale dell’Ue. La piattaforma contiene punti considerati imp",
+        "excerpt": "L’Italia lavora alla creazione di una piattaforma comune con gli Amici della Coesione con la quale affrontare le fasi decisive del negoziato sul bilancio pluriennale dell’Ue: tra le priorità il no a nuovi tagli al bilanc",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/LP_24849001-U20535037168YSz-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Iran, Cnn: «Usa valutano utilizzo della Madre di tutte le bombe»",
+        "title": "Guerra Iran, Houthi prendono di mira la sede del governo a Aden in Yemen. Cnn: «Usa valutano utilizzo della Madre di tutte le bombe»",
         "link": "https://www.ilsole24ore.com/art/iran-cnn-usa-valutano-utilizzo-madre-tutte-bombe-AJlvQRkB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-15T07:53:00.000Z",
-        "excerpt": "Gli Stati Uniti stanno valutando la possibilità di utilizzare la «Madre di tutte le bombe» contro l’Iran qualora il presidente Donald Trump ordinasse nuovi attacchi contro la Repubblica islamica prima...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/2026-10-15T032852Z_58949780_RC2F3OAGYLMJ_RTRMADP_5_IRAN-CRISIS-USA-DHOW-U70115752376ehK-1440x752@IlSole24Ore-Web.JPG"
+        "excerpt": "Gli Stati Uniti stanno valutando la possibilità di utilizzare la «Madre di tutte le bombe» contro l’Iran qualora il presidente Donald Trump ordinasse nuovi attacchi contro la Repubblica...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/2026-10-14T222620Z_1570824929_RC243OA35NWU_RTRMADP_5_IRAN-CRISIS-SAUDI-YEMEN-HOUTHI-U70115752376ehK-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "Trump valuta di ridurre le sanzioni sulla «flotta ombra» che trasporta petrolio",
@@ -237,28 +317,12 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/2026-10-14T133503Z_405461333_RC27C6A0RDQJ_RTRMADP_5_NETFLIX-LAYOFFS-U56788125882QiE-1440x752@IlSole24Ore-Web.JPG"
       },
       {
-        "title": "Zelensky annuncia ripresa raid su raffinerie russe dopo tre giorni di stop",
+        "title": "Ucraina ha esaurito le scorte di Patriot. Zelensky annuncia ripresa raid su raffinerie russe",
         "link": "https://www.ilsole24ore.com/art/gli-usa-propongono-paesi-ue-sblocco-alcuni-asset-russi-AJbiAKkB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-15T05:30:00.000Z",
         "excerpt": "L’amministrazione Trump respinge l’accusa di aver limitato l’accesso al servizio Starlink, usato dall’Ucraina per le proprie operazioni militari",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/16/Immagini/Ritagli/2026-10-15T064242Z_1271076858_RC233OAF2BZE_RTRMADP_5_UKRAINE-CRISIS-DONETSK-REGION-U27347153637Gke-1440x752@IlSole24Ore-Web.JPG"
-      },
-      {
-        "title": "Ucraina, Stati Uniti, Cina: al via un vertice chiave per i rapporti tra Ue e mondo",
-        "link": "https://www.ilsole24ore.com/art/ucraina-stati-uniti-cina-via-vertice-chiave-i-rapporti-ue-e-mondo-AJ2yXfjB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-14T16:58:00.000Z",
-        "excerpt": "BRUXELLES – È un vertice europeo, quello di giovedì 15 e venerdì 16 ottobre, molto incentrato sul rapporto dell’Unione europea con il resto del mondo: dalle relazioni con gli Stati...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/15/Immagini/Ritagli/e922e3fed574241f6254277d29501238-U76107323030egA-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Ebola, Kenya conferma secondo caso. È un parente stretto della prima vittima",
-        "link": "https://www.ilsole24ore.com/art/ebola-kenya-conferma-secondo-caso-e-parente-stretto-prima-vittima-AJtrGpjB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-14T16:14:02.000Z",
-        "excerpt": "Si tratta di un 39enne già sottoposto a quarantena. Tracciati 113 dei 128 contatti",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/15/Immagini/Ritagli/2026-10-14T100022Z_327178042_RC2BYNALNZ5M_RTRMADP_5_HEALTH-EBOLA-CONGO-U83474232602DkR-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "Angel Studios aggiorna l'accordo di fusione con Toothy Cow Productions",
@@ -328,6 +392,150 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Trump: “La fucilazione del killer di Fort Hood non sarà in streaming”",
+        "link": "https://www.repubblica.it/esteri/2026/10/15/news/trump_fucilazione_fort_hood_stop_streaming_nidal_hasan-425650272/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-15T15:58:57.000Z",
+        "excerpt": "Il presidente ha confermato l’esecuzione di Nidal Hasan ma ha annunciato l’annullamento della trasmissione in diretta che era stata ordinata dal capo del Pentagono Pete Hegseth",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/161818763-aa372706-0a04-4ece-b112-065efd82e1d1.jpg"
+      },
+      {
+        "title": "La Casa Bianca a Repubblica risponde alle critiche di Meloni: “Sul diesel un grande accordo”",
+        "link": "https://www.repubblica.it/esteri/2026/10/15/news/la_casa_bianca_a_repubblica_risponde_alle_critiche_di_meloni_sul_diesel_un_grande_accordo-425650443/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-15T15:33:44.000Z",
+        "excerpt": "Interpellata dal nostro giornale sulle critiche della premier, la presidenza rilancia: “Immettere sul mercato enormi quantità di gasolio e abbassare i prezzi resta una priorità assoluta”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/173338595-ece85486-e323-4faf-8cfc-b4b2199c6b53.jpg"
+      },
+      {
+        "title": "Come gli Houthi stanno aiutando l'Iran a trasformare l'Arabia Saudita in un punto di pressione",
+        "link": "https://www.investing.com/news/commodities-news/analysishow-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point-4951973",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-15T15:25:16.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9E1CY_L.jpg"
+      },
+      {
+        "title": "'Rivelati i nomi dei donatori della ballroom di Trump, ci sono Apple e Nvidia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/15/rivelati-i-nomi-dei-donatori-della-ballroom-di-trump-ci-sono-apple-e-nvidia_8d9657aa-d759-4acf-afc1-d9cc796398e7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-15T15:03:45.000Z",
+        "excerpt": "Le due big tech hanno versato 25 milioni ciascuna",
+        "image": null
+      },
+      {
+        "title": "Il petrolio Brent scivola mentre gli Stati Uniti soppesano l'allentamento delle sanzioni sulla \"flotta ombra\" globale",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-15T14:54:44.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9E031_L.jpg"
+      },
+      {
+        "title": "Media, l'Ucraina ha esaurito le scorte di missili per i Patriot",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/15/media-lucraina-ha-esaurito-le-scorte-di-missili-per-i-patriot_54a15d14-4ffa-4518-afb5-f8baf9f05b74.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-15T14:54:30.000Z",
+        "excerpt": "Cnn: 'Dopo l'allarme lanciato per mesi da Zelensky'",
+        "image": null
+      },
+      {
+        "title": "Media, l'Ucraina ha esaurito le scorte di missili per i Patriot",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/15/media-lucraina-ha-esaurito-le-scorte-di-missili-per-i-patriot_aa006a09-5c2e-40fe-b79a-e8281237cd80.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-15T14:54:30.000Z",
+        "excerpt": "Cnn: 'Dopo l'allarme lanciato per mesi da Zelensky'",
+        "image": null
+      },
+      {
+        "title": "L'Hotel Plaza di New York chiuderà per quattro anni per restauro",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/15/lhotel-plaza-di-new-york-chiudera-per-quattro-anni-per-restauro_42a61a27-c8da-4dcc-9f3a-4e9710e82c39.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-15T14:52:52.000Z",
+        "excerpt": "Sospenderà l'attività a gennaio per rifare la storica facciata",
+        "image": null
+      },
+      {
+        "title": "Offerta mattutina: CoreWeave si disfa",
+        "link": "https://www.investing.com/news/commodities-news/morning-bid-coreweave-unravels-4951097",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-15T14:48:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9E106_L.jpg"
+      },
+      {
+        "title": "'Houthi prendono di mira la sede del governo a Aden in Yemen'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/15/houthi-prendono-di-mira-la-sede-del-governo-a-aden-in-yemen_3f22edfe-9272-4ded-8260-c9b4b6f1c2fa.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-15T14:32:21.000Z",
+        "excerpt": "Fonti di sicurezza, 'sentiti forti boati presso il palazzo presidenziale'",
+        "image": null
+      },
+      {
+        "title": "Trump, la fucilazione del killer di Fort Hood non sarà in streaming",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/15/trump-la-fucilazione-del-killer-di-fort-hood-non-sara-in-streaming_d716400c-be3d-4312-9172-cae07bbcae34.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-15T14:25:37.000Z",
+        "excerpt": "L'annuncio del presidente",
+        "image": null
+      },
+      {
+        "title": "Media, rilasciato dopo l'interrogatorio il direttore di Novaya Gazeta, Sokolov",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/15/media-rilasciato-dopo-linterrogatorio-il-direttore-di-novaya-gazeta-sokolov_719beadc-ef40-481f-93c1-4113b46943d2.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-15T14:16:42.000Z",
+        "excerpt": "'In qualità di testimone'. 'Già rientrato in redazione'",
+        "image": null
+      },
+      {
+        "title": "Perù, crolla al 28,3% il consenso della presidente Keiko Fujimori",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/15/peru-crolla-al-283-il-consenso-della-presidente-keiko-fujimori_ed396b82-a10d-43e5-87a0-c3d14de21395.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-15T14:16:32.000Z",
+        "excerpt": "Pesano paure per l'economia e criminalità, dubbi sull'alleanza con Trump",
+        "image": null
+      },
+      {
+        "title": "La nuova portavoce della Casa Bianca già traballa: avrebbe mentito sulla qualifica di avvocata",
+        "link": "https://www.repubblica.it/esteri/2026/10/15/news/usa_nuova_portavoce_casa_bianca_gia_traballa_bugie_passato_da_avvocata-425649971/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-15T13:32:20.000Z",
+        "excerpt": "Nuovi guai dopo le gaffe al primo briefing per Katie Zacharia. Si definisce legale ma, secondo diverse fonti, non avrebbe mai ottenuto l’abilitazione alla professione forense. Se l’accusa si rivelerà vera rischia di anda",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/134126988-d83be2b3-5bd3-4ed0-b2d0-e0973c3d16ec.jpg"
+      },
+      {
+        "title": "L'oro rimbalza mentre i rendimenti diminuiscono, il dollaro si ammorbidisce nonostante i caldi dati sull'inflazione negli Stati",
+        "link": "https://www.investing.com/news/commodities-news/gold-rebounds-after-inflationdriven-selloff-as-fed-ratehike-bets-rise-4950379",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-15T13:30:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEAAJ0FF_M.jpg"
+      },
+      {
+        "title": "I prezzi del petrolio scendono tra gli attacchi alle petroliere vicino a Hormuz, le notizie di un allentamento delle sanzioni statunitensi",
+        "link": "https://www.investing.com/news/commodities-news/oil-edges-lower-after-hot-us-cpi-iea-meeting-in-focus-4950316",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-15T13:26:45.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg"
+      },
+      {
+        "title": "L’Europa dello spazio che non decolla mai",
+        "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/10/15/news/l_europa_dello_spazio_che_non_decolla_mai-425649594/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-15T13:00:00.000Z",
+        "excerpt": "La lezione ucraina mostra quanto sia rischiosa la dipendenza dall’America di Trump, ma l’Ue non ha capacità autonome nei satelliti per comunicazioni ed intelligence",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/113613056-db9ac205-395e-4c28-a668-c24dccebda1e.jpg"
+      },
+      {
+        "title": "Nell’Azerbaijan musulmano scatta il divieto di hijab a scuola. Scoppiano le proteste",
+        "link": "https://www.repubblica.it/esteri/2026/10/15/news/azerbaijan_divieto_hijab_a_scuola_alunne_e_insegnanti_fuori_dalle_aule_proteste-425649450/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-15T11:56:33.000Z",
+        "excerpt": "All’origine delle manifestazioni, due recenti delibere che impongono il “rispetto della laicità” nell’abbigliamento con l’avvio di controlli su scala nazionale in un Paese con oltre il 95% di fede islamica. A rischio i r",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/105316811-4081b6af-88c9-4f84-802e-6d61f10b3b8d.jpg"
+      },
+      {
         "title": "Due navi affondano vicino a Hormuz dopo essere state colpite da proiettili durante l'ondata di attacchi",
         "link": "https://www.investing.com/news/commodities-news/two-ships-sink-near-hormuz-after-being-hit-by-projectiles-amid-surge-in-attacks-4950603",
         "source": "Investing.com Commodities",
@@ -336,36 +544,12 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0EK_L.jpg"
       },
       {
-        "title": "Offerta mattutina: CoreWeave si disfa",
-        "link": "https://www.investing.com/news/commodities-news/morning-bid-coreweave-unravels-4951097",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-15T11:00:45.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9E106_L.jpg"
-      },
-      {
-        "title": "Presidente rumeno, le due petroliere a fuoco per droni russi nel nostro spazio aereo",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/15/presidente-rumeno-le-due-petroliere-a-fuoco-per-droni-russi-nel-nostro_169ecba0-bf99-4b8d-95d3-e0100799294b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-15T11:00:15.000Z",
-        "excerpt": "Erano all'ancora nel Mar Nero, una è battente bandiera di san Marino. Otto dispersi",
-        "image": null
-      },
-      {
-        "title": "Cremlino, 'distruttiva la posizione dei Paesi europei sull'accordo per il gasolio'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/15/cremlino-distruttiva-la-posizione-dei-paesi-europei-sullaccordo-per-il-gasolio_75b76685-1f21-4470-8cdf-6755d65e9bd4.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-15T10:32:55.000Z",
-        "excerpt": "\"I mercati energetici e petroliferi globali si trovano in una situazione molto tesa\"",
-        "image": null
-      },
-      {
-        "title": "Sondaggio, il 96% dei giovani di El Salvador promuove la direzione del Paese",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/15/sondaggio-il-96-dei-giovani-di-el-salvador-promuove-la-direzione-del-paese_8ef560b7-2bed-437e-888c-b61ce1d7a624.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-15T10:25:40.000Z",
-        "excerpt": "Percezione positiva, tra i livelli più alti mai registrati: \"siamo sulla strada giusta\"",
-        "image": null
+        "title": "Zelensky sfida Trump: “Riprendiamo gli attacchi alle raffinerie russe”. Colpito l’impianto di Ryazan",
+        "link": "https://www.repubblica.it/esteri/2026/10/15/news/zelensky_sfida_trump_riprendiamo_attacchi_raffinerie_russe_ryazan-425649904/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-15T11:10:30.000Z",
+        "excerpt": "Dopo l’annuncio del presidente Usa di una tregua, lo stop ai raid ha retto per tre giorni, ma solo da parte ucraina. Le bombe su Kiev, i blackout e l’accordo di Donald con Putin sul diesel hanno cambiato le carte in tavo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/131018119-a5380b35-dbfa-48d9-b855-760100889b4d.jpg"
       },
       {
         "title": "Il fondo caucasico leader dei donatori di Trump ha importanti partecipazioni in Armenia, storia commerciale della Russia",
@@ -384,110 +568,142 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9E0W8_L.jpg"
       },
       {
-        "title": "L'Uruguay annuncia un polo di data center da 5,7 miliardi di dollari",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/15/luruguay-annuncia-un-polo-di-data-center-da-57-miliardi-di-dollari_165042f8-1e24-4c97-8b60-1a2498e5b7b1.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-15T09:33:47.000Z",
-        "excerpt": "L'investimento della spagnola Solaria è il più ingente mai ricevuto dal Paese",
-        "image": null
+        "title": "Rules, il più antico ristorante di Londra, diventa un monumento nazionale. Donato al National Trust per 11 milioni di sterline",
+        "link": "https://www.repubblica.it/esteri/2026/10/15/news/rules_il_piu_antico_ristorante_di_londra_diventata_un_monumento_nazionale_donato_al_national_trust_per_11_milioni_di_ster-425649224/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-15T07:27:40.000Z",
+        "excerpt": "Aperto nel 1798, lo storico locale è sopravvissuto a nove monarchi e 45 primi ministri, ospitando da Charlie Chaplin ad Ava Gardner. Ora il proprietario lo dona all’ente di beneficenza che gestisce i patrimoni artistici ",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/092216400-a1484e8f-a05f-468c-b36c-4a87e5fcbe02.jpg"
       },
       {
-        "title": "Media ucraini, 'Starlink ha ripreso a funzionare'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/15/media-ucraini-starlink-ha-ripreso-a-funzionare_1c1943dd-c90e-442b-8389-079849d1ee6b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-15T09:32:47.000Z",
-        "excerpt": "Fonti della Difesa, 'stiamo chiarendo le ragioni delle restrizioni di ieri'",
-        "image": null
-      },
-      {
-        "title": "Trump nel comizio in Arizona, 'i dem vogliono evirare i vostri figli'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/15/trump-nel-comizio-in-arizona-i-dem-vogliono-evirare-i-vostri-figli_333b13a0-0090-42c4-9c9a-01a5caedba4c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-15T09:16:16.000Z",
-        "excerpt": "'Vostro figlio esce come Jimmy e torna come Janet'",
-        "image": null
-      },
-      {
-        "title": "L'oro rimbalza mentre i rendimenti diminuiscono, il dollaro si ammorbidisce nonostante i caldi dati sull'inflazione negli Stati",
-        "link": "https://www.investing.com/news/commodities-news/gold-rebounds-after-inflationdriven-selloff-as-fed-ratehike-bets-rise-4950379",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-15T08:59:46.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEAAJ0FF_M.jpg"
-      },
-      {
-        "title": "Cuba, 'Rubio cerca di far cambiare i voti all'Onu contro l'embargo'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/15/cuba-rubio-cerca-di-far-cambiare-i-voti-allonu-contro-lembargo_33f34c7d-bfc6-418d-aede-89ce506ffe6a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-15T08:59:05.000Z",
-        "excerpt": "'Sta facendo pressioni e ricattando i leader di diversi Paesi'",
-        "image": null
-      },
-      {
-        "title": "Il gas europeo si consolida vicino ai massimi pluriennali tra le minacce di Hormuz",
-        "link": "https://www.investing.com/news/commodities-news/european-gas-consolidates-near-multiyear-highs-amid-hormuz-threats-4950765",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-15T08:43:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/NaturalGas_800x533_L_1778185605.jpg"
-      },
-      {
-        "title": "Merz, 'tagliare nettamente il bilancio Ue, proposta Irlanda non basta'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/15/merz-tagliare-nettamente-il-bilancio-ue-proposta-irlanda-non-basta_a0511c16-588c-4e70-82a2-df04e9a46055.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-15T08:38:54.000Z",
-        "excerpt": "'Auspico accordo entro fine anno, ma posizioni ancora molto distanti'",
-        "image": null
-      },
-      {
-        "title": "I prezzi del petrolio scendono tra gli attacchi alle petroliere vicino a Hormuz, le notizie di un allentamento delle sanzioni statunitensi",
-        "link": "https://www.investing.com/news/commodities-news/oil-edges-lower-after-hot-us-cpi-iea-meeting-in-focus-4950316",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-15T08:36:48.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg"
-      },
-      {
-        "title": "I prezzi del petrolio scendono mentre gli Stati Uniti pesano sull'allentamento delle sanzioni sulla \"flotta ombra\"",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-15T08:12:23.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9E031_L.jpg"
+        "title": "Giallo sul direttore Fbi: “È in Russia”. “Falso”",
+        "link": "https://www.repubblica.it/esteri/2026/10/15/news/giallo_direttore_fbi_russia-425648752/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-14T23:00:00.000Z",
+        "excerpt": "Una emittente tv Usa rilancia la notizia, il Cremlino non smentisce Ma Patel ieri era a un evento in Virginia",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/14/230712402-aeeeea41-3603-4843-bf15-a479dabf6c1c.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Bilancio Ue, 'L'Italia riunisce gli 'amici della coesione'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/15/olanda-molti-paesi-indietro-negli-aiuti-a-kiev-ora-fare-di-piu_99106306-33f9-404f-a92d-d2297a3adfba.html",
+      "title": "++ La Casa Bianca replica a Meloni, 'quello sul diesel un grande accordo' ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/15/la-casa-bianca-replica-a-meloni-quello-sul-diesel-un-grande-accordo_505dec08-b96c-40c0-bca2-dea35c0baae2.html",
       "source": "ANSA",
-      "pubDate": "2026-10-15T10:57:57.000Z",
-      "excerpt": "Olanda: 'Molti Paesi sono indietro negli aiuti a Kiev, bisogna fare di più'. Finlandia, Danimarca e Svezia a Costa: 'Non indebolire sistema Ets'. Lettera dei premier prima del Consiglio europeo",
+      "pubDate": "2026-10-15T16:02:54.000Z",
+      "excerpt": "Un portavoce a Repubblica, 'un'intesa di successo per abbassare i prezzi'",
       "image": null
     },
     {
-      "title": "Media ucraini, 'Starlink ha ripreso a funzionare' Zelensky al Ft: \"Riprenderemo gli attacchi alle raffinerie russe\"",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/15/zelensky-al-ft-riprenderemo-gli-attacchi-alle-raffinerie-russe_5f185341-b55e-4f2e-b239-2253522c6d17.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-15T10:44:58.000Z",
-      "excerpt": "\"'Lo stop è finito\", afferma il presidente ucraino. Musk, è ora che il presidente ucraino se ne vada",
+      "title": "La Casa Bianca a Repubblica risponde alle critiche di Meloni: “Sul diesel un grande accordo”",
+      "link": "https://www.repubblica.it/esteri/2026/10/15/news/la_casa_bianca_a_repubblica_risponde_alle_critiche_di_meloni_sul_diesel_un_grande_accordo-425650443/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-15T15:33:44.000Z",
+      "excerpt": "Interpellata dal nostro giornale sulle critiche della premier, la presidenza rilancia: “Immettere sul mercato enormi quantità di gasolio e abbassare i prezzi resta una priorità assoluta”",
       "image": null
     },
     {
-      "title": "Manovra da 23,5 miliardi nel 2027, coperture anche da tagli ministeri e giochi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-da-235-miliardi-nel-2027-coperture-anche-da-tagli-ministeri-e-giochi_c3055dc9-ff3a-429b-ace4-53b8b73047e2.html",
+      "title": "Manovra da 23,5 miliardi nel 2027, dalle banche 5 miliardi",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-da-235-miliardi-nel-2027-dalle-banche-5-miliardi_c3055dc9-ff3a-429b-ace4-53b8b73047e2.html",
       "source": "ANSA",
-      "pubDate": "2026-10-15T10:02:53.000Z",
-      "excerpt": "Nel Dpb deficit al 3,4%, confronto con Bruxelles sulla clausola per difesa ed energia. Dalle banche e dal settore finanziario contributo da 5 miliardi alla manovra",
+      "pubDate": "2026-10-15T15:33:18.000Z",
+      "excerpt": "Gli istituti: 'Misura non concordata, attendiamo i dettagli'. Nel Dpb deficit al 3,4%, confronto con Bruxelles sulla clausola per difesa ed energia",
       "image": null
     },
     {
-      "title": "Vecchie cellule del sangue trasformate in giovani neuroni ",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/10/15/vecchie-cellule-del-sangue-trasformate-in-giovani-neuroni-_99b1f3b6-f4b6-4548-bce0-ad460bb6e875.html",
+      "title": "Incidente nel cantiere dell'Alta velocità a Firenze, muore un operaio",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/incidente-nel-cantiere-dellalta-velocita-a-firenze-muore-un-operaio_6272b7fa-1ad1-473c-8799-cfc0be7738aa.html",
       "source": "ANSA",
-      "pubDate": "2026-10-15T06:22:53.000Z",
-      "excerpt": "Modello utile per studiare il processo molecolare di ringiovanimento",
+      "pubDate": "2026-10-15T15:31:38.000Z",
+      "excerpt": "Sul posto sono intervenute la polizia e un'ambulanza. Le attività per chiarire la dinamica sono ancora in corso.",
+      "image": null
+    },
+    {
+      "title": "Firenze, muore un operaio nel cantiere dell’Alta Velocità, un altro uomo ferito nell’incidente",
+      "link": "https://firenze.repubblica.it/cronaca/2026/10/15/news/firenze_incidente_lavoro_morto_operaio_rifredi-425650327/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-15T14:46:16.000Z",
+      "excerpt": "E’ accaduto in un cantiere in via Zeffirini in zona Rifredi",
+      "image": null
+    },
+    {
+      "title": "Monet, cent’anni di buone vibrazioni",
+      "link": "https://www.repubblica.it/venerdi/2026/10/15/news/claude_monet_pittore_impressionismo_immaginazione-425650160/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-15T14:31:00.000Z",
+      "excerpt": "Il 5 dicembre 1926 moriva il padre dell’impressionismo, maestro della luce e del colore, pittore tra i più rivoluzionari della storia. Ha cambiato per sempre il nostro modo di guardare scogliere e cattedrali, nuvole e ni",
+      "image": null
+    },
+    {
+      "title": "Marco Goldin porta Monet a teatro: per sentire un quadro ci vuole anche la musica",
+      "link": "https://www.repubblica.it/venerdi/2026/10/15/news/spettacolo_monet_vita_colori_teatro_marco_goldin-425650147/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-15T14:31:00.000Z",
+      "excerpt": "Dal 17 ottobre in tournée nelle sale italiane “Una vita a colori”, dedicato al grande pittore morto 100 anni fa. Parole, immagini e note per raccontarlo “attraverso la porta dell’emozione”",
+      "image": null
+    },
+    {
+      "title": "Trump: “La fucilazione del killer di Fort Hood non sarà in streaming”",
+      "link": "https://www.repubblica.it/esteri/2026/10/15/news/trump_fucilazione_fort_hood_stop_streaming_nidal_hasan-425650272/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-15T14:18:28.000Z",
+      "excerpt": "Il presidente ha confermato l’esecuzione di Nidal Hasan ma ha annunciato l’annullamento della trasmissione in diretta che era stata ordinata dal capo del Pentagono Pete Hegseth",
+      "image": null
+    },
+    {
+      "title": "Bagno di folla per Harry e Meghan nel primo impegno pubblico dopo rientro in Gb",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/15/bagno-di-folla-per-harry-e-meghan-nel-primo-impegno-pubblico-dopo_c01fd7a9-e3f9-4bca-be1e-848bc994a2e4.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-15T13:56:08.000Z",
+      "excerpt": "I duchi di Sussex a Nottingham per incontrare charity, accoglienza 'reale'",
+      "image": null
+    },
+    {
+      "title": "Gli autotrasportatori verso lo sciopero: “Prezzi del carburante troppo alti, il governo intervenga”",
+      "link": "https://www.repubblica.it/economia/2026/10/15/news/autotrasportatori_sciopero_nazionale_proteste_spontanee_governo-425650227/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-15T13:54:15.000Z",
+      "excerpt": "Dopo i blocchi spontanei in Puglia, Calabria e Sicilia, Unatras e Conftrasporto chiedono una convocazione a Palazzo Chigi: “Si rischia il fermo nazionale”",
+      "image": null
+    },
+    {
+      "title": "Cani guida per non vedenti, oltre 130 persone in lista d'attesa",
+      "link": "https://www.ansa.it/sito/videogallery/italia/2026/10/15/cani-guida-per-non-vedenti-oltre-130-persone-in-lista-dattesa_6e84a925-8761-47e2-a9cb-b6e36146ef9b.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-15T13:30:49.000Z",
+      "excerpt": "Il Servizio dei Lions di Limbiate: \"L’attesa può durare oltre due anni\"",
+      "image": null
+    },
+    {
+      "title": "Stop a merci e benzina, chi soffia sul vento della protesta: “Rabbia come ai tempi dei gilet gialli”",
+      "link": "https://bari.repubblica.it/cronaca/2026/10/15/news/stop_a_merci_e_benzina_chi_soffia_sul_vento_della_protesta_rabbia_come_ai_tempi_dei_gilet_gialli-425650118/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-15T13:03:44.000Z",
+      "excerpt": "Cominciata sulle strade del Sud, ora la mobilitazione dei lavoratori rischia di fermare mezza Italia e paradossalmente di impedire agli altri di lavorare: per questo cresce anche l’allerta contro le strumentalizzazioni e",
+      "image": null
+    },
+    {
+      "title": "L’Europa dello spazio che non decolla mai",
+      "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/10/15/news/l_europa_dello_spazio_che_non_decolla_mai-425649594/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-15T13:00:00.000Z",
+      "excerpt": "La lezione ucraina mostra quanto sia rischiosa la dipendenza dall’America di Trump, ma l’Ue non ha capacità autonome nei satelliti per comunicazioni ed intelligence",
+      "image": null
+    },
+    {
+      "title": "Quasi 1 italiano su 2 con peso in eccesso ma pochi consigli dai medici",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/diabete/2026/10/15/quasi-1-italiano-su-2-con-peso-in-eccesso-ma-pochi-consigli-dai-medici_2efd994d-6b10-4509-88f1-042a34ef6270.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-15T11:44:49.000Z",
+      "excerpt": "Società obesità, più colpito chi ha meno istruzione e il Sud. In Campania si supera il 50%",
+      "image": null
+    },
+    {
+      "title": "Letizia Milesi, dal viaggio in Texas al sogno delle Paralimpiadi 2028",
+      "link": "https://www.ansa.it/responsabilmente/notizie/oltre_il_traguardo/2026/10/15/letizia-milesi-dal-viaggio-in-texas-al-sogno-delle-paralimpiadi-2028_9fe33d63-ffe4-44d3-aaf0-60294bc2a808.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-15T11:33:51.000Z",
+      "excerpt": "Campionessa europea 50 stile libero, dopo l'incidente il nuoto è più di una terapia",
       "image": null
     },
     {
@@ -497,95 +713,71 @@
       "pubDate": "2026-10-15T04:44:55.000Z",
       "excerpt": "",
       "image": null
-    },
-    {
-      "title": "Capelli in menopausa, come prendersene cura",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/10/13/capelli-in-menopausa-come-prendersene-cura_b89522fc-e11a-49ba-968b-7e199816ba00.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-14T16:31:45.000Z",
-      "excerpt": "Come cambiano, come colorarli e quali trattamenti sono più adatti",
-      "image": null
-    },
-    {
-      "title": "Le mostre del weekend, da Hopper a Renoir e Toulouse-Lautrec",
-      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/10/14/le-mostre-del-weekend-da-hopper-a-renoir-e-toulouse-lautrec_2e4d4f35-9b1e-4668-a5a4-dcafc538f85b.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-14T15:51:39.000Z",
-      "excerpt": "Progetti espositivi dedicati alle xilografe tra '800 e '900, Russolo e Luigi Iango",
-      "image": null
-    },
-    {
-      "title": "Hassabis (Google), dai sistemi IA incidenti gravi entro due anni senza misure di sicurezza",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/10/14/hassabis-google-da-sistemi-ia-incidenti-gravi-entro-due-anni-senza-misure_3855ff9f-c5c3-494d-8880-cf87bb81b450.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-14T15:41:21.000Z",
-      "excerpt": "Attacchi hacker basati su questa tecnologia sono i \"primi segnali d'allarme\"",
-      "image": null
     }
   ],
   "sport": [
     {
-      "title": "L'Inter perde Lautaro, stop per risentimento muscolare",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/linter-perde-lautaro-stop-per-risentimento-muscolare_4d705ef9-c85e-40de-9125-4c12ccf31b03.html",
+      "title": "Dopo la falsa partenza, Gilardino cerca i primi punti per il Parma",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/dopo-la-falsa-partenza-gilardino-cerca-i-primi-punti-per-il-parma_b3d3881b-9a73-4990-b288-8689e6be7814.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-15T11:38:08.000Z",
-      "excerpt": "L'attaccante sottoposto a esami clinici e strumentali, rischia uno stop medio-lungo",
+      "pubDate": "2026-10-15T15:21:25.000Z",
+      "excerpt": "Contro il Torino out Nesta Elphege, cambia l'attacco",
       "image": null
     },
     {
-      "title": "Calcio: Lazio; Gudmundsson ancora out per la Juve, migliorano Rovella e Marusic",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/calcio-lazio-gudmundsson-ancora-out-per-la-juve-migliorano-rovella-e-marusic_02ac69ab-f8f1-426c-a031-10dfe472b1d2.html",
+      "title": "Fifa: 'scuse Infantino in consiglio', ma gli oppositori vanno avanti",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/fifa-scuse-infantino-in-consiglio-ma-gli-oppositori-vanno-avanti_3ee6f9c9-6ac8-4be3-9b2a-16b2ed370c82.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-15T11:32:04.000Z",
-      "excerpt": "Per l'islandese nuovi controlli martedi', Cancellieri punta al rientro con il Parma",
+      "pubDate": "2026-10-15T15:11:51.000Z",
+      "excerpt": "Per il presidente della FA 'non può continuare se non spiega'",
       "image": null
     },
     {
-      "title": "Calcio: Roma; ottimismo su condizioni Dybala, attesa per esami di Koné",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/calcio-roma-ottimismo-su-condizioni-dybala-attesa-per-esami-di-kone_39515331-d89c-420e-a385-d508ee562a0f.html",
+      "title": "Scontri prima dell'amichevole con il Deportivo, denunciati 15 ultrà del Genoa",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/scontri-prima-dellamichevole-con-il-deportivo-denunciati-15-ultra-del-genoa_eeb4bfe8-1b28-43c6-9001-196ea04c2813.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-15T11:31:17.000Z",
-      "excerpt": "Il giocatore argentino ha accusato un risentimento al polpaccio destro",
+      "pubDate": "2026-10-15T15:09:56.000Z",
+      "excerpt": "Disposti nuovi Daspo e l'aggravamento di quelli già emessi",
       "image": null
     },
     {
-      "title": "Netto ko per Paolini a Wuhan, cede a Kartal vincendo solo 2 game",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/15/netto-ko-per-paolini-a-wuhan-cede-a-kartal-vincendo-solo-2-game_40e67aef-8bf2-4a41-b342-ccf64d1dc83f.html",
+      "title": "Calcio: Genoa, solo Amorim verso il recupero per la sfida alla Roma",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/calcio-genoa-solo-amorim-verso-il-recupero-per-la-sfida-alla-roma_a77f8f5b-0039-43c0-832b-f22e5ef42b00.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-15T11:31:06.000Z",
-      "excerpt": "L'azzurra fuori nel torneo 1000 cinese contro l'inglese n. 170 del mondo",
+      "pubDate": "2026-10-15T14:56:07.000Z",
+      "excerpt": "De Rossi senza Colombo, Havel, Meichtry, Sow, Nuredini e Venturino",
       "image": null
     },
     {
-      "title": "Mondiali ciclismo:Italia d'argento nell'inseguimento uomini. In finale anche la squadra femminile",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/15/mondiali-ciclismoitalia-dargento-nellinseguimento-uomini.-in-finale-anche-la-squadra-femminile_0780b07f-d77d-40c3-99be-87ba438d617e.html",
+      "title": "Calcio: Bologna, contro l'Inter indisponibili Orsolini e Holm",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/calcio-bologna-contro-linter-indisponibili-orsolini-e-holm_fc6d3722-c0a8-4e5f-b356-749b70d9bac2.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-15T11:18:12.000Z",
-      "excerpt": "La Danimarca domina la finale, niente da fare per Ganna e compagni.",
+      "pubDate": "2026-10-15T14:55:46.000Z",
+      "excerpt": "Palladino recupera invece Theate e Mbangula",
       "image": null
     },
     {
-      "title": "Mondiali ciclismo: inseguimento donne, Italia in finale e medaglia sicura",
-      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/15/mondiali-ciclismo-inseguimento-donne-italia-in-finale-e-medaglia-sicura_09f8c76d-54e7-490c-930d-1cc80cbbd35e.html",
+      "title": "Ancora un infortunio nel Napoli, Neres si ferma per tre settimane",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/ancora-un-infortunio-nel-napoli-neres-si-ferma-per-tre-settimane_341defb9-476d-421e-8610-d0bc02d95178.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-15T09:40:46.000Z",
-      "excerpt": "Il quartetto batte la Germania, ora la sfida alla Gran Bretagna",
+      "pubDate": "2026-10-15T14:55:34.000Z",
+      "excerpt": "Ha riportato una lesione di basso grado del muscolo semimembranoso della coscia destra.",
       "image": null
     },
     {
-      "title": "Conference League: Atalanta-Pafos in campo giovedì alle 21 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/conference-league-atalanta-pafos-in-campo-giovedi-alle-21-diretta_59258c34-b822-4270-90ef-59842add4237.html",
+      "title": "Mondiali su pista, Italia doppio argento nell'inseguimento ",
+      "link": "https://www.ansa.it/sito/notizie/sport/ciclismo/2026/10/15/mondiali-su-pista-italia-doppio-argento-nellinseguimento-_0780b07f-d77d-40c3-99be-87ba438d617e.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-15T09:10:00.000Z",
-      "excerpt": "Sarri: 'Non pensiamo alla differenza reti'. Carnesecchi: 'Siamo favoriti'",
+      "pubDate": "2026-10-15T14:53:36.000Z",
+      "excerpt": "Uomini e donne cedono a Danimarca e Gran Bretagna, buoni segnali in vista dei Giochi",
       "image": null
     },
     {
-      "title": "Champions League: 'tipicamente mourinhesca', l'Équipe commenta la vittoria del Real",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/champions-tipicamente-mourinhesca-lequipe-commenta-la-vittoria-del-real_507e961e-af75-432e-896a-0caa796d5583.html",
+      "title": "Yeboah prolunga con il Venezia fino al 2030",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/yeboah-prolunga-con-il-venezia-fino-al-2030_703b5a1e-82bc-4415-a693-29febdc70c1b.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-15T09:07:31.000Z",
-      "excerpt": "La stampa di Madrid celebra la rimonta, ma il tecnico 'deve prendere decisioni'",
+      "pubDate": "2026-10-15T14:46:03.000Z",
+      "excerpt": "Dal 2024 ha collezionato 76 presenze, realizzando 15 gol e fornendo 13 assist",
       "image": null
     }
   ]
