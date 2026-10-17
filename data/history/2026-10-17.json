@@ -665,6 +665,14 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Zacharia a Trump, 'onore indimenticabile la visita nello Studio Ovale con la famiglia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/17/zacharia-a-trump-onore-indimenticabile-la-visita-nello-studio-ovale-con-la-famiglia_6335f4df-acc0-434e-b22b-c5fb13e18c8c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-17T21:05:05.000Z",
+        "excerpt": "L'ex portavoce della Casa Bianca ringrazia il tycoon su X, 'un onore lavorare per lui'",
+        "image": null
+      },
+      {
         "title": "Scontri a Tirana, molotov contro Banca centrale e Corte suprema",
         "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/17/scontri-a-tirana-molotov-contro-banca-centrale-e-corte-suprema_4188752f-4845-431c-b69c-6dda7bd6ce9e.html",
         "source": "ANSA Mondo",
@@ -1115,6 +1123,22 @@
     ]
   },
   "attualita": [
+    {
+      "title": "La Roma si lascia alle spalle il Real: 2-0 al Genoa con Castro e Lulli",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/17/news/roma_genoa_gol-425655622/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-17T20:53:37.000Z",
+      "excerpt": "Inizio complicato per la squadra di Gasperini, poi nella ripresa prodezza dell’argentino e primo gol di A dell’esterno",
+      "image": null
+    },
+    {
+      "title": "La protesta per il carovita diventa guerriglia, Milano un campo di battaglia",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/la-protesta-per-il-carovita-diventa-guerriglia-milano-un-campo-di-battaglia_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-17T20:29:37.000Z",
+      "excerpt": "Scontri anche a Torino e Bologna. Meloni: 'Ogni reticenza sulle violenze è una giustificazione'",
+      "image": null
+    },
     {
       "title": "Cgil in piazza: 'Siamo 100mila, il 20 novembre sciopero generale'",
       "link": "https://www.ansa.it/sito/notizie/politica/2026/10/17/cgil-in-piazza-siamo-100mila-il-20-novembre-sciopero-generale_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html",
@@ -1578,25 +1602,41 @@
       "pubDate": "2026-10-16T16:01:11.000Z",
       "excerpt": "La piccola non ha ancora compiuto tre anni: era rimasta intrappolata nell’incendio seguito all’attacco ed è stata salvata da un giornalista. Aveva già perso suo padre, e ora è rimasta orfana. Sono oltre 20mila i minori m",
       "image": null
-    },
-    {
-      "title": "A Ttg l'intervista al robot umanoide: 'Non provo emozioni, ma imparo da voi'",
-      "link": "https://www.ansa.it/canale_viaggi/speciali/ttg/2026/10/16/ansa-a-ttg-lintervista-al-robot-umanoide-non-provo-emozioni-ma-imparo-da-voi_2230fc27-c2d8-412a-9ab0-68d134d7f46b.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-16T15:43:01.000Z",
-      "excerpt": "Portato da Assoparchi, 'posso sembrare intelligente ma non sono indipendente'",
-      "image": null
-    },
-    {
-      "title": "ChatGPT la più usata, cresce Gemini ed è prima sul mobile",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/10/16/chatgpt-piu-usata-da-italiani-ma-cresce-gemini-ed-e-prima-su-mobile_2d912ed1-4aa3-4828-bf6c-84fca790c984.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-16T14:30:17.000Z",
-      "excerpt": "Esperto: \"Competizione molto aspra sul piano delle nuove funzioni e su quello mediatico\"",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Gasperini 'Non avevo dubbi su reazione, Roma è stata brava'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/gasperini-non-avevo-dubbi-su-reazione-roma-e-stata-brava_9762292a-efd0-4045-b40b-6c0cad32f869.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-17T21:08:59.000Z",
+      "excerpt": "'Ho volutamente cambiato tanto. Il gol di Castro? Giocata fantastica''",
+      "image": null
+    },
+    {
+      "title": "Lulli e il primo gol con la Roma, 'un sogno che si avvera'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/lulli-e-il-primo-gol-con-la-roma-un-sogno-che-si-avvera_40acd06c-4058-4c02-a529-d12b5a2c0c87.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-17T20:59:58.000Z",
+      "excerpt": "Castro 'Oggi fiducia a chi ha giocato meno, non siamo la Roma due'",
+      "image": null
+    },
+    {
+      "title": "Serie A: la Roma riparte dopo il Real, Castro e Lulli affondano il Genoa",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/serie-a-la-roma-riparte-dopo-il-real-castro-e-lulli-affondano-il-genoa_ba1395a7-14d8-44fc-8a01-9bbe16d524fe.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-17T20:52:21.000Z",
+      "excerpt": "Il 2-0 nasce nella ripresa, per entrambi sono i primi gol in giallorosso. Napoli nuovo scivolone, Venezia conquista la prima vittoria. Da 0-1 a 3-1, ancora una rimonta e l'Inter passa al Dall'Ara",
+      "image": null
+    },
+    {
+      "title": "Serie A: Roma-Genoa 2-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/serie-a-roma-genoa-2-0_6f5d1436-3900-4333-8473-46011bc5914b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-17T20:39:51.000Z",
+      "excerpt": "Apre Castro, chiude Lulli",
+      "image": null
+    },
     {
       "title": "Serie A: da 0-1 a 3-1, ancora una rimonta e l'Inter passa al Dall'Ara",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/17/serie-a-da-0-1-a-3-1-ancora-una-rimonta-e-linter-passa-al-dallara_5e337012-61f7-4e66-8bdf-7c6e282f61bd.html",
