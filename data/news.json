@@ -1,7 +1,47 @@
 {
-  "lastUpdated": "2026-10-16T21:53:33.784Z",
+  "lastUpdated": "2026-10-17T00:07:44.575Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Sanità, la protesta della Lombardia: anche Bertolaso chiede più fondi",
+        "link": "https://www.repubblica.it/economia/2026/10/17/news/sanita_lombardia_bertolaso_chiede_fondi_manovra-425653761/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-16T23:00:00.000Z",
+        "excerpt": "L’assessore regionale: “Spero che le ipotesi circolate siano solo gossip”. Il disavanzo del 2025 cresce di 800 milioni",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/223851690-79f55713-4609-428d-9cbe-f2a6bd7b9de7.jpg"
+      },
+      {
+        "title": "“Più IA e meritocrazia”: i giovani di Confindustria chiedono spazio ai padri",
+        "link": "https://www.repubblica.it/economia/2026/10/17/news/confindustria_giovani_ia_meritocrazia_imprese-425653800/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-16T23:00:00.000Z",
+        "excerpt": "La presidente Anghileri sollecita la politica a varare norme mirate: “Sgravi sulle assunzioni e incentivi per far rientrare gli esperti”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/225809172-1d5b22f7-1cb8-470d-8665-81ed017db0d9.jpg"
+      },
+      {
+        "title": "Burraco e parole crociate, a Bologna l’edicola rinasce andando “Fuori pagina”",
+        "link": "https://bologna.repubblica.it/cronaca/2026/10/17/news/edicole_giornali_burraco_cruciverba_bologna_storia-425653711/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-16T23:00:00.000Z",
+        "excerpt": "Un chiosco storico a Porta San Vitale è stato riaperto da un gruppo di trentenni: “Ma in questo settore ci sono ancora tante regole arcaiche”",
+        "image": "https://www.repstatic.it/content/localirep/img/rep-bologna/2026/10/16/220857838-23f5bef8-a033-4f54-95d3-d768ba35b2c2.jpg"
+      },
+      {
+        "title": "Sindacati-imprese, patto a rischio. Scontro sul recupero salariale",
+        "link": "https://www.repubblica.it/economia/2026/10/17/news/sindacati_imprese_accordo_rappresentanza_scontro_sui_salari_inflazione-425653655/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-16T23:00:00.000Z",
+        "excerpt": "Le aziende cancellano gli automatismi contro l’inflazione e offrono solo un’indennità a contratto scaduto. Cgil, Cisl e Uil: “Testo irricevibile”. Trattativa in salita, ma nessuna rottura",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/214443226-094e25ba-7c87-433a-9bd8-fe3fd59b6c2c.jpg"
+      },
+      {
+        "title": "Duello banche-Giorgetti, quanto pagheranno gli istituti il contributo chiesto dal governo",
+        "link": "https://www.repubblica.it/economia/2026/10/17/news/contributo_5_miliardi_duello_banche-giorgetti_piu_tasse_noi_mazzolati_non_morira_nessuno-425653612/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-16T23:00:00.000Z",
+        "excerpt": "Il presidente dell’Abi Patuelli respinge la richiesta di 5 miliardi: “Più tasse, noi mazzolati”. Secondo le prime stime a sborsare di più saranno Intesa e Unicredit. Dbrs conferma il rating A dell’Italia",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/15/165625515-bb69a12c-5ad1-4aaf-91fe-30a871c494b4.jpg"
+      },
       {
         "title": "Proofpoint raccoglie 1,25 miliardi di dollari con JPMorgan e UBS",
         "link": "https://it.investing.com/news/stock-market-news/proofpoint-raccoglie-125-miliardi-di-dollari-con-jpmorgan-e-ubs-93CH-3592744",
@@ -56,7 +96,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-16T20:30:34.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
+        "image": null
       },
       {
         "title": "Il capo Europa dell’Fmi: “Bene l’Italia, ma il debito resta elevato e la crescita all’1% non basta”",
@@ -72,7 +112,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-16T20:11:21.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg"
+        "image": null
       },
       {
         "title": "Compass fa causa al servizio di annunci immobiliari della California",
@@ -80,7 +120,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-16T20:07:03.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg"
+        "image": null
       },
       {
         "title": "FAA vicina all’approvazione del Boeing 737 MAX 10",
@@ -88,7 +128,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-16T19:56:48.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/general-use-news-image3_M_1440049476.jpg"
+        "image": "https://content-media.investing.com/news/moved_small-LYNXMPEL4E02U_L.jpg"
       },
       {
         "title": "Caos nei cieli italiani, cancellazioni e ritardi per i voli",
@@ -179,52 +219,12 @@
         "image": null
       },
       {
-        "title": "Manovra, Giorgetti alle banche: “Tutti devono contribuire”. L’Abi: “Mazzolati più degli altri”",
-        "link": "https://www.repubblica.it/economia/2026/10/16/news/manovra_giorgetti_stabilita_beneficio_per_le_banche-425652404/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-16T16:11:34.000Z",
-        "excerpt": "Il ministro dell’Economia replica ai rilievi degli istituti di credito: “La stabilità è un beneficio anche per loro”. Sulla scelta degli interventi palla alla maggioranza: “Non decide il ministro dell’Economia”. Misure s",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/131629355-167eb1d4-91f6-49db-bcd6-b6c083428bf7.jpg"
-      },
-      {
-        "title": "Enel, offensiva sull’auto: colonnine scontate e buono carburante al via da oggi",
-        "link": "https://www.repubblica.it/economia/2026/10/16/news/enel_auto_colonnine_scontate_buono_carburante-425653204/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-16T15:53:33.000Z",
-        "excerpt": "Due iniziative per i clienti del colosso energetico. “Su una percorrenza annua di 10mila km, una famiglia può così risparmiare tra i 750 e gli 800 euro all'anno”, spiega la società",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/175158011-8e6a2bb9-eba1-4a6f-be7b-a24d223c4660.jpg"
-      },
-      {
-        "title": "Gdo italiana in ripresa: +1,61% tra il 5 e l'11 ottobre",
-        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/rilevazione-settimanale/2026/10/16/news/gdo_italiana_in_ripresa_161_tra_il_5_e_l_11_ottobre-425653029/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-16T14:55:27.000Z",
-        "excerpt": "Andamento positivo in tutte le macro aree della Penisola: a guidare il Sud, con un incremento del +2,42%. I dati di NielsenIQ sul trend dei fatturati",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/165438648-c29af570-66b6-4b44-94ac-27324f39e22f.jpg"
-      },
-      {
         "title": "Papa Leone ha celebrato messa e domenica terrà l’Angelus",
         "link": "https://www.ilsole24ore.com/art/papa-leone-prosegue-ripresa-ha-celebrato-messa-e-domenica-terra-l-angelus-AJ2ZQ0lB",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-10-16T14:55:00.000Z",
         "excerpt": "Il Papa e il presidente russo Vladimir Putin hanno avuto questo pomeriggio una conversazione telefonica. Lo riferisce la sala stampa vaticana. «Nel corso della conversazione, il Santo Padre ha espresso...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/17/Immagini/Ritagli/Papa%20Leone-U37407020035bTR-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "La scossa dei giovani di Confindustria: “Serve una grande strategia italiana per l’IA”",
-        "link": "https://www.repubblica.it/economia/2026/10/16/news/confindustria_giovani_anghileri_giovani_ia_unione_europea-425652743/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-16T14:34:55.000Z",
-        "excerpt": "Al convegno di Capri la presidente Anghileri chiede a governo e partiti di mettere al centro l’innovazione: “Basta sacrificare i giovani o continueranno a cercare un futuro altrove. Un programma per far rientrare cento n",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/163443834-8e94f93f-9427-4ca5-a894-4e06ea3238d2.jpg"
-      },
-      {
-        "title": "Beretta Holding, operazione Usa compiuta: sale al 25% di Sturm Ruger",
-        "link": "https://www.repubblica.it/economia/2026/10/16/news/beretta_holding_operazione_usa_compiuta_sale_al_25_di_sturm_ruger-425652964/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-16T14:29:28.000Z",
-        "excerpt": "L’Offerta lanciata dalla cassaforte lussemburghese è stata sovrascritta 2,6 volte",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/162743840-93b358b5-b721-4d7d-86c0-c8b8052c29fe.jpg"
       },
       {
         "title": "Governo Meloni, accelera l’attuazione delle leggi: sbloccato il 70% dei provvedimenti ",
@@ -392,6 +392,54 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Argentina, colloquio tra Milei e Rubio sul rafforzamento dell'alleanza con gli Usa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/17/argentina-colloquio-tra-milei-e-rubio-sul-rafforzamento-dellalleanza-con-gli_08de567b-2260-43e5-a06f-ca8b1b91749e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-16T23:34:51.000Z",
+        "excerpt": "Su commercio, investimenti, sicurezza regionale e integrazione catene globali del valore",
+        "image": null
+      },
+      {
+        "title": "Cile, Bachelet e Boric escludono candidature alle presidenziali del 2029",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/17/cile-bachelet-e-boric-escludono-candidature-alle-presidenziali-del-2029_d349c6dd-296e-4f5b-bfee-e46da2a6fd55.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-16T23:00:18.000Z",
+        "excerpt": "I due ex presidenti dopo l'incontro con i leader dell'opposizione",
+        "image": null
+      },
+      {
+        "title": "La ministra: “Estonia pronta a reagire, ma un attacco russo può fare morti in Europa”",
+        "link": "https://www.repubblica.it/esteri/2026/10/17/news/intervista_ministra_esteri_estonia_pronta_a_reagire_attacco_russo_puo_fare_morti_in_europa-425653543/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-16T23:00:00.000Z",
+        "excerpt": "Margus Tsahkna: “Dobbiamo prepararci ad azioni che potrebbero causare danni gravi e provocare vittime civili”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/211618137-73cbec57-da28-4a2c-9b57-237b8cdf7b04.jpg"
+      },
+      {
+        "title": "Zampolli: “Io mollato da Trump, ma ormai per paura del voto scappano tutti da lui”",
+        "link": "https://www.repubblica.it/esteri/2026/10/17/news/paolo_zampolli_intervista_rimosso_incarico_trump_amministrazione_stanno_scappando_voto_midterm-425653493/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-16T23:00:00.000Z",
+        "excerpt": "Il diplomatico, appena rimosso dall’incarico di inviato speciale per le partnership globali, rivela i suoi colloqui con Donald",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/205618126-bfe53783-b8cb-43db-8c4b-79cc12566024.jpg"
+      },
+      {
+        "title": "Santo Domingo, fino a 20 anni di carcere per i proprietari della discoteca Jet Set",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/17/santo-domingo-fino-a-20-anni-di-carcere-per-i-proprietari-della-discoteca-jet_3755e2de-e509-4ee6-a3dc-bfc0a5d23a02.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-16T22:52:35.000Z",
+        "excerpt": "La giustizia riclassifica l'accusa dopo la morte di 236 persone nel 2025",
+        "image": null
+      },
+      {
+        "title": "Vertice El Paccto a Santo Domingo, forte ruolo Italia su lotta a crimine organizzato",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/17/vertice-el-paccto-a-santo-domingo-forte-ruolo-italia-su-lotta-a-crimine-organizzato_e8d390ad-239a-4365-a664-479561133d66.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-16T22:26:09.000Z",
+        "excerpt": "La Procuratrice Generale dominicana: 'Ci ispiriamo a Falcone e Borsellino'",
+        "image": null
+      },
+      {
         "title": "Brasile, deforestazione in Amazzonia ai minimi dal 1988",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/16/brasile-deforestazione-in-amazzonia-ai-minimi-dal-1988_bf2697c9-8946-4243-ab77-374ea56d8075.html",
         "source": "ANSA Mondo",
@@ -464,14 +512,6 @@
         "image": "https://content-media.investing.com/news/LYNXNPEC2U0WF_M.jpg"
       },
       {
-        "title": "Il presidente cileno in Bolivia, 'nuova tappa nelle relazioni'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/16/il-presidente-cileno-in-bolivia-nuova-tappa-nelle-relazioni_4db22db4-fbf6-4cda-9949-bd0c472207d8.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-16T19:42:33.000Z",
-        "excerpt": "Accordi su energia e sicurezza",
-        "image": null
-      },
-      {
         "title": "Il petrolio tocca i 110$ al barile per la prima volta da maggio in Medio Oriente, i timori di approvvigionamento della Russia",
         "link": "https://www.investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926",
         "source": "Investing.com Commodities",
@@ -528,30 +568,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/195134938-5981851d-257e-43da-9961-65340abd9731.jpg"
       },
       {
-        "title": "Zelensky, 'se cadiamo ci saranno 20 milioni di profughi in Europa'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/16/zelensky-se-cadiamo-ci-saranno-20-milioni-di-profughi-in-europa_71dfbeb8-e032-4fb0-8608-3a9435aa6a06.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-16T17:58:45.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
-        "title": "Nyt, licenziata la portavoce della Casa Bianca dopo soli 5 giorni",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/16/nyt-licenziata-la-portavoce-della-casa-bianca-dopo-soli-5-giorni_ee346282-d795-4e1f-b4ee-112637b67c5a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-16T17:54:35.000Z",
-        "excerpt": "Lo hanno rivelato alcune fonti",
-        "image": null
-      },
-      {
-        "title": "Macron, 'accordo Trump su diesel russo non risolve il problema e divide'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/16/macron-accordo-trump-su-diesel-russo-non-risolve-il-problema-e-divide_4a1d0b4d-d0dd-4c50-9fd6-69144cc5115c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-16T17:39:29.000Z",
-        "excerpt": "Il presidente francese: 'Non farà abbassare i prezzi'",
-        "image": null
-      },
-      {
         "title": "Maryam, la bambina di Gaza salvata dalle fiamme dopo un raid dell’Idf: “Ha visto sua madre morire”",
         "link": "https://www.repubblica.it/esteri/2026/10/16/news/maryam_bambina_gaza_salvata_da_fiamme_dopo_raid_idf_ha_visto_madre_morire-425653218/?rss",
         "source": "Repubblica Esteri",
@@ -566,40 +582,24 @@
         "pubDate": "2026-10-16T11:55:04.000Z",
         "excerpt": "Abhijeet Dipke fermato a New Delhi mentre usciva dalla propria abitazione per recarsi a una manifestazione da lui convocata contro la revisione delle liste elettorali",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/135453331-e1d82be4-26d2-45d3-9fce-a489494297b8.jpg"
-      },
-      {
-        "title": "Royal Family, i misteri del primo bagno di folla di Harry e Meghan dopo il ritorno in Inghilterra",
-        "link": "https://www.repubblica.it/esteri/2026/10/16/news/harry_meghan_prima_uscita_regno_unito-425652003/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-16T09:12:11.000Z",
-        "excerpt": "Perché i duchi del Sussex hanno scelto Nottingham? E perché si sono comportati come se facessero parte della Famiglia reale, dalla quale sono fuggiti? Tra speculazioni e ipotesi, ecco il piano della coppia",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/111025857-8bb66cf1-5bbc-405a-b668-fcb8e1ff649c.jpg"
-      },
-      {
-        "title": "Lisbona vieta i monopattini in sharing: “Troppi incidenti e veicoli abbandonati ovunque”",
-        "link": "https://www.repubblica.it/esteri/2026/10/16/news/lisbona_monopattini_sharing_divieto-425651968/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-16T09:00:41.000Z",
-        "excerpt": "Lo ha annunciato il sindaco di centro-destra Carlos Moedas",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/16/105950987-75b0d3bc-b935-404e-89c7-9d5cc981827d.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Raimondo fa tripletta, il Frosinone è uno spettacolo: 4-2 al Sassuolo",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/16/news/raimondo_tripletta_frosinone_sassuolo-425653809/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-16T21:02:14.000Z",
-      "excerpt": "Show dell'attaccante dell'Under 21 che diventa capocannoniere del campionato e il terzo in Europa, dopo Yamal e Raphinha, a siglare per la terza volta in stagione una marcatura multipla",
+      "title": "Il Papa sente Putin e chiede tregua per Oleshky, lo zar apre ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/16/il-papa-sente-putin-e-chiede-tregua-per-oleshky-lo-zar-apre_3eac7241-14db-47b1-9a85-d63d22ba5cbd.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-16T22:11:36.000Z",
+      "excerpt": "Trump, 'Putin ascolterà il Papa per far finire la guerra? Credo anche lui lo voglia'",
       "image": null
     },
     {
-      "title": "La rivolta degli studenti “Più soldi alla scuola”. Lite tra Meloni e Schlein",
-      "link": "https://www.repubblica.it/cronaca/2026/10/16/news/cortei_manifestazioni_roma_bologna_torino-425653750/",
+      "title": "Guerra Ucraina - Russia, le news di oggi",
+      "link": "https://www.repubblica.it/esteri/2026/10/17/diretta/guerra_ucraina_russia_news_oggi-425653827/",
       "source": "Repubblica",
-      "pubDate": "2026-10-16T20:29:32.000Z",
-      "excerpt": "Cortei e scontri con la polizia in tutta Italia, tre arresti a Torino La premier: no alla violenza. L’opposizione: pensi a dare risposte “Investono sulle armi e non sugli istituti che cadono a pezzi”. Slogan contro il te",
+      "pubDate": "2026-10-16T22:04:54.000Z",
+      "excerpt": "Trump: “Gli Usa non coinvolti nel depotenziamento di Starlink in Ucraina”. Zelensky: “Se cadiamo ci saranno 20 milioni di profughi in Europa”. Telefonata tra il Papa e Putin: “Tregua per gli aiuti umanitari”. Kiev: “Nuov",
       "image": null
     },
     {
@@ -608,6 +608,14 @@
       "source": "Repubblica",
       "pubDate": "2026-10-16T20:08:35.000Z",
       "excerpt": "A Bruxelles il presidente chiede 70 miliardi per il 2027: “Qui i veri leader”. Trump lo attacca: “Vergognosi i raid sulle raffinerie”. Merz: “No, giuste azioni”",
+      "image": null
+    },
+    {
+      "title": "Zampetti, prima intervista del segretario del Colle: “Mattarella sereno anche nei momenti difficili”",
+      "link": "https://www.repubblica.it/politica/2026/10/16/news/ugo_zampetti_intervista_sky_tg24_sergio_mattarella-425653691/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-16T20:03:47.000Z",
+      "excerpt": "Domani l’esclusiva a Sky Tg24: “Il rapporto con la presidenza del Consiglio si è sempre svolto, con tutti i governi, in un rapporto di fattiva collaborazione”",
       "image": null
     },
     {
@@ -632,14 +640,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-16T19:34:50.000Z",
       "excerpt": "Tycoon: \"È più difficile di Putin\". La replica: \"I veri leader solo in Europa\"",
-      "image": null
-    },
-    {
-      "title": "Il Papa sente Putin e chiede tregua per Oleshky, lo zar apre ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/16/il-papa-sente-putin-e-chiede-tregua-per-oleshky-lo-zar-apre_3eac7241-14db-47b1-9a85-d63d22ba5cbd.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-16T19:07:15.000Z",
-      "excerpt": "Leone riprende in mano i dossier politici. Diffuse le prime foto, domenica l'Angelus",
       "image": null
     },
     {
