@@ -4,6 +4,30 @@
   "finanza": {
     "italia": [
       {
+        "title": "A Folgiero (Fincantieri) il Premio Niaf per l'eccellenza nell'industria marittima",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/a-folgiero-fincantieri-il-premio-niaf-per-leccellenza-nellindustria-marittima_44d247c2-6b9b-4af8-944b-9ff7857db32d.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-18T18:33:50.000Z",
+        "excerpt": "E' la prima volta che viene dedicato a questo ambito",
+        "image": null
+      },
+      {
+        "title": "Anthropic destina il 5% delle azioni a un nuovo fondo di pubblica utilità",
+        "link": "https://it.investing.com/news/stock-market-news/anthropic-destina-il-5-delle-azioni-a-un-nuovo-fondo-di-pubblica-utilita-3593024",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-18T18:28:23.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB65083_M.jpg"
+      },
+      {
+        "title": "Anteprima utili europei Q3: i risultati soddisferanno le attese?",
+        "link": "https://it.investing.com/news/stock-market-news/anteprima-utili-europei-q3-i-risultati-soddisferanno-le-attese-3593022",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-18T18:03:11.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEBA40C1_M.jpg"
+      },
+      {
         "title": "Bollette, sconto dal 2027, un nuovo decreto per fissare il tetto al gas",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/18/bollette-sconto-dal-2027-un-nuovo-decreto-per-fissare-il-tetto-al-gas_38f35727-60e4-4d21-b060-0f823a8c6eb2.html",
         "source": "ANSA Economia",
@@ -458,30 +482,6 @@
         "pubDate": "2026-10-17T10:54:52.000Z",
         "excerpt": "'Se ne può discutere, ma senza spaventare mercati e investitori'",
         "image": null
-      },
-      {
-        "title": "Salvini, banche mazzolate? Patuelli sorprendente, contributo da 5 miliardi il minimo",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/salvini-banche-mazzolate-patuelli-sorprendente-contributo-da-5-miliardi-il-minimo_e4dd01ec-3ce8-4713-a8f4-49d4e6b2b204.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-17T10:49:14.000Z",
-        "excerpt": "'Sarà un intervento di assoluto buonsenso'",
-        "image": null
-      },
-      {
-        "title": "Morto a 86 anni dopo una caduta, per oltre mezzo secolo al centro delle grande finanza",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/17/morto-a-86-anni-dopo-una-caduta-per-oltre-mezzo-secolo-al-centro_f95ff972-5127-406b-909d-e951c6a222ff.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-17T10:28:19.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
-        "title": "Addio a Sergio Erede, maestro del diritto societario e  grandi affari",
-        "link": "https://www.ilsole24ore.com/art/e-morto-sergio-erede-l-avvocato-grandi-affari-AJru6tmB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-17T10:26:00.000Z",
-        "excerpt": "Si è spento all’età di 86 anni Sergio Erede, uno degli avvocati d’affari più noti d’Italia. Un vero e proprio maestro della professione, che ha seguito in prima linea alcune...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/18/Immagini/Ritagli/Imagoeconomica_782932-U53680141248SnX-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "europa": [
@@ -648,6 +648,54 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Macron: 'Rabbia e vergogna, chi ha distrutto deve pagare'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_2aeef560-dded-49f0-b82b-97ffd9004684.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-18T19:36:37.000Z",
+        "excerpt": "'Potremmo vietare alcuni raduni'. Nuovi scontri a Parigi e Lione, è bufera politica",
+        "image": null
+      },
+      {
+        "title": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_eaf8202d-3d92-4fe4-a188-9b345b9a1088.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-18T19:19:36.000Z",
+        "excerpt": "E propone: 'Stop ad attacchi alle raffinerie di Mosca in cambio di missili Patriot'",
+        "image": null
+      },
+      {
+        "title": "Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/zelensky-trump-spinge-lucraina-alla-capitolazione-di-fronte-alla-russia_610d0b1a-5183-430c-a688-52c1f916afa9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-18T19:19:22.000Z",
+        "excerpt": "E propone: 'Stop ad attacchi alle raffinerie di Mosca in cambio di missili Patriot'",
+        "image": null
+      },
+      {
+        "title": "Lo schiaffo di Zelensky a Trump: raid sul diesel di San Pietroburgo",
+        "link": "https://www.repubblica.it/esteri/2026/10/19/news/schiaffo_zelensky_trump_raid_diesel_san_pietroburgo-425656953/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-18T19:10:45.000Z",
+        "excerpt": "La città di Putin colpita duramente dai droni ucraini. In fiamme il terminal che deve rifornire di carburante gli Usa",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/205148075-d7120fe0-cc58-49cf-909e-8627987e20d9.jpg"
+      },
+      {
+        "title": "In Brasile per la prima volta un sondaggio prevede la vittoria di Lula",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/18/in-brasile-per-la-prima-volta-un-sondaggio-prevede-la-vittoria-di-lula_a8369bce-e92f-4516-9d92-79df85248bfa.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-18T18:42:23.000Z",
+        "excerpt": "Per Vox Brasile il presidente uscente ha il 51% dei voti, Bolsonaro 49%",
+        "image": null
+      },
+      {
+        "title": "Macron, 'proteggeremo le nostre città anche vietando alcuni raduni'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/macron-proteggeremo-le-nostre-citta-anche-vietando-alcuni-raduni_af93e405-43e7-4b87-a48e-37a6526d13d0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-18T18:31:56.000Z",
+        "excerpt": "'Chi ha distrutto deve pagare, chi ha saccheggiato deve rimborsare'",
+        "image": null
+      },
       {
         "title": "Francia, il discorso di Macron alla nazione dopo le violenze nei cortei: “Rabbia e vergogna”",
         "link": "https://www.repubblica.it/esteri/2026/10/18/news/francia_protesta_studenti_governo_sotto_accusa_dopo_le_violenze_dei_black_bloc-425656417/?rss",
@@ -1079,58 +1127,74 @@
         "pubDate": "2026-10-17T18:40:53.000Z",
         "excerpt": "A fiamme gli istituti",
         "image": null
-      },
-      {
-        "title": "Macron, 'nessun posto per la violenza, chi distrugge e saccheggia verrà punito'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/17/macron-nessun-posto-per-la-violenza-chi-distrugge-e-saccheggia-verra-punito_7c7e74c4-1b96-4083-aa78-7b806c727299.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-17T18:01:54.000Z",
-        "excerpt": "'Uniti contro chi semina il caos'",
-        "image": null
-      },
-      {
-        "title": "Macron, 'nessun posto alla violenza, chi distrugge e saccheggia verrà punito'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/17/macron-nessun-posto-alla-violenza-chi-distrugge-e-saccheggia-verra-punito_c21394b6-b261-404e-bdcd-9e4a3ae0d5c2.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-17T17:59:20.000Z",
-        "excerpt": "'Uniti contro chi semina il caos'",
-        "image": null
-      },
-      {
-        "title": "Brasile, domani primo dibattito televisivo tra Lula e Bolsonaro a 7 giorni dal voto",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/17/brasile-domani-primo-dibattito-televisivo-tra-lula-e-bolsonaro-a-7-giorni-dal_df75c97e-f32d-4849-80aa-38f6145efcf1.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-17T17:24:55.000Z",
-        "excerpt": "I candidati alla presidenza si sfidano su welfare, criminalità e conti pubblici",
-        "image": null
-      },
-      {
-        "title": "“Operazione Vivaldi”, la controffensiva ucraina che blocca l’assalto russo del Donetsk",
-        "link": "https://www.repubblica.it/esteri/2026/10/17/news/operazione_vivaldi_controffensiva_ucraina_blocca_assalto_russo_donetsk_conquista_donbass-425654399/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-17T12:27:04.000Z",
-        "excerpt": "L’esercito ucraino rivendica la riconquista di 277 chilometri quadrati e ferma l’invasione a nord della città fortezza. Minacciato l’obiettivo russo di conquistare l’intero Donbass. Mosca concentra la pressione quindi da",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/17/113045019-f5e6ee25-30b1-4eaa-85e8-81bf27390cd9.jpg"
-      },
-      {
-        "title": "Esclusivo: gli Stati Uniti tengono più colloqui segreti con i governanti militari del Myanmar a Tokyo, dicono le fonti",
-        "link": "https://www.investing.com/news/commodities-news/exclusiveus-holds-more-secret-talks-with-myanmars-militarybacked-rulers-in-tokyo-sources-say-4953078",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-17T02:54:43.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0AL_L.jpg"
-      },
-      {
-        "title": "I prezzi dell'oro scivolano per la settimana mentre i guadagni petroliferi compensano il dollaro più debole, il rally delle obbligazioni statunitensi",
-        "link": "https://www.investing.com/news/commodities-news/gold-steadies-near-4160-as-stock-selloff-drives-bond-rally-treasury-yields-fall-4952940",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-16T21:15:59.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEF410GC_M.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Serie A, Juventus-Lazio 0-3",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-juventus-lazio-0-3_02c6a963-1886-4a93-92ec-be0857426a7b.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-18T20:37:18.000Z",
+      "excerpt": "Si è giocata la settima giornata di campionato",
+      "image": null
+    },
+    {
+      "title": "A Milano ancora scontri, Meloni convoca il vertice sulla sicurezza",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/a-milano-ancora-scontri-meloni-convoca-il-vertice-sulla-sicurezza_7945d5b5-a8b2-4eed-96ae-375261367822.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-18T20:34:06.000Z",
+      "excerpt": "Neanche il tempo di contare i danni che nel centro della città è tornata la guerriglia urbana. Scontro Sala-Piantedosi sugli agenti. Sono oltre 200 i fermati, l'80% minorenni",
+      "image": null
+    },
+    {
+      "title": "Lo show di Fiorello nello studio del Tg1: “Siamo come il campo largo”",
+      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/10/18/news/lo_show_di_fiorello_nello_studio_del_tg1_edizione_piu_che_straordinaria-425657078/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T19:56:24.000Z",
+      "excerpt": "Il mini varietà nello studio del telegiornale per una “Edizione più che straordinaria” con Fabrizio Biggio TonyPitony e Annalisa per lanciare la nuova edizione della Pennicanza",
+      "image": null
+    },
+    {
+      "title": "Schlein si candida a premier: “Pronta con o senza primarie”",
+      "link": "https://www.repubblica.it/politica/2026/10/18/news/elly_schlein_assemblea_pd_premier_primarie-425657073/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T19:53:20.000Z",
+      "excerpt": "La segretaria incassa la proroga del mandato all’assemblea nazionale ma chiude la competizione ai gazebo per gli altri dem. E la minoranza si astiene: “Una forzatura”",
+      "image": null
+    },
+    {
+      "title": "Guerriglia a Milano, due giorni di razzie e violenze: 270 fermati, oltre cento i feriti",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/18/news/guerriglia_milano_bilancio_fermati_feriti-425657062/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T19:50:05.000Z",
+      "excerpt": "La telefonata del ministro Piantedosi con il questore Megale. Altissima la quota di minori anche non imputabili",
+      "image": null
+    },
+    {
+      "title": "Macron: 'Rabbia e vergogna, chi ha distrutto deve pagare'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_2aeef560-dded-49f0-b82b-97ffd9004684.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-18T19:36:37.000Z",
+      "excerpt": "'Potremmo vietare alcuni raduni'. Nuovi scontri a Parigi e Lione, è bufera politica",
+      "image": null
+    },
+    {
+      "title": "Lo schiaffo di Zelensky a Trump: raid sul diesel di San Pietroburgo",
+      "link": "https://www.repubblica.it/esteri/2026/10/19/news/schiaffo_zelensky_trump_raid_diesel_san_pietroburgo-425656953/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T19:10:45.000Z",
+      "excerpt": "La città di Putin colpita duramente dai droni ucraini. In fiamme il terminal che deve rifornire di carburante gli Usa",
+      "image": null
+    },
+    {
+      "title": "Milan, 3-2 all'Atalanta col brivido. Sarri accusa: “Qualche giocatore può dire vaffa all’arbitro\"",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/milan_atalanta_gol-425656911/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T18:31:46.000Z",
+      "excerpt": "3-0 rossonero, poi escono gli ospiti e sfiorano il pareggio. Il tecnico toscano furioso con Rabiot, solo ammonito da Chiffi",
+      "image": null
+    },
     {
       "title": "Il Como riparte con un tris: Liberali, Nico Paz e Douvikas stendono la Fiorentina",
       "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/fiorentina_como_gol_liberali-425656646/",
@@ -1549,6 +1613,46 @@
     }
   ],
   "sport": [
+    {
+      "title": "Serie A: Lazio da sogno e Juve da incubo, allo Stadium finisce 0-3",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-lazio-da-sogno-e-juve-da-incubo-allo-stadium-finisce-0-3_02c6a963-1886-4a93-92ec-be0857426a7b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-18T20:54:42.000Z",
+      "excerpt": "Gattuso macina record, i bianconeri fischiati e sempre più giù. Il Milan soffre ma passa con l'Atalanta, 3-2 a San Siro. Il Como vince e vola, la Fiorentina a picco",
+      "image": null
+    },
+    {
+      "title": "Serie A: Juventus-Lazio 0-3",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-juventus-lazio-0-3_8f6784f6-f6fa-47be-af02-20c57ab99f40.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-18T20:40:27.000Z",
+      "excerpt": "Gli ospiti passano con Provstgaard, Isaksen e Dele Bashiru, bianconeri fischiati",
+      "image": null
+    },
+    {
+      "title": "Jiu jitsu brasiliano: quattro titoli per Lorenzo Calabrò ai campionati italiani",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/18/jiu-jitsu-brasiliano-quattro-titoli-per-lorenzo-calabro-ai-campionati-italiani_777f52e5-c8ea-4e7e-86e2-ce35b4f4714b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-18T19:50:30.000Z",
+      "excerpt": "L'atleta è stato convocato per i campionati europei",
+      "image": null
+    },
+    {
+      "title": "Milano: Amorim, abbiamo avuto paura quando dovevamo invece fare il quarto gol",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/milano-amorim-abbiamo-avuto-paura-quando-dovevamo-invece-fare-il-quarto_42411335-9d1d-4b8b-942e-760bcdf19e5a.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-18T19:35:16.000Z",
+      "excerpt": "Il tecnico rossonero, eravamo un po' stanchi ma siamo contenti del risultato",
+      "image": null
+    },
+    {
+      "title": "Atalanta: Sarri, c'erano tre tocchi di mano ma visti solo quelli per il Milan",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/atalanta-sarri-cerano-tre-tocchi-di-mano-ma-visti-solo-quelli-per_5839fe76-8b26-4459-a33b-6d04d6ed3393.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-18T19:25:59.000Z",
+      "excerpt": "'Ho scoperto anche che si può 'mandare a fanc...' l'arbitro\"",
+      "image": null
+    },
     {
       "title": "Serie A: il Milan dilaga e poi resiste, Atalanta battuta 3-2 a San Siro",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-il-milan-dilaga-e-poi-resiste-atalanta-battuta-3-2-a-san-siro_f846813a-a7a3-477c-bba0-f978649f7a4a.html",
