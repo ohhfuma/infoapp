@@ -1,7 +1,39 @@
 {
-  "lastUpdated": "2026-10-18T22:48:20.843Z",
+  "lastUpdated": "2026-10-19T00:44:28.965Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Tokyo, apertura in calo (-0,90%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-tokyo-apertura-in-calo-090_7aca14cf-d01e-4cda-b868-576be4f02f9a.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-19T00:34:50.000Z",
+        "excerpt": "Pesano i ribassi dei titoli tech Usa e i timori sui tassi Fed, cautela degli investitori",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Challenger è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-challenger-e-in-forte-rialzo-oggi-93CH-3593043",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-19T00:28:31.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
+      },
+      {
+        "title": "L’australiana Cleanaway accetta l’offerta di acquisizione da 6,5 mld di EQT; titolo in rialzo",
+        "link": "https://it.investing.com/news/stock-market-news/laustraliana-cleanaway-accetta-lofferta-di-acquisizione-da-65-mld-di-eqt-titolo-in-rialzo-3593041",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-19T00:13:21.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
+      },
+      {
+        "title": "Putin propone un vertice con Trump e Xi sulla crisi in Ucraina - WSJ",
+        "link": "https://it.investing.com/news/stock-market-news/putin-propone-un-vertice-con-trump-e-xi-sulla-crisi-in-ucraina--wsj-93CH-3593034",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-18T23:41:26.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
       {
         "title": "Aumenti per i magistrati. Stop di Meloni, è scontro",
         "link": "https://www.repubblica.it/economia/2026/10/18/news/meloni_non_firmo_decreto_stipendi_magistrati-425656555/?rss",
@@ -225,30 +257,6 @@
         "pubDate": "2026-10-18T07:29:22.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
-      },
-      {
-        "title": "Le azioni AI asiatiche cedono mentre i costi di finanziamento minacciano gli investimenti",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-ai-asiatiche-cedono-mentre-i-costi-di-finanziamento-minacciano-gli-investimenti-3592927",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-18T02:00:03.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB810CQ_M.jpg"
-      },
-      {
-        "title": "Mercedes svela il SUV elettrico e amplia la gamma EV premium",
-        "link": "https://it.investing.com/news/stock-market-news/mercedes-svela-il-suv-elettrico-e-amplia-la-gamma-ev-premium-3592900",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-17T17:51:40.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC550R1_M.jpg"
-      },
-      {
-        "title": "Titoli memory: il muro di preoccupazioni è giustificato?",
-        "link": "https://it.investing.com/news/stock-market-news/titoli-memory-il-muro-di-preoccupazioni-e-giustificato-3592896",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-17T16:15:25.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB2N09U_M.jpg"
       }
     ],
     "europa": [
@@ -384,6 +392,46 @@
     "usa": [],
     "mondo": [
       {
+        "title": "I prezzi del petrolio scendono mentre Trump rinuncia alle sanzioni contro la Russia",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-19T00:14:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0R0GY_M.jpg"
+      },
+      {
+        "title": "Wsj, 'Putin ha proposto un incontro con Trump e Xi sull'Ucraina'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/wsj-putin-ha-proposto-un-incontro-con-trump-e-xi-sullucraina_c46574e5-6201-4e3f-a315-fe1a99b76de1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-18T23:29:58.000Z",
+        "excerpt": "Da tenere a novembre per sfruttare il suo riavvicinamento con il tycoon",
+        "image": null
+      },
+      {
+        "title": "Albania, esplode la rivolta contro il potere di Rama: “Il Paese non è in vendita”",
+        "link": "https://www.repubblica.it/esteri/2026/10/19/news/albania_proteste_contro_premier_rama-425656966/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-18T23:00:00.000Z",
+        "excerpt": "Tirana, proteste contro carovita e corruzione, cariche della polizia. Il premier contestato anche per l’ok al resort di Kushner",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/210626562-04c4bb49-e7ce-4576-b028-7c7523b83b27.jpg"
+      },
+      {
+        "title": "L’Europa è spiazzata dalla richiesta di Kiev: cerca altri 70 miliardi",
+        "link": "https://www.repubblica.it/esteri/2026/10/19/news/europa_spiazzata_richiesta_kiev_altri_70_miliardi-425656950/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-18T23:00:00.000Z",
+        "excerpt": "La cifra chiesta dal leader ucraino Volodomyr Zelensky al tavolo del Consiglio europeo per affrontare il 2027",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/204856603-f9da875c-7494-4038-900e-24d1cc85c2b4.jpg"
+      },
+      {
+        "title": "A Masafer Yatta le famiglie palestinesi costrette a vivere nelle grotte",
+        "link": "https://www.repubblica.it/esteri/2026/10/19/news/cisgiordania_masafer_yatta_famiglie_palestinesi_costrette_vivere_grotte_violenza_coloni_case_demolite_idf-425656776/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-18T23:00:00.000Z",
+        "excerpt": "La violenza dei coloni, le case demolite dall’Idf: così Zyad al Najjar, sua moglie e i sei figli hanno trovato dimora in una caverna sottoterra. Non sono i soli a essere tornati indietro di secoli: “Rimanere è la nostra ",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/190537454-8dc25553-46a5-4926-8eaa-0e88e395230c.jpg"
+      },
+      {
         "title": "Al via a San Paolo la Settimana della cucina regionale italiana",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/al-via-a-san-paolo-la-settimana-della-cucina-regionale-italiana_41dce32c-fe64-41a0-a783-b329ccb51387.html",
         "source": "ANSA Mondo",
@@ -472,14 +520,6 @@
         "image": null
       },
       {
-        "title": "Macron denuncia il caos in Francia, 'rabbia e vergogna'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_1b35f4b8-a67b-4f4f-b312-dc14355c90c2.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-18T18:09:11.000Z",
-        "excerpt": "'Nulla giustifica la violenza'",
-        "image": null
-      },
-      {
         "title": "Il capitano dell'aereo flydubai descrive i colpi d'ascia bloccanti come co-pilota attaccato",
         "link": "https://www.investing.com/news/commodities-news/captain-of-flydubai-planedescribes-blocking-axe-blows-as-copilot-attacked-4956008",
         "source": "Investing.com Commodities",
@@ -512,14 +552,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/143917345-c56ad92d-5280-476c-b7ac-6fcc4c30de75.jpg"
       },
       {
-        "title": "Ecco perché la deterrenza europea è pericolosamente debole. E cosa sta accadendo in Italia",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/10/18/news/deterrenza_nucleare_europea_debole_esercitazioni_italia-425656072/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-18T12:30:17.000Z",
-        "excerpt": "L’Alleanza sta tenendo esercitazioni nucleari nel nostro Paese in un clima di forte tensione, scrive il quotidiano tedesco Welt. Crescono le frizioni con Mosca, così come i dubbi sull’ombrello degli Stati Uniti. E nel co",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/102652755-66507fce-604b-43c1-811b-ec83dab00d30.jpg"
-      },
-      {
         "title": "“Cittadini, preparatevi alla guerra e a fare sacrifici”: l’appello del capo dell’esercito britannico",
         "link": "https://www.repubblica.it/esteri/2026/10/18/news/regno_unito_prepararsi_alla_guerra_sacrifici-425656143/?rss",
         "source": "Repubblica Esteri",
@@ -536,14 +568,6 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/141611213-ee276b93-0219-46f4-a10f-1dc8758a15a3.jpg"
       },
       {
-        "title": "Dalla ricerca alla produzione, per i farmaci dipendiamo dalla Cina",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/10/18/news/farmaci_occidente_dipende_da_cina_continental_breakfast-425656125/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-18T11:23:00.000Z",
-        "excerpt": "Pechino è divenuta ormai indispensabile per le aziende farmaceutiche occidentali, scrive il quotidiano francese Le Figaro. La risposta delle autorità pubbliche, soprattutto europee, tarda ad arrivare",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/104510832-0fbebac0-75bd-477a-9db9-424007b5ebc9.jpg"
-      },
-      {
         "title": "L'Iran esorta gli Stati Uniti ad accettare la proposta di riaprire lo Stretto di Hormuz",
         "link": "https://www.investing.com/news/commodities-news/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz-4955871",
         "source": "Investing.com Commodities",
@@ -552,46 +576,78 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9H04S_L.jpg"
       },
       {
-        "title": "Anche la pelle ha un sesso",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/10/18/news/pelle_diversa_uomo_donna_sesso_nature_continental_breakfast-425656028/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-18T08:08:14.000Z",
-        "excerpt": "Una ricerca dell’Université libre de Bruxelles, pubblicata su “Nature”, rivela che nelle femmine di topo il rinnovamento della pelle avviene in modo più coordinato. Lo studio – spiega il quotidiano belga Le Soir – apre n",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/095613774-36645de6-6a9c-469a-a9f5-5a151fb3785b.jpg"
-      },
-      {
         "title": "Il Venezuela prevede quasi $76 miliardi di investimenti petroliferi in cinque anni, afferma il presidente ad interim",
         "link": "https://www.investing.com/news/commodities-news/venezuela-expects-nearly-76-billion-in-oil-investment-over-five-years-acting-president-says-4955647",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-17T22:54:19.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9G0LX_L.jpg"
-      },
-      {
-        "title": "Zelenskiy critica la rinuncia di Trump alle sanzioni contro la Russia come \"sbagliata\"",
-        "link": "https://www.investing.com/news/commodities-news/trump-waives-many-russiarelated-sanctions-tariffs-before-they-were-to-take-effect-under-new-law-4955088",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-17T22:36:18.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9G01P_L.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Lazio, 3-0 alla Juve e Inter raggiunta in vetta: notte fonda per Spalletti",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/juventus_lazio_gol-425657191/",
+      "title": "L’accusa di Spalletti: “Abbiamo giovani che alla prima spallata vanno in terra. Bremer parli di se stesso, nessuno ha salvato la faccia”",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/19/news/spalletti_contro_bremer_juventus_lazio-425657256/",
       "source": "Repubblica",
-      "pubDate": "2026-10-18T21:29:12.000Z",
-      "excerpt": "Provstgaard, Isaksen (un gol del quale lo scorso anno fece esonerare Tudor) e Dele-Bashiru sanciscono con i loro gol il dominio della capolista sui bianconeri. Fischi dello Stadium",
+      "pubDate": "2026-10-18T23:28:44.000Z",
+      "excerpt": "Il tecnico della Juventus dopo il pesante ko con la Lazio: “Abbiamo dimostrato una fragilità che arriva dalla testa e non dalle gambe”. Poi la risposta al capitano che a fine partita aveva accusato alcuni compagni di squ",
       "image": null
     },
     {
-      "title": "La pagelle di Juventus-Lazio: Sarr non ne azzecca una, Nuno Tavares dominante",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/pagelle_juventus_lazio-425657179/",
+      "title": "Giovanissimi e sconosciuti i violenti di Milano, Viminale spiazzato. Indagine sul tam tam social",
+      "link": "https://www.repubblica.it/politica/2026/10/19/news/viminale_violenze_milano_social-425657143/",
       "source": "Repubblica",
-      "pubDate": "2026-10-18T21:14:22.000Z",
-      "excerpt": "Promossi e bocciati della gara dello Stadium",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "Caccia agli account che per primi hanno lanciato la convocazione del corteo con richiami simili a chi protesta a Parigi e Tirana",
+      "image": null
+    },
+    {
+      "title": "Più fermi o arresti differiti. Meloni lavora a un decreto. Verso norma per gli under 18",
+      "link": "https://www.repubblica.it/politica/2026/10/19/news/violenze_milano_melon_decreto_vertice_forze_ordine-425657117/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "La premier: “Valutiamo strumenti contro chi semina caos”. Vertice con Servizi e forze dell’ordine",
+      "image": null
+    },
+    {
+      "title": "I dodicenni che giocano alla guerriglia in centro: “C’è il bordello fra’, è tutta roba gratis”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/19/news/milano_scontri_chi_sono_i_ragazzi_devastazioni-425657004/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "Tra i giovanissimi che ieri e sabato hanno assaltato i negozi dopo aver visto su TikTok le immagini del centro di Milano: “Lo sapevano tutti che oggi in Orefici c’era il bordello”",
+      "image": null
+    },
+    {
+      "title": "Calabresi: “La guerriglia sempre da condannare, ma ascoltiamo le proteste”",
+      "link": "https://www.repubblica.it/politica/2026/10/19/news/mario_calabresi_guerriglia_milano_intervista-425657095/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "Il giornalista candidato a sindaco di Milano: “Le violenze non hanno nulla a che vedere con le richieste pacifiche e legittime di tanti giovani. Metterle insieme un tragico errore. Il governo offra risposte, non ironie”",
+      "image": null
+    },
+    {
+      "title": "Noi cattivi maestri e la violenza diffusa",
+      "link": "https://www.repubblica.it/cronaca/2026/10/19/news/scontri_manifestazioni_violenza_recalcati_psicanalista-425657157/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "L’intervento dello psicanalista sugli scontri in piazza di questi giorni: “E’ quello che Pasolini definiva come il fascismo degli antifascisti. I valori della Costituzionenon appartengono ad una sola parte politica. Ma s",
+      "image": null
+    },
+    {
+      "title": "Non spegnete la voce a chi è senza futuro",
+      "link": "https://www.repubblica.it/cronaca/2026/10/19/news/manifestazioni_scontri_italia_vicari_regista_ragazzi_hanno_ragione-425657152/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "L’intervento del regista Daniele Vicari sugli scontri di piazza di questi giorni: “I giovani sbagliano a rompere le vetrine, ma gli adulti almeno ammettano che hanno lasciato loro solo questo spazio di manovra, avendolo ",
+      "image": null
+    },
+    {
+      "title": "Albania, esplode la rivolta contro il potere di Rama: “Il Paese non è in vendita”",
+      "link": "https://www.repubblica.it/esteri/2026/10/19/news/albania_proteste_contro_premier_rama-425656966/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "Tirana, proteste contro carovita e corruzione, cariche della polizia. Il premier contestato anche per l’ok al resort di Kushner",
       "image": null
     },
     {
@@ -611,59 +667,11 @@
       "image": null
     },
     {
-      "title": "Lo show di Fiorello nello studio del Tg1: “Siamo come il campo largo”",
-      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/10/18/news/lo_show_di_fiorello_nello_studio_del_tg1_edizione_piu_che_straordinaria-425657078/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-18T19:56:24.000Z",
-      "excerpt": "Il mini varietà nello studio del telegiornale per una “Edizione più che straordinaria” con Fabrizio Biggio TonyPitony e Annalisa per lanciare la nuova edizione della Pennicanza",
-      "image": null
-    },
-    {
-      "title": "Schlein si candida a premier: “Pronta con o senza primarie”",
-      "link": "https://www.repubblica.it/politica/2026/10/18/news/elly_schlein_assemblea_pd_premier_primarie-425657073/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-18T19:53:20.000Z",
-      "excerpt": "La segretaria incassa la proroga del mandato all’assemblea nazionale ma chiude la competizione ai gazebo per gli altri dem. E la minoranza si astiene: “Una forzatura”",
-      "image": null
-    },
-    {
-      "title": "Guerriglia a Milano, due giorni di razzie e violenze: 270 fermati, oltre cento i feriti",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/18/news/guerriglia_milano_bilancio_fermati_feriti-425657062/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-18T19:50:05.000Z",
-      "excerpt": "La telefonata del ministro Piantedosi con il questore Megale. Altissima la quota di minori anche non imputabili",
-      "image": null
-    },
-    {
       "title": "Macron: 'Rabbia e vergogna, chi ha distrutto deve pagare'",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_2aeef560-dded-49f0-b82b-97ffd9004684.html",
       "source": "ANSA",
       "pubDate": "2026-10-18T19:36:37.000Z",
       "excerpt": "'Potremmo vietare alcuni raduni'. Nuovi scontri a Parigi e Lione, è bufera politica",
-      "image": null
-    },
-    {
-      "title": "Lo schiaffo di Zelensky a Trump: raid sul diesel di San Pietroburgo",
-      "link": "https://www.repubblica.it/esteri/2026/10/19/news/schiaffo_zelensky_trump_raid_diesel_san_pietroburgo-425656953/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-18T19:10:45.000Z",
-      "excerpt": "La città di Putin colpita duramente dai droni ucraini. In fiamme il terminal che deve rifornire di carburante gli Usa",
-      "image": null
-    },
-    {
-      "title": "Milan, 3-2 all'Atalanta col brivido. Sarri accusa: “Qualche giocatore può dire vaffa all’arbitro\"",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/milan_atalanta_gol-425656911/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-18T18:31:46.000Z",
-      "excerpt": "3-0 rossonero, poi escono gli ospiti e sfiorano il pareggio. Il tecnico toscano furioso con Rabiot, solo ammonito da Chiffi",
-      "image": null
-    },
-    {
-      "title": "Il Como riparte con un tris: Liberali, Nico Paz e Douvikas stendono la Fiorentina",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/fiorentina_como_gol_liberali-425656646/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-18T15:24:17.000Z",
-      "excerpt": "La squadra di Fabregas vince 3-1 al Franchi e si rilancia. Polemiche viola per un fallo di Milla in occasione del primo gol dei lariani",
       "image": null
     },
     {

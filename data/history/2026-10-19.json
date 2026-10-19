@@ -4,6 +4,38 @@
   "finanza": {
     "italia": [
       {
+        "title": "Borsa: Tokyo, apertura in calo (-0,90%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-tokyo-apertura-in-calo-090_7aca14cf-d01e-4cda-b868-576be4f02f9a.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-19T00:34:50.000Z",
+        "excerpt": "Pesano i ribassi dei titoli tech Usa e i timori sui tassi Fed, cautela degli investitori",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Challenger è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-challenger-e-in-forte-rialzo-oggi-93CH-3593043",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-19T00:28:31.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
+      },
+      {
+        "title": "L’australiana Cleanaway accetta l’offerta di acquisizione da 6,5 mld di EQT; titolo in rialzo",
+        "link": "https://it.investing.com/news/stock-market-news/laustraliana-cleanaway-accetta-lofferta-di-acquisizione-da-65-mld-di-eqt-titolo-in-rialzo-3593041",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-19T00:13:21.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
+      },
+      {
+        "title": "Putin propone un vertice con Trump e Xi sulla crisi in Ucraina - WSJ",
+        "link": "https://it.investing.com/news/stock-market-news/putin-propone-un-vertice-con-trump-e-xi-sulla-crisi-in-ucraina--wsj-93CH-3593034",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-18T23:41:26.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
         "title": "Aumenti per i magistrati. Stop di Meloni, è scontro",
         "link": "https://www.repubblica.it/economia/2026/10/18/news/meloni_non_firmo_decreto_stipendi_magistrati-425656555/?rss",
         "source": "Repubblica Economia",
@@ -385,6 +417,46 @@
     "usa": [],
     "mondo": [
       {
+        "title": "I prezzi del petrolio scendono mentre Trump rinuncia alle sanzioni contro la Russia",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-19T00:14:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0R0GY_M.jpg"
+      },
+      {
+        "title": "Wsj, 'Putin ha proposto un incontro con Trump e Xi sull'Ucraina'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/wsj-putin-ha-proposto-un-incontro-con-trump-e-xi-sullucraina_c46574e5-6201-4e3f-a315-fe1a99b76de1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-18T23:29:58.000Z",
+        "excerpt": "Da tenere a novembre per sfruttare il suo riavvicinamento con il tycoon",
+        "image": null
+      },
+      {
+        "title": "Albania, esplode la rivolta contro il potere di Rama: “Il Paese non è in vendita”",
+        "link": "https://www.repubblica.it/esteri/2026/10/19/news/albania_proteste_contro_premier_rama-425656966/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-18T23:00:00.000Z",
+        "excerpt": "Tirana, proteste contro carovita e corruzione, cariche della polizia. Il premier contestato anche per l’ok al resort di Kushner",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/210626562-04c4bb49-e7ce-4576-b028-7c7523b83b27.jpg"
+      },
+      {
+        "title": "L’Europa è spiazzata dalla richiesta di Kiev: cerca altri 70 miliardi",
+        "link": "https://www.repubblica.it/esteri/2026/10/19/news/europa_spiazzata_richiesta_kiev_altri_70_miliardi-425656950/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-18T23:00:00.000Z",
+        "excerpt": "La cifra chiesta dal leader ucraino Volodomyr Zelensky al tavolo del Consiglio europeo per affrontare il 2027",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/204856603-f9da875c-7494-4038-900e-24d1cc85c2b4.jpg"
+      },
+      {
+        "title": "A Masafer Yatta le famiglie palestinesi costrette a vivere nelle grotte",
+        "link": "https://www.repubblica.it/esteri/2026/10/19/news/cisgiordania_masafer_yatta_famiglie_palestinesi_costrette_vivere_grotte_violenza_coloni_case_demolite_idf-425656776/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-18T23:00:00.000Z",
+        "excerpt": "La violenza dei coloni, le case demolite dall’Idf: così Zyad al Najjar, sua moglie e i sei figli hanno trovato dimora in una caverna sottoterra. Non sono i soli a essere tornati indietro di secoli: “Rimanere è la nostra ",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/18/190537454-8dc25553-46a5-4926-8eaa-0e88e395230c.jpg"
+      },
+      {
         "title": "Al via a San Paolo la Settimana della cucina regionale italiana",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/19/al-via-a-san-paolo-la-settimana-della-cucina-regionale-italiana_41dce32c-fe64-41a0-a783-b329ccb51387.html",
         "source": "ANSA Mondo",
@@ -579,6 +651,70 @@
     ]
   },
   "attualita": [
+    {
+      "title": "L’accusa di Spalletti: “Abbiamo giovani che alla prima spallata vanno in terra. Bremer parli di se stesso, nessuno ha salvato la faccia”",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/19/news/spalletti_contro_bremer_juventus_lazio-425657256/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:28:44.000Z",
+      "excerpt": "Il tecnico della Juventus dopo il pesante ko con la Lazio: “Abbiamo dimostrato una fragilità che arriva dalla testa e non dalle gambe”. Poi la risposta al capitano che a fine partita aveva accusato alcuni compagni di squ",
+      "image": null
+    },
+    {
+      "title": "Giovanissimi e sconosciuti i violenti di Milano, Viminale spiazzato. Indagine sul tam tam social",
+      "link": "https://www.repubblica.it/politica/2026/10/19/news/viminale_violenze_milano_social-425657143/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "Caccia agli account che per primi hanno lanciato la convocazione del corteo con richiami simili a chi protesta a Parigi e Tirana",
+      "image": null
+    },
+    {
+      "title": "Più fermi o arresti differiti. Meloni lavora a un decreto. Verso norma per gli under 18",
+      "link": "https://www.repubblica.it/politica/2026/10/19/news/violenze_milano_melon_decreto_vertice_forze_ordine-425657117/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "La premier: “Valutiamo strumenti contro chi semina caos”. Vertice con Servizi e forze dell’ordine",
+      "image": null
+    },
+    {
+      "title": "I dodicenni che giocano alla guerriglia in centro: “C’è il bordello fra’, è tutta roba gratis”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/19/news/milano_scontri_chi_sono_i_ragazzi_devastazioni-425657004/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "Tra i giovanissimi che ieri e sabato hanno assaltato i negozi dopo aver visto su TikTok le immagini del centro di Milano: “Lo sapevano tutti che oggi in Orefici c’era il bordello”",
+      "image": null
+    },
+    {
+      "title": "Calabresi: “La guerriglia sempre da condannare, ma ascoltiamo le proteste”",
+      "link": "https://www.repubblica.it/politica/2026/10/19/news/mario_calabresi_guerriglia_milano_intervista-425657095/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "Il giornalista candidato a sindaco di Milano: “Le violenze non hanno nulla a che vedere con le richieste pacifiche e legittime di tanti giovani. Metterle insieme un tragico errore. Il governo offra risposte, non ironie”",
+      "image": null
+    },
+    {
+      "title": "Noi cattivi maestri e la violenza diffusa",
+      "link": "https://www.repubblica.it/cronaca/2026/10/19/news/scontri_manifestazioni_violenza_recalcati_psicanalista-425657157/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "L’intervento dello psicanalista sugli scontri in piazza di questi giorni: “E’ quello che Pasolini definiva come il fascismo degli antifascisti. I valori della Costituzionenon appartengono ad una sola parte politica. Ma s",
+      "image": null
+    },
+    {
+      "title": "Non spegnete la voce a chi è senza futuro",
+      "link": "https://www.repubblica.it/cronaca/2026/10/19/news/manifestazioni_scontri_italia_vicari_regista_ragazzi_hanno_ragione-425657152/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "L’intervento del regista Daniele Vicari sugli scontri di piazza di questi giorni: “I giovani sbagliano a rompere le vetrine, ma gli adulti almeno ammettano che hanno lasciato loro solo questo spazio di manovra, avendolo ",
+      "image": null
+    },
+    {
+      "title": "Albania, esplode la rivolta contro il potere di Rama: “Il Paese non è in vendita”",
+      "link": "https://www.repubblica.it/esteri/2026/10/19/news/albania_proteste_contro_premier_rama-425656966/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-18T23:00:00.000Z",
+      "excerpt": "Tirana, proteste contro carovita e corruzione, cariche della polizia. Il premier contestato anche per l’ok al resort di Kushner",
+      "image": null
+    },
     {
       "title": "Lazio, 3-0 alla Juve e Inter raggiunta in vetta: notte fonda per Spalletti",
       "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/juventus_lazio_gol-425657191/",
