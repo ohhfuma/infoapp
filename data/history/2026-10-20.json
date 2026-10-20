@@ -4,6 +4,102 @@
   "finanza": {
     "italia": [
       {
+        "title": "Petrolio in rialzo, il Brent torna sopra 110 dollari al barile",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/20/petrolio-in-rialzo-il-brent-torna-sopra-110-dollari-al-barile_488afc5e-7360-4586-8e67-d207835e2d4b.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-20T06:24:23.000Z",
+        "excerpt": "Wti sale a 104,11 dollari +0,43%",
+        "image": null
+      },
+      {
+        "title": "Il prezzo del gas sale a 89,10 euro al megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/20/il-prezzo-del-gas-sale-a-8910-euro-al-megawattora_8f833946-3dd3-448c-9066-9bf90a0f9ba4.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-20T06:11:04.000Z",
+        "excerpt": "Ad Amsterdam le quotazioni in crescita dell'1,2%",
+        "image": null
+      },
+      {
+        "title": "Nextchem (Maire) acquisisce Meab Svezia e Germania",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/20/nextchem-maire-acquisisce-meab-svezia-e-germania_5c088426-ede4-4871-84f7-0c9662858536.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-20T06:09:15.000Z",
+        "excerpt": "Il corrispettivo dell'operazione prevede un prezzo iniziale pari a 4,0 milioni",
+        "image": null
+      },
+      {
+        "title": "Il CEO di Sea afferma che Monee potrebbe quotarsi in borsa",
+        "link": "https://it.investing.com/news/stock-market-news/il-ceo-di-sea-afferma-che-monee-potrebbe-quotarsi-in-borsa-3595115",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-20T04:38:45.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB1Q06W_M.jpg"
+      },
+      {
+        "title": "Le azioni di Elice crollano del 28% al debutto in borsa",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-elice-crollano-del-28-al-debutto-in-borsa-3595110",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-20T04:02:00.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM50182_1200_L.jpg"
+      },
+      {
+        "title": "Australia fa causa alle piattaforme social per violazione del divieto agli under 16",
+        "link": "https://it.investing.com/news/stock-market-news/australia-fa-causa-alle-piattaforme-social-per-violazione-del-divieto-agli-under-16-3595104",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-20T03:47:15.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
+      },
+      {
+        "title": "Le borse asiatiche crollano: i timori sull’IA pesano sui chipmaker coreani",
+        "link": "https://it.investing.com/news/stock-market-news/le-borse-asiatiche-crollano-i-timori-sullia-pesano-sui-chipmaker-coreani-3595102",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-20T03:39:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB0I07L_M.jpg"
+      },
+      {
+        "title": "Dal nuovo Btp Valore Insieme agli Etf: quanto si guadagna rinunciando alla cedola",
+        "link": "https://www.repubblica.it/economia/2026/10/20/news/btp_valore_insieme_etf_quanto_si_guadagna_rinunciando_alla_cedola-425658850/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-20T03:00:00.000Z",
+        "excerpt": "Come funziona l'interesse composto, a chi convengono davvero i prodotti ad accumulazione e gli errori da evitare",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/19/195457003-1a7e0e89-ec39-4ea9-a0c8-bf4abade0ccd.jpg"
+      },
+      {
+        "title": "Tetto al prezzo del gas sotto i 60 euro: quanto si risparmia in bolletta e chi rimane fuori",
+        "link": "https://www.repubblica.it/economia/2026/10/20/news/tetto_al_prezzo_del_gas_quanto_si_risparmia_in_bolletta-425658829/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-20T03:00:00.000Z",
+        "excerpt": "Ai prezzi di oggi, la misura allevierebbe le bollette di tre centesimi al kilowattora. Ma a sostenerla - in parte – sarebbero gli stessi consumatori, che pagheranno oneri di sistema più salati",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/19/194749075-a3456d6f-4899-4d79-9287-aa77f1d00591.jpg"
+      },
+      {
+        "title": "Il retail è crollato nel Q3, ma questo titolo scelto dall’IA è salito del 18,81%",
+        "link": "https://it.investing.com/news/stock-market-news/il-retail-e-crollato-nel-q3-ma-questo-titolo-scelto-dallia-e-salito-del-1881-3595087",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-20T02:13:51.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM580ZB_1200_L.jpg"
+      },
+      {
+        "title": "Starboard punta su Solstice con un piano da $100 milioni di tagli",
+        "link": "https://it.investing.com/news/stock-market-news/starboard-punta-su-solstice-con-un-piano-da-100-milioni-di-tagli-3595084",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-20T02:04:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg"
+      },
+      {
+        "title": "NAB taglierà 2.500 posti di lavoro per semplificare le operazioni",
+        "link": "https://it.investing.com/news/stock-market-news/nab-tagliera-2500-posti-di-lavoro-per-semplificare-le-operazioni-3595073",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-20T01:29:58.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEE2D05D_M.jpg"
+      },
+      {
         "title": "OpenAI accelera la raccolta di 30 mld prima dell’IPO di Anthropic",
         "link": "https://it.investing.com/news/stock-market-news/openai-accelera-la-raccolta-di-30-mld-prima-dellipo-di-anthropic-3595067",
         "source": "Investing.com Italia",
@@ -318,6 +414,30 @@
     ],
     "europa": [
       {
+        "title": "Trump: «Aiuti da 8 miliardi di dollari agli agricoltori per sostenere il costo del gasolio»",
+        "link": "https://www.ilsole24ore.com/art/trump-aiuti-8-miliardi-dollari-gli-agricoltori-sostegno-costo-gasolio-AJQBmxoB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-20T06:26:00.000Z",
+        "excerpt": "Mossa elettorale di Donald Trump. Il presidente degli Stati Uniti ha annunciato un nuovo programma da 8 miliardi di dollari per fornire un aiuto temporaneo agli agricoltori durante la stagione...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/21/Immagini/Ritagli/LP_24864352-U48205317030azz-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Scontri in Francia, prima notte di coprifuoco. Sabato tornano i gilet gialli",
+        "link": "https://www.ilsole24ore.com/art/scontri-francia-prima-notte-coprifuoco-sabato-tornano-gilet-gialli-AJErwvoB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-20T05:32:00.000Z",
+        "excerpt": "Dopo le 23 centri chiusi a Parigi, Lione, Nizza e Lille. Marsiglia vieta gli assembramenti. Mosca gongola, Trump minaccia: «Con i migranti Usa via»",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/21/Immagini/Ritagli/2026-10-17T123347Z_216926305_RC205OAID13H_RTRMADP_5_FRANCE-PROTEST-U73864471663PTc-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Ucraina, Zelensky accusa gli Usa: ««Ritarda consegna missili già pagati da Europa»",
+        "link": "https://www.ilsole24ore.com/art/ucraina-zelensky-accusa-usa-ritarda-consegna-missili-gia-pagati-europa-AJvawvoB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-20T05:27:00.000Z",
+        "excerpt": "L’inviato speciale del presidente statunitense Donald Trump, Steve Witkoff, incontrerà oggi a Oslo il presidente ucraino Volodymyr Zelensky e rappresentanti europei per concordare una proposta complessiva di pace da sott",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/21/Immagini/Ritagli/2026-10-19T201501Z_1708493526_RC2SDNAISXDZ_RTRMADP_5_UKRAINE-CRISIS-NORWAY-TALKS-U20757772617obY-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
         "title": "Sparatoria in una moschea in Ohio: «Almeno un morto»",
         "link": "https://www.ilsole24ore.com/art/sparatoria-una-moschea-ohio-almeno-morto-AJA24joB",
         "source": "Il Sole 24 Ore Mondo",
@@ -448,6 +568,86 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Governo norvegese, 'Zelensky oggi a Oslo. Incontrerà l'invisto Usa Witkoff'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/20/governo-norvegese-zelensky-oggi-a-oslo.-incontrera-linvisto-usa-witkoff_27d651aa-0e6b-4b52-ab34-41024011c747.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-20T05:47:21.000Z",
+        "excerpt": "Nell'ambito dei negoziati per un piano di pace",
+        "image": null
+      },
+      {
+        "title": "Gli Stati Uniti lanceranno un programma di supporto da $8 miliardi per gli agricoltori per compensare i costi del diesel, afferma Trump",
+        "link": "https://www.investing.com/news/commodities-news/us-to-launch-8-billion-support-program-for-farmers-to-offset-diesel-costs-trump-says-4958688",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-20T05:07:06.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9J02N_L.jpg"
+      },
+      {
+        "title": "Trump annuncia 8 miliardi di dollari per gli agricoltori contro il caro gasolio",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/20/trump-annuncia-8-miliardi-di-dollari-per-gli-agricoltori-contro-il-caro-gasolio_76e59709-c413-47ca-a82a-4ccc889423f4.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-20T05:06:30.000Z",
+        "excerpt": "Per fornire un supporto durante la stagione del raccolto",
+        "image": null
+      },
+      {
+        "title": "Trump annuncia un piano di aiuti per gli agricoltori: “8 miliardi di dollari contro il caro gasolio”",
+        "link": "https://www.repubblica.it/esteri/2026/10/20/news/trump_agricoltori_aiuti_diesel_8_miliardi_dollari-425659403/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-20T04:38:21.000Z",
+        "excerpt": "Il nuovo programma prevede dei pagamenti una tantum per fornire un supporto durante la stagione del raccolto",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/20/062659854-19763cb5-c18e-471c-9137-b604be471f0d.jpg"
+      },
+      {
+        "title": "Araghchi, 'mai collaborazione così stretta tra Iran e Russia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/20/araghchi-mai-collaborazione-cosi-stretta-tra-iran-e-russia_98918778-93b6-4b99-b9fa-6a5fa2270964.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-20T04:36:23.000Z",
+        "excerpt": "Colloqui con Lavrov anche sulla cooperazione economica e nucleare",
+        "image": null
+      },
+      {
+        "title": "Come i paradisi sicuri si accumulano mentre la tecnologia, l'energia e la Francia temono i mercati di presa",
+        "link": "https://www.investing.com/news/commodities-news/how-safe-havens-stack-up-as-tech-energy-and-france-fears-grip-markets-4958749",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-20T04:18:26.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9J072_L.jpg"
+      },
+      {
+        "title": "Messico, il monito di Guillermo del Toro sul ritorno del fascismo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/20/messico-il-monito-di-guillermo-del-toro-sul-ritorno-del-fascismo_6cd35ba8-0fed-4eb5-adc5-1a663f11033f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-20T02:35:12.000Z",
+        "excerpt": "Premiato a Morelia, il regista lancia l'allarme sull'odio online",
+        "image": null
+      },
+      {
+        "title": "L'oro scende mentre i prezzi del petrolio alimentano i timori di inflazione, le prospettive della Fed al centro dell'attenzione",
+        "link": "https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-20T02:32:09.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED1M0ED_M.jpg"
+      },
+      {
+        "title": "Deputata australiana investita da un Suv, 'ha perso una gamba'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/oceania/2026/10/20/deputata-australiana-investita-da-un-suv-ha-perso-una-gamba_49d3258c-72d5-44bf-aef4-62c2d5cb8053.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-20T02:30:36.000Z",
+        "excerpt": "Lo riferiscono i media locali, si tenta di salvare l'altro arto",
+        "image": null
+      },
+      {
+        "title": "Brasile, ultimatum di 24 ore del Tribunale a Meta per la par condicio",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/20/brasile-ultimatum-di-24-ore-del-tribunale-a-meta-per-la-par-condicio_fd48dc79-ed2a-4fab-a47c-bca90f346670.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-20T01:42:16.000Z",
+        "excerpt": "Chiesta equità tra Lula e Flávio Bolsonaro, rischio multa",
+        "image": null
+      },
       {
         "title": "Messico, Sheinbaum frena Trump su petrolio e narcotraffico",
         "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/20/messico-sheinbaum-frena-trump-su-petrolio-e-narcotraffico_0017792b-6ed1-44f1-a86c-bb49e3079296.html",
@@ -747,6 +947,54 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Trump annuncia 8 miliardi di dollari per gli agricoltori contro il caro gasolio",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/20/trump-annuncia-8-miliardi-di-dollari-per-gli-agricoltori-contro-il-caro-gasolio_741a7ded-37a0-4ef7-a509-0d2a4c0781ce.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-20T05:05:59.000Z",
+      "excerpt": "Per fornire un supporto durante la stagione del raccolto",
+      "image": null
+    },
+    {
+      "title": "The umbrella maker of Naples: “From King Charles to Stallone, my creations are loved across the globe”",
+      "link": "https://europe.repubblica.it/en/fashion-design/2026/10/20/news/mario_talarico_the_umbrella_maker_of_naples_king_charles_sylvester_stallone_toto_eduardo-425658527/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-20T04:00:00.000Z",
+      "excerpt": "Artisan Mario Talarico, heir to a family craft on Via Toledo dating back to 1860: “An ancient tradition like this can still have a future. One bespoke model reached twenty thousand euros.”",
+      "image": null
+    },
+    {
+      "title": "The Barberini Mithraeum’s colours shine anew",
+      "link": "https://europe.repubblica.it/en/culture/2026/10/20/news/barberini_mithraeum_rome_reopens_2026-425658602/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-20T04:00:00.000Z",
+      "excerpt": "One of the rarest surviving monuments to a pre-Christian cult has been restored to its former glory in Rome. Its third-century fresco depicts the sacrifice of a bull, surrounded by symbols of the cosmos and the regenerat",
+      "image": null
+    },
+    {
+      "title": "The Italian coach of the world",
+      "link": "https://europe.repubblica.it/en/sport/2026/10/20/news/vincenzo_alberto_annese_coach_of_the_world-425658180/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-20T04:00:00.000Z",
+      "excerpt": "Vincenzo Annese has managed football teams in Ghana and Palestine, Burkina Faso and India. Now, he has captured his globetrotting adventures in a new book. From celebrations with thousands of fans to Kalashnikovs at brea",
+      "image": null
+    },
+    {
+      "title": "Geppi Cucciari: “Mi piace credere nell’amore che resiste agli anni”",
+      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/10/20/news/geppi_cucciari_intervista_splendida_cornice-425659066/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-20T03:00:00.000Z",
+      "excerpt": "Dal 22 ottobre torna su Rai3 con “Splendida cornice”. Ed è in sala nel film “Zustissia” dedicato al caso Zuncheddu",
+      "image": null
+    },
+    {
+      "title": "Kasia Smutniak: “La telecamera di Pietro ora è di nostra figlia Sophie, così è nato Mustang”",
+      "link": "https://www.repubblica.it/spettacoli/dossier/festa-del-cinema-di-roma/2026/10/20/news/kasia_smutniak_la_telecamera_di_pietro_ora_e_di_nostra_figlia_sophie_cosi_e_nato_mustang-425658746/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-20T03:00:00.000Z",
+      "excerpt": "L’attrice e regista porta alla Festail documentario che intreccia il ricordo di Taricone, l’ex compagno scomparso nel 2010, e il futuro di una piccola comunità del Nepal. In sala il 23 novembre",
+      "image": null
+    },
     {
       "title": "Trump: “C’è l’immigrazione dietro gli scontri in Italia e in Francia”",
       "link": "https://www.repubblica.it/esteri/2026/10/20/news/trump_scontri_italia_immigrazione_francia-425659358/",
