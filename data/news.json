@@ -1,265 +1,257 @@
 {
-  "lastUpdated": "2026-10-23T06:14:53.659Z",
+  "lastUpdated": "2026-10-23T11:54:49.129Z",
   "finanza": {
     "italia": [
       {
-        "title": "Il petrolio cresce ancora, wti torna oltre i 100 dollari, sui massimi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/il-petrolio-cresce-ancora-wti-torna-oltre-i-100-dollari-sui-massimi_586bec62-bd09-4389-8990-0e2443150f55.html",
+        "title": "Terremoto nel Tirreno meridionale, magnitudo rivista a 5,5: scossa avvertita a Palermo e Trapani",
+        "link": "https://www.ilsole24ore.com/art/terremoto-tirreno-meridionale-magnitudo-rivista-55-scossa-avvertita-palermo-e-trapani-AJ8ERWsB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-23T11:53:47.000Z",
+        "excerpt": "Una scossa di terremoto di magnitudo 5,5 è stata registrata alle 12.19 di venerdì 23 ottobre nel Tirreno meridionale, a una profondità di 9 chilometri. Il sisma è stato avvertito...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/24/Immagini/Ritagli/mvkvrw6ry50iydsfvs-U02426581351rgk-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Borsa Milano passa in rosso fra pochi scambi, giù banche, ciclici, corre settore oil",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-passa-in-rosso-fra-pochi-scambi-giu-banche-ciclici-corre-settore-oil-3603604",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-23T11:40:34.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0ZX_L.jpg"
+      },
+      {
+        "title": "Borsa Usa, futures in calo dopo crollo IA, tlc in ribasso",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-usa-futures-in-calo-dopo-crolloia-tlc-in-ribasso-3603603",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-23T11:40:23.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0ZZ_L.jpg"
+      },
+      {
+        "title": "Perché il titolo Tango Therapeutics sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-tango-therapeutics-sta-scendendo-oggi-93CH-3603587",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-23T11:37:33.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
+      },
+      {
+        "title": "Il titolo Tango Therapeutics cala nonostante dati positivi sul cancro",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-tango-therapeutics-cala-nonostante-dati-positivi-sul-cancro-3603583",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-23T11:34:15.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Belimo è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-belimo-e-in-rialzo-oggi-93CH-3603578",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-23T11:34:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_L.jpg"
+      },
+      {
+        "title": "Norwegian Cruise Line declassata a Underweight da JPMorgan prima dei risultati",
+        "link": "https://it.investing.com/news/stock-market-news/norwegian-cruise-line-declassata-a-underweight-da-jpmorgan-prima-dei-risultati-3603575",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-23T11:30:43.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+      },
+      {
+        "title": "Milano alla vigilia del corteo: Sala: «Servirebbe più vicinanza del governo»",
+        "link": "https://www.ilsole24ore.com/art/milano-vigilia-corteo-sala-servirebbe-piu-vicinanza-governo-AJaI6TsB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-23T11:30:10.000Z",
+        "excerpt": "Il giorno prima della manifestazione, a Milano sale la tensione e non mancano le frecciate politiche. Il primo cittadino Giuseppe Sala chiede maggiore vicinanza politica dal parte del governo, e...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/23/Immagini/Ritagli/LP_24869657-U02656258486MBQ-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Il Btp Valore e il Btp Valore Insieme chiudono a 16,6 miliardi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/il-btp-valore-e-il-btp-valore-insieme-chiudono-a-oltre-166-miliardi_e7a59a52-80cd-462d-be02-4b1e96198969.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-23T06:12:40.000Z",
-        "excerpt": "Brent a 113,94 dollari",
+        "pubDate": "2026-10-23T11:29:20.000Z",
+        "excerpt": "Il primo raccoglie circa 12,07 miliardi, il secondo circa 4,55 miliardi",
         "image": null
       },
       {
-        "title": "Eni, utile netto rettificato +70% nei 9 mesi a 6,4 miliardi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/eni-utile-netto-rettificato-70-nei-9-mesi-a-64-miliardi_25e62a85-1243-4e31-9465-8b1881a44c0b.html",
+        "title": "Monaco Re alza le previsioni di utile annuale dopo un trimestre solido",
+        "link": "https://it.investing.com/news/stock-market-news/monaco-re-alza-le-previsioni-di-utile-annuale-dopo-un-trimestre-solido-93CH-3603561",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-23T11:29:11.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      },
+      {
+        "title": "Stellantis, Intesa e Prysmian: Fair Value fino a +43% sulle azioni più seguite",
+        "link": "https://it.investing.com/news/stock-market-news/stellantis-intesa-e-prysmian-fair-value-fino-a-43-sulle-azioni-piu-seguite-3603491",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-23T11:14:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB950WI_M.jpg"
+      },
+      {
+        "title": "Autotrasporto: tonnellate di ortofrutta al macero e boom delle importazioni",
+        "link": "https://www.ilsole24ore.com/art/autotrasporto-tonnellate-ortofrutta-macero-e-boom-importazioni-AJwtVOsB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-23T11:11:55.000Z",
+        "excerpt": "L’impossibilità di ritirare i prodotti agricoli e di consegnarli ai supermercati ha spinto i mercati all’ingrosso ad accelerare le importazioni da Spagna, Albania, Turchia e Grecia",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/24/Immagini/Ritagli/4c025b2d3472bd4cc564e10fedb39832-U84433578726Yul-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Borsa: l'Europa in rosso guarda al Medioriente, a Milano corre Eni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/borsa-leuropa-in-rosso-guarda-al-medioriente-a-milano-corre-eni_b4ce6162-cca3-48f6-84e9-d9ae7715499e.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-23T06:02:55.000Z",
-        "excerpt": "Incrementa remunerazione azionisti, dividendo extra di 1,3 miliardi",
+        "pubDate": "2026-10-23T11:10:36.000Z",
+        "excerpt": "Prosegue la corsa del petrolio, spread e titoli di Stato poco mossi",
         "image": null
       },
       {
-        "title": "Renzi, Tabacci, Ruffini, Onorato e gli altri: tre centri per un solo podio",
-        "link": "https://www.ilsole24ore.com/art/renzi-tabacci-ruffini-onorato-e-altri-tre-centri-un-solo-podio-AJPpfprB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-23T06:01:40.000Z",
-        "excerpt": "La nave, solida, resta quella di Matteo Renzi: con la sua Italia Viva/Casa riformista che ha due gruppi in Parlamento oltre che una rete sul territorio è il...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/23/Immagini/Ritagli/Imagoeconomica_2814595-Collage-U84637165870Qpq-U46183251043BdL-1440x752@IlSole24Ore-Web.JPEG"
-      },
-      {
-        "title": "Tomra Systems: ricavi Q3 a €366 mln, sopra le stime",
-        "link": "https://it.investing.com/news/stock-market-news/tomra-systems-ricavi-q3-a-366-mln-sopra-le-stime-93CH-3602669",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-23T06:01:00.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
-      },
-      {
-        "title": "Gjensidige Forsikring: utili del terzo trimestre sopra le attese",
-        "link": "https://it.investing.com/news/stock-market-news/gjensidige-forsikring-utili-del-terzo-trimestre-sopra-le-attese-93CH-3602656",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-23T05:46:58.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
-      },
-      {
-        "title": "Nvidia investe nella startup AI video Higgsfield",
-        "link": "https://it.investing.com/news/stock-market-news/nvidia-investe-nella-startup-ai-video-higgsfield-3602654",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-23T05:44:53.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
-      },
-      {
-        "title": "Immigrati, record dei permessi di soggiorno: +47% nel 2025, il più alto degli ultimi 15 anni",
-        "link": "https://www.ilsole24ore.com/art/immigrati-record-permessi-soggiorno-47percento-2025-piu-alto-ultimi-15-anni-AJ2yyqrB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-23T05:44:32.000Z",
-        "excerpt": "La crescita ha riguardato soprattutto i permessi per famiglia (+61,2%) e studio (+76,0%). In aumento anche quelli concessi per motivi di lavoro (+45,9%)",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/23/Immagini/Ritagli/ilsolematera_20260217180045823_a2eee38dde04bde71d884ab22b4e40d4-U48373305424cFa-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Samsung avvia nuovi investimenti nello stabilimento di chip in Texas",
-        "link": "https://it.investing.com/news/stock-market-news/samsung-avvia-nuovi-investimenti-nello-stabilimento-di-chip-in-texas-93CH-3602642",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-23T05:13:47.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg"
-      },
-      {
-        "title": "Oppenheimer individua i migliori titoli software SMID prima degli utili Q3",
-        "link": "https://it.investing.com/news/stock-market-news/oppenheimer-individua-i-migliori-titoli-software-smid-prima-degli-utili-q3-3602644",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-23T05:12:56.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg"
-      },
-      {
-        "title": "Incontro Trump-Kim improbabile quest’anno, secondo funzionari Usa",
-        "link": "https://it.investing.com/news/stock-market-news/incontro-trumpkim-improbabile-questanno-secondo-funzionari-usa-93CH-3602641",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-23T05:10:12.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg"
-      },
-      {
-        "title": "Perché il titolo HK di Pony AI è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-hk-di-pony-ai-e-in-rialzo-oggi-93CH-3602640",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-23T05:10:08.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg"
-      },
-      {
-        "title": "Perché il titolo MiniMax è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-minimax-e-in-rialzo-oggi-93CH-3602639",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-23T05:10:07.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
-      },
-      {
-        "title": "BTp Valore, ultime ore per gli acquisti. Oggi i tassi definitivi",
-        "link": "https://www.ilsole24ore.com/art/btp-valore-ultime-ore-gli-acquisti-oggi-tassi-definitivi-AJIom1rB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-23T05:07:00.000Z",
-        "excerpt": "Giornata finale per il collocamento dei due titoli gemelli. Ieri raccolta su a 14,9 miliardi",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/23/Immagini/Ritagli/imagoeconomica2812113-1792429763949-U51735320646BRB-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "No ai licenziamenti decisi dall’algoritmo, sì al risarcimento danni: ecco l’AI Act in vigore da oggi",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/10/23/news/intelligenza_artificiale_licenziamenti_danni_ai_act_decreti-425667970/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-23T03:00:00.000Z",
-        "excerpt": "Una guida ai nuovi diritti previsti dai due decreti italiani che completano l'adeguamento al regolamento europeo sull’intelligenza artificiale",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/195945902-ed38d076-6655-428f-a6b5-47d62f11f96a.jpg"
-      },
-      {
-        "title": "Dai nuovi bonifici per le detrazioni sulla casa all’ex Ilva: un’app per orientarsi nel Fisco",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/10/23/news/app_trova_tu_semplificazione_4700_norme-425666565/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-23T03:00:00.000Z",
-        "excerpt": "Dall’anno nuovo entrano in vigore i Testi unici che raccolgono oltre 4.700 disposizioni tributarie. Ecco come capire dove sono state “spostate” le norme",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/104910823-decb711a-f6ae-4e53-87e3-3c96988c1835.jpg"
-      },
-      {
-        "title": "Petrolio, tech e debito, la tempesta si abbatte sulle Borse. Piazza Affari la peggiore",
-        "link": "https://www.repubblica.it/economia/2026/10/23/news/petrolio_intelligenza_artificiale_debito_tempesta_borse-425668595/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "Il Brent a 113 dollari alimenta le aspettative di aumento dell’inflazione. Deludono anche i conti delle aziende Usa",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/234401887-f89a2924-2ef7-4442-b0f7-91dc3ef0e31d.jpg"
-      },
-      {
-        "title": "Manovra, aiuti a giovani e donne con bonus affitti e più congedi",
-        "link": "https://www.repubblica.it/economia/2026/10/23/news/manovra_aiuti_a_giovani_e_donne_con_bonus_affitti_e_piu_congedi-425668512/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "Il vertice di maggioranza non scioglie tutti i nodi. Meloni: “Serve uno sforzo anche per il ceto medio”. Tajani insiste sul mini taglio dell’Irpef",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/230834846-c8f46bd8-1355-4905-9380-44a1989dbab4.jpg"
-      },
-      {
-        "title": "In Campania gli autisti resistono. Infiltrazioni mafiose, si muovono i pm",
-        "link": "https://www.repubblica.it/economia/2026/10/23/news/via_blocchi_autotrasporto_in_campania_resistono_infiltrazioni_mafiose-425668402/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "A Napoli e nelle altre province a secco il 95% dei distributori. Si aggiungono alle proteste i pescatori, ma intanto molti blocchi al Sud vengono rimossi",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/222624324-93b4400f-3fe4-46b7-ad0c-43b90b5a87ec.jpg"
-      },
-      {
-        "title": "Ramenghi (Ubs) “La tensione è sui bond mercati volatili, ma di occasioni ce ne sono”",
-        "link": "https://www.repubblica.it/economia/2026/10/23/news/ramenghi_ubs_la_tensione_e_sui_bond_mercati_volatili_ma_di_occasioni_ce_ne_sono-425668367/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "Attenzione ai cigni neri: l’azionario ha concentrazioni mai viste Chi investe dovrebbe diversificare in utilities, farmaceutici o finanza",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/221330533-fceab51a-a543-4666-82af-dacf6acc6486.jpg"
-      },
-      {
-        "title": "Banco Bpm studia l’astensione all’assemblea Mps. E Lovaglio spinge per la fusione con Mediobanca",
-        "link": "https://www.repubblica.it/economia/2026/10/23/news/bpm_assemblea_mps_voto_delfin_lovaglio_intesa-425668177/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "Il numero uno della ex Popolare, Castagna, appare intenzionato a partecipare all’assise senese del 29 ottobre, ma i suoi azionisti preferirebbero che non si presentasse",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/210813533-07bd3bff-1e94-4c5d-8e93-6a0b9b31e76f.jpg"
-      },
-      {
-        "title": "Zhu in visita nella fabbrica di Pomigliano, Leapmotor scalda i motori",
-        "link": "https://www.repubblica.it/economia/2026/10/23/news/zhu_pomigliano_stellantis_leapmotor_maserati_cassino-425668630/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-22T22:40:08.000Z",
-        "excerpt": "Il fondatore del partner di Stellantis oggi nello stabilimento campano dove si produrranno le e-Car. Il 10 dicembre Maserati fissa l’Investor Day a Modena",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/23/004003253-57be3cc2-0da7-4e28-82a9-9a09d682271a.jpg"
-      },
-      {
-        "title": "Autotrasporto: il Garante degli scioperi chiede la precettazione",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/autotrasporto-il-garante-degli-scioperi-chiede-la-precettazione_c2a6a9c4-023e-4e7b-bf34-c4dd25aa38c1.html",
+        "title": "La Banca Centrale russa lascia il tasso di riferimento al 14%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/la-banca-centrale-russa-lascia-il-tasso-di-riferimento-al-14_734237e6-5c47-40a8-b317-333b6add7022.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-22T20:51:20.000Z",
-        "excerpt": "'Diffusi e resistenti blocchi prolungano criticità'",
+        "pubDate": "2026-10-23T11:03:04.000Z",
+        "excerpt": "Prosegue politica di allentamento decisa a settembre",
         "image": null
       },
       {
-        "title": "Fonti, a vertice su manovra ampio spazio a prospettive e misure giovani",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/fonti-a-vertice-su-manovra-ampio-spazio-a-prospettive-e-misure-giovani_661e6b17-cb61-4adc-bc1a-f7e371b3c554.html",
+        "title": "Upb, Pil 2026 intorno all'1%, risente dell'inflazione, rischi al ribasso",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/upb-pil-2026-intorno-all1-risente-dellinflazione-rischi-al-ribasso_2028eb4f-8e52-47ad-8397-427bd110395a.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-22T18:57:46.000Z",
-        "excerpt": "'Risorse su priorità economiche e sociali'. Obiettivo cdm la prossima settimana",
+        "pubDate": "2026-10-23T11:02:32.000Z",
+        "excerpt": "'Quadro coerente con stime governo. Segnali di diffusione del caro-prezzi'",
         "image": null
       },
       {
-        "title": "Mini pacchi, la tassa italiana slitta ancora: partenza prevista il 1° gennaio 2027",
-        "link": "https://www.ilsole24ore.com/art/mini-pacchi-tassa-italiana-slitta-ancora-partenza-prevista-1-gennaio-2027-AJq4VtrB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-22T18:11:20.000Z",
-        "excerpt": "Il rinvio del contributo da 2 euro entra nel nuovo decreto con i fondi per l’autotrasporto. È il quarto slittamento: ogni mese di sospensione vale 20,4 milioni di minori entrate",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/23/Immagini/Ritagli/Imagoeconomica_229544-U46586550251dUQ-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Inaugurato il polo Node, 'sarà la Montecatini del terzo millennio'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/inaugurato-il-polo-node-sara-la-montecatini-del-terzo-millennio_cfb7681c-9a6e-4cbc-ac48-0a0546bda843.html",
+        "title": "Paolo Moretti nominato amministratore delegato di Rina",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/paolo-moretti-nominato-amministratore-delegato-di-rina_f80211b3-5367-4c29-af54-2b321dd4a0b6.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-22T17:59:59.000Z",
-        "excerpt": "A Roma il nuovo centro per la ricerca energetica di Nextchem, investimento da 45 milioni",
+        "pubDate": "2026-10-23T10:39:37.000Z",
+        "excerpt": "Salerno: \"Avviamo un nuovo ciclo di sviluppo\"",
         "image": null
       },
       {
-        "title": "Pierfrancesco Majorino annuncia la candidatura a sindaco di Milano",
-        "link": "https://www.ilsole24ore.com/art/pierfrancesco-majorino-annuncia-candidatura-sindaco-milano-AJ2iHmrB",
+        "title": "Antagonisti, molotov e terrorismo a Bari. Cento perquisizioni in tutta Italia",
+        "link": "https://www.ilsole24ore.com/art/antagonisti-molotov-e-terrorismo-bari-cento-perquisizioni-tutta-italia-AJlxORsB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-22T17:58:00.000Z",
-        "excerpt": "Pierfrancesco Majorino, non a sorpresa, si candida alle (possibili) primarie del centrosinistra milanese, in vista delle amministrative della prossima primavera. «Per me è un grande onore, una grande emozione annunciare.",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/23/Immagini/Ritagli/LP_24869653-U26165813486eGv-1440x752@IlSole24Ore-Web.jpg"
+        "pubDate": "2026-10-23T10:30:00.000Z",
+        "excerpt": "Digos in 18 città alla vigilia dei cortei, 51 indagati sono minorenni. La Dda di Bari contesta devastazione e saccheggio con finalità di terrorismo per il gruppo Telegram “23 ottobre rivolta Bari”. Nelle chat del Movimen",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/24/Immagini/Ritagli/ilsolematera_20261022220109850_6d53aa812de2891027ff13a07b8d1f37-U26156232503itd-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Manovra: a Palazzo Chigi riunione con Meloni, Giorgetti e leader maggioranza",
-        "link": "https://www.ilsole24ore.com/art/manovra-palazzo-chigi-riunione-meloni-giorgetti-e-leader-maggioranza-AJtzEqrB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-22T17:44:48.000Z",
-        "excerpt": "E’ in corso a Palazzo Chigi una riunione di maggioranza sulla Manovra. Partecipano la presidente del Consiglio, Giorgia Meloni, i vicepremier Antonio Tajani e Matteo Salvini (in videocollegamento da Milano),...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/23/Immagini/Ritagli/Imagoeconomica_2566207-U07582514772aHA-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Fermi in protesta anche i pescherecci, dal governo 10 milioni ",
-        "link": "https://www.ilsole24ore.com/art/fermi-protesta-anche-pescherecci-governo-10-milioni-AJpBinrB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-22T17:25:00.000Z",
-        "excerpt": "Le marinerie italiane sono in mobilitazione contro il caro-gasolio. Il Consiglio dei Ministri stanzia una somma a fondo perduto pari al 10% della spesa da giugno a metà ottobre per i maggiori costi sostenuti per l’acquis",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/23/Immagini/Ritagli/mvjdzv73j6u0zxjz11-U38185756223yVC-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Kering, ricavi stabili ma soffre ancora Gucci",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/kering-ricavi-stabili-ma-soffre-ancora-gucci_693b3f82-6b4a-4a70-a532-e9fd4041b17a.html",
+        "title": "Taxi, 'siamo tanti, manifestazione del 26 si sposta di fronte al Mit '",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/taxi-siamo-tanti-manifestazione-del-26-si-sposta-di-fronte-al-mit_774dc0ee-f604-4462-afb6-78da181501a8.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-22T17:23:51.000Z",
-        "excerpt": "De Meo, 'la ripresa del brand rimane la priorità assoluta'",
+        "pubDate": "2026-10-23T10:20:36.000Z",
+        "excerpt": "Si terrà in Piazzale di Porta Pia",
         "image": null
       },
       {
-        "title": "Al via a Napoli i “City Talks”, con Pichetto, Abodi, Giuli, Manfredi, Durigon e Butti",
-        "link": "https://www.ilsole24ore.com/art/al-via-napoli-city-talks-pichetto-abodi-giuli-manfredi-durigon-e-butti-AJLbKorB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-22T17:22:22.000Z",
-        "excerpt": "“Le sfide” è il tema dei “City Talks” che si svolgeranno a Napoli, venerdì 23 e sabato 24 ottobre, nella sede dell’Associazione Costruttori Edili Napoli (ACEN), in via Riviera di...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/22/Immagini/Ritagli/images_20261022191545-U82222166057VoS-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Il prezzo del gas viaggia oltre i 90 euro al megawattora",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/il-prezzo-del-gas-viaggia-oltre-i-90-euro-al-megawattora_1c869bea-f9ee-4003-90d5-506b960e10dd.html",
+        "title": "Tabarelli, 'dopo la guerra enormi quantità di energia, tranquilli per secoli'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/tabarelli-dopo-la-guerra-enormi-quantita-di-energia-tranquilli-per-secoli_941bcb6c-dad3-45a5-acd2-4a9afdb2d195.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-22T16:47:41.000Z",
-        "excerpt": "Ad Amsterdam le quotazioni dell'indice Ttf sono in aumento del 3,9%",
+        "pubDate": "2026-10-23T09:52:06.000Z",
+        "excerpt": "'Ritornare alla realtà e parlare di cose concrete e dei problemi della gente\"",
         "image": null
       },
       {
-        "title": "Borsa: Milano chiude pesante con l'Europa, scivola Prysmian",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/22/borsa-milano-chiude-pesante-con-leuropa-scivola-prysmian_b3c8f69b-ca57-4084-9703-e11cdf07d674.html",
+        "title": "L’appello di Orsini: «Serve politica industriale, no a mance e spezzatini»",
+        "link": "https://www.ilsole24ore.com/art/l-appello-orsini-serve-politica-industriale-no-mance-e-spezzatini-AJmvTLsB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-23T09:50:11.000Z",
+        "excerpt": "Secondo il presidente di Confindustria bisogna spingere sugli investimenti ora che il Recovery Plan sta terminando",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/24/Immagini/Ritagli/Imagoeconomica_2772341-U08858768210kfG-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Manovra, Lega in trincea sulle pensioni. Giovani neoassunti, flat tax al 5%",
+        "link": "https://www.ilsole24ore.com/art/manovra-lega-trincea-pensioni-giovani-neoassunti-flat-tax-5percento-AJJRfHsB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-23T09:41:00.000Z",
+        "excerpt": "Da Salvini aut aut sulle uscite anticipate, ma i costi salirebbero dai 600 milioni del 2027 agli 1,5 miliardi nel 2029. Tassa piatta riservata agli under 30",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/24/Immagini/Ritagli/AdobeStock_420994336-U53163665720fqn-1440x752@IlSole24Ore-Web.jpeg"
+      },
+      {
+        "title": "Circolare del Viminale, parte la macchina per il voto fuori sede",
+        "link": "https://www.ilsole24ore.com/art/circolare-viminale-parte-macchina-il-voto-fuori-sede-AJ6VaOsB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-23T09:40:04.000Z",
+        "excerpt": "Si avvia la macchina per rendere effettiva la possibilità di voto fuori sede per studenti, lavoratori, o per motivi cura e caregiver, sin dalle prossime elezioni. Dopo il via libera...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/24/Immagini/Ritagli/Imagoeconomica_2474398-U86401763067ZKs-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Stadi, dalla Camera la spinta per le aree con i posti in piedi",
+        "link": "https://www.ilsole24ore.com/art/stadi-camera-spinta-le-zone-i-posti-piedi-AJcjPPsB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-23T09:40:00.000Z",
+        "excerpt": "Nell’ottica dei sostenitori della proposta le standing areas consentirebbero di ampliare il numero dei posti, abbassare i costi dei biglietti, aumentando anche il grado di sicurezza",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/24/Immagini/Ritagli/GettyImages-1354526156-U64532763823thu-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Prime autobotti sulle isole del golfo di Napoli ma saltano ancora corse",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/23/prime-autobotti-sulle-isole-del-golfo-di-napoli-ma-saltano-ancora-corse_612379e8-c541-4b98-936f-3aa79e2ddf38.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-10-22T16:30:55.000Z",
-        "excerpt": "Male anche le banche, sale il lusso. Lo spread tra Btp e Bund sale a 124 punti",
+        "pubDate": "2026-10-23T09:25:01.000Z",
+        "excerpt": "Partenze soppresse a causa di scorte insufficienti. Si riempiono scaffali supermercati",
         "image": null
       }
     ],
     "europa": [
+      {
+        "title": "Francia, sparatoria a Trappes: un morto e quattro feriti",
+        "link": "https://www.ilsole24ore.com/art/francia-sparatoria-trappes-morto-e-quattro-feriti-AJOcCXsB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-23T11:46:32.000Z",
+        "excerpt": "Un morto e quattro feriti. È questo il bilancio attuale della sparatoria avvenuta intorno alle 10:30 di questa mattina – venerdì 23 ottobre – nella cittadina di Trappes, nel dipartimento...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/24/Immagini/Ritagli/francia-polizia-e1792753453303-U52335324823hqi-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "FTAI Infrastructure prevede un'offerta di private notes di $270 milioni per finanziare l'acquisizione di DRUbit LLC",
+        "link": "https://www.investing.com/news/sec-filings/ftai-infrastructure-plans-270-million-private-notes-offering-to-fund-drubit-llc-acquisition-93CH-4968787",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-23T10:43:04.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
+      },
+      {
+        "title": "S&P Global archivia i dati finanziari pro forma dopo la separazione del segmento Mobility",
+        "link": "https://www.investing.com/news/sec-filings/sp-global-files-pro-forma-financials-after-mobility-segment-separation-93CH-4968735",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-23T10:20:40.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
+      },
+      {
+        "title": "Limitless X Holdings annuncia le dimissioni del consiglio di amministrazione e modifica le classi di azioni privilegiate",
+        "link": "https://www.investing.com/news/sec-filings/limitless-x-holdings-announces-board-resignation-and-amends-preferred-stock-classes-93CH-4968732",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-23T10:16:56.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
+      },
+      {
+        "title": "Liechtenstein, il principe pone il veto alla riforma per rendere legale l’aborto",
+        "link": "https://www.ilsole24ore.com/art/liechtenstein-principe-pone-veto-riforma-rendere-legale-l-aborto-AJaSnQsB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-23T10:16:14.000Z",
+        "excerpt": "Il principe ereditario del Liechtenstein, Alois, ha posto il veto a una proposta di legge che avrebbe liberalizzato l’interruzione volontaria di gravidanza nel principato, allineando la normativa a quella di...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/24/Immagini/Ritagli/Immagine%202026-10-23%20121337-U05263750702xzp-1440x752@IlSole24Ore-Web.png"
+      },
+      {
+        "title": "Uy Scuti Acquisition Corp. emette $1,1 milioni in cambiali per l'estensione della fusione",
+        "link": "https://www.investing.com/news/sec-filings/uy-scuti-acquisition-corp-issues-11-million-in-promissory-notes-for-merger-extension-93CH-4968716",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-23T10:12:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
+      },
+      {
+        "title": "Sparatoria a Yehuda: due morti e cinque feriti. Israele annuncia chiusura totale della Cisgiordania",
+        "link": "https://www.ilsole24ore.com/art/cinque-feriti-attacco-a-hebron-israele-prepara-chiusura-totale-cisgiordania-AJ9e3LsB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-23T08:36:00.000Z",
+        "excerpt": "Cinque persone sono rimaste ferite in una sparatoria all’incrocio di Yehuda, nel sud della Cisgiordania, e due di loro versano in gravi condizioni, mentre le altre tre hanno riportato ferite...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/24/Immagini/Ritagli/2026-10-23T074743Z_1567040191_RC2V8OALI3SG_RTRMADP_5_ISRAEL-PALESTINIANS-ATTACK-WEST-BANK-U12514843621knt-1440x752@IlSole24Ore-Web.JPG"
+      },
       {
         "title": "La controllata PAVmed Lucid Diagnostics raccoglie $15 milioni nella vendita di azioni privilegiate",
         "link": "https://www.investing.com/news/sec-filings/pavmed-subsidiary-lucid-diagnostics-raises-15-million-in-preferred-stock-sale-93CH-4967691",
@@ -291,38 +283,6 @@
         "pubDate": "2026-10-22T21:34:33.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
-      },
-      {
-        "title": "National Healthcare Properties completa la conversione automatica delle azioni di Classe A",
-        "link": "https://www.investing.com/news/sec-filings/national-healthcare-properties-completes-automatic-conversion-of-class-a-shares-93CH-4967663",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-22T21:30:42.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
-      },
-      {
-        "title": "Le questioni mediche di Tenon garantiscono all'investitore come parte della rinuncia all'accordo",
-        "link": "https://www.investing.com/news/sec-filings/tenon-medical-issues-warrant-to-investor-as-part-of-agreement-waiver-93CH-4967639",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-22T21:24:25.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
-      },
-      {
-        "title": "Auddia aumenta i limiti di finanziamento ponte per le società target della fusione",
-        "link": "https://www.investing.com/news/sec-filings/auddia-increases-bridge-funding-limits-for-merger-target-companies-93CH-4967629",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-22T21:20:21.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
-      },
-      {
-        "title": "Village Farms International nomina Stephen C. Ruffini EVP Fusioni e Acquisizioni",
-        "link": "https://www.investing.com/news/sec-filings/village-farms-international-appoints-stephen-c-ruffini-as-evp-of-mergers-and-acquisitions-93CH-4967621",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-22T21:16:12.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
       },
       {
         "title": "La Corte penale internazionale vince il premio Sacharov per la difesa della libertà di pensiero",
@@ -363,30 +323,6 @@
         "pubDate": "2026-10-21T18:14:52.000Z",
         "excerpt": "Un giudice ha condannato Meta a pagare 25 miliardi di dollari al New Mexico dopo che una giuria ha ritenuto la società responsabile di aver ingannato gli utenti in merito...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/01/15/Immagini/Ritagli/AdobeStock_473130250_Editorial_Use_Only-U63453462355KhV-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Dipendenti Google lasciano DeepMind per protesta contro l’uso militare dell’IA",
-        "link": "https://www.ilsole24ore.com/art/dipendenti-google-lasciano-deepmind-protesta-contro-l-uso-militare-dell-ia-AJQSfgqB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-21T17:58:38.000Z",
-        "excerpt": "Il colosso americano Google sta affrontando alcune dimissioni dei suoi dipendenti che protestano per l’impiego militare delle tecnologie di intelligenza artificiale sviluppate all’interno della società. Lo rivela Bbc...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/22/Immagini/Ritagli/2026-10-19T115100Z_1413668139_RC2B6OAXA2YD_RTRMADP_5_TECH-AI-U54775863666TgA-1440x752@IlSole24Ore-Web.JPG"
-      },
-      {
-        "title": "Kallas attacca la Turchia: «Il memorandum con la Libia viola i diritti sovrani di Stati terzi». Che cosa dice il trattato",
-        "link": "https://www.ilsole24ore.com/art/kallas-attacca-turchia-il-memorandum-la-libia-viola-diritti-sovrani-stati-terzi-che-cosa-dice-trattato-AJZ1wQqB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-21T15:29:00.000Z",
-        "excerpt": "Unione europea, Egitto e Israele hanno condannato la rettifica dell’accordo tra Libia e Turchia. L’Alta rappresentante dell’Ue Kaja Kallas, incontrando oggi il ministro degli Esteri turco Hakan Fidan, ha «sollevato...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/22/Immagini/CartinaGrandeBronzo.jpg"
-      },
-      {
-        "title": "Scuole in Europa, tra edifici fatiscenti, bagni senza acqua e carenza di insegnanti: la protesta degli studenti",
-        "link": "https://www.ilsole24ore.com/art/scuole-europa-edifici-fatiscenti-bagni-senza-acqua-e-carenza-insegnanti-protesta-studenti-AJVdfJqB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-21T13:58:00.000Z",
-        "excerpt": "Le scuole che d’estate diventano forni, gli insegnanti che mancano per mesi, i bagni senza acqua corrente e gli edifici che aspettano da anni una ristrutturazione. Le proteste degli studenti...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/22/Immagini/Ritagli/165429847-ac2595e3-11a1-4cf5-9216-6ea4e888b289-U45678358362Upz-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "usa": [
@@ -457,206 +393,158 @@
     ],
     "mondo": [
       {
-        "title": "Taiwan si prepara all'arrivo del potente tifone Champi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/23/taiwan-si-prepara-allarrivo-del-potente-tifone-champi_df620c76-3eaa-49fe-81a7-12fb680bac98.html",
+        "title": "Crisi del trasporto pubblico a Cuba, servizi crollati del 90%",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/crisi-del-trasporto-pubblico-a-cuba-servizi-crollati-del-90_0b8f8fe4-b737-474e-a6a2-ba9651bc5885.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-23T05:35:28.000Z",
-        "excerpt": "Piogge torrenziali e raffiche di vento fino a 191 km/h",
+        "pubDate": "2026-10-23T11:17:59.000Z",
+        "excerpt": "Delle oltre 100 tratte di autobus finora operanti, ne restano attive solo 21",
         "image": null
       },
       {
-        "title": "I prezzi del petrolio aumentano mentre le preoccupazioni sull'offerta persistono tra gli attacchi degli Houthi all'Arabia Saudita",
+        "title": "Il greggio Brent raggiunge il massimo da oltre cinque mesi a causa della preoccupazione per l'escalation in Medio Oriente",
         "link": "https://www.investing.com/news/commodities-news/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-4967907",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-10-23T05:30:27.000Z",
+        "pubDate": "2026-10-23T11:13:13.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9M022_L.jpg"
       },
       {
-        "title": "Lula e Bolsonaro testa a testa al 50%",
-        "link": "https://www.ansa.it/sito/notizie/topnews/2026/10/23/sondaggio-brasile-lula-e-bolsonaro-testa-a-testa-al-50-a-3-giorni-dal-ballottaggio_faf16ab2-4b61-45f8-9678-5ca4396b7e26.html",
+        "title": "Spiegazione - Cos'è il virus Shamonda e quali sono i rischi per gli esseri umani e gli animali?",
+        "link": "https://www.investing.com/news/commodities-news/explainerwhat-is-shamonda-virus-and-what-are-the-risks-to-humans-and-animals-4966786",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-23T11:07:44.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1IC_L.jpg"
+      },
+      {
+        "title": "Offerta mattutina: la sicurezza prima di tutto",
+        "link": "https://www.investing.com/news/commodities-news/morning-bid-safety-first-4968791",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-23T10:43:26.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0VY_L.jpg"
+      },
+      {
+        "title": "Premier Francia, 'a Trappes fatti gravissimi, monitora l'antiterrorismo'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/23/premier-francia-a-trappes-fatti-gravissimi-monitora-lantiterrorismo_17c08951-cb3a-4ceb-94ad-96333a95d019.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-23T05:12:04.000Z",
-        "excerpt": "È la prima volta, trend in crescita per il presidente uscente",
+        "pubDate": "2026-10-23T10:38:54.000Z",
+        "excerpt": "Lecornu su X, 'Mobilitati tutti i mezzi di sicurezza e giudiziari' dopo sparatoria",
         "image": null
       },
       {
-        "title": "L'oro tocca il minimo di 3 mesi poiché il rally del petrolio alimenta le preoccupazioni sul tasso; impostato per il calo settimanale",
+        "title": "Analisi: gli sforzi di alleggerimento dei prezzi del diesel di Trump diventano più costosi con l'avvicinarsi delle elezioni",
+        "link": "https://www.investing.com/news/commodities-news/analysistrumps-diesel-price-relief-efforts-grow-costlier-as-election-nears-4968734",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-23T10:37:30.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0U4_L.jpg"
+      },
+      {
+        "title": "UBS vede gli acquirenti di DIP intervenire per sostenere l'oro a questo livello",
+        "link": "https://www.investing.com/news/commodities-news/ubs-sees-dip-buyers-stepping-in-to-support-gold-at-this-level-4968750",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-23T10:30:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXNPEL39041_L.jpg"
+      },
+      {
+        "title": "Smotrich, 'stiamo per demolire edifici abusivi di arabi vicini a luogo attacco'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/23/smotrich-stiamo-per-demolire-edifici-abusivi-di-arabi-vicini-a-luogo-attacco_3a6dbf4a-d30a-4e50-a7ce-ff1d899c8032.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-23T10:21:30.000Z",
+        "excerpt": "L'ordine sarà eseguito entro la prossima ora e le operazioni proseguiranno nel pomeriggio",
+        "image": null
+      },
+      {
+        "title": "L'opposizione scende in piazza per Corina Machado in Venezuela",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/lopposizione-scende-in-piazza-per-corina-machado-in-venezuela_90aa6bdc-e223-4a10-a447-97c300bd5873.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-23T09:56:03.000Z",
+        "excerpt": "I sostenitori della Nobel per la Pace invocano nuove elezioni nel 2027",
+        "image": null
+      },
+      {
+        "title": "L'oro è sulla buona strada per un forte calo settimanale poiché l'impennata del prezzo del petrolio alimenta le preoccupazioni",
         "link": "https://www.investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-10-23T01:51:45.000Z",
+        "pubDate": "2026-10-23T09:14:54.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEB8N174_M.jpg"
       },
       {
-        "title": "Rsf, 'in 20 anni uccisi in Messico 169 giornalisti'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/rsf-in-20-anni-uccisi-in-messico-169-giornalisti_c72ad24e-9dcf-49a3-9091-70ae56978b2e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-23T01:25:38.000Z",
-        "excerpt": "L'impunità supera il 99% e l'ong esige riforme",
-        "image": null
+        "title": "Il gas europeo limita il forte guadagno settimanale sull'escalation dell'offerta in Medio Oriente",
+        "link": "https://www.investing.com/news/commodities-news/european-gas-caps-strong-weekly-gain-on-middle-east-supply-escalation-4968473",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-23T08:58:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC1311Y_M.jpg"
       },
       {
-        "title": "Piano di rilasci in El Salvador, le ong denunciano abusi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/piano-di-rilasci-in-el-salvador-le-ong-denunciano-abusi_6cd139b6-3793-4563-a281-8f5a34f03d3b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-23T01:25:04.000Z",
-        "excerpt": "Le associazioni temono false confessioni per ottenere la libertà",
-        "image": null
-      },
-      {
-        "title": "La foto dei leader dell’opposizione israeliana: la coalizione che vuole battere Netanyahu",
-        "link": "https://www.repubblica.it/esteri/2026/10/23/news/foto_opposizione_israele_coalizione_contro_netanyahu_elezioni-425668715/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-23T01:20:45.000Z",
-        "excerpt": "Secondo l’ultima indagine sulle intenzioni di voto, i due principali blocchi in corsa si attestano intorno ai 51 seggi ciascuno",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/23/031721291-298cc4d2-c8a0-40c4-bb7e-442c12bda582.jpg"
-      },
-      {
-        "title": "I prezzi del petrolio sono inebrianti ai massimi di 5 mesi mentre persistono i nervosismi dell'offerta di M.East",
+        "title": "I prezzi del petrolio toccano $114 per la prima volta da maggio tra i nervosismi dell'offerta mediorientale",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-cool-from-5month-highs-as-trump-invokes-defense-production-act-4967880",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-10-23T00:41:37.000Z",
+        "pubDate": "2026-10-23T08:56:48.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEA5T0D5_M.jpg"
       },
       {
-        "title": "Sondaggio Brasile, Lula e Bolsonaro testa a testa al 50% a 3 giorni dal ballottaggio",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/sondaggio-brasile-lula-e-bolsonaro-testa-a-testa-al-50-a-3-giorni-dal-ballottaggio_f2bca325-ba76-4fad-8870-59505187268a.html",
+        "title": "Kiev, '500.000 persone senza elettricità dopo raid russi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/23/kiev-500.000-persone-senza-elettricita-dopo-raid-russi_3cb4bc8d-8992-4fd2-ab41-3abfd004583f.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-23T00:22:17.000Z",
-        "excerpt": "E' la prima volta, trend in crescita per il presidente uscente",
+        "pubDate": "2026-10-23T08:41:28.000Z",
+        "excerpt": "Attacchi su infrastrutture energetiche in sei regioni",
         "image": null
       },
       {
-        "title": "Dalma Maradona alla chiusura del processo per la morte del padre, 'merita giustizia'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/dalma-maradona-alla-chiusura-del-processo-per-la-morte-del-padre_fdde3770-1fb5-409e-89a6-c35868e06fa7.html",
+        "title": "Fonti, attiviste italiane fermate in Cisgiordania potrebbero essere espulse già oggi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/23/fonti-attiviste-italiane-fermate-in-cisgiordania-potrebbero-essere-espulse-gia-oggi_4be67131-265d-4fd4-adf1-1029203d4a02.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-22T23:02:16.000Z",
-        "excerpt": "Concluso il dibattimento orale, il tribunale fissa la sentenza per il 22 dicembre",
+        "pubDate": "2026-10-23T08:21:39.000Z",
+        "excerpt": "Israele ha comunicato all'ambasciata il trasferimento presso l'Autorità per immigrazione",
         "image": null
       },
       {
-        "title": "Tra i giovani ultraortodossi che rifiutano l’esercito e spaccano Israele in due",
-        "link": "https://www.repubblica.it/esteri/2026/10/23/news/israele_giovani_ultraortodossi_esercito-425668501/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "Un tempo erano pochissimi oggi sono 1,4 milioni: la loro esenzione dal servizio di leva è un tema caldo della campagna elettorale",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/225653087-25637326-6c7e-4f9c-a4cb-2092f49eee5d.jpg"
-      },
-      {
-        "title": "Brasile, l’ultradestra prepara il nuovo assalto all’Amazzonia: “Più pascoli e meno alberi”",
-        "link": "https://www.repubblica.it/esteri/2026/10/23/news/brasile_ultradestra_amazzoni_assalto_pascoli_alberi-425668482/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "Nel voto c’è in gioco anche il futuro della più grande foresta tropicale del pianeta: l’ombra delle lobby agricole e immobiliari",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/225033914-5fb64e49-83c0-4ae6-afb5-bc4b1a34dfa0.jpg"
-      },
-      {
-        "title": "Brasile, Lula denuncia Meta e X: “Io bloccato, aiutano Bolsonaro”",
-        "link": "https://www.repubblica.it/esteri/2026/10/23/news/brasile_lula_denuncia_meta_x_aiuti_bolsonaro-425668321/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "A due giorni dal ballottaggio, il presidente chiede la squalifica del rivale, che replica: “Usi soldi pubblici per la propaganda”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/215334195-06628972-5946-4b5e-bce5-2e3a2c6d3594.jpg"
-      },
-      {
-        "title": "Macron punta il dito contro l’ultrasinistra per le violenze nei cortei",
-        "link": "https://www.repubblica.it/esteri/2026/10/23/news/macron_manifestazioni_ultrasinistra_violenze_cortei-425668184/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "“Gruppi estremamente violenti mirano a far cadere la Repubblica”. Per domani a Parigi autorizzata solo la manifestazione dei sindacati",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/211100544-85667959-f8d6-4005-ac55-f7988bfd5283.jpg"
-      },
-      {
-        "title": "Bombe su Kiev, l’ira di Zelensky: “Ecco i missili compassionevoli”",
-        "link": "https://www.repubblica.it/esteri/2026/10/23/news/russia_bombe_grappolo_kiev_stati_uniti-425668084/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "Pesanti raid notturni dopo le aperture americane a Putin. Che apre sul vertice a tre con Trump e Xi: “C’è una discussione aperta”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/202345797-0827b8af-353d-4f77-aed6-3b659f103532.jpg"
-      },
-      {
-        "title": "Kupiansk, operazione Veles: Kiev sorprende i russi con il tunnel di 15 chilometri",
-        "link": "https://www.repubblica.it/esteri/2026/10/23/news/ucraina_tunnel_kupiansk_operazione_veles-425668039/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-22T23:00:00.000Z",
-        "excerpt": "La brigata Karthiia ha preparato la missione nel sottosuolo per un mese Cento nemici sarebbero stati uccisi e 30 catturati",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/200955225-c1a86734-a169-4fc9-81c2-b3189e3a917a.jpg"
-      },
-      {
-        "title": "Brasile, Casa Fiat e Inhotim celebrano 20 anni con una conferenza sul tempo nell'arte",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/brasile-casa-fiat-e-inhotim-celebrano-20-anni-con-una-conferenza-sul_fbb3b9e4-f53d-4b3a-88ef-efc0a7c7d3b9.html",
+        "title": "El Salvador invia truppe ad Haiti per salvare 4 militari rapiti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/el-salvador-invia-truppe-ad-haiti-per-salvare-4-militari-rapiti_84c44d5b-0f79-48e3-a6a1-379edbe403c3.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-22T22:33:29.000Z",
-        "excerpt": "Il 27 ottobre a Belo Horizonte un incontro con il filosofo ed educatore João Paulo Andrade",
+        "pubDate": "2026-10-23T08:20:00.000Z",
+        "excerpt": "Operazione in corso col supporto della Forza multinazionale anti-gang",
         "image": null
       },
       {
-        "title": "Argentina e Usa avanzano su cooperazione in commercio e sicurezza",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/23/argentina-e-usa-avanzano-su-cooperazione-in-commercio-e-sicurezza_6de73a75-aa5f-4cf0-9103-8324ec854f4d.html",
+        "title": "Netanyahu, Israele sta preparando una chiusura totale della Cisgiordania",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/23/netanyahu-israele-sta-preparando-una-chiusura-totale-della-cisgiordania_1bad7163-4daa-4870-b990-f987790d3224.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-22T22:32:41.000Z",
-        "excerpt": "Il vicesegretario di Stato Landau incontra i vertici del governo Milei",
+        "pubDate": "2026-10-23T07:56:55.000Z",
+        "excerpt": "'E' stato evitato un attacco su larga scala'",
         "image": null
-      },
-      {
-        "title": "Trump invoca il Defense Production Act dell'era della Guerra Fredda per la produzione di petrolio, la raffinazione",
-        "link": "https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-22T21:36:56.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9L20C_L.jpg"
-      },
-      {
-        "title": "L'oro spot tocca il minimo da tre mesi tra movimenti di rischio, aumento dei prezzi del petrolio",
-        "link": "https://www.investing.com/news/commodities-news/gold-falls-near-4115-as-saudi-attacks-fuel-inflation-fed-outlook-in-focus-4964496",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-22T21:17:17.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/Gold_800x533_L_1759953294.jpg"
-      },
-      {
-        "title": "Le piogge di El Niño battono l'America Latina dal Messico al Cile",
-        "link": "https://www.investing.com/news/commodities-news/el-nino-rains-batter-latin-america-from-mexico-to-chile-4967563",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-22T21:00:38.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1Z8_L.jpg"
-      },
-      {
-        "title": "Il regolatore dell'energia nucleare degli Stati Uniti consente ai richiedenti di includere i dati dei progetti delle agenzie",
-        "link": "https://www.investing.com/news/commodities-news/us-nuclear-power-regulator-allows-applicants-to-include-data-from-agency-projects-4967357",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-22T20:18:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM302PU_1200_L.jpg"
-      },
-      {
-        "title": "Trump dirige i negoziati commerciali sulle importazioni di turbine eoliche in ordine esecutivo",
-        "link": "https://www.investing.com/news/commodities-news/trump-directs-trade-negotiations-on-wind-turbine-imports-in-executive-order-4967292",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-22T20:06:43.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9L1WX_L.jpg"
-      },
-      {
-        "title": "Il capo del Pentagono Hegseth voleva il mappamondo di Eisenhower in ufficio. Il suo staff l'ha rotto",
-        "link": "https://www.repubblica.it/esteri/2026/10/22/news/il_capo_del_pentagono_hegseth_il_mappamondo_di_eisenhower_rotto-425668350/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-22T20:05:01.000Z",
-        "excerpt": "Il reperto, risalente alla Seconda guerra mondiale, è stato danneggiato dopo uno spostamento maldestro",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/22/220448047-9d47f2de-8099-4257-9b0b-a137e92f020c.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Putin apre a un vertice con Trump e Zelensky: 'Ma il Donbass è storicamente russo'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/22/putin-apre-a-un-vertice-con-trump-e-zelensky-ma-il-donbass-e-storicamente-russo_98c24b57-9871-4c38-bc42-2d378bac89ad.html",
+      "title": "Terza forte scossa di terremoto in Sicilia, magnitudo 5.5",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/terza-forte-scossa-di-terremoto-in-sicilia-magnitudo-5.0_81346d86-485c-4b00-88cd-aadc8e45e917.html",
       "source": "ANSA",
-      "pubDate": "2026-10-23T05:50:06.000Z",
-      "excerpt": "Il leader ucraino: 'Missili compassionevoli russi'. Il tycoon a Musk: 'Non frenare Starlink'",
+      "pubDate": "2026-10-23T11:32:55.000Z",
+      "excerpt": "Sisma avvertito anche a Trapani, evacuato il palazzo di giustizia. L'epicentro sempre in mare al largo delle Eolie",
+      "image": null
+    },
+    {
+      "title": "Scontri del 17 e 18 ottobre, perquisizioni della Digos in diciotto città",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/scontri-del-17-e-18-ottobre-perquisizioni-della-digos-in-diverse-citta_c576aa3c-07aa-4c48-838f-2ac212b76996.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-23T11:13:13.000Z",
+      "excerpt": "Identificati in 100, tra loro 51 minorenni. Piantedosi: 'Si inizia a squarciare il velo. Sicuramente c'era un coordinamento tra i protagonisti delle scorribande'",
+      "image": null
+    },
+    {
+      "title": "Attacco al check point israeliano, 5 feriti. Netanyahu annuncia la 'chiusura totale' della Cisgiordania",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/23/attacco-al-check-point-israeliano-5-feriti.-netanyahu-annuncia-la-chiusura-totale-della_9ba2138b-09b6-4e76-8477-6a022b91575a.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-23T10:08:23.000Z",
+      "excerpt": "Uccisi due palestinesi. Avviata un'operazione antiterrorismo su larga scala'",
       "image": null
     },
     {
@@ -668,181 +556,101 @@
       "image": null
     },
     {
-      "title": "How Pope Leo’s Church is pushing back against the global far right",
-      "link": "https://www.repubblica.it/en/europe/news/2026/10/23/news/pope_leo_catholic_church_takes_stand_against_europe_far_right-425665801/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-23T04:00:00.000Z",
-      "excerpt": "In Italy and across the world, the Vatican is taking positions at odds with nationalist movements. Donald Trump’s attacks on the Pope have backfired",
-      "image": null
-    },
-    {
-      "title": "Adriatic Sea at risk as artificial light floods Italy’s coastline",
-      "link": "https://www.repubblica.it/en/news/2026/10/23/news/adriatic_sea_at_risk_as_artificial_light_floods_italy_s_coastline-425667764/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-23T04:00:00.000Z",
-      "excerpt": "Light pollution from ports and coastal cities is threatening marine life. An international study explains why Italy tops the European rankings for exposure to artificial light at night. Scientists are now calling for dar",
-      "image": null
-    },
-    {
-      "title": "The Little Prince’s \"nest\" in Northwestern Sardinia",
-      "link": "https://www.repubblica.it/en/europe/food-travel/2026/10/23/news/alghero_museum_dedicated_to_antoine_de_saint-exupery_little_prince-425667579/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-23T04:00:00.000Z",
-      "excerpt": "Researcher Massimiliano Fois has created a museum dedicated to Antoine de Saint-Exupéry, who celebrated his final birthday right here",
-      "image": null
-    },
-    {
-      "title": "La foto dei leader dell’opposizione israeliana: la coalizione che vuole battere Netanyahu",
-      "link": "https://www.repubblica.it/esteri/2026/10/23/news/foto_opposizione_israele_coalizione_contro_netanyahu_elezioni-425668715/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-23T01:17:27.000Z",
-      "excerpt": "Secondo l’ultima indagine sulle intenzioni di voto, i due principali blocchi in corsa si attestano intorno ai 51 seggi ciascuno",
-      "image": null
-    },
-    {
-      "title": "Sala: “Sì ai militari a Milano, bisogna rispondere ai cittadini”",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/23/news/sala_militari_milano_scontri_proteste-425668702/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-23T00:18:59.000Z",
-      "excerpt": "L’accusa al governo: “In Francia i sindaci con manifestazioni violente sono stati ricevuti dal primo ministro francese. Evidentemente noi sindaci italiani siamo meno stimati.",
-      "image": null
-    },
-    {
-      "title": "Sbarcati a Milano i 500 parà, Salvini: avranno Lince e droni. Crosetto: solo di supporto",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/23/news/sbarcati_milano_500_para_militari_sicurezza_sabato_salvini_crosetto_supporto-425668582/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-22T23:00:00.000Z",
-      "excerpt": "In dotazione ai militari casco e scudo. Fredda accoglienza delle forze dell’ordine, silenzio del Viminale. Altri 24 minori tra carcere, comunità e domiciliari",
-      "image": null
-    },
-    {
-      "title": "Scontri, i sospetti dell’intelligence: “Per la chiamata in piazza utilizzato il modello Ceuta”",
-      "link": "https://www.repubblica.it/politica/2026/10/23/news/scontri_sospetti_servizi_segreti_chiamata_piazza_utilizzato_modello_ceuta-425668416/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-22T23:00:00.000Z",
-      "excerpt": "Valensise, capo dell’Aisi, al Copasir: al momento nessuna prova di una mano straniera. Domani timori di saldatura con gli antagonisti",
-      "image": null
-    },
-    {
-      "title": "Nordio shock sui minori: “Faremo più carceri”. L’opposizione: “Aberrante”",
-      "link": "https://www.repubblica.it/politica/2026/10/23/news/nordio_minori_faremo_piu_carceri_opposizione_aberrante-425668430/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-22T23:00:00.000Z",
-      "excerpt": "Il Guardasigilli: “Possibile usare anche sezioni dei penitenziari per gli adulti”. Insorgono anche avvocati e magistrati",
-      "image": null
-    },
-    {
-      "title": "Blocchi dei tir: il governo corre ai ripari, 175 milioni contro il caro carburante ",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/il-cdm-approva-il-decreto-sugli-aiuti-105-milioni-per-i-tir-e-70-per_416e7ef3-b46a-4594-90dd-671b4eb1cc0e.html",
+      "title": "Bianca Balti, 'dopo la malattia si torna a una nuova realtà'",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/10/22/bianca-balti-dopo-la-malattia-si-torna-a-una-nuova-realta_cbab5988-830e-4675-8dd6-c24821187153.html",
       "source": "ANSA",
-      "pubDate": "2026-10-22T21:22:32.000Z",
-      "excerpt": "Meloni ai camionisti: \"Non tolleriamo intimidazioni\". Slitta la tassa sui minipacchi",
+      "pubDate": "2026-10-22T17:38:56.000Z",
+      "excerpt": "Alla modella l'undicesimo Premio Lilt for Women a Milano",
       "image": null
     },
     {
-      "title": "Record da Sotheby's per il torso di un imperatore di età Giulio-Claudia",
-      "link": "https://www.ansa.it/sito/notizie/cultura/arte/2026/10/22/record-da-sothebys-per-il-torso-di-un-imperatore-di-eta-giulio-claudia_f25a51f6-86d8-4130-bd0e-8dd5e0241c64.html",
+      "title": "Halloween nei parchi a tema tra Horror House e zucche giganti",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/itinerari/2026/10/22/halloween-nei-parchi-a-tema-tra-horror-house-e-zucche-giganti_96a21db9-46b0-4c0e-ac6f-978ee7602b19.html",
       "source": "ANSA",
-      "pubDate": "2026-10-22T19:49:47.000Z",
-      "excerpt": "Quasi 35 milioni di dollari, il prezzo più alto per un'antichità di epoca romana",
+      "pubDate": "2026-10-22T16:58:09.000Z",
+      "excerpt": "Parate spettacolari, giochi e show da brivido per famiglie e bambini",
       "image": null
     },
     {
-      "title": "I militari arrivano a Milano, ma è tensione nel governo",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/mattarella-ha-firmato-il-decreto-sicurezza.-salvini-i-militari-a-milano-potranno-intervenire-con_eed9a37d-fa53-4efa-98f1-c14afc9e3317.html",
+      "title": "Anthropic sfida Meta e lancia l'assistente Claude Duet per il lavoro quotidiano",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/10/22/anthropic-sfida-meta-e-lancia-lassistente-claude-duet-per-il-lavoro-quotidiano_6386da1e-771b-4bdb-bee0-1e3922444647.html",
       "source": "ANSA",
-      "pubDate": "2026-10-22T19:45:01.000Z",
-      "excerpt": "Mattarellla firma il decreto sicurezza. Crosetto: 'Attacchi per aver osato chiedere strumenti per i parà, c'è chi vede concorrenza'",
+      "pubDate": "2026-10-22T16:29:37.000Z",
+      "excerpt": "L'agente può navigare sul web e gestire i file sul computer, per ora solo negli Usa",
       "image": null
     },
     {
-      "title": "Il premio Sacharov alla Cpi, schiaffo dell'Eurocamera a Trump ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/22/il-premio-sacharov-alla-cpi-schiaffo-delleurocamera-a-trump-_fe883eb5-a5e3-4830-8de9-cfae8a07ce89.html",
+      "title": "Cesvi, 1.500 km in bicicletta per i bambini delle periferie italiane",
+      "link": "https://www.ansa.it/responsabilmente/notizie/valori_condivisi/2026/10/22/cesvi-1.500-km-in-bicicletta-per-i-bambini-delle-periferie-italiane_1e3129a4-c596-423e-b09d-8bc0b6bcbb6b.html",
       "source": "ANSA",
-      "pubDate": "2026-10-22T19:20:58.000Z",
-      "excerpt": "Ora l'Ue difenda la Corte'. Battuto l'asse Ppe-Ecr, decisivi Socialisti e Patrioti",
-      "image": null
-    },
-    {
-      "title": "Cinema, boom di under 35 e ingressi in crescita in sala nel 2026",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/22/cinema-boom-di-under-35-e-ingressi-in-crescita-in-sala-nel-2026_e5fe92e4-8a7e-4416-9a62-9936df688328.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-22T10:11:57.000Z",
-      "excerpt": "Superati i 29,6 milioni di spettatori, la platea ritrova i livelli pre-pandemia",
-      "image": null
-    },
-    {
-      "title": "In Australia causa collettiva contro Facebook e Instagram, 'causano dipendenza'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/22/in-australia-causa-collettiva-contro-facebook-e-instagram-causano-dipendenza_038bdc59-a61b-4990-a8fa-12ff147cb5e6.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-22T07:34:48.000Z",
-      "excerpt": "Otto richiedenti reclamano risarcimenti a Meta",
+      "pubDate": "2026-10-22T15:49:19.000Z",
+      "excerpt": "Partenza il 26 ottobre dalla Sicilia e arrivo a Milano intorno al 20 novembre",
       "image": null
     }
   ],
   "sport": [
     {
-      "title": "Europa League: follia Maignan, il Milan affonda 3-0 con il Bournemouth",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/22/europa-league-follia-maignan-il-milan-affonda-3-0-con-il-bournemouth_029d3f7c-f959-4c9c-8678-2c7f4a44c2c5.html",
+      "title": "Inter: altro infortunio per i nerazzurri, si ferma Luis Henrique",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/23/inter-altro-infortunio-per-i-nerazzurri-si-ferma-luis-henrique_bd9baf5f-b9ee-4a2c-ae4d-584785862a6f.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-22T21:36:43.000Z",
-      "excerpt": "Il capitano espulso concede un secondo rigore; Kluivert, Tavanier e Adli per il tris dei rossoneri di Premier League",
+      "pubDate": "2026-10-23T11:38:05.000Z",
+      "excerpt": "Indisponibile insieme a Lautaro, Pavard, Stones e Jones",
       "image": null
     },
     {
-      "title": "Conference: Atalanta; Sarri, sprecate superiorità e perso per un errore",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/22/conference-atalanta-sarri-sprecate-superiorita-e-perso-per-un-errore_81c2c3cc-c22e-4635-9166-1c4ffccb9ff7.html",
+      "title": "Calcio, Yamal contro Mbappé, le grandi emozioni del Clasico",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/23/calcio-yamal-contro-mbappe-le-grandi-emozioni-del-clasico_0da29625-6211-42b8-bf1c-7975a1b31181.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-22T21:35:03.000Z",
-      "excerpt": "Il tecnico nerazzurro: 'Come se ne esce? Col risultato. Mancavano quattro centrali'",
+      "pubDate": "2026-10-23T11:33:00.000Z",
+      "excerpt": "E' un weekend pieno di derby e sfide al vertice in Europa",
       "image": null
     },
     {
-      "title": "Europa League: Amorim \"parlerò con Maignan, non c'è stata partita\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/22/europa-league-amorim-parlero-con-maignan-non-ce-stata-partita_497e07f2-a2fa-4b40-a704-220edfe9c8f6.html",
+      "title": "Milan: Maignan, 'il mio gesto non era intenzionale'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/23/milan-maignan-il-mio-gesto-non-era-intenzionale_f08aeaf2-e8c0-44bb-8b1b-2c0d1948f025.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-22T21:33:14.000Z",
-      "excerpt": "Dobbiamo fare tesoro delle sconfitte, gara negativa sotto ogni aspetto",
+      "pubDate": "2026-10-23T11:30:10.000Z",
+      "excerpt": "Il portiere sull'espulsione, 'Club e compagni sanno che tipo di persona sono'",
       "image": null
     },
     {
-      "title": "Conference: uno-due Ajax nel finale, Atalanta ko anche in Europa",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/22/conference-uno-due-ajax-nel-finale-atalanta-ko-anche-in-europa_ded0fafa-c0a7-49ca-a975-feaf837f72bc.html",
+      "title": "Serie A: Napoli-Roma in campo sabato alle 18 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/23/serie-a-napoli-roma-in-campo-sabato-alle-18-diretta_a2424423-eb0f-4a4d-92b6-40d67458049a.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-22T21:32:55.000Z",
-      "excerpt": "Arokodare e Ouazane decisivi tra 87' e 93': i bergamaschi reclamano un rigore su Zalewski",
+      "pubDate": "2026-10-23T11:26:44.000Z",
+      "excerpt": "'Per noi, dopo Venezia, sarebbe bello riprendere il cammino anche in campionato'",
       "image": null
     },
     {
-      "title": "Europa League: Bournemouth-Milan 3-0",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/22/europa-league-bournemouth-milan-3-0_3122e231-68c4-44cc-85f2-08904c8ec4ec.html",
+      "title": "Premier League: Manchester United, Carrick resta per il Bournemouth ma rischia l'esonero",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/23/premier-manchester-utd-carrick-resta-per-il-bournemouth-ma-rischia-lesonero_261ed048-e00b-4792-a3be-92470ab2c457.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-22T20:58:37.000Z",
-      "excerpt": "Maignan espulso e due rigori, i rossoneri inglesi dominano",
+      "pubDate": "2026-10-23T11:18:10.000Z",
+      "excerpt": "In pole per la sostituzione ci sarebbe anche Antonio Conte",
       "image": null
     },
     {
-      "title": "Conference League: l'Ajax passa due volte nel finale, Atalanta ko",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/22/conference-league-lajax-passa-due-volte-nel-finale-atalanta-ko_9a5f6150-1743-4089-80ad-ca0df5320df8.html",
+      "title": "Pallone d'oro: Kane tra i favoriti, 'non ci penso, è difficile\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/23/pallone-doro-kane-tra-i-favoriti-non-ci-penso-e-difficile_a88fa192-8da3-4ca6-a286-1a53c947c4d7.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-22T20:56:12.000Z",
-      "excerpt": "L'incontro deciso dalle reti di Tolou e Ouazane nella ripresa",
+      "pubDate": "2026-10-23T10:07:48.000Z",
+      "excerpt": "L'attaccante inglese del Bayern autore di 73 gol nell'ultima stagione",
       "image": null
     },
     {
-      "title": "Eurolega: Armani Milano-Barcellona 81-89",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/22/eurolega-armani-milano-barcellona-81-89_43b824a1-8702-4299-89b8-e905b55b7171.html",
+      "title": "15 anni fa moriva Simoncelli, l'Emilia Romagna lo ricorda",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/23/motogp-15-anni-fa-moriva-simoncelli-lemilia-romagna-lo-ricorda_1cb5fd9d-3339-4264-8212-d753e791b760.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-22T20:45:36.000Z",
-      "excerpt": "Sei sconfitte su sette gare, peggior avvio dal 2009/010 per l'Olimpia",
+      "pubDate": "2026-10-23T09:46:31.000Z",
+      "excerpt": "De Pascale: 'Marco vive nei ricordi e nell'affetto di chi gli ha voluto bene'",
       "image": null
     },
     {
-      "title": "Atp Lione: Cobolli batte Wawrinka e accede ai quarti",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/22/atp-lione-cobolli-batte-wawrinka-e-accede-ai-quarti_84f9ba82-fbc0-4be1-88e2-284d90b41bcf.html",
+      "title": "Fifa: l'Asia, 'sosteniamo la candidatura di Infantino'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/23/fifa-lasia-sosteniamo-la-candidatura-di-infantino_b0b32372-58e5-447d-90ac-3f7c1e86939f.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-22T20:21:11.000Z",
-      "excerpt": "Successo in due set per l'azzurro, affronterà Nakashima",
+      "pubDate": "2026-10-23T09:17:34.000Z",
+      "excerpt": "La Afc appoggerà l'attuale n.1 del calcio mondiale",
       "image": null
     }
   ]
