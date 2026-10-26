@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-10-25T22:15:11.342Z",
+  "lastUpdated": "2026-10-26T00:31:34.458Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Tokyo, apertura in calo (-0,39%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/borsa-tokyo-apertura-in-calo-039_574ee551-421a-408e-8682-b762f7f52296.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-26T00:27:43.000Z",
+        "excerpt": "Pesano correzione Wall Street, investimenti IA e il caro petrolio",
+        "image": null
+      },
+      {
+        "title": "Apple cerca più forniture per iPhone Duo: forte domanda per il primo foldable",
+        "link": "https://it.investing.com/news/stock-market-news/apple-cerca-piu-forniture-per-iphone-duo-forte-domanda-per-il-primo-foldable-3604993",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-25T23:40:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+      },
+      {
+        "title": "San Marino fa le pulizie bancarie e si apre al mercato unico Ue",
+        "link": "https://www.repubblica.it/economia/2026/10/26/news/san_marino_accordo_ue_banche_mercato_unico-425669362/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-25T23:00:00.000Z",
+        "excerpt": "Tomasetti (presidente Banca centrale San Marino): “Accesso graduale ma nostro obiettivo è accorciare i tempi”. Vivoli (dg Bcsm): “Con l’Europa grande opportunità e stimolo a consolidare credibilità e competitività”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/23/110054100-bdd450b2-ac2a-449e-bf4b-ab139f064c4c.jpg"
+      },
       {
         "title": "Lmdv Media due diligence su Seif per Opa. Soci maggioranza non cedono quote",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/25/lmdv-media-avvia-due-diligence-su-societa-editoriale-il-fatto-per-opa_49bbeaad-86d1-4f54-9ec6-f1574dcd41b1.html",
@@ -64,7 +88,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-25T15:27:32.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPED8K13A_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPED8K13A_M.jpg"
       },
       {
         "title": "Movimento 17 ottobre, Siher accusato di terrorismo. Telegram si svuota, l’ipotesi delle chat su Signal",
@@ -171,14 +195,6 @@
         "image": "https://content-media.investing.com/news/LYNXMPEB2N09U_M.jpg"
       },
       {
-        "title": "Il Bologna cresce e domina nella ripresa: 2-0 a Cagliari per i rossoblù di Palladino",
-        "link": "https://bologna.repubblica.it/sport/2026/10/24/news/cagliari_bologna_risultato-425672699/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-25T09:41:10.000Z",
-        "excerpt": "La sblocca Casale di testa, raddoppia Bernardeschi su rigore: sardi inerti",
-        "image": "https://www.repstatic.it/content/localirep/img/rep-bologna/2026/10/24/165930027-8fe0323d-4cc0-4d0d-917c-b2bfb41fdc4f.jpg"
-      },
-      {
         "title": "Goldman Sachs taglia del 25% il target sul Kospi per i timori sull’AI",
         "link": "https://it.investing.com/news/stock-market-news/goldman-sachs-taglia-del-25-il-target-sul-kospi-per-i-timori-sullai-3604876",
         "source": "Investing.com Italia",
@@ -216,7 +232,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-25T07:49:40.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM5A1IB_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
       },
       {
         "title": "Fisco, verso una nuova stretta su crediti d’imposta e società apri e chiudi",
@@ -233,14 +249,6 @@
         "pubDate": "2026-10-25T02:48:10.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEC9I0KP_M.jpg"
-      },
-      {
-        "title": "Le azioni cinesi sotto pressione mentre le previsioni sugli utili crollano",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-cinesi-sotto-pressione-mentre-le-previsioni-sugli-utili-crollano-3604842",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-25T01:37:10.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB7U0BG_M.jpg"
       }
     ],
     "europa": [
@@ -376,6 +384,86 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Brasile, il trionfo di Lula che rimonta su Bolsonaro: la destra fallisce l’assalto",
+        "link": "https://www.repubblica.it/esteri/2026/10/26/news/brasile_trionfo_lula_rimonta_su_bolsonaro_la_destra_fallisce_l_assalto-425675316/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-26T00:25:32.000Z",
+        "excerpt": "Il presidente confermato con il 51%. Spoglio rinviato di ore per le code ai seggi. Ma la sfida all’ultimo voto tra i due candidati non sana le divisioni del Paese",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/012344781-867bd08b-282b-44be-bb87-6779841edea8.jpg"
+      },
+      {
+        "title": "Lula rieletto presidente del Brasile",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/26/lula-rieletto-presidente-del-brasile_ecfd4be2-c275-4e06-95aa-992c12eb414e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-26T00:22:41.000Z",
+        "excerpt": "L'anziano leader a quasi 81 anni ha battuto il trumpiano Flavio Bolsonero",
+        "image": null
+      },
+      {
+        "title": "La disfatta di Flávio che sognava il potere nel nome del padre",
+        "link": "https://www.repubblica.it/esteri/2026/10/26/news/brasile_flavio_bolsonaro_amiglia_il_clan_nero_mette_le_mani_sul_paese-425675127/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-26T00:09:59.000Z",
+        "excerpt": "Scelto dall’ex presidente golpista Jair, prometteva liberismo, conservatorismo religioso e autoritarismo penale. Ma non ha convinto",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/225136205-5a86300e-f979-4087-b99d-50dc15a4b2b5.jpg"
+      },
+      {
+        "title": "Proiezione di Datafolha: 'Lula ha vinto'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/26/proiezione-di-datafolha-lula-ha-vinto_bfb0b5db-14dc-4ec8-a0ef-56ce83fd3dea.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-26T00:07:25.000Z",
+        "excerpt": "Tradizionalmente annuncia il risultato prima del dato ufficiale",
+        "image": null
+      },
+      {
+        "title": "Pesce, petrolio e diritti: la tentazione dell’Alaska è far deragliare Trump",
+        "link": "https://www.repubblica.it/esteri/2026/10/26/news/pesce_petrolio_e_diritti_la_tentazione_dell_alaska_e_far_deragliare_trump-425674962/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-26T00:00:00.000Z",
+        "excerpt": "Da sempre feudo repubblicano, lo Stato dell’Artico si sta riposizionando. In prima fila i nativi, che denunciano: “Ci trattano come gli ebrei, vogliono sottrarci gas e terre rare”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/205015585-a6e8948c-e783-4379-903c-e1602429dde6.jpg"
+      },
+      {
+        "title": "Lula, la vita e la vittoria epica dell’ultimo baluardo della sinistra sudamericana",
+        "link": "https://www.repubblica.it/esteri/2026/10/26/news/brasile_lula_la_settima_fatica_dell_ultimo_baluardo_della_sinistra_latina-425675131/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-26T00:00:00.000Z",
+        "excerpt": "Ha chiuso la campagna saltando, per dimostrare di avere ancora le energie. Ma la democrazia è sotto assedio",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/225128260-955b6bd7-e9d9-4911-9599-bb979f0f5751.jpg"
+      },
+      {
+        "title": "Israele, la carta finale Netanyahu: “Ecco Tel Aviv dopo l’atomica”",
+        "link": "https://www.repubblica.it/esteri/2026/10/26/news/israele_elezioni_netanyahu_agita_fantasma_bomba_atomica_iraniana_su_voto-425675027/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-26T00:00:00.000Z",
+        "excerpt": "Bibi fa circolare una foto fatta con l’intelligenza artificiale di un fungo nucleare e convoca Ben Gvir per “garantire la sicurezza” alle urne. Domani si vota",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/212252825-a7b64717-963c-48d5-a48e-feb3c8d83cfc.jpg"
+      },
+      {
+        "title": "Sánchez “Contro mia moglie il fango dell’ultradestra. Su Ceuta troppe fake news”",
+        "link": "https://www.repubblica.it/esteri/2026/10/26/news/intervista_pedro_sanchez_la_destra_al_potere_riporterebbe_la_spagna_indietro_di_cinquant_anni-425674904/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-26T00:00:00.000Z",
+        "excerpt": "Il capo del governo di Madrid ha concesso un’intervista a El País a cinque settimane dal voto anticipato",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/202549548-68a1cf6f-8982-46e5-af87-cb9624afd186.jpg"
+      },
+      {
+        "title": "Il direttore di Hareetz: “Guerra permanente o diplomazia, la sfida fra Bibi e Eisenkot è praticamente un referendum”",
+        "link": "https://www.repubblica.it/esteri/2026/10/26/news/intervista_direttore_hareetz_israele_elezioni_sfida_netanyahu_eisenkot_referendum_tra_guerra_permanente_o_diplomazia-425674706/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-26T00:00:00.000Z",
+        "excerpt": "Aluf Benn: “Se l’opposizione dovesse farcela, non aspettatevi una svolta immediata nei rapporti coi palestinesi. Ma i due uomini sono diversissimi”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/185327707-7ad7074b-7dd3-403d-bba2-f18974a3d334.jpg"
+      },
+      {
+        "title": "I prezzi del petrolio sono scesi di quasi $1 nei primi scambi",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-25T23:30:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9O0S9_L.jpg"
+      },
+      {
         "title": "Elezioni in Serbia, la Lista degli studenti fa la storia e batte il nazionalista filorusso Vucic",
         "link": "https://www.repubblica.it/esteri/2026/10/25/news/elezioni_in_serbia_la_lista_degli_studenti_vince_contro_nazionalista_vucic-425675058/?rss",
         "source": "Repubblica Esteri",
@@ -398,14 +486,6 @@
         "pubDate": "2026-10-25T20:42:00.000Z",
         "excerpt": "Abbiamo 100 seggi, 130 gli Studenti. In strada clima di festa e esultanze",
         "image": null
-      },
-      {
-        "title": "La premier marocchina sfida il partito islamico: “Sono la signora premier, dovete farci l’abitudine”",
-        "link": "https://www.repubblica.it/esteri/2026/10/25/news/premier_marocco_fatima_ezzahra_el_mansouri_sfida_partito_islamico-425674224/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-25T20:10:40.000Z",
-        "excerpt": "Fatima Ezzahra El Mansouri, prima donna a capo del governo, attacca i conservatori sui diritti e il rispetto delle donne: “Non sono un lampadario, ma un cervello, una coscienza, delle convinzioni e una battaglia\"",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/122201286-9b0332af-ec1e-46b2-a465-98efa9a42196.jpg"
       },
       {
         "title": "Bulgaria, Yotova vince il primo turno ma si va al ballottaggio",
@@ -440,76 +520,12 @@
         "image": null
       },
       {
-        "title": "Venezuela, Machado: “Sono tornata”. L’annuncio dopo quasi un anno di esilio, Trump: “Spero sia al sicuro”",
-        "link": "https://www.repubblica.it/esteri/2026/10/25/news/venezuela_machado_sono_tornata_annuncio_leader_opposizione_dopo_un_anno_esilio-425674585/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-25T18:17:05.000Z",
-        "excerpt": "La leader dell’opposizione e Premio Nobel per la Pace 2025 su X: “Sono qui. Con Voi”. Rubio. “Le condizioni per il rientro sono state create dagli Usa”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/173052419-034c2287-50a0-417a-92f0-de11571c99d4.jpg"
-      },
-      {
         "title": "Trump, 'Obama presidente incompetente e ora sostiene un jihadista anti-semita'",
         "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/25/trump-obama-presidente-incompetente-e-ora-sostiene-un-jihadista-anti-semita_71919edf-b005-4631-95fd-8edc4dd6864b.html",
         "source": "ANSA Mondo",
         "pubDate": "2026-10-25T18:09:26.000Z",
         "excerpt": "'El-Sayed un finto medico che gestisce la peggior clinica d'America'",
         "image": null
-      },
-      {
-        "title": "Dall’atomica di Bibi a Ben Gvir-genio di Aladino: così l’IA sta manipolando il voto in Israele",
-        "link": "https://www.repubblica.it/esteri/2026/10/25/news/israele_elezioni_intelligenza_artificiale_netanyahu_ben_gvir-425674350/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-25T18:05:35.000Z",
-        "excerpt": "Per la Open University of Israel il 13 per cento dei contenuti pubblicati da politici e partiti durante la campagna elettorale è stato creato con l’intelligenza artificiale. Di questi il 70 per cento proviene dal Likud d",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/134337536-c09d4dd0-f56e-42cf-8930-646a6972e587.jpg"
-      },
-      {
-        "title": "La premio Nobel Machado torna in Venezuela dopo dieci mesi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/25/la-premio-nobel-machado-torna-in-venezuela-dopo-dieci-mesi_5e7fe194-a6eb-407f-97d9-d5bd0891ac76.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-25T17:57:14.000Z",
-        "excerpt": "La leader dell'opposizione annuncia il rientro sui social: 'Sono qui con voi'",
-        "image": null
-      },
-      {
-        "title": "Media, 'scontro fra bus e auto vicino Barcellona, 40 feriti di cui 20 gravi'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/media-scontro-fra-bus-e-auto-vicino-barcellona-40-feriti-di-cui-20-gravi_030b7a7a-6211-4bae-b74c-7976d0118bea.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-25T17:55:05.000Z",
-        "excerpt": "Dopo l'impatto il pullman è precipitato lungo un terrapieno per circa 20 metri",
-        "image": null
-      },
-      {
-        "title": "Perché la neutrale Svizzera si scontra sulle armi",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/10/25/news/svizzera_referendum_esportazione_armi_scontro-425674296/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-25T15:39:32.000Z",
-        "excerpt": "In vista di un referendum il 29 novembre – racconta il quotidiano elvetico Tribune de Genève – la destra e il mondo imprenditoriale sostengono la riforma che allenta le restrizioni sull’esportazione di armamenti anche a ",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/130652977-1bbdfd1f-66b2-48ad-a335-9716f0d681bf.jpg"
-      },
-      {
-        "title": "Come ci prepariamo alla nuova guerra degli abissi. “Potremmo subire attacchi di massa sott’acqua”",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/10/25/news/profondita_mare_attacchi_di_massa_nuova_guerra_abissi-425674416/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-25T14:39:51.000Z",
-        "excerpt": "L’ex comandante francese Cédric Chetail racconta al quotidiano Le Figaro le minacce destinate a trasformare gli scontri nelle profondità marine: “Nell’immensità degli oceani, il nemico può nascondersi ovunque”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/150137429-023207c0-51e8-425f-a2c2-9ecf706baf4c.jpg"
-      },
-      {
-        "title": "I cinque favori di Trump a Putin",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/10/25/news/i_cinque_favori_di_trump_a_putin-425674370/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-25T13:11:47.000Z",
-        "excerpt": "Il presidente americano vuole mettere fine alla guerra a modo suo, spingendo l’Ucraina verso la capitolazione, scrive il quotidiano tedesco Welt. Alimenta le casse di Putin e ostacola gli aiuti a Zelensky. Anatomia di un",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/141130379-8347dd13-d5e3-48ad-9ed9-4ccb5b307746.jpg"
-      },
-      {
-        "title": "“L’età dell’oro in Israele non tornerà neanche con la sconfitta di Netanyahu. Serve cambio radicale”",
-        "link": "https://www.repubblica.it/esteri/2026/10/25/news/israele_scrittrice_sarai_shavit_netanyahu_elezioni-425674284/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-25T12:00:20.000Z",
-        "excerpt": "L’intervento della scrittrice israeliana Sarai Shavit che analizza gli scenari del voto del 27 ottobre. “Alla prova della realtà odierna, è davvero possibile dire al governo di Bibi addio e non arrivederci?”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/25/130005594-9168a7e6-49c7-4460-a1b6-8b5d07d2deaf.jpg"
       },
       {
         "title": "Il partito conservatore vince le prime elezioni in quasi un secolo nella Columbia Britannica",
@@ -558,40 +574,48 @@
         "pubDate": "2026-10-24T16:06:41.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9N0H9_L.jpg"
-      },
-      {
-        "title": "Il Pezeshkian iraniano incolpa gli Stati Uniti per il fallimento dell'accordo ad interim, sollecita un nuovo tentativo",
-        "link": "https://www.investing.com/news/commodities-news/irans-pezeshkian-blames-us-for-interim-deal-failure-urges-new-try-4970834",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-24T13:30:57.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9N0BU_L.jpg"
       }
     ]
   },
   "attualita": [
     {
+      "title": "Brasile, Lula rieletto presidente",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/25/il-brasile-al-voto-lultimo-sondaggio-bolsonaro-in-lieve-vantaggio-su-lula_56cc4597-7350-4738-9bed-c5925ac6574d.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-26T00:21:49.000Z",
+      "excerpt": "Lo rende noto la Corte elettorale che aveva prorogato il voto di due ore",
+      "image": null
+    },
+    {
       "title": "F1: Antonelli vince ad Austin, il Mondiale sempre più vicino",
       "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/antonelli-vince-ad-austin-il-mondiale-e-a-un-passo_e75bf53d-214a-44e7-9fae-da5ded693b7a.html",
       "source": "ANSA",
-      "pubDate": "2026-10-25T21:58:19.000Z",
+      "pubDate": "2026-10-25T23:32:58.000Z",
       "excerpt": "Precede Leclerc e Verstappen, in Messico la gara per il titolo",
       "image": null
     },
     {
-      "title": "Inter folle rimonta, è in testa con la Lazio. Milan e Juve ripartono",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/25/inter-folle-rimonta-e-in-testa-con-la-lazio.-milan-e-juve-ripartono_48165f49-25f1-4256-b483-815a22d32165.html",
+      "title": "Gli studenti vincono le elezioni in Serbia, lo annuncia lo sconfitto Vucic",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/25/gli-studenti-vincono-le-elezioni-in-serbia-lo-annuncia-lo-sconfitto-vucic_87f3828a-9352-4958-a756-d408a61a1bd3.html",
       "source": "ANSA",
-      "pubDate": "2026-10-25T21:56:39.000Z",
-      "excerpt": "Pari show con 8 gol tra Atalanta e Frosinone, sorride il Genoa di De Rossi",
+      "pubDate": "2026-10-25T22:59:06.000Z",
+      "excerpt": "Studentska lista avrebbe maggioranza assoluta. E in tutto il Paese esplode la festa",
       "image": null
     },
     {
-      "title": "Gli studenti vincono le elezioni in Serbia, lo annuncia lo sconfitto Vucic",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/25/in-serbia-affluenza-in-forte-aumento-alle-urne-irregolarita-e-incidenti-a-seggi.-presidenziali_87f3828a-9352-4958-a756-d408a61a1bd3.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-25T21:26:25.000Z",
-      "excerpt": "Studentska lista avrebbe maggioranza assoluta. E in tutto il Paese esplode la festa",
+      "title": "Clasico alla Mbappé: Il Real Madrid vince 2-1 a Barcellona e resta aggrappato alla Liga",
+      "link": "https://www.repubblica.it/sport/calcio/2026/10/25/news/barcellona_real_madrid_gol_mbappe-425675261/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-25T22:48:44.000Z",
+      "excerpt": "Il francese con una doppietta zittisce il Camp Nou, Mourinho a -3 dalla capolista. Di Raphinha il provvisorio pari blaugrana",
+      "image": null
+    },
+    {
+      "title": "Il Milan vince 2-0 a Udine e aggancia la Roma al 2° posto",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/25/news/udinese_milan_gol-425675214/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-25T22:18:30.000Z",
+      "excerpt": "Pulisic nel primo tempo e Hutchinson nella ripresa regalano ai rossoneri tre punti di grande importanza. Friulani alla sesta sconfitta in fila",
       "image": null
     },
     {
@@ -619,11 +643,11 @@
       "image": null
     },
     {
-      "title": "Youssef Siher, le accuse: “Il suo era un progetto eversivo, voleva diffondere terrore tra la gente”",
+      "title": "Il piano eversivo di Youssef Siher: “Voleva terrorizzare l’Italia. Rischio fuga, resti in carcere”",
       "link": "https://milano.repubblica.it/cronaca/2026/10/25/news/youssef_siher_accuse_procura_progetto_eversivo_diffondere_terrore_contro_governo_movimento_17_ottobre-425675020/",
       "source": "Repubblica",
       "pubDate": "2026-10-25T20:19:15.000Z",
-      "excerpt": "Per la procura l’uomo aveva pubblicato sui social un manuale, ispirato da quello della Rivoluzione egiziana del 2011, per “organizzare una mobilitazione collettiva di disobbedienza civile contro il Governo Meloni”",
+      "excerpt": "Solo lui e la moglie al timone della chat 1710. Faro sui legami con gli hacker filorussi Noname. Il rifiuto di dare le password del cellulare e il manuale del rivoluzionario contro il governo",
       "image": null
     },
     {
@@ -635,35 +659,19 @@
       "image": null
     },
     {
-      "title": "Elezioni Brasile, ballottaggio Lula-Bolsonaro. La Corte suprema proroga di due ore la chiusura dei seggi",
+      "title": "Elezioni Brasile, i risultati in diretta. Datafolha: “Lula ha vinto”. Scrutinio all’85%",
       "link": "https://www.repubblica.it/esteri/2026/10/25/diretta/elezioni_brasile_ballottaggio_lula_bolsonaro_risultati_diretta-425674831/",
       "source": "Repubblica",
       "pubDate": "2026-10-25T19:03:45.000Z",
-      "excerpt": "La decisione dei giudici dopo le richieste dei due candidati di estendere l’orario per recarsi a votare a causa dei problemi legati al maltempo. Sono 158,7 milioni gli elettori chiamati al voto. Si profila un testa a tes",
+      "excerpt": "I giudici hanno prorogato di due ore la chiusura delle urne dopo le richieste dei due candidati di estendere l’orario per recarsi a votare a causa dei problemi legati al maltempo. Sono 158,7 milioni gli elettori chiamati",
       "image": null
     },
     {
-      "title": "Manchester United, il declino inesorabile: altra sconfitta in Premier. E Conte è pronto",
-      "link": "https://www.repubblica.it/sport/calcio/esteri/2026/10/25/news/antonio_conte_manchester_united_sconfitta_esonero_carrick-425674785/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-25T18:37:50.000Z",
-      "excerpt": "Battuto anche in casa 0-3 dal Bournemouth è sedicesimo in classifica, con appena sette punti. Carrick è amato dai tifosi, ma sempre più in bilico",
-      "image": null
-    },
-    {
-      "title": "La Russa querela la storica Ponzani: “Nessuna responsabilità nella morte dell’agente Marino nel ‘73”",
+      "title": "La Russa querela la storica Ponzani per una citazione sui fatti di piazza del ‘73. Pd-5s: ci ripensi",
       "link": "https://www.repubblica.it/politica/2026/10/25/news/la_russa_querela_storica_michela_ponzani_giovedi_nero_morte_agente_marino-425674734/",
       "source": "Repubblica",
       "pubDate": "2026-10-25T18:14:55.000Z",
-      "excerpt": "Il presidente del Senato ha deciso di adire le vie legali per un intervento della professoressa a Otto e mezzo a proposito del Giovedì nero di Milano. La solidarietà dell’opposizione",
-      "image": null
-    },
-    {
-      "title": "Presunta frase di favoritismi alla Roma, Allegri rischia intervento della Procura Figc",
-      "link": "https://www.repubblica.it/sport/calcio/2026/10/25/news/presunta_frase_contro_roma_allegri_rischia_procura_figc-425674730/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-25T18:12:49.000Z",
-      "excerpt": "Il tecnico del Napoli avrebbe gridato dopo il pari del Maradona una franse del tipo: l'anno scorso gli hanno messo la Champions in tasca. Sempre loro\"",
+      "excerpt": "Il presidente del Senato ha deciso di adire le vie legali per un intervento della professoressa a Otto e mezzo a proposito del Giovedì nero di Milano e dell’uccisione dell’agente Marino: “Nessuna responsabilità”. La soli",
       "image": null
     },
     {
@@ -701,6 +709,14 @@
   ],
   "sport": [
     {
+      "title": "F1: Antonelli vince ad Austin, il Mondiale sempre più vicino",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/antonelli-vince-ad-austin-il-mondiale-e-a-un-passo_e75bf53d-214a-44e7-9fae-da5ded693b7a.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-25T23:32:58.000Z",
+      "excerpt": "Precede Leclerc e Verstappen, in Messico la gara per il titolo",
+      "image": null
+    },
+    {
       "title": "Liga: il Real batte il Barca al Camp Nou",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/25/liga-il-real-batte-il-barca-al-camp-nou_00d1af8a-1687-4902-b046-21670c7a7317.html",
       "source": "ANSA Sport",
@@ -730,14 +746,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-10-25T21:59:42.000Z",
       "excerpt": "Un gol per tempo di Pulisic e Hutchinson, sesta sconfitta consecutiva per i friulani",
-      "image": null
-    },
-    {
-      "title": "F1: Antonelli vince ad Austin, il Mondiale sempre più vicino",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/antonelli-vince-ad-austin-il-mondiale-e-a-un-passo_e75bf53d-214a-44e7-9fae-da5ded693b7a.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-10-25T21:58:19.000Z",
-      "excerpt": "Precede Leclerc e Verstappen, in Messico la gara per il titolo",
       "image": null
     },
     {
