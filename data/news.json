@@ -1,7 +1,39 @@
 {
-  "lastUpdated": "2026-10-26T22:59:55.060Z",
+  "lastUpdated": "2026-10-27T01:58:07.128Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Le azioni SK Hynix ai massimi di due settimane su ipotesi dividendo da $12 miliardi",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-sk-hynix-ai-massimi-di-due-settimane-su-ipotesi-dividendo-da-12-miliardi-3607252",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-27T01:35:11.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
+        "title": "SPACCircle Acquisition quota la sua IPO da $100M sul Nasdaq",
+        "link": "https://it.investing.com/news/stock-market-news/spaccircle-acquisition-quota-la-sua-ipo-da-100m-sul-nasdaq-432SI-3607248",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-27T01:24:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
+      },
+      {
+        "title": "Perché il titolo SK Hynix sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-sk-hynix-sta-salendo-oggi-93CH-3607242",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-27T00:44:53.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
+      },
+      {
+        "title": "Borsa: Tokyo, apertura in rialzo (+0,44%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/27/borsa-tokyo-apertura-in-rialzo-044_e8578d9d-f16b-4423-ac69-08b1a22c2e69.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-27T00:24:32.000Z",
+        "excerpt": "Titoli AI e semiconduttori tentano recupero. Attesa trimestrali aziendali",
+        "image": null
+      },
       {
         "title": "Pimco acquista $4 miliardi del pacchetto di debito AI di SpaceX",
         "link": "https://it.investing.com/news/stock-market-news/pimco-acquista-4-miliardi-del-pacchetto-di-debito-ai-di-spacex-93CH-3607191",
@@ -41,30 +73,6 @@
         "pubDate": "2026-10-26T21:24:56.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg"
-      },
-      {
-        "title": "Le azioni di Boost Run salgono sull’implementazione dell’infrastruttura AI",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-boost-run-salgono-sullimplementazione-dellinfrastruttura-ai-3607146",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-26T21:10:15.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM380VB_1200_L.jpg"
-      },
-      {
-        "title": "HyProMag USA pianifica tre nuovi impianti per quadruplicare la capacità",
-        "link": "https://it.investing.com/news/stock-market-news/hypromag-usa-pianifica-tre-nuovi-impianti-per-quadruplicare-la-capacita-negli-usa-3607139",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-26T21:05:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEA960IM_M.jpg"
-      },
-      {
-        "title": "Perché il titolo JetBlue Airways è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-jetblue-airways-e-in-forte-rialzo-oggi-93CH-3607131",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-26T21:04:59.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEE6A0CU_M.jpg"
       },
       {
         "title": "Pronto il nuovo pacchetto di aiuti militari a Kiev. Crosetto: «La linea dell’Italia sull’Ucraina non può cambiare»",
@@ -203,14 +211,6 @@
         "image": null
       },
       {
-        "title": "Borsa: Milano chiude in rialzo dell'1,29%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/26/borsa-milano-chiude-in-rialzo-dell129_a409dc9f-aa8b-4787-a223-af64613fea7e.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-26T16:52:15.000Z",
-        "excerpt": "L'ultimo indice Ftse Mib a 49.186 punti",
-        "image": null
-      },
-      {
         "title": "Istituzioni politiche e ricchezza delle nazioni, il premio Nobel James Robinson al Luiss Research Day",
         "link": "https://www.ilsole24ore.com/art/istituzioni-politiche-e-ricchezza-nazioni-premio-nobel-james-robinson-luiss-research-day-AJmcwiuB",
         "source": "Il Sole 24 Ore",
@@ -260,6 +260,14 @@
       }
     ],
     "europa": [
+      {
+        "title": "Dagli Usa proposta shock per l’Onu: «Orban segretario»",
+        "link": "https://www.ilsole24ore.com/art/dagli-usa-proposta-shock-l-onu-orban-segretario-AJ98NzuB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-27T01:12:16.000Z",
+        "excerpt": "Il Wall Street Journal: con l’ex premier ungherese anche Cina e Russia. A Budapest ha governato in modo antidemocratico, contro Ue e migranti",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/27/Immagini/Ritagli/06a2a70498663aad825acfd96ed2c3d5-U32073475634NVv-1440x752@IlSole24Ore-Web.jpg"
+      },
       {
         "title": "Perpetua Resources estende la scadenza del mandato ed entra nell'accordo di esplorazione del tungsteno",
         "link": "https://www.investing.com/news/sec-filings/perpetua-resources-extends-warrant-expiry-and-enters-tungsten-exploration-agreement-93CH-4973841",
@@ -379,32 +387,128 @@
         "pubDate": "2026-10-26T07:07:00.000Z",
         "excerpt": "In un lungo post sul suo social Truth, il presidente americano Donald Trump ha esortato i cittadini israeliani a votare per il suo alleato Benjamin Netanyahu alle elezioni in programma...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/27/Immagini/Ritagli/d14e9938c34ca92ce3040c0065f978a7-U31416611704Erd-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Brasile, vittoria storica di Lula contro il trumpiano Bolsonaro ma la Borsa crolla: -15%",
-        "link": "https://www.ilsole24ore.com/art/brasile-vittoria-storica-lula-battuto-trumpiano-bolsonaro-AJ4YlPuB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-26T05:58:00.000Z",
-        "excerpt": "L’ultima icona della Sinistra mondiale si conferma per la quarta volta presidente con il 51,74%. Lo sfidante annuncia ricorso",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/27/Immagini/Ritagli/LP_24884645-U36014333202gmf-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "usa": [],
     "mondo": [
       {
-        "title": "Tra i coloni che vogliono tornare a Gaza: “Aspettiamo che l’esercito israeliano apra i cancelli”",
-        "link": "https://www.repubblica.it/esteri/2026/10/26/news/coloni_israele_foresta_simhoni_insediamenti_striscia_gaza-425676878/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-26T22:27:35.000Z",
-        "excerpt": "Nell’avamposto a un chilometro dalla Striscia, gli estremisti di destra che si fanno chiamare i “Pionieri di Gaza” preparano il ritorno: “Vogliamo fondare sei colonie”. Per ora sono 700, ma più passano i giorni e più l’a",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/180000908-6d449658-25fa-4034-80f5-695a6df642b2.jpg"
+        "title": "Russia annuncia, 'al via la tregua umanitaria a Oleshky'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/27/russia-annuncia-al-via-la-tregua-umanitaria-a-oleshky_dcbfe7fb-aeb2-4bf2-ab14-bce634a36c96.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-27T01:37:49.000Z",
+        "excerpt": "'Cessate il fuoco nella regione di Kherson a partire dalle 4 orario di Mosca'",
+        "image": null
       },
       {
-        "title": "Lula trionfa in Brasile, Trump: 'Il voto è stato truccato ma lui mi piace'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/26/lula-trionfa-in-brasile-esplode-la-festa-ma-crollano-la-borsa-e-il-real_56cc4597-7350-4738-9bed-c5925ac6574d.html",
+        "title": "++ Brasile, il partito di Bolsonaro riconosce la vittoria di Lula ++",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/27/-brasile-il-partito-di-bolsonaro-riconosce-la-vittoria-di-lula-_21777964-2ff7-4d24-baa1-7961dd4eac88.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-26T22:12:11.000Z",
-        "excerpt": "Crolla la Borsa e s'impenna il dollaro. La polizia toglie i passaporti a Flavio Bolsonaro",
+        "pubDate": "2026-10-27T01:35:17.000Z",
+        "excerpt": "'Le questioni devono essere chiarite in un dibattito equilibrato e democratico'",
+        "image": null
+      },
+      {
+        "title": "L'oro scivola vicino a $4.010 mentre i trader attendono la decisione della Fed, la diplomazia iraniana offre speranza",
+        "link": "https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-27T01:06:56.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC4I0Z1_M.jpg"
+      },
+      {
+        "title": "Haiti, la Forza anti-gang non si ferma dopo i rapimenti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/27/haiti-la-forza-anti-gang-non-si-ferma-dopo-i-rapimenti_f3914633-0e63-475c-b75c-a2e6e7fe43f3.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-27T01:01:40.000Z",
+        "excerpt": "Proseguono le ricerche di quattro militari salvadoregni",
+        "image": null
+      },
+      {
+        "title": "Messico, Sheinbaum punta all'intesa tra Pemex e Petrobras dopo il voto in Brasile",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/27/messico-sheinbaum-punta-allintesa-tra-pemex-e-petrobras-dopo-il-voto-in-brasile_4e6aa393-7828-4571-91e8-b29f5f777cb0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-27T00:49:50.000Z",
+        "excerpt": "La presidente auspica progetti congiunti ed elogia i giovani del Paese sudamericano",
+        "image": null
+      },
+      {
+        "title": "Il petrolio estende le perdite mentre gli sforzi di mediazione dell'Iran alleviano i timori di escalation",
+        "link": "https://www.investing.com/news/commodities-news/oil-extends-losses-as-iran-mediation-efforts-ease-escalation-fears-4973997",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-27T00:24:23.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEK4N0FY_L.jpg"
+      },
+      {
+        "title": "Dio, pistole e hamburger: i dem all’assalto del Texas per prendersi l’America",
+        "link": "https://www.repubblica.it/esteri/2026/10/27/news/dio_pistole_hamburger_i_dem_all_assalto_del_texas_per_prendersi_america-425677239/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-27T00:00:00.000Z",
+        "excerpt": "I democratici provano a vincere qui un seggio al Senato dopo 38 anni con James Talarico, star moderata con ambizioni presidenziali",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/202427547-71266f20-5315-4ed4-a4c2-72eb177c49d0.jpg"
+      },
+      {
+        "title": "Brasile, il rischio di un Paese reso ingovernabile da politica e mercati",
+        "link": "https://www.repubblica.it/esteri/2026/10/27/news/brasile_rischio_di_un_paese_reso_ingovernabile_da_politica_e_mercati-425677617/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-27T00:00:00.000Z",
+        "excerpt": "Al primo turno la destra ha ottenuto la maggioranza in Parlamento: il timore che la nazione resti ferma senza le riforme necessarie",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/230318518-c5cf22c9-e805-4242-98c1-77c3364d0ecb.jpg"
+      },
+      {
+        "title": "Brasile in festa per Lula ma Bolsonaro non s’arrende: “Il voto è da annullare”",
+        "link": "https://www.repubblica.it/esteri/2026/10/27/news/brasile_in_festa_per_lula_ma_bolsonaro_non_s_arrende_voto_da_annullare-425677552/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-27T00:00:00.000Z",
+        "excerpt": "Tensione dopo il ballottaggio, ritirati i passaporti al rivale del presidente. Trump: “Risultato terribile, elezioni truccate”. Crollano Borsa e real",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/221510165-5eb16a97-e171-482b-8494-2ddadff8f782.jpg"
+      },
+      {
+        "title": "Oggi le elezioni in Israele: “Bibi ha cercato di farle rimandare”",
+        "link": "https://www.repubblica.it/esteri/2026/10/27/news/oggi_le_elezioni_in_israele_bibi_ha_cercato_di_farle_rimandare-425677518/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-27T00:00:00.000Z",
+        "excerpt": "Il premier ha spinto per riaccendere la guerra in l’Iran per far slittare il voto: “È stato fermato dagli Usa”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/220039722-bee068fd-3e80-4539-914f-b8895d584d7e.jpg"
+      },
+      {
+        "title": "Grossmann: “Israele scelga la speranza, è l’ultima possibilità”",
+        "link": "https://www.repubblica.it/esteri/2026/10/27/news/intervista_david_grossmann_scrittore_israele_scelga_la_speranza_e_l_ultima_possibilita-425677399/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-27T00:00:00.000Z",
+        "excerpt": "Lo scrittore: “Il Paese è così diviso che ci troviamo in una situazione in cui tutti perderanno. La democrazia è stata piegata, ora dobbiamo chiederci di che pasta siamo fatti: non siamo condannati a vivere e a morire di",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/211356676-8220fe1f-e116-49e6-8ffa-6a2a06760141.jpg"
+      },
+      {
+        "title": "La stella del volley Gabi: “La sfida più grande per il mio Paese sarà ricostruire la fiducia reciproca”",
+        "link": "https://www.repubblica.it/esteri/2026/10/27/news/intervista_gabi_pallavolo_la_sfida_piu_grande_per_brasile_sara_ricostruire_fiducia_reciproca-425677375/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-27T00:00:00.000Z",
+        "excerpt": "Gabriela Guimarães, pallavolista dell’Imoco Conegliano e capitana della Nazionale verdeoro, è felice del risultato: “Ma servirà il dialogo”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/210553456-a1c45e28-594f-48b0-bb49-f82117630e68.jpg"
+      },
+      {
+        "title": "L’enigma del dopo Vucic nella Serbia degli studenti: “Un governo di professori”",
+        "link": "https://www.repubblica.it/esteri/2026/10/27/news/l_enigma_del_dopo_vucic_nella_serbia_degli_studenti_un_governo_di_professori-425677262/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-27T00:00:00.000Z",
+        "excerpt": "I ragazzi felici hanno chiuso l’era dell’autocrate e adesso convocano le assemblee negli atenei per scegliere chi guiderà il Paese: “Ma non è un’accelerazione verso l’Ue”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/203204630-f08e931e-6161-466a-acf5-509f0d6a227b.jpg"
+      },
+      {
+        "title": "Janones, il re dei social dietro la vittoria di Lula: “Tra quattro anni il presidente sarà lui”",
+        "link": "https://www.repubblica.it/esteri/2026/10/27/news/janones_brasile_re_dei_social_dietro_la_vittoria_di_lula_tra_quattro_anni_il_presidente_sara_lui-425677153/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-27T00:00:00.000Z",
+        "excerpt": "Nato in un famiglia povera, il 40enne ha battuto la destra in rete. Ha una biografia simile a quella del leader e entrerà al governo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/195044700-4d935887-0cfe-4ff0-930b-fa2fdfb83fa3.jpg"
+      },
+      {
+        "title": "Trump, 'partito del presidente non ottiene di solito buoni risultati alle midterm'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/27/trump-partito-del-presidente-non-ottiene-di-solito-buoni-risultati-alle_4fb6b515-8452-4dd1-a45c-0885cd59b44a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-26T23:47:39.000Z",
+        "excerpt": "'Ma abbiamo girato in lungo e in largo, nessuno ha mai fatto campagna elettorale come me'",
         "image": null
       },
       {
@@ -414,14 +518,6 @@
         "pubDate": "2026-10-26T21:46:11.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEC1A050_M.jpg"
-      },
-      {
-        "title": "Pioggia di missili balistici su Kiev: l’allarme è scattato solo poco prima delle esplosioni",
-        "link": "https://www.repubblica.it/esteri/2026/10/26/news/pioggia_di_missili_balistici_su_kiev_allarme_scattato_solo_poco_prima_delle_esplosioni-425677491/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-26T20:54:11.000Z",
-        "excerpt": "Il sindaco della capitale ucraina: “Un ordigno è caduto nelle vicinanze della fermata della metropolitana”. Ci sarebbero vittime. Non è chiaro se ancora una volta gli americani non abbiano trasmesso le informazioni racco",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/215400554-2f85cd8f-4169-4a7f-a16a-b67af9bd1d9b.jpg"
       },
       {
         "title": "L'oro salta mentre l'allentamento dei prezzi del petrolio allenta i timori di inflazione",
@@ -472,14 +568,6 @@
         "image": null
       },
       {
-        "title": "Alta tensione in Israele, il giorno della verità per Netanyahu",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/26/alta-tensione-in-israele-il-giorno-della-verita-per-netanyahu_55f636c1-fde1-4c5f-bca9-8fdd5ef14022.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-26T19:40:44.000Z",
-        "excerpt": "Primo voto dopo il 7 ottobre, sette milioni alle urne per decidere il futuro del Paese",
-        "image": null
-      },
-      {
         "title": "Il gasolio di Londra si consolida nel range delle flatline AdX: Livelli live",
         "link": "https://www.investing.com/news/commodities-news/london-gas-oil-consolidates-in-triangle-at-key-support-live-levels-93CH-4971507",
         "source": "Investing.com Commodities",
@@ -494,104 +582,40 @@
         "pubDate": "2026-10-26T19:18:54.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEE0O1GP_M.jpg"
-      },
-      {
-        "title": "Test del gas naturale 61,8% Fib resistenza dopo V-bottom: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-rebounds-from-oversold-into-sma-resistance-live-levels-93CH-4971506",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-26T19:18:26.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEA950JT_M.jpg"
-      },
-      {
-        "title": "Il greggio WTI si avvicina al doppio massimo a $106,75 di resistenza: livelli live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-consolidates-below-10350-resistance-live-levels-93CH-4971501",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-26T19:18:16.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/Crudeoil_800x533_L_1629278488.jpg"
-      },
-      {
-        "title": "Usa, i dem pubblicano l’accusa di una donna contro Trump: “Mi violentò brutalmente dopo aver passato del tempo con Epstein”",
-        "link": "https://www.repubblica.it/esteri/2026/10/26/news/usa_i_dem_pubblicano_l_accusa_di_una_donna_contro_trump_mi_violento_brutalmente_dopo_aver_passato_del_tempo_con_epstein-425677094/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-26T18:32:28.000Z",
-        "excerpt": "Come scrive l’Huffington Post, i democratici stanno raccogliendo e verificando le testimonianze in vista di un possibile impeachment del presidente Usa dopo le midterm. Secondo il racconto della presunta vittima, il tyco",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/193216911-26f971f8-2853-400f-973d-f60201ba83d0.jpg"
-      },
-      {
-        "title": "Appello dell'Osa a misure preventive contro El Niño",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/26/appello-dellosa-a-misure-preventive-contro-el-nino_3fc96d9e-0427-427c-9ef9-c497bfba14d3.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-26T18:29:19.000Z",
-        "excerpt": "Necessario rafforzare cooperazione su tutela bacini idrici e interconnessioni elettriche",
-        "image": null
-      },
-      {
-        "title": "Commissione d'inchiesta Onu accusa Mosca di crimini contro l'umanita' in Ucraina",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/26/commissione-dinchiesta-onu-accusa-mosca-di-crimini-contro-lumanita-in-ucraina_60bc8290-0ffa-4881-839e-c5cbf076130c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-26T18:05:25.000Z",
-        "excerpt": "Per gli attacchi alle centrali e la tratta di esseri umani per rafforzare l'esercito",
-        "image": null
-      },
-      {
-        "title": "Dem pubblicano testimonianza shock, 'Trump mi violentò brutalmente nel '93'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/26/dem-pubblicano-testimonianza-shock-trump-mi-violento-brutalmente-nel-93_cf36521a-abcc-4324-b6e7-8f7f627b2236.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-26T17:56:46.000Z",
-        "excerpt": "In una camera del Plaza Hotel di Atlantic City dopo aver passato tempo con Epstein",
-        "image": null
-      },
-      {
-        "title": "Orbán segretario Onu, la pazza idea di Trump: anche Russia e Cina potrebbero dire sì",
-        "link": "https://www.repubblica.it/esteri/2026/10/26/news/orban_segretario_onu_trump_usa_russia_cina-425676956/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-26T17:27:31.000Z",
-        "excerpt": "L’ex leader sovranista ungherese conta sull’appoggio della Casa Bianca. Ma Francia e Regno Unito sarebbero pronti al veto",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/182602761-1bda68d2-6541-4995-a53b-8d04f0652406.jpg"
-      },
-      {
-        "title": "Brexit, il premier Burnham: “Voglio che il Regno Unito torni in Ue prima che muoia”",
-        "link": "https://www.repubblica.it/esteri/2026/10/26/news/brexit_burnham_voglio_che_regno_unito_torni_in_ue_prima_che_muoia-425676691/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-26T15:48:23.000Z",
-        "excerpt": "Il leader britannico lancia un altro indizio per il rientro di Londra nell’Unione e non esclude un secondo referendum. Ministri avvertiti: “Seguitemi sull’Europa o lasciate il governo”. Furia da Farage e dagli euroscetti",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/164812422-0608d00f-7784-437e-af92-41a979e9c2be.jpg"
-      },
-      {
-        "title": "L’ambasciatore cubano: “Sul voto all’Onu per la fine dell’embargo pressioni Usa. Grati all’Italia”",
-        "link": "https://www.repubblica.it/esteri/2026/10/26/news/ambasciatore_cubano_in_italia_voto_onu_per_fine_embargo_usa-425676660/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-26T15:32:03.000Z",
-        "excerpt": "L’Avana denuncia l’inasprimento delle sanzioni americane e il tentativo del Dipartimento di Stato di far cambiare posizione su questa risoluzione. L’appello di Jorge Luis Cepero Aguilar perché Roma mantenga la linea segu",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/163152651-095bd1ea-afed-49ae-9501-860187f8c250.jpg"
-      },
-      {
-        "title": "La festa del popolo di Lula in piazza. Ma Bolsonaro non si arrende: “Non rinuncerò al mio Brasile”",
-        "link": "https://www.repubblica.it/esteri/2026/10/26/news/festa_popolo_lula_vittoria_elezioni_presidente_bolsonaro_non_rinuncero_mio_brasile-425676630/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-26T15:22:29.000Z",
-        "excerpt": "Festeggiamenti nel paese per la vittoria alle elezioni. Il presidente eletto sa che dovrà governare con un Congresso dominato dal centrodestra, che ha vinto le legislative al primo turno, e promette di tenerne conto",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/162108389-f468321c-6834-4217-ae59-2479d93b0774.jpg"
-      },
-      {
-        "title": "Midterm, tutto quello che avreste voluto chiedere: venerdì 30 ottobre l’incontro online con i lettori",
-        "link": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/10/26/news/midterm_chiedi_a_rep-425676507/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-26T15:08:12.000Z",
-        "excerpt": "Marco Contini, vice caporedattore degli Esteri, spiegherà in diretta – rispondendo alle vostre domande – come funzionano le elezioni di metà mandato e che cosa cambia",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/26/155606103-49f23f80-28e0-48cb-85b2-da7de17eecdf.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Gli alleati stoppano Salvini su Kiev, tensioni anche sul voto anticipato",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/26/gli-alleati-stoppano-salvini-su-kiev-tensioni-anche-sul-voto-anticipato_b41eeca9-3f34-44c2-958c-91dbda471622.html",
+      "title": "++ Brasile, il partito di Bolsonaro riconosce la vittoria di Lula ++",
+      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/27/-brasile-il-partito-di-bolsonaro-riconosce-la-vittoria-di-lula-_949659dc-f451-4e8d-8b39-a51b39ef9e6d.html",
       "source": "ANSA",
-      "pubDate": "2026-10-26T22:15:38.000Z",
-      "excerpt": "Crosetto: la linea non cambia. Meloni seccata dalle parole del leghista al congresso",
+      "pubDate": "2026-10-27T01:34:59.000Z",
+      "excerpt": "'Le questioni devono essere chiarite in un dibattito equilibrato e democratico'",
+      "image": null
+    },
+    {
+      "title": "Lega, Salvini blinda la segreteria. Ancora dubbi su Zaia in squadra",
+      "link": "https://www.repubblica.it/politica/2026/10/27/news/lega_salvini_segreteria_zaia_congresso-425677512/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "excerpt": "Tra i delegati si parla di un pareggio con Garavaglia in Lombardia. Confermati vice Sardone e Durigon. E Matone passa a FI",
+      "image": null
+    },
+    {
+      "title": "De Siervo: “Un attentato alla Carta, la riforma elettorale mina la democrazia”",
+      "link": "https://www.repubblica.it/politica/2026/10/27/news/ugo_de_siervo_legge_elettorale_costituzione_intervista-425677481/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "excerpt": "L’ex giudice costituzionale: “La Corte? Mi pare che i difetti complessivi portino verso la necessaria demolizione del provvedimento”",
+      "image": null
+    },
+    {
+      "title": "Pallone d’oro, vince Harry Kane: è il primo inglese dal 2001. Battuti Mbappé e Yamal",
+      "link": "https://www.repubblica.it/sport/calcio/2026/10/27/news/pallone_oro_vince_harry_kane_battuti_mbappe_yamal-425677660/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-26T23:03:18.000Z",
+      "excerpt": "Successo dell’attaccante del Bayern Monaco",
       "image": null
     },
     {
@@ -651,30 +675,6 @@
       "image": null
     },
     {
-      "title": "Si assegna il Pallone d’Oro: la diretta",
-      "link": "https://www.repubblica.it/sport/calcio/2026/10/26/diretta/pallone_oro_vincitore_diretta-425676943/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-26T17:20:13.000Z",
-      "excerpt": "A Londra, inizio alle 21, viene assegnato in una premiazione che si presenta molto incerta, il massimo trofeo europeo per i calciatori",
-      "image": null
-    },
-    {
-      "title": "Ex Ilva, il sistema Morselli: “Dati truccati e nomine suggerite al ministero dell’Ambiente”",
-      "link": "https://bari.repubblica.it/cronaca/2026/10/26/news/sistema_morselli_ex_ilva_taranto_accuse_dati_truccati_nomine_suggerite_ministero_ambiente_vannia_gava-425676931/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-26T17:14:04.000Z",
-      "excerpt": "Nelle sedici pagine del decreto in cui il gip Francesco Maccagnano ha fissato gli interrogatori preventivi viene ricostruito l’impianto con cui i vertici avrebbero manipolato dati produttivi e cercato sponde nelle istitu",
-      "image": null
-    },
-    {
-      "title": "Tra i coloni che vogliono tornare a Gaza: “Aspettiamo che l’esercito israeliano apra i cancelli”",
-      "link": "https://www.repubblica.it/esteri/2026/10/26/news/coloni_israele_foresta_simhoni_insediamenti_striscia_gaza-425676878/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-26T17:00:14.000Z",
-      "excerpt": "Nell’avamposto a un chilometro dalla Striscia, gli estremisti di destra che si fanno chiamare i “Pionieri di Gaza” preparano il ritorno: “Vogliamo fondare sei colonie nel centro”. Per ora sono 700, ma più passano i giorn",
-      "image": null
-    },
-    {
       "title": "Svolta storica per Londra, il cuore di Oxford Street è pedonale",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/26/svolta-storica-per-londra-il-cuore-di-oxford-street-e-pedonale_9dc8bd25-b396-445b-8919-fa5db540a248.html",
       "source": "ANSA",
@@ -717,11 +717,11 @@
   ],
   "sport": [
     {
-      "title": "Pallone d'oro, Herry Kane é il vincitore dell'edizione 2026",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/26/pallone-doro-herry-kane-e-il-vincitore-delledizione-2026_510822b0-f4c0-4722-80ea-f0097bd53971.html",
+      "title": "Kane vince il Pallone d'Oro, Putellas regina del calcio femminile",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/kane-vince-il-pallone-doro-putellas-regina-del-calcio-femminile_510822b0-f4c0-4722-80ea-f0097bd53971.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-26T22:56:59.000Z",
-      "excerpt": "Paris Saint Germain miglior club maschile",
+      "pubDate": "2026-10-26T23:08:13.000Z",
+      "excerpt": "E' il primo inglese dopo Owen, la Spagna e il Barcellona fanno incetta",
       "image": null
     },
     {
