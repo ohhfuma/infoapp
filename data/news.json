@@ -1,54 +1,254 @@
 {
-  "lastUpdated": "2026-10-28T08:54:50.891Z",
+  "lastUpdated": "2026-10-28T15:41:43.738Z",
   "finanza": {
     "italia": [
       {
-        "title": "Adinolfi torna ai domicili, accolta l’istanza di scarcerazione",
+        "title": "Borsa Milano, Stellantis accelera ulteriormente, sale oltre 14%",
+        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-stellantis-accelera-ulteriormente-sale-oltre-14-3612199",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T15:24:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1TC_L.jpg"
+      },
+      {
+        "title": "Banca del Canada alza tassi a 2,5%, apre la strada a ulteriori rialzi",
+        "link": "https://it.investing.com/news/stock-market-news/banca-del-canada-alza-tassi-a-25-apre-la-strada-a-ulteriori-rialzi-3612197",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T15:24:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1TG_L.jpg"
+      },
+      {
+        "title": "Perché il titolo Visteon scivola ai minimi degli ultimi 52 settimane?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-visteon-scivola-ai-minimi-degli-ultimi-52-settimane-93CH-3612192",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T15:23:30.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg"
+      },
+      {
+        "title": "In manovra fondo previdenziale nuovi nati, 100 euro l'anno fino a 18 anni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/in-manovra-fondo-previdenziale-nuovi-nati-100-euro-lanno-fino-a-18-anni_bb3938d9-a068-4638-990e-a71e3f056db1.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-28T15:19:33.000Z",
+        "excerpt": "Da idea di Giorgetti, soddisfatto per condivisione alleati",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Chemed è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-chemed-e-in-forte-rialzo-oggi-93CH-3612189",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T15:19:01.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Clover Health sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-clover-health-sta-salendo-oggi-93CH-3612188",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T15:18:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+      },
+      {
+        "title": "Il titolo Visteon cala del 4% dopo l’annuncio dell’addio del CFO Jerome Rouquet",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-visteon-cala-del-4-dopo-lannuncio-delladdio-del-cfo-jerome-rouquet-3612179",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T15:12:48.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
+      },
+      {
+        "title": "UBS classifica i titoli dei fertilizzanti: prospettive positive per l’azoto",
+        "link": "https://it.investing.com/news/stock-market-news/ubs-classifica-i-titoli-dei-fertilizzanti-prospettive-positive-per-lazoto-3612175",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T15:09:19.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
+      },
+      {
+        "title": "Clover Health sale dopo che Needham avvia la copertura con Buy e target a $6",
+        "link": "https://it.investing.com/news/stock-market-news/clover-health-sale-dopo-che-needham-avvia-la-copertura-con-buy-e-target-a-6-3612170",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T15:08:14.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM4K17E_1200_L.jpg"
+      },
+      {
+        "title": "Manovra, in Cdm il taglio Irpef a 55mila euro. L'ipotesi di un aumento del contributo delle banche",
+        "link": "https://www.repubblica.it/economia/2026/10/28/news/manovra_cdm_meloni_misure_taglio_irpef_banche_bonus-425681765/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T15:06:32.000Z",
+        "excerpt": "Il governo prova a ripescare la misura, ma serve l’ok di Forza Italia sulle coperture extra a carico degli istituti di credito",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/153244334-f893d7e5-0149-454d-9435-133cf5ad9e23.jpg"
+      },
+      {
+        "title": "Intesa Sanpaolo, ogni euro per l'autonomia dei giovani ne genera più di 3",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/intesa-sanpaolo-ogni-euro-per-lautonomia-dei-giovani-ne-genera-piu_123cf808-3134-444c-8934-78a6bc441f16.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-28T15:00:01.000Z",
+        "excerpt": "Nel 2025 sostenute 179 progettualità per circa 40 milioni. Coinvolti 15mila giovani",
+        "image": null
+      },
+      {
+        "title": "Ryanair, stretta in aeroporto: valigie da consegnare un’ora prima del volo",
+        "link": "https://www.repubblica.it/economia/2026/10/28/news/ryanair_checkin_bagagli_aeroporto-425681829/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T14:58:34.000Z",
+        "excerpt": "Dal 10 novembre cambia la procedura per chi viaggia con bagagli da stiva. Chiusura dei banchi anticipata di venti minuti. Nessuna novità per chi ha già effettuato il check-in online e porta soltanto il bagaglio a mano. I",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/155722598-31dca459-0b6e-4edb-8f28-7b3251f66201.jpg"
+      },
+      {
+        "title": "Manovra, la mossa di Giorgetti: 100 euro all’anno nel salvadanaio dei nuovi nati per la pensione",
+        "link": "https://www.repubblica.it/economia/2026/10/28/news/giorgetti_100_euro_pensione_nuovi_nati-425681678/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T14:56:16.000Z",
+        "excerpt": "Il contributo sarà versato fino al compimento del diciottesimo anno di età. I fondi potranno essere utilizzati anche per le spese universitarie",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/145448990-8967458f-8e1f-428d-830a-d67131bce5c1.jpg"
+      },
+      {
+        "title": "Stop al bollo auto, l’estensione della platea in manovra: ma non sarà per tutti",
+        "link": "https://www.ilsole24ore.com/art/stop-bollo-auto-l-estensione-platea-manovra-ma-non-sara-tutti-AJH4XtwB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-28T14:56:00.000Z",
+        "excerpt": "La platea degli esonerati dal bollo auto nel 2027 verrà ampliata in manovra. E la direzione sembra quella di Fratelli d’Italia, in particolare del presidente della commissione Finanze alla Camera...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/70e46a6feb27f80615c6b02a556c2b85-U56376537315DTA-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Intesa Sanpaolo, ogni euro per l'autonomia dei giovani ne genera più di 3",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/intesa-sanpaolo-ogni-euro-per-lautonomia-dei-giovani-ne-genera-piu_9a07843a-00f2-4af2-a77d-896a67d4c533.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-28T14:42:52.000Z",
+        "excerpt": "Nel 2025 sostenute 179 progettualità per circa 40 milioni. Coinvolti 15mila giovani",
+        "image": null
+      },
+      {
+        "title": "Dal Cdm via libera alla legge di bilancio",
+        "link": "https://www.ilsole24ore.com/art/cdm-via-tavolo-manovra-ma-anche-decreto-bollette-AJ6Y6twB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-28T14:41:00.000Z",
+        "excerpt": "Via libera del Consiglio dei ministri al disegno di legge su “Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029”. Fra...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/Imagoeconomica_2264770-U35457114878Zqd-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Il gas supera i 100 euro, timori di una crisi energetica in Europa ",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/il-gas-supera-i-100-euro-timori-di-una-crisi-energetica-in-europa_33abb0b4-0d7b-4572-9cbd-1620a031c0a9.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-28T14:37:34.000Z",
+        "excerpt": "Si guarda al Medio Oriente e alla maggiore domanda nella stagione fredda",
+        "image": null
+      },
+      {
+        "title": "Il gas supera i 100 euro, timori di una crisi energetica in Europa",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/il-gas-supera-i-100-euro-timori-di-una-crisi-energetica-in-europa_5273d7e5-edf6-4052-9315-479524cdb210.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-28T14:33:43.000Z",
+        "excerpt": "Si guarda al Medio Oriente e alla maggiore domanda nella stagione fredda",
+        "image": null
+      },
+      {
+        "title": "I robot umanoidi pronti a sbarcare in fabbrica. Ecco L.U.C.A: “Entro Natale in 20 aziende”",
+        "link": "https://www.repubblica.it/economia/2026/10/28/news/luca_lutech_robot_umanoide-425681749/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T14:31:41.000Z",
+        "excerpt": "Lutech presenta il suo robot. L’azienda tech fornisce un “cervello” personalizzabile a seconda delle necessità delle imprese",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/152838351-127e4bc4-b065-482e-b927-de8c46ec145e.jpg"
+      },
+      {
+        "title": "Parmigiano Reggiano, Bontiamo investe nella filiera e acquisisce un caseificio",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/osservacibo/2026/10/28/news/parmigiano_reggiano_bontiamo_investe_nella_filiera_e_acquisisce_un_caseificio-425681760/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T14:30:35.000Z",
+        "excerpt": "L'azienda reggiana rafforza la produzione con l'acquisizione del caseificio di Gavasseto e Roncadella. Dal 2027 un nuovo sistema di premi per gli allevatori legato alla qualità del latte",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/153029256-7219d7f5-3fab-4130-a77b-1411638dbbee.jpg"
+      },
+      {
+        "title": "I profeti del codice: il nuovo podcast de Il Sole 24 Ore",
+        "link": "https://www.ilsole24ore.com/art/i-profeti-codice-nuovo-podcast-de-sole-24-ore-AJG1rfwB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-28T14:28:11.000Z",
+        "excerpt": "Debutta sulle piattaforme audio de Il Sole 24 Ore e 24Ore Podcast “I Profeti del Codice”, il nuovo podcast originale scritto e narrato da Natàlia Garcia Carbajo, una serie che...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/COVER_%20I%20PROFETI%20DEL%20CODICE_3000X3000-U61454621268lBn-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Ismea, 40 milioni per i frantoi a sostegno della filiera olivicola-olearia",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/ismea-40-milioni-per-i-frantoi-a-sostegno-della-filiera-olivicola-olearia_44e830b0-1b82-486a-b5f6-329f2d9ee48f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-28T14:17:38.000Z",
+        "excerpt": "Approvata dal Cda la misura 'Cambiale Frantoi Oleari'. Domande dal 5 al 20 novembre",
+        "image": null
+      },
+      {
+        "title": "Borsa: L'Europa in cauto rialzo con Wall Street, Milano +0,1%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/borsa-leuropa-in-cauto-rialzo-con-wall-street-milano-01_a3cdd9a6-9d87-4049-aad2-0fc73c4b42c2.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-28T13:55:02.000Z",
+        "excerpt": "In attesa della Fed e delle trimestrali dei big tecnologici",
+        "image": null
+      },
+      {
+        "title": "Wall Street apre positiva, Dj a +0,10% e Nasdaq a +0,33%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/wall-street-apre-positiva-dj-a-010-e-nasdaq-a-033_c57541b8-0ab3-45bc-b23b-7ccd8e0cab4b.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-28T13:42:12.000Z",
+        "excerpt": "L'S 500 in rialzo dello 0,20%",
+        "image": null
+      },
+      {
+        "title": "Nucleare, l'Italia riparte ma i costi restano un'incognita",
+        "link": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/10/28/news/nucleare_l_italia_riparte_ma_i_costi_restano_un_incognita-425681629/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T13:25:59.000Z",
+        "excerpt": "Il Politecnico di Milano analizza le prospettive dei piccoli reattori modulari: fino a 217 euro per MWh per il primo impianto. Una filiera industriale competitiva, ma servono investimenti, regole certe e consenso sui ter",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/142537887-bf8f9b94-a11f-4049-9764-43f33196a510.jpg"
+      },
+      {
+        "title": "Movimento 17 ottobre, Youssef Siher torna in libertà. Meloni: vergognoso",
+        "link": "https://www.ilsole24ore.com/art/fonti-legali-gip-milano-rimette-liberta-youssef-siher-AJwLQmwB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-28T12:08:00.000Z",
+        "excerpt": "Il gip Tiziana Landoni ha rigettato la richiesta di convalida del fermo: non ha incitato alla violenza",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/mvmgzkr7ih0fhj908m-U25416637360EOB-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Il gruppo alberghiero globale Bwh diventa Worldhotels, un unico marchio per oltre 4.000 strutture",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/osserva-viaggi/2026/10/28/news/il_gruppo_alberghiero_globale_bwh_diventa_worldhotels_un_unico_marchio_per_oltre_4000_strutture-425681405/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T11:56:58.000Z",
+        "excerpt": "Nuova identità globale e programma fedeltà unico ma senza cambiare il carattere degli hotel",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/125653894-3c9bc9db-a234-4200-83a4-a3b49ebb00d5.jpg"
+      },
+      {
+        "title": "Chi compra il vino dealcolato e chi lo frena: il mercato visto da Hofstätter",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/osservabeverage/2026/10/28/news/chi_compra_il_vino_dealcolato_e_chi_lo_frena_il_mercato_visto_da_hofstatter-425681397/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T11:56:11.000Z",
+        "excerpt": "La cantina altoatesina è impegnata in questa lavorazione dal 2020 e oggi rinnova la gamma con un nuovo prodotto. Per Martin Foradori Hofstätter il pubblico si è allargato ben oltre chi deve guidare, mentre una parte dell",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/125557396-54c5797d-73ec-4b9f-a5c4-3efedc27fe66.jpg"
+      },
+      {
+        "title": "Enti locali, contratto per 400mila: aumenti in busta paga da dicembre",
+        "link": "https://www.ilsole24ore.com/art/enti-locali-firma-definitiva-il-contratto-2025-2027-aumenti-dicembre-e-tredicesime-AJ4ngiwB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-28T11:34:00.000Z",
+        "excerpt": "Arriva la firma definitiva al contratto collettivo nazionale di lavoro del comparto Funzioni locali per il triennio 2025-2027, che riguarda 403.617 dipendenti di Regioni, enti locali, Camere di Commercio e...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/Imagoeconomica_2474037-U64821221521rID-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Meloni: «Artigiani beni culturali viventi, oggi la riforma in Cdm»",
+        "link": "https://www.ilsole24ore.com/art/meloni-artigiani-beni-culturali-viventi-oggi-riforma-cdm-AJZZucwB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-28T10:52:00.000Z",
+        "excerpt": "A poche ore dal Consiglio dei ministri che licenzierà la legge di bilancio per il 2027, l’ultima della legislatura, Giorgia Meloni interviene all’assemblea di Confartigianato. Ringraziando il presidente...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/LP_24875364-U56812133338PuO-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Adinolfi torna ai domiciliari, accolta l’istanza di scarcerazione",
         "link": "https://www.ilsole24ore.com/art/adinolfi-torna-domicili-accolta-l-istanza-scarcerazione-AJ4sCawB",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-28T08:53:27.000Z",
+        "pubDate": "2026-10-28T08:53:00.000Z",
         "excerpt": "Torna ai domiciliari Mario Adinolfi, accusato di truffa aggravata e continuata, esercizio abusivo dell’attività di raccolta del risparmio, abusivismo finanziario ed omessa dichiarazione dei redditi. Il gip di Roma ha...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/22/Immagini/Ritagli/d79e8a3ad7f98e2b7bbf6de937ab35ad-U22481218076VhC-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Unicredit, Pier Carlo Padoan lascerà presidenza al termine del mandato",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/padoan-lascera-presidenza-unicredit-al-termine-del-mandato_7a518dac-9f35-47ad-876a-477ab9501a9e.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T08:52:17.000Z",
-        "excerpt": "L'uscita per motivi personali. Collaborerà ad individuare un successore adeguato",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo Aena scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-aena-scende-oggi-93CH-3610307",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T08:49:11.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-      },
-      {
-        "title": "Traton: utili in linea con le attese, ordini sotto le stime",
-        "link": "https://it.investing.com/news/stock-market-news/traton-utili-in-linea-con-le-attese-ordini-sotto-le-stime-93CH-3610296",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T08:48:29.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
-      },
-      {
-        "title": "Nuovo taglio accise fino al 7 novembre, circa 4,9 centesimi sul gasolio",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/nuovo-taglio-accise-fino-al-7-novembre-circa-49-centesimi-sul-gasolio_f8364139-1c3f-4898-bff9-281ee4eca36d.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T08:45:37.000Z",
-        "excerpt": "Pubblicato in Gazzetta il decreto",
-        "image": null
-      },
-      {
-        "title": "Perché il titolo Danone è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-danone-e-in-rialzo-oggi-93CH-3610270",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T08:43:53.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg"
       },
       {
         "title": "Oggi manovra in Cdm, dal bonus elettrodomestici alla card sanitaria per gli over 75: cosa ci sarà",
@@ -57,209 +257,113 @@
         "pubDate": "2026-10-28T08:43:00.000Z",
         "excerpt": "Quasi tutte le tessere «sono andate a punto», la trattativa con l’Europa è conclusa e il testo della manovra è pronta al varo",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/9fed8f8d202136bb8b1dae9b7682695f-U38673316105lse-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Perché il titolo Deutsche Bank è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-deutsche-bank-e-in-rialzo-oggi-93CH-3610262",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T08:41:00.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_L.jpg"
-      },
-      {
-        "title": "Borsa Milano, avvio debole, attesa decisione Fed, bene tech, Stellantis",
-        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-avvio-debole-attesa-decisione-fed-bene-tech-stellantis-3610261",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T08:40:20.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R0QJ_L.jpg"
-      },
-      {
-        "title": "Perché il titolo DWS scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-dws-scende-oggi-93CH-3610253",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T08:39:00.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
-      },
-      {
-        "title": "+64% di rialzo potenziale: questo gigante finanziario scelto dall’IA ha registrato profitti record",
-        "link": "https://it.investing.com/news/stock-market-news/64-di-rialzo-potenziale-questo-gigante-finanziario-scelto-dallia-ha-registrato-profitti-record-3610263",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T08:38:14.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Stellantis è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-stellantis-e-in-rialzo-oggi-93CH-3610243",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T08:37:51.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
-      },
-      {
-        "title": "Mimit, via libera alla cessione dei siti Sanac di Massa, Gattinara e Vado Ligure",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/mimit-via-libera-alla-cessione-dei-siti-sanac-di-massa-gattinara_dbd0f7ea-7039-4205-9135-265c301e1284.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T08:23:23.000Z",
-        "excerpt": "Ministero, tutelati 180 lavoratori e 15 nuove assunzioni. Rinviata decisione per Assemini",
-        "image": null
-      },
-      {
-        "title": "Bnp Paribas, utile terzo trimestre sale a 3,4 miliardi +13%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/bnp-paribas-utile-terzo-trimestre-sale-a-34-miliardi-13_a68fcc14-ca7b-4583-9b57-c446b0f4fbf0.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T08:22:38.000Z",
-        "excerpt": "Risultati sopra e stime. Rciavi a 13,75 miliardi (+9,5%)",
-        "image": null
-      },
-      {
-        "title": "Stellantis, ricavi in crescita nel terzo trimestre. Le perdite scendono, ma pesa ancora la cassa",
-        "link": "https://www.repubblica.it/economia/2026/10/28/news/stellantis_ricavi_perdite_terzo_trimestre_2026_cassa-425680748/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T08:20:48.000Z",
-        "excerpt": "Il gruppo chiude il periodo con ricavi per 37,6 miliardi di euro e riduce del 90% il rosso rispetto al 2025. Migliora il Nord America. Confermata la guidance 2026 e l’obiettivo di un flusso di cassa positivo nel 2027. Ne",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/090954358-2ca62874-05c0-448f-8db7-76640356c7ba.jpg"
-      },
-      {
-        "title": "Ritorna il taglio delle accise. Sconto di 4,9 cent sul gasolio da oggi al 7 novembre",
-        "link": "https://www.repubblica.it/economia/2026/10/28/news/taglio_accise_diesel_7_novembre_cent-425680678/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T08:13:35.000Z",
-        "excerpt": "Arriva un decreto interministeriale Mef-Ambiente per reintrodurre l’intervento dopo lo stop del 5 ottobre",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/084728763-ad272d8f-b84c-49a2-b531-16827b77461e.jpg"
-      },
-      {
-        "title": "Gasolio, torna il taglio accise: sconto fino al 7 novembre",
-        "link": "https://www.ilsole24ore.com/art/gasolio-torna-taglio-accise-sconto-61-centesimi-fino-7-novembre-AJ3oPYwB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-28T08:13:00.000Z",
-        "excerpt": "Undici giorni di sconto sui prezzi del gasolio. Il governo, dopo più di tre settimane di stop, torna a intervenire sulle accise del diesel, con un taglio da 4 centesimi...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/sdg4110-1790683288173-U26153604220WJC-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Borsa: l'Europa apre positiva in attesa della Fed",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/borsa-leuropa-apre-positiva-in-attesa-della-fed_130df646-5407-43ad-88fb-01e92bf8cd07.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T08:11:36.000Z",
-        "excerpt": "Parigi (+0,37%), Londra (+0,33%), Francoforte (-0,05%)",
-        "image": null
-      },
-      {
-        "title": "Bnl (Bnp Paribas), utile trimestre pre tasse in calo a 205 milioni di euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/bnl-bnp-paribas-utile-trimestre-pre-tasse-in-calo-a-205-milioni_1991d9d2-cffc-40d5-91c1-2547db923fd9.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T08:10:13.000Z",
-        "excerpt": "Pesa calo margini e rivalutazione investimenti su equity 2025. Nuovo piano il 18 novembre",
-        "image": null
-      },
-      {
-        "title": "Borsa: Milano apre in rialzo dello 0,3%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/borsa-milano-apre-in-rialzo-dello-03_3a4d75ba-c6bb-453f-a0fa-eab245d2ffc7.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T08:06:26.000Z",
-        "excerpt": "Il primo indice Ftse Mib a 49.778 punti",
-        "image": null
-      },
-      {
-        "title": "Anthropic: dal debito con Amazon alle perdite costanti, i “warning” finanziari in vista dell’Ipo",
-        "link": "https://www.repubblica.it/economia/2026/10/28/news/anthropic_ipo_wall_street_nasdaq_debito_amazon_perdite_google_microsoft-425680644/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T07:47:34.000Z",
-        "excerpt": "La società di intelligenza artificiale creatrice di Claude mette in guardia di essere sempre stata in “rosso” e dei possibili conflitti d’interesse con Google, Microsoft e Broadcom",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/083555899-ada5bb19-3c7f-4133-a0a8-d6f1cf22729e.jpg"
-      },
-      {
-        "title": "Il fatturato di Mercedes nel trimestre cala a 30,7 miliardi di euro, pesa la Cina",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/il-fatturato-di-mercedes-nel-trimestre-cala-a-307-miliardi-di-euro-pesa-la-cina_9987291d-a05e-4f3a-acd0-1fc76dd9b9ac.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T07:46:40.000Z",
-        "excerpt": "Da dicembre nuovo programma di esodo volontario per le funzioni indirette in Germania",
-        "image": null
-      },
-      {
-        "title": "Legge di Bilancio 2027: trattativa finale su taglio Irpef e altre richieste alle banche",
-        "link": "https://www.ilsole24ore.com/art/manovra-trattativa-finale-tagli-irpef-tavolo-altre-richieste-banche-AJfIqGwB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-28T06:45:00.000Z",
-        "excerpt": "Alle 15 di oggi mercoledì 28 ottobre il Consiglio dei ministri dovrebbe approvare la legge di bilancio. Ma a ieri sera la rete dei negoziati incrociati tra ministeri...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/04/Immagini/Ritagli/AdobeStock_262823128-U56876355323rCX-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Scioperi, arrivano due venerdì neri: chi si ferma e i motivi dello stop",
-        "link": "https://www.repubblica.it/economia/2026/10/28/news/scioperi_venerdi_nero_servizi_stop-425679654/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T04:00:00.000Z",
-        "excerpt": "Precettazione di Salvini per il 30 ottobre, ma l’Usb tira dritto: “Disobbediamo”. In entrambi i casi le conseguenze potrebbero farsi sentire soprattutto nei trasporti, nelle scuole e negli uffici pubblici",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/27/192329731-c7364f4b-fa44-4c79-9ddd-0cb982b5564d.jpg"
-      },
-      {
-        "title": "Newsletter, chi ci controlla quando apriamo le mail. Le nuove regole a tutela della privacy",
-        "link": "https://www.repubblica.it/economia/2026/10/28/news/newsletter_controlli_mail_privacy_regole_garante-425679623/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T04:00:00.000Z",
-        "excerpt": "Da domani aziende e gestori di newsletter devono rispettare le indicazioni del Garante privacy sui pixel che registrano l'apertura delle e-mail. I destinatari potranno rifiutare il tracciamento e continuare a ricevere i ",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/27/191332858-9cea33bd-18b4-42ad-ae18-6f1deeb9964c.jpg"
-      },
-      {
-        "title": "Tornano le pensioni anticipate. Un miliardo per Quota 100",
-        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/28/news/manovra_nuova_quota_100_dote_neonati_pensioni_minime-425680172/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T00:00:00.000Z",
-        "excerpt": "Coperture dal taglio alla rivalutazione degli assegni medio-alti. In arrivo una dote per i neonati da 50 euro l’anno fino a 18 anni, gestita da Inps, per la previdenza complementare",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/27/225104263-9d0b782c-c689-4a23-a444-96b2e04e7d95.jpg"
-      },
-      {
-        "title": "Delfin, Clemente Del Vecchio primo azionista",
-        "link": "https://www.repubblica.it/economia/2026/10/28/news/delfin_clemente_del_vecchio_primo_azionista-425680278/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T00:00:00.000Z",
-        "excerpt": "Il socio più giovane, 22 anni, compra 550 azioni della holding da Rocco Basilico per 800 mila euro e sale oltre il 12,5%. Discussione aperta con Leonardo Maria per la prelazione sullo 0,4%",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/27/233209959-beb86a68-362c-4c12-bac4-db796d995751.jpg"
-      },
-      {
-        "title": "“Rispettati gli impegni”. Meloni chiude la manovra, resta lo scontro sull’Irpef",
-        "link": "https://www.repubblica.it/economia/2026/10/28/news/manovra_irpef_giorgetti_vertice_meloni-425680260/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T00:00:00.000Z",
-        "excerpt": "Oggi la Finanziaria in cdm, tensione con Forza Italia sulle tasse. Contributo anche dall’energia e si aspetta Bruxelles sulla flessibilità",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/27/232003269-0098a7d4-fc32-46f4-beb0-ac609bd38ab9.jpg"
-      },
-      {
-        "title": "Servizio civile, via libera definitivo del Senato: dalla Carta nazionale ai concorsi, tutte le novità",
-        "link": "https://www.ilsole24ore.com/art/servizio-civile-via-libera-definitivo-senato-carta-nazionale-concorsi-tutte-novita-AJeUtzoB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-27T18:29:00.000Z",
-        "excerpt": "Il ddl mira alla semplificazione delle politiche giovanili e istituisce un Osservatorio permanente con funzioni di raccordo tra il Consiglio nazionale dei giovani e le amministrazioni pubbliche interessate",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/21/Immagini/Ritagli/Italy_Photo_Press_948813-U73476227028cHO-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Vivere più a lungo, e in salute. La sfida dall’Health &amp; Longevity Summit 2026 ",
-        "link": "https://www.ilsole24ore.com/art/vivere-piu-lungo-e-salute-sfida-dall-health-longevity-summit-2026-AJVeLxvB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-27T17:15:27.000Z",
-        "excerpt": "Vivere più a lungo, ma soprattutto vivere più a lungo in salute. È questa la sfida emersa dall’Health & Longevity Summit 2026, il live & digital event promosso dal Gruppo...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/Bertolaso-025-U66104685424Lle-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Bollo auto, per le famiglie povere lo sconto vale quasi il triplo",
-        "link": "https://www.ilsole24ore.com/art/bollo-auto-le-famiglie-povere-sconto-vale-quasi-triplo-AJbftsvB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-27T15:58:00.000Z",
-        "excerpt": "Lo stop alla tassa riduce in media le uscite dello 0,36%, ma nel primo decile per capacità di spesa il taglio è dello 0,9% mentre sui più ricchi si riduce allo 0,1%. Regole da ripensare per chi paga",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/Imagoeconomica_1506353-U40581555655Yuy-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Turismo, dall’open air un valore aggiunto da 17,2 miliardi",
-        "link": "https://www.ilsole24ore.com/art/turismo-dall-open-air-valore-aggiunto-172-miliardi-AJZn9gvB",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-10-27T13:31:10.000Z",
-        "excerpt": "I campeggi e i villaggi turistici generano in Italia un valore aggiunto diretto pari a 17,2 miliardi di euro, il 13% dell’intero valore aggiunto turistico nazionale. La misurazione dell’<a target=\"_self\"...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/AdobeStock_157189589-U84215461543xac-1440x752@IlSole24Ore-Web.jpeg"
       }
     ],
     "europa": [
+      {
+        "title": "Regno Unito, la manovra Burnham raddoppia al 6% la tassa aggiuntiva sugli utili bancari",
+        "link": "https://www.ilsole24ore.com/art/regno-unito-raddoppia-6percento-tassa-aggiuntiva-utili-bancari-AJ5q2swB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-28T15:12:00.000Z",
+        "excerpt": "LONDRA - Si potrebbe chiamarlo il “budget delle piccole cose e delle grandi ambizioni”: la prima Finanziaria del Governo laburista guidato da Andy Burnham, presentata oggi in Parlamento,...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/LP_24891646-U87727786385vyv-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Gli azionisti di Strategy Inc approvano dividendi giornalieri per quattro classi di azioni privilegiate",
+        "link": "https://www.investing.com/news/sec-filings/strategy-inc-shareholders-approve-daily-dividends-for-four-preferred-stock-classes-93CH-4979826",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T14:33:01.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/MicroStrategy_800x533_L_1659517189.jpg"
+      },
+      {
+        "title": "People Inc modifica l'accordo di voto con MGM Resorts International e Barry Diller",
+        "link": "https://www.investing.com/news/sec-filings/people-inc-amends-voting-agreement-with-mgm-resorts-international-and-barry-diller-93CH-4979484",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T13:27:31.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
+      },
+      {
+        "title": "Dropbox annuncia la riduzione del 9% della forza lavoro e la partenza del CTO",
+        "link": "https://www.investing.com/news/sec-filings/dropbox-announces-9-workforce-reduction-and-cto-departure-93CH-4979461",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T13:22:50.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
+      },
+      {
+        "title": "Il vicepresidente di T-Mobile US, G. Michael Sievert, si dimette dal consiglio di amministrazione e dal comitato",
+        "link": "https://www.investing.com/news/sec-filings/tmobile-us-vice-chair-g-michael-sievert-to-resign-from-board-and-committee-93CH-4979302",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T13:02:43.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/T-Mobile_800x533_L_1629564491.jpg"
+      },
+      {
+        "title": "HBT Financial dichiara un dividendo trimestrale di $0,25 per azione",
+        "link": "https://www.investing.com/news/sec-filings/hbt-financial-declares-quarterly-dividend-of-025-per-share-93CH-4979237",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T12:52:35.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
+      },
+      {
+        "title": "Vir Biotechnology nomina Suzanne Topalian nel consiglio di amministrazione",
+        "link": "https://www.investing.com/news/sec-filings/vir-biotechnology-appoints-suzanne-topalian-to-board-of-directors-93CH-4979181",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T12:42:40.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
+      },
+      {
+        "title": "Nave da crociera sospende il giro del mondo: carburante troppo caro",
+        "link": "https://www.ilsole24ore.com/art/nave-crociera-sospende-giro-mondo-carburante-troppo-caro-AJfjeiwB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-28T11:20:00.000Z",
+        "excerpt": "Un viaggio della durata di tre anni e mezzo per fare il giro del mondo, passando per i sette continenti e per 147 Paesi. È quanto...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/AP26301154243130-U78348781137nKR-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "22nd Century Group aggiunge Clear Street come agente di vendita in base all'accordo rivisto",
+        "link": "https://www.investing.com/news/sec-filings/22nd-century-group-adds-clear-street-as-sales-agent-under-revised-agreement-93CH-4978216",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T10:22:43.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
+      },
+      {
+        "title": "Frontex, più uomini e  forza di intervento rapida. Deportazioni da Paesi non Ue",
+        "link": "https://www.ilsole24ore.com/art/a-frontex-piu-uomini-e-forza-intervento-rapida-deportazioni-paesi-non-ue-AJ84U2vB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-28T10:13:00.000Z",
+        "excerpt": "BRUXELLES – A tre mesi dagli avvenimenti di Ceuta, la Commissione europea ha presentato ieri un ulteriore rafforzamento di Frontex, l’agenzia europea di protezione delle frontiere esterne dell’Unione....",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/2026-10-27T113527Z_1642416674_RC2MBOAC7DNH_RTRMADP_5_EU-COMMISSION-U40486581100zTb-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "V F Corp annuncia il dividendo trimestrale e pubblica i risultati del secondo trimestre dell'anno fiscale 2027",
+        "link": "https://www.investing.com/news/sec-filings/v-f-corp-announces-quarterly-dividend-and-releases-q2-fiscal-2027-results-93CH-4978163",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T10:12:44.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
+      },
+      {
+        "title": "Piano Ue di resilienza, parametri armonizzati sul riscaldamento climatico",
+        "link": "https://www.ilsole24ore.com/art/piano-ue-resilienza-parametri-armonizzati-riscaldamento-climatico-AJNxE3vB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-28T10:12:10.000Z",
+        "excerpt": "BRUXELLES – La Commissione europea ha presentato oggi, martedì 27 ottobre, un nuovo quadro di riferimento per meglio contrastare il cambiamento climatico. Tra le altre cose, Bruxelles ha proposto un...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/ca6a7663fa718c2ff8abe244f5c0778e-U84370734104HHV-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Spagna, scontro fra treni vicino Toledo, almeno 68 vittime. Dispersa un’italiana ",
+        "link": "https://www.ilsole24ore.com/art/spagna-almeno-dieci-morti-scontro-treni-toledo-AJZaxbwB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-28T09:20:00.000Z",
+        "excerpt": "È salito a 68 morti ufficiali e 80 feriti, di cui 50 gravi il bilancio del drammatico incidente ferroviario sulla linea ad alta velocità Madrid-Siviglia. Il treno Iryo 6076 -...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/2026-10-28T141405Z_384583263_RC2DCOA08YHC_RTRMADP_5_SPAIN-ACCIDENT-U56650472582GGJ-1440x752@IlSole24Ore-Web.JPG"
+      },
       {
         "title": "Serbia, attentato all’ambasciata di Israele: ucciso l’assalitore",
         "link": "https://www.ilsole24ore.com/art/serbia-attentato-all-ambasciata-israele-ucciso-l-assalitore-AJV1CXwB",
@@ -269,7 +373,7 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/2026-10-28T074309Z_1996180297_RC27COATCBVP_RTRMADP_5_SERBIA-ATTACK-U22783282563sdG-1440x752@IlSole24Ore-Web.JPG"
       },
       {
-        "title": "Trump dice sì all’ingresso negli Usa di Bolsonaro. Che oggi parla da Washington ",
+        "title": "Flavio Bolsonaro negli Usa: Trump favorevole all’ingresso mentre Lula condanna la fuga",
         "link": "https://www.ilsole24ore.com/art/trump-favorevole-all-ingresso-usa-bolsonaro-che-oggi-parla-washington-AJ0WDUwB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-28T06:46:00.000Z",
@@ -283,129 +387,185 @@
         "pubDate": "2026-10-28T06:20:00.000Z",
         "excerpt": "Gli Stati Uniti e la Russia stanno discutendo un possibile ritorno delle aziende americane sul mercato petrolifero russo, nell’ambito di colloqui più ampi volti a porre fine alla guerra in...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/LP_24889488-U67737378771tep-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Gli azionisti CBIZ approvano la fusione con Viking ParentCo in un'assemblea speciale",
-        "link": "https://www.investing.com/news/sec-filings/cbiz-stockholders-approve-merger-with-viking-parentco-at-special-meeting-93CH-4977095",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-27T21:36:44.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
-      },
-      {
-        "title": "Spero Therapeutics Il COO Timothy Keutzer andrà in pensione a fine anno, fungerà da consulente",
-        "link": "https://www.investing.com/news/sec-filings/spero-therapeutics-coo-timothy-keutzer-to-retire-at-yearend-will-serve-as-consultant-93CH-4977088",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-27T21:31:57.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
-      },
-      {
-        "title": "Enerpac Tool Group modifica il contratto del CEO per delineare i termini di pensionamento e i compensi",
-        "link": "https://www.investing.com/news/sec-filings/enerpac-tool-group-amends-ceo-contract-to-outline-retirement-terms-and-compensation-93CH-4977071",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-27T21:27:30.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
-      },
-      {
-        "title": "Modine Manufacturing aggiorna i piani di licenziamento dei dirigenti e modifica i premi azionari",
-        "link": "https://www.investing.com/news/sec-filings/modine-manufacturing-updates-executive-severance-plans-and-amends-equity-awards-93CH-4977065",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-27T21:22:51.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
-      },
-      {
-        "title": "Watsco si assicura una nuova linea di credito di $750 milioni, risolve il precedente accordo",
-        "link": "https://www.investing.com/news/sec-filings/watsco-secures-new-750-million-credit-facility-terminates-prior-agreement-93CH-4977034",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-27T21:12:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
-      },
-      {
-        "title": "Cricut stipula una nuova linea di credito revolving da $300 milioni, termina il contratto in anticipo",
-        "link": "https://www.investing.com/news/sec-filings/cricut-enters-new-300-million-revolving-credit-facility-ends-prior-agreement-93CH-4977014",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-27T21:06:04.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
-      },
-      {
-        "title": "Seritage Growth Properties dichiara il dividendo preferenziale per le azioni di Serie A",
-        "link": "https://www.investing.com/news/sec-filings/seritage-growth-properties-declares-preferred-dividend-for-series-a-shares-93CH-4977006",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-27T21:02:35.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
-      },
-      {
-        "title": "Welltower archivia i supplementi del prospetto per eventuali emissioni di azioni",
-        "link": "https://www.investing.com/news/sec-filings/welltower-files-prospectus-supplements-for-possible-share-issuances-93CH-4976962",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-27T20:52:54.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
-      },
-      {
-        "title": "Raid Usa contro  nave della droga nel Pacifico, uccise 5 persone",
-        "link": "https://www.ilsole24ore.com/art/raid-usa-contro-nave-droga-pacifico-uccise-5-persone-AJJpY3vB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-27T17:49:38.000Z",
-        "excerpt": "L’Us Southern Command parla di “attacco letale e cinetico contro un’imbarcazione ad alta velocità che operava lungo le rotte consolidate del narcotraffico nel Pacifico orientale”",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/7958fbb32c1b0e28d60c6b74fd76099e-U25445101887aFa-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Brasile, Flavio Bolsonaro in fuga con la famiglia verso gli Usa",
-        "link": "https://www.ilsole24ore.com/art/bolsonaro-e-volo-gli-stati-uniti-AJQ1y3vB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-27T17:47:00.000Z",
-        "excerpt": "Negli States dal febbraio 2025 vive anche il fratello Eduardo, su cui pende un mandato di arresto. Con il senatore anche moglie e figlia",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/090be301fd788e9b3067cd31b3cad06b-U62152850620TWS-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "«In Europa legami sempre più stretti tra partiti di estrema destra e asse Russia-Cina»",
-        "link": "https://www.ilsole24ore.com/art/in-europa-legami-sempre-piu-stretti-partiti-estrema-destra-e-asse-russia-cina-AJqyhwvB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-27T16:44:45.000Z",
-        "excerpt": "LONDRA - In vista di un periodo di cruciali elezioni in Europa i partiti di estrema destra stanno stringendo legami bilaterali sempre più stretti e coordinati dall’asse tra Russia e...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/27/Immagini/Ritagli/40f23f08-f19f-406e-8057-657a8a066206-U00522737387qMN-1440x752@IlSole24Ore-Web.JPG"
-      },
-      {
-        "title": "A Manhattan l’aereo che atterra dove parcheggiano gli elicotteri ",
-        "link": "https://www.ilsole24ore.com/art/a-manhattan-l-aereo-che-atterra-dove-parcheggiano-elicotteri-AJIlyovB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-27T15:09:00.000Z",
-        "excerpt": "Ieri a Lower Manhattan l’aereo dimostratore ibrido-elettrico biposto EL2 di Electra è atterrato e decollato sulla chiatta di 91 metri del Downtown Skyport, l’eliporto aperto nel 1960 al Pier 6...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/27/Immagini/Ritagli/electra-aereo-manhattan2_20261027154256-U06233420547zdG-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Il «Picasso degli intagliatori di zucche» porta l’arte in una tradizione di Halloween",
-        "link": "https://www.ilsole24ore.com/art/il-picasso-intagliatori-zucche-porta-l-arte-una-tradizione-halloween-AJ2YMguB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-27T10:35:00.000Z",
-        "excerpt": "Intagliare le zucche è una tradizione di Halloween. Mike Valladao l’ha trasformata in una forma d’arte gioiosa. Conosciuto come il “Picasso degli intagliatori di zucche”, Valladao scolpisce volti e creature...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/27/Immagini/Ritagli/DEE45E0A-6E40-4315-9160-146BF163B470-U31878734016UlW-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "usa": [],
     "mondo": [
       {
-        "title": "Scrutinato oltre il 72% dei voti in Israele, lo schieramento di Netanyahu ottiene 54 seggi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/scrutinato-oltre-il-72-dei-voti-in-israele-lo-schieramento-di-netanyahu-ottiene-54-seggi_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
+        "title": "Flavio Bolsonaro è in Florida: dal depistaggio internazionale al giallo dell’aereo, così è fuggito",
+        "link": "https://www.repubblica.it/esteri/2026/10/28/news/flavio_bolsonaro_fuga_florida_aereo-425681643/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-28T15:38:51.000Z",
+        "excerpt": "Il senatore brasiliano, in fuga negli Stati Uniti insieme alla famiglia dopo la sconfitta alle elezioni presidenziali, ha ottenuto un visto dagli Usa",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/144138002-ee0bc4c7-96d4-4117-97c6-f36bfbe5614d.jpg"
+      },
+      {
+        "title": "I prezzi del petrolio aumentano di circa il 2% poiché lo Yemen che combatte alimenta i timori sull'",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-after-attack-on-saudi-arabian-refinery-reignites-supply-concerns-4977369",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-28T15:26:08.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R04D_L.jpg"
+      },
+      {
+        "title": "Le scorte di greggio e distillati statunitensi diminuiscono, le scorte di benzina aumentano, afferma l'EIA",
+        "link": "https://www.investing.com/news/commodities-news/us-crude-and-distillate-inventories-fall-gasoline-stocks-riseeia-says-4980047",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-28T15:25:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R1P3_L.jpg"
+      },
+      {
+        "title": "In Mississippi Elon Musk vuole comprare una città per i suoi data center",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/28/in-mississippi-elon-musk-vuole-comprare-una-citta-per-i-suoi-data_36239b68-ded2-49c1-99b1-9319f4965bf2.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T08:51:05.000Z",
-        "excerpt": "Il premier: 'La coalizione ha una maggioranza, ampio governo di destra nazionale'",
+        "pubDate": "2026-10-28T15:11:04.000Z",
+        "excerpt": "Il miliardario ha mandato agenti di porta in porta. Le case serviranno a dipendenti di xAI",
         "image": null
       },
       {
-        "title": "Spagna, scontro tra due treni dell’alta velocità: “Molti feriti”",
+        "title": "Israele: scrutinio delle urne terminato, 53 seggi al blocco Netanyahu, 48 a blocco Eisenkot",
+        "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/israele-scrutinio-delle-urne-terminato-53-seggi-al-blocco-netanyahu-48-a-blocco-eisenkot_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T14:59:34.000Z",
+        "excerpt": "Netanyahu: 'Non permetteremo una coalizione con partiti arabi'. E attacca il candidato della Lista Unita che ha dedicato la vittoria ai palestinesi",
+        "image": null
+      },
+      {
+        "title": "Toledo, scontro tra due treni alta velocità: “Almeno 68 morti”. Sánchez: “Tutta la Spagna in lutto”",
         "link": "https://www.repubblica.it/esteri/2026/10/28/news/spagna_scontro_treni_alta_velocita_toledo-425680863/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T08:48:34.000Z",
-        "excerpt": "Traffico sospeso tra Madrid e l’Andalusia. L’impatto si è verificato nei pressi di Toledo",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/094729759-7348e9fb-e26c-4a70-8584-e4b62562493d.jpg"
+        "pubDate": "2026-10-28T14:58:08.000Z",
+        "excerpt": "Ipotesi tamponamento per errore umano dalla centrale operativa in seguito a un guasto tecnico. Il ministro dei Trasporti: “Dato l’ordine sbagliato di ripartire nonostante un treno fermo sui binari”. Nell’impatto alcuni v",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/122237865-a0dd0f23-153d-4c8e-a036-0c4213f95892.jpg"
+      },
+      {
+        "title": "L'Argentina vede l'opportunità della farina di soia dell'UE mentre le regole sulla deforestazione minacciano il commercio del Brasile",
+        "link": "https://www.investing.com/news/commodities-news/argentina-sees-eu-soymeal-opportunity-as-deforestation-rules-threaten-brazil-trade-4978230",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-28T14:54:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R0Y5_L.jpg"
+      },
+      {
+        "title": "Spagna, il racconto del giornalista a bordo del treno: “Coperto di sangue, avevo persone addosso”",
+        "link": "https://www.repubblica.it/esteri/2026/10/28/news/spagna_treni_incidente_toledo_testimonianze-425681368/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-28T14:44:54.000Z",
+        "excerpt": "Il reporter del País Antonio Jiménez Barca si trovava su uno dei due mezzi coinvolti nell’incidente ferroviario avvenuto nei pressi di Toledo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/124830059-12fef2a0-99e3-4ada-b444-cd401cf53fde.jpg"
+      },
+      {
+        "title": "L'oro si ritira mentre le aziende in dollari anticipano leggermente la decisione della Fed",
+        "link": "https://www.investing.com/news/commodities-news/gold-steadies-above-4000-as-traders-await-fed-decision-pce-data-4977316",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-28T14:23:15.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC140H9_M.jpg"
+      },
+      {
+        "title": "Il petrolio sale mentre gli attacchi degli Houthi all'Arabia Saudita oscurano gli sforzi diplomatici",
+        "link": "https://www.investing.com/news/commodities-news/oil-rebounds-as-houthi-attacks-on-saudi-arabia-overshadow-diplomatic-efforts-4977356",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-28T14:17:30.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC190AN_M.jpg"
+      },
+      {
+        "title": "Texas e Alaska, perché i due Stati sono decisivi nelle elezioni Usa di midterm",
+        "link": "https://www.repubblica.it/esteri/2026/10/28/news/elezioni_usa_midterm_trump_texas_alaska_candidati-425681599/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-28T14:10:55.000Z",
+        "excerpt": "Due competizioni serrate che potrebbero rivelarsi fondamentali nelle elezioni di metà mandato, mettendo a rischio due importanti roccaforti repubblicane",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/140823523-a3c09ffe-e1fd-4a7f-b4df-a5a8c5cce206.jpg"
+      },
+      {
+        "title": "Flavio Bolsonaro è atterrato a Miami in Florida",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/28/flavio-bolsonaro-e-atterrato-a-miami-in-florida_399089dc-d628-4dc6-84cf-b1b4c3561cda.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T14:04:16.000Z",
+        "excerpt": "Il candidato, sconfitto alle elezioni, è stato visto scendere da un jet privato",
+        "image": null
+      },
+      {
+        "title": "Flavio Bolsonaro è atterrato a Miami in Florida",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/28/flavio-bolsonaro-e-atterrato-a-miami-in-florida_ffd6750e-89cd-4a73-b233-d8a91aab8f97.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T14:04:16.000Z",
+        "excerpt": "Il candidato, sconfitto alle elezioni, è stato visto scendere da un jet privato",
+        "image": null
+      },
+      {
+        "title": "Fonti, dispersa la quinta italiana coinvolta nell'incidente ferroviario a Toledo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/28/fonti-dispersa-la-quinta-italiana-coinvolta-nellincidente-ferroviario-a-toledo_2d8da4a3-3a3c-4014-b5ed-0982d0deec8d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T14:00:50.000Z",
+        "excerpt": "A bordo del treno vi erano 5 connazionali, di cui 4 in buone condizioni",
+        "image": null
+      },
+      {
+        "title": "Herzog, 'fare di tutto per evitare nuove elezioni, serve apertura mentale'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/herzog-fare-di-tutto-per-evitare-nuove-elezioni-serve-apertura-mentale_f5125ae6-0b37-4f99-83d8-5e3b3a25c68e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T13:25:59.000Z",
+        "excerpt": "'Riceverò i risultati ufficiali la settimana prossima e inizierò le consultazioni'",
+        "image": null
+      },
+      {
+        "title": "Il regolatore statunitense propone nuove regole per accelerare i progetti di GNL",
+        "link": "https://www.investing.com/news/commodities-news/us-regulator-proposes-new-rules-to-speed-up-lng-projects-4978340",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-28T13:12:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R10C_L.jpg"
+      },
+      {
+        "title": "Farnesina, '5 italiani su treno Toledo, 4 stanno bene, sul quinto verifiche'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/28/farnesina-5-italiani-su-treno-toledo-4-stanno-bene-sul-quinto-verifiche_97062335-8928-426a-a9f0-de8e5a608d69.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T13:07:17.000Z",
+        "excerpt": "Sul convoglio Iryo, approfondimenti sul Renfe. Ricerche negli ospedali",
+        "image": null
+      },
+      {
+        "title": "Almeno 64 morti nell'incidente ferroviario dell'alta velocità a Toledo",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/28/almeno-64-morti-nellincidente-ferroviario-dellalta-velocita-a-toledo_c14ec495-9e68-43ff-baca-3100d60e2d15.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T13:03:55.000Z",
+        "excerpt": "Si aggrava il drammatico bilancio della collisione fra 2 treni sulla linea Madrid-Siviglia",
+        "image": null
+      },
+      {
+        "title": "Iran, la vendetta del sistema: cinque anni di carcere a Panahi, il regista Palma d’Oro a Cannes",
+        "link": "https://www.repubblica.it/esteri/2026/10/28/news/iran_jafar_panahi_carcere_palma_oro_cannes-425681440/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-28T12:25:48.000Z",
+        "excerpt": "Da sempre critico con la Repubblica islamica, ad aprile aveva scelto di tornare nel suo paese nonostante il rischio di finire in prigione. Sequestrati tutti i suoi beni e bloccati i conti bancari. Il suo Un semplice Inci",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/130209882-431dd326-2561-4f50-9b26-d5bbdcf34d24.jpg"
+      },
+      {
+        "title": "L'Iran vede solo idee inaccettabili nell'ultima mediazione per porre fine alla guerra, afferma un funzionario",
+        "link": "https://www.investing.com/news/commodities-news/iran-sees-only-unacceptable-ideas-in-latest-mediation-to-end-war-official-says-4979005",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-28T12:24:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R0NZ_L.jpg"
+      },
+      {
+        "title": "L’ultima di Trump jr: caccia alla pecora in Mongolia con l’oligarca russo vicino a Putin",
+        "link": "https://www.repubblica.it/esteri/2026/10/28/news/trump_jr_caccia_in_mongolia_con_l_oligarca_russo_kremlev-425681492/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-28T12:21:16.000Z",
+        "excerpt": "L’episodio, rivelato dal Financial Times, si è verificato ad agosto, quattro mesi dopo un altro scandalo: lo stesso Umar Kremlev aveva pagato le nozze del figlio del tycoon. I due cercavano un esemplare a rischio estinzi",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/131948274-bb371c05-decd-4106-a06b-b15da56ba0e8.jpg"
+      },
+      {
+        "title": "Le nuove previsioni del prezzo del Brent di UBS mentre il rischio di approvvigionamento in Medio Oriente supporta i prezzi del petrolio",
+        "link": "https://www.investing.com/news/commodities-news/ubss-new-brent-price-forecasts-as-middle-east-supply-risk-supports-oil-prices-4978826",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-28T11:59:23.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEE2J0AZ-ORUBS_M.jpg"
       },
       {
         "title": "“Tutti ci parlano, non solo Eisenkot”. Dietro al successo delle liste arabe: chi sono, cosa vogliono",
@@ -422,264 +582,120 @@
         "pubDate": "2026-10-28T08:40:31.000Z",
         "excerpt": "Dopo il voto di ieri le prospettive sono un governo Netanyahu con l’appoggio di un partito dell’opposizione o un esecutivo di minoranza guidato da Eisenkot con il sostegno dei partiti arabi. Ma esiste anche l’ipotesi nuo",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/093758878-3b91380d-8977-40a0-ba7a-7ca07e2d0b75.jpg"
-      },
-      {
-        "title": "Israele, al 72,4% dello scrutinio blocco Netanyahu con 54 seggi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/israele-al-724-dello-scrutinio-blocco-netanyahu-con-54-seggi_8d45bac9-43fe-4387-9a67-2d3444e57e9c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T08:25:30.000Z",
-        "excerpt": "48 allo schieramento di Eisenkot, 18 seggi ai partiti arabi",
-        "image": null
-      },
-      {
-        "title": "Belgrado, attacco all’ambasciata israeliana: ucciso l’aggressore. “Attentato terroristico”",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/belgrado_ambasciata_israele_attentato_terroristico-425680752/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T08:15:14.000Z",
-        "excerpt": "Mentre venivano diffusi i primi dati delle elezioni in Israele, un giovane estremista islamico armato di coltelli ha colpito un agente in servizio all’esterno della sede diplomatica. Per la polizia serba non una coincide",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/091054577-0f38d798-d0fb-4f45-8680-a589e71ed329.jpg"
-      },
-      {
-        "title": "Le midterm in 15 minuti: la serie video di Repubblica",
-        "link": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/10/28/news/midterm_elezioni_usa_2026_video_repubblica-425679078/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T08:00:00.000Z",
-        "excerpt": "Il 3 novembre gli americani rinnovano la Camera e parte del Senato, in una consultazione che diventa un giudizio sui primi due anni del secondo mandato presidenziale. Marco Contini e Anna Chiara Mottola di Amato spiegano",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/093135128-6bf6922c-7e9c-4ed3-bff9-e14ed60eaf7f.jpg"
-      },
-      {
-        "title": "Il petrolio sale di oltre $2 mentre l'attacco alla raffineria saudita riaccende le preoccupazioni sul rischio di approvvigionamento",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-after-attack-on-saudi-arabian-refinery-reignites-supply-concerns-4977369",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T07:48:23.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R04D_L.jpg"
-      },
-      {
-        "title": "Germania, dal ct del mitico Mondiale al ministro di Kohl: i famosi negli archivi del nazismo",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/germania_nazismo_archivi_sepp_herberger_hans_dietrich_genscher-425680637/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T07:33:42.000Z",
-        "excerpt": "Alcuni dei tedeschi più noti del dopoguerra avevano avuto la tessera della Nsdap, del partito nazista: tra questi Sepp Herberger, l’allenatore che fece vincere la Nazionale tedesca nel 1954, e Hans-Dietrich Genscher, leg",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/083331909-c36c75ce-6a6f-49b0-b8fb-5385ff533e4c.jpg"
-      },
-      {
-        "title": "Bancarelle di Gas Naturale al 61,8% di resistenza Fib: Livelli Live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-rebounds-from-oversold-into-sma-resistance-live-levels-93CH-4971506",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T07:11:37.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEA950JT_M.jpg"
-      },
-      {
-        "title": "Il Brent Oil si consolida dopo il rifiuto della Stella della Sera a $117,45: Live",
-        "link": "https://www.investing.com/news/commodities-news/brent-oil-tests-cloud-support-after-parabolic-top-live-levels-93CH-4971503",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T07:11:09.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC1S11A_M.jpg"
-      },
-      {
-        "title": "L'argento si consolida in Bear flag con AdX > 40: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/silver-in-freefall-below-all-mas-doji-hints-at-exhaustion-live-93CH-4971502",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T07:11:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEL6M0VW_L.jpg"
-      },
-      {
-        "title": "Bandiera dell'orso d'oro 80% completa resistenza quasi densa: livelli Live",
-        "link": "https://www.investing.com/news/commodities-news/gold-breaks-below-4000-in-descending-channel-live-levels-93CH-4971505",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T07:10:54.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg"
-      },
-      {
-        "title": "Il gasolio di Londra si consolida vicino a 200 SMA: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-consolidates-in-triangle-at-key-support-live-levels-93CH-4971507",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T07:10:53.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED340BA_M.jpg"
-      },
-      {
-        "title": "Il greggio WTI si consolida in $98,50-$103,50 range: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-consolidates-below-10350-resistance-live-levels-93CH-4971501",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T07:10:50.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/Crudeoil_800x533_L_1629278488.jpg"
-      },
-      {
-        "title": "Rame rompe 200 SMA ma ipercomprato bandiere mfi rischio trappola toro: Live",
-        "link": "https://www.investing.com/news/commodities-news/copper-tests-resistance-at-50-sma-in-downtrend-live-levels-93CH-4971504",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T07:10:46.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEE0O1GP_M.jpg"
-      },
-      {
-        "title": "Buenos Aires, 'per Bolsonaro viaggio in aereo dall'Argentina all'Ecuador'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/28/buenos-aires-per-bolsonaro-viaggio-in-aereo-dallargentina-allecuador_df7584fb-5464-42ce-afc8-9aab8f23c541.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T07:05:46.000Z",
-        "excerpt": "'Validi i loro documenti'",
-        "image": null
-      },
-      {
-        "title": "Elezioni Israele, al 50% dei seggi scrutinati avanti schieramento Netanyahu",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/elezioni-israele-al-50-dei-seggi-scrutinati-avanti-schieramento-netanyahu_76ebeebb-61f3-46cf-8d8c-0f49a37fc04d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T07:01:56.000Z",
-        "excerpt": "Per Bibi 56 seggi, 49 al blocco di Eisenkot, 15 ai partiti arabi",
-        "image": null
-      },
-      {
-        "title": "Belgrado, 'assale poliziotto davanti ambasciata Israele, ucciso'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/belgrado-assale-poliziotto-davanti-ambasciata-israele-ucciso_69f3d5ff-a817-43d5-b802-9855cc0724ac.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T07:00:24.000Z",
-        "excerpt": "Ministro Interno serbo, 'minorenne armato di coltelli, gridava Allah Akbar'",
-        "image": null
-      },
-      {
-        "title": "Trump, 'con il mio sostegno Netanyahu passato dal ko alla vittoria'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/trump-con-il-mio-sostegno-netanyahu-passato-dal-ko-alla-vittoria_2937ee3f-cf20-42fb-a223-0364adf2af18.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T05:59:05.000Z",
-        "excerpt": "Il presidente, 'voglio solo il bene del Medio Oriente, di Israele e degli Usa'",
-        "image": null
-      },
-      {
-        "title": "Trump, 'molto presto' un incontro tra Putin e Zelensky",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/28/trump-molto-presto-un-incontro-tra-putin-e-zelensky_3f32aa42-ece4-4934-8ca0-a6b19058b9a9.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T05:51:38.000Z",
-        "excerpt": "Il presidente Usa, 'potranno essere fatti molti progressi'",
-        "image": null
-      },
-      {
-        "title": "Israele: a metà dei seggi scrutinati Likud in testa con il 20,81%",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/israele-a-meta-dei-seggi-scrutinati-likud-in-testa-con-il-2081_040d3c06-e1ca-4540-90b4-046b806a111d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T05:43:38.000Z",
-        "excerpt": "Segue Yashar con il 17,06%. Terza piazza per Insieme con l'9,21%",
-        "image": null
-      },
-      {
-        "title": "La sfida di Eisenkot per scalzare l’ultradestra: “È stato un no a Netanyahu”",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/elezioni_israele_sfida_eisenkot_scalzare_netanyahu_aiuto_arabi-425680240/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T00:00:00.000Z",
-        "excerpt": "L’opposizione guidata dal generale non ha i numeri per governare. Il nodo dell’appoggio esterno da parte dei partiti palestinesi",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/27/231638702-88812c61-7f77-447f-9f33-6cb024dd1c17.jpg"
-      },
-      {
-        "title": "L’eterno Netanyahu non affonda e punta a restare in sella",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/israele_elezioni_netanyahu_premier_eterno_punta_restare_in_sella-425680218/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T00:00:00.000Z",
-        "excerpt": "l Likud perde seggi e non ha la maggioranza, ma resta primo partito. Bibi incassa il successo di una campagna tutta giocata sulla paura",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/27/230352625-bf6c2dde-b7ea-4e8f-b374-e050cdb6be6f.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Scrutinato oltre il 72% dei seggi in Israele, lo schieramento Netanyahu ottiene 54 seggi",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/attesa-in-israele-netanyahu-regge-likud-e-il-partito-piu-grande-ma-eisenkot-e-avanti_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
+      "title": "Spagna: Toledo, almeno 68 morti nello scontro tra due treni. La Farnesina: 'A bordo 5 italiani, 4 stanno bene. Dispersa una donna'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/spagna-toledo-almeno-68-morti-nello-scontro-tra-due-treni.-la-farnesina_3124daf4-1c75-4126-a99f-4356a4740361.html",
       "source": "ANSA",
-      "pubDate": "2026-10-28T08:48:58.000Z",
-      "excerpt": "Il premier: 'La coalizione ha una maggioranza, ampio governo di destra nazionale'",
+      "pubDate": "2026-10-28T15:25:01.000Z",
+      "excerpt": "Due vagoni caduti in una scarpata dopo lo scontro. L'incidente sulla linea Madrid-Siviglia, la stessa della sciagura del 18 gennaio. 'Errore umano'",
       "image": null
     },
     {
-      "title": "“Tutti ci parlano, non solo Eisenkot”. Dietro al successo delle liste arabe: chi sono, cosa vogliono",
-      "link": "https://www.repubblica.it/esteri/2026/10/28/news/israele_liste_arabe_elezioni_mansour_abbas_chi_sono-425680796/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-28T08:25:14.000Z",
-      "excerpt": "Nel confronto serrato tra il blocco di Eisenkot e la maggioranza di Netanyahu, i due leader arabi acquisiscono un peso che, a questo grado, non hanno mai avuto",
-      "image": null
-    },
-    {
-      "title": "Lucio Corsi: 'Con le canzoni bisogna ribaltare il mondo'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/2026/10/27/lucio-corsi-con-le-canzoni-bisogna-ribaltare-il-mondo_73a5f967-b635-4d87-8d91-38772b700b29.html",
+      "title": "Youssef Siher torna in libertà, la gip non convalida il fermo. Meloni: 'Decisione vergognosa'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/il-gip-di-milano-rimette-in-liberta-youssef-siher_c3831f66-7791-4ae1-9745-5d4a8cbb9980.html",
       "source": "ANSA",
-      "pubDate": "2026-10-28T08:16:15.000Z",
-      "excerpt": "Esce il nuovo singolo 'Napoleone buonanotte', poi tour nei palasport con prove aperte",
+      "pubDate": "2026-10-28T15:04:29.000Z",
+      "excerpt": "Depositato il provvedimento: 'Ha evocato la disobbedienza civile, non ha incitato alla violenza'. Siher era stato fermato in quanto amministratore del canale Telegram del 'Movimento 17 ottobre'",
       "image": null
     },
     {
-      "title": "Belgrado, aggressione all’ambasciata israeliana: “Attentato terroristico”",
-      "link": "https://www.repubblica.it/esteri/2026/10/28/news/belgrado_ambasciata_israele_attentato_terroristico-425680752/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-28T08:11:04.000Z",
-      "excerpt": "Mentre venivano diffusi i primi dati delle elezioni in Israele, un giovane estremista islamico armato di coltelli ha colpito un agente in servizio all’esterno della sede diplomatica. Ucciso l’aggressore",
-      "image": null
-    },
-    {
-      "title": "Ritorna il taglio delle accise. Sconto di 4,9 cent sul gasolio da oggi al 7 novembre",
-      "link": "https://www.repubblica.it/economia/2026/10/28/news/taglio_accise_diesel_7_novembre_cent-425680678/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-28T07:47:38.000Z",
-      "excerpt": "Arriva un decreto interministeriale Mef-Ambiente per reintrodurre l’intervento dopo lo stop del 5 ottobre",
-      "image": null
-    },
-    {
-      "title": "Flávio Bolsonaro è in Florida e ha incontrato il fratello Eduardo",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/flavio-bolsonaro-e-in-florida-e-ha-incontrato-il-fratello-eduardo_1b9d2be9-8a00-428f-926e-46b20bfc3e26.html",
+      "title": "Israele: scrutinio delle urne terminato, 53 seggi al blocco Netanyahu, 48 a blocco Eisenkot",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/israele-scrutinio-delle-urne-terminato-53-seggi-al-blocco-netanyahu-48-a-blocco-eisenkot_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
       "source": "ANSA",
-      "pubDate": "2026-10-28T06:51:28.000Z",
-      "excerpt": "Prevista una conferenza stampa, forse già domani",
+      "pubDate": "2026-10-28T14:59:34.000Z",
+      "excerpt": "Netanyahu: 'Non permetteremo una coalizione con partiti arabi'. E attacca il candidato della Lista Unita che ha dedicato la vittoria ai palestinesi",
       "image": null
     },
     {
-      "title": "Trump annuncia un incontro tra Putin e Zelensky  'molto presto' ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/trump-annuncia-un-incontro-tra-putin-e-zelensky-molto-presto-_27be0948-eae6-4740-9dbe-9e6bded4fcd0.html",
+      "title": "'Stars Align', ecco lo slogan ufficiale dei Giochi di Los Angeles 2028",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/28/stars-align-ecco-lo-slogan-ufficiale-dei-giochi-di-los-angeles-2028_271af275-5f1b-4297-a035-b480f608a185.html",
       "source": "ANSA",
-      "pubDate": "2026-10-28T06:29:45.000Z",
-      "excerpt": "Il presidente Usa: 'Potranno essere fatti molti progressi'",
+      "pubDate": "2026-10-28T14:54:32.000Z",
+      "excerpt": "'Quando le vittorie dello sport incontrano la città die sogni le stelle si allineano'",
       "image": null
     },
     {
-      "title": "Hispanic voters are turning on Trump. Italian Americans seem to be sticking with him. Here’s why",
-      "link": "https://www.repubblica.it/en/europe/news/2026/10/28/news/italian_american_voters_trump_hispanic_midterm_elections-425678560/",
+      "title": "Meloni attacca i giudici su Siher: “Vergognosi”. Ma la sua ricostruzione non torna",
+      "link": "https://www.repubblica.it/politica/2026/10/28/news/meloni_attacca_giudici_scarcerazione_siher_cosa_non_torna-425681777/",
       "source": "Repubblica",
-      "pubDate": "2026-10-28T05:00:00.000Z",
-      "excerpt": "Americans of Italian descent have grown more conservative over the years. And judging by the mood at the National Italian American Foundation’s anniversary celebrations, they appear in no hurry to switch political allegi",
+      "pubDate": "2026-10-28T14:35:03.000Z",
+      "excerpt": "È l’ennesimo scontro, dopo una campagna referendaria segnata dalle accuse alle toghe. Ma questa volta c’è qualcosa di più",
       "image": null
     },
     {
-      "title": "Dante UFO Robot - Go Nagai goes to Hell",
-      "link": "https://www.repubblica.it/en/europe/culture/2026/10/28/news/go_nagai_dante_divine_comedy_grendizer_lucca_comics_games-425678927/",
+      "title": "Manovra, in Cdm il taglio Irpef a 55mila euro. L'ipotesi di un aumento del contributo delle banche",
+      "link": "https://www.repubblica.it/economia/2026/10/28/news/manovra_cdm_meloni_misure_taglio_irpef_banche_bonus-425681765/",
       "source": "Repubblica",
-      "pubDate": "2026-10-28T05:00:00.000Z",
-      "excerpt": "There’s more to Go Nagai than robots. The creator of Grendizer and Devilman is coming to Lucca Comics & Games, Europe's leading comics and video games festival and the second largest in the world after Tokyo. He tells us",
+      "pubDate": "2026-10-28T14:32:57.000Z",
+      "excerpt": "Il governo prova a ripescare la misura, ma serve l’ok di Forza Italia sulle coperture extra a carico degli istituti di credito",
       "image": null
     },
     {
-      "title": "His fabrics have dressed Brad Pitt and a pope. Cosimo Caccioppoli: “Made in Italy is easy to spot”",
-      "link": "https://www.repubblica.it/en/europe/fashion-design/2026/10/28/news/cosimo_caccioppoli_fabrics_naples_brad_pitt_pope_benedict_xvi_made_in_italy-425679538/",
+      "title": "Manovra, la mossa di Giorgetti: 100 euro all’anno nel salvadanaio dei nuovi nati per la pensione",
+      "link": "https://www.repubblica.it/economia/2026/10/28/news/giorgetti_100_euro_pensione_nuovi_nati-425681678/",
       "source": "Repubblica",
-      "pubDate": "2026-10-28T05:00:00.000Z",
-      "excerpt": "The Neapolitan entrepreneur making waves in Japanese fashion magazines shares reveals how American clients buy his fabrics, have them tailored in China and receive the finished garments in New York",
+      "pubDate": "2026-10-28T13:54:59.000Z",
+      "excerpt": "Il contributo sarà versato fino al compimento del diciottesimo anno di età. I fondi potranno essere utilizzati anche per le spese universitarie",
       "image": null
     },
     {
-      "title": "Piano B, Sara: “Ero una guardia giurata, ho lasciato tutto per vivere in un borgo di montagna\"",
-      "link": "https://www.repubblica.it/dossier/cronaca/piano-b-cambiare-vita/2026/10/28/news/cambiare_vita_piano_b_la_storia_di_sara_quintiliani-425680373/",
+      "title": "Texas e Alaska, perché i due Stati sono decisivi nelle elezioni Usa di midterm",
+      "link": "https://www.repubblica.it/esteri/2026/10/28/news/elezioni_usa_midterm_trump_texas_alaska_candidati-425681599/",
       "source": "Repubblica",
-      "pubDate": "2026-10-28T00:51:03.000Z",
-      "excerpt": "La nuova puntata della serie che racconta le storie delle persone che cambiano vita",
+      "pubDate": "2026-10-28T13:09:32.000Z",
+      "excerpt": "Due competizioni serrate che potrebbero rivelarsi fondamentali nelle elezioni di metà mandato, mettendo a rischio due importanti roccaforti repubblicane",
       "image": null
     },
     {
-      "title": "L’eterno Netanyahu non affonda e punta a restare in sella",
-      "link": "https://www.repubblica.it/esteri/2026/10/28/news/israele_elezioni_netanyahu_premier_eterno_punta_restare_in_sella-425680218/",
+      "title": "Reintegro medici no vax, Craxi: “Al Senato modifiche”. Convegno Lega per le vittime dei vaccini",
+      "link": "https://www.repubblica.it/politica/2026/10/28/news/reintegro_medici_no_vax_craxi_convegno_lega_vittime_vaccini-425681581/",
       "source": "Repubblica",
-      "pubDate": "2026-10-28T00:00:00.000Z",
-      "excerpt": "l Likud perde seggi e non ha la maggioranza, ma resta primo partito. Bibi incassa il successo di una campagna tutta giocata sulla paura",
+      "pubDate": "2026-10-28T13:00:00.000Z",
+      "excerpt": "Tensioni in Forza Italia. Zampa (Pd): “Inaccettabile evento al Senato nelle stesse ore in cui Mattarella torna a difendere la ricerca”",
+      "image": null
+    },
+    {
+      "title": "L’oncologo: “Il nuovo farmaco per il tumore al pancreas allunga la vita, ma le incognite sono tante”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/28/news/michele_reni_san_raffaele_premio_airc_intervista-425681533/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-28T12:30:25.000Z",
+      "excerpt": "Intervista a Michele Reni del San Raffaele, vincitore del premio Airc al Quirinale: “Non abbiamo ancora medicinali che permettono di guarire. Noi medici però possiamo chiederci cosa fare per migliorare i trattamenti e fa",
+      "image": null
+    },
+    {
+      "title": "Record di incidenti cyber nel mondo, primi segnali di 'agentic hacking' con l'IA",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/10/28/record-di-incidenti-cyber-nel-mondo-primi-segnali-di-agentic-hacking-con_026afaaa-90b2-42da-b9cd-58b72e37aaaa.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-28T12:28:06.000Z",
+      "excerpt": "Clusit: \"In Italia il manifatturiero è il settore più colpito, cala l'hacktivism\"",
+      "image": null
+    },
+    {
+      "title": "Youssef Siher è libero. La gip: “Disobbedienza civile, non violenza. Nessun piano eversivo”",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/28/news/youssef_siher_liberato_arresto_non_convalidato_movimento_17_ottobre-425681423/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-28T11:59:42.000Z",
+      "excerpt": "La decisione giudice non convalida il fermo del ricercatore di 30 anni, creatore degli account “Movimento 17 ottobre”. Cade l’aggravante di terrorismo e il nuovo reato previsto dal governo. Niente carcere: “Non c’è il pe",
+      "image": null
+    },
+    {
+      "title": "Spagna, il racconto del giornalista a bordo del treno: “Coperto di sangue, avevo persone addosso”",
+      "link": "https://www.repubblica.it/esteri/2026/10/28/news/spagna_treni_incidente_toledo_testimonianze-425681368/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-28T11:48:46.000Z",
+      "excerpt": "Il reporter del País Antonio Jiménez Barca si trovava su uno dei due mezzi coinvolti nell’incidente ferroviario avvenuto nei pressi di Toledo",
+      "image": null
+    },
+    {
+      "title": "Il più vasto canyon del Sistema Solare fa tremare Marte ",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/28/il-piu-vasto-canyon-del-sistema-solare-fa-tremare-marte-_7039219e-f1d2-4786-8f26-4dff6d9561e2.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-28T06:46:00.000Z",
+      "excerpt": "La scoperta grazie ai dati raccolti dal lander Insight durante un terremoto marziano",
       "image": null
     },
     {
@@ -688,22 +704,6 @@
       "source": "ANSA",
       "pubDate": "2026-10-27T18:30:38.000Z",
       "excerpt": "La nuova coppia d'oro il vincitore del Pallone d'oro e sua moglie, ispira i look beauty",
-      "image": null
-    },
-    {
-      "title": "La salute mentale? Ha bisogno di un pensiero critico",
-      "link": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/10/27/la-salute-mentale-ha-bisogno-di-un-pensiero-critico_4ca4fc20-553e-429d-9123-d2fdfe2c1d36.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-27T17:53:38.000Z",
-      "excerpt": "Nel saggio curato dallo psichiatra Colucci un invito verso nuove prospettive",
-      "image": null
-    },
-    {
-      "title": "Sanremo Giovani, 'sei artisti, una finale, un solo vincitore'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/tv/2026/10/27/sanremo-giovani-sei-artisti-una-finale-un-solo-vincitore_af658884-fe96-4265-a4a7-ab65a6879f23.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-27T17:35:32.000Z",
-      "excerpt": "I primi 15 artisti selezionati da audizioni. De Martino: \"Un debutto straordinario\"",
       "image": null
     },
     {
@@ -717,67 +717,67 @@
   ],
   "sport": [
     {
-      "title": "Tennis: Errani-Paolini ai quarti a Tokyo, altro passo verso le Finals",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/28/tennis-errani-paolini-ai-quarti-a-tokyo-altro-passo-verso-le-finals_6deb813b-fffe-45cd-aaad-bfacbd229500.html",
+      "title": "Pugilato: tre bronzi per l'Italia ai Mondiali U19",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/28/pugilato-tre-bronzi-per-litalia-ai-mondiali-u19_f2e806e0-61b2-4a40-8589-1bd870446d35.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T08:42:46.000Z",
-      "excerpt": "Le azzurre hanno battuto Danilina-Jiang in due set",
+      "pubDate": "2026-10-28T15:31:26.000Z",
+      "excerpt": "Podi per Reale e Zamana tra le ragazze e per Nocadello",
       "image": null
     },
     {
-      "title": "La Cina rivede la posizione su Mbappè: 'Prendiamo sul serio le sue scuse'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/la-cina-rivede-la-posizione-su-mbappe-prendiamo-sul-serio-le-sue-scuse_6ecc1caa-c45a-4a71-ac0c-e08f15107bf8.html",
+      "title": "Atalanta: a Firenze rientrano Sulemana dopo 2 mesi e mezzo e Scalvini",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/atalanta-a-firenze-rientrano-sulemana-dopo-2-mesi-e-mezzo-e-scalvini_36c2ee6b-7f15-4540-acad-26659d8f8dd3.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T08:34:45.000Z",
-      "excerpt": "Ancora tante critiche però al giocatore per la battuta su Mao",
+      "pubDate": "2026-10-28T15:23:48.000Z",
+      "excerpt": "L'attaccante infortunato con lo Schalke in precampionato, il difensore col Venezia",
       "image": null
     },
     {
-      "title": "Nba: prima vittoria per New York, ai Lakers non basta Doncic",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/10/28/nba-prima-vittoria-per-new-york-ai-lakers-non-basta-doncic_7df5705c-079b-4058-9cc0-8a6abedbcc8e.html",
+      "title": "\"Sport è vita\", Sport e Salute investe 2mln in attività fisica, prevenzione e ricerca",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/28/sport-e-vita-sport-e-salute-investe-2mln-in-attivita-fisica-prevenzione-e-ricerca_4c5973d1-f700-4fd3-9d07-1515cf1d0ff4.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T08:34:05.000Z",
-      "excerpt": "Tutto facile per gli Spurs di Wembanyama, Tatum trascina Boston",
+      "pubDate": "2026-10-28T15:21:16.000Z",
+      "excerpt": "Due linee di finanziamento per promuovere stili di vita attivi",
       "image": null
     },
     {
-      "title": "Tennis: Cobolli agli ottavi a Vienna, battuto Dimitrov",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/27/tennis-cobolli-agli-ottavi-a-vienna-battuto-dimitrov_48248501-416f-4e47-aeab-3a03b13d8aeb.html",
+      "title": "'Stars Align', ecco lo slogan ufficiale dei Giochi di Los Angeles 2028",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/28/stars-align-ecco-lo-slogan-ufficiale-dei-giochi-di-los-angeles-2028_271af275-5f1b-4297-a035-b480f608a185.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-27T22:53:03.000Z",
-      "excerpt": "L'azzurro si impone in tre set. Derby con Berrettini nel prossimo turno",
+      "pubDate": "2026-10-28T14:54:32.000Z",
+      "excerpt": "'Quando le vittorie dello sport incontrano la città die sogni le stelle si allineano'",
       "image": null
     },
     {
-      "title": "Serie A: il Cagliari spaventa la Roma, la risolvono Mora e Malen",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/serie-a-la-roma-batte-il-cagliari_47dcb4bd-36fb-476b-950d-28ea0282c1cd.html",
+      "title": "Incidente a Toledo, rinviate tutte le partite di Coppa del re",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/incidente-a-toledo-rinviate-tutte-le-partite-di-coppa-del-re_f94541b2-23fd-45c0-af4c-c25ea01dad14.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-27T22:02:46.000Z",
-      "excerpt": "I giallorossi si impongono 4-2. Lariani in rimonta per 3-1",
+      "pubDate": "2026-10-28T14:49:13.000Z",
+      "excerpt": "24 match in programma oggi, Federcalcio Spagna: 'Solidarietà verso le vittime'",
       "image": null
     },
     {
-      "title": "Serie A: tris in 11', il Como ribalta il Torino in un pazzo finale ",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/serie-a-colpo-esterno-del-como-a-torino_7e5e2bf4-71ab-487d-b842-c2604d65e1fc.html",
+      "title": "Lecce: Di Francesco 'tante assenze, a Frosinone con diversi dubbi'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/lecce-di-francesco-tante-assenze-a-frosinone-con-diversi-dubbi_d60010b8-b33f-4446-bef9-0eca1fa9d200.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-27T22:00:38.000Z",
-      "excerpt": "Granata avanti con Adams, poi Nico Paz trascina i lariani alla rimonta",
+      "pubDate": "2026-10-28T13:19:42.000Z",
+      "excerpt": "'Necessario dare il massimo, hanno un grande entusiasmo'",
       "image": null
     },
     {
-      "title": "La Roma batte il Cagliari, colpo esterno del Como a Torino",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/la-roma-batte-il-cagliari-colpo-esterno-del-como-a-torino_f964585b-75da-43c0-9e99-7968a268fa26.html",
+      "title": "Lo United conferma per ora Carrick, tifosi contestano giocatori",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/lo-united-conferma-per-ora-carrick-tifosi-contestano-giocatori_c2a6ff14-5cfc-498a-9970-c9540cb9087f.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-27T21:45:31.000Z",
-      "excerpt": "I giallorossi si impongono 4-2. Lariani in rimonta per 3-1",
+      "pubDate": "2026-10-28T11:29:01.000Z",
+      "excerpt": "L'allenatore resta alla guida del club in vista della partita con il Chelsea",
       "image": null
     },
     {
-      "title": "Paralimpici: stella d'oro al merito sportivo al presidente Fispes Mariano Salvatore",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/27/paralimpici-stella-doro-al-merito-sportivo-al-presidente-fispes-mariano-salvatore_12c5ea62-5439-4e45-b3e7-c46b81cd697b.html",
+      "title": "Impresa Fleetwood, squadra di quarta divisione elimina l'Arsenal",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/impresa-fleetwood-squadra-di-quarta-divisione-elimina-larsenal_8cd0f063-724f-4e40-a136-a277e2a7613e.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-27T20:59:56.000Z",
-      "excerpt": "'Vostra fiducia è mia forza quotidiana per continuare a far crescere il nostro movimento'",
+      "pubDate": "2026-10-28T11:27:02.000Z",
+      "excerpt": "In Coppa di Lega inglese i campioni della Premier battuti ai rigori",
       "image": null
     }
   ]
