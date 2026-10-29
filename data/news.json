@@ -1,7 +1,127 @@
 {
-  "lastUpdated": "2026-10-28T20:44:30.354Z",
+  "lastUpdated": "2026-10-29T00:34:20.859Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Borsa: Tokyo, apertura in aumento (+0,37%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/29/borsa-tokyo-apertura-in-aumento-037_4fdc45b8-799a-49f6-9b7e-17f49fa2e5fc.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-29T00:12:57.000Z",
+        "excerpt": "Guidano i titoli IA e semiconduttori, attesa riunione Bank of Japan",
+        "image": null
+      },
+      {
+        "title": "Guggenheim indica LB Pharmaceuticals come idea top prima dei dati chiave",
+        "link": "https://it.investing.com/news/stock-market-news/guggenheim-indica-lb-pharmaceuticals-come-idea-top-prima-dei-dati-chiave-3613083",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T22:10:17.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEF102VH_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Lumentum è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-lumentum-e-in-forte-rialzo-oggi-93CH-3613074",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T22:04:34.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Marvell Technology sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-marvell-technology-sta-scendendo-oggi-93CH-3613073",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T22:04:22.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
+      },
+      {
+        "title": "Marvell vicina all’acquisizione di Lumentum per potenziare l’hardware",
+        "link": "https://it.investing.com/news/stock-market-news/marvell-vicina-allacquisizione-di-lumentum-per-potenziare-lhardware-3613057",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T21:56:16.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB3R08Z_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Darling Ingredients scende oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-darling-ingredients-scende-oggi-93CH-3613051",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T21:53:31.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+      },
+      {
+        "title": "La Fed rinvia il rialzo dei tassi. Warsh: “Ma l’inflazione è alta”",
+        "link": "https://www.repubblica.it/economia/2026/10/28/news/fed_tassi_dollaro_inflazione_usa_warsh-425682323/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T21:52:35.000Z",
+        "excerpt": "Per il presidente della banca centrale non c’è relazione con le elezioni di midterm. Il costo del denaro tra il 3,75 e il 4%. Due membri del board hanno votato contro",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/194355423-a19680ee-6b25-48fa-9b23-3819619584ba.jpg"
+      },
+      {
+        "title": "IA, conti a due facce: Microsoft corre, Google delude",
+        "link": "https://www.repubblica.it/economia/2026/10/28/news/micorsoft_google_conti_trimestrali_ia-425682902/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T21:43:06.000Z",
+        "excerpt": "I due campioni di Big Tech vedono decollare il business di cloud e algoritmi, ma Alphabet paga il rallentamento della ricerca. Gli investimenti continuano a salire",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/224254761-6f562665-f3a9-421b-b1e7-74cec2db074f.jpg"
+      },
+      {
+        "title": "Perché il titolo Honeywell Aerospace scende oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-honeywell-aerospace-scende-oggi-93CH-3613026",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T21:42:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      },
+      {
+        "title": "Perché il titolo MGM Resorts sta scendendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-mgm-resorts-sta-scendendo-oggi-93CH-3613021",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T21:41:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+      },
+      {
+        "title": "Slitta il tetto al gas: “Verifiche con l’Ue”. I dubbi dagli operatori",
+        "link": "https://www.repubblica.it/economia/2026/10/28/news/tetto_prezzo_gas_consiglio_dei_ministri-425682880/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T21:34:02.000Z",
+        "excerpt": "Il meccanismo che taglia le bollette entra in Consiglio dei ministri ma poi viene rinviato, mentre il prezzo del metano sfonda i 100 euro. Dietro la necessità di “verifiche tecniche” spunta un contributo a carico delle a",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/223351593-2d5f27b3-3991-436a-8b49-6b252be6dd55.jpg"
+      },
+      {
+        "title": "Perché il titolo Fortinet crolla oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-fortinet-crolla-oggi-93CH-3612949",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-28T21:11:00.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg"
+      },
+      {
+        "title": "Ryanair, stretta in aeroporto: valigie da consegnare un’ora prima del volo",
+        "link": "https://www.repubblica.it/economia/2026/10/28/news/ryanair_checkin_bagagli_aeroporto-425681829/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-28T20:48:12.000Z",
+        "excerpt": "Dal 10 novembre cambia la procedura per chi viaggia con bagagli da stiva. Chiusura dei banchi anticipata di venti minuti. Nessuna novità per chi ha già effettuato il check-in online e porta soltanto il bagaglio a mano. I",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/155722598-31dca459-0b6e-4edb-8f28-7b3251f66201.jpg"
+      },
+      {
+        "title": "Intesa ha ottenuto tutte le autorizzazioni per l'acquisizione di Mps",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/-intesa-ha-ottenuto-tutte-le-autorizzazioni-per-lacquisizione-di-mps-_c2dd8544-5ea6-4615-8673-84c2f4607346.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-28T20:46:01.000Z",
+        "excerpt": "La parola ora passa alla Consob che avrà dieci giorni per approvare il prospetto",
+        "image": null
+      },
+      {
+        "title": "Mps decide il suo futuro, sul piano Lovaglio il muro dei soci",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/mps-decide-il-suo-futuro-sul-piano-lovaglio-il-muro-dei-soci_368cd399-ea22-4ee4-9487-e8e27070171c.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-28T20:44:07.000Z",
+        "excerpt": "Intesa ha ottenuto tutte le autorizzazioni per l'acquisizione del Monte, parola alla Consob",
+        "image": null
+      },
       {
         "title": "Kiev, il Governo proroga lo stato di emergenza: si possono inviare gli aiuti all’Ucraina",
         "link": "https://www.ilsole24ore.com/art/kiev-governo-proroga-stato-emergenza-si-possono-inviare-aiuti-all-ucraina-AJGD25wB",
@@ -9,30 +129,6 @@
         "pubDate": "2026-10-28T20:43:40.000Z",
         "excerpt": "L’indicazione fornita dalla premier Giorgia Meloni nella conferenza stampa dopo il via libera alla manovra. Nota di Palazzo Chigi: «Il Consiglio dei ministri, su proposta del Ministro per la protezione civile e le politi",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/fabdc6847a6755f5b3e1f576f6f812f8(2)-U63834731884HBa-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "++ Intesa ha ottenuto tutte le autorizzazioni per l'acquisizione di Mps ++",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/-intesa-ha-ottenuto-tutte-le-autorizzazioni-per-lacquisizione-di-mps-_c2dd8544-5ea6-4615-8673-84c2f4607346.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T20:35:59.000Z",
-        "excerpt": "La parola ora passa alla Consob che avrà dieci giorni per approvare il prospetto",
-        "image": null
-      },
-      {
-        "title": "Le azioni KLA salgono del 3% dopo i risultati del primo trimestre",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-kla-salgono-del-3-dopo-i-risultati-del-primo-trimestre-3612710",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T20:19:07.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg"
-      },
-      {
-        "title": "Le azioni di Alphabet crollano del 7%: utili deludenti offuscano il boom del cloud",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-di-alphabet-crollano-del-65-dopo-una-trimestrale-deludente-3612633",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T20:08:21.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
       },
       {
         "title": "Meloni tratta con l'Ue fino all'ultimo e la spunta sulle risorse extra",
@@ -51,44 +147,12 @@
         "image": null
       },
       {
-        "title": "S&P promuove Aeromexico a ’BB-’ grazie a margini solidi e riduzione del debito",
-        "link": "https://it.investing.com/news/stock-market-news/sp-promuove-aeromexico-a-bb-grazie-a-margini-solidi-e-riduzione-del-debito-3612593",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T19:56:30.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg"
-      },
-      {
-        "title": "Moody’s taglia il rating di Whirlpool a B1 per il calo immobiliare",
-        "link": "https://it.investing.com/news/stock-market-news/moodys-taglia-il-rating-di-whirlpool-a-b1-per-il-calo-immobiliare-3612588",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T19:54:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED3O0SK_L.jpg"
-      },
-      {
-        "title": "Nvidia nel mirino del DOJ per l’acquisizione da $12,9 mld di Hugging Face",
-        "link": "https://it.investing.com/news/stock-market-news/nvidia-nel-mirino-del-doj-per-lacquisizione-da-129-mld-di-hugging-face-3612582",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T19:50:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEL4S0LH_L.jpg"
-      },
-      {
         "title": "Su banche e assicurazioni aumenti di Ires e Irap, sale la Tobin-Tax",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/su-banche-e-assicurazioni-aumenti-di-ires-e-irap-sale-la-tobin-tax_497750b2-241f-401e-a27d-34a1986f7eb2.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-28T19:46:03.000Z",
         "excerpt": "Il governo sceglie misure strutturali. Contributo di 700 milioni anche dalle società energetiche",
         "image": null
-      },
-      {
-        "title": "La Fed lascia i tassi invariati. Warsh: “L’inflazione è troppo alta, le midterm non hanno influito”",
-        "link": "https://www.repubblica.it/economia/2026/10/28/news/fed_tassi_dollaro_inflazione_usa_warsh-425682323/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T19:39:41.000Z",
-        "excerpt": "Il costo del denaro, in linea con le attese, rimane nella forchetta tra il 3,75% e il 4%. Il board si spacca: due membri avrebbero voluto un rialzo di 25 punti base dopo quello del settembre scorso",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/194355423-a19680ee-6b25-48fa-9b23-3819619584ba.jpg"
       },
       {
         "title": "Più fondi alla sanità, arrivano le targhe personalizzate",
@@ -99,51 +163,11 @@
         "image": null
       },
       {
-        "title": "I migliori produttori indipendenti di energia: le scelte di Scotiabank",
-        "link": "https://it.investing.com/news/stock-market-news/i-migliori-produttori-indipendenti-di-energia-le-scelte-di-scotiabank-3612544",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T19:26:38.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
-      },
-      {
         "title": "In manovra premio per i lavoratori under30, 2.500 euro tassati all'1%",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/in-manovra-premio-per-i-lavoratori-under30-2.500-euro-tassati-all1_091e6d54-f54a-4466-b8b9-9c5e90fe63d2.html",
         "source": "ANSA Economia",
         "pubDate": "2026-10-28T19:18:25.000Z",
         "excerpt": "Meloni:'vogliamo che un ragazzo che inizia a lavorare qui senta di essere spronato'",
-        "image": null
-      },
-      {
-        "title": "In manovra aumento Ires di 3 punti per banche e assicurazioni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/in-manovra-aumento-ires-di-3-punti-per-banche-e-assicurazioni_aeebc015-5114-4c90-a7cf-c6eca4b94c39.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T19:18:10.000Z",
-        "excerpt": "Per l'Irap imponibilità passa dal 90% al 30%, abbattimento della deduzione",
-        "image": null
-      },
-      {
-        "title": "Le vendite di Campari superano le stime ma il titolo cede sul outlook USA",
-        "link": "https://it.investing.com/news/stock-market-news/le-vendite-di-campari-superano-le-stime-ma-il-titolo-cede-sul-outlook-usa-3612521",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T19:15:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg"
-      },
-      {
-        "title": "Tesla respinta a 410,85$: aggiornamento in tempo reale",
-        "link": "https://it.investing.com/news/stock-market-news/tesla-in-breakout-sopra-usd-393-aggiornato-ogni-ora-93CH-3606581",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-28T19:11:57.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg"
-      },
-      {
-        "title": "In manovra confermati bonus ristrutturazioni e bonus mobili fino a 5mila euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/28/in-manovra-confermati-bonus-ristrutturazioni-e-bonus-mobili-fino-a-5mila-euro_8c940882-997d-471c-ac63-ed281e8ee60c.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-28T19:11:19.000Z",
-        "excerpt": "Anche nel 2027 agevolazioni al 50% e al 36%",
         "image": null
       },
       {
@@ -187,14 +211,6 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/AdobeStock_211045328-U18205703865sfs-1440x752@IlSole24Ore-Web.jpeg"
       },
       {
-        "title": "Ryanair, stretta in aeroporto: valigie da consegnare un’ora prima del volo",
-        "link": "https://www.repubblica.it/economia/2026/10/28/news/ryanair_checkin_bagagli_aeroporto-425681829/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T14:58:34.000Z",
-        "excerpt": "Dal 10 novembre cambia la procedura per chi viaggia con bagagli da stiva. Chiusura dei banchi anticipata di venti minuti. Nessuna novità per chi ha già effettuato il check-in online e porta soltanto il bagaglio a mano. I",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/155722598-31dca459-0b6e-4edb-8f28-7b3251f66201.jpg"
-      },
-      {
         "title": "Bollo auto, lo stop non si fermerà al 2027: ecco i veicoli esentati",
         "link": "https://www.ilsole24ore.com/art/stop-bollo-auto-l-estensione-platea-manovra-ma-non-sara-tutti-AJH4XtwB",
         "source": "Il Sole 24 Ore",
@@ -209,22 +225,6 @@
         "pubDate": "2026-10-28T14:41:00.000Z",
         "excerpt": "La premier Meloni: la legge di bilancio vale complessivamente circa 26 miliardi, strutturale l’abolizione del bollo auto",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/fabdc6847a6755f5b3e1f576f6f812f8-U35457114878Zqd-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "I robot umanoidi pronti a sbarcare in fabbrica. Ecco L.U.C.A: “Entro Natale in 20 aziende”",
-        "link": "https://www.repubblica.it/economia/2026/10/28/news/luca_lutech_robot_umanoide-425681749/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T14:31:41.000Z",
-        "excerpt": "Lutech presenta il suo robot. L’azienda tech fornisce un “cervello” personalizzabile a seconda delle necessità delle imprese",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/152838351-127e4bc4-b065-482e-b927-de8c46ec145e.jpg"
-      },
-      {
-        "title": "Parmigiano Reggiano, Bontiamo investe nella filiera e acquisisce un caseificio",
-        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/osservacibo/2026/10/28/news/parmigiano_reggiano_bontiamo_investe_nella_filiera_e_acquisisce_un_caseificio-425681760/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-28T14:30:35.000Z",
-        "excerpt": "L'azienda reggiana rafforza la produzione con l'acquisizione del caseificio di Gavasseto e Roncadella. Dal 2027 un nuovo sistema di premi per gli allevatori legato alla qualità del latte",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/153029256-7219d7f5-3fab-4130-a77b-1411638dbbee.jpg"
       },
       {
         "title": "I profeti del codice: il nuovo podcast de Il Sole 24 Ore",
@@ -261,20 +261,84 @@
     ],
     "europa": [
       {
-        "title": "CTO Realty Growth aggiunge BofA Securities come agente di vendita per un'offerta di azioni di $250 milioni",
-        "link": "https://www.investing.com/news/sec-filings/cto-realty-growth-adds-bofa-securities-as-sales-agent-for-250-million-stock-offering-93CH-4980695",
+        "title": "Techprecision estende la data di scadenza su un prestito rotativo di $4,5 milioni con Beacon Bank",
+        "link": "https://www.investing.com/news/sec-filings/techprecision-extends-maturity-date-on-45-million-revolving-loan-with-beacon-bank-93CH-4981021",
         "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-28T20:22:41.000Z",
+        "pubDate": "2026-10-28T21:42:36.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
       },
       {
-        "title": "ABM Industries annuncia il ritiro del COO Rene Jacobsen e il passaggio al ruolo di consulente",
-        "link": "https://www.investing.com/news/sec-filings/abm-industries-announces-retirement-of-coo-rene-jacobsen-and-transition-to-advisor-role-93CH-4980613",
+        "title": "Sanuwave Health modifica il contratto di credito, riceve la rinuncia del prestatore sul rapporto di copertura",
+        "link": "https://www.investing.com/news/sec-filings/sanuwave-health-amends-credit-agreement-receives-lender-waiver-on-coverage-ratio-93CH-4981003",
         "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-28T20:12:40.000Z",
+        "pubDate": "2026-10-28T21:37:50.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
+      },
+      {
+        "title": "CBRE Group annuncia un'offerta di titoli senior da $1 miliardo per finanziare l'acquisizione",
+        "link": "https://www.investing.com/news/sec-filings/cbre-group-announces-1-billion-senior-notes-offering-to-fund-acquisition-93CH-4980994",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T21:34:40.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
+      },
+      {
+        "title": "«Ora finiamo il lavoro»: Trump e Netanyahu alleati per una nuova offensiva contro l’Iran",
+        "link": "https://www.ilsole24ore.com/art/ora-finiamo-lavoro-trump-e-netanyahu-alleati-una-nuova-offensiva-contro-l-iran-AJRzrpwB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-28T21:31:00.000Z",
+        "excerpt": "I Paesi del Golfo avvisati di un attacco imminente, dopo il Midterm. Il presidente Usa sulla tenuta del Likud: «Il mio sostegno ha portato a un’insperata rimonta»",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/LP_24889435-U05477437814bPr-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Gain Therapeutics nomina Jeanette Weidner vicepresidente, finanza",
+        "link": "https://www.investing.com/news/sec-filings/gain-therapeutics-appoints-jeanette-weidner-as-vice-president-finance-93CH-4980967",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T21:28:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
+      },
+      {
+        "title": "Il consiglio di amministrazione di Jaguar Health approva un aumento di sei volte della riserva azionaria del piano di incentivazione azionaria",
+        "link": "https://www.investing.com/news/sec-filings/jaguar-health-board-approves-sixfold-increase-to-stock-incentive-plan-share-reserve-93CH-4980963",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T21:24:16.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
+      },
+      {
+        "title": "Monroe Federal Bancorp nomina Charles G. Brown III nuovo CEO e presidente",
+        "link": "https://www.investing.com/news/sec-filings/monroe-federal-bancorp-names-charles-g-brown-iii-as-new-ceo-and-president-93CH-4980948",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T21:20:21.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
+      },
+      {
+        "title": "Gli azionisti di Cryo-Cell International eleggono gli amministratori e approvano il revisore durante l'assemblea annuale",
+        "link": "https://www.investing.com/news/sec-filings/cryocell-international-shareholders-elect-directors-and-approve-auditor-at-annual-meeting-93CH-4980941",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T21:17:15.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
+      },
+      {
+        "title": "BRC Group Holdings completa la fusione in forma abbreviata con B. Riley Securities Holdings",
+        "link": "https://www.investing.com/news/sec-filings/brc-group-holdings-completes-shortform-merger-with-b-riley-securities-holdings-93CH-4980927",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-28T21:12:51.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
+      },
+      {
+        "title": "Israele, partiti arabi pronti a sostenere Eisenkot",
+        "link": "https://www.ilsole24ore.com/art/israele-alleanze-inedite-knesset-far-tramontare-regno-netanyahu-AJb1SNxB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-28T20:53:00.000Z",
+        "excerpt": "TEL AVIV - Quando in ballo c’è la possibilità di mettere fine al regno di Benjamin Netanyahu, anche le alleanze politiche ritenute quasi impossibili diventano delle opzioni. Fino a martedì...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/2026-10-27T235722Z_5624024_RC2ZBOAVFJWU_RTRMADP_5_ISRAEL-ELECTION-U46346672027YAy-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "La Fed mantiene i tassi invariati al 3,75%–4%, in linea con le stime",
@@ -285,60 +349,12 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/2026-10-28T100149Z_1324973768_RC2QNMA53XCN_RTRMADP_5_USA-FED-FINANCIAL-CONDITIONS-U35818283276JRa-1440x752@IlSole24Ore-Web.JPG"
       },
       {
-        "title": "FlyExclusive per emettere ulteriori azioni di fusione dopo aver finalizzato l'accordo sugli asset Jet.AI",
-        "link": "https://www.investing.com/news/sec-filings/flyexclusive-to-issue-additional-merger-shares-after-finalizing-jetai-asset-deal-93CH-4980332",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-28T17:02:52.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
-      },
-      {
-        "title": "Il consiglio di amministrazione di Citizens Community Bancorp mantiene le dimensioni di otto amministratori",
-        "link": "https://www.investing.com/news/sec-filings/citizens-community-bancorp-board-maintains-size-at-eight-directors-93CH-4980169",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-28T16:02:37.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
-      },
-      {
         "title": "Regno Unito, la manovra Burnham raddoppia al 6% la tassa aggiuntiva sugli utili bancari",
         "link": "https://www.ilsole24ore.com/art/regno-unito-raddoppia-6percento-tassa-aggiuntiva-utili-bancari-AJ5q2swB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-28T15:12:00.000Z",
         "excerpt": "LONDRA - Si potrebbe chiamarlo il “budget delle piccole cose e delle grandi ambizioni”: la prima Finanziaria del Governo laburista guidato da Andy Burnham, presentata oggi in Parlamento,...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/LP_24891646-U87727786385vyv-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Gli azionisti di Strategy Inc approvano dividendi giornalieri per quattro classi di azioni privilegiate",
-        "link": "https://www.investing.com/news/sec-filings/strategy-inc-shareholders-approve-daily-dividends-for-four-preferred-stock-classes-93CH-4979826",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-28T14:33:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/MicroStrategy_800x533_L_1659517189.jpg"
-      },
-      {
-        "title": "People Inc modifica l'accordo di voto con MGM Resorts International e Barry Diller",
-        "link": "https://www.investing.com/news/sec-filings/people-inc-amends-voting-agreement-with-mgm-resorts-international-and-barry-diller-93CH-4979484",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-28T13:27:31.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
-      },
-      {
-        "title": "Dropbox annuncia la riduzione del 9% della forza lavoro e la partenza del CTO",
-        "link": "https://www.investing.com/news/sec-filings/dropbox-announces-9-workforce-reduction-and-cto-departure-93CH-4979461",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-28T13:22:50.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
-      },
-      {
-        "title": "Il vicepresidente di T-Mobile US, G. Michael Sievert, si dimette dal consiglio di amministrazione e dal comitato",
-        "link": "https://www.investing.com/news/sec-filings/tmobile-us-vice-chair-g-michael-sievert-to-resign-from-board-and-committee-93CH-4979302",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-10-28T13:02:43.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/T-Mobile_800x533_L_1629564491.jpg"
       },
       {
         "title": "Nave da crociera sospende il giro del mondo: carburante troppo caro",
@@ -365,55 +381,159 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/28/Immagini/Ritagli/ca6a7663fa718c2ff8abe244f5c0778e-U84370734104HHV-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Spagna, scontro fra treni vicino Toledo. Sette italiani coinvolti, due connazionali dispersi. Almeno 68 vittime",
+        "title": "Spagna, scontro fra treni vicino Toledo. Nove italiani coinvolti, tre connazionali dispersi. Almeno 68 vittime",
         "link": "https://www.ilsole24ore.com/art/spagna-almeno-dieci-morti-scontro-treni-toledo-AJZaxbwB",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-10-28T09:20:00.000Z",
         "excerpt": "È salito a 68 morti ufficiali e 80 feriti, di cui 50 gravi il bilancio del drammatico incidente ferroviario sulla linea ad alta velocità Madrid-Siviglia. Il treno Iryo 6076 -...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/LP_24892996-U56650472582GGJ-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Serbia, attentato all’ambasciata di Israele: ucciso l’assalitore",
-        "link": "https://www.ilsole24ore.com/art/serbia-attentato-all-ambasciata-israele-ucciso-l-assalitore-AJV1CXwB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-28T07:45:00.000Z",
-        "excerpt": "Un minorenne si sarebbe scagliato con due coltelli contro una guardia che lo ha eliminato",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/2026-10-28T074309Z_1996180297_RC27COATCBVP_RTRMADP_5_SERBIA-ATTACK-U22783282563sdG-1440x752@IlSole24Ore-Web.JPG"
-      },
-      {
-        "title": "Flavio Bolsonaro negli Usa: Trump favorevole all’ingresso mentre Lula condanna la fuga",
-        "link": "https://www.ilsole24ore.com/art/trump-favorevole-all-ingresso-usa-bolsonaro-che-oggi-parla-washington-AJ0WDUwB",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-10-28T06:46:00.000Z",
-        "excerpt": "Il presidente Donald Trump ha dichiarato di vedere di buon occhio l’arrivo negli Stati Uniti del senatore Flavio Bolsonaro, dopo la sconfitta nelle elezioni presidenziali di domenica in Brasile contro...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/29/Immagini/Ritagli/italyphotopress1480344-1793125357142-U35016747145Cfj-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "usa": [],
     "mondo": [
       {
-        "title": "Flávio Bolsonaro è in Florida: “Sono il presidente legittimo, guiderò l’opposizione da qui”",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/flavio_bolsonaro_fuga_florida_aereo-425681643/?rss",
+        "title": "Una legge dello Stato di New York vieta ai minori interazioni con i chatbot",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/una-legge-dello-stato-di-new-york-vieta-ai-minori-interazioni-con_8c1bd0ec-a5da-486f-8803-4c1c164f2d41.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-29T00:10:19.000Z",
+        "excerpt": "'Non può generare contenuti che lascino intendere che esso sia umano'",
+        "image": null
+      },
+      {
+        "title": "Screwworm infesta il cane in Arizona, ampliando i casi negli Stati Uniti",
+        "link": "https://www.investing.com/news/commodities-news/us-confirms-new-world-screwworm-in-a-dog-in-arizona-4981068",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-29T00:06:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R2JM_L.jpg"
+      },
+      {
+        "title": "Fenomeno Ossoff ad Atlanta, la benedizione di Obama può valere la Casa Bianca",
+        "link": "https://www.repubblica.it/esteri/2026/10/29/news/fenomeno_jon_ossoff_georgia_usa_midterm_benedizione_obama_casa_bianca-425682814/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T20:21:33.000Z",
-        "excerpt": "Il senatore brasiliano, in fuga negli Stati Uniti insieme alla famiglia dopo la sconfitta alle elezioni presidenziali, ha ottenuto un visto dagli Usa. Le prime parole: “Chiedo alla comunità internazionale di non normaliz",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/144138002-ee0bc4c7-96d4-4117-97c6-f36bfbe5614d.jpg"
+        "pubDate": "2026-10-29T00:00:00.000Z",
+        "excerpt": "L’ex presidente è volato ieri nella città di Martin Luther King per sostenere il giovane senatore che cerca la riconferma. Il comizio sembra un passaggio del testimone a quello che potrebbe diventare il suo erede politic",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/221422498-896c3a55-e2a1-46ff-a079-ff2a5c3cf938.jpg"
       },
       {
-        "title": "'Vance ha scritto a esponente linea dura dell'Iran per riavviare i colloqui'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/vance-ha-scritto-a-esponente-linea-dura-delliran-per-riavviare-i-colloqui_240cab51-aecd-46ff-9fba-cca377d09cf2.html",
+        "title": "Netanyahu è di nuovo primo ma non ha la maggioranza. Prende corpo l’idea di un governo di unità nazionale",
+        "link": "https://www.repubblica.it/esteri/2026/10/29/news/israele_elezioni_netanyahu_e_di_nuovo_primo_ma_non_ha_maggioranza_governo_unita_nazionale-425682954/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-29T00:00:00.000Z",
+        "excerpt": "La coalizione del premier israeliano incassa 53 seggi contro i 48 dell’opposizione. Exploit dei palestinesi. Cresce l’attesa per le scelte del presidente Herzog",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/230218249-e59f3201-2928-4462-b58c-4e779cfbd08b.jpg"
+      },
+      {
+        "title": "Le metamorfosi di Bibi, “il mago” delle alleanze per restare al potere",
+        "link": "https://www.repubblica.it/esteri/2026/10/29/news/netanyahu_le_metamorfosi_di_bibi_il_mago_delle_alleanze_per_restare_al_potere_israele-425682830/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-29T00:00:00.000Z",
+        "excerpt": "Il premier ha fatto leva sulla paura per sfilare voti agli alleati di destra Smotrich e Ben Gvir: così ha limitato la perdita di consenso ed è rimasto al centro dell’agone. Ora nulla gli impedisce di rimanere al governo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/221856182-79b217ee-4d1d-4775-8739-bac601d31bc5.jpg"
+      },
+      {
+        "title": "Il leader del partito palestinese: “La pace e stop alle demolizioni delle case. Se Eisenkot accetta, lo sosteniamo”",
+        "link": "https://www.repubblica.it/esteri/2026/10/29/news/intervista_elezioni_israele_leader_del_partito_palestinese_pace_e_stop_demolizioni_di_case_cosi_saremo_nel_campo_anti-bibi-425682803/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-29T00:00:00.000Z",
+        "excerpt": "Sami Abu Shehadeh: “Toglieremo alla destra la presidenza della Knesset, votando con l’opposizione: a dimostrazione che siano pronti all’alleanza”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/220942166-ec471b73-214a-4b74-b709-edc8dc232026.jpg"
+      },
+      {
+        "title": "Djokovic da traditore a eroe, Serbia pronta a riaccoglierlo",
+        "link": "https://www.repubblica.it/esteri/2026/10/29/news/djokovic_da_traditore_a_eroe_serbia_pronta_a_riaccoglierlo-425682764/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-29T00:00:00.000Z",
+        "excerpt": "Il campione, schierato con gli studenti anti-Vucic, era finito nella lista nera delle tv di Stato e aveva lasciato il Paese. Ora valuta il ritorno",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/215214601-153d6ae2-2744-4ad0-ad27-ff4042f7f6fe.jpg"
+      },
+      {
+        "title": "A Gaza la notte insonne davanti alla tv per seguire le elezioni: “Al risveglio la delusione”",
+        "link": "https://www.repubblica.it/esteri/2026/10/29/news/a_gaza_la_notte_insonne_davanti_alla_tv_per_seguire_le_elezioni_tra_speranza_e_delusione-425682740/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-29T00:00:00.000Z",
+        "excerpt": "Generatori e telefoni: la popolazione stremata si è arrangiata per lo spoglio. “Sembrava Netanyahu fosse fuori, così non cambia nulla”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/214800178-31aefb68-79ef-49eb-ba21-40c819be6273.jpg"
+      },
+      {
+        "title": "Gitai “Non tutto è perduto, serve un progetto comune per andare oltre l’odio”",
+        "link": "https://www.repubblica.it/esteri/2026/10/29/news/intervista_scrittore_amos_gitai_israele_non_tutto_e_perduto_ora_un_progetto_comune_per_andare_oltre_l_odio-425682650/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-29T00:00:00.000Z",
+        "excerpt": "Il regista: “I cittadini arabi di Israele hanno capito che possono battersi per cambiare il Paese insieme alle forze progressiste”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/204914364-cfb86886-322d-48d3-a446-ea9dbfc91c93.jpg"
+      },
+      {
+        "title": "Brasile, Flávio Bolsonaro ritira la proclamazione a presidente eletto (2)",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/28/brasile-flavio-bolsonaro-ritira-la-proclamazione-a-presidente-eletto-2_137dfdc7-7714-4d50-990f-5d11a8c7db56.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T20:18:57.000Z",
-        "excerpt": "Wsj, lettera a Rezaei su indicazione di Trump",
+        "pubDate": "2026-10-28T22:41:53.000Z",
+        "excerpt": "",
         "image": null
       },
       {
-        "title": "Eisenkot, 'agirò per un governo del cambiamento sionista e per la leva militare'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/eisenkot-agiro-per-un-governo-del-cambiamento-sionista-e-per-la-leva-militare_319d7d5b-b9ec-4f10-a35a-2f6b3c25d427.html",
+        "title": "++ Brasile, Flávio Bolsonaro ritira la proclamazione a presidente eletto ++",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/28/-brasile-flavio-bolsonaro-ritira-la-proclamazione-a-presidente-eletto-_967f98b2-125b-4916-a166-cdb81af919aa.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T20:17:11.000Z",
-        "excerpt": "'Blocco rivali al punto più basso della sua storia in vent'anni'",
+        "pubDate": "2026-10-28T22:41:07.000Z",
+        "excerpt": "Il senatore corregge la lettera con la definizione di 'leader del Brasile'",
         "image": null
+      },
+      {
+        "title": "Scontro treni in Spagna, 'audio puntano il dito su centro controllo di Atocha'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/28/scontro-treni-in-spagna-audio-puntano-il-dito-su-centro-controllo-di-atocha_6b1baee7-24b2-4408-b011-26edcf284b4f.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T22:10:19.000Z",
+        "excerpt": "'Tre colloqui fra il centro di controllo e i macchinisti dei treni mostrano errori'",
+        "image": null
+      },
+      {
+        "title": "Farnesina, tre le italiane disperse nell'incidente ferroviario in Spagna",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/28/farnesina-tre-le-italiane-disperse-nellincidente-ferroviario-in-spagna_e03b1f12-1a92-4548-bcd0-628395e1750e.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T21:50:37.000Z",
+        "excerpt": "'Cinque connazionali recuperati in condizioni stabili, uno ricoverato in ospedale'",
+        "image": null
+      },
+      {
+        "title": "I prezzi del petrolio aumentano mentre l'attacco degli Houthi alla raffineria saudita alimenta i timori di interruzione dell'offerta",
+        "link": "https://www.investing.com/news/commodities-news/oil-rebounds-as-houthi-attacks-on-saudi-arabia-overshadow-diplomatic-efforts-4977356",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-28T21:38:42.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC190AN_M.jpg"
+      },
+      {
+        "title": "Trump, 'Bolsonaro rivendica presidenza del Brasile? Non voglio essere coinvolto'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/28/trump-bolsonaro-rivendica-presidenza-del-brasile-non-voglio-essere-coinvolto_bb0b255b-5a07-4ce7-b2d1-79287deceb3a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T21:24:46.000Z",
+        "excerpt": "'Non voglio commentare. È stata un'elezione molto strana, questo è certo'",
+        "image": null
+      },
+      {
+        "title": "Bolsonaro, 'io il vero presidente del Brasile, guiderò l'opposizione dagli Usa' (2)",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/28/bolsonaro-io-il-vero-presidente-del-brasile-guidero-lopposizione-dagli-usa-2_aa1db98f-bf14-412e-b846-9bce8a10af25.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T21:15:58.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "Bolsonaro, 'io il vero presidente del Brasile, guiderò l'opposizione dagli Usa'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/28/bolsonaro-io-il-vero-presidente-del-brasile-guidero-lopposizione-dagli-usa_97668751-174c-4e40-99e5-f281bdbc0d5a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-28T21:00:00.000Z",
+        "excerpt": "'Criminali hanno rubato le elezioni e hanno instaurato una tirannia'",
+        "image": null
+      },
+      {
+        "title": "L'Iran vede solo idee inaccettabili nell'ultima mediazione per porre fine alla guerra, afferma un funzionario",
+        "link": "https://www.investing.com/news/commodities-news/iran-sees-only-unacceptable-ideas-in-latest-mediation-to-end-war-official-says-4979005",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-28T20:43:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R0NZ_L.jpg"
       },
       {
         "title": "L'oro sale mentre il dollaro si indebolisce dopo che la Fed mantiene i tassi stabili come ampiamente previsto",
@@ -424,28 +544,12 @@
         "image": "https://content-media.investing.com/news/LYNXNPEC140H9_M.jpg"
       },
       {
-        "title": "Trump grida alla frode elettorale, i democratici hanno barato in Alaska",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/28/trump-grida-alla-frode-elettorale-i-democratici-hanno-barato-in-alaska_25ee2794-d7b2-40ef-b1d5-9442c0787e19.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T19:43:22.000Z",
-        "excerpt": "'Hanno mentito sul candidato omonimo del repubblicano, è falsa testimonianza'",
-        "image": null
-      },
-      {
         "title": "L'Italia approva il bilancio 2027 con aumenti delle tasse su banche e imprese energetiche",
         "link": "https://www.investing.com/news/commodities-news/italy-approves-2027-budget-with-tax-hikes-on-banks-and-energy-firms-4980520",
         "source": "Investing.com Commodities",
         "pubDate": "2026-10-28T19:30:40.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9R29I_L.jpg"
-      },
-      {
-        "title": "Israele, i media: 'Herzog vedrà Netanyahu e Eisenkot per testare un governo di unità' - LA CRONACA DELLA GIORNATA",
-        "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/israele-i-media-herzog-vedra-netanyahu-e-eisenkot-per-testare-un-governo-di-unita_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T19:29:24.000Z",
-        "excerpt": "Il blocco di Bibi a 53 seggi, quello dello sfidante a 48. Likud: 'Elezioni rubate da partiti arabi che sostengono il terrorismo'",
-        "image": null
       },
       {
         "title": "Test WTI del petrolio greggio $103,50 doppia resistenza superiore: livelli live",
@@ -472,142 +576,46 @@
         "image": "https://content-media.investing.com/news/LYNXMPEE0O1GP_M.jpg"
       },
       {
-        "title": "Il Brent Oil si consolida all'interno del cloud Ichimoku: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/brent-oil-tests-cloud-support-after-parabolic-top-live-levels-93CH-4971503",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T19:18:25.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC1S11A_M.jpg"
-      },
-      {
-        "title": "Il gasolio di Londra si consolida alla confluenza del supporto chiave: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-consolidates-in-triangle-at-key-support-live-levels-93CH-4971507",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T19:18:23.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED340BA_M.jpg"
-      },
-      {
-        "title": "Bandiera dell'orso d'argento attiva vicino a $53,59 resistenza: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/silver-in-freefall-below-all-mas-doji-hints-at-exhaustion-live-93CH-4971502",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-28T19:18:18.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEL6M0VW_L.jpg"
-      },
-      {
         "title": "Regno Unito, tre sottomarini nucleari su quattro in missione. I media: “Inusuale”. Ma c’è un perché",
         "link": "https://www.repubblica.it/esteri/2026/10/28/news/regno_unito_tre_sottomarini_nucleari_su_quattro_missione_media_inusuale_perche-425682469/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-10-28T19:04:10.000Z",
         "excerpt": "I giornali britannici si interrogano sull’insolita mossa, a pochi giorni dall’appello del governo ai cittadini per scorte di cibo, contanti e radio FM. Ma l’ex comandante della Royal Navy John Foreman dichiara a Repubbli",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/200356616-8155fa04-8247-4c0c-b604-beab77d71b95.jpg"
-      },
-      {
-        "title": "Farnesina, '7 italiani coinvolti nell'incidente tra treni in Spagna, due disperse'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/28/farnesina-7-italiani-coinvolti-nellincidente-tra-treni-in-spagna-due-disperse_2ff893da-6588-4a46-9333-893072601877.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T19:01:56.000Z",
-        "excerpt": "Proseguono i contatti per il secondo treno operato da Renfe",
-        "image": null
-      },
-      {
-        "title": "Toledo, scontro tra due treni alta velocità: “Almeno 68 morti”. Sánchez: “Tutta la Spagna in lutto”. Faarnesina: due italiane tra i dispersi",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/spagna_scontro_treni_alta_velocita_toledo-425680863/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T18:59:55.000Z",
-        "excerpt": "Ipotesi tamponamento per errore umano dalla centrale operativa in seguito a un guasto tecnico. Il ministro dei Trasporti: “Dato l’ordine sbagliato di ripartire nonostante un treno fermo sui binari”. Nell’impatto alcuni v",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/122237865-a0dd0f23-153d-4c8e-a036-0c4213f95892.jpg"
-      },
-      {
-        "title": "'Trump, dobbiamo finire il lavoro in Iran, con accordo o in altro modo'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/trump-dobbiamo-finire-il-lavoro-in-iran-con-accordo-o-in-altro-modo_84f908be-8c81-4c08-addb-6ff57d060118.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T18:58:21.000Z",
-        "excerpt": "Axios, negoziati in corso tramite i mediatori, vedremo se avranno successo",
-        "image": null
-      },
-      {
-        "title": "Nyt, quasi 23 milioni di tonnellate di alghe fiorite nel Mar dei Caraibi",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/28/nyt-quasi-23-milioni-di-tonnellate-di-alghe-fiorite-nel-mar-dei-caraibi_08d0fe61-f3b5-429e-8ce2-db07a3677276.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T18:06:22.000Z",
-        "excerpt": "Nyt: 'La quantità più alta mai registrata, il turismo del Messico in difficoltà'",
-        "image": null
-      },
-      {
-        "title": "La rivista 'Life' torna in edicola dopo vent'anni grazie alla cognata di Jared Kushner",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/28/la-rivista-life-torna-in-edicola-dopo-ventanni-grazie-alla-cognata-di-jared_8b178fc8-edb2-4454-af09-ffc94947b859.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-28T16:50:46.000Z",
-        "excerpt": "La modella e imprenditrice Karlie Kloss ha rilanciato il magazine fondato nel 1936",
-        "image": null
-      },
-      {
-        "title": "Spagna, il racconto del giornalista a bordo del treno: “Coperto di sangue, avevo persone addosso”",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/spagna_treni_incidente_toledo_testimonianze-425681368/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T14:44:54.000Z",
-        "excerpt": "Il reporter del País Antonio Jiménez Barca si trovava su uno dei due mezzi coinvolti nell’incidente ferroviario avvenuto nei pressi di Toledo",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/124830059-12fef2a0-99e3-4ada-b444-cd401cf53fde.jpg"
-      },
-      {
-        "title": "Texas e Alaska, perché i due Stati sono decisivi nelle elezioni Usa di midterm",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/elezioni_usa_midterm_trump_texas_alaska_candidati-425681599/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T14:10:55.000Z",
-        "excerpt": "Due competizioni serrate che potrebbero rivelarsi fondamentali nelle elezioni di metà mandato, mettendo a rischio due importanti roccaforti repubblicane",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/140823523-a3c09ffe-e1fd-4a7f-b4df-a5a8c5cce206.jpg"
-      },
-      {
-        "title": "Iran, la vendetta del sistema: cinque anni di carcere a Panahi, il regista Palma d’Oro a Cannes",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/iran_jafar_panahi_carcere_palma_oro_cannes-425681440/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T12:25:48.000Z",
-        "excerpt": "Da sempre critico con la Repubblica islamica, ad aprile aveva scelto di tornare nel suo paese nonostante il rischio di finire in prigione. Sequestrati tutti i suoi beni e bloccati i conti bancari. Il suo Un semplice Inci",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/130209882-431dd326-2561-4f50-9b26-d5bbdcf34d24.jpg"
-      },
-      {
-        "title": "L’ultima di Trump jr: caccia alla pecora in Mongolia con l’oligarca russo vicino a Putin",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/trump_jr_caccia_in_mongolia_con_l_oligarca_russo_kremlev-425681492/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T12:21:16.000Z",
-        "excerpt": "L’episodio, rivelato dal Financial Times, si è verificato ad agosto, quattro mesi dopo un altro scandalo: lo stesso Umar Kremlev aveva pagato le nozze del figlio del tycoon. I due cercavano un esemplare a rischio estinzi",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/131948274-bb371c05-decd-4106-a06b-b15da56ba0e8.jpg"
-      },
-      {
-        "title": "Israele, cosa succede adesso: ecco gli scenari",
-        "link": "https://www.repubblica.it/esteri/2026/10/28/news/israele_elezioni_scenari_cosa_succede-425680832/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-10-28T08:40:31.000Z",
-        "excerpt": "Dopo il voto di ieri le prospettive sono un governo Netanyahu con l’appoggio di un partito dell’opposizione o un esecutivo di minoranza guidato da Eisenkot con il sostegno dei partiti arabi. Ma esiste anche l’ipotesi nuo",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/28/093758878-3b91380d-8977-40a0-ba7a-7ca07e2d0b75.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Serie A: in campo Genoa-Juventus 2-0 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/serie-a-in-campo-genoa-juventus-2-0-diretta-e-foto_afdfbbbf-7cf8-4d4d-b099-f02db4cb6e84.html",
+      "title": "Crollo di Milan e Juventus, l'Inter riaggancia la Lazio",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/28/crollo-di-milan-e-juventus-linter-riaggancia-la-lazio_66fffdd7-92bf-46ae-b1d0-ba385683e400.html",
       "source": "ANSA",
-      "pubDate": "2026-10-28T20:34:35.000Z",
-      "excerpt": "Match valido per la nona giornata di campionato",
+      "pubDate": "2026-10-28T22:48:55.000Z",
+      "excerpt": "I nerazzurri passano a Venezia, festa del Bologna a San Siro. Il Genoa piega Spalletti, poker del Napoli",
       "image": null
     },
     {
-      "title": "Serie A: in campo Monza-Napoli 1-1 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/serie-a-in-campo-monza-napoli-0-1-diretta-e-foto_dc3bf708-6ef0-40da-bd21-2a67145432f4.html",
+      "title": "Almeno 68 morti nell'incidente ferroviario a Toledo Tre italiane disperse",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/almeno-68-morti-nellincidente-ferroviario-a-toledo-tre-italiane-disperse_3124daf4-1c75-4126-a99f-4356a4740361.html",
       "source": "ANSA",
-      "pubDate": "2026-10-28T20:30:03.000Z",
-      "excerpt": "Match valido per la nona giornata di campionato",
+      "pubDate": "2026-10-28T22:03:56.000Z",
+      "excerpt": "L'incidente sulla linea Madrid-Sevilla. L'ipotesi dell'errore umano",
       "image": null
     },
     {
-      "title": "Spagna: Toledo, almeno 68 morti nello scontro tra due treni. La Farnesina: 'Coinvolti 7 italiani, due disperse'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/spagna-toledo-almeno-68-morti-nello-scontro-tra-due-treni.-la-farnesina_3124daf4-1c75-4126-a99f-4356a4740361.html",
+      "title": "Studente di Foggia tra i sopravvissuti al disastro ferroviario in Spagna: “Sto bene, voglio aiutare”",
+      "link": "https://bari.repubblica.it/cronaca/2026/10/28/news/studente_di_foggia_tra_i_sopravvissuti_al_disastro_ferroviario_in_spagna_sto_bene_voglio_aiutare-425682940/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-28T21:59:23.000Z",
+      "excerpt": "Antonio Narciso, 21 anni, è uno degli italiani che viaggiavano sul treno coinvolto nel terribile incidente a Toledo: volontario della Protezione civile si è messo a disposizione per sostenere i soccorritori",
+      "image": null
+    },
+    {
+      "title": "Siher torna in libertà, Meloni attacca la gip: 'Una decisione vergognosa. È una mortificazione delle forze dell'ordine'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/28/meloni-dalla-gip-di-milano-una-decisione-vergognosa-su-siher.-lanm-solidarieta_cf22bf4c-c1b3-46ba-b54f-c5e1eb028452.html",
       "source": "ANSA",
-      "pubDate": "2026-10-28T19:19:09.000Z",
-      "excerpt": "Due vagoni caduti in una scarpata dopo lo scontro. L'incidente sulla linea Madrid-Siviglia, la stessa della sciagura del 18 gennaio. 'Errore umano'",
+      "pubDate": "2026-10-28T21:03:12.000Z",
+      "excerpt": "L'Anm: 'La delegittimazione dei magistrati è il consueto esercizio di intimidazione'",
       "image": null
     },
     {
@@ -683,19 +691,11 @@
       "image": null
     },
     {
-      "title": "Flavio Bolsonaro è in Florida: “Guiderò l’opposizione da qui”",
+      "title": "La fuga notturna di Bolsonaro tra i depistaggi di Rubio e Milei",
       "link": "https://www.repubblica.it/esteri/2026/10/28/news/flavio_bolsonaro_fuga_florida_aereo-425681643/",
       "source": "Repubblica",
       "pubDate": "2026-10-28T13:41:48.000Z",
-      "excerpt": "Il senatore brasiliano, in fuga negli Stati Uniti insieme alla famiglia dopo la sconfitta alle elezioni presidenziali, ha ottenuto un visto dagli Usa. Le prime parole: “Chiedo alla comunità internazionale di non normaliz",
-      "image": null
-    },
-    {
-      "title": "Reintegro medici no vax, Craxi: “Al Senato modifiche”. Convegno Lega per le vittime dei vaccini",
-      "link": "https://www.repubblica.it/politica/2026/10/28/news/reintegro_medici_no_vax_craxi_convegno_lega_vittime_vaccini-425681581/",
-      "source": "Repubblica",
-      "pubDate": "2026-10-28T13:00:00.000Z",
-      "excerpt": "Tensioni in Forza Italia. Zampa (Pd): “Inaccettabile evento al Senato nelle stesse ore in cui Mattarella torna a difendere la ricerca”",
+      "excerpt": "L’internazionale sovranista ha gestito il piano per portare negli Usa l’ex candidato brasiliano. È entrato via terra in Argentina, da dove è volato a Miami. Poi l’accusa: “Elezioni truccate”",
       "image": null
     },
     {
@@ -717,67 +717,67 @@
   ],
   "sport": [
     {
-      "title": "L'Inter soffre a Venezia ma con due autogol aggancia la Lazio",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/linter-soffre-a-venezia-ma-con-due-autogol-aggancia-la-lazio_827a62d9-5f86-4662-8dc7-c863c483cc6c.html",
+      "title": "Crollo di Milan e Juventus, l'Inter riaggancia la Lazio",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/28/crollo-di-milan-e-juventus-linter-riaggancia-la-lazio_66fffdd7-92bf-46ae-b1d0-ba385683e400.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T20:39:26.000Z",
-      "excerpt": "I nerazzurri restano in vetta, veneti spreconi beffati nel finale",
+      "pubDate": "2026-10-28T22:48:55.000Z",
+      "excerpt": "I nerazzurri passano a Venezia, festa del Bologna a San Siro. Il Genoa piega Spalletti, poker del Napoli",
       "image": null
     },
     {
-      "title": "Serie A: in campo Genoa-Juventus 2-0 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/serie-a-in-campo-genoa-juventus-2-0-diretta-e-foto_afdfbbbf-7cf8-4d4d-b099-f02db4cb6e84.html",
+      "title": "Napoli: Landucci 'la partita più importante era Monza, felici dei tre punti'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/napoli-landucci-la-partita-piu-importante-era-monza-felici-dei-tre_a9837330-6c2f-43f4-af66-11f762f5e6b1.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T20:34:35.000Z",
-      "excerpt": "Match valido per la nona giornata di campionato",
+      "pubDate": "2026-10-28T22:32:27.000Z",
+      "excerpt": "'Intrapreso una buona strada, Lobotka? Domani esami, dispiace per lui'",
       "image": null
     },
     {
-      "title": "Galliani e Malagò pronti alla sfida per la presidenza della Figc",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/galliani-e-malago-pronti-alla-sfida-per-la-presidenza-della-figc_dde0e88f-19fe-467a-8b08-478ce6781a14.html",
+      "title": "Calcio: Spalletti \"stasera poca roba, poca lotta, bisogna dare di più\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/calcio-spalletti-stasera-poca-roba-poca-lotta-bisogna-dare-di-piu_46f89011-cf7b-4e4c-a97f-704291da5ec5.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T20:32:34.000Z",
-      "excerpt": "",
+      "pubDate": "2026-10-28T22:30:22.000Z",
+      "excerpt": "Il tecnico bianconero, \"bisogna capire che il calcio è cambiato\"",
       "image": null
     },
     {
-      "title": "Palladino 'grande Bologna, sempre bello vincere a San Siro'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/palladino-grande-bologna-sempre-bello-vincere-a-san-siro_c6ae5d52-c5f5-4fcf-988b-3df77e20588e.html",
+      "title": "Il Napoli torna a vincere, Monza travolto 1-4",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/il-napoli-torna-a-vincere-monza-travolto-1-4_dc3bf708-6ef0-40da-bd21-2a67145432f4.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T20:30:17.000Z",
-      "excerpt": "'Cambi hanno fatto la differenza, sapevo che il Milan sarebbe calato nella ripresa'",
+      "pubDate": "2026-10-28T22:24:50.000Z",
+      "excerpt": "Hojlund apre, pari Varela, poi Politano, Marin e De Bruyne; Lobotka ko",
       "image": null
     },
     {
-      "title": "Serie A: in campo Monza-Napoli 1-1 DIRETTA e FOTO",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/serie-a-in-campo-monza-napoli-0-1-diretta-e-foto_dc3bf708-6ef0-40da-bd21-2a67145432f4.html",
+      "title": "Per la Juve la crisi non è finita, il Genoa la mette ko",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/per-la-juve-la-crisi-non-e-finita-il-genoa-la-mette-ko_afdfbbbf-7cf8-4d4d-b099-f02db4cb6e84.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T20:30:03.000Z",
-      "excerpt": "Match valido per la nona giornata di campionato",
+      "pubDate": "2026-10-28T22:22:16.000Z",
+      "excerpt": "Ehizibue e Baldanzi firmano il 2-0 dei rossoblù, De Rossi batte il maestro Spalletti",
       "image": null
     },
     {
-      "title": "Amorim 'Milan stanco, per il derby non so in quanti saremo'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/amorim-milan-stanco-per-il-derby-non-so-in-quanti-saremo_64b28c60-97d5-41a4-9559-9a9b579628dd.html",
+      "title": "Serie A: il Napoli batte il Monza, la Juve va ko a Genova",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/serie-a-il-napoli-batte-il-monza-la-juve-va-ko-a-genova_ee48baa7-0014-478f-a538-d2cdc02b6579.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T20:23:19.000Z",
-      "excerpt": "Il tecnico, Camarda ha avuto l'opportunità per pareggiare",
+      "pubDate": "2026-10-28T21:41:02.000Z",
+      "excerpt": "Gli azzurri si impongono 4-1, il Genoa ne fa due ai bianconeri",
       "image": null
     },
     {
-      "title": "Calcio: Nicola, orgoglioso della squadra, spirito giusto per salvarsi",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/calcio-nicola-orgoglioso-della-squadra-spirito-giusto-per-salvarsi_f4d79474-4087-4a95-82d6-5d220975f712.html",
+      "title": "Galliani contro Malagò, pronta la corsa per la sfida alla Figc",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/galliani-contro-malago-pronta-la-corsa-per-la-sfida-alla-figc_dde0e88f-19fe-467a-8b08-478ce6781a14.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T20:19:43.000Z",
-      "excerpt": "In Serie A fare gol al momento giusto sposta gli equilibri emotivi",
+      "pubDate": "2026-10-28T21:00:07.000Z",
+      "excerpt": "Le elezioni sono fissate per il 14 dicembre",
       "image": null
     },
     {
-      "title": "Federcalcio: Aic e Aiac pronti ad annunciare la candidatura di Galliani",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/federcalcio-aic-e-aiac-pronti-ad-annunciare-la-candidatura-di-galliani_64e6d8bd-2572-4b0b-92ec-180922aa9c95.html",
+      "title": "Tra Parma e Udinese vince la paura di perdere, è 0-0",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/28/tra-parma-e-udinese-vince-la-paura-di-perdere-e-0-0_9bf7938b-14ee-4608-91c2-2107bc075665.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-10-28T19:52:24.000Z",
-      "excerpt": "Previsto un comunicato domani, ci sarebbe già il quorum delle firme",
+      "pubDate": "2026-10-28T20:47:12.000Z",
+      "excerpt": "Le due squadre interrompono la serie di sconfitte. Okoye para un rigore ai ducali",
       "image": null
     }
   ]
