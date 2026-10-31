@@ -1,0 +1,785 @@
+{
+  "date": "2026-11-01",
+  "label": "dom 01/11",
+  "finanza": {
+    "italia": [
+      {
+        "title": "I principali risultati del sondaggio annuale di Bernstein sull’abbigliamento sportivo globale",
+        "link": "https://it.investing.com/news/stock-market-news/i-principali-risultati-del-sondaggio-annuale-global-sportswear-di-bernstein-3619986",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-31T22:57:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+      },
+      {
+        "title": "Fumarola: “Il taglio di 7 mila posti nella scuola va ritirato. No alla flat tax allargata”",
+        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/31/news/fumarola_cisl_no_a_taglio_scuola_flat_tax_stretta_pensioni-425690812/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-31T21:51:39.000Z",
+        "excerpt": "La segretaria generale della Cisl apprezza molte misure. Ma chiede al governo di rendere strutturale lo sgravio Irpef e cancellare la stretta sulle pensioni",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/225129744-731ed926-2914-4a71-98b3-05f81650a1d7.jpg"
+      },
+      {
+        "title": "Manovra, dalla Cgil alle opposizioni: raffica di critiche. Il sindacato: “Governo su altro pianeta”",
+        "link": "https://www.repubblica.it/economia/2026/10/31/news/manovra_dalla_cgil_alle_opposizioni_raffica_di_critiche_il_sindacato_governo_su_altro_pianeta-425690188/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-31T21:33:44.000Z",
+        "excerpt": "Tasse, welfare e istruzione: gli scontenti della finanziaria. Forbici per 7mila tra cattedre e personale, “scelta vergognosa”. La Caritas: “Così è iniqua”. Salvini prende ancora di mira le banche, in Parlamento dote da 1",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/182406207-45673c59-935f-4a87-993e-6743dd4cbde1.jpg"
+      },
+      {
+        "title": "Manovra, scontro sulla scuola. Banche ancora sotto tiro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-scontro-sulla-scuola.-banche-ancora-sotto-tiro_ff019702-1b62-4f1a-8c3d-ca9b9e0ad8cb.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-31T20:43:44.000Z",
+        "excerpt": "Il testo della legge di bilancio sotto il fuoco incrociato di opposizioni, sindacati ed enti locali. A fare polemica all'indomani della pubblicazione è soprattutto la stretta sugli organici della scuola",
+        "image": null
+      },
+      {
+        "title": "Manovra, le principali misure in pillole",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-le-principali-misure-in-pillole_f5cb7876-7b38-43ac-b235-f21dc2593c8c.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-31T19:27:34.000Z",
+        "excerpt": "La scheda",
+        "image": null
+      },
+      {
+        "title": "Perché il sell-off dei bond francesi è un avvertimento per i governi globali",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-selloff-dei-bond-francesi-e-un-avvertimento-per-i-governi-globali-3619980",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-31T18:53:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEE9L1CO_M.jpg"
+      },
+      {
+        "title": "Salvini, 'se il Parlamento vuole un contributo maggiore dalle banche è sovrano'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_2d816f91-c8e0-47ed-a064-5eb074b254a4.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-31T18:16:12.000Z",
+        "excerpt": "\"Con quei soldi si aiutano famiglie, lavoratori, pensionati, si può fare di più\"",
+        "image": null
+      },
+      {
+        "title": "Dalla stretta su rivalutazione delle pensioni risparmi lordi per 14,2 miliardi in 10 anni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/dalla-stretta-su-rivalutazione-delle-pensioni-risparmi-lordi-per-142-miliardi_b41b464e-adae-4c42-b4ed-7b13351edd81.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-31T18:15:07.000Z",
+        "excerpt": "Nel triennio 2027-29 885 milioni l'anno. Progressivamente meno dal 2030",
+        "image": null
+      },
+      {
+        "title": "Binance reintegra il 90% degli asset sottratti con l'attacco informatico",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/binance-reintegra-il-90-degli-asset-sottratti-con-lattacco-informatico_1a566090-636a-40c0-b28a-c8f8cee8e873.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-31T17:31:32.000Z",
+        "excerpt": "'Non saranno i nostri utenti a subirne le conseguenze'",
+        "image": null
+      },
+      {
+        "title": "Meta sviluppa un robot umanoide con la cinese Fourier",
+        "link": "https://it.investing.com/news/stock-market-news/meta-sviluppa-un-robot-umanoide-con-la-cinese-fourier-3619977",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-31T17:29:26.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
+        "title": "Manovra, tornano i carabinieri ausiliari. Saranno 600 nel 2027 e 1000 l'anno dal 2028",
+        "link": "https://www.repubblica.it/economia/2026/10/31/news/manovra_carabinieri_ausiliari_quanti_saranno-425690165/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-31T17:28:03.000Z",
+        "excerpt": "È questa la principale novità in materia di difesa. Ferma volontaria di 12 mesi, per chi ha meno di 27 anni, e un corso di formazione di 3 mesi. Ecco cosa c’è da sapere",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/180328053-87d965f8-934a-4ded-8f19-14365bb6c88f.jpg"
+      },
+      {
+        "title": "Lotteria degli scontrini, arriva il paga e vinci subito: sbloccati i premi istantanei",
+        "link": "https://www.ilsole24ore.com/art/lotteria-scontrini-arriva-paga-e-vinci-subito-sbloccati-premi-istantanei-AJpUdY0B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-31T17:21:36.000Z",
+        "excerpt": "Il Ddl di Bilancio rende operative le vincite immediate. Semplificati anche gli incassi dei mini importi senza obbligo di identificazione",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/04/Immagini/Ritagli/8e899809f15b2b108a90cc78c9b49efe-U03815332375UZs-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Emirates porta a Roma il nuovo modello di Travel Store",
+        "link": "https://www.ilsole24ore.com/art/emirates-porta-roma-nuovo-modello-travel-store-AJwHdW0B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-31T16:43:50.000Z",
+        "excerpt": "Conoscere meglio le persone tramite il confronto diretto e seguirle con continuità costruendo proposte su misura, dalla scelta dell’itinerario ai servizi che rendono il viaggio più confortevole e personale. È...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/Emirates%20presenta%20il%20Travel%20Store%20rinnovato%20di%20Roma-U11603778312bhb-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Polizia di Stato, 60 perquisizioni in 23 città",
+        "link": "https://www.ilsole24ore.com/art/sessanta-perquisizioni-23-citta-parte-digos-e-polizia-postale-AJzsyW0B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-31T16:33:00.000Z",
+        "excerpt": "La Polizia di Stato, su delega dell’Autorità Giudiziaria e di iniziativa, ha eseguito perquisizioni a carico di circa 60 soggetti, che nelle chat e nelle piattaforme social avevano incitato a...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/fd59dfee-d543-11f1-8bc5-736d736f6674%20(1)_20261031173712-U53250827242SDB-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Emirates porta a Roma il nuovo modello di Travel Store",
+        "link": "https://www.ilsole24ore.com/art/emirates-porta-roma-nuovo-modello-travel-store-AJ0HmvxB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-31T16:22:40.000Z",
+        "excerpt": "Conoscere meglio le persone tramite il confronto diretto e seguirle con continuità costruendo proposte su misura, dalla scelta dell’itinerario ai servizi che rendono il viaggio più confortevole e personale. È...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/30/Immagini/Ritagli/Imagoeconomica_2523971-U42328215343Tvo-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Manovra: raddoppiano puntate e vincite alle slot, debito scontato ai gestori",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-raddoppiano-puntate-e-vincite-alle-slot-debito-scontato-ai-gestori_a3394e7e-0433-440a-bae4-4ba834af276c.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-31T15:59:17.000Z",
+        "excerpt": "'Rottamazione' per il contributo da 500 milioni imposto nel 2015 ai concessionari",
+        "image": null
+      },
+      {
+        "title": "Cgil, 'manovra peggio delle peggiori aspettative, accelera declino e impoverimento'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/cgil-manovra-peggio-delle-peggiori-aspettative-accelera-declino-e-impoverimento_94e23054-6347-43f9-a41d-26f7f59f7e0c.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-31T15:51:17.000Z",
+        "excerpt": "\"Di fronte a dati drammatici, sembra dal governo di un altro pianeta\"",
+        "image": null
+      },
+      {
+        "title": "Manovra, dai ministeri tagli alla spesa per 4,7 miliardi in tre anni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-dai-ministeri-tagli-alla-spesa-per-47-miliardi-in-tre-anni_9cef3938-5e85-4b37-91e2-4455c3fa2e6e.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-31T15:43:44.000Z",
+        "excerpt": "Si parte da 1,6 miliardi nel 2027. Lo sforzo maggiore per il Mef",
+        "image": null
+      },
+      {
+        "title": "Il bis di Lula presenta gli interessi",
+        "link": "https://www.repubblica.it/economia/2026/10/31/news/il_bis_di_lula_presenta_gli_interessi-425686292/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-31T15:00:00.000Z",
+        "excerpt": "Il presidente rieletto dovrà fare i conti c on i mercati che gli avevano scommesso contro il deficit è un macigno sugli investimenti",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/30/085825397-faf2d152-c0b0-42a0-8b8b-cdb1e2b33500.jpg"
+      },
+      {
+        "title": "Citi spiega cosa significano davvero \"falco\" e \"colomba\" alla BCE",
+        "link": "https://it.investing.com/news/stock-market-news/citi-spiega-cosa-significano-davvero-falco-e-colomba-alla-bce-3619969",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-31T14:53:31.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg"
+      },
+      {
+        "title": "Dazn amplia l’offerta: arriva Hbo Max senza costi aggiuntivi, ecco chi ne ha diritto",
+        "link": "https://www.repubblica.it/economia/2026/10/31/news/dazn_hbo_max_chi_ne_ha_diritto-425689963/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-31T14:30:34.000Z",
+        "excerpt": "La novità è riservata ai clienti del piano Family, già attivi o di futura sottoscrizione. Potranno guardare film e serie ma con pubblicità. Dalle partite alle produzioni di The Last of Us, The White Lotus e Harry Potter:",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/153103262-0941e227-875a-4a39-ab27-2890176412cf.jpg"
+      },
+      {
+        "title": "Tassa sui ricchi che lasciano l’Italia. Ecco chi paga e quanto",
+        "link": "https://www.ilsole24ore.com/art/manovra-entra-anche-tassa-super-ricchi-che-lasciano-l-italia-ecco-chi-paga-e-quanto-AJAOrP0B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-31T14:23:00.000Z",
+        "excerpt": "Nella nuova Manovra spicca l’introduzione di una vera e propria “exit tax” (l’imposta in uscita), pensata per tassare i guadagni finanziari accumulati in Italia da chi decide di traslocare...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/Imagoeconomica_2514716-U78703744042Flu-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "La responsabilità delle classi dirigenti nel declino italiano",
+        "link": "https://www.repubblica.it/economia/2026/10/31/news/la_responsabilita_delle_classi_dirigenti_nel_declino_italiano-425689934/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-31T14:18:52.000Z",
+        "excerpt": "",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/151841029-5eaa0ff8-90bf-40ab-a5d9-639972b120b9.jpg"
+      },
+      {
+        "title": "Dall’inflazione all’IA: i fantasmi di Halloween per i risparmiatori",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/risparmio/2026/10/31/news/dall_inflazione_all_ia_i_fantasmi_di_halloween_per_i_risparmiatori-425689911/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-31T14:01:04.000Z",
+        "excerpt": "Le Borse sono reduci da una lunga corsa e la stagione delle trimestrali fin qui si è rivelata positiva, tuttavia all’orizzonte di addensano i nuvoloni, tra prezzi dell’energia, tassi in salita e valutazioni iperboliche d",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/150053334-1e670237-0bfb-4359-abe6-a57052cd0a45.jpg"
+      },
+      {
+        "title": "Partite Iva, sale lo sconto fiscale  sulle auto  degli agenti di commercio",
+        "link": "https://www.ilsole24ore.com/art/partite-iva-sale-sconto-fiscale-auto-agenti-commercio-AJPChIzB",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-31T13:52:00.000Z",
+        "excerpt": "La soglia massima per lo sconto fiscale per le auto acquistate o prese in leasing dagli agenti di commercio si prepara a essere aggiornata con un’attenzione particolare alla transizione green....",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/31/Immagini/Ritagli/pexels-emanuel-turbuc-379156881-14607283-U07154481651CVX-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Non solo caro carburanti: a ottobre rincari record in tecnologia e alimentari freschi, ma calano burro e olio",
+        "link": "https://www.ilsole24ore.com/art/non-solo-caro-carburanti-ottobre-rincari-record-tecnologia-e-alimentari-freschi-ma-calano-burro-e-olio-AJ9lPO0B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-31T13:31:00.000Z",
+        "excerpt": "L’inflazione ad ottobre 2026 registra una crescita tendenziale del +5,4% su base annua. Una spinta inflazionistica guidata non ha interessato solo il comparto energetico e dei carburanti: in un paese...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/b379d66a6457c7d6bb78b87c1307c14e-0004-U18074216137pJq-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Cento euro nel salvadanaio dei nuovi nati sono pochi: meglio selezionare le famiglie povere",
+        "link": "https://www.repubblica.it/economia/2026/10/31/news/cento_euro_nel_salvadanaio_dei_nuovi_nati_sono_pochi_meglio_selezionare_le_famiglie_povere-425689866/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-10-31T13:30:56.000Z",
+        "excerpt": "L’idea del “Fondo Valore nuovi nati” non è nuova. La cifra è modesta e manca una selezione per le famiglie a basso-medio reddito. Il vantaggio politico è incassato dal governo che introduce la misura, ma il costo è in gr",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/142520538-2efd20e1-4cd9-488a-90cb-58ddfcf0177d.jpg"
+      },
+      {
+        "title": "GS segnala tassi d’interesse e AI come rischi per la domanda azionaria",
+        "link": "https://it.investing.com/news/stock-market-news/gs-segnala-tassi-dinteresse-e-ai-come-rischi-per-la-domanda-azionaria-3619962",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-31T12:27:33.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg"
+      },
+      {
+        "title": "Mutui prima casa a under 36, giovani coppie e famiglie: il fondo di garanzia arriva al 2029 ",
+        "link": "https://www.ilsole24ore.com/art/mutui-prima-casa-under-36-giovani-coppie-e-famiglie-fondo-garanzia-arriva-2029-AJaryL0B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-10-31T12:16:23.000Z",
+        "excerpt": "Proroga del Fondo mutui prima casa, che incassa altri 200 milioni di euro e arriva fino al 2029. La manovra amplia il raggio d’azione di questo strumento, gestito da Consap,...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/sportello-bancario-350409-U13610258448MZY-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Il rischio/rendimento del tech torna favorevole dopo il crollo, secondo Deutsche Bank",
+        "link": "https://it.investing.com/news/stock-market-news/il-rischiorendimento-del-tech-torna-favorevole-dopo-il-crollo-secondo-deutsche-bank-3619953",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-31T11:02:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg"
+      },
+      {
+        "title": "Citi promuove Hyundai Mobis a buy sulle prospettive del 4° trimestre",
+        "link": "https://it.investing.com/news/stock-market-news/citi-promuove-hyundai-mobis-a-buy-sulle-prospettive-del-4-trimestre-93CH-3619944",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-31T10:04:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED3P07K_M.jpg"
+      },
+      {
+        "title": "L’entusiasmo per l’AI agentiva supera i risultati concreti",
+        "link": "https://it.investing.com/news/stock-market-news/lentusiasmo-per-lai-agentiva-supera-i-risultati-concreti-3619910",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-31T05:00:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/ArtificialIntelligenceAI_800x533_L_1758714606.jpg"
+      }
+    ],
+    "europa": [
+      {
+        "title": "Violente proteste a Tirana, sassi e molotov contro la polizia",
+        "link": "https://www.ilsole24ore.com/art/violente-proteste-tirana-sassi-e-molotov-contro-polizia-AJ1GRU0B",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-31T15:27:00.000Z",
+        "excerpt": "Dopo settimane di manifestazioni e scontri, in Albania la tensione non accenna a diminuire. Oggi per le strade della capitale Tirana sono tornate nuove proteste violente, con gruppi...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/2026-10-31T121526Z_145936209_RC2CEOAFTNX8_RTRMADP_5_ALBANIA-PROTEST-U01527472472DOP-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Polonia, Tusk: attacco a Corte  è una violazione dello stato di diritto da parte dell’estrema destra",
+        "link": "https://www.ilsole24ore.com/art/polonia-presidente-nawrocki-convoca-colloqui-straordinari-risolvere-crisi-istituzionale-AJOMdN0B",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-31T13:07:00.000Z",
+        "excerpt": "“L’attacco al tribunale è un’altra parte del processo di distruzione dello Stato di diritto in Polonia da parte del Pis dei presidenti Duda e Narowcki. Un politico non può entrare...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/e15a230b959a702e91a2616db3432618-U64336815707Lar-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Iran, ultime notizie. Rubio: nuovo attacco? Preferiamo risolvere la questione in modo pacifico ma capaci di farlo",
+        "link": "https://www.ilsole24ore.com/art/usa-iran-tentativo-negoziati-ma-possibili-imminenti-attacchi-americani-khamenei-risposta-senza-limiti-AJN1TK0B",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-31T11:40:00.000Z",
+        "excerpt": "Arrivano segnali contraddittori dal Medio Oriente. Da una parte l’annuncio di imminenti colloqui tra iraniani e americani, dall’altra indiscrezioni su una nuova escalation decida da Washington nella regione. Gli Stati...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/LP_24899877-U22818432020aSw-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Patto di ferro tra Ue e Canada, anche Ottawa contribuirà al prestito a Kiev",
+        "link": "https://www.ilsole24ore.com/art/patto-ferro-ue-e-canada-anche-ottawa-contribuira-prestito-kiev-AJt26S0B",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-31T06:02:00.000Z",
+        "excerpt": "BRUXELLES - È ricco di risvolti concreti l’innovativo accordo di partenariato annunciato ufficialmente ieri tra l’Unione europea e il governo canadese con l’obiettivo di creare un rapporto di associazione tra...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/2026-10-30T191705Z_948975548_RC2UDOAVK8SU_RTRMADP_5_CANADA-EU-U77776328622WgN-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "La controllata di Arch Capital Group modifica la linea di credito di $700 milioni con Lloyds Bank",
+        "link": "https://www.investing.com/news/sec-filings/arch-capital-group-subsidiary-amends-700-million-credit-facility-with-lloyds-bank-93CH-4988881",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-30T22:49:37.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC6R17S_M.jpg"
+      },
+      {
+        "title": "Enova International modifica la linea di credito, aumenta l'impegno a $900 milioni",
+        "link": "https://www.investing.com/news/sec-filings/enova-international-amends-credit-facility-increases-commitment-to-900-million-93CH-4988876",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-30T22:45:36.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
+      },
+      {
+        "title": "Citizens Financial Group nominerà PwC come nuovo revisore dopo il licenziamento di Deloitte",
+        "link": "https://www.investing.com/news/sec-filings/citizens-financial-group-to-appoint-pwc-as-new-auditor-after-deloitte-dismissal-93CH-4988867",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-30T22:41:19.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
+      },
+      {
+        "title": "Xcel Energy annuncia un programma di offerta azionaria di $6 miliardi sul mercato",
+        "link": "https://www.investing.com/news/sec-filings/xcel-energy-announces-6-billion-atthemarket-equity-offering-program-93CH-4988866",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-30T22:36:48.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
+      },
+      {
+        "title": "Vulcan Materials segnala l'ordine di sicurezza della miniera presso la cava della California, nessun infortunio",
+        "link": "https://www.investing.com/news/sec-filings/vulcan-materials-reports-mine-safety-order-at-california-quarry-no-injuries-93CH-4988861",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-30T22:31:57.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
+      },
+      {
+        "title": "La fusione di Vivani Medical con ClearOne è in attesa dell'approvazione regolatoria finale",
+        "link": "https://www.investing.com/news/sec-filings/vivani-medical-merger-with-clearone-awaits-final-regulatory-approval-93CH-4988848",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-30T22:28:32.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
+      },
+      {
+        "title": "Gli azionisti di C3.ai approvano i nominati del consiglio di amministrazione e le proposte chiave durante l'assemblea annuale",
+        "link": "https://www.investing.com/news/sec-filings/c3ai-shareholders-approve-board-nominees-and-key-proposals-at-annual-meeting-93CH-4988847",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-30T22:24:35.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
+      },
+      {
+        "title": "CIM Group amplia il consiglio di amministrazione, nomina tre nuovi amministratori a seguito delle dimissioni",
+        "link": "https://www.investing.com/news/sec-filings/cim-group-expands-board-appoints-three-new-directors-following-resignation-93CH-4988845",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-10-30T22:20:50.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
+      },
+      {
+        "title": "Papa Leone ha votato per posta alle elezioni di metà mandato",
+        "link": "https://www.ilsole24ore.com/art/papa-leone-votera-posta-elezioni-midterm-AJ8tgFzB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-30T11:49:00.000Z",
+        "excerpt": "Anche Papa Leone XIV ha votato alle prossime elezioni di metà mandato negli Stati Uniti, in programma il 3 novembre, e lo ha fatto per corrispondenza dal Vaticano. Secondo quanto...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/31/Immagini/Ritagli/LP_24868147-U26266458271OzD-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Eurozona, il Pil nel terzo trimestre cresce dello 0,4%",
+        "link": "https://www.ilsole24ore.com/art/eurozona-pil-terzo-trimestre-cresce-04percento-AJGcY9yB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-30T10:37:00.000Z",
+        "excerpt": "Francia peggio delle aspettative, in Germania rallenta la crescita. La Spagna avanza dello 0,6%",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/31/Immagini/Ritagli/PIL-U34717772058Oyv-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Sachs: «L’economia israeliana deve rimanere aperta, no alle proposte di Netanyahu»",
+        "link": "https://www.ilsole24ore.com/art/sachs-l-economia-israeliana-deve-rimanere-aperta-no-proposte-netanyahu-AJwMobyB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-30T07:09:00.000Z",
+        "excerpt": "Parla Ofer Sachs, direttore dell’Associazione industriale di Israele",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/30/Immagini/Ritagli/2026-10-27T102427Z_1623264317_RC2MBOAIHGZD_RTRMADP_5_ISRAEL-ELECTION-U47312538114jrg-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Il Pil degli Stati Uniti accelera con gli investimenti in AI",
+        "link": "https://www.ilsole24ore.com/art/il-pil-stati-uniti-accelera-gli-investimenti-ai-AJN29AyB",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-10-30T06:08:13.000Z",
+        "excerpt": "L’economia Usa è cresciuta del 3,4% (annualizzato) nel terzo trimestre nonostante le guerre. Per le imprese tecnologiche aumento del 12,7% della spesa. Balzo al 3,6% dell’inflazione Pce",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/30/Immagini/Ritagli/LP_24896786-U22810770237zKn-1440x752@IlSole24Ore-Web.jpg"
+      }
+    ],
+    "usa": [],
+    "mondo": [
+      {
+        "title": "'Fbi, Corea del Nord responsabile dell'attacco hacker a Binance'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/31/fbi-corea-del-nord-responsabile-dellattacco-hacker-a-binance_c6516a63-edf0-4276-b90b-cd80a68ac9d7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T22:12:09.000Z",
+        "excerpt": "Bloomberg, l'agenzia cita il gruppo TraderTraitor",
+        "image": null
+      },
+      {
+        "title": "Commissione Ue, 'presidente Polonia convalidi la nomina dei nuovi giudici'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/commissione-ue-presidente-polonia-convalidi-la-nomina-dei-nuovi-giudici_81b7aa42-d075-48ed-a709-a9590721fbe8.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T21:21:09.000Z",
+        "excerpt": "La nomina di 8 nuovi membri del Tribunale competenza camera bassa parlamento",
+        "image": null
+      },
+      {
+        "title": "L'OPEC+ manterrà stabile la produzione petrolifera di dicembre, riferisce Reuters",
+        "link": "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-31T20:44:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S1E5_L.jpg"
+      },
+      {
+        "title": "Attacco Usa all’Iran, Khamenei avvisa: “Risposta immediata”",
+        "link": "https://www.repubblica.it/esteri/2026/11/01/news/khamenei_usa_attacco_minaccia_risposta_lettera_vance_rezeai-425690593/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-31T20:08:00.000Z",
+        "excerpt": "L’Iran risponde alle minacce, ma il duro del regime, Rezaei apre a Vance: “dagli Usa arrivano segnali positivi”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/203900590-0ce9119e-b123-48e4-94fb-1c04332de165.jpg"
+      },
+      {
+        "title": "Citi prevede un aumento dei prezzi del gas in Europa nel 2027, mentre il Medio Oriente rischia di stimolare l'aumento dei prezzi",
+        "link": "https://www.investing.com/news/commodities-news/citi-sees-european-gas-prices-rising-in-2027-as-middle-east-risks-spur-price-gains-4989323",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-31T19:33:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEI5M0AS_L.jpg"
+      },
+      {
+        "title": "Gli inviati iraniani incontrano i mediatori del Qatar mentre si profila la minaccia di attacchi statunitensi dopo le elezioni di medio termine",
+        "link": "https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-31T19:24:18.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9U0CL_L.jpg"
+      },
+      {
+        "title": "Tusk, 'attacco alla Corte è nuova violazione dello stato di diritto del Pis'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/tusk-attacco-alla-corte-e-nuova-violazione-dello-stato-di-diritto-del_036010cd-debb-4b56-91dc-beb0ba7d6963.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T19:21:58.000Z",
+        "excerpt": "'Uno Stato democratico deve essere capace di far rispettare la legge'",
+        "image": null
+      },
+      {
+        "title": "Venezuela, riaprono le spiagge a La Guaira dopo il sisma di giugno",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/venezuela-riaprono-le-spiagge-a-la-guaira-dopo-il-sisma-di-giugno_3e810399-a176-4fc7-bd4e-023329f85003.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T18:42:29.000Z",
+        "excerpt": "Via libera nei fine settimana con regole ferree per gli operatori turistici",
+        "image": null
+      },
+      {
+        "title": "Washington avverte Mosca: “Possibile attacco terroristico al Museo Tsaritsyno”",
+        "link": "https://www.repubblica.it/esteri/2026/10/31/news/usa_avverte_russia_possibile_attacco_terroristico_museo_tsaritsyno_g20_lavrov_rubio-425690322/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-31T18:17:15.000Z",
+        "excerpt": "Ad Atlanta si concludono i colloqui dei ministri degli Esteri del G20, senza però raggiungere alcun consenso: Mosca tornata al tavolo su invito di Trump, è irremovibile su Ucraina e possibile adesione della Polonia",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/190623881-9d392240-3699-4013-b1b6-e6efa17a572a.jpg"
+      },
+      {
+        "title": "El Salvador avvia i pattugliamenti ad Haiti, nuova base a Tabarre",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/el-salvador-avvia-i-pattugliamenti-ad-haiti-nuova-base-a-tabarre_4d27e38e-26a0-498c-aa0f-a594c4eb7689.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T18:08:58.000Z",
+        "excerpt": "Oltre duemila soldati del Paese centroamericano presidiano la capitale",
+        "image": null
+      },
+      {
+        "title": "Rubio, non so se Putin sarà a Miami, con Lavrov discusso possibile incontro ad Apec",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/31/rubio-non-so-se-putin-sara-a-miami-con-lavrov-discusso-possibile-incontro_3b3129c5-5c76-4c6f-9232-d71221bcfc5b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T16:57:04.000Z",
+        "excerpt": "Il vertice in calendario a novembre",
+        "image": null
+      },
+      {
+        "title": "Rubio, non so se Putin sarà a Miami, con Lavrov discusso possibile incontro ad Apec",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/rubio-non-so-se-putin-sara-a-miami-con-lavrov-discusso-possibile-incontro_5ae456d1-266a-45c4-a3c9-24a76524228b.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T16:57:02.000Z",
+        "excerpt": "Il vertice in calendario a novembre",
+        "image": null
+      },
+      {
+        "title": "Rubio, Trump non ha ancora deciso su un nuovo attacco all'Iran",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/31/rubio-trump-non-ha-ancora-deciso-su-un-nuovo-attacco-alliran_66c4a9a0-0d83-4f6d-9db7-7c7570419025.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T16:54:55.000Z",
+        "excerpt": "Lo ha detto il segretario di Stato Usa ad Atlanta",
+        "image": null
+      },
+      {
+        "title": "L'OPEC+ ha deciso di mantenere invariati gli obiettivi di produzione a dicembre, dice la fonte",
+        "link": "https://www.investing.com/news/commodities-news/opec-set-to-keep-production-targets-unchanged-in-december-source-says-4989301",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-31T16:42:19.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9U0F8_L.jpg"
+      },
+      {
+        "title": "La vicedirettrice di Novaya Gazeta Europe: “Putin ha cancellato il giornalismo indipendente”",
+        "link": "https://www.repubblica.it/esteri/2026/10/31/news/novaya_gazeta_chiusa_glikman_russia_giornalismo_indipendente-425689554/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-31T16:22:19.000Z",
+        "excerpt": "Ekaterina Glikman, in esilio in Svizzera, racconta la sua vita all’interno dellastorica redazione di Mosca, costretta a chiudere dal regime, e la lotta silenziosa di chi si oppone: «Ci sono milioni di lettori che fanno d",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/110020203-ecab151f-be3f-400c-a6fd-fe2773c6bf10.jpg"
+      },
+      {
+        "title": "Macklemore chiude a Londra il tour “Free Palestine”: “Continuerò a battermi fino all’ultimo respiro”",
+        "link": "https://www.repubblica.it/esteri/2026/10/31/news/macklemore_chiude_tour_free_palestine_londra-425690035/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-31T15:41:45.000Z",
+        "excerpt": "Dopo essere stato escluso da una serie di concerti negli Usa con Ed Sheeran, il rapper americano conclude la sua tournée in una marea di bandiere palestinesi",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/164140156-07ebcaa1-77df-46a0-a555-0eeb8e0c5caf.jpg"
+      },
+      {
+        "title": "Israele, l’opposizione pensa al blitz: cambiare la legge elettorale per fermare Netanyahu",
+        "link": "https://www.repubblica.it/esteri/2026/10/31/news/israele_opposizione_riforma_legge_elettorale_per_fermare_netanyahu-425689897/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-31T13:51:43.000Z",
+        "excerpt": "Un sistema con l’elezione diretta del premier e un tetto di due mandati metterebbe fuori gioco il primo ministro. Prosegue intanto lo stallo politico per la formazione del nuovo governo. Manifestazioni in piazza per una ",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/145109742-e84c5652-995f-4da4-ad9a-3c8d2a861729.jpg"
+      },
+      {
+        "title": "Regno Unito, il premier Burnham pronto a chiedere scusa per lo schiavismo",
+        "link": "https://www.repubblica.it/esteri/2026/10/31/news/regno_unito_scuse_per_schiavismo_burnham_risarcimenti-425689745/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-31T11:34:15.000Z",
+        "excerpt": "Sarebbe la prima volta per un primo ministro britannico. E’ lui stesso ad annunciarlo in un articolo sul Guardian, aggiungendo di essere contrario a risarcimenti alle ex colonie. Eppure Londra fino al 2015 ha pagato inde",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/123246914-0048c507-d9ee-4300-be36-4bdd0dbef5a3.jpg"
+      },
+      {
+        "title": "Iran, gli americani ora puntano sul duro Rezaei: è l’ultima chance per scongiurare la guerra",
+        "link": "https://www.repubblica.it/esteri/2026/10/31/news/iran_gli_americani_ora_puntano_sul_duro_rezaei_guerra_negoziati-425689412/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-31T09:18:19.000Z",
+        "excerpt": "Il vicepresidente scrive all’ex capo dei Pasdaran chiedendo negoziati diretti. Corsa dei mediatori per trovare un’intesa verso la de-escalation mentre nel Paese si alzano sempre più voci che chiedono l’atomica",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/100122898-59301c7a-5ae0-4a46-8498-c049e6b76744.jpg"
+      },
+      {
+        "title": "I sondaggi delle elezioni Usa: ecco come può andare il voto di midterm",
+        "link": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/10/31/news/sondaggi_elezioni_usa_midterm_trump_2026-425688115/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-31T09:00:00.000Z",
+        "excerpt": "Le rilevazioni su Camera, Senato e approvazione del presidente. Con un dubbio: possono essere sbagliati come altre volte?",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/30/181928069-5624f6a2-d3ad-41c2-bd4b-bf7a4b983bd1.jpg"
+      },
+      {
+        "title": "L'offerta di carbone fatica a tenere il passo con la domanda",
+        "link": "https://www.investing.com/news/commodities-news/coal-supply-is-struggling-to-keep-pace-with-demand-4989174",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-31T07:58:28.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED2F1G7_M.jpg"
+      },
+      {
+        "title": "Trump ha propagandato un accordo petrolifero record con il Venezuela. Ora la realtà si sta ambientando",
+        "link": "https://www.investing.com/news/commodities-news/trump-touted-a-record-venezuela-oil-deal-now-reality-is-setting-in-4986582",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-30T22:13:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T0U9_L.jpg"
+      },
+      {
+        "title": "Il petrolio sale a ottobre per i timori di interruzione dell'approvvigionamento, Exxon e Chevron registrano profitti eccezionali",
+        "link": "https://www.investing.com/news/commodities-news/oil-rises-on-prospects-of-fresh-us-military-action-against-iran-4985693",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-30T22:06:22.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg"
+      },
+      {
+        "title": "L'oro scivola a ottobre, i prezzi spot scendono sotto i 4.000$, toccando il minimo da oltre un anno",
+        "link": "https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-30T21:11:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8N174_M.jpg"
+      }
+    ]
+  },
+  "attualita": [
+    {
+      "title": "Attacco Usa all’Iran, Khamenei avvisa: “Risposta immediata”",
+      "link": "https://www.repubblica.it/esteri/2026/11/01/news/khamenei_usa_attacco_minaccia_risposta_lettera_vance_rezeai-425690593/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-01T00:00:00.000Z",
+      "excerpt": "L’Iran risponde alle minacce, ma il duro del regime, Rezaei apre a Vance: “dagli Usa arrivano segnali positivi”",
+      "image": null
+    },
+    {
+      "title": "Amorim: “Mai visto un derby più bello”. Chivu: “Paghiamo la superficialità, dobbiamo ritrovarci”",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/11/01/news/amorim_chivu_derby_milan_inter_interviste-425690879/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-31T23:06:51.000Z",
+      "excerpt": "Il Milan vince 3-1 e si avvicina all'Inter. Il portoghese celebra i suoi giocatori ma frena sullo scudetto. Il tecnico nerazzurro ammette gli errori: “Approccio sbagliato”. Barella: \"Dobbiamo guardarci in faccia\"",
+      "image": null
+    },
+    {
+      "title": "Il Milan rinasce nel derby con show di Moreira, Inter vede le streghe",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/serie-a-milan-inter-in-campo-alle-20.45-diretta_00f71d0c-a85e-4c9d-b003-c9ba0d43461d.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-31T23:05:49.000Z",
+      "excerpt": "La cronaca e le foto",
+      "image": null
+    },
+    {
+      "title": "Hamilton si prende la pole in Messico. Alle sue spalle Russell e Leclerc. Antonelli in seconda fila",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/10/31/news/f1_gp_messico_2026_hamilton_pole_ferrari-425690859/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-31T22:48:49.000Z",
+      "excerpt": "Dopo oltre tre anni il britannico della Ferrari conquista la prima posizione in griglia di partenza, è la numero 105 in carriera",
+      "image": null
+    },
+    {
+      "title": "Milan-Inter, le pagelle: Rabiot monumentale, Martinez incerto sui gol",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/31/news/milan_inter_pagelle-425690827/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-31T22:01:25.000Z",
+      "excerpt": "Promossi e bocciati del derby di San Siro",
+      "image": null
+    },
+    {
+      "title": "Manovra, scontro sulla scuola. Banche ancora sotto tiro",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-scontro-sulla-scuola.-banche-ancora-sotto-tiro_ff019702-1b62-4f1a-8c3d-ca9b9e0ad8cb.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-31T20:43:44.000Z",
+      "excerpt": "Il testo della legge di bilancio sotto il fuoco incrociato di opposizioni, sindacati ed enti locali. A fare polemica all'indomani della pubblicazione è soprattutto la stretta sugli organici della scuola",
+      "image": null
+    },
+    {
+      "title": "Kakà in lacrime prima del derby: la standing ovation di San Siro commuove il fuoriclasse",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/milan/2026/10/31/news/kaka_lacrime_commosso_milan_inter-425690676/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-31T20:20:44.000Z",
+      "excerpt": "L’ex trequartista brasiliano, entrato nella Hall of Fame rossonera, piange commosso prima del fischio d’inizio di Milan-Inter",
+      "image": null
+    },
+    {
+      "title": "Iran, Khamenei avverte Trump: 'Se ci attaccate risposta senza confini'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/iran-khamenei-avverte-trump-se-ci-attaccate-risposta-senza-confini_3cf54edb-3eec-4388-ae57-c19b268c5d39.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-31T19:57:04.000Z",
+      "excerpt": "Secondo i media Usa, il tycoon vuole riprendere la guerra il giorno dopo le midterm",
+      "image": null
+    },
+    {
+      "title": "Washington avverte Mosca: “Possibile attacco terroristico al Museo Tsaritsyno”",
+      "link": "https://www.repubblica.it/esteri/2026/10/31/news/usa_avverte_russia_possibile_attacco_terroristico_museo_tsaritsyno_g20_lavrov_rubio-425690322/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-31T18:06:34.000Z",
+      "excerpt": "Ad Atlanta si concludono i colloqui dei ministri degli Esteri del G20, senza però raggiungere alcun consenso: Mosca tornata al tavolo su invito di Trump, è irremovibile su Ucraina e possibile adesione della Polonia",
+      "image": null
+    },
+    {
+      "title": "Manovra, dalla Cgil alle opposizioni: raffica di critiche. Il sindacato: “Governo su altro pianeta”",
+      "link": "https://www.repubblica.it/economia/2026/10/31/news/manovra_dalla_cgil_alle_opposizioni_raffica_di_critiche_il_sindacato_governo_su_altro_pianeta-425690188/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-31T17:24:12.000Z",
+      "excerpt": "Tasse, welfare e istruzione: gli scontenti della finanziaria. Forbici per 7mila tra cattedre e personale, “scelta vergognosa”. La Caritas: “Così è iniqua”. Salvini prende ancora di mira le banche, in Parlamento dote da 1",
+      "image": null
+    },
+    {
+      "title": "Manovra, tornano i carabinieri ausiliari. Saranno 600 nel 2027 e 1000 l'anno dal 2028",
+      "link": "https://www.repubblica.it/economia/2026/10/31/news/manovra_carabinieri_ausiliari_quanti_saranno-425690165/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-31T17:03:39.000Z",
+      "excerpt": "È questa la principale novità in materia di difesa. Ferma volontaria di 12 mesi, per chi ha meno di 27 anni, e un corso di formazione di 3 mesi. Ecco cosa c’è da sapere",
+      "image": null
+    },
+    {
+      "title": "\"Ultimo Fellini\", un estratto del film nell'anniversario della morte",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/10/31/ultimo-fellini-un-estratto-del-film-nellanniversario-della-morte_db3228ca-97aa-4fcf-a6ca-4ea42a89a67b.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-31T12:32:22.000Z",
+      "excerpt": "Nella pellicola di Gianluigi Attorre anche una testimonianza di Vincenzo Mollica",
+      "image": null
+    },
+    {
+      "title": "Il Principe d'Egitto, il musical è arrivato a Roma",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/10/31/il-principe-degitto-il-musical-e-arrivato-a-roma_2e22b9ad-862e-499f-9182-cf8035a8321c.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-31T11:22:07.000Z",
+      "excerpt": "Lo spettacolo in scena fino all'8 novembre al Teatro Brancaccio",
+      "image": null
+    },
+    {
+      "title": "Halloween, il vademecum del Garante Privacy per festeggiare in allegria ",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/teen/2026/10/30/halloween-il-vademecum-del-garante-privacy-per-festeggiare-in-allegria-_a03e9a14-46a4-4b6a-8f89-c95f0e891b00.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-30T18:46:47.000Z",
+      "excerpt": "Riflettere sui rischi nascosti nella diffusione di foto e video di minori online",
+      "image": null
+    },
+    {
+      "title": "Jean Reno, 'l'italiano? Me lo ha insegnato Roberto Benigni'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/libri/narrativa/2026/10/30/jean-reno-litaliano-me-lo-ha-insegnato-roberto-benigni_54c36b09-4e54-432f-b040-7c01d2af8f4a.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-30T18:14:19.000Z",
+      "excerpt": "Attore francese a Radio2, ha scritto il romanzo Evasione ed è in tour con Il Cammello",
+      "image": null
+    },
+    {
+      "title": "Torna la Giornata Nazionale degli Abiti Storici, tra borghi, musei, botteghe artigiane",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/itinerari/2026/10/30/torna-la-giornata-nazionale-degli-abiti-storici-tra-borghi-musei-botteghe_afeef76a-561e-4930-b09a-5de8201fd348.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-30T17:24:20.000Z",
+      "excerpt": "Dall'11 novembre all'11 dicembre eventi, sfilate, mostre, laboratori, incontri",
+      "image": null
+    }
+  ],
+  "sport": [
+    {
+      "title": "F1: Hamilton in pole, al suo fianco Russel. Antonelli parte quarto",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/10/31/f1-hamilton-in-pole-al-suo-fianco-russel.-antonelli-quinto_d44231ac-58ba-4f03-bfb9-8da0eb242644.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T23:02:31.000Z",
+      "excerpt": "In prima fila anche la Mercedes",
+      "image": null
+    },
+    {
+      "title": "Chivu \"approccio sbagliato ma non butterei tutto, ritroviamo fame e umiltà\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/chivu-approccio-sbagliato-ma-non-butterei-tutto-ritroviamo-fame-e-umilta_b71cd198-4e42-446b-9a52-71f0455aa1fd.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T22:54:57.000Z",
+      "excerpt": "Perdere derby fa male, Bonny e Esposito non al meglio e ci siamo adattati a emergenza",
+      "image": null
+    },
+    {
+      "title": "L'orgoglio di Amorim: \"Dopo Bologna avevamo tanta voglia di riscattarci\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/lorgoglio-di-amorim-dopo-bologna-avevamo-tanta-voglia-di-riscattarci_92108e49-93ed-413b-b5b7-1a785a84175a.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T22:45:29.000Z",
+      "excerpt": "\"Non so se scudetto é possibile, avremo serate magiche e anche difficoltà\"",
+      "image": null
+    },
+    {
+      "title": "GP Messico: Antonelli \"domani cercherò di fare una bella partenza\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/31/gp-messico-antonelli-domani-cerchero-di-fare-una-bella-partenza_03245420-25f1-4447-9a2b-db6f8e70c8b0.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T22:43:10.000Z",
+      "excerpt": "Kimi quarto in griglia: \"Devo restare fuori dai casini alla prima curva\"",
+      "image": null
+    },
+    {
+      "title": "F1: Hamilton in Messico ritrova la pole, Antonelli partirà quarto",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/10/31/f1-hamilton-in-messico-ritrova-la-pole-antonelli-partira-quarto_2dbf7712-2bb2-4cf8-bc41-dd42d88e22ab.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T22:25:25.000Z",
+      "excerpt": "Prima fila per Russell, terzo Leclerc. Penalità per Verstappen che scivola al 5/o posto",
+      "image": null
+    },
+    {
+      "title": "Il derby è del Milan, l'Inter battuta 3-1",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/il-derby-e-del-milan-linter-battuta-3-1_dab13087-1050-4404-962e-9f042a5c06b3.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T21:52:22.000Z",
+      "excerpt": "Le reti tutte nel primo tempo, i rossoneri salgono al quarto posto",
+      "image": null
+    },
+    {
+      "title": "Tifosi Inter contro la demolizione di San Siro, striscione esposto al derby",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/tifosi-inter-contro-la-demolizione-di-san-siro-striscione-esposto-al-derby_342994b4-d25a-40bf-933a-26794574edf8.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T20:36:38.000Z",
+      "excerpt": "Continua la protesta per dire no 'all'abbattimento della Scala del calcio'",
+      "image": null
+    },
+    {
+      "title": "Europei curling: storica finale per gli azzurri, c'è la Scozia per l'oro",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/31/europei-curling-storica-finale-per-gli-azzurri-ce-la-scozia-per-loro_33803c14-02b5-4838-bdf3-c00911155897.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T20:17:06.000Z",
+      "excerpt": "Risultato inedito per la squadra, a Ostrava l'Italia ha battuto la Cechia 7-5",
+      "image": null
+    }
+  ]
+}
