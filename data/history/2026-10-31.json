@@ -4,6 +4,30 @@
   "finanza": {
     "italia": [
       {
+        "title": "Manovra, scontro sulla scuola. Banche ancora sotto tiro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-scontro-sulla-scuola.-banche-ancora-sotto-tiro_ff019702-1b62-4f1a-8c3d-ca9b9e0ad8cb.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-31T20:43:44.000Z",
+        "excerpt": "Il testo della legge di bilancio sotto il fuoco incrociato di opposizioni, sindacati ed enti locali. A fare polemica all'indomani della pubblicazione è soprattutto la stretta sugli organici della scuola",
+        "image": null
+      },
+      {
+        "title": "Perché il sell-off dei bond francesi è un avvertimento per i governi globali",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-selloff-dei-bond-francesi-e-un-avvertimento-per-i-governi-globali-3619980",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-10-31T18:53:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEE9L1CO_M.jpg"
+      },
+      {
+        "title": "Salvini, 'se il Parlamento vuole un contributo maggiore dalle banche è sovrano'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_2d816f91-c8e0-47ed-a064-5eb074b254a4.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-10-31T18:16:12.000Z",
+        "excerpt": "\"Con quei soldi si aiutano famiglie, lavoratori, pensionati, si può fare di più\"",
+        "image": null
+      },
+      {
         "title": "Manovra, le principali misure in pillole",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-le-principali-misure-in-pillole_f5cb7876-7b38-43ac-b235-f21dc2593c8c.html",
         "source": "ANSA Economia",
@@ -458,30 +482,6 @@
         "pubDate": "2026-10-31T00:00:00.000Z",
         "excerpt": "Messina: “Dai soci di Siena consenso assoluto alle nostre proposte, escludo altri rilanci”. In settimana l’Antitrust invierà le risultanze dell’istruttoria alle parti coinvolte",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/30/223601094-96d1ac8a-1453-464f-8acf-5d44c92d5b18.jpg"
-      },
-      {
-        "title": "Crédit Agricole insiste: “Fusione con il Banco”",
-        "link": "https://www.repubblica.it/economia/2026/10/31/news/credit_agricole_insiste_fusione_banco-425688777/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-31T00:00:00.000Z",
-        "excerpt": "I francesi salgono al 29,6% e premono per l’integrazione fra la divisione italiana e Bpm. Bene i conti dei primi 9 mesi",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/30/222829145-a2c4abc3-fa25-48ba-98ae-371cb20318ea.jpg"
-      },
-      {
-        "title": "L’Italia paga i ritardi tedeschi sul metano",
-        "link": "https://www.repubblica.it/economia/2026/10/31/news/rete_gas_prezzo_tetto_snam_ritardi_germania-425688582/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-10-31T00:00:00.000Z",
-        "excerpt": "Non tutti i Paesi europei hanno riempito a sufficienza gli stoccaggi di gas in vista dell’inverno. E l’effetto ricade sui prezzi anche dei “virtuosi”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/30/210211787-d5b40fa8-e90d-4936-b4a2-0ffd4191758a.jpg"
-      },
-      {
-        "title": "Manovra: giù l'Irpef per 3,2 milioni di persone, dalle banche 5,8 miliardi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/10/30/manovra-giu-lirpef-per-32-milioni-di-persone-dalle-banche-58-miliardi_a2553a3a-6200-46b4-bebd-ed940ffd56e8.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-10-30T23:19:43.000Z",
-        "excerpt": "Manovra bollinata, 157 articoli. Exit tax estesa ai privati, 1000 euro per le targhe. Sulle società energetiche 5 punti di Irap in più dal 2027. Lotto e Superenalotto, arriva la quinta estrazione settimanale",
-        "image": null
       }
     ],
     "europa": [
@@ -648,6 +648,54 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "Attacco Usa all’Iran, Khamenei avvisa: “Risposta immediata”",
+        "link": "https://www.repubblica.it/esteri/2026/11/01/news/khamenei_usa_attacco_minaccia_risposta_lettera_vance_rezeai-425690593/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-31T20:08:00.000Z",
+        "excerpt": "L’Iran risponde alle minacce, ma il duro del regime, Rezaei apre a Vance: “dagli Usa arrivano segnali positivi”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/203900590-0ce9119e-b123-48e4-94fb-1c04332de165.jpg"
+      },
+      {
+        "title": "Citi prevede un aumento dei prezzi del gas in Europa nel 2027, mentre il Medio Oriente rischia di stimolare l'aumento dei prezzi",
+        "link": "https://www.investing.com/news/commodities-news/citi-sees-european-gas-prices-rising-in-2027-as-middle-east-risks-spur-price-gains-4989323",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-10-31T19:33:24.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEI5M0AS_L.jpg"
+      },
+      {
+        "title": "Tusk, 'attacco alla Corte è nuova violazione dello stato di diritto del Pis'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/tusk-attacco-alla-corte-e-nuova-violazione-dello-stato-di-diritto-del_036010cd-debb-4b56-91dc-beb0ba7d6963.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T19:21:58.000Z",
+        "excerpt": "'Uno Stato democratico deve essere capace di far rispettare la legge'",
+        "image": null
+      },
+      {
+        "title": "Venezuela, riaprono le spiagge a La Guaira dopo il sisma di giugno",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/venezuela-riaprono-le-spiagge-a-la-guaira-dopo-il-sisma-di-giugno_3e810399-a176-4fc7-bd4e-023329f85003.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T18:42:29.000Z",
+        "excerpt": "Via libera nei fine settimana con regole ferree per gli operatori turistici",
+        "image": null
+      },
+      {
+        "title": "Washington avverte Mosca: “Possibile attacco terroristico al Museo Tsaritsyno”",
+        "link": "https://www.repubblica.it/esteri/2026/10/31/news/usa_avverte_russia_possibile_attacco_terroristico_museo_tsaritsyno_g20_lavrov_rubio-425690322/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-10-31T18:17:15.000Z",
+        "excerpt": "Ad Atlanta si concludono i colloqui dei ministri degli Esteri del G20, senza però raggiungere alcun consenso: Mosca tornata al tavolo su invito di Trump, è irremovibile su Ucraina e possibile adesione della Polonia",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/10/31/190623881-9d392240-3699-4013-b1b6-e6efa17a572a.jpg"
+      },
+      {
+        "title": "El Salvador avvia i pattugliamenti ad Haiti, nuova base a Tabarre",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/31/el-salvador-avvia-i-pattugliamenti-ad-haiti-nuova-base-a-tabarre_4d27e38e-26a0-498c-aa0f-a594c4eb7689.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-10-31T18:08:58.000Z",
+        "excerpt": "Oltre duemila soldati del Paese centroamericano presidiano la capitale",
+        "image": null
+      },
       {
         "title": "Gli inviati iraniani incontrano i mediatori del Qatar mentre si profila la minaccia di attacchi statunitensi dopo le elezioni di medio termine",
         "link": "https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
@@ -1079,18 +1127,58 @@
         "pubDate": "2026-10-30T18:23:57.000Z",
         "excerpt": "Le preoccupazioni emerse da alcune note interne di un'intervista che il suo team aveva inviato allo Spiegel per errore e che il giornale ha pubblicato. Sarà sottoposta a protezione personale in occasione del congresso re",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/10/30/192345656-4e9b59f7-c19d-41eb-b0cd-ff2444a6ad67.jpg"
-      },
-      {
-        "title": "Il Brasile chiede ufficialmente spiegazioni all'Argentina sulla fuga di Bolsonaro",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/il-brasile-chiede-ufficialmente-spiegazioni-allargentina-sulla-fuga-di-bolsonaro_15647d25-40cc-4e53-84ce-ac217e0ee1f6.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-10-30T17:47:33.000Z",
-        "excerpt": "Convocata dal ministero degli Esteri l'incaricata d'affari di Buenos Aires a Brasilia",
-        "image": null
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Attacco Usa all’Iran, Khamenei avvisa: “Risposta immediata”",
+      "link": "https://www.repubblica.it/esteri/2026/11/01/news/khamenei_usa_attacco_minaccia_risposta_lettera_vance_rezeai-425690593/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-01T00:00:00.000Z",
+      "excerpt": "L’Iran risponde alle minacce, ma il duro del regime, Rezaei apre a Vance: “dagli Usa arrivano segnali positivi”",
+      "image": null
+    },
+    {
+      "title": "Manovra, scontro sulla scuola. Banche ancora sotto tiro",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-scontro-sulla-scuola.-banche-ancora-sotto-tiro_ff019702-1b62-4f1a-8c3d-ca9b9e0ad8cb.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-31T20:43:44.000Z",
+      "excerpt": "Il testo della legge di bilancio sotto il fuoco incrociato di opposizioni, sindacati ed enti locali. A fare polemica all'indomani della pubblicazione è soprattutto la stretta sugli organici della scuola",
+      "image": null
+    },
+    {
+      "title": "Serie A: Milan-Inter 3-1-0 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/serie-a-milan-inter-in-campo-alle-20.45-diretta_00f71d0c-a85e-4c9d-b003-c9ba0d43461d.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-31T20:36:00.000Z",
+      "excerpt": "La cronaca e le foto",
+      "image": null
+    },
+    {
+      "title": "Kakà in lacrime prima del derby tra Milan e Inter",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/milan/2026/10/31/news/kaka_lacrime_commosso_milan_inter-425690676/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-31T20:20:44.000Z",
+      "excerpt": "L’ex trequartista rossonero commosso di fronte alla stading ovation di San Siro",
+      "image": null
+    },
+    {
+      "title": "Iran, Khamenei avverte Trump: 'Se ci attaccate risposta senza confini'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/iran-khamenei-avverte-trump-se-ci-attaccate-risposta-senza-confini_3cf54edb-3eec-4388-ae57-c19b268c5d39.html",
+      "source": "ANSA",
+      "pubDate": "2026-10-31T19:57:04.000Z",
+      "excerpt": "Secondo i media Usa, il tycoon vuole riprendere la guerra il giorno dopo le midterm",
+      "image": null
+    },
+    {
+      "title": "Washington avverte Mosca: “Possibile attacco terroristico al Museo Tsaritsyno”",
+      "link": "https://www.repubblica.it/esteri/2026/10/31/news/usa_avverte_russia_possibile_attacco_terroristico_museo_tsaritsyno_g20_lavrov_rubio-425690322/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-31T18:06:34.000Z",
+      "excerpt": "Ad Atlanta si concludono i colloqui dei ministri degli Esteri del G20, senza però raggiungere alcun consenso: Mosca tornata al tavolo su invito di Trump, è irremovibile su Ucraina e possibile adesione della Polonia",
+      "image": null
+    },
     {
       "title": "Tensioni a Parigi, lacrimogeni contro i casseurs. Corteo nella calma, poi incidenti",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/31/tensioni-a-parigi-lacrimogeni-contro-i-casseurs.-corteo-nella-calma-poi-incidenti_2c093ef1-cc85-4d03-bcc4-4d553004fd49.html",
@@ -1113,6 +1201,14 @@
       "source": "ANSA",
       "pubDate": "2026-10-31T17:42:51.000Z",
       "excerpt": "Gol di Cristante, Mora, Malen e Ndicka",
+      "image": null
+    },
+    {
+      "title": "Manovra, dalla Cgil alle opposizioni: raffica di critiche. Il sindacato: “Governo su altro pianeta”",
+      "link": "https://www.repubblica.it/economia/2026/10/31/news/manovra_dalla_cgil_alle_opposizioni_raffica_di_critiche_il_sindacato_governo_su_altro_pianeta-425690188/",
+      "source": "Repubblica",
+      "pubDate": "2026-10-31T17:24:12.000Z",
+      "excerpt": "La Caritas: “Interventi frammentati e temporanei”, richiamo su equità fiscale e diritto alla salute.",
       "image": null
     },
     {
@@ -1501,6 +1597,70 @@
     }
   ],
   "sport": [
+    {
+      "title": "Tifosi Inter contro la demolizione di San Siro, striscione esposto al derby",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/tifosi-inter-contro-la-demolizione-di-san-siro-striscione-esposto-al-derby_342994b4-d25a-40bf-933a-26794574edf8.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T20:36:38.000Z",
+      "excerpt": "Continua la protesta per dire no 'all'abbattimento della Scala del calcio'",
+      "image": null
+    },
+    {
+      "title": "Europei curling: storica finale per gli azzurri, c'è la Scozia per l'oro",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/10/31/europei-curling-storica-finale-per-gli-azzurri-ce-la-scozia-per-loro_33803c14-02b5-4838-bdf3-c00911155897.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T20:17:06.000Z",
+      "excerpt": "Risultato inedito per la squadra, a Ostrava l'Italia ha battuto la Cechia 7-5",
+      "image": null
+    },
+    {
+      "title": "Gasperini, dalla Roma \"prestazione di assoluto livello\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/gasperini-dalla-roma-prestazione-di-assoluto-livello_047ef580-a3c4-4765-944b-a274f4e0edde.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T19:58:17.000Z",
+      "excerpt": "Il tecnico: \"Questa squadra esprime molti dei miei concetti\"",
+      "image": null
+    },
+    {
+      "title": "Udinese: Runjaic 'primo tempo imbarazzante, ora decide la società'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/udinese-runjaic-primo-tempo-imbarazzante-ora-decide-la-societa_953c34f6-8d40-4866-830d-0e63e1fc2261.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T19:46:19.000Z",
+      "excerpt": "'Adesso abbiamo tempo per preparare la prossima partita a Venezia'",
+      "image": null
+    },
+    {
+      "title": "Figc: Marotta 'contrapposizioni tra le parti, ma vogliamo il bene del calcio\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/figc-marotta-contrapposizioni-tra-le-parti-ma-vogliamo-il-bene-del-calcio_f2b4a9d8-2b84-482b-b355-2dde2f5b905e.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T19:44:23.000Z",
+      "excerpt": "'Scritte tante cose inesatte, torniamo allo splendore di un tempo'",
+      "image": null
+    },
+    {
+      "title": "Marotta 'il nuovo stadio progetto stratosferico, derby spot per tutti'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/marotta-il-nuovo-stadio-progetto-stratosferico-derby-spot-per-tutti_e6af9e97-71ea-47c2-b919-9b7c4ce6ba2a.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T19:37:00.000Z",
+      "excerpt": "'Inter motivata a vincere, massimo rispetto per il Milan'",
+      "image": null
+    },
+    {
+      "title": "Milan: Cardinale 'Amorim è il mio coach, contento della scelta fatta'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/milan-cardinale-amorim-e-il-mio-coach-contento-della-scelta-fatta_32569a94-f5f8-46b3-b20e-881ad9f3d62b.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T19:28:16.000Z",
+      "excerpt": "'Sta facendo un ottimo lavoro. Il nuovo stadio? Sarà il massimo'",
+      "image": null
+    },
+    {
+      "title": "Errani-Paolini alle Finals, Zverev eliminato a Vienna",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/31/errani-paolini-alle-finals-zverev-eliminato-a-vienna_09b9e0dd-3a32-42a7-8a68-a89c96581bdd.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-10-31T19:13:22.000Z",
+      "excerpt": "Le due azzurre staccano il pass per Indian Wells, in Austria sfida Alcaraz-De Minaur",
+      "image": null
+    },
     {
       "title": "Premier: Manchester City sconfitto dal Brighton, il primato è a rischio",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/31/premier-manchester-city-sconfitto-dal-brighton-il-primato-e-a-rischio_cee01028-a42e-4ad0-808a-4ce7b18cc961.html",
