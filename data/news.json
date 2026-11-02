@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-11-01T21:19:16.066Z",
+  "lastUpdated": "2026-11-02T00:57:07.959Z",
   "finanza": {
     "italia": [
+      {
+        "title": "I futures USA salgono dopo un ottobre difficile: focus su utili ed elezioni",
+        "link": "https://it.investing.com/news/stock-market-news/i-futures-usa-salgono-dopo-un-ottobre-difficile-focus-su-utili-ed-elezioni-3620210",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-02T00:31:38.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB65083_M.jpg"
+      },
+      {
+        "title": "Borsa: Tokyo, apertura in calo (-0,44%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/02/borsa-tokyo-apertura-in-calo-044_3afa8bc7-0d32-43b4-90c2-f25f5a031dbb.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-02T00:23:20.000Z",
+        "excerpt": "Pesano i tech Usa e l'incertezza sulle elezioni di midterm",
+        "image": null
+      },
       {
         "title": "Manovra: stretta sugli aumenti degli stipendi dei magistrati. Altolà dell'Anm",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-stretta-sugli-aumenti-degli-stipendi-dei-magistrati-rivisti-i-criteri_20031262-e476-45eb-82ee-0356dd37c56f.html",
@@ -40,14 +56,6 @@
         "source": "ANSA Economia",
         "pubDate": "2026-11-01T17:48:07.000Z",
         "excerpt": "La manovra attesa martedì alla Camera. Tre relatori, 120 milioni per le modifiche",
-        "image": null
-      },
-      {
-        "title": "Manovra, 358 milioni per gli ammortizzatori sociali, 15 all'ex Ilva",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-358-milioni-per-gli-ammortizzatori-sociali-15-allex-ilva_5ede8088-70aa-4a89-9838-60c45da229bf.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-01T16:45:58.000Z",
-        "excerpt": "Risorse per prorogare Cigs. Nell'acciaieria interessati 1.497 lavoratori",
         "image": null
       },
       {
@@ -176,7 +184,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-11-01T06:50:07.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/TaiwanStockExchange_800x533_L_1659429835.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEB2N09U_M.jpg"
       },
       {
         "title": "Fotovoltaico, in arrivo 1,2 miliardi di euro per spingere gli impianti fino a 1 MW",
@@ -208,7 +216,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-31T18:53:38.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEE9L1CO_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEE9L1CO_M.jpg"
       },
       {
         "title": "Meta sviluppa un robot umanoide con la cinese Fourier",
@@ -216,7 +224,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-31T17:29:26.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+        "image": null
       },
       {
         "title": "Lotteria degli scontrini, arriva il paga e vinci subito: sbloccati i premi istantanei",
@@ -240,7 +248,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-10-31T14:53:31.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg"
+        "image": null
       },
       {
         "title": "GS segnala tassi d’interesse e AI come rischi per la domanda azionaria",
@@ -249,14 +257,6 @@
         "pubDate": "2026-10-31T12:27:33.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg"
-      },
-      {
-        "title": "Il rischio/rendimento del tech torna favorevole dopo il crollo, secondo Deutsche Bank",
-        "link": "https://it.investing.com/news/stock-market-news/il-rischiorendimento-del-tech-torna-favorevole-dopo-il-crollo-secondo-deutsche-bank-3619953",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-10-31T11:02:38.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg"
       }
     ],
     "europa": [
@@ -392,6 +392,78 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Zelensky, stop ad attacchi a raffinerie russe se Usa forniscono missili",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/zelensky-stop-ad-attacchi-a-raffinerie-russe-se-usa-forniscono-missili_26139883-04c1-43c1-b96a-7e9922936a47.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-02T00:32:00.000Z",
+        "excerpt": "Presidente ucraino: \"Con Trump e il suo staff diverse conversazioni in merito\"",
+        "image": null
+      },
+      {
+        "title": "Il petrolio scivola di oltre l'1% mentre continuano i colloqui per porre fine alla guerra in Iran",
+        "link": "https://www.investing.com/news/commodities-news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war-4989784",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-02T00:30:20.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA01FO_L.jpg"
+      },
+      {
+        "title": "Ue, una mini-Schengen per sostenere Kiev: “Riceverà più aiuti”",
+        "link": "https://www.repubblica.it/esteri/2026/11/02/news/ue_una_mini-schengen_per_sostenere_ucraina-425692402/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-02T00:01:33.000Z",
+        "excerpt": "L’Unione studia l’ipotesi di aprire le frontiere con l’Ucraina: renderebbe più veloci le consegne dei beni",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/221016319-3371e1c2-bbfa-41ee-9c0b-3e4d7fdcfb5e.jpg"
+      },
+      {
+        "title": "Spagna, la tragedia dei treni spegne le speranze di rimonta di Sánchez: “Verrà punirà nel voto”",
+        "link": "https://www.repubblica.it/esteri/2026/11/02/news/spagna_elezioni_tragedia_dei_treni_rimonta_sanchez-425692387/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-02T00:00:51.000Z",
+        "excerpt": "Paese sotto shock per il nuovo incidente, 69 morti. La destra avanti nei sondaggi attacca il premier: “Le ferrovie un disastro”. “La campagna della sinistra entrerà in forte difficoltà, la destra avrà più certezze di riu",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/220328392-0bf4a73f-8a96-49a0-87c8-37b863789d45.jpg"
+      },
+      {
+        "title": "Elezioni midterm, contro l’odio Maga i progressisti americani giocano la carta della religione",
+        "link": "https://www.repubblica.it/esteri/2026/11/02/news/elezioni_midterm_religione_democratici_repubblicani_dio-425692294/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-02T00:00:37.000Z",
+        "excerpt": "Alle presidenziali del 2024 la maggioranza dei credenti ha votato Trump. Ora i democratici recuperano la dimensione sociale e morale di Dio",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/212621813-47b6cf95-a069-402b-89a9-094d6e311b20.jpg"
+      },
+      {
+        "title": "La giudice polacca Beata Morawiec: “Bene il governo, ripristina lo stato di diritto”",
+        "link": "https://www.repubblica.it/esteri/2026/11/02/news/polonia_corte_costituzionale_la_giudice_beata_morawiec-425692372/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-02T00:00:33.000Z",
+        "excerpt": "Per la magistrata, perseguitata ai tempi del governo sovranista, se non si agisce sulla Corte costituzionale si rischia una multa di Bruxelles",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/215549022-b628c056-3f07-42ed-867f-fc7977d7806c.jpg"
+      },
+      {
+        "title": "Polonia, Ue con il governo Tusk: “Tiri dritto sui nuovi giudici”",
+        "link": "https://www.repubblica.it/esteri/2026/11/02/news/polonia_giudici_corte_costituzionale_ue_commissione-425692350/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-02T00:00:23.000Z",
+        "excerpt": "La Commissione contro il leader sovranista Nawrocki sulla sfida per i togati della Corte costituzionale",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/214042166-3cd32d44-3075-4102-9b07-d0bbf9144067.jpg"
+      },
+      {
+        "title": "In Kansas il predicatore democratico Hamilton a caccia del miracolo: “Gesù voterebbe per me”",
+        "link": "https://www.repubblica.it/esteri/2026/11/02/news/kansas_midterm_senato_hamilton_predicatore_gesu_voterebbe_per_me-425692194/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-02T00:00:11.000Z",
+        "excerpt": "L’opposizione non vince un seggio in questo Stato dal 1932. Ci prova il noto fondatore di una chiesa metodista. I repubblicani schierano il ginecologo Marshall, che può pagare le politiche della Casa Bianca su diesel e d",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/203332774-0ab6739a-e406-438a-a2db-677c532f8119.jpg"
+      },
+      {
+        "title": "Kiev, sospetto hackeraggio app allerta attacchi aerei in ucraina",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/kiev-sospetto-hackeraggio-app-allerta-attacchi-aerei-in-ucraina_2707a6a6-f4b4-40a6-9a47-7d753653cc0a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-01T21:49:06.000Z",
+        "excerpt": "Aeronautica militare: 'Air Alert probabilmente esposta a influenze ostili'",
+        "image": null
+      },
+      {
         "title": "Trump dice che gli Stati Uniti e il Canada hanno \"il concetto\" di un nuovo accordo commerciale",
         "link": "https://www.investing.com/news/commodities-news/trump-says-us-canada-have-concept-of-a-new-trade-deal-4989778",
         "source": "Investing.com Commodities",
@@ -472,36 +544,12 @@
         "image": null
       },
       {
-        "title": "Commissione elettorale Israele, 'voto regolare, sospetti non pregiudicano esito'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/commissione-elettorale-israele-voto-regolare-sospetti-non-pregiudicano-esito_e0739af5-8223-4ae6-b003-363cfcdddb73.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-01T18:02:22.000Z",
-        "excerpt": "Dichiarazione video del giudice Solberg su presunte ingerenze straniere alle elezioni",
-        "image": null
-      },
-      {
         "title": "I serbi segnano il disastro ferroviario che ha portato all'ascesa del movimento studentesco vittorioso",
         "link": "https://www.investing.com/news/commodities-news/serbians-mark-railway-disaster-that-led-to-rise-of-victorious-student-movement-4989758",
         "source": "Investing.com Commodities",
         "pubDate": "2026-11-01T17:36:19.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA0128_L.jpg"
-      },
-      {
-        "title": "Zelensky, 'sono pronto a incontrare Putin in Turchia'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/zelensky-sono-pronto-a-incontrare-putin-in-turchia_e38af278-858a-401f-b271-d12e06ea5154.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-01T17:22:57.000Z",
-        "excerpt": "Media, focus sul cessate il fuoco lungo la linea del fronte e il rispetto degli accordi",
-        "image": null
-      },
-      {
-        "title": "Allarme attentato a Mosca: “Arrestato adolescente, pubblicava minacce su TikTok”",
-        "link": "https://www.repubblica.it/esteri/2026/11/01/news/allarme_attentato_mosca_arrestato_adolescente_pubblicava_minacce_tiktok-425691727/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-01T14:49:18.000Z",
-        "excerpt": "La soffiata di Washington ai russi. Sul social foto con equipaggiamento tattico e un oggetto simile a un'arma automatica, e immagini scattate all'interno del Museo-Riserva di Tsaritsyno, con la didascalia: “Ho trovato un",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/154831002-be20f389-cad4-480f-861b-e135be06480c.jpg"
       },
       {
         "title": "Il Bangladesh istituisce un comitato salariale mentre i disordini dei lavoratori dell'abbigliamento chiudono le fabbriche",
@@ -520,14 +568,6 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA00XI_L.jpg"
       },
       {
-        "title": "Londra, no al festival italiano nel parco vicino al Tamigi: “Timori per la sicurezza e il rumore”",
-        "link": "https://www.repubblica.it/esteri/2026/11/01/news/londra_no_festival_italiano_marzamemi_richmond_green_park_timori_sicurezza_rumore-425691605/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-01T13:04:34.000Z",
-        "excerpt": "La manifestazione, ispirata alla località siciliana di Marzamemi, avrebbe dovuto richiamare fino a 5 mila persone nel Richmond Green nel giugno 2027. Dopo una consultazione tra i residenti, il municipio ha negato l’autor",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/140424793-b8711423-0e3d-4dee-9383-f7acab2d46eb.jpg"
-      },
-      {
         "title": "L'OPEC+ mantiene l'obiettivo di produzione di petrolio di dicembre",
         "link": "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332",
         "source": "Investing.com Commodities",
@@ -542,72 +582,80 @@
         "pubDate": "2026-11-01T12:30:24.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA00ZW_L.jpg"
-      },
-      {
-        "title": "Oppioidi, armi e oro: gli affari del figlio di Prigozhin nella Repubblica Centrafricana",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/11/01/news/pavel_prigozhin_wagner_eredita_repubblica_centrafricana_continental_breakfast-425691524/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-01T12:06:27.000Z",
-        "excerpt": "L’erede del fondatore del gruppo di mercenari Wagner, morto in un misterioso incidente aereo nel 2023, continua a far prosperare le attività del padre, in gran parte illegali, scrive il quotidiano francese Le Figaro. E M",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/130323055-d8439580-a1d5-40da-9ab4-7f62cc894a7d.jpg"
-      },
-      {
-        "title": "Perché le bevande energetiche non sono un carburante innocuo per gli adolescenti",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/11/01/news/bevande_energetiche_non_innocue_adolescenti_continental_breakfast-425691489/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-01T11:40:25.000Z",
-        "excerpt": "Una lattina per giocare tutta la notte, una prima di andare a calcio, un'altra per imitare quello che si vede su TikTok. Gli energy drinks sono entrati nella vita quotidiana dei ragazzini. Ma a pagarne il prezzo può esse",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/124009823-40ee7548-8f22-4ac3-804f-11204140a156.jpg"
-      },
-      {
-        "title": "Che cosa succede ai dati di chi muore. E tutto quello che andrebbe sistemato prima",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/11/01/news/eredita_digitale_dati_dopo_morte_account_password_continental_breakfast-425691451/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-01T11:27:12.000Z",
-        "excerpt": "E-mail, conti bancari online, social network. Dopo la morte rimane spesso un'eredità digitale alla quale molti non pensano. Il quotidiano tedesco Welt ha chiesto agli esperti come organizzarsi per tempo ed evitare ai pro",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/121835534-cd4e1ea7-33fe-4b8f-ba3d-d1a98099f113.jpg"
-      },
-      {
-        "title": "Regno Unito, il ministro della Difesa fa scorte di cibo: “Dobbiamo essere pronti alle emergenze”",
-        "link": "https://www.repubblica.it/esteri/2026/11/01/news/regno_unito_ministro_difesa_scorte_cibo_pronti_emergenze_conflitti_attacchi-425691365/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-01T10:30:04.000Z",
-        "excerpt": "Londra invita la popolazione a mettere da parte acqua, pile e medicinali per essere pronti in caso di attacchi cyber devastanti, calamità naturali, terrorismo. Il ministro della Difesa Streeting rivela di avere già fatto",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/01/112953634-42d530ee-b3b2-4607-a573-7c666aa9a2b0.jpg"
-      },
-      {
-        "title": "Citi prevede un aumento dei prezzi del gas in Europa nel 2027, mentre il Medio Oriente rischia di stimolare l'aumento dei prezzi",
-        "link": "https://www.investing.com/news/commodities-news/citi-sees-european-gas-prices-rising-in-2027-as-middle-east-risks-spur-price-gains-4989323",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-10-31T19:33:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEI5M0AS_L.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Serie A: Juventus-Napoli in campo 1-0 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/serie-a-juventus-napoli-in-campo-diretta_e2ba040b-cc68-4804-a641-019c1bfdde12.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-01T21:17:11.000Z",
-      "excerpt": "Gol di Alajbegovic",
-      "image": null
-    },
-    {
-      "title": "F1, Gp del Messico: in corso la gara. Antonelli a un passo dal titolo",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/01/f1-gp-del-messico-in-corso-la-gara.-antonelli-a-un-passo-dal-titolo_623e8e68-b9e6-4b58-abc1-674b8f0bc473.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-01T20:59:27.000Z",
-      "excerpt": "Gli bastano due punti per diventare il terzo italiano iridato, 73 anni dopo il secondo titolo di Alberto Ascari. Il pilota nel paddock con la sorella Maggie e il papà Marco. 'Farò del mio meglio per portare in alto il tr",
-      "image": null
-    },
-    {
-      "title": "Hamilton, il team radio velenoso su Leclerc: “Hanno deciso di regalargli la vittoria”",
-      "link": "https://www.repubblica.it/sport/formulauno/2026/11/01/news/hamilton_leclerc_messico_team_radio_polemica-425692362/",
+      "title": "Toto Wolff: “Abbiamo creduto in Kimi da bambino, in Ferrari avrebbero avuto dubbi”",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/11/02/news/toto_wolff_kimi_antonelli_mercedes_f1-425692602/",
       "source": "Repubblica",
-      "pubDate": "2026-11-01T20:52:05.000Z",
-      "excerpt": "La manovra in partenza aggressiva costa a Charles solo cinque secondi di penalità. E il compagno di scuderia si infuria con il box",
+      "pubDate": "2026-11-02T00:00:00.000Z",
+      "excerpt": "Intervista al team principal della Mercedes che ha scoperto Antonelli a 12 anni e lo ha ingaggiato quando era ancora bambino",
+      "image": null
+    },
+    {
+      "title": "F1: Antonelli fa la storia in Messico, è campione del mondo 73 anni dopo Ascari",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/02/f1-antonelli-fa-la-storia-in-messico-e-campione-del-mondo-73-anni-dopo-ascari_623e8e68-b9e6-4b58-abc1-674b8f0bc473.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-01T23:35:54.000Z",
+      "excerpt": "A 20 anni, il più giovane della storia. In lacrime all'interno dell'abitacolo: 'Una stagione incredibile'. L'italiano della Mercedes chiude terzo e dà il via a festa sul podio, seconda la Ferrari di Hamilton",
+      "image": null
+    },
+    {
+      "title": "Valentino Rossi incorona Antonelli: “È come me a vent’anni”. Sinner: “L’Italia è orgogliosa di Kimi”",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/11/02/news/valentino_rossi_antonelli_sinner_reazioni-425692662/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-01T23:23:58.000Z",
+      "excerpt": "Le reazioni degli amici del nuovo campione del Mondo di formula 1",
+      "image": null
+    },
+    {
+      "title": "Kimi o Andy, ritratto di un giovane italiano più veloce dei suoi sogni",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/11/02/news/kimi_antonelli_f1_campione_del_mondo_chi_e-425692571/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-01T23:01:00.000Z",
+      "excerpt": "Antonelli è il campione del Mondo che il nostro Paese aspettava da 73 anni",
+      "image": null
+    },
+    {
+      "title": "Antonelli, il Paese che ha paura degli adolescenti è pazzo di questo prodigio di 20 anni",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/11/02/news/f1_gp_messico_kimi_antonelli_commento-425692593/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-01T23:01:00.000Z",
+      "excerpt": "Kimi Anon è un prodotto a denominazione d’origine controllata, non l’ha creato il sistema, dietro al trionfo ci sono l’utopia di un genitore e il sacrificio economico",
+      "image": null
+    },
+    {
+      "title": "I genitori di Kimi: “Gli diamo la paghetta ogni mese deve farsela bastare. Comprerebbe solo macchine”",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/11/02/news/famiglia_kimi_antonelli_genitori_marco_veronica-425692576/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-01T23:01:00.000Z",
+      "excerpt": "Il padre Marco lavorava in officina e correva in auto, la madre Veronica lavorava alle Poste. “A lui non interessano la fama e i vestiti, andrebbe a un matrimonio in pantaloncini”",
+      "image": null
+    },
+    {
+      "title": "Nella tana di Antonelli, gli amici: “Gli scherzi horror a casa sua, al pub beve acqua minerale”",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/11/02/news/san_marino_amici_antonelli_scherzi_pub-425692713/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-01T23:01:00.000Z",
+      "excerpt": "A San Marino i suoi tifosi si sono ritrovati in trecento: “Qui può girare sereno perché lo proteggiamo. E in piscina paga 10 euro”",
+      "image": null
+    },
+    {
+      "title": "Verstappen vince in Messico. Hamilton 2° e furioso: “Dobbiamo parlare con Leclerc e la Ferrari”",
+      "link": "https://www.repubblica.it/sport/formulauno/2026/11/02/news/ferrari_furia_hamilton_leclerc_verstappen-425692614/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-01T23:00:27.000Z",
+      "excerpt": "L’olandese approfitta del sorpasso in partenza del monegasco sul compagno di scuderia. Il britannico: “Nel team abbiamo grandi, grandi problemi”",
+      "image": null
+    },
+    {
+      "title": "La Lazio prima da sola dopo 16 anni, Inter a -3. La Juve riparte",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/01/lazio-prima-da-sola-dopo-16-anni-inter-a-3.-la-juve-riparte_e791a174-9074-4c6a-af26-0fb5654e6a13.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-01T22:03:43.000Z",
+      "excerpt": "A Spalletti il match con il Napoli, avanza il Como. Frosinone-show è sesto",
       "image": null
     },
     {
@@ -624,54 +672,6 @@
       "source": "ANSA",
       "pubDate": "2026-11-01T20:10:25.000Z",
       "excerpt": "'Teheran vuole un accordo, guardiamo a Pickaxe Mountain'. Axios: 'Pressing di Netanyahu per attaccare'",
-      "image": null
-    },
-    {
-      "title": "L’elicottero precipitato in Bosnia, il sopravvissuto: “Un miracolo che sia ancora vivo”",
-      "link": "https://www.repubblica.it/cronaca/2026/11/01/news/l_elicottero_precipitato_in_bosnia_il_sopravvissuto_un_miracolo_che_sia_ancora_vivo-425691884/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-01T17:05:57.000Z",
-      "excerpt": "Domani il rientro delle quattro salme all’aeroporto di Ciampino. La premier riprende un post dedicato alla sergente Laura Procacci, una delle vittime",
-      "image": null
-    },
-    {
-      "title": "Lazio capolista solitaria, rimonta e batte il Cagliari 2-1: decide Pinamonti, proteste dei sardi",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/11/01/news/lazio_cagliari_gol_pinamonti-425691848/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-01T16:42:28.000Z",
-      "excerpt": "Continua il volo della squadra di Gattuso, che stacca l’Inter e si isola in vetta. Nzola illude gli ospiti, poi il ribaltone con le reti di Isaksen e dell’ex Sassuolo, al termine di un’azione contestata dal tecnico Pisac",
-      "image": null
-    },
-    {
-      "title": "Il piano di Eisenkot per scalzare Netanyahu: un governo con l’astensione di arabi e ultraortodossi",
-      "link": "https://www.repubblica.it/esteri/2026/11/01/news/elezioni_israele_piano_eisenkot_governo_astensione_arabi_partito_ultraortodossi-425691765/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-01T15:08:20.000Z",
-      "excerpt": "Con 48 seggi alla Knesset, il partito studia una maggioranza alternativa. Mentre Lista Comune e Ra’am sono orientate a indicare il nome dell’ex generale al presidente Isaac Herzog quando, mercoledì, cominceranno le consu",
-      "image": null
-    },
-    {
-      "title": "Il focus dei mercati su Midterm: tre scenari dopo il voto. Big tech e banche alla prova dei conti",
-      "link": "https://www.repubblica.it/economia/2026/11/01/news/il_focus_dei_mercati_su_midterm_tre_scenari_dopo_il_voto_big_tech_e_banche_alla_prova_dei_conti-425691707/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-01T14:30:03.000Z",
-      "excerpt": "La settimana finanziaria ruota intorno al voto americano: “Può portare volatilità”. Il Nasdaq reduce dal peggior mese da marzo ‘25",
-      "image": null
-    },
-    {
-      "title": "Manovra: stretta sugli aumenti degli stipendi dei magistrati",
-      "link": "https://www.repubblica.it/economia/2026/11/01/news/manovra_stretta_sugli_aumenti_degli_stipendi_dei_magistrati-425691701/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-01T14:26:51.000Z",
-      "excerpt": "L'articolo 67 introduce due correttivi destinati a incidere dal 2027",
-      "image": null
-    },
-    {
-      "title": "Il Como batte il Venezia 1-0. Il caso del rigore concesso e poi revocato, Nicola: l’Aia ne risponda",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/11/01/news/como_venezia_gol_da_cunha-425691655/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-01T13:49:43.000Z",
-      "excerpt": "I lariani tornano al quarto posto. Proteste sullo 0-0 per un penalty (fallo di mano di Milla) prima concesso e poi revocato alla squadra di Nicola",
       "image": null
     },
     {
@@ -717,67 +717,67 @@
   ],
   "sport": [
     {
-      "title": "Serie A: Juventus-Napoli in campo 1-0 DIRETTA",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/serie-a-juventus-napoli-in-campo-diretta_e2ba040b-cc68-4804-a641-019c1bfdde12.html",
+      "title": "F1: Antonelli fa la storia in Messico, è campione del mondo 73 anni dopo Ascari",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/02/f1-antonelli-fa-la-storia-in-messico-e-campione-del-mondo-73-anni-dopo-ascari_623e8e68-b9e6-4b58-abc1-674b8f0bc473.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-01T21:17:11.000Z",
-      "excerpt": "Gol di Alajbegovic",
+      "pubDate": "2026-11-01T23:35:54.000Z",
+      "excerpt": "A 20 anni, il più giovane della storia. In lacrime all'interno dell'abitacolo: 'Una stagione incredibile'. L'italiano della Mercedes chiude terzo e dà il via a festa sul podio, seconda la Ferrari di Hamilton",
       "image": null
     },
     {
-      "title": "F1, Gp del Messico: in corso la gara. Antonelli a un passo dal titolo",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/01/f1-gp-del-messico-in-corso-la-gara.-antonelli-a-un-passo-dal-titolo_623e8e68-b9e6-4b58-abc1-674b8f0bc473.html",
+      "title": "Sinner: 'Complimenti Kimi, cosa sei riuscito a fare'",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/01/sinner-complimenti-kimi-cosa-sei-riuscito-a-fare_942a92f3-4afd-405b-b4d9-ff8297cd3ad8.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-01T20:59:27.000Z",
-      "excerpt": "Gli bastano due punti per diventare il terzo italiano iridato, 73 anni dopo il secondo titolo di Alberto Ascari. Il pilota nel paddock con la sorella Maggie e il papà Marco. 'Farò del mio meglio per portare in alto il tr",
+      "pubDate": "2026-11-01T23:34:56.000Z",
+      "excerpt": "Valentino Rossi: 'Mi assomiglia, diventerà uno dei piloti più forti storia'. Verstappen: \"Che stagione, sono orgoglioso per lui\". Bezzecchi: \"Non vedo l'ora di abbracciarti\"",
       "image": null
     },
     {
-      "title": "Atletica: Crippa esulta 'sogno è realtà, emozione che mi terrò a lungo'",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/01/atletica-crippa-esulta-sogno-e-realta-emozione-che-mi-terro-a-lungo_99064a89-b3d6-439d-9ea3-33f96f8853da.html",
+      "title": "Antonelli gioia e lacrime: 'Una stagione incredibile'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/01/antonelli-campione-mondo-e-in-lacrime-gioia-una-stagione-incredibile_44252ece-3196-4e9b-898d-e6ffbc1700cc.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-01T19:36:12.000Z",
-      "excerpt": "L'azzurro secondo a New York: 'Ho dato tutto fino alla fine'",
+      "pubDate": "2026-11-01T23:32:20.000Z",
+      "excerpt": "A 20 anni il più giovane: Senna il mito, la famiglia sempre al primo posto",
       "image": null
     },
     {
-      "title": "Serie A: il Genoa passa a Lecce, per De Rossi la terza vittoria in sette giorni ",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/serie-a-il-genoa-passa-a-lecce-per-de-rossi-la-terza-vittoria-in-sette-giorni_b2147e23-8617-4f35-ad2f-ab6163c437bb.html",
+      "title": "F1: Antonelli; Bezzecchi \"Kimi, non vedo l'ora di abbracciarti\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/02/f1-antonelli-bezzecchi-kimi-non-vedo-lora-di-abbracciarti_95128815-52b4-4b2d-a83a-a7af9e844683.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-01T19:28:00.000Z",
-      "excerpt": "Gran primo tempo degli ospiti e vittoria in cassaforte con le reti Osmajic e Messias",
+      "pubDate": "2026-11-01T23:16:30.000Z",
+      "excerpt": "Pilota Aprilia MotoGp ricorda l'impresa a Monza: 'un campione vero'",
       "image": null
     },
     {
-      "title": "Rigore negato al Venezia, insulti sessisti per l'arbitra a Como",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/rigore-negato-al-venezia-insulti-sessisti-per-larbitra-a-como_4bbff4ee-e22c-49ab-84bc-50499406c900.html",
+      "title": "Valentino Rossi' Kimi mi assomiglia, diventerà uno dei piloti più forti storia'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/02/valentino-rossi-kimi-mi-assomiglia-diventera-uno-dei-piloti-piu-forti_a4907d09-a527-4aa9-a0a5-a2263f1b5d0d.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-01T19:26:33.000Z",
-      "excerpt": "Maria Sole Ferrieri Caputi presa di mira sugli spalti e sui social",
+      "pubDate": "2026-11-01T23:10:29.000Z",
+      "excerpt": "Campione MotoGp: mi ha emozionato moltissimo, è stato un grande",
       "image": null
     },
     {
-      "title": "Gp Messico: Antonelli 'farò del mio meglio per portare in alto il tricolore'",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/01/gp-messico-antonelli-faro-del-mio-meglio-per-portare-in-alto-il-tricolore_83a9b6f0-43ed-4f5d-9add-6f75b5e98b3c.html",
+      "title": "Hamilton 'persa vittoria per episodio al via, devo parlare seriamente con Leclerc'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/02/hamilton-persa-vittoria-per-episodio-al-via-devo-parlare-seriamente-con_2e3beab9-72c2-4c50-a926-eb4670c3e540.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-01T19:17:13.000Z",
-      "excerpt": "Il leader del Mondiale: 'ho dormito tanto e bene, la partenza sarà importante'",
+      "pubDate": "2026-11-01T23:09:27.000Z",
+      "excerpt": "Inglese Ferrari al veleno: ora dobbiamo capire cosa fare meglio dietro le quinte",
       "image": null
     },
     {
-      "title": "F1: Hamilton in pole, al suo fianco Russell. Antonelli parte quarto",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/01/f1-hamilton-in-pole-al-suo-fianco-russell.-antonelli-parte-quarto_d44231ac-58ba-4f03-bfb9-8da0eb242644.html",
+      "title": "Juve: Spalletti 'meriti sono della squadra, ritrovata un po' di stima'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/juve-spalletti-meriti-sono-della-squadra-ritrovata-un-po-di-stima_317a2b53-f161-48de-a685-2a275e6f4bdf.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-01T19:09:21.000Z",
-      "excerpt": "In prima fila anche la Mercedes",
+      "pubDate": "2026-11-01T22:36:21.000Z",
+      "excerpt": "Boga 'contro il Napoli gara di cuore, contento per gol e vittoria'",
       "image": null
     },
     {
-      "title": "Serie A: Lecce-Genoa 1-2",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/serie-a-lecce-genoa-1-2_795cf6eb-8ccb-4be1-9552-2ecf543be275.html",
+      "title": "F1:Antonelli campione;La Russa(Aci) 'l'Italia è tornata,celebriamo orgoglio tricolore'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/01/f1antonelli-campionela-russaaci-litalia-e-tornatacelebriamo-orgoglio-tricolore_992a9f30-0cd1-401b-83ee-4c29b4da163b.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-01T18:58:46.000Z",
-      "excerpt": "Terza vittoria di fila per i rossoblù di De Rossi",
+      "pubDate": "2026-11-01T22:27:52.000Z",
+      "excerpt": "Presidente Automobile Club a Città del Messico'è la fine di una lunga attesa, grazie Kimi'",
       "image": null
     }
   ]
