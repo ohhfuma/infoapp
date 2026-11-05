@@ -1,265 +1,337 @@
 {
-  "lastUpdated": "2026-11-05T09:11:01.001Z",
+  "lastUpdated": "2026-11-05T17:31:00.587Z",
   "finanza": {
     "italia": [
       {
-        "title": "Lavoro domestico, oltre metà del settore è nel sommerso (56,6%). Famiglie schiacciate dal caro-servizi (+20%)",
-        "link": "https://www.ilsole24ore.com/art/lavoro-domestico-oltre-meta-settore-e-sommerso-566percento-famiglie-schiacciate-caro-servizi-20percento-AJhjDf4B",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-05T09:02:02.000Z",
-        "excerpt": "Il 65,4% delle famiglie che si avvale di una o più badanti dichiara di spendere oltre 1.500 euro al mese e il 28,9% più di 2.000 euro. La distanza crescente tra bisogni e risorse disponibili impone alle famiglie scelte s",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/05/Immagini/Ritagli/AdobeStock_567248994-U54410608803YUj-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Borsa: Milano in rialzo con le trimestrali, in luce Amplifon",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-milano-in-rialzo-con-le-trimestrali-in-luce-amplifon_747de6a4-eb35-4fe1-b4f6-04dec86a38ea.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-05T08:58:14.000Z",
-        "excerpt": "Positive le banche, scende Leonardo. Lo spread tra Btp e Bund a 103 punti",
-        "image": null
-      },
-      {
-        "title": "Ita, accordo con i sindacati, 180 uscite volontarie",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/ita-accordo-con-i-sindacati-180-uscite-volontarie_2000d5ae-2200-4865-a0fd-ce45c4ec6b4a.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-05T08:57:52.000Z",
-        "excerpt": "46 in meno del previsto. Naspi, fondo solidarietà e incentivo aziendale",
-        "image": null
-      },
-      {
-        "title": "Borse Europa in rialzo, salgono titoli minerari, male tech",
-        "link": "https://it.investing.com/news/stock-market-news/borse-europa-in-rialzo-salgono-titoli-minerari-male-tech-3630559",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-05T08:48:19.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA40P4_L.jpg"
-      },
-      {
-        "title": "Le azioni JCDecaux salgono del 6% grazie alla crescita dei ricavi",
-        "link": "https://it.investing.com/news/stock-market-news/le-azioni-jcdecaux-salgono-del-6-grazie-alla-crescita-dei-ricavi-93CH-3630556",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-05T08:46:06.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg"
-      },
-      {
-        "title": "Perché il titolo GN Store Nord è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-gn-store-nord-e-in-forte-rialzo-oggi-93CH-3630555",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-05T08:41:38.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Deutsche Telekom scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-deutsche-telekom-scende-oggi-93CH-3630552",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-05T08:40:56.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg"
-      },
-      {
-        "title": "Perché il titolo ArcelorMittal è in forte rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-arcelormittal-e-in-forte-rialzo-oggi-93CH-3630551",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-05T08:40:33.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
-      },
-      {
-        "title": "Borsa Milano, avvio positivo, occhi su trimestrali, giù tech e oil",
-        "link": "https://it.investing.com/news/stock-market-news/borsa-milano-avvio-positivo-occhi-su-trimestrali-giu-tech-e-oil-3630550",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-05T08:40:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA40P1_L.jpg"
-      },
-      {
-        "title": "Perché il titolo Commerzbank è in calo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-commerzbank-e-in-calo-oggi-93CH-3630549",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-05T08:40:12.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Leonardo sta scendendo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-leonardo-sta-scendendo-oggi-93CH-3630548",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-05T08:39:54.000Z",
-        "excerpt": "",
-        "image": null
-      },
-      {
-        "title": "Borsa: l'Europa apre positiva e guarda agli Stati Uniti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-leuropa-apre-positiva-e-guarda-agli-stati-uniti_54681189-831e-4b38-b7de-8b86f13e07c9.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-05T08:18:00.000Z",
-        "excerpt": "Londra (+0,97%), Parigi (+0,87%) e Francoforte (+0,05%)",
-        "image": null
-      },
-      {
-        "title": "Dl Bollette oggi in Consiglio dei ministri con i correttivi sui costi del tetto al gas",
-        "link": "https://www.ilsole24ore.com/art/dl-bollette-oggi-consiglio-ministri-i-correttivi-costi-tetto-gas-AJb45V5B",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-05T08:11:40.000Z",
-        "excerpt": "Il ministro Pichetto Fratin: «Terremo conto della posizione dei produttori». Al centro del confronto il meccanismo di recupero delle coperture",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/tralicci-Imagoeconomica_1793069-U73577085632ezd-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Borsa: Milano apre in rialzo dello 0,35%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-milano-apre-in-rialzo-dello-035_477e439f-1937-493f-8494-81062b2ce7de.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-05T08:08:46.000Z",
-        "excerpt": "Il primo indice Ftse Mib a 51.210 punti",
-        "image": null
-      },
-      {
-        "title": "Fastweb+Vodafone, fine migrazione delle infrastrutture dal 2040",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/fastwebvodafone-fine-migrazione-delle-infrastrutture-dal-2040_15e37c9b-7cfa-473e-b556-43310094c076.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-05T07:52:23.000Z",
-        "excerpt": "Prosegue il contenzioso con Inwit per addio a partire dal 2028",
-        "image": null
-      },
-      {
-        "title": "Lo spread tra Btp e Bund apre poco mosso a 105 punti",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/lo-spread-tra-btp-e-bund-apre-poco-mosso-a-105-punti_d88a5917-cc68-4226-962a-2df60a4b4d6c.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-05T07:39:12.000Z",
-        "excerpt": "Il rendimento del decennale italiano è stabile al 4,30%",
-        "image": null
-      },
-      {
-        "title": "Investimenti, Nato, Carabinieri: alla Difesa 4,8 miliardi in più",
-        "link": "https://www.ilsole24ore.com/art/investimenti-nato-carabinieri-difesa-48-miliardi-piu-AJJGj94B",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-05T07:38:46.000Z",
-        "excerpt": "A riarmo e sicurezza 10,9 miliardi extra nei prossimi tre anni, concentrati per l’85% sul 2027-28 per la clausola Ue. Nei programmi anche i piani interforze e il Global Combat Air Programme",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/05/Immagini/Ritagli/ilsolematera_20261023172618113_c421a746f99f2141b91d39a06b313ee9-U38100545183lFT-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Bei, per 70% degli italiani il caro energia ha ridotto il potere d'acquisto",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/bei-per-70-degli-italiani-il-caro-energia-ha-ridotto-il-potere-dacquisto_1161845e-ec60-4ecb-826d-5a31be5b4866.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-05T07:30:06.000Z",
-        "excerpt": "Per 8 su 10 la transizione energetica è urgente per l'Italia",
-        "image": null
-      },
-      {
-        "title": "L'utile di Bper sale a 2 miliardi (+16,4%), acconto sulla cedola di 0,33 euro",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/lutile-di-bper-sale-a-2-miliardi-164-acconto-sulla-cedola-di-033-euro_9176ffed-3926-4382-8c88-083a9fbd3144.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-05T07:13:47.000Z",
-        "excerpt": "I ricavi crescono del 3,5% a 5,38 miliardi. Papa: 'buoni risultati in un contesto incerto'",
-        "image": null
-      },
-      {
-        "title": "Carovita, le spese non aspettano il giorno di paga: si punta sempre più allo stipendio in anticipo",
-        "link": "https://www.repubblica.it/economia/2026/11/05/news/carovita_le_spese_non_aspettano_il_giorno_di_paga_sempre_piu_si_punta_allo_stipendio_in_anticipo-425699587/?rss",
+        "title": "Lagarde: “A dicembre capiremo se alzare i tassi. Midterm? Ci vorrà tempo per revisione dei dazi”",
+        "link": "https://www.repubblica.it/economia/2026/11/05/news/lagarde_a_dicembre_capiremo_se_alzare_i_tassi-425702141/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "2026-11-05T07:00:00.000Z",
-        "excerpt": "Gli italiani chiedono – per poter onorare i pagamenti imprevisti e non solo – di accedere a una quota della retribuzione netta già maturata per i giorni lavorati prima di fine mese",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/191651046-dcc87203-b090-41b1-8e63-08647de874b2.jpg"
+        "pubDate": "2026-11-05T17:28:40.000Z",
+        "excerpt": "La presidente Bce a Milano alla presentazione del progetto di Osservatorio for Independent Thinking Young Factor Europe, già attivo in fase pilota in sei paesi europei. Sull’addio a Francoforte: “Voglio rimanere indipend",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/175749609-2fb3cc0e-9208-4536-bf6d-a256b569e03f.jpg"
       },
       {
-        "title": "Ita Airways, intesa con i sindacati: esuberi da 226 a 180. Vettore integra indennità disoccupazione",
-        "link": "https://www.repubblica.it/economia/2026/11/05/news/ita_licenziamenti_esuberi_accordo_sindacati-425700336/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-05T04:00:00.000Z",
-        "excerpt": "Precedenza a chi è vicino alla pensione. Previsto un sostegno fino al 92% della precedente retribuzione di riferimento per chi lascia entro dicembre. Uscite distribuite in scaglioni trimestrali per tutto il 2027. La comp",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/012926702-2ef3c8b1-025a-49c1-9bcf-9078fe43812f.jpg"
+        "title": "Fine vita, il governo impugna la legge del Veneto: Salvini non vota in Cdm, Calderoli contrario ",
+        "link": "https://www.ilsole24ore.com/art/fine-vita-governo-impugna-legge-veneto-salvini-non-vota-cdm-calderoli-contrario-AJHFDG6B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-05T17:24:39.000Z",
+        "excerpt": "Il governo ha deciso di impugnare la legge sul fine vita del Veneto, prima Regione amministrata dal centrodestra (il governatore è il leghista Alberto Stefani) a dare il...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/fine_vita-U16053713418nAb-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Vacanze annullate per malattia, i giudici: “Ecco quando il turista ha diritto al rimborso totale”",
-        "link": "https://www.repubblica.it/economia/2026/11/05/news/vacanze_annullate_per_malattia_i_giudici_ecco_quando_il_turista_ha_diritto_al_rimborso_totale-425699582/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-05T04:00:00.000Z",
-        "excerpt": "Due coppie prenotano un viaggio a Londra, che salta per un grave problema di salute. Il tour operator non può applicare automaticamente le penali del contratto. La Cassazione chiarisce perché la presenza di una polizza a",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/090031154-1614751b-2d23-4d6d-83db-9ed588225195.jpg"
+        "title": "Utile record sopra gli 1,5 miliardi, Banco Bpm ritocca la cedola",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/utile-record-sopra-gli-15-miliardi-banco-bpm-ritocca-la-cedola_d6138096-fe26-48b0-b3a1-f0ed08fe7743.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-05T17:22:50.000Z",
+        "excerpt": "Ai soci più un euro ad azione nel 2026, l'acconto sul dividendo sale a 0,5 euro",
+        "image": null
       },
       {
-        "title": "Rc auto: ogni tre mesi controlli sui veicoli senza assicurazione, ecco cosa cambia con la manovra",
-        "link": "https://www.repubblica.it/economia/2026/11/05/news/rc_auto_ogni_tre_mesi_controlli_sui_veicoli_senza_assicurazione_ecco_cosa_cambia_con_la_manovra-425699571/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-05T04:00:00.000Z",
-        "excerpt": "Ministero dei trasporti e Aci incroceranno i dati delle banche dati almeno ogni tre mesi. Vediamo come funzionerà il sistema",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/191150877-fb41766a-9ecb-4994-9448-99eee4258948.jpg"
+        "title": "Borsa: l'Europa conclude incerta, Londra -0,3%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-leuropa-conclude-incerta-londra-03_f29fd576-eeac-41c4-ad8f-1aa3314b99b2.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-05T17:22:39.000Z",
+        "excerpt": "Giù Amsterdam, in lieve rialzo Parigi e Madrid",
+        "image": null
       },
       {
-        "title": "Rogoff: “Trump da leone ferito è più pericoloso per i mercati, si rischia una crisi del debito”",
-        "link": "https://www.repubblica.it/economia/2026/11/05/news/kenneth_rogoff_economista_effetto_midterm_trump_mercati-425700167/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-05T00:00:00.000Z",
-        "excerpt": "Per l’ex capo economista dell’Fmi sconteremo “l’eredità pesante di uno dei peggiori presidenti di tutti i tempi”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/225259571-2ffd30c6-fc5f-4dfa-8aaa-ef78cabb1af9.jpg"
+        "title": "L'utile di Mediobanca cresce a doppia cifra oltre 1 miliardo, guidance confermata",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/lutile-di-mediobanca-cresce-a-doppia-cifra-oltre-1-miliardo-guidance-confermata_f54c81f5-a446-4155-bc0f-8994e07ff3a5.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-05T17:22:30.000Z",
+        "excerpt": "Melzi d'Eril, 'risultati migliori di sempre con la forza del brand'",
+        "image": null
       },
       {
-        "title": "Musk, l’altro perdente delle elezioni, teme per il suo impero: “Colpirò chi mi attacca”",
-        "link": "https://www.repubblica.it/economia/2026/11/05/news/musk_tesla_spacex_crollo_titoli_effetto_midterm-425700158/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-05T00:00:00.000Z",
+        "title": "Euronext cresce nel trimestre, ricavi a 547,4 milioni di euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/euronext-cresce-nel-trimestre-ricavi-a-5474-milioni-di-euro_e12c3553-6093-41ad-8f56-0946028da997.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-05T17:22:23.000Z",
+        "excerpt": "L'utile netto a 223,2 milioni. Boujnah, nostro business solido e diversificato",
+        "image": null
+      },
+      {
+        "title": "Pirelli, in 9 mesi utile +7,4% a 430,2 milioni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/pirelli-in-9-mesi-utile-74-a-4302-milioni_6df52638-24c2-4c84-9d31-7f14bb6a7513.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-05T17:22:11.000Z",
+        "excerpt": "Cda approva nuovo programma obbligazionario fino a 2 miliardi",
+        "image": null
+      },
+      {
+        "title": "Lo spread tra Btp e Bund chiude in rialzo a 109 punti base",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-109-punti-base_33afc7c5-a5bf-4270-b020-aecb05b5fc55.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-05T17:22:07.000Z",
+        "excerpt": "Il rendimento del prodotto del Tesoro è al 4,33%",
+        "image": null
+      },
+      {
+        "title": "Il gas in aumento (+1,5%) a 89,4 euro al Megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/il-gas-in-aumento-15-a-894-euro-al-megawattora_f6aad1b0-6292-4150-b90f-cd6c760152dd.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-05T17:21:54.000Z",
+        "excerpt": "Sul mercato di Amsterdam di riferimento per l'Europa",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo di Twist Bioscience sta crollando oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-twist-bioscience-sta-crollando-oggi-93CH-3632978",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-05T17:14:34.000Z",
         "excerpt": "",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/224950961-471c4951-f5ad-4c52-8321-2ac3beb10cf6.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
       },
       {
-        "title": "La scuola divide il governo, affossato lo sconto sui libri digitali",
-        "link": "https://www.repubblica.it/economia/2026/11/05/news/scuola_valditara_recuperare_soldi_eliminare_tagli-425700146/?rss",
+        "title": "Il gas in aumento (+1,5%) a 89,4 euro al Megawattora",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/05/il-gas-in-aumento-15-a-894-euro-al-megawattora_cc7beb6c-a28e-4f59-91d8-498a4e864c73.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-05T17:12:46.000Z",
+        "excerpt": "Sul mercato di Amsterdam di riferimento per l'Europa",
+        "image": null
+      },
+      {
+        "title": "Bce attende dati per capire se sia necessario rialzo tassi a dicembre - Lagarde",
+        "link": "https://it.investing.com/news/stock-market-news/bce-attende-dati-per-capire-se-sia-necessario-rialzo-tassi-a-dicembre--lagarde-3632973",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-05T17:08:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA41VI_L.jpg"
+      },
+      {
+        "title": "Leonardo, perdite settore Aerostrutture si attenuano, proseguono trattative per Jv",
+        "link": "https://it.investing.com/news/stock-market-news/leonardo-perdite-settore-aerostrutture-si-attenuano-proseguono-trattative-per-jv-3632972",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-05T17:08:22.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA41VR_L.jpg"
+      },
+      {
+        "title": "Dl Bollette, slitta ancora il via libera in Consiglio dei ministri",
+        "link": "https://www.ilsole24ore.com/art/dl-bollette-slitta-ancora-via-libera-consiglio-ministri-AJnStC6B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-05T16:43:00.000Z",
+        "excerpt": "Slitta ancora, a quanto si apprende, l’approvazione del decreto Bollette. Il Consiglio dei ministri ha rinviato l’esame del provvedimento con “disposizioni urgenti per la riduzione del costo dell’energia elettrica e...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/Imagoeconomica_2787538-U60276156530lCB-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Block taglia altri posti di lavoro dopo i massicci licenziamenti di Dorsey",
+        "link": "https://it.investing.com/news/stock-market-news/block-taglia-altri-posti-di-lavoro-dopo-i-massicci-licenziamenti-di-dorsey-3632961",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-05T16:40:37.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB2N09U_M.jpg"
+      },
+      {
+        "title": "Il titolo Newsmax potrebbe muoversi del 3,9% con i risultati dell’12 nov.",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-newsmax-potrebbe-muoversi-del-39-con-i-risultati-dell12-nov-93CH-3632960",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-05T16:40:35.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+      },
+      {
+        "title": "Twist Bioscience crolla del 10% dopo il report ribassista di Bear Cave",
+        "link": "https://it.investing.com/news/stock-market-news/twist-bioscience-crolla-del-10-dopo-il-report-ribassista-di-bear-cave-3632957",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-05T16:33:01.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM3C1A3_1200_L.jpg"
+      },
+      {
+        "title": "Dietro il crollo di Wall Street: la liquidazione dell’AI minaccia la mega-IPO di Anthropic",
+        "link": "https://it.investing.com/news/stock-market-news/dietro-il-crollo-di-wall-street-la-liquidazione-dellai-minaccia-la-megaipo-di-anthropic-3632954",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-05T16:28:07.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+      },
+      {
+        "title": "Wendy’s respinge l’offerta di acquisto da 1,4 miliardi di Trian e adotta una \"poison pill\"",
+        "link": "https://it.investing.com/news/stock-market-news/wendys-respinge-lofferta-di-acquisto-da-14-miliardi-di-trian-e-adotta-una-poison-pill-3632952",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-05T16:24:30.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+      },
+      {
+        "title": "Dalla previdenza dedicata ai congedi parentali, sindacati militari in pressing sulla manovra",
+        "link": "https://www.ilsole24ore.com/art/dalla-previdenza-dedicata-congedi-parentali-sindacati-militari-pressing-manovra-AJ3wDC3B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-05T15:40:31.000Z",
+        "excerpt": "Nella nota congiunta i sindacati militari lanciano un ultimatum: senza stanziamenti concreti per la previdenza dedicata e per le richieste avanzate, le organizzazioni si dichiarano pronte a sospendere la partecipazione a",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/04/Immagini/Ritagli/AdobeStock_246608600-U22845207655VYt-1440x752@IlSole24Ore-Web.jpeg"
+      },
+      {
+        "title": "Viaggi 2027, prenotiamo Parigi ma sogniamo anche Tokyo. Roma conquista le classifiche internazionali",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/osserva-viaggi/2026/11/05/news/viaggi_2027_prenotiamo_parigi_ma_sogniamo_anche_tokyo_roma_conquista_le_classifiche_internazionali-425701888/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "2026-11-05T00:00:00.000Z",
-        "excerpt": "Valditara e Salvini insistono per ripristinare gli organici per un anno: taglio da eliminare. Irritazione di Palazzo Chigi",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/224120236-5b5b46e6-0340-4481-a4a7-aa2988962c4c.jpg"
+        "pubDate": "2026-11-05T15:25:07.000Z",
+        "excerpt": "Sul podio delle prenotazioni aeree degli italiani per il prossimo anno si trovano anche Madrid e Londra. Nella top 10 anche Sharm el-Sheikh e New York. L’indagine di eDreams Odigeo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/162500999-e61a6042-907d-482f-a16f-53f2e9082a72.jpg"
       },
       {
-        "title": "Grande festa a Wall Street punita Big tech, giù il petrolio più denaro verso l’Europa",
-        "link": "https://www.repubblica.it/economia/2026/11/05/news/reazione_mercati_midterm_petrolio_crolla_borse-425700134/?rss",
+        "title": "Tajani lancia la strategia nazionale per la diplomazia scientifica. «Asi e Regione Calabria collaborano con Nasa su progetto Artemis»",
+        "link": "https://www.ilsole24ore.com/art/tajani-lancia-strategia-nazionale-la-diplomazia-scientifica-asi-e-regione-calabria-collaborano-nasa-progetto-artemis-AJNQ3y5B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-05T14:47:08.000Z",
+        "excerpt": "Protocollo con il Cnr. Il responsabile della Farnesina: «La nostra diplomazia scientifica deve mettere ancora di più al centro il tema dell’innovazione e il sostegno alle start-up»",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/tajani-addetti-scientifici-U11516210013bTL-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Ucraina, Meloni scrive a Costa: «Inaccettabile Ue in ordine sparso, serve una voce sola»",
+        "link": "https://www.ilsole24ore.com/art/ucraina-meloni-scrive-costa-inaccettabile-ue-ordine-sparso-serve-voce-sola-AJOuct5B",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-05T14:06:00.000Z",
+        "excerpt": "Un’Europa che continua a «procedere in ordine sparso» sull’Ucraina è «inaccettabile»: «Non facciamo altro che l’interesse di chi vuole che questa guerra continui». Giorgia Meloni ha perso la pazienza. Dopo...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/2026-11-05T102726Z_105647574_RC2QPKAGME5W_RTRMADP_5_UKRAINE-CRISIS-ITALY-U40778247544KWP-1440x752@IlSole24Ore-Web.JPG"
+      },
+      {
+        "title": "Aumenta l'uso di farmaci Glp-1: l'impatto sulle abitudini dei consumatori",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/11/05/news/aumenta_l_uso_di_farmaci_glp-1_l_impatto_sulle_abitudini_dei_consumatori-425701051/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "2026-11-05T00:00:00.000Z",
-        "excerpt": "Cambia il vento per i portafogli, gli investitori lasciano i settori vicini al tycoon. Dal 1950 listini americani sono saliti per 19 volte di fila dopo il voto di metà mandato",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/223723816-e7f4ffac-0c02-4c11-9e8c-b64a5c5dce70.jpg"
+        "pubDate": "2026-11-05T13:33:19.000Z",
+        "excerpt": "Utilizzati nel trattamento del diabete di tipo 2 e dell’obesità, la loro assunzione incide sui consumi e sulla spesa alimentare secondo uno studio di Bcg",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/111641633-78a1d2f2-23f6-4727-bf64-11171a8bfa3c.jpg"
       },
       {
-        "title": "Catena del freddo, nuova allerta Acn: verifiche urgenti sui sistemi di refrigerazione",
-        "link": "https://www.ilsole24ore.com/art/catena-freddo-nuova-allerta-acn-verifiche-urgenti-sistemi-refrigerazione-AJ5Qsy4B",
+        "title": "Confindustria-Bdi-Medef, rafforzare spesa pubblica europea verso le imprese",
+        "link": "https://www.ilsole24ore.com/art/confindustria-bdi-medef-rafforzare-spesa-pubblica-europea-imprese-AJqF1t5B",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-04T18:52:00.000Z",
-        "excerpt": "L’Agenzia per la cybersicurezza nazionale rinnova il richiamo a soggetti pubblici e privati. La compromissione degli impianti può deteriorare prodotti e materiali, interrompere i servizi e avere ripercussioni sulla salut",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/05/Immagini/Ritagli/AdobeStock_625208693-U48387254777LXW-1440x752@IlSole24Ore-Web.jpeg"
+        "pubDate": "2026-11-05T13:26:00.000Z",
+        "excerpt": "«Con il progredire dei negoziati sul bilancio, sarà fondamentale salvaguardare livelli ambiziosi di spesa destinata alla competitività, senza compromettere la capacità di investimento europea né aggravare il carico fisca",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/LP_24915592-U61634136058Tyj-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Data center, da Amazon a OpenAi: in cantiere investimenti da 27 miliardi in Italia",
-        "link": "https://www.ilsole24ore.com/art/data-center-amazon-openai-cantiere-investimenti-27-miliardi-italia-AJVmAh4B",
+        "title": "Banche e assicurazioni sotto attacco: gli hacker passano dalle email",
+        "link": "https://www.ilsole24ore.com/art/banche-e-assicurazioni-sotto-attacco-hacker-passano-email-AJhE8q5B",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-04T17:29:25.000Z",
-        "excerpt": "Una strategia per decidere dove far nascere i nuovi data center, prima che la corsa saturi i territori più richiesti. Una strada precisa, tracciata da chi si occupa di coordinare...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/05/Immagini/Ritagli/AdobeStock_350466684-U11183476185OwV-1440x752@IlSole24Ore-Web.jpeg"
+        "pubDate": "2026-11-05T13:10:00.000Z",
+        "excerpt": "L’Acn registra 168 eventi nei primi nove mesi del 2026. Quacivi in Parlamento: nelle banche prevale la criminalità informatica, nelle assicurazioni l’hacktivismo. Un accesso su cinque è riconducibile a prodotti o servizi",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/AdobeStock_1045629065-U15636323168Vip-1440x752@IlSole24Ore-Web.jpeg"
       },
       {
-        "title": "Cyberattacchi ai frigo, NoName e Z-Peintest rivendicano: ma il video non chiude il caso",
-        "link": "https://www.ilsole24ore.com/art/cyberattacchi-frigo-noname-e-z-peintest-rivendicano-ma-video-non-chiude-caso-francia-possibile-un-altra-matrice-statuale-AJDjeg4B",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-04T16:57:00.000Z",
-        "excerpt": "Le autorità analizzano il video arrivato oltre tre settimane dopo i primi attacchi. Sotto esame tempi, canali e attendibilità della rivendicazione: non si escludono un’azione intestata da altri, un video-esca o una diver",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/05/Immagini/Ritagli/2026-10-23T060021Z_320930879_RC2P8OASFZPV_RTRMADP_5_CYBERSECURITY-PHP-BUGS-U88804012872Doa-1440x752@IlSole24Ore-Web.JPG"
+        "title": "Brembo, conti in crescita nei nove mesi. Confermati i target 2026",
+        "link": "https://www.repubblica.it/economia/2026/11/05/news/brembo_conti_in_crescita_nei_nove_mesi_confermati_i_target_2026-425701503/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-05T13:04:24.000Z",
+        "excerpt": "I ricavi a quota 2,88 miliardi, battute le stime degli analisti nel trimestre. Ma il titolo è fiacco a Piazza Affari",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/140414223-ae4a7fb6-7442-4ad6-98f5-20915aaef3fa.jpg"
       },
       {
-        "title": "Pos e scontrini, il Fisco mette al bando i software velocizzatori",
-        "link": "https://www.ilsole24ore.com/art/pos-e-scontrini-fisco-mette-bando-software-velocizzatori-AJ03cg4B",
+        "title": "Scontri Askatasuna, pm chiede 4 anni per il primo imputato",
+        "link": "https://www.ilsole24ore.com/art/scontri-askatasuna-pm-chiede-4-anni-il-primo-imputato-AJRXLq5B",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-04T16:03:11.000Z",
-        "excerpt": "I software velocizzatori per la trasmissione dei dati degli scontrini telematici finiscono nel mirino delle Entrate. L’Agenzia «non solo si è attivata per sensibilizzare gli esercenti a non utilizzare tali...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/imagoeconomica-1502117-1608754827-U78688117806eeQ-1440x752@IlSole24Ore-Web.jpg"
+        "pubDate": "2026-11-05T12:35:35.000Z",
+        "excerpt": "Quattro anni di carcere è l’entità della prima richiesta di condanna presentata dalla procura di Torino per gli scontri avvenuti il 31 gennaio scorso nel capoluogo piemontese durante la manifestazione...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/LP_24075020-U55826138167VVL-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Italia-Usa, la competizione globale passa dalla leva fiscale",
-        "link": "https://www.ilsole24ore.com/art/italia-usa-competizione-globale-passa-leva-fiscale-AJ0Sve4B",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-04T15:01:14.000Z",
-        "excerpt": "La competizione globale «non si gioca più soltanto sul costo del lavoro o sulla dimensione dei mercati, ma sulla capacità dei sistemi economici di offrire stabilità, prevedibilità e condizioni favorevoli...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/05/Immagini/Ritagli/WhatsApp%20Image%202026-11-04%20at%2015.59.44-U71132265502OEu-1440x752@IlSole24Ore-Web.jpeg"
+        "title": "Cresce la voglia di viaggiare: overtourism e inflazione condizionano la scelta delle mete",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/osserva-viaggi/2026/11/05/news/cresce_la_voglia_di_viaggiare_overtourism_e_inflazione_condizionano_la_scelta_delle_mete-425701074/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-05T10:37:24.000Z",
+        "excerpt": "È una priorità pe il 43% degli italiani e il 78% dichiara di volerne fare uno nei prossimi 12 mesi o di averne già prenotato. I dati di un’indagine di YouGov",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/113719681-c436a1aa-32d6-4636-b270-ee42ac3b10de.jpg"
+      },
+      {
+        "title": "Leonardo, vola l’utile dei 9 mesi. Migliorano le stime sugli ordini, ma il titolo vacilla",
+        "link": "https://www.repubblica.it/economia/2026/11/05/news/leonardo_risultati_nove_mesi_difesa-425701060/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-05T10:27:44.000Z",
+        "excerpt": "Le azioni delle società europee della difesa sono in calo da ieri, in reazione alla vittoria dei Democratici alle elezioni midterm americane, che ha alimentato i timori del settore di un maggiore controllo sulle spese mi",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/112733548-90772c59-1451-43e0-899c-c0a194f6fcc2.jpg"
+      },
+      {
+        "title": "Nel lavoro domestico si concentra un irregolare su tre in Italia. “Mancano aiuti alle famiglie”",
+        "link": "https://www.repubblica.it/economia/2026/11/05/news/nel_lavoro_domestico_si_concentra_un_irregolare_su_tre_in_italia_mancano_aiuti_alle_famiglie-425700973/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-05T09:55:55.000Z",
+        "excerpt": "Assindatcolf traccia 1,48 milioni di lavoratori, con un tasso di irregolarità che sfiora il 57%. “Famiglie schiacciate dal caro-servizi, +20%",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/105549795-ea357740-e1b0-4ecb-9a7c-493c3f5f4809.jpg"
+      },
+      {
+        "title": "Assogestioni propone un fondo pensione dalla nascita",
+        "link": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/11/05/news/assogestioni_propone_un_fondo_pensione_dalla_nascita-425700955/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-05T09:53:16.000Z",
+        "excerpt": "Dieci euro al mese per ogni nuovo nato, da investire fino ai 18 anni nella previdenza complementare. La proposta dell’associazione che rappresenta gli asset manager operanti in Italia si inserisce nel dibattito sulla man",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/105259819-0c3ea4b1-04ea-4454-9df3-07f87dcd65fb.jpg"
       }
     ],
     "europa": [
+      {
+        "title": "Sports Entertainment Gaming Global riacquista la conformità al Nasdaq, udienza annullata",
+        "link": "https://www.investing.com/news/sec-filings/sports-entertainment-gaming-global-regains-nasdaq-compliance-hearing-canceled-93CH-5005195",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-05T16:32:36.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
+      },
+      {
+        "title": "Digital Turbine nomina Daniel Lentz direttore finanziario",
+        "link": "https://www.investing.com/news/sec-filings/digital-turbine-appoints-daniel-lentz-as-chief-financial-officer-93CH-5004680",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-05T14:22:51.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
+      },
+      {
+        "title": "Myriad Genetics segnala l'accesso non autorizzato alla rete IT, riprende la maggior parte delle operazioni",
+        "link": "https://www.investing.com/news/sec-filings/myriad-genetics-reports-unauthorized-access-to-it-network-resumes-most-operations-93CH-5004615",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-05T14:16:25.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
+      },
+      {
+        "title": "Vivos Inc completa un'offerta azionaria di $1 milione ed emette nuovi warrant",
+        "link": "https://www.investing.com/news/sec-filings/vivos-inc-completes-1-million-equity-offering-and-issues-new-warrants-93CH-5004590",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-05T14:12:27.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
+      },
+      {
+        "title": "Il Chief Science and Technology Officer di GE HealthCare Technologies si dimette",
+        "link": "https://www.investing.com/news/sec-filings/ge-healthcare-technologies-chief-science-and-technology-officer-to-resign-93CH-5004400",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-05T13:52:49.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
+      },
+      {
+        "title": "Local Bounti ha concesso l'estensione del NYSE per riguadagnare $50 milioni di conformità alla capitalizzazione di mercato",
+        "link": "https://www.investing.com/news/sec-filings/local-bounti-granted-nyse-extension-to-regain-50-million-market-cap-compliance-93CH-5004324",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-05T13:42:55.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
+      },
+      {
+        "title": "Processa Pharmaceuticals emette lettera agli azionisti, file 8-K con SEC",
+        "link": "https://www.investing.com/news/sec-filings/processa-pharmaceuticals-issues-stockholder-letter-files-8k-with-sec-93CH-5004189",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-05T13:22:43.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
+      },
+      {
+        "title": "Home BancShares riceve un pagamento di $80,7 milioni su un prestito in sofferenza in Texas",
+        "link": "https://www.investing.com/news/sec-filings/home-bancshares-receives-807-million-payment-on-texas-nonperforming-loan-93CH-5004014",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-05T13:02:50.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
+      },
+      {
+        "title": "Scuola, manifestazioni in tutta la Francia. Liceo incendiato a Tolosa",
+        "link": "https://www.ilsole24ore.com/art/scuola-manifestazioni-tutta-francia-liceo-incendiato-tolosa-AJsXlp5B",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-11-05T12:28:00.000Z",
+        "excerpt": "In piazza tra le 500mila e le 700mila persone. Alcuni individui appiccano il fuoco all’istituto Françoise de Tournefeuill con fuochi d’artificio",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/2026-11-05T122414Z_1629823719_RC2OHOASR2RE_RTRMADP_5_FRANCE-PROTEST-U55364012755UoY-1440x752@IlSole24Ore-Web.JPG"
+      },
       {
         "title": "Il trionfo dei Dem spacca i Maga: Vance prende le distanze dalla guerra",
         "link": "https://www.ilsole24ore.com/art/il-trionfo-dem-spacca-maga-vance-prende-distanze-guerra-AJA2ii4B",
@@ -269,76 +341,20 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/05/Immagini/Ritagli/2026-10-20T181227Z_1360737696_RC267OA30HMR_RTRMADP_5_USA-TRUMP-U23881651533Npj-1440x752@IlSole24Ore-Web.JPG"
       },
       {
+        "title": "Montenegro verso l’ingresso nella Ue nel 2028",
+        "link": "https://www.ilsole24ore.com/art/montenegro-l-ingresso-ue-2028-AJ9P625B",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-11-05T05:15:00.000Z",
+        "excerpt": "BRUXELLES – Il Montenegro potrebbe aderire all’Unione europea già nel 2028, secondo un rapporto dedicato all’allargamento pubblicato mercoledì 4 novembre dalla Commissione europea qui a Bruxelles. L’esecutivo comunitario",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/c19a2103953a352ab3b50210ed364964-U70132035231hRm-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
         "title": "Hong Kong, 10 anni di carcere a Joshua Wong, volto simbolo della lotta per la democrazia",
         "link": "https://www.ilsole24ore.com/art/hong-kong-10-anni-carcere-joshua-wong-volto-simbolo-lotta-la-democrazia-AJVvUO5B",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-11-05T04:28:00.000Z",
         "excerpt": "Il leader studentesco, in carcere da sei anni per sovversione, sarebbe tornato in libertà a gennaio",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/2026-11-05T035347Z_1329118625_RC2FHOAJBKIT_RTRMADP_5_HONGKONG-SECURITY-JOSHUAWONG-U14018470472hEk-1440x752@IlSole24Ore-Web.JPG"
-      },
-      {
-        "title": "Bio Green Med Solution riceve un avviso Nasdaq sulla conformità del prezzo minimo di offerta",
-        "link": "https://www.investing.com/news/sec-filings/bio-green-med-solution-receives-nasdaq-notice-on-minimum-bid-price-compliance-93CH-5001739",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-04T22:42:07.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
-      },
-      {
-        "title": "Summit Therapeutics presenta un parere legale per l'emissione di azioni ordinarie",
-        "link": "https://www.investing.com/news/sec-filings/summit-therapeutics-files-legal-opinion-for-common-stock-issuance-93CH-5001733",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-04T22:38:34.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
-      },
-      {
-        "title": "Olin estende la data di risoluzione del contratto di acquisto di crediti a luglio 2028",
-        "link": "https://www.investing.com/news/sec-filings/olin-extends-receivables-purchase-agreement-termination-date-to-july-2028-93CH-5001726",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-04T22:34:39.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
-      },
-      {
-        "title": "Kenvue completa l'offerta di scambio per titoli senior, modifica i patti obbligazionari",
-        "link": "https://www.investing.com/news/sec-filings/kenvue-completes-exchange-offer-for-senior-notes-amends-bond-covenants-93CH-5001717",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-04T22:30:55.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
-      },
-      {
-        "title": "Il WEC Energy Group stabilisce un accordo di distribuzione azionaria da $4 miliardi",
-        "link": "https://www.investing.com/news/sec-filings/wec-energy-group-establishes-4-billion-equity-distribution-agreement-93CH-5001698",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-04T22:26:33.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
-      },
-      {
-        "title": "Gli azionisti di GRI Bio approvano le modifiche al piano azionario e le elezioni del consiglio di amministrazione all'assemblea annuale",
-        "link": "https://www.investing.com/news/sec-filings/gri-bio-shareholders-approve-equity-plan-changes-and-board-elections-at-annual-meeting-93CH-5001685",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-04T22:22:39.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
-      },
-      {
-        "title": "Netsol Technologies riporta i risultati trimestrali della controllata in Pakistan",
-        "link": "https://www.investing.com/news/sec-filings/netsol-technologies-reports-subsidiarys-quarterly-results-in-pakistan-93CH-5001663",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-04T22:16:32.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
-      },
-      {
-        "title": "FTC Solar riprende il programma di offerta di azioni sul mercato",
-        "link": "https://www.investing.com/news/sec-filings/ftc-solar-resumes-atthemarket-stock-offering-program-93CH-5001648",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-04T22:12:42.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
       },
       {
         "title": "Auto: primo sì in Parlamento Ue a flessibilità su target taglio emissioni al 2035",
@@ -371,73 +387,185 @@
         "pubDate": "2026-11-04T15:50:00.000Z",
         "excerpt": "A 46 anni, Chris Pappas entra nella storia della politica americana. Il deputato democratico del New Hampshire ha sconfitto il repubblicano John E. Sununu nella corsa al Senato, conquistando un...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/05/Immagini/Ritagli/2026-11-04T021132Z_1729059456_RC2PGOAEEHRY_RTRMADP_5_USA-ELECTION-NEW-HAMPSHIRE-U62573856711fpM-1440x752@IlSole24Ore-Web.JPG"
-      },
-      {
-        "title": "Hakeem Jeffries, il primo speaker nero della Camera pronto a intralciare Trump",
-        "link": "https://www.ilsole24ore.com/art/chi-e-hakeem-jeffries-primo-speaker-nero-camera-storia-usa-AJSohV4B",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-11-04T14:34:00.000Z",
-        "excerpt": "Avvocato newyorkese, è stato il primo uomo nero a guidare un partito al Congresso",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/05/Immagini/Ritagli/2026-11-04T043801Z_860875691_RC2SGOAEF13F_RTRMADP_5_USA-ELECTION-U37034803382Pso-1440x752@IlSole24Ore-Web.JPG"
-      },
-      {
-        "title": "Francia, attacco ibrido a celle frigorifere con sangue di donatori",
-        "link": "https://www.ilsole24ore.com/art/francia-attacco-ibrido-celle-frigorifere-sangue-donatori-AJNyUa4B",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-11-04T14:18:00.000Z",
-        "excerpt": "Gli hacker hanno avuto accesso ai sistemi di controllo e aumentato le temperature in tre celle frigorifere che custodiscono emoderivati vitali",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/05/Immagini/Ritagli/imagoeconomica2170151-1793710118342-U12140276406MTe-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "usa": [],
     "mondo": [
       {
+        "title": "In Francia 1,6 milioni di persone in piazza. Un liceo incendiato vicino a Tolosa",
+        "link": "https://www.repubblica.it/esteri/2026/11/05/news/manifestazioni_francia_liceo_incendiato_tolosa_proteste_parigi-425701398/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-05T17:19:56.000Z",
+        "excerpt": "Nuova giornate di proteste nel Paese, in 350mila solo a Parigi secondo i dati dei sindacati",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/132212102-380e5c3c-9ba8-49d5-828c-45165968d749.jpg"
+      },
+      {
+        "title": "Petroliere colpite a Hormuz mentre l'Iran mantiene la pressione dopo il voto degli Stati Uniti",
+        "link": "https://www.investing.com/news/commodities-news/tankers-hit-in-hormuz-as-iran-keeps-up-pressure-after-us-vote-5005038",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-05T16:48:48.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA41MY_L.jpg"
+      },
+      {
+        "title": "Incubo Paraguay, mezzo Paese si sveglia senza più soldi in banca. Il presidente si dimette",
+        "link": "https://www.repubblica.it/esteri/2026/11/05/news/paraguay_senza_piu_soldi_in_banca_per_il_crac_della_ueno-425701871/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-05T16:41:49.000Z",
+        "excerpt": "Bloccati conti e carte, impossibile ritirare i soldi o effettuare pagamenti a causa del crac della Ueno. C’è chi potrebbe aver perso tutto. Il passo indietro di Peña, che rischiava l’impeachment",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/162243586-0558588c-de35-418d-9960-0a4d8438a07e.jpg"
+      },
+      {
+        "title": "Melania Trump consegna alle delegazioni due lettere per Putin e Zelensky",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/melania-trump-consegna-alle-delegazioni-due-lettere-per-putin-e-zelensky_9b36e016-ca96-43db-9c8d-18642e877d98.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-05T16:39:43.000Z",
+        "excerpt": "'Scritte personalmente'",
+        "image": null
+      },
+      {
+        "title": "Si dimette il presidente del Paraguay per lo scandalo Ueno Bank",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/si-dimette-il-presidente-del-paraguay-per-lo-scandalo-ueno-bank_3ad9a3cf-4a34-4522-9a75-5ab89940db3a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-05T16:26:53.000Z",
+        "excerpt": "Rimasto isolato, Santiago Peña era a un passo dall'impeachment",
+        "image": null
+      },
+      {
+        "title": "Falso allarme bomba oggi anche sul volo Pescara-Charleroi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/05/falso-allarme-bomba-oggi-anche-sul-volo-pescara-charleroi_3058725f-ed85-4eb2-8f6d-ec23bf408631.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-05T15:55:00.000Z",
+        "excerpt": "Trovato biglietto con scritta 'bomba'. Controllati passeggeri e bagagli, esclusi pericoli",
+        "image": null
+      },
+      {
+        "title": "Machado al vertice iberoamericano, 'Venezuela ancora come Cuba e Nicaragua'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/machado-al-vertice-iberoamericano-venezuela-ancora-come-cuba-e-nicaragua_34974ef6-0e64-40a3-96e2-18a1079d1bc5.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-05T15:07:10.000Z",
+        "excerpt": "'Il nostro Paese non è rappresentato a Madrid', e insiste su elezioni entro il 24 luglio",
+        "image": null
+      },
+      {
+        "title": "L'oro guadagna man mano che il dollaro si stabilizza, i rendimenti del Tesoro calano tra le ricadute di medio termine degli Stati Uniti",
+        "link": "https://www.investing.com/news/commodities-news/gold-extends-rally-above-4100-as-dollar-treasury-yields-fall-after-us-vote-5002012",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-05T14:57:47.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/gold_2_M_1440047838.jpg"
+      },
+      {
+        "title": "Hong Kong, l’attivista pro-democrazia Joshua Wong condannato a 10 anni di carcere",
+        "link": "https://www.repubblica.it/esteri/2026/11/05/news/hong_kong_attivista_pro_democrazia_joshua_wong_condannato_10_anni_carcere_cina_legge_sicurezza_nazionale-425701226/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-05T14:54:23.000Z",
+        "excerpt": "Si tratta della seconda sentenza in base a una legge sulla sicurezza nazionale imposta da Pechino. Un caso che, secondo ong per i diritti umani, riflette la repressione contro il movimento a favore dell’indipendenza, un ",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/121859016-57208384-0c89-4e59-85a7-31e2639ff698.jpg"
+      },
+      {
+        "title": "Così la Difesa italiana si sta preparando alla guerra al tempo dei droni",
+        "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/05/news/guerra_droni_italia_esercito_difesa-425701791/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-05T14:54:03.000Z",
+        "excerpt": "Inutile riempire i magazzini di quadricotteri, obsoleti dopo pochi mesi. La strategia dell’Esercito è addestrare subito tanti piloti e prendere i sistemi in massa solo nel momento di necessità. Una sfida anche per l’indu",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/155342755-067a1a5d-208d-4ead-82b5-b40596626a67.jpg"
+      },
+      {
+        "title": "Il petrolio sale tra l'incertezza sulla guerra in Iran dopo le elezioni di medio termine degli Stati Uniti",
+        "link": "https://www.investing.com/news/commodities-news/oil-holds-steep-losses-after-us-election-fuels-iran-peace-hopes-5001939",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-05T14:50:49.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEK4N0FY_L.jpg"
+      },
+      {
         "title": "Allarme bomba su un volo Dublino-Roma, atterraggio d'emergenza in Francia",
         "link": "https://www.repubblica.it/esteri/2026/11/05/news/allarme_bomba_volo_dublino_roma_atterraggio_emergenza_francia-425700771/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-11-05T08:59:21.000Z",
-        "excerpt": "Scalo d’emergenza dell’Airbus A20 a Evreux. L’ufficio del primo ministro francese sta monitorando la situaizone",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/095751095-0603267f-44c7-477c-af39-086d1a1fbd0f.jpg"
+        "pubDate": "2026-11-05T14:50:06.000Z",
+        "excerpt": "Scalo d’emergenza dell’Airbus A20 a Evreux. L’ufficio del primo ministro francese sta monitorando la situazione. Il pilota non voleva atterrare nello scalo militare: “Sarà ascoltato in un'audizione libera e il procurator",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/101511514-f01fa87e-a28b-42b0-b1f0-d789395aa7eb.jpg"
       },
       {
-        "title": "Il petrolio aumenta mentre gli investitori soppesano il rischio di un'escalation della guerra in Iran",
+        "title": "Trump a Abc news, 'intendo mantenere Hegseth al suo posto'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/trump-a-abc-news-intendo-mantenere-hegseth-al-suo-posto_510a8684-832b-4fea-a97c-97bc000dd39a.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-05T14:40:24.000Z",
+        "excerpt": "'Ricevo telefonate di persone scontente di lui, non capisco perchè'",
+        "image": null
+      },
+      {
+        "title": "I repubblicani scaricano Hegseth: dai processi all’alcolismo, tutti i guai del capo del Pentagono",
+        "link": "https://www.repubblica.it/esteri/2026/11/05/news/repubblicani_scaricano_hegseth_possibile_avvio_impeachment-425701454/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-05T14:33:04.000Z",
+        "excerpt": "Il segretario alla Guerra potrebbe diventare il primo capro espiatorio della clamorosa sconfitta subita da Donald Trump nelle elezioni di midterm. Nel suo curriculum, oltre all’appoggio alla guerra in Iran, ci sono diver",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/134454460-98740720-f569-4886-a431-e9e528f0d583.jpg"
+      },
+      {
+        "title": "Il petrolio aumenta mentre gli investitori soppesano le incertezze sulla guerra in Iran",
         "link": "https://www.investing.com/news/commodities-news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation-5002042",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-11-05T08:42:23.000Z",
+        "pubDate": "2026-11-05T14:31:18.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA4057_L.jpg"
       },
       {
-        "title": "La Cina afferma che gli acquisti di aziende agricole statunitensi dipendono dall'accordo sul taglio delle tariffe",
-        "link": "https://www.investing.com/news/commodities-news/china-ties-more-us-farm-imports-to-reciprocal-tariff-cuts-5002457",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-05T08:37:00.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA40LA_L.jpg"
-      },
-      {
-        "title": "Cnn, repubblicani scaricano Hegseth, possibile avvio impeachment prossima settimana",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/cnn-repubblicani-scaricano-hegseth-possibile-avvio-impeachment-prossima-settimana_d63f69ef-b35a-452a-ae58-060385896c18.html",
+        "title": "Lista Unita araba indicherà Eisenkot come premier",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/05/lista-unita-araba-indichera-eisenkot-come-premier_a63dde0a-3793-4775-a1c3-d179c15c94e0.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-05T08:31:38.000Z",
-        "excerpt": "'Si prevede che alla Camera Gop voterà presto per mettere sotto accusa segretario Difesa'",
+        "pubDate": "2026-11-05T14:31:11.000Z",
+        "excerpt": "Nota ufficiale del partito, 'non è stata una scelta semplice'",
         "image": null
       },
       {
-        "title": "Partito ultraortodosso non raccomanda candidati, rotta alleanza con Netanyahu",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/05/partito-ultraortodosso-non-raccomanda-candidati-rotta-alleanza-con-netanyahu_8d8e2e87-2164-476d-a6b9-6ab783d59c5a.html",
+        "title": "'Rubio valuta dimissioni per prendere le distanze da Trump e guardare al 2028'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/rubio-valuta-dimissioni-per-prendere-le-distanze-da-trump-e-guardare-al-2028_daea936d-ac7a-48a1-88a6-0bdd5304bbbe.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-05T08:12:54.000Z",
-        "excerpt": "",
+        "pubDate": "2026-11-05T14:31:02.000Z",
+        "excerpt": "The Independent cita fonti, l'amministrazione danneggia le sue prospettive",
         "image": null
       },
       {
-        "title": "Analisi: l'umiliazione politica di Trump segnala un guadagno a breve termine, un dolore a lungo termine per la Cina",
-        "link": "https://www.investing.com/news/commodities-news/analysistrumps-political-humbling-signals-shortterm-gain-longterm-pain-for-china-5002472",
+        "title": "Los Angeles elegge una socialista come sindaco, Raman batte Bass",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/los-angeles-elegge-una-socialista-come-sindaco-raman-batte-bass_78f801d7-4065-48b9-aefc-c16991830922.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-05T13:57:03.000Z",
+        "excerpt": "La battaglia è stato uno scontro generazionale",
+        "image": null
+      },
+      {
+        "title": "L'impennata dei prezzi del diesel ha contribuito a inaugurare la corsa democratica",
+        "link": "https://www.investing.com/news/commodities-news/soaring-diesel-prices-helped-usher-in-democratic-sweep-5003543",
         "source": "Investing.com Commodities",
-        "pubDate": "2026-11-05T08:00:45.000Z",
+        "pubDate": "2026-11-05T12:43:18.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA40M6_L.jpg"
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA417G_L.jpg"
+      },
+      {
+        "title": "Offerta mattutina: il petrolio e il gioco della colpa",
+        "link": "https://www.investing.com/news/commodities-news/morning-bid-oil-and-the-blame-game-5003284",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-05T12:13:39.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA415R_L.jpg"
+      },
+      {
+        "title": "I latinos, motivati dall'immigrazione e dai problemi economici, guidano i guadagni democratici nelle roccaforti repubblicane",
+        "link": "https://www.investing.com/news/commodities-news/latinos-motivated-by-immigration-and-economic-woes-drive-democratic-gains-in-republican-strongholds-5003153",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-05T11:37:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM4Q23H_1200_L.jpg"
+      },
+      {
+        "title": "Il gas europeo scivola ulteriormente mentre il crollo petrolifero settimanale del 20% travolge le nuove minacce di Hormuz",
+        "link": "https://www.investing.com/news/commodities-news/european-gas-slips-further-as-20-weekly-oil-crash-overwhelms-fresh-hormuz-threats-5002650",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-05T09:57:13.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEI5M080_L.jpg"
       },
       {
         "title": "Un’onda blu travolge l’America: la prima pagina di Repubblica in edicola",
@@ -448,182 +576,126 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/05/081213817-fff5aa92-62c8-468d-9639-655909750658.jpg"
       },
       {
-        "title": "Il petrolio detiene forti perdite dopo che le elezioni statunitensi alimentano le speranze di pace dell'Iran",
-        "link": "https://www.investing.com/news/commodities-news/oil-holds-steep-losses-after-us-election-fuels-iran-peace-hopes-5001939",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-05T07:36:24.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEK4N0FY_L.jpg"
-      },
-      {
-        "title": "Gli Stati Uniti infliggono sanzioni a imprese e persone indiane e turche per aver aiutato l'Iran",
-        "link": "https://www.investing.com/news/commodities-news/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran-5000921",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-05T07:31:17.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA320K_L.jpg"
-      },
-      {
-        "title": "Il gas naturale si consolida al di sotto di 200-MA con il segnale Doji: Live",
-        "link": "https://www.investing.com/news/commodities-news/natural-gas-consolidates-near-618-fib-with-bear-flag-live-levels-93CH-4990030",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-05T07:10:52.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC5E0W5_M.jpg"
-      },
-      {
-        "title": "Il rame testa la resistenza in una tendenza ribassista al ribasso: livelli live",
-        "link": "https://www.investing.com/news/commodities-news/copper-stalls-below-cloud-resistance-at-652-live-levels-93CH-4990024",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-05T07:10:15.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8G03P_M.jpg"
-      },
-      {
-        "title": "London Gas Oil ipervenduto a Bollinger Band dopo H&S: Livelli live",
-        "link": "https://www.investing.com/news/commodities-news/london-gas-oil-consolidates-below-key-mas-live-levels-93CH-4990029",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-05T07:10:13.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/Crudeoil_800x533_L_1629202550.jpg"
-      },
-      {
-        "title": "Prosegue lo scrutinio in Mississippi, candidato dem in vantaggio con margine minimo",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/05/prosegue-lo-scrutinio-in-mississippi-candidato-dem-in-vantaggio-con-margine-minimo_6f0a26b4-758c-41c6-8bf9-27fd02c19f4d.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-05T06:52:43.000Z",
-        "excerpt": "Continua il conteggio anche in Alaska",
-        "image": null
-      },
-      {
-        "title": "Hong Kong, altri 10 anni di carcere all'attivista pro-democrazia Joshua Wong",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/05/hong-kong-altri-10-anni-di-carcere-allattivista-pro-democrazia-joshua-wong_5f888928-f197-4118-9b9e-975d52369770.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-05T04:06:12.000Z",
-        "excerpt": "Nuovo processo celebrato in virtù della legge sulla sicurezza nazionale",
-        "image": null
-      },
-      {
-        "title": "Sheinbaum celebra i nuovi governatori Usa di origini messicane",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/sheinbaum-celebra-i-nuovi-governatori-usa-di-origini-messicane_4be786a4-525f-4060-b348-bbf553a47bef.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-05T01:16:52.000Z",
-        "excerpt": "Xavier Becerra vince in California e Gina Hinojosa in Texas",
-        "image": null
-      },
-      {
-        "title": "Colombia, il Parlamento approva la legge che archivia la 'pace totale' di Petro",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/colombia-il-parlamento-approva-la-legge-che-archivia-la-pace-totale-di-petro_5179af65-f8ab-4f75-b089-79f3bb546eec.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-05T00:41:06.000Z",
-        "excerpt": "Previste riduzioni di pena in cambio di disarmo e collaborazione con la giustizia",
-        "image": null
-      },
-      {
         "title": "Il monito di Trump agli Usa: “Sono sempre il presidente”. Governo a rischio implosione",
         "link": "https://www.repubblica.it/esteri/2026/11/05/news/monito_trump_dopo_midterm_sono_sempre_il_presidente_governo_rischio_implosione-425700164/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-11-05T00:00:00.000Z",
         "excerpt": "Il leader cerca di ostentare forza, ma il suo team può sfaldarsi: Hegseth potrebbe saltare e Rubio ritirarsi per prendersi il partito",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/225011296-b16d46d9-0773-4614-bbce-9f4eb051e4de.jpg"
-      },
-      {
-        "title": "Mounk “La democrazia ha dimostrato la sua forza battiamoci ancora per lei”",
-        "link": "https://www.repubblica.it/esteri/dossier/elezioni-usa/2026/11/05/news/mounk_la_democrazia_ha_dimostrato_la_sua_forza_battiamoci_ancora_per_lei-425700133/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-05T00:00:00.000Z",
-        "excerpt": "Le divisioni nel mio Paese sono più complicate di come si raccontano. Ora c’è un’opportunità per iniziative bipartisan",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/223748460-36a6139b-8734-4883-93af-4da27f854467.jpg"
-      },
-      {
-        "title": "Il ribaltone spinto dai giovani, i latinos voltano le spalle a Donald",
-        "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_usa_voto_spinto_da_giovani_latinos-425700126/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-05T00:00:00.000Z",
-        "excerpt": "Il 70 per cento degli under 30 ha scelto i dem, dicendo no a corruzione e disuguaglianza. Decisivo per il successo dei democratici anche il voto delle minoranze e delle donne",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/223641224-1633249c-db78-4ae5-ab16-9d875f97a651.jpg"
-      },
-      {
-        "title": "L’impatto del voto Usa sul mondo, dalla guerra all’Iran ai rapporti con Putin e Netanyahu: ecco le svolte possibili",
-        "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_svolte_possibili_casa_bianca_politica_estera_netanyahu_putin-425700065/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-05T00:00:00.000Z",
-        "excerpt": "Un’incognita su tutte: le scelte che Trump farà sul Medio Oriente, lo scacchiere a causa del quale, forse, ha perso le elezioni",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/220330960-afddfbb6-3248-4088-b3d8-2ff3c38c86f1.jpg"
-      },
-      {
-        "title": "Socialisti, religiosi e pacifisti: la carica dei millennials dem nella corsa alla Casa Bianca",
-        "link": "https://www.repubblica.it/esteri/2026/11/05/news/millennials_dem_corsa_casa_bianca-425700029/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-05T00:00:00.000Z",
-        "excerpt": "Nella sinistra americana inizia la sfida per la scelta del candidato presidenziale 2028. E ai nomi già noti di Ocasio-Cortez e Kamala Harris si affianca una nuova generazione",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/215319534-8f799f50-2095-4fb5-8c81-443b7085eb63.jpg"
-      },
-      {
-        "title": "De Blasio: “Trump ha perso perché non è più un outsider ma simbolo della corruzione”",
-        "link": "https://www.repubblica.it/esteri/2026/11/05/news/intervista_de_blasio_midterm_trump_ha_perso_perche_simbolo_corruzione-425699991/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-05T00:00:00.000Z",
-        "excerpt": "L’ex sindaco di New York: “Il presidente paga gli errori nel Golfo, gli omicidi a Minneapolis di cittadini americani e i dazi, che hanno contribuito al carovita”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/04/214406458-b668606d-00ee-4395-abb3-7a1b11b886e5.jpg"
-      },
-      {
-        "title": "F1: Antonelli, 'vorrei essere un po' brasiliano', e rende omaggio al suo idolo Senna",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/04/f1-antonelli-vorrei-essere-un-po-brasiliano-e-rende-omaggio-al-suo-idolo-senna_bcd7d4d4-1ba5-41c5-929d-33b7e0bdbcf4.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-04T21:52:28.000Z",
-        "excerpt": "Il campione più giovane della storia a 20 anni sogna di vincere a Interlagos",
-        "image": null
-      },
-      {
-        "title": "Nicaragua, il figlio di Ortega promuove il liquore cinese da 6.500 dollari",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/04/nicaragua-il-figlio-di-ortega-promuove-il-liquore-cinese-da-6.500-dollari_23b967e4-2b80-4268-82ed-1da9093bcbe0.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-04T20:26:55.000Z",
-        "excerpt": "Laureano lancia Moutai, distillato simbolo delle élite politiche e economiche di Pechino",
-        "image": null
       }
     ]
   },
   "attualita": [
     {
-      "title": "Volo da Dublino a Roma dirottato verso aeroporto francese per allarme bomba",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/volo-da-dublino-a-roma-dirottato-verso-aeroporto-francese-per-allarme-bomba_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
+      "title": "Uccise la compagna e la figlioletta, Francis Kaufmann condannato all'ergastolo",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/uccise-la-compagna-e-la-figlioletta-francis-kaufmann-condannato-allergastolo_713aa8f4-5288-476a-9546-23593356eba6.html",
       "source": "ANSA",
-      "pubDate": "2026-11-05T09:05:50.000Z",
-      "excerpt": "Lo riporta il governo francese. Coinvolto un Airbus A320 di Air Lingus, è stato fatto atterrare a Évreux",
+      "pubDate": "2026-11-05T17:24:10.000Z",
+      "excerpt": "Era giugno del 2025. Accusato anche di occultamento cadavere. I legali dei familiari di Anastasia: 'È un piccolo conforto'",
       "image": null
     },
     {
-      "title": "Allarme bomba su un volo Dublino-Roma, atterraggio d'emergenza in Francia",
-      "link": "https://www.repubblica.it/esteri/2026/11/05/news/allarme_bomba_volo_dublino_roma_atterraggio_emergenza_francia-425700771/",
+      "title": "In Cdm slitta ancora l'approvazione del decreto Bollette",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/05/in-cdm-slitta-ancora-lapprovazione-del-decreto-bollette_8d67ddb9-4bd5-4ec2-bcd1-c3d360b2e537.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-05T17:15:11.000Z",
+      "excerpt": "Dubbi della Ragioneria. L'approvazione potrebbe avvenire lunedì 9 novembre. Il governo impugna la legge del Veneto sul fine vita",
+      "image": null
+    },
+    {
+      "title": "Via al nuovo Report tra lacrime e orgoglio: “Speriamo che Ranucci faccia il tifo per noi”",
+      "link": "https://www.repubblica.it/politica/2026/11/05/news/report_si_pasquale_piervincenzi_riparte_ranucci_lavitola-425702026/",
       "source": "Repubblica",
-      "pubDate": "2026-11-05T08:52:48.000Z",
-      "excerpt": "Scalo d’emergenza dell’Airbus A20 a Evreux. L’ufficio del primo ministro francese sta monitorando la situaizone",
+      "pubDate": "2026-11-05T16:20:21.000Z",
+      "excerpt": "La conferenza stampa di lancio della trasmissione che prova a voltare pagina dopo le polemiche per il caso Lavitola. Corsini: “La mia verifica è il terminale di una catena. Spero d’ora in poi in modo leggermente più como",
       "image": null
     },
     {
-      "title": "I repubblicani scaricano Hegseth, possibile avvio impeachment prossima settimana",
-      "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/05/cnn-repubblicani-scaricano-hegseth-possibile-avvio-impeachment-prossima-settimana_41c6d3d5-6a37-40d2-8014-42eb277efc2c.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-05T08:42:14.000Z",
-      "excerpt": "'Si prevede che alla Camera Gop voterà presto per mettere sotto accusa segretario Difesa'",
-      "image": null
-    },
-    {
-      "title": "Az-Juve, il derby dei fratelli Koopmeiners: “Mamma non tifa, papà potrebbe scappare dallo stadio”",
-      "link": "https://www.repubblica.it/sport/calcio/coppe/2026/11/05/news/az_alkmaar_juventus_peer_teun_koopmeiners-425700695/",
+      "title": "Paola, violentata e minacciata di morte: “Mi sentivo sporca ma ora dico a tutte: non vergognatevi”",
+      "link": "https://bologna.repubblica.it/cronaca/2026/11/05/news/paola_violentata_minacce_morte_vergogna_intervista_modena-425701942/",
       "source": "Repubblica",
-      "pubDate": "2026-11-05T08:18:30.000Z",
-      "excerpt": "AZ Alkmaar-Juventus di Europa League è anche la sfida tra i due centrocampisti olandesi. Peer e Teun rispondono alle stesse domande tra ricordi d’infanzia, battute, rivalità e un progetto comune: “Abbiamo scritto un libr",
+      "pubDate": "2026-11-05T15:43:40.000Z",
+      "excerpt": "Ha 55 anni, fa l’operatrice sociosanitaria e nell’agosto del 2025 fu stuprata sul percorso natura di San Damaso a Modena. Dopo la condanna a 15 anni di un ventenne, ha deciso di parlare. “Nessuno deve più subire quello c",
       "image": null
     },
     {
-      "title": "Domande intime all'ex sacerdote Ravagnani, polemica su Diaco",
-      "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/domande-intime-allex-sacerdote-ravagnani-polemica-su-diaco_ebcdf818-bd85-4bdf-b29b-03a7e0711c5e.html",
+      "title": "Violentarono una studentessa dopo la promozione del Bra, tre calciatori condannati",
+      "link": "https://torino.repubblica.it/cronaca/2026/11/05/news/calciatori_bra_condannati_stupro_gruppo_studentessa-425701934/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-05T15:40:46.000Z",
+      "excerpt": "Il tribunale di Asti ha inflitto 4 anni e 2 mesi a Fausto Perseu e Alessio Rosa, e 3 anni 8 mesi e 20 giorni a Jesus Christ Mawete: approfittarono delle condizioni di stordimento da alcol della giovane per consumare uno ",
+      "image": null
+    },
+    {
+      "title": "Incubo Paraguay, mezzo Paese si sveglia senza più soldi in banca. Il presidente si dimette",
+      "link": "https://www.repubblica.it/esteri/2026/11/05/news/paraguay_senza_piu_soldi_in_banca_per_il_crac_della_ueno-425701871/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-05T15:23:36.000Z",
+      "excerpt": "Bloccati conti e carte, impossibile ritirare i soldi o effettuare pagamenti a causa del crac della Ueno. C’è chi potrebbe aver perso tutto. Il passo indietro di Peña, che rischiava l’impeachment",
+      "image": null
+    },
+    {
+      "title": "Omicidi di Villa Pamphili, Francis Kaufman condannato all’ergastolo. “Sentenza giusta”",
+      "link": "https://roma.repubblica.it/cronaca/2026/11/05/news/omicidi_villa_pamphili_francis_kaufman_condanna_ergastolo-425701869/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-05T15:23:30.000Z",
+      "excerpt": "Il verdetto dei giudici della prima Corte di Assise di Roma. Disposto l’isolamento diurno per tre anni. Soddisfatte le parti civili. La difesa: “Manca la prova regina”",
+      "image": null
+    },
+    {
+      "title": "Orzo, luppolo e lieviti locali, dalla ricerca nasce la birra tutta italiana",
+      "link": "https://www.ansa.it/canale_terraegusto/notizie/mondo_agricolo/2026/11/05/orzo-luppolo-e-lieviti-locali-dalla-ricerca-nasce-la-birra-tutta-italiana_46d1d2bb-adca-452b-a877-b2d39d53edd9.html",
       "source": "ANSA",
-      "pubDate": "2026-11-05T08:08:31.000Z",
-      "excerpt": "Milly Carlucci: 'Inaccettabile'. Scontro anche nel Cda Rai",
+      "pubDate": "2026-11-05T15:17:45.000Z",
+      "excerpt": "Progetto promosso dal Crea e finanziato dal Masaf per valorizzare la biodiversità",
+      "image": null
+    },
+    {
+      "title": "Nuova ondata di allarmi bomba sui voli, segnalati da una mail in italiano. Informative alle procure",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/nuova-ondata-di-allarmi-bomba-sui-voli-segnalati-da-una-mail-in-italiano._746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-05T14:58:37.000Z",
+      "excerpt": "Almeno 18 casi in Europa, otto tra Malpensa, Fiumicino e Malpensa. Due aerei sono stati dirottati",
+      "image": null
+    },
+    {
+      "title": "Così la Difesa italiana si sta preparando alla guerra al tempo dei droni",
+      "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/05/news/guerra_droni_italia_esercito_difesa-425701791/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-05T14:54:03.000Z",
+      "excerpt": "Inutile riempire i magazzini di quadricotteri, obsoleti dopo pochi mesi. La strategia dell’Esercito è addestrare subito tanti piloti e prendere i sistemi in massa solo nel momento di necessità. Una sfida anche per l’indu",
+      "image": null
+    },
+    {
+      "title": "Regno Unito, Russell Brand giudicato colpevole per uno stupro e tre aggressioni sessuali",
+      "link": "https://www.repubblica.it/spettacoli/people/2026/11/05/news/regno_unito_russell_brand_condannato_per_stupro-425701750/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-05T14:39:59.000Z",
+      "excerpt": "Il verdetto di colpevolezza per accuse risalenti a oltre 20 anni fa. All’attore sarà inflitta la detenzione in prigione, l’entità della pena sarà determinata in sentenza successivamente",
+      "image": null
+    },
+    {
+      "title": "Elezioni midterm Usa, le news in diretta. Trump: “Ricevute lamentele su Hegseth, ma rimane”",
+      "link": "https://www.repubblica.it/esteri/2026/11/05/diretta/elezioni_midterm_usa_2026_risultati_trump_news-425701706/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-05T14:12:31.000Z",
+      "excerpt": "A meno di 48 ore dalla sconfitta elettorale alle elezioni di metà mandato i rep puntano il dito contro il capo del Pentagono. Rubio valuta dimissioni per prendere le distanze da Trump e guardare al 2028. Continua lo spog",
+      "image": null
+    },
+    {
+      "title": "E’ rientrato a Terra il telescopio spaziale Swift, bruciato nell’atmosfera",
+      "link": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/11/05/e-rientrato-a-terra-il-telescopio-spaziale-swift-bruciato-nellatmosfera_3f75e765-a64d-49ce-965c-4af86de2c423.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-05T10:49:58.000Z",
+      "excerpt": "Quando era sopra l’Indonesia, era stato lanciato nel 2004 per studiare i lampi gamma",
+      "image": null
+    },
+    {
+      "title": "Kimi Antonelli: \"Senna è il mio eroe\"",
+      "link": "https://www.ansa.it/sito/videogallery/sport/2026/11/05/kimi-antonelli-senna-e-il-mio-eroe_e3cac2fd-68fd-4557-a398-efda821beeed.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-05T10:02:04.000Z",
+      "excerpt": "Il pilota italiano: \"Incredibile il sostegno che ricevo dal Brasile\"",
       "image": null
     },
     {
@@ -635,149 +707,77 @@
       "image": null
     },
     {
-      "title": "Un’onda blu travolge l’America: la prima pagina di Repubblica in edicola",
-      "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_usa_vittoria_democratici_sconfitta_trump_prima_pagina-425700549/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-05T07:12:18.000Z",
-      "excerpt": "",
-      "image": null
-    },
-    {
-      "title": "Vance si smarca da Donald e apre le ostilità nel Gop: “La sconfitta è colpa della guerra in Iran”",
-      "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_guerra_partito_repubblicano_vance_si_smarca_da_donald_colpa_guerra_iran-425699918/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-05T00:00:00.000Z",
-      "excerpt": "Il vicepresidente contro il tycoon nel tentativo di prendersi la corrente Maga e correre per la Casa Bianca nel 2028. Hegseth rischia di saltare",
-      "image": null
-    },
-    {
-      "title": "L’impatto del voto Usa sul mondo, dalla guerra all’Iran ai rapporti con Putin e Netanyahu: ecco le svolte possibili",
-      "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_svolte_possibili_casa_bianca_politica_estera_netanyahu_putin-425700065/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-05T00:00:00.000Z",
-      "excerpt": "Un’incognita su tutte: le scelte che Trump farà sul Medio Oriente, lo scacchiere a causa del quale, forse, ha perso le elezioni",
-      "image": null
-    },
-    {
-      "title": "Dazi, poteri di guerra, conflitto d’interessi. Parte la sfida del Congresso a Trump",
-      "link": "https://www.repubblica.it/esteri/2026/11/05/news/midterm_dazi_poteri_guerra_corruzione_parte_sfida_del_congresso_a_trump-425699869/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-05T00:00:00.000Z",
-      "excerpt": "I democratici, diventati maggioranza sia alla Camera che al Senato degli Stati Uniti, affilano le armi in vista dei prossimi scontri con la Casa Bianca. Ecco i temi su cui potrebbero passare all’attacco subito dopo l’ins",
-      "image": null
-    },
-    {
-      "title": "Il monito di Trump agli Usa: “Sono sempre il presidente”. Governo a rischio implosione",
-      "link": "https://www.repubblica.it/esteri/2026/11/05/news/monito_trump_dopo_midterm_sono_sempre_il_presidente_governo_rischio_implosione-425700164/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-05T00:00:00.000Z",
-      "excerpt": "Il leader cerca di ostentare forza, ma il suo team può sfaldarsi: Hegseth potrebbe saltare e Rubio ritirarsi per prendersi il partito",
-      "image": null
-    },
-    {
-      "title": "Musk, l’altro perdente delle elezioni, teme per il suo impero: “Colpirò chi mi attacca”",
-      "link": "https://www.repubblica.it/economia/2026/11/05/news/musk_tesla_spacex_crollo_titoli_effetto_midterm-425700158/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-05T00:00:00.000Z",
-      "excerpt": "",
-      "image": null
-    },
-    {
-      "title": "'Gli americani hanno detto no alla guerra', ma Teheran non si illude ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/04/khamenei-chi-si-aspetta-un-cambiamento-nella-politica-usa-sbaglia-di-grosso_60de3609-89e4-4ddf-9dc3-fb4483a930e3.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-04T21:09:27.000Z",
-      "excerpt": "Khamenei: 'Se attaccano risposta più ampia'. L'Iran minaccia le basi in Europa e in Italia",
-      "image": null
-    },
-    {
       "title": "Da Binance agli smartphone, gli hacker mettono nel mirino i 'wallet digitali'",
       "link": "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/11/04/da-binance-agli-smartphone-gli-hacker-mettono-nel-mirino-i-wallet-digitali_d790f8b4-b51f-4808-bce6-83b3e3943ce1.html",
       "source": "ANSA",
       "pubDate": "2026-11-04T18:29:16.000Z",
       "excerpt": "Asaro (Polimi): 'I pagamenti con smartphone sicuri, ma servono buone abitudini'",
       "image": null
-    },
-    {
-      "title": "A Dacia Maraini il Premio Tonino Guerra 2026",
-      "link": "https://www.ansa.it/sito/notizie/cultura/libri/libri_film/2026/11/03/a-dacia-maraini-il-premio-tonino-guerra-2026_a340bbed-85a0-4c4c-b05b-c8af936989e2.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-04T17:55:43.000Z",
-      "excerpt": "A Rimini il 6 e 7 novembre due giorni dedicati al rapporto della scrittrice con il cinema",
-      "image": null
-    },
-    {
-      "title": "Borsa Italiana, torna “Investire in un mondo che cambia”",
-      "link": "https://www.ansa.it/native/ansacom/2026/11/04/borsa-italiana-torna-investire-in-un-mondo-che-cambia_fedaf362-483d-45b4-b942-af7634980476.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-04T06:12:56.000Z",
-      "excerpt": "",
-      "image": null
     }
   ],
   "sport": [
     {
-      "title": "Calcio: Kane prolunga con il Bayern fino al 2029",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/05/calcio-kane-prolunga-con-il-bayern-fino-al-2029_ef6d4467-5934-4591-a12d-b9e346ff5065.html",
+      "title": "Tennis: Musetti eliminato al Masters di Parigi, Van Assche ai quarti",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/05/tennis-musetti-eliminato-al-masters-di-parigi-van-assche-ai-quarti_9919c195-e2e1-4feb-a04d-815d2167eaed.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-05T08:34:49.000Z",
-      "excerpt": "L'attaccante inglese 10 giorni fa ha vinto il Pallone d'Oro",
+      "pubDate": "2026-11-05T17:19:03.000Z",
+      "excerpt": "L'azzurro cede al francese in tre set con il punteggio di 7-5 3-6 6-4",
       "image": null
     },
     {
-      "title": "F1, morto l'ex pilota australiano Alan Jones, campione del mondo nel 1980",
-      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/05/f1-morto-lex-pilota-australiano-alan-jones_41e27ec0-b644-4df4-be55-94a8155a4bc2.html",
+      "title": "L'ultimo commosso saluto a Jesus de Miguel, funerali a Navahermosa",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/05/lultimo-commosso-saluto-a-jesus-de-miguel-funerali-a-navahermosa_9ac3b4ac-43e8-476c-9143-c7f1fa065915.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-05T08:26:32.000Z",
-      "excerpt": "Aveva 80 anni, nella sua carriera Jones ha vinto 12 gran premi",
+      "pubDate": "2026-11-05T17:16:26.000Z",
+      "excerpt": "Presente la squadra al completo per l'addio al 30enne attaccante del Tenerife",
       "image": null
     },
     {
-      "title": "Nba: prestazione monstre di Wemby, 52 punti contro Dallas",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/05/nba-prestazione-monstre-di-wemby-52-punti-contro-dallas_34e0d3cc-2a1d-4b9a-8a2c-586ad38eb8f5.html",
+      "title": "Calcio: Lecce; Pierotti operato a Pisa per frattura del malleolo",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/05/calcio-lecce-pierotti-operato-a-pisa-per-frattura-del-malleolo_bfc1a843-c455-4e77-802e-e68ee334e768.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-05T08:15:33.000Z",
-      "excerpt": "Oltre i 40 anche Shai Gilgeous-Alexander e Doncic",
+      "pubDate": "2026-11-05T16:57:16.000Z",
+      "excerpt": "Intervento alla clinica 'San Rossore' \"perfettamente riuscito\"",
       "image": null
     },
     {
-      "title": "Golf: il nuovo investitore si ritira, niente rilancio per il circuito Liv",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/05/golf-il-nuovo-investitore-si-ritira-niente-rilancio-per-il-circuito-liv_a1993657-730c-4b84-8512-7c4d1c511354.html",
+      "title": "Calcio: Udinese a Venezia con il dubbio Davis",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/05/calcio-udinese-a-venezia-con-il-dubbio-davis_69dcd7bd-07eb-4394-96ff-b8daec97fd81.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-04T23:08:01.000Z",
-      "excerpt": "Il tour 'alternativo' finanziato dall'Arabia Saudita va verso il collasso",
+      "pubDate": "2026-11-05T16:40:32.000Z",
+      "excerpt": "Il centravanti non è al meglio, per l'esordio Zanetti recupera Solet in difesa",
       "image": null
     },
     {
-      "title": "Champions: Farioli, 'raccogliamo i frutti di quanto seminato'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/04/champions-farioli-raccogliamo-i-frutti-di-quanto-seminato_7952b4cf-da3d-4ff7-b87e-145bf3f582c8.html",
+      "title": "Serie A: Roma-Sassuolo in campo sabato alle 20.45 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/05/serie-a-roma-sassuolo-in-campo-sabato-alle-20.45-diretta_c28c3f9c-9303-4700-a3ee-f99f68e3995f.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-04T22:59:41.000Z",
-      "excerpt": "Il tecnico del Porto dopo la vittoria sul Napoli: \"Giocato con qualità e fisicità\"",
+      "pubDate": "2026-11-05T16:26:24.000Z",
+      "excerpt": "Il terzino olandese si era fermato nella partita con lo United. Sassuolo, torna Thorstvedt dalla squalifica",
       "image": null
     },
     {
-      "title": "Champions: il Porto infierisce sui resti del Napoli decimato dagli infortuni",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/04/champions-il-porto-infierisce-sui-resti-del-napoli-decimato-dagli-infortuni_227c0020-d394-4c34-9c89-543f4de64fae.html",
+      "title": "America's Cup: Sirena 'base pronta a fine gennaio, entro febbraio saremo a Bagnoli'",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/05/americas-cup-sirena-base-pronta-a-fine-gennaio-entro-febbraio-saremo_fbc3ee88-dfb5-4132-a80f-62cba283ad54.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-04T22:38:34.000Z",
-      "excerpt": "Finisce 4-1, sconfitta condizionata da due distrazioni della difesa su calci d'angolo",
+      "pubDate": "2026-11-05T16:25:07.000Z",
+      "excerpt": "L'ad di Luna Rossa: \"Nel frattempo lavoriamo su barca, a dicembre torniamo in acqua\"",
       "image": null
     },
     {
-      "title": "Champions: Allegri, 'amareggiato ma ai ragazzi non rimprovero nulla'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/04/champions-allegri-amareggiato-ma-ai-ragazzi-non-rimprovero-nulla_ee41aed2-530c-4b53-84a1-ca8b775c6c68.html",
+      "title": "Rugby: sabato la sfida al Sudafrica, Quesada sceglie il XV dell'Italia",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/05/rugby-sabato-la-sfida-al-sudafrica-quesada-sceglie-il-xv-dellitalia_1b61ab8d-0113-45d2-b641-841c73e541f7.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-04T22:34:55.000Z",
-      "excerpt": "Delusione in casa Napoli: \"Brutto momento, serve analizzare le palle inattive\"",
+      "pubDate": "2026-11-05T16:19:34.000Z",
+      "excerpt": "Nicotera alla prima da capitano in casa",
       "image": null
     },
     {
-      "title": "Champions: Fabregas 'bella serata ma restare umili e piedi per terra'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/04/champions-fabregas-bella-serata-ma-restare-umili-e-piedi-per-terra_c0affcf4-a8c1-4b86-96bb-2837933fa3a0.html",
+      "title": "Elezioni Figc, Malagò: 'Voglio portare innovazioni e coraggio nel calcio'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/05/elezioni-figc-malago-voglio-portare-innovazioni-e-coraggio-nel-calcio_7573a40b-c872-4e4a-9ce4-0b23201f966f.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-04T22:30:40.000Z",
-      "excerpt": "\"Ora manca l'ultimo sprint domenica con l'Inter, poi potremo riposare\"",
+      "pubDate": "2026-11-05T16:00:57.000Z",
+      "excerpt": "'Galliani? Rispetto e stima, differenza tra noi non è il tema anagrafico'",
       "image": null
     }
   ]
