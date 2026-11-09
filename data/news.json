@@ -1,22 +1,94 @@
 {
-  "lastUpdated": "2026-11-08T22:38:12.132Z",
+  "lastUpdated": "2026-11-09T02:19:38.010Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Nvidia, Huang ammette la relazione con la spia cinese: “Sono stato infedele”. Ma non si dimette",
+        "link": "https://www.repubblica.it/economia/2026/11/08/news/nvidia_huang_ammette_la_relazione_con_la_spia_cinese_sono_stato_infedele_ma_non_si_dimette-425709267/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-09T02:09:21.000Z",
+        "excerpt": "\"Non ci sono scuse per ciò che ho fatto\" ha scritto ai dipendenti il ceo del colosso dei chip. Il gruppo apre un’inchiesta interna. Il tycoon lo loda: “Ha fatto un grande lavoro per gli Usa”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/221255273-7368d848-fcf9-49b4-a2aa-ffc084cd0508.jpg"
+      },
+      {
+        "title": "La RBA: l’IA non ha ancora mostrato chiari guadagni di produttività",
+        "link": "https://it.investing.com/news/stock-market-news/la-rba-lia-non-ha-ancora-mostrato-chiari-guadagni-di-produttivita-93CH-3636717",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-09T01:49:05.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg"
+      },
+      {
+        "title": "I futures di Wall Street sono contrastati tra timori sull’AI e dati sull’inflazione",
+        "link": "https://it.investing.com/news/stock-market-news/i-futures-di-wall-street-sono-contrastati-tra-timori-sullai-e-dati-sullinflazione-3636710",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-09T00:50:09.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "Borsa: Tokyo, apertura in rialzo (+1,86%)",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/09/borsa-tokyo-apertura-in-rialzo-186_8ac37e70-bfef-4627-9b32-cc82f206cf5f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-09T00:42:59.000Z",
+        "excerpt": "Rimbalzo dei semiconduttori dopo il crollo. Yen più forte su dollaro ed euro",
+        "image": null
+      },
+      {
+        "title": "Arriva un rosso per la compagnia tricolore. Ma l’Alitalia ora è lontana",
+        "link": "https://www.repubblica.it/economia/rubriche/circo-massimo/2026/11/09/news/arriva_un_rosso_per_la_compagnia_tricolore_ma_l_alitalia_ora_e_lontana-425704765/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "La perdita è il paradosso dell’aviazione, dove si può volare bene atterrando male. Ma questa volta non è un problema solo italiano",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/06/170553657-5f932790-d6f2-415e-9b06-fa47bbd3cd70.jpg"
+      },
+      {
+        "title": "Dl Bollette, pagano le imprese energetiche. Sconto ai consumatori",
+        "link": "https://www.repubblica.it/economia/2026/11/09/news/decreto_bollette_tetto_gas-425709323/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "Il meccanismo del tetto al gas è in attesa della bollinatura della Ragioneria. Il ministro Pichetto prova a portarlo in Cdm lunedì",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/231711659-1a449d92-f6a7-4d31-b53e-8bbafc444e9a.jpg"
+      },
+      {
+        "title": "Exit tax, il governo alza la soglia. Nel mirino soltanto i milionari",
+        "link": "https://www.repubblica.it/economia/2026/11/09/news/manovra_exit_tax_paperoni_ricchi-425709308/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "Si studia una modifica alla tassa sui ricchi che lasciano l’Italia: sarà più selettiva. Salvi i Paperoni stranieri a regime agevolato",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/225330867-e141ea61-c8b7-4b10-bb79-e80483d4fd1f.jpg"
+      },
+      {
+        "title": "“Aggrediti e malpagati: noi infermieri dimenticati da una manovra iniqua”",
+        "link": "https://www.repubblica.it/economia/2026/11/09/news/infermieri_dimenticati_manovra_stipendi_assunzioni_aggressioni-425709282/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "Intervista alla presidente degli Ordini degli infermieri, che attacca la legge di bilancio in discussione: “Servono fondi le assunzioni, mancano 60mila professionisti solo nel pubblico, e i nostri stipendi sono inferiori",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/223327681-f47d9d40-812f-4164-a48c-8cebc593f50e.jpg"
+      },
+      {
+        "title": "Caro neve, con l'inflazione sciare costa sempre più. Il boom dello skipass",
+        "link": "https://www.repubblica.it/economia/2026/11/09/news/caro_neve_con_l_inflazione_sciare_costa_sempre_piu_il_boom_dello_skipass-425708680/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-08T23:00:00.000Z",
+        "excerpt": "Il rincaro maggiore della tariffa giornaliera si registra a Livigno: +43,3% in cinque anni, come emerge da un’analisi di Assoutenti. Per gli abbonamenti stagionali aumenti fino al 34,7%",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/165424632-9696a000-a347-4ec1-a558-5a18f7239927.jpg"
+      },
+      {
+        "title": "Piazza Affari, da Saipem a Stellantis, ecco le azioni più vendute dai fondi internazionali",
+        "link": "https://www.repubblica.it/economia/2026/11/09/news/fondi_short_ribassisti_corti_piazza_affari_stellantis_saipem_dovalue-425704796/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-08T23:00:00.000Z",
+        "excerpt": "Tra i gruppi che attraggono più posizioni corte ci sono anche Dovalue e Avio",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/06/171705653-e5589a5c-ed6e-47cf-a298-5f03e6141e5a.jpg"
+      },
       {
         "title": "L’HBF potrebbe risolvere il problema del collo di bottiglia nella memoria?",
         "link": "https://it.investing.com/news/stock-market-news/lhbf-potrebbe-risolvere-il-problema-del-collo-di-bottiglia-nella-memoria-3636695",
         "source": "Investing.com Italia",
         "pubDate": "2026-11-08T22:10:23.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB3R08Z_M.jpg"
-      },
-      {
-        "title": "Nvidia, Huang ammette la relazione con la spia cinese: “Sono stato infedele”. Ma non si dimette",
-        "link": "https://www.repubblica.it/economia/2026/11/08/news/nvidia_huang_ammette_la_relazione_con_la_spia_cinese_sono_stato_infedele_ma_non_si_dimette-425709267/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-08T21:58:11.000Z",
-        "excerpt": "\"Non ci sono scuse per ciò che ho fatto\" ha scritto ai dipendenti il ceo del colosso dei chip. Il gruppo apre un’inchiesta interna",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/221255273-7368d848-fcf9-49b4-a2aa-ffc084cd0508.jpg"
+        "image": null
       },
       {
         "title": "Mps, via libera da Consob all’offerta di Intesa. Partirà il 24 novembre",
@@ -32,7 +104,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-11-08T20:36:56.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg"
+        "image": "https://content-media.investing.com/news/moved_small-LYNXMPEM130GP_1200_L.jpg"
       },
       {
         "title": "Via libera della Consob all'offerta di Intesa per Mps, si parte il 24 novembre",
@@ -88,7 +160,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-11-08T16:47:12.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEE2T0K2_M.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEE2T0K2_L.jpg"
       },
       {
         "title": "Acquistare il calo di questo titolo canadese: RJ",
@@ -131,28 +203,12 @@
         "image": null
       },
       {
-        "title": "Con l’AI che perde slancio, BCA punta sulle azioni europee",
-        "link": "https://it.investing.com/news/stock-market-news/con-lai-che-perde-slancio-bca-punta-sulle-azioni-europee-3636670",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-08T15:01:06.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
-      },
-      {
         "title": "Attacchi informatici, Piantedosi convoca il comitato nazionale per la sicurezza",
         "link": "https://www.ilsole24ore.com/art/attacchi-informatici-piantedosi-convoca-comitato-nazionale-la-sicurezza-AJir8J9B",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-11-08T14:49:00.000Z",
         "excerpt": "Appuntamento martedì 10 novembre. Al centro dell’incontro l’esame dei rischi per la sicurezza pubblica connessi alla minaccia cyber.",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/09/Immagini/Ritagli/imagoeconomica2170151-1793710118342-U18436447586FLc-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Incognite Ia e petrolio, dibattito sulla Manovra: la settimana dei mercati",
-        "link": "https://www.repubblica.it/economia/2026/11/08/news/mercati_incognite_ia_e_petrolio_il_dibattito_sulla_finanziaria_i_temi_della_settimana-425708350/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-08T13:00:00.000Z",
-        "excerpt": "Tre i catalizzatori: il boom degli investimenti in intelligenza artificiale e i possibili contraccolpi post midterm; le forti oscillazioni del greggio. In Italia via alle audizioni preliminari sulla Legge di Bilancio",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/123911958-f70bb09d-d95c-4c4e-8026-925670c15011.jpg"
       },
       {
         "title": "Canè (Renaissance), puntiamo su imprese familiari per accompagnarle all'estero",
@@ -171,36 +227,12 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/09/Immagini/Ritagli/6af039298b169.r_d.307-226-16995-U00780757228OiG-1440x752@IlSole24Ore-Web.jpeg"
       },
       {
-        "title": "Assoutenti, vacanze sulla neve sempre più costose, in 5 anni skipass fino a +43%",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/08/assoutenti-vacanze-sulla-neve-sempre-piu-costose-in-5-anni-skipass-fino_3f62f1fb-829d-464d-a31e-e6a48802fbb6.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-08T12:31:43.000Z",
-        "excerpt": "Rispetto al periodo pre-Covid 2 milioni di italiani rinunciano alla settimana bianca",
-        "image": null
-      },
-      {
-        "title": "Anthropic stringe un accordo da 3,4 miliardi per generatori a gas",
-        "link": "https://it.investing.com/news/stock-market-news/anthropic-stringe-un-accordo-da-34-miliardi-per-generatori-a-gas-3636655",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-08T11:36:02.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg"
-      },
-      {
         "title": "Stop allo sconto sulle accise del gasolio: ecco come cambiano i prezzi",
         "link": "https://www.ilsole24ore.com/art/da-oggi-stop-sconto-accise-gasolio-ecco-come-cambiano-prezzi-AJWPd98B",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-11-08T10:49:00.000Z",
         "excerpt": "Lo sconto sulle accise del gasolio è scaduto senza essere rinnovato. Nella Gazzetta ufficiale di sabato 7 novembre, ultimo giorno di validità del taglio, la proroga non c’è, e da...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/09/Immagini/Ritagli/c3b35358288faef5287c3e0ba0f61a70-U81166217764GzJ-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Tra moda, auto e banconote. Il flock, polvere magica è “tecnologia ma prima ancora know-how umano”",
-        "link": "https://www.repubblica.it/economia/2026/11/08/news/tra_moda_auto_e_banconote_il_flock_polvere_magica_e_tecnologia_ma_prima_ancora_know-how_umano-425708206/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-08T10:00:00.000Z",
-        "excerpt": "Donne impresa è Beatrice Casati, 30 anni, da sei ceo di Casati Flock & Fibers, azienda di Renate (Brianza) che da 4 generazioni produce e tratta la materia ottenuta da taglio e macinatura di prodotti tessili. Un’azienda ",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/104656911-1fb60e8d-45ab-4c3f-9740-97178d341a4d.jpg"
       },
       {
         "title": "La pista dei filorussi di Everest per l’attacco hacker al Brennero",
@@ -217,38 +249,6 @@
         "pubDate": "2026-11-08T08:02:01.000Z",
         "excerpt": "Vacanze invernali sempre più costose, rispetto al periodo pre-Covid 2 milioni di italiani rinunciano alla settimana bianca",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/08/Immagini/Ritagli/Imagoeconomica_2841590-U61350130302mJw-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Gli avvocati italiani e il banchetto emiratino",
-        "link": "https://www.repubblica.it/economia/2026/11/08/news/gli_avvocati_italiani_e_il_banchetto_emiratino-425704391/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-08T07:00:00.000Z",
-        "excerpt": "Incontro ad Abu Dhabi tra i maggiori studi legali e i fondi sovrani per una partita da 40 miliardi",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/06/150454268-17dd394e-d9b8-47da-bfac-6dcf94c6910b.jpg"
-      },
-      {
-        "title": "Quanto costa lo smart working: tra luce e gas quasi 500 euro di spese in più all’anno",
-        "link": "https://www.repubblica.it/economia/2026/11/08/news/quanto_costa_lo_smart_working_luce_gas-425707636/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-08T04:00:00.000Z",
-        "excerpt": "Secondo un’analisi di Altroconsumo, lavorare da casa fa aumentare i consumi elettrici fino al 25% e quelli di metano del 13,7%. A compensare in parte i maggiori costi domestici sono i risparmi sul carburante",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/07/210638363-706cd1bd-f5f0-4168-90f6-86c6f33bef6d.jpg"
-      },
-      {
-        "title": "Bollette, come comportarsi alla fine del prezzo bloccato. Attenzione alla trappola del rinnovo",
-        "link": "https://www.repubblica.it/economia/2026/11/08/news/bollette_a_prezzo_bloccato_attenzione_alla_trappola_del_rinnovo-425707629/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-08T04:00:00.000Z",
-        "excerpt": "Secondo l’osservatorio di Billding l’11,6% non ha convenienza a cambiare. Chi ha bloccato il prezzo a 11 centesimi rischia però una stangata al rinnovo automatico: meglio tenere d’occhio la scadenza",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/07/210458112-7d47d3b8-ecc6-44a3-aeac-d3f7ac4b3330.jpg"
-      },
-      {
-        "title": "Crescita e mercati appesi all’IA, la scommessa che scuote il mondo",
-        "link": "https://www.repubblica.it/economia/2026/11/08/news/intelligenza_artificiale_mercati_bolla_investimenti-425707753/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-08T00:00:00.000Z",
-        "excerpt": "Gli investimenti nei centri dati superano ogni boom infrastrutturale della storia e il crescente debito di Big Tech coinvolge nell’azzardo il settore finanziario. L’Fmi: un crollo trascinerebbe giù il Pil globale di un p",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/07/215806284-d7b9498b-e7d6-4716-8933-b9d494080389.jpg"
       },
       {
         "title": "Fdi: «I professionisti sono la risorsa strategica del Paese»",
@@ -392,12 +392,156 @@
     "usa": [],
     "mondo": [
       {
+        "title": "Il petrolio cade mentre Trump dice che i nuovi attacchi contro l'Iran sono \"improbabili\"",
+        "link": "https://www.investing.com/news/commodities-news/oil-falls-on-open-as-trump-says-fresh-iran-attacks-unlikely-5010359",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-09T02:00:40.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA70QB_L.jpg"
+      },
+      {
+        "title": "Trump incontrerà il primo ministro del Qatar mentre la diplomazia iraniana affronta ostacoli",
+        "link": "https://www.investing.com/news/commodities-news/trump-to-meet-qatars-prime-minister-as-iran-diplomacy-faces-hurdles-5010408",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-09T01:49:29.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA8051_L.jpg"
+      },
+      {
+        "title": "L'oro rimbalza sopra i 4.100$ mentre i trader attendono i dati sull'inflazione negli Stati Uniti dopo che i posti di lavoro hanno battuto",
+        "link": "https://www.investing.com/news/commodities-news/gold-rebounds-above-4100-as-traders-await-us-inflation-data-after-jobs-beat-5010397",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-09T01:16:44.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED4U0TY-ORUBS_M.jpg"
+      },
+      {
+        "title": "L'attacco degli Houthi danneggia l'edificio Aramco nel distretto finanziario di Riyadh",
+        "link": "https://www.investing.com/news/commodities-news/saudi-aramco-building-in-riyadh-damaged-by-falling-debris-after-attempted-attack-ministry-says-5010175",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-09T00:55:43.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED6Q1IR_M.jpg"
+      },
+      {
+        "title": "Paraguay, Alliana vara la linea dura e ringrazia gli Stati Uniti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/09/paraguay-alliana-vara-la-linea-dura-e-ringrazia-gli-stati-uniti_61817f56-a5ce-4851-a49b-d9b43835eace.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-09T00:55:03.000Z",
+        "excerpt": "Niente privilegi in carcere per Peña, avviato l'indennizzo dei clienti di Ueno Bank",
+        "image": null
+      },
+      {
+        "title": "I prezzi del petrolio scendono mentre Trump dice che i nuovi attacchi iraniani sono \"improbabili\" se i colloqui progrediscono",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-dip-as-trump-says-new-iran-attacks-unlikely-if-talks-progress-5010370",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-09T00:25:21.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA5T0TT_M.jpg"
+      },
+      {
+        "title": "Bernard-Henri Lévy: “Eisenkot si allei anche con gli arabi, non c’è ragione di escluderli”",
+        "link": "https://www.repubblica.it/esteri/2026/11/09/news/bernard-henri_levy_israele_eisenkot_governo_arabi_netanyahu-425709275/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "L’intellettuale francese assicura che avrebbe votato per il leader di Yashar, incaricato di formare il governo in Israele. Ma teme che il nuovo Esecutivo non basterà a frenare l’antisemitismo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/222303735-71221f9b-d78f-47a9-ac6f-ed2dc4ad1b95.jpg"
+      },
+      {
+        "title": "Nuovo Consiglio Nato-Russia: l’idea di Kushner per la pace",
+        "link": "https://www.repubblica.it/esteri/2026/11/09/news/nuovo_consiglio_nato_russia_kushner_pratica_di_mare_berlusconi-425709201/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "Il genero di Trump punta a resuscitare la struttura di consultazione nata nel 2002 a Pratica di Mare e morta con l’aggressione a Kiev",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/210751209-f9bcc286-1380-4ce5-9641-92597f5ae835.jpg"
+      },
+      {
+        "title": "Netanyahu resta il leader. E il tempo gioca dalla sua parte",
+        "link": "https://www.repubblica.it/esteri/2026/11/09/news/netanyahu_leader_israele_eisenkot_governo-425709150/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "Il primo ministro userà le crisi per invocare l’unità. Contro di lui gioca l’incognita Trump: “Bibi rispetti il piano per Gaza”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/204640504-c6d5032e-adee-4741-a661-4d6db51c6ff2.jpg"
+      },
+      {
+        "title": "Novik: “Dire ai palestinesi che non otterranno diritti è come spingerli alla violenza”",
+        "link": "https://www.repubblica.it/esteri/2026/11/09/news/nimrod_novik_intervista_netanyahu_palestinesi_diritti_eisenkot-425709092/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "L’ex consigliere di Peres prevede tre passaggi: formare una nuova Knesset, dare vita a un governo di minoranza e poi creare alleanze",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/202850284-515acebf-6170-4899-899b-b8e1b51b8048.jpg"
+      },
+      {
+        "title": "Al trilaterale sull’Ucraina presenti anche gli europei. Da Mosca doppia minaccia",
+        "link": "https://www.repubblica.it/esteri/2026/11/09/news/vertice_usa_russia_ucraina_europei_abu_dhabi-425709059/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "Il Vecchio continente rappresentato con il formato E3, teme la resa di Trump, ma anche che Putin alzi le minacce ibride in un anno ricco di elezioni cruciali",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/202218650-9be7418c-be0c-4d52-b405-745747f735ad.jpg"
+      },
+      {
+        "title": "Trump: “Le midterm sono state un salto indietro”. Miller si insedia e minaccia i giornalisti",
+        "link": "https://www.repubblica.it/esteri/2026/11/09/news/trump_midterm_stephen_miller_dana_white-425708994/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "Oggi il wrestler White a Washington per l’incarico da portavoce ma sulla sua nomina lo spettro di un equivoco del presidente che poi fa dietrofont",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/194527724-51d1074a-4edc-4a4d-9a81-5885a8599ee4.jpg"
+      },
+      {
+        "title": "Lezione di storia del generale ucraino: “Gli hacker prima dei missili, un monito per l’Occidente”",
+        "link": "https://www.repubblica.it/esteri/2026/11/09/news/serhii_sobko_libro_generale_ucraino_hacker_guerra_russia_scars_and_seeds-425708912/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-09T00:00:00.000Z",
+        "excerpt": "Serhii Sobko è il vice comandante delle forze di Kiev. Ora, in un libro, ricostruisce l’escalation di Mosca contro il suo Paese",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/190756882-95d2a7b7-9f6f-4a9b-b0f0-cf6e38b95e64.jpg"
+      },
+      {
+        "title": "Trump, 'su Dana White portavoce della Casa Bianca stavo scherzando'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/trump-su-dana-white-portavoce-della-casa-bianca-stavo-scherzando_8f0df071-40a6-48d5-8ff0-729e155d9b94.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-08T23:34:27.000Z",
+        "excerpt": "'Ci vedremo ma parleremo di altro'",
+        "image": null
+      },
+      {
+        "title": "Rubio, 'progressi sull'infrastruttura di sicurezza dopo la guerra in Ucraina'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/rubio-progressi-sullinfrastruttura-di-sicurezza-dopo-la-guerra-in-ucraina_e62c1207-80dd-4433-9353-4ce466847947.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-08T23:12:00.000Z",
+        "excerpt": "Ulteriori passi in avanti potrebbero verificarsi nei colloqui previsti ad Abu Dhabi",
+        "image": null
+      },
+      {
+        "title": "Kiev, 'colpita dai russi la città di Balakliya nel Kharkiv, tre feriti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/kiev-colpita-dai-russi-la-citta-di-balakliya-nel-kharkiv-tre-feriti_0817a13b-0164-40d0-bc6d-633120c78594.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-08T23:10:42.000Z",
+        "excerpt": "'Danneggiati edifici residenziali e un'istituzione culturale'",
+        "image": null
+      },
+      {
+        "title": "Lo Yemen chiede all'Iran di smettere di armare gli Houthi",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/lo-yemen-chiede-alliran-di-smettere-di-armare-gli-houthi_1ae2e7aa-71fc-4f87-be77-674fd6d43284.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-08T22:57:36.000Z",
+        "excerpt": "'Ritiri i consiglieri dei Pasdaran e ponga fine alle ingerenze negli affari interni'",
+        "image": null
+      },
+      {
         "title": "Leone XIV bacchetta Milei: “L’economia è al servizio della persona, alla democrazia serve dialogo”",
         "link": "https://www.repubblica.it/esteri/2026/11/08/news/papa_leone_bacchetta_milei_economia_servizio_persona_a_democrazia_serve_dialogo-425709338/?rss",
         "source": "Repubblica Esteri",
-        "pubDate": "2026-11-08T22:32:20.000Z",
+        "pubDate": "2026-11-08T22:55:17.000Z",
         "excerpt": "Arrivato a Buenos Aires dall’Uruguay il Papa raccomanda al presidente di ultradestra di tutelare la democrazia e non dimenticare chi ha problemi di lavoro o di sanità. Le riforme del presidente sono state criticate dalla",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/233209265-09040a96-81dc-47dd-babc-89e36481f4df.jpg"
+      },
+      {
+        "title": "Rubio, 'le richieste dell'Iran sono inaccettabili'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/rubio-le-richieste-delliran-sono-inaccettabili_d70b692f-03fb-4f48-8044-996347491eaf.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-08T22:50:30.000Z",
+        "excerpt": "'Trump preferirebbe risolvere le questioni per via diplomatica, ma a volte è impossibile'",
+        "image": null
       },
       {
         "title": "Trump, 'spero di andare in paradiso, non voglio andare all'inferno'",
@@ -424,22 +568,6 @@
         "image": null
       },
       {
-        "title": "Soccorritori a Gaza, 5 morti dopo il crollo di un cumulo di sabbia su alcune tende",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/08/soccorritori-a-gaza-5-morti-dopo-il-crollo-di-un-cumulo-di-sabbia-su-alcune-tende_66002692-12eb-48dc-b693-fbdb600cfcb1.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-08T21:23:45.000Z",
-        "excerpt": "Le vittime sono tre bambini e due donne",
-        "image": null
-      },
-      {
-        "title": "Kiev, 'due morti e 7 feriti nei raid russo nel Dnipro'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/kiev-due-morti-e-7-feriti-nei-raid-russo-nel-dnipro_9f4e4e19-f884-496d-ab4e-577603818973.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-08T21:19:24.000Z",
-        "excerpt": "'La regione attaccata per quasi 40 volte con droni, artiglieria e bombardamenti aerei'",
-        "image": null
-      },
-      {
         "title": "Gli abitanti dei villaggi turchi chiedono ai leader della COP31 di vedere di persona la devastazione causata dal carbone",
         "link": "https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152",
         "source": "Investing.com Commodities",
@@ -448,166 +576,78 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA704M_L.jpg"
       },
       {
-        "title": "Nvidia apre indagine sul Ceo Huang e la sua relazione con una spia cinese",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/nvidia-apre-indagine-sul-ceo-huang-e-la-sua-relazione-con-una_957e56b9-8ff9-4c0d-a350-064c6cc22276.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-08T20:58:47.000Z",
-        "excerpt": "Ha ammesso di essere stato infedele alla moglie",
-        "image": null
-      },
-      {
-        "title": "Trump ammette, 'la politica di deportazioni è stata troppo dura'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/08/trump-ammette-la-politica-di-deportazioni-e-stata-troppo-dura_7c735d28-2f1d-46b0-98a0-ce3acffb991a.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-08T20:57:11.000Z",
-        "excerpt": "L'annuncio in un'intervista a 60 Minutes",
-        "image": null
-      },
-      {
-        "title": "L'attacco degli Houthi danneggia l'edificio Aramco nel distretto finanziario di Riyadh",
-        "link": "https://www.investing.com/news/commodities-news/saudi-aramco-building-in-riyadh-damaged-by-falling-debris-after-attempted-attack-ministry-says-5010175",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-08T20:12:21.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPED6Q1IR_M.jpg"
-      },
-      {
-        "title": "Aiea, ripristinata l'alimentazione elettrica alla centrale nucleare di Zaporizhzhia",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/aiea-ripristinata-lalimentazione-elettrica-alla-centrale-nucleare-di-zaporizhzhia_d87fdf46-0849-4263-b4b8-c3804ae78874.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-08T19:35:27.000Z",
-        "excerpt": "'Dopo blackout per causa ancora ignota'. 27esimo incidente dall'inizio della guerra",
-        "image": null
-      },
-      {
-        "title": "'La Russia ha registrato la morte di 400.000 uomini nella guerra in Ucraina'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/la-russia-ha-registrato-la-morte-di-400.000-uomini-nella-guerra-in-ucraina_ff5df486-0518-47c5-a889-732691395e9f.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-08T19:32:53.000Z",
-        "excerpt": "Bloomberg cita dati rubati dagli hacker all'agenzia di statistica",
-        "image": null
-      },
-      {
-        "title": "Egitto, scontro tra treni a Giza: almeno 7 morti e 112 feriti. “Nessun turista straniero coinvolto”",
-        "link": "https://www.repubblica.it/esteri/2026/11/08/news/egitto_scontro_tra_treni_giza_morti-425708981/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-08T19:22:35.000Z",
-        "excerpt": "L'incidente è avvenuto a circa 59 chilometri a sud del Cairo. Al Sisi: “Troveremo i responsabili di ogni negligenza”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/193618430-e7dfdfa6-cb45-46ab-b5c1-3403263e6164.jpg"
-      },
-      {
         "title": "Gli Stati Uniti chiedono all'Iraq di chiudere la maggior parte dei valichi di frontiera con l'Iran, afferma il ministro degli Esteri",
         "link": "https://www.investing.com/news/commodities-news/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says-5010296",
         "source": "Investing.com Commodities",
         "pubDate": "2026-11-08T19:06:18.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA70I1_L.jpg"
-      },
-      {
-        "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, il partito di Netanyahu mi sostenga”",
-        "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-08T18:04:39.000Z",
-        "excerpt": "Il presidente israeliano ha conferito ufficialmente il mandato al leader del partito Yashar nel corso di una cerimonia presso la Residenza presidenziale a Gerusalemme. E apre anche al Partito Sionista",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/161056081-e36f7de1-7816-413a-878f-0bff460d20cc.jpg"
-      },
-      {
-        "title": "Cracovia, chi è l’attentatore Michal Oksinski. Ora si indaga per terrorismo",
-        "link": "https://www.repubblica.it/esteri/2026/11/08/news/michal_oksinski_cracovia_chi_e_attentatore_indagini_terrorismo-425708795/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-08T17:26:40.000Z",
-        "excerpt": "Per gli inquirenti, il 24enne che ha ucciso sei persone ieri nella piazza del mercato della città polacca, aveva idee ultranazionaliste. Si recava ogni domenica a un poligono di tiro",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/180025812-053981d6-3d91-481a-a53d-8ef8682a15bd.jpg"
-      },
-      {
-        "title": "White, dal ring alla Casa Bianca: chi è l’amico di Trump che potrebbe diventare il suo nuovo portavoce",
-        "link": "https://www.repubblica.it/esteri/2026/11/08/news/white_dal_ring_alla_casa_bianca_chi_e_l_amico_di_trump_che_potrebbe_diventare_il_suo_nuovo_portavoce-425708550/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-08T16:53:32.000Z",
-        "excerpt": "Per l’imprenditore che ha trasformato l’Ufc in un impero globale “siamo tutti lottatori”. L’amicizia con Donald iniziata quasi trent’anni fa, fu lui il primo a offrirgli ospitalità per gli incontri di MMA (arti marziali ",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/150136090-07eecf0d-2f6a-49cc-af22-e41a025f23bc.jpg"
-      },
-      {
-        "title": "Flávio Bolsonaro: “La mia fuga dal Brasile? Un segreto che mi porterò nella tomba”",
-        "link": "https://www.repubblica.it/esteri/2026/11/08/news/brasile_fuga_bolsonaro_in_usa_flavio_confessa_e_un_segreto_che_mi_portero_nella_tomba-425708341/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-08T11:21:22.000Z",
-        "excerpt": "Da Miami, il figlio di Jair sta diffondendo accuse infondate di brogli elettorali e sta cercando di influenzare a distanza la politica del suo Paese, nonostante il suo partito non stia contestando i risultati delle elezi",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/120233504-9903e935-dcb2-46fa-9daa-95042d187ecf.jpg"
-      },
-      {
-        "title": "Argentina, il capo dei vescovi: “Leone controcorrente rispetto a leader fragorosi e provocatori”",
-        "link": "https://www.repubblica.it/esteri/2026/11/08/news/intervista_capo_dei_vescovi_argentina_papa_leone_controcorrente_rispetto_a_leader_fragorosi_e_provocatori-425708274/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-08T10:18:11.000Z",
-        "excerpt": "Oggi il Papa arriva a Buenos Aires accolto da Javier Milei. L'aumento della povertà, il viaggio in America Latina dopo l’operazione al polmone, la scelta di Francesco di non tornare a casa: intervista a monsignor Marcelo",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/111801467-0242e049-e165-45b6-b984-b868a212471c.jpg"
-      },
-      {
-        "title": "Che ci fanno i bisonti in Spagna",
-        "link": "https://www.repubblica.it/esteri/dossier/lena/2026/11/08/news/che_ci_fanno_i_bisonti_in_spagna_continental_breakfast-425708376/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-08T07:00:00.000Z",
-        "excerpt": "Dal 2022, la fondazione Rewilding Spain ha investito oltre 4,5 milioni di euro per ripristinare gli equilibri ecologici perduti nei territori di Guadalajara, Cuenca e Teruel. E per farlo – racconta il quotidiano spagnolo",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/08/122448488-9e4bf527-c517-44a1-a523-1ac726f17cf2.jpg"
-      },
-      {
-        "title": "L'esercito americano afferma di aver disabilitato la nave da carico nel Golfo di Oman",
-        "link": "https://www.investing.com/news/commodities-news/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman-5010055",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-08T05:00:25.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA6604O_M.jpg"
-      },
-      {
-        "title": "Perché l'oro sta perdendo il suo splendore: Goldman rompe il recente sell-off",
-        "link": "https://www.investing.com/news/commodities-news/why-gold-is-losing-its-shine-goldman-breaks-down-the-recent-selloff-5010022",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-07T20:02:06.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC861HW_M.jpg"
-      },
-      {
-        "title": "L'aspirante presidente francese Melenchon promette stimolo economico, rinnova la chiamata di uscita della NATO",
-        "link": "https://www.investing.com/news/commodities-news/french-presidential-hopeful-melenchon-pledges-minimum-wage-rise-retirement-at-60-5009873",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-07T18:06:39.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA60BJ_L.jpg"
-      },
-      {
-        "title": "Mentre la COP31 arriva in Turchia, i satelliti rivelano un problema di metano nelle discariche",
-        "link": "https://www.investing.com/news/commodities-news/as-cop31-comes-to-turkey-satellites-reveal-a-landfill-methane-problem-5009712",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-07T06:12:40.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMA605D_L.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Nvidia, Huang ammette la relazione con la spia cinese: “Sono stato infedele”. Ma non si dimette",
-      "link": "https://www.repubblica.it/economia/2026/11/08/news/nvidia_huang_ammette_la_relazione_con_la_spia_cinese_sono_stato_infedele_ma_non_si_dimette-425709267/",
+      "title": "L'ultima sfida all'infinito: “Ibernato dopo la morte, la scienza mi risveglierà”",
+      "link": "https://www.repubblica.it/cronaca/2026/11/09/news/ibernazione_crioconservazione_morte_intervista_tomorrow_bio-425709389/",
       "source": "Repubblica",
-      "pubDate": "2026-11-08T21:13:07.000Z",
-      "excerpt": "\"Non ci sono scuse per ciò che ho fatto\" ha scritto ai dipendenti il ceo del colosso dei chip. Il gruppo apre un’inchiesta interna",
+      "pubDate": "2026-11-09T00:21:19.000Z",
+      "excerpt": "Una prima azienda ha aperto in Europa per rendere possibile la conservazione di corpi a -196 gradi. Chi aderisce paga una polizza e una quota mensile",
       "image": null
     },
     {
-      "title": "Norris danza sotto la pioggia, poi rompe lo champagne sul podio. Per la Ferrari è buio pesto",
-      "link": "https://www.repubblica.it/sport/formulauno/2026/11/08/news/norris_brasile_mercedes_costruttori-425709250/",
+      "title": "Lezione di storia del generale ucraino: “Gli hacker prima dei missili, un monito per l’Occidente”",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/serhii_sobko_libro_generale_ucraino_hacker_guerra_russia_scars_and_seeds-425708912/",
       "source": "Repubblica",
-      "pubDate": "2026-11-08T21:01:31.000Z",
-      "excerpt": "Lando vince a Interlagos, l’imprevisto durante i festeggiamenti. Alla Mercedes il Mondiale costruttori. Leclerc 8°, Hamilton 9°",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "excerpt": "Serhii Sobko è il vice comandante delle forze di Kiev. Ora, in un libro, ricostruisce l’escalation di Mosca contro il suo Paese",
       "image": null
     },
     {
-      "title": "Mps, via libera da Consob all’offerta di Intesa. Partirà il 24 novembre",
-      "link": "https://www.repubblica.it/economia/2026/11/08/news/mps_via_libera_da_consob_all_offerta_di_intesa_partira_il_24_novembre-425709215/",
+      "title": "Attacchi hacker, vertice al G7. E ora si temono ingerenze sul voto",
+      "link": "https://www.repubblica.it/cronaca/2026/11/09/news/attacchi_hacker_g7_tajani_piantedosi_allarme_voto-425709210/",
       "source": "Repubblica",
-      "pubDate": "2026-11-08T20:17:18.000Z",
-      "excerpt": "L’operazione si chiuderà il 22 gennaio salvo proroghe. In caso di riapertura dei termini, il periodo sarà dall’1 al 5 febbraio 2027",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "excerpt": "",
+      "image": null
+    },
+    {
+      "title": "“Questa è la nuova strategia della tensione, il mondo si svegli”",
+      "link": "https://www.repubblica.it/cronaca/2026/11/09/news/attacchi_hacker_cybersicurezza_ivano_gabrielli_polizia_postale-425709173/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "excerpt": "Il direttore della Sicurezza cibernetica della Polizia: “Per arginare la minaccia serve una cooperazione internazionale. Lo Stato da solo non può garantire la sicurezza di un intero Paese. Ogni cittadino faccia la sua pa",
+      "image": null
+    },
+    {
+      "title": "Al trilaterale sull’Ucraina presenti anche gli europei. Da Mosca doppia minaccia",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/vertice_usa_russia_ucraina_europei_abu_dhabi-425709059/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "excerpt": "Il Vecchio continente rappresentato con il formato E3, teme la resa di Trump, ma anche che Putin alzi le minacce ibride in un anno ricco di elezioni cruciali",
+      "image": null
+    },
+    {
+      "title": "Nuovo Consiglio Nato-Russia: l’idea di Kushner per la pace",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/nuovo_consiglio_nato_russia_kushner_pratica_di_mare_berlusconi-425709201/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "excerpt": "Il genero di Trump punta a resuscitare la struttura di consultazione nata nel 2002 a Pratica di Mare e morta con l’aggressione a Kiev",
+      "image": null
+    },
+    {
+      "title": "Netanyahu resta il leader. E il tempo gioca dalla sua parte",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/netanyahu_leader_israele_eisenkot_governo-425709150/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "excerpt": "Il primo ministro userà le crisi per invocare l’unità. Contro di lui gioca l’incognita Trump: “Bibi rispetti il piano per Gaza”",
+      "image": null
+    },
+    {
+      "title": "Novik: “Dire ai palestinesi che non otterranno diritti è come spingerli alla violenza”",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/nimrod_novik_intervista_netanyahu_palestinesi_diritti_eisenkot-425709092/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "excerpt": "L’ex consigliere di Peres prevede tre passaggi: formare una nuova Knesset, dare vita a un governo di minoranza e poi creare alleanze",
       "image": null
     },
     {
@@ -635,51 +675,11 @@
       "image": null
     },
     {
-      "title": "Egitto, scontro tra treni a Giza: almeno 7 morti e 112 feriti. “Nessun turista straniero coinvolto”",
-      "link": "https://www.repubblica.it/esteri/2026/11/08/news/egitto_scontro_tra_treni_giza_morti-425708981/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-08T18:36:36.000Z",
-      "excerpt": "L'incidente è avvenuto a circa 59 chilometri a sud del Cairo. Al Sisi: “Troveremo i responsabili di ogni negligenza”",
-      "image": null
-    },
-    {
       "title": "In Polonia si indaga per terrorismo, ancora gravi i feriti della strage di Cracovia",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/08/in-polonia-si-indaga-per-terrorismo-ancora-gravi-i-feriti-della-strage-di-cracovia_83b09fd3-1468-4bbc-80be-f708664a5b9a.html",
       "source": "ANSA",
       "pubDate": "2026-11-08T18:17:56.000Z",
       "excerpt": "L'attentatore ha prima sterminato la famiglia. 'La domenica andava al poligono col padre'",
-      "image": null
-    },
-    {
-      "title": "Fa da scudo alla mamma col corpo, poi chiama la polizia. A 9 anni fa arrestare il padre violento",
-      "link": "https://www.repubblica.it/cronaca/2026/11/08/news/violenza_sulle_donne_bambina_9_anni_fa_arrestare_padre_violento-425708883/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-08T17:47:45.000Z",
-      "excerpt": "A Bassano del Grappa, la piccola e la donna sono riuscite a fuggire in strada. Lui le maltrattava da tempo.",
-      "image": null
-    },
-    {
-      "title": "Cracovia, chi è l’attentatore Michal Oksinski. Ora si indaga per terrorismo",
-      "link": "https://www.repubblica.it/esteri/2026/11/08/news/michal_oksinski_cracovia_chi_e_attentatore_indagini_terrorismo-425708795/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-08T17:00:37.000Z",
-      "excerpt": "Per gli inquirenti, il 24enne che ha ucciso sei persone ieri nella piazza del mercato della città polacca, aveva idee ultranazionaliste. Si recava ogni domenica a un poligono di tiro",
-      "image": null
-    },
-    {
-      "title": "Salvata la speleologa: era bloccata nella grotta Rotolo a Monopoli, la più profonda della Puglia",
-      "link": "https://bari.repubblica.it/cronaca/2026/11/08/news/speleologa_bloccata_nella_grotta_rotolo_a_monopoli_la_piu_profonda_della_puglia-425708786/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-08T16:58:43.000Z",
-      "excerpt": "Concluso l’intervento dei soccorritori: la donna si è infortunata a un piede e per tre ore era rimasta intrappolata nell’abisso Boscia",
-      "image": null
-    },
-    {
-      "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, Netanyahu mi sostenga”",
-      "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-08T15:11:06.000Z",
-      "excerpt": "Il presidente israeliano ha conferito ufficialmente il mandato al leader del partito Yashar nel corso di una cerimonia presso la Residenza presidenziale a Gerusalemme. E apre anche al Partito Sionista",
       "image": null
     },
     {
@@ -716,6 +716,14 @@
     }
   ],
   "sport": [
+    {
+      "title": "Calcio: Spalletti \"Non sono contento, non c'è continuità in troppi calciatori\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/calcio-spalletti-non-sono-contento-non-ce-continuita-in-troppi-calciatori_f55892e0-7f91-436f-93d6-39f278e14742.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-08T22:39:27.000Z",
+      "excerpt": "Kolo Muani: \"Dobbiamo lavorare duro per ottenere risultati\"",
+      "image": null
+    },
     {
       "title": "Calcio: tifoso del Bod›/Glimt ferito dopo il parziale crollo di una tribuna",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/calcio-tifoso-del-bodglimt-ferito-dopo-il-parziale-crollo-di-una-tribuna_8e644e8b-14eb-4ae5-a238-f465c5fca8c3.html",
@@ -770,14 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-11-08T20:03:00.000Z",
       "excerpt": "Il tecnico: \"A volte vanno accettate anche amarezze, servono lavoro e mentalità\"",
-      "image": null
-    },
-    {
-      "title": "Serie A: Fabregas, 'Inter di livello superiore, dobbiamo accettarlo'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-fabregas-inter-di-livello-superiore-dobbiamo-accettarlo_6d42332b-7176-4b3f-85be-1140cfd5e13d.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-11-08T19:53:04.000Z",
-      "excerpt": "\"Dobbiamo dare la mano ai nerazzurri e fare complimenti\"",
       "image": null
     }
   ]
