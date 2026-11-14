@@ -4,6 +4,14 @@
   "finanza": {
     "italia": [
       {
+        "title": "Tensione sul supercaccia Gcap. L’Italia: “Favorevoli a Berlino”",
+        "link": "https://www.repubblica.it/economia/2026/11/14/news/tensione_sul_supercaccia_gcap_l_italia_favorevoli_a_berlino-425724462/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-14T21:49:34.000Z",
+        "excerpt": "Dopo le ricostruzioni del Financial Times, secondo le quali Roma si sarebbe opposta a un ingresso nel progetto della Germania, le precisazioni della Difesa: “E’ falso”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/224309608-4ea1f343-06e2-4203-9700-e26156ba1b70.jpg"
+      },
+      {
         "title": "Duffy indaga su L3Harris per il blackout FAA che ha bloccato i voli USA",
         "link": "https://it.investing.com/news/stock-market-news/duffy-indaga-su-l3harris-per-il-blackout-faa-che-ha-bloccato-i-voli-usa-3649442",
         "source": "Investing.com Italia",
@@ -474,14 +482,6 @@
         "pubDate": "2026-11-13T22:10:32.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Delta Air Lines scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-delta-air-lines-scende-oggi-93CH-3649204",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-13T22:08:14.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEAAJ07A_M.jpg"
       }
     ],
     "europa": [
@@ -656,6 +656,54 @@
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "SpaceX recupera per la prima volta nella storia un veicolo spaziale",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_63d70220-5db9-4ef4-9afa-8bf16afb3dd7.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-14T22:36:34.000Z",
+        "excerpt": "'Si è inserito con precisione tra i bracci meccanici sulla rampa di lancio n.2'",
+        "image": null
+      },
+      {
+        "title": "Francia, attacco alle Poste: hacker rubano i dati di 22 milioni di clienti",
+        "link": "https://www.repubblica.it/esteri/2026/11/14/news/francia_attacco_alle_poste_hacker_rubano_i_dati_di_22_milioni_di_clienti-425724406/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-14T21:26:13.000Z",
+        "excerpt": "Vittima a metà settembre la filiale Maileva, specializzata nella corrispondenza professionale",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/222355577-11809240-116f-44ef-83cc-4294ad6fa619.jpg"
+      },
+      {
+        "title": "Ministero Interno, '219 fermi in Francia e 10 agenti lievemente feriti'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/ministero-interno-219-fermi-in-francia-e-10-agenti-lievemente-feriti_3adc9bc0-0a5d-4592-bca1-914fedb78ba1.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-14T20:08:38.000Z",
+        "excerpt": "'Attivisti radicali e di estrema sinistra hanno tentato di far degenerare i cortei'",
+        "image": null
+      },
+      {
+        "title": "Nuovo caccia europeo, l’Italia smentisce le voci sulla contrarietà alla partecipazione di Berlino",
+        "link": "https://www.repubblica.it/esteri/2026/11/14/news/gcap_italia_smentisce_le_voci_sulla_contrarieta_a_germania-425724153/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-14T19:28:00.000Z",
+        "excerpt": "Fonti a Repubblica: è il Regno Unito a frenare l’ingresso tedesco nel maxi progetto Gcap",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/202750697-5ce2a9ce-ea33-4669-8831-1c88f9d5ad28.jpg"
+      },
+      {
+        "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
+        "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-14T19:11:08.000Z",
+        "excerpt": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/201046242-b971d425-a8f6-4c69-a789-a93af8314bf7.jpg"
+      },
+      {
+        "title": "Eisenkot, proposta unità di Netanyahu 'ennesimo trucco, colloqui già programmati'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/eisenkot-proposta-unita-di-netanyahu-ennesimo-trucco-colloqui-gia-programmati_a7695a35-330e-4682-9d66-8780442b6ff6.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-14T19:07:52.000Z",
+        "excerpt": "I team negoziali del Likud e di Yashar si incontreranno domani",
+        "image": null
+      },
       {
         "title": "Mentre i Democratici cercano di modificare il disegno di legge sui permessi energetici, emergono divisioni",
         "link": "https://www.investing.com/news/commodities-news/as-democrats-seek-changes-to-bill-on-energy-permits-divisions-emerge-5027468",
@@ -1083,6 +1131,54 @@
     ]
   },
   "attualita": [
+    {
+      "title": "Francia, attacco alle Poste: hacker rubano i dati di 22 milioni di clienti",
+      "link": "https://www.repubblica.it/esteri/2026/11/14/news/francia_attacco_alle_poste_hacker_rubano_i_dati_di_22_milioni_di_clienti-425724406/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-14T21:22:13.000Z",
+      "excerpt": "Vittima a metà settembre la filiale Maileva, specializzata nella corrispondenza professionale",
+      "image": null
+    },
+    {
+      "title": "Al centro sociale Tpo 80 associazioni e movimenti per l’Europa dal basso. E con l’Ucraina",
+      "link": "https://bologna.repubblica.it/cronaca/2026/11/14/news/bologna_centro_sociale_tpo_movimenti_europa_ucraina_casarini-425724364/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-14T20:54:48.000Z",
+      "excerpt": "Trecento ragazzi ma anche Luca Casarini a “Europe Beyond the West” riuniti a Bologna con testimonianze anche della resistenza di Kiev: “Non c’è riscaldamento, ti svegli ogni notte coi raid. Chiedete ai partiti qui se usa",
+      "image": null
+    },
+    {
+      "title": "Dopo il caos nei cieli, Usa verso la 'piena operatività'. Ma si contano i danni",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/dopo-il-caos-nei-cieli-usa-verso-la-piena-operativita.-ma-si-contano-i-danni_9772e753-260a-465a-b775-0399c068f3c9.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-14T20:44:16.000Z",
+      "excerpt": "Il blocco ha coinvolto quasi un milione e trecentomila persone",
+      "image": null
+    },
+    {
+      "title": "Nuovo caccia europeo, l’Italia smentisce le voci sulla contrarietà alla partecipazione di Berlino",
+      "link": "https://www.repubblica.it/esteri/2026/11/14/news/gcap_italia_smentisce_le_voci_sulla_contrarieta_a_germania-425724153/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-14T19:28:00.000Z",
+      "excerpt": "Fonti a Repubblica: è il Regno Unito a frenare l’ingresso tedesco nel maxi progetto Gcap",
+      "image": null
+    },
+    {
+      "title": "Zelensky svela la proposta Usa: “La Nato in cambio del Donbass, ma deve decidere il popolo”",
+      "link": "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-14T19:11:08.000Z",
+      "excerpt": "Kiev nell’Alleanza e stop alla guerra, il leader scettico: “Il Cremlino bara”. I media avvertono: “Lo zar ha revocato il tabù dell’eliminazione di Volodymyr”",
+      "image": null
+    },
+    {
+      "title": "Mancini: “Bello giocarci i quarti contro il Belgio, siamo qui per vincere”",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/11/14/news/mancini_belgio_italia_conferenza_oggi-425724097/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-14T19:07:23.000Z",
+      "excerpt": "Le parole del ct dell’Italia alla vigilia della sfida che può regalare agli azzurri la qualificazione ai quarti di Nations League",
+      "image": null
+    },
     {
       "title": "Ucraina, Zelensky: 'Gli Usa ci propongono la Nato in cambio del Donbass' ",
       "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
@@ -1514,33 +1610,73 @@
       "pubDate": "2026-11-13T18:21:40.000Z",
       "excerpt": "Tra le adesioni quella del presidente di Confindustria Emanuele Orsini",
       "image": null
-    },
-    {
-      "title": "Farhadi, 'nel mondo di oggi le persone vengono sempre più disumanizzate'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/farhadi-nel-mondo-di-oggi-le-persone-vengono-sempre-piu-disumanizzate_f5cef144-b852-44a1-b74d-bdcf1fa627e6.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-13T18:09:06.000Z",
-      "excerpt": "Dopo il debutto a Cannes, il regista iraniano in sala con Storie parallele dal 26 novembre",
-      "image": null
-    },
-    {
-      "title": "Al Museo Ma*Ga di Gallarate i 'Corpi esposti' di Jago",
-      "link": "https://www.ansa.it/canale_viaggi/regione/lombardia/2026/11/13/al-museo-maga-di-gallarate-i-corpi-esposti-di-jago_279491ca-c4b9-4b85-b51f-1733662044c7.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-13T18:02:05.000Z",
-      "excerpt": "L'inedito 'For a Piece of Real Estate' raffigura un bambino avvolto in un sudario",
-      "image": null
-    },
-    {
-      "title": "Cambio gomme, dal 15 novembre tempo di invernali",
-      "link": "https://www.ansa.it/canale_motori/notizie/sicurezza/2026/10/27/cambio-gomme-dal-15-novembre-tempo-di-invernali_242ecc49-fa3e-4522-95ac-60eacbe5b17c.html",
-      "source": "ANSA",
-      "pubDate": "2026-10-27T11:55:05.000Z",
-      "excerpt": "Finestra di due mesi per sostituire le estive con le M+S",
-      "image": null
     }
   ],
   "sport": [
+    {
+      "title": "Wta Finals: Andreeva batte Pegula e va in finale",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/wta-finals-andreeva-batte-pegula-e-va-in-finale_cce2df57-4064-49c5-bda5-19545e68f618.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-14T22:24:30.000Z",
+      "excerpt": "La russa vince in due set e sale al secondo posto del ranking mondiale",
+      "image": null
+    },
+    {
+      "title": "Nations League: il Portogallo rovina l'omaggio a CR7, crolla con la Danimarca",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/nations-league-il-portogallo-rovina-lomaggio-a-cr7-crolla-con-la-danimarca_61b91677-4e77-48d5-9bb6-5b5515810229.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-14T22:16:58.000Z",
+      "excerpt": "Lusitani battuti 4-1 a Braga, la peggiore sconfitta interna di sempre",
+      "image": null
+    },
+    {
+      "title": "Wta Finals: dall'Ucraina accuse a Sabalenka, 'ha offeso Svitolina'",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/wta-finals-dallucraina-accuse-a-sabalenka-ha-offeso-svitolina_d6cc3bd8-af0f-459c-a399-fbf7540e49a9.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-14T21:42:56.000Z",
+      "excerpt": "Polemica per un video con presunti insulti della bielorussa",
+      "image": null
+    },
+    {
+      "title": "Scherma: cdm fioretto; tripletta delle azzurre a Plovdiv",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/14/scherma-cdm-fioretto-tripletta-delle-azzurre-a-plovdiv_be7f3c20-6f78-41c4-a4cd-f8adce28e30e.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-14T20:16:32.000Z",
+      "excerpt": "Nella prova maschile in Bulgaria, argento di Marini",
+      "image": null
+    },
+    {
+      "title": "Belgio-Italia, omaggio della Nazionale alle vittime dell'Heysel",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/belgio-italia-omaggio-della-nazionale-alle-vittime-dellheysel_5bfa02ba-e0a8-4f0d-9c50-fc60a7a398ad.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-14T19:51:44.000Z",
+      "excerpt": "Malagò, Mancini, Ranieri e Scalvini: corona di fiori sulla lapide per i 39 morti nell'85",
+      "image": null
+    },
+    {
+      "title": "Nations League: Italia senza paura. Mancini: 'Bello giocarci i quarti con il Belgio'",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/nations-league-italia-senza-paura.-mancini-bello-giocarci-i-quarti-con_d5d8b284-0b36-46fe-bf2b-d1642e3e4337.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-14T19:29:11.000Z",
+      "excerpt": "Gli Azzurri però perdono anche Cambiaghi. Scalvini: 'Essere in testa ci dà la spinta'",
+      "image": null
+    },
+    {
+      "title": "Calcio: Camarda e gli altri, l'Under 21 continua a crescere",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/14/calcio-camarda-e-gli-altri-lunder-21-continua-a-crescere_515bcef7-3f19-4d97-98a9-b4890e8fc933.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-14T19:20:46.000Z",
+      "excerpt": "Il gruppo di Baldini a segno anche in amichevole: battuta la Francia lunedì c'è il Belgio",
+      "image": null
+    },
+    {
+      "title": "Eurobasket donne: l'Italia batte anche l'Austria, 71-49 a Vienna",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/14/eurobasket-donne-litalia-batte-anche-laustria-71-49-a-vienna_ea08078c-ccd8-498a-b48b-4bee509d9610.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-14T19:15:38.000Z",
+      "excerpt": "Azzurre sempre avanti, Capobianco: 'Molto soddisfatto dell'approccio'",
+      "image": null
+    },
     {
       "title": "Scalvini, 'bello essere in testa al girone, ci dà la carica'",
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/scalvini-bello-essere-in-testa-al-girone-ci-da-la-carica_6fbc40e6-9f8d-4ab4-80fb-0bed31be8123.html",
