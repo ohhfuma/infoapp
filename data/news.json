@@ -1,7 +1,47 @@
 {
-  "lastUpdated": "2026-11-15T16:45:49.094Z",
+  "lastUpdated": "2026-11-15T21:26:31.098Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Nvidia, possibile colpo di scena: Huang pensa al ritorno, Bessent: “L’azienda cerchi un esterno”",
+        "link": "https://www.repubblica.it/economia/2026/11/15/news/nvidia_la_svolta_possibile_huang_pensa_al_ritorno_come_ceo-425725753/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-15T21:08:57.000Z",
+        "excerpt": "Secondo il Financial Times sarebbe stato travolto da un’ondata di solidarietà dopo le dimissioni per la storia con Alice Huang, sospetta spia cinese",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/15/204632249-085531f2-98df-427f-b7de-ccee8aa72041.jpg"
+      },
+      {
+        "title": "Jensen Huang valuta il ritorno come CEO di Nvidia, secondo un rapporto",
+        "link": "https://it.investing.com/news/stock-market-news/jensen-huang-potrebbe-tornare-come-ceo-di-nvidia-secondo-i-report-3649641",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-15T20:39:40.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg"
+      },
+      {
+        "title": "La manovra alla prova delle modifiche, nuovo vertice di maggioranza",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/la-manovra-alla-prova-delle-modifiche-nuovo-vertice-di-maggioranza_5b6e09c6-e0a6-433f-8aa7-8b55e44afcff.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-15T18:47:17.000Z",
+        "excerpt": "Nodi dal superbonus alla scuola e sanità. Dalle opposizioni pacchetto di proposte unitarie",
+        "image": null
+      },
+      {
+        "title": "Basta borghi fantasma, gli italiani tornano a vivere in montagna",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/basta-borghi-fantasma-gli-italiani-tornano-a-vivere-in-montagna_d768c806-8d13-4205-af8e-53af349daca4.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-15T18:25:49.000Z",
+        "excerpt": "Rapporto Uncem 2026, dal 2019 oltre 170mila nuovi abitanti. Ma crescita ancora lenta",
+        "image": null
+      },
+      {
+        "title": "Tra sconti e consigli per acquisti responsabili, una mappa per muoversi nel Black Friday",
+        "link": "https://www.ilsole24ore.com/art/tra-sconti-e-consigli-acquisti-responsabili-mappa-muoversi-black-friday-AJOr9nDC",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-15T16:46:52.000Z",
+        "excerpt": "Alla ricerca dello sconto. Perché si avvicina l’appuntamento con il Black Friday, e già comincia la corsa agli acquisti, anche in previsione dell’appuntamento natalizio. Secondo le stime dell’Onf, l’Osservatorio Nazional",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/13/Immagini/Ritagli/ilsolematera_20261112085606419_8e3867d3fab6d9680f804a53d82aa35a-U01000434267kOM-1440x752@IlSole24Ore-Web.jpg"
+      },
       {
         "title": "Stop ai bot nei call center, in Parlamento spinta per operatore umano",
         "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/stop-ai-bot-nei-call-center-in-parlamento-spinta-per-operatore-umano_eb5779a0-477f-42b1-b394-6a59515a6502.html",
@@ -75,11 +115,11 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/13/071140684-2bcd1aeb-0216-4f0a-b75a-54816898783a.jpg"
       },
       {
-        "title": "Manovra, Schlein: «Va riscritta». Avs a Conte: «Patrimoniale nel programma»",
+        "title": "Schlein: «Io per tassa sui super ricchi». Conte: «Tassiamo la speculazione finanziaria»",
         "link": "https://www.ilsole24ore.com/art/manovra-schlein-va-riscritta-ora-vogliamo-vedere-fatti-AJFyUNHC",
         "source": "Il Sole 24 Ore",
         "pubDate": "2026-11-15T11:54:00.000Z",
-        "excerpt": "«Arriveremo presto a completare il programma comune» del centrosinistra «che non parte da zero, ma da tante proposte che abbiamo già portato per il Paese». Elly Schlein, intervenendo all’evento per...",
+        "excerpt": "Il leader M5S Conte: «Tassiamo la situazione finanziaria, ci confronteremo sui tavoli»",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/16/Immagini/Ritagli/23294202_large-U05258658571tKi-1440x752@IlSole24Ore-Web.jpg"
       },
       {
@@ -192,7 +232,7 @@
         "source": "Investing.com Italia",
         "pubDate": "2026-11-15T08:56:54.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/KlaasKnot_800x533_L_1710763429.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
       },
       {
         "title": "Bitcoin scende a 62.000 dollari, tocca i minimi da 4 mesi",
@@ -211,39 +251,23 @@
         "image": null
       },
       {
-        "title": "Legge di Bilancio, statali: Tfr a rate in tempi ridotti, ma solo a un dipendente su 10",
-        "link": "https://www.ilsole24ore.com/art/legge-bilancio-statali-tfr-rate-tempi-ridotti-ma-solo-un-dipendente-10-AJ3OLJHC",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-15T07:51:00.000Z",
-        "excerpt": "La legge di bilancio avvia una lenta, progressiva archiviazione del meccanismo che dal 2010 divide la buonuscita dei dipendenti pubblici in rate, e fa attendere l’accredito finale fino...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/16/Immagini/Ritagli/pexels-doan-thanh-binh-2147604563-36631700-U68365147682vgg-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
         "title": "Ubriaco, un coltello da cucina in mano: paura sul volo dall’Islanda a Milano",
         "link": "https://www.repubblica.it/economia/2026/11/15/news/ubriaco_un_coltello_da_cucina_in_mano_paura_sul_volo_dall_islanda_a_milano-425724883/?rss",
         "source": "Repubblica Economia",
         "pubDate": "2026-11-15T07:00:00.000Z",
         "excerpt": "I piloti di easyJet allertano la Polizia italiana che aspetta il passeggero molesto al suo arrivo in Italia. L’utensile ammesso a bordo se non è pericoloso. Il vettore: non tolleriamo simili comportamenti a bordo, equipa",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/15/101647015-2b9856d3-f289-44f7-b105-ef36f0892a96.jpg"
-      },
-      {
-        "title": "Debiti con il Fisco? Dall’anno prossimo un anno in più per rateizzare le cartelle",
-        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/11/15/news/debiti_con_il_fisco_dall_anno_prossimo_un_anno_in_piu_per_rateizzare_le_cartelle-425724229/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-15T04:00:00.000Z",
-        "excerpt": "Per i debiti fino a 120mila euro semplificazione immediata, oltre bisogna documentare la difficoltà finanziaria",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/210103196-3f8171ba-0237-4e87-b63b-46e3952c6eb3.jpg"
-      },
-      {
-        "title": "ING pone 10 domande chiave sull’economia della Cina nel 2027",
-        "link": "https://it.investing.com/news/stock-market-news/ing-pone-10-domande-chiave-sulleconomia-cinese-nel-2027-3649493",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-15T03:40:50.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC2T1KG_M.jpg"
       }
     ],
     "europa": [
+      {
+        "title": "Francia, le Poste sotto attacco hacker: violati 22 milioni di account",
+        "link": "https://www.ilsole24ore.com/art/francia-poste-sotto-attacco-hacker-violati-22-milioni-account-AJhUPaHC",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-11-15T17:17:08.000Z",
+        "excerpt": "È un maxi-attacco hacker devastante quello che ha messo sotto scacco la Francia nelle ultime ore. Nel mirino dei pirati informatici è finita Maileva, snodo strategico per la corrispondenza digitale...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/16/Immagini/Ritagli/AFP_88XN4G3-U08204231622ebi-1440x752@IlSole24Ore-Web.jpg"
+      },
       {
         "title": "Caos voli Usa, Trump dà la colpa a Biden. Intanto, due aerei si scontrano in pista a Miami",
         "link": "https://www.ilsole24ore.com/art/caos-voli-usa-trump-da-colpa-biden-due-aerei-si-scontrano-pista-miami-AJXo9THC",
@@ -299,14 +323,6 @@
         "pubDate": "2026-11-14T16:41:36.000Z",
         "excerpt": "Impatto anche sull’Italia: cancellati voli da JFK e Newark per Milano Malpensa",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/15/Immagini/Ritagli/ef954ddeae472d96b718670b9b1c3928-U13732778223ToN-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Nvidia, petizione per il reintegro di Huang. Firma anche Elon Musk",
-        "link": "https://www.ilsole24ore.com/art/caso-nvidia-bessent-accusa-lutnick-il-dipartimento-commercio-ha-ritardato-restrizioni-megaspeed-AJsYRZGC",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-11-14T07:50:00.000Z",
-        "excerpt": "«È in corso una petizione per il reintegro di Jensen e la firmo anch’io». Con questo messaggio su X, Elon Musk scende in campo per sostenere la petizione promossa prima...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/15/Immagini/Ritagli/2026-11-08T162337Z_1864348541_RC26ZNAU7IZN_RTRMADP_5_USA-CONGRESS-DEMOCRATS-U21111731884qAo-1440x752@IlSole24Ore-Web.JPG"
       },
       {
         "title": "Worthington Enterprises organizza l'Investor and Analyst Day e fornisce la trascrizione dell'evento",
@@ -365,7 +381,7 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
       },
       {
-        "title": "Flux Power riceve una comunicazione dal Nasdaq in merito alla conformità del capitale e proroga la scadenza del prestito",
+        "title": "Flux Power riceve una comunicazione da parte del Nasdaq in merito alla conformità del capitale e proroga la scadenza del prestito",
         "link": "https://www.investing.com/news/sec-filings/flux-power-receives-nasdaq-notice-over-equity-compliance-extends-loan-deadline-93CH-5026738",
         "source": "Investing.com Eurozona",
         "pubDate": "2026-11-13T23:08:00.000Z",
@@ -376,68 +392,100 @@
     "usa": [],
     "mondo": [
       {
-        "title": "L'Estonia annuncia, da dicembre chiuso completamente il confine con la Russia",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/lestonia-annuncia-da-dicembre-chiuso-completamente-il-confine-con-la-russia_31af256e-893a-489e-8997-f30dff55d892.html",
+        "title": "Oltre 400 mila in piazza a Praga a sostegno dei media pubblici",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/oltre-400-mila-in-piazza-a-praga-a-sostegno-dei-media-pubblici_bc940b57-5db5-4ef4-b337-65d08f089db6.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-15T16:27:48.000Z",
-        "excerpt": "Lo ha annunciato su X il ministro degli Esteri estone, Margus Tsahkna.",
+        "pubDate": "2026-11-15T20:40:17.000Z",
+        "excerpt": "Il premier Babis: 'I canoni saranno aboliti'",
         "image": null
       },
       {
-        "title": "Duffy, 'entro lunedì i voli torneranno a pieno regime negli Usa'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/duffy-entro-lunedi-i-voli-torneranno-a-pieno-regime-negli-usa_d172b233-ab39-4193-be2c-1ae32863d189.html",
+        "title": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/oceania/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_64400f3d-50b3-4176-b113-bdd703a7b4d8.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-15T16:27:00.000Z",
-        "excerpt": "'Al momento si registrano alcuni ritardi nello spazio aereo'",
+        "pubDate": "2026-11-15T20:20:21.000Z",
+        "excerpt": "Dichiarazione congiunta dei 4 ministri degli Esteri",
         "image": null
       },
       {
-        "title": "Cuba punta a riconvertire l'industria dello zucchero per produrre energia",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/15/cuba-punta-a-riconvertire-lindustria-dello-zucchero-per-produrre-energia_f0838a42-8454-4115-8c5b-c864b67f00b2.html",
+        "title": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_abcf4402-d5ee-4a09-aa68-7939f5803908.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-15T15:50:46.000Z",
-        "excerpt": "Diaz-Canel, 'proposta per una soluzione alla crisi elettrica sull'isola'",
+        "pubDate": "2026-11-15T20:20:19.000Z",
+        "excerpt": "Dichiarazione congiunta dei 4 ministri degli Esteri",
         "image": null
       },
       {
-        "title": "Trump, 'l'East Potomac Park è in uno stato di degrado spaventoso'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/trump-least-potomac-park-e-in-uno-stato-di-degrado-spaventoso_bf8f11e3-00b7-42ec-a844-26b021979d2a.html",
+        "title": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_944d4c6a-4c91-4a29-a789-e8fabae90b34.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-15T15:26:58.000Z",
-        "excerpt": "E attacca lo stop alla chiusura dalla giudice federale: 'Nominata da Biden'",
+        "pubDate": "2026-11-15T20:20:17.000Z",
+        "excerpt": "Dichiarazione congiunta dei 4 ministri degli Esteri",
         "image": null
       },
       {
-        "title": "Porto di New Orleans fa causa dopo collisione tra petroliera e nave da crociera",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/porto-di-new-orleans-fa-causa-dopo-collisione-tra-petroliera-e-nave-da-crociera_ba3f9723-1731-4862-b9d4-58910d068f2f.html",
+        "title": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_2df8254e-9539-4d8e-aa11-a00f70cfa78b.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-15T15:19:21.000Z",
-        "excerpt": "Chiesti un milione di dollari dopo che il mercantile ha colpito l'imbarcazione ormeggiata",
+        "pubDate": "2026-11-15T20:20:04.000Z",
+        "excerpt": "Dichiarazione congiunta dei 4 ministri degli Esteri",
         "image": null
       },
       {
-        "title": "I dem socialisti di New York invitano Alexandria Ocasio-Cortez a candidarsi nel 2028",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/i-dem-socialisti-di-new-york-invitano-alexandria-ocasio-cortez-a-candidarsi-nel_85872274-9010-41b4-9567-9cc3f9a35c9d.html",
+        "title": "Nyt, 'Lutnick ha allentato le norme sui chip in contrasto con attività di famiglia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/nyt-lutnick-ha-allentato-le-norme-sui-chip-in-contrasto-con-attivita-di-famiglia_539fb82a-4001-4660-9f9e-98e3f5ff5a4a.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-15T15:05:44.000Z",
-        "excerpt": "Approvata la mozione per correre alle prossime presidenziali",
+        "pubDate": "2026-11-15T20:17:35.000Z",
+        "excerpt": "Il segretario al Commercio questa settimana in Cina con Trump",
         "image": null
       },
       {
-        "title": "Cancellati oggi negli Usa altri 1.400 voli dopo i 6.700 di sabato",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_6dabf05d-2a7f-461f-b71a-d1b5dd91da11.html",
+        "title": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”",
+        "link": "https://www.repubblica.it/esteri/2026/11/15/news/russia_ue_senza_un_accordo_dovremo_usare_la_forza-425725745/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-15T19:42:47.000Z",
+        "excerpt": "Zelensky denuncia: “Ancora attacchi brutali e limiti a Starshield”. L’Estonia annuncia la chiusura del confine con la Russia a dicembre. Per Lavrov le condizioni per la Pace “restano quelle del 2024”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/15/204235749-bf805c21-499e-48ec-b192-ea591de58a3f.jpg"
+      },
+      {
+        "title": "Ft, 'Jensen Huang pensa a un clamoroso ritorno alla guida di Nvidia'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/ft-jensen-huang-pensa-a-un-clamoroso-ritorno-alla-guida-di-nvidia_1f170e97-e986-4422-8f86-af141ba247d2.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-15T15:04:57.000Z",
-        "excerpt": "Migliora la situazione dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
+        "pubDate": "2026-11-15T19:41:02.000Z",
+        "excerpt": "'Starebbe anche cercando il supporto della Casa Bianca'",
         "image": null
       },
       {
-        "title": "Media, scontri al vertice Asean a Manila, governo schiera circa 23 mila agenti",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/15/media-scontri-al-vertice-asean-a-manila-governo-schiera-circa-23-mila-agenti_500a7466-23a4-499e-9a9a-d76d7fd24312.html",
+        "title": "Media, 'William e Kate in visita di tre giorni in India, domani a Mumbai'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/15/media-william-e-kate-in-visita-di-tre-giorni-in-india-domani-a-mumbai_cbfc6e05-ec6c-44f5-b49b-2f9b193eff61.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-15T15:04:42.000Z",
-        "excerpt": "Almeno 200 manifestanti, 5 persone fermate. Proteste contro la visita di Trump",
+        "pubDate": "2026-11-15T19:30:28.000Z",
+        "excerpt": "Tra gli eventi salienti la cerimonia dell'Earthshot Prize e l'incontro col premier Modi",
         "image": null
+      },
+      {
+        "title": "L’Iran attacca gli Usa in Bahrein. Il Wsj: “Ha ancora fino a 2.500 missili”",
+        "link": "https://www.repubblica.it/esteri/2026/11/16/news/iran_attacca_gli_usa_in_bahrein_ha_ancora_fino_a_2500_missili-425725654/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-15T19:12:04.000Z",
+        "excerpt": "L’operazione nella notte come risposta ai colpi contro i radar. E il Wall Street Journal riporta la stima dell’intelligence sull’arsenale iraniano",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/15/201026874-4006ad2d-114d-44a0-948a-3aa4268dd3bd.jpg"
+      },
+      {
+        "title": "Praga, 400mila persone in piazza per la libertà di stampa",
+        "link": "https://www.repubblica.it/esteri/2026/11/15/news/praga_400_mila_protesta_liberta_di_stampa-425725555/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-15T18:31:22.000Z",
+        "excerpt": "Si è trattato della manifestazione più grande dalla “Rivoluzione di velluto” che nel 1989 fece cadere il regime comunista",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/15/193104818-094a7f86-ca22-41ef-bed8-5f29a0a0fc4c.jpg"
+      },
+      {
+        "title": "Il Papa accolto da 500mila persone a Cusco, la città Inca: “Tradizioni popolari tesoro inestimabile”",
+        "link": "https://www.repubblica.it/esteri/2026/11/15/news/papa_leone_peru_accolto_da_500mila_persone_a_cusco_la_citta_inca_tradizioni_popolari-425725414/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-15T16:58:03.000Z",
+        "excerpt": "Leone XIV a 3.339 metri di altitudine dopo l’operazione al polmone, ieri era già stato sulle ande in elicottero, in giornata volerà nella foresta amazzonica",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/15/175747108-3e01115f-dbfe-4056-9f11-a18ce061016d.jpg"
       },
       {
         "title": "Perché l’ictus è in aumento tra i cinquantenni",
@@ -488,38 +536,6 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAE00X_L.jpg"
       },
       {
-        "title": "Alla Cop di Antalya la marcia per il clima: “La pace è pulita, la guerra è fossile”",
-        "link": "https://www.repubblica.it/esteri/2026/11/15/news/alla_cop_di_antalya_la_marcia_per_il_clima_pace_guerra-425723857/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-15T00:00:54.000Z",
-        "excerpt": "Ad Antalya la sfila il popolo delle rinnovabili: “Siamo in 10mila da tutto il mondo”. Occasione per i turchi di protestare contro Erdogan",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/182356047-80453523-4641-45ca-9ad6-14cac61bbf8d.jpg"
-      },
-      {
-        "title": "Il politologo Fesenko: “Kiev nella Nato? Nessuna svolta, Putin non accetterebbe mai”",
-        "link": "https://www.repubblica.it/esteri/2026/11/15/news/nato_ucraina_donbass_fesenko-425724068/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-15T00:00:53.000Z",
-        "excerpt": "L’analista del centro Penta: “Per noi impossibile cedere il Donbass. I russi hanno già provato ad eliminare Zelensky nel 2022”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/195522914-a5ebac23-7fe0-4075-b0c0-3a5c072bc7a1.jpg"
-      },
-      {
-        "title": "Voli cancellati in America: “La manutenzione fallita eseguita nell’ora di punta”",
-        "link": "https://www.repubblica.it/esteri/2026/11/15/news/voli_cancellati_in_america_problema_tecnico_durante_la_manutenzione-425724345/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-15T00:00:17.000Z",
-        "excerpt": "Ancora caos e aerei fermi. Il ministro: “Forse un errore”. Ma la Casa Bianca finisce sotto tiro per la fatiscenza dei trasporti",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/214737195-b1ff7510-5c84-4ee1-8888-851c115574e5.jpg"
-      },
-      {
-        "title": "Il Papa sulla cima delle Ande nonostante l’operazione per riabbracciare il suo Perù",
-        "link": "https://www.repubblica.it/esteri/2026/11/15/news/papa_peru_ande_torna_a_casa-425724088/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-15T00:00:13.000Z",
-        "excerpt": "A un mese dall’intervento al polmone, Leone XIV sale a oltre 3mila metri di altezza nell’ultima tappa del viaggio in America Latina",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/200309976-238489bc-326c-4f51-8c78-65e0552ac2d0.jpg"
-      },
-      {
         "title": "La marina iraniana afferma che tre petroliere sono in fiamme dopo aver urtato delle mine nello stretto di Hormuz",
         "link": "https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556",
         "source": "Investing.com Commodities",
@@ -544,7 +560,7 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAD0JA_L.jpg"
       },
       {
-        "title": "Mentre lo smog avvolge Lahore, la nuova squadra anti-inquinamento del Pakistan si affretta a spegnere gli incendi causati dai residui di paglia",
+        "title": "Mentre lo smog incombe su Lahore, la nuova squadra antinquinamento del Pakistan si affretta a spegnere gli incendi dei residui vegetali",
         "link": "https://www.investing.com/news/commodities-news/as-smog-hangs-over-lahore-pakistans-new-pollution-squad-races-to-douse-stubble-fires-5027213",
         "source": "Investing.com Commodities",
         "pubDate": "2026-11-14T14:42:19.000Z",
@@ -560,7 +576,7 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEHAA062_L.jpg"
       },
       {
-        "title": "I prezzi del petrolio scendono di oltre il 2% nel corso della settimana, sulla scia dell'attenuarsi dei timori di nuovi scontri tra Stati Uniti e Iran",
+        "title": "I prezzi del petrolio scendono di oltre il 2% nel corso della settimana, grazie all'attenuarsi dei timori di nuovi scontri tra Stati Uniti e Iran",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-hold-gains-as-trump-sidelines-vance-from-iran-diplomacy-5023781",
         "source": "Investing.com Commodities",
         "pubDate": "2026-11-13T22:43:45.000Z",
@@ -571,43 +587,91 @@
   },
   "attualita": [
     {
-      "title": "Trump scarica tutto su Biden: 'Sua la colpa del caos aerei'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
+      "title": "L’Iran attacca gli Usa in Bahrein. Il Wsj: “Ha ancora fino a 2.500 missili”",
+      "link": "https://www.repubblica.it/esteri/2026/11/16/news/iran_attacca_gli_usa_in_bahrein_ha_ancora_fino_a_2500_missili-425725654/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-16T00:00:34.000Z",
+      "excerpt": "L’operazione nella notte come risposta ai colpi contro i radar. E il Wall Street Journal riporta la stima dell’intelligence sull’arsenale iraniano",
+      "image": null
+    },
+    {
+      "title": "Scoop del Financial Times: 'Huang pensa a un clamoroso ritorno alla guida di Nvidia' ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/scoop-del-financial-times-huang-pensa-a-un-clamoroso-ritorno-alla-guida_5f2ba24d-056b-4f96-aca8-03e59566888d.html",
       "source": "ANSA",
-      "pubDate": "2026-11-15T16:04:53.000Z",
-      "excerpt": "Cancellati oggi negli Usa altri 1.400 voli dopo i 6.700 di sabato. Migliora la situazione dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
+      "pubDate": "2026-11-15T20:38:14.000Z",
+      "excerpt": "'I guru della Silicon Valley cercano il sostegno di Trump'. Ma Bessent vuole un ricambio",
       "image": null
     },
     {
-      "title": "Il Papa a Cusco, subito il bagno di folla in Papamobile ",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/11/15/il-papa-a-cusco-subito-il-bagno-di-folla-in-papamobile_9a8adf03-7d7d-4158-b2d8-3ccd37cc5021.html",
+      "title": "Nations League: in campo Belgio-Italia 3-1 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-in-campo-belgio-italia-3-1-diretta_c9e4e2b8-d8e7-489f-8d65-615b5bb7a7a4.html",
       "source": "ANSA",
-      "pubDate": "2026-11-15T16:04:45.000Z",
-      "excerpt": "Marea umana per le strade della città a quota 3mila metri. L'ultimo saluto a Chiclayo: 'Sia sempre la capitale dell'amicizia'",
+      "pubDate": "2026-11-15T20:31:53.000Z",
+      "excerpt": "Rete di Pio Esposito. Pareggia De Cuyper, poi i gol di Ngoy e Doku",
       "image": null
     },
     {
-      "title": "Zverev, buona la prima alle Atp Finals: battuto Jodar con un doppio 6-4",
-      "link": "https://www.repubblica.it/sport/tennis/2026/11/15/news/atp_finals_risultati_oggi_zverev_jodar_shelton_fils-425725356/",
+      "title": "Nvidia, possibile colpo di scena: Huang pensa al ritorno alla guida dell’azienda",
+      "link": "https://www.repubblica.it/economia/2026/11/15/news/nvidia_la_svolta_possibile_huang_pensa_al_ritorno_come_ceo-425725753/",
       "source": "Repubblica",
-      "pubDate": "2026-11-15T15:58:11.000Z",
-      "excerpt": "Il numero uno del mondo regola in due set lo spagnolo",
+      "pubDate": "2026-11-15T19:46:38.000Z",
+      "excerpt": "Secondo il Financial Times sarebbe stato travolto da un’ondata di solidarietà dopo le dimissioni per la storia con Alice Huang, sospetta spia cinese",
       "image": null
     },
     {
-      "title": "Il potere Usa vacilla: tornano i conflitti. Ultimo appello per le democrazie",
-      "link": "https://www.repubblica.it/dossier/economia/a-f-live-2026/2026/11/16/news/il_potere_usa_vacilla_tornano_i_conflitti-425718634/",
+      "title": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”",
+      "link": "https://www.repubblica.it/esteri/2026/11/15/news/russia_ue_senza_un_accordo_dovremo_usare_la_forza-425725745/",
       "source": "Repubblica",
-      "pubDate": "2026-11-15T15:30:00.000Z",
-      "excerpt": "L’equilibrio post Guerra Fredda si è sgretolato e pende a favore del Sud e dell’Est del Mondo. Il dibattito al talk A&F Live: qui programma e registrazione",
+      "pubDate": "2026-11-15T19:42:47.000Z",
+      "excerpt": "Zelensky denuncia: “Ancora attacchi brutali e limiti a Starshield”. L’Estonia annuncia la chiusura del confine con la Russia a dicembre. Per Lavrov le condizioni per la Pace “restano quelle del 2024”",
       "image": null
     },
     {
-      "title": "Atreju: Conte va alla festa di FdI, Schlein no",
-      "link": "https://www.repubblica.it/politica/2026/11/15/news/atreju_conte_va_alla_festa_di_fdi_schlein_no-425725312/",
+      "title": "Senzatetto morto per arresto cardiaco in piazza Caneva a Milano: “Vittima del freddo”",
+      "link": "https://milano.repubblica.it/cronaca/2026/11/15/news/senzatetto_morto_arresto_cardiaco_piazza_caneva-425725741/",
       "source": "Repubblica",
-      "pubDate": "2026-11-15T15:03:35.000Z",
-      "excerpt": "Il leader M5s accetta l’invito: “Sarò lì per ricordare a Meloni gli errori di questi quattro anni”. La segretaria dem declina: “Il confronto si fa in Parlamento”. No anche da Fratoianni e Bonelli. Renzi ci sarà, presenza",
+      "pubDate": "2026-11-15T19:42:18.000Z",
+      "excerpt": "Si lavora per identificare l’uomo, che non aveva con sé i documenti. Il corpo è stato trovato questa mattina",
+      "image": null
+    },
+    {
+      "title": "Ucraina, Mosca gela gli Usa,'niente Nato per Kiev'. Poi minaccia l'Europa ",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/ucraina-mosca-gela-gli-usaniente-nato-per-kiev.-poi-minaccia_b2d35761-af9c-44dd-964c-e157cfba1464.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-15T19:11:06.000Z",
+      "excerpt": "Le condizioni di Putin: ritiro di Kiev da quattro regioni ucraine oltre alla rinuncia a entrare nella Nato. Si punta a raggiungere gli obiettivi fissati nel 2024. \"Se non ci sarà un accordo useremo la forza\". Estonia chi",
+      "image": null
+    },
+    {
+      "title": "Il tempo di Ronaldinho. A Ravenna classe e sorrisi: “È stata l’ultima? Chissà...”",
+      "link": "https://www.repubblica.it/sport/calcio/2026/11/15/news/ronaldinho_debutto_partita_ravenna_forli-425725517/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-15T18:14:44.000Z",
+      "excerpt": "In campo a 46 anni e dopo 11 di assenza, il fuoriclasse ha esibito la solita allegria con qualche bel tocco e la partecipazione all’azione del gol dell’1-0 per la squadra di casa",
+      "image": null
+    },
+    {
+      "title": "Antonella Viola: “La mia Taranto ultima, serve una cura rivoluzionaria: ma Bari non ci ama”",
+      "link": "https://bari.repubblica.it/cronaca/2026/11/15/news/antonella_viola_la_mia_taranto_ultima_serve_una_cura_rivoluzionaria_ma_bari_non_ci_ama-425725510/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-15T18:08:52.000Z",
+      "excerpt": "Intervista alla nota biologa sulla classifica di Italia Oggi che vede il capoluogo in fondo alla classifica nazionale per qualità della vita. E rivela: “Presentammo un progetto di ricerca avanzata in oncologia pediatrica",
+      "image": null
+    },
+    {
+      "title": "Il Papa accolto da 500mila persone a Cusco, la città Inca: “Tradizioni popolari tesoro inestimabile”",
+      "link": "https://www.repubblica.it/esteri/2026/11/15/news/papa_leone_peru_accolto_da_500mila_persone_a_cusco_la_citta_inca_tradizioni_popolari-425725414/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-15T16:58:03.000Z",
+      "excerpt": "Leone XIV a 3.339 metri di altitudine dopo l’operazione al polmone, ieri era già stato sulle ande in elicottero, in giornata volerà nella foresta amazzonica",
+      "image": null
+    },
+    {
+      "title": "Padova, malore sui Colli Euganei: escursionista muore davanti al figlio di 7 anni",
+      "link": "https://www.repubblica.it/cronaca/2026/11/15/news/escursionista_muore_davanti_a_figlio_colli_euganei-425725385/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-15T16:42:44.000Z",
+      "excerpt": "Tragedia nel primo pomeriggio sul sentiero 29. L’allarme lanciato da alcune persone di passaggio, inutili i tentativi di rianimazione di Soccorso alpino ed elisoccorso",
       "image": null
     },
     {
@@ -619,59 +683,11 @@
       "image": null
     },
     {
-      "title": "\"Corri Libera\", oltre 10.000 a Roma per la corsa contro la violenza sulle donne",
-      "link": "https://www.ansa.it/donne/notizie/2026/11/15/corri-libera-oltre-10.000-a-roma-per-la-corsa-contro-la-violenza-sulle_5a5a97ef-5e6e-4e1d-b7d5-a7617e3a3a6f.html",
+      "title": "Spider-Man, Zendaya e i BTS trionfano ai Kids' Choice Awards di Los Angeles",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/spider-man-zendaya-e-i-bts-trionfano-ai-kids-choice-awards-di-los-angeles_8c26222a-6eed-440b-a386-0103dbfdb1d1.html",
       "source": "ANSA",
-      "pubDate": "2026-11-15T14:26:14.000Z",
-      "excerpt": "Sport e impegno civile insieme per l'iniziativa promossa da tre ministeri",
-      "image": null
-    },
-    {
-      "title": "Perché l’ictus è in aumento tra i cinquantenni",
-      "link": "https://www.repubblica.it/esteri/dossier/lena/2026/11/15/news/perche_ictus_in_aumento_tra_cinquantenni_continental_breakfast-425725263/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T14:00:32.000Z",
-      "excerpt": "In Spagna, negli ultimi vent’anni, l’incidenza degli ictus tra gli under 50 è raddoppiata, scrive il quotidiano El País. Secondo gli esperti, a spiegare il fenomeno sono sia il miglioramento delle diagnosi sia la diffusi",
-      "image": null
-    },
-    {
-      "title": "Elly Schlein punta sulla scuola: “Gli insegnanti vanno pagati meglio”",
-      "link": "https://www.repubblica.it/politica/2026/11/15/news/elly_schlein_pd_stati_generali_scuola-425725246/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T13:56:32.000Z",
-      "excerpt": "Libri gratis anche alle superiori, più tempo pieno, mense e trasporti gratuiti. La segretaria dem rilancia il ruolo dell’istruzione pubblica contro le disuguaglianze e apre al dibattito sull’ipotesi di tenere aperti gli ",
-      "image": null
-    },
-    {
-      "title": "Ucraina, Cremlino: 'Se non ci sarà un accordo con l'Europa useremo la forza'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/ucraina-mosca-negozieremo-per-raggiungere-gli-obiettivi-fissati-da-putin-nel_b2d35761-af9c-44dd-964c-e157cfba1464.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-15T13:38:01.000Z",
-      "excerpt": "'Negozieremo per raggiungere gli obiettivi fissati da Putin nel 2024'. Lavrov: 'Negoziati sull'Ucraina, l'Ue vuole salire sull'ultimo treno. Capiscono che il convoglio sta partendo e vogliono prendere il vagone di coda'",
-      "image": null
-    },
-    {
-      "title": "Qualità della vita, a Bolzano si vive meglio, Taranto ultima. Ancora forte divario tra Nord e Sud",
-      "link": "https://www.repubblica.it/cronaca/2026/11/15/news/qualita_vita_classifica_bolzano_taranto_divario_nord_sud-425725178/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T12:34:55.000Z",
-      "excerpt": "Milano scalzata dal primo posto. Il Nord-Est si attesta come l'area trainante del Paese",
-      "image": null
-    },
-    {
-      "title": "Scontro tra due auto in galleria nel Cosentino, chi sono le cinque vittime",
-      "link": "https://www.repubblica.it/cronaca/2026/11/15/news/scontro_galleria_fiego_vittime_chi_sono-425725111/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T11:27:15.000Z",
-      "excerpt": "Hanno perso la vita l’imprenditore Alfredo Spizzirri, di 50 anni, la compagna Barbara Beltrano, di 44, la mamma e la zia dell'uomo, Annamaria e Carmela Sicilia, di 84 e 86 anni. Nell’altra vettura l’82enne Anna Caterina ",
-      "image": null
-    },
-    {
-      "title": "Scende dall’auto dopo tamponamento, è travolto da un altro veicolo: Valeriu Marinuta muore a 36 anni",
-      "link": "https://milano.repubblica.it/cronaca/2026/11/15/news/incidente_mantova_morto_valeriu_marinuta-425724990/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T10:23:41.000Z",
-      "excerpt": "La tragedia all’altezza di Libiola, nel Mantovano. L’uomo stava discutendo con l’altro autista quando è stato investito da una Panda in arrivo nel senso opposto, guidata da un ottantacinquenne",
+      "pubDate": "2026-11-15T14:28:23.000Z",
+      "excerpt": "Pioggia di slime verde sulle star: a Chris Pratt il premio speciale per la commedia",
       "image": null
     },
     {
@@ -701,67 +717,67 @@
   ],
   "sport": [
     {
-      "title": "Atp Finals: Jodar, sono ancora giovane e credo di poter migliorare molto",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-jodar-sono-ancora-giovane-e-credo-di-poter-migliorare-molto_3ec1fdfa-71ef-4e74-b684-5e3f77bdcfcf.html",
+      "title": "Scherma: tappa di Cdm a Plovdiv, Italia oro nel fioretto a squadre donne e uomini",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/15/scherma-tappa-di-cdm-a-plodvid-italia-oro-nel-fioretto-a-squadre-donne_20f94fc5-9e28-42c6-89a0-4781e6f21909.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-15T16:08:32.000Z",
-      "excerpt": "\"Oggi sono stato competitivo, Zverev ha giocato meglio i punti importanti\"",
+      "pubDate": "2026-11-15T20:42:00.000Z",
+      "excerpt": "Azzurre e azzurri trionfano in finale contro Francia e Russia",
       "image": null
     },
     {
-      "title": "Atp Finals: Zverev, è sempre incredibile giocare questo torneo",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-zverev-e-sempre-incredibile-giocare-questo-torneo_5145e973-f80b-40e9-8005-358c097239b9.html",
+      "title": "Nations League: in campo Belgio-Italia 3-1 DIRETTA",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-in-campo-belgio-italia-3-1-diretta_c9e4e2b8-d8e7-489f-8d65-615b5bb7a7a4.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-15T15:19:41.000Z",
-      "excerpt": "\"Una partita non perfetta ma iniziare così è molto positivo\"",
+      "pubDate": "2026-11-15T20:31:53.000Z",
+      "excerpt": "Rete di Pio Esposito. Pareggia De Cuyper, poi i gol di Ngoy e Doku",
       "image": null
     },
     {
-      "title": "Atp Finals: Zverev buona la prima, travolto Jodar all'esordio",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-zverev-buona-la-prima-travolto-jodar-allesordio_c1d7ddcb-2255-4a79-ba5a-d85eae6cf5d4.html",
+      "title": "Pallavolo: Perugia vince la Supercoppa, rimontata Civitanova",
+      "link": "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/11/15/pallavolo-perugia-vince-la-supercoppa-rimontata-civitanova_ee21987a-efd3-4c13-83f0-1b4c6a7b14d4.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-15T14:57:44.000Z",
-      "excerpt": "Il numero 1 del mondo ha sconfitto in due set il giovane spagnolo",
+      "pubDate": "2026-11-15T20:09:27.000Z",
+      "excerpt": "Gli umbri erano sotto 2-0 ma si rialzano grazie ad uno strepitoso Semeniuk",
       "image": null
     },
     {
-      "title": "Atp Finals: esordio vincente per campioni in carica Heliovaara-Patten",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-esordio-vincente-per-campioni-in-carica-heliovaara-patten_af68e5e2-b625-40b3-901e-838dd3f5cbd7.html",
+      "title": "Ronaldinho mania, torna in campo a 46 anni ed è show mondiale",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/15/ronaldinho-torna-in-campo-titolare-ed-entra-nellazione-del-gol-del-ravenna_c5db5fb8-4ef0-4810-a737-19967e4af683.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-15T13:29:12.000Z",
-      "excerpt": "Sconfitti in tre set i brasiliani Matos-Luz",
+      "pubDate": "2026-11-15T19:23:10.000Z",
+      "excerpt": "Big e tutto esaurito a Ravenna. Poca corsa ma classe intatta per il brasiliano",
       "image": null
     },
     {
-      "title": "Sinner, 'le Atp Finals torneo speciale, divertitevi'",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/sinner-le-atp-finals-torneo-speciale-divertitevi_04ca15e7-8f9b-4467-b088-02fb9c7173e2.html",
+      "title": "Atp Finals: esordio vincente per coppia Arevalo-Pavic",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-esordio-vincente-per-coppia-arevalo-pavic_ee71f14a-8474-4168-a664-b39630c28960.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-15T13:28:48.000Z",
-      "excerpt": "Il campione in campo per la celebrazione dei numeri 1 del tennis",
+      "pubDate": "2026-11-15T19:13:46.000Z",
+      "excerpt": "Sconfitti i francesi Olivetti-Arribage in due set",
       "image": null
     },
     {
-      "title": "Atp Finals: Sinner in campo per ricevere il premio Giulio Onesti",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-sinner-in-campo-per-ricevere-il-premio-giulio-onesti_4913e998-6d94-4d33-9de4-c4dae8b0a118.html",
+      "title": "L'Under 21 di Baldini fa sul serio, col Belgio cerca l'ottava di fila ",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/baldini-avverte-la-sua-under-21-bisogna-mantenere-la-costanza-nel-gioco_218b6f31-3147-463a-adbd-eef21f8f2b0c.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-15T13:03:58.000Z",
-      "excerpt": "Il riconoscimento al tennis italiano, con lui anche Volandri e Binaghi",
+      "pubDate": "2026-11-15T19:04:27.000Z",
+      "excerpt": "Amichevole a Livorno, il ct: 'Mantenere costanza nel gioco e intensità'",
       "image": null
     },
     {
-      "title": "Tanti gol ed emozioni, la Lazio guida una Serie A da effetti speciali",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/15/tanti-gol-ed-emozioni-la-lazio-guida-una-serie-a-da-effetti-speciali_41c52ddf-6933-4153-97b5-3753d22d0991.html",
+      "title": "'Questa vittoria è per te', il Tenerife torna in campo e celebra de Miguel",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/15/questa-vittoria-e-per-te-il-tenerife-torna-in-campo-e-celebra-de-miguel_dbb3c790-eedc-46b9-9266-1f1087f4281a.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-15T12:58:43.000Z",
-      "excerpt": "In un anno 89 reti in più, grande equilibrio con cinque squadre in 6 punti",
+      "pubDate": "2026-11-15T18:55:24.000Z",
+      "excerpt": "Un minuto di silenzio al 9' nella gara contro il Ceuta. La commozione dello stadio",
       "image": null
     },
     {
-      "title": "Serie A: un mese di sfide con il derby Lazio-Roma, l'Inter può allungare",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/15/serie-a-un-mese-di-sfide-con-il-derby-lazio-roma-linter-puo-allungare_237e5157-e687-47e6-af9d-1f8f3250eae1.html",
+      "title": "Nations League: Mancini sceglie Koleosho e Pisilli con Pio Esposito",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-mancini-sceglie-koleosho-e-pisilli-con-pio-esposito_ba6771ae-435b-4ecc-b3aa-89ecd8448d62.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-15T12:58:14.000Z",
-      "excerpt": "Tanti big match sono alla fine, prima di Natale nerazzurri in campo nove volte",
+      "pubDate": "2026-11-15T18:40:34.000Z",
+      "excerpt": "Contro il Belgio Fagioli a centrocampo l'altro cambio",
       "image": null
     }
   ]
