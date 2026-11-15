@@ -1,14 +1,118 @@
 {
-  "lastUpdated": "2026-11-15T02:21:21.925Z",
+  "lastUpdated": "2026-11-15T09:43:37.101Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Il governatore Lies (Bassa Sassonia): “L’incertezza aiuta i populisti, Vw non proponga solo tagli”",
+        "link": "https://www.repubblica.it/economia/2026/11/15/news/il_governatore_lies_bassa_sassonia_l_incertezza_aiuta_i_populisti_volkswagen_non_proponga_solo_tagli-425724918/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-15T09:30:16.000Z",
+        "excerpt": "Il premier del Land azionista al 20% di Volkswagen: “La cogestione serve anche a progettare il futuro”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/15/102658100-b4ed530f-608e-4efe-a74b-d2cc83c821ec.jpg"
+      },
+      {
+        "title": "Floppy disk, dati su carta, cavi in rame: il rapporto che boccia la gestione dei cieli Usa",
+        "link": "https://www.repubblica.it/economia/2026/11/15/news/floppy_disk_dati_su_carta_cavi_in_rame_il_rapporto_che_boccia_la_gestione_dei_cieli_usa-425724828/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-15T09:21:51.000Z",
+        "excerpt": "La più grande potenza tecnologica del mondo affida il controllo della circolazione aerea anche a tecnologie degli anni ‘80. La denuncia nel Rapporto del Gao, l’agenzia che vigila sull’attività del governo. Decine di scal",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/15/093135603-e943ec49-a9ba-4c79-8824-c788a6609496.jpg"
+      },
+      {
+        "title": "Negozi e ristoranti non sono più imprese per giovani, età media 52 anni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/negozi-e-ristoranti-non-sono-piu-imprese-per-giovani-eta-media_b5e17aae-e249-45be-aaaf-33d66d8e621d.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-15T09:18:09.000Z",
+        "excerpt": "Confesercenti, la regione con gli imprenditori più anziani è la Liguria",
+        "image": null
+      },
+      {
+        "title": "5 grandi mosse degli analisti sull’AI: Nvidia declassata dopo l’uscita di Huang",
+        "link": "https://it.investing.com/news/stock-market-news/5-grandi-mosse-degli-analisti-sullai-nvidia-declassata-dopo-luscita-di-huang-3649528",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-15T09:00:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEL9R0FL_L.jpg"
+      },
+      {
+        "title": "Quando lo sciopero eccede: la ‘rivolta’ in magazzino punita con il licenziamento",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/lavoro/2026/11/15/news/quando_lo_sciopero_eccede_la__rivolta__in_magazzino_punita_con_il_licenziamento-425724235/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-15T09:00:00.000Z",
+        "excerpt": "In un caso a Bologna i lavoratori hanno smesso all’improvviso l’attività e si sono impossessati dei macchinari: per il Tribunale giusto il licenziamento. Ma sulla sentenza non mancano i dubbi",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/210643117-f9ec431a-2f82-4e8a-9883-a951079754ec.jpg"
+      },
+      {
+        "title": "La BCE non può sostituire una politica fiscale solida, avverte Knot",
+        "link": "https://it.investing.com/news/stock-market-news/la-bce-non-puo-sostituire-una-politica-fiscale-solida-avverte-knot-3649526",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-15T08:56:54.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
+      },
+      {
+        "title": "Bitcoin scende a 62.000 dollari, tocca i minimi da 4 mesi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/bitcoin-scende-a-62.000-dollari-tocca-i-minimi-da-4-mesi_29642167-4c39-40cf-9461-942d78d582a3.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-15T08:41:58.000Z",
+        "excerpt": "Vendite su tutte le criptovalute. In una settimana Ether ha perso il 22%",
+        "image": null
+      },
+      {
+        "title": "Scende ancora il prezzo dei carburanti, benzina a 1,959 euro al litro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/scende-ancora-il-prezzo-dei-carburanti-benzina-a-1959-euro-al-litro_6844ad99-26c0-439e-baf9-f42a52e594aa.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-15T08:26:38.000Z",
+        "excerpt": "Mimit, in media 2,209 euro al litro per il gasolio",
+        "image": null
+      },
+      {
+        "title": "Legge di Bilancio, statali: Tfr a rate in tempi ridotti, ma solo a un dipendente su 10",
+        "link": "https://www.ilsole24ore.com/art/legge-bilancio-statali-tfr-rate-tempi-ridotti-ma-solo-un-dipendente-10-AJ3OLJHC",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-15T07:51:00.000Z",
+        "excerpt": "La legge di bilancio avvia una lenta, progressiva archiviazione del meccanismo che dal 2010 divide la buonuscita dei dipendenti pubblici in rate, e fa attendere l’accredito finale fino...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/16/Immagini/Ritagli/pexels-doan-thanh-binh-2147604563-36631700-U68365147682vgg-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Ubriaco, un coltello da cucina in mano: paura sul volo dall’Islanda a Milano",
+        "link": "https://www.repubblica.it/economia/2026/11/15/news/ubriaco_un_coltello_da_cucina_in_mano_paura_sul_volo_dall_islanda_a_milano-425724883/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-15T07:00:00.000Z",
+        "excerpt": "I piloti di easyJet allertano la Polizia italiana che aspetta il passeggero molesto al suo arrivo in Italia. L’utensile ammesso a bordo se non è pericoloso. Il vettore: non tolleriamo simili comportamenti a bordo, equipa",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/15/101647015-2b9856d3-f289-44f7-b105-ef36f0892a96.jpg"
+      },
+      {
+        "title": "Stesso lavoro, stipendio diverso: la contraddizione della flat tax. Le simulazioni degli stipendi",
+        "link": "https://www.repubblica.it/economia/2026/11/15/news/stesso_lavoro_stipendio_diverso_la_contraddizione_della_flat_tax_le_simulazioni_degli_stipendi-425720021/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-15T04:00:00.000Z",
+        "excerpt": "Un colpo alla progressività del fisco che aggrava tre mali dell’economia italiana: il nanismo delle imprese, l’evasione fiscale e le false partite Iva",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/13/070142389-78ab7b59-04e8-4054-b5a5-6f479c561966.jpg"
+      },
+      {
+        "title": "Debiti con il Fisco? Dall’anno prossimo un anno in più per rateizzare le cartelle",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/11/15/news/debiti_con_il_fisco_dall_anno_prossimo_un_anno_in_piu_per_rateizzare_le_cartelle-425724229/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-15T04:00:00.000Z",
+        "excerpt": "Per i debiti fino a 120mila euro semplificazione immediata, oltre bisogna documentare la difficoltà finanziaria",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/210103196-3f8171ba-0237-4e87-b63b-46e3952c6eb3.jpg"
+      },
+      {
+        "title": "ING pone 10 domande chiave sull’economia della Cina nel 2027",
+        "link": "https://it.investing.com/news/stock-market-news/ing-pone-10-domande-chiave-sulleconomia-cinese-nel-2027-3649493",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-15T03:40:50.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC2T1KG_M.jpg"
+      },
       {
         "title": "Apple: perché ha le carte giuste per dominare gli agenti AI personali",
         "link": "https://it.investing.com/news/stock-market-news/evercore-spiega-perche-apple-puo-vincere-la-corsa-agli-agenti-ai-personali-3649483",
         "source": "Investing.com Italia",
         "pubDate": "2026-11-15T01:38:04.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB4E0YP_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXMPEB4E0YP_M.jpg"
       },
       {
         "title": "Conte e Schlein corteggiano Orsini. “Impegni su incentivi e investimenti”",
@@ -27,60 +131,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/223031760-70b6b159-d791-4f3f-a84f-2fd11fadf29a.jpg"
       },
       {
-        "title": "Gli arrabbiati comizietti social di Meloni: finanziaria in pillole per attaccare la sinistra",
-        "link": "https://www.repubblica.it/economia/2026/11/15/news/meloni_comizi_social_finanziaria_sinistra-425724407/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-15T00:00:00.000Z",
-        "excerpt": "I reel della presidente del Consiglio dovrebbero spiegare le misure, dall’esenzione del bollo auto alla flat tax per gli autonomi, ma finiscono per scadere nel vecchio schema dei “noi contro loro” e della politica urlata",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/222203632-4155c65b-9fe0-42ab-a7e6-add66735d625.jpg"
-      },
-      {
-        "title": "Tagli Irpef e superbonus, serve un nuovo vertice per riscrivere la manovra",
-        "link": "https://www.repubblica.it/economia/2026/11/15/news/tagli_irpef_e_superbonus_serve_un_nuovo_vertice_per_riscrivere_la_manovra-425724337/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-15T00:00:00.000Z",
-        "excerpt": "Confindustria chiede “un tavolo sui crediti edilizi, ci ascoltino”. Leo: “L’obiettivo è mantenere la riduzione fiscale dopo il 2027”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/214716978-42282b25-13d4-4a0b-829b-436ce25ecbc6.jpg"
-      },
-      {
-        "title": "Landini: “Il governo rapina i giovani e i lavoratori. In piazza per il loro futuro”",
-        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/15/news/intervista_landini_manovra_governo_rapina_giovani_lavoratori_sciopero_20_novembre-425724289/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-15T00:00:00.000Z",
-        "excerpt": "Il segretario generale della Cgil: “L’incontro del governo con le parti sociali è una presa in giro se arriva con la manovra già in Parlamento”. Il 20 novembre il sindacato in 100 piazze per lo sciopero con gli studenti",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/213138491-b0aea2fe-55ce-4950-8840-3e1d54139fed.jpg"
-      },
-      {
-        "title": "Boccardelli: “Italia bloccata. L’ascensore sociale riparte se investiamo sui giovani”",
-        "link": "https://www.repubblica.it/economia/2026/11/15/news/boccardelli_italia_bloccata_l_ascensore_sociale_riparte_se_investiamo_sui_giovani-425724200/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-15T00:00:00.000Z",
-        "excerpt": "Parla il lettore della Luiss: “Qui per passare dall’ultimo percentile di reddito a quello mediano ci vogliono cinque generazioni, 125 anni, in Norvegia e Danimarca sono due”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/205527134-c9e4dff7-f317-49ee-9ddc-4d7a11c4cc15.jpg"
-      },
-      {
-        "title": "Tensione sul supercaccia Gcap. L’Italia: “Favorevoli a Berlino”",
-        "link": "https://www.repubblica.it/economia/2026/11/14/news/tensione_sul_supercaccia_gcap_l_italia_favorevoli_a_berlino-425724462/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-14T21:49:34.000Z",
-        "excerpt": "Dopo le ricostruzioni del Financial Times, secondo le quali Roma si sarebbe opposta a un ingresso nel progetto della Germania, le precisazioni della Difesa: “E’ falso”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/224309608-4ea1f343-06e2-4203-9700-e26156ba1b70.jpg"
-      },
-      {
-        "title": "Galati (Tor Vergata): “Usa investono su difesa e IA, non sul traffico aereo. Italia, crisi limitate”",
-        "link": "https://www.repubblica.it/economia/2026/11/14/news/galati_roma_tre_usa_investono_su_difesa_e_ia_non_sul_traffico_aereo_in_italia_crisi_limitate-425723957/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-14T21:25:56.000Z",
-        "excerpt": "Il docente ed esperto di radar: “Se gli apparati della rete sono obsoleti o sovraccarichi, i dati arrivano corrotti. A quel punto i controllori di volo bloccano i decolli. Noi usiamo una rete di Telecom: è virtuale, sare",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/14/184529244-a7db6bfa-bb16-4fd0-bff8-9867289b9563.jpg"
-      },
-      {
         "title": "Brookfield e CPPIB avanzano nella vendita di Uniper mentre la Germania riduce la sua quota",
         "link": "https://it.investing.com/news/stock-market-news/duffy-indaga-su-l3harris-per-il-blackout-faa-che-ha-bloccato-i-voli-usa-3649442",
         "source": "Investing.com Italia",
         "pubDate": "2026-11-14T18:18:02.000Z",
         "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6F0UY_L.jpg"
+        "image": "https://content-media.investing.com/news/LYNXNPEB6F0UY_M.jpg"
       },
       {
         "title": "Fisco, pensioni, sanità: ecco tutte le trappole da evitare negli emendamenti alla manovra",
@@ -97,14 +153,6 @@
         "pubDate": "2026-11-14T17:52:12.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/news_arrow_up_M_1440047641.jpg"
-      },
-      {
-        "title": "Confindustria convoca le Assise prima del voto. 'La politica ci ascolti' ",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/orsini-la-manovra-momento-complicato-ci-aspettiamo-risposte_e7e1de2d-a227-4024-9594-d9523aab3ffe.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-14T17:00:03.000Z",
-        "excerpt": "Orsini chiama le imprese a raccolta, è la quinta volta nella storia degli industriali",
-        "image": null
       },
       {
         "title": "Riscaldamenti, dal 15 novembre termosifoni accesi nella zona climatica di Roma e Napoli: cosa c’è da sapere",
@@ -139,14 +187,6 @@
         "image": null
       },
       {
-        "title": "Conto alla rovescia per Black Friday, giro d'affari sale a 4,3 miliardi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/conto-alla-rovescia-per-black-friday-giro-daffari-sale-a-43-miliardi_f30271ef-561c-4cf9-a62e-cb88332b3758.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-14T15:01:28.000Z",
-        "excerpt": "Codacons, 3 italiani su 4 anticiperanno i regali di Natale con l'aiuto dell'AI",
-        "image": null
-      },
-      {
         "title": "Italia multa Meta €805 milioni per accesso alle foto degli utenti Android",
         "link": "https://it.investing.com/news/stock-market-news/italia-multa-meta-805-milioni-per-accesso-alle-foto-degli-utenti-android-3649422",
         "source": "Investing.com Italia",
@@ -177,14 +217,6 @@
         "pubDate": "2026-11-14T13:40:57.000Z",
         "excerpt": "A fronte di riduzione dei prezzi cresce allarme su olio prodotto con olive straniere",
         "image": null
-      },
-      {
-        "title": "La vittoria dei democratici alle elezioni di midterm: opportunità per SpaceX",
-        "link": "https://it.investing.com/news/stock-market-news/la-vittoria-dei-democratici-alle-elezioni-di-midterm-opportunita-per-spacex-3649415",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-14T13:29:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg"
       },
       {
         "title": "Agenzia per tutele, 'disservizi per caos voli non cancellano diritti passeggeri'",
@@ -225,41 +257,25 @@
         "pubDate": "2026-11-14T11:16:00.000Z",
         "excerpt": "Il tema dell’aumento dell’aumento a 100mila euro della soglia del regime forfettario (Flat tax delle partite Iva) continua a infiammare il dibattito politico. A difendere la misura inserita nel Ddl...",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/15/Immagini/Ritagli/flat-tax-AdobeStock_282731262-U42824104418LvS-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Black Friday, è già corsa agli acquisti: tre italiani su quattro anticiperanno i regali di Natale",
-        "link": "https://www.ilsole24ore.com/art/black-friday-e-gia-corsa-acquisti-tre-italiani-quattro-anticiperanno-regali-natale-AJZktiFC",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-14T11:02:01.000Z",
-        "excerpt": "L’appuntamento con gli sconti vede oltre l’80% dei consumatori pronto a valutare possibili acquisti approfittando di offerte e promozioni, e anche quest’anno in testa alle preferenze si piazzano abbigliamento, calzature ",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/14/Immagini/Ritagli/images-U80352424347Rlh-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Cosa si aspetta Goldman Sachs dalle azioni europee nel 2027?",
-        "link": "https://it.investing.com/news/stock-market-news/cosa-si-aspetta-goldman-sachs-dalle-azioni-europee-nel-2027-3649400",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-14T10:52:51.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEI4T0B7_L.jpg"
-      },
-      {
-        "title": "Nelle case italiane 100 milioni di dispositivi connessi, 1 su 3 a rischio hacker",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/nelle-case-italiane-100-milioni-di-dispositivi-connessi-1-su-3-a-rischio-hacker_b9486b33-f971-4f17-821b-97f048a3bcb8.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-14T10:40:09.000Z",
-        "excerpt": "Consumers' Forum: 'Si moltiplicano smartphone, pc, smart tv, antifurti e speaker'",
-        "image": null
-      },
-      {
-        "title": "La Banca d’Inghilterra probabilmente alzerà i tassi nel 2027, dice Pill",
-        "link": "https://it.investing.com/news/stock-market-news/la-banca-dinghilterra-probabilmente-alzera-i-tassi-nel-2027-dice-pill-3649368",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-14T08:24:06.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg"
       }
     ],
     "europa": [
+      {
+        "title": "Substack conquista l’Europa: la piattaforma che trasforma la lettura digitale e sfida social e media tradizionali",
+        "link": "https://www.ilsole24ore.com/art/dai-social-newsletter-perche-substack-continua-crescere-europa-AJjzdYEC",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-11-15T08:04:00.000Z",
+        "excerpt": "«Il bisogno a cui Substack risponde è quello di un pubblico che, sommerso da contenuti superficiali e veloci, cerca qualcosa di diverso», racconta Felipe O’Garran, giovane scrittore e giornalista, che...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/13/Immagini/Ritagli/Immagine%202026-11-12%20183231-U23537717466jrP-1440x752@IlSole24Ore-Web.png"
+      },
+      {
+        "title": "Stop a Trump, giudice blocca chiusura parco Washington per piano campo golf",
+        "link": "https://www.ilsole24ore.com/art/stop-trump-giudice-blocca-chiusura-parco-washington-piano-campo-golf-AJKosJHC",
+        "source": "Il Sole 24 Ore Mondo",
+        "pubDate": "2026-11-15T07:54:00.000Z",
+        "excerpt": "Una giudice federale ha ordinato una sospensione di due settimane di qualsiasi intervento in uno storico campo da golf pubblico di Washington, non lontano dalla Casa Bianca, bloccando per ora...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/16/Immagini/Ritagli/2026-11-14T213430Z_1965211506_RC2WNOAP0JZC_RTRMADP_5_USA-TRUMP-WASHINGTON-U06834880883LNg-1440x752@IlSole24Ore-Web.JPG"
+      },
       {
         "title": "Farnesina: «Scarcerato in Venezuela il cittadino italiano Echenagucía»",
         "link": "https://www.ilsole24ore.com/art/farnesina-scarcerato-venezuela-cittadino-italiano-echenagucia-AJeegzGC",
@@ -333,7 +349,7 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
       },
       {
-        "title": "Kontoor Brands aggiorna la qualifica dirigenziale di Jennifer H. Broyles dopo la vendita di Lee",
+        "title": "Kontoor Brands aggiorna la carica dirigenziale di Jennifer H. Broyles dopo la vendita di Lee",
         "link": "https://www.investing.com/news/sec-filings/kontoor-brands-updates-executive-title-for-jennifer-h-broyles-after-lee-sale-93CH-5026753",
         "source": "Investing.com Eurozona",
         "pubDate": "2026-11-13T23:22:29.000Z",
@@ -365,32 +381,24 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
       },
       {
-        "title": "«Sir Aspirapolvere» vuole un futuro da agricoltori per i figli",
+        "title": "James Dyson, “Sir Aspirapolvere”, trasferisce la Dyson Farming ai figli tra sfide fiscali e successione familiare",
         "link": "https://www.ilsole24ore.com/art/sir-aspirapolvere-vuole-futuro-agricoltori-i-figli-AJkOUHFC",
         "source": "Il Sole 24 Ore Mondo",
         "pubDate": "2026-11-13T22:32:00.000Z",
         "excerpt": "Il magnate inglese James Dyson, con un impero da 10 miliardi di Sterline, dona la sua immensa tenuta. Si prepara la successione?",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/14/Immagini/Ritagli/ilsolematera_20261113165258509_082d4b57816fa76cbde1e2717e0572b3-U28183727882uCg-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Usa, quattro ore di blocco nazionale dei voli in partenza per un crash tecnologico",
-        "link": "https://www.ilsole24ore.com/art/usa-faa-dispone-blocco-nazionale-voli-partenza-AJkGYJGC",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-11-13T21:51:00.000Z",
-        "excerpt": "La Federal Aviation Administration (FAA), l’agenzia federale statunitense per l’aviazione civile, ha disposto ieri un rarissimo blocco nazionale di tutti i voli in partenza dagli aeroporti degli Stati...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/14/Immagini/Ritagli/usa-aerei-U30174410643mpW-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Clima: la Cina rinuncia alla Cop del 2028, ma il picco dei gas serra sembra già alle spalle",
-        "link": "https://www.ilsole24ore.com/art/clima-cina-rinuncia-cop-2028-ma-picco-gas-serra-sembra-gia-spalle-AJHlsbFC",
-        "source": "Il Sole 24 Ore Mondo",
-        "pubDate": "2026-11-13T17:26:00.000Z",
-        "excerpt": "ANTALYA (TURCHIA) - La Cina rinuncia a ospitare la Cop33 del 2028. Circolata a lungo, l’ipotesi di una conferenza mondiale sul clima nella seconda economia mondiale, e prima per emissioni...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/14/Immagini/Ritagli/robot-antalya-U51448620401GuR-1440x752@IlSole24Ore-Web.jpg"
       }
     ],
     "usa": [],
     "mondo": [
+      {
+        "title": "La coalizione guidata dall'Arabia Saudita intercetta missili diretti verso Riad e droni nella Provincia Orientale",
+        "link": "https://www.investing.com/news/commodities-news/saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province-5027639",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-15T03:12:19.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAE010_L.jpg"
+      },
       {
         "title": "Bomba in un impianto di etanolo in Illinois: indaga l’Fbi",
         "link": "https://www.repubblica.it/esteri/2026/11/15/news/bomba_in_un_impianto_di_etanolo_in_illinois_indaga_l_fbi-425724567/?rss",
@@ -456,7 +464,7 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/15/004539930-8fcbcef1-8f6b-4c1a-9ddf-7328d69e94d9.jpg"
       },
       {
-        "title": "La marina iraniana afferma che tre petroliere sono in fiamme dopo aver urtato delle mine nello stretto di Hormuz",
+        "title": "La marina iraniana afferma che tre petroliere sono in fiamme dopo aver urtato delle mine nello Stretto di Hormuz",
         "link": "https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556",
         "source": "Investing.com Commodities",
         "pubDate": "2026-11-14T23:00:24.000Z",
@@ -560,7 +568,7 @@
         "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAD08W_L.jpg"
       },
       {
-        "title": "Goldman Sachs ha appena rivisto al ribasso le sue previsioni sull'oro per il 2027. Ecco le nuove cifre",
+        "title": "Goldman Sachs ha appena ridotto le sue previsioni sull'oro per il 2027. Ecco le nuove cifre",
         "link": "https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310",
         "source": "Investing.com Commodities",
         "pubDate": "2026-11-14T12:10:32.000Z",
@@ -574,18 +582,82 @@
         "pubDate": "2026-11-13T22:43:45.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXMPEE5S1ZM_M.jpg"
-      },
-      {
-        "title": "L'oro spot registra la peggior settimana da marzo a causa dell'aumento delle aspettative di rialzo dei tassi della Fed",
-        "link": "https://www.investing.com/news/commodities-news/gold-languishes-near-13month-low-as-96-oil-fuels-bets-on-bigger-fed-hikes-5023860",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-13T22:14:06.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEI3O02P_L.jpg"
       }
     ]
   },
   "attualita": [
+    {
+      "title": "Attacchi hacker, l’esperto: “Cittadini sempre più a rischio, ma basta poco per proteggersi”",
+      "link": "https://www.repubblica.it/cronaca/2026/11/15/news/attacchi_hacker_domestici_gabriele_faggioli_esperto_intervista-425724847/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-15T08:43:52.000Z",
+      "excerpt": "Secondo Consumers' Forum almeno una casa su tre è a rischio intrusione informatica. Per Gabriele Faggioli il fattore umano pesa quanto evoluzione di attacchi e debolezza di sistema. Ma manca formazione",
+      "image": null
+    },
+    {
+      "title": "Floppy disk, dati su carta, cavi in rame: il rapporto che boccia la gestione dei cieli Usa",
+      "link": "https://www.repubblica.it/economia/2026/11/15/news/floppy_disk_dati_su_carta_cavi_in_rame_il_rapporto_che_boccia_la_gestione_dei_cieli_usa-425724828/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-15T08:34:01.000Z",
+      "excerpt": "La più grande potenza tecnologica del mondo affida il controllo della circolazione aerea anche a tecnologie degli anni ‘80. La denuncia nel Rapporto del Gao, l’agenzia che vigila sull’attività del governo. Decine di scal",
+      "image": null
+    },
+    {
+      "title": "Mosca: abbattuti 533 droni ucraini nella notte su diverse regioni russe",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/mosca-abbattuti-533-droni-ucraini-nella-notte-su-diverse-regioni-russe_b2d35761-af9c-44dd-964c-e157cfba1464.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-15T08:09:59.000Z",
+      "excerpt": "Kiev: 132 droni russi nella notte contro l'Ucraina, intercettati 106'",
+      "image": null
+    },
+    {
+      "title": "Wta Finals: Errani e Paolini volano in finale, battute Guo e Mladenovic ",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/15/wta-finals-errani-e-paolini-volano-in-finale-battute-guo-e-mladenovic_a6a4dc9e-0d3c-40e8-9cb9-1d71a585294e.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-15T05:26:13.000Z",
+      "excerpt": "Incontreranno Katerina Siniakova e Taylor Townsend",
+      "image": null
+    },
+    {
+      "title": "Tennis's season finale takes centre stage in Turin",
+      "link": "https://www.repubblica.it/en/europe/sport/2026/11/15/news/atp_finals_2026_turin_tennis_events_city-425721478/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-15T05:00:00.000Z",
+      "excerpt": "The Piedmont capital has turned the ATP Finals, running from today until 22 November, into a citywide celebration. Only the world's top eight players qualify to compete for the final trophy of the year",
+      "image": null
+    },
+    {
+      "title": "L’inno della Francia in rivolta è di pura gioia e rivoluzione",
+      "link": "https://www.repubblica.it/spettacoli/musica/2026/11/15/news/l_inno_della_francia_in_rivoltae_di_pura_gioia_e_rivoluzione-425723875/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-15T04:00:00.000Z",
+      "excerpt": "Ispirandosi alle note della celebre “Speedy Gonzales” e a Josephine Baker, una banda di giovani ha dato agli scontri un brano virale: “J’ai deux passions, la fanfare et la révolution”",
+      "image": null
+    },
+    {
+      "title": "Cancellati sabato negli Usa 6.500 voli, oggi almeno altri 760",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-sabato-negli-usa-6.500-voli-oggi-almeno-altri-760_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-15T03:58:02.000Z",
+      "excerpt": "Proseguono i disagi dopo lo stop di quasi 5 ore deciso venerdì dalla Faa",
+      "image": null
+    },
+    {
+      "title": "Guerra in Iran, le news di oggi. Esplosioni in Bahrein, Iran rivendica attacco contro base radar Usa",
+      "link": "https://www.repubblica.it/esteri/2026/11/15/diretta/guerra_iran_usa_israele_news_oggi-425724580/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-15T02:22:18.000Z",
+      "excerpt": "I Guardiani della rivoluzioni hanno diffuso un comunicato su telegram",
+      "image": null
+    },
+    {
+      "title": "La lettera di Maicol ai genitori: “Scusatemi per questo dolore”",
+      "link": "https://roma.repubblica.it/cronaca/2026/11/14/news/lettera_genitori_maicol_suicidio_15_anni_cambio_sesso-425724331/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-15T00:01:00.000Z",
+      "excerpt": "Sequestrata con un altro messaggio per il ragazzino di cui era innamorato. Indaga anche la procura dei minori. Sentito il padre",
+      "image": null
+    },
     {
       "title": "Il politologo Fesenko: “Kiev nella Nato? Nessuna svolta, Putin non accetterebbe mai”",
       "link": "https://www.repubblica.it/esteri/2026/11/15/news/nato_ucraina_donbass_fesenko-425724068/",
@@ -595,83 +667,11 @@
       "image": null
     },
     {
-      "title": "Putin rivuole il controllo dell’Europa orientale. A Shenzen una Yalta con Trump e Xi",
-      "link": "https://www.repubblica.it/esteri/2026/11/15/news/putin_russia_nato_europa_orientale_shenzen_yalta_con_trump_e_xi-425724196/",
+      "title": "Voli cancellati in America: “La manutenzione fallita eseguita nell’ora di punta”",
+      "link": "https://www.repubblica.it/esteri/2026/11/15/news/voli_cancellati_in_america_problema_tecnico_durante_la_manutenzione-425724345/",
       "source": "Repubblica",
-      "pubDate": "2026-11-15T00:00:07.000Z",
-      "excerpt": "Il documento consegnato agli americani: “Il Patto atlantico deve ritirarsi ai confini del 1997”. Il ritorno alle sfere di influenza",
-      "image": null
-    },
-    {
-      "title": "Antimafia, la lotta interna deflagra in Parlamento e alla Dna",
-      "link": "https://www.repubblica.it/politica/2026/11/15/news/antimafia_lotta_interna_parlamento_dna_melillo_di_matteo-425724466/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T00:00:00.000Z",
-      "excerpt": "Preoccupazione in procura e Anm dopo le accuse di Di Matteo a Melillo. Pressing della destra per rivedere la genesi delle stragi",
-      "image": null
-    },
-    {
-      "title": "Tagli Irpef e superbonus, serve un nuovo vertice per riscrivere la manovra",
-      "link": "https://www.repubblica.it/economia/2026/11/15/news/tagli_irpef_e_superbonus_serve_un_nuovo_vertice_per_riscrivere_la_manovra-425724337/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T00:00:00.000Z",
-      "excerpt": "Confindustria chiede “un tavolo sui crediti edilizi, ci ascoltino”. Leo: “L’obiettivo è mantenere la riduzione fiscale dopo il 2027”",
-      "image": null
-    },
-    {
-      "title": "Landini: “Il governo rapina i giovani e i lavoratori. In piazza per il loro futuro”",
-      "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/15/news/intervista_landini_manovra_governo_rapina_giovani_lavoratori_sciopero_20_novembre-425724289/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T00:00:00.000Z",
-      "excerpt": "Il segretario generale della Cgil: “L’incontro del governo con le parti sociali è una presa in giro se arriva con la manovra già in Parlamento”. Il 20 novembre il sindacato in 100 piazze per lo sciopero con gli studenti",
-      "image": null
-    },
-    {
-      "title": "Un reddito minimo garantito per il sostegno alla povertà.Prove di intesa nel campo largo",
-      "link": "https://www.repubblica.it/politica/2026/11/15/news/reddito_di_cittadinanza_cambia_nome_intesa_campo_largo_ius_soli-425724432/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T00:00:00.000Z",
-      "excerpt": "Il centrosinistra guarda al modello Ue per i più fragili Idea Ius soli temperato per la cittadinanza. Iv e M5s: sanità centralizzata",
-      "image": null
-    },
-    {
-      "title": "Boccardelli: “Italia bloccata. L’ascensore sociale riparte se investiamo sui giovani”",
-      "link": "https://www.repubblica.it/economia/2026/11/15/news/boccardelli_italia_bloccata_l_ascensore_sociale_riparte_se_investiamo_sui_giovani-425724200/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T00:00:00.000Z",
-      "excerpt": "Parla il lettore della Luiss: “Qui per passare dall’ultimo percentile di reddito a quello mediano ci vogliono cinque generazioni, 125 anni, in Norvegia e Danimarca sono due”",
-      "image": null
-    },
-    {
-      "title": "Gli arrabbiati comizietti social di Meloni: finanziaria in pillole per attaccare la sinistra",
-      "link": "https://www.repubblica.it/economia/2026/11/15/news/meloni_comizi_social_finanziaria_sinistra-425724407/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-15T00:00:00.000Z",
-      "excerpt": "I reel della presidente del Consiglio dovrebbero spiegare le misure, dall’esenzione del bollo auto alla flat tax per gli autonomi, ma finiscono per scadere nel vecchio schema dei “noi contro loro” e della politica urlata",
-      "image": null
-    },
-    {
-      "title": "Dopo il caos nei cieli, Usa verso la 'piena operatività'. Ma si contano i danni",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/dopo-il-caos-nei-cieli-usa-verso-la-piena-operativita.-ma-si-contano-i-danni_9772e753-260a-465a-b775-0399c068f3c9.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-14T23:09:02.000Z",
-      "excerpt": "Il blocco ha coinvolto quasi un milione e trecentomila persone",
-      "image": null
-    },
-    {
-      "title": "I bot si ribellano ai politici, 'colpa' di Microsoft down ",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/14/lega-eserciti-di-bot-inquinano-confronto-democratico-anche-sui-social-di-salvini_3b12b190-cf89-4c45-96d5-1d1ed0c1b93c.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-14T21:54:12.000Z",
-      "excerpt": "Messaggi da account sospetti. Salvini: 'Ci insultano'. Non si parli di hacker russi",
-      "image": null
-    },
-    {
-      "title": "Ucraina, Zelensky: 'Gli Usa ci propongono la Nato in cambio del Donbass' ",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-14T21:36:22.000Z",
-      "excerpt": "La Russia chiede il ritorno dell'Alleanza ai confini del 1997",
+      "pubDate": "2026-11-15T00:00:17.000Z",
+      "excerpt": "Ancora caos e aerei fermi. Il ministro: “Forse un errore”. Ma la Casa Bianca finisce sotto tiro per la fatiscenza dei trasporti",
       "image": null
     },
     {
@@ -717,11 +717,43 @@
   ],
   "sport": [
     {
-      "title": "Wta Finals: dall'Ucraina accuse a Sabalenka, 'ha offeso Svitolina'",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/14/wta-finals-dallucraina-accuse-a-sabalenka-ha-offeso-svitolina_d6cc3bd8-af0f-459c-a399-fbf7540e49a9.html",
+      "title": "Nations League: Mancini non convoca Sebastiano Esposito per il Belgio",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-mancini-non-convoca-sebastiano-esposito-per-il-belgio_c9e4e2b8-d8e7-489f-8d65-615b5bb7a7a4.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-14T23:15:52.000Z",
-      "excerpt": "Polemica per un video con presunti insulti della bielorussa",
+      "pubDate": "2026-11-15T09:32:05.000Z",
+      "excerpt": "Nella lista degli azzurri disponibili ci sono Ahanor, Cisse, Liberali e Pisilli",
+      "image": null
+    },
+    {
+      "title": "Wta Finals: Errani-Paolini \"felici e in fiducia ma la finale sarà durissima\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/wta-finals-errani-paolini-felici-e-in-fiducia-ma-la-finale-sara-durissima_a93bbc55-8aba-4c78-865b-0bee9add83a2.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-15T09:14:44.000Z",
+      "excerpt": "Le azzurre contenderanno il titolo di doppio a Siniakova-Townsend",
+      "image": null
+    },
+    {
+      "title": "Wta Finals: Errani e Paolini volano in finale, battute Guo e Mladenovic ",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/15/wta-finals-errani-e-paolini-volano-in-finale-battute-guo-e-mladenovic_a6a4dc9e-0d3c-40e8-9cb9-1d71a585294e.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-15T05:26:13.000Z",
+      "excerpt": "Incontreranno Katerina Siniakova e Taylor Townsend",
+      "image": null
+    },
+    {
+      "title": "Wta Finals: Sabalenka si scusa per lo sfogo dopo la sconfitta contro Svitolina",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/wta-finals-sabalenka-si-scusa-per-lo-sfogo-dopo-la-sconfitta-contro-svitolina_942ad042-342e-4fe5-ab0f-98302a180bf6.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-15T05:25:18.000Z",
+      "excerpt": "'Commento non era rivolto a Elina avrei dovuto gestire diversamente la mia frustrazione'",
+      "image": null
+    },
+    {
+      "title": "++ Wta Finals: Errani e Paolini volano in finale, battute Guo e Mladenovic ++",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/wta-finals-errani-e-paolini-volano-in-finale-battute-guo-e-mladenovic_d9f68f59-c5a5-430e-a4ec-de62139e0289.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-15T03:36:19.000Z",
+      "excerpt": "",
       "image": null
     },
     {
@@ -746,38 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-11-14T22:52:40.000Z",
       "excerpt": "Lusitani battuti 4-1 a Braga, la peggiore sconfitta interna di sempre",
-      "image": null
-    },
-    {
-      "title": "Scherma: cdm fioretto; tripletta delle azzurre a Plovdiv",
-      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/14/scherma-cdm-fioretto-tripletta-delle-azzurre-a-plovdiv_be7f3c20-6f78-41c4-a4cd-f8adce28e30e.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-11-14T20:16:32.000Z",
-      "excerpt": "Nella prova maschile in Bulgaria, argento di Marini",
-      "image": null
-    },
-    {
-      "title": "Belgio-Italia, omaggio della Nazionale alle vittime dell'Heysel",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/belgio-italia-omaggio-della-nazionale-alle-vittime-dellheysel_5bfa02ba-e0a8-4f0d-9c50-fc60a7a398ad.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-11-14T19:51:44.000Z",
-      "excerpt": "Malagò, Mancini, Ranieri e Scalvini: corona di fiori sulla lapide per i 39 morti nell'85",
-      "image": null
-    },
-    {
-      "title": "Nations League: Italia senza paura. Mancini: 'Bello giocarci i quarti con il Belgio'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/14/nations-league-italia-senza-paura.-mancini-bello-giocarci-i-quarti-con_d5d8b284-0b36-46fe-bf2b-d1642e3e4337.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-11-14T19:29:11.000Z",
-      "excerpt": "Gli Azzurri però perdono anche Cambiaghi. Scalvini: 'Essere in testa ci dà la spinta'",
-      "image": null
-    },
-    {
-      "title": "Eurobasket donne: l'Italia batte anche l'Austria, 71-49 a Vienna",
-      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/14/eurobasket-donne-litalia-batte-anche-laustria-71-49-a-vienna_ea08078c-ccd8-498a-b48b-4bee509d9610.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-11-14T19:15:38.000Z",
-      "excerpt": "Azzurre sempre avanti, Capobianco: 'Molto soddisfatto dell'approccio'",
       "image": null
     }
   ]
