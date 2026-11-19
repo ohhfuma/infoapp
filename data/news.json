@@ -1,38 +1,246 @@
 {
-  "lastUpdated": "2026-11-19T01:01:23.497Z",
+  "lastUpdated": "2026-11-19T09:04:14.793Z",
   "finanza": {
     "italia": [
+      {
+        "title": "Commerzbank, accordo di massima tra Unicredit e il governo tedesco",
+        "link": "https://www.repubblica.it/economia/2026/11/19/news/commerzbank_accordo_di_massima_tra_unicredit_e_il_governo_tedesco-425734094/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-19T09:01:33.000Z",
+        "excerpt": "Le indiscrezioni confermate dalla banca di Francoforte dove resteranno sede legale e listino di quotazione. Berlino rinuncia ai suoi rappresentanti nel consiglio di sorveglianza. Orcel disposto a rilevare anche il 13% an",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/19/091237960-15d6dfe7-0a71-4dd7-a02e-37f301abbd24.jpg"
+      },
+      {
+        "title": "Trenitalia torna a guardare al satellite per il web sui treni. E spunta Eutelsat",
+        "link": "https://www.repubblica.it/economia/2026/11/19/news/trenitalia_torna_a_guardare_al_satellite_per_il_web_sui_treni_e_spunta_eutelsat-425734139/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-19T08:55:31.000Z",
+        "excerpt": "Dopo la fuga in avanti di Italo, che usa Starlink, la società di Fs prova a recuperare. Partner è Icomera, che pensa sia a Elon Musk sia agli operatori satellitari comunitari. Ma l’idea di base delle Ferrovie pubbliche è",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/19/092701828-d893c473-69d4-49ba-8fe1-ca658c3a257a.jpg"
+      },
+      {
+        "title": "Sull'euro digitale trattative Ue nella notte, ma ancora fumata nera",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/sulleuro-digitale-trattative-ue-nella-notte-ma-ancora-fumata-nera_245ad49b-5eba-4e16-94b1-95bbcca4690c.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-19T08:48:15.000Z",
+        "excerpt": "Sul nodo delle sanzioni slitta l'ok atteso dal negoziato interistituzionale",
+        "image": null
+      },
       {
         "title": "In pensione con un assegno più alto. L’emendamento per le forze dell’ordine",
         "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/19/news/manovra_ecco_la_pensione_dedicata_per_polizia_e_forze_ordine-425733631/?rss",
         "source": "Repubblica Economia",
-        "pubDate": "2026-11-19T00:44:58.000Z",
+        "pubDate": "2026-11-19T08:45:02.000Z",
         "excerpt": "Arriva la previdenza dedicata per il comparto sicurezza. FI punta anche a cancellare del tutto il taglio alle rivalutazioni. La Lega vuole portare ad almeno un miliardo all’anno il fondo per finanziare l’uscita a 64 anni",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/19/014319949-b4b92ec8-ad09-4a43-87c7-6ef952e5fa08.jpg"
       },
       {
-        "title": "Interruzione informatica alla NSA colpisce struttura in Georgia",
-        "link": "https://it.investing.com/news/stock-market-news/interruzione-informatica-alla-nsa-colpisce-struttura-in-georgia-93CH-3656592",
+        "title": "Ft, 'filiale italiana di Deutsche Bank ha occultato le perdite per 800 milioni'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/ft-filiale-italiana-di-deutsche-bank-ha-occultato-le-perdite-per-800-milioni_b95dda57-639c-426b-b3a2-f1073b4cd09f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-19T08:44:08.000Z",
+        "excerpt": "La banca tedesca non ha mai reso pubblico lo scandalo né gli esiti di un'indagine interna",
+        "image": null
+      },
+      {
+        "title": "Borsa: Milano in rialzo dell'1%, balzo di Saipem",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-milano-in-rialzo-dell1-balzo-di-saipem_64e78b0f-c4ed-4248-959a-1b908cdc813a.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-19T08:39:11.000Z",
+        "excerpt": "Giù Snam e Campari. Lo spread tra Btp e Bund a 104 punti",
+        "image": null
+      },
+      {
+        "title": "Manovra, arriva l’estensione delle semplificazioni Zes. Meloni: «Procedure più semplici per investire e fare impresa»",
+        "link": "https://www.ilsole24ore.com/art/manovra-arriva-l-estensione-semplificazioni-zes-meloni-procedure-piu-semplici-investire-e-fare-impresa-AJozueLC",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-19T08:33:13.000Z",
+        "excerpt": "Le semplificazioni amministrative della Zes unica del Mezzogiorno estese progressivamente a tutta Italia per favorire l’attrazione degli investimenti produttivi, la crescita delle attività economiche e il rafforzamento d",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/20/Immagini/Ritagli/LP_24935817-U12833216451VPN-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Confcom, l'economia tiene ma resta il rischio dell'inflazione",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/confcom-leconomia-tiene-ma-resta-il-rischio-dellinflazione_6bd3efd0-129c-413a-ad9e-1960e3f91334.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-19T08:32:33.000Z",
+        "excerpt": "Stima è di una crescita del Pil dello 0,2% congiunturale e dell'1% tendenziale a novembre",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Johnson Matthey PLC è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-johnson-matthey-plc-e-in-rialzo-oggi-93CH-3657015",
         "source": "Investing.com Italia",
-        "pubDate": "2026-11-19T00:40:59.000Z",
+        "pubDate": "2026-11-19T08:31:10.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_S.jpg"
+      },
+      {
+        "title": "Il titolo di Aeroports de Paris SA balza del 4,6% dopo l’approvazione regolamentare",
+        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-aeroports-de-paris-sa-balza-del-46-dopo-lapprovazione-regolamentare-93CH-3657010",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-19T08:30:48.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Babcock International sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-babcock-international-sta-salendo-oggi-93CH-3657009",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-19T08:30:45.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
+      },
+      {
+        "title": "Le azioni Stratec salgono del 5% verso i massimi annuali dopo l’upgrade di Deutsche Bank",
+        "link": "https://it.investing.com/news/stock-market-news/le-azioni-stratec-salgono-del-5-verso-i-massimi-annuali-dopo-lupgrade-di-deutsche-bank-3657008",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-19T08:29:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg"
+      },
+      {
+        "title": "Ucraina, Meloni a Berlino dai Volenterosi con i paletti italiani: no a truppe sul terreno, ora agenda europea condivisa",
+        "link": "https://www.ilsole24ore.com/art/ucraina-meloni-berlino-volenterosi-i-paletti-italiani-no-truppe-terreno-ora-agenda-europea-condivisa-AJdw5aLC",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-19T08:28:54.000Z",
+        "excerpt": "Ci saranno anche gli emissari di Trump, Kared Kushner e Steve Witkoff, oggi a Berlino. Come anticipato sul Sole 24 Ore di martedì scorso, nella capitale tedesca insieme al summit...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/20/Immagini/Ritagli/dmf4114-1794851157844-U16820227442rPy-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Bayesian, indagine indipendente britannica ribalta la perizia italiana",
+        "link": "https://www.ilsole24ore.com/art/bayesian-indagine-indipendente-britannica-ribalta-perizia-italiana-AJZbdcLC",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-19T08:28:37.000Z",
+        "excerpt": "Secondo il Maib, l’equipaggio non era a conoscenza dei rischi critici legati al superyacht affondato a Porticello il 19 agosto 2024",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/20/Immagini/Ritagli/BAYESIAN-U27172084360TbM-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Cop31, attesa in giornata bozza del documento finale",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/cop31-attesa-in-giornata-bozza-del-documento-finale_2c638225-e2c0-43aa-8785-0dc2e1e164c1.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-19T08:27:41.000Z",
+        "excerpt": "Penultimo giorno e posizioni ancora lontane, probabile slittamento a sabato",
+        "image": null
+      },
+      {
+        "title": "Trasporto aereo, Aeroitalia via da Cagliari e Alghero dal 15 gennaio",
+        "link": "https://www.ilsole24ore.com/art/trasporto-aereo-aeroitalia-via-cagliari-e-alghero-15-gennaio-AJrBKbLC",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-19T08:22:52.000Z",
+        "excerpt": "Dopo gli annunci, l’ufficialità: dal 15 gennaio prossimo la compagnia Aeroitalia fermerà i collegamenti in continuità territoriale (ossia a tariffe fisse e...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/20/Immagini/Ritagli/Imagoeconomica_2661918-U72003702706wBf-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Perché il titolo Soitec SA è balzato oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-soitec-sa-e-balzato-oggi-93CH-3657000",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-19T08:22:35.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+      },
+      {
+        "title": "FTSE 100 oggi: titoli in calo, pessimismo dei consumatori UK; BoE avverte sull’energia",
+        "link": "https://it.investing.com/news/stock-market-news/ftse-100-oggi-titoli-in-calo-pessimismo-dei-consumatori-uk-boe-avverte-sullenergia-3657002",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-19T08:20:32.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA5I0BU_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Sage Group PLC è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-sage-group-plc-e-in-rialzo-oggi-93CH-3656999",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-19T08:19:57.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+      },
+      {
+        "title": "Perché il titolo di JD Sports Fashion PLC scende oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-jd-sports-fashion-plc-scende-oggi-93CH-3656988",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-19T08:18:59.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
       },
       {
-        "title": "Perché il titolo di Sunrise Energy Metals scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-sunrise-energy-metals-scende-oggi-93CH-3656591",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-19T00:37:30.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0D0_M.jpg"
+        "title": "Borsa: l'Europa apre in positiva, attesa per il debutto di Anthropic",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-leuropa-apre-in-positiva-attesa-per-il-debutto-di-anthropic_f15b7539-5e61-455c-8184-de83f4be88fd.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-19T08:14:50.000Z",
+        "excerpt": "Francoforte (+0,59%), Parigi (+0,58%) e Londra (+0,06%)",
+        "image": null
       },
       {
-        "title": "Il CEO di Cintas ha incontrato Trump per avanzare l’accordo da $5 mld con UniFirst",
-        "link": "https://it.investing.com/news/stock-market-news/il-ceo-di-cintas-ha-incontrato-trump-per-avanzare-laccordo-da-5-mld-con-unifirst-93CH-3656581",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-19T00:21:29.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_L.jpg"
+        "title": "Orcel, approccio collaborativo Klingbeil determinante per accordo",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/orcel-approccio-collaborativo-klingbeil-determinante-per-accordo_392add8d-1eb6-4d69-91ba-6c0a93ae4f7f.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-19T08:14:41.000Z",
+        "excerpt": "'Apprezziamo sostegno ministro tedesco su nostra strategia Unlocked'",
+        "image": null
+      },
+      {
+        "title": "Mimit, il prezzo medio self benzina scende a 1,948 euro, gasolio a 2,202 euro",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/mimit-il-prezzo-medio-self-benzina-scende-a-1948-euro-gasolio-a-2202_33f6f5f5-55ba-4dd5-8d95-4291b2bccfba.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-19T08:13:26.000Z",
+        "excerpt": "In autostrada prezzo medio self è di 1,985 per la verde e 2,264 per il diesel",
+        "image": null
+      },
+      {
+        "title": "Anthropic raccoglie oltre 107 miliardi di dollari nell’Ipo da record e supera SpaceX",
+        "link": "https://www.repubblica.it/economia/2026/11/19/news/anthropic_raccolta_azioni_collocamento_privato_ipo_nasdaq-425734058/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-19T08:03:14.000Z",
+        "excerpt": "L’azienda di IA di Dario e Daniela Amodei è pronta al debutto al Nasdaq: prezzo delle azioni fissato a 83 dollari l’una, atteso un rialzo del 20% in avvio",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/19/090258633-358a8d5c-e515-40d1-ac10-d98fa6b4cf6f.jpg"
+      },
+      {
+        "title": "Pensioni, da quota 64 anni all’inflazione: cosa c’è in manovra e cosa potrebbe cambiare",
+        "link": "https://www.ilsole24ore.com/art/pensioni-quota-64-anni-all-inflazione-cosa-c-e-manovra-e-cosa-potrebbe-cambiare-AJ2mQdKC",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-19T07:45:55.000Z",
+        "excerpt": "Pensioni materia incandescente. Il testo della manovra per il 2027, uscito dal consiglio dei ministri del 28 ottobre e passato alla Camera per l’esame parlamentare, è stato letteralmente...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/19/Immagini/Ritagli/AdobeStock_293196436-U45340767365aTk-1440x752@IlSole24Ore-Web.jpeg"
+      },
+      {
+        "title": "Per collaboratori e partite Iva non ordiniste lo spettro di redditi bassi e pensioni da fame ",
+        "link": "https://www.ilsole24ore.com/art/per-collaboratori-e-partite-iva-non-ordiniste-spettro-redditi-bassi-e-pensioni-fame-AJpxbjKC",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-19T07:43:42.000Z",
+        "excerpt": "Sono fuori dai radar della legge di Bilancio 2027 che si occupa dei professionisti “di serie A” - fino a 100mila euro di reddito annuo, beneficiari della flat...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/19/Immagini/Ritagli/AdobeStock_91372934-U70000142585San-1440x752@IlSole24Ore-Web.jpeg"
+      },
+      {
+        "title": "Allarmi bomba, il Viminale avvia la mappatura dei siti a rischio e potenzia il Centro Situazioni",
+        "link": "https://www.ilsole24ore.com/art/allarmi-bomba-viminale-avvia-mappatura-siti-rischio-e-potenzia-centro-situazioni-AJjUKOJC",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-19T07:36:59.000Z",
+        "excerpt": "Dalle scuole agli ospedali, parte la ricognizione con i prefetti delle strutture potenzialmente esposte alle minacce. Nuove funzioni di analisi delle campagne di email bombing, con il coinvolgimento della Polizia Postale",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/18/Immagini/Ritagli/f0770cf32ff00a6b2bc0f39e5fd91c82-U61118024715EsG-1440x752@IlSole24Ore-Web.jpg"
+      },
+      {
+        "title": "Manovra, stop alle ritenute sulle fatture fino a 3mila euro",
+        "link": "https://www.ilsole24ore.com/art/manovra-stop-ritenute-fatture-fino-3mila-euro-AJhY4JLC",
+        "source": "Il Sole 24 Ore",
+        "pubDate": "2026-11-19T06:30:05.000Z",
+        "excerpt": "Micro e piccole fatture fuori dall’obbligo di ritenuta tra imprese a partire dal 2028. Sarebbe questa una delle novità che verrà introdotta in manovra durante il passaggio parlamentare. Con un...",
+        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/01/Immagini/Ritagli/AdobeStock_199513620-U40888185805Ryr-1440x752@IlSole24Ore-Web.jpeg"
+      },
+      {
+        "title": "Sciopero generale del 20 novembre, orari e modalità tutto quello che c’è da sapere",
+        "link": "https://www.repubblica.it/economia/2026/11/19/news/sciopero_generale_del_20_novembre_orari_e_modalita_tutto_quello_che_c_e_da_sapere-425733104/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-19T04:00:00.000Z",
+        "excerpt": "Un venerdì difficile per tutti i lavoratori del settore pubblico e privato, ecco chi nelle diverse città italiane dovrà affrontare più disagi",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/195402473-c2cda897-c946-4e09-a603-a13db114bf89.jpg"
+      },
+      {
+        "title": "Pagamenti a rate, da domani nuove regole: cosa cambia",
+        "link": "https://www.repubblica.it/economia/2026/11/19/news/pagamenti_a_rate_da_domani_nuove_regole_cosa_cambia-425733099/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-19T04:00:00.000Z",
+        "excerpt": "La direttiva europea sul credito al consumo dal 20 novembre dovrà essere applicata da tutti gli operatori del settore. Arrivano i controlli sul merito creditizio e più protezione da pubblicità fuorvianti",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/195213926-98575e1a-b623-4988-99ee-b37d2dfc7dc9.jpg"
       },
       {
         "title": "Corsa alla presidenza Bce, de Cos ricevuto da Meloni e ancora in pole position per la nomina",
@@ -49,214 +257,6 @@
         "pubDate": "2026-11-19T00:00:00.000Z",
         "excerpt": "Con questo prezzo la società dell’IA raccoglierebbe circa 94 miliardi e spingerebbe la valutazione totale della compagnia sopra i 1400 miliardi",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/231258671-7909c67b-0ded-43a7-b9d1-7b53d7d771d2.jpg"
-      },
-      {
-        "title": "L’economia di Schlein: “Per il nostro governo la priorità sarà la crescita”",
-        "link": "https://www.repubblica.it/economia/2026/11/19/news/schlein_opposizioni_programma_governo-425733559/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-19T00:00:00.000Z",
-        "excerpt": "La segretaria dem dopo il tour con le parti sociali: “Useremo il dialogo e non cambieremo quello che funziona”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/230753563-00391164-2b87-4e44-8eda-835043203c6e.jpg"
-      },
-      {
-        "title": "Rossi: “Ha ragione Orcel: il golden power su Banco Bpm è stato usato contro Unicredit”",
-        "link": "https://www.repubblica.it/economia/2026/11/19/news/banco_bpm_credit_agricole_unicredit_intervista_rossi-425733366/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-19T00:00:00.000Z",
-        "excerpt": "Per l’economista è difficile che il governo eserciti poteri speciali altrettanto forti nella fusione di Crédit Agricole Italia con la ex Popolare milanese",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/212738019-e3e6be16-f33c-410b-92fd-95414134b988.jpg"
-      },
-      {
-        "title": "Generali: “Crescita oltre i target e con Unicredit creiamo valore”",
-        "link": "https://www.repubblica.it/economia/2026/11/19/news/generali_alza_stime_utili_unicredit_valore-425733297/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-19T00:00:00.000Z",
-        "excerpt": "L’ad Donnet coglie l’assist del suo azionista e conferma la partnership E avverte: “Banca Generali non si vende”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/205710261-886ca84f-2ef3-4b4d-baa2-523513ba8194.jpg"
-      },
-      {
-        "title": "Il titolo di First US Bancshares sale grazie all’estensione del buyback",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-di-first-us-bancshares-sale-grazie-allestensione-del-buyback-3656537",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-18T22:53:22.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg"
-      },
-      {
-        "title": "Il titolo Markel Group balza dopo un buyback da 2,5 miliardi",
-        "link": "https://it.investing.com/news/stock-market-news/il-titolo-markel-group-balza-dopo-un-buyback-da-25-miliardi-3656535",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-18T22:51:45.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg"
-      },
-      {
-        "title": "Moody’s taglia l’outlook creditizio di Nvidia a stabile dopo l’uscita del CEO Jensen Huang",
-        "link": "https://it.investing.com/news/stock-market-news/moodys-taglia-loutlook-creditizio-di-nvidia-a-stabile-dopo-luscita-del-ceo-jensen-huang-3656524",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-18T22:44:05.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB3R08Z_M.jpg"
-      },
-      {
-        "title": "L’ex procuratore federale analizza la strategia legale di Nvidia dopo l’uscita di Huang",
-        "link": "https://it.investing.com/news/stock-market-news/lex-procuratore-federale-analizza-la-strategia-legale-di-nvidia-dopo-luscita-di-huang-3656496",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-18T22:14:04.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg"
-      },
-      {
-        "title": "Movimenti after-hours: PANW, CRWD, P, RRGB",
-        "link": "https://it.investing.com/news/stock-market-news/movimenti-afterhours-panw-crwd-p-rrgb-432SI-3656480",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-18T21:59:03.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEL6T0PD_L.jpg"
-      },
-      {
-        "title": "Sanità, Regioni in pressing: spunta l’ipotesi di più fondi tagliando la card anziani",
-        "link": "https://www.repubblica.it/economia/2026/11/18/news/sanita_regioni_card_anziani-425733547/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-18T21:56:54.000Z",
-        "excerpt": "Allo studio di Forza Italia il ridimensionamento dei beneficiari: solo over 75 con Isee a 15mila. Si risparmierebbero 800 milioni",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/225642909-c05e3839-82b0-4764-8149-1644c0742bed.jpg"
-      },
-      {
-        "title": "Lega, tensione nell’ala nordista dopo la sfiducia a Romeo in Senato",
-        "link": "https://www.ilsole24ore.com/art/lega-tensione-nell-ala-nordista-la-sfiducia-romeo-senato-AJuAlILC",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-18T20:47:04.000Z",
-        "excerpt": "Il day after la sfiducia dei senatori leghisti al capogruppo Massimiliano Romeo, sostituito con il “salviniano” Marco Dreosto, non è indolore nel Carroccio. Il redde rationem andato in...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/19/Immagini/Ritagli/5b9218f51b331057b052a194dda454b5-U73048427368pwi-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Manovra: dal condono al Superbonus, le misure che potrebbero cambiare",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/manovra-dal-condono-al-superbonus-le-misure-che-potrebbero-cambiare_238c3a05-adc8-4cb5-aa9b-0c85bb2a6524.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-18T20:13:32.000Z",
-        "excerpt": "Arriva la pensione dedicata per forze dell'ordine. Cambia il Superbonus",
-        "image": null
-      },
-      {
-        "title": "Animali: addio Gandalf, il cavallo bianco che ha commosso l’Italia è morto oggi",
-        "link": "https://www.ilsole24ore.com/art/animali-addio-gandalf-cavallo-bianco-che-ha-commosso-l-italia-e-morto-oggi-AJDuODLC",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-18T19:49:25.000Z",
-        "excerpt": "Il cavallo bianco che per oltre vent’anni aveva vissuto da solo nel borgo abbandonato di Gallena, sulle colline senesi, la cui storia due anni fa commosse l’Italia, è morto oggi...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/19/Immagini/Ritagli/gandalf-U07518650538lXQ-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Il petrolio chiude in calo a New York a 83,26 dollari",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/il-petrolio-chiude-in-calo-a-new-york-a-8326-dollari_6324a510-a775-4090-9c8a-4adfc3564ac0.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-18T19:41:30.000Z",
-        "excerpt": "Quotazioni perdono il 3,20%",
-        "image": null
-      },
-      {
-        "title": "Due morti in cantieri edili a Treviso e Palermo",
-        "link": "https://www.ilsole24ore.com/art/due-morti-cantieri-edili-treviso-e-palermo-AJn2XCLC",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-18T19:20:54.000Z",
-        "excerpt": "Doveva essere un ordinario sopralluogo su uno stabile destinato alla demolizione ma le prime operazioni di verifica della staticità di un solaio ne hanno provocato il crollo improvviso, provocando la...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/19/Immagini/Ritagli/mwlxnj0aaq2iv2qip9o-U11371025466cZH-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Quasi tutti all'interno della Fed favorevoli a un rialzo dei tassi",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/quasi-tutti-allinterno-della-fed-favorevoli-a-un-rialzo-dei-tassi_70b8aae5-eef9-4c0b-a8d1-8d81e7d3a2bc.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-18T19:09:43.000Z",
-        "excerpt": "I verbali dell'ultima riunione, in due hanno ipotizzato oltre un quarto di punto",
-        "image": null
-      },
-      {
-        "title": "Manovra: FI, per pmi spalmatura dei crediti del Superbonus dimezzata su 5 anni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/manovra-fi-per-pmi-spalmatura-dei-crediti-del-superbonus-dimezzata-su-5-anni_93f8a68f-91a2-4b74-9543-ac00fbb83d63.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-18T18:58:15.000Z",
-        "excerpt": "La misura vale anche per le micro. Tetto dei crediti fino a 500mila euro",
-        "image": null
-      },
-      {
-        "title": "Saipem chiude i 9 mesi con ricavi per 11,5 miliardi, utile 210 milioni",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/saipem-chiude-i-9-mesi-con-ricavi-per-115-miliardi-utile-210_b8ae00cc-e478-4b14-8e84-ef09c1931d8a.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-18T18:22:39.000Z",
-        "excerpt": "Ordini acquisiti oltre gli 11 miliardi. Confermate le stime sul 2026",
-        "image": null
-      },
-      {
-        "title": "Black Friday, attenzione alla false occasioni e promozioni",
-        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/le-storie/2026/11/18/news/black_friday_attenzione_alla_false_occasioni_e_promozioni-425733001/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-18T18:00:37.000Z",
-        "excerpt": "Secondo uno studio condotto dalla Commissione europea, tre venditori online su dieci non rispettano le regole previste in materia di scontistica. Tra i rischi, spese obbligatorie durante l’acquisto e l’inserimento nel ca",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/190032015-f389bd10-9a06-419e-8906-20a2711dfb6c.jpg"
-      },
-      {
-        "title": "Arriva pensione dedicata per forze dell'ordine, calcolo con fino a 4 anni in più",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/arriva-pensione-dedicata-per-forze-dellordine-calcolo-con-fino-a-4-anni_5ba5c97f-8e09-434d-b81f-25e3e5473482.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-18T17:58:50.000Z",
-        "excerpt": "Bozza emendamento del governo alla manovra, subito coefficiente con 2 anni in più",
-        "image": null
-      },
-      {
-        "title": "Da FdI 7 emendamenti sul condono,anche per piccole opere finite entro settembre 2025",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/da-fdi-7-emendamenti-sul-condonoanche-per-piccole-opere-finite-entro-settembre_6cde67d0-b926-4a8c-8f20-a84c51adf97a.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-18T17:55:45.000Z",
-        "excerpt": "Comuni devono completare istruttorie entro il 30 giugno 2027. Regioni decidono se riaprire",
-        "image": null
-      },
-      {
-        "title": "Clima, ecco come El Niño e il vortice polare artico potrebbero influenzare l’inverno europeo",
-        "link": "https://www.ilsole24ore.com/art/clima-ecco-come-el-nino-e-vortice-polare-artico-potrebbero-influenzare-l-inverno-europeo-AJ6h9wJC",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-18T17:55:32.000Z",
-        "excerpt": "Il vortice, secondo gli esperti, si sta indebolendo insolitamente presto quest’anno. La conseguenza è il rischio di temperature più rigide",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/18/Immagini/Ritagli/El_Nino_and_the_sea_surface_pillars-U17353875738gUt-1440x752@IlSole24Ore-Web.png"
-      },
-      {
-        "title": "Gusmeroli, emendamento Lega per aumentare di 3 punti l'Ires alle banche",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/gusmeroli-emendamento-lega-per-aumentare-di-3-punti-lires-alle-banche_d66d7e74-1db8-4f74-8de9-63cb8032c937.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-18T17:50:01.000Z",
-        "excerpt": "Una proposta di modifica anche per chiudere le liti fiscali",
-        "image": null
-      },
-      {
-        "title": "Bce: Meloni ha ricevuto a Palazzo Chigi lo spagnolo de Cos, in pole per la presidenza",
-        "link": "https://www.ilsole24ore.com/art/bce-meloni-ha-ricevuto-palazzo-chigi-spagnolo-de-cos-pole-la-presidenza-AJrPQwKC",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-18T16:44:00.000Z",
-        "excerpt": "La presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi a Palazzo Chigi l’economista Pablo Hernández de Cos, ex Governatore della Banca di Spagna e candidato in pole alla presidenza della...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/19/Immagini/Ritagli/Imagoeconomica_2854569-Collage-U73447824356wuz-U86435126523WQK-1440x752@IlSole24Ore-Web.JPEG"
-      },
-      {
-        "title": "Anac, il nuovo presidente sarà Remo Morzenti",
-        "link": "https://www.ilsole24ore.com/art/anac-nuovo-presidente-sara-remo-morzenti-AJ7uksKC",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-18T16:37:35.000Z",
-        "excerpt": "Il Governo ci riprova. Dopo il ritiro dalla corsa di Nuccio Altieri, ex deputato leghista travolto dalle polemiche, oggi il Consiglio dei ministri indicherà Remo Morzenti Pellegrini alla presidenza dell’Autorità...",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/19/Immagini/Ritagli/ilsolematera_20261118164544552_e3fec6d239731bc58aabc89c5dd6a4a5-U67872416563QJm-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Allarmi bomba, identificato Mikhail Andropov: è un cittadino Usa ma non ha mandato lui gli allarmi",
-        "link": "https://www.ilsole24ore.com/art/allarmi-bomba-identificato-mikhail-andropov-e-cittadino-usa-ma-non-ha-mandato-lui-allarmi-AJ7AtoKC",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-18T15:49:25.000Z",
-        "excerpt": "Lo pseudonimo è stato rintracciato dai Carabinieri di Napoli negli Stati Uniti.",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/19/Immagini/Ritagli/mwdo8u9ynlvsrrmb7r-U44275602818kDy-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "Spazio, sui satelliti militari la Nato gioca la carta “Starlift”. In campo anche l’Italia",
-        "link": "https://www.ilsole24ore.com/art/spazio-satelliti-militari-nato-gioca-carta-starlift-campo-anche-l-italia-AJs0tiJC",
-        "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-18T14:27:14.000Z",
-        "excerpt": "Attraverso Starlift gli Alleati europei e il Canada si stanno assumendo una maggiore responsabilità per la sicurezza condivisa nello spazio, rafforzando le capacità alleate, la cooperazione transatlantica, nonché la dete",
-        "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/18/Immagini/Ritagli/starlift-U87115070018Jbx-1440x752@IlSole24Ore-Web.jpeg"
       }
     ],
     "europa": [
@@ -277,7 +277,7 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
       },
       {
-        "title": "Senti Biosciences completa il raggruppamento azionario 1 per 33",
+        "title": "Senti Biosciences completa il raggruppamento azionario di 1 azione ogni 33",
         "link": "https://www.investing.com/news/sec-filings/senti-biosciences-completes-1for33-reverse-stock-split-93CH-5037288",
         "source": "Investing.com Eurozona",
         "pubDate": "2026-11-18T22:39:27.000Z",
@@ -293,7 +293,7 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
       },
       {
-        "title": "Gli azionisti di Tilray Brands rieleggono gli amministratori, approvano il revisore e respingono le modifiche al consiglio di amministrazione",
+        "title": "Gli azionisti di Tilray Brands rieleggono gli amministratori, approvano il revisore dei conti e respingono le modifiche al consiglio di amministrazione",
         "link": "https://www.investing.com/news/sec-filings/tilray-brands-shareholders-reelect-directors-approve-auditor-reject-board-changes-93CH-5037272",
         "source": "Investing.com Eurozona",
         "pubDate": "2026-11-18T22:32:50.000Z",
@@ -392,20 +392,116 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Sheinbaum virale in Cina dopo l'arrivo al vertice Apec su un volo commerciale",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/19/sheinbaum-virale-in-cina-dopo-larrivo-al-vertice-apec-su-un-volo-commerciale_169284bc-a51a-4af9-b607-58f1953f6c62.html",
+        "title": "Xi e Trump, vertice Cina-Russia-Usa ha portata storica",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/xi-e-trump-vertice-cina-russia-usa-ha-portata-storica_0949975a-e8dc-42a3-87e5-19e3b8bbff46.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-19T00:25:26.000Z",
-        "excerpt": "Oltre 10,2 milioni di visite su Weibo, elogiata la politica di austerità",
+        "pubDate": "2026-11-19T08:52:29.000Z",
+        "excerpt": "I leader all'inizio del trilaterale a Shenzhen",
         "image": null
       },
       {
-        "title": "Haiti, nessuna data per il ritiro delle truppe di El Salvador",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/19/haiti-nessuna-data-per-il-ritiro-delle-truppe-di-el-salvador_61e39c56-69e8-4f9b-acdc-fb245e671008.html",
+        "title": "Putin, Russia-Usa-Cina hanno ruolo fondamentale in risoluzione conflitti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/putin-russia-usa-cina-hanno-ruolo-fondamentale-in-risoluzione-conflitti_345b1a10-98dc-47d7-9a86-8c28f960ec12.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-19T00:17:59.000Z",
-        "excerpt": "Il ministro Pélissier lega la permanenza alle elezioni del 2027",
+        "pubDate": "2026-11-19T08:49:39.000Z",
+        "excerpt": "",
         "image": null
+      },
+      {
+        "title": "Trump, 'con Putin lunga discussione sulla guerra, spero voglia la fine'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/trump-con-putin-lunga-discussione-sulla-guerra-spero-voglia-la-fine_1e114882-1817-4478-b6f7-8442f258c9e8.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-19T08:48:22.000Z",
+        "excerpt": "'Non consentiremo all'Iran di avere un'arma nucleare'",
+        "image": null
+      },
+      {
+        "title": "Iniziato il trilaterale Trump-Xi-Putin",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/iniziato-il-trilaterale-trump-xi-putin_c9512618-3522-46d1-806e-73f418afd6fb.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-19T08:34:39.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "Trump: “Non ci serve l’aiuto di Cina e Russia sull’Iran”. E accusa Obama di aver favorito la loro alleanza",
+        "link": "https://www.repubblica.it/esteri/2026/11/19/news/trump_apec_shenzhen_iran_cina_russia_xi_putin_obama_dazi-425733711/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-19T08:31:00.000Z",
+        "excerpt": "ll presidente Usa minaccia Teheran: “Se userà una bomba sporca, la annienteremo”. Xi mette in guardia contro i dazi e le guerre commerciali e chiede una cooperazione “aperta e integrata” tra i Paesi dell’Asia-Pacifico",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/19/054453593-f04923c2-3004-4f5f-865f-6bb966a6bdd2.jpg"
+      },
+      {
+        "title": "Xi avvisa Trump su Taiwan, Usa facciano la cosa giusta per evitare crisi di rapporti",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/xi-avvisa-trump-su-taiwan-usa-facciano-la-cosa-giusta-per-evitare-crisi_8d223a72-c30d-44a9-a4c3-b5e415a69f63.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-19T08:29:21.000Z",
+        "excerpt": "L'avvertimento nel corso del bilaterale con il presidente americano",
+        "image": null
+      },
+      {
+        "title": "Haiti, migliaia in piazza invocano Bukele. La rappresaglia delle gang: fucilazioni in strada",
+        "link": "https://www.repubblica.it/esteri/2026/11/19/news/haiti_migliaia_in_piazza_invocano_bukele_rappresaglia_gang_controlli_fucilazioni_strada-425734113/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-19T08:22:04.000Z",
+        "excerpt": "Dopo le imponenti manifestazioni di domenica, che inneggiavano a un intervento del presidente del Salvador contro i gruppi criminali che controllano oramai l’80% del Paese, i miliziani hanno formato posti di blocco per p",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/19/092124180-044bd737-6a88-41be-ae40-4e7702a6855b.jpg"
+      },
+      {
+        "title": "Apec, Sheinbaum chiede un'economia senza perdenti e prosperità condivisa",
+        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/19/apec-sheinbaum-chiede-uneconomia-senza-perdenti-e-prosperita-condivisa_d3f57ea0-0be4-4ba3-9225-d49519a00ff8.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-19T08:08:48.000Z",
+        "excerpt": "Intervento alla plenaria di Shenzhen, il Messico ospiterà il vertice nel 2028",
+        "image": null
+      },
+      {
+        "title": "Trump, Usa e Cina vogliono contribuire a porre fine alla guerra in Ucraina",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/trump-usa-e-cina-vogliono-contribuire-a-porre-fine-alla-guerra-in-ucraina_2fa90c2d-5093-4a39-9cea-58e0982e9c6c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-19T07:19:17.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "Nuovo attacco a quartiere finanziario di Riad, danni a torre del fondo sovrano saudita",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/19/nuovo-attacco-a-quartiere-finanziario-di-riad-danni-a-torre-del-fondo-sovrano_1da4f102-c702-4eb4-86be-ebece3e650a0.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-19T07:18:53.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "I prezzi del petrolio si mantengono stabili mentre gli attacchi ai trasporti marittimi in Medio Oriente contrastano le prospettive di un'eccedenza dell'offerta",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-19T07:18:23.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAI07O_L.jpg"
+      },
+      {
+        "title": "L'oro rimbalza dai minimi di 14 mesi con l'emergere degli speculatori nonostante i rischi di rialzo della Fed",
+        "link": "https://www.investing.com/news/commodities-news/gold-rebounds-from-14month-low-as-bargain-hunters-emerge-despite-fed-hike-risks-5037506",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-19T05:51:48.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA5T0CX_M.jpg"
+      },
+      {
+        "title": "I prezzi del petrolio salgono leggermente in seguito alla notizia secondo cui Trump starebbe valutando ulteriori attacchi contro l'Iran",
+        "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-report-says-trump-considering-more-iran-strikes-5037588",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-19T02:33:26.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA7O0S8_M.jpg"
+      },
+      {
+        "title": "“A dettare l’agenda del vertice di Shenzhen saranno solo Mosca e Pechino”",
+        "link": "https://www.repubblica.it/esteri/2026/11/19/news/intervista_rana_mitter_trilaterale_shenzhen_putin_xi_trump-425732934/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-19T00:00:00.000Z",
+        "excerpt": "Rana Mitter, storico e politologo britannico e professore ad Harvard: “Appaiono più importanti i temi rimasti fuori agenda”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/182515576-7e77e2be-4905-4527-b8be-35b207a55c46.jpg"
       },
       {
         "title": "Incursione israeliana a Gaza, soldati e tank tra le tende: civili nuovamente in fuga",
@@ -436,7 +532,7 @@
         "link": "https://www.repubblica.it/esteri/2026/11/19/news/stephen_hickey_intervista_ambasciatore_britannico_brexit_giovani_tasse_universitarie-425733334/?rss",
         "source": "Repubblica Esteri",
         "pubDate": "2026-11-19T00:00:00.000Z",
-        "excerpt": "Stephen Hickey, dopo la visita a “Repubblica”: “Siamo in una nuova fase, come dimostreranno il vertice di Bruxelles e gli accordi ambiziosi che produrrà. Burnham vuole un rapporto molto più stretto con la Ue e dopo il 20",
+        "excerpt": "Parla Stephen Hickey, dopo la visita a “Repubblica” e alla vigilia del vertice Brexit tra Uk e Ue: “Siamo in una nuova fase. Burnham vuole un rapporto molto più stretto con la Ue ma fino al 2029 ci sono vincoli. Cinque c",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/210615900-913b9acc-8f4d-45e8-956d-33deeafc4486.jpg"
       },
       {
@@ -448,52 +544,12 @@
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/204117188-edc8710d-9588-48fb-8ad1-b5ece55f57d6.jpg"
       },
       {
-        "title": "Xi, l’abbraccio in stile Mao a Trump per ergersi al pari degli Usa e contenere l’anatra zoppa",
-        "link": "https://www.repubblica.it/esteri/2026/11/19/news/xi_abbraccio_trump_mao_krusciov_1959_cina_usa-425733246/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-19T00:00:00.000Z",
-        "excerpt": "Il leader cinese ha atteso il tycoon ai piedi dell’Air Force One: l’ultimo a farlo fu il Timoniere nel 1959 con Krusciov",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/203141199-45b7e757-b4f2-4b8e-aeaf-1565e8963313.jpg"
-      },
-      {
-        "title": "A Taiwan paura e negazione: \"Noi tra Cina e Usa, un gambero tra due squali\"",
-        "link": "https://www.repubblica.it/esteri/2026/11/19/news/taiwan_reportage_shenzhen_cina_stati_uniti-425732955/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-19T00:00:00.000Z",
-        "excerpt": "Se il governo e gli analisti si preparano a una possibile invasione e osservano con timore il summit di Shenzhen tra Trump, Xi e Putin, la popolazione è spaccata. Una parte frequenta corsi di sopravvivenza come quello de",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/183619853-cb56988a-18e1-4640-8782-8bd3c46aabc4.jpg"
-      },
-      {
-        "title": "“A dettare l’agenda del vertice di Shenzhen saranno solo Mosca e Pechino”",
-        "link": "https://www.repubblica.it/esteri/2026/11/19/news/intervista_rana_mitter_trilaterale_shenzhen_putin_xi_trump-425732934/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-19T00:00:00.000Z",
-        "excerpt": "Rana Mitter, storico e politologo britannico e professore ad Harvard: “Appaiono più importanti i temi rimasti fuori agenda”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/18/182515576-7e77e2be-4905-4527-b8be-35b207a55c46.jpg"
-      },
-      {
-        "title": "Mosca, 'nuovo attacco degli ucraini al ponte in Crimea'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/mosca-nuovo-attacco-degli-ucraini-al-ponte-in-crimea_1691202c-a4df-4ca1-8983-8c42e8d60188.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-18T23:26:32.000Z",
-        "excerpt": "Tass: 'Lo ha dichiarato il governatore'",
-        "image": null
-      },
-      {
         "title": "I prezzi del petrolio scendono poiché il miglioramento delle forniture supera le tensioni in corso in Medio Oriente",
         "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-markets-parse-meast-tensions-us-inventory-build-5034529",
         "source": "Investing.com Commodities",
         "pubDate": "2026-11-18T22:29:03.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEE4G1TT_M.jpg"
-      },
-      {
-        "title": "Principe Harry, 'Russia minaccia preoccupante, pronto a tornare nelle Forze Armate'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/principe-harry-russia-minaccia-preoccupante-pronto-a-tornare-nelle-forze-armate_c677f3ad-1515-4e53-ade3-7b4db62df64b.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-18T22:18:29.000Z",
-        "excerpt": "Intervista al Telegraph: 'Regno Unito in conflitto con Mosca ormai da un decennio'",
-        "image": null
       },
       {
         "title": "L'oro spot perde oltre il 3% e scende sotto i 3.800 $/oncia per la prima volta da settembre 2025",
@@ -504,15 +560,7 @@
         "image": "https://content-media.investing.com/news/moved_LYNXMPEHAA062_L.jpg"
       },
       {
-        "title": "Nando Dalla Chiesa ricevuto dal presidente della Corte Suprema in Argentina",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/18/nando-dalla-chiesa-ricevuto-dal-presidente-della-corte-suprema-in-argentina_cc808563-aac7-4484-b412-ba09545cd65e.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-18T21:27:04.000Z",
-        "excerpt": "'Condivise esperienze su contrasto alla mafia e ruolo della magistratura nella democrazia'",
-        "image": null
-      },
-      {
-        "title": "I futures sul mais del CBOT scendono al minimo degli ultimi 4 mesi e mezzo a causa della forza del dollaro",
+        "title": "I futures sul mais del CBOT scendono al minimo degli ultimi 4 mesi e mezzo a causa del rafforzamento del dollaro",
         "link": "https://www.investing.com/news/commodities-news/cbot-corn-futures-drop-to-412month-low-on-dollar-strength-93CH-5037076",
         "source": "Investing.com Commodities",
         "pubDate": "2026-11-18T21:20:53.000Z",
@@ -520,7 +568,7 @@
         "image": "https://content-media.investing.com/news/LYNXNPEE1K26T_M.jpg"
       },
       {
-        "title": "I futures sulla colza dell'ICE scendono a causa dell'indebolimento degli oli vegetali e del greggio",
+        "title": "I futures sulla colza dell'ICE scendono a causa dell'indebolimento degli oli vegetali e del petrolio greggio",
         "link": "https://www.investing.com/news/commodities-news/ice-canola-futures-fall-as-vegoils-and-crude-oil-weaken-93CH-5036925",
         "source": "Investing.com Commodities",
         "pubDate": "2026-11-18T20:21:02.000Z",
@@ -534,188 +582,164 @@
         "pubDate": "2026-11-18T20:08:10.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/wheat_2_M_1440047849.jpg"
-      },
-      {
-        "title": "I prezzi del petrolio scendono mentre gli operatori valutano le prospettive di un'offerta in eccesso",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks-5034544",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-18T20:00:39.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAH05V_L.jpg"
-      },
-      {
-        "title": "Delcy Rodríguez su accordo militare con gli Usa, 'passo significativo nelle relazioni'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/18/delcy-rodriguez-su-accordo-militare-con-gli-usa-passo-significativo-nelle_54c06fd7-3b8e-4287-905a-30a239b9479c.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-18T19:30:41.000Z",
-        "excerpt": "'Superati i momenti difficili, dimostrazione di maturità politica dei nostri governi'",
-        "image": null
-      },
-      {
-        "title": "Al via in Argentina una nuova edizione dell'Open Week dell'Agenzia Spaziale Europea",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/18/al-via-in-argentina-una-nuova-edizione-dellopen-week-dellagenzia-spaziale-europea_0ba97972-acb4-4b4f-9cc9-895ef168d164.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-18T18:33:32.000Z",
-        "excerpt": "Annunciato il futuro potenziamento della stazione spaziale Deep Space 3 di Malargüe",
-        "image": null
-      },
-      {
-        "title": "Channel 12, 'Israele valuta attacco all'Iran nei prossimi giorni'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/18/channel-12-israele-valuta-attacco-alliran-nei-prossimi-giorni_02e75191-af93-4050-ab1c-f2c66aea31d2.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-18T18:27:17.000Z",
-        "excerpt": "I leader del Blocco del Cambiamento hanno discusso dello stato di emergenza del Paese",
-        "image": null
-      },
-      {
-        "title": "L'OPEC prende posizione a favore dei combustibili fossili ai negoziati sul clima della COP31",
-        "link": "https://www.investing.com/news/commodities-news/opec-speaks-up-for-fossil-fuels-at-cop31-climate-talks-5036493",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-18T17:00:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAH1K2_L.jpg"
-      },
-      {
-        "title": "Il petrolio scivola sulle previsioni di eccedenza mentre il premio di rischio di Hormuz svanisce",
-        "link": "https://www.investing.com/news/commodities-news/oil-slides-on-surplus-outlook-as-hormuz-risk-premium-fades-93CH-5036691",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-18T16:51:36.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM6Q18J_1200_L.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "Il lusso sta cambiando, addio logomania, è la Legitimacy Era",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/17/il-lusso-sta-cambiando-addio-logomania-e-la-legitimacy-era_bed062ea-3f50-409f-aaee-41ff2ca73731.html",
+      "title": "Putin: 'Russia, Usa e Cina hanno un ruolo fondamentale nella risoluzione dei conflitti'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/iniziato-il-trilaterale-tra-trump-xi-e-putin_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
       "source": "ANSA",
-      "pubDate": "2026-11-18T22:13:49.000Z",
-      "excerpt": "Qualità, autenticità e trasparenza diventano valori decisivi, i consumatori aspirazionali la forza del settore",
+      "pubDate": "2026-11-19T08:48:24.000Z",
+      "excerpt": "In corso l'incontro trilaterale, il presidente Usa: 'Stiamo facendo la storia'",
       "image": null
     },
     {
-      "title": "Cobolli si arrende, Alcaraz irresistibile",
-      "link": "https://www.repubblica.it/sport/rubriche/monday-s-net/2026/11/18/news/cobolli_si_arrende_alcaraz_irresistibile-425733571/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-18T22:13:30.000Z",
-      "excerpt": "La rubrica Monday’s Net",
-      "image": null
-    },
-    {
-      "title": "Sanità, Regioni in pressing: spunta l’ipotesi di più fondi tagliando la card anziani",
-      "link": "https://www.repubblica.it/economia/2026/11/18/news/sanita_regioni_card_anziani-425733547/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-18T21:56:54.000Z",
-      "excerpt": "Allo studio di Forza Italia il ridimensionamento dei beneficiari: solo over 75 con Isee a 15mila. Si risparmierebbero 800 milioni",
-      "image": null
-    },
-    {
-      "title": "Atp Finals: Cobolli crolla con Tiafoe, sfumano le semifinali ",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/18/atp-finals-cobolli-crolla-con-tiafoe-sfumano-le-semifinali-_e8d16eb9-9af9-429a-a084-310b0d445171.html",
+      "title": "Elizabeth Debicki da Lady Diana alla Hollywood di Tarantino, 'il cinema è terapia'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/18/elizabeth-debicki-da-lady-diana-alla-hollywood-di-tarantino-il-cinema-e-terapia_2c6e132c-1082-4a74-8953-0d7495baaec2.html",
       "source": "ANSA",
-      "pubDate": "2026-11-18T21:17:36.000Z",
-      "excerpt": "Statunitense vince 7-6 6-0",
+      "pubDate": "2026-11-19T08:17:59.000Z",
+      "excerpt": "L'attrice conquista Brad Pitt in 'Le nuove avventure di Cliff Booth' di David Fincher",
       "image": null
     },
     {
-      "title": "Xi rinsalda l'asse con Putin, poi l'abbraccio con Trump",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-rinsalda-lasse-con-putin-poi-labbraccio-con-trump_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+      "title": "Jenkins, Ruffalo, Swinton, Gibney e Binoche tra gli artisti mobilitati per Panahi",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/18/jenkins-ruffalo-swinton-gibney-e-binoche-tra-gli-artisti-mobilitati-per_cb007421-649c-455b-a578-646e97d317ed.html",
       "source": "ANSA",
-      "pubDate": "2026-11-18T20:52:16.000Z",
-      "excerpt": "Russia e Cina: 'Ordine mondiale multipolare, noi la stabilità'. Il tycoon parla con lo zar",
+      "pubDate": "2026-11-19T08:05:01.000Z",
+      "excerpt": "Appello con centinaia di nomi in difesa del cineasta iraniano",
       "image": null
     },
     {
-      "title": "'Futuro Nazionale viola la legge Scelba', la Procura di Roma apre un fascicolo",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/futuro-nazionale-viola-la-legge-scelba-la-procura-di-roma-apre-un-fascicolo_a3af0102-2a85-40ca-9ff0-e03b981a65b6.html",
+      "title": "Anthropic raccoglie oltre 107 miliardi di dollari nell’Ipo da record e supera SpaceX",
+      "link": "https://www.repubblica.it/economia/2026/11/19/news/anthropic_raccolta_azioni_collocamento_privato_ipo_nasdaq-425734058/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-19T08:03:14.000Z",
+      "excerpt": "L’azienda di IA di Dario e Daniela Amodei è pronta al debutto al Nasdaq: prezzo delle azioni fissato a 83 dollari l’una, atteso un rialzo del 20% in avvio",
+      "image": null
+    },
+    {
+      "title": "Tangenti Marche, Schlein e Conte contro Acquaroli: “Sapeva tutto, deve dimettersi”",
+      "link": "https://www.repubblica.it/politica/2026/11/19/news/tangenti_marche_acquaroli_dimissioni_schlein_conte-425734017/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-19T07:48:41.000Z",
+      "excerpt": "Le intercettazioni spiegano che il presidente conosceva i traffici dell’ex capo di gabinetto Pistarelli, ma non andò in procura. Il governatore: “Mi ha chiesto un aiuto e io non ho fatto nulla”. Fratelli d’Italia: “È sta",
+      "image": null
+    },
+    {
+      "title": "L'Ue rinvia al 2029 la stretta sul metano",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/lue-rinvia-al-2029-la-stretta-sul-metano_41f23e1e-14f0-40de-b099-588e6760c0df.html",
       "source": "ANSA",
-      "pubDate": "2026-11-18T19:00:41.000Z",
-      "excerpt": "Esposto del Sindacato dei militari. Il legale di Vannacci: 'Accuse inconsistenti'",
+      "pubDate": "2026-11-19T07:27:24.000Z",
+      "excerpt": "L'intesa dopo le trattative svolte durante la notte",
       "image": null
     },
     {
-      "title": "Xi accoglie Trump all'aeroporto di Shenzhen e lo abbraccia",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-accoglie-trump-allaeroporto-di-shenzhen-e-lo-abbraccia_17e71e32-b3bf-40a2-8db8-97caa2c1d4c1.html",
+      "title": "Si ribalta barca con migranti a Lampedusa, dispersa una bimba di 6 anni",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/si-ribalta-barca-con-migranti-a-lampedusa-dispersa-bimba-di-6-anni_51f568ca-d4cd-48b4-ab1b-8a71222fe119.html",
       "source": "ANSA",
-      "pubDate": "2026-11-18T18:48:28.000Z",
-      "excerpt": "Cnn, 'il leader comunista non era mai andato in aeroporto per ricevere un presidente Usa'",
+      "pubDate": "2026-11-19T06:48:23.000Z",
+      "excerpt": "Cinquanta naufraghi salvati e portati sull'isola",
       "image": null
     },
     {
-      "title": "Eurodeputati M5S nella lista nera degli “anti Kiev”, la denuncia di Conte. Tajani chiede spiegazioni",
-      "link": "https://www.repubblica.it/politica/2026/11/18/news/eurodeputati_m5s_lista_nera_anti_ucraina_conte_tajani-425733036/",
+      "title": "In pensione con un assegno più alto. L’emendamento per le forze dell’ordine",
+      "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/19/news/manovra_ecco_la_pensione_dedicata_per_polizia_e_forze_ordine-425733631/",
       "source": "Repubblica",
-      "pubDate": "2026-11-18T18:22:04.000Z",
-      "excerpt": "I nomi dei parlamentari dei 5 stelle a Strasburgo pubblicati dal sito Myrotvorets, organizzazione ucraina ritenuta vicina agli apparati di sicurezza",
+      "pubDate": "2026-11-19T00:43:27.000Z",
+      "excerpt": "Arriva la previdenza dedicata per il comparto sicurezza. FI punta anche a cancellare del tutto il taglio alle rivalutazioni. La Lega vuole portare ad almeno un miliardo all’anno il fondo per finanziare l’uscita a 64 anni",
       "image": null
     },
     {
-      "title": "Manovra, spunta un condono per gli abusi anche nelle zone terremotate",
-      "link": "https://www.repubblica.it/economia/2026/11/18/news/manovra_condono_abusi_zone_terremotate-425732998/",
+      "title": "Xi, l’abbraccio in stile Mao a Trump per ergersi al pari degli Usa e contenere l’anatra zoppa",
+      "link": "https://www.repubblica.it/esteri/2026/11/19/news/xi_abbraccio_trump_mao_krusciov_1959_cina_usa-425733246/",
       "source": "Repubblica",
-      "pubDate": "2026-11-18T17:58:20.000Z",
-      "excerpt": "Un emendamento di Fratelli d’Italia permette di sanare le irregolarità sismiche dopo aver costruito. Stop a multe e processi",
+      "pubDate": "2026-11-19T00:00:00.000Z",
+      "excerpt": "Il leader cinese ha atteso il tycoon ai piedi dell’Air Force One: l’ultimo a farlo fu il Timoniere nel 1959 con Krusciov",
       "image": null
     },
     {
-      "title": "Londra, donna divorzia da un amico di Putin e chiede 720 milioni per “ragionevoli necessità”",
-      "link": "https://d.repubblica.it/culture/2026/11/18/news/divorzio_record_londra_vladimir_potanin_moglie_natalia_potanina-425732883/",
+      "title": "“A dettare l’agenda del vertice di Shenzhen saranno solo Mosca e Pechino”",
+      "link": "https://www.repubblica.it/esteri/2026/11/19/news/intervista_rana_mitter_trilaterale_shenzhen_putin_xi_trump-425732934/",
       "source": "Repubblica",
-      "pubDate": "2026-11-18T17:00:00.000Z",
-      "excerpt": "Inizia il processo di Natalia Potanina contro l’ex marito Vladimir Potanin, oligarca russo e compagno di hockey del presidente Vladimir Putin. La donna potrebbe ottenere l’assegno più ricco della storia della capitale br",
+      "pubDate": "2026-11-19T00:00:00.000Z",
+      "excerpt": "Rana Mitter, storico e politologo britannico e professore ad Harvard: “Appaiono più importanti i temi rimasti fuori agenda”",
       "image": null
     },
     {
-      "title": "A Genova la cerimonia d'apertura di Best, il summit dell'economia del mare",
-      "link": "https://www.ansa.it/ansacom/notizie/economia/blue-media/2026/11/17/a-genova-la-cerimonia-dapertura-di-best-il-summit-delleconomia-del-mare_f4c6145b-56ae-4b80-b420-3ec55df750eb.html",
+      "title": "A Taiwan paura e negazione: \"Noi tra Cina e Usa, un gambero tra due squali\"",
+      "link": "https://www.repubblica.it/esteri/2026/11/19/news/taiwan_reportage_shenzhen_cina_stati_uniti-425732955/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-19T00:00:00.000Z",
+      "excerpt": "Se il governo e gli analisti si preparano a una possibile invasione e osservano con timore il summit di Shenzhen tra Trump, Xi e Putin, la popolazione è spaccata. Una parte frequenta corsi di sopravvivenza come quello de",
+      "image": null
+    },
+    {
+      "title": "Tutti i sospetti di Deutsche Bank: indagine sulle entrate di Trump",
+      "link": "https://www.repubblica.it/esteri/2026/11/19/news/deutsche_bank_indagine_riciclaggi_trump_progetto_broadway-425733490/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-19T00:00:00.000Z",
+      "excerpt": "Tra il 2017 e il 2021 il Progetto Broadway ha scavato nelle transazioni del presidente. Segnalate 59 transazioni a rischio riciclaggio, tra queste una serie di bonifici da società in Azerbaigian",
+      "image": null
+    },
+    {
+      "title": "L’economia di Schlein: “Per il nostro governo la priorità sarà la crescita”",
+      "link": "https://www.repubblica.it/economia/2026/11/19/news/schlein_opposizioni_programma_governo-425733559/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-19T00:00:00.000Z",
+      "excerpt": "La segretaria dem dopo il tour con le parti sociali: “Useremo il dialogo e non cambieremo quello che funziona”",
+      "image": null
+    },
+    {
+      "title": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_6eb37ec5-68f2-4465-b54b-6ed9f758bcda.html",
       "source": "ANSA",
-      "pubDate": "2026-11-18T16:45:57.000Z",
-      "excerpt": "Vago, la blue economy non è settore ma un modello per il futuro",
+      "pubDate": "2026-11-18T22:12:44.000Z",
+      "excerpt": "Soli italiani in lista, in testa Marilyn Monroe",
       "image": null
     },
     {
-      "title": "Ranucci sospeso dalla Rai per dieci giorni dal 23 novembre: “Salterò due puntate di Spotlight”",
-      "link": "https://www.repubblica.it/politica/2026/11/18/news/ranucci_sospeso_dalla_rai_saltero_due_puntate_di_spotlight-425732675/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-18T15:54:57.000Z",
-      "excerpt": "La decisione era stata presa dall’azienda il 5 ottobre scorso",
-      "image": null
-    },
-    {
-      "title": "Apec, cos’è il forum che riunisce 21 economie dell’Asia-Pacifico. E perché Xi ha scelto Shenzhen",
-      "link": "https://www.repubblica.it/esteri/2026/11/18/news/apec_che_cosa_e_forum_perche_shenzhen_citta_trilaterale_xi_putin_trump-425732654/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-18T15:51:52.000Z",
-      "excerpt": "Fondato nel 1989, i membri rappresentano oltre il 60% del Pil mondiale. Quest’anno la Cina ospita il vertice nella città simbolo della sua trasformazione tecnologica e industriale, dove è atteso il trilaterale con Trump ",
-      "image": null
-    },
-    {
-      "title": "Futuro Nazionale, la procura indaga sul partito di Vannacci. La denuncia: “Violata la legge Scelba”",
-      "link": "https://roma.repubblica.it/cronaca/2026/11/18/news/futuro_nazionale_movimento_vannacci_ricostituzione_partito_fascista_legge_scelba_inchiesta-425732561/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-18T15:05:15.000Z",
-      "excerpt": "L’inchiesta nasce dall’esposto del Sindacato dei Militari sulla possibile natura eversiva del movimento. Il fascicolo affidato all’antiterrorismo di Roma per ora è senza ipotesi di reato",
-      "image": null
-    },
-    {
-      "title": "Dopo Pattinson nuovo 007, Brad Pitt si offre per il ruolo del cattivo",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/17/dopo-pattinson-nuovo-007-brad-pitt-si-offre-per-il-ruolo-del_a03fce5d-f80f-484c-912a-9c65fbc6c532.html",
+      "title": "Renato Zero, nuovo progetto Le Mie Radici, tributo alla grande musica internazionale",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/18/renato-zero-nuovo-progetto-le-mie-radici-tributo-alla-grande-musica_310d479a-aef9-46f4-9af2-e9a39608b822.html",
       "source": "ANSA",
-      "pubDate": "2026-11-17T17:10:13.000Z",
-      "excerpt": "Cillian Murphy in corsa per Kalshi, per la Bond Girl tra i nomi Zendaya e Pugh",
+      "pubDate": "2026-11-18T17:01:52.000Z",
+      "excerpt": "18 interpretazioni di capolavori storici. Dal 21 novembre il brano 'L'applauso è per noi!'",
       "image": null
     },
     {
-      "title": "Microsoft, un 'bug' nascosto da luglio ha causato il grande disservizio",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/microsoft-un-bug-nascosto-da-luglio-ha-causato-il-grande-disservizio_e63eb592-e582-476c-b840-9e69d0aa8d72.html",
+      "title": "Le mostre del weekend, da Marina Abramović a Marilyn Monroe",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/11/18/le-mostre-del-weekend-da-marina-abramovic-a-marilyn-monroe_0b621999-76a2-41a7-83dc-cb254f264047.html",
       "source": "ANSA",
-      "pubDate": "2026-11-17T13:37:43.000Z",
-      "excerpt": "\"Problema tecnico non correlato ad attacchi informatici o ad attività di IA\"",
+      "pubDate": "2026-11-18T16:38:45.000Z",
+      "excerpt": "A Piacenza l'omaggio a Spadini, a Milano gli scatti di Garolla",
       "image": null
     }
   ],
   "sport": [
+    {
+      "title": "F1: Hamilton, 'il secondo posto tra i costruttori è la priorità'",
+      "link": "https://www.ansa.it/sito/notizie/sport/f1/2026/11/19/f1-hamilton-il-secondo-posto-tra-i-costruttori-e-la-priorita_c3791941-f6e9-4620-bbe4-3921570d889d.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-19T09:00:13.000Z",
+      "excerpt": "Il ferrarista a Las Vegas: \"Ultime gare importanti in vista del 2027\"",
+      "image": null
+    },
+    {
+      "title": "Nba: i Lakers si fermano dopo 9 vittorie, Denver rimonta Boston",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/19/nba-i-lakers-si-fermano-dopo-9-vittorie-denver-rimonta-boston_a155efad-165d-474c-bf3f-de534e952a38.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-19T08:35:46.000Z",
+      "excerpt": "Gialloviola ko in casa con i Jazz, Doncic se la prende con gli arbitri",
+      "image": null
+    },
+    {
+      "title": "Atletica: squalificata per doping la keniota Jepchirchir, iridata nella maratona",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/19/atletica-squalificata-per-doping-la-keniota-jepchirchir-iridata-nella-maratona_291a9927-e130-402d-8069-171ebb761dae.html",
+      "source": "ANSA Sport",
+      "pubDate": "2026-11-19T08:17:27.000Z",
+      "excerpt": "Fuori per tre anni la campionessa olimpica a Tokyo. Ombre su Nairobi in vista dei Mondiali",
+      "image": null
+    },
     {
       "title": "Atp Finals: Cobolli in lacrime 'è la partita che mi rende più triste della carriera'",
       "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/18/atp-finals-cobolli-in-lacrime-e-la-partita-che-mi-rende-piu-triste-della_b686c3d1-6276-40f8-8718-be6e7d67a8b0.html",
@@ -754,30 +778,6 @@
       "source": "ANSA Sport",
       "pubDate": "2026-11-18T18:55:04.000Z",
       "excerpt": "Premiati in Cina la 'velista' e la 'squadra dell'anno'",
-      "image": null
-    },
-    {
-      "title": "Atp Finals: Krawietz-Puetz vincono in tre set, eliminati Bolelli-Vavassori",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/18/atp-finals-krawietz-puetz-vincono-in-tre-set-eliminati-bolelli-vavassori_fa008a17-49f3-467c-8b52-e683e63a9ba3.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-11-18T18:49:52.000Z",
-      "excerpt": "Sconfitti l'argentino Zeballos e lo spagnolo Granollers",
-      "image": null
-    },
-    {
-      "title": "Juventus lancia a Bruxelles il Fan Club European Union, Chiellini 'giorno speciale'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/18/juventus-lancia-a-bruxelles-il-fan-club-european-union-chiellini-giorno-speciale_2adddaf3-870e-400a-b88a-6ba8780bbb28.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-11-18T18:22:04.000Z",
-      "excerpt": "L'inaugurazione nella sede della Regione Piemonte nella capitale belga",
-      "image": null
-    },
-    {
-      "title": "Paolini, dopo Torino penserò alla prossima stagione",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/18/paolini-dopo-torino-pensero-alla-prossima-stagione_a430d272-675b-4863-8a1c-3a0e4a2f1df4.html",
-      "source": "ANSA Sport",
-      "pubDate": "2026-11-18T18:01:08.000Z",
-      "excerpt": "\"Le Atp Finals sono un torneo incredibile, in bocca al lupo a Cobolli\"",
       "image": null
     }
   ]
