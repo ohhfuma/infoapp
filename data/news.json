@@ -1,158 +1,198 @@
 {
-  "lastUpdated": "2026-11-25T02:41:38.173Z",
+  "lastUpdated": "2026-11-25T12:01:51.362Z",
   "finanza": {
     "italia": [
       {
-        "title": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_f7e00545-9f45-4de2-bba6-c6248fde2158.html",
+        "title": "A2a e Bw Ess si aggiudicano 4 contratti per 400 Mw di accumulo",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/a2a-e-bw-ess-si-aggiudicano-4-contratti-per-400-mw-di-accumulo_3ab5c8eb-f3cc-42b6-938f-a807278d4e93.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-11-25T02:33:53.000Z",
-        "excerpt": "'Dica la verità davanti al Congresso, non deve avvalersi del Quinto emendamento'",
+        "pubDate": "2026-11-25T11:48:34.000Z",
+        "excerpt": "Nell'ambito dell'asta del Macse, il meccanismo per lo stoccaggio di Terna",
         "image": null
       },
       {
-        "title": "Mentre i chip scendono, i titoli IT scelti dall’IA restano su del 27%-88%",
-        "link": "https://it.investing.com/news/stock-market-news/mentre-i-chip-scendono-i-titoli-it-scelti-dallai-restano-su-del-2788-3664792",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-25T02:00:38.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/general-use-news-image3_M_1440049476.jpg"
-      },
-      {
-        "title": "Trump potrebbe graziare Jensen Huang e valuta una quota Usa in Nvidia",
-        "link": "https://it.investing.com/news/stock-market-news/trump-possibile-grazia-per-jensen-huang-e-quota-del-governo-in-nvidia-3664787",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-25T01:59:47.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
-      },
-      {
-        "title": "I future di Wall St scendono dopo S&P 500 e Nasdaq; occhi sull’inflazione",
-        "link": "https://it.investing.com/news/stock-market-news/i-future-di-wall-st-scendono-dopo-sp-500-e-nasdaq-occhi-sullinflazione-3664760",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-25T01:12:27.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg"
-      },
-      {
-        "title": "Borsa: Tokyo, apertura in calo (-0,36%)",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-tokyo-apertura-in-calo-036_2d355356-5ba4-4a00-9a99-c4a5690834ac.html",
+        "title": "Bce: 'Nel 2026 sorpasso dei pagamenti con carta sul contante nei negozi europei'",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/bce-nel-2026-sorpasso-dei-pagamenti-con-carta-sul-contante_6c5aea6e-f915-4a62-921c-c335159214c7.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-11-25T00:17:26.000Z",
-        "excerpt": "Pesano vendite sui chip e i timori sui nuovi dazi Usa",
+        "pubDate": "2026-11-25T11:47:31.000Z",
+        "excerpt": "Sono il 45% contro il 44%. Cipollone: 'Ciò che importa ai cittadini è poter scegliere'",
         "image": null
       },
       {
-        "title": "L’economista Roach: “Il reintegro di Huang? Trump è nelle mani degli oligarchi di Big tech”",
-        "link": "https://www.repubblica.it/economia/2026/11/25/news/nvidia_reintegro_huang_intervista_roach_trump_oligarchi_big_tech-425747767/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-25T00:00:00.000Z",
-        "excerpt": "Intervista al docente di Yale, che spiega: “L’intelligenza artificiale è magnifica ma è irragionevole la scommessa da 10mila miliardi sui data center da costruire entro il 2032”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/230525117-76230f89-2445-4dd5-8ff0-d5a2be506c7d.jpg"
-      },
-      {
-        "title": "Quote Ue sulle auto ibride: un freno non solo per la Cina",
-        "link": "https://www.repubblica.it/economia/2026/11/25/news/auto_quote_import_extra_ue-425747763/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-25T00:00:00.000Z",
-        "excerpt": "Tetti dal 1° dicembre per 200 giorni, dopo potrebbero diventare fissi. L’obiettivo è proteggere i costruttori europei",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/230223803-1c65521b-6c59-4cea-b0ce-becfc176b4c1.jpg"
-      },
-      {
-        "title": "Ue, Dombrovskis all’Italia: “Pericoloso chiedere altra flessibilità. L’inflazione non si ferma così”",
-        "link": "https://www.repubblica.it/economia/2026/11/25/news/valdis_dombrovskis_intervista_pericoloso_chiedere_flessibilita_inflazione_conti-425747716/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-25T00:00:00.000Z",
-        "excerpt": "Il commissario fa appello alla prudenza e invita ad affrontare sfide che vanno dall’istruzione al declino demografico. L’intervista",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/224557345-82f6f731-0740-4d8f-8f56-82373bc18024.jpg"
-      },
-      {
-        "title": "Manovra, da rifare la flat tax per i giovani. Accordo lontano sul condono",
-        "link": "https://www.repubblica.it/economia/2026/11/25/news/manovra_flat_tax_giovani_modifiche_emendamenti-425747707/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-25T00:00:00.000Z",
-        "excerpt": "Oggi nuovo confronto tra i leader della maggioranza, ripescati 100 emendamenti",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/223829058-fa6ce2f5-0646-4b4f-a9bf-78bf502d0c0c.jpg"
-      },
-      {
-        "title": "Migranti giovani e con figli: l’unica strada per salvare il Pil",
-        "link": "https://www.repubblica.it/economia/2026/11/25/news/migranti_giovani_e_con_figli_l_unica_strada_per_salvare_il_pil-425747677/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-25T00:00:00.000Z",
-        "excerpt": "Uno studio Bocconi chiarisce: senza flussi di giovani con figli l’economia italiana è destinata a rimpicciolirsi, con la sua popolazione",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/222231468-0f0a3fd6-ee54-4872-8842-2371a62b8056.jpg"
-      },
-      {
-        "title": "Biffi: “Miliardi gettati per tagliare le accise, con le fabbriche ferme per il caro-energia”",
-        "link": "https://www.repubblica.it/economia/2026/11/24/news/biffi_miliardi_gettati_per_tagliare_le_accise_con_le_fabbriche_ferme_per_il_caro-energia-425747667/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-25T00:00:00.000Z",
-        "excerpt": "Parla il presidente di Assolombarda: “Sull’acciaio paghiamo l’ipocrisia europea, ma almeno puntiamo a una filiera “by Italy” con imprenditori italiani che controllano impianti a caldo fuori dall’Ue”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/222521789-5db43104-78e1-49c0-9a37-71a563a6505e.jpg"
-      },
-      {
-        "title": "Trump ha guadagnato 15 milioni facendo riassumere Huang. Clinton: “È insider trading”",
-        "link": "https://www.repubblica.it/economia/2026/11/25/news/jensen_huang_donald_trump-425747914/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-24T23:54:38.000Z",
-        "excerpt": "Il presidente nella bufera per aver orchestrato il ritorno dell’ad Guadagnati fino a 15 milioni. Accuse bipartisan: “È un supergate”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/005416325-5e9120be-6b2f-4cb8-abb2-73336ec20e65.jpg"
-      },
-      {
-        "title": "Buy now pay later: il ritardo di Banca d’Italia e il rischio fuga delle tasse",
-        "link": "https://www.repubblica.it/economia/rubriche/outlook/2026/11/25/news/buy_now_pay_later_il_ritardo_di_banca_d_italia_e_il_rischio_fuga_delle_tasse-425747864/?rss",
-        "source": "Repubblica Economia",
-        "pubDate": "2026-11-24T23:04:02.000Z",
-        "excerpt": "Outlook del 25 novembre. Iscriviti alla Newsletter",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/000357378-5017ec13-5ed5-4686-b01c-eb1803ef3c75.jpg"
-      },
-      {
-        "title": "Perché il titolo Workday crolla oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-workday-crolla-oggi-93CH-3664708",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-24T22:59:14.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Nutanix Inc crolla oggi in borsa?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-nutanix-inc-crolla-oggi-in-borsa-93CH-3664705",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-24T22:57:53.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg"
-      },
-      {
-        "title": "Perché il titolo Autodesk Inc scende oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-autodesk-inc-scende-oggi-93CH-3664703",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-24T22:55:00.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/Autodesk_800x533_L_1669151893.jpg"
-      },
-      {
-        "title": "Perché il titolo HP Inc sta guadagnando oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-hp-inc-sta-guadagnando-oggi-93CH-3664701",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-24T22:53:01.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
-      },
-      {
-        "title": "Perché il titolo di Dell Technologies Inc è in rialzo oggi?",
-        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-di-dell-technologies-inc-e-in-rialzo-oggi-93CH-3664695",
-        "source": "Investing.com Italia",
-        "pubDate": "2026-11-24T22:48:13.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
-      },
-      {
-        "title": "Jensen Huang chiede scusa e annuncia: 'Sto andando in terapia'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/trump-nella-bufera-per-nvidia-ombre-di-insider-trading_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
+        "title": "L'Italia eccellenza nel riciclo ma ha il gap della vendita delle nuove risorse",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/litalia-eccellenza-nel-riciclo-ma-ha-il-gap-della-vendita-delle-nuove-risorse_98c2be9c-881c-47e2-833e-e71b8fdec5e1.html",
         "source": "ANSA Economia",
-        "pubDate": "2026-11-24T21:12:27.000Z",
-        "excerpt": "Trump nella bufera per Nvidia, 'ombre di insider trading'. 'Ha guadagnato fino a 15 milioni'. Accuse bipartisan, per Hillary Clinton un 'Supergate'",
+        "pubDate": "2026-11-25T11:46:23.000Z",
+        "excerpt": "Assoambiente, \"Serve una politica industriale per sostenere la domanda",
         "image": null
+      },
+      {
+        "title": "Sindacati, domani presidio sotto il Mimit con delegazione lavoratori Barilla",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/sindacati-domani-presidio-sotto-il-mimit-con-delegazione-lavoratori-barilla_6d949634-74d6-4f32-a1aa-ad754c2cbe49.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-25T11:45:41.000Z",
+        "excerpt": "Incontro in seguito a riorganizzazione che modificherebbe perimetro produttivo del gruppo",
+        "image": null
+      },
+      {
+        "title": "Bankitalia, acquisti attività finanziarie famiglie a 23,9 miliardi",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/bankitalia-acquisti-attivita-finanziarie-famiglie-a-239-miliardi_d1839b58-f2c9-4d83-8e01-3569c29ce8f4.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-25T11:40:54.000Z",
+        "excerpt": "Nel II trimestre, passività imprese salgono di 28,8 miliardi",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Stellantis NV è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-stellantis-nv-e-in-forte-rialzo-oggi-93CH-3665430",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-25T11:34:45.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+      },
+      {
+        "title": "Come uno stratega di Wall Street ha previsto le oscillazioni dell’S&P 500",
+        "link": "https://it.investing.com/news/stock-market-news/come-uno-stratega-di-wall-street-ha-previsto-le-oscillazioni-dellsp-500-3665431",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-25T11:33:30.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEM5L0YH_1200_L.jpg"
+      },
+      {
+        "title": "Perché il titolo Ferrari NV è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-ferrari-nv-e-in-rialzo-oggi-93CH-3665427",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-25T11:32:47.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Renault SA è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-renault-sa-e-in-forte-rialzo-oggi-93CH-3665424",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-25T11:31:35.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB890GL_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Volvo sta salendo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-volvo-sta-salendo-oggi-93CH-3665423",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-25T11:30:52.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+      },
+      {
+        "title": "Perché il titolo BMW è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-bmw-e-in-forte-rialzo-oggi-93CH-3665420",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-25T11:28:11.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXNPEL390S3_L.jpg"
+      },
+      {
+        "title": "Calderone, 5.525 donne in percorso di protezione con assegno di inclusione dal 2024",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/calderone-5.525-donne-in-percorso-di-protezione-con-assegno-di-inclusione-dal-2024_c33cd42a-f0f5-45e4-a661-0202129c3e7a.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-25T11:27:21.000Z",
+        "excerpt": "Sono 1890 quelle ancora nel percorso",
+        "image": null
+      },
+      {
+        "title": "Perché il titolo Mercedes-Benz è in rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-mercedesbenz-e-in-rialzo-oggi-93CH-3665419",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-25T11:27:08.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEC4T06W_M.jpg"
+      },
+      {
+        "title": "Perché il titolo Volkswagen AG è in forte rialzo oggi?",
+        "link": "https://it.investing.com/news/stock-market-news/perche-il-titolo-volkswagen-ag-e-in-forte-rialzo-oggi-93CH-3665416",
+        "source": "Investing.com Italia",
+        "pubDate": "2026-11-25T11:26:08.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXNPEB8K0ZI_M.jpg"
+      },
+      {
+        "title": "Il muro dell’Ue contro le sanzioni degli Usa su cittadini e imprese: l’iniziativa di 56 eurodeputati",
+        "link": "https://www.repubblica.it/economia/2026/11/25/news/il_muro_dell_ue_contro_le_sanzioni_degli_usa_cittadini_imprese-425748658/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-25T11:05:20.000Z",
+        "excerpt": "Oggi la presentazione durante la Sessione Plenaria del Parlamento a Strasburgo, con i rappresentanti di Banca Etica e The Good Lobby",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/105140865-edac09d0-e5a8-425f-a0b5-457b3c48177d.jpg"
+      },
+      {
+        "title": "Fibercop, nel terzo trimestre ebitda organico +15,3% a 516 milioni",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/fibercop-nel-terzo-trimestre-ebitda-organico-153-a-516-milioni_07c6dd8f-6235-4ddc-8b46-d416d8276669.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-25T10:52:29.000Z",
+        "excerpt": "I ricavi nel trimestre sono stati pari a 932 milioni",
+        "image": null
+      },
+      {
+        "title": "Borsa: Europa in ordine sparso, future Usa in rosso, Milano -0,25%",
+        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-europa-in-ordine-sparso-future-usa-in-rosso-milano-025_6d908109-05f8-4428-837f-8307c7cc74f2.html",
+        "source": "ANSA Economia",
+        "pubDate": "2026-11-25T10:48:47.000Z",
+        "excerpt": "Bene le auto e il lusso, frenano i semiconduttori e le banche",
+        "image": null
+      },
+      {
+        "title": "Ansaldo Energia, maxi accordi con i fornitori: dai macchinari all’ingegneria",
+        "link": "https://www.repubblica.it/economia/2026/11/25/news/ansaldo_energia_maxi_accordi_con_i_fornitori_dai_macchinari_all_ingegneria-425748800/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-25T10:46:45.000Z",
+        "excerpt": "La società ha riunito la filiera a Milano per rafforzare le collaborazioni",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/114633387-a22b5d2c-987d-4f26-b8c3-411b3404f8ed.jpg"
+      },
+      {
+        "title": "Cybersecurity, le imprese italiane aumentano gli investimenti",
+        "link": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/11/25/news/cybersecurity_le_imprese_italiane_aumentano_gli_investimenti-425748662/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-25T09:53:11.000Z",
+        "excerpt": "Il mercato della sicurezza informatica nella Penisola ha raggiunto i 2,78 miliardi di euro secondo il Politecnico di Milano. Deloitte stima la spesa richiesta alle organizzazioni per dotarsi dei controlli essenziali",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/105301181-2c219b4c-3a86-419b-85ba-9f2fc2843875.jpg"
+      },
+      {
+        "title": "Previdenza complementare: come scegliere e quando cambiare",
+        "link": "https://www.repubblica.it/economia/dossier/risparmio-futuro/2026/11/25/news/previdenza_complementare_come_scegliere_e_quando_cambiare-425748620/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-25T09:38:34.000Z",
+        "excerpt": "Costi, investimenti e contributo aziendale guidano la scelta della previdenza integrativa. Il confronto tra fondi negoziali, aperti e Pip e le verifiche da fare prima di trasferire la propria posizione",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/103828545-1ced2b67-b82f-44ba-8497-7a7b87f88282.jpg"
+      },
+      {
+        "title": "Il gender gap comincia prima della busta paga",
+        "link": "https://www.repubblica.it/economia/2026/11/25/news/il_gender_gap_comincia_prima_della_busta_paga-425748336/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-25T08:35:02.000Z",
+        "excerpt": "L'economista Claudia Goldin, Nobel per l'economia nel 2023, ha mostrato come alcuni lavori premino in modo sproporzionato chi può garantire una disponibilità continua. È un meccanismo che penalizza chi sostiene la cura, ",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/092659109-613700fd-423f-4450-a5c8-0905f98acc35.jpg"
+      },
+      {
+        "title": "Pensioni, la stretta si mangia fino al 62% degli aumenti. Ecco chi perde e quanto",
+        "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/25/news/pensioni_aumenti_tagliati_quanto_si_perde-425748249/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-25T07:00:00.000Z",
+        "excerpt": "Con l’inflazione al 3,2% assegni più alti per tutti, ma il ritorno alle sei fasce penalizza chi supera 2.447 euro lordi al mese. Fino a 1.545 euro persi in un anno. Il taglio Irpef compensa solo in parte",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/090211880-429080cc-86f0-4c79-afe8-0f0852db172f.jpg"
+      },
+      {
+        "title": "Viaggio di nozze rinviato: il datore di lavoro deve risarcire il danno se l'ha chiesto senza ragione",
+        "link": "https://www.repubblica.it/economia/2026/11/25/news/viaggio_di_nozze_rinviato_senza_ragione_datore_lavoro_risarcimento_danno_esistenziale-425747521/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-25T04:00:00.000Z",
+        "excerpt": "Il giudice ha riconosciuto la malafede dell’azienda, pur rigettando gran parte delle richieste del dipendente",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/213153081-9afde8c7-3b8b-4f28-8642-afe1dc3e7de9.jpg"
+      },
+      {
+        "title": "Bonifici istantanei, troppe truffe. Le banche: \"Necessario renderli più sicuri\". Come difendersi",
+        "link": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/11/25/news/truffa_bonifico_istantaneo_sicurezza_come_difendersi-425747381/?rss",
+        "source": "Repubblica Economia",
+        "pubDate": "2026-11-25T04:00:00.000Z",
+        "excerpt": "I criminali stanno sfruttando tantissimo i bonifici istantanei per le truffe, nell'ordine di 80 milioni di euro l'anno, tanto che il presidente dell'Abi (associazione bancaria italiana), Antonio Patuelli, ha chiesto ora ",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/204318768-bcfc7282-0857-4806-9725-e6e694dc0125.jpg"
       },
       {
         "title": "Violenza economica: pervasiva e spesso invisibile. Educazione finanziaria e lavoro la chiave per salvarsi",
@@ -163,10 +203,10 @@
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/25/Immagini/Ritagli/seyed-amir-mohammad-tabatabaee-9jWh_MHXu9U-unsplash%20(1)-U85778427410qhc-1440x752@IlSole24Ore-Web.jpg"
       },
       {
-        "title": "Avviso ai lettori sullo sciopero dei giornalisti del Sole 24 Ore",
+        "title": "Avviso ai lettori: sciopero dei giornalisti del Sole 24 Ore. Oggi il sito non verrà aggiornato e il giornale non è in edicola. Le ragioni",
         "link": "https://www.ilsole24ore.com/art/avviso-lettori-sciopero-giornalisti-sole-24-ore-AJj4TgRC",
         "source": "Il Sole 24 Ore",
-        "pubDate": "2026-11-24T20:52:28.000Z",
+        "pubDate": "2026-11-24T20:52:00.000Z",
         "excerpt": "Aggiornamenti del sito sospesi per tutta la giornata del 25 novembre",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/25/Immagini/Ritagli/SOLE%2024%20ORE-U85838266536nSj-1440x752@IlSole24Ore-Web.jpg"
       },
@@ -177,38 +217,6 @@
         "pubDate": "2026-11-24T18:53:00.000Z",
         "excerpt": "Una storia di violenza, iniziata con la violenza economica e psicologica e finita con un'aggressione e una morte terribile. Il racconto all’interno della serie \"Visibili. Oltre la cronaca\", in onda su Radio24 a partire d",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/25/Immagini/Ritagli/sadaf-erfan-cOEmI-SkiAo-unsplash-U34208146227APa-1440x752@IlSole24Ore-Web.jpg"
-      },
-      {
-        "title": "L'Ue promuove il Documento programmatico di bilancio italiano, ok a tutte le misure della Nec per l'energia",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/lue-promuove-il-documento-programmatico-di-bilancio-italiano-ok-a-tutte-le-misure-della-nec_2e3d1b80-5c76-4474-af33-e274f621afa9.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-24T18:34:43.000Z",
-        "excerpt": "'Margini stretti, serve prudenza'. Berlino evita la procedura, a Sofia prima multa del Patto",
-        "image": null
-      },
-      {
-        "title": "ContourGlobal in seconda asta Macse Terna per mercato Sud e Calabria",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/contourglobal-in-seconda-asta-macse-terna-per-mercato-sud-e-calabria_a02b10e7-79e2-4e29-a320-06586ebb1f79.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-24T18:05:53.000Z",
-        "excerpt": "A società 104 mw di potenza e 623 Mhw di accumulo",
-        "image": null
-      },
-      {
-        "title": "Manfredi (Anci), 'condono? Non si può far ricadere sui comuni problemi decennali'",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/manfredi-anci-condono-non-si-puo-far-ricadere-sui-comuni-problemi_ebb86f27-1e31-49f7-9c2e-e7137eb8dab8.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-24T17:29:18.000Z",
-        "excerpt": "'Ma esprimeremo la nostra posizione quando sapremo la proposta reale'",
-        "image": null
-      },
-      {
-        "title": "Sono 700 gli emendamenti che saranno segnalati dai gruppi per la manovra",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/sono-700-gli-emendamenti-che-saranno-segnalati-dai-gruppi-per_0ce513cf-9081-4a0a-8bf8-dc1a4ca19d7e.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-24T17:27:01.000Z",
-        "excerpt": "Le proposte di modifica prioritarie vanno indicate entro giovedì 26 novembre",
-        "image": null
       },
       {
         "title": "Tra le donne vittime di violenza più di una su tre ha figli, una su 12 ha temuto per la loro vita",
@@ -249,17 +257,41 @@
         "pubDate": "2026-11-24T17:14:42.000Z",
         "excerpt": "Nelle sale il film diretto da Paola Randi, scritto con Lisa Nur Sultan e tratto da Cara Giulia, il libro scritto da Gino Cecchettin",
         "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/21/Immagini/Ritagli/WhatsApp%20Image%202026-11-20%20at%2021.21.28-U15253051475tQF-1440x752@IlSole24Ore-Web.jpeg"
-      },
-      {
-        "title": "Geely punta sull'Europa: produzione locale e partnership industriali",
-        "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/geely-punta-sulleuropa-produzione-locale-e-partnership-industriali_7b72e9a2-1ac5-4e82-9601-9b7056568586.html",
-        "source": "ANSA Economia",
-        "pubDate": "2026-11-24T17:07:29.000Z",
-        "excerpt": "\"Europa è contesto industriale nel quale vogliamo essere sempre più presenti e integrati\"",
-        "image": null
       }
     ],
     "europa": [
+      {
+        "title": "Mobile Infrastructure Corp dichiara i dividendi sulle azioni privilegiate per il mese di dicembre",
+        "link": "https://www.investing.com/news/sec-filings/mobile-infrastructure-corp-declares-preferred-stock-dividends-for-december-93CH-5050409",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-25T11:42:48.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
+      },
+      {
+        "title": "Smurfit Westrock emette 1,5 miliardi di dollari in titoli privilegiati per il rifinanziamento del debito",
+        "link": "https://www.investing.com/news/sec-filings/smurfit-westrock-issues-15-billion-in-senior-notes-for-debt-refinancing-93CH-5050398",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-25T11:36:55.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
+      },
+      {
+        "title": "Surgery Partners modifica gli accordi di debito in relazione alla fusione in corso",
+        "link": "https://www.investing.com/news/sec-filings/surgery-partners-amends-debt-agreements-in-connection-with-pending-merger-93CH-5050368",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-25T11:16:57.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
+      },
+      {
+        "title": "Amaze Holdings effettua un raggruppamento azionario di 1 a 100 sul mercato OTC Pink",
+        "link": "https://www.investing.com/news/sec-filings/amaze-holdings-enacts-1for100-reverse-stock-split-on-otc-pink-market-93CH-5050353",
+        "source": "Investing.com Eurozona",
+        "pubDate": "2026-11-25T11:12:48.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
+      },
       {
         "title": "Jevin S. Eagle, amministratore di Carter's, si dimetterà dopo l'assemblea annuale del 2027",
         "link": "https://www.investing.com/news/sec-filings/carters-director-jevin-s-eagle-to-step-down-after-2027-annual-meeting-93CH-5049361",
@@ -291,38 +323,6 @@
         "pubDate": "2026-11-24T23:16:44.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
-      },
-      {
-        "title": "DTE Energy e le sue controllate prorogano gli accordi di credito e aumentano la linea di credito di DTE Electric",
-        "link": "https://www.investing.com/news/sec-filings/dte-energy-and-subsidiaries-extend-credit-agreements-increase-dte-electric-facility-93CH-5049332",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-24T23:10:54.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
-      },
-      {
-        "title": "Envista Holdings completa l'offerta di titoli privilegiati con scadenza nel 2033 per un valore di 430 milioni di dollari",
-        "link": "https://www.investing.com/news/sec-filings/envista-holdings-completes-430-million-offering-of-senior-notes-due-2033-93CH-5049330",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-24T23:06:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
-      },
-      {
-        "title": "SharonAI Holdings modifica il contratto per le obbligazioni convertibili al 4,75% con scadenza nel 2032",
-        "link": "https://www.investing.com/news/sec-filings/sharonai-holdings-amends-indenture-for-475-convertible-notes-due-2032-93CH-5049326",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-24T23:02:16.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
-      },
-      {
-        "title": "RenX Enterprises annuncia le dimissioni del membro del Consiglio di amministrazione Anthony M. Cialone",
-        "link": "https://www.investing.com/news/sec-filings/renx-enterprises-announces-resignation-of-board-member-anthony-m-cialone-93CH-5049311",
-        "source": "Investing.com Eurozona",
-        "pubDate": "2026-11-24T22:58:08.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
       },
       {
         "title": "Violenza sulle adolescenti: sono più  di 43 milioni le vititme al mondo (Oms)",
@@ -392,28 +392,172 @@
     "usa": [],
     "mondo": [
       {
-        "title": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_069eddfd-e1fe-47e4-933e-f9f07f338bac.html",
+        "title": "Processo Netanyahu, giudici chiedono alla procura di rinunciare all’accusa di corruzione",
+        "link": "https://www.repubblica.it/esteri/2026/11/25/news/processo_netanyahu_israele_giudici_affondano_accuse_corruzione-425748987/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-25T11:53:01.000Z",
+        "excerpt": "Messa in discussione anche accusa di abuso di fiducia. Procuratrice: “O verdetto o accordo”",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/125251028-436bddc6-1d78-479a-b509-ea69fe50fb7f.jpg"
+      },
+      {
+        "title": "Morning Bid: il timore delle tariffe aggrava il calo dell'IA",
+        "link": "https://www.investing.com/news/commodities-news/morning-bid-tariff-fear-compounds-ai-recoil-5050399",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-25T11:37:03.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0XN_L.jpg"
+      },
+      {
+        "title": "Intrusione nella residenza estiva di William e Kate: incriminati due cittadini albanesi",
+        "link": "https://www.repubblica.it/esteri/2026/11/25/news/ladri_residenza_estiva_william_kate_arrestati_due_cittadini_albanesi-425748909/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-25T11:18:35.000Z",
+        "excerpt": "Arrestati dopo essersi intrufolati ad Anmer Hall, a Sandringham. I tabloid inglesi scatenati perché uno dei due avrebbe fatto richiesta d’asilo in passato, la sua domanda era stata respinta però era rimasto sul suolo bri",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/121823206-ee0640f1-ff51-411c-b3be-0488e9d60e70.jpg"
+      },
+      {
+        "title": "Trump si prepara a introdurre nuove tariffe di ampia portata, nonostante la sconfitta alle elezioni di metà mandato",
+        "link": "https://www.investing.com/news/commodities-news/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources-say-5048724",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-25T11:12:52.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1HZ_L.jpg"
+      },
+      {
+        "title": "Processo Netanyahu, giudici chiedono alla procura di rinunciare alla corruzione",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/25/processo-netanyahu-giudici-chiedono-alla-procura-di-rinunciare-alla-corruzione_2323ec06-6522-42c1-839a-f6265203d25f.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-25T02:33:55.000Z",
-        "excerpt": "'Dica la verità davanti al Congresso, non deve avvalersi del Quinto emendamento'",
+        "pubDate": "2026-11-25T11:01:24.000Z",
+        "excerpt": "Messa in discussione anche accusa di abuso di fiducia. Procuratrice:'O verdetto o accordo'",
         "image": null
       },
       {
-        "title": "Nvidia, Trump: 'Concederei la grazia a Jensen Huang se necessario'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/25/nvidia-trump-concederei-la-grazia-a-jensen-huang-se-necessario_198c638e-2329-4ed1-bca2-77529e425525.html",
+        "title": "L'oro si mantiene vicino ai minimi degli ultimi 15 mesi a causa delle scommesse sull'aumento dei tassi della Fed; si attende l'inflazione PCE",
+        "link": "https://www.investing.com/news/commodities-news/gold-holds-near-15mth-lows-on-fed-hike-bets-pce-inflation-awaited-5049591",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-25T10:53:36.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPED180L9_M.jpg"
+      },
+      {
+        "title": "Iraq, atenei in rivolta dopo lo stop agli uomini di insegnare alle donne: “Temiamo deriva afghana”",
+        "link": "https://www.repubblica.it/esteri/2026/11/25/news/iraq_stop_uomini_insegnare_donne_proteste_universita_studentesse_diritti_donne-425748836/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-25T10:53:19.000Z",
+        "excerpt": "Per gli attivisti la decisione di due università di Al-Qadisiyah, nel sud del Paese, è il segno della progressiva erosione dei diritti delle donne, già fortemente limitati dopo l’approvazione del nuovo codice personale J",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/115106619-5b64404c-0ffc-49f9-af76-c32ffffe7dc4.jpg"
+      },
+      {
+        "title": "Il petrolio estende le perdite tra le aspettative di un'eccedenza dell'offerta e le tensioni in corso in Medio Oriente",
+        "link": "https://www.investing.com/news/commodities-news/oil-mixed-as-hormuz-attacks-mount-supply-surplus-and-weak-fuel-margins-weigh-5049487",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-25T10:45:02.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/news/LYNXMPEA6204A_M.jpg"
+      },
+      {
+        "title": "Cremlino, 'la Libia ha il diritto di rispondere all'aggressione a Bengasi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/cremlino-la-libia-ha-il-diritto-di-rispondere-allaggressione-a-bengasi_ea278a9e-2803-4823-a190-60efc9d88a19.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-25T02:33:55.000Z",
-        "excerpt": "'Dica la verità davanti al Congresso, non deve avvalersi del Quinto emendamento'",
+        "pubDate": "2026-11-25T10:11:42.000Z",
+        "excerpt": "",
         "image": null
       },
       {
-        "title": "Due militari libici morti per le ferite nell'attacco ucraino alle navi russe",
-        "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/25/due-militari-libici-morti-per-le-ferite-nellattacco-ucraino-alle-navi_95127e10-b933-4e3a-b0e7-228ef94f4ada.html",
+        "title": "Ft, Trump accantona accordi commerciali con Mosca come incentivo per fine guerra",
+        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/25/ft-trump-accantona-accordi-commerciali-con-mosca-come-incentivo-per-fine_32ee1c7b-84ba-45d2-a085-9b0d1aedb106.html",
         "source": "ANSA Mondo",
-        "pubDate": "2026-11-25T02:08:28.000Z",
-        "excerpt": "Il 22 novembre il raid sul porto di Bengasi",
+        "pubDate": "2026-11-25T09:34:04.000Z",
+        "excerpt": "Il Cremlino ha mostrato scarso interesse, il focus sono i territori",
         "image": null
+      },
+      {
+        "title": "Ft, Trump accantona accordi commerciali con Mosca come incentivo per fine guerra",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/ft-trump-accantona-accordi-commerciali-con-mosca-come-incentivo-per-fine_edd85882-0756-4400-91c5-0756832d5c66.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-25T09:34:02.000Z",
+        "excerpt": "Il Cremlino ha mostrato scarso interesse, il focus sono i territori",
+        "image": null
+      },
+      {
+        "title": "La sorpresa Lisnard nella corsa all’Eliseo",
+        "link": "https://www.repubblica.it/esteri/rubriche/luci-da-parigi/2026/11/25/news/elezioni_francesi_lisnard-425748484/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-25T09:02:34.000Z",
+        "excerpt": "Il sindaco di Cannes, che ama presentarsi come il “Milei francese” per il suo programma ultraliberista, continua a guadagnare terreno nella corsa presidenziale",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/095816502-8a112285-5fda-4fae-98af-e77c5d6d3481.jpg"
+      },
+      {
+        "title": "A colloquio con Andy Burnham sulla Brexit",
+        "link": "https://www.repubblica.it/esteri/rubriche/london-eye/2026/11/25/news/brexit_colloquio_andy_burnham-425748487/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-25T08:59:05.000Z",
+        "excerpt": "E lo strano caso del petrolio di Rosebank",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/095750120-b519c2d0-77d0-4045-9746-adb74fbf9e1c.jpg"
+      },
+      {
+        "title": "Harvard da due anni nel mirino di Trump: ora lo scontro diventa materia di studio nell’università",
+        "link": "https://www.repubblica.it/esteri/2026/11/25/news/harvard_scontro_trump_nuovo_corso_maga_universita-425748467/?rss",
+        "source": "Repubblica Esteri",
+        "pubDate": "2026-11-25T08:56:50.000Z",
+        "excerpt": "Per la prima volta la Kennedy School of Government del prestigioso ateneo Usa introduce un corso universitario sui Maga. L’obiettivo non è demolire o esaltare il movimento, ma cercare di comprenderlo",
+        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/095639402-3f79c09e-330f-43f2-a670-96abdbeb0fd3.jpg"
+      },
+      {
+        "title": "Parigi difende Kiev, 'in Libia ha esercitato diritto a difendersi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/parigi-difende-kiev-in-libia-ha-esercitato-diritto-a-difendersi_12ddb82c-40c2-4514-ac5a-a956f12aed4d.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-25T08:37:51.000Z",
+        "excerpt": "'Nei loro panni faremmo lo stesso, è Putin che li bombarda da cinque anni'",
+        "image": null
+      },
+      {
+        "title": "Pechino sul caso Huawei, 'ci opponiamo a repressione di nostre aziende dagli Usa'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/25/pechino-sul-caso-huawei-ci-opponiamo-a-repressione-di-nostre-aziende-dagli-usa_dd0c3184-131a-4a6e-861a-555175a49e5c.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-25T08:16:53.000Z",
+        "excerpt": "",
+        "image": null
+      },
+      {
+        "title": "Media Libia, 'esercito di Haftar promette risposta ad attacco di Bengasi'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/media-libia-esercito-di-haftar-promette-risposta-ad-attacco-di-bengasi_073f50de-3bdb-4df1-8d53-f82d542f4991.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-25T08:11:55.000Z",
+        "excerpt": "'Vendicheremo i nostri uomini nel momento e nel luogo opportuni'",
+        "image": null
+      },
+      {
+        "title": "Media, 'raid Idf a Gaza, sterminata una famiglia di 4 persone'",
+        "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/25/media-raid-idf-a-gaza-sterminata-una-famiglia-di-4-persone_a7eb69f8-b27b-4d91-bec0-3a6e6a2e8cc9.html",
+        "source": "ANSA Mondo",
+        "pubDate": "2026-11-25T08:08:01.000Z",
+        "excerpt": "Ucciso funzionario sicurezza palestinese, la moglie e due figlie adolescenti",
+        "image": null
+      },
+      {
+        "title": "Gli insorti africani portano la guerra nei cieli con droni disponibili in commercio",
+        "link": "https://www.investing.com/news/commodities-news/african-insurgents-take-war-to-the-skies-with-offtheshelf-drones-5049785",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-25T07:00:32.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0D8_L.jpg"
+      },
+      {
+        "title": "L'esercito statunitense adotta misure per limitare la dispersione di polvere di piombo causata dall'esplosione di ordigni in Iowa",
+        "link": "https://www.investing.com/news/commodities-news/us-army-sets-out-measures-to-limit-lead-dust-from-iowa-explosives-blast-5048874",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-25T06:24:57.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1OX_L.jpg"
+      },
+      {
+        "title": "Goldman afferma che il boom dei data center statunitensi fino al 2028 aumenterà la domanda di energia elettrica e gas",
+        "link": "https://www.investing.com/news/commodities-news/goldman-says-us-data-center-boom-through-2028-will-lift-power-and-gas-demand-5049616",
+        "source": "Investing.com Commodities",
+        "pubDate": "2026-11-25T03:30:36.000Z",
+        "excerpt": "",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO08A_L.jpg"
       },
       {
         "title": "I prezzi del petrolio scendono poiché le preoccupazioni per l'eccesso di offerta compensano i timori di interruzioni in Medio Oriente",
@@ -422,30 +566,6 @@
         "pubDate": "2026-11-25T02:00:39.000Z",
         "excerpt": "",
         "image": "https://content-media.investing.com/news/LYNXNPEC1N0KH_M.jpg"
-      },
-      {
-        "title": "Il petrolio è in fase di stallo con l'aumento degli attacchi nello Stretto di Hormuz, l'eccesso di offerta e i deboli margini sui carburanti che pesano",
-        "link": "https://www.investing.com/news/commodities-news/oil-mixed-as-hormuz-attacks-mount-supply-surplus-and-weak-fuel-margins-weigh-5049487",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-25T01:26:05.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXMPEA6204A_M.jpg"
-      },
-      {
-        "title": "Messico, investimenti esteri diretti record oltre 43 miliardi di dollari",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/messico-investimenti-esteri-diretti-record-oltre-43-miliardi-di-dollari_b4eadfd7-b556-4c89-b8a3-aa28bc8e93da.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-25T01:18:35.000Z",
-        "excerpt": "Crescita del 5,3% nei primi nove mesi trainata da Stati Uniti e manifattura",
-        "image": null
-      },
-      {
-        "title": "Leon Panetta: “Dopo l’11 settembre Gianni ci aiutò a prevenire un patto tra i jihadisti e le mafie”",
-        "link": "https://www.repubblica.it/esteri/2026/11/25/news/intervista_leon_panetta_cia_gianni_de_gennaro_dopo_11_settembre_ci_aiuto_a_prevenire_patto_tra_jihadisti_e_mafie-425747555/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-25T00:00:00.000Z",
-        "excerpt": "L’ex capo della Cia e del Pentagono ricorda il collega De Gennaro: “Eravamo preoccupati per la sua sicurezza e lo proteggemmo”",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/214426155-7bd19f1a-d5ec-4e66-8813-89adcf21bb82.jpg"
       },
       {
         "title": "Putin signore della guerra in Africa, il traffico d’armi nel mirino di Kiev",
@@ -462,322 +582,202 @@
         "pubDate": "2026-11-25T00:00:00.000Z",
         "excerpt": "Tajani sente l’omologo ucraino dopo l’attacco alle due navi russe. Ritorsione del Pentagono. L’ira di Zelensky: “Si muovono in linea di Putin”",
         "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/222838056-b6d8d9dd-e4a1-4cd5-9427-c269ca3f5eb0.jpg"
-      },
-      {
-        "title": "La tentazione di Eisenkot, un blitz in parlamento per tagliare fuori Netanyahu",
-        "link": "https://www.repubblica.it/esteri/2026/11/25/news/israele_tentazione_di_eisenkot_blitz_in_parlamento_per_tagliare_fuori_netanyahu-425747625/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-25T00:00:00.000Z",
-        "excerpt": "Il premier incaricato valuta se presentarsi alla Knesset con un esecutivo snello che entri in carica grazie alle astensioni. E che governi in caso di nuove elezioni",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/220557990-01d97e89-23db-4aa8-80f9-edaa0e6d7177.jpg"
-      },
-      {
-        "title": "I timori di Palazzo Chigi: uno scenario da Mar Nero in mezzo al Mediterraneo",
-        "link": "https://www.repubblica.it/esteri/2026/11/25/news/timori_palazzo_chigi_scenario_mar_nero_in_mezzo_al_mediterraneo-425747510/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-25T00:00:00.000Z",
-        "excerpt": "L’Italia è l’alleato più critico nei confronti degli attacchi ucraini a Bengasi. E c’è il sospetto che il raid sia stato agevolato dal Regno Unito",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/212958246-5190c4b8-1af7-448c-8832-b3f607e11e02.jpg"
-      },
-      {
-        "title": "“Israele sarà un paria”: l’avvertimento americano su Cisgiordania e Gaza",
-        "link": "https://www.repubblica.it/esteri/2026/11/25/news/kusher_a_israele_rischiate_l_isolamento_pressioni_dell_occidente_su_cisgiordania_e_gaza-425747296/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-25T00:00:00.000Z",
-        "excerpt": "“Se va avanti così, il Paese verrà isolato dal mondo”. La strigliata di Kushner mette a nudo l’insofferenza crescente di Washington",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/201229045-f318cd09-36d8-4cc2-8a66-df618ccb547f.jpg"
-      },
-      {
-        "title": "Il padre di Meghan Markle incriminato per pedopornografia: rischia fino a 40 anni di prigione",
-        "link": "https://www.repubblica.it/esteri/2026/11/25/news/thomas_markle_incriminato_padre_meghan_prigione-425747904/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-24T23:48:36.000Z",
-        "excerpt": "Nei giorni scorso era stato arrestato in Florida: in due magazzini sono stati ritrovati filmati, giornali e libri illeciti",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/25/004831139-3777d2fa-b29d-4f27-941e-de4d226e4d1a.jpg"
-      },
-      {
-        "title": "L'esercito statunitense adotta misure per limitare la diffusione di polveri di piombo a seguito dell'esplosione di ordigni nell'Iowa",
-        "link": "https://www.investing.com/news/commodities-news/us-army-sets-out-measures-to-limit-lead-dust-from-iowa-explosives-blast-5048874",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-24T23:12:42.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1OX_L.jpg"
-      },
-      {
-        "title": "Abrego Garcia lascerà volontariamente gli Usa per evitare la deportazione",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/abrego-garcia-lascera-volontariamente-gli-usa-per-evitare-la-deportazione_133a8d7e-1a33-4672-828a-18dc0e6fc6e4.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-24T22:43:58.000Z",
-        "excerpt": "Il 31enne del Salvador è diventato il simbolo del pugno duro di Trump contro i migranti",
-        "image": null
-      },
-      {
-        "title": "Il petrolio sale sulla scia degli attacchi nello Stretto di Hormuz e della notizia secondo cui gli Stati Uniti avrebbero preso di mira i principali leader iraniani",
-        "link": "https://www.investing.com/news/commodities-news/oil-prices-steady-after-logging-deep-losses-on-supply-glut-fears-5046712",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-24T22:42:53.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEB66009_M.jpg"
-      },
-      {
-        "title": "L'oro scende dopo un forte rimbalzo con l'inflazione e le aspettative della Fed al centro dell'attenzione",
-        "link": "https://www.investing.com/news/commodities-news/gold-extends-rebound-as-nvidia-ceo-news-lifts-equities-dipbuying-lifts-bullion-5046835",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-24T22:22:45.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg"
-      },
-      {
-        "title": "Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_6e129a09-6c89-4d3f-ad68-f543043ac389.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-24T22:03:31.000Z",
-        "excerpt": "Freedom è stato 'perdonato', di Feathers non si hanno tracce ma amministrazione rassicura",
-        "image": null
-      },
-      {
-        "title": "Premier Haiti, 'l'accordo con El Salvador è per la sicurezza nazionale'",
-        "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/24/premier-haiti-laccordo-con-el-salvador-e-per-la-sicurezza-nazionale_140dffa9-9110-4dfa-bfc5-6663fd75383f.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-24T21:43:43.000Z",
-        "excerpt": "'Diritti umani non siano pretesto per ignorare il diritto alla protezione degli haitiani'",
-        "image": null
-      },
-      {
-        "title": "Wall Street chiude contrastata, Nvidia perde il 7%, giù Nasdaq e S500",
-        "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/wall-street-chiude-contrastata-nvidia-perde-il-7-giu-nasdaq-e-s500_4d32e880-2a39-4abd-9af6-634fd3d66a63.html",
-        "source": "ANSA Mondo",
-        "pubDate": "2026-11-24T21:11:08.000Z",
-        "excerpt": "Il Dow Jones sale dello 0,86%",
-        "image": null
-      },
-      {
-        "title": "I futures sulla soia salgono per la domanda di farina, il grano scende per i dati sui raccolti",
-        "link": "https://www.investing.com/news/commodities-news/soybean-futures-rise-on-meal-demand-wheat-slips-on-crop-data-93CH-5048986",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-24T20:58:57.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/news/LYNXNPEAAB0GI_M.jpg"
-      },
-      {
-        "title": "L'esercito afferma che la detonazione degli esplosivi al piombo in Iowa avrà luogo mercoledì",
-        "link": "https://www.investing.com/news/commodities-news/trump-orders-us-army-to-pause-leadazide-detonation-in-iowa-5046270",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-24T20:42:23.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM1IW_L.jpg"
-      },
-      {
-        "title": "Il prezzo del petrolio sale di 2 dollari mentre i trader valutano i continui attacchi alle navi nello Stretto di Hormuz",
-        "link": "https://www.investing.com/news/commodities-news/oil-holds-near-threemonth-low-as-rising-supply-offsets-hormuz-threat-5046916",
-        "source": "Investing.com Commodities",
-        "pubDate": "2026-11-24T20:00:28.000Z",
-        "excerpt": "",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN06H_L.jpg"
-      },
-      {
-        "title": "Francia, Sarkozy e Carla Bruni andranno a processo per il caso dei fondi libici",
-        "link": "https://www.repubblica.it/esteri/2026/11/24/news/francia_sarkozy_carla_bruni_rinviati_a_processo_caso_fondi_libici-425746829/?rss",
-        "source": "Repubblica Esteri",
-        "pubDate": "2026-11-24T16:05:28.000Z",
-        "excerpt": "La coppia sarà processata l’anno prossimo nell’ambito di un’inchiesta sui presunti tentativi di manipolare il faccendiere franco-libanese Ziad Takieddine, uno dei principali testimoni dell’accusa nello scandalo della cam",
-        "image": "https://www.repstatic.it/content/nazionale/img/2026/11/24/165430326-665c9bbc-5793-4e1a-bb4d-7bf014818634.jpg"
       }
     ]
   },
   "attualita": [
     {
-      "title": "L’ultimo sfogo di De Gennaro: “Colpite un uomo dello Stato”. Suicidio pianificato da giorni",
-      "link": "https://www.repubblica.it/cronaca/2026/11/25/news/ultimo_sfogo_de_gennaro_colpite_un_uomo_dello_stato_io_sempre_per_la_giustizia-425747816/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-25T00:00:00.000Z",
-      "excerpt": "Il Ris apre le lettere: quella ai familiari scritta forse già martedì. Sequestrate le pen drive della sua più stretta collaboratrice",
-      "image": null
-    },
-    {
-      "title": "De Gennaro nel 2012: “Matrice delle stragi non fu solo mafiosa”",
-      "link": "https://www.repubblica.it/politica/2026/11/25/news/de_gennaro_2012_matrice_stragi_non_fu_solo_mafiosa-425747753/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-25T00:00:00.000Z",
-      "excerpt": "In commissione citò la pista dell’eversione di destra. E, sull’Addaura, la massoneria. “Falcone diede importanza al filone appalti”",
-      "image": null
-    },
-    {
-      "title": "Mulè: “Con i verbali fatti trapelare nel ‘94 protesse Berlusconi”",
-      "link": "https://www.repubblica.it/politica/2026/11/25/news/giorgio_mule_forza_italia_de_gennaro_berlusconi_intervista-425747589/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-25T00:00:00.000Z",
-      "excerpt": "Il deputato forzista: “L’ex capo della polizia tutelò presidenti di destra e di sinistra ed è stato una fonte di molti giornalisti”",
-      "image": null
-    },
-    {
-      "title": "Padovani: “Negli anni ‘80 a Palermo regnava la mafia. Il maxiprocesso la decapitò”",
-      "link": "https://www.repubblica.it/politica/2026/11/25/news/marcelle_padovani_palermo_mafia_intervista-425747579/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-25T00:00:00.000Z",
-      "excerpt": "La giornalista amica di Falcone e De Gennaro ripercorre la città nelle mani dei clan: “Bastava una troupe in albergo ad allertare i boss”",
-      "image": null
-    },
-    {
-      "title": "Leon Panetta: “Dopo l’11 settembre Gianni ci aiutò a prevenire un patto tra i jihadisti e le mafie”",
-      "link": "https://www.repubblica.it/esteri/2026/11/25/news/intervista_leon_panetta_cia_gianni_de_gennaro_dopo_11_settembre_ci_aiuto_a_prevenire_patto_tra_jihadisti_e_mafie-425747555/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-25T00:00:00.000Z",
-      "excerpt": "L’ex capo della Cia e del Pentagono ricorda il collega De Gennaro: “Eravamo preoccupati per la sua sicurezza e lo proteggemmo”",
-      "image": null
-    },
-    {
-      "title": "L’economista Roach: “Il reintegro di Huang? Trump è nelle mani degli oligarchi di Big tech”",
-      "link": "https://www.repubblica.it/economia/2026/11/25/news/nvidia_reintegro_huang_intervista_roach_trump_oligarchi_big_tech-425747767/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-25T00:00:00.000Z",
-      "excerpt": "Intervista al docente di Yale, che spiega: “L’intelligenza artificiale è magnifica ma è irragionevole la scommessa da 10mila miliardi sui data center da costruire entro il 2032”",
-      "image": null
-    },
-    {
-      "title": "Manovra, da rifare la flat tax ai giovani. Sanità e previdenza al palo, accordo lontano sul condono",
-      "link": "https://www.repubblica.it/economia/2026/11/25/news/manovra_flat_tax_giovani_modifiche_emendamenti-425747707/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-25T00:00:00.000Z",
-      "excerpt": "Oggi nuovo confronto tra i leader della maggioranza, ripescati 100 emendamenti",
-      "image": null
-    },
-    {
-      "title": "Ue, Dombrovskis all’Italia: “Pericoloso chiedere altra flessibilità. L’inflazione non si ferma così”",
-      "link": "https://www.repubblica.it/economia/2026/11/25/news/valdis_dombrovskis_intervista_pericoloso_chiedere_flessibilita_inflazione_conti-425747716/",
-      "source": "Repubblica",
-      "pubDate": "2026-11-25T00:00:00.000Z",
-      "excerpt": "Il commissario fa appello alla prudenza e invita ad affrontare sfide che vanno dall’istruzione al declino demografico. L’intervista",
-      "image": null
-    },
-    {
-      "title": "Antimafia divisa, forse il testamento di De Gennaro in commissione ",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/antimafia-divisa-forse-il-testamento-di-de-gennaro-in-commissione-_f547b6cf-2afa-4335-8e33-c8cb26ef8d53.html",
+      "title": "Israele, Change bloc punta a insediare un nuovo governo mercoledì prossimo",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/25/israele-change-bloc-punta-a-insediare-un-nuovo-governo-mercoledi-prossimo_d382b6df-0b01-413e-94f9-859e88c479f3.html",
       "source": "ANSA",
-      "pubDate": "2026-11-24T21:44:32.000Z",
-      "excerpt": "L'opposizione: 'Si vedano le lettere e si ascolti Melillo'. Il centrodestra: 'Avanti su mafia e appalti'",
+      "pubDate": "2026-11-25T11:33:30.000Z",
+      "excerpt": "'Liberman, ci sarà un governo di maggioranza ebraica'",
       "image": null
     },
     {
-      "title": "Riammesso l'emendamento FdI su exit tax. Pressing di Salvini sul condono",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/24/pressing-di-salvini-sul-condono.-alt-dei-sindaci-non-ricada-tutto_afb633f3-0b1a-4acd-8a7c-858433efc830.html",
+      "title": "Mattarella: 'Uscire dalla violenza è possibile, non dipende solo dal coraggio di una donna'",
+      "link": "https://www.ansa.it/sito/notizie/speciali/25-novembre/2026/11/25/mattarella-uscire-da-violenza-e-possibile-non-dipende-solo-dal-coraggio-di-una_41fb8ea3-bf35-4d18-b6f2-6281126d08a1.html",
       "source": "ANSA",
-      "pubDate": "2026-11-24T21:35:11.000Z",
-      "excerpt": "Meloni vede i comuni e apre sul fondo affitti. Si tratta con il Mef su flat tax giovani",
+      "pubDate": "2026-11-25T11:02:44.000Z",
+      "excerpt": "Messaggio per la Giornata internazionale per l'eliminazione della violenza contro le donne: 'Le istituzioni garantiscano protezione, accompagnamento, giustizia. Si promuova l'educazione'. Meloni: 'Nessuna vittima resti s",
       "image": null
     },
     {
-      "title": "Jensen Huang chiede scusa e annuncia: 'Sto andando in terapia'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/24/trump-nella-bufera-per-nvidia-ombre-di-insider-trading_74b46bf0-83fd-4c6e-8f4c-7b8b9842fa26.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-24T21:12:27.000Z",
-      "excerpt": "Trump nella bufera per Nvidia, 'ombre di insider trading'. 'Ha guadagnato fino a 15 milioni'. Accuse bipartisan, per Hillary Clinton un 'Supergate'",
+      "title": "Femminicidi, i numeri che non coincidono e la violenza che resta sommersa",
+      "link": "https://www.repubblica.it/cronaca/2026/11/25/news/femminicidi_i_numeri_che_non_coincidono_e_la_violenza_che_resta_sommersa-425748788/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-25T10:44:44.000Z",
+      "excerpt": "Il divario tra i dati del Viminale e quelli di Non una di meno riapre il tema di come si contano le vittime. E nelle coppie quasi tre donne su dieci che subiscono violenza non ne hanno mai parlato",
       "image": null
     },
     {
-      "title": "Standing ovation per John Travolta al Tff: 'Mi avete permesso di volare in alto'",
-      "link": "https://www.ansa.it/sito/notizie/cultura/2026/11/24/standing-ovation-per-john-travolta-al-tff-mi-avete-permesso-di-volare-in-alto_caf27fd6-7f31-48e9-8f43-3c265e5ca18f.html",
+      "title": "Le lettere di De Gennaro: 'L'hard disk non ve l'ho dato perché non avreste capito niente'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/le-lettere-di-de-gennaro-lhard-disk-non-ve-lho-dato-perche-non-avreste_990dcfdb-4804-4496-9613-4036357dd514.html",
       "source": "ANSA",
-      "pubDate": "2026-11-24T19:30:34.000Z",
-      "excerpt": "La star premiata con la Stella della Mole",
+      "pubDate": "2026-11-25T10:10:44.000Z",
+      "excerpt": "Alcuni degli scritti lasciati sarebbero datati 17 novembre: 'Sono un uomo dello Stato'",
       "image": null
     },
     {
-      "title": "Che cosa è la sindrome della bandelletta ileotibiale che ha colpito Sinner",
-      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/che-cosa-e-la-sindrome-della-bandelletta-ileotibiale-che-ha-colpito-sinner_3b7bc93c-09ea-4ded-a5d7-ab22f8584d8a.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-24T15:18:27.000Z",
-      "excerpt": "Detta anche 'ginocchio del corridore', è un sovraccarico della fascia lungo il lato esterno della coscia",
+      "title": "Guardiola: “Mi sono vergognato a dire no all’Italia”",
+      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/11/25/news/guardiola_nazionale_italia_rifiuto_perche-425748552/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-25T09:16:57.000Z",
+      "excerpt": "Il tecnico catalano spiega perché ha rifiutato la proposta di Maldini e Leonardo",
       "image": null
     },
     {
-      "title": "Melania Trump accoglie l'albero di Natale della Casa Bianca",
-      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/11/24/melania-trump-accoglie-lalbero-di-natale-della-casa-bianca_ee2eaba3-2d66-4529-b683-e4bcc511abc9.html",
-      "source": "ANSA",
-      "pubDate": "2026-11-24T14:35:45.000Z",
-      "excerpt": "Verrà addobbato ed esposto nella \"Blue Room\"",
+      "title": "Violenza sulle donne, Mattarella: “Uscirne è possibile”. Meloni: “Nessuna vittima resti sola”",
+      "link": "https://www.repubblica.it/politica/2026/11/25/news/violenza_sulle_donne_mattarella_meloni-425748497/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-25T09:00:39.000Z",
+      "excerpt": "I messaggi della politica nella Giornata internazionale istituita dall’Onu",
       "image": null
     },
     {
-      "title": "Clip esclusiva di Lorenzo - L'incredibile Avventura Di Jovanotti, in arrivo nelle sale il 26 novembre",
-      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/11/24/clip-esclusiva-di-lorenzo-lincredibile-avventura-di-jovanotti-in-arrivo-nelle-sale-il-26-novembre_65c16e21-6224-4065-a663-1a53508bddc5.html",
+      "title": "BANCOMAT Coin sarà il nome della stablecoin di sistema in euro",
+      "link": "https://www.ansa.it/native/ansacom/2026/11/25/bancomat-coin-sara-il-nome-della-stablecoin-di-sistema-in-euro_86ad3ed9-bbc1-4e5a-9513-a4688f8285d0.html",
       "source": "ANSA",
-      "pubDate": "2026-11-24T14:33:33.000Z",
+      "pubDate": "2026-11-25T08:18:10.000Z",
       "excerpt": "",
       "image": null
     },
     {
-      "title": "L'approfondimento ANSA sull'accordo UE-Mercosur",
-      "link": "https://www.ansa.it/native/ansacom/2026/11/24/lapprofondimento-ansa-sullaccordo-ue-mercosur_4ad9ef5f-511d-4551-98f1-44ad92aa593f.html",
+      "title": "Una donna su 3 non conosce la tecnica dell'autopalpazione mammaria",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/11/24/una-donna-su-3-non-conosce-la-tecnica-dellautopalpazione-mammaria_2a87d840-f0dc-4735-b761-8916bb60e9d8.html",
       "source": "ANSA",
-      "pubDate": "2026-11-24T07:55:55.000Z",
-      "excerpt": "Iscriviti ora per ricevere la newsletter oggi",
+      "pubDate": "2026-11-25T07:56:48.000Z",
+      "excerpt": "I risultati del progetto 'Prevenzione è salute', rischio cardiovascolare per 1 su 2",
+      "image": null
+    },
+    {
+      "title": "Contorno trasferito per motivi di sicurezza, il suo legale: “Non mi risulta”. Il Viminale valuta di reinserirlo nel programma di protezione",
+      "link": "https://www.repubblica.it/cronaca/2026/11/25/news/de_gennaro_contorno_tuscia-425748087/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-25T07:10:27.000Z",
+      "excerpt": "A riferirlo il cugino Gaetano Grado, anche lui ex collaboratore di giustizia. Testimone nell'inchiesta in cui era indagato Gianni De Gennaro, ha visto rivelato il suo indirizzo nelle carte della Procura di Caltanissetta ",
+      "image": null
+    },
+    {
+      "title": "Pensioni, la stretta si mangia fino al 62% degli aumenti. Ecco chi perde e quanto",
+      "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/25/news/pensioni_aumenti_tagliati_quanto_si_perde-425748249/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-25T07:00:00.000Z",
+      "excerpt": "Con l’inflazione al 3,2% assegni più alti per tutti, ma il ritorno alle sei fasce penalizza chi supera 2.447 euro lordi al mese. Fino a 1.545 euro persi in un anno. Il taglio Irpef compensa solo in parte",
+      "image": null
+    },
+    {
+      "title": "Da Star Trek a Gattaca, i futuri possibili per IA e robot nel 2050 ",
+      "link": "https://www.ansa.it/canale_scienza/notizie/futuri_digitali/2026/11/25/da-star-trek-a-gattaca-i-futuri-possibili-per-ia-e-robot-nel-2050_71676771-0d10-4e35-927c-6c8fc5aacf72.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-25T06:27:36.000Z",
+      "excerpt": "Illustrati nel nuovo rapporto Future Brief di Istituto Italiano di Tecnologia e Isinnova",
+      "image": null
+    },
+    {
+      "title": "Tra i lettori alla mostra per i 50 anni di Repubblica: “Libera, aperta e democratica”",
+      "link": "https://milano.repubblica.it/cronaca/2026/11/25/news/lettori_visita_mostra_50_anni_repubblica_milano_racconto_ricordi-425747711/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-25T05:30:00.000Z",
+      "excerpt": "I ricordi e le emozioni dei visitatori dell’esposizione: “Sfogliai il primo numero grazie al nonno. È il quotidiano di famiglia”",
+      "image": null
+    },
+    {
+      "title": "La madre della donna uccisa in autostrada: “L’assassinio di Lorena, un incubo che non finisce”",
+      "link": "https://firenze.repubblica.it/cronaca/2026/11/25/news/mamma_lorena_isceri_violenza_donne_femminicidio-425747366/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-25T05:00:00.000Z",
+      "excerpt": "A settembre la figlia sequestrata e gettata da un viadotto dall’ex compagno. La mamma: “In suo nome lavoriamo per diffondere una cultura del rispetto verso gli altri che manca”",
+      "image": null
+    },
+    {
+      "title": "Bonifici istantanei, troppe truffe. Le banche: \"Necessario renderli più sicuri\". Come difendersi",
+      "link": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/11/25/news/truffa_bonifico_istantaneo_sicurezza_come_difendersi-425747381/",
+      "source": "Repubblica",
+      "pubDate": "2026-11-25T04:00:00.000Z",
+      "excerpt": "I criminali stanno sfruttando tantissimo i bonifici istantanei per le truffe, nell'ordine di 80 milioni di euro l'anno, tanto che il presidente dell'Abi (associazione bancaria italiana), Antonio Patuelli, ha chiesto ora ",
+      "image": null
+    },
+    {
+      "title": "Sensing the Future, al Maxxi le opere futuriste 'semi gettati nel futuro'",
+      "link": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/11/24/sensing-the-future-al-maxxi-le-opere-futuriste-semi-gettati-nel-futuro_bda6990a-9455-41d6-b00f-fbec97ddefa6.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-24T16:49:23.000Z",
+      "excerpt": "Simongini, mostra sperimentale che parte dal sogno di portare i futuristi nel loro futuro",
+      "image": null
+    },
+    {
+      "title": "Mondiali parasurfing, in California azzurri conquistano 4 medaglie",
+      "link": "https://www.ansa.it/responsabilmente/notizie/oltre_il_traguardo/2026/11/24/mondiali-parasurfing-in-california-azzurri-conquistano-4-medaglie_df694e7a-25e1-4967-87c9-3f33f8f1b8b1.html",
+      "source": "ANSA",
+      "pubDate": "2026-11-24T15:38:08.000Z",
+      "excerpt": "Settimo posto di squadra per il team della Fissw assieme a un oro, un argento e due bronzi",
       "image": null
     }
   ],
   "sport": [
     {
-      "title": "Allegri: \"partita importante, punto utile per la qualificazione\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/24/allegri-partita-importante-punto-utile-per-la-qualificazione_f57f4d94-40ec-448f-a491-9215cef72fa6.html",
+      "title": "Basket: domani Italia-Turchia a Roma, Banchi 'presenza Mattarella una spinta in più'",
+      "link": "https://www.ansa.it/sito/notizie/sport/basket/2026/11/25/basket-domani-italia-turchia-a-roma-banchi-presenza-mattarella-una-spinta_4504c1af-9519-412b-a2e9-b333a566cfed.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-24T22:28:53.000Z",
-      "excerpt": "Il tecnico del Napoli: \"Futuro De Bruyne? Credo che rimarrà fino a giugno\"",
+      "pubDate": "2026-11-25T11:44:54.000Z",
+      "excerpt": "Ct azzurro: \"Vogliamo onorare impegno, mio doppio ruolo non cambia nulla\"\"",
       "image": null
     },
     {
-      "title": "Impresa Napoli in Champions, ferma il City e sfiora la vittoria",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/24/impresa-napoli-in-champions-ferma-il-city-e-sfiora-la-vittoria_1e5fe97c-b6f3-441c-a543-b404bd1ce557.html",
+      "title": "Tennis: Sinner rientrato a Bolzano. Chirurgo: 'Obiettivo è pieno recupero ad altissimi livelli' ",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/jannik-sinner-rientrato-a-bolzano-ad-attenderlo-il-fratello-mark_a962eaea-8e98-4314-b94c-5e117fcd9658.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-24T22:20:19.000Z",
-      "excerpt": "Due volte in vantaggio con Hojlund e Lang, azzurri raggiunti nel finale da Cherki: e' 2-2",
+      "pubDate": "2026-11-25T11:23:14.000Z",
+      "excerpt": "Lempainen: 'Intervento perfettamente riuscito, ora focus sulla riabilitazione'",
       "image": null
     },
     {
-      "title": "Champions: Napoli prova di carattere a Manchester, e' 2-2 col City",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/24/champions-napoli-prova-di-carattere-a-manchester-e-2-2-col-city_6a7a8c81-33b9-41c6-a1d8-3ebd2c3af353.html",
+      "title": "Europa League: Juve in campo verso l'Omonia, Alajbegovic in gruppo",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/europa-league-juve-in-campo-verso-lomonia-alajbegovic-in-gruppo_cb9c81b7-a2f3-4183-98e9-a3d1491cbfaa.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-24T22:04:34.000Z",
-      "excerpt": "Due volte in vantaggio con Hojlund e Lang, due volte raggiunto",
+      "pubDate": "2026-11-25T11:13:41.000Z",
+      "excerpt": "Il bosniaco ha iniziato la partitella con compagni, out Kalulu e Nico",
       "image": null
     },
     {
-      "title": "Champions: Como-AEK Atene 1-0",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/24/champions-como-aek-atene-1-0_6cd0a7be-45b0-49f9-9335-a4c18ac220b4.html",
+      "title": "Calcio: Guardiola, \"che vergona dire no all'Italia\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/25/calcio-guardiola-che-vergona-dire-no-allitalia_acd79220-8669-42d6-b6e3-ed66c4ee7a84.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-24T21:56:38.000Z",
-      "excerpt": "",
+      "pubDate": "2026-11-25T10:21:08.000Z",
+      "excerpt": "L'allenatore intervistato da Romario, \"Grande onore ma dovevo fermarmi\"",
       "image": null
     },
     {
-      "title": "Sinner festeggia in Finlandia compleanno padre, \"grazie per essere qui con me\" +RPT+",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/24/sinner-festeggia-in-finlandia-compleanno-padre-grazie-per-essere-qui-con_bd5e9237-d7e9-438d-a61b-edc65662267f.html",
+      "title": "Tennis: Rinderknech respinge le accuse, \"mai assunto sostanze dopanti\"",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/tennis-rinderknech-respinge-le-accuse-mai-assunto-sostanze-dopanti_3c158373-5d3d-47e9-9f24-fef593142372.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-24T20:58:58.000Z",
-      "excerpt": "Tennista posta su X foto con suo staff e medici che lo hanno accompagnato",
+      "pubDate": "2026-11-25T10:18:33.000Z",
+      "excerpt": "Sotto indagine dell'Itia per aver saltato un test a sorpresa",
       "image": null
     },
     {
-      "title": "Champions: Como; Suwarso 'non abbiamo soldi per gennaio, non arriva attaccante'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/24/champions-como-suwarso-non-abbiamo-soldi-per-gennaio-non-arriva_ae9fb4d2-8837-4e5e-b691-4e8fba02f362.html",
+      "title": "Sinner: chirurgo Lempainen, 'obiettivo è pieno recupero ad altissimi livelli'",
+      "link": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/25/sinner-chirurgo-lempainen-obiettivo-e-pieno-recupero-ad-altissimi-livelli_6a10ea57-1910-4d5d-ba89-8157fdf87fee.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-24T19:58:35.000Z",
-      "excerpt": "Presidente del club: \"Prestiti? Se ci sono opportunità, staremo attenti\"",
+      "pubDate": "2026-11-25T10:14:55.000Z",
+      "excerpt": "'Intervento perfettamente riuscito, ora focus sulla riabilitazione'",
       "image": null
     },
     {
-      "title": "Sinner festeggia in Finlandia complimento del padre, \"grazie per essere qui con me\"",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/24/sinner-festeggia-in-finlandia-complimento-del-padre-grazie-per-essere-qui_aa03f6dc-10d6-49a5-9871-dada2ac0c1c4.html",
+      "title": "Champions League: Inter-Stoccarda in campo alle 21 ",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/11/25/champions-league-inter-stoccarda-in-campo-alle-21-_18785d3c-d5c8-4d4f-8324-b974fac1568b.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-24T19:55:26.000Z",
-      "excerpt": "Tennista posta su X foto con suo staff e medici che lo hanno accompagnato",
+      "pubDate": "2026-11-25T09:35:02.000Z",
+      "excerpt": "Barella: 'Non ammetto disfattismi'. Ma serve vincere contro lo Stoccarda",
       "image": null
     },
     {
-      "title": "Calcio: Dybala 'spero di chiudere la carriera a Roma'",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/24/calcio-dybala-spero-di-chiudere-la-carriera-a-roma_ea019902-e7be-427e-8126-ec483ca6022f.html",
+      "title": "Giornalisti: morto Luca Bartolini, colonna Aci Sport e automobilismo sportivo italiano",
+      "link": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/11/25/giornalisti-morto-luca-bartolini-colonna-aci-sport-e-automobilismo-sportivo-italiano_2aba5670-6a2a-4065-b68b-364235118d42.html",
       "source": "ANSA Sport",
-      "pubDate": "2026-11-24T19:37:58.000Z",
-      "excerpt": "Attaccante giallorosso: \"Presto per dire se possiamo vincere, ma siamo squadra forte\"",
+      "pubDate": "2026-11-25T08:42:09.000Z",
+      "excerpt": "Aveva 70 anni, lottava da tempo contro diversi problemi di salute",
       "image": null
     }
   ]
